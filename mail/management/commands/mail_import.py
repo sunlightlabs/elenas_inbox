@@ -37,17 +37,19 @@ class Command(NoArgsCommand):
         self._make_boxes()
         FILES = ('../pdf/KAGAN-ARMS SENT Boxes 01-10.txt', '../pdf/KAGAN-ARMS SENT Boxes 11-16.txt')
 
-        re_record_start = re.compile(r'\s*RECORD\sTYPE:')
+        re_page_end = re.compile(r'\x0c')
+        re_record_start = re.compile(r'.?\s*RECORD\sTYPE:')
+        re_record_end = re.compile(r'(^.?\s*http://[\]\[\|\(\)lI1]72\.|/servlet/getEmaiIArchive)')
         for filename in FILES:
             buf = []
             blank_count = 0
             collecting = False
             f = open(filename, 'r')
             while True:
-                line = f.read()
+                line = f.readline()
                 if not line:
                     break
-        
+                            
                 if re_record_start.match(line) is not None:
                     collecting = True
         
@@ -60,14 +62,17 @@ class Command(NoArgsCommand):
                 else:
                     blank_count = 0
                 
-                if collecting and blank_count>=3:
+
+                if collecting and ((blank_count>=3) or (re_record_end.search(line) is not None) or (re_page_end.search(line) is not None)):
                     if len(buf)>0:
-                        Email.objects.parse_text(buf)
+                        Email.objects.parse_text(filename, buf)
                     buf = []
                     blank_count = 0
                     collecting = False
                                 
             f.close()
+        
+        print Email.objects.count
                 
             
                 
