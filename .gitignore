@@ -1,0 +1,4 @@
+*.pyc
+feedinator
+haystack
+local_settings.py
