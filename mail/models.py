@@ -40,11 +40,15 @@ class Thread(models.Model):
     
 class EmailManager(models.Manager):
     def __init__(self):
+        self.count = 0 # target might = 4777
         super(EmailManager, self).__init__()
 
-    def parse_email_text(self, text):
-        
-        pass
+    def parse_text(self, filename, lines):
+        self.count += 1
+
+        f = open('parsed/%d.txt' % self.count, 'w')
+        f.write("".join(lines))
+        f.close()
         
 
 class Email(models.Model):
