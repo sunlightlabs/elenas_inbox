@@ -10,10 +10,10 @@ class Box(models.Model):
         
     class Meta:
         verbose_name = 'Email Box'
-        ordering = 'number'
+        ordering = ['number']
     
-    name = models.CharField("Name", max_length_255)
-    number = models.IntegerField("Number", max_digits=3)
+    name = models.CharField("Name", max_length=255)
+    number = models.IntegerField("Number")
 
 
 class Person(models.Model):
@@ -34,7 +34,7 @@ class Thread(models.Model):
         
     class Meta:
         verbose_name = "Email Thread"
-        ordering = 'name'
+        ordering = ['name']
     
     name = models.CharField("Name", max_length=255)
     
@@ -58,12 +58,12 @@ class Email(models.Model):
         
     box = models.ForeignKey(Box)
     record_type = models.CharField("Record Type", max_length=200, default='', blank=True)
-    creator = models.ForeignKey(Person)
-    creation_date_time = models.DateTime("Creation Date/Time", db_index=True)
+    creator = models.ForeignKey(Person, related_name='creators')
+    creation_date_time = models.DateTimeField("Creation Date/Time", db_index=True)
     subject = models.CharField("Subject", max_length=255)
-    to = models.ManyToManyField(Person)
-    cc = models.ManyToManyField(Person, null=True)
-    bcc = models.ManyToManyField(Person, null=True)
+    to = models.ManyToManyField(Person, related_name='to')
+    cc = models.ManyToManyField(Person, null=True, related_name='cc')
+    bcc = models.ManyToManyField(Person, null=True, related_name='bcc')
     read_date_time = models.DateTimeField("Read Date/Time")
     text = models.TextField('Text', default='', blank=True)
     attachment = models.TextField('Attachment', default='', blank=True)
