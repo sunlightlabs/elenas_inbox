@@ -35,11 +35,11 @@ class Command(NoArgsCommand):
 
     def handle_noargs(self, **options):
         self._make_boxes()
-        FILES = ('../pdf/KAGAN-ARMS SENT Boxes 01-10.txt', '../pdf/KAGAN-ARMS SENT Boxes 11-16.txt')
-
-        re_page_end = re.compile(r'\x0c')
+        # FILES = ('../pdf/KAGAN-ARMS SENT Boxes 01-10.txt', '../pdf/KAGAN-ARMS SENT Boxes 11-16.txt')
+        FILES = ('../pdf/combined.txt',)
+        
         re_record_start = re.compile(r'.?\s*RECORD\sTYPE:')
-        re_record_end = re.compile(r'(^.?\s*http://[\]\[\|\(\)lI1]72\.|/servlet/getEmaiIArchive)')
+        re_record_end = re.compile(r'(^.?\s*http://[\]\[\|\(\)lI1]72\.|/servlet/getEmaiIArchive|\x0c)')
         for filename in FILES:
             buf = []
             blank_count = 0
@@ -63,7 +63,7 @@ class Command(NoArgsCommand):
                     blank_count = 0
                 
 
-                if collecting and ((blank_count>=3) or (re_record_end.search(line) is not None) or (re_page_end.search(line) is not None)):
+                if collecting and ((blank_count>=3) or (re_record_end.search(line) is not None)):
                     if len(buf)>0:
                         Email.objects.parse_text(filename, buf)
                     buf = []
@@ -72,7 +72,7 @@ class Command(NoArgsCommand):
                                 
             f.close()
         
-        print Email.objects.count
-                
+        print "Found %d mail objects" % Email.objects.count
+        print "No matches on %d names" % Email.objects.failure
             
                 
