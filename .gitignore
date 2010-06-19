@@ -2,3 +2,4 @@
 feedinator
 haystack
 local_settings.py
+*.sqlite3
