@@ -26,9 +26,9 @@ class Person(models.Model):
         verbose_name = 'Person'
         ordering = ['-name']
     
-    name = models.CharField("Name", max_length=255)
-    name_hash = models.CharField("Name", max_length=255)    
-    alias = models.CharField("Alias", max_length=255)
+    name = models.CharField("Name", max_length=255, blank=True, default='')
+    name_hash = models.CharField("Name", max_length=255, blank=True, default='')    
+    alias = models.CharField("Alias", max_length=255, blank=True, default='')
 
 class Thread(models.Model):
     """ An email thread """
@@ -54,12 +54,13 @@ class EmailManager(models.Manager):
         self.failure = 0
         
         name_chars = r''
+        self.re_gremlins = re.compile(r'[\xb7\xab\xa2\xbb\xa3\xae\xa5]')
         self.re_non_alpha = re.compile(r'[^A-Z]')
         self.re_re = re.compile(r'[^\s]re\:?', re.I)
         self.re_to = {
             'detector': r'^.?\s*_XX_:',
             'first': r'([\w\s\.\'\-]+)\s+\(?\s*[cC]N[\~;:=]([\w\s\.\'\-]+[=\/])',
-            'second': r'^.?\s*_XX_:\s+([A-Za-z_\s\.\'\-]+)\s{3,}'),
+            'second': r'^.?\s*_XX_:\s+([A-Za-z_\s\.\'\-]+)\s{3,}',
             'third': r'^.?\s*_XX_:\s+([A-Za-z_\s\.\'\-]+)\s+\(',
             'fourth': r'^.?\s*_XX_:\s+([A-Za-z_\s\.\'\-]+)',
             'alias_ats': r'^.?\s*_XX_:\s+([A-Z_\s]+)\s+\([\w\@]',   
@@ -122,21 +123,33 @@ class EmailManager(models.Manager):
                         if m is not None:
                             alias = m.group(1).strip()
               
-         # TODO: return person
+        p = None
         if name:
             m = self.re_to['combo'].search(name)
             if m is not None:
                 name = m.group(1).strip()
                 alias = m.group(2).strip()
-            print "Detected name: '%s' (%s)" % (self._make_name_hash(name), line_s)
+        
+            (p, created) = Person.objects.get_or_create(name=name, defaults={'alias': (alias is not None) and alias or '', 'name_hash': self._make_name_hash(name)})
+            if (not created) and len(p.alias)==0 and alias:
+                p.alias = alias
+                p.save()
+            
+            return p
+            
         elif alias:
-            pass
-            print "Detected alias: '%s' (%s)" % (alias, line_s)
+            try:
+                (p, created) = Person.objects.get_or_create(alias=alias)
+            except Person.MultipleObjectsReturned, e:
+                p = Person.objects.filter(alias=alias)[0]
+            return p
+            
         else:
-            # print "Found no name for line:\n%s" % line.strip()
+            return None
             self.failure += 1
                         
-                
+    def _zap_gremlins(self, t):
+        return self.re_gremlins.sub("", t)
             
     def parse_text(self, filename, lines, store=False):
         self.count += 1
@@ -154,20 +167,24 @@ class EmailManager(models.Manager):
         collecting_attachment = False
         
         E = Email()
-        E.to = []
-        E.cc = []
-        E.source = "".join(lines)
+        E_to = []
+        E_cc = []
+        E.source = unicode(self._zap_gremlins("".join(lines)), 'utf-8')
         
         for line in lines:
 
             # to
             if (not found_to) and (self.re_to['detector'].search(line) is not None):
-                E.to.append(self._extract_person(line))
-                found_to = True
+                p = self._extract_person(line)
+                if p is not None:
+                    E_to.append(p)
+                    found_to = True
 
             # cc
             if self.re_cc['detector'].search(line) is not None:
-                E.cc.append(self._extract_person(line))
+                p = self._extract_person(line)
+                if p is not None:
+                    E_cc.append(p)
 
             # creation date/time
             m = self.re_creation_date.search(line)
@@ -181,12 +198,12 @@ class EmailManager(models.Manager):
             # subject
             m = self.re_subject.search(line)
             if (not found_subject) and (m is not None):
-                E.subject = m.group(1).strip()
+                E.subject = unicode(self._zap_gremlins(m.group(1).strip()), 'utf-8')
                 E.subject_hash = self._make_subject_hash(E.subject)
                 found_subject = True
             
             # text
-            if line.strip()=="TEXT:"
+            if line.strip()=="TEXT:":
                 collecting_text = True
                 found_text = True
             
@@ -195,20 +212,43 @@ class EmailManager(models.Manager):
             if m is not None:
                 collecting_text = False
                 collecting_attachment = True
-                E.text += m.group(1)
+                E.text += unicode(self._zap_gremlins(m.group(1)), 'utf-8')
             
             # end of attachment    
             if self.re_attachment_end.search(line) is not None:
                 collecting_attachment = False
                 
-            if collecting_text:
-                E.text += line
+            if collecting_text:                
+                E.text += unicode(self._zap_gremlins(line), 'utf-8')
                 
             if collecting_attachment:
-                E.attachment += line
+                E.attachment += unicode(self._zap_gremlins(line), 'utf-8')
+                
+                
+        if found_to and found_subject and found_text and found_date:            
+            E.subject = E.subject.strip()
+            E.text = E.text.strip()
+            E.attachment = E.attachment.strip()
             
-        if found_to and found_subject and found_text and found_date:
+            try:
+                E.save()
+            except Exception, e:                
+                print str(E.source)
+                raise e
+
+            E.to = E_to
+            E.cc = E_cc
             E.save()
+            self.success += 1
+            print self.success
+        else:
+            f = open('parsed/failures/%d.txt' % self.count, 'w')
+            f.write("found_to: %s\n", str(found_to))
+            f.write("found_subject: %s\n", str(found_subject))
+            f.write("found_text: %s\n", str(found_text))
+            f.write("found_date: %s\n\n", str(found_date))
+            f.write(E.source)
+            f.close()
         
 
 class Email(models.Model):
@@ -220,9 +260,9 @@ class Email(models.Model):
         verbose_name = 'Email'
         ordering = ['-creation_date_time']
         
-    box = models.ForeignKey(Box, blank=True)
+    box = models.ForeignKey(Box, blank=True, null=True)
     record_type = models.CharField("Record Type", max_length=200, default='', blank=True)
-    creator = models.ForeignKey(Person, related_name='creators', blank=True)
+    creator = models.ForeignKey(Person, related_name='creators', blank=True, null=True)
     creation_date_time = models.DateTimeField("Creation Date/Time", db_index=True, blank=True, null=True)
     subject = models.CharField("Subject", max_length=255, default='', blank=True)
     subject_hash = models.CharField("Subject", max_length=255, default='', blank=True)
@@ -232,8 +272,8 @@ class Email(models.Model):
     attachment = models.TextField('Attachment', default='', blank=True)
     source = models.TextField('Source', default='', blank=True)
 
-    email_thread = models.ForeignKey('Thread')
-    in_reply_to = models.ForeignKey('Email')
+    email_thread = models.ForeignKey('Thread', null=True, blank=True)
+    in_reply_to = models.ForeignKey('Email', null=True, blank=True)
 
     objects = EmailManager()
 
