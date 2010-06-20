@@ -4,3 +4,4 @@ haystack
 local_settings.py
 *.sqlite3
 parsed
+whoosh/*
