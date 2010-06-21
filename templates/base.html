@@ -1,10 +1,12 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+{% load media %}<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head profile="http://gmpg.org/xfn/11">
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
   <title>Elena's Inbox | A Project of the Sunlight Foundation</title>
-  <link rel="stylesheet" href="/media/style.css" type="text/css" media="screen" />
-  <link rel="shortcut icon" href="/media/images/favicon.png"/>
+  <link rel="stylesheet" href="{% media_url %}/style.css" type="text/css" media="screen" />
+  <link rel="shortcut icon" href="{% media_url %}/images/favicon.png"/>
+  <script type="text/javascript" src="http://code.jquery.com/jquery-1.4.2.min.js"></script>
+  <script type="text/javascript" src="{% media_url %}/scripts/jquery.cookie.js"></script>
 </head>
 
 <body>
@@ -44,15 +46,20 @@
         <li><a href="/" class="current">Sent Mail</a></li>
         <li class="disabled">Drafts</li>
         <li class="disabled">All Mail</li>
-        <li><a href="/starred/">Starred (all)</a></li>
-        <li><a href="/starred/">Starred (by you)</a></li>        
+        {# <li><a href="/starred/">Starred (all)</a></li> #}
+        {# <li><a href="/starred/">Starred (by you)</a></li>         #}
       </ul>
     </div>
 
-  	<h2>Archives</h2>
+  	<h2>Sample Searches</h2>
   	<ul>
-  	  <li>Sample 1</li>
-  	  <li>Sample 2</li>
+  	  <li>"Brady checks"</li>
+  	  <li>firestorm</li>
+  	  <li>"making the President look like a liar"</li>
+  	  <li>"pervasively sectarian"</li>
+  	  <li>spellcheck</li>
+  	  <li>unbelievable</li>
+  	  <li>"don't volunteer us for the"</li>
   	</ul>
 			
   </div>

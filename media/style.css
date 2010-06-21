@@ -369,6 +369,7 @@ a:hover {
 
 table#mail-index { border-collapse: collapse; margin-left: 4px; width: 100%; border-bottom: 3px solid #e1e1e1;}
 table#mail-index tr td { margin: 0; height: 21px; border-top: 1px solid #e1e1e1; background-color: #fefefe; vertical-align: top;}
+table#mail-index tr.unread td { font-weight: bold;}
 table#mail-index tr td a { display: block; }
 table#mail-index tr td.star { width: 20px;}
 table#mail-index tr td.name { width: 200px; padding: 0 10px 0 5px; text-align: left;}
@@ -395,3 +396,11 @@ div.star.on { background-position: 0px -16px;}
     width:750px;   
      
 }
+
+#sidebar h2 { 
+    background: url("images/side_title_noplus.png") no-repeat scroll center center #FFFFFF;
+    width: 190px;
+    padding-left: 10px;
+    position:relative;
+}
+

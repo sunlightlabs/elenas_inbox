@@ -6,7 +6,7 @@
 
   <div class="entry_body_top"></div>
   <div class="entry_body" id="email-{{ email.id }}">
-  	<h1><a href="/thread/{{ thread.id }}/#email-{{ email.id }}" rel="bookmark" title="Permanent Link to '{{ email.subject }}'">{{ email.subject }}</a></h1><span class="entry_date">{{ email.creation_date_time|date }}</span>
+  	<h1><a href="/thread/{{ thread.id }}/#email-{{ email.id }}" rel="bookmark" title="Permanent Link to '{{ email.subject }}'">{{ email.subject }}</a></h1><span class="entry_date">{{ email.creation_date_time|date:"f A d M Y" }}</span>
     <pre>
       {{ email.text }}
     </pre>
@@ -14,5 +14,17 @@
   <div class="entry_body_bottom"></div>
 
 {% endfor %}
+
+<script type="text/javascript">
+$(function(){
+  var current_cookie = $.cookie("kagan_read");
+  if (current_cookie===null)
+    current_cookie = '';
+  current_cookie.replace(',{{ thread.id }},', '');
+  current_cookie += ',{{ thread.id }},';
+  current_cookie.replace(',,', ',');
+  $.cookie("kagan_read", current_cookie, { path: '/', expires: 365 });
+});
+</script>
 
 {% endblock %}

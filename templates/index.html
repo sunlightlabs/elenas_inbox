@@ -3,18 +3,18 @@
 
 {% block content %}
 
-{% for thread in page.object_list %}
+{% for thread in threads %}
 
   {% if forloop.first %}
     <div id="mail-index-wrapper">
       <table id="mail-index">
   {% endif %}
 
-        <tr>
-          <td class="star"><div class="star off"></div></td>
-          <td class="name"><a href="/thread/{{ thread.id }}/">{{ thread.all_recipient_html|safe|striptags }}{% if thread.count > 1 %} ({{ thread.count}}){% endif %}</a></td>
-          <td class="subject"><a href="/thread/{{ thread.id }}/">{% if thread.name %}{{ thread.name }}{% else %}(No subject){% endif %}</a></td>
-          <td class="date"><a href="/thread/{{ thread.id }}/">{{ thread.date|date:"SHORT_DATE_FORMAT" }}</a></td>
+        <tr{% if not thread.read %} class="unread"{% endif %}>
+          {# <td class="star"><div class="star off"></div></td> #}
+          <td class="name"><a href="/thread/{{ thread.obj.id }}/">{{ thread.obj.all_recipient_html|safe|striptags }}{% if thread.obj.count > 1 %} ({{ thread.obj.count}}){% endif %}</a></td>
+          <td class="subject"><a href="/thread/{{ thread.obj.id }}/">{% if thread.obj.name %}{{ thread.obj.name }}{% else %}(No subject){% endif %}</a></td>
+          <td class="date"><a href="/thread/{{ thread.obj.id }}/">{{ thread.obj.date|date:"SHORT_DATE_FORMAT" }}</a></td>
         </tr>
       
   {% if forloop.last %}
