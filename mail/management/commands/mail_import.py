@@ -1,5 +1,5 @@
 from django.core.management.base import NoArgsCommand
-import re
+import os
 from mail.models import *
 
 class Command(NoArgsCommand):
@@ -35,44 +35,22 @@ class Command(NoArgsCommand):
 
     def handle_noargs(self, **options):
         self._make_boxes()
-        # FILES = ('../pdf/KAGAN-ARMS SENT Boxes 01-10.txt', '../pdf/KAGAN-ARMS SENT Boxes 11-16.txt')
-        FILES = ('../pdf/combined.txt',)
-        
-        re_record_start = re.compile(r'.?\s*RECORD\sTYPE:')
-        re_record_end = re.compile(r'(^.?\s*http://[\]\[\|\(\)lI1]72\.|/servlet/getEmaiIArchive|\x0c)')
-        for filename in FILES:
-            buf = []
-            blank_count = 0
-            collecting = False
-            f = open(filename, 'r')
-            while True:
-                line = f.readline()
-                if not line:
-                    break
-                            
-                if re_record_start.match(line) is not None:
-                    collecting = True
-        
-                if collecting:
-                    buf.append(line)
-        
-                line_stripped = line.strip()
-                if len(line_stripped)==0:
-                    blank_count += 1
-                else:
-                    blank_count = 0
-                
 
-                if collecting and ((blank_count>=3) or (re_record_end.search(line) is not None)):
-                    if len(buf)>0:
-                        Email.objects.parse_text(filename, buf)
-                    buf = []
-                    blank_count = 0
-                    collecting = False
-                                
+        Email.objects.all().delete()
+
+        count = 0
+        success = 0
+        for filename in os.listdir('parsed/source'):
+            f = open('parsed/source/%s' % filename, 'r')
+            l = f.readlines()
             f.close()
+            
+            if Email.objects.parse_text(filename, l):
+                success += 1
+            
+            count += 1
+            
         
-        print "Found %d mail objects" % Email.objects.count
-        print "No matches on %d names" % Email.objects.failure
+        print "Imported %d of %s mail objects" % (success, count)
             
                 

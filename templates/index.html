@@ -1,0 +1,38 @@
+{% extends "base.html" %}
+{% load media %}
+
+{% block content %}
+
+{% for thread in page.object_list %}
+
+  {% if forloop.first %}
+    <div id="mail-index-wrapper">
+      <table id="mail-index">
+  {% endif %}
+
+        <tr>
+          <td class="star"><div class="star off"></div></td>
+          <td class="name"><a href="/thread/{{ thread.id }}/">{% if thread.name %}{{ thread.name }}{% else %}(No subject){% endif %}</a></td>
+          <td class="date">{{ thread.date|date:"SHORT_DATE_FORMAT" }}</td>
+        </tr>
+      
+  {% if forloop.last %}
+      </table>
+    </div>
+    <div id="page-navigation">
+      {% if prev %}
+        <a href="/?page={{ first }}">&laquo;&nbsp;Newest</a>
+        <a href="/?page={{ prev }}">&lsaquo;&nbsp;Newer</a>
+      {% endif %}
+        <span id="page-range">{{ range|safe }}</span>
+      {% if next %}
+        <a href="/?page={{ next }}">Older&nbsp;&rsaquo;</a>
+        <a href="/?page={{ last }}">Oldest&nbsp;&raquo;</a>
+      {% endif %}
+      
+    </div>
+  {% endif %}
+
+{% endfor %}
+
+{% endblock %}

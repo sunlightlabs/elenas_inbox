@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+{% for email in emails %}
+
+  <div class="entry_body_top"></div>
+  <div class="entry_body" id="email-{{ email.id }}">
+  	<h1><a href="/thread/{{ thread.id }}/#email-{{ email.id }}" rel="bookmark" title="Permanent Link to '{{ email.subject }}'">{{ email.subject }}</a></h1><span class="entry_date">{{ email.creation_date_time|date }}</span>
+    <pre>
+      {{ email.text }}
+    </pre>
+  </div>
+  <div class="entry_body_bottom"></div>
+
+{% endfor %}
+
+{% endblock %}

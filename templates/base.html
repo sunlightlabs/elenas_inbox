@@ -1,0 +1,67 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>Elena's Inbox | A Project of the Sunlight Foundation</title>
+  <link rel="stylesheet" href="/media/style.css" type="text/css" media="screen" />
+  <link rel="shortcut icon" href="/media/images/favicon.png"/>
+</head>
+
+<body>
+<div id="wrap">
+
+  <div id="navigation">
+    <ul>
+      <li class="current_page_item"><a href="/">Home</a></li>
+      <li><a href="/">Contacts</a></li>      
+    </ul>
+    <div class="signout"><strong>ekagan@whitehouse.gov</strong>&nbsp;|&nbsp;<a href="http://www.sunlightfoundation.com">Sign out</a></div>
+  </div>
+
+  <div id="header">
+    <a href="/"><h1>Elena's Inbox'</h1></a>A project of the Sunlight Foundation.
+  </div>
+
+  <form method="get" id="top_search" action="/search">
+    <input type="text" size="22" value="search" name="s" id="top_text" /><input type="submit" id="top_submit" value="Search" />
+  </form>
+
+  <div id="content">
+    <div id="content_top"></div>
+		
+		{% block content %}{% endblock %}
+
+  	<div style="clear:both;height:10px;"></div>
+
+    <div id="content_bottom"></div>
+  </div>
+
+  <div id="sidebar">
+
+    <div id="first-box">
+      <ul>
+        <li class="disabled">Inbox</li>
+        <li><a href="/" class="current">Sent Mail</a></li>
+        <li class="disabled">Drafts</li>
+        <li class="disabled">All Mail</li>
+        <li><a href="/starred/">Starred (all)</a></li>
+        <li><a href="/starred/">Starred (by you)</a></li>        
+      </ul>
+    </div>
+
+  	<h2>Archives</h2>
+  	<ul>
+  	  <li>Sample 1</li>
+  	  <li>Sample 2</li>
+  	</ul>
+			
+  </div>
+
+  <div id="footer">
+    Design adapted from WP theme by <a href="http://www.bingowebdesign.info">Bingo</a>
+  </div>
+  
+</div>
+
+</body>
+</html>

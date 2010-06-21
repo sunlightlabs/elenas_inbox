@@ -20,7 +20,7 @@ class Box(models.Model):
 class Person(models.Model):
     """ A sender or recipient of emails """
     def __unicode__(self):
-        return self.name
+        return "%s (%s) [%d]" % (self.name, self.alias, self.id)
         
     class Meta:
         verbose_name = 'Person'
@@ -33,13 +33,18 @@ class Person(models.Model):
 class Thread(models.Model):
     """ An email thread """
     def __unicode__(self):
-        return self.name
+        return "%s (%d)" % (self.name, self.count)
         
     class Meta:
         verbose_name = "Email Thread"
         ordering = ['name']
     
     name = models.CharField("Name", max_length=255)
+    date = models.DateTimeField("Date")
+    count = models.IntegerField("Email Count")
+    avg_interval = models.DecimalField("Average Interval", max_digits=10, decimal_places=3, blank=True, null=True)
+    max_interval = models.DecimalField("Maximum Interval", max_digits=10, decimal_places=3, blank=True, null=True)
+    min_interval = models.DecimalField("Minimum Interval", max_digits=10, decimal_places=3, blank=True, null=True)
     
 class EmailManager(models.Manager):
 
@@ -56,14 +61,14 @@ class EmailManager(models.Manager):
         name_chars = r''
         self.re_gremlins = re.compile(r'[\xb7\xab\xa2\xbb\xa3\xae\xa5]')
         self.re_non_alpha = re.compile(r'[^A-Z]')
-        self.re_re = re.compile(r'[^\s]re\:?', re.I)
+        self.re_re = re.compile(r'([^\s]*re\:\s?)+', re.I)
         self.re_to = {
-            'detector': r'^.?\s*_XX_:',
+            'detector': r'^.?\s*.?_XX_:',
             'first': r'([\w\s\.\'\-]+)\s+\(?\s*[cC]N[\~;:=]([\w\s\.\'\-]+[=\/])',
-            'second': r'^.?\s*_XX_:\s+([A-Za-z_\s\.\'\-]+)\s{3,}',
-            'third': r'^.?\s*_XX_:\s+([A-Za-z_\s\.\'\-]+)\s+\(',
-            'fourth': r'^.?\s*_XX_:\s+([A-Za-z_\s\.\'\-]+)',
-            'alias_ats': r'^.?\s*_XX_:\s+([A-Z_\s]+)\s+\([\w\@]',   
+            'second': r'^.?\s*.?_XX_:\s+([A-Za-z_\s\.\'\-]+)\s{3,}',
+            'third': r'^.?\s*.?_XX_:\s+([A-Za-z_\s\.\'\-]+)\s+\(',
+            'fourth': r'^.?\s*.?_XX_:\s+([A-Za-z_\s\.\'\-]+)',
+            'alias_ats': r'^.?\s*.?_XX_:\s+([A-Z_\s]+)\s+\([\w\@]',   
             'combo': r'([\w\s\.\'\-]+)\s{3,}([A-Z_\s]+)'         
         }
         self.re_cc = {
@@ -77,8 +82,8 @@ class EmailManager(models.Manager):
         self.re_cc = self._compile_re(self.re_cc, 'CC')
         self.re_bcc = self._compile_re(self.re_bcc, 'BCC')
 
-        self.re_subject = re.compile(r'^\s*SUBJECT:(.*)')
-        self.re_creation_date = re.compile(r'CREATION\s+[DO]ATE[j\/]TIME:(.+)')
+        self.re_subject = re.compile(r'^\s*.?SUBJECT:(.*)')
+        self.re_creation_date = re.compile(r'CREATI(O|0|o\.)N\s+[DO]ATE[j\/\!]TIME:(.+)')
         self.re_attachment_start = re.compile(r'^([^=;]*)[=;\s]{5,}ATTACHMENT')
         self.re_attachment_end = re.compile(r'^([^=;]*)[=;\s]{5,}END\s+ATTACHMENT')        
         
@@ -88,7 +93,7 @@ class EmailManager(models.Manager):
         return self.re_non_alpha.sub('',t.strip().upper())
 
     def _make_subject_hash(self, t):
-        return self.re_re.sub('', t.strip().upper())
+        return self.re_re.sub('', t.strip())
 
     def _extract_person(self, line):
         line_s = line.strip().replace('"','')
@@ -150,15 +155,29 @@ class EmailManager(models.Manager):
                         
     def _zap_gremlins(self, t):
         return self.re_gremlins.sub("", t)
-            
+          
+    
+    def _clean_date(self, t):
+    
+        def _trans(d):
+            return d.replace('199S','1998').replace('199B','1998').replace('l', '1').replace('i','1').replace('I','1').replace('B', '8').replace('O', '0').replace('S', '5')
+        t = t.replace('0CT', 'OCT').replace('5EP', 'SEP').replace('~', '-').replace("'",'').replace(': ',':')
+        parts = t.split('-')
+        parts[0] = _trans(parts[0])
+        if len(parts)>=3:
+            parts[2] = _trans(parts[2])
+        t = '-'.join(parts)
+        return t
+  
     def parse_text(self, filename, lines, store=False):
         self.count += 1
 
         if store:
-            f = open('parsed/%d.txt' % self.count, 'w')
+            f = open('parsed/source/%d.txt' % self.count, 'w')
             f.write("".join(lines))
             f.close()
         
+        candidate_date = ''
         found_to = False
         found_date = False
         found_subject = False
@@ -189,8 +208,10 @@ class EmailManager(models.Manager):
             # creation date/time
             m = self.re_creation_date.search(line)
             if (not found_date) and (m is not None):
+                candidate_date = m.group(2).strip()
+                candidate_date = self._clean_date(candidate_date)
                 try:
-                    E.creation_date_time = parser.parse(m.group(1))
+                    E.creation_date_time = parser.parse(candidate_date)
                     found_date = True
                 except:
                     pass
@@ -239,16 +260,22 @@ class EmailManager(models.Manager):
             E.to = E_to
             E.cc = E_cc
             E.save()
+
             self.success += 1
-            print self.success
+
+            return True
+
         else:
-            f = open('parsed/failures/%d.txt' % self.count, 'w')
-            f.write("found_to: %s\n", str(found_to))
-            f.write("found_subject: %s\n", str(found_subject))
-            f.write("found_text: %s\n", str(found_text))
-            f.write("found_date: %s\n\n", str(found_date))
+            f = open('parsed/failures/%s.error' % filename, 'w')
+            f.write("found_to: %s\n" % str(found_to))
+            f.write("found_subject: %s\n" % str(found_subject))
+            f.write("found_text: %s\n" % str(found_text))
+            f.write("found_date: %s\n" % str(found_date))
+            f.write("candidate date: %s\n\n" % candidate_date)
             f.write(E.source)
             f.close()
+            
+            return False
         
 
 class Email(models.Model):
@@ -265,7 +292,7 @@ class Email(models.Model):
     creator = models.ForeignKey(Person, related_name='creators', blank=True, null=True)
     creation_date_time = models.DateTimeField("Creation Date/Time", db_index=True, blank=True, null=True)
     subject = models.CharField("Subject", max_length=255, default='', blank=True)
-    subject_hash = models.CharField("Subject", max_length=255, default='', blank=True)
+    subject_hash = models.CharField("Subject Hash", max_length=255, default='', blank=True)
     to = models.ManyToManyField(Person, related_name='to', blank=True)
     cc = models.ManyToManyField(Person, null=True, related_name='cc')
     text = models.TextField('Text', default='', blank=True)
