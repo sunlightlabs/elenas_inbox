@@ -81,7 +81,7 @@ body {
  }
 #navigation li {
  float: left;
- padding: 0px 20px 0px 0px;
+ padding: 0px 10px 0px 0px;
  }
 #content {
  float: right;
@@ -367,10 +367,14 @@ a:hover {
  
 .signout { float: right; color: black; margin: 5px 0;}
 
-table#mail-index { border-collapse: collapse; margin-left: 4px; width: 100%;}
-table#mail-index tr td { margin: 0; height: 21px; border-top: 1px solid #e1e1e1; background-color: #fefefe;}
-table#mail-index .name a { color: black; text-decoration: none;}
-#mail-index-wrapper { padding-right: 7px; }
+table#mail-index { border-collapse: collapse; margin-left: 4px; width: 100%; border-bottom: 3px solid #e1e1e1;}
+table#mail-index tr td { margin: 0; height: 21px; border-top: 1px solid #e1e1e1; background-color: #fefefe; vertical-align: top;}
+table#mail-index tr td a { display: block; }
+table#mail-index tr td.star { width: 20px;}
+table#mail-index tr td.name { width: 200px; padding: 0 10px 0 5px; text-align: left;}
+table#mail-index tr td.date { padding: 0 5px 0 10px }
+table#mail-index tr td a { color: black; text-decoration: none;}
+#mail-index-wrapper { padding-right: 7px;}
 div.star { background-image: url(images/star.png); background-repeat: no-repeat; width: 16px; height: 16px;}
 td.star { width: 20px;}
 div.star.off { background-position: 0px 0px;}
@@ -378,3 +382,16 @@ div.star.on { background-position: 0px -16px;}
 .entry_body pre { margin: 0;}
 #page-navigation { float: right; margin-top: 10px; padding-right: 10px;}
 #page-navigation #page-range, #page-navigation a { padding: 0 3px;}
+#coverage { 
+    text-align: center;
+    color:#00681C;
+    font-weight: bold;
+    font-size:12px;
+    clear:both;
+    float:right;
+    font-size:11px;
+    line-height:18px;
+    padding:30px 0 0 0;
+    width:750px;   
+     
+}

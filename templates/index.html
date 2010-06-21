@@ -12,8 +12,9 @@
 
         <tr>
           <td class="star"><div class="star off"></div></td>
-          <td class="name"><a href="/thread/{{ thread.id }}/">{% if thread.name %}{{ thread.name }}{% else %}(No subject){% endif %}</a></td>
-          <td class="date">{{ thread.date|date:"SHORT_DATE_FORMAT" }}</td>
+          <td class="name"><a href="/thread/{{ thread.id }}/">{{ thread.all_recipient_html|safe|striptags }}{% if thread.count > 1 %} ({{ thread.count}}){% endif %}</a></td>
+          <td class="subject"><a href="/thread/{{ thread.id }}/">{% if thread.name %}{{ thread.name }}{% else %}(No subject){% endif %}</a></td>
+          <td class="date"><a href="/thread/{{ thread.id }}/">{{ thread.date|date:"SHORT_DATE_FORMAT" }}</a></td>
         </tr>
       
   {% if forloop.last %}

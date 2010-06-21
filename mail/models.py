@@ -39,6 +39,20 @@ class Thread(models.Model):
         verbose_name = "Email Thread"
         ordering = ['name']
     
+    def all_recipient_html(self):
+        recipients = {}
+        emails = Email.objects.filter(email_thread=self)
+        for e in emails:
+            for recipient_type in ('to', 'cc'):                
+                e_recipients = e.recipient_list(recipient_type)
+                for er in e_recipients:
+                    recipients[er[1]] = er
+        sorted_recipients = sorted(recipients.items(), key=lambda x: x[1][1].upper())
+        html_pieces =  map(lambda x: x[1][2], sorted_recipients)
+        if len(html_pieces)>8:
+            return html_pieces[0] + ' .. ' + Email.NAME_SEPARATOR.join(html_pieces[-6:])
+        return Email.NAME_SEPARATOR.join(html_pieces)
+    
     name = models.CharField("Name", max_length=255)
     date = models.DateTimeField("Date")
     count = models.IntegerField("Email Count")
@@ -280,6 +294,9 @@ class EmailManager(models.Manager):
 
 class Email(models.Model):
     """ An email """
+    
+    NAME_SEPARATOR = ', '
+    
     def __unicode__(self):
         return '%s (%s)' % (self.subject, self.creation_date_time)
         
@@ -287,6 +304,24 @@ class Email(models.Model):
         verbose_name = 'Email'
         ordering = ['-creation_date_time']
         
+    def recipient_list(self, attr_name):
+        h = []
+        for p in getattr(self, attr_name).values():
+            p_id = p['id']
+            p_name = len(p.get('name', '').strip())>0 and p['name'] or p['alias']
+            p_html = '<a href="/contact/%d/">%s</a>' % (p['id'], p_name)
+            h.append((p_id, p_name, p_html))
+        return h
+    
+    def to_html(self):
+        return self.NAME_SEPARATOR.join(map(lambda x: x[2], self._recipient_html('to')))
+
+    def cc_html(self):
+        return self.NAME_SEPARATOR.join(map(lambda x: x[2]. self._recipient_html('cc')))
+
+    def all_recipient_html(self):
+        return self.NAME_SEPARATOR.join(map(lambda x: x[2], self._recipient_html('to'), lambda x: x[2]) + map(lambda x: x[2], self._recipient_html('cc')))
+    
     box = models.ForeignKey(Box, blank=True, null=True)
     record_type = models.CharField("Record Type", max_length=200, default='', blank=True)
     creator = models.ForeignKey(Person, related_name='creators', blank=True, null=True)
