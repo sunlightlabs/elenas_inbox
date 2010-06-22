@@ -373,7 +373,7 @@ table#mail-index tr.unread td { font-weight: bold;}
 table#mail-index tr td a { display: block; }
 table#mail-index tr td.star { width: 20px;}
 table#mail-index tr td.name { width: 200px; padding: 0 10px 0 5px; text-align: left;}
-table#mail-index tr td.date { padding: 0 5px 0 10px }
+table#mail-index tr td.date { padding: 0 5px 0 10px; text-align: right;}
 table#mail-index tr td a { color: black; text-decoration: none;}
 #mail-index-wrapper { padding-right: 7px;}
 div.star { background-image: url(images/star.png); background-repeat: no-repeat; width: 16px; height: 16px;}
@@ -404,3 +404,10 @@ div.star.on { background-position: 0px -16px;}
     position:relative;
 }
 
+table.addressees { margin-bottom: 1em; }
+table.addressees tr td a { text-decoration: none; }
+.highlight { background-color: yellow; }
+label#search-results { display: block; margin: 3px 0 3px 10px;}
+label#back-wrapper { display: block; margin: 3px 0 -5px 10px;}
+label#back-wrapper a { text-decoration: none;}
+label#back-wrapper a:hover { text-decoration: underline;}

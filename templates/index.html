@@ -7,14 +7,15 @@
 
   {% if forloop.first %}
     <div id="mail-index-wrapper">
+      {% if search %}<label id="search-results">Search results for: {{ search }}</label>{% endif %}
       <table id="mail-index">
   {% endif %}
 
         <tr{% if not thread.read %} class="unread"{% endif %}>
           {# <td class="star"><div class="star off"></div></td> #}
-          <td class="name"><a href="/thread/{{ thread.obj.id }}/">{{ thread.obj.all_recipient_html|safe|striptags }}{% if thread.obj.count > 1 %} ({{ thread.obj.count}}){% endif %}</a></td>
-          <td class="subject"><a href="/thread/{{ thread.obj.id }}/">{% if thread.obj.name %}{{ thread.obj.name }}{% else %}(No subject){% endif %}</a></td>
-          <td class="date"><a href="/thread/{{ thread.obj.id }}/">{{ thread.obj.date|date:"SHORT_DATE_FORMAT" }}</a></td>
+          <td class="name"><a href="/thread/{{ thread.obj.id }}/{% if search %}?q={{ search }}{% endif %}">{{ thread.obj.all_recipient_html|safe|striptags }}{% if thread.obj.count > 1 %} ({{ thread.obj.count}}){% endif %}</a></td>
+          <td class="subject"><a href="/thread/{{ thread.obj.id }}/{% if search %}?q={{ search }}{% endif %}">{% if thread.obj.name %}{{ thread.obj.name|safe }}{% else %}(No subject){% endif %}</a></td>
+          <td class="date"><a href="/thread/{{ thread.obj.id }}/{% if search %}?q={{ search }}{% endif %}">{{ thread.obj.date|date:"SHORT_DATE_FORMAT" }}</a></td>
         </tr>
       
   {% if forloop.last %}
@@ -36,4 +37,12 @@
 
 {% endfor %}
 
+<script type="text/javascript">
+$(function(){ 
+  $('table#mail-index tr td a').click(function(){
+    $(this).parent().parent().removeClass('unread');
+    return true;
+  });
+});
+</script>
 {% endblock %}

@@ -73,7 +73,7 @@ class EmailManager(models.Manager):
         self.failure = 0
         
         name_chars = r''
-        self.re_gremlins = re.compile(r'[\xb7\xab\xa2\xbb\xa3\xae\xa5]')
+        self.re_gremlins = re.compile(r'[\xb7\xab\xbb\xa2\xa3\xa4\xa5\xa6\xa7\xa8\xa9\xae]')
         self.re_non_alpha = re.compile(r'[^A-Z]')
         self.re_re = re.compile(r'([^\s]*re\:\s?)+', re.I)
         self.re_to = {
@@ -98,7 +98,7 @@ class EmailManager(models.Manager):
 
         self.re_subject = re.compile(r'^\s*.?SUBJECT:(.*)')
         self.re_creation_date = re.compile(r'CREATI(O|0|o\.)N\s+[DO]ATE[j\/\!]TIME:(.+)')
-        self.re_attachment_start = re.compile(r'^([^=;]*)[=;\s]{5,}ATTACHMENT')
+        self.re_attachment_start = re.compile(r'^([^=;]*)[=:;\s]{5,}ATTACHMENT')
         self.re_attachment_end = re.compile(r'^([^=;]*)[=;\s]{5,}END\s+ATTACHMENT')        
         
         super(EmailManager, self).__init__()
@@ -183,13 +183,8 @@ class EmailManager(models.Manager):
         t = '-'.join(parts)
         return t
   
-    def parse_text(self, filename, lines, store=False):
+    def parse_text(self, source_id, lines):
         self.count += 1
-
-        if store:
-            f = open('parsed/source/%d.txt' % self.count, 'w')
-            f.write("".join(lines))
-            f.close()
         
         candidate_date = ''
         found_to = False
@@ -199,10 +194,11 @@ class EmailManager(models.Manager):
         collecting_text = False
         collecting_attachment = False
         
-        E = Email()
+        E = Email()        
         E_to = []
         E_cc = []
         E.source = unicode(self._zap_gremlins("".join(lines)), 'utf-8')
+        E.source_id = source_id
         
         for line in lines:
 
@@ -253,8 +249,9 @@ class EmailManager(models.Manager):
             if self.re_attachment_end.search(line) is not None:
                 collecting_attachment = False
                 
-            if collecting_text:                
-                E.text += unicode(self._zap_gremlins(line), 'utf-8')
+            if collecting_text: 
+                if line.strip()!="TEXT:": # don't collect the text marker itself
+                    E.text += unicode(self._zap_gremlins(line), 'utf-8')
                 
             if collecting_attachment:
                 E.attachment += unicode(self._zap_gremlins(line), 'utf-8')
@@ -280,7 +277,7 @@ class EmailManager(models.Manager):
             return True
 
         else:
-            f = open('parsed/failures/%s.error' % filename, 'w')
+            f = open('parsed/failures/%s.error' % source_id, 'w')
             f.write("found_to: %s\n" % str(found_to))
             f.write("found_subject: %s\n" % str(found_subject))
             f.write("found_text: %s\n" % str(found_text))
@@ -314,13 +311,13 @@ class Email(models.Model):
         return h
     
     def to_html(self):
-        return self.NAME_SEPARATOR.join(map(lambda x: x[2], self._recipient_html('to')))
+        return self.NAME_SEPARATOR.join(map(lambda x: x[2], self.recipient_list('to')))
 
     def cc_html(self):
-        return self.NAME_SEPARATOR.join(map(lambda x: x[2]. self._recipient_html('cc')))
+        return self.NAME_SEPARATOR.join(map(lambda x: x[2], self.recipient_list('cc')))
 
     def all_recipient_html(self):
-        return self.NAME_SEPARATOR.join(map(lambda x: x[2], self._recipient_html('to'), lambda x: x[2]) + map(lambda x: x[2], self._recipient_html('cc')))
+        return self.NAME_SEPARATOR.join(map(lambda x: x[2], self.recipient_list('to'), lambda x: x[2]) + map(lambda x: x[2], self.recipient_list('cc')))
     
     box = models.ForeignKey(Box, blank=True, null=True)
     record_type = models.CharField("Record Type", max_length=200, default='', blank=True)
@@ -334,6 +331,7 @@ class Email(models.Model):
     attachment = models.TextField('Attachment', default='', blank=True)
     source = models.TextField('Source', default='', blank=True)
 
+    source_id = models.IntegerField("Source ID")
     email_thread = models.ForeignKey('Thread', null=True, blank=True)
     in_reply_to = models.ForeignKey('Email', null=True, blank=True)
 

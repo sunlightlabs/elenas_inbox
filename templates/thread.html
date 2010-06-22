@@ -2,14 +2,34 @@
 
 {% block content %}
 
-{% for email in emails %}
+<label id="back-wrapper"><a href="javascript:window.history.go(-1)">&laquo;&nbsp;Back</label>
 
+{% for email in emails %}
+  
   <div class="entry_body_top"></div>
-  <div class="entry_body" id="email-{{ email.id }}">
-  	<h1><a href="/thread/{{ thread.id }}/#email-{{ email.id }}" rel="bookmark" title="Permanent Link to '{{ email.subject }}'">{{ email.subject }}</a></h1><span class="entry_date">{{ email.creation_date_time|date:"f A d M Y" }}</span>
+  <div class="entry_body" id="email-{{ email.obj.id }}">
+  	<h1><a href="/thread/{{ thread.id }}/#email-{{ email.obj.id }}" rel="bookmark" title="Permanent Link to '{{ email.obj.subject }}'">{{ email.obj.subject }}</a></h1><span class="entry_date">{{ email.obj.creation_date_time|date:"f A d M Y" }}</span>
+    <table class="addressees">
+      {% if email.to_html %}
+      <tr>
+        <td>to:</td>
+        <td>{{ email.to_html|safe }}</td>
+      </tr>
+      {% endif %}
+      {% if email.cc_html %}
+      <tr>
+        <td>cc:</td>
+        <td>{{ email.cc_html|safe }}</td>
+      </tr>
+      {% endif %}
+    </table>
     <pre>
-      {{ email.text }}
+      {{ email.obj.text|safe }}
     </pre>
+    
+    {% if email.obj.attachment %}
+      <div class="attachment"><label>Attachment</label>{{ email.obj.attachment|safe }}</div>
+    {% endif %}
   </div>
   <div class="entry_body_bottom"></div>
 

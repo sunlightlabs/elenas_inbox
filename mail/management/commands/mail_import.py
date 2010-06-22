@@ -42,10 +42,11 @@ class Command(NoArgsCommand):
         success = 0
         for filename in os.listdir('parsed/source'):
             f = open('parsed/source/%s' % filename, 'r')
-            l = f.readlines()
+            lines = f.readlines()
             f.close()
+            source_id = filename[:filename.index('.')]
             
-            if Email.objects.parse_text(filename, l):
+            if Email.objects.parse_text(source_id, lines):
                 success += 1
             
             count += 1

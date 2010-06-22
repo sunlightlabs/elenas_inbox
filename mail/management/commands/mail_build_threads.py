@@ -11,6 +11,8 @@ class Command(NoArgsCommand):
         def _timedelta_to_days(td):
             return td.days + (td.seconds / (60*60*24.0))
 
+        THREAD_INACTIVITY_THRESHOLD = 30.0
+
         Thread.objects.all().delete()
 
         blacklist = ['', 'attached', 'receipt notification'] # not yet used
@@ -18,12 +20,17 @@ class Command(NoArgsCommand):
         emails = Email.objects.all().order_by('subject_hash', 'creation_date_time')
         current_subject = None
         chain = []
+        total = 0
         for e in emails:
             if current_subject is None:
                 current_subject = e.subject_hash
 
+            days_since_last = 0
+            if len(chain)>0:
+                days_since_last = _timedelta_to_days(e.creation_date_time - chain[-1].creation_date_time)
+
             # transitioning subject hashes?
-            if e.subject_hash!=current_subject:
+            if (e.subject_hash!=current_subject) or (days_since_last>THREAD_INACTIVITY_THRESHOLD):
                 # make thread
                 t = Thread()
                 t.name = current_subject
@@ -55,6 +62,7 @@ class Command(NoArgsCommand):
                     t.save()
             
                 print "Created chain '%s' with %d emails" % (current_subject, len(chain))
+                total += 1
             
                 # start new chain
                 chain = [e]
@@ -62,3 +70,5 @@ class Command(NoArgsCommand):
 
             else:
                 chain.append(e)
+        
+        print "Created %d chains." % total
