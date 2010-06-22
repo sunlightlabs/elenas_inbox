@@ -330,6 +330,7 @@ class Email(models.Model):
     text = models.TextField('Text', default='', blank=True)
     attachment = models.TextField('Attachment', default='', blank=True)
     source = models.TextField('Source', default='', blank=True)
+    star_count = models.IntegerField('Star Count', default=0)
 
     source_id = models.IntegerField("Source ID")
     email_thread = models.ForeignKey('Thread', null=True, blank=True)
@@ -337,4 +338,5 @@ class Email(models.Model):
 
     objects = EmailManager()
 
+        
         
