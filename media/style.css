@@ -52,12 +52,16 @@ body {
  float: left;
  display: block;
  width: 300px;
- padding: 20px 0px 20px 60px;
- background: url('images/header-bg.png') no-repeat left center;
+ padding: 20px 0px 20px 0px;
+/* background: url('images/header-bg.png') no-repeat left center;*/
  }
+ #header a#sunlight { text-decoration: none; color: black;}
+ #header a#sunlight:hover { color: #e57203;}
+ #header a img { border: 0; float: left; margin: 0 10px 0 0;}
+ 
 #header h1 {
  font-size: 16px;
- margin: 0px;
+ margin: 6px 0 0 0;
  padding: 0px;
  }
 .rss {
@@ -189,6 +193,25 @@ body {
  background: #E0ECFF;
  border: 1px solid #C3D9FF;
  }
+ #sidebar ul li a.underline { text-decoration: underline;}
+ 
+ #sidebar .green h2 {
+  width: 190x;
+  font-size: 12px;
+  background: url('images/side_title_noplus_green.png') no-repeat #acda8e;
+  padding: 5px 0px 5px 10px;
+  margin: 30px 0 0 0;
+  }
+ #sidebar .green ul {
+  width: 188px;
+  list-style: none;
+  margin: 0px 0px 10px 0px;
+  padding: 0px 5px;
+  background: #d5ecc7;
+  border: 1px solid #acda8e;
+  }
+ 
+ 
 #sidebar li {
  padding: 3px;
  }
@@ -411,3 +434,6 @@ label#search-results { display: block; margin: 3px 0 3px 10px;}
 label#back-wrapper { display: block; margin: 3px 0 -5px 10px;}
 label#back-wrapper a { text-decoration: none;}
 label#back-wrapper a:hover { text-decoration: underline;}
+#source-link { margin-left: 5px; margin-top: 20px;}
+#source-link a { text-decoration: none;}
+#source-link a:hover { text-decoration: underline;}

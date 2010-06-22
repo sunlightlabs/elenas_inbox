@@ -5,6 +5,7 @@ from urllib import unquote
 from haystack.query import SearchQuerySet
 from mail.models import *
 from django.db.models import Q
+import re
 
 RESULTS_PER_PAGE = 50
     
@@ -13,6 +14,10 @@ def _search_tokens(request):
     if s is None:
         return []
         
+    # protection!
+    re_sanitize = re.compile(r'[^\w\d\s\'"\,\.\?\$]', re.I)
+    s = re_sanitize.sub('', s)
+    
     tokens = []
     re_quotes = re.compile(r'\"([^\"]+)\"')
     for m in re_quotes.findall(s):

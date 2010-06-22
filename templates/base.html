@@ -7,6 +7,7 @@
   <link rel="shortcut icon" href="{% media_url %}/images/favicon.png"/>
   <script type="text/javascript" src="http://code.jquery.com/jquery-1.4.2.min.js"></script>
   <script type="text/javascript" src="{% media_url %}/scripts/jquery.cookie.js"></script>
+  <script type="text/javascript" src="http://services.sunlightlabs.com/brandingbar/hat_js/elenasinbox/"></script>
   <script type="text/javascript">
 
     var _gaq = _gaq || [];
@@ -20,6 +21,7 @@
     })();
 
   </script>
+
 </head>
 
 <body>
@@ -34,7 +36,7 @@
   </div>
 
   <div id="header">
-    <a href="/"><h1>Elena's Inbox</h1></a>A project of the Sunlight Foundation.
+    <a href="/"><img src="{% media_url %}/images/header-bg.png" id="logo" /><h1>Elena's Inbox</h1></a>A project of the <a id="sunlight" href="http://www.sunlightfoundation.com">Sunlight Foundation</a>
   </div>
 
   <form method="get" id="top_search" action="/search/">
@@ -72,15 +74,24 @@
   	  <li><a href="/search/?q=%22pervasively+sectarian%22">"pervasively sectarian"</a></li>
   	  <li><a href="/search/?q=unbelievable">unbelievable</a></li>
   	</ul>
+  	
+  	
+  	<div class="green">
+  	<h2>About</h2>
+  	<ul>
+  	  <li>This site parses the <a class="underline" href="http://www.clintonlibrary.gov/textual-Kagan-COMPOSED-EMAIL.htm">emails sent by Elena Kagan</a> during her time in the Clinton administration and presents them in a more familiar interface.</li>
+  	  <li>You may find that some records are garbled or incomplete, or that conversations are fractured.  Please bear with us: the source documents are extremely messy.  We're working to improve the quality of the documents hosted here.</li>
+  	</ul>
+  	</div>
 			
   </div>
 
   <div id="coverage">
-    You are able to view 4625 of the 4765 released emails (97.1%).
+    You are able to view 4625 of the 4765 released emails (97.1%)
   </div>
 
   <div id="footer">
-    Design adapted from WP theme by <a href="http://www.bingowebdesign.info">Bingo</a>
+    Initial site idea by <a href="http://twitter.com/BobBrigham">@BobBrigham</a>&nbsp;|&nbsp;Design adapted from WP theme by <a href="http://www.bingowebdesign.info">Bingo</a>&nbsp;|&nbsp;Source code and data available via <a href="http://github.com/sunlightlabs/elenas_inbox/tree/master/">GitHub</a>
   </div>
   
 </div>
