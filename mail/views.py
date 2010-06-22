@@ -4,6 +4,7 @@ from django.core.paginator import Paginator
 from urllib import unquote
 from haystack.query import SearchQuerySet
 from mail.models import *
+from django.db.models import Q
 
 RESULTS_PER_PAGE = 50
     
@@ -66,7 +67,8 @@ def index(request, search=[], threads=None):
         threads = Thread.objects.all().order_by('-date')        
     else:
         threads_count = threads.count()
-        threads = map(lambda x: x.object, threads)
+        if type(threads) is SearchQuerySet:
+            threads = map(lambda x: x.object, threads)            
         
     p = Paginator(threads, RESULTS_PER_PAGE)
     
@@ -85,6 +87,22 @@ def index(request, search=[], threads=None):
     threads = _annotate_threads(request,threads)
     
     return render_to_response('index.html', {'range': "<strong>%d</strong> - <strong>%d</strong> of <strong>%d</strong>" % (page.start_index(), page.end_index(), threads_count), 'num_pages': p.num_pages , 'next': page_num<p.num_pages and min(p.num_pages,page_num+1) or False, 'prev': page_num>1 and max(1, page_num-1) or False, 'first': '1', 'last': p.num_pages, 'current_page': page_num, 'threads': threads, 'search': " ".join(search)}, context_instance=RequestContext(request))
+
+def contact(request, contact_id):
+    try:
+        person = Person.objects.get(id=contact_id)
+    except Thread.DoesNotExist, e:
+        return HttpResponseRedirect(reverse('mail.views.index'))
+    
+    threads = []
+    emails = Email.objects.filter(Q(to=person)|Q(cc=person))
+    for e in emails:
+        threads.append(e.email_thread.id)
+    threads = Thread.objects.filter(id__in=threads).order_by('-date')
+
+
+    return index(request, threads=threads)
+    
 
 def thread(request, thread_id):
     try:
