@@ -27,9 +27,9 @@
       {{ email.obj.text|safe }}
     </pre>
     
-    {# {% if email.obj.attachment %} #}
-    {#   <div class="attachment"><label>Attachment</label>{{ email.obj.attachment|safe }}</div> #}
-    {# {% endif %} #}
+    {% if email.obj.attachment %}
+      <div class="attachment"><label>Attachment</label>{{ email.obj.attachment|safe }}</div>
+    {% endif %}
   </div>
   <div class="entry_body_bottom"></div>
 

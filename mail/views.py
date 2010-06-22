@@ -8,9 +8,13 @@ from django.db.models import Q
 import re
 
 RESULTS_PER_PAGE = 50
+
+def _search_string(request):
+    return request.GET.get('q', None)
     
+
 def _search_tokens(request):
-    s = request.GET.get('q', None)
+    s = _search_string(request)
     if s is None:
         return []
         
@@ -33,8 +37,9 @@ def _search_tokens(request):
     
 def _highlight(text, tokens):
     regexes = []
-    for t in tokens:
-        regexes.append(re.compile(r'(%s)' % t, re.I))
+    sorted_tokens = sorted(tokens, key=lambda x: len(x))
+    for t in sorted_tokens:
+        regexes.append(re.compile(r'(%s)' % t.replace(' ', r'\s+'), re.I))
     for r in regexes:
         text = r.sub('<span class="highlight">\\1</span>', text)
     return text
@@ -91,7 +96,7 @@ def index(request, search=[], threads=None):
         
     threads = _annotate_threads(request,threads)
     
-    return render_to_response('index.html', {'range': "<strong>%d</strong> - <strong>%d</strong> of <strong>%d</strong>" % (page.start_index(), page.end_index(), threads_count), 'num_pages': p.num_pages , 'next': page_num<p.num_pages and min(p.num_pages,page_num+1) or False, 'prev': page_num>1 and max(1, page_num-1) or False, 'first': '1', 'last': p.num_pages, 'current_page': page_num, 'threads': threads, 'search': " ".join(search)}, context_instance=RequestContext(request))
+    return render_to_response('index.html', {'range': "<strong>%d</strong> - <strong>%d</strong> of <strong>%d</strong>" % (page.start_index(), page.end_index(), threads_count), 'num_pages': p.num_pages , 'next': page_num<p.num_pages and min(p.num_pages,page_num+1) or False, 'prev': page_num>1 and max(1, page_num-1) or False, 'first': '1', 'last': p.num_pages, 'current_page': page_num, 'threads': threads, 'search': " ".join(search), 'search_orig': (_search_string(request) is not None) and _search_string(request) or ''}, context_instance=RequestContext(request))
 
 def contact(request, contact_id):
     try:
