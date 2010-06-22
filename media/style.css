@@ -437,3 +437,4 @@ label#back-wrapper a:hover { text-decoration: underline;}
 #source-link { margin-left: 5px; margin-top: 20px;}
 #source-link a { text-decoration: none;}
 #source-link a:hover { text-decoration: underline;}
+#no-results-found { text-align: center; padding-top: 7px;}

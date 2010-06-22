@@ -131,5 +131,8 @@ def search(request):
         sqs = sqs.filter_or(text_and_recipients=t)
     sqs = sqs.order_by('-date')
 
+    if sqs.count()==0:
+        return render_to_response('search_empty.html', {}, context_instance=RequestContext(request))
+
     return index(request, search=tokens, threads=sqs)
 
