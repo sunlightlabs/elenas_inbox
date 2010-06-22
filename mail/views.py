@@ -61,8 +61,8 @@ def _annotate_emails(emails, search=[]):
 
 def index(request, search=[], threads=None):
     
-    threads_count = 0
     if threads is None:
+        threads_count = Thread.objects.all().count()
         threads = Thread.objects.all().order_by('-date')        
     else:
         threads_count = threads.count()
@@ -84,7 +84,7 @@ def index(request, search=[], threads=None):
         
     threads = _annotate_threads(request,threads)
     
-    return render_to_response('index.html', {'range': "<strong>%d</strong> - <strong>%d</strong> of <strong>%d</strong>" % (page.start_index(), page.end_index(), (threads is None and Thread.objects.all().count() or threads_count)), 'num_pages': p.num_pages , 'next': page_num<p.num_pages and min(p.num_pages,page_num+1) or False, 'prev': page_num>1 and max(1, page_num-1) or False, 'first': '1', 'last': p.num_pages, 'current_page': page_num, 'threads': threads, 'search': " ".join(search)}, context_instance=RequestContext(request))
+    return render_to_response('index.html', {'range': "<strong>%d</strong> - <strong>%d</strong> of <strong>%d</strong>" % (page.start_index(), page.end_index(), threads_count), 'num_pages': p.num_pages , 'next': page_num<p.num_pages and min(p.num_pages,page_num+1) or False, 'prev': page_num>1 and max(1, page_num-1) or False, 'first': '1', 'last': p.num_pages, 'current_page': page_num, 'threads': threads, 'search': " ".join(search)}, context_instance=RequestContext(request))
 
 def thread(request, thread_id):
     try:
