@@ -112,7 +112,9 @@ def contact(request, contact_id):
 
 
     return index(request, threads=threads)
-    
+
+def contacts_index(request):
+    return index(request)
 
 def thread(request, thread_id):
     try:
