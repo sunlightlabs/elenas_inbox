@@ -438,3 +438,19 @@ label#back-wrapper a:hover { text-decoration: underline;}
 #source-link a { text-decoration: none;}
 #source-link a:hover { text-decoration: underline;}
 #no-results-found { text-align: center; padding-top: 7px;}
+
+.attachment {
+    border: 1px solid #aaa;
+    background-color: #eee;
+    white-space: pre;
+    overflow: auto;
+    padding: 10px;
+}
+
+.attachment-label { 
+    display: block;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 15px 0 15px 30px;
+    background: url(images/paperclip.png) no-repeat top left;
+}
