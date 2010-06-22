@@ -21,17 +21,17 @@
   {% if forloop.last %}
       </table>
     </div>
+     
     <div id="page-navigation">
       {% if prev %}
-        <a href="/?page={{ first }}">&laquo;&nbsp;Newest</a>
-        <a href="/?page={{ prev }}">&lsaquo;&nbsp;Newer</a>
+        <a href="{{ path }}?page={{ first }}">&laquo;&nbsp;Newest</a>
+        <a href="{{ path }}?page={{ prev }}">&lsaquo;&nbsp;Newer</a>
       {% endif %}
         <span id="page-range">{{ range|safe }}</span>
       {% if next %}
-        <a href="/?page={{ next }}">Older&nbsp;&rsaquo;</a>
-        <a href="/?page={{ last }}">Oldest&nbsp;&raquo;</a>
-      {% endif %}
-      
+        <a href="{{ path }}?page={{ next }}">Older&nbsp;&rsaquo;</a>
+        <a href="{{ path }}?page={{ last }}">Oldest&nbsp;&raquo;</a>
+      {% endif %}  
     </div>
   {% endif %}
 

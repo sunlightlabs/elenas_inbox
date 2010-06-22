@@ -96,7 +96,7 @@ def index(request, search=[], threads=None):
         
     threads = _annotate_threads(request,threads)
     
-    return render_to_response('index.html', {'range': "<strong>%d</strong> - <strong>%d</strong> of <strong>%d</strong>" % (page.start_index(), page.end_index(), threads_count), 'num_pages': p.num_pages , 'next': page_num<p.num_pages and min(p.num_pages,page_num+1) or False, 'prev': page_num>1 and max(1, page_num-1) or False, 'first': '1', 'last': p.num_pages, 'current_page': page_num, 'threads': threads, 'search': " ".join(search), 'search_orig': (_search_string(request) is not None) and _search_string(request) or ''}, context_instance=RequestContext(request))
+    return render_to_response('index.html', {'range': "<strong>%d</strong> - <strong>%d</strong> of <strong>%d</strong>" % (page.start_index(), page.end_index(), threads_count), 'num_pages': p.num_pages , 'next': page_num<p.num_pages and min(p.num_pages,page_num+1) or False, 'prev': page_num>1 and max(1, page_num-1) or False, 'first': '1', 'last': p.num_pages, 'current_page': page_num, 'threads': threads, 'search': " ".join(search), 'search_orig': (_search_string(request) is not None) and _search_string(request) or '', 'path': request.path}, context_instance=RequestContext(request))
 
 def contact(request, contact_id):
     try:
@@ -109,7 +109,6 @@ def contact(request, contact_id):
     for e in emails:
         threads.append(e.email_thread.id)
     threads = Thread.objects.filter(id__in=threads).order_by('-date')
-
 
     return index(request, threads=threads)
 
