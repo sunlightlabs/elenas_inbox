@@ -202,7 +202,7 @@ def starred(request):
     
 
 def starred_all(request):
-    starred = Thread.objects.filter(star_count__gt=0).order_by('-star_count,-date')
+    starred = Thread.objects.filter(star_count__gt=0).order_by('-star_count','-date')
     if starred.count()==0:
         return render_to_response('search_empty.html', { 'path': request.path }, context_instance=RequestContext(request))
     else:
