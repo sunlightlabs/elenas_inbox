@@ -22,6 +22,8 @@
     
     function RecordID(cookie_name, id) {
       var current_cookie = $.cookie(cookie_name);
+      if (current_cookie===null)
+        current_cookie = '';
       var cookie_array = current_cookie.split(',');
       cookie_array.push(id);
       $.cookie(cookie_name, cookie_array.join(','), { path: '/', expires: 365 });
