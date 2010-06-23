@@ -5,6 +5,7 @@ from urllib import unquote
 from haystack.query import SearchQuerySet
 from mail.models import *
 from django.db.models import Q
+from django.core.cache import cache
 import re
 
 RESULTS_PER_PAGE = 50
@@ -99,17 +100,22 @@ def index(request, search=[], threads=None):
     return render_to_response('index.html', {'range': "<strong>%d</strong> - <strong>%d</strong> of <strong>%d</strong>" % (page.start_index(), page.end_index(), threads_count), 'num_pages': p.num_pages , 'next': page_num<p.num_pages and min(p.num_pages,page_num+1) or False, 'prev': page_num>1 and max(1, page_num-1) or False, 'first': '1', 'last': p.num_pages, 'current_page': page_num, 'threads': threads, 'search': " ".join(search), 'search_orig': (_search_string(request) is not None) and _search_string(request) or '', 'path': request.path}, context_instance=RequestContext(request))
 
 def contact(request, contact_id):
-    try:
-        person = Person.objects.get(id=contact_id)
-    except Thread.DoesNotExist, e:
-        return HttpResponseRedirect(reverse('mail.views.index'))
+    cache_key = 'contact_%d' % int(contact_id)
+    threads = cache.get(cache_key)
+    if threads is None:        
+        try:
+            person = Person.objects.get(id=contact_id)
+        except Thread.DoesNotExist, e:
+            return HttpResponseRedirect(reverse('mail.views.index'))
     
-    threads = []
-    emails = Email.objects.filter(Q(to=person)|Q(cc=person))
-    for e in emails:
-        threads.append(e.email_thread.id)
-    threads = Thread.objects.filter(id__in=threads).order_by('-date')
-
+        threads = []
+        emails = Email.objects.filter(Q(to=person)|Q(cc=person))
+        for e in emails:
+            threads.append(e.email_thread.id)
+        threads = Thread.objects.filter(id__in=threads).order_by('-date')
+        
+        cache.set(cache_key, threads)
+    
     return index(request, threads=threads)
 
 def contacts_index(request):
@@ -120,11 +126,13 @@ def thread(request, thread_id):
         thread = Thread.objects.get(id=thread_id)
     except Thread.DoesNotExist, e:
         return HttpResponseRedirect(reverse('mail.views.index'))
-    
+
     search = _search_tokens(request)
-    
+
     emails = _annotate_emails(Email.objects.filter(email_thread=thread).order_by('creation_date_time'), search)    
-    
+
+    cache.set(cache_key, emails)
+
     return render_to_response('thread.html', {'thread': thread, 'emails': emails }, context_instance=RequestContext(request))
     
 def search(request):
