@@ -439,7 +439,7 @@ a.star.on {
 table.addressees { margin-bottom: 1em; }
 table.addressees tr td a { text-decoration: none; }
 .highlight { background-color: yellow; }
-label#search-results { display: block; margin: 3px 0 3px 10px;}
+label.top-explanation { display: block; margin: 3px 0 3px 10px;}
 label#back-wrapper { display: block; margin: 3px 0 -5px 10px;}
 label#back-wrapper a { text-decoration: none;}
 label#back-wrapper a:hover { text-decoration: underline;}

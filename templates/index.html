@@ -18,7 +18,9 @@
 
   {% if forloop.first %}
     <div id="mail-index-wrapper">
-      {% if search %}<label id="search-results">Search results for: {{ search }}</label>{% endif %}
+      {% if search %}<label id="search-results" class="top-explanation">Search results for: {{ search }}</label>{% endif %}
+      {% if path == '/starred/all/' %}<label class="top-explanation">Messages by number of stars awarded by all users (including you)</label>{% endif %}
+      {% if path == '/starred/' %}<label class="top-explanation">Messages you have starred</label>{% endif %}
       <table id="mail-index">
   {% endif %}
 
