@@ -131,8 +131,6 @@ def thread(request, thread_id):
 
     emails = _annotate_emails(Email.objects.filter(email_thread=thread).order_by('creation_date_time'), search)    
 
-    cache.set(cache_key, emails)
-
     return render_to_response('thread.html', {'thread': thread, 'emails': emails }, context_instance=RequestContext(request))
     
 def search(request):
