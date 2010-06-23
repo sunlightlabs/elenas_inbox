@@ -1,6 +1,9 @@
 {% extends "base.html" %}
 {% load media %}
 
+{% block page_title %}{% if path == '/starred/all/' %}All Starred Threads | Elena's Inbox{% endif %}{% if path == '/starred/' %}Your Starred Threads | Elena's Inbox{% endif %}{% if path == '/' %}Elena's Inbox | A Project of the Sunlight Foundation{% endif %}{% if search %}Search results for: {{ search }} | Elena's Inbox{% endif %}{% endblock %}
+
+
 {% block navigation %}
 <ul>
   <li class="disabled">Inbox</li>
