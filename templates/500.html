@@ -2,19 +2,10 @@
 {% load media %}
 
 {% block content %}
-<div class="container main_container">
-{% include "includes/generic_nav.html" %}
 
+<div id="error-container">
+		<h3>An Error has Occurred</h3>		
+		<p>We're sorry you've run into trouble.  A report has been sent to our developers, who will resolve the problem as quickly as possible.</p>
+</div>
 
-	<div class="span-24">
-		<div id="header_area_flat">
-			<h3>An Error has Occurred</h3>		
-		</div>
-		
-		<div class="content_area">
-			<p>It appears that you have stumbled upon a page that doesn't technically exist.  Try <a href="/">here.</a></p>
-		</div>
-	</div>
-
-</div> <!--ends container-->
 {% endblock %}

@@ -59,6 +59,7 @@ class Thread(models.Model):
     avg_interval = models.DecimalField("Average Interval", max_digits=10, decimal_places=3, blank=True, null=True)
     max_interval = models.DecimalField("Maximum Interval", max_digits=10, decimal_places=3, blank=True, null=True)
     min_interval = models.DecimalField("Minimum Interval", max_digits=10, decimal_places=3, blank=True, null=True)
+    star_count = models.IntegerField('Star Count', default=0)
     
 class EmailManager(models.Manager):
 

@@ -1,6 +1,17 @@
 {% extends "base.html" %}
 {% load media %}
 
+{% block navigation %}
+<ul>
+  <li class="disabled">Inbox</li>
+  <li><a href="/"{% if path == '/' %} class="current"{% endif %}>Sent Mail</a></li>
+  <li class="disabled">Drafts</li>
+  <li class="disabled">All Mail</li>
+  <li><a href="/starred/all/"{% if path == '/starred/all/' %} class="current"{% endif %}>Starred (all)</a></li>
+  <li><a href="/starred/"{% if path == '/starred/' %} class="current"{% endif %}>Starred (by you)</a></li>        
+</ul>
+{% endblock %}
+
 {% block content %}
 
 {% for thread in threads %}
@@ -12,7 +23,7 @@
   {% endif %}
 
         <tr{% if not thread.read %} class="unread"{% endif %}>
-          {# <td class="star"><a href="#" rel="{{ thread.obj.id }}" class="star off"></a></td> #}
+          <td class="star"><a href="#" rel="{{ thread.obj.id }}" class="star{% if thread.star %} on{% endif %}"></a></td>
           <td class="name"><a href="/thread/{{ thread.obj.id }}/{% if search %}?q={{ search_orig }}{% endif %}">To: {{ thread.obj.all_recipient_html|safe|striptags }}{% if thread.obj.count > 1 %} ({{ thread.obj.count}}){% endif %}</a></td>
           <td class="subject"><a href="/thread/{{ thread.obj.id }}/{% if search %}?q={{ search_orig }}{% endif %}">{% if thread.obj.name %}{{ thread.obj.name|safe }}{% else %}(No subject){% endif %}</a></td>
           <td class="date"><a href="/thread/{{ thread.obj.id }}/{% if search %}?q={{ search_orig }}{% endif %}">{{ thread.obj.date|date:"SHORT_DATE_FORMAT" }}</a></td>
@@ -39,9 +50,28 @@
 
 <script type="text/javascript">
 $(function(){ 
-  $('table#mail-index tr td a').click(function(){
+  // mark-as-read functionality
+  $('table#mail-index tr td.name a, table#mail-index tr td.subject a, table#mail-index tr td.date a').click(function(){
     $(this).parent().parent().removeClass('unread');
     return true;
+  });
+  
+  // star functionality
+  $('table#mail-index tr td.star a').click(function(){
+    var thread_id = $(this).attr('rel');
+
+    if($(this).hasClass('on')) {
+      RemoveID('kagan_star', thread_id);
+      $.getJSON('/star/ajax/' + thread_id + '/remove/', function(data) { });
+    }
+    else {
+      RecordID('kagan_star', thread_id);
+      $.getJSON('/star/ajax/' + thread_id + '/add/', function(data) { });
+    }
+
+    $(this).toggleClass('on');
+
+    return false;
   });
 });
 </script>

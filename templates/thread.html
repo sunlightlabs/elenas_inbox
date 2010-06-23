@@ -1,5 +1,16 @@
 {% extends "base.html" %}
 
+{% block navigation %}
+<ul>
+  <li class="disabled">Inbox</li>
+  <li><a href="/">Sent Mail</a></li>
+  <li class="disabled">Drafts</li>
+  <li class="disabled">All Mail</li>
+  <li><a href="/starred/all/">Starred (all)</a></li>
+  <li><a href="/starred/">Starred (by you)</a></li>        
+</ul>
+{% endblock %}
+
 {% block content %}
 
 <label id="back-wrapper"><a href="javascript:window.history.go(-1)">&laquo;&nbsp;Back</label>
@@ -8,7 +19,7 @@
   
   <div class="entry_body_top"></div>
   <div class="entry_body" id="email-{{ email.obj.id }}">
-  	<h1><a href="/thread/{{ thread.id }}/#email-{{ email.obj.id }}" rel="bookmark" title="Permanent Link to '{{ email.obj.subject }}'">{{ email.obj.subject }}</a></h1><span class="entry_date">{{ email.obj.creation_date_time|date:"f A d M Y" }}</span>
+  	{% if forloop.first %}<a href="#" rel="{{ thread.id }}" class="star{% if thread_starred  %} on{% endif %}"></a>{% endif %}<h1><a href="/thread/{{ thread.id }}/#email-{{ email.obj.id }}" rel="bookmark" title="Permanent Link to '{{ email.obj.subject }}'">{{ email.obj.subject }}</a></h1><span class="entry_date">{{ email.obj.creation_date_time|date:"f A d M Y" }}</span>
     <table class="addressees">
       {% if email.to_html %}
       <tr>
@@ -38,13 +49,25 @@
 
 <script type="text/javascript">
 $(function(){
-  var current_cookie = $.cookie("kagan_read");
-  if (current_cookie===null)
-    current_cookie = '';
-  current_cookie.replace(',{{ thread.id }},', '');
-  current_cookie += ',{{ thread.id }},';
-  current_cookie.replace(',,', ',');
-  $.cookie("kagan_read", current_cookie, { path: '/', expires: 365 });
+  RecordID('kagan_read', '{{ thread.id }}');
+  
+  // star functionality
+  $('a.star').click(function(){
+    var thread_id = $(this).attr('rel');
+
+    if($(this).hasClass('on')) {
+      RemoveID('kagan_star', thread_id);
+      $.getJSON('/star/ajax/' + thread_id + '/remove/', function(data) { });
+    }
+    else {
+      RecordID('kagan_star', thread_id);
+      $.getJSON('/star/ajax/' + thread_id + '/add/', function(data) { });
+    }
+
+    $(this).toggleClass('on');
+
+    return false;
+  });
 });
 </script>
 

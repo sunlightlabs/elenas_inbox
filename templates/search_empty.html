@@ -1,7 +1,18 @@
 {% extends "base.html" %}
 
+{% block navigation %}
+<ul>
+  <li class="disabled">Inbox</li>
+  <li><a href="/"{% if path == '/' %} class="current"{% endif %}>Sent Mail</a></li>
+  <li class="disabled">Drafts</li>
+  <li class="disabled">All Mail</li>
+  <li><a href="/starred/all/"{% if path == '/starred/all/' %} class="current"{% endif %}>Starred (all)</a></li>
+  <li><a href="/starred/"{% if path == '/starred/' %} class="current"{% endif %}>Starred (by you)</a></li>        
+</ul>
+{% endblock %}
+
 {% block content %}
 
-<div id="no-results-found">No messages matched your search.</div>
+<div id="no-results-found">No matching messages.</div>
 
 {% endblock %}

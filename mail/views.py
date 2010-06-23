@@ -1,6 +1,7 @@
 from django.shortcuts import render_to_response, get_object_or_404
 from django.template import RequestContext
 from django.core.paginator import Paginator
+from django.http import HttpResponse
 from urllib import unquote
 from haystack.query import SearchQuerySet
 from mail.models import *
@@ -46,22 +47,29 @@ def _highlight(text, tokens):
     return text
 
 
-def _annotate_threads(request, threads):
-    read_cookie = unquote(request.COOKIES.get('kagan_read','')).replace(',,', ',')
-    if len(read_cookie)>0:
-        if read_cookie[0]==',':
-            read_cookie = read_cookie[1:]
-        if read_cookie[-1]==',':
-            read_cookie = read_cookie[:-1]
-
+def _prepare_ids_from_cookie(request, cookie_name):
+    cookie = unquote(request.COOKIES.get(cookie_name,'')).replace(',,', ',')
+    if len(cookie)>1:
+        if cookie[0]==',':
+            cookie = cookie[1:]
+        if cookie[-1]==',':
+            cookie = cookie[:-1]
+    
     try:
-        read_ids = map(lambda x: (x!='') and int(x) or 0, read_cookie.split(','))
+        id_list = map(lambda x: (x!='') and int(x) or 0, cookie.split(','))
     except:
-        read_ids = []
+        id_list = []
+
+    return id_list
+
+def _annotate_threads(request, threads):
+    read_ids = _prepare_ids_from_cookie(request, 'kagan_read')
+    star_ids = _prepare_ids_from_cookie(request, 'kagan_star')
 
     threads_obj = []
     for thread in threads:
-        threads_obj.append({'read': (thread.id in read_ids), 'obj': thread})
+        threads_obj.append({'read': (thread.id in read_ids), 'star': (thread.id in star_ids), 'obj': thread})
+
     return threads_obj
     
 def _annotate_emails(emails, search=[]):
@@ -97,7 +105,21 @@ def index(request, search=[], threads=None):
         
     threads = _annotate_threads(request,threads)
     
-    return render_to_response('index.html', {'range': "<strong>%d</strong> - <strong>%d</strong> of <strong>%d</strong>" % (page.start_index(), page.end_index(), threads_count), 'num_pages': p.num_pages , 'next': page_num<p.num_pages and min(p.num_pages,page_num+1) or False, 'prev': page_num>1 and max(1, page_num-1) or False, 'first': '1', 'last': p.num_pages, 'current_page': page_num, 'threads': threads, 'search': " ".join(search), 'search_orig': (_search_string(request) is not None) and _search_string(request) or '', 'path': request.path}, context_instance=RequestContext(request))
+    template_vars = {
+        'range': "<strong>%d</strong> - <strong>%d</strong> of <strong>%d</strong>" % (page.start_index(), page.end_index(), threads_count),
+        'num_pages': p.num_pages , 
+        'next': page_num<p.num_pages and min(p.num_pages,page_num+1) or False, 
+        'prev': page_num>1 and max(1, page_num-1) or False, 
+        'first': '1', 
+        'last': p.num_pages, 
+        'current_page': page_num, 
+        'threads': threads, 
+        'search': " ".join(search), 
+        'search_orig': (_search_string(request) is not None) and _search_string(request) or '', 
+        'path': request.path,
+    }
+    
+    return render_to_response('index.html', template_vars, context_instance=RequestContext(request))
 
 def contact(request, contact_id):
     cache_key = 'contact_%d' % int(contact_id)
@@ -128,10 +150,10 @@ def thread(request, thread_id):
         return HttpResponseRedirect(reverse('mail.views.index'))
 
     search = _search_tokens(request)
-
+    thread_starred = thread.id in _prepare_ids_from_cookie(request, 'kagan_star')
     emails = _annotate_emails(Email.objects.filter(email_thread=thread).order_by('creation_date_time'), search)    
 
-    return render_to_response('thread.html', {'thread': thread, 'emails': emails }, context_instance=RequestContext(request))
+    return render_to_response('thread.html', {'thread': thread, 'thread_starred': thread_starred, 'emails': emails }, context_instance=RequestContext(request))
     
 def search(request):
     tokens = _search_tokens(request)
@@ -144,7 +166,44 @@ def search(request):
     sqs = sqs.order_by('-date')
 
     if sqs.count()==0:
-        return render_to_response('search_empty.html', {}, context_instance=RequestContext(request))
+        return render_to_response('search_empty.html', { 'path': request.path }, context_instance=RequestContext(request))
 
     return index(request, search=tokens, threads=sqs)
 
+def star_record_ajax(request, thread_id, action):
+    try:
+        thread = Thread.objects.get(id=thread_id)
+    except Thread.DoesNotExist, e:
+        return HttpResponse('{ status: \'not_found\'}');
+    
+    if thread.star_count is None:
+        thread.star_count = 0
+    if action=='add':
+        thread.star_count += 1
+    elif action=='remove':
+        thread.star_count -= 1
+    thread.save()
+
+    return HttpResponse('{ status: \'success\'}')
+
+def starred(request):
+    starred_ids = _prepare_ids_from_cookie(request, 'kagan_star')
+    if len(starred_ids)==0:
+        return HttpResponseRedirect(reverse('mail.views.index'))
+    
+    starred = Thread.objects.filter(id__in=starred_ids).order_by('-date')
+
+    if starred.count()==0:
+        return render_to_response('search_empty.html', { 'path': request.path }, context_instance=RequestContext(request))
+    else:
+        return index(request, threads=starred)
+
+    return index(request, threads=starred)
+    
+
+def starred_all(request):
+    starred = Thread.objects.filter(star_count__gt=0).order_by('-star_count,-date')
+    if starred.count()==0:
+        return render_to_response('search_empty.html', { 'path': request.path }, context_instance=RequestContext(request))
+    else:
+        return index(request, threads=starred)

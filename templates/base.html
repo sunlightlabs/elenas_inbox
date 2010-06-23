@@ -19,6 +19,23 @@
       ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
       var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
     })();
+    
+    function RecordID(cookie_name, id) {
+      var current_cookie = $.cookie(cookie_name);
+      var cookie_array = current_cookie.split(',');
+      cookie_array.push(id);
+      $.cookie(cookie_name, cookie_array.join(','), { path: '/', expires: 365 });
+    }
+
+    function RemoveID(cookie_name, id) {
+      var current_cookie = $.cookie(cookie_name);
+      var cookie_array = current_cookie.split(',');
+      var new_cookie_array = Array();
+      for(var i=0;i<cookie_array.length;i++)
+        if((cookie_array[i]!=id)&&(cookie_array[i]!=''))
+          new_cookie_array.push(cookie_array[i]);
+      $.cookie(cookie_name, new_cookie_array.join(','), { path: '/', expires: 365 });
+    }
 
   </script>
 
@@ -56,14 +73,9 @@
   <div id="sidebar">
 
     <div id="first-box">
-      <ul>
-        <li class="disabled">Inbox</li>
-        <li><a href="/" class="current">Sent Mail</a></li>
-        <li class="disabled">Drafts</li>
-        <li class="disabled">All Mail</li>
-        {# <li><a href="/starred/">Starred (all)</a></li> #}
-        {# <li><a href="/starred/">Starred (by you)</a></li>         #}
-      </ul>
+      
+      {% block navigation %}{% endblock %}
+
     </div>
 
   	<h2>Sample Searches</h2>

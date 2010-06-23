@@ -122,9 +122,9 @@ body {
 #content h1 {
  display: inline;
  font-size: 14px;
- background: url('images/title-bg.png') no-repeat left center;
+/* background: url('images/title-bg.png') no-repeat left center;*/
  color: #00681C ;
- padding: 0px 0px 0px 20px;
+ padding: 0px 0px 0px 0px;
  margin: 0px;
  }
 .entry_date {
@@ -399,10 +399,19 @@ table#mail-index tr td.name { width: 200px; padding: 0 10px 0 5px; text-align: l
 table#mail-index tr td.date { padding: 0 5px 0 10px; text-align: right;}
 table#mail-index tr td a { color: black; text-decoration: none;}
 #mail-index-wrapper { padding-right: 7px;}
-div.star { background-image: url(images/star.png); background-repeat: no-repeat; width: 16px; height: 16px;}
-td.star { width: 20px;}
-div.star.off { background-position: 0px 0px;}
-div.star.on { background-position: 0px -16px;}
+a.star { 
+    background-image: url(images/star.png); 
+    background-repeat: no-repeat; 
+    width: 16px; 
+    height: 16px;
+}
+.entry_body a.star { display: block; float: left; margin-right: 5px;}
+a.star { 
+    background-position: 0px 0px;
+}
+a.star.on { 
+    background-position: 0px -16px;
+}
 .entry_body pre { margin: 0;}
 #page-navigation { float: right; margin-top: 10px; padding-right: 10px;}
 #page-navigation #page-range, #page-navigation a { padding: 0 3px;}
@@ -454,3 +463,5 @@ label#back-wrapper a:hover { text-decoration: underline;}
     padding: 15px 0 15px 30px;
     background: url(images/paperclip.png) no-repeat top left;
 }
+
+#error-container { padding: 10px; }
