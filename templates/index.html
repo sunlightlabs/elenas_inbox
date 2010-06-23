@@ -12,7 +12,7 @@
   {% endif %}
 
         <tr{% if not thread.read %} class="unread"{% endif %}>
-          {# <td class="star"><div class="star off"></div></td> #}
+          {# <td class="star"><a href="#" rel="{{ thread.obj.id }}" class="star off"></a></td> #}
           <td class="name"><a href="/thread/{{ thread.obj.id }}/{% if search %}?q={{ search_orig }}{% endif %}">To: {{ thread.obj.all_recipient_html|safe|striptags }}{% if thread.obj.count > 1 %} ({{ thread.obj.count}}){% endif %}</a></td>
           <td class="subject"><a href="/thread/{{ thread.obj.id }}/{% if search %}?q={{ search_orig }}{% endif %}">{% if thread.obj.name %}{{ thread.obj.name|safe }}{% else %}(No subject){% endif %}</a></td>
           <td class="date"><a href="/thread/{{ thread.obj.id }}/{% if search %}?q={{ search_orig }}{% endif %}">{{ thread.obj.date|date:"SHORT_DATE_FORMAT" }}</a></td>
@@ -24,13 +24,13 @@
      
     <div id="page-navigation">
       {% if prev %}
-        <a href="{{ path }}?page={{ first }}">&laquo;&nbsp;Newest</a>
-        <a href="{{ path }}?page={{ prev }}">&lsaquo;&nbsp;Newer</a>
+        <a href="{{ path }}?page={{ first }}{% if search %}&q={{ search_orig }}{% endif %}">&laquo;&nbsp;Newest</a>
+        <a href="{{ path }}?page={{ prev }}{% if search %}&q={{ search_orig }}{% endif %}">&lsaquo;&nbsp;Newer</a>
       {% endif %}
         <span id="page-range">{{ range|safe }}</span>
       {% if next %}
-        <a href="{{ path }}?page={{ next }}">Older&nbsp;&rsaquo;</a>
-        <a href="{{ path }}?page={{ last }}">Oldest&nbsp;&raquo;</a>
+        <a href="{{ path }}?page={{ next }}{% if search %}&q={{ search_orig }}{% endif %}">Older&nbsp;&rsaquo;</a>
+        <a href="{{ path }}?page={{ last }}{% if search %}&q={{ search_orig }}{% endif %}">Oldest&nbsp;&raquo;</a>
       {% endif %}  
     </div>
   {% endif %}
