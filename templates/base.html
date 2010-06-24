@@ -40,6 +40,24 @@
           new_cookie_array.push(cookie_array[i]);
       $.cookie(cookie_name, new_cookie_array.join(','), { path: '/', expires: 365 });
     }
+    
+    function GetArrayOfIDs(cookie_name) {
+      cookie = $.cookie(cookie_name);
+      if (cookie==null) {
+        return new Array();
+      }
+      else {
+        var arr = new Array()
+        var entries = cookie.split(',');
+        for(var i=0;i<entries.length;i++)
+          arr['_' + entries[i]] = true;
+        return arr;
+      }
+    }
+    
+    function IsMarked(arr, v) {
+      return !(arr['_' + v]==undefined);
+    }
 
   </script>
 

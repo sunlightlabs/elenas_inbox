@@ -17,6 +17,11 @@
 
 {% block content %}
 
+<script type="text/javascript">
+var read = GetArrayOfIDs('kagan_read');
+var starred = GetArrayOfIDs('kagan_star');
+</script>
+
 {% for thread in threads %}
 
   {% if forloop.first %}
@@ -27,11 +32,11 @@
       <table id="mail-index">
   {% endif %}
 
-        <tr{% if not thread.read %} class="unread"{% endif %}>
-          <td class="star"><a href="#" rel="{{ thread.obj.id }}" class="star{% if thread.star %} on{% endif %}"></a></td>
-          <td class="name"><a href="/thread/{{ thread.obj.id }}/{% if search %}?q={{ search_orig }}{% endif %}">To: {{ thread.obj.all_recipient_html|safe|striptags }}{% if thread.obj.count > 1 %} ({{ thread.obj.count}}){% endif %}</a></td>
-          <td class="subject"><a href="/thread/{{ thread.obj.id }}/{% if search %}?q={{ search_orig }}{% endif %}">{% if thread.obj.name %}{{ thread.obj.name|safe }}{% else %}(No subject){% endif %}</a></td>
-          <td class="date"><a href="/thread/{{ thread.obj.id }}/{% if search %}?q={{ search_orig }}{% endif %}">{{ thread.obj.date|date:"SHORT_DATE_FORMAT" }}</a></td>
+        <script type="text/javascript">document.write((IsMarked(read, '{{ thread.id }}')) ? '<tr>' : '<tr class="unread">');</script><noscript><tr></noscript>
+          <script type="text/javascript">document.write((IsMarked(starred, '{{ thread.id }}')) ? '<td class="star"><a href="#" rel="{{ thread.id }}" class="star on"></a></td>' : '<td class="star"><a href="#" rel="{{ thread.id }}" class="star"></a></td>');</script>
+          <td class="name"><a href="/thread/{{ thread.id }}/{% if search %}?q={{ search_orig }}{% endif %}">To: {{ thread.all_recipient_html|safe|striptags }}{% if thread.count > 1 %} ({{ thread.count}}){% endif %}</a></td>
+          <td class="subject"><a href="/thread/{{ thread.id }}/{% if search %}?q={{ search_orig }}{% endif %}">{% if thread.name %}{{ thread.name|safe }}{% else %}(No subject){% endif %}</a></td>
+          <td class="date"><a href="/thread/{{ thread.id }}/{% if search %}?q={{ search_orig }}{% endif %}">{{ thread.date|date:"SHORT_DATE_FORMAT" }}</a></td>
         </tr>
       
   {% if forloop.last %}

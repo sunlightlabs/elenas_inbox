@@ -1,15 +1,18 @@
 from django.shortcuts import render_to_response, get_object_or_404
 from django.template import RequestContext
 from django.core.paginator import Paginator
-from django.http import HttpResponse
+from django.http import HttpResponse, HttpResponseRedirect
 from urllib import unquote
 from haystack.query import SearchQuerySet
 from mail.models import *
 from django.db.models import Q
+from django.core.urlresolvers import reverse
 from django.core.cache import cache
 import re
 
+
 RESULTS_PER_PAGE = 50
+
 
 def _search_string(request):
     return request.GET.get('q', None)
@@ -37,6 +40,7 @@ def _search_tokens(request):
         
     return tokens
     
+    
 def _highlight(text, tokens):
     regexes = []
     sorted_tokens = sorted(tokens, key=lambda x: len(x))
@@ -61,16 +65,7 @@ def _prepare_ids_from_cookie(request, cookie_name):
         id_list = []
 
     return id_list
-
-def _annotate_threads(request, threads):
-    read_ids = _prepare_ids_from_cookie(request, 'kagan_read')
-    star_ids = _prepare_ids_from_cookie(request, 'kagan_star')
-
-    threads_obj = []
-    for thread in threads:
-        threads_obj.append({'read': (thread.id in read_ids), 'star': (thread.id in star_ids), 'obj': thread})
-
-    return threads_obj
+    
     
 def _annotate_emails(emails, search=[]):
     r = []
@@ -79,6 +74,7 @@ def _annotate_emails(emails, search=[]):
         r.append({ 'to_html': email.to_html(), 'cc_html': email.cc_html(), 'obj': email })
     return r
 
+
 def index(request, search=[], threads=None):
     
     if threads is None:
@@ -86,8 +82,6 @@ def index(request, search=[], threads=None):
         threads = Thread.objects.all().order_by('-date')        
     else:
         threads_count = threads.count()
-        if type(threads) is SearchQuerySet:
-            threads = map(lambda x: x.object, threads)            
         
     p = Paginator(threads, RESULTS_PER_PAGE)
     
@@ -98,13 +92,14 @@ def index(request, search=[], threads=None):
         pass
     page = p.page(page_num)
 
-    threads = []
+    highlighted_threads = []
     for thread in page.object_list:
+        if (threads is not None) and type(threads) is SearchQuerySet: # deal with searchqueryset objects
+            thread = thread.object
+
         thread.name = _highlight(thread.name, search)
-        threads.append(thread)
-        
-    threads = _annotate_threads(request,threads)
-    
+        highlighted_threads.append(thread)
+            
     template_vars = {
         'range': "<strong>%d</strong> - <strong>%d</strong> of <strong>%d</strong>" % (page.start_index(), page.end_index(), threads_count),
         'num_pages': p.num_pages , 
@@ -113,7 +108,7 @@ def index(request, search=[], threads=None):
         'first': '1', 
         'last': p.num_pages, 
         'current_page': page_num, 
-        'threads': threads, 
+        'threads': highlighted_threads, 
         'search': " ".join(search), 
         'search_orig': (_search_string(request) is not None) and _search_string(request) or '', 
         'path': request.path,
@@ -127,21 +122,24 @@ def contact(request, contact_id):
     if threads is None:        
         try:
             person = Person.objects.get(id=contact_id)
-        except Thread.DoesNotExist, e:
+        except Person.DoesNotExist, e:
             return HttpResponseRedirect(reverse('mail.views.index'))
     
         threads = []
         emails = Email.objects.filter(Q(to=person)|Q(cc=person))
         for e in emails:
-            threads.append(e.email_thread.id)
+            if e.email_thread is not None:
+                threads.append(e.email_thread.id)
         threads = Thread.objects.filter(id__in=threads).order_by('-date')
         
         cache.set(cache_key, threads)
     
     return index(request, threads=threads)
 
+
 def contacts_index(request):
     return index(request)
+
 
 def thread(request, thread_id):
     try:
@@ -154,6 +152,7 @@ def thread(request, thread_id):
     emails = _annotate_emails(Email.objects.filter(email_thread=thread).order_by('creation_date_time'), search)    
 
     return render_to_response('thread.html', {'thread': thread, 'thread_starred': thread_starred, 'emails': emails }, context_instance=RequestContext(request))
+    
     
 def search(request):
     tokens = _search_tokens(request)
@@ -170,6 +169,7 @@ def search(request):
 
     return index(request, search=tokens, threads=sqs)
 
+
 def star_record_ajax(request, thread_id, action):
     try:
         thread = Thread.objects.get(id=thread_id)
@@ -185,6 +185,7 @@ def star_record_ajax(request, thread_id, action):
     thread.save()
 
     return HttpResponse('{ status: \'success\'}')
+
 
 def starred(request):
     starred_ids = _prepare_ids_from_cookie(request, 'kagan_star')
