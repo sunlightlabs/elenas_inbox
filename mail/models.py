@@ -419,8 +419,8 @@ class Email(models.Model):
     
     def creator_html(self):
         p = self.creator
-        p_name = len(p.get('name', '').strip())>0 and p['name'] or p['alias']
-        p_slug = len(p.get('slug', '').strip())>3 and p['slug'] or str(p['id'])
+        p_name = len(p.name.strip())>0 and p.name or p.alias
+        p_slug = len(p.slug.strip())>3 and p.slug or str(p.id)
         return '<a href="/contact/%s/">%s</a>' % (p_slug, p_name)
         
         
