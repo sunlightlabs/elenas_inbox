@@ -71,7 +71,7 @@ def _annotate_emails(emails, search=[]):
     r = []
     for email in emails:
         email.text = _highlight(email.text, search)
-        r.append({ 'to_html': email.to_html(), 'cc_html': email.cc_html(), 'obj': email })
+        r.append({ 'creator_html': email.creator_html(), 'to_html': email.to_html(), 'cc_html': email.cc_html(), 'obj': email })
     return r
 
 
