@@ -29,7 +29,7 @@ var starred = GetArrayOfIDs('kagan_star');
   	<h1><a href="/thread/{{ thread.id }}/#email-{{ email.obj.id }}" rel="bookmark" title="Permanent Link to '{{ email.obj.subject }}'">{{ email.obj.subject }}</a></h1><span class="entry_date">{{ email.obj.creation_date_time|date:"f A d M Y" }}</span>
     <table class="addressees">
 
-      {% if email.creator %}
+      {% if email.creator_html %}
       <tr>
         <td>from:</td>
         <td>{{ email.creator_html|safe }}</td>
