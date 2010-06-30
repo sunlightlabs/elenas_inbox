@@ -4,8 +4,8 @@
 
 {% block navigation %}
 <ul>
-  <li class="disabled">Inbox</li>
-  <li><a href="/">Sent Mail</a></li>
+  <li><a href="/">Inbox</a></li>
+  <li><a href="/sent/">Sent Mail</a></li>
   <li class="disabled">Drafts</li>
   <li class="disabled">All Mail</li>
   <li><a href="/starred/all/">Starred (all)</a></li>
@@ -28,18 +28,28 @@ var starred = GetArrayOfIDs('kagan_star');
   	{% if forloop.first %}<script type="text/javascript">document.write((IsMarked(starred, '{{ thread.id }}')) ? '<a href="#" rel="{{ thread.id }}" class="star on"></a>' : '<a href="#" rel="{{ thread.id }}" class="star"></a>');</script>{% endif %}
   	<h1><a href="/thread/{{ thread.id }}/#email-{{ email.obj.id }}" rel="bookmark" title="Permanent Link to '{{ email.obj.subject }}'">{{ email.obj.subject }}</a></h1><span class="entry_date">{{ email.obj.creation_date_time|date:"f A d M Y" }}</span>
     <table class="addressees">
+
+      {% if email.creator %}
+      <tr>
+        <td>from:</td>
+        <td>{{ email.creator_html|safe }}</td>
+      </tr>
+      {% endif %}
+
       {% if email.to_html %}
       <tr>
         <td>to:</td>
         <td>{{ email.to_html|safe }}</td>
       </tr>
       {% endif %}
+      
       {% if email.cc_html %}
       <tr>
         <td>cc:</td>
         <td>{{ email.cc_html|safe }}</td>
       </tr>
       {% endif %}
+      
     </table>
     <pre>
       {{ email.obj.text|safe }}

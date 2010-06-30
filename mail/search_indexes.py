@@ -17,6 +17,7 @@ class ThreadIndex(SearchIndex):
                 recipients.append((len(recipient['name'].strip())>0) and recipient['name'] or recipient['alias'])
             for recipient in email.cc.values():
                 recipients.append((len(recipient['name'].strip())>0) and recipient['name'] or recipient['alias'])
+            recipients.append((len(email.creator.name.strip())>0) and email.creator.name.strip() or email.creator.alias.strip())
         return recipients
     
     def prepare_text(self, object):

@@ -1,18 +1,21 @@
-from django.core.management.base import NoArgsCommand
-import re
+from django.core.management.base import NoArgsCommand, BaseCommand
+import re, os, hashlib
 
-class Command(NoArgsCommand):
+class Command(BaseCommand):
     help = "Extract Kagan email data into individual files."    
 
-    def emit(self, count, buf):
-        out = open('parsed/source/%d.txt' % count, 'w')
+    def emit(self, filename, count, buf):        
+        out = open('parsed/source/%s/%d.txt' % (hashlib.md5(filename).hexdigest(), count), 'w')
         out.write("".join(buf))
         out.close()
         
 
-    def handle_noargs(self, **options):
+    def handle(self, *args, **options):
 
-        FILES = ('../pdf/combined.txt',)
+        files = []
+        for p in args:
+            if os.path.exists(p):
+                files.append(p)
         
         re_record_start = re.compile(r'.?\s*RECORD\sTYPE:')
         re_garbage = re.compile(r'(^.?\s*http://[\]\[\|\(\)lI1]72\.|/servlet/getEmaiIArchive|\x0c|ARMS\sEmail\sSystem\s{3,})')
@@ -21,7 +24,12 @@ class Command(NoArgsCommand):
         re_page_end = re.compile(r'\x0c')
         
         count = 0
-        for filename in FILES:
+        for filename in files:
+            
+            dir = 'parsed/source/%s' % hashlib.md5(filename).hexdigest()
+            if not os.path.exists(dir):
+                os.mkdir(dir)
+            
             buf = []
             collecting = False
             f = open(filename, 'r')
@@ -33,7 +41,7 @@ class Command(NoArgsCommand):
                 # skip over redaction marker pages
                 if (re_redaction.search(line) is not None) and (re_withdrawal.search(line) is not None):
                     if collecting:
-                        self.emit(count, buf)
+                        self.emit(filename, count, buf)
                         count += 1
                         collecting = False
                         
@@ -47,7 +55,7 @@ class Command(NoArgsCommand):
                 # new record? clear out the buffer (if there is a buffer)
                 if re_record_start.match(line) is not None:
                     if collecting and len(buf)>0:
-                        self.emit(count, buf)
+                        self.emit(filename, count, buf)
                         count += 1
                     collecting = True
                     buf = []

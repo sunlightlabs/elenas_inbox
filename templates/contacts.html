@@ -1,26 +1,21 @@
 {% extends "base.html" %}
 {% load media %}
 
-{% block page_title %}{% if path == '/starred/all/' %}All Starred Threads | Elena's Inbox{% endif %}{% if path == '/starred/' %}Your Starred Threads | Elena's Inbox{% endif %}{% if path == '/' %}Elena's Inbox | A Project of the Sunlight Foundation{% endif %}{% if search %}Search results for: {{ search }} | Elena's Inbox{% endif %}{% endblock %}
+{% block page_title %}Contacts | Elena's Inbox{% endblock %}
 
 
 {% block navigation %}
 <ul>
-  <li><a href="/"{% if path == '/' %} class="current"{% endif %}>Inbox</a></li>
-  <li><a href="/sent/"{% if path == '/sent/' %} class="current"{% endif %}>Sent Mail</a></li>
+  <li class="disabled">Inbox</li>
+  <li><a href="/">Sent Mail</a></li>
   <li class="disabled">Drafts</li>
   <li class="disabled">All Mail</li>
-  <li><a href="/starred/all/"{% if path == '/starred/all/' %} class="current"{% endif %}>Starred (all)</a></li>
-  <li><a href="/starred/"{% if path == '/starred/' %} class="current"{% endif %}>Starred (by you)</a></li>        
+  <li><a href="/starred/all/">Starred (all)</a></li>
+  <li><a href="/starred/">Starred (by you)</a></li>        
 </ul>
 {% endblock %}
 
 {% block content %}
-
-<script type="text/javascript">
-var read = GetArrayOfIDs('kagan_read');
-var starred = GetArrayOfIDs('kagan_star');
-</script>
 
 {% for thread in threads %}
 
@@ -34,9 +29,9 @@ var starred = GetArrayOfIDs('kagan_star');
 
         <script type="text/javascript">document.write((IsMarked(read, '{{ thread.id }}')) ? '<tr>' : '<tr class="unread">');</script><noscript><tr></noscript>
           <script type="text/javascript">document.write((IsMarked(starred, '{{ thread.id }}')) ? '<td class="star"><a href="#" rel="{{ thread.id }}" class="star on"></a></td>' : '<td class="star"><a href="#" rel="{{ thread.id }}" class="star"></a></td>');</script>
-          <td class="name"><a href="/thread/{{ thread.slug }}/{% if search %}?q={{ search_orig }}{% endif %}">{% if thread.creator.is_kagan %}To: {% endif %}{{ thread.all_recipient_html|safe|striptags }}{% if thread.count > 1 %} ({{ thread.count}}){% endif %}</a></td>
-          <td class="subject"><a href="/thread/{{ thread.slug }}/{% if search %}?q={{ search_orig }}{% endif %}">{% if thread.name %}{{ thread.name|safe }}{% else %}(No subject){% endif %}</a></td>
-          <td class="date"><a href="/thread/{{ thread.slug }}/{% if search %}?q={{ search_orig }}{% endif %}">{{ thread.date|date:"SHORT_DATE_FORMAT" }}</a></td>
+          <td class="name"><a href="/thread/{{ thread.id }}/{% if search %}?q={{ search_orig }}{% endif %}">To: {{ thread.all_recipient_html|safe|striptags }}{% if thread.count > 1 %} ({{ thread.count}}){% endif %}</a></td>
+          <td class="subject"><a href="/thread/{{ thread.id }}/{% if search %}?q={{ search_orig }}{% endif %}">{% if thread.name %}{{ thread.name|safe }}{% else %}(No subject){% endif %}</a></td>
+          <td class="date"><a href="/thread/{{ thread.id }}/{% if search %}?q={{ search_orig }}{% endif %}">{{ thread.date|date:"SHORT_DATE_FORMAT" }}</a></td>
         </tr>
       
   {% if forloop.last %}

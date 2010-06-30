@@ -437,6 +437,7 @@ a.star.on {
 }
 
 table.addressees { margin-bottom: 1em; }
+table.addressees td { vertical-align: top;}
 table.addressees tr td a { text-decoration: none; }
 .highlight { background-color: yellow; }
 label.top-explanation { display: block; margin: 3px 0 3px 10px;}

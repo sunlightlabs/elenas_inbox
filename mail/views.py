@@ -78,10 +78,10 @@ def _annotate_emails(emails, search=[]):
 def index(request, search=[], threads=None):
     
     if threads is None:
-        threads_count = Thread.objects.all().count()
-        threads = Thread.objects.all().order_by('-date')        
-    else:
-        threads_count = threads.count()
+        kagan = Person.objects.elena_kagan()
+        threads = Thread.objects.exclude(creator=kagan).order_by('-date')        
+
+    threads_count = threads.count()
         
     p = Paginator(threads, RESULTS_PER_PAGE)
     
@@ -116,7 +116,12 @@ def index(request, search=[], threads=None):
     
     return render_to_response('index.html', template_vars, context_instance=RequestContext(request))
 
-def contact(request, contact_id):
+def sent(request):
+    kagan = Person.objects.elena_kagan()
+    emails = Thread.objects.filter(creator=kagan).order_by('-date')
+    return index(request, threads=emails)
+
+def contact_by_id(request, contact_id, suppress_redirect=False):
     cache_key = 'contact_%d' % int(contact_id)
     threads = cache.get(cache_key)
     if threads is None:        
@@ -124,6 +129,9 @@ def contact(request, contact_id):
             person = Person.objects.get(id=contact_id)
         except Person.DoesNotExist, e:
             return HttpResponseRedirect(reverse('mail.views.index'))
+    
+        if person.merged_into is not None:
+            return HttpResponseRedirect('/contact/%d/' % person.merged_into.id)
     
         threads = []
         emails = Email.objects.filter(Q(to=person)|Q(cc=person))
@@ -136,23 +144,50 @@ def contact(request, contact_id):
     
     return index(request, threads=threads)
 
-
+def contact_by_name(request, contact_name):
+    try:
+        contact = Person.objects.get(slug=contact_name)
+    except Person.DoesNotExist, e:
+        return HttpResponseRedirect(reverse('mail.views.contacts_index'))
+    except Thread.MultipleObjectsReturned, e:
+        return HttpResponseRedirect(reverse('mail.views.contacts_index'))
+    
+    return contact_by_id(request, contact.id, suppress_redirect=True)
+    
 def contacts_index(request):
     return index(request)
 
 
-def thread(request, thread_id):
+def thread_by_id(request, thread_id, suppress_redirect=False):
     try:
         thread = Thread.objects.get(id=thread_id)
     except Thread.DoesNotExist, e:
         return HttpResponseRedirect(reverse('mail.views.index'))
+
+    # if merged thread, redirect
+    if thread.merged_into is not None:
+        return HttpResponseRedirect('/thread/%d/' % thread.merged_into.id)
+
+    # if access by ID, redirect to descriptive URL
+    if (not suppress_redirect) and (len(thread.slug.strip())>3):
+        return HttpResponseRedirect('/thread/%s/' % thread.slug)
 
     search = _search_tokens(request)
     thread_starred = thread.id in _prepare_ids_from_cookie(request, 'kagan_star')
     emails = _annotate_emails(Email.objects.filter(email_thread=thread).order_by('creation_date_time'), search)    
 
     return render_to_response('thread.html', {'thread': thread, 'thread_starred': thread_starred, 'emails': emails }, context_instance=RequestContext(request))
+
+def thread_by_name(request, thread_name):
+    try:
+        thread = Thread.objects.get(slug=thread_name)
+    except Thread.DoesNotExist, e:
+        return HttpResponseRedirect(reverse('mail.views.index'))
+    except Thread.MultipleObjectsReturned, e:
+        return HttpResponseRedirect(reverse('mail.views.index'))
     
+    return thread_by_id(request, thread.id, suppress_redirect=True)
+
     
 def search(request):
     tokens = _search_tokens(request)
