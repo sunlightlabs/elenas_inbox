@@ -1,0 +1,107 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Elizabeth Drye ( CN=Elizabeth Drye/OU=OPD/O=EOP [ OPD ]          )
+
+CREATION DATE/TIME: 12-JUN-1997 13:10:32.00
+
+SUBJECT:   Revised Tobacco Q&A
+
+TO: Toby Donenfeld ( CN=Toby Donenfeld/O=OvP @ OVP [ UNKNOWN]     )
+READ: UNKNOWN
+
+TO: Jennifer D. Dudley ( CN=Jennifer D. Dudley/OU=WHO/O=EOP @ EOP [ WHO]             )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ]       )
+READ: UNKNOWN
+
+TO: Beverly J. Barnes ( CN=Beverly J. Barnes/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+TO: Barbara D. Woolley ( CN=Barbara D. Woolley/OU=WHO/O=EOP @ EOP [ WHO]             )
+READ: UNKNOWN
+
+TO: Michelle Crisci ( CN=Michelle Crisci/OU=WHO/O=EOP @ EOP [ WHO]             )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TEXT:
+Please use this version that incorporates Bruce L's edit. Thanks.             =================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D99]MAIL47628426I.116 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043CC040000010A02010000000205000000BB13000000020000436B1276BC9EAA62821C16
+881DBA57D5AE5F1F41EA68ABD3EF96F798374784984D173B6E3FDC11EB76B17A124E1D52E613D4
+D4646BBB401DD5137CD03306482374495615D8E4F61DAA5557A5C4C5E663582366368FFB559102
+E5DFEFDFC26E4AOODAAA1BCF80F5F7F8DAFA32F17569CCDF7F0497B93A57EBF2B573F7DBD48829
+39E2F13FAEF0796E3FBD10FE9703D6060311DC6C89F89D41C56FCD708ACA4129842ADDA168BDAE
+7AD94ED79AC7E92891FA76C19AA46A51F02FB542083FDF86B2FDBDC99348AE53A2DC03CE2B4965
+CD7ECE8910D37CA5C8DA4C9CEF94B84E23F21CCEA7F1381BAE9B7EAFF40B1D020646F873EDCEA6
+C46618106AC07D14275D8E83AB5025E232A16D609624CBC1C69E7B9B94F57E2A8AB5E66CCFC468
+1F30FFEBF5B32BC7BDFA795449E01C2D654CABB72CEOC231B88C9E5BED46A7C709D2AB4FEF651E
+BF1BDBDF193C2FCD5825E5648FB02ADE4FACDC8E90674C9A9F57937A698765800A2D3DE5BA6FA4
+C8D291394427250AB2699550AE8B060126410EBB017F55557D4F752860EFE58545BA782F628ED7
+2523D66FBE33A373532AA11A110B5E70A69C56441105B3854B6553835F4010DF31E8B95C05738C
+E4DE80DEECD61AE3EFB601F4CC1AB9A7AOC485F129CA6D9ED8F3429F6643B32F7484BFD63812BD
+76CFA3A49302000A00000000000000000000000823010000000B0100008C02000000550AOOOOOO
+4E0000009703000009250100000006000000E50300000B300200000028000000EB030000087701
+000000400000001304000008340100000014000000530400000802010000000F00000067040000
+08050100000008000000760400000055090000004E0000007E04000000984C006F00630061006C
+002000430061006E006F006E0020004C0042005000340000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000057494E53504F4F4COOOOOOOOOO
+E0019001C80090019001C800E00190013000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+
+o    The Administration is closely monitoring the settlement talks among the tobacco
+     industry, state attorneys general, public health groups, and private lawyers. Any
+     agreement would have to be passed by the Congress and signed by the President.
+
+o    We will carefully review any settlement that emerges from the discussions, and we will
+     seek the advice of the public health community. As the President has said, in reviewing
+     any settlement proposal, our focus will stay squarely on protecting kids and the public
+     health.
+
+Q.   Is the Administration trying to help close the deal?
+
+A.   Absolutely not. The Administration is monitoring the talks closely, so that the President
+     will be in a position to evaluate and respond to any possible settlement. But the
+     Administration has not yet reached a judgment on the kind of settlement the parties
+     appear to be discussing and is not trying to encourage or close the deal.
+
+Q.   Have you started to review the deal?
+
+A.   We have begun a process for reviewing the provisions that have been under discussion.
+     We expect to spend the next couple of weeks analyzing the details as they emerge, and
+     consulting with the public health community and others.
+
+Q.   How will the review work and how long will it take?
+
+A.   A number of the Federal agencies have a role in tobacco, so we will coordinate the review
+     out of the White House. We will take as long as we need to take, but we will seek to
+     work promptly and expeditiously.
+
+Q.   Dr. Kessler and Dr. Koop have asked in a letter to the President that you give them
+     30 days to complete their own review before the President signs off on anything.
+     Are you going to wait?
+
+A.   The President has made clear that we would very closely consider the views of the public
+     health community prior to rendering any judgment on a settlement, but we've been in
+     contact with members of the community during the whole course of these discussions.
+     We are not going to act before we know the views of the public health community,
+     including Dr. Koop and Dr. Kessler, but we have not decided on any particular timetable.
+
+
+
+
+                                              Automated Records Management System
+                                                      Hex-Dump Conversion
+
+

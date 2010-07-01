@@ -1,0 +1,107 @@
+     RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+     CREATOR: Leanne A. Shimabukuro ( CN=Leanne A. Shimabukuro/OU=OPD/O=EOP [ OPD ] )
+
+     CREATION DATE/TIME:24-FEB-1998 19:36:34.00
+
+     SUBJECT:   crime meeting agenda
+
+
+     TO: Thomas L. Freedman ( CN=Thomas L. Freedman/OU=OPD/O=EOP @ EOP [ OPD ] )
+     READ: UNKNOWN
+
+     TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+     READ: UNKNOWN
+
+     TO: Mary L. Smith ( CN=Mary L. Smith/OU=OPD/O=EOP @ EOP [ OPD ] )
+     READ: UNKNOWN
+
+     TO: Christa Robinson ( CN=Christa Robinson/OU=OPD/O=EOP @ EOP [ OPD ] )
+     READ:UNKNOWN
+
+     TO: Michelle Crisci    ( CN=Michelle Crisci/OU=WHO/O=EOP @ EOP [ WHO]     )
+     READ: UNKNOWN
+
+     CC: Jose Cerda III    ( CN=Jose Cerda III/OU=OPD/O=EOP @ EOP [ OPD]   )
+     READ:UNKNOWN
+
+     TEXT:
+     ==================== ATTACHMENT   1 ====================
+     ATT CREATION TIME/DATE:   0 00:00:00.00
+
+     TEXT:
+     Unable to convert ARMS_EXT: [ATTACH.D24]MAIL463448452.026 to ASCII,
+      The following is a HEX DUMP:
+
+     FF575043B0040000010A02010000000205000000041200000002000003DA951A3F6793AE83B6C5
+     8DC7F9D900014FOA26FA3F81CCF27EFCCDB7C60979AO.F43FBA2B61D62C1B349FCCA62385D32DOO
+     5446787CEA3B6F333BF4458AE8C505D54E40741B5E69A1C6C2361DE4F0193EC803C8F3900D2EDE
+     60860C7127FOEFOC283E05E7ECDOCOAE78681917D3C871DC160754AF494D260520A881A84463E2
+     AB7BCOF4BD64AFC91919C46FBA9E56F91244A71CCDBECE28COAC37A8CF8ADB498B5AOF522EE370
+     4D19D8D948DCE97B2EA3BF78E2B88BFDF7F2D22D3555DDD8B5F9EAEC4DEAB28D699F239A3E56D8
+     AFB4C9B413EBB641381FFC3B7E524CC1A77D2C7637DC86A9084E146E91E010713FB5A3A120EA06
+     D36FCC92D96958A12951E2365C72961A7D2B6B3F83958D36C55DOE38C01E6419D20581A5BBAB2C
+     D51863EF453E43CE420E449B4BAAAC7B3C5BE1DEEFAB853FC8D2768F38B07AACDAD46A927E8D5A
+     C9F8025EB61BA896FC09A8A4104D24FD7F49273A17853AF91625D69D4A492B98B2F1692CF37199
+     050B466F85008CDA3B635B1BOB7DB34485844F338CBC22CC6C23C5OEOE9A74C85EA6E0444D281E
+     659E6AB8353B44121734CE342F458D7C9D273E684B06F6A70B691269C7B4F094B90D55EBOF4D6B
+     C6CCAAOE66DB54E7A80DFA929BF1E4DCBAODA80160195A3F74AFEFO834F871C1DA2D1C489AE250
+     6BF1769DAB02000A00000000000000000000000823010000000B0100008C020000005503000000
+     4E0000009703000009250100000006000000E50300000B300200000028000000EB030000081601
+     000000320000001304000008770100000040000000450400000834010000001400000085040000
+     0802010000000F0000009904000008050100000008000000A804000000984800500020004C0061
+     007300650072006A00650074002000350000000000000000000000000000000000000000000000
+     000000000000000000000000000000000000000000000000000057494E53504F4F4COOOOOOOOOO
+     C800C8002C012C012C012C01C800C8003000000000000000000000000000000000000000000000
+     000000000000000000000000000000000000000000000000000000000000000000000000000000
+     000000000000000000000000000000000000000000000000000000000000000000000000000000
+     000000000000000000000000000000000000000000000000000000000000000000000000000000
+     0000000000000000000000000000000000000B0100002800D61EC3OF3908000011090000005AOO
+     OB01008B143600540069006D006500730020004E0065007700200052006F006D0061006E002000
+..
+                                          Crime Meeting Agenda
+                                            February 25, 1998              Automated Records Management System
+                                                                           Hex-Dump Conversion
+         Pending Events
+               *     Possible Drunk Driving Event
+                        Call on Congress to pass .08 BAC legislation.
+                     - Timing of NEXTEA
+
+                *      3114 Tentative Assault Weapons Radio Address
+                       - Release date for report
+
+         Legislative Update
+                *      Juvenile crime
+                              - Model Juvenile Handgun Legislation
+
+                *      Drugs
+                               - Crack cocaine: Abraham bill
+                               - ONDCP Reauthorization
+                               - Drug Strategy Resolution
+
+                *      Miscellaneous
+                              1) Crimes against children package (missing children, Internet stalking)
+                              2) Witness protection
+                              3) Bailey fix
+                              4) Durbin bill on handgun sale waiting period
+
+         Other Potential Events
+               *      Youth gun violence event with National Association Attys General (3113)
+
+                *      Gun Trafficking (Schumer legislation)
+
+                *      Money Laundering/ Final GTO Regulation
+
+                *      School Violence Report Card possibly released mid-March.
+
+                *      4th Anniversary of AG's Violent Crime Initiative
+
+         Miscellaneous/ Pending Items
+                *     Update from DO] on drug testing and driver's licenses funding issue.
+                *     NIl Gang Report -- postponed
+                *     Any other pending events/releases--DOJ Reports
+                *     2/28 is 4th anniversary of Brady implementation (Holder remarks at availability).
+,.'
+
+
+

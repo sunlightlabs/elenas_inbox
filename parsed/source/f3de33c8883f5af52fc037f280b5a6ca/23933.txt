@@ -1,0 +1,144 @@
+RECORD TYPE: PRESIDENTIAL     (NOTES MAIL)
+
+CREATOR: Mary L. Smith ( CN=Mary L. Smith/OU=OPD/O=EOP [ OPD 1 )
+
+CREATION DATE/TIME:24-MAY-1999 11:59:43.00
+
+SUBJECT:     Potential EEOC Attorney Fee Compromise
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Thomas L. Freedman ( CN=Thomas L. Freedman/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TEXT:
+There is a meeting at 5p.m. today in Chuck Ruff's office to discuss the
+issue of whether attorney's fees should be available in the pre-complaint
+stage of the EEO process for federal employees.    OMB's potential
+compromise would generally not allow attorney's fees to be calculated for
+pre-complaint activities unless the AJ finds discrimination and the agency
+disagrees with it, and the employee ends up prevailing on appeal.  Below
+is memo of pros and cons on the compromise that OMB has drafted.
+---------------------- Forwarded by Mary L. Smith/OPD/EOP on OS/24/99
+11:37 AM ---------------------------
+
+
+
+           Daniel I. werfel
+           OS/24/99 10:31:00 AM
+
+Record Type: Record
+
+To: Mary L. Smith/OPD/EOP
+cc:
+Subject: Potential EEOC Attorney Fee Compromise
+
+I wasn't sure if you ever got this.
+---------------------- Forwarded by Daniel I. Werfel/OMB/EOP on OS/24/99
+10:30 AM ---------------------------
+
+
+
+Daniel J. Chenok
+OS/21/99 12:54:30 PM
+Record Type: Record
+
+To: Sally Katzen/OPD/EOP@EOP
+cc: Shannon Mason/OPD/EOP@EOP, Daniel I. Werfel/OMB/EOP@EOP, Donald R.
+Arbuckle/OMB/EOP@EOP
+Subject: Potential EEOC Attorney Fee Compromise
+
+
+
+Sally,
+
+
+
+ Your are scheduled to meet with Chuck Ruff and Maria Echaveste on Monday
+to discuss the one remaining issue on the EEOC Final Rule - - attorneys
+fees.  Recall that EEOC's draft final rule would allow attorneys fees to
+include pre-complaint activities. Treasury, Commerce, and several other
+agencies have raised significant concerns with this approach.  Yesterday,
+Danny Werfel sent you memo that stated out arguments on both sides of the
+issue.  Set out below is a potential draft compromise position with some
+pros and cons.
+
+Let us know if you have any further questions or reactions.    Thanks.
+
+
+
+
+==================== ATTACHMENT 1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D52]ARMS24455545T.136 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043A40B0000010A020100000002050000002020000000020000989C2A2BF03B305090642B
+50DA18EDCCAEDB98AB4B4E1A1C63BE5AC46797D022E8CDF979280C83BEF348DA94E2E8B87C8170
+pre-complaint activities, with one exception. In the event that the AJ issues a finding of
+discrimination, and the agency's final order is not to implement that finding (i.e., "a thumbs
+down"), and the employee ends up prevailing on appeal, then attorneys fees can be awarded for
+pre-complaint activities.
+
+Pros:
+
+        Without a guarantee of attorneys fees for pre-complaint activities, attorneys will take
+        more care in deciding to get involved in cases in the precomplaint stage. This has
+        several benefits:
+
+        (i) Addresses agency goal of maintaining and "informal" environment by significantly
+limiting the number of attorneys that enter cases in the precomplaint stage.
+
+       (ii) Moves in the direction of EEOC's policy, because the presence of this exception
+makes it will be more likely than under the current system that attorneys will enter at the
+pre-complaint stage.
+
+       (iii) Attorneys looking at cases in the pre-complaint stage may limit themselves to valid
+but contestable claims that are likely to end up before an AJ (in the hopes of getting the attorneys
+fees exception, since if the agency agreed with the AJ no fees would be awarded), and shy away
+from cases that appear closer to settlement or agency-AJ agreement.
+
+        Agencies will take more care in issuing a "thumbs down" because their liability is
+        increased if the employee ends up prevailing. This will have two beneficial effects:
+
+(i) Creates a discincentive for agencies to issue "knee jerk" disagreements with the AJ
+        decisions.
+
+(ii) Backlog will be decreased because more cases will be completed following the AJ
+        decision.
+
+        The new approach would be an appropriate complement to the "offer of resolution"
+        procedure. Under the "offer of resolution" if an agency makes a settlement offer to an
+        employee, the employee rejects that offer, and the employee ends up prevailing but with a
+        judgment not as favorable as the initial settlement offer, then the employee loses the right
+        to attorneys fees.
+
+Cons:
+
+   May not go far enough to meet EEOC's policy goal to bring equity into the system by giving
+   employees a fair opportunity to be represented by counsel at each stage of the complaint
+   process.
+
+   Creates a slightly more complicated system, where pre-complaint attorneys feys are available
+   in some situations but not in others.
+                                               Automated Records ~anagement SystelT'
+                                               Hex-Dump Conversion
+to get to an AJ decision so that there is a higher probablity that the pre-complaint attorneys
+fees exception would kick in.
+
+
+
+
+                     Automated Records Management System
+                     Hex-Dump Conversion
+
+

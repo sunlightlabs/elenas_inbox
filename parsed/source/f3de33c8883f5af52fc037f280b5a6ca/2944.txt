@@ -1,0 +1,255 @@
+RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+CREATOR: Andrew J. Mayock ( CN=Andrew J. Mayock/OU=WHO/O=EOP [ WHO 1 )
+
+CREATION DATE/TIME: 13-JUN-1997 14:41:57.00
+
+SUBJECT:   Feedback from Outreach Calls
+
+TO: David S. Beaubaire ( CN=David S. Beaubaire/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Emil E. Parker ( CN=Emil E. Parker/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Katherine Hubbard ( CN=Katherine Hubbard/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: James T. Edmonds    ( CN=James T. Edmonds/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Lynn G. Cutler ( CN=Lynn G. Cutler/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Richard Socarides ( CN=Richard Socarides/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Ann F. Walker ( CN=Ann F. Walker/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Ellen M. Lovell    ( CN=Ellen M. Lovell/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Thurgood Marshall Jr.   ( CN=Thurgood Marshall Jr./O=OVP @ OVP [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Robert N. Weiner ( CN=Robert N. Weiner/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Richard L. Hayes ( CN=Richard L. Hayes/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Bob J. Nash ( CN=Bob J. Nash/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Maria Echaveste    ( CN=Maria Echaveste/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Ananias Blocker III ( CN=Ananias Blocker III/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Joseph P. Lockhart ( CN=Joseph P. Lockhart/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Carolyn Curiel    ( CN=Carolyn Curiel/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Beverly J. Barnes ( CN=Beverly J. Barnes/OU=WHO/O=EOP @ EOP [ WHO 1 )
+
+
+READ: UNKNOWN
+
+TO: Doris o. Matsui ( CN=Doris    o.   Matsui/OU=WHO/O=EOP @ EOP [ WHO]          )
+READ:UNKNOWN
+
+TO: Cheryl D. Mills ( CN=Cheryl D. Mills/OU=WHO/O=EOP @ EOP [ WHO]               )
+READ: UNKNOWN
+
+TO: Ann F. Lewis ( CN=Ann F. Lewis/OU=WHO/O=EOP @ EOP [ WHO]         )
+READ: UNKNOWN
+
+TO: Jose Cerda III ( CN=Jose Cerda III/OU=OPD/O=EOP @ EOP [ OPD]             )
+READ: UNKNOWN
+
+TO: Minyon Moore ( CN=Minyon Moore/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+TO:, Tracey E. Thornton ( CN=Tracey E. Thornton/OU=WHO/O=EOP @ EOP [ WHO]                )
+READ: UNKNOWN
+
+TO: Janet Murguia ( CN=Janet Murguia/OU=WHO/O=EOP @ EOP      [ WHO]      )
+READ: UNKNOWN
+
+TO: Dawn M. Chirwa ( CN=Dawn M. Chirwa/OU=WHO/O=EOP @ EOP [ WHO]             )
+READ: UNKNOWN
+
+TO: Susan M. Liss ( CN=Susan M. Liss/O=OVP @ OVP [ UNKNOWN]      )
+READ: UNKNOWN
+
+TO: Robert B. Johnson ( CN=Robert B. Johnson/OU=WHO/O=EOP @ EOP [ WHO]               )
+READ: UNKNOWN
+
+TEXT:
+Thanks for getting back to me on the feedback from the calls.  Many folks
+responded.  If you're interested, attached is the document that aggregates
+your comments so that Ben Johnson can plug it into our ongoing system.
+
+Thanks again and thank you Ben.
+
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D75]MAIL439935367.116 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043C4040000010A0201000000020500000025280000000200005ABCE9042EE7A5D26A3861
+6993EDD427B088B388CB34DEFDF831BBBDADE46708F7272EC26C7BCFFD8BB9537E316F69B63414
+10D7C8D866BA481CDE43EDOB01928744BCD33C38D22BA496ED37F8OADFEEBDCEF865C17B072D50
+ODIOD927B33DD4EAAC09797906860285F9B1547DCCC5D70D5639563B6E3281C39A0555E2Fl1557
+8E87AEICAOCA272AOAC682C5936A6AC80041365BD3E41E225208FEIB7A81B61F4634BC12D09948
+409897667DEDFOFOBAA72259634ED2493CC2D9603E369DCB494A95AA3DDB6C376E92FE421CC41D
+373825BB7AF8EAD69B8714C2B382D51256690909210BE8329264080B276F098678980F4C8F3644
+7E836ECD06A49FF7FF75BICBOD711606B58DAD79CFB3709873B44885DCACB29890C66F7DIF635D
+6FC19B5DABCF78351F42F86ADA3CCAIDD727C7FEAA72DEE06E16E5209D2694CE331E3CC06801EF
+2BAIECFDDB65COC364B6E415704595EBA268508BC012CIA627433DC39COCAB1414FF838A415081
+540EOD6E2810ED82B4FFB410491C7BB879A7A717923F42B54A7CD62D75733E51131575F8B3434A
+15FC13FOFE7F3B7A86FC59EE5D5841599A022457CC6713FE7B226D80E134103E5888EAA3446620
+86790E037D0290D7707BCBC92A9CCD13CBDI07044E2B809D7FED6C336FF37B70E617F598721388
+871F86C33602000C00000000000000000000000823010000000BOI0000A8020000005501000000
+
+Moore - I made all might calls and I am covering some additional bases ... Mixed reaction on the
+advisory board. Generally positive on the iniative itself.. .. 1 am so tired
+
+Lewis - I talked today with: -- the Senate Democratic Caucus, with Attorney General Reno
+and Secretary Reno. We had very positive response to the Initiative from Senators. A number
+made specific suggestions, including Senator Mikulski who talked about the importance of the
+"social glue .. the ties that bind" She urged us to consider ethnicity as well as Race, to appreciate
+the need for economic empowerment, and to talk of America as a mosaic. Mary Landrieu joins
+in this recommendation. - Senators Kennedy and Feinstein had specific questions to the Attorney
+General about the Hate Crimes statute. Senator Feinsetin mentioned the imprtance of positive
+images in the media .
+
+Rabbi David Saperstein: Very positive, got a lot of press calls yesterday - I encouraged him to
+start returning them -- aware of advisory group and will be supportive.
+
+Outside friends: Mike Berman, Leslie Dach, David Dreier, Jack Quinn, Steve Ricchetti,
+Kirk O'Donnell. A positve response - we also went through talking points, themes and the
+Advisory Board. They like idea that these are new faces, not usual suspects; think groiwng press
+interest very positve fr the President. Made these recommendations:
+- in addition to exisitng talking points they could use brief statement of Presidential actions (such
+as defense of affirmative action, to remind people he has been working on this) ;
+- stick with it ; be steadfast --now that you've told peopel this is so imprtant you have to continue
+sustained effort;
+- work with Advisors in advance of any "unforeseen" incidents because they will be asked for
+response to events.
+
+   Lenny Zakim --office closed for Shavuos
+
+   Eli Weisel -- given the problems on Tuesday night, I think it best if he hears next from the
+Presidnet; a draft note is at President's office.
+Lovell - wonderful talk with Father Leo; I hadn't realized he was in the meeting with the
+President - he said he loved it and it was very moving; he appreciated the heads up on the
+advisors.
+
+I added Lerone Bennett to the callist with Maria's OK; he is the Executive Editor of Ebony
+Magazine, an historian and author of many books, including Before the Mayflower. He was
+very happy to be called and said:" Ifhe can deal with this he'll go down in history - he's gone
+further than any other President. It's a great, great effort." Lerone said he would talk this up
+among his colleagues; we shouldn't forget to contact Ebony for an articile or interview. Lerone
+was especially happy to hear about John Hope Franklin's involvment.
+
+
+
+
+                                                               Automated Records Management System
+                                                               Hex-Dump Conversion
+
+
+
+
+     Arthur Schlesinger called back - he was again glad to be consulted - his reaction to the advisors
+     was: "no Indian." He said we must hire more than one Native American on the staff.
+     Otherwise positive - he said he'd call back with any suggestions as this rolls out. He repeated
+     that he would like to see the President talk about the importance of JOBS in the speech - families
+     do not stay together without economic security.
+
+     I heard from Cynthia Schneider - a friend of the Clinton's and Vice-Chair of the President's
+     Committee on the Arts and the Humanities - that Washington Post reporter Peter Carlson called
+     her to discuss presidential commissions - his angle seemed to be that they never do anything.
+     Cynthia talked to him about all the accomplishments that occur. Don't know who else he is
+     talking to.
+
+     I called Quincy Jones - did not give him advisors names but described initiative - we talked for
+     almost 15 minutes; Quincy would like to be helpful and suggested a documentary film be made
+     about the whole effort - to send to college campuses and for PBS and for historical purposes. I
+     don't know if there is any more room at the speech/lunch in San Diego, but I think he'd be eager
+     to go. Quincy said that race is THE issue in US today; race relations are worse than ever; he
+     believes McVeigh crime had racial motives; he and Sidney Poitier were saying just a day ago
+     that the President is the best person to speak about it; "Bill understands the street."
+
+     Matsui - Also talked to J.D. Hokoyama ofLEAP--Leadership Education for Asian Pacific---he
+     like the board and was really enthusiastic about Angela OH.
+     These calls have been made:
+     KarenNarasaki--National Asian Pacific Legal Consortium
+     Daphne Kwok--Organization of Chinese Americans
+     Matt Finucane--Asian Pacific American Legal Alliance
+     Chancellor Tien
+     Ron Takaki--Professor at U.C. Berkeley
+     Stuart Kwoh--Asian Pacific American Legal Center of Southern California
+
+     They are all enthused about the Advisory Board and expecially really respect the choice of
+     Angela Oh. I expect that the organizations will be issuing favorable press releases.
+
+     Liss - Wanted to give you all feedback from my call to Deval Patrick. He is very supportive of
+     President's efforts, and pleased with the names of the Advisory Council. He will be doing BET
+     Talk Back Live tonight, and Face the Nation on Sunday. He plans to be supportive, to say that his
+     hopes are high for this initiative, and that he wants the President to raise the expectations of the
+     country: "great presidents have raised expectations and invited the nation to share those high
+     expectations." I shared with him the President's commitment to action, along with dialogue and
+     study. I faxed him whatever you have sent us that is for external use. We should consider
+     sending him more before Sunday.
+spoke to him- less than stars; ; Eddie Williams (didn't know Cook) Joint Center for Policital and
+Economic Studies;
+Leg - called senators from ad bds states; notified the staff dir. for Labor comm
+ a lot of other members called looking for info
+Dorothy Height -
+needs follow thru very important; any grant money for further study
+Also, receiving a lot of calls - Campaign for Human Dignity; want to know what's happeneing
+
+Advisory Board Member's Bios and reconciliation talking points have been faxed to over 250
+black leaders across the country. Additionally, it has been faxed to over 300 black clergy
+leaders in the U.S.
+
+Chirwa - For starters, I only had a few people to call-- mostly old professors of mine. (I've
+been too busy trying to make airline reservations for Board members to do anything so mundane
+as talk to prominent people about a crucial issue of our time).
+
+But, the feedback I've received so far:
+
+Glad to see the President is talking about this issue -- think a national conversation is long
+overdue and necessary. Most said they want to wait and see how bold the President will be.
+Also, everyone said we need to focus each public discussion on a particular issue and race, rather
+than "race relations" generally -- e.g. housing discrimination or economic opportunity or
+educational disparity. So, we are on the right track there.
+
+Major risk to the endeavor: That we will have this year-long effort and people will talk about
+race and some of the conversations will be cathartic and then people will think at the end of the
+year that they've been "innoculated" from charges that they haven't done enough to promote racial
+healing and thus don't have to continue the conversation. We have to guard against an
+inclination to breathe a collective sigh of relief after the year is up and say we've now finally
+discussed race enough. This has to be the start of a very long process of healing which should
+continue, possibly indefinitely.
+
+Echaveste Left messages (with names of the Advisory Board) for Hugh Price--he was at his
+board conference), MArian Wright Edelman, Charles Kamaski (for Raul Yzaguirre--who was
+traveling), Henry Cisneros, and Cruz REynoso (also left him message re invitation to speech
+and luncheon on 6/14. Judith Lichtman said she was cautiously optimistic but was not wildly
+enthusiastice about the board's makeup, esp age. Marcia Greenberger was ok. Jerry Shea for
+John Sweeney was not ecstatic about Robert Thomas ofNissan, but thought they (AFL-CIO)
+may hold their fire, otherwise thought it was good. Dennis Rivera was positive. Belen Robles of
+LULAC was positive but expressed some concern that the effort would not be limited to
+black/white relations.

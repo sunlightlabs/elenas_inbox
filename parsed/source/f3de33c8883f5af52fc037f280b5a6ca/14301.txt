@@ -1,0 +1,27 @@
+RECORD TYPE: PRESIDENTIAL   (ALL-IN-1 READ RECEIPT)
+
+CREATOR: POSTMASTER (SYS)
+
+CREATION DATE/TIME:30-0CT-1996 14:00:00.00
+
+SUBJECT: Non-Delivery Notification
+
+TO: KAGAN_E (WHO)
+READ:30-0CT-1996 14:01:13.79
+
+TEXT:
+This is a Non-Delivery Notification for:
+
+Message Title:         RE: Means Tested Benefits
+Date Sent:             30-0ct-1996 02:00pm
+Reporting Node:        CD.ALL-IN-1
+
+
+Report 1
+ Addressee:            ben-ami_j@A1
+  Reason:              Unable to transfer, owing to problem with the message
+ Diagnostic :,         Unrecognized recipient name, the name does not match any avai
+  Comment:             Recipient cannot be identified by ALL-IN-1
+ Date Non-Delivered:   30-0ct-1996 02:00pm
+
+

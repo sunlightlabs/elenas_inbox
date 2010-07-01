@@ -1,0 +1,273 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP [ WHO]       )
+
+CREATION DATE/TIME: 1-APR-1998 08:31:03.00
+
+SUBJECT:   Weekly Report 4/1/98
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD]    )
+READ: UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D38]MAIL412713090.026 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043A40F0000010A020100000002050000005554000000020000B3641E7C369EOAE78C0984
+B8B12262B20B1B81304BFC3166245165C57767308754BOE6E78430COA7620B6B4656A9B8739F13
+8C98EBOF5AE1526C37DC7C6EDDOA171F9E7F64C07DDEBEB9692390AEAE573C9858A055ECA92054
+ED2C4F8ED6B04966E84FFB4FFDC6B1EC21F161FE82BD68999C827B218153C5CD6C6F9C283BB6F3
+C8B3DCF398C6B473DA70C7601221EAEDC7DFA601D56C7A5E25B783A647D619AD6268EB92A667D4
+9DE906D5F606D811E34C3B7DDD3260ABOOA7AB79145F6AFCAAOD624F1745DC480DC32880FOA8EB
+0907AA7FB3C436FDB022966AOC65376E1A78DFAAC923F88D06837B356B6EADCBB75C5AF7DD4DAE
+8E55F6446E8D242E793803167ACCB52D43D7E939E30BEFF5036AF75B070C5AODOCD41EABEEOF36
+D51A100FFEC7637ACDFCC06B286AA8B628B33A22COD080D040182FA4B2F590BD63C1E41F7081CA
+BFOA3855E518509408D27CC0913ADAODOC8A8111E5DD5E457FOA5B5B446F23D5A74A395E8C1FDO
+A57FCD480180EE4624C998803E15538A3805715555CCBA1272802AC2D113F905376B09B79BA38D
+45C68C71CCDF87BD6F46BF7BFDE4C906CAD9740FC079742F74EFF9934486D09008FD2440E88607
+4947AD8689682B1C405A94C793CCFC9F2080BFB422B8691809B4EE5E698537A967800879EB8A92
+3AA18F54DA0200A400000000000000000000000823010000000B010000F80A000000550BOOOOOO
+4E000000030C000009250100000006000000510COOOOOB300300000028000000570C0000080501
+000000080000007FOC00000055020000003C000000870C00000055030000004EOOOOOOC30COOOO
+00000000000000000000C30COOOOOOOOOOOOOOOOOOOOOOOOC30COO000877010000004000000011
+OD000008340100000014000000510D00000802010000000FOOOOOO650DOOOOOB30010000006COO
+0000740D000000000000000000000000740D00000055020000004EOOOOOOEOODOOOOOOOOOOOOOO
+0000000000EOODOOOOOB3001000000440000002EOE00000608010000002D000000720EOOOOOOOO
+0000000000000000720E00000055010000004E0000009FOEOOOOOO55020000004EOOOOOOEDOEOO
+OOOOOOOOOOOOOOOOOOOOOOEDOEOOOOOOOOOOOOOOOOOOOOOOOOEDOE000000000000000000000000
+EDOEOOOOOOOOOOOOOOOOOOOOOOOOEDOEOOOOOOOOOOOOOOOOOOOOOOOOEDOEOOOOOOOOOOOOOOOOOO
+OOOOOOEDOEOOOOOOOOOOOOOOOOOOOOOOOOEDOEOOOOOOOOOOOOOOOOOOOOOOOOEDOEOOOOOOOOOOOO
+OOOOOOOOOOOOEDOEOOOOOOOOOOOOOOOOOOOOOOOOEDOEOOOOOOOOOOOOOOOOOOOOOOOOEDOEOOOOOO
+OOOOOOOOOOOOOOOOOOEDOEOOOOOOOOOOOOOOOOOOOOOOOOEDOEOOOOOOOOOOOOOOOOOOOOOOOOEDOE
+OOOOOOOOOOOOOOOOOOOOOOOOEDOEOOOOOOOOOOOOOOOOOOOOOOOOEDOEOOOOOOOOOOOOOOOOOOOOOO
+OOEDOEOOOOOOOOOOOOOOOOOOOOOOOOEDOEOOOOOOOOOOOOOOOOOOOOOOOOEDOEOOOOOOOOOOOOOOOO
+00000000EDOE00000942010000001D0000003BOFOOOOOOOOOOOOOO00000000003BOFOOOOOOOOOO
+000000000000003BOF0000000000000000000000003BOFOOOOOOOO00000000000000003BOFOOOO
+000000000000000000003BOF0000000000000000000000003BOFOO00000000000000000000003B
+OF0000000000000000000000003BOFOOOOOOOOOOOOOOOOOOOOOOOO3BOFOOOOOOOOOOOOOOOOOOOO
+00003BOF0000000000000000000000003BOFOOOOOOOOOOOOOOOOOO0000003BOFOOOOOOOOOOOOOO
+00000000003BOF0000000000000000000000003BOFOOOOOOOOOOOO0000000000003BOFOOOOOOOO
+00000000000000003BOF0000000000000000000000003BOFOOOOOO0000000000000000003BOFOO
+00000000000000000000003BOF0000000000000000000000003BOF000000000000000000000000
+3BOF0000000000000000000000003BOFOOOOOOOOOOOOOOOOOOOOOO003BOFOOOOOOOOOOOOOOOOOO
+0000003BOF0000000000000000000000003BOFOOOOOOOOOOOOOOOO000000003BOFOOOOOOOOOOOO
+0000000000003BOF0000000000000000000000003BOFOOOOOOOOOO000000000000003BOFOOOOOO
+0000000000000000003BOF0000000000000000000000003BOFOOOO000000000000000000003BOF
+0000000000000000000000003BOF0000000000000000000000003BOFOOOOOOOOOOOOOOOOOOOOOO
+                                                                            HeX-Dump Conversion
+
+                                          April I, 1998
+
+
+MEMORANDUM FOR THE PRESIDENT
+
+FROM:          Bruce Reed
+               Elena Kagan
+
+RE:            DPC Weekly Report
+
+
+        Health Care -- Democratic Unveil Patients' Bill of Rights: Today, the Democratic
+Leadership introduced their version of the patients' bill of rights in a ceremony attended by Labor
+Secretary Alexis Herman. Your letter to the Leadership, which indicated strong support for this
+bill without providing an all out endorsement, was extremely well received. This legislation
+includes every patient protection recommended by your Advisory Commission on Consumer
+Protection and Quality. It builds on these recommendations and includes an enforcement
+provision that allows remedies achieved through the state courts. Because this provision would
+preempt ERISA, it is the most controversial aspect of the bill and has already attracted strong
+opposition from the employer community. This legislation also includes a compromise
+whistleblower protection that is acceptable to the labor community and not serious objectionable
+to the hospital community. We helped draft this compromise provision, and Congressman
+Dingell and Senator Kennedy were extremely appreciative of our help in this regard.
+
+         Health Care -- On Track to Cover One Million Children at Sixth Month
+Anniversary ofthe Children's Health Insurance Program: Wednesday marks the sixth
+month anniversary of the Children's Health Insurance Program. Donna Shalala, in an event with
+Bruce Reed and Gene Sperling, will announce the approval of New York and Illinois children's
+health plans. With these two new approvals, eight states will have come into this new program
+and will provide health care coverage for one million children. At this event, we will also be
+releasing a NECIDPC report on the rapid implementation of this new program. The report
+illustrates that an additional 15 states have already submitted proposals to HHS to expand health
+care coverage and that virtually every other state has a process underway to submit a proposal.
+
+        Political Reform -- Free Television Petition: Chairman Kennard and key members of
+Congress reached an agreement last week in which the Federal Communications Commission
+(FCC) agreed to postpone rulemaking procedures on your request to establish a system of free
+television time and move instead to a Notice of Inquiry (NOI) next month. Although this maybe
+perceived by some in the press as temporary setback, in reality the NOI will not change the
+timetable for the implementation of a free television time rule and the strategy of going to an NOI
+                                                                        Hex-Dump Conversion
+was supported by the reform groups. The NO! will provide enough time for the
+Moonves-Ornstein Commission to finish their work next Fall after which the FCC can go
+forward with a rulemaking procedure. The key question is whether the Moonves-Ornstein
+Commission can develop an acceptable compromise between the broadcasters and the reformers
+that will build support in Congress for an FCC rulemaking.
+
+        Drunk Driving -- .08 BAC: On Monday, March 30, there was a Roosevelt Room event
+held with Secretary Shalala, Deputy Attorney General Holder, Rep. Lowey, and others to push
+the House of Representatives to enact a uniform standard on drunk driving as part of pending
+ISTEA legislation. Rep. Lowey is the House sponsor of the Lautenberg amendment -- which
+passed the Senate by 62-32 -- and would give states three years to enact .08 BAC laws or risk
+losing highway construction funds. [The House Rules Committee is scheduled to decide this
+afternoon (Tuesday) whether to allow the Lowey .08 BAC amendment to be offered to ISTEA.
+WH Legislative Affairs predicts that the Lowey amendment will not make it through the Rules
+Committee, and it will be left as an issue for the conference committee to resolve.]
+
+        Crime -- Assault Weapons: The Treasury Department is near completion of its report
+in response to your November 1997 directive on modified assault weapons. As you recall, you
+directed Secretary Rubin to temporarily suspend the importation of certain modified assault rifles
+while Treasury determined whether or not these rifles complied with the "sporting purposes test"
+and could be legally imported under the Gun Control Act of 1968. We expect that Treasury will
+recommend permanently banning from importation the 5 basic types of modified assault rifles
+studied, which represent more than 50 specific models. This will include AK-47- and Uzi-type
+models. We have tentatively planned to release the report at an April 6 event.
+
+         Children and Families -- After-School Event: In response to a recent DPC memo on
+your education agenda, you indicated an interest in doing an after-school event. Weare
+planning an event in May to: (1) announce the first grants ofthe 21st Century Learning Centers
+Program, as funded in FY 98; (2) release a joint report by the Department of Justice and the
+Department of Education on the effect of after-school programs on reducing crime and
+improving school performance; and (3) announce the pilot cities for the Administration's effort
+to coordinate federal funding and oversight of after-school programs, which you announced as
+part of your child care proposal. Ideally, this event would take place at a high quality
+after-school program (like the one at Temple University you suggested), or a program that will
+receive a 21 st Century Learning Centers grants. This event will help demonstrate how
+after-school programs can keep children safe and improve their performance in school, which
+will in tum help build support for this initiative in the appropriations process. At this time, the
+Department of Education is working closely with Senator Jeffords to ensure his strong support of
+our proposed expansion of the program in the appropriations process.
+
+       Welfare -- Agreement Reached to Restore Food Stamps to Legal Immigrants: A
+conference committee reached agreement last week on a plan to restore $818 million over five
+
+
+
+                                                2             Automated Records Management System
+                                                                      Hex-Dump Conversion
+                                                                                Hex-Dump Conversion ·
+
+years in food stamps to legal immigrants. The President's budget proposed to restore $2.5
+billion for this purpose.
+
+       The conference agreement reflects the Administration's request for refugees and asylees,
+the Hmong, and the disabled. For refugees and asylees, it would lengthen from 5 to 7 years the
+period oftime that they are eligible for food stamps after they arrive in the U.S., giving them
+more time to naturalize. Hmong immigrants from Laos who assisted the U.S. in Vietnam and
+then came to the U.S. War would remain eligible for food stamps. Disabled legal immigrants
+who entered the country before welfare reform was passed and who became disabled after they
+entered the country would also retain food stamps.
+
+        The agreement differs from the Administration's proposal in two respects. First, it will
+provide food stamps for children who were here when the law was signed, but not their parents.
+The President's budget would cover both children and their parents, and both those here when the
+law was signed and those who arrived after. Second, the agreement will retain eligibility for the
+elderly who were 65 or older and in the U.S. when the welfare law was signed. Our budget
+proposal would have gone further, also providing benefits to those who were in the country when
+the law was signed and who subsequently tum 65.
+
+       A major source of funding for these restorations is a cutback in funding for food stamps
+administrative costs, based on the rationale that states are able to claim these costs twice, under
+both food stamp and the T ANF block grant. States dispute this rationale.
+
+        We are now monitoring whether this bill will have difficulty passing on the floor of both
+houses. If it does pass, the next question is whether we will have a chance to do additional
+restorations later this year through other vehicles.
+
+        Welfare -- High Performance Bonus: Rep. Shaw has taken issue with our formula for
+distributing high performance bonus funds under T ANF because it does not include any measure
+of state success in improving family formation, including increasing two-parent families and
+reducing out-of-wedlock pregnancies. In developing our measures of success, we chose to focus
+on work-oriented measures -- job entry, retention, and gain in earnings -- partly because of the
+difficulty of developing family formation measures that fairly measure state performance. Shaw
+charges that our approach is at odds with the purpose of the high performance bonus under the
+statute. We plan to meet with him in the coming week to discuss next steps.
+
+         Disability Issues -- Legislative Action on Disability Issues: There was action on the
+Hill in the past two weeks on the disability community's two highest priorities. We are sorting
+out whether the Administration will be able to support these initiatives, in full or in part.
+
+        First, the House held a hearing on how to allow more people with disabilities to live in
+their communities instead of nursing homes. Disability advocates, led by the group ADAPT, are
+pushing legislation known as CASA. Advocates do not expect CASA to become law because of
+
+
+                                                 3
+                                                                           Hex-Dump Conversion
+its cost ($10-20 billion per year), but they hope it will start a dialogue on the subject. HHS
+witnesses testified that we have concerns about the cost, but said we are pushing to achieve the
+goals of the legislation through more modest steps such as demonstrations. Speaker Gingrich
+testified in favor ofthis concept, although without endorsing CASA itself. The disability
+community is disappointed that we have not been more supportive. We have proposed that you
+send a letter to Speaker Gingrich describing what progress HHS has made and stating your
+agreement with the legislation's goals, but OMB has expressed reservations about such a letter.
+
+        Second, legislation is moving in both houses to encourage people with disabilities on the
+ssm or SSI rolls to return to work. Senators Jeffords and Kennedy just introduced a bill in the
+Senate, while Reps. Bunning and Kennelly's bill was just marked up in the House. The
+sticking point in both of these proposals is that they would allow people to retain Medicare or
+Medicaid after they retUrn to work, which HHS and OMB are both inclined to oppose because of
+costs. Our opposition to this legislation would be a major disappointment to the community,
+particularly in the wake of your signing the executive order to help increase employment of
+people with disabilities. We are working with HHS and OMB to identify what portions of these
+bills we are able to support and what alternatives we may have to offer.
+
+         Welfare Reform -- Federal Hiring Initiative: The Vice President will participate in an
+event on April 9th to mark the one-year anniversary of the Cabinet meeting where you asked
+Federal agencies to develop plans to hire welfare recipients. The initiative is proceeding well.
+Agencies have hired nearly 3,700 welfare recipients and are on track to meet the
+government-wide goal of 10,000 by 2000. The VP will announce these latest numbers, release
+an annual report highlighting agency accomplishments and lessons learned (the report includes a
+brief message from you), encourage companies who do business with the federal government to
+do their part, and urge cabinet members to leverage these commitments with the contractor
+community. The VP will be joined by at least one cabinet member (hopefully Secretary Pena,
+who has been particularly proactive about reaching out to contractors), at least one business from
+the Welfare to Work Partnership Board (United's CEO encouraged the federal government to
+reach out.to our contractors just as they have reached out to their supplier network), and one
+former welfare recipient. Letters to each Cabinet member have been prepared for your signature
+thanking them for leadership on this issue and encouraging them to continue supporting this
+initiative within their agency, stakeholder groups, and contractor community.
+
+         Welfare Reform -- APWA Resolution: Last week, the American Public Welfare
+ Association passed a resolution urging Congress to enact your two FY 99 budget initiatives
+ related to welfare reform: the $100 million a year Access to Jobs initiative included in the ISTEA
+ reauthorization and the $283 million a year proposal to provide 50,000 housing vouchers to help
+ people leaving welfare to get or keep a job. The Access to Jobs initiative is currently
+ authorized at $150 million in the Senate ISTEA bill and $42 million in the bill moving through
+ the House. APW A urges the House to adopt the Senate funding level. While there has been
+.considerable support for linking housing vouchers to welfare-to-work, HUD expects that it will
+ be an uphill fight to get funding for these vouchers given larger Congressional concerns
+
+
+                                                 4
+                                                                         Hex-Dump Conversion '
+
+regarding Section 8. We are working with HUD, DOT and HHS on a joint secretarial event to
+rally support for both initiatives in late April.
+
+       Education Opportunity Zones. Rep. Clay is planning to introduce your Education
+Opportunity Zones bill on April 1, before the Congressional recess. We are planning an
+event that will focus on this proposal later in April, possibly in New York, Los Angeles or
+San Francisco.
+
+        National Board for Professional Teaching Standards. We have been working very
+closely with the NBPTS to devise a strategy for securing continued federal support in light
+of Goodling's move last week to end federal funding for the Board. Gov. Hunt and the
+Board President Jim Kelley have been very pleased to learn of your strong support in the
+face of this threat. Because the Senate Labor and Human Resources Committee will mark
+up the Higher Education Act this week, we have worked to ensure that a provision
+eliminating the Board's funding will not be included in the Senate version. Once the
+mark-up is completed, we believe that a high profile veto threat will be an appropriate and
+effective step. We believe that your scheduled event with the National Teacher of the Year
+at the end of April, right after Congress reconvenes, will be a good time to issue a veto
+threat.
+
+
+
+
+                                             5
+
+

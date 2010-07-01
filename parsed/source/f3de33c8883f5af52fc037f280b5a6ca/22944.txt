@@ -1,0 +1,175 @@
+          RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+          CREATOR: Essence P. Washington ( CN=Essence P. Washington/OU=OPD/O=EOP [ OPD 1 )
+
+          CREATION DATE/TIME: 26-FEB-1999 15:25:46.00
+
+          SUBJECT:   DPC PHONE LIST
+
+          TO: Irene Bueno ( CN=Irene Bueno/OU=OPD/O=EOP @ EOP [ OPD 1 )
+          READ:UNKNOWN
+
+          TO: Devorah R. Adler ( CN=Devorah R. Adler/OU=OPD/O=EOP @ EOP [ OPD 1 )
+          READ:UNKNOWN
+
+          TO: Jonathan H. Schnur ( CN=Jonathan H. Schnur/OU=OPD/O=EOP @ EOP [ OPD 1 )
+          READ: UNKNOWN
+
+          TO: Neera Tanden ( CN=Neera Tanden/OU=WHO/O=EOP @ EOP [ WHO 1 )
+          READ: UNKNOWN
+
+          TO: Leanne A. Shimabukuro ( CN=Leanne A. Shimabukuro/OU=OPD/O=EOP @ EOP [ OPD 1 )
+          READ: UNKNOWN
+
+          TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD 1 )
+          READ: UNKNOWN
+
+          TO: Cathy R. Mays ( CN=Cathy R. Mays/OU=OPD/O=EOP @ EOP [ OPD 1 )
+          READ: UNKNOWN
+
+          TO: Jeanne Lambrew ( CN=Jeanne Lambrew/OU=OPD/O=EOP @ EOP [ OPD 1 )
+          READ: UNKNOWN
+
+          TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+          READ:UNKNOWN
+
+          TO: Thomas L. Freedman ( CN=Thomas L. Freedman/OU=OPD/O=EOP @ EOP [ OPD 1 )
+          READ: UNKNOWN
+
+          TO: Jose Cerda III ( CN=Jose Cerda III/OU=OPD/O=EOP @ EOP [ OPD 1 )
+          READ:UNKNOWN
+
+          TO: J. Eric Gould ( CN=J. Eric Gould/OU=OPD/O=EOP @ EOP [ OPD 1 )
+          READ: UNKNOWN
+
+          TO: Teresa M. Jones ( CN=Teresa M. Jones/OU=OPD/O=EOP @ EOP [ OPD 1 )
+          READ: UNKNOWN
+
+          TO: WEINSTEIN_P@A1@CD@VAXGTWY   WEINSTEIN_P@A1@CD@VAXGTWY @ VAXGTWY [ UNKNOWN 1 )   (0
+          READ: UNKNOWN
+
+          TO: Mary L. Smith ( CN=Mary L. Smith/OU=OPD/O=EOP @ EOP [ OPD 1 )
+          READ: UNKNOWN
+
+          TO: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP @ EOP [ OPD 1 )
+          READ: UNKNOWN
+
+          TO: Nicole R. Rabner ( CN=Nicole R. Rabner/OU=WHO/O=EOP @ EOP [ WHO 1 )
+          READ: UNKNOWN
+
+          TO: Tanya E. Martin ( CN=Tanya E. Martin/OU=OPD/O=EOP @ EOP [ OPD 1 )
+
+
+ READ: UNKNOWN
+
+TO: Andrea Kane ( CN=Andrea Kane/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Christopher C. Jennings ( CN=Christopher C. Jennings/OU=OPD/O=EOP @ EOP [ OPD ]
+READ: UNKNOWN
+
+TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ:UNKNOWN
+
+TO: Sarah A. Bianchi ( CN=Sarah A. Bianchi/O=OVP @ OVP [ UNKNOWN ] )
+READ: UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D38]MAIL42517526J.036 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043FE040000010A02010000000205000000E91C000000020000A5A066D99CDD204073221A
+F496E50C6C09D98CAEF432C53812147053BFBEEl18D6A4B26DI0IAE08193B7BF48C5100A4C63E9
+61D589416D9DD2B8B629C3D61B4461523B60FB838F6948C5C39FDFFA490A7FII089178013DE285
+7A533DF98337978707224A06DOAC5720028B793B8816F8041AB64D6E9234ED648A4581FA07BB4C
+4A2AF9368B741FF74DD70DB2D48186B7F9EE2FB0181CD19A040E183E7BEFBE70A60B4F02FCC217
+814269DDF2FBD595DIC33834F60DIE912B86F742C3C07DF8D6C04618CA8756D088D28504E3A33E
+B4ED26829735557839AC2CD8DC8BE99298712787BOF7EB483ECOE4DAOF2DE42A5EAE59C2AFF327
+28688405F93E8D522E8A90A43B33736D51803659E3A5460988ED29F70FC0327AEB2B9870204369
+DCF577438D793BA790D8Bl1892A7EEB8CIE80C6348FB2AAIF3B971482F6BOA4FAE4D3005574317
+
+.,                                                    STAFF PHONE LIST
+ Person                         Phone                 Fax                            Location               Autnmated Records Management System
+                                                                                                                    Hex-Dump Conversion
+ADLER, Devorah                          65707                        65557                        216,OEOB
+Assistant Director
+BIANCHI, Sarah                          65585                        65557                        217,OEOB
+Associate Director
+& Senior Health Care
+Adviser to the Vice President
+CERDA, Jose                    65568                  67028                          224R,OEOB
+Special Assistant to the President
+OPEN                           65575                  65581                          218L,OEOB
+Special Assistant to the President
+EMMEIT, Laura                           65565                        62878                        2 FLfWW
+Policy Assistant
+BUENO, Irene                   66558                  65581                          217R,OEOB
+Special Assistant to the President
+FREEDMAN, Tom                           65587                        67431                        213,OEOB
+Special Assistant to the President
+GOULD, Eric                     67871                 65581                          2100EOB
+Associate Director
+JENNINGS, Chris                         65560                        65557                        216L,OEOB
+Deputy Assistant to the President
+JONES, Teresa                           65594                        65557                        216,OEOB
+Policy Assistant
+KAGAN, Elena                  67928/65584 62878                                      218L, OEOBI 2 FLIWW
+Deputy Assistant to the President
+& Deputy Director DPC
+
+KANE, Andrea                            65573                        67431                        212L,OEOB
+Associate Director
+LAMBREW, Jeanne (NEC) 65377                           67431                          209,OEOB
+Senior Director
+OPEN                            65543                 65581                          217,OEOB
+Special Assistant
+MARTIN, Tanya                   65228                 65581                          220,OEOB
+Associate Director
+MAYS, Cathy                   66515                   62878                          2 FLIWW
+Executive Assistant to the Director
+RABNER, Nicole                          67263                         66244                        2FLIWW
+Special Assistant to the President
+& Senior Policy Adviser to
+the First Lady
+REED, Bruce                     66515                 62878                          2FLfWW
+Assistant to the President
+& Director DPC
+
+
+RICE, Cynthia                  62846                   67431                         212R,OEOB
+Special Assistant to the President
+Director For Communications                                                        Autnmated Records Management System
+& Events                                                                                   Hex-Oump Conversion
+SCHNUR, John                           65567           65581           218R,OEOB
+Associate Director
+& Se;:nior Education Adviser
+to the Vice President
+SHIMABUKURO, Leanne                    65574           67028           224L,OEOB
+Associate Director
+SMITH, Mary                    65571           67431           213 112, OEOB
+Associate Director
+TANDEN, Neera                          66275           66244           2FUWW
+Associate Director
+& Senior Policy Adviser to the
+First Lady
+WASHINGTON, Essence                    67732           67028           224, OEOB
+Policy Assistant
+WEINSTEIN, Paul                        65577                   65581        214,OEOB
+Special Assistant to the President
+& ChiefofStaffDPC
+
+
+
+GENERAL DPC NUMBER                     62216
+DPC CONFERENCE ROOM                    65564                   211,OEOB
+RAINES, Ashley                         62023                   145,OEOB
+COMPUTER SUPPORT                       57370
+WH COMMENT LINE                        61111
+WAVES CENTER                           66742
+       .A:RMS Email System                                                       Page 1 of 1
+
+

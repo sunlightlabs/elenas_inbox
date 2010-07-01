@@ -1,0 +1,31 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Leslie Bernstein ( CN=Leslie Bernstein/OU=WHO/O=EOP [ WHO 1 )
+
+CREATION DATE/TIME:24-JUN-1998 09:32:15.00
+
+SUBJECT:   Follow-up EEOC Mtg
+
+TO: Julie A. Fernandes ( CN=Julie A. Fernandes/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Broderick Johnson ( CN=Broderick Johnson/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Minyon Moore ( CN=Minyon Moore/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Jocelyn Neis ( CN=Jocelyn Neis/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TEXT:
+Unable to convert ARMS_EXT: [MESSAGE.D311MAIL46451847Z.126
+The following is a HEX dump of the file:
+
+

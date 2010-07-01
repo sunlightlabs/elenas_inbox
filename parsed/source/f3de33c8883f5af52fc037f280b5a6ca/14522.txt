@@ -1,0 +1,138 @@
+    RECORD TYPE: PRESIDENTIAL     (NOTES MAIL)
+
+    CREATOR: Eli G. Attie ( CN=Eli G. Attie/OU=WHO/O=EOP [ WHO]     )
+
+    CREATION DATE/TIME:31-JAN-1997 16:40:58.00
+
+    SUBJECT:   FMLA Radio Draft
+
+    TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+    READ: UNKNOWN
+
+    TO: Jonathan A. Kaplan ( CN=Jonathan A. Kaplan/OU=OPD/O=EOP @ EOP [ OPD ] )
+    READ: UNKNOWN
+
+    TEXT:
+    ==================== ATTACHMENT   1 ====================
+    ATT CREATION TIME/DATE:   0 00:00:00.00
+
+    TEXT:
+    Unable to convert ARMS_EXT: [ATTACH.D38]MAIL422106030.016 to ASCII,
+     The following is a HEX DUMP:
+
+    FF57504318050000010A02010000000205000000362000000002000091984BCFA9FF3623368B90
+    167DC0984D5BFADF58B9FD26FF1D4AC83283404376150D4708A61B5B411BF67C8A959D4E8202C4
+    9BDF24B6568337488D2B5101BB2BFA4896FF06A68CBDAB91DE51E2D2C297A5CDF04FCF73F029FE
+    94B904C400696CF924AD2BD87497AE1B414EAD6C045F406E4FFF68CEFDC32B8F29F3C69CFD8A40
+    DEA6D64314E6D5843B2BD6D1DDF360F75FFDCB31ACFA1CF1C1EE0956325B9526352A5C6314A2A5
+    9D5B36DE40EBF2E1493822935B43E6553322001FF23A26ECA61B223661CAF7612F386FODBE74C8
+    OE912BAED52AC30E67CF806D6F3D97BB5AA2CE20159297C80B6726714268765BD3F9DAA419B45F
+    3590ABB552E5185195BADA92911770287COCOA16BD9A67A7584E16631077115A355954B4E64476
+    8B2FF02E8AAD90CC14A9CBD910E51D03AC698EF1BCE9F52300DOF488B277ACFC3E576AOC4A2F4D
+    91398EE88CB7AFE65DCA8B443AE7DB2128BF67CF68BCA285FE792A9704B48650F674E5652C7F41
+    B2B01COC5A345E8EC477695338B6124C7844922CA5E889EF93D68F49D2250447A191EFCC35F764
+    E949DA5CD9919E09588D4E2DD90F373C96B71F13521043AAFB1B78B13D31762428A8A4EE9DE48B
+    671816AD3ABOED2B2EB3563D4FDBF69543901E9F7CEFC2394EA02C2D382451CFF7107329E1189D
+    E01E36B06302000C00000000000000000000000823010000000B010000A8020000005506000000
+    4EOOOOOOB303000009250100000006000000010400000B30020000002800000007040000087701
+    000000400000002F040000083401000000140000006F0400000802010000000F00000083040000
+    OB05010000000800000092040000081D01000000000000009A0400000055040000003C0000009A
+    04000000550100000042000000D604000000984C004F00430041004COOOOOOOOOOOOOOOOOOOOOO
+    000000000000000000000000000000000000000000000000000000000000000000000000000000
+    00000000000000000000000000000057494E53504F4F4COOOOOOOO00C800C8002C012C012C012C
+    01C800C80030000000000000000000000000000000000000000000000000000000000000000000
+    000000000000000000000000000000000000000000000000000000000000000000000000000000
+    000000000000000000000000000000000000000000000000000000000000000000000000000000
+    000000000000000000000000000000000000000000000000000000000000000000000000000000
+    000000000000005E008FOE2800D61EC30F3908000011090000005A000B01008B14360054006900
+    6D006500730020004E0065007700200052006F006D0061006E00200052006500670075006C0061
+    007200000000000000000001000200580201000000040028000000000000000000000000000000
+    00000000011202002400A1000000A10000000A0000000502110013000602020017000702010002
+    000802010044000902010002000A02010002000B02010002000C02020044000D02030045000E02
+    010002005A5458210000000000000925010000000600000008337C007800000200000E02000003
+    01000400020000001BOOF41A5C121A0900000000000000600018110000102400540069006D0065
+    00730020004E0065007700000052006F006D0061006EOOOOOOOOOO00001COOF41A5C121A090000
+    1109000000600018110000102A00540069006D006500730020004E0065007700200052006F006D
+    0061006E00000000000000540054000000DDOA10008301040003000200211000DDDDOBOB000300
+    00040BOODD9BD41A1F0087010A0008005802F60E00005802000058020200580200001FOOD4F100
+    F701F1D3050C0000010002000COOD3F101F701F1D304540000400001DC0514003408008COAOOE4
+    OC003COF00941100EC13004416009C1800F41A004C1DOOA41FOOFC2100542400AC26000429005C
+    2BOOB42DOOOC3000643200BC3401B004020000009C58025400D39CF100F501F1F20CF2F101F501
+                         Hex-Dump Conversion
+
+draft 1131 4pm
+                          PRESIDENT WILLIAM J. CLINTON
+                         RADIO ADDRESS ON FAMILY LEAVE
+                              Saturday, February 1, 1997
+
+        As a parent, I know how important it is to take responsibility for our children when
+they need us most -- when they are sick, when they need to go to the doctor, or when there
+is a parent-teacher conference at school. Fortunately, Hillary and I have never had to
+risk our jobs to be there for our daughter. We have never had to make the choice between
+being good parents and good workers. Today, I want to talk with you about what we have
+done, and what more we must do, to give that same assurance to every American family.
+
+       One of the things that I most wanted to do when I became President was to help
+parents succeed both at home and at work. That is why I was so proud to make the
+Family and Medical Leave Act the first bill I signed as President, exactly four years ago
+this Wednesday.
+
+       Family and Medical Leave allows people in companies with 50 or more employees to
+take up to 12 weeks of unpaid leave - to care for a newborn or newly-adopted child, or to
+be with a family member who is sick, without fear of losing their job.
+
+       Today, over half of all American workers share this important benefit. People like
+Christie Sens, a first grade teacher from Fairfax, Virginia who is here with me today.
+Christie was among the first Americans to make use of the new Family Leave law in 1993,
+when she and her husband were expecting their first child. Christie thought she would be
+forced to choose between the six weeks her school allowed for new mothers, or taking a
+whole year off without pay. Because of our new law, she was able to spend 12 full weeks
+at home -- recovering from her pregnancy, and spending precious time with her new
+daughter. Christie used the benefit again in 1995 for the birth of her second child.
+
+        Family leave is not only family friendly - it is employer friendly as well. Also with
+me today is Stan Sorrell, President and CEO of the Calvert Group, an investment firm in
+Bethesda, Maryland, and two of his employees who have used Family Leave. The Calvert
+Group started a Family and Medical Leave program three years before it became the law
+of the land. Like more than 90 percent of participating companies, they found that Family
+Leave is good for business, adding little or nothing to their costs. After all, in the four
+years since I signed the Family Leave law, American business created 11.2 million new jobs
+- more than any four-year term in our history.
+
+        We must make it even easier for parents to take responsibility, and live up to their
+obligations to their children and their employers. Today, I call on Congress to expand the
+Family Leave Law, to give parents an additional 24 hours of time off each year -- to take a
+child or an elderly relative to a regular doctor's appointment, or to attend parent-teacher
+conferences at school. In doing so, we will make our families stronger and our workers
+more productive -- building the kind of country and economy we all want for our children.
+                           Automated Records Managemenf Sy~foll\
+                           Hex-Dump Conversion
+
+
+            We must also address the fact that too many workers are not taking advantage of
+    the Family Leave law, because they are not even aware of it. That is why I am pleased to
+    announce that the Department of Labor is launching a multi-media public education
+    campaign, to spread the word about Family Leave; to make sure employers and employees
+    have the facts; and to make sure everyone knows how to make this law work for them.
+    It's not enough to help people have the tools to succeed; we must make sure they know
+    what those tools are. The centerpiece ofthis campaign is a new 800 number that any
+    American can call to learn about Family and Medical Leave: 1-800-959-FMLA. You can
+    also get information through our Labor Department's website: WWW.DOL.GOV.
+
+            By expanding Family Leave to cover children's doctor's visits and parent-teacher
+    conferences - by helping more Americans learn about Family Leave, and the ways they
+    can succeed both at home and at work - we will create more opportunity, take more
+    responsibility for our children and families, and build a stronger community for us all.
+    That is how we must prepare America for the 21st Century, and help everyone have the
+    tools to make the most of their lives.
+
+           Family and Medical Leave embodies one of our country's most basic goals: building
+    stronger families as we enter a new century, full of new promise. Ralph Waldo Emerson
+    once said, "It is one of the most beautiful compensations of this life that no man can
+    sincerely try to help another without helping himself." Family and Medical Leave is
+    helping millions of American families - and in so doing, it is helping us all. Now is the
+    time to expand it, and make it available to even more of our citizens.
+
+          Thanks for listening.
+
+

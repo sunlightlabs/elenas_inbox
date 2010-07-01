@@ -1,0 +1,192 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME: 3-NOV-1997 17:23:11.00
+
+SUBJECT:   Pls look at these work penalty options
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Diana Fortuna ( CN=Diana Fortuna/OU=OPD/O=EOP @ EOP    [ OPD ] )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP    [ OPD]   )
+READ: UNKNOWN
+
+CC: Laura Emmett    CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+CC: Cathy R. Mays ( CN=Cathy R. Mays/OU=OPD/O=EOP @ EOP    [ OPD ] )
+READ: UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D32]MAIL45525660A.316 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043720E0000010A02010000000205000000E13A000000020000027B7555FD32935F9626B9
+4E5D496F74256E8D7E2AC7E0344E7919CAEFFD3FD11B5376CE6E3319874459B7ED18FCOOADF92A
+C2B4F715D8104EBF16C3360C8EF05442DEB287AB7EB7B74D4416B42F5BA04A424A740BDB09A931
+568FF21A3FF04A57202DE0728B9E74E50E67465D721D16AF9C6261522763247FE497274F4CC336
+1955DB30B6642DD3B4AB88E31A6BC1AB130C93723938F96B7A4F09DO02D2C3FFD3E5F3E9767849
+183F800FEBOAC3A6751422E4BBEEFB55F6F7EF6D93EDCEE51CBFDBC26BD9B07790C3EB1A34C2B3
+FDOEBDF039D067899524FA7A67C55824773D37FC236F71471580011CD4B6E5997344EAB50AE97B
+6DF4653DOB6D702BOFCD94E04536EC988F1783998813F16C93938BDE980854D2900233F315BD52
+F2E59FF72AEACE8290454EA041EB178FC7640AOC48E08B7B9B512ACED5926643542F4E5C279352
+224664873BA91AEF489888F542990D3D288F672DDABCFE689DF008EF47F3A421DBA688BCC5DBBE
+6D4FE964C29F2255B27E8844877A6811FAODF78254B26E19A1D030235CB294A8064E993894356B
+EOE793AE1BFF1B2650F229987343028575012280AEC8B2C9154997A6650D8C8EF858F022F96E97
+OEC3E56728CD246F316EFD24F35705B232BCDC539B93CC213853E315DAC092E4BDB41446361475
+ODDB24825F02002B00000000000000000000000823010000000B0100005A040000005529000200
+4E0000006505000009250100000006000000B30500000B300300000028000000B9050000006602
+00000002000000E105000000610100000014000000E305000000550400000042000000F7050000
+087701000000400000003906000008340100000014000000790600000802010000000F0000008D
+060000020801000000270200009C0600000B30030000006COOOOOOC30800000B30030000004400
+00002F090000020801000000F100000073090000096801000000F1030000640AOOOOOOOOOOOOOO
+0000000000640A000000000000000000000000640AOOOOOOOOOOOO000000000000640AOOOOOOOO
+0000000000000000640A000000000000000000000000640AOOOOOO000000000000000000640AOO
+0000000000000000000000~40A000000000000000000000000640A000000000000000000000000
+640A000000000000000000000000640AOOOOOOOOOOOOOOOOOOOOOO00640AOOOOOOOOOOOOOOOOOO
+000000640A000000000000000000000000640AOOOOOOOOOOOOOOOO00000000640AOOOOOOOOOOOO
+000000000000640A000000000000000000000000640AOOOOOOOOOO00000000000000640AOOOOOO
+000000000000000000640A000000000000000000000000640AOOOO00000000000000000000640A
+000000000000000000000000640A00000000000000000000000064OAOOOOOOOOOOOOOOOOOOOOOO
+00640A000000000000000000000000640AOOOOOOOOOOOOOOOOOOOO0000640AOOOOOOOOOOOOOOOO
+00000000640A00000942020000001D000000550E000000984C006F00630061006C002600430061
+  Assume a state with a block grant of $1 00 million with a $5 million or 5 percent top penalty for missing the work participation rate,
+                               95% of caseload in single parent families and 5% in two parent families,
+                            an overall participation rate 000 percent, and a two parent rate of75 percent.
+
+
+
+                                    OVERALL PARTICIPATION RATE                                        TWO PARENT PARTICIPATION RATE
+
+                                    HHS Revised Proposal             Possible Counteroffer            HHS Revised Proposal               Possible Counteroffer
+
+ Step #1: Establish Penalty
+ based on Degree of
+ Non-Compliance
+
+ Example A:                         The penalty is $4.5 million.     The penalty is $5 million. I     The penalty is $.5 million         The penalty is $.25 million
+ If state did not achieve 90%
+ of the work participation rate     [The smaller of$4.5 million      [Full penalty imposed if state   [The larger of $.5 million or      [Equal to $5 million times
+ (e.g. participation rate was       or $4.75 million, i.e., the      falls below 90% threshold].      $.25 million, i.e. the larger of   .05, the percent of the
+ lower than 27% for overall         smaller of ($5 million x .9)                                      ($5 million x .1) or               caseload that are two parent
+ caseload and 67.5% for two         or                                                                ($5 million times .05, the         families.]2
+ parent):                           ($5 million x .95, the percent                                    percent of caseload that are
+                                    of caseload that is non-two                                       two parent families)]
+                                    parent families)]
+
+ Example B:                         The penalty is $2.25 million.    The penalty is $2.5 million.     The penalty is $.25 million.       The penalty is $.125 million.
+ If state achieved 95% of the
+ work participation rate            [The maximum penalty --          [The maximum penalty --          [The maximum penalty --            [The maximum penalty --
+ (e.g. 28.5% for overall and        in this case $4.5 million --     in this case $5 million -- is    in this case $.5 million -- is     in this case $.25 million -- is
+ 71.25% for two parent):            is reduced in half because       reduced in half because state    reduced in half because state      reduced in half because state
+                                    state achieved half the          achieved half the difference     achieved half the difference       achieved half the difference
+                                    difference between the           between the required rate        between the required rate          between the required rate
+                                    required rate and the            and the threshold.]              and the threshold.]                and the threshold.]
+                                    threshold.]
+
+ Step #2: Consider
+ Reasonable Cause
+
+
+         I   If state fails overall and two parent rate, the maximum total penalty shall be $5 million.
+
+         2 HHS argues that although this option is simpler and, one could argue, fairer to states with very small two parent case loads, their minimum 10 percent
+penalty would be better because it would a) signal that we're serious about two parent work rates, and b) not discourage states from adopting pro-family welfare
+policies which increase the number of two parent families on the rolls.
+
+                                 HHS Revised Proposal             Possible Counteroffer   HHS Revised Proposal   Possible Counteroffer
+The Secretary may waive the       Failing because of:             Same                    Same                   Same
+penalty if she determines the      1) Granting of good cause
+state had reasonable cause,        domestic violence waivers;
+defined in the regulation as:      2) Natural disasters;
+                                   3) Formally issued federal
+                                   guidance that was incorrect
+                                   4) "Isolated, non-recurring
+                                   problems on minimal impact
+                                   that are not indicative of a
+                                   systemic problem"
+                                   5) Due to provision of
+                                   assistance to refugees in a
+                                 . federally-approved
+                                   alternative proj ecl.
+
+Step #3: Enter into Corrective
+Compliance Plan
+A state may accept the           1) A complete analysis of        Same                    Same                   Same
+penalty or file within two       why the state did not meet
+months a corrective              the requirements;
+compliance plan. The state       2) A detailed description of
+shall not be penalized while     how the state will correct or
+under the plan, which many       discontinue, as appropriate,
+last no longer than six          the violation in a timely
+months. Such plans must          manner;
+include:                         3) The milestones, including
+                                 interim process and outcome
+                                 goals, the State will achieve
+                                 to assure it comes into
+                                 compliance within the
+                                 specified time period;
+                                 4) A certification by the
+                                 Governor that the state is
+                                 committed to correcting or
+                                 discontinuing the violation in
+                                 accordance with the plan.
+
+Step #4: After Corrective
+Compliance Plan, Secretary
+Can Reduce Penalty
+
+                                HHS Revised Proposal           Possible Counteroffer             HHS Revised Proposal           Possible Counteroffer
+To receive a reduced            I) Had a natural disaster or   Same.                             Same.                          Same.
+penalty, the state must have:   regional recession, to which
+                                failure was attributable;
+
+                                2) Made substantial progress   Option 2a): A state shall         2) Made substantial progress   Option 2a): A state shall
+                                towards correcting or          have its penalty reduced by       towards correcting or          have its penalty reduced by
+                                discontinuing the violation    the percentage by which it        discontinuing the violation.   the percentage by which it
+                                                               increased its participation                                      increased its participation
+                                                               rate (e.g., a state that                                         rate (e.g., a state that
+                                                               increased its participation                                      increased its participation
+                                                               rate from 20 to 24 percent                                       rate from 20 to 24 percent
+                                                               shall reduce its penalty by 20                                   shall reduce its penalty by 20
+                                                               percent (4/20»;                                                  percent (4/20»;
+
+                                                               Option 2b) A state shall have                                    Option 2b) A state shall have
+                                                               its penalty reduced by the                                       its penalty reduced by the
+                                                               percentage that it reduced the                                   percentage that it reduced the
+                                                               gap between its participation                                    gap between its participation
+                                                               rate before the plan and the                                     rate before the plan and the
+                                                               required rate (e.g., a state                                     required rate (e.g., a state
+                                                               that increased the overall rate                                  that increased the overall rate
+                                                               from 20 to 24 percent shall                                      from 20 to 24 percent shall
+                                                               reduce its penalty by 40                                         reduce its penalty by 40
+                                                               percent (4/10»;                                                  percent (4/10»;
+
+                                                               Option 2c): A state that                                         Option 2c): A state that
+                                                               increased its participation                                      increased its participation
+                                                               rate by 25 percent or more                                       rate by 25 percent or more
+                                                               shall have its penalty                                           shall have its penalty
+                                                               reduced at the discretion of                                     reduced at the discretion of
+                                                               the Secretary.                                                   the Secretary.
+
+                                                               Option 2d) A state that did                                       Option 2d) A state that did
+                                                               not achieve 90 percent of the                                     not achieve 90 percent of the
+                                                               participation rate shall                                          participation rate shall
+                                                               receive the full penalty. A                                        receive the full penalty. A
+                                                               state that achieved.90                                             state that achieved 90
+                                                               percent of the participation                                     . percent of the participation
+                                                               rate shall have its penalty                                        rate shall have its penalty
+                                                               reduced at the discretion of                                       reduced at the discretion of
+                                                               the Secretary.                                                     the Secretary.
+        Automated Records Manager,nent System
+        H~Conversion
+
+

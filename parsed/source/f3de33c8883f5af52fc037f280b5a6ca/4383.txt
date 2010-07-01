@@ -1,0 +1,132 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Diana Fortuna ( CN=Diana Fortuna/OU=OPD/O=EOP [ OPD )       )
+
+CREATION DATE/TIME:18-SEP-1997 15:41:11.00
+
+SUBJECT:   Here's the draft briefing materials for the VP on FLSA and privatization
+
+TO: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP @ EOP [ OPD )      )
+READ: UNKNOWN
+
+TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO)     )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ) )
+READ: UNKNOWN
+
+TEXT:
+Laura, you may want to print out for Elena. Anne Lewis of NEC is hoping
+to get this done shortly, and I know Elena wants to see this before i t
+goes in.
+
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D80)MAIL402375064.216 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504370040000010A020100000002050000002D1B000000020000073B520E2E1E927CB9EFB4
+83AOF506F2BOE9A38857B4625C542E42BA4CCD9CF96467EAE562B71456318C7DD07B5D397AEF29
+93178FF91C96C2F97DB71067A84E8E3284475ABD36E46DF95CBAOFEE27F4140D5E304467CB05CA
+61E92319A4B85AB138DA7A0133FC1CD33444C305B262B76A5A7236E90DE6EOCA029D51D1841BEF
+1D077EF8C75529CE8EDB41DECFDA153C9C3AFE9EBOBB19EE937C2DEEC20E6F9A8C3E41EBF8B5AF
+2D6016384C6620AEDE6403ACAE3601E7B7E151844C2E77E2975F37E9059C2361219BB2F272FOCE
+CEA78E103BB2A363B65A09DC6A96A84C2850D734C557859B89102EFA55B2E6460519333EAC575B
+D1045409BFFDE5BADB37AB1F7134970F8CD6D161B8DA43C24841BDFE7DFBD3F4299389F856C39B
+A133171E870ADOD0450A185196D83F8BB968FCC303529CBD9AOF034E2612BB5878F367DA9438CB
+21E24D1424EAC37F2C99A05D33D5F4941ADD4DFF38B245D15C439BF7D6C85F52BCFA4F62697C49
+32AD7F63072AF16DE754560E66F3FAF58AC2D37F604BE63DD8BF384ED967905577D6DAFA622B64
+266F9C445A876CA10FD7ABFB90EBC45CCOFBBEAFAA26EB2478EF128C6EC4475C2776EB6D6ADDF6
+965E7D6DB3A614C01E6940D233E696623C137489618A14B742253123CC8CF3D2DFD3C0193A8A62
+F903EE9D9D02000900000000000000000000000823010000000B0100007E020000005501000000
+4E0000008903000009250100000006000000D70300000B300200000028000000DD030000087701
+000000400000000504000008340100000014000000450400000802010000000F00000059040000
+080501000000080000006804000000984C006F00630061006C002000430061006E006F006E0020
+004C00420050002D00340000000000000000000000000000000000000000000000000000000000
+00000000000000000000000057494E53504F4F4COOOOOOOOOOE0019001C80090019001C800E001
+900130000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000B0100002800D61EC30F3908000011090000005AOOOB01008B143600540069006D0065
+00730020004E0065007700200052006F006D0061006E00200052006500670075006C0061007200
+000000000000000001000200580201000000040028000000000000000000000000000000000000
+00011202002400A1000000A10000000A0000004C04010002004D04010044004E04010055004F04
+380065815004010002005104010045005204010044005304020002005404010045005504010002
+003A5529230000000000000000000000000000000008227C007800000200005504000003010004
+0002000000DDOA10008301040003000200211000DDDDOBOB00030000040BOODDF1024F04F19BF1
+034F04F14272696566696E6780496E666F726D6174696F6ECC53657074656D6265728031382CF1
+Briefing Information                                                             Hex-Dump Conversion
+September 18, 1997
+
+Welfare Reform and Fair Labor Standards Act/Minimum Wage
+
+Background: As you know, this summer we worked with the labor unions in a successful effort
+to defeat Republican legislation that would have weakened labor protections for welfare
+recipients in workfare programs. The dispute began in May when the Department of Labor
+issued its legal opinion that labor protections in current law apply to most people in state
+workfare programs. This includes the minimum wage, health and safety, and anti-discrimination
+protections. Governors of both parties argued strongly that this would make workfare
+prohibitively expensive and create excessive administrative burdens on states. They worked
+with Republicans on proposals to limit the application of labor laws, as well as to reduce the
+welfare law's work requirements to make it easier for states to comply.
+
+They also objected loudly to having to pay payroll taxes for those on workfare, even though the
+Treasury Department has not yet ruled on whether FICA and FUTA taxes apply. (The Balanced
+Budget Act made them ineligible for the EITC, with our support.) The FICAIFUTA exemption
+is the only issue where we have indicated any willingness to compromise. In fact, we agreed to
+such an exemption as part of a last-minute compromise that fell apart for other reasons.
+
+Since the signing of the Balanced Budget Act, the Republican leadership has called this a top
+priority for the remaining weeks of the session.  In August, Speaker Gingrich said ''the Clinton
+Administration, working with the unions and the bureaucrats, is trying to undermine and destroy
+welfare reform." Many Governors, including Carper and Chiles, remain very unhappy about
+this issue.
+
+Current Status: House Ways and Means Human Resources Subcommittee Chairman Clay Shaw
+is quietly trying to gamer bipartisan support among Governors and House members for a bill to
+address state concerns. The Administration has taken no position on it yet, but the confidential
+draft we have seen has two major problems. First, it appears to weaken labor protections.
+Although Shaw has stated that is not his intention, other Republicans may insist that this remain
+in the bill. The unions are concerned about the draft bill, but have not yet taken a position on it.
+
+Second, Shaw's draft bill significantly weakens the welfare law's work requirements. It
+requires states to pay the minimum wage for work experience and community service programs,
+but it limits the number of work hours to what states can afford to pay, based on the amount of
+their welfare grant plus food stamps. The balance of a recipients' time could be spent on job
+search and education activities. Thus, a welfare recipient could work 10 hours a week and do 10
+hours of job search. Also, there is a concern that the legislation's definition of "work
+experience" and "community service" may be so broad that nearly all subsidized work could be
+defined as such, allowing low benefit states to require less than 20 hours of work from nearly all
+their "working" recipients. The bill would also exempt workfare positions from FICA and
+unemployment taxes, which we indicated during the balanced budget negotiations that we were
+willing to do.
+                                                                          Hex-Dump Conversion
+
+Shaw originally planned to unveil this legislation this week, but problems with the Republican
+caucus have pushed it back at least to next week. He apparently plans to move the measure as a
+separate piece of legislation.
+
+
+Privatization of Welfare Programs
+
+Background: Labor unions, particularly AFSCME and SEIU, have waged a major fight against
+state efforts to privatize their welfare, food stamp, and Medicaid functions. Last year's welfare
+law allowed states to privatize the TANF welfare program without federal approval, and some
+are moving to do so (Wisconsin, for example). However, states can privatize food stamps and
+Medicaid only with pennission from the federal government.
+
+After the Administration denied the state of Texas' request to privatize food stamp and Medicaid
+earlier this year, the Republicans launched an effort to overturn this decision through legislation.
+However, we were successful in defeating this effort. Governor Bush rejected a compromise
+that would have allowed Texas to privatize in only part of the state.
+
+Current Status: In contrast to the workfare fight, the Republicans have not resurrected the
+privatization issue so far this fall.
+
+The Administration has requests pending from Arizona and Wisconsin to privatize food stamp
+and Medicaid functions. The Department of Agriculture is required by law to take some action
+by October 3 on the Arizona request, which affects only 20% of the state. We are discussing
+how to respond. There is no such deadline for Wisconsin.

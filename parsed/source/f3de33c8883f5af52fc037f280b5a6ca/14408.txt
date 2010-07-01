@@ -1,0 +1,121 @@
+RECORD TYPE: PRESIDENTIAL   (ALL-IN-1 MAIL)
+
+CREATOR: Catherine A. Bohn ( BOHN_C )   (WHO)
+
+CREATION DATE/TIME: 4-DEC-1996 18:31:33.50
+
+SUBJECT: Server outage
+
+TO: Catherine A. Bohn                           BOHN C ) Autoforward to: Remote Addressee
+READ:NOT READ
+
+TO: Jennifer D. Dudley                          DUDLEY J ) Autoforward to: Remote Address
+READ: NOT READ
+
+TO: Edward F. Hughes                            HUGHES E ) Autoforward to: Remote Address
+READ:NOT READ
+
+TO: Bruce R. Lindsey                            LINDSEY B ) Autoforward to: Remote Addres
+READ: NOT READ
+
+TO: Jack M. Quinn                               QUINN_J ) Autoforward to: Remote Addresse
+READ: NOT READ
+
+TO: Jane C. Sherburne                           SHERBURNE J    ) Autoforward to: Remote Addr
+READ: NOT READ
+
+TO: Cheryl L Sweitzer                           SWEITZER C ) Autoforward to: Remote Addre
+READ: NOT READ
+
+TO: Odetta S. Walker                            WALKER 0 ) Autoforward to: Remote Address
+READ: NOT READ
+
+TO: Kathleen M. Wallman                         WALLMAN KM ) Autoforward to: Remote Addre
+READ:NOT READ
+
+TO: Sara B. Weider                              WEIDER S )    (WHO)
+READ: 5-DEC-1996 09:25:06.53
+
+TO: Douglas Band                                BAND D ) Autoforward to: Remote Addressee
+READ:NOT READ
+
+TO: Susan M. Chadick                            CHADICK S ) Autoforward to: Remote Addres
+READ: NOT READ
+
+TO: Dawn Chirwa                                 CHIRWA D ) Autoforward to: Remote Address
+READ: NOT READ
+
+TO: Sandra S. Coleman                           COLEMAN S      (WHO)
+READ: 4-DEC-1996 18:53:54.00
+
+TO: Peter Erichsen                              ERICHSEN P ) Autoforward to: Remote Addre
+READ: NOT READ
+
+TO: Mark D. Fabiani                             FABIANI M ) Autoforward to: Remote Addres
+READ: NOT READ
+
+TO: David Fein                                  FEIN D ) Autoforward to: Remote Addressee
+READ: NOT READ
+
+TO: Nellie Herbert                              HERBERT N ) Autoforward to: Remote Addres
+
+
+READ: NOT READ
+
+TO: Rochester M. Johnson                  JOHNSON RM ) Autoforward to: Remote Addre
+READ: NOT READ
+
+TO: Elena Kagan                           KAGAN E ) Autoforward to: Remote Addresse
+READ: NOT READ
+
+TO: Christopher S. Lehane                 LEHANE C ) Autoforward to: Remote Address
+READ: NOT READ
+
+TO: Michael Massey                        MASSEY M ) Autoforward to: Remote Address
+READ: NOT READ
+
+TO: Clifford J. Mauton                    MAUTON C ) Autoforward to: Remote Address
+READ: NOT READ
+
+TO: Cheryl D. Mills                       MILLS C ) Autoforward to: Remote Addresse
+READ:NOT READ
+
+TO: Melissa M. Murray                     MURRAY MM ) Autoforward to: Remote Addres
+READ: NOT READ
+
+TO: Miriam R. Nemetz                      NEMETZ M ) Autoforward to: Remote Address
+READ: NOT READ
+
+TO: Sally Paxton                          PAXTON S ) Autoforward to: Remote Address
+READ:NOT READ
+
+TO: Stacy E. Reynolds                     REYNOLDS S ) Autoforward to: Remote Addre
+READ: NOT READ
+
+TO: Julie Schrager                        SCHRAGER J     (WHO)
+READ: NOT READ
+
+TO: Robert W. Schroeder III               SCHROEDER R ) Autoforward to: Remote Addr
+READ: NOT READ
+
+TO: Kathleen M. Whalen                    WHALEN K ) Autoforward to: Remote Address
+READ: NOT READ
+
+TO: Wendy S. White                        WHITE WS ) Autoforward to: Remote Address
+READ:NOT READ
+
+TO: Jonathan R. Yarowsky                  YAROWSKY J   ) Autoforward to: Remote Addre
+READ: NOT READ
+
+TEXT:
+The West Wing server will be down between midnight tonight and 6:00 am for
+"preventive maintenance".  You will be able to access only WordPerfect6.1 and
+Lotus and will receive the following error messages if you try to login when the
+server is down. You should follow these steps when prompted:
+1. You cannot be authenticated on the server. Do you wish to be authenticated
+to another server? SELECT NO.
+2. Unable to load Central Profile.   SELECT NO.
+3. A Domain controller could not be contacted.   SELECT NO.
+Bottom line : **Please remember to power off your PC before you leave tonight**
+
+

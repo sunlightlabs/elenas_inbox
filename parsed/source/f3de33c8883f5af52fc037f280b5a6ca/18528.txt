@@ -1,0 +1,45 @@
+RECORD TYPE: PRESIDENTIAL     (NOTES MAIL)
+
+CREATOR: Thomas L. Freedman ( CN=Thomas L. Freedman/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME:27-JAN-1998 09:33:31.00
+
+SUBJECT:   Cloning
+
+TO: Elena Kagan      CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Paul J. weinstein Jr.    ( CN=Paul J. weinstein Jr./OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO]       )
+READ: UNKNOWN
+
+CC: Mary L. Smith ( CN=Mary L. Smith/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ:UNKNOWN
+
+TEXT:
+You asked for a quick one paragraph.==================== ATTACHMENT      1 ============
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D11]MAIL440553626.026 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504370040000010A02010000000205000000160900000002000087D4E8D16E22BOOF9B6F61
+8DB987DAD5F477C19103EBD06A95DCD647EOC92481121E1EF314729AF9896FCD6B4B253E50DEBD
+                                                                              Hex-Dump Conversion
+                                    CLONING
+                                      1/27/98
+
+New technology raises the potential of enormous scientific breakthroughs, but the new
+technology also raises profound ethical issues, particularly with respect to its possible use to
+clone humans. President Clinton has proposed legislation banning the use of new technology to
+clone human beings. The President's legislative proposal prohibits for five years the use of
+somatic cell nuclear technology to create a human being. The legislation directs the National
+Bioethics Advisory Commission to report to the President in four and half years on whether to
+continue the ban. The proposal is carefully worded to ensure that it will not interfere with
+beneficial biomedical and agricultural activities. In March 1997, the President imposed a ban on
+the use of federal money for cloning human beings.
+
+

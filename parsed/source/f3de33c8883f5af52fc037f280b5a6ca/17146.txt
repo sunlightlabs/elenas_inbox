@@ -1,0 +1,192 @@
+RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+CREATOR: Tanya E. Martin ( CN=Tanya E. Martin/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME:29-SEP-1997 20:49:52.00
+
+SUBJECT:   "Doubling" -- prior.announcement/Qs&As
+
+TO: Elena Kagan     CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO]      )
+READ: UNKNOWN
+
+CC: Thomas L. Freedman ( CN=Thomas L. Freedman/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TEXT:
+After several checks, HUD verified their prior "doubling enforcement"
+announcement.
+
+At the US Conference on Mayors, Sec Cuomo announced that HUD would double
+the number of enforcement action referred to Justice.  (About 200 of the
+1,058 enforcement actions over the last four years were referred to
+Justice).  HUD staff siad that this announcement did not get covered in
+the press on that event.
+
+Tomorrow's announcement is that HUD will double the total (1,058) number
+of enforcement actions     not just those that are referred to Justice.
+These two "doubling" events seemed close enough to me to make the changes
+that you suggested of (1) putting the grants announcement up front and (2)
+changes the heading to "the President announces HUD will double" as
+opposed to "directed".
+
+The Qs&As are also attached.==================== ATTACHMENT       1 ====================
+ATT CREATION TIME/DATE:     0 00:00:00.00
+
+TEXT:
+unable to convert ARMS_EXT: [ATTACH.D4]MAIL45735717K.216 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504300060000010A020100000002050000003C2C000000020000BDA9727734FAB709BD7DCD
+07882A701F653F51C3B057DC4E5047ABF33A4895B3EF494B07DOC6853AE9C6E764801DFE275273
+95EA4425AC07F2577D7381AD05533818FIFA5A84DFAEIIBEA52328EE1439975294BBAE6B73CAB9
+6133118F224AB18E06287AC9F814DC2E2D6FD09190BC225D4234A3A2546779C5825F59E6A4228A
+2D5CFOE24994CEE6E919E59C14BFB311B6BAOB83C3EDA44C502D7919018692AOA8037CAD7059E3
+DF31FBC4616E96B596E64550C399124AFA65971FIIDCBA64DE84C788379295C658453B65F554Bl
+19005F982D9C8AAIF9A33CF84FA6505D67BCD810455EF217A85BEA54599D44CDF200618FIA6AEI
+4EE5C135D7986510DCEEFC7FAAF3E6C73526ADFD5C6A6F19528B6E6BIDOD342D4B78541872AF5E
+7D12FCID584FA17846B66AFA355DBBIF96827FEE5CBIA373BF919ADE2E6E7013FA3C05BIB52B17
+01F0099FA0298CFODEEBBA9B634D040CD3C241B3BEEA2709C5524C28A004FBF6DA92B98C8B2957
+AD9DF7ECF28CD5059F89CBB81317894DFD87BAAFICB4A41744B46EBIF5D72874341C68EFBC13B8
+7CF14AA4E811CF93D870D2D55CEFB8A44E2B8903E8AC286FD642F14AOE97F2FF404B67D2A4096E
+5BF8159AFB2916124B2D6FB8876B4C62E5BC64932CFF90E6F99573A9931CF61F2D91EFOBEFAEE9
+3E7682E9390200200.0000000000000000000000823010000000BO10000C0030000005501000000
+4EOOOOOOCB04000009250100000006000000190500000B3002000000280000001F050000087701
+000000400000004705000008340100000014000000870500000802010000000F0000009B050000
+08050100000008000000AA05000000000000000000000000AA050000OOOOOOOOOOOOOOOOOOOOAA
+05000000000000000000000000AA05000000000000000000000000AA0500000000000000000000
+0000AA05000000000000000000000000AA0500000000000000000000OOOOAA0500000000000000
+                                      FAIR HOUSING               Kelt-Dump Conversion
+                                      Internal Qs &As
+
+
+Q.   What is covered under the Fair Housing Act?
+
+     The Fair Housing Act prohibits discrimination in the sale, rental, financing or advertising
+     of housing based on race, color, religion, sex, disability, family status, or national origin.
+     The act applies to almost all housing in the United States. It applies to private landlords
+     and property management firms, property owners, federally-assisted housing, public
+     housing authorities, realtors, and lenders and insurers of housing.
+
+Q.   How are violations of the Fair Housing Act handled?
+
+     Persons who believe they are victims of discriminatory housing practices can file a
+     complaint with the U.S. Department of Housing and Urban Development (HUD). Fair
+     housing investigations are conducted by HUD, state and city agencies working with
+     HUD, and private fair housing groups that receive HUD funds. If an investigation shows
+     that illegal housing practices have occurred and the parties will not settle, HUD can issue
+     civil enforcement charges -- such as the three announced today -- and legal action is
+     taken. HUD handles over 12,000 inquiries from potential complainants annually.
+
+Q.   How many complaints has HUD processed and what was their disposition?
+
+     Since the Clinton administration took office, HUD has investigated 16,325 housing
+     complaints, taken enforcement actions on 1,085 cases, reached out-of-court settlements
+     on 6,517 cases, and collected $17.8 million in compensation to victims of housing
+     discrimination.
+
+Q.   Why is the President directing HUD to double its the level of its enforcement actions
+     against housing discrimination?
+
+     One of the most basic civil rights is the ability to live where you want. Discrimination in
+     housing represents a serious barrier to achieving true racial reconciliation in the country,
+     If people are kept apart in their homes and neighborhoods, how can we ever come
+     together as a nation? Discrimination in housing is illegal and it is wrong. That's why I
+     am directing Secretary Cuomo to do everything in HUD' s power to ensure that this
+     Nation's fair housing laws are enforced.
+
+     Homeownership helps build strong communities, which is why another goal of my
+     administration has been to increase the homeownership rate. We cannot achieve that
+     goal without ensuring that fair and equal housing opportunity is open to all Americans.
+     Over the past four years, more than 34,000 complaints of housing discrimination have
+     been made to federal, state and local agencies. It is critical to address these problems,
+                                                              Hex-Dump Conversion
+
+     and so in the next four years, HUD will double its enforcement actions to ensure that all
+     Americans have a full range of opportunities for home ownership.
+
+Q.   What has been the level of enforcement activity in the past four years? How much
+     will enforcement actions increase as a result of this announcement?
+
+     A total of 1,085 enforcement actions were taken during fiscal years 1993, 1994, 1995 and
+     1996: during that time 882 charges finding violations of the Fair Housing Act were issued
+     and 203 cases were referred to the Department of Justice for enforcement action. Over
+     the next four years, at least 2,170 enforcement actions will be taken.
+
+Q.   How have minorities fared in terms of home ownership over the past few years?
+
+     With the economy going strong and ownership becoming more affordable, many minority
+     and immigrant households are buying homes. The Ford Foundation-sponsored study,
+     The State of the Nation's Housing: 1997, issued by the Joint Center for Housing Studies
+     of Harvard University found that minority and immigrant households account for nearly
+     30% of the overall growth in homeownership, and in many areas anchor the first-time
+     buyer market. The number of minority households buying homes for the first time
+     increased by 994,000 from 1993 to 1996 -- almost 30 percent of the overall increase of
+     3.3 million.
+
+     During those three years, 460,000 Hispanic households have become homeowners -- an
+     increase of 16.3 percent. African-Americans and other minorities also posted significant
+     gams.
+
+Q.   What does the Fair Housing Initiatives Program(FHIP) do? How are these grants
+     used?
+
+     FHIP provides funds to public and private entities carrying out programs to prevent or
+     eliminate discriminatory housing practices. Federal funds provide support to private
+     non-profit organizations, State and local governments and others to strengthen
+     enforcement and enhance compliance with the nation's fair housing laws. While both
+     educational and enforcement efforts are funded, the program's main emphasis is the
+     support of private non-profit fair housing enforcement organizations that undertake
+     testing and other enforcement activities to prevent and eliminate discriminatory housing
+     practices.
+
+Q.   Why is FHIP important to HUD's mission?
+
+     The FHIP represents a significant Federal commitment to fair housing activity and is a
+     critical component ofHUD's enforcement ofthe provisions of the fair housing laws. It
+     is the only grant program available within the federal government whose primary purpose
+     is to prevent and eliminate discriminatory housing practices. FHIP also promotes local
+     partnerships with other pUblic/private entities in addressing fair housing violations.
+                                                                    Automated Records Management SyJtem
+                                                                    ~~ Conversion                  ,-
+
+
+    Q.   What types of activities are funded under FHIP?
+
+         Examples of funded activities include:
+
+         ·       investigating complaints alleging discrimination in housing -- including rental,
+                 sales, lending and insurance;
+         ·       testing as a means of detecting different treatment;
+         ·       training housing industry groups and others regarding their responsibilities under
+                 the Fair Housing Act.
+
+    Q.   What types of organizations typically receive FHIP awards?
+         The majority of FHIP recipients are fair housing enforcement organizations that provide
+         the full-range of fair housing services to the public_ FHIP also funds:
+         ·        State and local governments;
+         ·       disability advocacy organizations;
+         ·       legal services organizations;
+         ·       community development organizations; and
+         ·       housing industry groups (this year, a National Outreach and Education award is
+                 being made to the National Association of Homebuilders Research Center).
+
+    Q.   What have FHIP rmding levels been in the past? How much has been requested
+         for FY 1998?
+
+         FHIP   Funding 1991-1997
+         1991    $5.8 million
+         1992    $8.0 million
+         1993    $10.6 million
+         1994    $20 million
+         1995    $26 million
+         1996    $17 million
+         1997    $15 million, requested $18 million
+         1998    Requested $24 million.
+EMAILS RECEIVED
+ARMS - BOX 066 - FOLDER -010
+
+
+[09/30/1997]

@@ -1,0 +1,498 @@
+RECORD TYPE: PRESIDENTIAL      (NOTES MAIL)
+
+CREATOR: Steve B. Chu ( CN=Steve B. Chu/OU=PIR/O=EOP [ PIR]         )
+
+CREATION DATE/TIME:22-JUN-1998 10:22:17.00
+
+SUBJECT:   PIR weekly report
+
+TO: Janet Murguia ( CN=Janet Murguia/OU=WHO/O=EOP @ EOP [ WHO]              )
+READ: UNKNOWN
+
+TO: Robert N. Weiner ( CN=Robert N. Weiner/OU=WHO/O=EOP @ EOP [WHO]                     )
+READ: UNKNOWN
+
+TO: Michael Waldman ( CN=Michael waldman/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+TO: Dawn M. Chirwa" ( CN=Dawn M. Chirwa/OU=WHO/O=EOP @ EOP [ WHO]               )
+READ: UNKNOWN
+
+TO: Bob J. Nash ( CN=Bob J. Nash/OU=WHO/O=EOP @ EOP [ WHO]      )
+READ: UNKNOWN
+
+TO:" Doris o. Matsui ( CN=Doris   o.   Matsui/OU=WHO/O=EOP @ EOP [ WHO]             )
+READ: UNKNOWN
+
+TO: Mona G. Mohib ( CN=Mona G. Mohib/OU=WHO/O=EOP @ EOP [ WHO]              )
+READ: UNKNOWN
+
+TO: Ruby Shamir ( CN=Ruby Shamir/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+TO: Paul E. Begala ( CN=Paul E. Begala/OU=WHO/O=EOP @ EOP [ WHO]                )
+READ: UNKNOWN
+
+TO: Gene B. Sperling ( CN=Gene B. Sperling/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Nelson Reyneri ( CN=Nelson Reyneri/OU=WHO/O=EOP @ EOP [ WHO]                )
+READ: UNKNOWN
+
+TO: Sylvia M. Mathews ( CN=Sylvia M. Mathews/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+TO: Thurgood Marshall Jr ( CN=Thurgood Marshall Jr/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+TO: Susan M. Liss ( CN=Susan M. Liss/O=OVP @ OVP [ UNKNOWN]         )
+READ: UNKNOWN
+
+TO: Ann F. Lewis ( CN=Ann F. Lewis/OU=WHO/O=EOP @ EOP [ WHO]            )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Mickey Ibarra ( CN=Mickey Ibarra/OU=WHO/O=EOP @ EOP [ WHO]              )
+READ: UNKNOWN
+
+TO: Marjorie Tarmey ( CN=Marjorie Tarmey/OU=WHO/O=EOP @ EOP [ WHO]                  )
+
+
+READ: UNKNOWN
+
+TO: Andrew J. Mayock ( CN=Andrew J. Mayock/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Julie A. Fernandes ( CN=Julie A. Fernandes/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Richard Socarides ( CN=Richard Socarides/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Kevin S. Moran ( CN=Kevin S. Moran/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Chandler G. Spaulding ( CN=Chandler G. Spaulding/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Grace A. Garcia ( CN=Grace A. Garcia/OU=PIR/O=EOP @ EOP [ PIR 1 )
+READ: UNKNOWN
+
+TO: Patrick Aylward ( CN=Patrick Aylward/OU=PIR/O=EOP @ EOP [ PIR 1 )
+READ: UNKNOWN
+
+TO: John M. Goering   CN=John M. Goering/OU=PIR/O=EOP @ EOP [ PIR 1 )
+READ: UNKNOWN
+
+TO: David K. Chai ( CN=David K. Chai/OU=PIR/O=EOP @ EOP [ PIR 1 )
+READ:UNKNOWN
+
+TO: Michael Wenger ( CN=Michael Wenger/OU=PIR/O=EOP @ EOP [ PIR 1 )
+READ: UNKNOWN
+
+TO: Scott R. Palmer ( CN=Scott R. Palmer/OU=PIR/O=EOP @ EOP [ PIR 1 )
+READ: UNKNOWN
+
+TO: Ana Lopez ( CN=Ana Lopez/OU=PIR/O=EOP @ EOP [ PIR 1 )
+READ: UNKNOWN
+
+TO: Allison J. King ( CN=Allison J. King/OU=PIR/O=EOP @ EOP [ PIR 1 )
+READ: UNKNOWN
+
+TO: Linda C. Gray ( CN=Linda C. Gray/OU=PIR/O=EOP @ EOP [ PIR 1 )
+READ: UNKNOWN
+
+TO: Marjorie A. Black ( CN=Marjorie A. Black/OU=PIR/O=EOP @ EOP [ PIR 1 )
+READ: UNKNOWN
+
+TO: Michael J. Sorrell. ( CN=Michael J. Sorrell/OU=PIR/O=EOP   @   EOP [ PIR 1 )
+READ: UNKNOWN
+
+TO: Cedra D. Eaton ( CN=Cedra D. Eaton/OU=PIR/O=EOP @ EOP [ PIR 1 )
+READ: UNKNOWN
+
+TO: Jennifer A. Dolan ( CN=Jennifer A. Dolan/OU=PIR/O=EOP @ EOP [ PIR 1 )
+READ: UNKNOWN
+
+TO: Michelle R. Waldron ( CN=Michelle R. Waldron/OU=PIR/O=EOP @ EOP [ PIR 1 )
+READ: UNKNOWN
+
+TO: D. Bambi Kraus ( CN=D. Bambi Kraus/OU=PIR/O=EOP @ EOP [ PIR 1 )
+
+
+READ: UNKNOWN
+
+TO: Barbara Semedo ( CN=Barbara Semedo/OU=PIR/O=EOP @ EOP [ PIR 1 )
+READ: UNKNOWN
+
+TO: Susan C. South ( CN=Susan C. South/OU=PIR/O=EOP @ EOP [ PIR 1 )
+READ: UNKNOWN
+
+TO: Eric Y. Kim ( CN=Eric Y. Kim/OU=PIR/O=EOP @ EOP [ PIR 1 )
+READ: UNKNOWN .
+
+TO: Elizabeth Belenis ( CN=Elizabeth Belenis/OU=PIR/O=EOP @ EOP [ PIR 1 )
+READ: UNKNOWN
+
+TO: Ananias Blocker III ( CN=Ananias Blocker III/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Laura K. Capps ( CN=Laura K. Capps/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Emil E. Parker (·CN=Emil E. Parker/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Laura K. Demeo ( CN=Laura K. Demeo/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Cheryl D. Mills ( CN=Cheryl D. Mills/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOwN
+
+TO: Robert B. Johnson ( CN=Robert B. Johnson/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Lynn G. Cutler ( CN=Lynn G. Cutler/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Sidney Blumenthal ( CN=Sidney Blumenthal/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Beverly J. Barnes ( CN=Beverly J. Barnes/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Peter Rundlet ( CN=Peter Rundlet/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Minyon Moore ( CN=Minyon Moore/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Elisabeth Steele ( CN=Elisabeth Steele/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Trooper Sanders ( CN=Trooper Sanders/O=OVP @ OVP [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Suzanne Dale ( CN=Suzanne Dale/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: edley ( edley @ law.harvard.edu @ INET @ LNGTWY [ UNKNOWN 1 )
+
+
+READ: UNKNOWN
+
+TO: Maria Echaveste ( CN=Maria Echaveste/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Jon P. Jennings ( CN=Jon P. Jennings/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Stacie Spector ( CN=Stacie Spector/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Judith A. Winston ( CN=Judith A. Winston/OU=PIR/O=EOP @ EOP [ PIR 1 )
+READ: UNKNOWN
+
+TO: Oliver G. McGee ( CN=Oliver G. McGee/OU=OSTP/O=EOP @ EOP [ OSTP 1 )
+READ: UNKNOWN
+
+TO: Jacinta Ma ( CN=Jacinta Ma/OU=PIR/O=EOP @ EOP [ PIR 1 )
+READ: UNKNOWN
+
+TO: Alexander L. Boyle ( CN=Alexander L. Boyle/OU=PIR/O=EOP @ EOP [ PIR 1 )
+READ: UNKNOWN
+
+TO: David Campt ( CN=David Campt/OU=PIR/O=EOP @ EOP [ PIR 1 )
+READ: UNKNOWN
+
+TO: Diana Kappner ( CN=Diana Kappner/OU=PIR/O=EOP @ EOP [ PIR 1 )
+READ: UNKNOWN
+
+TO: Robert Wexler ( CN=Robert Wexler/OU=PIR/O=EOP @ EOP [ PIR 1 )
+READ: UNKNOWN
+
+TO: Maria E. Soto ( CN=Maria E. Soto/OU=PIR/O=EOP @ EOP [ PIR 1 )
+READ: UNKNOWN
+
+TO: Evelina Mosby ( CN=Evelina Mosby/OU=PIR/O=EOP @ EOP [ PIR 1 )
+READ: UNKNOWN
+
+TO: Lin Liu ( CN=Lin Liu/OU=PIR/O=EOP @ EOP [ PIR 1 )
+READ:UNKNOWN
+
+TO: Audrey M. Hutchinson ( CN=Audrey M. Hut.chinson/OU=PIR/O=EOP   @   EOP [ PIR 1 )
+READ: UNKNOWN
+
+TO: Claire Gonzales ( CN=Claire Gonzales/OU=PIR/O=EOP @ EOP [ PIR 1 )
+READ: UNKNOWN
+
+TO: Randy D. Ayers ( CN=Randy D. Ayers/OU=PIR/O=EOP @ EOP [ PIR 1 )
+READ: UNKNOWN
+
+TO: Michele Cavataio ( CN=Michele Cavataio/OU=PIR/O=EOP @ EOP [ PIR 1 )
+READ: UNKNOWN
+
+TO: Lydia Sermons ( CN=Lydia Sermons/OU=PIR/O=EOP @ EOP [ PIR 1 )
+READ: UNKNOWN
+
+TO: Danielle B. Glosser ( CN=Danielle B. Glosser/OU=PIR/O=EOP @ EOP [ PIR 1 )
+READ: UNKNOWN
+
+TO: Elizabeth R. Asher ( CN=Elizabeth R. Asher/OU=PIR/O=EOP @ EOP [ PIR 1 )
+
+
+READ: UNKNOWN
+
+TO: Karen C. Burchard ( CN;Karen C. Burchard/OU;PIR/O;EOP @ EOP [ PIR ] )
+READ: UNKNOWN
+
+TO: Stephanie J. Minato ( CN;Stephanie J. Minato/OU;PIR/O;EOP @ EOP [ PIR]                     )
+READ: UNKNOWN
+
+TO: Matthew J. Roper ( CN;Matthew J. Roper/OU;PIR/O;EOP @ EOP [ PIR]                    )
+READ: UNKNOWN
+
+TO: Lonell Hamlett ( CN;Lonell Hamlett/OU;PIR/O;EOP @ EOP [ PIR]                   )
+READ: UNKNOWN
+
+TO: Bruce Andersen ( CN;Bruce Aridersen/OU;PIR/O;EOP @ EOP [ PIR ] )
+READ: UNKNOWN
+
+TEXT:
+Attached is the PIR weekly report for June 13-19, 199B.
+
+;;;;;;;;;;;;;;;;;;;; ATTACHMENT   1 ;;;;;;;;;;;;;;;;;;;;
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT: ·
+Unable to convert ARMS_EXT: [ATTACH.D14]MAIL42731537N.126 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043BF140000010A02010000000205000000A351000000020000DOBB4106A607FOBFEBB64A
+231111B2C7EA4AB1BB2DE1040DDAC73BA34F0163F09415D4DA707ED024388A2CCE503BD595BD30
+D7CAAAB1A37315F2FEAB191BB31CAEA52E7E27BA94D2AE44E2BOFF407633943C06B9F91CBOA555
+9EACAF9F30766BCAOFA04AAB2C577FBFDE3F2F19292EDF549DD2DE1BB220D5A5BD1C4154BAF921
+70017 9AB63CBBDDO,4 B463 99CC96DAEAE4AB 7 3E9B903 3 BCD2AOOD65 764 ODE7 2741C7F7 9BB12CEBF
+9C912B1C924B53BCCBDA95BABF95BFBE515C722B4B22723A4BF513155AB3604112710DE7CA4A09 .
+65F8BE1A4B7C3950F73BOOBD2A07D33EFCF6B253D036209C02906187CB70BD042C4BCDEDCF3B69
+AE3BFDB5DB2BB567F61EB630357EBAOA20F1F62C971BF06955CB4FFACB47B1B199DBF2E5FC9BD5
+2976ABFE17254EBBOF49297BOC416EECDBFB22DFDED5FFBF04533D4F5CAEB9D7430B53F72B02B5
+OAD92 C5CF7 3 51B9D4 53 7 AFF6 2 94B2D515C4 5 85B64 7CBCE2 9 0 5A2 F5 7 9BAE8CDA2C3 BBll12 OC3.E6 3
+4EEDDA474E1C74165BB7BB227B33EE602BBAA366B56B2702B6E401BB7491B27E070C45BEC3A2EO
+67AD1D7ACF28DBE070EB4AOF77DB4B75DB1914DEB6B23C21367FDBE9BE9AC90A5126AFE1CB2F61
+CBF71B4DB5002D567746A6F267E2A9490AAA1D3EFEOOE5F50021F691637B61BEFBC9BDFB9F5F63
+F9B2COBB660200B900000000000000000000000B23010000000B0100001EOC0000005537000200
+4E000000290D000009250100000006000000770DOOOOOB30030000002B0000007DODOOOOOB1D01
+00000000000000A50DOOOOOB770100000040000000A50DOOOOOB340100000014000000E50DOOOO
+OB02010000000FOOOOOOF90D0000005504000000400000000BOEOO0000550C0003002B0000004B
+OEOOOOOB05010000000B000000700E00000055130001003COOOOOO7BOE00000055030000004EOO
+0000B40E00000055010000004E000000020F0000060B0100000016000000500F00000055010000
+002E000000660F00000055010000004E000000940F00000943010000001AOOOOOOE20F00000942
+010000001DOOOOOOFCOF00000942010000001D000000191000000942010000002A000000361000
+000942010000001D000000601000000055010000004E0000007D1000000055010000004EOOOOOO
+CB1000000055010000004E000000191100000055010000004EOOOO00671100000055020000004E
+000000B511000000550E0002004000000003120000005501000000400000004312000000550100
+000042000000B312000000550100000030000000C5120000060B010000009AOOOOOOF512000000
+55010000004EOOOOOOBF13000000000000000000000000BF130000000000000000000000008F13
+000000000000000000000000BF13000000000000000000000000BF130000000000000000000000
+00BF130000000000000000000000008F130000000000000000000000008F130000000000000000
+00000000BF13000000000000000000000000BF13000000000000000000000000BF130000000000
+00000000000000BF13000000000000000000000000BF13000000000000000000000000BF130000
+000000000000000000008F13000000000000000000000000BF1300OOOOOOOOOOOOOOOOOOOOOOBF
+13000000000000000000000000BF13000000000000000000000000BF1300000000000000000000
+OOOOBF130000000000000000000000008F13000000000000000000OOOOOOBF1300000000000000
+                                                                      Hex-Dump Conversion
+
+
+
+
+MEMORANDUM TO THE PRESIDENT .
+
+FROM:          JUDITH A. WINSTON
+
+THROUGH: ERSKINE BOWLES
+         SYLVIA MATHEWS
+
+DATE:          JUNE 19,1998
+
+SUBJECT:       PRESIDENT'S INITIATIVE ON RACE WEEKLY REPORT
+               JUNE13-JUNE19
+
+
+
+ADVISORY BOARD ACTIVITIES
+
+        June Advisory Board Meeting_ Members of the Advisory Board participated in four
+        subgroup meetings on June 17 where they discussed ideas and challenges in the areas of
+        education, economic opportunity, leadership, values, and a vision for One America. The
+        Advisory Board held a public meeting on Thursday, June 18 in Washington, D.C. and
+        presented ideas and options raised during the subgroup meetings. For example, ideas
+        that were discussed included establishing a Presidential council on race to continue the
+        Initiative's work and increasing funding for school construction through Federal matching
+        grants. Initiative staff will work with Advisory Board members following this meeting
+        to include their discussions and recommendations in a written report to you.
+
+        Letter on Race and Stereotypes. On behalf of the Advisory Board, Dr. Franklin has
+        written a letter to you reporting on the March Advisory Board meeting in Denver on Race
+        and Stereotypes. A copy of the letter is attached .
+
+    . Tufts University. On June 12, Governor Winter spoke to a group of35 college
+      presidents gathered at Tufts University in Boston. Governor Winter spoke about the
+      Initiative and received a warm reception from the gathering. Members of the group
+      urged that the work ofthe Initiative continue.
+
+        American-Arab Anti-Discrimination Committee. On June 13, Linda Chavez
+        Thompson and Chris Edley were the keynote speakers at the Fifteenth National
+        Convention of the American-Arab Anti-Discrimination Committee in Crystal City,
+                                                                        Hex-Dump Conversion
+
+     Virginia. Ms. Chavez-Thompson spoke about the accomplishments ofthe Initiative and
+     urged the members of the audience to playa key role in building One America in the 21 st
+     Century.
+
+    Southern Growth Policies Board Conference. On June 16, Governor Winter
+    introduced Dr. Franklin, who was the featured speaker at the Southern Growth·Policies
+    Board Conference in Louisville, Kentucky which was attended by political and private
+    sector leaders.
+
+    Native American Journalists Association. On June 19, Angela Oh and senior
+    Initiative staff attended the Native American Journalists Association conference in
+    Tempe, Arizona. Angela Oh gave the opening remarks and answered questions from the
+    audience about the Initiative and its accomplishments during the breakfast session.
+
+OFFICE OF THE EXECUTIVE DIRECTOR
+
+    Public Service Announcement (PSA) Award. The PSA, "On Target," which the
+    Initiative produced in conjunction with the Leadership Conference Education Fund, the
+    Ad Council and the Griffin Bacal Advertising Agency won the 1998 Tele Award, the
+    advertising industry's honor for best public service announcement.
+
+     Corporate Leaders Forum. The Corporate Leaders Forum in st. Louis has been
+     rescheduled from July 10 to July 23 as a result of a conflict in Secretary Slater's schedule.
+
+    Congressional Conversations on Race. On June 17, I attended the first Congressional
+    conversation on race, co-sponsored by Representatives John Lewis and Amo Houghton.
+    The discussion included approximately 50 Members of Congress, and Colin Powell gave
+    the keynote address. This was the first of four conversations on race that they plan to
+    have in the coming year.
+
+    National Council of La Raza. On June 15, I met with representatives of the National
+    Council of La Raza, including their Executive Director Raul Yzaguirre, to discuss
+    Initiative activities related to data and research on the Latino community. We agreed to
+    continue to consult with them during the preparation of the Advisory Board's report to
+    you.
+
+    National Association of Latino Elected Officials (NALEO). On June 20, I will attend
+    the annual NALEO Educational Fund conference and participate in a panel entitled
+    "Dialogue on Race and Ethnic Relations" in Houston, Texas. The NALEO annual
+    conference is the largest gathering of Latino elected and appointed officials with an
+    expected attendance of 700 public officials. Mickey Ibarra will be addressing the
+    conferees as well.
+
+
+
+                                               2
+                                                                     Hex-Dump Conversion
+
+       Religious Leaders. On June 22, Chris Edley, Initiative staff, Office of Public Liaison
+       staff, and I will meet with a small group of religious leaders to discuss ways in which they
+       can build on the foundation established by the Initiative.
+
+FEDERAL AGENCY ACTIVITIES
+
+Department of Tustice
+
+       Latino Civil Rights Awards. On June 25, the Attorney General Janet Reno will speak
+       at the Latino Civil Rights Center's Annual Awards ..
+
+Department of Agriculture
+
+       Memorandum of Agreement. The United States Department of Agriculture's Natural
+       Resource Conservation Service has finalized a Memorandum of Agreement with the
+       Minority Business Technology Consortium, and the Agricultural Research Service, to
+       make agricultural technology more readily available to minority farmers and rural
+       communities through the local Resource Conservation and Development Councils.
+
+Department of Commerce
+
+       National Association of Latino Elected Officials. On June 20, Secretary William Daley
+       will speak before the National Association of Latino Elected Officials in Houston, TX.
+
+Department of Labor
+
+       Workforce Development. On June 24 and 25, Secretary Alexis Herman will meet with
+       members of the Congressional Black Caucus and the Congressional Hispanic Caucus
+       respectively to discuss the Workforce Development legislation.
+
+Department of Health and Human Services
+
+       Organ Transplant Discrimination. On June 15, Deputy Inspector General George Grob
+       was interviewed by the 300-station American Urban Radio Network on the IG's report,
+       "Racial and Geographic Disparity in the Distribution of Organs for transplantation,"
+       which shows a growing disparity in the wait time between blacks and whites for kidney
+       transplants.
+
+Department of Transportation
+
+       African/African American Summit.    On June 25, Secretary Rodney Slater will address the
+
+
+                                                3
+                                                                     Hex-Oump Conversion
+       First Bi-Annual African/African American Summit Report to America in Washington,
+       DC.
+
+Department of Energ v
+
+       Summer Diversity Program. On June 19, Secretary Federico Pena will speak to
+       student interns participating in the Department of Energy's Summer Diversity Program.
+       Among the topics he will discuss are the importance of giving back to the community.
+       He will also stress the importance of education and opportunities like the Department of
+       Energy's summer internship program.
+
+Department of Education
+
+       Department of Education Listening Session. .On June 22, Secretary Richard Riley will
+       conduct the third and final listening session of the Department of Education's
+       Department-wide race initiative.
+
+Department of Veterans Affairs
+
+       Race Dialogues. On July I, the Department of Veteran Affairs' Deputy Assistant
+       Secretary for Equal Opportunity will participate in a dialogue on race at the National
+       Convention ofthe League of United Latin American Citizens in Dallas, TX.
+
+Small Business Administration
+
+       Lending Outreach Initiative. Small Business Administration's Regional Administrator
+       signed a Memorandum of Understanding with the Kansas City Hispanic Chamber of
+       Commerce to commit both organizations to work to further the agency's goals to increase
+       lending activity in the underserved small business communities.
+
+Office of Personnel Management
+
+       Hispanic Senior Executive Workshop. On June 24, Director Janice Lachance is
+       co-hosting the Hispanic Senior Executive Workshop with the Department of Energy's
+       Secretary Federico Pena.
+
+United States InfOrmation Agency
+
+       Website Highlights Race Relations. The United States Information Agency's
+       recently-launched website on perspectives on race relations features transcripts and
+       background on the President's Initiative on Race, affirmative action and race, and law and
+       ethnic diversity.
+
+                                                4
+    Hex-Dump Conversion
+
+
+
+
+5
+
+

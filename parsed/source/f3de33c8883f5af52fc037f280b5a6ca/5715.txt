@@ -1,0 +1,116 @@
+RECORD TYPE: PRESIDENTIAL    -(NOTES MAIL)
+
+CREATOR: Sally Katzen ( CN=Sally Katzen/OU=OMB/O=EOP [ OMB ]        )
+
+CREATION DATE/TIME:17-DEC-1997 12:26:49.00
+
+SUBJECT:   Food Safety
+
+TO: Elena Kagan     CN=Elena Kagan/OU=OPD/O=EOP@EOP   [ OPD ]   )
+READ: UNKNOWN
+
+TEXT:
+Here's the document on a single food safety agency that we put together at
+Frank's request.  Where do we go from here?
+
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D27]MAIL49476405P.316 to ASCII,
+ The following is a HEX DUMP:
+
+  FF57504370040000010A020100000002050000005F1500000002000087BD5AC0892CCEOCOCCOF3
+  D107E5AD2E69EAOE918AB7528A3DAF16DA99DB8F4633583014D5F94B5DC4CD761D09DA36FCCFCF
+  7105544C898403DBC4C7D981A48BBB76B37FODC2624105E1A6427447BEE8CDA8B1388BD50FEF4F
+  F2C4F90D5904F6C60758BEBE5A98DC534F122CF4A2E3C146803FC698C2EFB769C1D797807BBA26
+  A18D3A906A285B6B29EA9FAF7624C6605A6D9B826A40320E19825064C9BE4DF4AC04FAF2A7ADD8
+  BA877E86FBOB28A68DBB5C18E78EFDC55801FBFE47A73AE3EB5D2C43D2B1F6C40C02785DCFE942
+  9331BB9ABF1E55BEOB3E72C80008901AD902A86C4192A3662FD211B51722A22426735CAD69687A
+  6ADB69502E57CD7CFB9693FE94C5DDB5FD9867D3DEE1152ABAEAB878C4886727COA9FF33CE50AE
+  ECE29971CA82F130F80EB13BC105E62B003608D2A1D5A51023E8COC2981D5B29787B8CB0356B69
+  3E0749C4BC7AC232278665F485C7CF629B2D200E4BOC0134C30C3F651402E9F2D3AFFD4D18914F
+  CD366B89201F2CB9044EC209D2AF8F629819825A9F8B2A05E04095BF8781A8450BB196644D16C5
+  6058C122B9E519928B5CB6D4872E54EECOCD14AEBBD59B7E2696FE8A854EACF7F95506855424FD
+  5778F54C644CFB9DDC22DC5D5C7A907958FE5D8E99A3880DF5B12ECD5C97363A3A78BF041A4439
+  F79A268DFA02000900000000000000000000000823010000000B0100007E020000005501000000
+  4E0000008903000009250100000006000000D70300000B300200000028000000DD030000087701
+  000000400000000504000008340100000014000000450400000802010000000F00000059040000
+  080501000000080000006804000000985C005C004F004D0042002D00500053002D00320038002D
+  00320039005C003300350030004200000000000000000000000000000000000000000000000000
+  00000000000000000000000057494E53504F4F4COOOOOOOOOOC800C8002C012C012C012C01C800
+  C80030000000000000000000000000000000000000000000000000000000000000000000000000
+  000000000000000000000000000000000000000000000000000000000000000000000000000000
+  000000000000000000000000000000000000000000000000000000000000000000000000000000
+  000000000000000000000000000000000000000000000000000000000000000000000000000000
+  000000000B0100002800C8196810480D000011090000005AOOOB010000103600540069006D0065
+  00730020004E0065007700200052006F006D0061006E00200052006500670075006C0061007200
+  000000000000000001000200580201000000040028000000000000000000000000000000000000
+  00011202002400A1000000A10000000A0000009002010045009102020002009202010045009302
+  020002009402010045009502020002009602010045009702010002009802070061009902050061
+  008A8871230000000000000000000000000000000008337C007800000200009902000003010004
+  0002000000DDOA10008301040003000200211000DDDDOBOB00030000040BOODDF1009902F1F102
+  9802F19BF1039802F1F1019902F1F1029802F1F1009802F19CF1019802F1F1009902F1F1029802
+  F1D1000E000002003804B0040EOOD1F1039802F1F1019902F19BF1009902F1F1029802F1D1010E
+- 00000200C003B0040EOOD19CF1039802F1F1019902F1F1029802F1F1029902F1D1000E00000200
+  C003B0040EOOD1F1039902F1F1029902F1D1010E000002005802BO040EOOD1F1039902F1F10298
+  02F1D41FOB00000100020BOOD4D1060C0000010001000COOD1D41FOB00000100030BOOD4D41FOB
+  00000100020BOOD4F20CF25355424A4543543AE0110C0000000060090COOE09C4352454154494E
+  4780418053494E474C459B80464F4F4480534146455459809C4147454E4359F30CF39BD0041500
+  000B00090001C0030000000001201500DOCC9C5468658063757272656E749B809C666F6F648073
+
+
+
+
+     SUBJECT:        CREATING A SINGLE FOOD SAFETY AGENCY
+
+      The current food safety system is criticized for its fragmentation, lack of coordination,
+     inconsistencies in inspection coverage, non-uniform enforcement authorities, and inefficient
+      distribution of resources. A single agency that combined the food safety programs of USDA,
+      HHSIFDA, and the seafood inspection activities of the Department of Commerce could address
+      these concems. ,A single food safety agency would:
+
+     ·        Eliminate many unnecessary activities, such as overlapping research and duplicate
+              inspection of establishments that produce products regulated by different agencies;
+     ·        Improve the coordination ofFederal responses to foodborne illness outbreaks by
+              eliminating gaps in regulatory coverage, avoiding conflicting actions, and ensuring a
+              comprehensive Federal response; and
+     ·        Allow for better allocation of scarce Federal food safety resources based on the risk that
+              different commoditities pose to public health (e.g., over twice as much is spent on meat
+              and poultry inspection as on inspection fQr all other foods), and better responses to
+              changing consumption pattems and emerging food safety issues.
+
+     This single food safety agency could be either: (1) a new, stand-alone food safety agency, or (2)
+     under the auspices of an existing department. Given the need for this agency to have a clear
+     public health mission, if placed in an existing department, HHS would be the most appropriate
+     home. USDA's mission is broader than HHS' and encompasses an industry promotion
+     responsibility, which could conflict with a food safety agency's regulatory responsibilities.
+
+     Option 1:      Create a new stand-alone agency
+     ·      Would highlight food safety issues; food safety issues would be the agency's top priority.
+     ·      Would limit interest group opposition. The meat and poultry industry, and therefore the
+            Agriculture Committees, strongly oppose moving food safety activities into HHS because
+            they fear this might result in undesirable changes or rapid streamlining of the inspection
+            system and because they believe USDA is better positioned to take a "farm-to-table"
+            approach to food safety. (Note: USDA and FDA share the same appropriations
+            subcommittee. )
+     ·      Would limit Federal agency opposition. USDA opposed a proposal included in the first
+            National Performance Review (NPR) report to consolidate the food safety functions
+            within FDA; HHS would likely oppose a similar consolidation offood safety activities
+            within USDA.
+     ·    . Is consistent with a recent legislative proposal of Senators Durbin and Torricelli and
+            Representatives Fazio and Pallone.
+
+     Option 2:     Consolidate food safety programs within BBS
+     ·     May appear to reduce the Federal bureaucracy rather than enlarge it.
+     ·     May allow for better coordination and the leveraging of resources among all agencies
+           with public health mandates.
+     ·     Would have direct cabinet access through the HHS Secretary.
+     ·     Is consistent with the 1993 NPR proposal to form a single food safety agency.
+     ·     May have lower administrative costs than creating a new, independent agency because it
+           would be able to share the overhead resources ofHHS.
+
+                                       Automated Records Management System
+                                               Hex·Dump Conversion
+
+

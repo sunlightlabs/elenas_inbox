@@ -1,0 +1,161 @@
+ RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+ CREATOR: Jeanne Lambrew ( CN=Jeanne Lambrew/OU=OPD/O=EOP [ OPD]   )
+
+ CREATION DATE/TIME: 9-DEC-1997 09:50:26.00
+
+ SUBJECT:   cancer part
+
+ TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+ READ: UNKNOWN
+
+ TEXT:
+ I am sorry -- I forgot to tell you that we reworked the introduction to
+ the cancer part of the Medicare memo.   If you have not already started,
+ here it is.==================== ATTACHMENT    1 ====================
+ ATT CREATION TIME/DATE:   0 00:00:00.00
+
+ TEXT:
+ Unable to convert ARMS_EXT: [ATTACH.D92]MAIL488463249.316 to ASCII,
+  The following is a HEX DUMP:
+
+ FF5750436E040000010A02010000000205000000BB2300000002000057F7455C8C8ABF2C0249BE
+ 392B46BE1A2EF2063A076EB93COE3784053D28ECE2A3EA783C7371B596B4048005350C939B6CD1
+ BF68C4E15CC924CDAll19351340150FEC86124BB25C09F5E878764096960C387927D169F261183
+ D3FD05C343F7A2A271C5020FDFA6BB76AD2EA8097F5628B4B8CD78E98C70C8E70F5D4293EA5073
+ OA2CBCA7B853F21BC36306FFF196771862519279F7665EBE7CE2CB7662B770878B7252423019DF
+ OD0231A9B55C2A5FD31D51FF35918F6EB87CE291D90812526CCD95B07B3478EC18F5416A35C5BB
+ CF9677ABB199A8C01F3EC454D209753730501D57020C171A5A787A91D5E77FBF94CEDCC12E52B7
+ 799192DA3219C40D15BC225827C1BEEEBFA3E29047877E6ABEE24445C8D3BDF79FE4365C348B68
+ A45F287A2FCA5801446C88ACA58567DOA567163C73C7B8D70B1E1039847F2F0045B90CDF74E8DB
+ 036DA9A03D6102869B1DFFF6823EEF31F97906B425C8F24AOB8E06A0224BA66FB64063605AB175
+ F5F16E73BEDF7653BC09AFACD31EBA95A86C4BAF89596835AF49CF7B91421B799E96DF4B723FAC
+ 334A805BD87FA90220725A9E326193EBB8912F2FOOCEE3A5EA4EB208F4E6F5578Bl16B2B198E5E
+ CE430424EE8A35BCE3F533F1844583017AC7A2A5BAC618DE460A9914B2EB1A53084DB9A249BBIB
+ F7625CEA2902000900000000000000000000000823010000000B0100007E02000000550FOOOOOO
+ 4E0000008903000009250100000006000000D70300000B300200000028000000DD03000000550E
+ 0000003C000000050400000877010000000A00000041040000083401000000140000004B040000
+ 0802010000000F0000005F0400000098480050005F004C004A005F00340050004C005500530000
+ 000000000000000000000000000000000000000000000000000000000000000000000000000000
+ 00000000000000000000000057494E53504F4F4COOOOOOOOOOC800C8002C012C012C012C01C800
+ C80030000000000000000000000000000000000000000000000000000000000000000000000000
+ 000000000000000000000000000000000000000000000000000000000000000000000000000000
+ 000000000000000000000000000000000000000000000000000000000000000000000000000000
+ 000000000000000000000000000000000000000000000000000000000000000000000000000000
+ 000000005E0037132800C8196810480D000011090000005AOOOB010000103600540069006D0065
+ 00730020004E0065007700200052006F006D0061006E00200052006500670075006C0061007200
+ 000000000000000001000200580201000000040028000000000000000000000000000000000006
+ 00011202002400A1000000A10000001BOOF41A5C121A0900000000000000600018110000102400
+ 540069006D006500730020004E0065007700000052006F006D0061006E00000000000000010000
+ 000100010013006D0784230000000000000000000000000000000008337C007800010200000100
+ 000003DDOA10008301040003000200211000DDDDOBOB0003000004OBOODDF1020100F1D41AIFOO
+ 87010500080058020CF400005802000058020200580200001FOOD4F20CF2432E808080E0110COO
+ 00000008070COOE04D4544494341524580434F564552414745804F468043414E43455280434C49
+ 4E4943414C80545249414C53D0041500000B00090001B0040000000001201500DOD41A23008601
+ 0200080058020CF40000580200005802050058020CF4200000002300D4D41A1F00870105000800
+ 58020CF40000580200005802020058020CF41FOOD4CCF30CF3E011OC0000000008070COOE04D65
+ 64696361726580686173806E6F7480747261646974696F6E616C6C7980636F7665726564807061
+ 7469656E74806361726580636F737473806173736F636961746564807769746880636C696E6963
+ 616C80747269616C732E80DOOl1500000B000900019006E001020001201500D0536369656E7469
+ 73747380616E64806164766F63617465738062656C69657665807468617480776580617265806E
+                                                                         Automated Records Management System
+                                                                         Hex-Dump Conversion
+
+     C.     MEDICARE COVERAGE OF CANCER CLINICAL TRIALS
+
+             Medicare has not traditionally covered patient care costs associated with clinical
+     trials. Scientists and advocates believe that we are not making sufficient progress in
+     treating cancer, in part because of low participation in these trials that sterns from lack of
+     Medicare's coverage. HHS and DPC have been working on an approach that covers
+     patient care for a limited number of these trials. Because of concerns about its cost
+     potential, OMB and Treasury strongly oppose this option.
+
+            Nearly half of all cancer patients are covered by Medicare, yet Medicare does not
+     cover patient care costs associated with these trials. This care can often be prohibitively
+     expensive for cancer patients and their families, perhaps explaining why only 3 percent of
+     all cancer patients participate in trials. Expanding Medicare coverage could increase
+     access to trials for the many Medicare beneficiaries with cancer. Historically most
+     insurers have covered clinical trials for children. As a consequence, nearly 70 percent of
+     children with cancer participate in clinical trials. Scientists agree that this fact has helped
+     improve cancer treatments for children, and some argue that this is one reason for the
+     dramatically higher survival rates for children cancer patients.
+
+              This problem has significant implications for research in all cancer areas,
+     particularly for those cancers like prostate cancer where scientists still have no good
+     answers and where clinical trials are particularly undersubscribed. According to a former
+     National Cancer Institute director, if 10 percent of all cancer patients participated in such
+     trials, then trials that currently take three to five years w01l:ld only take one year.
+     Additionally, as the nation's largest insurer, Medicare plays a significant role in setting the
+     standard for the insurance companies. A commitment from Medicare to cover clinical
+     trials would go a long way in encouraging private insurance companies to agree to cover
+     these trials.
+
+     Proposal
+
+              We have developed a proposal to expand Medicare to cover cancer clinical trials
+     conducted at the NCI and trials with comparable peer review. In addition, we would
+     require the National Cancer Policy Board to make further coverage recommendations, and
+     HHS to assess the incremental costs of such trials compared to conventional
+     Medicare-covered therapies. Assuming the true incremental costs are substantially less
+     than the actuaries project, as we believe, additional trial coverage as recommended by the
+     Board could occur. The initial coverage would cost $1.7 billion over five years. Senators
+     Mack and Rockefeller have developed a more expansive and expensive proposal
+     (co-sponsored by 26 Senators), which covers all FDA trials, many of which the experts
+     believe do not meet a scientifically-meritorious standard. While they would prefer a
+     broader approach, the Senators have indicated that they would consider this an important
+     first step. However, we do believe that there may be some trials above the $1.7 billion
+     proposal that could be justified on policy grounds.
+·                                                                          Automated Records Management System
+                                                                           Hex-Dump Conversion
+
+             A possible alternative way to cover clinical cancer trial's patient care costs is to
+     directly dedicate resources from any significant increases that NIH / NCI receive in the'
+     upcoming budget. NCI could use these increase to simplify and centralize their clinical
+     trials system, which has the potential to increase patient access. Although this may be a
+     viable option, the cancer community has clearly stated their preference that extending
+     Medicare coverage is their top priority in this area, as they believe that patients need better
+     access to these cutting edge treatments.
+
+     Discussion
+
+            HHS is supportive ofthis policy and believes that it would not only give Medicare
+     beneficiaries, who represent a significant portion of cancer patients, much-needed choices
+     but would encourage the private industry to cover clinical trials as well. There is no
+     question that this proposal is the highest priority for most of the cancer community as well
+     as many in the women's community who believe it is an essential step to improve breast
+     cancer treatment. However, the advocates have made it clear that they would strongly
+     prefer the more expansive and expensive RockefellerlMack approach. We are working to
+     determine whether we can modify our more limited proposal in a way that they would
+     support.
+
+             OMB and Treasury oppose the Medicare coverage option strongly. They note that
+     it would involve very substantial costs ($1 to 3 billion per year) to provide medical services
+     that are experimental, and therefore are unlikely to help the majority of beneficiaries.
+     Once an exception has been made for experimental cancer drugs and therapies, they argue
+     there is no reason that similar support won't be demanded for experimentation with
+     Alzheimer's, Parkinson's, and other maladies. As a result, these costs will grow as other
+     therapies are included. They also believe that Congress would likely expand the proposal
+     beyond coverage of only NCI trials - given the fact that prime Hill sponsors favor broader
+     coverage - and such expanded coverage will be very costly (up to $3 billion over five
+     years). OMB also does not believe that Medicare should lead the way on clinical trials, but
+     rather drug companies should be the first to contribute to improving access for Medicare
+     beneficiaries.
+
+             The DPCINEC believes that OMB and Treasury raise some valid concerns.
+     However, we would support this proposal if we can develop an affordable option that both
+     Senator Rockefeller and Senator Mack and the cancer community would strongly support.
+      If we cannot obtain such support in short order, we would recommend not including it in
+     the budget. We would be in a very good position to argue our likely support for a
+     significant increase in biomedical research will also pay large dividends in cancer
+     breakthroughs and are more than sufficient in this budget year. However, if we decide to.
+     not fully double the NIH budget, as described in a separate memo, this policy might be
+     more important to reenforcing your commitment to research. Finally, if it becomes clear
+     that our fmal cost estimates for the Medicare buy-in are low enough to be fmanced by the
+     available $2 billion in traditional (anti-fraud) Medicare savings, the DPC and NEC would
+     recommend giving serious consideration to use these limited dollars to support the
+                                                                Hex-Dump Conversion
+
+Medicare buy-in proposal. Bowever, BBS prefers that these offsets be used only for the
+clinical cancer trial proposal.
+
+

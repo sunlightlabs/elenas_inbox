@@ -1,0 +1,89 @@
+ RECORD TYPE: PRESIDENTIAL     (NOTES MAIL)
+
+ CREATOR: Cynthia A. Rice    ( CN=Cynthia A. Rice/OU=OPD/O=EOP [ OPD ]   )
+
+ CREATION DATE/TIME: 11-DEC-1998 11:12:07.00
+
+ SUBJECT:   Tobacco table with more info Bruce asked for
+
+ TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO
+ READ: UNKNOWN
+
+ TO: Cathy R. Mays    ( CN=Cathy R. Mays/OU=OPD/O=EOP @ EOP [ OPD ] )
+ READ:UNKNOWN
+
+ TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+ READ: UNKNOWN
+
+ TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ] )
+ READ:UNKNOWN
+
+ TEXT:
+ Bruce -- the increase in FY 00 revenue from 4.5 to 6.0 if the 50 cent tax
+ is applied 10/1/99 is OMB's estimate (Treasury has not estimated)
+
+                  Re recoupment.-- there are various streams possible, which
+ assume between 0 and 4 in budget authority and slightly lower outlays in
+ the early years.   here's the one considered most plausible==================== ATTAC
+ ATT CREATION TIME/DATE:    0 00:00:00.00
+
+ TEXT:
+ Unable to convert ARMS_EXT: [ATTACH.D29]MAIL482107744.326 to ASCII,
+  The following is a HEX DUMP:
+
+ FF575043620F0000010A020100000002050000000D300000000200005F381CB416360B97360374
+ 3236AD266F64E2149B65C27B91C578CC9E04EF438F96642578AD861EC398C1F9FD1A7E4F910B1C
+ 001805B8038B081F12477CBFFBB3F2303D6F65D949DF023C3E83FA5313C4099A07A4110AB50471
+
+
+                                                Tobacco Tax Options
+                                                 (revenue in billions)
+
+                                         1999      2000     2001         2002        2003      2004      5 Year
+
+     50 cent increase                    0         4.5      6.2          6.2         6.4       6.7       30
+     (effective 111100)
+
+     50 cent increase                    0         6.0      6.2          6.2         6.4       6.7       31.5
+     (effective 10/1/99)                                                                   ,
+
+     Accelerate current law              0         1.1      .7           .2          0         0        .2.0
+     increase, Option 1                                              .
+
+    . (15 cent increase 10/1/99 -- see
+      chart below)
+
+     Accelerate current law              .6        .9       .7           .2         .0         0         2.4
+     increase, Option 2
+     ( 10 cent increase 6/1199 and
+     additional 5 cent increase 111100              ,
+     -- see chart below)
+
+
+     Recoupment: Budget                  0         2        2            2           2         2         10
+     Authority
+
+     Recoupment: Outlays                 0         1.1      1.7          1.9         2         .~        8.6*
+    * some subtotals are rounded
+
+    Under current law, a 10 cent increase goes into effect on 1/1/00 and an additional 5 cent increase
+    goes into effect 1/1/02. Thus under these options:
+
+                                         6/1/99    111100   1/1/01       1/1/02
+
+     Current law increase                0         10       10           15
+
+     Accelerate: Option 1                15        15       15           15
+
+     Accelerate: Option 2                10        15       15           15
+
+
+
+
+                                                                              Automated Records Management System
+                                                                              Hex-Dump Conversion
+
+
+    12/11/98 11 :OOam
+
+

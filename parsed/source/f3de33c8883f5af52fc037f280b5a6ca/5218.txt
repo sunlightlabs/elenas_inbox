@@ -1,0 +1,162 @@
+RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+CREATOR: William R. Kincaid ( cN=william R. Kincaid/OU=OPD/O=EOP [ OPD ) )
+
+CREATION DATE/TIME: 6-NOV-1997 21:50:56.00
+
+SUBJECT:   Revised Q&A/TP on the tests
+
+TO: Elena Kagan     CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ) )
+READ: UNKNOWN
+
+TO: Michael Cohen ( CN=Michael Cohen/OU=OPD/O=EOP @ EOP [ OPD )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ) )
+READ: UNKNOWN
+
+CC: Tanya E. Martin ( CN=Tanya E. Martin/OU=OPD/O=EOP @ EOP [ OPD )   )
+READ: UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D18)MAIL497987908.316 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043B6040000010A02010000000205000000BA14000000020000C5D9096D2A23E5164B49BE
+08C1BA809CCEC6499831BB3088AE1366FA30616BC4E89F510432C960~59FCC9EE9C32D13D6D133
+  D0726DDB647E11035C3DC7886AF39AAC9E3EB708CC50394051341F12C6ACFFD02F74E56018A3AO
+  AAD052ACFOAAF6B99686DDD6DD364F2240DB8ADC294EEB7951700512939C23BBF461C1200FE47F
+  1804EF1DEOB637797C3CCE15AE270DCF6FD7A7E323ED388F11350ACE304051DD4A50A99CF91E6C
+  83BAF844BAED548BC19AEE51FDFB2590C5C1D7EF83045AC34790D17C11FA10FF19393F06878533
+  7D3090D6BEE9745D556F67E8D3A6F73EDDB668716CEBC6ECC06B514DB7DOB090366E7DEB6FF53E
+  B490C4936B7899C0499240B709EOA7A4CEFA91616EC625312EA85B2471DFAB4CA0295E47B2EB5B
+  26BA37E441D770353EDDFE9A22C38C3357D2B5E3F78B2899477EDD9B7E7B279E4E6E326597B9C5
+  OE64A458DBE59A0085F8EA47BOOF1EB33F3641B0219DEAD6CC613E11496D22B5216CE37492EE2C
+  BA8CD6ACFB1AA3093188FC977C722BF50CD7F3047E06906F9E2953062A9D80BFEDEBD6FBC5017D
+. 05A3450C59E3463BE817A9932557B5A12495C8671D700C6EC7ABA441DDEFACOAECC0985BEA9603
+  1F205DB9B249584FB73E25FEAEC760074A28C3B5FOC3F1846B5419FD42289DCOFFC13EF4CF7C75
+  4D1C5EC79202000900000000000000000000000823010000000B0100007E020000005502000000
+  4E0000008903000009250100000006000000D70300000B300200000028000000DD030000087701
+  000000400000000504000008340100000014000000450400000802010000000F00000059040000
+  0055010000004E0000006804000000984C006F00630061006C002000430061006E006F006E0020
+  004C00420050002D00380020004900490049005200000000000000000000000000000000000000
+  00000000000000000000000057494E53504F4F4COOOOOOOOOOD4019401C80090019001C800D401
+  940130000000000000000000000000000000000000000000000000000000000000000000000000
+  000000000000000000000000000000000000000000000000000000000000000000000000000000
+  000000000000000000000000000000000000000000000000000000000000000000000000000000
+  000000000000000000000000000000000000000000000000000000000000000000000000000000
+  000000000B0100002800C8196810480D000011090000005AOOOB010000103600540069006D0065
+  00730020004E0065007700200052006F006D0061006E00200052006500670075006C0061007200
+  000000000000000001000200580201000000040028000000000000000000000000000000000000
+  00011202002400A1000000A10000000A0000003401010055003501010055003601050013003701
+  010017003801010002003901010044003A01010002003BOi02005B003C01010017003D01010055
+  0027B339230000000058003800380038003800640008337C007800000200003D010000032800D6
+  lEC30F3908000011090000005AOOOB01008B143600540069006DOO6500730020004E0065007700
+  200052006F006D0061006E00200052006500670075006C00610072000000000000000000DDOA10
+  008301040003000200211000DDDDOBOB00030000040BOODDD3050C0000010002000COOD3F20CF2
+                                                                          Automated Records Management System
+                                                                          Hex-Dump Conversion
+
+           Questions and Answers on Tentative Agreement on National Tests
+                                 ,November 7, 1997
+
+
+Q:   Earlier the Administration had indicated the President would veto this bill if it
+     required further authorization from Congress to move forward with testing. But
+     some suggest that this compromise basically kills the national test to clear the way
+     for Fast Track. Has the President given up on a national test?,
+
+A:   Absolutely not. The agreement allows us to proceed with development of the 4th and
+     8th grade national tests that the President has proposed. It also allows us to pilot test the
+     items for these tests next fall. This is a delay of a few months, but it's one we can live
+     with. At the same time, we will go forward with a National Academy of Sciences study
+     of ways to link state tests to each other and to NAEP, an existing national sample test,
+     that reflects high national standards. Both aspects of the agreement make progress
+     toward a single goal: ensuring that all students, across the country, are measured by the
+     same high standards.
+
+
+Q:   The legislation looks like a victory for test opponents. What did the Administration
+     get out of this agreement?
+
+A:   This agreement is a solid victory for high standards. Under the compromise, the final
+     appropriations bill drops the general prohibition on national tests contained in the
+     House-passed bill, which the Administration threatened to veto, and allows us to proceed
+     with development of the 4th grade reading and 8th grade math tests. The bill shifts
+     control over test policies and development to the independent, bipartisan, National
+     Assessment Governing Board (NAGB), as the Administration had proposed. It provides
+     $16 million dollars to support the testing plan. And it allows for pilot testing oftest
+     items to begin next fall. At the same time, the bill provides for a potentially valuable
+     study of ways to link state tests to each other and to NAEP, an existing national sample
+     test, that reflects high national standards. This agreement puts us on the road to high
+     national standards, and to measuring whether these standards are being met. We will
+     finally have high expectations for all our students and real accountability for all our
+     schools.
+
+
+Q:   Is further development of the national tests dependent on the fmdings of the
+     National Academy of Sciences study? What is the timeline for this study?
+
+A:   The Academy will be asked to make an interim report by June 15, 1998 with a final report
+     submitted by Sept. 1. Further development of the national tests is not contingent on the
+     findings of the NAS study. NAGB can goforward with test development activities
+     leading up to pilot testing right now. Pilot testing is postponed until after September 30,
+     but does not depend on the completion or findings of the National Academy study.
+                                                                  Hex-Dump Conversion
+
+Q:   Does the compromise require further authorization to move beyond the pilot testing
+     stage?
+
+A:   The compromise allows for test development in FY 98, and pilot testing after September
+     30. It is silent on the subject of further congressional action.
+                               Q&A on Pilot Testing Date
+                                                                  Hex-Dump Conversion
+
+
+Q:   It sounds as if the Administration and Hill negotiators spent aU day yesterday
+     haggling over two dates: September 1 and September 30. What was at stake and
+     were you satisfied with the resolution?
+
+A:   We had an agreement with Mr. Goodling to allow pilot testing to begin September 1.
+     Mr. Goodling changed the date to September 30, but after reviewing the legislative
+     language, we detennined that this would not interfere with our plans in any way, because
+     as a practical matter we would not have begun pilot testing in the first few weeks of the
+     school year.
+                                                                  Hex-Dump Conversion
+              Talking Points on Tentative Agreement on National Tests
+                                 November 7, 1997
+
+·   This is a win-win agreement -- a genuine bipartisan victory for high standards.
+
+·   The agreement allows continued, timely development of new national tests in 4th grade
+    reading and 8th grade math, as called for by the President in his State of the Union
+    Address. As provided for by the Senate, control of test policies and development will be
+    transferred to the National Assessment Governing Board (NAGB).
+
+·   At the same time, the National Academy of Sciences, in consultation with NGA, NCSL,
+    and NAGB, will study how tests already developed by commercial publishers and states
+    may be used to measure student performance against each other and against national
+    standards. In addition, the Academy will study the technical quality and other aspects of
+    test item development.
+
+·   The Academy will be asked to make an interim report by June 15, 1998 with a final report
+    submitted by September 1. Further development of the national tests is not dependent on
+    the findings of the NAS study. NAGB can goforward with test development activities
+    leading up to pilot testing right now. Pilot testing is postponed until after September 30,
+    1998, but does not depend on the completion or findings of the National Academy study.
+    This timeline represents a delay of a few months, but it's one we can live with.
+
+·   The agreement allows for test development in FY 98, and pilot testing after September
+    30. It drops the general prohibition on national tests that the Administration threatened
+    to veto, and does not include any requirement for congressional authorization to proceed
+    with national tests.
+
+·   As a result of this agreement, we are now on the road to high national standards, and to
+    measuring whether these standards are being met. We will finally have high expectations
+    for all our students and real accountability for all our schools.
+
+

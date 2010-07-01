@@ -1,0 +1,610 @@
+  RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+  CREATOR: Elizabeth Drye ( CN=Elizabeth Drye/OU=OPD/O=EOP [ OPD ] )
+
+  CREATION DATE/TIME: 8-JUN-1997 19:00:39.00
+
+  SUBJECT:   Final versions of the bill -- one with and one without sunset provision
+
+  TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+  READ: UNKNOWN
+
+  TO: Todd Stern ( CN=Todd Stern/OU=WHO/O=EOP @ EOP [ WHO]     )
+  READ: UNKNOWN
+
+  TEXT:
+  ---------------------- Forwarded by Elizabeth Drye/OPD/EOP on 06/08/97
+  07:00 PM ---------------------------
+
+
+     Rachel E. Levinson                 06/08/97 07:00:53 PM
+
+  Record Type:    Record
+
+  To:      Elizabeth Drye/OPD/EOP
+  cc:
+  Subject:
+
+
+
+
+  ==================== ATTACHMENT   1 ====================
+  ATT CREATION TIME/DATE:   0 00:00:00.00
+
+  TEXT:
+  Unable to convert ARMS_EXT: [ATTACH.D19]MAIL46309685V.116 to ASCII,
+   The following is a HEX DUMP:
+
+   FF575043F6040000010A02010000000205000000C0280000000200005E83D40F1AEOECE8332089
+   41BC4E4B99DDCD1B726ED491F7FF5ADE7EFF3500B7CC2C8BCA2F7A85B8B3F3B25ADD1F6F65402C
+   EA1219FCD3BFFF06A779C6C17691FD16780B4FOEA49A49ACFD20CAB8B407ECC5DA57B81F6DF8EE
+   5AE949AA568788C922A26A550A712C6AEEE86458DD92B921C2CC1DDAF35311448DDBF7CODBAOCB
+   CB48048C4AAC6ED90D51866B4E71E748BF6AC92EC5C4536B1076545985D4C9FB1C5DE051620EOB
+ '9236FCD681796AA9208158E7338CADFFEOF16D596F431F6685869BB522CCC98621DB922446012F
+   C1E818FB6A6232625341F618AD7D9A257FC6A9259D8BC2163944B8837BEB21A23F6D6323EOE8F4
+   E614824B3AB22A02F66A3068F7820CF4123981F467895690B9F5D6563268BOC99F7861E8720BE2
+  AEBA1CE78B3D32C687AC020E012ED6B87EA2A7ED650B3BE11551FBO7FA99BOBDB5A450BD623C6A
+   BA8237AC92C71FDDED06BAF2C5E218FE5219DODDC30B3DEC7781E9545A7E5D493967CB48101C78
+  AE29FC2A25C6B942565F3613DD2D81C0870D0441AE439CB3EEACA76E853E64BCDA1020B2DDCOF2
+   91BF38FOCBE719F8EOB76A050AC5AD112B2F5F1809559C690880A2C12DF5823016D9C9BBE91A25
+   FCB33A6518COD218D8211FB653D8FF757D918BE1ADCEOEOC67D0289B4BA69197345780BFB6461A
+   E07E9900BC02DOOB00000000000000000000000823010000000B0100009A020000005504000000
+  .4EOOOOOOA503D00009250100000006000000F30300000B300200000028000000F9030000081D01
+   00000000000000210400000055010000003C00000021040000005502000000360000005D040000
+   087701000000400000009304000008340100000014000000D30400000802010000000FOOOOOOE7
+   04000000985CD05C004F0053005400500042004400430031005COO34003300380020002D002000
+  480050003400530049000000000000000000000000000000000000000000000000000000000000
+   0057494E53504F4F4COOOOOOOOOOC800C8002C012C012C012C01C800C800300000000000000000
+   000000000000000000000000000000000000000000000000000000000000000000000000000000
+   000000000000000000000000000000000000000000000000000000000000000000000000000000
+                                 A BILL                   Hex·Dump Conversion
+
+
+
+
+  To prohibit any attempt to create a human being using
+
+           somatic cell nuclear transfer, to provide for further
+
+           review of the ethical and scientific issues associated
+
+           with the use of somatic cell nuclear transfer in human
+
+           beings, and for other purposes.
+
+
+
+     Be it enacted by the Senate and House-of Representatives
+
+of the United States of America in Congress assembled,
+
+SECTION 1.     SHORT TITLE.-This Act may be cited as the "Cloning
+
+Prohibition Act of 1997".
+
+SECTION 2.     FINDINGS.
+
+     (a) It has been reported that an adult sheep has been cloned
+
+using a technique called somatic cell nuclear transfer, a form
+
+of cloning.
+
+     (b) The National Bioethics Advisory Commission (NBAC) has
+
+reviewed     the   scientific   and   ethical   implications         of    this
+
+technology's potential use to clone human beings.
+
+             (1) NBAC has found that:
+
+                   (a) Somatic cell nuclear transfer technology may
+
+            have many applications for biotechnology, livestock
+
+            production, and new medical approaches including the
+
+            production of pharmaceutical proteins and prospects
+                                                      HexcDump Conversion
+      for regeneration and repair of human tissues.
+
+             (b) However, the possibility of using somatic
+
+      cell nuclear transfer for the purposes of creating
+
+      a child entails significant scientific uncertainty
+
+      and   medical     risk.      Potential     risks,       known      and
+
+      unknown, could result in harm to a child.
+
+      (2) The NBAC concluded unanimously that at this time
+
+it is morally unacceptable for anyone in the public or
+
+private sector, whether in a research or clinical setting,
+
+to attempt to create a child using somatic cell nuclear
+
+transfer cloning.        The Commission's consensus is based
+
+on current scientific information indicating that this
+
+technique is not safe to use in humans at this point.
+
+      (3) Moreover, in addition to issues of safety, the
+
+Commission identified many additional serious ethical
+
+concerns which they agreed require a                great deal more
+
+widespread and careful public deliberation before this
+
+technology may be used.
+
+      (4) NBAC recommended a continuation of the current
+
+moratorium on the use of Federal funds to support any
+
+attempt to create a child by somatic cell nuclear transfer,
+
+and   an    immediate    request   to   all    firms,      clinicians,
+
+investigators,     and    professional    societies          to     comply
+
+voluntarily with the intent of the Federal moratorium.
+
+      (5) NBAC further recommended that Federal legislation
+                                                       Hex·Dump Conversion
+be enacted to prohibit anyone from attempting, whether
+
+in a research or clinical setting, to create a child through
+
+somatic cell nuclear transfer cloning.
+
+        (6)   NBAC also recommended that the united States
+
+cooperate      with    other   countries   to       enforce       mutually
+
+supported restrictions on this activity.
+
+        (7)   NBAC    specified   that   the     legislation          should
+
+include a sunset provision and that, prior to the sunset
+
+date, an oversight body should review and report on the
+
+status of somatic cell nuclear transfer technology and
+
+the ethical and social issues associated with its use and
+
+recommend whether the prohibition should be continued.
+
+        (8) The Commission concluded that any regulatory or
+
+legislative actions undertaken to effect the foregoing
+
+prohibition should be carefully written so as not to
+
+interfere with other important areas of research"                        such
+
+as the cloning of human DNA sequences and cells, which
+
+raise neither the scientific nor the ethical issues that
+
+arise    from the possible creation of children through
+
+somatic cell nuclear transfer techniques.
+
+        (9) The Commission also found that cloning animals
+
+by somatic cell nuclear transfer does not raise the same
+
+issues implicated in attempting to use the technique to
+
+create a child, and its continuation should only be subject
+
+to   existing    regulations      regarding     the     humane      use     of
+                                                       Hex·Dump Conversion
+     animals.
+
+     (c)     Biomedical   research   facilities,   including         those
+
+conducting cloning, and reproductive services facilities affect
+
+interstate commerce.
+
+SECTION 3.     PURPOSES.-The purposes of this Act are-
+
+     (a) To prohibit any attempt to create a human being using
+
+somatic cell nuclear transfer cloning; and
+
+     (b)     To provide for further review of the ethical and
+
+scientific issues associated with the use of somatic cell
+
+nuclear transfer in humans.
+
+SECTION 4.     DEFINITIONS.
+
+     (a)     "Cloning" means the production of a precise genetic
+
+copy of a molecule (including DNA) , cell, tissue, plant, animal,
+
+or human.
+
+     (b) "Somatic cell" means any cell of the body other than
+
+germ cells (eggs or sperm) .
+
+     (c)     "Somatic cell nuclear transfer" means the transfer
+
+of a cell nucleus from a somatic cell into an egg from which
+
+the nucleus has been removed.
+
+SECTION 5.     PROHIBITION.-It shall be unlawful for any person
+
+or other legal entity, public or private, to perform or use
+
+somatic cell nuclear transfer with the intent of introducing
+
+the product of that transfer into a woman's womb or in any other
+
+way creating a human being.
+
+SECTION 6.     PROTECTED BIOMEDICAL RESEARCH.-Nothing in this Act
+                                                       Hex·Dump Conversion
+
+shall restrict other areas of biomedical and agricultural
+
+research, including important and promising work that involves:
+
+             (1) the use of somatic cell nuclear transfer or other
+
+      cloning technologies to clone molecules, DNA, cells, and
+
+      tissues; or
+
+             (2)   the   use   of   somatic   cell     nuclear        transfer
+
+      techniques to create animals.
+
+SECTION 7.     PENALTIES.-
+
+      (a) Any person who intentionally violates Section 5 shall
+
+be fined the greater of $250,000 or two times the gross gain
+
+or loss from the offense.
+
+      (b) If a person is violating or about to violate Section
+
+5, the Attorney General may commence a civil action in Federal
+
+district court to enjoin such violation.
+
+      (c) Any property, real or personal, derived from or used
+
+to commit a violation or attempted violation of Section 5, or
+
+any   property     traceable   to   such   property,      is     subject       to
+
+forfeiture to the United States in accordance with the procedure
+
+set forth in Chapter 46 of Title 18 of the United States Code.
+
+      (d) The Attorney General of the United States shall have
+
+exclusive enforcement authority under this Act.
+
+SECTION 8.     EFFECTIVE DATE.-This Act shall apply to somatic
+
+cell nuclear transfers performed within five years after the
+
+date of its enactment.
+
+SECTION 9.    NATIONAL BIOETHICS ADVISORY COMMISSION REPORT.-No
+                                                      Hex-Dump Conversion
+
+later than four and one-half years after the enactment of this
+
+Act, the National Bioethics Advisory Commission shall report
+
+to the President on (1) the state of the science of somatic
+
+cell nuclear transfer;       (2)    the    ethical    and social          issues
+
+associated with the potential use of this technology in humans;
+
+and   (3)   the    advisability    of     continuing      the    prohibition
+
+established by this Act.           The Commission is authorized to
+
+continue for five years from the date of enactment for this
+
+purpose and for other purposes as established in Executive Order
+
+12975 and subsequent amendments to this order.
+
+SECTION 10.       RIGHT OF ACTION.-Nothing in this Act shall be
+
+construed to give any individual or person a private right of
+
+action.
+                                 A BILL                       Hex-Dump Conversion
+
+
+
+
+  To prohibit any attempt to create a human being using
+
+           somatic cell nuclear transfer, to provide for further
+
+           review of the ethical and scientific issues associated
+
+            with the use of somatic cell nuclear transfer in human
+
+           beings, and for other purposes.
+
+
+
+     Be it enacted by the Senate and House of Representatives
+
+of the United States of America in Congress assembled,
+
+SECTION 1.     SHORT TITLE.-This Act may be cited as the "Cloning
+
+Prohibition Act of 1997".
+
+SECTION 2.     FINDINGS .
+
+    . (a) It has been reported that an adult sheep has been cloned
+
+using a technique called somatic cell nuclear transfer, a form
+
+of cloning.
+
+     (b) The National Bioethics Advisory Commission (NBAC) has
+
+reviewed     the   scientific   and   ethical   implications     of     this
+
+technology's potential use to clone human beings.
+
+             (1) NBAC has found that:
+
+                   (a) Somatic cell nuclear transfer technology may
+
+            have many applications for biotechnology, livestock
+
+            production, and new medical approaches including the
+
+            production of pharmaceutical proteins and prospects
+                                                  Hex·Dump Conversion
+
+      for regeneration and repair of human tissues.
+
+             (b) However,       the possibility of using somatic
+
+      cell nuclear transfer for the purposes of creating
+
+      a child entails significant scientific uncertainty
+
+      and   medical     risk.      Potential     risks,       known      and
+
+      unknown, could result in harm to a child.
+
+      (2) The NBAC concluded unanimously that at this time
+
+it is morally unacceptable for anyone in the public or
+
+private sector, whether in a research or clinical setting,
+
+to attempt to create a child using somatic cell nuclear
+
+transfer cloning.        The Commission's consensus is based
+
+on current scientific information indicating that this
+
+technique is not safe to use in humans at this point.
+
+      (3) Moreover, in addition to issues of'safety, the
+
+Commission identified many additional serious ethical
+
+concerns which they agreed require a                great deal more
+
+widespread and careful public deliberation before this
+
+technology may be used.
+
+      (4) NBAC recommended a continuation of the current
+
+moratorium on the use of Federal funds to support any
+
+attempt to create a child by somatic cell nuclear transfer,
+
+and   an    immediate    request    to   all   firms,       clinicians,
+
+investigators,     and    professional      societies         to    comply
+
+voluntarily with the intent of the Federal moratorium.
+
+      (5) NBAC further recommended that Federal legislation
+                                                     Hex-Dump Convarsion
+
+be enacted to prohibit anyone from attempting, whether
+
+in a research or clinical setting, to create a child through
+
+somatic cell nuclear transfer cloning.
+
+        (6)   NBAC also recommended that the United States
+
+cooperate      with   other   countries   to     enforce       mutually
+
+supported restrictions on this activity.
+
+        (7)   NBAC specified that within several years an
+
+oversight body should review and report on the status of
+
+somatic cell nuclear transfer technology and the ethical
+
+and social issues associated with its use.
+
+        (8) The Commission concluded that any regulatory or
+
+legislative actions undertaken to effect the foregoing
+
+prohibition should be carefully written so as not to
+
+interfere with other important areas of research,                     such
+
+as the cloning of human DNA sequences and cells, which
+
+raise neither the scientific nor the ethical issues that
+
+arise    from the possible creation of children through
+
+somatic cell nuclear transfer techniques.
+
+        (9) The Commission also found that cloning animals
+
+by somatic cell nuclear transfer does not raise the same
+
+issues implicated in attempting to use the technique to
+
+create a child, and its continuation should only be subject
+
+to    existing   regulations     regarding   the     humane      use     of
+
+animals.
+
+(c)    Biomedical     research   facilities,       including        those
+                                                    Hex-Dump Conversion
+
+conducting cloning, and reproductive services facilities affect
+
+interstate commerce_
+
+SECTION 3.      PURPOSES.-The purposes of this Act are-
+
+        (a) To prohibit any attempt to create a human being using
+
+somatic cell nuclear transfer cloning; and
+
+        (b)   To provide for further review of the ethical and
+
+scientific issues associated with the use of somatic cell
+
+nuclear transfer in humans_
+
+SECTION 4.      DEFINITIONS.
+
+        (a)   "Cloning" means the production of a precise genetic
+
+copy of a molecule (including DNA) , cell, tissue, plant, animal,
+
+or human_
+
+        (b) "Somatic cell" means any cell of the body other than
+
+germ cells (eggs or sperm) .
+
+        (c)   "Somatic cell nuclear transfer" means the transfer
+
+of a cell nucleus from a somatic cell into an egg from which
+
+the nucleus has been removed.
+
+SECTION S.      PROHIBITION.-It shall be unlawful for any person
+
+or other legal entity, public or private, to perform or use
+
+somatic cell nuclear transfer with the intent of introducing
+
+the product of that transfer into a woman's womb or in any other
+
+way creating a human being.
+
+SECTION 6.      PROTECTED BIOMEDICAL RESEARCH. -Nothing in this Act
+
+shall    restrict   other areas   of   biomedical and agricultural
+
+research, including important and promising work that involves:
+                                                      Hex-Dump Conversion
+
+             (1) the use of somatic cell nuclear transfer or other
+
+      cloning technologies to clone molecules, DNA, cells, and
+
+      tissues; or
+
+             (2)   the   use   of   somatic   cell     nuclear       transfer
+
+      techniques to create animals.
+
+SECTION 7.     PENALTIES.-
+
+      (a) Any person who intentionally violates Section 5 shall
+
+be fined the greater of $250,000 or two times the gross gain
+
+or loss from the offense.
+
+      (b) If a person is violating or about to violate Section
+
+5, the Attorney General may commence a civil action in Federal
+
+district court to enjoin such violation.
+
+      (c) Any property, real or personal, derived from or used
+
+to commit a violation or attempted violation of Section 5, or
+
+any   property     traceable   to   such   property,     is     subject       to
+
+forfeiture to the United States in accordance with the procedure
+
+set forth in Chapter 46 of Title 18 of the United States Code.
+
+      (d) The Attorney General of the United States shall have
+
+exclusive enforcement authority under this Act.
+
+SECTION 8.    EFFECTIVE DATE.-This Act shall take effect on the
+
+date of enactment.
+
+SECTION 9.    NATIONAL BIOETHICS ADVISORY COMMISSION REPORT.-No
+
+later than four and one-half years after the enactment of this
+
+Act, the National Bioethics Advisory Commission shall report
+
+to the President on (1)        the state of the science of somatic
+                                                       Hex-Dump Conversion
+
+cell nuclear transfer;       (2)    the    ethical and       social       issues
+
+associated wi th the potential use of this technology in humans;
+
+and   (3)   the    advisability    of     continuing     the     prohibition
+
+established by this Act_           The Commission is authorized to
+
+continue for five years from the date of enactment for this
+
+purpose and for other purposes as established in Executive Order
+
+12975 and subsequent amendments to this order_
+
+SECTION 10.       RIGHT OF ACTION.-Nothing in this Act shall be
+
+construed to give any individual or person a private right of
+
+action_
+
+

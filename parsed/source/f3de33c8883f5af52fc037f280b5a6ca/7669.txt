@@ -1,0 +1,107 @@
+RECORD TYPE: PRESIDENTIAL     (NOTES MAIL)
+
+CREATOR: Sarah A. Bianchi ( CN=Sarah A. Bianchi/OU=OPD/O=EOP              OPD )
+
+CREATION DATE/TIME: 15-MAY-1998 10:02:59.00
+
+SUBJECT:   weekly
+
+TO: Laura Emmett    ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP   f   WHO)   }
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP    [ OPD )    }
+READ: UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D49)MAIL447805437.126 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504370040000010A020100000002050000006615000000020000D2F194AAF4AD521B30E431
+6BD2F64581C3C063925083AA5F514C278D86ADE238FBE69FDF7078572106167FF7F20C695324C8
+7F2D8D7165894143F14D12B15E96FEF89AFE91F656D2D49E1FFBA58AAB8E023378FA43017B4E62
+CE750CAE487865D044D1F05C002A333B9022055523FEAAF1EB49E7EA8132BCDE796DB9013ACEFA
+89E44988CD98444AA6B81091A61F43FE58FEEBC7C3580F4C30E356DB5D08A3EC71E2819063E337
+EE8E5F04B89D07F51CE6E750D5F68ED776CF4B1ECD84E340D64234A6204FE7C60187DF4FB4AAA3
+AA9EB58ED6079EEA755F3EEB0407EE31DCC8C7CC9358977E38DFBA6F71215A74808B4FA051EC74
+A5B11600C6FC5EAB97AC76AC9BFF48B5637B14B2947B7E029848C8E3FB5735C2410A49F28D7FE9
+E6C2F69E260179058F13AD54B24EDE6A9CFEE3E67A2B7B5DF441054138AC5781ED687B854700EC
+BA4AA1743445FC6ABFOA79021ED059B8262DF89BB15714681396C4FFDC9D49D8B01B73B1431E2A
+F1557A9BDOB030AD78223198B99D58C31133EBEF4648DB21D36C7FFF1COB8722FA7C7298307B30
+CAB8487787C9854D5AE402025A691B585C927BFADF53EB92F8823CCA3AD619E450D72FD5E35A17
+EB4D101134AA38D6C31313C8A8B47EA9644D8C512A79F740160BDDB5572E92D543E6B67B716AOD
+B613605DB702000900000000000000000000000823010000000B0100007E020000005501000000
+4E0000008903000009250100000006000000D70300000B300200000028000000DD030000087701
+000000400000000504000008340100000014000000450400000802010000000F00000059040000
+080501000000080000006804000000985C005C004F0041005F0037005C005C005C004F00500044
+005C003200310036005F0041000000000000000000000000000000000000000000000000000000
+00000000000000000000000057494E53504F4F4COOOOOOOOOOC800C8002C012C012C012C01C800
+C80030000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000005E008FOE2800C8196810480D000011090000005AOOOB010000103600540069006D0065
+00730020004E0065007700200052006F006D0061006E00200052006500670075006C0061007200
+000000000000000001000200580201000000040028000000000000000000000000000000000000
+00011202002400A1000000A10000000A0000007B04010002007C04020045007D04020002007E04
+020045007F04020045008004010002008104010045008204010002008304440065818404010002
+009D7DAE240000000000000000000000000000000008337C007800000200008404000003010004
+0002000000DDOA10008301040003000200211000DDDDOBOB00030000040BOODDF1028304F19BF1
+038304F1F1008304F19BF1018304F1F1028304F1F1038304F1F20CF253656E6174658046696E61
+6E636580436F6D6D6974746565808484804272656173748043616E636572804C656769736C6174
+696F6E2E8080F30CF3447572696E67807468658053656E6174658046696E616E6365D001150000
+OB00090001B0040000000001201500D0436F6D6D6974746565806D61726B807570806F66807468
+6580746F626163636F806C656769736C6174696F6E2C8053656E61746F7280F1008304F19CF101
+8304F144F01C04F0416D61746FF1008304F19BF1018304F1F01C04F073F1028304F1F1038304F1
+806D6173746563746F6D7980616D656E646D656E74CF7061737365648062798061806E6172726F
+7780313180746F803980766F74652E808054686973806C656769736C6174696F6E807265717569
+                                               Hex-Dump Conversion
+
+
+Senate Finance Committee -- Breast Cancer Legislation. During the Senate Finance
+Committee mark up of the tobacco legislation, Senator D' Amato's mastectomy amendment
+passed by a narrow 11 to 9 vote. This legislation requires health plans to allow women to stay in
+the hospital as long as is medically necessary following a mastectomy, to cover breast
+reconstruction, and to guarantee women a second opinion on breast cancer. It did not pass by an
+overwhelming vote for a number of reasons. Some felt that tobacco legislation was an
+inappropriate vehicle for this legislation; some were concerned that this proposal just contains
+"body part mandates" rather than broader patient protections, such as assuring access to
+specialists, emergency care, and an external appeals process for patients to address grievances.
+Others argued that theD' Amato legislation is designed to be a substitute for a more
+comprehensive patients' bill of rights, such as the bill of rights recommended by your quality
+commission or the DingelllKennedy or Norwood legislation. While we generally support this
+legislation, we agree with the Democratic Leadership that it should be done in the context of a
+broader set of patient protections that we have been advocating since your Quality Commission
+presented you with the Consumer Bill of Rights. We do believe, however, that this issue will
+have particular relevance with both the disability and the women's community and that we need
+to do a better job highlighting this fact. We are tentatively scheduling an event with you to
+underscore the importance of the patients' bill of rights to women and to unveil some type of
+report that underscores the need for this legislation.                   .
+
+  Senate Finance Committee -- Health Care Tax Deductions. The Senate Finance Committee
+  also voted to reject Senator Roth's proposal to dedicate a portion of the tobacco revenue to offset
+. the cost of two health care tax deductions. Specifically, Senator Roth proposed to speed up the
+  phase in of the self-employed tax deduction ($5.5 billion over five years) and to allow
+  deductions in the individual health insurance market (about $12 billion over five years). The
+  rationale for the Committee's decision to reject these proposals mirrored our stated concerns.
+  Specifically, we took the position that although you have long supported the self-employed tax
+  deduction and continue to do so, that this proposal was inappropriate in this context because it
+  would undermine the potential to invest dollars from tobacco legislation in public health and
+  research. We also highlighted the fact that our investments focused on children whereas the tax
+  proposals did not. . With regard to proposals to allow deductibility for individual health
+  insurance market, we underscored that this proposal is regressive, will not significantly increase
+  the number of insured, could create an incentive for some employers to drop coverage, and is not
+  advisable, particularly in the absence of broader reforms in the individual insurance market.
+  Notwithstanding the fact that the Senate Finance Committee rejected these proposals, there is a
+  real possibility that Republicans will insist on some type of tax proposals in the tobacco
+  legislation. We have established a process to review options in this regard.
+EMAILS RECEIVED
+ARMS - BOX 030 - FOLDER -001
+
+
+[05/15/1998]
+
+

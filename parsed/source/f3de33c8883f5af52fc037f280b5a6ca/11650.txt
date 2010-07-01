@@ -1,0 +1,132 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Thomas L. Freedman ( CN=Thomas L. Freedman/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME:10-MAR-1999 19:46:55.00
+
+SUBJECT:   food brief for 3/11
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ:UNKNOWN
+
+CC: Mary L. Smith ( CN=Mary L. Smith/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ:UNKNOWN
+
+TEXT:
+I asked USDA to confidentially draft a brief plan for what they'd
+recommend if we were to move inspections and re-name USDA.  We could give
+this to Neal and Morely before or at the meeting tomorrow as a starting
+point.==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D78]MAIL42015257L.036 to ASCII,
+ The following is a HEX DUMP:
+
+FF5750'4380040000010A02010000000205000000951600000002000018AB65A4B588C142806A81
+58C2AFAF263B49005667CE3DA9C70F934BEF3C6992977CCDDB607548D43252DFD70F1F2CE594CF
+281BB4A526B065B2C9FOFFE8B2B9FF9B934877F7EFC7DC4F43C350A2FECA9CD3E17E44BA3EFD5B
+326D9FAEOD99346E55CD818CE7916257F35514431E75692E7CA443BB60ACCBEA68B1E338A28378
+F8329A30ED22729BAE61CE37B1B9F29C7BA86C5668B138B68EFEC462707AE3EAOB1EC827B60046
+06F65896824B8DBOB8F35E40610A6C72E2428790BE78180DD5E689954D4ABE39C9FA26C8364894
+C6568CAFBD991FA7E286E6D3E7455D6C7CE4E3961E1A6B4E78D6C4CFODCD18EFOA68E29B99A449
+CC7C09E3502A2F8299A412F991B10174DF07E18BF4D2C384B766E76D484BC047491D9820CE9643
+08BD96C519053A1C94A9C32B9EDDDDF5235DD90113D98771F437AOA4D9CC4A8E024AFC437BB061
+DB9BA86672AA12A48F89399EEF5818091A8B109A9D702FF624304F584AE5ADB695B78B7B14176B
+26050062D39536767FAOE85435613BC6EDF740134D8E3B1551EA6A828550D40B4C205037283171
+3635DDF2B8CDE91A2E4BD66BDDC90B45160124EFC77AB32E360F285D17F303EED611A1F6911CB5
+FFC467F6A8C3564A587CDDE655B2235556A142ECFBEF70EB6F9BC80943AAB5160A822F87F7361A
+543A3CD10002000900000000000000000000000823010000000B0100007E020000005502000000
+4E0000008903000009250100000006000000D70300000B300200000028000000DD030000005501
+0000004E000000050400000877010000000A00000053040000083401000000140000005D040000
+0802010000000F0000007104000000984C006F00630061006C0020005000720069006E00740065
+007200000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000057494E53504F4F4COOOOOOOOOOC800C8002C012C012C012C01C800
+C80030000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000005EOOF7122800D61EC30F3908000011090000005AOOOBOI008B143600540069006D0065
+00730020004E0065007700200052006F006D0061006E00200052006500670075006C0061007200
+000000000000000001000200580201000000040028000000000000000000000000000000000000
+00011202002400A1000000A10000007800C8196810480D000011090000005A001B010000103600
+540069006D006500730020004E0065007700200052006F006D0061006E00200052006500670075
+006C0061007200000000000000000001000000010001001300A269B92400000000000000000000
+00000000000008337C007800010200000100000003DDOA10008301040003000200211000DDDDOB
+OB00030000040BOODDF1020100F1D41A1F00870105000800580226640000580200005802020058
+0200001FOOD4E0401200000000330C330C1900EC131200E0445241465480464F52804449534355
+                             Hex-Dump Conversion
+
+
+                        DRAFT FOR DISCUSSION PURPOSES ONLY
+                  Outline of Possible Changes in Federal Food Safety Structure
+
+Note: Movement of functions from one agency to another would not require opening and
+negotiating the terms of the underlying statutes. The Secretary that is authorized to implement
+portions of these acts would be changed, including the delegations for implementation, and
+USDA's food safety mission area and agency would be modified to ensure protection of public
+health.
+
+(1) The following functions would be moved from FDA's Center for Food Safety and Applied
+Nutrition (CSFAN) to USDA: Food inspection, enforcement, and standard-setting/regulation
+for microbial, viral, and parasitic pathogens, including seafood, eggs, milk, fruits and vegetables.
+ In addition, FDA/state boards on milk and seafood would be moved to USDA, as well as the
+food code, which is a model food safety code developed by FDA, other Federal agencies, and the
+states.
+
+       The following functions would remain at CFSAN - food additives, dietary supplements,
+       biotechnology, chemicallpesticide/drug residues/standards. In addition, it is possible that
+       food labeling under the Nutrition Labeling Act would remain at CFSAN, including meat
+       and poultry products which are currently under USDA's jurisdiction.
+
+(2) FDA would be provided with funding and staffing increases to address functional foods (i.e.
+new food products making special nutritional claims), food additives, dietary supplements, and
+biotechnology. Industry believes FDA lacks resources for these items.
+
+(3) Personnel Resources-- a relatively small number of FDA field personnel with special
+expertise such as imports would be moved from FDA to USDA. All other inspection
+personnel would remain for FDA inspections of drugs, medical devices etc. USDA would also
+need a number of senior level managers and regulatory personnel from CSFAN or FDA to be
+transferred to USDA in order to ensure a successful transition.
+
+(4) USDAIFSIS would be provided with base increase of XX million to ensure a successful
+transition of these new responsibilitIes. Pending full redeployment of USDA's inspection
+resources, USDA would need increased funding in order to maintain at least the level of
+inspection currently provided by FDA. As redeployment proceeds over the long term, the need
+for these additional funds would likely decrease.
+
+(5) To emphasize the commitment to food safety, the name of USDA would be changed to the
+U.S. Department of Food and Agriculture, with the current Under Secretary for Food Safety
+becoming the Under Secretary for Public Health and Food Safety. Given the increased
+responsibilities, an additional Deputy Under Secretary would be desirable (there is currently one
+Deputy). All subcabinet positions would require commensurate public health backgrounds.
+
+(6)The underlying statutes governing FDA and USDA (FFDCA, FMIA etc) would remain intact,
+although one could include a directive that the Administration should develop a proposal to unify
+                             Automated Records Management System
+                             Hex-Dump Conversion
+
+    the statutes. This would (1) simplify the legislation, (2) provide general consistency for
+    regulated industries, and (3) avoid possible legislative attempts to weaken any of the relevant
+    statutes. One possible exception should be considered. Under current law, states that
+    implement meat and poultry laws may not stray into contrary forms of regulation, so inclusion of
+    preemption in this transfer may generate industry support. This may be opposed by the states
+    and it is unclear where the consumer community would be on this issue.
+
+    (7)While it may perhaps be unnecessary to address consumer concerns, one should consider
+    whether to include additional measures to ensure the independence offood safety from USDA's
+    role of promoting agricultural commodities. Examples include the creation of a statutory
+    advisory board or statutory reaffirmations of this independence.
+
+    (8) While this would not likely be included in legislation since it is a Congressional matter, the
+    Administration would support having the Public Health and Agriculture Committees share full
+    jurisdiction over food safety.
+
+    (9) Given the increased responsibilities for USDA, there would also likely be a need for
+    increased resources for USDA's Office of General Counsel (perhaps by transfer from FDA) and
+    for USDA's Office of Risk Assessment and Cost Benefit Analysis.
+
+

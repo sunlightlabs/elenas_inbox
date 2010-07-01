@@ -1,0 +1,1754 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Thomas L. Freedman ( CN=Thomas L. Freedman/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME:20-NOV-1998 17:59:16.00
+
+SUBJECT:   Food Safety and OMB issues
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ:UNKNOWN
+
+TO: Mary L. Smith ( CN=Mary L. Smith/OU=OPD/O=EOP @   ~OP   [ OPD ] )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ:UNKNOWN
+
+TEXT:
+  Here are the agencies' cross cut and how they want to pitch its utility
+-- there are a couple of other OMB budget issues that may bump up to your
+level:
+
+ 1.    Food Safety. We!ve conceptualized it as a policy to create a
+seamless national system which the agencies are enthusiastic about.
+However, USDA says that if they get user fees for their budget again, the
+Secretary will not want to do a food safety initiative this year.   (OMB is
+saying there will be some user fees in the passback.)  The other proposed
+actions are: moves to encourage full adoption of the model Food Code for
+restaurants; developing performance standards for food service workers;
+and legislation that will give USDA the authority to issue mandatory
+recalls and impose civil penalties for unsafe meat and poultry.
+
+
+ 2. Equal Pay.   We asked for $30 million. OMB sources say they want to
+keep focusing on reducing the backlog of cases. When pressed in a meeting
+with Sylvia, EEOC said if they had to choose they'd rather have the
+backlog reduced.  I don't think $30 million is enough to force them to
+choose, and that equal pay is popular enough that the Hill would add it to
+the on-going backlog reduction effort.  I am making that argument but, if
+you agree, contacting folks on your level would be helpful.
+
+3.  Imported Food Reg. at FDA.  I discussed with Elena the idea of doing
+our legislation on imported food standards as an agency regulation -- FDA
+thought they could get 75% done without a bill. Schultz at FDA now feels
+that Senator Collins is sympathetic to this as a bill, doesn't want to
+alienate Collins, and would rather try and get it as a bill.  Should we
+push him?
+
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D73]MAIL429810527.326 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043AOC40300010A02010000000205000000173306000002000010D48962D541DD12607E75
+91D5CB77065DFB09DD8BF2B176D025FF11BBD4D78C6C511F05408724C8E817ECEECD7A4AB4EE68
+E8E89F16C2C2C931B365AEEBOE9D17F57C9DCBEOOE96F1DBC637AF797F770D886837FOB30CE35D
+
+   JointBudgetSubm~don
+
+
+               FY2000
+
+
+
+
+   Depanment Of Health And Human Services
+                    and
+
+          Depanment Of Agriculture
+
+
+
+
+                   Automated Records Management System
+                   Hex-Dump Conversion
+                            FY 2000 Budget Request
+                              Executive Summary
+Introduction
+
+This document represents a joint effort among CDC, FDA, and USDA to coordinate agency
+budget requests for the President's Food Safety Initiative. The document is structured as
+follows: A) An Executive Summary that provides an overview of the importance of this initiative,
+highlights major accomplishments to date, including establishment of the President's Council on
+Fooq Safety, and summarizes the fiscal year 2000 budget requests for each agency. It also
+highlights the three integrated components essential for a strong and effective food safety system:
+1) sustained progress toward a seamless, science-based food safety system; 2) enhanced public
+health surveillance, and increased speed and efficiency in responding to outbreaks of foodborne
+illness; and 3) greater emphasis on the control of foodborne hazards in the pre-harvest phase of
+the farm-to-table continuum; B) An integrated budget table showing dollars for fiscal years 1998,
+1999, and 2000, by agency, and by food safety category (surveillance, coordination, inspections,
+education, research, and risk assessment); and C) Narrative descriptions of activities planned with
+the requested funding for fiscal year 2000, including specific budget tables for each.
+
+Overview
+
+For the third consecutive year, the Department of Health and Human Services (HHS) and the
+Department of Agriculture (USDA) have coordinated a multi-agency effort to protect the health
+of the American public by improving the safety of the Nation's food supply. Through joint
+planning, agencies can maximize the use of their resources and achieve the greatest improvements
+in food safety. This process began with the May 1997 report to the President, entitled, Food
+Safety from Farm-to-Table: A National Food Safety Initiative. The report recognized foodborne
+illness as an emerging public health hazard that required aggressive government action, identified
+critical gaps in the food safety system for controlling or eliminating foodborne pathogens from
+the food supply, and proposed a strategy for closing those gaps.
+
+The 1998 and 1999 budgets included additional funding to address the need for critical new
+investment in the food safety system as identified in the May 1997 report. The 1998 budget
+initiative brought much"needed new resources to enhance surveillance of foodborne disease and
+outbreaks and better coordinate our response to outbreaks, improve inspections and compliance,
+target important new research and risk assessment to critical scientific gaps, and expand education
+and training especially of those who handle food at critical points from the retail setting to the
+home.
+
+
+                                                2        Automated Records Management System
+                                                          Hex-Dump Conversion
+Research were created through two Executive Orders to develop strategic plans for coordinating
+food safety activities. The Secretaries of HHS and USDA play a major role in both of these
+organizations.
+The 1999 initiative builds on gains made in these areas, and places increased emphasis on
+ensuring the safety of domestic and imported fresh produce and imported foods; targets retail
+food safety education; transforms traditional meat and poultry inspection systems to science-based
+HACCP systems; and develops scientific information and tools to control a greater range of food
+safety hazards. These activities have laid the foundation for building a strong, scientific base for
+a farm-to-table food safety system that protects public health by monitoring and addressing a
+broad range of food safety hazards.
+
+For the 2000 budget, the agencies are requesting an increase of $86.2 million of the fiscal year
+1999 President's Budget for the Food Safety Initiative. These funds will be used to build on the
+foundation established in 1998 and 1999 and will target resources to: (1) further develop a
+nationally integrated food safety system by expanding and strengthening the partnership between
+Federal, state, and local agencies; (2) continue enhancing surveillance for foodborne diseases and
+increasing the speed and efficiency of responses to outbreaks of foodborne illness; and, (3) put
+greater emphasis on the control of foodborne hazards in the pre-harvest phase of the
+farm-to-table continuum. Only through continued investment can the Administration realize the
+President's goal of establishing a seamless, science-based food safety system.
+
+President's Council on Food Safety
+
+Through the ongoing process of working together under the President's Food Safety Initiative,
+the agencies (FDA, CDC of HHS, USDA, and EPA) have identified new opportunities to
+improve food safety, avoid duplication, and leverage agency resources. This process will be
+greatly enhanced by the President's Council on Food Safety (the Council) and the Joint Institute
+for Food Safety Research (JIFSR). By creating the Council and JIFSR, the President has
+re-emphasized the importance of establishing a seamless, science-based food safety system. This
+represents an efficient and effective way to ensure the implementation of a farm-to-table food
+safety strategy that reduces the level of foodborne illness in the most effective way possible. The
+definition of an effective system is embodied in the principles and goals of the Food Safety
+Initiative and the mission statement of the Council:
+
+        "One that is based on an integrated system of government regulatory oversight;
+        oper~ted in collaboration with the industry and public; based on the best
+        knowledge of risk and its mitigation that current science can provide; that keeps
+      . the numbers of injuries and illnesses from food as low as feasible."
+
+
+
+                                                               Automated Records Management System
+                                                 3
+                                                               Hex-Dump Conversion
+  "Ensuring Safe Food from Production to Consumption," that an effective food safety system is an
+  interdependent system composed of Government agencies at all levels, as well as other
+  stakeholders. NAS found that the successful integrated operation of a food safety system
+  requires officials at all levels of Government to work together in support of common goals of a
+  science-based system.
+
+  Throughout 1999, the Council will work to meet the President's goal of developing a
+  comprehensive food safety strategy and coordinating food safety budgets that will result in further
+  improvements in the safety of the food supply and ensure the most effective use of Federal
+  resources. The strategic plan will take into consideration the findings and recommendations of
+  the NAS report and input from the public. Upon completion of its evaluation of the current
+  food safety system, the Council will make additional recommendations on how to advance the
+, efforts identified in the President's Food Safety Initiative.
+
+  Accomplishments to Date
+
+  In the first two years of the President's Food Safety Initiative, HHS and USDA have focused on
+  building a strong, scientific foundation for a farm-to-table food safety system. The coordinated
+  activities have greatly enhanced the capacities of the states and Federal government to monitor the
+  incidence of specific foodborne diseases; rapidly respond to outbreaks of foodborne illness and
+  prevent future outbreaks; identify foodborne hazards that pose the highest public health risks and
+  direct resources to minimize those risks; and develop safe food practices education programs
+  aimed at improving food safety for Americans.
+
+  Significant gains have already accrued with direct benefits to the public health:
+
+  More rapid identification of foodborne illness and containment of outbreaks
+
+         PulseNet (DNA fingerprinting) and FoodNet (monitoring of foodborne illness) together
+         strengthen the ability of the nation's public health officials to rapidly detect and limit the
+         health consequences of foodborne illness and make it possible to estimate more accurately
+         the true magnitude of foodborne illness in the United States.
+
+         This technology has already been used in several instances to reduce outbreaks.
+         PulseNet data were used several times to detect and limit the size of foodborne illness
+         outbreaks, e.g. for alfalfa sprouts, mesclun lettuce mix, ground beef, cheese curds, and
+         Salmonella Agona in cereal. While we cannot quantify the number of illnesses
+         prevented, by identifying and stopping pathogens much earlier than we otherwise would
+         have, we have definitely reduced the number of potential illnesses in these particular cases.
+
+
+                                                                     Automated Records Man,agement System
+                                                    4
+                                                                     Hex-Dump Conversion
+                                                                                ,
+of foodborne disease, although it has rarely caused outbreaks of illness since the
+1980s.     These findings led to new interagency efforts in          research and
+surveillance to better understand how this pathogen enters the food chain and how
+to control it. Within FoodNet,there are now special studies to determine which
+foods and behaviors are associated with Campylobacter, E coli 0157:H7, and
+some Salmonella.
+
+PulseNet, data allowed for the rapid identification and subsequent traceback from
+two independent E coli 0157:H7 outbreaks to a common source of alfalfa sprouts
+  in Michigan. In another incident E coli 0157:H7 contaminated mesclun lettuce
+mix implicated in illnesses in two different states was identified as having the same
+pathogenic fingerprint and quickly traced back to the common packer.. Because
+of the PulseNet data FDA was able to more rapidly identify, respond, and
+effectively limit the extent of illness.
+
+In Wisconsin, epidemiological and PulseNet data were used to confirm that
+approximately .50 cases of E coli 0157:H7 were attributed to cheese. curds
+manufactured by a specific facility. Initial follow-up inspections by the state did
+not reveal the source of contamination. However, because DNA fingerprints of
+isolates from the curd matched DNA fingerprints of isolates from ill individuals,
+the state, with FDA, pursued the investigation at the firm and found inadequate
+separation of raw and pasteurized milk products. FDA is currently conducting
+research on cheese fermentation at the National Center for Food Safety and
+Technology to determine the survivability of pathogens, including E coli
+0l57:H7 in cheese.
+
+PulseNet and epidemiological data were used to correlate E coli 0157:H7
+outbreaks from ground beef to particular processors. USDA then did further
+sampling and was able to identify other processors and their products. The
+processors voluntarily recalled their products from the market, preventing illnesses.
+
+PulseNet data combined with epidemiological data were able to differentiate
+several discrete outbreaks among multiple clusters of E coli 0157:H7 that
+occurred in June, 1998, in the Northeast United States. The majority of the
+clusters were associated with ground beef consumption, however, many of the
+clusters have an unknown vehicle and are still being investigated.
+
+In the recent Salmonella Agona outbreak associated with toasted oat cereal,
+FoodNet detected an increase in the number of Salmonella Agona cases across the
+United States. PulseNet determined that the majority of the Salmonella Agona
+
+                                  5
+                                                 Automated Records Management System
+                                                 Hex-Dump Conversion
+       associated with a common vehicle. Without the FoodNet and PulseNet data,
+       linking of the outbreaks across the U.S. and identification of the source of the
+       pathogen would have taken far longer and been complicated by the other,
+       non-associated S. Agona outbreaks at the time. With FoodNet and PulseNet,
+       public health officials were able to quickly focus on the outbreaks associated with
+       the cereal and its removal from the market, presenting additional illnesses.
+
+       FDA, CDC, USDA/ARS and USDA/APHIS collaborated in response to an
+       outbreak of salmonellosis among residents of a Vermont dairy farm. This illness
+       was caused by SalmoneUa Typhimurium DTI04, a multi-resistant pathogen, on
+       the farm and in the surrounding area. The National Antibiotic Resistance
+       Monitoring System (NARMS) facilitated the recognition that SalmoneUa
+       Typhimurium DTI04 was widespread in the U.S. which prompted CDC to warn
+       state health departments of its presence and provide preventive steps to minimize
+       its spread. Expansion of NARMS under the NFSI and better coordination
+       between the agencies provided this resource.
+
+Collection of better, more reliable surveillance data on the occurrence and source of major
+foodborne disease through FoodNet, PulseNet, and the National Antimicrobial Resistance
+Monitoring System (NARMS), providing a baseline for measurement of public health
+benefits of food safety activities and improved early warning of outbreaks.     .
+
+FoodNet has provided, in addition to better more reliable data about foodborne illness in
+the population in general, specific information about the prevalence of certain pathogens
+that is being used to put preventive measures in place, e.g., for Campylobacter.
+
+A new tool for modeling the behavior of SalmoneUa in raw and cooked poultry products.
+
+Systematic surveillance for antibiotic resistance in foodborne pathogens to identify new
+resistant strains and comparison of resistance in strains isolated from ill humans with those
+isolated from animals and foods.
+
+Prevention of SalmoneUa contamination in food products from poultry with the
+development and commercialization of a competitive exclusion culture (CEC) to control
+SalmoneUa on commercial broiler farms. Advances were also made in methods to
+reduce Salmonella levels in the air with electrostatic ionization during times when birds
+are highly susceptible to the spread of the pathogen, such as, shortly after hatch and
+during an induced molt.
+
+
+                                                           Automated Records Management System
+                                         6                 Hex-Dump Conversion
+      numbers of bacteria, inexpensive, and user-friendly. Also, advances in irradiation
+      technology that offers opportunities to significantly reduce pathogens in certain food
+      commodities, which increase shelf life and maintain freshness -- all major consumer
+      demands.
+
+      New techniques for the rapid detection of Camplyobacter.
+
+Better Coordination Among Food Safety Agencies/Benefit of Faster Response to Foodborne
+Outbreaks
+
+      Definition of core capacItIes for all state health departments for the surveillance and
+      investigation of foodborne diseases, and efforts to assure those capacities are in place, to
+      facilitate rapid and uniform response to outbreaks ..
+
+      Development and utilization of uniform procedures for more rapid containment of
+      foodborne illness outbreaks. The establishment of FORCe to review and suggest
+      improvements in actions of federal and state representatives in response to outbreaks.
+
+      Coordination of an interagency food safety research plan for fresh produce and work on
+      an interagency food safety research inventory and plan for all food safety research among
+      the federal agencies developed under auspices of the Office of Science and Technology
+      Policy.
+
+      Foundation for a consistent, uniform approach to developing microbial risk assessment
+      techniques in the U.S. and internationally by the Risk Assessment Consortium.
+
+      Within the framework of the initiative, additional funds helped establish the successful
+      working relationships for implementing FoodNet, PulseNet, NARMS, FORCe, the Risk
+      Assessment Consortium, the Joint Institute for Food Safety Research, and the Partnership
+      for Food Safety Education.
+
+      Creation of the President's Council on Food Safety and the Joint Institute for Food Safety
+      Research.
+
+Seamless Food Safety System
+
+      A meeting of representatives of federal food safety agencies with state and local
+      departments of health and agriculture 50 states, Puerto Rico and the District of Columbia
+      to develop recommendations and implementation plans for a national, integrated food
+      safety system encompassing all levels of government.
+
+                                               7
+                                                                   Automated Records Management System
+                                                                    lex-Dump Conversion
+       to the ability of Federal food safety agencies to leverage resources, avoid duplication, and
+       provide the basis for an integrated and seamless food safety system. Further improvements
+       will be made in 1999 with funds provided for the distribution of computers and technical
+       assistance to State meat and poultry inspection programs.
+
+Preventive Controls/Allows for Better Targeting of Resources
+
+       Implementation of science-based preventative systems for foods associated with foodborne
+       illness, including Hazard Analysis and Critiql Control Point (HACCP) systems for
+       seafood, meat, and poultry, voluntary Good Agricultural/Good Manufacturing Practices
+       guidance for fresh fruits and vegetables, warning labels on fresh packaged juices, and
+       proposed HACCP for juices.
+
+       Enhanced State public health and regulatory laboratory capabilities, State and local
+       epidemiologic capabilities, State inspector HACCP training, and automated systems in the
+       25 State meat and poultry inspection programs to ensure uniform Federal and State
+       implementation of HACCP regulations.
+
+       Development of rapid detection methods and technology for the control of foodborne
+       hazards, including methods for E Coli 0l57:H7, a competitive exclusion spray to prevent
+       SalmoneUa in chicks, and antimicrobial treatments for poultry.
+
+       Completion of the first farm-to-table quantitative risk assessment for a pathogen --
+       SalmoneUa -- in eggs.
+
+       A measurable decline in the prevalence of SalmoneUa contamination in pork and broiler
+       chickens as a result of implementation of HACCP in large meat and poultry
+       establishments.
+
+       Research to develop fundamental knowledge of pathogens, expand available predictive
+       microbiology models to account for additional microbiological attributes, develop food
+       handling and preservation technologies for reducing or eliminating foodborne
+       contamination from the farm to the table.
+
+       Research that indicates decreased E coli numbers in cattle hay. Additional studies will
+       be conducted to determine whether feeding hay to cattle prior to slaughter will
+       significantly reduce post harvest contamination by pathogenic E coli.
+
+       An instrument to assure levels of chlorine in disinfection water are proper.
+
+                                                8
+                                                                 Automated Records Management System
+                                                                 !-lcx-Dump Conversion
+      animal carcasses.
+
+      Research that has found naturally occurring food additives that block the attachment of E
+      coli to bovine meat tissue.
+
+      Increased ability to detect emerging pathogen and identify relationships between animal
+      and human isolates.
+
+      Approval of irradiation for certain commodities, such as red meat.
+
+      Research begun to validate the effectiveness of various interventions techniques, such as
+      washing, antimicrobial rinses, and non-thermal processes, on pathogens in juices.
+
+Outreach to Consumers
+
+      These activities have already resulted in measurable, positive changes      In   consumer
+      behavior with regard to food safety issues.
+
+      Improved consumer and food service worker awareness of safe food preparation practices
+      through the Partnership for Food Safety Education and the Food Service Training and
+      Education Alliance, respectively.
+
+      Increased information for producers on safe food production practices and how to reduce
+      the risks of pathogenic organisms during production ..
+
+      Workshops that will teach farmers the principles of safe food production and how to
+      reduce the risks of pathogenic organisms on the fruits, vegetables, meat, and poultry.
+
+      Development of the national "Fight BAC!" campaign to promote consumer use of safe
+      food practices.
+
+      Life-size "BAC" character and puppets to deliver messages to adults and school age
+      children.
+
+      30-second television public service announcements, New web site (www.fightbac.org)
+      where consumers, health professionals, educators, and the media can learn the latest news
+      about preventing foodborne illness, and information kits for supermarket consumer affairs
+      professionals (e.g., Wegman's) and community action groups.
+
+
+                                              9                  Automated Records Management System
+                                                                      .
+                                                                 Hex-Dump Conversion
+       consumer and industry sectors have agreed to support the "FIGHT BAC!" campaign and
+       disseminate educational materials. These "BAC Fighters" will maximize the campaign's
+       national outreach and provide important links into thousands of communities nationwide.
+
+Outreach to Industry
+
+       A national food safety database containing educational materials and resources for use by
+       a variety of audiences and the Food Animal Residue Avoidance Databank (FARAD).
+       FARAD is a central and unique source of residue avoidance information for producers,
+       veterinarians, and regulatory agencies working with food animal products.
+
+       Created an industryJNational Center for Food Safety and Technology task force on sprout
+       safety and research plans to validate the effectiveness of interventions such as antimicrobial
+       nnses.
+
+       Publication of the Annual Report "FDA/USDA/CDC National Antimicrobial
+       Susceptibility Monitoring Program- Veterinary Isolates, April 1, 1998," has provided the
+       animal production industry with national salmonella susceptibility data from food animals.
+       The publication of this report has initiated activities between producers, the A VMA,
+       veterinarians and the pharmaceutical industry. Producers are increasingly aware of the
+       food safety issues associated with antimicrobial resistance and as a result are developing
+       studies to identify prudent and judicious antimicrobial use practices, interventions and
+       mitigations for extant resistance in organisms of concern, and determine other husbandry
+       practices that reduce the need for antimicrobials in food animal production. An effective
+       response on the part of industry will ensure that drugs necessary for the treatment of food
+       animals will remain effective longer and that foodborne pathogens will be less likely to be
+       resistant to antimicrobials.
+
+These accomplishment, taken as a whole, point to significant gains for public health from just
+this initial investment. The fiscal year 2000 request, builds upon 1998 and 1999 and seeks to
+establish the next segments needed for improving the overall safety of the food supply.
+
+Progressing Toward A Seamless. Science-Based Food Sqfety System
+
+Only through stronger partnerships among Federal, State and local food safety agencies can the
+goal of reducing foodborne illness to the fullest extent possible be realized. First, as identified in
+the farm-to-table strategy, steps must be taken at each point of the farm-to-table continuum where
+hazards can occur to improve the safety of foods. Because the States are involved in all facets of
+food production, Federal agencies must work closely with the various State agencies that have the
+authority, and the responsibility, for food safety. Second, partnerships enable food safety
+
+                                                 10
+
+                                                                   Automated Records Management System
+                                                                   Hex-Dump Conversion
+
+
+
+
+  agencies to use scarce resources more efficiently and to avoid duplication. Third, food safety
+  officials are becoming increasingly more aware that one level of the farm-to-table chain affects
+  another. For example, the requirements being set within meat and poultry plants under the
+  HACCP rule have repercussions at the animal production level, where producers must be
+  prepared to supply animals that meet HACCP system requirements for incoming raw materials.
+  Fourth, distinctions between the segments of the farm-to-table chain are becoming
+. indistinguishable. For example, many retail food operations, such as supermarkets, are now
+  engaged in food preparation like smoking fish or roasting chickens, but are not subject to Federal
+  inspection. For these reasons, it is clear that Federal agencies must work more closely with all
+  involved State agencies.
+
+From the outset of the President's Food Safety Initiative, the Administration has recognized the
+need for strengthening partnerships between Federal agencies and State and local public health
+agencies. In the first two years of the Food Safety Initiative, additional funds were provided to
+improve coordination between all agencies involved in the food safety system. Within the
+framework of the initiative, additional funds helped establish the successful working relationships
+for implementing FoodNet, PulseNet, NARMS, FORCG, the Risk Assessment Consortium, and
+the Partnership for Food Safety Education. In addition, Food Safety Initiative funds have
+enabled food safety agencies to provide training and materials to State and local agencies for
+expanding and improving their on-going inspection. and compliance capabilities, food safety
+education efforts, and foodborne illness surveillance capabilities.
+
+ Great progress has also been made by cooperative Federal agencies in implementing HACCP
+'systems for seafood, meat, and poultry and a comprehensive initiative for ensuring the safety of
+ fruits and vegetables. Other efforts include the coordination of activities for ensuring the safety
+ of food during transportation and at the retail level. These are complex issues involving
+ numerous Federal, State, and local officials. The partnerships established and strengthened
+ under the President's Food Safety Initiative have contributed to the ability of Federal food safety
+ agencies to leverage resources, avoid duplication, and provide the basis for an integrated and
+ seamless food safety system. Further improvements will be made in 1999 with funds provided for
+ the distribution of computers and technical assistance to State meat and poultry inspection
+ programs. Additional partnerships will be formed with the states to increase the number of high
+ risk, non-meat and poultry, food inspections and to enhance the capabilities of states to improve
+ food safety at the retail level.
+
+In September, 1998, representatives of food safety agencies from of all 50 states, Puerto Rico,
+and the District of Columbia met with HHS and USDA in Kansas City to discuss how federal,
+state, and local food safety activities could be better integrated to provide a more effective and
+efficient food safety system. The State representatives strongly support the concept of a
+nationally integrated food safety system building on the current Federal-State partnerships. The
+2000 budget proposal includes funds for HHS, with USDA, to accelerate their planning with the
+
+                                                 11
+                                                                 Automated Records Management System
+                                                                 Hex-Dump Conversion
+such a system. To further foster progress toward a seamless, science-based food safety system,
+the 2000 budget includes funds to enable USDA and HHS to develop stronger ties with State
+food safety agencies.
+
+USDA is currently providing the training and equipment necessary to State personnel in the 25
+State meat and poultry inspection programs to assure that State programs implement meat and
+poultry HACCP requirements that are 'at least equal to' the Federal program of continuous
+inspection. Providing the 25 State meat and poultry inspection programs access to Federal
+computer networks will facilitate the coordination of inspection coverage between the two
+programs and ensure a consistent approach to inspection and an efficient allocation of resources.
+In addition, legislation will be proposed to authorize the Secretary of Agriculture to enter into
+Federal-State cooperative agreements that provide for State meat and poultry inspection programs
+to enforce Federal meat and poultry inspection laws and regulations with their State as part of a
+seamless national inspection program.        Products shipped under such new Federal-State
+cooperative agreements would be permitted to enter interstate commerce.
+
+Another major aspect of the 2000 budget proposal is to significantly increase HHS efforts to
+coordinate its Federal inspection responsibilities with State and local agencies. Through grants,
+contracts, and other mechanisms, FDA will utilize State-conducted inspections to increase the
+frequency of coverage for domestic firms. With the additional resources, HHS estimates that a
+combination of Federal and State inspectors will be able to reduce the existing inspection cycle
+from once seven years for any· particular establishment to a risk-based approach that enables
+highest risk operations to be inspected once a year.
+
+Encouraging the use of preventive control measures, such as HACCP and the Food Code, by the
+retail food industry will be the third major focus of cooperative federal-state activity. HHS and
+USDA, have worked, through the Conference for Food Protection (a forum for all stakeholders
+to have input into the code development process), with the states to promote use of safe practices
+in retail food operations and adoption of Food Code provisions, including HACCP. The Food
+Code is a model that provides scientifically sound technical and legal basis for regulating the retail
+segment of the food industry. It is the Federal government's best advice on a comprehensive
+system of regulation to ensure food in restaurants, retail food stores and. institutional
+establishments is safe. The target audience of the Food Code is the 75 State and territorial
+agencies and over 3,000 local agencies directly regulating over one million retail operations. In
+2000, the agencies will continue to work with and provide training, assistance, and resources to
+improve the safety of food products at retail.
+
+HHS, with the assistance of USDA, will also work cooperatively with foreign governments to
+evaluate foreign food production and inspection systems. Under the initiative, HHS and USDA
+will increase the number of international arrangements for assuring food safety to facilitate the
+
+                                                 12            Automated Records Management System
+                                                               Hex-Dump Conversion
+and the control measures necessary to reduce those risks. FDA will also follow-up on foodborne
+illness outbreaks associated with imported products and work toward equivalence determinations
+for other countries.
+
+Enhancing Surveillance and Increasing the Speed and Efficiency or Responses to Foodborne Illness
+Outbreaks
+
+Foodborne surveillance data are critical for both USDA and HHS to define the burden of
+specific foodborne diseases on the public health, to detect outbreaks rapidly so they can be
+brought under control, and to monitor the success of long-term control measures. The 2000
+budget proposal will continue to enhance surveillance, harnessing new biotechnologies and
+electronic communications to protect the public health. Surveillance data on foodborne diseases
+will continue to improve, by promoting better surveillance in all states, and by more detailed
+investigations through FoodNet.          Collaborative epidemiologic investigations conducted in
+FoodNet sites will expand to include outbreaks of unknown cause, and will continue to define
+the principal sources, and likely control points for the major foodborne infections. PulseNet, the
+molecular sub-typing network, will be expanded to more pathogens providing rapid detection of
+outbreaks. Guidelines for its efficient use will be developed and made available. CDC. is
+establishing the critical core capacities needed in all states to conduct surveillance of foodborne
+illness; the 2000 budget proposal will enhance these capacities nationwide. Foodborne outbreak
+reports will be made electronically. The results will then be made available quickly by tracking
+the trends on sources of outbreaks, the effectiveness of existing prevention measures, and the
+need for any new preventive controls.'
+
+As foodborne illness surveillance data becomes more timely and accurate, more outbreaks will be
+identified that require a rapid response, including emergency epidemiologic and traceback
+investigations to identify the food source. These epidemiologic investigations are critical to
+identify and control the source of the outbreaks rapidly, and also can provide invaluable
+information to prevent future outbreaks. New tools can greatly enhance these investigations.
+For example, PulseNet can quickly link apparently disparate outbreaks so that common sources
+can be identified, investigated, and controlled. We have successful examples of this in 1998 with
+the result that outbreaks were shortened. Most initial investigations are conducted by teams of
+epidemiologists, microbiologists, and sanitarians employed by local and state health departments.
+When needed, CDC provides additional ·epidemiologic and diagnostic assistance and
+coordination, and FDA and USDA provide technical assistance, traceback support, and
+implementation of emergency national control measures. Public health departments and food
+safety agencies at the federal, state, and local levels must have the capacity to respond rapidly and
+in a manner that provides consistent, high quality epidemiologic investigations to guide decision
+making about disease control. CDC is defining, with state partners, the critical capacities needed
+in all states to respond to outbreaks of foodborne illness. HHS is developing training materials to
+
+                                                 13              Automated Records Management System
+                                                                 Hex-Dump Conversion
+FORCG is in the processing of refining, with States, the uniform procedures developed for all
+agencies to follow in coordinating outbreak investigations.
+
+Continued enhancements to surveillance are needed because new foodborne diseases continue to
+be identified for which control measures remain unclear. Activities supported by the 2000
+budget will continue to focus on achieving full utilization of State health laboratories, Federal
+food laboratories, and epidemiology departments to improve the accessibility and rapid analysis
+of surveillance systems now in place, and to expand the scope of these systems to be more
+comprehensive in the· array· of pathogens tracked~ It will be critical· to identify new and
+emerging foodborne contaminants, measure the risk they pose to the public, determine possible
+points of control, evaluate the effectiveness of prevention and control efforts, ·and target needed
+research and education efforts.
+
+Global comparison of national surveillance data for SalmoneUa will mark the beginning of an
+international 'preparedness' strategy, providing early warning about potential outbreaks related to
+food in international trade. In another area of increasing public health concern, access to
+international databases linking veterinary and human databases will provide a basis for
+comparison that can guide strategies prolong the usefulness of antibiotics.
+
+HHS and USDA will work with state health departments and other partners to further address
+the need for detailed information on the human illness impact of pathogens at varying doses.
+This dose-response information is critical to conduct quantitative risk assessments. Better
+information about the proportion of persons who become ill after eating food contaminated with
+different concentrations of pathogens can be obtained in several ways. . Volunteer feeding trials
+are being conducted, as are animal model studies. Extremely useful information can also be
+generated in the occasional outbreak setting where the implicated food can be collected and
+analyzed meaningfully. Under these activities, food specimens would be collected as quickly as
+possible from patients with foodborne illness. These specimens would be sent immediately to
+appropriate laboratories for quantitative analysis to establish the concentration of the pathogen in
+the food.
+
+Greater Emphasis on the Control of Foodbome Hazards             In   the Pre-Harvest Phase of the
+Farm-to-Table Continuum
+
+In order to ensure effective control of microbiological contamination, the President's Food Safety
+Initiative addresses foodborne hazards throughout the farm-to-table continuum. A majority of
+Federal and state resources are allocated to the inspection of commercial food processors and
+handlers and improvement of food handling practices by consumers. In addition, a significant
+amount of research is aimed at developing analytical methods and prevention control programs
+for use in post-harvest operations.
+
+                                                14               Automated Records Management System
+                                                                 Hex-Dwnp Conversion
+foods, including ground beef and other meats, poultry, eggs, and fresh fruits and vegetables, have
+sustained a high level of awareness among the public about the issue of food safety. Changes,
+such as the implementation of HACCP systems and the "Guide to Minimize Microbial Food
+Safety Hazards," have enhanced the awareness of the potential role of production practices in
+contamination of various food products. Producers of food animals, fruits, and vegetables must
+be much more involved in learning about opportunities to reduce the chance of contamination by
+pathogens of fecal origin, whether from domestic or wild animal species or human beings. This
+emphasis has brought more attention to management practices that will reduce the prevalence of
+pathogens, e.g., SalmoneUa, E coli, and Campylobacter, as well as provide resources for
+educating producers on the implementation of such practices.
+
+In 1999, the agencies will begin to address some of the producer needs under the President's
+Food Safety Initiative. Agencies will evaluate risk-based pathogen reduction strategies for
+producers and provide that information to them for use in running their operations. For 2000,
+a greater emphasis needs to be placed on the control of foodborne hazards in the pre-harvest
+phase of the overall food safety strategy. To achieve this, the 2000 budget will target additional
+research and risk-assessment activities to the development of effective, reliable, and cost-effective
+methods for controlling or eliminating pathogens in or on food products prior to harvest.
+
+An interagency research planning process was initiated under the auspices of the Office of
+Science and Technology Policy. HHS and USDA accelerated research plan for fresh fruits and
+vegetables was developed and implemented, as were individual agency plans. All these research
+efforts will be coordinated by the new President's Council on Food Safety, established by
+Executive Order 13100 in July 1998.
+Research projects supported by the 2000 budget will contribute to the development of effective
+methods of handling and treating poultry, swine, and cattle manure during production that
+prevent transmission of pathogens to agricultural lands and to crops used for human food.
+Control of animal production practices will also help prevent possible distribution of pathogens
+to crops or other animals from surface runoff and irrigation waters. For some foodborne
+illnesses, the causative agent is never identified. This may be due to the lack of a detection
+method for the pathogen or for the pathogen in the specific food. Improved detection
+methodologies will be developed to enable producers to monitor their production processes for
+contamination.
+
+Antibiotic resistance is an important factor that must be controlled in both animal health and the
+use of animals and their products as foods. Research is needed to develop the knowledge to
+prevent the development of this antibiotic drug resistance. The development of resistant human
+pathogenic bacteria is closely associated with the use of antimicrobial agents in human medicine,
+but it is also likely that food producing animals are sources or vectors of resistant bacteria that
+
+                                                 15
+                                                                  Automated Records Management System
+                                                                  Hex-Dump Conversion
+prevent both the emergence and the maintenance in food producing animals of pathogenic and
+non-pathogenic antibiotic resistant bacteria.
+
+The interagency Risk Assessment Consortium was formed to provide a central forum for
+developing and using microbial risk assessment techniques, a first step toward providing uniform,
+standardized techniques and approaches to applying risk assessment to food safety issues. Risk
+assessment modeling supported by the 2000 budget for pre-harvest activities will evaluate the
+effects of various on-farm production practices, processing systems, and transportation systems on
+the contamination of food. The proposed research will result in improved information to base
+decisions on production practices that will result in fewer pathogens in food animals being
+presented for slaughter.
+
+In support of the President's directive to ensure the safety of fruits and vegetables, a survey will
+be conducted of fruit and vegetable growers and packinghouse handling practices with regard to
+food safety. A primary use of these data would be to establish a baseline of agricultural
+practices related to microbial food safety and to provide a benchmark to measure future industry
+changes. Survey data reported by producers would inform domestic and international data users
+on U.S. grower food safety practices. The survey information would also be used to target
+specific industry educational outreach programs to increase fruit and vegetable industry awareness
+on microbial food safety.
+
+Conclusion
+
+Expected outcomes from the President's Food Safety Initiative for 2000 include a strengthened
+food safety foundation specifically in surveillance, inspections, research and risk assessment,
+education, and coordination of response to foodborne illness outbreaks. Progress will be made
+toward realizing the President's goal of establishing a seamless, science-based food safety system
+that involves all levels of government. Baselines for foodborne illness outbreaks will be
+established which will enable public health agencies to monitor the impact of prevention control
+interventions and more rapidly identify trends in emerging pathogens. Additional steps will be
+taken to make food inspection techniques consistent across the country, so that inspection results
+will be"interchangeable" among federal, state and local agencies. Risk assessment will be used to
+direct research, surveillance and other efforts. Research will facilitate the adoption of new
+methodologies for rapid identification of foodborne hazards and greater control of those hazards
+from farm-to-table. Educational programs will improve safe food practices and will provide
+necessary information to producers for responding to increased challenges for ensuring the safety
+of products during production.
+
+
+
+                                                                   Automated Records Management System
+                                                                   lIex-Dwnp Conversion
+                                                16
+    FY 2000 PROPOSAL
+
+
+                                        1997               1998            1999             2000          Proposed
+                                       Approp.            Approp.        Budget                            Increase
+ACTIVITY                                                                                 Proposal
+
+                                                                  Dollars in Thousands
+
+SURVEILLANCE:                                                                             .
+USDA:
+  Food Safety and Inspection Service      $1,000           $1,500          $1,500          $1,500                      $0
+  Economic Research Service              ~                ~               ~               ~                             0
+
+           Subtotal, USDA                  1,032            1,532            1,785            1,785                     0
+
+HHS:
+  Food and Drug Administration                 737          3,897           6,097          15,097                   9,000
+ Centers for Disease Control and
+     Prevention                            4500            14,500          19,000          37000                    18,000
+
+       Subtotal, HHS                       5,237           llillZ          ~               &Q2Z                 27,000
+                                   .
+         Subtotal, Surveillance            6,269          19,929           26,882          53,882               27,000
+
+COORDINATION:
+
+USDA:
+  Food Safety and Inspection Service             0                0               0           1,450                  1,450
+
+HHS:
+ Food and Drug Administration              7.173            z..m            z.m.              un                        Q
+
+
+         Subtota4 Coordination             7,173            7,723           7,923             9,373                  1,450
+
+INSPECTIONS:
+
+USDA:
+  Food Safety and Inspection Service             0          565              8,412            8,778                    366
+  Foreign Agricultural Service                   0         __ 0                               LOOO                   1.000
+                                                                                  Q
+       Subtotal, USDA                            0           565                              9,778                  1,366
+                                                                             8,412
+
+HHS:
+  Food and Drug Administration            73,244           81114          108714          134,314               25,600
+
+
+         Subtota4 Inspections             73,244           81,679         117,126         144,092               26,966
+
+                                        1997               1998            1999               2000         Proposed
+                                       Approp.            Approp.        Budget                             Increase
+ACTIVITY (Cont.)                                                                         Proposal
+
+                                                                  Dollars in Thousands
+
+
+                                                     17       Automated Records 'vlanagemt,."         ;:'j " .. L
+
+                                                              Hex-Dump Conversion
+
+USDA:
+  Agricultural Research Service                               5,461         4,498             4,818              7,218    2,400
+  Cooperative State Research,
+    Education, and Extension Service                            145           150             1,962              1,962        0
+  Food Safety and Inspection Service                              0             0             1,000              2,000    1,000
+  Economic Research Service                                      33            33               686                686        0
+  National Agricultural Statistics Service                        0             0                 0              2,500    2,500
+  Office of the Chief Economist                              ~             -----.m          ~                      158        0
+
+        Subtotal, USDA                                        5,701          4,741            8,624             14,524    5,900
+
+
+HHS:
+  Food and Drug Administration                                2589           6539            JJn2               16439     2,700
+
+
+          Subtotal, Risk Assessment                           8,290         1l,280          22,363             30,963     8,600
+
+EDUCATION:
+
+USDA:
+  Cooperative State Research,
+    Education, and Extension Service                          2,365         2,365             7,365              8,287    922
+  Food Safety and Inspection Service                              0             0             2,500              2,720    220
+  Food And Nutrition Service                                      0             0             2,000              2,000      0
+  Office of the Chief Economist                                  27            38                38                 38      0
+  Economic Research Service                                     420           420               420                420   __ 0
+
+        Subtotal, USDA                                        2,812         2,823            12,323             13,465     1,142
+
+HHS:
+  Food and Drug Administration                                4,800         6,870           10,470              15,170   4,700
+  Centers for Disease Control                                     0        __   0          ~                  ~          __  0
+
+        Subtotal, HHS                                         4,800         6,870           lQ,2ZQ              15,670    4,700
+
+
+          Subtotal, Education                                 7,612         9,693           23,293              29,135    5,842
+
+RESEARCH:
+
+USDA:
+  Agricultural Research Service                              44,186         50,351          64,001              71,701    7,700
+  Cooperative State Research,
+    Education, and Extension Service                          3,724         6,250            10,438             12,151    1,713
+  Agricultural Marketing Service                                  0             0           ....Q.lli           6,257    __   0
+
+        Subtotal, USDA                                       47,910        56,601           80,696             90,109     9,413
+
+HHS:
+  Food and Drug Administration                               2Q,ill        W23              ~                  43,293     6,900
+
+
+          Subtotal, Research                                 68,703        83794           117,089            133,402     16,313
+
+
+TOTAL, INITIATIVE                                            ~             ~               ~                 ~            ~
+
+                     "1) \ 12. .   ... _...... L .::.ystem
+                                                                                     AlltflTJ11tlld ~ecQrcJ,$ Marmgement System
+                                                                                                  .
+  Hex-Dump Conversion                                                                   '
+
+                                                                      18             f!~<)o';ri;';', ~ 1'111 ~r~ipn
+                                           FY 2000 PROPOSAL
+
+                                                                                                                        Increase
+                                                1997           1998           1999          1999          2000         Over 1999
+TOTAL INITIATIVE                               Approp.        Approp.        Budget        Enacted       Proposal        Budget
+
+                                                                             Dollars in Thousands
+
+USDA:
+  Agricultural Research Service                $49,647        $54,849         $68,819       $67,219        $78,919         $10,100
+  Cooperative State Research,
+    Education, and Extension Service              6,234          8,765         19,765                       22,400           2,635
+  Agricultural Marketing Service                      0              0          6,257      24,765 W          6,257               0
+  Food Safety and Inspection Service              1,000          2,065         13,412          2,831        16,448           3,036
+  Economic Research Service                         485            485           1,391        18,352          1,391              0
+  Office of the Chief Economist                      89             98             196           938          .196               0
+  Foreign Agricultural Service                        0              0               0           196         1,000           1,000
+  National Agricultural Statistics Service            0              0               0             0         2,500           2,500
+  Food and Consumer Service                                                     2000               0         2000                0
+                                                         Q.             Q.                     2000
+            Subtotal, USDA                                                    1ll,840                       13l,1ll         19,271
+                                                 57,455        66,262
+                                                                                             116,481
+
+HHS:
+  Food and Drug Administration                  109,335        133,335        183,335        158,335       232,335         48,900
+ Centers for Disease Control                      4500          14,500         19500          19500         37,500         18,000
+
+           Subtotal, HHS                        ll3 835        147835         202,835                     ~                66,900
+                                                                                             177 835
+
+                                                                                            ~
+TOTAL, INITIATIVE                               lZlJ2Jl       ~               ~                   bJ      4QQ R46           MJZ),
+
+
+ w    The Conference Report accompanying the Omnibus Appropriations Act for 1999 directs USDA to consult with the
+      Food and Drug Administration regarding food safety research objectives of the agency and recommends that
+      $5.0 million of the funds provided to USDA for the food safety component of the National Research Initiative be
+      used to meet those needs.
+
+ bJ The Conference Report accompanying the Omnibus Appropriations Act for 1999 (the Act) identifies the funding
+      increases for activities identified under the President's Food Safety Initiative. The agencies are currently evaluating the
+      Act to determine the final allocation of funds to support the various activities of the Initiative.
+
+
+
+
+                                                                                  Automated Records Management System
+                                                                                  HeX-Dump Conversion
+
+
+
+
+                                                               19
+
+                               Surveillance- FY 2000 Budget Request
+
+FoodNet, PulseNet, and other improvements in national epidemiologic capacity funded by FSI
+funds in FY 1998 and 1999 are beginning to provide better, more reliable information about
+foodborne illnesses and outbreaks. Federal and state public health officials are now using this
+data to trace the causative agent of outbreaks back to the source.          In FY 2000, these
+surveillance mechanisms will have established a baseline that will be used by the food safety
+agencies to identify outbreaks, evaluate the effect of interventions to reduce the number of
+illnesses, and to identify illnesses caused by emerging pathogens.
+
+Increased reliability of FoodNet data will result in an increased number of foodborne outbreaks
+being identified. This will trigger an increase in the number of epidemiologic outbreak and
+traceback investigations that must be conducted to determine the source of the contamination and
+facilitate its removal from the marketplace.     The capacity of state health departments to identify
+outbreaks and determine the pathogen involved will be expanded and enhanced to accommodate
+the increase. FY 2000 activities will continue to focus on achieving full capacity for state health
+laboratories, accessibility of surveillance systems now in place, and expanding the scope of the
+systems to be more comprehensive in the array of pathogens tracked. Information generated by
+these activities will be used to identify new and emerging foodborne contaminants, characterize
+consumer risk, determine possible points of control, evaluate the effectiveness of prevention and
+control efforts, and target needed research and education efforts.
+
+.An increased number of state health departments will be added to the pathogen DNA-fingerprint
+ network, PulseNet, and data on SalmoneUa Typhimurium will be. added to the database (the
+ current database contains E. coli 0157:H7 data), greatly extending its usefulness in epidemiologic
+and traceback investigations. Global surveillance for Salmonellosis will mark the beginning of a
+ \ preparedness' strategy, providing early warning to U.S. food safety officials about the existence
+of potential safety concerns in countries importing products into the U.S.       Likewise access to
+international databases linking veterinary and human databases will provide forewarning of the
+emergence and spread of antibiotic resistance.
+
+Coordination Strategy
+
+CDC, USDA, and FDA participate in working groups along with state representatives, such as
+the FORCG and the FoodNet working group, to provide guidance and direction on surveillance
+activities to meet each agency's needs. These working groups coordinate planning and'
+prioritization of work to meet the needs of each agency, identifying gaps that must be filled,
+resources that must be developed, and complementary work to meet these needs.
+
+FY 2000 Activities
+
+   Communicadng outbreak data to federal and state public health authorides
+                          ,.
+                                                                    Automated Records Management System
+                                                 20                 Hex-Dump Conversion
+    identify unusual patterns and to disseminate this information to USDA, FDA, and others
+    for use in food safety policy decision-making and coordinating responses to outbreaks
+
+-   FDA, working with the states, CDC, and USDA will initiate development of electronic
+    communication and data-sharing systems for use in federal-state monitoring and traceback
+    investigations
+
+Tracing foodborne iUness to its source
+
+-   FDA, working with the states, will provide training and resources to states to strengthen
+    outbreak response and traceback capabilities
+
+International foodborne illness
+
+-   CDC in collaboration with the World Health Organization and other international
+    partners, will begin global surveillance for Salmonellosis. This information will provide
+    another type of early warning for U.S. food safety authorities to initiate appropriate
+    oversight measures for imported foods.
+
+Better, more reliable foodborne illness data about an increased number ofpathogens:
+
+-   CDC, with support from FDA and USDA, will expand the scope of FoodNet to improve
+    the qualitative and quantitative database for foodborne disease, i.e., to more fully reflect the
+    cross-section of the U.S. population and to enhance the accuracy of data generated. CDC
+    will also expand surveillance in FoodNet to include foodborne outbreaks and outbreak
+    investigations.
+
+    CDC will expand PulseNet to 30 state health departments with capacity for E coli
+    0157:H7 and SalmoneUa Typhimurium subtyping and begin addition of SalmoneUa
+    Enteritidis. PulseNet data will be fully integrated into routine surveillance.
+
+-   CDC will expand the capacity of state and local health departments to test for Norwalk-like
+    caliciviruses and initiate a surveillance network to monitor circulation of Norwalk-like virus
+    strains in the U.S.
+
+-   CDC will evaluate the effectiveness of an algorithm for preventing illness among persons
+    who potentially have been exposed to food service workers infected with hepatitis A.
+
+
+Antibiotic resistance
+
+    FDA, working with CDC, will expand and increase the overall capacity of NARMS and
+    its geographic scope to assure a higher probability of detecting emerging resistant
+    pathogens capable of animal to human transmission and to minimize the occurrence of
+
+                                                           Automated Records Management System
+                                               21          Hex-Dump Conversion
+of bacterial isolates from human and animal origin in the NARMS database from 2,000
+and 3,000 to 4,000 and 7,000, respectively, we will be able to increase our probability of
+identifying potential outbreaks.
+
+CDC will collaborate with USDA in working with the international community to assess
+feasibility of international antimicrobial resistance databases. This collaboration will
+facilitate international response to resistance emergence and spread of antibiotic resistance
+throughout the world.
+
+                                 Summary Budget - Surveillance
+
+                                              1998       1999            2000       Proposed
+                                             ~          Budget        Proposal       Increase
+  SURVEILLANCE
+                                                        Dollars in Thousands
+
+  USDA:
+   Food Safety and Inspection Service         $1,500      $1,500         $1,500         $0
+                                                                                       __0
+   Economic Research Service                  ---2l       ---.ill.       ---.ill.
+         . Subtotal, USDA                      1,532       1,785          1,785                 0
+
+  HHS:
+   Food and Drug Administration                3,897       6,097         15,097          9,000
+   Centers for Disease Control and
+     Prevention                               14.500      19,000         37,000         18,000
+
+          Subtotal, HHS                       18.397      25,097         52,097         27.000
+
+
+
+  TOTAL, Surveillance
+
+
+
+
+                                                                 Automated Records Management System
+                                                                 Hex-Dump Conversion
+                                              22
+
+A national, rapid, effective response to foodborne illness outbreaks requires a coordinated effort
+that crosses agency lines, while recognizing the unique statutory responsibilities of each federal,
+state, and local agency involved. This requires agreement about the roles and responsibilities of
+federal, state, and local public health officials and the most expeditious manner of operating
+within those parameters in responding to outbreaks, collecting epidemiologic data, and quickly
+initiating traceback investigations.
+
+FORCG has made significant strides toward a cohesive national outbreak response system, with
+the development of standard, uniform procedures, for use of federal, state, and local officials in
+responding to outbreaks, that reduce the time between identification of an outbreak and initiation
+of measures to contain the outbreaks and limit the number of illnesses. Work that will continue
+to refine the uniform procedures and build a nationally responsive system for rapid outbreak
+response is an integral part of a nationally integrated food safety system.
+
+Coordination Strategy
+
+FORCG is the primary point of coordination between federal agencies and state representatives.
+In responding to outbreaks, individual agencies in FORCG have identified gaps in resources or
+expertise that, if filled, would greatly strengthen their contribution to coordination, rapid response
+and containment of the outbreak. This budget request includes funding to meet these needs.
+
+FY 2000 Activities
+
+       CDC will meet with international health organizations to discuss the importance, as the
+       national and international distribution of foodstuffs increases, of why the domestic food
+       supply needs to remain safe.
+
+   -   USDA will increase the number of District Epidemiology Officers in FSIS by 10, for a
+       total of 18, to provide coverage for an increase in the number of product recalls. Product
+       recalls have increased from 40 in 1996 to 50 in 1997.
+
+                                       Summary Budget - Coordination
+
+                                                    1998       1999             2000    Proposed
+                                                              Budget                     Increase
+         COORDINATION
+                                                              Dollars in Thousands
+
+         USDA:
+           Food Safety and Inspection Service            $0        $0          $1,450       $1,450
+
+         HHS:
+          Food and Drug Administration
+
+
+         TOTAL, Coordination
+
+
+
+                                                    23           Automated Records Management System
+                                                                  Hex-Dump Conversion
+     Hex-Dump Conversion
+
+
+24
+
+A center point of inspection activities for FDA and USDA will be assistance to states to enhance
+their inspection capacity and to conduct inspections to augment federal inspections, particularly to
+vt;rify implementation of HACCP regulations. Training, technical assistance, and grants to the
+states will be used. Increase coverage and frequency of coverage of domestic firms, with the
+highest risk firms (those firms producing, processing, or distributing high risk products) to be .
+inspected once per year· and lower risk firms less frequently, is a primary goal of FDA. Both
+agencies will also continue to work to eliminate barriers to cross-utilization of inspection
+resources. Use of preventive control measures, such as HACCP and the Food Code, by the
+retail food service industry will be a major focus of cooperative federal-state activity. FDA and
+USDA will work with states, providing resources and training to promote adoption of the Food
+Code by retail food service establishments.
+Emphasis on development and use of food production preventive control measures will continue
+with evaluations of foreign food production systems, increasing the number of state and
+international arrangements for assuring food safety, and working with USDA and industry to
+develop additional measures. Evaluations of foreign food production systems will be conducted
+to follow-up on foodborne illness outbreaks associated with imported products, and to assure that
+food products imported into the U.S. meet the level of safety as foods produced in the United
+States. These evaluations will also be used to verify agreements between trading partners, such
+as Mutual Recognition Agreements (MRAs).
+
+Coordination Strategy
+
+FDA and USDA will continue to work closely together in providing state and local food safety
+officials and industry with the training necessary to effectively use preventive controls systems,
+such as HACCP, and to perform inspections of HACCP systems. The agencies also have in
+place several working groups considering how the agencies might more effectively use their
+inspection resources, as well as ensure compliance in transportation and food service operations.
+
+FY 2000 Activities
+
+  State Inspections
+
+       FDA will expand support, trammg, and guidance to our state counterparts (using
+       partnerships, contracts, and other mechanisms), state inspection of FDA-regulated high risk
+       establishments, following FDA guidelines and procedures.
+
+   -   USDA will expand special assistance to states to implement Field Automation Information
+       Management to provide FSIS off-shelf inspection automation infrastructure to provide the
+       automated infrastructure for FSIS off-shelf inspection that will accommodate HACCP
+       requirements, laboratory equipment for pathogen detection required by the HACCP final
+       rules, and HACCP training for state inspectors.
+
+                                                            Automated Records Management System
+                                                            HeK-Dump Conversion·
+                                               25
+      poultry products in FSIS laboratories to determine the compliance of some 2,000 state
+      inspected establishments with pathogen reduction performance standards, and will contract
+      for comprehensive reviews and audits of 20 state laboratories to facilitate state
+      implementation of HACCP and to permit state-inspected meat and poultry products to
+      enter interstate commerce.
+
+  -   FDA will hire individuals with expertise in epidemiology to assist in epidemiologic and
+      environmental assessments of foodborne outbreaks.           .
+
+Retail Foods
+
+      FDA will work with States, providing training, training funds, and equipment to aid the
+      retail food service industry in implementing HACCP, implementing use of food safety
+      provisions in the Food Code, and in adoption of the Food Code.
+
+      FDA and USDA will work with states to promote adoption of the Food Code by an
+      increased number of states.
+
+Imports
+
+  -   USDA will facilitate the collection of data on agricultural practices in the U.S., report on
+      good agricultural production and manufacturing practices within the food sector, and
+      support FDA field staff visits to foreign countries, primarily in Latin American, South
+      America, and Asia, associated with the GAP/GMPs.
+
+Prevendve Control Systems
+
+      FDA and USDA will continue to provide HACCP training/assistance and inspection
+      training to states, as appropriate, for seafood, meat, and poultry HACCP and FDA will
+      implement HACCP for fruit and vegetable juices~
+
+      FDA and USDA will increase the number of MRAs, equivalency, and other international
+      agreements.      FDA will increase the number of inspections of foreign food processors
+      from 100 to 250 and will conduct evaluations of foreign food production systems to
+      support its arrangements.
+
+  -   USDA, with FDA and in cooperation with the Risk Assessment Consortium, will conduct
+      international risk assessment workshops and other training activities for foreign
+      governments to facilitate understanding of the risks associated with microbial
+      contamination on food, particularly produce, and the control measures needed to reduce
+      incidence of foodborne illness. These workshops and training sessions will be initiated by
+      USDA with FDA, or done in cooperation with other organizations such as the
+      International Institute· for Cooperation in Agriculture, the Food and Agriculture
+      Organization, and/or the World Health Organization as appropriate.
+
+                                                             Automated Records Management System
+                                               26            Hex-Dump Conversion
+
+                                       1998        1999            2000     Proposed
+                                      Approp.     Budget        Proposal     Increase
+INSPECTIONS
+                                                  Dollars in Thousands
+
+USDA:
+ Food Safety and Inspection Service     $565        $8,412         $8,778        $366
+ Foreign Agricultural Service           __ 0         __  0          \'000        \'000
+
+        Subtotal, USDA                      565      8,412          9,778        1,366
+
+HHS:
+ Food and Drug Administration          81 114      108,714        134,314      25,600
+
+
+TOTAL, Inspections
+
+
+
+
+                                                  Automated Records Management System
+                                                  H~·.D\lftip Conversion
+
+
+
+                                       27
+
+ Education is at the heart of translating science (including regulatory science), and scientific
+ advances, into readily accessible, comprehendible information for use by industry, producers,
+ health profession'als, consumers, food service operations and others to change unsafe food
+ practices and to respond appropriately when a foodborne illness occurs. To improve case
+ identification and disease surveillance, educational materials will be produced for clinical and food
+ microbiologists and for public health professionals based on research conducted in FY 1998 and
+ 1999.       Retail food service operations (including fast food restaurants, vending operations,
+ institutional feeding operations such as schools, hospitals, and nursing homes) have been
+ reported to be the source of a substantial number of foodborne illnesses. Federal agencies will
+'cooperate with states and industry to provide training and educational materials geared toward
+ use of safe food practices by food service workers and implementation of the food safety
+ provisions of the Food Code.
+
+To minimize the occurrence of animal drug residues in edible animal tissues, education programs
+will be targeted to veterinarians and food animal producers on proper drug use. Educational
+programs will be developed to train school personnel and health professionals on methods to
+prevent foodborne illness.
+
+Further evaluation of the effectiveness of the national consumer education campaign, "Fight
+BACl", in changing consumer food practices will be conducted with the refinement of messages
+and campaign methods.
+
+The Partnership for Food Safety Education is a powerful model for the development of other
+alliances to leverage available resources in implementing the education and training programs a
+national food safety system will demand for success. By joining the expertise of federal, state,
+and local authorities with industry, academia, and consumer groups, partnerships allow expanded
+scope of education efforts beyond what anyone entity can accomplish alone and, thus, will be
+the mainstay of education and training efforts for a national food safety program. Training
+and education programs for food service workers will also be developed and implemented
+through a recently formed public/private partnership and will be research and science-based.
+
+Coordination Strategy
+
+Coordination of education programs and setting pnontles for future actlVltles occurs through
+such public/private partnerships as the Partnership for Food Safety Education, the Food Service
+Training and Education Alliance, the Seafood HACCP Alliance, as well as interagency working
+groups and states.
+
+FY 2000 Activities
+                                                                Automated Records Management System
+   Retail Food Service
+                                                                Hex-Dwnp Conversion
+
+
+                                                 28
+     to implement a national education and training program to ensure greater safety in retail
+     food preparation practices, including use of HACCP principles in retail establishments,
+     based on the results of the pilot program initiated in FY 1999.
+     FDA and USDA will, through contracts and partnerships with states, industry, and others,
+     conduct education activities promoting use of safe food preparation, storage, and
+     distribution practices by retail food service workers and by the food transportation industry.
+
+     FDA will evaluate food service HACCP pilots initiated in FY 1999, expand and refine this
+     pilot program based on the evaluations, and conduct a pilot program using the recently
+     developed Recommended National Retail Food Regulatory Program standards. These
+     standards were developed in conjunction with the Conference of Food Protection which
+     includes membership from all states, and the District of Columbia, as well as
+     representation from industry and consumer groups.
+
+     FDA will expand behavioral research, to identify barriers for safe food preparation
+     practices by the retail food sen;ice industry, that can help guide the design of more
+     effective training programs and materials. USDA will develop educational programs to
+     provide Meat and Poultry HACCP education and training to small retailers.
+
+     FDA and USDA will continue to form and support partnerships and alliances, such as the
+     Partnership for Food Safety Education and the Food Service Training and. Education
+     Alliance.
+
+  Animal Drug Use
+
+     FDA will develop and expand educational partnership agreements with state and local
+     agencies to address appropriate use of drugs in food animals and disseminate materials
+     developed in FY 1998 and 1999 on minimizing the occurrence of drug residues in edible
+     animal tissues.
+
+     FDA will work with veterinary practltloners, producer groups, and veterinary medical
+     schools to increase awareness of food safety issues related to the use of animal drugs and
+     feeds through exhibit programs, satellite teleconferences, town hall meetings, and industry
+     workshops.
+
+     FDA will work cooperatively with veterinarians, producers, and other stakeholders to
+     encourage development of recommendations on prudent use of antimicrobials and support
+     educational strategies to encourage implementation.
+
+Consumers
+
+     USDA and FDA will increase efforts to integrate research and education through
+     technology transfer (see Research) and the development of educational programs that focus
+
+
+
+                                                               Automated Records Management System
+                                               29
+                                                               Hex-Dump Conversion
+       knowledge base.
+
+  -    USDA, FDA, and CDC will expand educational programs for consumers that focus on
+       the role of the consumer in ensuring and improving the safety of the nation's food supply
+       through the Partnership for Food Safety Education and other mechanisms. Efforts to
+       reach vulnerable segments of the population with targeted education will be expanded.
+
+Producers
+
+  -    USDA, working with FDA, will increase efforts to provide domestic fruit and vegetable
+       growers education and outreach on how to minimize contamination of their crops and use
+       FDA's GAP/GMP guidance for the microbial risk from fresh fruits and vegetables.
+
+  -    USDA and FDA will develop educational programs for veterinarians on how to function
+       as auditors or certifiers of best management practices for livestock production units for
+       pathogen reduction in animals.
+
+  -     USDA and FDA will develop educational programs and provide them to producers on the
+      . management systems needed to reduce or eliminate specific pathogens that can cause
+        human illness through contamination of food products.
+
+  Health Professionals
+
+  -    CDC, working with FDA, will develop appropriate education and training materials based
+       on analysis of the FY 1999 survey results of training needs for food safety professionals at
+       state and local environmental health agencies and begin plans for delivery of needed
+       training.
+
+  -    CDC, working with FDA and USDA, will develop and deliver standardized distance-based
+       training on food microbiology to laboratorians in states and territorial public health
+       laboratories to assist in identification of foodborne pathogens associated with diarrheal
+       illness through the National Laboratory Training Network in collaboration with the
+       Association of Public Health Laboratories.
+
+       CDC will provide distance-based training programs in foodbome disease prevention
+       targeted to public health nurses nationwide through the Public Health Training Network.
+
+  School Children
+
+  -    CDC, FDA, and USDA will broaden the dissemination of school-based food safety
+       education programs and include teacher enhancement programs. Much of this will be
+       done in cooperation with the Partnership on Food Safety Education.
+
+                                                                   Automated Records Management System
+                                                                   Hex-Dump Conversion
+                                                30
+
+                                            1998       1999             2000       Proposed
+                                           Approp.    Budget         Proposal       Increase
+EDUCATION
+                                                      Dollars in Thousands
+
+USDA:
+ Cooperative State Research, Education,
+    and Extension Service                   $2,365      $7,365           $8,287        $922
+ Food Safety and Inspection Service              0       2,500            2,720         220
+ Food And Nutrition Service                      0       2,000            2,000           0
+ Office of the Chief Economist                  38          38               38           0
+ Economic Research Service                  . 420          420              420        __ 0
+
+        Subtotal, USDA                       2,823      12,323           13,465         1,142
+
+HHS:
+ Food and Drug Administration               6,870       10,470           15,170        4,700
+ Centers for Disease Control                __  0       --.2QQ           --.2QQ        __  0
+
+        Subtotal, HHS                        6,870      10970            15,670         4,700
+
+
+TOTAL, Education
+
+
+
+
+                                                               AtttoH1ated Rec rds M
+                                                               Hex jj'   ..' 0          anagement System
+                                                                   - Iiliip COli version
+
+
+
+
+                                            31
+
+Building on the progress made in research currently underway, research in FY 2000 will focus
+on filling gaps in data required to support development of additional preventive control
+mechanisms and on the development of more, rapid detection methods. Translation of science
+from theory to practice will be another focus.       Working with the private sector, including
+academia, the agencies will develop, validate, and evaluate the safety of simple techniques for
+consumers, retail food service establishments, and small businesses to use in enhancing food
+safety.   Producers of food animals and fresh fruits and vegetables are increasingly aware of the
+role production practices play in the safety of foods and that they must be more involved in
+reducing the opportunity for contamination by pathogens of fecal origin, whether from domestic
+or wild animal species or human beings. Effective methods of handling and treating poultry,
+swine, and cattle manure during production will prevent transmission of pathogens to agricultural
+lands and to crops used for human food, and will help prevent possible distribution of pathogens
+to crops or other animals from surface runoff and irrigation waters.
+
+For some foodborne illnesses, the causative agent is never identified.. This may be due to the
+lack of a detection method for the pathogen or for the pathogen in the specific food matrix.
+Research will be conducted to determine the proportion of outbreaks for Which the etiologic
+agent remains unknown and create a research base to begin identifying the agents.
+Development of detection methods and preventive methods for foodborne pathogens will
+continue. The budget request will support research to develop and assess new technologies to
+prevent antibiotic resistance in pathogens and to develop methods. to detect resistant pathogens in
+milk, meat, eggs, animal feeds, feces, and the environment.
+
+The fundamental work in areas identified as critical to improving food safety will be expanded to
+develop more accurate, rapid detection methods for pathogens, particularly pathogens that no
+methods exist for, more effective intervention strategies to control microbial contamination,
+determine factors underlying microbial resistance to traditional preservation techniques and
+modify techniques accordingly, and understand and minimize the occurrence of antibiotic
+resistance in pathogens. Research associated with fresh produce will continue on its accelerated
+schedule as described in the interagency multi-year research plan.
+
+Coordination Strategy
+
+All food safety research will be coordinated through the Joint Institute on Food Safety Research
+which, it is anticipated, will become operational October 1, 1999. USDA, FDA, and CDC will
+continue to work with other food safety agencies, under the auspices of the Joint Institute on
+Food Safety Research, to develop and implement an overall interagency research plan that will be
+responsive to the public health needs of the regulatory agencies and improve the efficiency and
+effectiveness of foodborne outbreak response.
+
+FY 2000 Activities                                            Automated Records Management System
+                                                              Hex-Dump Conversion
+  Improved Detecdon Methods
+
+
+                                                32
+    technology research; refine methods already developed to make them more user-friendly,
+    adaptable to field-use situations, and better able to identify specific pathogens rather than
+    just fecal contamination, as well as develop better sampling techniques to enhance
+    detection of pathogens that occur sporadically at low levels on food.
+
+-   CDC, FDA, and USDA will further improve diagnostic methods for Cyclospora,
+    Cryptospoddium, or Campylobacter and develop methods for other newly identified
+    human foodborne pathogens and for Norwalk-like caliciviruses to support surveillance and
+    targeted case-control studies.
+
+-   CDC will determine the proportion of foodborne outbreaks for which the causative agent
+    is unknown, and create a research base to begin identifying the agents.
+
+    USDA, working with FDA, will establish culture collections of resistant and non-resistant
+    bacterial and fungal pathogens to facilitate identification and traceback of the pathogens to
+    their source (e.g., environment, manure, water, animal feed).
+
+    FDA will expand its ongoing research on the development of methods for detecting
+    foodborne pathogens in animal feeds.
+
+-   CDC will define reservoirs or external life cycles of foodborne pathogens, including the
+    reservoir of Cyclospora, as a basis for devising strategies for preventing pathogen
+    contamination at the production level.
+
+Technology Transfer
+
+    FDA will collaborate with other agencies and the private sector, at the National Center for
+    Food Safety and Technology (NCFST) and the Joint Institute for Food Safety and Applied
+    Nutrition (JIFSAN) and with academia, to translate preventive technologies and techniques
+    developed into appropriate versions for use by small industry and consumers.
+
+    FDA, CDC, and USDA will expand mechanisms to transfer technologies to states, small
+    and large industry, foreign governments, consumers, and others.
+
+Antibiotic Resistance
+
+-   USDA and FDA will determine the concentration, length of use, and other selective factors
+    or conditions favoring the acquisition and dissemination of resistance genes among
+    pathogens and non-pathogens in food producing animals. Basic information will be
+    developed using chemostat model systems, on the time and dose dependency of various
+    antibiotics that favor the emergence of resistant organisms in the gastrointestinal tract of
+    food animal species. The dynamics of development and persistence of antimicrobial (e~g.,
+
+                                                             Aut!ltnated~e~ords Management System
+                                                             ltelc.JjUfup GOrlversion
+                                             33
+    used to develop detection methods and preventive strategies.
+
+-   USDA and FDA will develop technologies and controls, including competitive exclusion,
+    that will prolong the usefulness of antibiotics for both human and animal use, and prevent
+    food products of animal origin from being carriers of resistant organisms.
+
+-   USDA and FDA will determine how antibiotic resistance iIi bacteria may be transferred
+    among different bacterial populations.
+-   CDC will define reservoirs or external life cycles of pathogens, including the impact of low
+    doses of antibiotics on the spread of Shiga toxin E coli 0157:H7 in cattle, as a basis for
+    devising strategies for preventing pathogen contamination (including antimicrobial resistant
+    pathogens in food animals) at the production level.
+
+    USDA and FDA will determine the effectiveness of best management practices
+    interventions in the production setting related to control of antibiotic usage in food
+    animals. This knowledge will also be used to develop educational programs for
+    producers (see Education).
+
+-   USDA will establish culture collections of resistant and non-resistant bacterial and fungal
+    pathogens. These resources will be used to develop molecular characterization methods
+    to facilitate the identification of the resistant bacterial pathogens detected in food products,
+    and the tracing of these organisms to their source (e.g., environment, manure, water,
+    animal feed).
+
+Pathogen Control, Reduction) and Elimination
+
+-   USDA will design effective control programs for zoonotic bacteria and parasites. This
+    pre-harvest research will develop practical and economical pathogen reduction processes
+    for manure from food producing animals. Different processes are needed and will be
+    developed for each major type of animal production facility, and the processes will be
+    suitable to farm size and manure production levels ,and have well-defined process
+    parameters.
+
+-   USDA will determine how bacteria and fungi normally' present on plants influence the
+    growth and survivability of human pathogens that may be present. Data will be
+    developed on the characteristics of fruits and vegetables, such as the presence of inhibitors
+    of normal surface flora on fresh fruits and vegetables, associated with high quality products
+    that resist growth of pathogens.
+
+-   USDA, through grants, will facilitate epidemiologic studies to determine risk factors in the
+    production of livestock or fresh fruits and vegetables that are related to the presence of
+    specific organisms in the digestive tract of animals and the subsequent shedding of these
+    organisms in the feces. Further work will focus on the production management practices
+
+                                                                Automated Records Management System
+                                                                Hex-Dump Conversion
+                                               34
+        methodologies facilitated through demonstration or extension efforts.
+
+        FDA and USDA will expand research to develop technologies to control pathogens on
+        fruits and vegetables, including proper handling procedures, rinses, and other procedures
+        to reduce pathogen population on fresh-cut produce.
+
+  Food Handling, Distribution, and Storage
+
+        USDA will investigate the ecology of foodborne pathogens during handling, distribution,
+        and storage, particularly of fresh fruits and vegetables, to determine sources of
+        contamination and factors that increase the risk of disease transmission.
+
+        USDA will extend product contamination studies to the distribution and storage phase of
+        the food supply, evaluate the management practices that are determined to be most
+        effective in initial experiments by monitoring field experiments, and facilitate the transfer of
+        new methodologies through demonstration or extension efforts.
+
+Other
+
+        CDC will evaluate the economic impact of foodborne illness by conducting studies to
+        document the economic burden of foodborne illness.
+
+                                          Summary Budget -- Research
+
+                                                     1998       1999            2000     Proposed
+                                                    Approp.    Budget        Proposal     Increase
+          RESEARCH
+                                                               Dollars in Thousands
+
+          USDA:
+           Agricultural Research Service             $50,351    $64,001        $71,701       $7,700
+           Cooperative State Research, Education,
+             and Extension Service                    6,250      10,438         12,151       1,713
+           Agricultural Marketing Service            __   0       6.257          6.257       __  0
+
+                  Subtotal, USDA                      56,601     80,696         90,109        9,413
+
+          HHS:
+           Food and Drug Administration               27,193     36,393         43293
+
+
+          TOTAL, Research
+
+
+
+
+                                                                       Automated Records Management System
+                                                                       Hclt-Dump Conversion
+
+
+                                                     35
+
+Agencies will be conducting microbial risk assessments as a routine matter in making food safety
+policy decisions and prioritizing public health risks. In the pre-harvest production area, data will
+be generated on which to base predictive models for the risk of transmission of zoonotic
+pathogens through farm management systems to the presentation of the animals for slaughter and
+the transmission of zoonotic parasites through farm management systems, animal manure, and
+water run off. Work will be expanded in the collection of data about the number of
+microorganisms present in food associated with an outbreak and characteristics of individuals
+who ate the food, but did not become ill, in an effort to determine dose-response relationships
+for specific pathogens.
+
+A study of production techniques used by fresh fruit and vegetable producers will produce some
+of the type of data needed for development of intervention technologies, as well as risk
+assessments to determine the need for more specific Good Agricultural/Good Manufacturing
+Practices guidance. Fundamental research to develop risk assessment techniques will expand as
+the growing use of strategies based on risk assessments alerts food safety officials to additional
+hazards in the food supply.
+
+Coordination Strategy
+
+The identification of critical information needs in risk assessment and setting methodological
+priorities will be coordinated through the interagency Risk Assessment Consortium formed in FY
+1998.
+
+FY 2000 Activities
+
+  Risk Assessment Consortium
+
+        FDA, CDC, USDA and other participants, will continue to build and expand the
+        cooperative base of the Risk Assessment Consortium to identify critical needs for
+        development of microbial risk assessment techniques applicable to a wide range of foods
+        and to meet the requirements of agencies participating in the consortium. The Consortium
+        will evaluate how risk assessment can be used in priority setting, particularly for emerging
+        pathogens.
+
+        FDA, USDA, CDC and other participants will expand the risk assessment clearinghouse
+        to better establish government, industry, academic partnerships.
+
+  Risk Assessments
+
+        FDA will conduct risk assessments of priority microbiological safety concerns as a matter
+        of routine.
+
+
+                                                             Automated Records l\fanagement System
+                                                             Hex-Dump Conversion
+                                                 36
+    integrate risk assessment into development of HACCP programs, as appropriate, for
+    various commodities.
+
+    FDA will increase the number of risk assessments performed for antimicrobial products as
+    part of the pre-approval food safety evaluation from 2 to 3 per year.
+
+Modeling
+
+    FDA, USDA, CDC and other agencies at the Consortium will develop models suitable for
+    answering complex questions related to food safety issues, such as evaluating the relative
+    effectiveness of risk management options or regulatory policies.
+
+    USDA will develop a system that will contain data banks with models for the growth
+    rates, lag times, survival, thermal inactivation, and radiation inactivation, as appropriate for
+    additional pathogens. For post-harvest operations, it will contain information on normal
+    contamination levels in raw food ingredients and food composition parameters (pH, water
+    activity and processing). For pre-harvest operations it will contain data describing risk of
+    various food animal production and transportation practices and interventions. These data
+    banks will be made available to other agencies.
+
+    FDA will evaluate the effectiveness of integrating individual food production, processing,
+    and consumption models to develop process pathway models for various foods.
+
+-   USDA and FDA will initiate studies and gather data on the incidence and number of
+    pathogens on food producing animals at various critical· stages in production and
+    management systems. With this data the research will develop predictive models for the
+    risk of transmission of zoonotic pathogens· through farm management systems to the
+    presentation of the animals for slaughter, and ultimately, to consumers. In addition to
+    production practices, microbiological and animal behavioral data on various systems used
+    for transporting swine will be generated and evaluated in relation to the subsequent
+    contamination of the animals at slaughter. The research will also develop predictive
+    models for the risk of transmission of zoonotic parasites through farm management
+    systems, animal manure, and water run off.
+
+    FDA will initiate mechanisms to transfer technologies and models developed for risk
+    assessment to states, industry, foreign governments, and other users.
+
+Dose-Response Assessments
+
+    USDA will enter into cooperative agreements with 5 States to collect food specimens
+    during investigations of foodborne disease epidemics. FDA will expand work to collect
+    data about the level of contamination in foods associated with outbreaks and characteristics
+    of people who ate the food but didn't become ill.         Information at the local level is
+    necessary to accurately determine the exposure to pathogens in suspect foods. USDA
+                                                            Automated Records Management System
+                                               37           Hex-Dump Conversion
+      information to support selection of appropriate dose-response model forms that will be
+      used to assist the agency in determining acceptable pathogen levels on/in regulated meat,
+      poultry, and egg products.
+
+
+Exposure Assessment
+
+  -   FDA will continue to extramurally fund research that expands the scope of exposure
+      assessment and dose-response and other types of research that feed into the development
+      of risk assessment techniques and models.
+
+      FDA will make available to the food safety community, through technology transfer
+      mechanisms, user-friendly software developed for predictive microbiology and risk
+      assessment as a result of work conducted at the Consortium.
+
+  Fruit and Vegetable Survey
+
+  -   USDA will use as a base of data to establish a baseline of agricultural practices for fresh
+      produce a FY 1999 pilot study to be conducted in California and New Yark, which will
+      provide information for the final design of materials and plans. These two pilot States
+      were chosen based on distinct differences in crops grown, growing conditions, and
+      agricultural practices.
+
+  -   USDA will conduct a statistical survey of approximately 10,000 fruit and vegetable
+      growers, as well as fruit and vegetable packing houses, to establish a baseline for good
+      agricultural practices as they relate to microbial food safety issues. It would be conducted
+      in major fruit and vegetable States which account for nearly 85 percent of the nation's
+      acreage.     The survey would consist of core questions covering water, manure
+      management, facility sanitation, worker sanitation and hygiene, and transportation
+      practices. The survey would also include questions related to specific practices and the
+      related cost data to allow the calculation of associated costjbenefit analyses.
+
+  -   USDA will provide the statistical survey data to FDA for use in providing guidance to
+      industry to reduce the microbial risk from fresh fruits and vegetables.
+
+                                    Summary Budget -- Risk Assessment
+
+                                                    1998           1999           2000     Proposed
+                                                   Appro.         Budget                  . Increase
+        RISK ASSESSMENf                                       ------~------~------~I
+                                                                Dollars in Thousands
+                                                                            .
+        USDA:
+          Agricultural Research Service            $4,498         $4,818         $7,218     $2,400
+          Cooperative State Research, Education,
+             and Extension Service                      150        1,962         1,962            0
+          Food Safety and Inspection Service             o         1,000         2,000        1,000
+                                                                           Automated Records Management System
+                                                   38
+                                                                           Hex-Dwnp Conversion
+  National Agricultural Statistics Service         0      0       2,500        2,500
+  Office of the Chief Economist              ~         ~          ~                0
+
+           Subtotal, USDA                     4,741    8,624      14,524       5,900
+
+HHS:
+ Food and Drug Administration                 6,539    JJn2       16.439       '2.700
+
+
+TOTAL, Risk Assessment
+
+
+
+
+                                                        Automated Records Management System
+                                                        Hex-Dump Conversion
+
+
+
+
+                                             39
+
+

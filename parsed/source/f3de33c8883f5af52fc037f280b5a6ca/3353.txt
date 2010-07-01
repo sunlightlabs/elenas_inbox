@@ -1,0 +1,202 @@
+         RECORD TYPE: PRESIDENTIAL     (NOTES MAIL)
+
+         CREATOR: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP [ OPD ]            )
+
+         CREATION DATE/TIME: 9-JUL-1997 09:12:29.00
+
+         SUBJECT:    Update on Welfare to Work Conference Issues
+
+         TO: Virginia N. Rustique ( CN=Virginia N. Rustique/OU=WHO/O=EOP @ EOP [ WHO]         )
+         READ: UNKNOWN
+
+         TO: Diana Fortuna ( CN=Diana Fortuna/OU=OPD/O=EOP @ EOP [ OPD ]       )
+         READ: UNKNOWN
+
+         TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+         READ: UNKNOWN
+
+         TO: Emily Bromberg ( CN=Emily Bromberg/OU=WHO/O=EOP @ EOP [ WHO ]         )
+         READ: UNKNOWN
+
+         TO: Janet Murguia ( CN=Janet Murguia/OU=WHO/O=EOP   @   EOP [ WHO ] )
+         READ: UNKNOWN
+
+         TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO]      )
+         READ: UNKNOWN
+
+         TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ] )
+         READ: UNKNOWN
+
+         TEXT:
+         At today's 11:00 meeting on the $3 billion welfare to work program, we
+         will discuss proposals for:
+                 Performance bonus
+                 Workfare language
+                 Eligible individuals
+                 Budget Language -- no spending in 2002
+                 Technical Issues
+
+         Attached is an updated document which includes:
+
+                    A list of member and staff issues; and
+
+                 A pared-down side-by-side of these issues and our position==================
+         ATT CREATION TIME/DATE:   0 00:00:00.00
+
+         TEXT:
+         Unable to convert ARMS_EXT: [ATTACH.D6]MAIL43266398L.116 to ASCII,
+          The following is a HEX DUMP:
+
+         FFS7S043C2130000010A000100000000FBFFOS0032001108000003000A00000042000000060010
+         0000004COOOOOOOCOOSAOOOOOOSC0000003000SB070000B6000000D00606000100060006D00033
+         7COOS100000001004901120000004S70736F6E2046S82D3130300074204F6E6C79000000000000
+         0000000000000000000000004SS046S83130302ES7S2S30000S8024EOOF41ASC121A0900000010
+         20S000000000010001000000000000000000F4SC1DB74ES802S0ABOOS8024EOOF41ASC121A0900
+         00001020S00000000001000100S802S02800C8196810480D00001109000000SAOOOB0100001036
+         00S40069006D006S00730020004E006S0077002000S2006F006DOO61006E002000S2006S006700
+         7S006C006100720000000000000000000000000000000000000000000000000000000000000000
+         000000000000000000000000000000000000000000000000000000000000000000000000000000
+         OOOOS802S8024EOOF41ASC121A090000001020S00000010001000100S802S02800D61EC30F3908
+         OOOOll09000000SAOOOB01008B143600S40069006D006S00730020004E006S0077002000S2006F
+                                      Welfare-to-Work Conference Issues         Hex-Dump Conversion
+                                                       7/8/97
+
+
+I.    Tentative Member Issues*
+
+       --Administering agency and inter-agency coordination
+       --Allocation of funds between competitive grants and formula grants
+       --Details of competitive grant funds (setaside for rural areas, 100 poorest cities)
+       --Use of funds/allowable uses
+       --Worker protections (displacement, discrimination, grievance)
+       --Minimum wage calculations
+       --State maintenance of effort requirements
+
+
+2.     Tentative Staff Issues*
+
+       --Performance bonus
+       --Appropriation of funds by year
+       --Distribution of formula funds within states
+       --Eligible individuals
+
+
+3.     Identical (or close) House and Senate Provisions*
+
+       --Purpose
+       --Matching requirements
+       --Grants to Indian tribes
+       --Grants to territories/outlying areas
+       --Interaction with TANF
+       --Evaluation
+
+
+
+
+* As stood at end of712/97 Hill meeting.
+    Comparison of Welfare-to-Work Legislation                           Hex-Dump Conversion        .
+                                                                                                    7/8/97 Intemal Draft
+
+                       Our Position        House Ways          House Ed &         House GOP          Senate Finance
+                                           and Means           Workforce          Compromise
+    Administering Labor                  Labor               Labor              Labor               HHS
+    Federal Agency
+    Local Agency      PICs               PICs                PICs               PICs                TANF (welfare)
+    administering                                                                                   agency
+    formula funds
+    Funding:          50% fonnula,       50% fonnula,        95% fonnula,       90% fonnula,        75% fonnula,
+    Percent           50% competitive    50% competitive     5% competitive     10% competitive     25% competitive
+    Formula!
+    Competitive
+    Allowable         If community       Private and       Similar to Ways      Same as Ways        Same as Ways
+    activities        service/work       public sector job and Means            and Means,          and Means
+                      experience         creation through                       except that
+                      allowed, add       wage subsidies,                        community
+                      limiting           on-the-job                             service/work
+                      language           training,                              expenencelS
+                      ensuring goal is   contracts and                          added as an
+                      private sector     vouchers for                           allowable
+                      job                readiness, job                         activity
+                                         placement and
+                                         post-employmen
+                                         t services and
+                                         job support
+                                         services
+                                         provided
+                                         through other
+                                         means.
+    Performance       Keep, but          None                None               None                $100 million (3
+    bonus             strengthen,                                                                   percent oftotal
+                      perfonnance                                                                   dollars)
+                      bonus
+    Funding:          Prefer Ways and    Based on            Based on           Based on            Based on
+    Allocation of     Means.             poverty, T ANF,     poverty and        poverty and         poverty, TANF,
+    formula dollars   If small state     unemployed          TANF               TANF                unemployed
+    to States         minimum            popUlations.        populations. No    populations. No     populations.
+                      included, try to   No small state      small state        small state         Small state
+                      lower to .25%      mlmmum.             mlmmum.            mlmmum.             minimum of
+                      like JTPA                                                                     0.5%.
+    Funding:        Prefer Ways and      85% to PICs by      Same as Ways       Same as Ways        85% among
+    Allocation of   Means, but use       fonnula, at least   and Means          and Means           political
+    formula dollars excess poverty       half of that                                               subdivisions
+                    factor of7.5%        according to                                               with
+                                                                                          Hex-Dump Conversion
+
+'.                    Our Position         House Ways          HouseEd&           House GOP           Senate Finance
+                                           and Means           Workforce          Compromise
+     within State    instead of 5% to    excess poverty                                              above-average
+                     better target       (# of poor                                                  poverty and
+                     dollars to poor     individuals that                                            unemployment
+                     areas.              exceeds 5% of                                               rates, at least
+                                         population);                                                half of that
+                                         15% at                                                      according to
+                                         Govemor's                                                   poverty.
+                                         discretion.
+     Inter-Agency    Prefer              PICs and local       No provision.      PICs and local      Local TANF
+     Coordination of Ways and            TANF agency                             TANF agency         agency and
+     formula dollars Means; ensure       must have                               must have           entity operating
+                     that remitted       agreement;                              agreement;          a project must
+                     funds stay in       Funding shall                           Funding shall       have agreement;
+                     state               remit to the                            remit to the        Funding shall·
+                                         Secretiuy of                            Governor if         remit to HHS
+                                         Labor ifPICs                            PICs and T ANF      Secretary if
+                                         and T ANF don't                         don't adhere to     agreement not
+                                         adhere to                               agreement.          adhered to.
+                                         agreement.
+     Allocation of   Ways and            65% set-aside       No set-asides       65% 100-city      30% rural
+     competitive     Means               for grants for      (competitive/       and 25% rural     set-aside; no city
+     dollars                             spending in         demonstration       set-aside, but of set-aside.
+                                         cities that are     dollars are only    much smaller
+                                         among the 100       5% of total         competitive pool
+                                         with the largest    WTW funds)          (10 percent of
+                                         poverty                                 total).
+                                         populations,
+                                         25% set-aside
+                                         for rural areas.
+     Eligible        Prefer House        90% of funds: 1)    90% of funds: 1)    70% of funds: 1)    90% of funds: 1)
+     Individuals     GOP                 received            received            received            received
+                     Compromise;         assistance for 30   assistance for 30   assistance for 30   assistance for 30
+                     have alternatives   months or are       months or are       months or are       months or are
+                     which would         within 12           within 12           within 12           within 12
+                     limit program to    months of time      months oftime       months of time      months oftime
+                     36% or 38%of        limit; and          limit; or           limit; and          limit; or
+                     caseload            2) Has two of:      2) Has two of:      2) Has two of:      2) Has two of:
+                                         a)Low skills and    a)Low skills and    a)Low skills and    a)Low skills and
+                                         no high school      no high school      no high school      no high school
+                                         diploma;            diploma;            diploma;            diploma;
+                                         b)Requires          b)Requires          b)Requires          b)Requires
+                                         substance abuse     substance abuse     substance abuse     substance abuse
+                                         treatment;          treatment;          treatment;          treatment;
+                                         c)Has poor work     c)Has poor work     c)Has poor work     c)Has poor work
+                                         history             history             history             history
+                                         (18% of             (76% of             (18% of             (76% of
+                               .    and Means          Workforce        Compromise
+                                   caseload)          caseload)        case1oad)        caseload)
+State          House Ways and      States must meet   States must meet States must meet States must meet
+Maintenance of Means               80%                TANF             TANF             TANF
+Effort                             maintenance of     maintenance of   maintenance of   maintenance of
+Requirements                       effort             effort (75% if   effort (75% if   effort (75% if
+                                                      meeting work     meeting work     meeting work
+                                                      participation    participation    participation
+                                                      rates; 80%       rates; 80%       rates; 80%
+                                                      otherwise)       otherwise)       otherwise)

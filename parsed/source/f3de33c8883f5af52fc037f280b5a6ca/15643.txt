@@ -1,0 +1,207 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP [ WHO ) )
+
+CREATION DATE/TIME:23-MAY-1997 16:57:09.00
+
+SUBJECT:   Weekly Report as of 5:00 pm
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ) )
+READ: UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D1)MAIL45901624H.116 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043CCOE0000010A020100000002050000006D39000000020000B5C87B7EA7651B058C0358
+D030AB2FC447ACAODB1810917AF31655AACBA36A09C9A94C27AEF9134CBD2CA27002F964FE9275
+CC71C8E4A20EA6C7C32E7B48A17FBB03AA6850FAB3181AB16E1AD39452F4399D20B8C8F6COBECD
+D80A30D79B8566E38C0793D17A5BD63872AFCDA515CF4A4F9651829DA4E579B135222COE9C5B18
+DC6260BB986408C15B3683E68FBED4D1E9022AA75DB854726F175E428D294FFF1854B294359E55
+5D80D4031DOEDFE191FCED494E87DE8227933A5C2FD028451BFA2684AD1521D8211DOBE5AF30DB
+73631BECE3440E9CECF46501E1834F160638006C5CF98F9A41962A8C510461C6283A24AE565D82
+365697D234AB8E248E10CACC6E2DE4ED2791DF199649607D31B51278B75FF1EFBAA8953FEA0674
+1F04123AE2A1653A10B4B10898EBEC836C933032670F4BCF61225B7FO~1BC97D1C36C702D8EDAF
+B748AB50A22CC6E3B9373C4FDD53FFAAA131ACDBE02DCEDD8C40157C740ACEE3FA248E60C71050
+852FFD42707652A4DA41DE1838297E33697A56F0550C801E971FF8DB1ECE6ABCA35D5E9B75737B
+E542E6677C78813ED7C907CD1D5D82C53CA4B9B84F459935DA6BAA825878E2833CAB517084712F
+552B43F83AD8F0023EE3EE76830936DFEA17D5F71AF1ACDFAAD4FOF199DA731A7F9979E14AA7C8
+E6DA43B04C0200A400000000000000000000000823010000000B010000F80A0000005505000000
+4E000000030C000009250100000006000000510COOOOOB300300000028000000570C0000080501
+000000080000007FOC0000081D0100000000000000870COOOOOOOO0000000000000000870COOOO
+0055030000004E000000870C00000055010000004EOOOOOOD50COO000877010000004000000023
+OD000008340100000014000000630D00000802010000000FOOOOOO770DOOOOOB30010000006COO
+0000860D000000000000000000000000860DOOOOOOOOOOOOOOOOOO000000860DOOOOOOOOOOOOOO
+0000000000860DOOOOOB300100000044000000F20D00000608010000002D000000360EOOOOOOOO
+0000000000000000360E000000000000000000000000360EOOOOOO000000000000000000360EOO
+0000000000000000000000360E000000000000000000000000360E000000000000000000000000
+360E000000000000000000000000360EOOOOOOOOOOOOOOOOOOOOOO00360EOOOOOOOOOOOOOOOOOO
+000000360E000000000000000000000000360EOOOOOOOOOOOOOOOO00000000360EOOOOOOOOOOOO
+000000000000360E000000000000000000000000360EOOOOOOOOOO00000000000000360EOOOOOO
+000000000000000000360E000000000000000000000000360EOOOO00000000000000000000360E
+000000000000000000000000360E00000000000000000000000036OEOOOOOOOOOOOOOOOOOOOOOO
+00360E000000000000000000000000360EOOOOOOOOOOOOOOOOOOOO0000360EOOOOOOOOOOOOOOOO
+00000000360E00000942010000001D000000630EOOOOOOOOOOOOOO0000000000630EOOOOOOOOOO
+00000000000000630E000000000000000000000000630EOOOOOOOO0000000000000000630EOOOO
+00000000000000000000630E000000000000000000000000630EOO000000000000000000000063
+OE000000000000000000000000630EOOOOOOOOOOOOOOOOOOOOOOOO630EOOOOOOOOOOOOOOOOOOOO
+0000630E000000000000000000000000630EOOOOOOOOOOOOOOOOOO000000630EOOOOOOOOOOOOOO
+0000000000630E000000000000000000000000630EOOOOOOOOOOOO000000000000630EOOOOOOOO
+0000000000000000630E000000000000000000000000630EOOOOOO000000000000000000630EOO
+0000000000000000000000630E000000000000000000000000630E000000000000000000000000
+630E000000000000000000000000630EOOOOOOOOOOOOOOOOOOOOOO00630EOOOOOOOOOOOOOOOOOO
+000000630E000000000000000000000000630EOOOOOOOOOOOOOOOO00000000630EOOOOOOOOOOOO
+000000000000630E000000000000000000000000630EOOOOOOOOOO00000000000000630EOOOOOO
+000000000000000000630E000000000000000000000000630EOOOO00000000000000000000630E
+000000000000000000000000630E00000000000000000000000063OEOOOOOOOOOOOOOOOOOOOOOO
+                                                                     Hex-Dump Conversion
+
+                                          May 23, 1997
+
+
+MEMORANDUM FOR THE PRESIDENT
+
+FROM:          Bruce Reed
+               Elena Kagan
+
+RE:            DPC Weekly Rt;port
+
+
+
+        1. Welfare -- Permitting States to Purchase Food Stamps for Those Losing Federal
+Benefits: As part of the supplemental appropriations bill, Congress has agreed that states that
+wish to continue food subsidies to certain individuals losing Federal food stamps because ofthe
+welfare reform law can do so by purchasing food stamps from the federal government. This
+includes both legal immigrants and unemployed non-disabled childless adults. A few months
+ago, Washington State asked the Department of Agriculture ifit had legal authority to sell
+coupons to states to provide benefits for legal immigrants. Unfortunately, the Department's
+legal analysis indicated that it did not. However, we assisted the state in drafting a legislative
+proposal, and it has been agreed to by the conferees, with the option also applying to
+non-disabled childless adults subject to the new food stamp work requirement. Maryland and
+Massachusetts are among the states planning to take advantage of this new option for legal
+immigrants.
+
+Note to Elena: I previously told you states with EBT (Maryland) were out of luck on this
+legislation, but I was wrong: any state can take advantage of this.
+
+       2. Teen Pregnancy -- National Campaign to Prevent Teen Pregnancy You asked
+whether we have any continued involvement with the National Campaign to Prevent Teen
+Pregnancy, which we helped get started. On May 2nd -- the same day you announced the budget
+deal -- the First Lady marked the Campaign's first anniversary in an East Room ceremony
+recognizing 12 individuals working to lower teen pregnancy rates. During its first year, the
+Campaign has focused on building its organization, engaging the media to promote pregnancy
+prevention messages, establishing linkages with state and local groups, and commissioning
+research on the problem and promising solutions. Former Gov. Thomas Kean, the Campaign's
+chairman, spoke along with the First Lady at the May 2nd event.
+
+{Elena -- I assume the following will be an add-on to your weekly on the NGA letter}:
+                                                              Hex-Dump Conversion
+
+         3. Welfare Maintenance of Effort and the Contingency Fund The governors also
+expressed concern about an issue involving maintenance of effort and the welfare contingency
+fund. In the welfare law, there are maintenance of effort requirements for both the TANF block
+grant and for the contingency fund states can access during recessions. There are two major
+differences between the MOE for the contingency fund and for the TANF block grant: states
+must maintain more of their historic state spending to access the contingency fund (100% vs. 75
+or 80%) and they can count fewer kinds of state spending to meet the contingency fund MOE. It
+is the latter difference the governors propose to change. They argue that because states plan
+their programs around the definition for the basic T ANF block grant, they may not be eligible for
+the contingency fund when they need it. They propose to unify the MOE definitions by adopting
+the easier-to-meet TANF definition which allows states to count state spending in programs for
+families that are not programmatically connected to the T ANF block grant. We have generally
+resisted any attempts to weaken the maintenance of effort requirement and opposed accepting
+this change in the welfare technical corrections bill.
+
+        4. Immigration - Impact of Immigration on the U.S.: A study released by the
+National Research Council found that immigration benefits the u.s. economy overall-- by as
+much as $10 billion annually-- and has little negative effect on the income and job opportunities
+of most native-born Americans. Only in areas with high concentrations oflow-skilled, low-paid
+immigrants are state and local taxpayers are paying more on average to support the
+publicly-funded services that immigrants use. While on an annual basis new immigrant families
+receive more in publicly-funded services than they pay in taxes, over the long term, the majority
+of new immigrants and their descendants will add more to the government coffers than they will
+receive during their lifetimes. In recent decades, however, the wage gap between new immigrants
+and native-born workers has grown substantially. The gap is largely attributable to the lower
+educational and skill levels of newer immigrants.
+
+       The study was funded by the u.s. Commission on hnmigration Reform. The National
+Research Council operates the National Academy of Sciences and National Academy of
+Engineering.
+
+        5. Education - School Voucher Amendment Passes in the Senate: During the debate
+on the budget resolution, the Senate passed an amendment, offered by Sen. Lott, which provides
+education vouchers for children who have been the victim of violent crimes. The bill provides
+for budget authority for this provision in FY2000, but no outlays in any year. The amendment
+passed by a 51-48 vote; no Democrat voted for the amendment, and four Republicans (Chaffee,
+Jeffords, Collins and Spector) voted against it. Both Sen. Lott and Sen. Dominici voted for the
+amendment.
+
+        The amendment was a surprise to almost everyone, and we are still not sure why it was
+drafted with no budget but no outlay authority. The expectation is that it will easily be dropped
+in conference. The main point seems to have been to provide an important symbolic victory.
+We believe this is the first time a voucher provision has ever passed in the Senate.
+
+
+                                                2
+                                                              Hex-Dump Conversion
+
+        6. Education - New Charter Schools Study: Next Wednesday the Department of
+Education is scheduled to release the first year findings of a planned 4-year study of charter
+schools and their impact on student achievement. The study includes an annual survey of all
+charter schools every year for 4 years. The first year results, are based on studies of schools in
+the ten states that had charter schools legislation when the study began. Key findings include:
+
+�      Over half of all charter schools are newly created; almost one-third were pre-existing
+       public schools; a little over one-tenth were pre-existing private schools.
+
+�      In most states, charter schools are at least as economically and racially diverse as the
+       overall population in the state's public schools. In several states (e.g., Arizona and
+       Colorado) charter schools are less diverse.
+
+�      The three most significant obstacles cited by charter school leaders are lack of start up
+       funds, lack of planning time, and inadequate facilities. Only 6% said federal regulations
+       were a significant barrier to getting underway.
+
+        7. Education - Reauthorization of Idea You requested additional information in
+response to a May 16 Wall Street Journal article which suggested that the overhauled IDEA does
+not go far enough in enabling school authorities to deal with disruptions caused by students with
+disabilities.
+
+        The new bill continues to provide procedural safeguards for students with disabilities, in
+order to protect their right a free and appropriate education. Within that framework, it
+strengthens the ability of teachers and principals to deal with disruptive or dangerous students,
+including those with disabilities. It does this by:
+
+       �       making it easier for principals to remove children with disabilities who bring a
+               gun, weapon or drugs to school, or who pose a danger to themselves, their
+               teachers or their classmates from the classroom, while continuing to provide them
+               with an education in another setting.
+       �       making it easier to address a child's behavior problems early on -- before they get
+               out of hand -- by requiring that these be considered in the development of an
+               Individual Education Plan, and by making the regular classroom teacher a part of
+               the team that develops the plan.
+
+        These changes were worked out in a bipartisan, bicameral group that also included the
+Administration and representatives of the education and disabilities communities. While not
+ideal from anyone's point of view, it represents something that all parties could agree to.
+Especially since education has such a strong culture of regulation, especially in special education,
+ the maintenance of procedural requirements for removing students with disabilities from
+school (which have been at the heart of the federal guarantee of access to education) the bill
+
+
+                                                 3
+administrators.
+
+                                                             Aut~mated Records Management System
+                                                            !lox-Dump Conversion
+
+
+
+
+                                              4
+
+

@@ -1,0 +1,75 @@
+      RECORD TYPE: PRESIDENTIAL      (NOTES MAIL)
+
+      CREATOR: Richard L. Siewert ( CN=Richard L. Siewert/OU=WHO/O=EOP [ WHO 1 )
+
+      CREATION DATE/TIME: 7-JUN-1999 18:32:50.00
+
+      SUBJECT:    Washington Post Story on Privacy and Deadbeat Parents Database
+
+      TO: Melissa G. Green ( CN=Melissa G. Green/OU=OPD/O=EOP@EOP [ OPD I )
+      READ: UNKNOWN
+
+      TO: Thomas A. Kalil     ( CN=Thomas A. Kalil/OU=OPD/O=EOP@EOP [ OPD 1 )
+      READ: UNKNOWN
+
+      TO: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP@EOP [ OPD 1 )
+      READ:UNKNOWN
+
+      TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP@EOP [ OPD 1 )
+      READ:UNKNOWN
+
+      TO: Jim Kohlenberger ( CN=Jim Kohlenberger/O=OVP@OVP [ UNKNOWN 1 )
+      READ: UNKNOWN
+
+      TO: Sarah Rosen Wartell    ( CN=Sarah Rosen Wartell/OU=OPD/O=EOP@EOP [ OPD 1 )
+      READ: UNKNOWN
+
+      TO: Neera Tanden ( CN=Neera Tanden/OU=WHO/O=EOP@EOP [ WHO 1 )
+      READ:UNKNOWN
+
+      TO: David W. Beier ( CN=David W. Beier/O=OVP@OVP [ UNKNOWN 1 )
+      READ:UNKNOWN
+
+      CC: Jennifer M. Palmieri ( CN=Jennifer M. Palmieri/OU=WHO/O=EOP@EOP [ WHO 1 )
+      READ: UNKNOWN
+
+      CC: Julia M. Payne ( CN=Julia M. Payne/OU=WHO/O=EOP@EOP [ WHO 1 )
+      READ:UNKNOWN
+
+      CC: Barry J. Toiv ( CN=Barry J. Toiv/OU=WHO/O=EOP@EOP [ WHO 1 )
+      READ:UNKNOWN
+
+      TEXT:
+      Bob o 'Harrow, the Washington Post reporter who is most closely following
+      the privacy debate is working on an extended piece about the conflict
+      between our database network for deadbeat parents and our effort to
+      protect people's private financial information.
+
+      Here's how the story goes. He has been in touch with our Office of Child
+      Support Enforcement, which is building the database of information to help
+      track down deadbeat parents. He claims their operation is very
+      far-reaching.  They have names, SS #'s, and wage reports for virtually-
+      every working American; these records are currently matched against
+      outstanding child support orders.  This database is also about to
+      incorporate information from virtually every bank and mutual fund in the
+      country about existing accounts. O'Harrow ackowledges that this database
+      is very effective and the additional financial info will make it even more
+      so.
+
+      What he is concerned about is how this stacks up against our commitment to
+      protecting financial privacy. O'Harrow thinks this is probably the
+.   ,
+
+    largest data collection operation in the last 50 years and the largest
+    hi-tech surveillance operation ever. We have put a heavy emphasis on
+    notice, opt-ins and choice in financial records, yet few Americans realize
+    that their wage (and soon their bank and mutual fund records) are being
+    routinely cross-checked in this way.  the only real notice has been in the
+    Federal Register.
+
+    Anyway, he wants some official government (White House) reaction this
+    week.  I don't know who is the definitive point person on this issue, but
+    let me know how we should proceed. O'Harrow's stories tend to get pretty
+    prominent placement, and we should make sure we have a tight response.
+
+

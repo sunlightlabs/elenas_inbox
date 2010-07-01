@@ -1,0 +1,28 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME: 9-DEC-1997 18:38:20.00
+
+SUBJECT:   Re: Does anyone know anything more about this "new study"?
+
+TO: Emily Bromberg ( CN=Emily Bromberg/OU=WHO/O=EOP @ EOP [ WHO]    )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Sky Gallegos ( CN=Sky Gallegos/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+TO: Diana Fortuna ( CN=Diana Fortuna/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TEXT:
+Unable to convert ARMS_EXT: [MESSAGE.D89]MAIL423976242.316
+The following is a HEX dump of the file:
+
+

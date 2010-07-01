@@ -1,0 +1,1254 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Thomas L. Freedman ( CN=Thomas L. Freedman/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME:19-NOV-1998 15:07:46.00
+
+SUBJECT:   Family report
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Jennifer L. Klein ( CN=Jennifer L. Klein/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ:UNKNOWN
+
+CC: Mary L. Smith ( CN=Mary L. Smith/OU=OPD/O=EOP @ EOP    [ OPD ] )
+READ: UNKNOWN
+
+TEXT:
+CEA has attached an explanation of the changes we made that did not
+conform to the comments CEA got from DPC.
+
+
+
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D96]MAIL46142532U.326 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504380070100010A020100000002050000008D1C0200000200004060A49932AAEOCD20AA69
+DB352153A9039A4B7FC965F4321BOBA7BC6688541EDC837FEFA04DC906D21CF71F84DD8798084F
+BC4DE8B2761789103ADC60B09499452F93E9ED0910E29B9F576309ClAC24A6C5F48A74BC16C9F7
+
+
+
+
+o
+
+
+
+
+    Families and the Changing Labor Market
+
+
+                  An analysis by the
+             Council of Economic Advisers
+
+                   November 1998
+
+
+
+
+                             Automated Records Management System
+                             Hex-Dump Conversion
+
+                          Families and the Changing Labor Market
+
+                                     Executive Summary
+
+       American families have been in the midst of change in the last three decades - changes in
+time worked for pay; changes in income and by whom it is earned; changes in family size; and
+changes in how child care and household tasks are accomplished. This report assesses these
+changes and the challenges and opportunities they create.
+
+·      The hours American parents work in paid jobs have increased enormously since 1969,
+       due to a dramatic shift of mothers' time from the household to the labor market. In
+       1969, 38 percent of married mothers worked for pay; in 1996, 68 percent did so. Both
+       married mothers and single parents are working more for pay today than 30 years ago.
+
+·      Average family income has increased as a result of the increase in paid work hours, so
+       that families can purchase more goods and services than in the past. The average
+       American family is better off economically today than in 1969, but has less time for.
+       activities other than work.
+
+·      Not everyone has gained by working harder, however. Since 1969, the top quarter of
+       families gained, while the lower quarter lost and the middle has remained nearly constant
+       in per-capita income, adjusted for inflation. The situation oflower-income families has
+       been improving, however, in the strong economic expansion of the 1990s.
+
+·      At the same time, the share of families with a single parent has grown dramatically since
+       1969. The typical single parent has less than half as much potential income and only half
+       as much total time as two parents have. The rising number of single parents has
+       increased the proportion of families who are "cash-strapped" and "time-poor."
+
+·      The increase in work among women appears to have produced some reduction in the time
+       parents spend with their children, although the evidence on time use within families is
+       limited. Most of the extra time spent earning income has come at the expense of
+       housework, not child care or leisure activities.
+
+·      Increased time in market work among parents raises a key set of policy issues, including
+       the need for flexibility in paid work hours; the need for available and affordable child
+       care; effective ways to support the earnings of families with low-wage earning parents;
+       and the need to encourage two-parent families to form and stay together. In all of these
+       areas, the Clinton Administration has actively worked to improve the situation of
+       American families.
+
+
+                                                Automated Records Management System
+                                                Hex-Dump Conversion
+
+                              Families and the Changing Labor Market
+
+
+I.     Introduction
+
+        Dramatic changes have occurred over the last thirty years in how families combine work
+and family life. During the last three decades, women have devoted more and more time to
+market work. Combined with hourly earnings increases among women, this means women's
+earnings have gone up substantially, while their time available for work in the home has
+declined. In contrast, men's average hours of paid work and earnings have remained relatively
+stable. As a result, families have higher incomes, but they have less time for other activities. In
+short, American families have been in the midst of change - changes in time worked for pay;
+changes in income and by whom it is earned; changes in family size; and changes in how child
+care and household tasks are accomplished. This
+report assesses these changes since 1969 for
+families with children under age 18.
+
+         Two other trends in family life are also
+                                                     ..· '" ·. , , , ., " . , ,
+                                                         : ::
+
+                                                       I: ~ ~ ~
+                                                                 ~
+                                                                        D
+                                                                                        m
+
+
+
+
+                                                                                             D
+                                                                                               nn
+                                                                                             "','      "     ·   ,   ,.,   ·· ,           "   ,   ,   m   "', ,
+
+
+
+                                                                                                                                                            I
+
+
+
+likely to affect the well-being of families with          .·      . ·· ·   ,. , ·  ,...     . ...
+children, occurring along with changes in their income and time allocations. First, the share of
+families with children that are headed by a single parent has increased significantly (see figure 1).
+ Since single parents typically have both lower incomes and less total adult time available for
+work in the home than married-couple families, this trend tends to increase the proportion of
+families who are "cash-strapped" and "time poor." Second, families have decreased in size as
+the average number of children in families with children has declined (see figure 2).
+
+       This paper will examine how families with children are faring in the face of all these
+
+
+
+                                                                                                                           un '"
+changes. Key questions to be addressed include:
+
+·      How much have hours of market work
+       increased for families?
+                                                         1,'["''00" 'nO""
+                                                           I.'          , ···    ,...              '.1. ,1.1               , ··· ,., ·
+                                                                     .. · ,tI"   ····   1.     ·   , ·· "   ······         . . " . , ..   " ...
+
+
+
+·      How have the extra hours worked by families
+       affected family incomes? How have these trends differentially affected families that differ
+       in skill level, minority status, and number of parents in the household?
+
+·      How have these changes in market work and income affected how families use their time
+       in the home? In particular, how have these changes affected parental time available for
+       children?
+
+       Some have argued that Americans are facing more and more of a "time bind" as they
+work longer and longer hours in order to attain an increasing standard of living. 1 Others have
+
+       1   Hochschild (1998); Schor (1991).
+                                                                 Automat~d Records Management System
+                                                                 Hex-Dump Conversion
+                                                 1
+
+argued that, even with increases in hours of paid work, families are not realizing significant
+income gains, or that families are working harder and harder "just to stay in the same place.,,2
+No such "one size fits all" characterization adequately captures the variety of experience in
+different segments ofthe population. Different types offamilies have experienced different
+changes in paid work time and income.
+
+        Overall, we find that parents today are spending more time in paid work. Time available
+for children has declined, but parents have protected child-rearing time by spending less time on
+household chores. For most groups, family income has increased. With fewer children, parents
+are able to buy more goods and services for themselves and their children. The average
+American child - particularly ifhe or she is living in a family headed by a married couple - is
+better off economically today than in 1969.
+
+        There are some groups for whom the picture is not as rosy, however. The continuing
+increase in the share of children living in single-parent families has substantially diminished the
+economic progress that families with children would otherwise have made, limiting both their
+income and their time. Less educated parents, who have not experienced the wage gains of
+other families, are working more hours without an increase in income. It is encouraging to note,
+however, that most of these families have experienced income gains in recent years during the
+strong economic expansion of the 1990s, making it easier for them to effectively combine work
+and family life.                              .
+
+        Underlying and reinforcing the trends toward more paid work time and smaller families
+has been the long-term growth of women's wages. Rising wages pull women into the labor
+market by making it more expensive for them to stay at home, in terms of foregone income.
+Higher wage levels for women in the labor market, combined with other changes in attitudes
+toward market work among women, make it unlikely that families will ever return to the way
+they were in 1969. With both mothers and fathers in the labor market, we have no realistic
+alternative but to help parents balance paid work and family life as effectively as possible.
+
+II.    Trends in Hours of Market Work
+
+       The most dramatic change in the time allocation of families has been in time spent at
+work for pay. Since 1969, both married-couple and single-parent families have substantially
+increased their annual hours of paid work. These increases have come almost entirely from the
+women in these families, who are working more outside the home - more weeks in the year and
+more hours in the week - than they did thirty years ago. However, while the increase in paid
+work time has been widespread, the size of the increase has varied considerably across families,
+depending on the number of parents, their education, whether they have a preschool-age child,
+and their race or ethnicity.
+
+
+
+       2
+           Bluestone and Rose (1997).                           Automated Records Management System
+                                                                Hex-Dump Conversion
+
+                                                 2
+
+        The estimates of annual hours of work presented in this section are based on the March
+Current Population Survey (CPS), a large representative survey of over 50,000 households each
+year. 3 While the CPS is the only large-scale representative s'ample which consistently measures
+hours of work and family incomes on an annual basis and is therefore the standard data set u~ed
+for labor market analyses, some have argued that the CPS may be inaccurate because individuals
+may not"be able to recall accurately their usual hours of work during the last year. 4 In section
+IV of this report we discuss alternative estimates of paid work time based upon "time diaries,"
+which require individuals.to maintain detailed accounts of how they spent their time during a
+day.
+
+        For purposes of this analysis, we use the same definition of a "family" as the Census
+Bureau: all related individuals living together in the same household. We restrict the analysis
+to families whose head is at least eighteen years old and where there is a child under age 18. A
+mother (or couple) and her (their) children living in a household headed by another family
+member are part of the head's family, and an unmarried parent co-habiting with a domestic
+partner is classified as a single parent. Throughout this paper, unless otherwise specified, the
+
+
+
+  ·I::::.i· ~ ~
+      . ,.. ~
+                                                 terms ''wives'' and "married women" refer only to
+ l.Ann~.'Ho\lr.              olW   o,k,'"   ·· ,I.d-Coupl.   Fern   III · ·
+
+
+            [z"'"'1   H   ······
+
+
+
+
+                                                                                      : : !0 0 I I[ [
+                                                                      !
+
+
+
+                                                                                                                         I
+
+those with children.
+        As shown in figures 3 and 4, annual hours of paid work have increased substantially for
+both married-couple and single-parent families. (All families with children under 18 are
+included in figures 3 through 6, including parents with zero hours of paid work.) A person who
+works forty hours a week for 50 weeks a year (a traditional "full-time" job) will work 2,000
+hours in a year. For two-parent families (figure 3) annual hours of paid work increased by 496
+hours (18 percent) from 1969 to 1996; for single-parent households (figure 4) they increased by
+297 hours (28 percent).
+
+
+
+
+          3 We are using the March 1970, 1980, 1990, and 1997 CPS data sets. The data collected each March refer
+to the previous calendar year. Thus we refer to data for 1969,1979,1989, and 1996. We chose those years
+because they represent peak years (or upswing, in 1996) in the business cycle and thus permit valid historical
+comparisons. For 1979, 1989, and 1996, information on annual hours of work was derived from two questions
+which ask how many weeks each individual worked in the previous year and how many hours they "usually worked"
+in the weeks they worked. Multiplying weeks worked by usual hours worked per week provides a measure of
+annual hours of work. The 1969 data are not strictly comparable to later years due to differences in data reporting.
+We have developed an imputation procedure to make these data more comparable to information in later years.
+
+        4   Juster and Stafford (1991); Robinson and Godbey, chapter 4 (1997).
+                                                                                             Automated Records Management System
+                                                                                             Hex-Dump Conversion
+                                                                              3
+
+      Virtually all of the increase in families' market hours of work has come from increases in
+women's hours. Conceptually, the increase in women's hours can be divided into three
+components: more women are employed, employed women are working more hours per week,
+and employed women are working more weeks per year.
+
+       The most dramatic change has been in the percentage of women employed. In 1969,38
+percent of married women with children worked for pay, while in 1996, 68 percent did so - a 79
+percent increase in employment. The increase in employment for single parents has been less
+dramatic: 53 percent worked for pay in 1969 and 66 percent in 1996.
+
+        Average annual hours worked by those who worked for pay also increased over time,
+showing that not all of the increase in hours came simply from more women entering the labor
+force. This increase was much greater for wives
+(who experienced a 24 percent increase) than for
+single parents (who experienced an 8 percent
+increase). This is not surprising since on
+                                                      ·. , ·. " ,., ····· (I,. """, · "" w . . . . , I. , · · · · · ·
+
+
+                                                          . __
+                                                                 ·
+
+
+                                                                  "'l
+                                                              i :::
+                                                                    '" '""".,
+                                                                           ~ " ......... ..
+                                                                   1]. = ::':::::':::"'JTI'.'
+                                                                      ~~__ ~~       ____
+                                                                                    .~=,~
+                                                                                          f
+
+
+
+
+                                                                                                   _
+                                                                                                     .
+                                                                                              ~ ···· ,
+
+
+
+
+                                                                                                      m1j
+                                                                                                          ·· ~ ··· ·
+
+
+
+
+                                                                                                     ~L-~LAL-~
+
+
+
+
+average, single parents in 1969 worked more                L-~~--~~~··~.~~ ~.~~            ..· .·       ~~.7.~~~
+                                                                                                         7 ..   .·. . · ·".. ...   .. ·· ·.
+
+hours per year for pay than wives did in 1996.
+Both hours worked per week and weeks worked per year increased for wives and single parents,
+among those who worked for pay. Each of these components of annual hours, like the total,
+increased more for wives than for single parents. Increases in hours worked per week were
+more dramatic than increases in weeks worked per year.
+
+         While annual hours of paid work by all wives increased greatly - by 576 hours, or 93
+percent - husbands' hours of paid work decreased slightly from 1969 to 1996. This is the result
+of husbands working fewer weeks per year, without significantly changing their usual number of
+hours worked per week. These trends are consistent with estimates reported elsewhere in the
+literature, based on a variety of data sources. s
+
+        The increase in families' hours of paid work has been widespread throughout the.
+population. All types offamilies - whether defined by the head's education level, spouse's
+education level, presence of young children, or race or ethnicity of the household head - have
+experienced substantial increases in hours of paid work from 1969 to 1996. In virtually every
+case, the increase in family hours of paid work reflects increases by wives and by single parents,
+rather than by husbands.
+
+        While the basic tJ;'ends have been similar, however, the magnitude of the increase in hours
+of paid work has differed substantially across different demographic groups. In part, this is
+
+
+        5
+           Rones, Ilg and Gardner (1997) and Leete and Schor (1994) used CPS data, Bluestone and Rose (1997)
+used data from the Panel Study ofIncome Dynamics, and McGrattan and Rogerson (1998) used decennial Census
+data. All of these studies show increases in hours of work for women and decreasing or stable hours of work for
+men when nonemployment is taken into account.
+                                                                             Automated Records Management System
+                                                         4                   Hex-Dump Conversion
+
+because some groups, such as women with preschool-age children, had lower hours to start with
+and therefore more room for expansion than others.
+
+·        Families whose head had gone to college have increased their hours ofpaid work much
+         more than those whose head had less education (see figure 5). For married couples with
+         a college-educated husband, annual hours of paid work increased by 644 hours (23
+         percent) - more than twice the increase for couples in which the husband had a high
+         school diploma or less. The difference was due to the wives' hours increasing more and
+         the husbands' hours decreasing less in the college-educated families. For single parents
+         with a college degree, hours of paid work increased by 322 hours (20 percent), compared
+         to 165 hours (16 percent) for single parents with a high school diploma or less.
+
+
+
+
+·        Families with a young child increased their hours ofpaid work more than those with only
+         school-age children (see figure 6). For single parents with a child under age five, hours
+         of paid work increased by 400 hours (50 percent), compared to 246 hours (21 percent) for
+         single parents without a young child. For married couples, hours of paid work
+         increased by 537 hours (20 percent) for families with a child under age five, compared to
+         457 hours (15 percent) for families without a young child.
+
+·        Married couples with a white or black husband increased their hours ofpaid work nearly
+         twice as much as married couples with a Hispanic husband. By contrast, single Hispanic
+
+
+        :y:::::::::~;:::::::;
+         parents increased their hours slightly more
+
+
+
+paid work? Trends in wages and trends in paid
+                                                          ·. , ·. "·. '" , "" .. , , .... w . . . . . . , , · , ., ·
+
+                                                                  .~,~.:. rf- - - 'IJ"'~i'- l."_..._· ~.=.',--'-, ,_, _., -"~ :·_ ·:'_· ~
+                                                                        t
+                                                                        ""LJ   .......................... .
+                                                                                                                           :·':...J'::L';
+                                                                                                                       I J.... , ;
+                                                                                                                         ; ",               ib,,-:_;·
+                                                                                                                                            ...     ;L::_:'-I"
+
+
+
+work hours influence each other. Rising wages
+tend to draw more individuals into the labor force, while falling wages tend to reduce
+participation. In turn, more work experience leads to faster wage growth, and vice versa. As a
+result, wages and paid work time tend to move up (or down) together, in a virtuous (or vicious)
+cycle.
+
+         Trends in hours of paid work for both men and women have roughly paralleled the trends
+in their wages since 1969, discussed below (in section III-A). 7 However, the magnitudes ofthe
+
+
+        . 6 Trends for Hispanic families are difficult to interpret because changing immigration patterns resulted in
+significant chang.es in the composition of the Hispanic population over this time period.
+         7                             .
+             Blank, chapter 3 (1997); Juhn & Murphy (1997).
+                                                                                        Automated Records Management System
+                                                          5                             Hex·Dump Conversion
+
+changes in paid work time are still not completely understood, as they are not easily "explained"
+by changes in key economic variables. 8 The increases in paid work among women seem to be
+much more closely related to increases in their own wages than to the changes in their husband's
+wages over this period. Declining male wages do not appear to be the main reason why women
+are increasing their market work. 9 Increased work among women may also be affected by such
+hard-to-measure factors as changes in assumptions about women's role in the family, diminished
+discrimination against women in the workplace, or falling barriers to women entering
+non-traditional occupations. Highly educated women have benefitted more from diminished
+discrimination than have women with less education, as higher-level professional and
+management jobs have opened up to them. Whatever the reason, large increases in market work
+hours among women have substantially changed the time allocation and income of families.
+
+        Are there constraints in the labor market that have led workers to choose more work -
+hours than they would want? For instance, perhaps some full-time workers would rather work
+part-time. A worker's decision about how many hours to work on ajob is determined by a
+number offactors. When workers accept ajob, they are agreeing to a formal contract of hours
+and wages as well as to an implicit contract about career development. They are jointly
+choosing the type of work they do, the environment in which they do it, the wages and benefits
+they earn, the job's future prospects, and th~ hours they work. It is possible that employees are
+working more hours than they would like, but that they value the other characteristics of their
+jobs sufficiently to work those extra hours.
+
+
+III.   Trends in Family Income
+
+        The upward trend in hours of market work raises questions about trends in family
+well-being. A family's economic well-being is typically measured by its income. Earnings are
+the largest part of family income, which also includes transfer payments such as welfare and
+unemployment insurance, interest, dividends, and other unearned income such as child support.
+Earnings, in tum, are equal to hours worked for pay multiplied by the hourly wage. Rising
+work hours should lead to rising incomes, but the magnitude of this effect depends on changes in
+wages and other income sources that might be occurring at the same time.
+
+
+A.     Wages
+
+
+
+
+       8   Blau (1998), Danziger and Reed (1997).
+
+       9
+           Juhn and Murphy (1997).
+                                                                   Automated Records Management System
+                                                                   Hex-Dump Conversion
+                                                    6
+
+         During the same period in which women's hours of paid work have increased,
+inflation-adjusted wages have been increasing for women on average .. Female college
+graduates' wages have risen more than wages arnong the less educated. In fact, female high
+school dropouts' wages have stagnated or even declined slightly. Men's wages have grown very
+little on average. They have fallen for men without college degrees and remained virtually
+constant for men with at least a BA. 1O Because fringe benefits have grown since 1969, workers'
+hourly compensation (including the value of fringe benefits) has improved more than their wages
+alone.
+
+        As we discussed above, these wage changes are positively related to changes in hours of
+work. More educated women have shown the largest increase in their market work, and their
+earnings have gone up even faster as wages and hours of work rose together. Less educated men
+have experienced both declining wages and declining hours of work (due to decreased labor force
+participation and increased unemployment), leading to earnings reductions.
+
+
+B.      Total Family Income
+
+
+
+
+         10 Blau (\998). These are the trends in mean weekly earnings of full-time workers aged 25-64. Other
+wage measures such as average hourly earnings or median weekly earnings show slightly different trends, but all
+show a sirnilar relationship between education levels.                      Automated Records Management System
+
+                                                                        Hex-Dump Conversion
+                                                     7
+
+          Putting the trends in wages and hours together, to what extent have increases in hours of
+  paid work within families translated into increases in family income - the measure we ultimately
+  care about? To answer this question, we present estimates of average family incomes, by
+  income component, to provide one assessment of how the changes in hours have affected the
+  standard of living of families in the United States. 11 Our income measure, as described earlier,
+  is based upon before-tax cash income only, including cash benefits such as welfare and
+  unemployment insurance benefi.ts, and does not include other family resources, such as fringe
+  benefits, food stamps, and the Earned Income Tax Credit (EITC). While these other resources
+  and taxes are important, they are difficult to measure accurately or consistently for individual
+  families.    Because food stamp use grew rapidly in the 1970s and the EITC expanded greatly in
+  the 1990s, the income measure we use omits more of the resources available to low"income
+  families today than in the 1960s. Our estimates therefore understate the gains made by
+  low-income families since 1969. 12
+
+          Trends in income and in the various components of income (earnings, government
+  transfers, other sources of income) have varied across different types of families. 13
+
+  1.      Trends in Income by Family Structure
+
+          Both married-couple families and single-parent families achieved increases in
+  inflation-adjusted income from 1969 to 1996 (see figures 7 and 8). However, even though
+  single parents had substantially higher rates of growth in paid work hours, married-couple
+  families experienced a much larger average increase in income.
+
+
+
+
+I ..                                                   ·       The incomes of married-couple families
+I ..                                                   increased by more than their increase in paid work
+i"                                                     time. Their average family income increased by
+                                                       almost a third from 1969 to 1996 ($14,800 in 1996
+                                                       dollars), while their annual hours of paid work
+           increased by less than a fifth.
+
+           11 To adjust for changes in prices over time, these estimates use the CPI-U-Xl price index measure, which
+  is commonly used in federal statistics such as the current poverty threshold. Some have argued that this measure
+  overestimates the actual rate of change in price levels over time. Estimates that assume a lower rate of inflation
+  produce higher estimates of inflation-adjusted income growth over time.
+
+           12   For estimates of changes in family incomes using a broader defmition of income, see Levy (1996).
+
+           13 Throughout the following analysis we use mean (that is, average) income, rather than the median or
+  another indicator of the distribution. Changes in mean income can be decomposed into changes in means of the
+  components of income, whereas changes in the median cannot. There has been a more positive change in mean
+  income than in median income, as disproportionate growth in the upper tail of the income distribution pulls up the
+  mean without affecting the median.
+
+Automated Records Management System                       I ..
+                                                          I
+Hex-Ownp Conversion                                       i~
+
+
+·      For single-parent families, incomes increased by much less than paid work time. They
+       also increased much less than the incomes of married-couple families over this period,
+       after adjusting for inflation. Average income of single-parent families increased by less
+       than ten percent ($1,900 in 1996 dollars) from 1969 to 1996, while their paid work hours
+       increased by more than a quarter.
+
+        Increases in the earnings of wives and single parents generated most ofthe income
+growth from 1969 to 1996. Single parents' earnings increased more than their total family
+incomes did, as earnings increases were offset by a forty percent decline in average government
+cash transfer payments. For two-parent families, increases in the wives' earnings represented
+two thirds of the increase in family income, with the remainder attributable to an increase in the
+husbands' earnings and an increase in unearned income from sources other than government
+transfer payments.
+
+         Among both wives and single parents, their increased earnings reflect an increase in
+hours of work and an increase in hourly earnings rates. Rising earnings among wives reflected a
+startling 93 percent increase in their hours and a 53 percent increase in their earnings per hour..
+For single parents, hours of work increased by 28 percent, while hourly earnings increased by 18
+percent.
+
+2.     Trends in Income by Other Demographic Characteristics
+
+       As with hours of paid work, trends in average family incomes differ substantially across
+groups of families classified by education, race or ethnicity, or presence of young children.
+Income growth has been greater for families whose head is highly skilled, for families headed by
+a white person, and for families with preschool-age children.
+
+·      More-educated families had greater income growth from 1969 to 1996. Married
+       couples' income grew by almost a third if the husband had a college education, but less
+       than ten percent if the husband had a high school diploma or less. For single parents,
+       inflation-adjusted incomes grew by eight percent if they had a college degree, but
+       incomesfell by five percent for single parents with a high school diploma or less. Much
+       of this difference in income growth reflects larger earnings increases for highly skilled
+       wives and single parents, and larger earnings deClines for low skilled husbands. Erosion
+       of the purchasing power of cash welfare benefits also helps explain why the
+       inflation-adjusted incomes ofless-educated single parents fell.
+
+·      Average income growth for whites was substantially higher than for blacks or Hispanics.
+        Among families headed by a white person, average incomes grew by almost twenty
+       percent for both married couples (19 percent) and single parents (17 percent) from 1979
+                14
+       to 1996.    For blacks, average incomes grew by less than ten percent for both two-parent
+
+       14   Our race and ethnicity comparisons begin in 1979 because the CPS did not identify Hispanics in 1969.
+
+                                                                     Automated ~pr"rds Management System
+                                                        9
+                                                                     Hex-Dump \",olly.:r.ion
+
+         families (9 percent) and single-parent families (6 percent). Finally, for Hispanics,
+         average incomes fell by almost five percent for married couples (4 percent) and single
+         parents (3 percent). These results are striking, given the relatively large increases in
+         hours worked for pay by Hispanic single parents over this period. An increasing share of
+         recent immigrants with lower education and wage levels in the Hispanic population helps
+         explain why Hispanics' incomes fell. In addition, wages and cash welfare benefits
+         declined.
+
+·       Families with a child under age five had greater average income growth than families
+        with older children. For married couples, average incomes increased by 38 percent for
+        families with a child under age five, compared to 27 percent for families with only older
+        children. For single parent families, mean incomes increased by 17 percent for those
+        with young children, but by just 6 percent for families with only older children. 15
+
+3,       Recent Trends in Family Income
+
+        Trends in family income from 1992 to 1996 are considerably more favorable than the
+longer term trend since 1969. Even families headed by single parents with a high school
+diploma or less, whose income deteriorated from 1969 through 1992, made income gains from
+1992 to 1996 during the sustained period of economic expansion under the Clinton
+Administration.
+
+
+C, The Distribution of Family Per Capita Income
+
+        To assess the implications of income growth for families with children, we need to take
+account of the increasing share of single-parent families, whose incomes are lower and grew
+much less than the incomes of married-couple families (see section III-B above). We also need
+to consider the decrease in family size, because a given family income provides more resources
+per child when there are fewer children in the family. Moreover, because less-skilled,
+lower-income parents have had slower income growth than highly skilled, higher-income
+parents, it is important to consider the trends in income for lower-income and higher-income
+families, not just the average family.
+
+        Figure 9 presents estimates which incorporate the combined effects of the increasing
+share of single-parent families and decreasing average family size, to assess changes in incomes
+for families with children. To reflect changes in the share of single-parent families, the diagram
+
+
+                                                                                                                   n
+shows changes for the combined family income
+distribution of single-parent and two-parent families.    ::::: " .,'" ',m '" '"" m, . , ' Co'
+                                                                                             ..                               "'I
+ In addition, as a crude way of adjusting for the                I :::::
+         15
+                                                                    '::::
+                                                                        ·
+                                                                              00
+                                                                             · ··   I   '   ·· ,
+                                                                                                    DO
+                                                                                                   ' ···   ,...
+                                                                                                                   _
+                                                                                                                  '"'"' I.t
+
+  .         Of course, having a younger child often implies being a younger pareiit." We           do' o.'ot controi lor 'the age
+of the parent in this analysis.
+
+                                                                        Automated Records Management System
+                                                        10              Hex-Dump Convel'iion
+
+differences in family size between two-parent and one-parent families and for the decreases in
+family size over time, family incomes are presented in per-capita terms. (This is a crude
+measure because it does not cost twice as much to support two people as one. On the other
+hand, two do cost more to support than one. The true measure of equivalent income for
+different family sizes lies somewhere between per capita and total income.) The chart shows the
+change in average income per person for the lowest quarter, the highest quarter, and the middle
+half of the distribution of all families' per-capita incomes.
+
+         These estimates indicate that while there has been substantial per-capita income growth
+for high-income families, incomes have been either stable or decreasing for lower- and
+middle-income families when 1996 is compared with 1969. During the economic expansion
+from 1992 to 1996, however, lower-income families also experienced rising per-capita incomes.
+
+·      Since 1969, the top quarter offamilies gained, while the lower quarter lost and the
+       middle half remained nearly constant in per-capita income terms, after adjusting for
+       inflation. The top quarter gained 20 percent ($4,400 in 1996 dollars) from 1969 to
+       1996, while families in the lower quarter of the income distribution had declines of 11
+       percent ($410). For families in the middle half of the family per-capita income
+       distribution, average family incomes have remained relatively constant, with income
+       gains of 4 percent ($452).
+
+        Since family size has been decreasing, it follows logically that increases in mean income
+are less dramatic, and decreases are more dramatic, when calculated on a family basis rather than
+on a per capita basis.
+
+
+IV.    How Do Families Respond? Implications for Family Time Use Outside the Job
+
+        The trends in hours of paid work and family incomes described above have had a major
+impact on family life. Increasing hours of paid work may mean higher incomes, which provide
+more resources for parents and children. But increasing paid work time also means less time for
+other activities. The evidence on time allocation to non-market activities is much more limited
+than the data on hours of paid work and income and therefore conclusions must be more
+tentative.
+        The CPS, with its larger sample size, only allows us to examine hours spent on paid work
+(and therefore hours available for other activities) along with changes in family size and
+structure. We have limited data on what people actually do with the time they do not spend on
+paid work,mainly from time-use diary studies. These studies have complete data only for a
+small sample of people. We begin with the CPS data regarding basic trends and then discuss the
+more detailed time-use diary data.
+
+
+A. Trends in Current Population Survey Data                 Automated Records Management System
+                                                            Hex-Dump Conversion
+
+                                               11
+
+        What can the CPS tell us about how the changes of the past several decades have affected
+the number of home hours that families have available for caring for children and maintaining a
+household? On the one hand, families may have less time available for child care because they
+are spending more time in the labor market and because there is a growing share of single parent
+families. On the other hand, the number of children per family has fallen, which would tend to
+increase parental time per child.
+
+
+time  th!i~;:o~~a~~:~~~;::~~iSa~~y~a:~v:~:~le
+to spend with all their children, after subtracting
+                                                         'I'          ::::.1"·'
+                                                                       "'0' ..
+                                                                             ,,,' D"     '.~ :D""'D~'"""""
+                                                                                                      "0"     '0"""        I
+time spent at paid work and allowing eight hours per
+day for sleep. We emphasize the fact that this is            ' . ,"',j Ii......... . ,'...., '.',j:.. '.',,','.' roo·.·.
+                                                                                           ...
+only time potentially available in the home; there is no information in the CPS on how parents
+actually spend their non-market work time. Figure 10 shows that from 1969 to 1996, both
+married couple and single parent families experienced a decrease in time not spent on paid work.
+ The overall decrease is greater than the decreases within either family type because the
+proportion of single-parent families increased over this period.
+
+        The other extreme is to assess changes in total parental time potentially available per
+child. This measure is obviously misleading because it presumes that a single child who spends
+two hours a day with her parent gets as much parental attention as two children who spend four
+hours a day with their parents. While this assumption is clearly false, it gives us a lower bound
+for the impact on children. Despite increases in paid work hours for each type of family, the
+amount of non-market time available per child has increased for both married-couple and
+single-parent families since 1969. When single-parent and married-couple families are added
+together, however, the amount of family time per child has remained relatively constant. This
+reflects the fact that a shift toward more single parents tends to decrease parental time available
+to children, because it reduces the number of custodial parents available to spend time with
+children.
+
+       This extreme case suggests that, at best, parents have about as much time available to
+spend with their children as before, while under more realistic scenarios, the time potentially
+available for them to be at home with their children has declined. Interpreting what these
+changes in potential time available at home mean for actual time spent with children is difficult,
+however.
+
+
+B.   Ti~e    Use in the Home Estimated from Time-use Diaries
+
+        Fortunately, we have an alternative - and somewhat more informative - source of data:
+time-use diary surveys, which ask respondents to keep a detailed diary recording how they spend
+their time during a specific day. These surveys provide an alternative, more accurate method of
+measuring paid work time, as well as time spent in various kinds of unpaid activities, such as
+commuting, housework, child care, shopping, recreation, and personal care. The trends in hours
+
+
+                                                           12              Automated Records !'-.fanagement System
+                                                                           HeK-DIIIDp Conversion
+
+of paid work time and non-market time described above are based on data which report
+individuals' estimates of their usual hours worked per week in the previous year. Such estimates
+may not accurately portray the actual hours worked for pay because the question is somewhat
+ambiguous and respondents may not be able to report accurately on a "usual" week in the few
+minutes allowed during the CPS interview. Time-use diary measures tend to show shorter paid
+work hours and sometimes even different trends than the CPS.16
+
+        Unfortunately, ~;uch time-use diary surveys are conducted much less frequently and with
+much smaller samples than the CPS. The latest available data were collected in 1985; results of
+a survey done in 1992-94 are not yet available. Because of the small samples, time-use diary
+surveys CaTInot be used to examine trends for smaller subgroups of the population, such as single
+parents or blacks. Moreover, the individuals who complete the diaries may not represent the
+U.S. population as well as the CPS sample does. These surveys do, however, provide
+informatiori about how much time is spent in different types of unpaid work at home, such as
+child care and housework, in leisure pursuits, and sleep.
+
+
+
+
+  T·.'.·.:~·~.'.::·.. ~:· : ·;~·.:.
+ I: [: ~iii Ii
+ !                                                            .....
+
+
+                                                                         iii
+                                                   !·..'··.·'.: :.'.1'.........                    '..   I         Tiiji::..~ .' . . ~i1 iii.J
+                                                                                                                   :
+                                                                                                                                     .        ~::::~ ':!.': ·..."....· :..' ..'...
+     ·   · .. ,'.!.'.'. '.','.. ',.   M   ··   '.':.',',.!:: ~ .·   II   ' . " ". . . .   ~   ·· "· ·              ·   · .' ,',: .'. ~ '.' .~.     .. · ! : ! ~ ,! :........   · I ! ~, ~ : : ·
+
+
+
+
+1. Averages
+
+
+
+
+         16 Robinson and Godbey (1997), chapter 4.
+                                                                                                                                       Automated Records Management System
+                                                                                                                                       Hex-Dump Conversion
+                                                                                                              13
+
+        Time-use diary surveys suggest that most of the increase in women's formal working
+hours between 1965 and 1985 was offset by decreases in time spent on household chores (see
+figure 11). These decreases were coupled with increases in time spent on household chores by
+both employed and nonemployed men over this period (see figure 12). There was very little
+reduction in time spent with children, and "free time" spent watching TV actually increased. 17
+These trends are rather surprising, since they are not consistent with the widespread feeling that
+leisure time has become less available.
+
+         One possible way to reconcile these numbers with a general sense of "time stress" may be
+~o  note that many women have moved from the "nonemployed" to the "employed" category,
+ which dramatically changes their time-use pattems. In any single year, employed women spend
+ about 45 percent less time on both child care and
+ household tasks than women without paid jobs, but still
+
+
+
+                                                             'n 8:rrn
+ have less free time. 18 Time-use surveys conducted in the
+ U.S. in 1965, 1975, and 1985 show that employed
+ mothers spent virtually the same amount oftime taking
+ care of children in 1985 (6.7 hours per week) as in 1965       ...... ,.w ..
+                                                                     ,"~   0 .. , · . . . . . "   I............... ""1
+                                                                                                                         I
+ (6.3 hours per week). Mothers without paid jobs spent
+ 12 hours a week on child care in both years. (But note that nonemployed women are more likely
+to have young children.) This is consistent with other analyses of these time-use slirveys, which
+ show no decline in child care time within mothers' employment category.
+
+       When the shift of women into employment (shown in figure 13) is taken into account,
+however, mothers' time in child care declined by 10 percent overall, from ten to nine hours per
+week (see figure 11). Fathers did not make up the difference; their child care time remained
+about 2.5 hours per week from 1965 to 1985 (see figure 12). This suggests that the increase in
+market work among women has reduced their time with children.
+
+        Time spent in personal care and commuting to work did not change much. The time-use
+diary estimates of commuting time are corroborated by Census department data. A Federal
+Highway Administration survey found that the average commute time increased by 2.5 minutes
+(14 percent) between 1983 and 1995. Surprisingly, "free time" activities increased by 4 to 5
+hours per week for both men and women; due almost entirely to an increase in
+television-watching (including watching TV with children). What "gave" for women was
+household chores.
+
+         The time-diary results above are from descriptions of adults' time. Recent time-diary
+evidence sheds new light on how children spent their hours in 1997. The most striking finding
+is that two-parent families on average spent remarkably similar amounts of time engaged with
+
+
+       17 Robinson and Godbey (1997), chapters 6 & 8.
+
+
+       18 Robinson and Godbey (1997), pp.102-3.            Automated Records Management System
+                                                           Hex-Dwnp Conversion
+                                                    14
+
+  their children regardless of whether one or both parents were working. Dual earner couples
+  spent an average of 21 hours per week engaged with their children, while single-earner
+  two-parent families spent 22 hours per week, only slightly more time, engaged with their
+. children.
+
+
+2. Differences among families
+
+        These estimates are based on average trends. They may miss important distinctions
+between high- and low-income groups, or between single-parent and two-parent families. The
+effect of women's increased hours in the labor market on families is likely to vary between
+college-educated parents, whose incomes have been rising because their hours and wages both
+increased, and less-educated parents, whose incomes may have fallen 4espite increased work
+hours because of falling wages. It may be harder for families with more limited resources to cut
+back on housework by buying time-saving services and appliances. The effect of women's
+increased hours in the labor market on families is also likely to vary between married couples,
+who can shift some housework and child care from working wife to husband, and single parents,
+who cannot. Within married-couple families, moreover, there are likely to be differences across
+education levels in this shifting of tasks, as child care time by fathers rises with their education.
+Unfortunately, the time-use diary survey samples are too small to be broken down into these
+subsamples.
+
+
+v.        Key Policy Issues That Relate to These Changes in American Family Life
+
+         The enormous changes in the ways American families function create new opportunities,
+but also present new policy challenges, to private employers as well as to the government.
+There are four key areas of policy that are important in helping families better balance work and
+family life: improving access to high quality, affordable child care; increasing the flexibility of
+market work; supporting income among low-income working families; and encouraging the
+formation and maintenance of two-parent families.
+
+
+A.      Increasing the Flexibility of Paid Work
+
+       The effect of parents' market work time on children also depends on when and where it is
+performed. By shifting from work in the home to work in the market, many women find
+themselves with far less flexible schedules to respond to other family needs. Key employment
+arrangements that affect hours flexibility include:
+
+·       Flexible work arrangements (defined as allowing workers to vary the time they begin or
+        end work) are an increasingly popular approach to decreasing the tension between work
+        and family. In 1997, 28 percent of full-time wage and salary workers had flexible work
+
+                                                               Automated Records Management System
+                                                 15            Hex-Dump Conversion
+
+       schedules. This was up sharply from 15 percent in 1991, the most recent prior year when
+       data were collected. 19
+
+·      Shift work may enable parents to share child care more easily by working different shifts.
+       If shift work is to ease the task of combining paid work and child care, ho\yever, the
+       choice of shifts must be voluntary. For those workers who cannot determine their own
+       schedules, the combination of shift work and work in the home is a potential source of
+       stress and expense. Non-standard working hours may make it difficult both to find time
+       to spend with children when they are awake and not in school and to arrange for child
+       care while working. In 1997, 83 percent offull-time wage and salary workers were on
+       regular daytime schedules, 4.6 percent were on evening shifts, 3.9 percent were on
+       employer-arranged irregular schedules, 3.5 percent were on night shifts, and 2.9 percent
+       were on rotating shifts.
+
+·      Working at home/or pay can sometimes increase parents' flexibility. In 1997,3.3
+       percent of all wage and salary workers were doing work at home for pay, up from 1.9
+       percent in 1991. An additional ten percent of all wage and salary workers in 1997 were
+       doing work at home without receiving extra pay for it. Nearly 9 out of 10 wage and
+       salary workers who were paid for work at home were in "white-collar" occupations.
+       Single parents, particularly single mothers, had much higher work-at-home rates than
+       single workers without children.
+
+        Maintaining high productivity need not be inconsistent with allowing flexibility in work
+arrangements, as many private sector employers have discovered. The Federal government has
+led by example, instituting "flextime" which allows employees some discretion in when they
+work their allotted hours. The President has proposed a flextime initiative that would allow all
+workers to take "time-and-a-half' overtime compensation in the fonn of compensatory time
+whenever they need it for family and medical leave purposes, instead of cash.
+
+       This Administration has played a major role in increasing flexibility among families by
+helping enact the Family and Medical Leave Act (FMLA), which enables workers to take up to
+ 12 weeks unpaid leave to care for a new baby or ailing family member without jeopardizing their
+jobs. Since its inception in 1993 millions of workers have taken advantage of the FMLA to
+spend necessary time with their families. The President also proposed expanding FMLA to
+allow workers up to 24 hours per year for parent-teacher conferences or to accompany a child,
+spouse, or elderly parent for routine medical and dental care.
+
+
+
+
+B.     Give All Parents, Especially Low-Income Parents, More Choices
+
+
+       19   Data on alternative work arrangements comes from the 1991 and 1997 May supplements to the CPS.
+
+                                                                     Automated Re~l)rds \fanagement System
+                                                      16             Hex-DUllip CUll version
+
+
+        While incomes have been rising for most people, families at the bottom of the income
+distribution, particularly the less educated and single parents whose inflation-adjusted incomes
+were lower in 1996 than in 1969, still face serious economic hardship. For many low-income
+parents, working harder and spending less time with their families is not a choice but a necessity.
+Recent policy changes that have helped these families cope include:
+
+·      Expansions in the Earned Income Tax Credit (EITC); to assure that persons who work
+       hard on their jobs can take home enough money to support their families;
+
+·      Providing a $500 per-child tax credit to help offset the expense of raising children;
+
+·      Increases in the minimum wage from $3.35 in 1990 to $5.15 in 1997;
+
+·      Expanded child support enforcement provisions, which help ease the economic burden on
+       single mothers and enforce responsibility for economic support of children on both
+       parents;
+
+·      Major welfare reform legislation which has helped single mothers move from welfare to
+       work;
+
+·      Employer tax credits to help create jobs for welfare recipients;
+
+·      Substantial expansions in support for vocational education, community college, and skill
+       development among persons in lower-income families, including the creation of Hope
+       Scholarships, an 80 percent increase in the maximum Pell Grant since 1993, and the
+       passage of the Workforce Investment Act of 1998.
+
+       In addition, it is hard to underestimate the importance of a strong economy and steady
+economic growth, which creates jobs, reduces unemployment, and raises wages for all workers -
+especially the less skilled who are most affected when jobs are scarce.
+
+
+C. Improving Access to High Quality, Affordable Child Care
+
+        Most parents adjust to an increase in their paid work time by increasing their use of child
+care providers other than themselves. As mothers go to work, families have more income to
+spend. Some of it can be spent on paid child care. The availability, cost, and quality of child
+care which can be purchased in the market affects the employment decisions and financial status
+of families.
+
+         The primary child care arrangements for preschool-age children of employed mothers in
+the fall of 1994 were divided roughly equally amongcare in the child's home (by a relative or
+nonrelative), care in another home (by a relative or nonrelative), and care in an organized child
+                                                                 Autom~t~1 R~~Nds Management System
+                                                17              Hex-ullW}' i..,,,,,.ersion
+
+care facility. Since comparable data were first collected in 1986, the trend shows a relatively
+constant proportion of children receiving care in their own homes, relatively fewer children
+receiving care in another home, and relatively more children receiving care in an organized
+facility. The share of monthly income spent on child care by those purchasing this service rose
+from 6.3 percent to 7.3 percent between 1986 and 1993?0
+
+       This Administration has consistently emphasized the importance of child care availability
+and quality. Since 1993, child care subsidies for low-income families have grown by 80 percent.
+ In addition, the Administration's budget proposal for the 1999 fiscal year included $5.1 to
+increase the Child and Dependent Care Tax Credit for three million families eaming under
+$60,000 a year.
+
+
+D~      Encouraging Two-Parent Families
+
+        When two-parent families form and stay together in a supportive relationship, many of
+the economic and emotional stresses of balancing work and family are eased. Two-parent
+families have greater eamings potential and more potential time to spend with their children than
+do single-parent families. Among the recent policies which have helped maintain married
+couple families, the eligibility rules for Medicaid and other programs have been changed so as
+not to penalize two-parent families for staying together.
+
+
+VI.     Conclusion
+
+        A massive shift of women' s time from the home to the labor market has occurred in the
+last generation. For most families, increasing incomes have accompanied mothers' increasing
+paid employment, although the shift from married couple to single parent families has reduced
+both income and time available for many children. While smaller family sizes have helped offset
+the increase in market work, many parents still find it difficult to balance jobs and children.
+Raising children is not easy; even in the past when more women stayed at home while their
+children were young, many of them found full-time homemaking extremely stressful.
+
+        Single parents face the most difficulties. They have only half as much total time
+available as two parents, and they typically have less than half as much earning power as a
+married couple because women's wages are lower than men's. Lackofincome limits most
+single parents' ability to purchase time-saving goods and services and high quality child care.
+Thus, they may face a severe time and money bind.
+
+
+        20 The earliest comprehensive data on families' child care arrangements was collected by the Bureau of the
+Census in 1977. The earliest data that are compatible with the most recent data are from fall 1986. We use the
+1986 data for consistency.
+
+                                                                        Autotnated Records Management System
+                                                                        ltex-Dwnp Conversion
+                                                       18
+
+        Men without college educations have faced declining wages. Increases in work among
+their wives has helped maintain their families' standard of living, but these increased hours of
+market work have not resulted in income gains. This also limits the ability of these families to
+afford child care. Moreover, less-educated workers are less likely to have jobs that permit
+parents to arrange their hours to accommodate family needs.
+
+        Better educated parents, whose increased time in the labor market has been rewarded with
+considerably higher incomes than in 1969, can better afford to pay for high quality child care,
+household help, and other time-saving goods and services. Married couple families, particularly
+those where the husband has a college degree, have seen substantial improvements in their
+economic situation over the last three decades. Yet, even these couples often express
+dissatisfaction with the stresses involved in balancing work and family.
+
+        It may be that changing social norms have increased the income requirements for raising
+children, making even married women in families whose income has gone up over time feel that
+they cannot afford to stay at home as their mothers did. Moreover, even high-income two-earner
+couples may find that their jobs entail longer hours and a more demanding, stressful pace than
+they would freely choose, although these jobs may also provide the income, long-term career
+prospects, and personal fulfillment that they desire. But a job comes as a total package, and
+these families cannot give up some income for more time at home without giving up the rest of
+the package, which they find attractive on the whole. Therefore they, too, are looking for help in
+balancing the demands of job and family.
+
+        The changes in parents' paid work time and family size of the past three decades have
+been driven by the long-terin increase in women's wages and job opportunities; hence they are
+not likely to be reversed. These increases in women's earning power may have other long-term
+positive effects besides their immediate effect on family incomes. As wives and husbands
+become more able to earn similar amounts in the labor market, it encourages a more equal
+balance between them in terms of responsibilities for earning money, household tasks, and child
+care. Fathers are becoming more involved in child-rearing than in the past. Women are better
+able to support themselves and their children in the event of widowhood or divorce. Moreover,
+as women gain more (and more continuous) market work experience, their earning potential also
+increases. Young women, expecting to spend more time in the labor market, increasingly
+prepare themselves for more skilled and higher-paying jobs. These developments all work to
+increase the long-term security of women and their families.
+
+         In the meantime, both employers and public policy-makers need to continue to search for
+creative ways to help productive workers also function as effective parents and responsible
+family members. Iffamilies and children are going to withstand the stresses ofthese trends,
+employers and public policy makers have a responsibility to do everything they can to help
+parents balance work and family. Workplaces and work hours must become more flexible,
+parents need more supports and more choices, and more children need to live with both parents
+in their lives.
+
+                                                          Automated R~cords \fanagement System
+                                               19         Hex-DLIll1J! '-10101 ,sI.ion
+
+                                          References
+
+
+Blank, Rebecca (1997). It Takes a Nation. Princeton: Princeton University Press.
+
+Blau, Francine, "Trends in the Well-Being of American Women, 1990-1995," Journal of
+Economic Literature, March 1998, pp.112-165.
+
+Bluestone, Barry and Stephen Rose, "Unraveling an Economic Enigma: Overworked and
+Underemployed," The American Prospect, March-April 1997, pp. 58-69.
+
+Danziger, Sheldon and Deborah Reed, "Working Longer and Earning More: The Changing
+Contribution of Wives' Earnings to Family Income," February 1997.
+
+Hayes, Cherly, John Palmer and Martha Zaslow (eds). 1990. Who Cares for America's Children?
+Child Care Policy for the 1990s. Washington DC: National Research Council Press.
+
+Hochschild, Arlie Russell (1998). The Time Bind: When Work Becomes Home and Home
+Becomes Work. New York: Henry Holt & Company, Inc.
+
+Juhn, Chinhui and Kevin Murphy, "Wage Inequality and Family Labor Supply", Journal of Labor
+Economics, 1997, vol 15(1), pt. 1 pp. 72-97.
+
+Juster, F. Thomas and Frank P. Stafford, "The Allocation of Time: Empirical Findings,
+Behavioral Models, and Problems of Measurement," Journal of Economic Literature, Volume
+XXXIX (June 1991), pp. 471-522.
+
+_ _ _ _ _ (eds). 1985. Time. Goods. and Well-Being. Survey Research Center, Institute for
+Social Research, University of Michigan.
+
+Leete, Laura and Juliet Schor, "Assessing the Time Squeeze Hypothesis: Hours Worked in the
+United States, 1969-1989," Industrial Relations, 33(1), January 1994, pp 25-43.
+
+Levy, Frank, "Where Did All the Money Go? A Layman's Guide to Recent Trends in U.S.
+Living Standards," MIT IPC Working Paper 96-008, July 1996.
+
+McGrattan, Ellen R. and Richard Rogerson, "Changes in Hours Worked Since 1950", Federal
+Reserve Bank of Minneapolis, Quarterly Review, Winter 1998, pp. 2-19.
+
+Robinson, John and Geoffrey Godbey, Time for Life: the Surprising Ways Americans Use their
+Time, Pennsylvania State University Press, 1997.
+
+Rones, Phillip L., Randy E. Iig, and Jennifer M. Gardner, "Trends in hours of work since the
+mid-1970s", Monthly Labor Review, April 1997, pp 3-13.
+
+
+                                               20             Automated Recl1rds Management System
+                                                              Hex-DU1Ilp Conversion
+
+Schor, Juliet B. (1991). The Overworked American: The Unexpected Decline a/Leisure. New
+York: Basic Books.
+
+Stinson, John F., Jr. (1997). "New data on multiple jobho1ding available from the CPS,"
+Monthly Labor Review, March 1997, pp. 3-8.
+
+Stone, Robyn 1. and Peter Kemper (l989). "Spouses and Children of Disabled Elders: How
+Large a Constituency for Long-term Care Reform?" The Milbank Quarterly, 67(3-4), pp.
+485-506.
+
+
+
+
+                                                         Automated Records Management System
+                                                         Hex-Dump Conversion
+
+
+
+                                             21
+
+Exec Summ, 3rd bullet: We substituted DPC's suggested bullet and added the following
+sentence, which we think makes an important point:
+"The situation of lower-income families has been improving, however, in the strong economic
+expansion of the 1990s."
+
+Exec Summ, next-to-last bullet: We kept what we believe is an important point.
+
+p. 1: We think both figures 1 and 2 need to be on the same page where they are referred to in the
+text.
+
+p. 14, last paragraph: We inserted the following sentence at the request of the VP's office:
+"A Federal Highway Administration survey found that the average commute time increased by
+2.5 minutes (14 percent) between 1983 and 1995."
+
+Top ofp.15: We inserted the following paragraph in place of the bullets DPC asked us to
+delete:
+         "The time-diary results above are from descriptions of adults' time. Recent time-diary
+evidence sheds new light on how children spent their hours in 1997. The most striking finding
+is that two-parent families on average spent remarkably similar amounts oftime engaged with
+their children regardless of whether one or both parents were working. Dual earner couples
+spent an average of 21 hours per week engaged with their children, while single-earner
+two-parent families spent 22 hours per week, only slightly more time, engaged with their
+children."
+
+p. 19, next to last paragraph: We deleted the sentence as requested and added the following:
+        "As wives and husbands become more able to earn similar amounts in the labor market, it
+encourages a more equal balance between them in tenns of responsibilities for earning money,
+household tasks, and 'child care. Fathers are becoming more involved in child-rearing than in the
+past. Women are better able to support themselves and their children in the event of widowhood
+or divorce."
+
+
+Addition in response to DPC requests:
+p. 16, last 2 paragraphs: We split the paragraph about flextime and FMLA in two, added some
+more sentences, and rearranged them.
+
+
+Other additions:
+p. 18, end of first full paragraph: We added a sentence:
+ "In addition, the Administration's budget proposal for the 1999 fiscal year included $5.1 to
+increase the Child and Dependent Care Tax Credit for three million families earning under
+$60,000 a year."             .
+[Tom: We got these numbers from a Jan. 1998 Talking Points on the child care initiative that
+
+
+                                                         AutoTT'O'o"! n   ""d<, \fanagement System
+
+                                                         Hex-J.lloIUlp \,.gl\~5rsiQn
+
+Finally, to answer DPC's questions about chart 11 and the statements about time use on p. 13:
+Child care time did decrease for nonemployed women and therefore for all women, but it
+decreased much less than housework time among all groups of women. Chart 11 portrays time
+spent in each activity as a % of 168 hours. The change in child care time is hard to see, due to
+the cross-hatching pattern. We are changing the shading patterns to make it easier to see the
+change in child care time.
+Here are the underlying data:
+Child care time among employed women increased by 0.9 hour per week, among nonemployed
+women decreased by 2.3 hours per week, and among all women decreased by 1.5 hours per week
+Housework and shopping time among employed women decreased by 1.6 hours per week, among
+nonemployed women decreased by 8.1 hours per week, and among all women decreased by 5.9
+hours per week.
+Working hours among employed women decreased by 6.0 hours per week, among nonemployed
+women increased by 1.8 hours per week, and among all women increased by 2.8 hours per week.
+One can see on the chart that the decreases in housework and shopping time are bigger than the
+working hours increases.
+
+
+
+
+                                                            Automated Records Management System
+                                                            Hex-Dump Conversion
+"

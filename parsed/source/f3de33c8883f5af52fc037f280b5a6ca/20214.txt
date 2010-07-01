@@ -1,0 +1,85 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Leanne A. Shimabukuro ( CN=Leanne A. Shimabukuro/OU=OPD/O=EOP [ OPD ) )
+
+CREATION DATE/TIME: 9-JUN-1998 18:50:32.00
+
+SUBJECT:   crime meeting agenda
+
+TO: Karen A. Popp ( CN=Karen A. Popp/OU=WHO/O=EOP @ EOP [ WHO ) )
+READ:UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ) )
+READ: UNKNOWN
+
+TO: Franklin A. Cruz ( CN=Franklin A. Cruz/OU=WHO/O=EOP @ EOP [ WHO ) )
+READ: UNKNOWN
+
+TO: Christa Robinson   CN=Christa Robinson/OU=OPD/O=EOP @ EOP [ OPD ) )
+READ: UNKNOWN
+
+TO: Laura Emmett    CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO ) )
+READ: UNKNOWN
+
+TO: Michelle Crisci ( CN=Michelle Crisci/OU=WHO/O=EOP @ EOP [ WHO ) )
+READ: UNKNOWN
+
+CC: Jose Cerda III ( CN=Jose Cerda III/OU=OPD/O=EOP @ EOP [ OPD ) )
+READ: UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D68)MAIL47156506P.126 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043B0040000010A020100000002050000001AOE000000020000D7456B878BD3A9CE3BF6AB
+FDBD9224B172CCBC669D8C33E3E51DAED9F91E43D19F41314F91FB41D9F3B131BBEAA9B6ECDEDD
+·                                                                         Automated Records Management System
+                                                                                  Hex-Dump Conversion
+
+                                      Crime Meeting Agenda
+                                          June 10, 1998
+
+     Upcoming Event
+
+            *      6/16 signing ,ceremony for police bills
+                    -- other potential announcements (e.g., smart gun challenge?)
+
+     Specific Follow Up
+
+            *      Faith-based gang grant program
+
+            *      Curios report
+
+            *      Police group outreach
+
+            *      Durbin CAP (Child Access) bill
+
+            *      School safety
+
+     Other Potential Events
+
+            *      Meth announcement (July)
+                   - DUF data
+                   - COPS grants
+
+            *      Youth Anti-Drug Media Campaign -- week of July 6
+
+    . Legislative Update
+
+            *      Republican drug strategy update
+
+            *      Assaults
+
+            *      Appropriations
+
+     Miscellaneous/ Pending Items
+
+            *      Gang ordinance brief due June 18?
+
+            *      Other pending events/releases, DOJ Reports, pending Supreme Ct. decisions
+
+

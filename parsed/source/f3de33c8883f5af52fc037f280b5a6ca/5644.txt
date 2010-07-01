@@ -1,0 +1,47 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP [ OPD 1
+
+CREATION DATE/TIME:15-DEC-1997 16:49:49.00
+
+SUBJECT:   HHS Technical Report on TANF Data Processing
+
+TO: Andrea Kane ( CN=Andrea Kane/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Diana Fortuna ( CN=Diana Fortuna/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TEXT:
+The welfare law required HHS to produce a report on the status of state
+TANF data processing systems and what would be required to establish a
+system to track participants over time and across states. They've
+produced a rather dry report, which outlines 5 technical options (from
+"file match," the least sophisticated, to a centralized "one-stop
+database.")  The report lays out some alternatives for Congress if it
+decides to pursue a national tracking system -- it could:
+1) choose one of these 5 technical options; 2) take an evolutionary
+approach (starting with file tracking and moving to a one stop database),
+or 3) establish a steering committee to choose among options.  In earlier
+drafts of the report, HHS had endorsed the evolutionary approach, but we
+made them take out any recommendations.
+
+In addition, HHS worked wi.th APWA and NGA to survey states. The survey
+shows that while m~ny states are in the planning stages of adapting their
+computer systems to track TANF requirements, such as the 5 year time
+limit, only a handful of states now have fully operational systems.  The
+report estimates that the necessary information systems changes cou~d cost
+states up to $1 billion.
+
+I am planning to let this report go up to the Hill now when everyone is
+distracted by the holidays.  It is, of course, late (the statute asked for
+a report within 6 months), but I would as always appreciate your words of
+wisdom.
+
+

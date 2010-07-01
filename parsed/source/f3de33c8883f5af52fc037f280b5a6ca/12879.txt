@@ -1,0 +1,133 @@
+RECORD TYPE: PRESIDENTIAL       (NOTES MAIL)
+
+CREATOR: Jose Cerda III ( CN=Jose Cerda III/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME: 4-JUN-1999 16:35:24.00
+
+SUBJECT:   Draft race profiling memo
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ:UNKNOWN
+
+TO: Leanne A. Shimabukuro ( CN=Leanne A. Shimabukuro/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ:UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+CC: Courtney    o.   Gregoire ( CN=Courtney    o.   Gregoire/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+CC: Karin Kullman ( CN=Karin Kullman/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+CC: Cathy R. Mays ( CN=Cathy R. Mays/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ:UNKNOWN
+
+TEXT:
+Sorry so late gang .... needs more work, too.
+
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D33]ARMS29012826E.136 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504370040000010A02010000000205000000F81B000000020000B5B3D4F87752DD1EE76412
+92F98C19A50B2C6E87BD7DB95627FB2764A704D89268D4B89ED32D639AF19E7991B0516E658BFE
+D4872310DBl145086D7AD8771E9COFA43D1802C49FCE441E476CID3D13A68E2757E588712D4BAF
+C370E32BE63444A25431D155E8FCCB40BB05B6F277BE162522B32F50EF3CE250BE528B4EDB0959
+2A577923E258121DF06ACDDCIDIF4A3310602AC3F090951077C7D52C7CFADC3FODB77B3CB6A414
+61B5D87F39B3F465AB8CBDF8FC86CAA7A748382493C6C2ECBB8058F36C2B5FC6C550F1201AA177
+832B85DE6CD227E2F241DB976BCA17D71A2F36EFE59DC2A02870Al6E2040CAA820012018F53A66
+21AF7170CAOE20D96B9D91BFDD55639DD9EEDB5EC67F5D4E3C4C80E7AEC798E8ADFA9F841ED6FD
+FOB02A715526BF47BOCFC5D4B01255FOC8851B3B7363891987946365F5EI08546631E7765E9712
+FB46A704619883425A6D56EIID74BBC1E4F7EF8070FFA38751A370EAF3839A770ACB2FD347662A
+E91AB572E44FE8BDOBAB73C09D91BAF8D6912849COA2FB4693CB849280627A87B2229398306F5F
+5DE782023AB6115D47B4D5EA419F2832CC309D8443C5A511303322EDE922313E19CA7B495062FB
+EFB65BA021146FEBADBFEBCB6B5ED6C0152D71D3F52E82D77A8F3FBI1B92415D3E33B46212BB65
+463A243D9E02000900000000000000000000000823010000000BOI00007E020000005501000000
+4E0000008903000009250100000006000000D70300000B300200000028000000DD030000087701
+                                           June 4, 1999                Hex-Dump Conversion
+
+
+
+MEMORANDUM FOR THE PRESIDENT
+
+FROM:          BRUCE REED
+
+SUBJECT:       Executive Order on Race Profiling
+
+
+As you know, next Wednesday you are scheduled to participate in an hour-long, round table
+discussion with about 30 representatives from the civil rights and law enforcement community,
+including:                                                      . This discussion is meant to help
+the civil rights and law enforcement communities find common ground and constructive ways to
+deal with the controversial issue of police abuse and misconduct. Although we and the Attorney
+General have already met separately with many of the individuals invited to participate in the
+round table, many of them remain skeptical about each other's motives -- as well as of the
+meeting's potential outcomes. We are hopeful that your involvement in the round table will
+help keep all interested parties at the table and working together.
+
+In preparation for this important meeting, we also drafted an Executive Order that would decry
+law enforcement's use of racial profiling and direct federal law enforcement agencies to begin
+collecting and reporting data on the number and percentage of persons they stop, search, or
+otherwise examine by race, ethnicity, color, or gender. Within one year of the system's
+implementation, the Attorney General would be required to report on the findings of the data
+collection systems and make any appropriate recommendations on how to ensure fairness in
+federal law enforcement's stops and searches.
+
+All of your White House advisors generally agree that the proposed Executive Order is the best
+and quickest way for you to take action and show federal leadership on the issue of racial
+profiling. The only exception is Chris Edley, who believes data collection is too weak, and
+instead supports an immediate and total ban on federal law enforcement's use of racial profiling.
+Although we do not disagree with Chris in principle -- and neither do nearly all of the federal law
+enforcement agencies who insist that they do not engage in racial profiling and could support
+such a ban -- there is a significant problem with his approach: the fact that the U.S. Border Patrol
+relies on a person's perceived ethnicity or national origin in enforcing our immigration laws.
+Thus, a sweeping federal ban on racial profiling would require you to either:
+
+       (1) exempt the Border Patrol, now the largest federal law enforcement agency (with about
+       8,000 officers) and one of only a few that regularly conducts traffic stops; or
+
+       (2) stop the Border Patrol from relying on a person's perceived ethnicity or national
+       origin as a reason for making a traffic stop when -- in fact -- the person's ethnicity or
+       national origin may be what causes a violation oflaw.
+                                                                          Hex-Dump Conversion
+ We do not believe that either of these options are workable in the short-term. Hispanic
+ advocacy groups will strongly oppose any federal ban on racial profiling that exempts the Border
+ Patrol. And without additional data and a better understanding of the problem, the Justice and
+ Treasury Departments (because of the similarities between the enforcement functions of the
+ Border Patrol and the U.S. Customs Service) will oppose a federal ban on racial profiling that
+ undermines their enforcement of immigration and contraband laws at our borders and points of
+ entry. Accordingly, we all support the Executive Order on data collection as a first step.
+
+  However, your White House advisors disagree on the appropriateness of signing this Executive
+  Order at the Wednesday meeting, and request your guidance on this matter. Most of us (DPC,
+  Chief of Staff, Communications, and the Justice Department) believe that it is critical for you to
+  take some action at the Wednesday meeting, so that the media does not view the round table as
+  just one more meeting to talk about race and do nothing. Additionally, we believe that the
+  proposed Executive Order -- though by no means a panacea -- mirrors and complements the
+  Conyers legislation calling for state and local data on traffic stops, and that it will ultimately be
+  well received by a majority ofthe civil rights community and American public. It is important
+, to note that many of the major law enforcement organizations opposed increased data collection,
+  and we should not expect them to be supportive of the Executive Order.
+
+ Others in the White House (though primarily Chuck Ruff) believe that by signing the Executive
+ Order at the rouIid table discussion you will undermine the very relationship we will be trying to
+ foster with key members of the civil rights ·and law enforcement communities. Both
+ communities will feel that they were not consulted about the Executive Order, and they will
+ oppose or criticize -- albeit for differing reasons -- your action as going too far or not far enough.
+  As a result of this concern, Chuck supports not signing the Executive Order until several weeks
+ later.
+
+         _ _ Sign the Executive Order to collect data on federal law enforcement stops.
+
+
+         _ _ Do not sign the Executive Order to collect data on federal law enforcement stops.
+
+
+                Let's discuss.
+
+

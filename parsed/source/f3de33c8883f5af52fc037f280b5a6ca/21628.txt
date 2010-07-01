@@ -1,0 +1,65 @@
+     RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+     CREATOR: Mary L. Smith ( CN=Mary L. Smith/OU=OPD/O=EOP [ OPD ] )
+
+     CREATION DATE/TIME: 3-NOV-1998 16:55:54.00
+
+     SUBJECT:   POTUS memo on directive
+
+     TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+     READ:UNKNOWN
+
+     CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO ] )
+     READ: UNKNOWN
+
+     TEXT:
+     phil Caplan wanted a short memo to the President on why the domestic
+     violence directive was needed.  Here is a draft.  Phil said he needed it
+     by 6pm tonight so the President could sign the directive tonight. Could
+     you please review it by then.  Thanks, Mary==================== ATTACHMENT   1 -----
+     ATT CREATION TIME/DATE:   0 00:00:00.00
+
+     TEXT:
+     Unable to convert ARMS_EXT: [ATTACH.D41]MAIL48610470B.326 to ASCII,
+      The following is a HEX DUMP:
+
+     FF5750434BOD0000010A02010000000205000000041F0000000200002958EF10B7B765F7D979C7
+     F9B3BBD285C52693AB3B394DE1096E46843D725EAF29E01D727B288597EE8AE599B1FD94241560
+
+
+
+
+                                           November 3, 1998
+
+
+    MEMORANDUM FOR THE PRESIDENT
+
+    FROM:                 BRUCE REED
+                          ELENA KAGAN
+                          MARY SMITH
+
+    SUBJECT:            DIRECTIVE TO OPM FOR DOMESTIC VIOLENCE RESOURCE
+                   GUIDE
+
+            On Wednesday, November 4, the Vice President will host a domestic violence event
+    where he will announce that the Social Security Administration will now make it easier for
+    victims of domestic violence to change their social security numbers. For the first time, victims
+    of domestic violence will be able to get a new Social Security number by providing written
+    affirmation of their domestic abuse from a third party, such as a local shelter, or treating
+    physician.
+
+            In addition, the Vice President will announce the attached directive to the Office of
+    Personriel Management requiring the development of a resource guide for federal employees who
+    are victims of domestic violence. This directive builds upon your 1995 executive
+    memorandum requiring all federal departments to begin employee awareness efforts on domestic
+    violence. While some agencies, such as the Department of Health and Human Services and the
+    Department of Justice, have developed their own resource guides, this new guide is needed to
+    provide one uniform guide across all federal agencies and for all federal employees.
+
+
+
+
+                                                                      Automated Records Management System
+                                                                      Hex-Dump Conversion
+
+

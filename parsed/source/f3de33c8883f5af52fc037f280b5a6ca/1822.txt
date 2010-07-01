@@ -1,0 +1,116 @@
+  RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+  CREATOR: Pauline M. Abernathy ( CN=Pauline M. Abernathy/OU=OPD/O=EOP [ OPD ] )
+
+  CREATION DATE/TIME:15-APR-1997 18:46:05.00
+
+  SUBJECT:   final I-pager on prescription to read
+
+  TO: Ann F. Lewis ( CN=Ann F. Lewis/OU=WHO/O=EOP @ EOP [ WHO]       )
+  READ: UNKNOWN
+
+  TO: Christa Robinson ( CN=Christa Robinson/OU=OPD/O=EOP @ EOP [ OPD ] )
+  READ: UNKNOWN
+
+  TO: June Shih ( CN=June Shih/OU=WHO/O=EOP @ EOP [ WHO]     )
+  READ: UNKNOWN
+
+  TO: Barbara D. Woolley ( CN=Barbara D. Woolley/OU=WHO/O=EOP @ EOP [ WHO]           )
+  READ: UNKNOWN
+
+  TO: Patricia F. Lewis ( CN=Patricia F. Lewis/OU=WHO/O=EOP @ EOP [ WHO ] )
+  READ: UNKNOWN
+
+  TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ]    )
+  READ: UNKNOWN
+
+  TO: Eli G. Attie ( CN=Eli G. Attie/OU=WHO/O=EOP @ EOP [ WHO]       )
+  READ: UNKNOWN
+
+  TO: Marsha E. Berry ( CN=Marsha E. Berry/OU=WHO/O=EOP @ EOP [ UNKNOWN]         )
+  READ: UNKNOWN
+
+  TO: Brenda B. Costello ( CN=Brenda B. Costello/OU=WHO/O=EOP @ EOP [ WHO]           )
+  READ:UNKNOWN
+
+  TO: Katharine Button ( CN=Katharine Button/OU=WHO/O=EOP @ EOP [ WHO]       )
+  READ: UNKNOWN
+
+  TO: Jennifer L. Klein ( CN=Jennifer L. Klein/OU=OPD/O=EOP @ EOP [ OPD ] )
+  READ: UNKNOWN
+
+  TO: Steven A. Cohen ( CN=Steven A. Cohen/OU=WHO/O=EOP @ EOP [ WHO]     )
+  READ: UNKNOWN
+
+  TEXT:
+  ==================== ATTACHMENT   1 ====================
+  ATT CREATION TIME/DATE:   0 00:00:00.00
+
+  TEXT:
+  Unable to convert ARMS_EXT: [ATTACH.D56]MAIL40167640R.116 to ASCII,
+   The following is a HEX DUMP:
+
+  FF5750435E070000010A02010000000205000000B22400000002000075914F3C7E4B7136325A81
+  BBFDD2629E9C7146292668A76880021BAFB983C3F96C84DDB897C7D572E083E79A64BCF531C9D3
+  D0697A842D6C6670AOD31522F641DA5B515E7D19912D337B512FCB928B18CEAB12CE5FA44D6FDO
+  2AD57CEA6F334FB206D073F83AC17CDF9FF9057485860B98634B244336D6725CB62414B325AD06
+  A9ED9DB0654C61BEFF78B130ECA81DB97A09B9998F644040547EF5FE81467406C4FD8F519D5BF6
+  45B659AFID243AB891E39C6287BCIC863B3F4B7E2A937A50CD7A690D324DAC7087DABOBFOB59CF
+  599CAFAB6624145E741977D1811644C24C4A9FEA27926B62FDA31C222203C688AF2E649D36CID5
+  4579AAB0734E083A2FF0133753195D3935C9C12382A89ADDAOEF6FACFB3DB5093F2E9DD867DBE2
+           First Lady Announces National Partnership to Prescribe Reading to Infants ~nd Toddlers
+                                              April 16, 1997      Automated Records Management System
+                                                                                      Hex-Oilmp Conversion
+       "There are few things that I believe could make a more dramatic difference over the next 10 years in
+      this country than to persuade parents of all educational and economic levels to take this mission of
+      reading to and talking with their young babies seriously. ..
+                                                -- First Lady Hillary Rodham Clinton, January 10, 1997
+
+
+     New Partnership to Prescribe Reading and Ensure That Children Who Come to the Doctor Have
+     Access to Books. The First Lady is pleased to announce that a new partnership has been created to
+     prescribe reading to infants and toddlers. Pediatricians, hospitals, health centers, book publishers,
+     libraries and others are coming together to make sure that infants and toddlers who come to the doctor
+     have access to books and are read to regularly.
+
+     The New Partnership Has Already Secured:
+     - More than 250,000 books to be distributed through health clinics and centers around the country;
+     - Commitments to train 10,000 pediatricians and 950 community health centers to prescribe reading
+        and provide books to children by the year 2000.
+
+     The Partnership, Led by Scholastic Inc., First Book, and Reach Out and Read, includes the
+     American Academy of Pediatrics, National Association ofComrnunity Health Centers, National
+     Association of Children's Hospitals and Related Institutions, American Library Association, Random
+     House, Irving Harris and the Harris Foundation, Annie E. Casey Foundation, American Booksellers
+     Association, Association of American Publishers, Mellon Trust, Dreyfus Corporation, ABC Television,
+     Reading Is Fundamental, National Association of Chain Drug Stores, and the National Community
+     Pharmacists Association, and seeks additional partners.
+
+     Reach Out and Read is already being used in more than 80 health centers and hospitals around the
+     country. Through this model program, health care professionals are prescribing reading, using books in
+     well-visits, and giving books to children.
+
+     Call to Ensure That Every Child Under Age Five Is Read to Regularly by the Year 2000. The First
+     Lady is calling for every community to come together using its local library in partnership with local
+     health providers to help encourage reading to young children and ensure that every child under age five is
+     read to regularly by the year 2000. Today, only 39% of parents with children under three read to their
+     children daily [Commonwealth Fund. 1996]. Research shows that when doctors prescribe reading and give books
+     to low-income parents and their children, these parents arefour times more likely to report reading to their
+     children [AMA. AlDC. 8/91].
+
+     Response to the President's America Reads Challenge and the First Lady's Call for a National
+     Effort to Prescribe Reading to Infants and Toddlers. Today's announcement is in direct response to
+     the First Lady's call in January for a national effort to build on the existing efforts to prescribe reading --
+     by programs such as Reach Out and Read and the American Library Association's Born to Read -- and to
+     the President's America Reads Challenge to help parents be their children's first teacher and ensure that
+     every child can read well by the end of third grade.
+
+     The White House Conference on Early Childhood Development and Learning Will Underscore the
+     Importance of Reading to Infants and Toddlers. The White House Conference on Early Childhood
+     Development and Learning: What New Research on the Brain Tells Us About Our Youngest Children will
+     explore new research that shows that reading to children in their first few years actually helps their brain
+     to grow in addition to enhancing their emotional and social development and laying the groundwork for
+     vocabulary and later reading success. As a result, the American Academy of Pediatrics is recommending
+     that pediatricians prescribe reading to infants and toddlers as part of standard pediatric care.
+
+

@@ -1,0 +1,29 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Julie A. Fernandes ( CN;Julie A. Fernandes/OU;OPD/O;EOP [ OPD ] )
+
+CREATION DATE/TIME: 5-DEC-1997 19:04:11.00
+
+SUBJECT:   INS reform: summary
+
+TO: Elena Kagan ( CN;Elena Kagan/OU;OPD/O;EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+CC: Laura Emmett ( CN;Laura Emmett/OU;WHO/O;EOP @ EOP [ WHO]    )
+READ: UNKNOWN
+
+TEXT:
+Unable to convert ARMS_EXT: [MESSAGE.D85]MAIL404696837.3l6
+The following is a HEX dump of the file:
+;;;;;;;;;;;;;;;;;;;; ATTACHMENT   1 ;;;;;;;;;;;;;;;;;;;;
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D85]MAIL414696838.316 to ASCII,
+ The following is a HEX DUMP:
+
+;;;;;;;;;;;;;;;;;; END ATTACHMENT
+\.
+
+
+

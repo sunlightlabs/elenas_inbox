@@ -1,0 +1,42 @@
+RECORD TYPE: PRESIDENTIAL   (ALL-IN-1 MAIL)
+
+CREATOR: Jennifer M. O'Connor ( OCONNOR_J )    (WHO)
+
+CREATION DATE/TIME: 3-JUL-1996 21:27:25.72
+
+SUBJECT: Final version
+
+TO: John C. Angell                            ANGELL J      (WHO)
+READ: 8-JUL-1996 17:20:52.92
+
+TO: Gene B. Sperling                          SPERLING_G ) Autoforward to: Daniel Taber
+READ: 5-JUL-1996 10:14:26.53
+
+TO: John Hilley                               HILLEY J ) Autoforward to: Elisa M. Mills
+READ: 8-JUL-1996 08:00:43.49
+
+TO: Elena Kagan                               KAGAN E     (WHO)
+READ: 8-JUL-1996 08:33:26.87
+
+CC: John o. Sutton
+READ: 5-JUL-1996 08:57:16.14
+
+CC: Elisa M. Millsap                          MILLSAP E      (WHO)
+READ: 8-JUL-1996 08:00:43.49
+
+CC: Jason S. Goldberg                         GOLDBERG JS      (OPD)
+READ: NOT READ
+
+TEXT:
+Attached is the final version of the TEAM Act memo.
+;;;;;;;;;;;;;;;;;;;; ATTACHMENT   1 ;;;;;;;;;;;;;;;;;;;;
+ATT CREATION TIME/DATE: 3-JUL-1996 21:26:00.00
+
+ATT BODYPART TYPE:p
+
+ATT CREATOR: Jennifer M. O'Connor
+
+TEXT:
+;;;;;;;;;;;;;;;;;; END ATTACHMENT    1   ;;;;===;;;;;;;;;;;
+
+

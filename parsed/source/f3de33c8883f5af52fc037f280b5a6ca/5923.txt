@@ -1,0 +1,415 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Paul J. weinstein Jr.     ( CN=Paul J. weinstein Jr./OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME: 8-JAN-1998 17:10:54.00
+
+SUBJECT:   Auto Choice Proposals
+
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP [ OPD ]     )
+READ:UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP [ OPD ]     )
+READ: UNKNOWN
+
+CC: Mary L. Smith ( CN=Mary L. Smith/OU=OPD/O=EOP [ OPD ]     )
+READ: UNKNOWN
+
+CC: Thomas L. Freedman ( CN=Thomas L. Freedman/OU=OPD/O=EOP [ OPD ] )
+READ: UNKNOWN
+
+TEXT:
+Attached are two auto choice proposals.  One has been prepared by CEA.
+This proposal would encourage less driving and thus lower insurance rates,
+less emissions, and less accidents.  However, it has many downsides as
+well, including greater government involvement in insurance and driving
+practices. Also attached is a summary and analysis of the McConnell/Armey
+Auto Choice bill.  We are also pursuing a fraud option with the Justice
+Department.
+
+please let me know what you think and whether or not you are interested in
+either of these proposals.==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:     0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D83]MAIL48233670W.026 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043A80E0000010A02010000000205000000932A0000000200006FFAB274EA98F35DD21764
+B3B539A4AB379B46DE1B4FOA5E64462FE6A79F988384ADFBAFFC10FEDB07AF3F94BOCB273DCF1E
+5D77D4A7052AF3F57A98DCD7D973EE67EE480B97971B1C925EB9675EEF17ED00048DD5B6E53D9D
+93D08B52F53AAE24E05E24C66619B8137422CF9226A25CA4989FCAC9B3217B9089FCA4AOFOE1E8
+OEA3800A464A9230CDD7D9A835E9A72E9630A43E16FDEEBB14EBED99012A34C8C6FEC9CD77EADD
+58342145AC22DD73B04FB18A63F92DE38DAEOB362D11AE36BD5910840D8AC185CB5D866CDD21C7
+772F9F5956D56BDED13A67CC8BCF95E781FCD16747CDFB46AE58177D8ABEEBC1A558E4DB2A8329
+94A3D9E269B07E6867041C52E8CDFEFEB8A614597294BE516AA1EF438CD7C1B884FBA34A56EECE
+889DA0944F14AA04FCB7DC8DC692619EOC612BFC7FBDOA7FBB1E3370193852544ACFB304E06DB8
+8D78DB52FC658175F8AAE19EAFA8ED893ED023D12F777558F26506CBBA2093CCC97D3EC40E6826
+8604064BD899C16F5164B0075D5FOCB1E99F7AFDBA20BD086730CFD32103B66DAE29CFCF5F4425
+C470B53FA409FAAA46D4C849868E10C4A40B9A9CC9A8FB23F6A8E6BA97CAB1C19DD4DAECC191DO
+DFDBD61C48330D4DADD45ED8463E034DOCOD1DD6A01AD9FF41F25FA599964F103CBDC7CFE5AB4C
+B4832B2DD902002BOOOOOOOOOOOOOOOOOOOOOOOB30010000001B0100005A04000000550BOOOOOO
+3C000000750500000B300100000036010000B10500000055010000002AOOOOOOE70600000B3001
+00000011010000110700000B300100000016010000220800000812010000009002000038090000
+09310200000055000000C80B0000093102000000690000001DOCOO000802010000001000000086
+OC00000055020000004E000000960C000009250100000006000000E40C00000805010000000800
+0000EAOCOOOOOB300300000028000000F20C00000931010000006D0000001AOD00000877010000
+0040000000870D000008340100000014000000C70DOOOOOOOOOOOO000000000000C70DOOOOOB30
+010000006COOOOOODBODOOOOOB300100000044000000470EOOOOOO000000000000000000470EOO
+0000000000000000000000470E000000000000000000000000470E000000000000000000000000
+                                       AUTO CHOICE
+
+A bipartisan coalition of Senators has introduce a proposal for auto-insurance reform called 'Auto
+Choice.'
+
+·      Under this proposal, drivers in states who accept the new federal legislation have a choice
+       between the existing system in their state and a strict no-fault plan (called 'personal
+       protection insurance' (PPI) ).
+
+·      A driver who chooses the PPI option gets first-party coverage for economic damages
+       (mostly medical and lost wages), without regard to fault; a PPI driver can sue or be sued
+       for economic damages above policy limits. PPI drivers cannot sue or be sued for
+       non-economic damages ('pain and suffering'), although exceptions are made for accidents
+       involving drug or alcohol abuse.
+
+·      A driver who opts to stay in the state's current tort system must purchase tort maintenance
+       coverage (TMC) to cover accidents with PPI drivers.
+
+Pros
+
+    Reductions in premiums for PPJ drivers. Drivers who choose the PPJ option will see
+    dramatically lower premiums. Premium savings come both from the reduction of substantial,
+    unnecessary transaction costs such as lawyers fees and the elimination of pay-outs for pain
+    and suffering. Premium reductions are estimated by the Joint Economic Committee (JEC) to
+    be 32 of total auto insurance premiums ($45 billion), if everyone chooses the PPI option.
+    About one-fifth of the premium reduction comes from reductions in transaction costs; the vast
+    bulk of the premium reduction comes from the cessation of payments for pain and suffering.
+
+    Speedier processing of claims for PPJ drivers. PPI drivers will also have their claims processed
+    faster under their first-party coverage than under the current third-party coverage.
+
+    Benefits for low-income PPJ drivers. Low-income drivers who elect the PPI option will
+    particularly benefit. The tort system works to the disadvantage of lower income drivers who
+    are less likely to be able to afford to wait out costly litigation and who - with third party
+    payers - must insure against the potential losses of other drivers who have higher incomes
+    and hence higher economic losses (lost wages).
+
+·   Could reduce the number of uninsured motorists. With the reduced premiums offered by PPI,
+    some motorists who chose not to insure in a tort system may now be willing to purchase
+    insurance.
+
+                                                           Automated Records Management System
+                                                           Hex-Dump Conversion
+    benefits of no-fault insurance while avoiding the political unpopularity of denying drivers
+    their tort rights. Furthermore, the plan allows states the option to opt out of Auto Choice, in
+    order to alleviate some of the federal-state issues.
+
+Cons
+
+·   More accidents, pollution, and congestion. The reduction in premiums for those who choose
+    no-fault will result in more drivers on the road. More driving means more accidents,
+    pollution and congestion. In addition, reduced liability for negligence may result in less
+    careful driving.
+
+·   Premiums for safe TMC drivers may increase. A TMC driver's liability is reduced since PPI
+    drivers whom they hit cannot sue them. However, TMC drivers must now insure their own
+    economic and non-economic damages if they are not at fault and are hit by a PPI driver.
+    Therefore in a competitive insurance market, safe TMC drivers would see their premiums
+    increase under Auto Choice; because safe drivers are by definition at fault less than 50 percent
+    of the time, their reduction in premiums because in accidents in which they are at fault they
+    do not have to compensate PPI drivers' economic and non-economic losses does not offset
+    their increase in premiums from needing to now cover their own economic and
+    non-economic losses when they are not at fault. This increase in TMC premiums for safe
+    drivers would occur even if safe and bad drivers were randomly assigned to the two policy
+    options. State regulation could in principle prevent the premium rise for safe TMC drivers,
+    but it is not clear that current regulatiol)s in Choice states do this. The fEC assertion that
+    drivers who elect TMC will not see their premiums rise is thus highly suspect
+
+·   Will there be a real choice? In a competitive market, premiums for bad drivers who switch to
+    PPI will fall more than premiums for good drivers who switch. The resulting self-selection of
+    bad drivers into PPI will exaccerbate the above problem of rising TMC rates for safe drivers.
+    As'TMC premiums rise, more people will switch to PPI, thus further raising TMC
+    premiums, These increases in TMC premiums could effectively remove any real 'choice'
+    between the two systems. However, in the three states that currently offer Choice, state
+    regulation prevents the competitive rate setting that would produce this self selection and
+    hence 'choice' may be preserved,
+
+·   Federal/state issues. Even though the Auto Choice law allows states to opt out, it
+    nevertheless represents Federal involvement in an area that up until now has been left to the
+    states.
+                    Auto Choice and Per-Mile Premiums
+
+Per-mile premiums plus Auto Choice package would save money AND
+increase safety
+
+     ·    By itself, Auto Choice would save $ but could compromise safety
+
+     ·    Per-mile premiums plus Auto Choice will save lives and save more $
+
+     ·    Drivers will choose, if offered the package, to leave tort system to save $
+
+
+Per-mile premiums could save thousands of lives per year
+
+     ·    Linking premiums closely to miles driven will reduce driving and hence
+          accidents
+
+Potential $20 billion in premium savings under per-mile plan in addition to
+$45 billion in Auto Choice savings
+
+     ·    Initially insurance companies would set per-mile premiums to keep total
+          premium constant, assuming driving patterns are unchanged
+
+      ·   Premiums would fall as people drive less and accident costs fall
+
+      ·   Premiums would fall for the vast majority of drivers; only those who drive more
+          than twice as much as the average driver in their insurance pool (e.g. similar age,
+          experience, part of country, etc.) would potentially see higher rates
+
+Huge incidental benefits
+
+      ·   Reduced traffic congestion from fewer miles driven AND fewer accidents
+
+      ·   Reduced smog and health-harming pollutants from fewer miles AND less
+          congestion
+
+      ·   Reduced emissions of greenhouse gases from fewer miles implies LOWER
+          ABATEMENT COSTS. Carbon emissions would fall by about 5% of the 2010
+          baseline.
+                      Auto Choice and Per-Mile Premiums
+                    Aaron Edlin with Amy Finkelstein and Mark Rainey
+
+
+The Proposal:
+
+        Amend the Auto Choice plan so that in states that don't opt out, if a driver chooses no-
+fault her premium is quoted on a per-mile-driven basis. As under Auto Choice, drivers could opt
+to keep current insurance coverage instead.
+        Per-mile premiums could be charged based upon an estimate of miles, with a rebate or
+surcharge issued every year or two after an odometer reading. Odometers could be read at
+existing emissions or safety checks or by firms under contract with insurance companies.
+        Insurance companies would compete in their per-mile premium, subject to current
+regulations; premiums would consequently vary with region, driving record, type of car, and
+safety features, much as premiums vary now.
+
+The Pack~ge Advantage: Saving Costs without Risking Safety.
+
+        Auto Choice could reduce premiums by 32%, according to the Joint Economic
+Committee. Many argue, however, that no-fault would increase drivers' carelessness and make
+driving more dangerous. One recent empirical study suggests that if everyone chose no-fault,
+there would be thousands of extra fatalities each year.
+
+By packaging Auto Choice with a per-mile premium, however, safety should increase and
+premiums should fall still further. The reason is that a per-mile premium discourages driving.
+
+Huge incidental benefits include reduced traffic congestion (from fewer miles driven and fewer
+accidents) and reduced smog and other health-harming pollutants (from fewer miles and less
+congestion). Rcduced emissions of greenhouse gases from fewer miles implies lower abatement
+costs to achieve Kyoto agreement. Carbon emissions would fall by about 5 percent of baseline
+2010 emissions under our package plan; they would rise under the current Auto Choice proposal.
+
+
+Per-Mile Premiums could save 9,000 lives per year.
+
+         A fundamental problem with current auto insurance systems is that insured drivers face
+too little of the accident costs associated with the amount of driving they do. Accidents increase
+the more miles people drive. Insurance rates take this into account somewhat, but the connection'
+is far too weak for two reasons:
+         Insurance firms typically have coarse mileage group'ings---e.g. one rate for over 6000
+     miles and one for under 6000 miles/year. Odometers are rarely checked and under self-
+     reporting, fraud and mistaken estimates of yearly mileage are big problems. Experience
+     rating helps somewhat, but to a very limited extent. (If the cost of insurance rose for extra
+     accidents by the cost of accidents, insurance would be a loan, not insurance.)
+
+
+                                                2
+        Furthermore, a driver's own insurance company does not face the full accident cost of the
+    driver driving an extra mile: safe drivers, who are not at fault in accidents, cost their own
+    insurance company little because the other driver's insurance company typically pays the
+    accident costs. Yet, even safe drivers create a substantial social cost simply by being on the
+    road because they are another potential target or obstacle for bad drivers.
+As a result, drivers do not actually face and certainly do not perceive the true cost of driving an
+extra mile. Drivers consequently drive too many miles.
+    This problem is alleviated if mileage is verified every year or two and insurance premiums
+are proportionate to miles driven. Initially, per-mile premiums would probably be approximately
+4 cents per mile. Although this would not increase the total cost of driving (since it would
+simply substitute for current premiums), it would increase, the cost of driving an extra mile
+substantially. The increase in the marginal cost of driving would be roughly equivalent to an 80
+percent increase in the retail price of gasoline! We might therefore expect miles driven to fall by
+roughly 16 percent, conservatively taking the low end ofresults from studies of the
+responsiveness of miles driven to the price of gasoline. Roughly 9,000 lives could be saved per-
+year under a mileage based premium system.
+
+Potential $20 billion in savings on premiums from Per-Mile Premiums in addition to Auto
+Choice Savings of $ 45 billion
+
+    Insurance companies would set per-mile premiums in a competitive process subject to current
+regulations. Initially per-mile premiums would probably be set so that total premiums cover total
+accident costs, assuming that driving patterns remain unchanged. Total insurance premiums
+would quickly fall, however, because accident costs will fall as drivers drive less. A rough
+estimate of the fall in total premiums is 22% or $21 billion, in addition to the fall of $45 billion
+from Auto Choice.
+
+A large pool of winners: savings for almost all drivers
+
+    Per-mile premiums would undoubtedly be set to vary with a driver's age, the region of the
+country, urban vs. suburban, driving record, car model, safety features, just as under the current
+insurance system. Competition would demand such market segmentation. Hence safe drivers,
+for example, would face lower per-mile rates, and hence lower total insurance costs, than bad
+drivers, just as they do under the current system.
+
+    And even though in some regions rural drivers drive much more than urban drivers, total
+insurance costs for these rural drivers would fall by the same proportion that urban drivers' total
+costs would fall. This is because insurance companies currently set rural drivers' rates to reflect
+both that they drive a lot more than urban drivers and that their chance of having an accident per
+mile driven is smaller than for an urban driver. With per-mile premiums, the insurance
+companies would no longer have to increase rural premiums to reflect their greater mileage; but
+they would set rural per-mile premiums lower than urban per-mile premiums to account for the
+former's lower per-mile accident rate. As a result, a typical rural driver and a typical urban driver
+would benefit equally from the package proposal.
+
+    Although total premiums would fall dramatically on average for a pool of drivers with a
+given risk profile, some very high-mileage drivers in a pool might pay higher accident rates.
+Drivers who drive more than twice the average mileage of drivers with their risk profile might
+face higher premiums. For example, although most rural drivers would see their insurance
+premiums plummet, a rural driver who drove over twice the average distance that a rural driver
+drives per year could see a rate increase. The same applies to very high-mileage urban drivers,
+safe drivers, bad drivers, etc.
+
+Huge Incidental Benefits of Per-Mile Premiums
+
+A 16% fall in vehicle miles would yield:
+
+    Abatementcost savings. The reduction in driving will reduce emissions of greenhouse
+gases substantially. This will save large abatement costs that would otherwise be incurred to
+meet the Kyoto agreement. Carbon emissions, for example, would fall by about 5% of baseline
+2010 emissions. If marginal abatement costs were $1 OO/ton, abatement cost savings would be
+over $8.5 billion.
+
+    Less smog and other pollution. Fewer miles would lead to a nationwide reduction in
+emissions of NO x, a greenhouse gas that also contributes to smog and particulate pollution. In
+major metropolitan areas, NO x emissions might fall by one-seventh of the amount needed to
+attain EPA's recently promUlgated ozone air quality standard. These reductions in NO x emissions
+from per-mile premiums could exceed the reductions that would result from all the controls
+identified by EPA in the analysis in support of its recent ozone air quality standard.
+
+    Less traffic congestion. Fewer miles implies less traffic congestion, because of less
+crowding. Reduced accidents will further alleviate congestion. The reduction in congestion-
+related travel delays in major metropolitan areas would be substantial. For example, in the San
+Francisco Bay area, and in the Los Angeles area, such delays per driver per year would fall by
+approximately 30 percent (20 and 23 hours respectively).
+
+    Better than gas taxes. Raising gas taxes to address these environmental issues raises the
+total cost of driving. But the per-mile premium package addresses the same issues while lowering
+the total cost of driving.
+
+Linking Auto Choice with Per-mile Premiums to redress Auto-Choice's problem.
+
+   States and individuals that opt into Auto Choice create a hazard for others. Per-mile
+premiums offset this hazard, and so they should be required for those who choose no-fault.
+Possibly, this linkage should be waived for states that already have no-fault, if this compromise is
+necessary to gain political support.
+
+   Linking the no-fault choice with per-mile premiums would give us the best of both worlds.
+Lives could be saved, not lost, and the total insurance cost of driving would fall on average by
+over 20% more than it would under Auto Choice alone.
+
+
+CHOICE is central to this package proposal, as it is to Auto Choice
+
+    It is important to keep in mind that states can choose whether to opt into the package of Auto
+Choice and per-mile premiums or to keep their tort and insurance system as it is.
+    If a state opts in, drivers can choose whether to keep their current insurance or switch to the
+new package. Those who choose the keep their current insurance would not face per-mile
+premiums.
+    Drivers will also choose whether to keep driving their current amounts or reduce their
+driving. Unlike current gas taxes, per-mile premiums do not increase the total cost of driving. In
+fact, because of the savings from no-fault, total premiums should fall immediately, even if
+driving miles stayed constant. Furthermore, people will CHOOSE to reduce miles to save even
+more on premiums. The great feature is that one person's choice to reduce miles will actually
+reduce the per-mile charge for others!
+
+Implementation.
+
+    A mileage-based premium system could be easily implemented. Insurance compani"es could
+simply read a car's odometer once every year or two. Alternatively, odometers could be read
+during existing emission or safety checks. Per-mile premiums could be charged based upon an
+estimate of miles, with a rebate or surcharge issued every year or two after an odometer reading.
+
+        It is difficult to be sure whether insurance fraud would increase or decrease under per-
+mile premiums. Currently, there is undoubtedly significant misreporting given that some
+insurance companies will cut premiums 15 percent for customers who claim to drive less than
+7500 miles per year. Under a per-mile system, where odometers were checked, there would
+likewise be an incentive to tamper with odometers. Tampering with odometers is not, however, a
+trivial matter that the typical person can do for herself. Moreover, it is a crime, and probably not
+the easiest or safest way to steal a few hundred dollars a year.
+
+    For the vast majority of Americans, odometers are tamper-proof. Although everyone selling a
+used car already has a substantial financial incentives to set back the odometer (setting back the
+odometer 30,000 miles typically increases value by $2,100), odometer fraud today occurs mostly
+in the wholesale used car business. Therefore, it is currently difficult for someone who might
+want to adjust his odometer to find someone who can do it. There is also a significant risk
+involved in such tampering. For example, whenever a franchised dealer services a vehicle
+manufactured by the company granting the franchise, a computerized record is made which
+includes the vehicle's mileage. Companies currently exist that use this and other sources to
+collect motor vehicle histories and sell them to prospective purchasers; these companies could
+similarly sell the histories to insurance companies to deter odometer tampering.
+
+    There are already large incentives to tamper with odometers to increase the value of a used
+car. The resale value of a used car may decline by as much as 7 cents per mile, whereas average
+per-mile premiums under the package plan would be about 4 cents per mile.
+
+         Odometer fraud is significantly more difficult than changing ones own oil. As an
+illustrative calculation, suppose that 20 percent of people currently change their own car oil, and
+suppose that 10 percent of these people would set their odometers back. If these people reduced
+their miles in half, this would raise premiums for everyone else by approximately one percent,
+much less than per-mile premiums are apt to save from accident reduction. Fear of insurance
+fraud is not a good reason to oppose per-mile premiums.
+
+
+Maintaining existing insurance markets. Unlike Pay-at-the-Pump, per-mile premiums do not
+interfere with the free and competitive operation of insurance markets. Insurance companies
+would continue to compete for business in the same way under this package.proposal. Per-mile
+premiums therefore do not raise the specter of increased government interference in insurance
+markets. Additionally, a per-mile charge would vary with the quality of the driver, which affects
+accidents, not with fuel efficiency, which does not. Insurance companies could continue to adjust
+insurance premiums for any characteristics of the driver or the car that they currently use to
+calculate expected accident costs; per-mile premiums would vary in the same way that fixed
+premiums currently do.
+
+Why don't insurance companies already use per-mile premiums?
+
+    Externality. One reason insurance companies do not already use per-mile premiums is that
+many of the benefits from a per-mile charge are not realized by the driver or her insurance
+company, but are realized by other drivers and other insurance companies. The reason is that
+part of the cost of accidents that extra miles cause are borne by other drivers and their insurance
+companies. Keep in mind that even a safe driver causes accidents by being an extra target that
+bad drivers can hit. For this reason accident reductions are more than proportionate to the
+percentage reduction in miles. Driving is much like entering an obstacle course. The fewer times
+you enter, the fewer total obstacles you will hit. If the obstacle course were held constant as
+driving is reduced, then we would expect a roughly proportionate reduction in accidents. But
+there are fewer obstacles when there are fewer miles driven, so the per-mile collision rate will
+also fall!
+
+
+    Adverse Selection. Another reason insurance companies don't already offer per-mile
+premiums is that if a company offers a per-mile package under the current system (without the
+cost savings from Auto Choice), this option would only be chosen by low mileage drivers, or by
+the few drivers who manage tQ tamper with their odometers. If the per-mile price is set to break
+even given present per-mile accident costs, insurance companies would lose money. Two
+reasons: first, fraud by the few who tamper with odometers; second, although drivers who drive
+low miles have lower total accident costs, they may have somewhat higher per-mile costs,
+because they have less driving experience. Therefore, to break even, insurance companies would
+have to raise the per-mile charge. As they did so, however, the adverse selection would get
+worse: only odometer-tampering drivers and very 'low mile drivers would remain. Breaking
+even would therefore require a still-higher charge, leading to a still smaller and adversely
+selected group of buyers. Ultimately, the market may be too small to be viable or disappear
+entirely.
+
+    CostlHassle. A final reason that some companies may not have switched is that it seems like
+a costly hassle to check odometers. The hassle will be reduced, however, if many companies in a
+state switch to per-mile at once. Then, a single facility could check odometers for all insurance
+companies. Perhaps it could be done when emissions or vehicle safety is checked.
+
+

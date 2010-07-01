@@ -1,0 +1,149 @@
+RECORD TYPE: PRESIDENTIAL         (NOTES MAIL)
+
+CREATOR: Sarah A. Bianchi        ( CN=Sarah A. Bianchi/OU=OPD/O=EOP [ OPD]            )
+
+ CREATION DATE/TIME:16-MAR-1998 10:16:48.00
+
+ SUBJECT:    medicare one pager
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ]               )
+READ: UNKNOWN
+
+CC: Laura Emmett      ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO]             )
+READ:UNKNOWN
+
+TEXT:
+Here is our draft one pager for tomorrow's Medicare event that is ready
+for editing.
+
+sarah b
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D24]MAIL46148347U.026 to ASCII,
+ The following is a HEX DUMP:
+
+  FF5750436F050000010A02010000000205000000BB270000000200004AABE911E34E3424C573E9
+  8AA9CED08FF37BFFCF15D2435A918F710637EOD5DB86AD7B9640B4149FC8445A65CAB9AAD894F4
+  DBBA8388A165CBBE93FF893BDD60AD98BB1800D5100C0874CD5BD95E6200296CE9ABD469E843DF
+  174C88EF6D95EBF4EC4BB20D1AOD60879034DED696511B89CF88F4EC57FC7E3F874F6FOB62D9E8
+  260AOD5064555BE65CF28D59FAE1117D4DAB7B35DB5AC6D4F5FBB852BA3879BF36BF19EEA2254E
+  3A34A428D9E62074286C8238BDE82AAD5065AC2BE33151D034294A7BC4873DF9DA1BFF8CA7AC36
+  AEBODC386D6718620649EA24246B6AE9070FFOBAB3F2A03122865817F5B64440B83A50FFB9FA21
+  E164F08D290F9D8B929EA79B1005D9D5DD3B7F45551CDABC60670AD24DB4FFFDF199C34E139D39
+  OB560857EOA97BB77E5F63A1BFAE2611ECA3396FFFOD44CD1D707F605B0859E4115785FD365AC3
+  3C767993D9AFFD62270220DBE3DB877EC1871A32BB8358C804DD747346155E9DD536578461BDOB
+  7DA2D567C04CD3E2CF7BDB7F5B111E5E83B82614C65DF4A53FC18D1E8A6EA2C80B64924C3D165E
+  B10 5F9FFCEEE18EO 3 FD3 E'BBEA24114DOAC514 6 935 4A1F2 41D1BBO 94 3A3 4 9 5E5 8 2BDED14BO 6AFA4
+  C24F4B4CE03A08896177AEBF8742F7AA13B461AE92F22D9FFDA742E43BED8311CE55A43B81A491
+  E7A9818F9102000C00000000000000000000000823010000000B010000A8020000005519000000
+  4EOOOOOOB303000009250100000006000000010400000B30020000002800000007040000081601
+  000000320000002F040000087701000000400000006104000008340100000014000000A1040000
+  0802010000000FOOOOOOB50400000B300100000055000000C40400000055180000004E00000019
+  050000080501000000080000006705000000985C005C004F0041005F0037005C005C005C004FOO
+  500044005C003200310036005F0041000000000000000000000000000000000000000000000000
+  00000000000000000000000000000057494E53504F4F4COOOOOOOO00C800C8002C012C012C012C
+  01C800C80030000000000000000000000000000000000000000000000000000000000000000000
+  000000000000000000000000000000000000000000000000000000000000000000000000000000
+  000000000000000000000000000000000000000900000000000000000000000000000000000000
+  000000000000000000000000000000000000000000000000000000000000000000000000000000
+  000000000000005E008FOE2800C8196810480D000011090000005A000B01000010360054006900
+  6D006500730020004E0065007700200052006F006D0061006E00200052006500670075006C0061
+  007200000000000000000001000200580201000000040028000000000000000000000000000000
+, 00000000011202002400A1000000A100000043003A005C00500052004F00470053005C00570050
+  005C005300540041004E0044004100520044002E0057005000540000000A0000006D0801000200
+  6E08310065816F0801004400700802000200710801004500720801000200730801004500740801
+  000200750801004500760801000200164B6D24000000005C19B4059813F41F0000370408337COO
+  78000002000076080000030100000004003E000000000000001700000000000000000000000100
+  842D24002206000053006D0061006C006C00200043006900720063006C0065000000F02206FOEO
+  30130000000008072E002E000108071300E02800D61EC30F3908000011090000005AOOOB01008B
+"
+                                                                  Hex-Dump Conversicn
+
+       PRESIDENT CLINTON JOINS DEMOCRATS TO UNVEIL LEGISLATION GIVING
+      AMERICANS AGES 55 TO 65 NEW HEALTH INSURANCE OPTIONS AND RELEASES
+        ST ATE-BY -STATE STUDY WHICH UNDERSCORES NEED FOR THIS POLICY
+                                  March 17, 1998
+
+    Today, President Clinton joined Democrats on the Hill to unveil legislation that would provide
+    Americans ages 55 to 65 health insurance options and urged Congress to send it to him for enactment.
+    This targeted, paid-for proposal will give an estimated 300,000 to 400,000 vulnerable Americans new
+    choices for more affordable health care coverage. The President also released a state-by-state analysis
+    that documents the need for this policy.
+
+    RELEASED NEW STATE-BY-STATE STUDY THAT DEMONSTRATES THE DIFFICULTY
+    AMERICANS AGES 55 TO 65 HAVE ACCESSING HEALTH INSURANCE. The report the
+    President released today underscores the difficulty Americans ages 55 to 65 have accessing health
+    insurance. The new report, prepared by the Domestic Policy Council and the National Economic
+    Council, found that:
+
+           Five million -- or twenty-two percent of Americans ages 55 to 65 -- are either uninsured or
+           insured through the individual insurance market. In some states, such as North Dakota,
+           Texas and Nebraska, the percentage of these individuals is as high as 30 percent.
+
+                  Three million are uninsured. Some Americans ages 55 to 65 lose their
+                  employer-based health insurance when their spouse (frequently the husband) becomes
+                  eligible for Medicare. Many lose their coverage because they lose their jobs due to
+                  company downsizing or plant closings. Still others lose insurance when their retiree
+                  health coverage is dropped unexpectedly.
+
+                  Many are left to buy into an unaffordable individual insurance market, where
+                  premiums can be as high as $1,000 per month. Individual insurance can be
+                  prohibitively expensive, particularly for those who have pre-existing conditions.
+
+           In 38 states, individual insurance policies can be denied outright. Sixteen million
+           Americans ages 55 to 65 -- 76 percent of this population --live in one of the 38 states where
+           individual insurance can be outright denied. This often leaves these individuals no where else
+           to tum for health care coverage.
+
+           In twenty-one states there are no protections to assure pre-existing conditions are
+           covered. In these states, where 8 million, or 36 percent, of 55 to 65 year olds live, there are no
+           protections against pre-existing condition exclusions in the individual market. This means that
+           individuals may not be able to get coverage for the care they need most, such as diabetes
+           management or cancer treatment.
+
+           There are no protections against exorbitant premiums in forty states. In these states, where
+           16 million Americans ages 55 to 65 live, individuals have no protections against exorbitant
+           premiums based on age or health status ..
+                                                                 Hex-Dump Conversion
+
+
+UNVEILED LEGISLATION THAT ALLOWS AMERICANS NEW CHOICES TO ACCESS
+HEALTH CARE COVERAGE. The legislation unveiled on the Hill today provides new health
+insurance options for Americans ages to 55 to 65. This legislation is being introduced by a numerous
+Democrats, including both Democratic leaders [Senator Daschle and Congressman Gephardt] as well
+as all the ranking Democrats on the Committees of Jurisdiction: Senators Moynihan and Rockefeller
+and Representatives Rangel, Stark, Dingell, and Brown. It:
+
+       Enables Americans ages 62 to 65 to buy into Medicare, by paying a premium.
+
+       Provides displaced workers over 55 access to Medicare by offering those who have
+       involuntarily lost their jobs and their health care coverage a similar Medicare buy-in option.
+       Such workers have a harder time finding new jobs: only 52 percent are reemployed compared to
+       over 70 percent of younger workers.
+
+       Allows retirees ages 55 and older whose employers dropped their health coverage access
+       to former employers' health plan. This allows retirees whose employers dropped their
+       health coverage after they have retired buy into the employer's health plan through "COBRA"
+       coverage.
+
+CONFIRMED THIS IS A P~UDENT, TARGETED PROPOSAL THAT GIVES AMERICANS
+AGES 55 TO 65 NEW CHOICES WITHOUT HARMING MEDICARE. The Congressional
+Budget Office recently released estimates that validate that the Medicare buy-in proposal is a carefully
+targeted policy that will not burden the Medicare Trust Fund.
+
+       Paid for by premiums and anti-fraud and overpayment savings. Under this proposal,
+       participants would pay the premium in two parts: most up front (the base premium) and a part
+       after they tum 65 years old (the risk portion of the premium that accounts for the fact that
+       less-than-healthier beneficiaries may be likely to opt for this policy). Medicare would in effect
+       "loan" participants the second part of the premium until they reach 65 when they would make a
+       small payment as an add on their regular Medicare Part B premium. This means there will be
+       temporary costs to the Medicare program, which is paid for, dollar-for-dollar, by a series of
+       anti-fraud and anti-overpayment initiatives.
+
+       Separate Trust Fund. The buy-in takes advantage of Medicare's low administrative costs and
+       choice of providers and plans, but its financing is kept completely separate from the Medicare
+       Trust Fund.
+
+

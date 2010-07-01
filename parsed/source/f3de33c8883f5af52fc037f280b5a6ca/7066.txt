@@ -1,0 +1,337 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Paul J. Weinstein Jr.   ( CN=Paul J. Weinstein Jr./OU=OPD/O=EOP [ OPD 1 )
+
+CREATION DATE/TIME: 9-APR-1998 18:46:32.00
+
+SUBJECT:   New Phone and Issues Lists
+
+TO: Andrea Kane ( CN=Andrea Kane/OU=OPD/O=EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Tanya E. Martin ( CN=Tanya E. Martin/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Essence P. Washington ( CN=Essence P. Washington/OU=OPD/O=EOP [ OPD 1 )
+READ: UNKNOWN
+
+  TO: Neera Tanden ( CN=Neera Tanden/OU=WHO/O=EOP   [ WHO 1 )
+. READ: UNKNOWN
+
+TO: Todd A. Summers ( CN=Todd A. Summers/OU=OPD/O=EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Mary L. Smith ( CN=Mary L. Smith/OU=OPD/O=EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP     [ OPD 1 )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Nicole R. Rabner ( CN=Nicole R. Rabner/OU=WHO/O=EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Jerold R. Mande ( CN=Jerold R. Mande/OU=OSTP/O=EOP [ OSTP 1 )
+READ: UNKNOWN
+
+TO: Jeanne Lambrew ( CN=Jeanne Lambrew/OU=OPD/O=EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP [ OPD 1
+READ: UNKNOWN
+
+TO: Christopher C. Jennings ( CN=Christopher C. Jennings/OU=OPD/O=EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Jose Cerda I I I ( CN=Jose Cerda III/OU=OPD/O=EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Thomas L. Freedman ( CN=Thomas L. Freedman/OU=OPD/O=EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Diana Fortuna ( CN=Diana Fortuna/OU=OPD/O=EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Leanne A. Shimabukuro ( Leanne A. Shimabukuro @ EOP @ LNGTWY [ OPD 1 )
+READ: UNKNOWN
+
+TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP [ WHO 1 )
+
+
+READ: UNKNOWN
+
+TO: Michael Cohen ( CN=Michael Cohen/OU=OPD/O=EOP [ OPD ]        )
+READ: UNKNOWN
+
+TO: Sarah A. Bianchi ( CN=Sarah A. Bianchi/OU=OPD/O=EOP [ OPD ]          )
+READ: UNKNOWN
+
+TO: Cynthia Dailard ( CN=Cynthia Dailard/OU=OPD/O=EOP @ EOP [ OPD ]          )
+READ: UNKNOWN
+
+TO: Donna L. Geisbert   ( CN=Donna L. Geisbert/OU=OPD/O=EOP @ EOP        [ OPD ]   )
+READ: UNKNOWN
+
+TO: Christa Robinson ( Christa Robinson @ EOP @ LNGTWY [ OPD ]       )
+READ: UNKNOWN
+
+TO: Jennifer L. Klein ( CN=Jennifer L. Klein/OU=OPD/O=EOP @ EOP [ OPD ]            )
+READ: UNKNOWN
+
+TO: Cathy R. Mays   ( Cathy R. Mays @ EOP @ LNGTWY [ OPD ]   )
+READ: UNKNOWN
+
+TEXT:
+===========~======== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS EXT: [ATTACH.D96]MAIL437927893.026 to ASCII,
+ The following is a HEX DUMP:
+
+FF5750439A040000010A02010000000205000000B61A000000020000BFABEF09E3D9B3F45F0428
+D13BCDOBB60AB3074C9E648EF4F1CDA2D145C1EA58519C1D4E7B87377A081DB23BD2484C42A71F
+DCA4DC645305362FECBC34AA38E1506BF825271FD7AC521FC75CDBED9D83D63EDBOE28A29FAA3B
+9438236C84821F3F3E6953BE600EAEA288F7C2911D6036A2D22CBF1308EF1D6135F6BD3881BF35
+E8D6D22D7665BE96BOOA6E420D2B3490358F08575E83FBF12474BE144ADA2D643CACC1B49A55AA
+2DA29ECB1D4C479FOAA749B1EDODB6BCD005E909A2146E1BB91AC3E2AB3B8585CAAOECE7C7006A
+C1B8709B36509118B68A8A2A6CD18CA4F518B66E91BCDB218D2760618319F2B60CC7453434D4A6
+8D82E81B2A12E7EF8FD9EOE49F9BF4C6A3C50A790D0106DE03EEB3ECC5EAE05DB177190A5275EA
+DE24E7A63F57665386EF2337769BD9DD02C84778AC5BB8077E9734A193049551BOA5146CCE3F28
+58A3974CB3D03267E28CB7C2CDAFDFB603B38E7DF79B806C243FC210E4207EBAEE371C79176349
+512DBA33FBB64AA6734FB01FF43D42CF35BB31E12228BBE83AOB83D68DAFCE1C23A91526ED556B
+96D177A6D44AAE2DB9BAA65F3DF8E633E3195E04DB224ED96959341C5B80838E4560AB2FCBEFB5
+26A3DF725066FA1A6314D16C8359066764021762BF526B975AE280E5B4B9613A442705184C1648
+163F49C54802000900000000000000000000000823010000000B0100007E020000005504000000
+4E0000008903000009250100000006000000D70300000B300200000028000000DD030000081601
+000000320000000504000008770100000040000000370400000834010000001400000077040000
+0802010000000F0000008B04000000984800500043004F004C004F005200200035004D00200028
+004C004F00430041004C0029000000000000000000000000000000000000000000000000000000
+00000000000000000000000057494E53504F4F4COOOOOOOOOOC8002C012C012C012C012C01C800
+2C0130000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000B0100002800D61EC30F3908000011090000005AOOOB01008B143600540069006D0065
+00730020004E0065007700200052006F006D0061006E00200052006500670075006C0061007200
+000000000000000001000200580201000000040028000000000000000000000000000000000000
+00011202002400A1000000A100000043003A005C00500052004FOO470053005C00570050005COO.
+5300540041004E0044004100520044002E0057005000540000000A0000001C02010002001D0202
+0002001E02010045001F0201000200200201004500210201000200220201004400230201000200
+                                      STAFF PHONE LIST
+                                                                            ~
+                                                                            5
+Person                               ~             Fax     Location         3
+                                                                            D>
+                                                                            cD
+EDUCATION SUPPORT                    65543         65581   217,OEOB    :J: Cl-
+                                                                       <1>;;0
+                                                                       >;<(1)
+Policy Assistant                                                       Cl   C>
+                                                                       c.:C>
+                                                                       3a
+                                                                       -0'"
+BIANCHI, Sarah                       65585         65557   216,OEOB    oS::
+                                                                       o D>
+Assistant Director                                                     ",=>
+                                                                       <: D>
+                                                                       IDee
+                                                                       (i!m
+                                     65568                             --3
+CERDA, Jose                                        67028   224R,OEOB   om
+Special Assistant to the President                                     "':a-
+                                                                          U>
+                                                                            '<
+                                                                            U>
+                                                                            cD
+COHEN, Michael                       65575         65581   218R,OEOB        3
+Special Assistant to the President
+
+DAILARD, Cynthia                     67871         65581   217L,OEOB
+Associate Director
+
+EMMETT, Laura                        65565         62878   2FLlWW
+Policy Assistant
+
+FERNANDES, Julie                     66558         65581   217R,OEOB
+Special Assistant to the President
+
+FORTUNA, Diana                       65570         67431   224L,OEOB
+Associate Director
+
+FREEDMAN, Tom                        65587         67431   213,OEOB
+Special Assistant to the President
+
+GEISBERT, Donna                      65593         65557   216,OEOB
+Policy Assistant
+
+JENNINGS, Chris                      65560         65557   216R,OEOB
+Deputy Assistant to the President
+
+KAGAN, Elena                         67928/65584   62878   218L,OEOB
+Deputy Assistant to the President
+& Deputy Director DPC
+
+KANE, Andrea                         65573         67431   21O,OEOB
+Associate Director
+
+KLEIN, Jennifer                      62599         62878   2FLIWW
+Special Assistant to the President
+
+LAMBREW, Jeanne (NEC)                65377         67431   209,OEOB
+Senior Director
+
+MARTIN, Tanya                        65228         65581   220,OEOB
+Associate Director
+
+MAYS, Cathy                         66515          62878   2FLIWW
+Executive Assistant to the Director
+
+RABNER, Nicole                       67263         66244   2FLIWW
+Associate Director
+Assistant to the President
+& Director DPC
+                                                                                                   »
+RICE, Cynthia                        62846           67431           212R,OEOB                     ~
+                                                                                                   3
+Special Assistant to the President
+                                                                                              Ie.
+                                                                                                   ~
+                                                                                              ct>;;u
+                                     65165                                                    ";"ro
+ROBINSON, Christa                                    67431           207,OEOB                 Cl   C>
+                                                                                              <:.:0
+Associate Director                                                                            3a.
+                                                                                              "'CJ ' "
+                                                                                              0;;;:
+                                                                                              a Q)
+SCHNUR, John                         65567           65581           218R,OEOB                => :::>
+                                                                                              <: Q)
+Associate Director                                                                            ct> <0
+                                                                                              til ro
+                                                                                              --3
+& Senior Education Adviser                                                                    Oro
+                                                                                              =>~
+to the Vice President                                                                              en
+                                                                                                   -=:
+                                                                                                    en
+                                                                                                   CD
+SHIMABUKURO, Leanne                          65574           67028                224L,OEOB        3
+Associate Director
+
+SMITH, Mary                          65571           67431           213   I12,   OEOB
+Associate Director
+
+TANDEN, Neera                        66275           66244           2FLIWW
+Associate Director
+
+WASHINGTON, Essence                  62216           67028           224,OEOB
+Policy Assistant
+
+WEINSTEIN, Paul                      65577                   65581                214,OEOB
+Special Assistant to the President
+& Chief of Staff DPC
+
+
+
+
+GENERAL DPC NUMBER                   62216
+DPC CONFERENCE ROOM                  65564                           211,OEOB
+RAINES, Ashley                       62023           61655           145,OEOB
+COMPUTER SUPPORT                     57370
+WH COMMENT LINE                      61111
+WAVES CENTER                         66742
+
+                                                             Domestic Policy Council StafflIssue List
+
+
+Issue Area                                Staffer                          Phone                 Fax                 Room Number
+                                                                                                                                                      :t>
+                                                                                                                                                      c:
+AIDS                                      Sandy lllUnnan                   6-2437                6-2438              736 Jackson Place                0'
+                                          Todd Summers                     6-2437                6-2438              736 Jackson Place                3
+                                                                                                                                                 '"
+                                                                                                                                               :J:~
+Adoption                                  Jen Klein                        6-2599                6-2878              WW2FL                     <t>;;o
+                                          Nicole Rabner                    6-7263                6-2878              WW2FL                     >;<'"
+                                                                                                                                               0(")
+                                                                                                                                               r::,;O
+                                          Neera Tanden                     6-6275                6-2878              WW2FL                     30.
+                                                                                                                                               "0     en
+Agriculture/Rural Development             Carl Whillock                    720-2406             720-9286             1400 Independence Ave.,   (") s::
+                                                                                                                                               :. ' "
+                                                                                                                                               Co ~
+                                                                                                                     SW, Room 216              <: ru
+                                                                                                                                               <t> <0
+                                                                                                           Administration Building             (/lm
+                                                                                                                                               -·3
+                                                                                                                                               om
+Budget                                    Cynthia Rice                     6-2846               6-7431               212ROEOB                  =>=.
+                                                                                                                                                     en
+                                                                                                                                                    ' (J>
+                                                                                                                                                      <
+Choice                                    Elena Kagan                      6-5584               6-2878               WW2FL
+                                                                                                                                                     CD
+                                          Cynthia Dailard                  6-7871               6-5581               217LOEOB                        3
+Children & Families!                      Jen Klein                        6-2599               6-2878               WW2FL
+Child Care                      Nicole Rabner                   6-7263                6-2878               WW2FL
+                                          Neera Tanden                     6-6275               6-2878               WW2FL
+
+Civil Righls/Race Commission              Elena Kagan                      6-5584               6-2878               WW2FL
+                                          Julie Fernandes                  6-6558               6-5581               217ROEOB
+
+Communications/Scheduling Events          Christa Robinson                 6-5165               6-7431               2070EOB
+
+Consumer IssueslPrivacy                   Tom Freedman                     6-6587               6-7431               2130EOB
+                                          Mary Smith                       6-2216               6-7431               213 \I,OEOB
+
+Crime                                     Jose Cerda         6-5568                   6-7028               224ROEOB
+                                          Leanne Shimabukuro               6-5574               6-7028            224LOEOB
+
+Community Empowerment!                 Jose Cerda               6-5568                6-7028               224ROEOB
+HousinglEconomic Development Leanne Shimabukuro                 6-5574                6-7028               224LOEOB
+                                       Paul Weinstein                      6-5577               6-7028            2140EOB
+
+Disabilities                    Diana Fortuna                   6-5570                6-7431               212LOEOB
+
+Drugs                                     Jose Cerda         6-5568                   6-7028               224ROEOB
+                                          Leanne Shimabukuro               6-5574               6-7028            224LOEOB
+
+Education & Training            Mike Cohen                      6-5575                6-5581               218LOEOB
+                                         John Schnur                       6-5567               6-5581            218ROEOB
+                                         Tanya Martin                      6-5228               6-5581            2200EOB
+
+Environment                               Paul Weinstein                   6-5577               6-7028              2140EOB
+
+Health Care                               Chris Jennings                   6-5560               6-5557              216ROEOB
+                                          Jearme Lambrew (NEC)             6-5377               6-7431              2090EOB
+                                          Sarah Bianchi                    6-5585               6-5557              2160EOB
+
+Immigration                               Julie Fernandes                  6-6558               6-5581              217ROEOB
+
+Lahor                                     Elena Kagan                      6-5584               6-2878              WW2FL
+
+National Service                          Diana Fortuna                    6-5570               6-7431              212LOEOB
+
+Policy Plarming                           Tom Freedman                     6-6587               6-7431              2130EOB
+                                          Mary Smith                       6-2216               6-7431              2131, OEOB
+
+Campaign Finance!                         Paul Weinstein                   6-5577               6-7028              2140EOB
+Government Refonn
+
+Product Liability                         Elena Kagan                      6-5584               6-2878              WW2FL
+                                          Paul Weinstein                   6-5577               6-5581              2140EOB
+
+FDA Reform                                Tom Freedman                     6-6587               6-7431              213 OEOB
+                                          Mary Smith                       6-2216               6-7431              213 \I,OEOB
+
+
+Tobacco                                   Cynthia Rice                     6-2846               6-7431              212ROEOB
+                                          Cynthia Dailard                  6-7871               6-5581              217ROEOB
+Welfare Refonn   Cynthia Rice    6-2846   6-7431   212ROEOB
+                 Diana Fortuna   6-5570   6-7431   212LOEOB
+                 Andrea Kane     6-5573   6-7431   2100EOB
+
+

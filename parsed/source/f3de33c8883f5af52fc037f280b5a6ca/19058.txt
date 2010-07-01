@@ -1,0 +1,70 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Mary L. Smith ( CN=Mary L. Smith/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME:18-MAR-1998 13:07:56.00
+
+SUBJECT:   Draft Agenda for Equal Pay Meeting
+
+TO: Thomas L. Freedman ( CN=Thomas L. Freedman/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ:UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+TEXT:
+Here is a draft agenda for the meeting today at 2:30 on equal pay. Let me
+know if you want to make changes. Thanks, Mary ====================ATTACHMENT     1
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D8]MAIL406194673.026 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504370040000010A02010000000205000000FA12000000020000FB13E4A6385E59B15690C6
+A439017E29781848EACCC16EB1BE2EB7398554EC47D680746102E56F06AOB6AD142DF9EBF7F910
+                                                                                 Hex-Dump Conversion
+
+                              EQUAL PAY MEETING AGENDA
+                                     March 18, 1998
+
+I.     Current Legislation
+       A.     Daschle Bill
+              I.     Increased penalties under Equal Pay Act
+              2.     Data collection
+              3.     Nonretaliation provision
+              4.     Training, research, education, and outreach
+              5.     Award
+
+       B.     Harkin Comparable Worth
+
+II.    Options on Data Collection
+       A.     Directive to agencies to report back in 180 days to consider ways to how best to
+              update the EEO-I form to improve enforcement of wage discrimination
+       B.     Annual report based on Bureau of Labor Statistics Data
+
+III.   Options on Enforcement
+       A.     Increase funding for enforcement at EEOC and DOL
+       B.     Memorandum of Understanding (MOU) between EEOC and DOL to Cross Train
+       C.     MOU between EEOC and DOL to Collect Damages
+       D.     A Presidential Directive to Emphasize Existing Obligations for Federal
+                     Contractors
+
+IV.    Options for Technical Assistance
+       A.     Federal Contractor Best Practices
+       B.     SW AT Team at DOL to Provide Technical Assistance
+       C.     IO-Step Voluntary Self-Audit for Businesses and Employees
+       D.     Awards
+
+V.     Options for Federal Goverrunent
+       A.     Guide to Recruitment and Retention of Women
+       B.     Outreach
+       C.     Best Practices
+       D.     Career Development Programs
+
+VI.    Timing of Next Steps
+
+

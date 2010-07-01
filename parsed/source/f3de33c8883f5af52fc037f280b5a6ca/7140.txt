@@ -1,0 +1,337 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Michael J. Sorrell ( CN=Michael J. Sorrell/OU=PIR/O=EOP [ PIR 1 )
+
+CREATION DATE/TIME:18-APR-1998 16:59:08.00
+
+SUBJECT:
+
+TO: Kevin S. Moran ( CN=Kevin S. Moran/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Ananias Blocker III ( CN=Ananias Blocker III/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Laura K. Capps ( CN=Laura K. Capps/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Emil E. Parker ( CN=Emil E. Parker/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Laura K. Demeo ( CN=Laura K. Demeo/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Cheryl D. Mills ( CN=Cheryl D. Mills/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Robert B. Johnson ( CN=Robert B. Johnson/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Lynn G. Cutler ( CN=Lynn G. Cutler/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Sidney Blumenthal ( CN=Sidney Blumenthal/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Beverly J. Barnes ( CN=Beverly J. Barnes/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Peter Rundlet ( CN=Peter Rundlet/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Minyon Moore ( CN=Minyon Moore/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Elisabeth Steele ( CN=Elisabeth Steele/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Trooper Sanders ( CN=Trooper Sanders/O=Ovp @ OVP [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Ruby Shamir ( CN=Ruby Shamir/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Suzanne Dale ( CN=Suzanne Dale/OU=WHO/O=EOP @ EOP   [ WHO 1 )
+READ: UNKNOWN
+
+TO: edley ( edley @ law.harvard.edu @ INET @ LNGTWY [ UNKNOWN 1 )
+
+
+READ: UNKNOWN
+
+TO: Maria Echaveste ( CN=Maria Echaveste/OU=WHO/O=EOP @ EOP [ WHO J )
+READ: UNKNOWN
+
+TO: Jon P. Jennings ( CN=Jon P. Jennings/OU=WHO/O=EOP @ EOP [ WHO J )
+READ: UNKNOWN
+
+TO: Oliver G. McGee   ( CN=Oliver G. McGee/OU=OSTP/O=EOP @ EOP [ OSTP J )
+READ: UNKNOWN
+
+TO: Janet Murguia ( CN=Janet Murguia/OU=WHO/O=EOP @ EOP     [ WHO J )
+READ: UNKNOWN
+
+TO: Robert N. Weiner ( CN=Robert N. Weiner/OU=WHO/O=EOP @ EOP [ WHO J )
+READ: UNKNOWN
+
+TO: Michael Waldman ( CN=Michael Waldman/OU=WHO/O=EOP @ EOP [ WHO J )
+READ: UNKNOWN
+
+TO: Dawn M. Chirwa ( CN=Dawn M. Chirwa/OU=WHO/O=EOP @ EOP [ WHO J )
+READ: UNKNOWN
+
+TO: Bob J. Nash ( CN=Bob J. Nash/OU=WHO/O=EOP @ EOP [ WHO J )
+READ: UNKNOWN
+
+TO: Doris o. Matsui ( CN=Doris   o.   Matsui/OU=WHO/O=EOP @ EOP [ WHO J   )
+READ: UNKNOWN
+
+TO: Mona G. Mohib ( CN=Mona G. Mohib/OU=WHO/O=EOP @ EOP [ WHO J )
+READ: UNKNOWN
+
+TO: Paul E. Begala ( CN=Paul E. Begala/OU=WHO/O=EOP @ EOP [ WHO J )
+READ: UNKNOWN
+
+TO: Gene B. Sperling ( CN=Gene B. Sperling/OU=OPD/O=EOP @ EOP [ OPD J )
+READ: UNKNOWN
+
+TO: Nelson Reyneri ( CN=Nelson Reyneri/OU=WHO/O=EOP @ EOP[ WHO 'J
+READ: UNKNOWN
+
+TO: Sylvia M. Mathews ( CN=Sylvia M. Mathews/OU=WHO/O=EOP @ EOP [ WHO J )
+READ: UNKNOWN
+
+TO: Thurgood Marshall Jr ( CN=Thurgood Marshall Jr/OU=WHO/O=EOP @ EOP [ WHO J )
+READ: UNKNOWN
+
+TO: Susan M. Liss ( CN=Susan M. Liss/O=OVP @ OVP [ UNKNOWN J )
+READ: UNKNOWN
+
+TO: Ann F. Lewis ( CN=Ann F. Lewis/OU=WHO/O=EOP @ EOP     [ WHO J )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD J )
+READ: UNKNOWN
+
+TO: Mickey Ibarra ( CN=Mickey Ibarra/OU=WHO/O=EOP @ EOP [ WHO J )
+READ: UNKNOWN
+
+TO: Marjorie Tarmey ( CN=Marjorie Tarmey/OU=WHO/O=EOP @ EOP [ WHO J       )
+
+
+READ: UNKNOWN
+
+TO: Andrew J. Mayock ( CN=Andrew J. Mayock/OU=WHO/O=EOP @ EOP   [ WHO)   )
+READ: UNKNOWN
+
+TO: Julie A. Fernandes ( CN=Julie A. Fernandes/OU=OPD/O=EOP @ EOP [ OPD )    )
+READ: UNKNOWN
+
+TEXT:
+Here is this week's Weekly Report.  ==================== ATTACHMENT      1 ============
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D51)MAIL442316702.126 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043DC060000010A0201000000020500000021300000000200004959AB850669D93148AAC3
+26785597FF2A0844FF1E99E43E0638AFF198339DOE76255A7A8E214115C74F86E7AA4DDF5FC524
+11601BA13062D9E1CEBD3FOC51F2AECOC6BFF0240406FF60E0814AD3C271F6B70707DD39AA1784
+C68937E3142C78E6FC2593A690D1F42E32F2665F36CAC8956AA4E4BFC9DAC59E91DOBACB57DC13
+9917E32B9D05F472EE516EFEA75EEE5F56970D9E8108917EF76875DC42268405D652270819057E
+3A378386F470CE979FD062FF3447081A911246A590705B441E5AB36OF2916EFCA8ACOF233F1797
+E3DCE2B218E5230780ED58DCD45DAECBB8424C54BC7A7D68DDFAB5FA24503AC1C6BBD519965CC4
+F3224254E206D59932F2BAFC262A6B2E8AC9D86358A878ADD1A2F23COEC199F5664ABA8408550B
+589B7AB5C570345F68350B429260E57023C04BOCEDAC19A1790A3E57FF9B4F45D944E2291EB3AE
+FOC9FF5011A21797BOA22AC30C3A603615C3FC8EE1A5D696427419229DOE8B135674AA98FA7154
+EOBA79EBDOC2638ABC06EDC70E7AF752C607E992D9BA8CF77B331EO841B65F75B509FEFB5C2C4E
+3DD22F84B09ED4616755C6A73BOC720CAD3D01E0872130E9145CA4056433ACD70BOC43CBA2184C
+8D751C84155CCBF57506F27E3F7972DAA6BEA326A6F78FE3D8EBAF5BA3BD143BFF6A75CCE66FB9
+85D086613402001500000000000000000000000823010000000B0100002603000000551AOOOOOO
+4E00000031040000092501000000060000007F0400000B30020000002800000085040000005504
+00000040000000AD04000000550C0000003COOOOOOED0400000877010000004000000029050000
+08340100000014000do0690500000802010000000F0000007D050000080501000000080000008C
+05000006080100000016000000940500000B30010000004EOOOOOOAA0500000055040000004EOO
+0000F805000000000000000000000000F805000000550200000028000000460600000055010000
+00400000006E060000000000000000000000006E060000000000000000000000006E0600000000
+00000000000000006E0600000055020000002EOOOOOOAE06000000985C005C0050004900520031
+005C005000520049004E0054004500520039000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000057494E53504F4F4C00000000002C01
+F0002C012C012C012C012COIF00030000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000002800C819681048OD000011090000005AOOOB01
+0000103600540069006D006500730020004E0065007700200052006F006D0061006E0020005200
+6500670075006C0061007200000000000000000001000200580201000000040028000000000000
+00000000000000000000000000011202002400A1000000A100000029004C1DC012C40900001109
+0000005AOOOB010000102800430047002000540069006D0065007300200052006500670075006C
+006100720000000000000000002500F41A5C121A09000011090000006000181100001024005400
+69006D006500730020004E0065007700000052006F006D0061006EOOOOOOOOOOOOOOOAOOOOOOAO
+OA01000200A10A01004500A20AOI000200A30A01004500A40A02005BOOA50A03005500A60A0300
+5500A70A03005500A80AOI005500A90A0100550066A474240000000006FOE0300C000000000807
+OC08337C00780000020000A90A000003010004000200000001000A0000000COOOOOOD1000COOOO
+0200B0040COOD10100000004003E00000000000000100000000000000000000000031587A62400
+2206000053006D0061006C006C00200043006900720063006C0065000000F02206FOE0300COOOO
+000008070COOE02800D61EC30F3908000011090000005AOOOB01008B143600540069006D006500
+730020004E0065007700200052006F006D0061006E00200052006500670075006C006100720000
+000000000000002500E41B3214BC0700001641000000600014100000101000480065006C007600
+000000000000000029002C1A6810E40C000011090000005AOOOB01008B14280043004700200054
+0069006D0065007300200052006500670075006C006100720000000000000000001BOOF41A5C12
+                                                                    Hex-Dump Conversion
+
+MEMORANDUM FOR THE PRESIDENT
+
+FROM:          JUDITH A. WINSTON
+
+THROUGH: ERSKINE BOWLES
+         SYLVIA MATHEWS
+
+DATE:          APRIL 17,1998
+
+SUBJECT:       PRESIDENT'S INITIATIVE ON RACE WEEKLY REPORT
+               APRIL 11 - APRIL 17
+
+
+
+ADVISORY BOARD ACTIVITIES
+
+        ESPN Meeting on Race and Sports_ On April 14, Advisory Board members
+        Governor William Winter, Reverend Suzan Johnson Cook, Robert Thomas,
+        Consultant Laura Harris and I attended your conversation on race sponsored by
+        ESPN. The feedback we have received about the event has been positive, and
+        I believe the conversation was successful in moving the dialogue on race forward
+        and expanding our constituency.
+
+        Thirtieth Anniversary ofthe Fair Housing Act. On April 23, 1998, the U.S.
+        Department of Housing and Urban Development is conducting a public meeting and
+        roundtable discussion in Newark, New Jersey, with representatives from fair housing and
+        community organizations. The purpose of the meeting is to commemorate the 30th
+        anniversary of the Fair Housing Act and discuss race and housing issues in New Jersey.
+        Acting Assistant Attorney General for Civil Rights Bill Lann Lee and HUD Assistant
+        Secretary for Fair Housing and Equal Opportunity Eva Plaza are also participating in this
+        event.
+
+        Dillard University. On April 15, Governor Winter gave a luncheon address at the Ninth
+        Annual Black-Jewish Relations Conference at Dillard University in New Orleans. The
+        audience consisted of more than 100 students, faculty, and community leaders. Also
+        participating in the conference were Congressman John Lewis and Reverend Walter
+        Fauntroy.
+                                                           Hex-Dump Conversion
+
+
+     California State University, Fullerton. On April 16, Angela Oh spoke about the
+     Initiative during a graduate seminar and also a town hall meeting to an audience of
+     approximately 300 people.
+
+OFFICE OF THE EXECUTIVE DIRECTOR
+
+     NAFEO Town Hall Meeting! National Neighborhood Coalition Information Forum.
+      I spoke to both organizations about the Initiative. The remarks were very well received.
+
+     Strategy Meeting on Indian Country. On April 17, members of your staff and the
+     Initiative staff met to outline a strategy for further engaging Indian Country in the
+     Initiative. We will be developing several options for discussion next week.
+
+     Statewide Days of Dialogue. Currently 16 Governors and over 100 YWCA's are
+     participating in our Statewide Days of Dialogue outreach effort. We are identifYing
+     strong anchor events that will be the focus of Board and Cabinet participation as well as
+     press attention.
+
+     Race Relations in the Heartland. On April 14, the National Voices Coalition and
+     HUD held a Regional Symposium in Kansas City, MO on "Race Relations in the
+     Heartland," as "a response to President Clinton's year long initiative on race."
+     Approximately 300 people from four states-- Missouri, Kansas, Nebraska, and
+     lowa--attended. The Symposium was held in April to coincide with the 30th anniversary
+     ofthe assassination of Martin Luther King, Jr. and the passage of the National Fair
+     Housing Act.
+
+     Meeting with the Eisenhower Foundation. We met with leaders of the Eisenhower
+     Foundation to discuss their report entitled "The Millennium Breach: Richer, Poorer, and
+     Racially Apart," which is a thirty-year update of the Kerner Commission's report. We
+     discussed briefly the Foundation's findings and its recommendations concerning what
+     works to overcome racial disparities in America. The report includes examples of what
+     works, similar to our promising practices, and we agreed to explore how we might work
+     together in this area.
+
+FEDERAL AGENCY ACTIVITIES
+
+     Department ofAgriculture
+
+     Native Americans. To better serve Native American producers, USDA officials
+     in Wisconsin have initiated on-site farm credit services for farmers on the Red
+     Cliff and Bad River Tribes reservations to help them obtain credit to begin,
+     expand, and operate farms and livestock operations.
+
+
+                                              2
+                                                   Hex-DiJmp Conv~rsion
+Department of Labor
+
+Higher Education Conference. On April 18, Secretary Herman will address the
+National Association for Equal Opportunity in Higher Education's (NAFEO) 23rd
+National Conference on Blacks in Higher Education in Washington, DC. In addition,
+she will receive their 1998 Leadership Award.
+
+Department of Health and Human Services
+
+Symposium on Careers in Biomedical Science. On April 10, Dr. David Satcher gave
+the keynote address at the Annual Symposium on Careers in Biomedical Science. He
+spoke to 1,000 minority students on the Race Initiative. On April 13, Dr. Satcher,
+Surgeon General and Assistant Secretary for Health, was interviewed by Parade
+magazine where he discussed the Race Initiative.
+
+Department of Housing and Urban Deyelopment
+
+Many Neighborhoods, One America.       On April 21, Secretary Cuomo will host a
+Community 2020 Seminar in recognition of the Fair Housing Act. The theme for the
+discussion will be Thirty Years of Fair Housing: Many Neighborhoods, One America.
+
+Race Relations Symposium. On April 13, Eva Plaza, Assistant Secretary for Fair
+Housing traveled to Kansas City, MO to participate in the Race Relations in the
+Heartland Symposium.
+
+Department of Transportation
+
+Black Mayors Conference. On April 16, Secretary Slater joined Vice President Gore at
+the Conference of Black Mayors in New Orleans, LA.
+
+Department of Education
+
+One America. On April 30, Secretary Riley will participate in a "Conversations That
+Brirg Us Together" event with Birmingham, Alabama Mayor Arrington, and other events
+that are a part of Birmingham's "Erase the Hate Day."
+
+Department of Veterans Affairs
+
+Youth Events. The Youth Task Force of the Department of Veterans Mfairs conducted
+educational forums on diversity at the Potomac School in McLean, VA. VA staff
+
+
+                                       3
+                                                             AulemaltJd t{ecords Mam:gement System
+                                                                      H2).·Dump Convi;;sion
+
+            members will also visit several public and private area high schools during the month of
+            April as part of the "One America: Conversations That Bring Us Together" initiative.
+
+            On April 30, selected students from these schools will then participate in the "One
+            America Youth Town Hall Meeting" being held at VA.
+
+            General Services Administration
+
+            Conversation on Race.   On April 14, in response to the President's Race Initiative,
+            Administrator Barram hosted a conversation on race with GSA employees. This is the
+            fourth conversation on race with this group. In addition, he has hosted conversations
+            with the GSA leadership, Regional Administrators and Deputy Regional Administrators.
+
+
+
+
+                                                    4
+
+

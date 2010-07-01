@@ -1,0 +1,45 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Jose Cerda III ( CN=Jose Cerda III/OU=OPD/O=EOP [ OPD ) )
+
+CREATION DATE/TIME:18-MAY-1999 17:22:06.00
+
+SUBJECT:   Statement -- Take One
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ) )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ) )
+READ: UNKNOWN
+
+CC: Leanne A. Shimabukuro ( CN=Leanne A. Shimabukuro/OU=OPD/O=EOP @ EOP [ OPD ) )
+READ: UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO ) )
+READ: UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D23)ARMS253467050.136 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504370040000010A02010000000205000000E008000000020000928EF596565A6213D8FB62
+F3D8B1F69D3511D80E4083E91D0855C7183030E72AB025621EFC6CDFB613CE9D8CCC7A44B91035
+2AD7F66CD61DFF8763AF99604B4DD8E3052A2E8E7E9447E7F7D8FA87F12D25B7FEA8266B40254A
+6660B5EF386356EE31A1001CC2A2D5833FC2820CCFE1DDE1D5BC82364BD40780E3FCECD16ADA65
+                                                                              Hex-Dump Conversion
+                                  Statement of the President
+
+         I want to commend the Senate for reversing its position of last year and voting
+overwhelmingly today to require that child safety locks be provided with every gun sold. This
+was a common sense yet courageous vote by the Senate that is sure to prevent tragic shootings
+and gun-related accidents in the future. I also want to thank Speaker Hastert for coming out in
+support of our proposals to close the gun show loophole and to raise the age of handgun
+ownership to 21 years of age. The Senate should likewise put progress over politics and give
+their strong backing to these reasonable measures to keep guns out of the hands of kids and
+criminals.
+
+

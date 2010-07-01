@@ -1,0 +1,276 @@
+RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+CREATOR: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP [ WHO ] )
+
+CREATION DATE/TIME:26-FEB-1999 18:13:14.00
+
+SUBJECT:   revised Weekly Report
+
+TO: Elena Kagan     CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D95]MAIL48493036Y.036 to ASCII,
+ The following is a HEX DUMP:
+
+FF5750436E100000010A02010000000205000000F6680000000200008ABA8B7CE72DD99489EEAF
+F381B33E2D568FDA936E9D04168AOFBA215A7C43B7F5E2751A4CA9018B3BE52DBCD9C65DCA4C1E
+6346887CF85FOA03013323DDD014B56110C7C44CADA9F3775DE4DA55A5F419CABOOCEE810BA8D5
+2B4502AOF12CF489CDA1B76A905DD437BF1FF2D3F750830DE19F98708EA1AAF76A9326E5E3FAF1
+FD66D3DC370C77D520C634EC7DF08EFF9167A176A7689AFEF27B50A4E827B183EA96665D5B637D
+54E57FCD407F8D5A68FFA2B595C219EA7A8CB24D62D4B67AOD73360400534FEF82DEE541E2799D
+6B6239FF662DFEEF67D96E1F1E615C83B019960F34A987636AFEAC1FF7EA5CB2166447017FFDD4
+6D7778F21663301E0381296CEEFE220274431A1A27944DE15DA8555A88266AADBCF65676B2547B
+16C09B55C4E168066C5C72EFF87DE45F07AF3F4DB80131B410A2FB71DFFA7CD9A3136282492512
+2E299499E9DED202AEE8F62CODBB817911817F69648B898952EB53FBCCEA7FF7F1B7BBDDDF174B
+OD43648509F5D07125D962FE160D5222A390F0551ADA4151107D6085EFB8819E6DA24CAA452954
+8540631DF2C936B17C22E01A36CACDCF992C2ABA280289CBA03E84C1BC3A5840AB46CBC869547D
+714FDD93EA239E25F4AF4BED98B2D63AC9137202070BF1A554295B9E4EOD18799385385AD417AC
+4C6653863C0200A400000000000000000000000823010000000B010000F80A0000005519000100
+4E000000030C000009250100000006000000510COOOOOB300300000028000000570C0000080501
+000000080000007FOC0000000000000000000000007FOCOOOOOOOO00000000000000007FOCOOOO
+0055050000003C000000870C00000055040000004EOOOOOOC30COO000877010000004000000011
+OD000008340100000014000000510D00000802010000000FOOOOOO650DOOOOOB30010000006COO
+0000740D00000608010000002DOOOOOOEOOD00000055030000004EOOOOOOODOEOOOOOOOOOOOOOO
+00000000000DOEOOOOOB3001000000440000005BOEOOOOOOOOOOOO0000000000005BOEOOOOOOOO
+00000000000000005BOE0000000000000000000000005BOEOOOOOO0000000000000000005BOEOO
+00000000000000000000005BOE000000550A0001004E0000009FOE000000000000000000000000
+9FOE00000055020000004EOOOOOOEDOEOOOOOOOOOOOOOOOOOOOOOOOOEDOEOOOOOOOOOOOOOOOOOO
+OOOOOOEDOEOOOOOOOOOOOOOOOOOOOOOOOOEDOEOOOOOOO~OOOOOOOOOOOOOOOOEDOEOOOOOOOOOOOO
+000000000000EDOEOOOOOB30010000004E0000003BOFOOOOOOOOOO000000000000003BOFOOOOOO
+0000000000000000003BOF0000000000000000000000003BOFOOOO000000000000000000003BOF
+0000000000000000000000003BOF0000000000000000000000003BOFOOOOOOOOOOOOOOOOOOOOOO
+003BOF0000000000000000000000003BOFOOOOOOOOOOOOOOOOOOOO00003BOFOOOOOOOOOOOOOOOO
+000000003BOF00000942020000001D000000890FOOOOOOOOOOOOOO0000000000890FOOOOOOOOOO
+00000000000000890F000000000000000000000000890FOOOOOOOO0000000000000000890FOOOO
+00000000000000000000890F000000000000000000000000890FOO000000000000000000000089
+OF000000000000000000000000890FOOOOOOOOOOOOOOOOOOOOOOOO890FOOOOOOOOOOOOOOOOOOOO
+0000890F000000000000000000000000890FOOOOOOOOOOOOOOOOOO000000890FOOOOOOOOOOOOOO
+0000000000890F000009440200000033000000A60F00000942050000002AOOOOOOD90FOOOOOOOO
+0000000000000000D90FOOOOOOOOOOOOOOOOOOOOOOOOD90FOOOOOO000000000000000000D90FOO
+0000000000000000000000D90FOOOOOOOOOOOOOOOOOOOOOOOOD90F000000000000000000000000
+D90FOOOOOOOOOOOOOOOOOOOOOOOOD90FOOOOOOOOOOOOOOOOOOOOOO00D90FOOOOOOOOOOOOOOOOOO
+000000D90FOOOOOOOOOOOOOOOOOOOOOOOOD90FOOOOOOOOOOOOOOOO00000000D90FOOOOOOOOOOOO
+000000000000D90FOOOOOOOOOOOOOOOOOOOOOOOOD90FOOOOOOOOOO00000000000000D90FOOOOOO
+000000000000000000D90FOOOOOOOOOOOOOOOOOOOOOOOOD90FOOOO00000000000000000000D90F
+000000000000000000000000D90FOOOOOOOOOOOOOOOOOOOOOOOOD9OFOOOOOOOOOOOOOOOOOOOOOO
+                                                                                  Hex·DiJmp Conversion
+
+
+
+                                        February 27, 1999
+
+MEMORANDUM FOR THE PRESIDENT
+
+FROM:                     Bruce Reed
+                          Elena Kagan
+
+SUBJECT:                  DPC Weekly Report
+
+        Health Care -- Medicare Commission prescription drug benefit update. Senator
+Breaux is now indicating that he would like to find a way to integrate a prescription
+drug benefit into his Commission's recommendations. Beyond believing that drug
+coverage is important to the program, he knows that including a viable benefit is critical
+to having any chance of enticing Laura Tyson and Stuart Altman to support his plan.
+Laura and Stuart have explicitly rejected Senator Breaux's option because they do not
+believe it assures access to affordable prescription drugs for all beneficiaries. More
+specifically, because the Senator is limiting his option to low-income beneficiaries and
+those in private health plans, it is clear that millions of beneficiaries -- particularly in
+rural areas -- might be left without access to any affordable drug benefit. This is
+because many rural areas will not attract private health. plans to offer coverage. This
+helps explain why 'Laura and Stuart are so adamant that the traditional Medicare
+fee-for-service plan offer a drug coverage option as well. (They also believe that to
+ensure fair competition this benefit should be available in both traditional Medicare
+program and private insurers.) In response to Senator Breaux's request for assistance,
+Laura and Stuart are trying to design the parameters of a prescription drug benefit. It
+is likely to be a mid-range priced plan, in which the benefit is optional, has a 50 percent
+rather than a 75 percent subsidy, and a $250 or $500 deductible with a $1,500 or $2,000
+cap on the value of the overall benefit. (This is a much more modest package than a lot
+of the advocates were hoping for, but it is probably much more realistic from a financial
+and political perspective.)
+        Health Care -- Prescription drug comments are raising concerns: You should be
+aware that your comments on Thursday about prescription drug benefits were construed by
+many as opening the door to a partial drug benefit that is strongly opposed by all your base
+Democrats and even Laura Tyson and Stuart Altman. We have responded that, consistent
+with the views of Laura and Stuart, an appropriately structured and modestly subsidized
+benefit (which assures .the drug benefit would be affordable) would eliminate the need to
+make the coverage mandatory. As such, an optional drug benefit would allow those few
+Americans fortunate enough to have retiree health benefits to not be forced to purchase a
+Medicare drug benefit they do not need. One last point; opponents of a drug benefit (or those
+who wish to limit it) point to the fact that 65 percent of beneficiaries have a drug benefit
+already, so that a drug benefit would substitute public dollars for private dollars, and waste a
+                                                                                Hex-Dump Conver:;ion
+
+                                                                                                    2
+
+large amount of money. Ironically, a break out of this number illustrates why limiting the
+drug benefit to certain popUlations just does not work. Of the 65 percent of beneficiaries
+with some type of coverage, 20 percent already have Medicare or Medicaid coverage (so there
+would be no substitution of Federal dollars), another 28 percent have employer-based retiree
+health coverage, which is declining in unprecedented degrees and is tax subsidized, and 10
+percent have Medigap coverage, which is underwritten, expensive and declining. The
+remaining 7 percent are transitioning in and out of Medicare and Medicaid mostly. As a
+result, a decent drug benefit that is accessible to all beneficiaries would not substitute many
+Federal for private dollars, would be a far more substantive and affordable benefit, and -- as
+Laura Tyson says -- would be far more efficient from an economic perspective. Without a
+doubt, however, this issue is extremely complicated; we are carefully contemplating options
+and will be forwarding you additional information shortly.
+
+        Crime -- Assault Weapons: The Justice Department is preparing to release a report
+from the National Institute of Justice on the impact of the 1994 assault weapons ban. The
+report's findings are encouraging about the effectiveness of the ban, but are limited due to the
+relatively short study period (24 months post-enactment), with some analyses conducted with
+only one year of postban data. Among the key findings were:
+
+       (1) Decline in criminal use of the banned guns. Law enforcement requests for ATF
+       traces on assault weapons used in crimes decreased by 20 percent in the first year after
+       the ban took effect, as compared to a 11 percent decrease for all guns.
+
+       (2) Ban likely contributed to reduction in gun murder rate. Even controlling for other
+       factors (e.g., pre-existing state assault weapons bans, juvenile handgun bans,
+       California's three-strikes laws, New Yark's quality of life policing), the study
+       estimates that gun murder rates were between 6.7 to 10 percent lower the year after the
+       ban's enactment.
+
+       (3) Reduction in assault weapons used to kill police. Murders of police by offenders
+       armed with assault weapons declined from an estimated 16 percent of gun murders of
+       police in 1994 to early 1995, to 0 percent (none) in the latter half of 1995 and early
+       1996. However, such incidents are extremely rare to begin with, and researchers
+       could not conclude the ban's impact on the general reduction in gun murders of police.
+
+       (4) Significant but temporary market effects. The ban triggered speculative, sharp
+       price increases and additional production of the banned firearms prior to the law's
+       implementation. The increases were followed by a substantial drop in prices once the
+       law took effect returning prices to pre-ban levels. The report suggests that the market
+       effects made the banned weapons less accessible to criminals.
+
+       (5) No impact on reducing average number of victims per gun murder incident, or
+       multiple gunshot wound victims.
+                                                                               Hex-Dump Conversion
+                                                                                                   3
+
+
+        Crime -- Diallo Shooting: This week, you inquired about the recent shooting in New
+York City. On February 4, 1999, Amadou Diallo, an immigrant from Guinea, was shot in
+front of his apartment building in New York City by four white officers of the New York City
+Police Department. A total of 41 shots were fired, and Mr. Diallo died at the scene. The
+officers did not find a weapon on or near Mr. Diallo. The four officers were part of a
+specialized street crime unit reportedly searching for a rapist. Working with the White House
+Counsel we have learned the following: (1) the FBI has opened an investigation into the
+shooting and is assisting with forensic analysis; (2) DOl's Civil Rights and Criminal
+Divisions, and the U.S. Attorney for the Southern District of New York have been working
+closely with the Bronx District Attorney's Office on the investigation; and (3) the Community
+Relations Service has conducted conciliation services in Harlem, including attending the
+recent memorial service and demonstration on February 12. Additionally, for almost two
+years, the U.S. Attorney's Office for the Eastern District of New York -- with the cooperation
+of the New York Police Department -- has undertaken a review into whether the department
+has engaged in a pattern or practice of police misconduct.
+
+        Education -- NAEP Reading Scores: On Thursday, the National Center for
+Education Statistics will release state-by-state reading scores from the 1998 National
+Assessment of Educational Progress "Reading Report Card." Earlier this month, Vice
+President Gore and Secretary Riley announced the national scores from this' report, which
+showed that for the first time in nearly 30 years of testing, there were small but statistically
+significant gains in average reading scores in the 4th, 8th, and 12th grades between 1998 and
+1994: 4th and 12th grade scores returned to 1992 levels after a drop between 1992 and 1994,
+but the new 8th grade scores were up even from 1992. The state-by-state data is still being
+compiled, but the Education Department expects that most states will show improvements
+over the past four years. Secretary Riley will hold a press conference in Washington D.C.,
+and Vice President Gore will highlight New York and Connecticut scores in an event in New
+York City.
+
+        Education -- "Read Across America" Day: On Tuesday, the NEA is holding its
+annual "Read Across America" day, celebrating Dr. Seuss' birthday and focusing the nation's
+attention on the importance of reading.
+
+        Education -- Release of National Title I Assessment: On Monday, the Department
+of Education is scheduled to release the National Assessment of Title I , which is a
+Congressionally mandated report examining the impact of the 1994 amendments to the
+program -- namely, the progress being made toward the goal of having all children served
+under Title I meet high academic standards. The National Assessment examines the progress
+of students served by the program and the implementation of key Title I provisions at the
+state, district and school level. The National Assessment will report on progress in
+improving achievement for students enrolled in high-poverty schools, in increasing the
+number of Title I schools using standards-based reform and in accelerating state and local
+                                                                                       Hex-Dump Conversion
+                                                                                                    4
+
+efforts to assist Title I schools. Revisions to the Title I program that were made as part of the
+1994 ESEA reauthorization -- such as allowing schools to use their Title I funds for
+schoolwide improvements and pool their funding from all sources -- have made it more
+challenging for the National Assessment to track the use of Title I funds and blurred the
+distinction between program participants and other children. At this time, we are still
+working with the Education department to clarify what are the actual conclusions of this very
+important report; according to the Department of Education, the results are somewhat mixed.
+        Education -- Bipartisan discussions about a centrist education agenda: Senator
+Lieberman and Senator Gorton are working with a number of centrist outside groups and
+individuals to develop principles for a bipartisan approach to reauthorizing ESEA. They are
+hoping to secure support for these principles from about 5 Democrat and 5 Republican
+Senators, as well as some leading education experts from outside the Administration and
+Congress. The principles are likely to include a focus on accountability, teacher quality, .
+public school choice, and some consolidation of existing federal education programs. These
+principles are very much under development, but at this point would apparently not include
+school construction, block grants, or private school vouchers.
+
+        Welfare -- Reporting on Working Families in Poverty: On Thursday, the research
+group Child Trends put out a report on working poor families. The report, based on 1996
+Census data, found that children of working parents were much less likely to be poor. Only 9
+percent of children whose parents work were poor, compared to 63 percent with parents who
+didn't work. Thus, children in non-working families were seven times more likely to be poor
+as children in working families. The study defined working as at least 20 hours per week for
+a single parent family and 35 hours for a two parent family (the same as required by the
+welfare law).
+
+        The report also found that working does not guarantee an escape from poverty, at least
+by the official poverty definition. The study found 35 percent of poor children have working
+parents. However, the report used the official measure of poverty, which does not include as
+income the Earned Income Tax Credit or non-cash supports such as Food Stamps. Many
+analysts have calculated how EITC and Food Stamps help provide families with resources to
+move above the poverty line. As the Council of Economic Advisers has reported, the EITC
+lifted 4.3 million people out of poverty in 1997 and over half the decline in child poverty
+between 1993 and 1997 can be explained by changes in taxes most importantly in the EITC.
+The Center on Budget and Policy Priorities has calculated that a family of four can reach the
+$17,100 poverty line through a full time minimum wage job ($9,800), the EITC ($3,700), and
+Food Stamps ($3,600).
+
+        Immigrant Benefits -- Declining Participation: The Urban Institute will issue a
+report on Monday showing evidence of a "chilling effect" that has resulted in fewer immigrant
+families, compared to citizen families, accessing an array of public benefits. The study found
+welfare use by noncitizens declined by 35 percent from 1994 to 1997 while use by citizens
+declined 15 percent. While Medicaid use by citizen households under 200 percent of poverty
+                                                                                              Hex-Dump Conversion
+                                                                                                     5
+
+ did not change significantly, non-citizen family participation dropped 19 percent. Since most
+.legal immigrants were still eligible for benefits in 1997, these effects may be the result of the
+ publicity surrounding the debate over welfare and immigration reform leading people to think
+ they were ineligible or that accepting benefits would affect their immigration status. As you
+ know we have been working closely with the Department ofJustice and HHS on these issues,
+ and we expect the INS will issue guidance in the near future to provide clarity on what type of
+ benefits an immigrant can accept without being labeled a "public charge." Clearer guidance
+ on public charge policies, along with our proposals to restore additional health, nutrition, and
+ disability benefits to vulnerable legal immigrants, will allow us to begin sending clearer
+ messages to immigrant families regarding their eligibility for benefits.
+
+        Economic Development -- Yankee Stadium: We have contacted Representative
+Rangel's staffregard\ng the Congressman's interest in preserving Yankee Stadium and keeping
+the Yankees in the Bronx for the forseeable future. It appears that the Congressman is
+looking for support to identify existing and new funds to improve transportation access (both
+highway and rail links), and to promote commercial development in the area surrounding the
+stadium. His staff indicated they are not looking to utilize federal funds to help rehabilitate
+the stadium. Along with the NEC, OMB, and other relevant agencies, we will be discussing
+whether there is an appropriate role for federal involvement and if so, what are some of the
+possible tools and resources we can make available for the project.
+
+       Children and Families -- Child Care.            The House Ways and Means
+Subcommittee on Human Resources will hold a hearing on child care on March 16,
+which is significant because the last Congress refused to hold even a single hearing on
+the issue. The Administration will lead off the hearing testimony. Also, the
+Subcommittee's ranking Democrat, Rep. Ben Cardin (D-MD), plans to introduce a child
+care bill largely based on the Administration's proposals prior to the hearing.
+
+

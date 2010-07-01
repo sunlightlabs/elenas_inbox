@@ -1,0 +1,97 @@
+RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+CREATOR: Christopher C. Jennings ( CN=Christopher C. Jennings/OU=OPD/O=EOP [ OPD ]       )
+
+CREATION DATE/TIME: 8-MAY-1998 09:10:35.0.0
+
+SUBJECT:   weekly inserts
+
+TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP   [ WHO]   )
+READ: UNKNOWN
+
+TO: Paul J. Weinstein Jr.   ( CN=Paul J. Weinstein Jr./OU=OPD/O=EOP @ EOP [ OPD ]    )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ:UNKNOWN
+
+TEXT:
+I took a crack at doing an update on the PSO abortion issue.     Thought you
+might want to get something in on this.
+
+cj ==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D94]MAIL40043572U.126 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504306050000010A020100000002050000005211000000020000767D4BOB5948D4C4E86906
+7867D67FCAD7A3404AC02D35638CCBE77B6F17DDOB26A3D123C073A7DB6B748503F606A2BFCFB3
+26D424E5CEOA017F3718F033908B1C4AE027962D97B5FA04326D48C9B68D6B5225293B3F632891
+F2F2EBD8B37453C43A3DOOCED8DB7C30374E8AB2BCFOACE5AB7BA71B07DBEEC72ABEA25B50649E
+951857C640C75BCA252476DE85004A8D4394D5876F4C38C7206E1BA68CD2EA84E719F8232C8CC6
+7826A05E33DFA896BA6EA4E4436C32C86608B06D621B3E2E5A2BE3OB6EA3C3C55C6765ACBF89B1
+E9F32AD9D4929D10501CEDAF4AE5754B5AFF3B9EDFF03B615664192AB6880FFE3775ED4E42E03A
+90C1A0276D3A2AF120718978B83511AOC4E790169AD9AB032FB3B20E19493B394DC93F76725A55
+519F35266DF3515CEB24B62F61CEOB5CEDCB63DEBBF99D5C94AFA62286CE2B7F59BOAB36BCF137
+58CCDCA49669BCA8035CFOB8016CC6514BF8A9968EAF929BAA26A7461154391D3B8ADAC4F92EBD
+B2AOA449D96130B6C93608E4C09B45D2A040D6765C9B91B7B4CF047514FE205D060C6845E9DDE1
+050169F34A167AE28EFB86FADE47323301A44D35121BD4CABEB8BB620E9D8FOA6B7E513A13C3BB
+188A67B841F895B3E347240C50AE675EC1CD44556A94891E98BE61EB119DAC4157D7531AFF49C4
+D9B372825C02000A0000000000000000000000005S01000000420000008C020000092501000000
+06000000CE0200000055010000003AOOOOOOD4020000080201000000100000000E030000086E01
+000000580100001E0300000B30020000003400000076040000080S0100000008000000AA040000
+08770100000040000000B204000008340100000014000000F20400003COOFE1536105807000001
+39000000600028150000102A0043006F007S007200690065007200200031003200700074000000
+000000003100300063007000690000000100010058022900F41A5C121A09000011090000006000
+18110000102200440075007400630068000000000000007300630061006C00610062006C006500
+000008337C00740000020000380000000100AB003COOFE15361058070000013900000060002815
+0000102A0043006F00750072006900650072002000310032007000740000000000000031003000
+630070006900000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000580258027800FE1536105807000000041140C9001F4A511103105802402900F41A
+5C121A090000110900000060001811000010220044007500740063006800000000000000730063
+0061006C00610062006C0065000000630070006900000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000580258027400F41A5C121A09000000102050
+8E00273351110310580250010000000400280000000COOOOOOOOOO000000000000000000000112
+A4542400A1000000A1000000D3050C0000010000000COOD301000400020000000A0000002F0001
+004500300002000200310002000200320001004500330001000200340002000200350001004500
+                                              Hex-Dump Conversion
+
+Medicare and Abortion Coverage.       Recently, a provider sponsored organization (PSO), which is
+a member of the Catholic Health Association (CHA), was informed by a Health Care Financing
+Administration (HCFA) regional office that it could not participate in Medicare unless it agreed
+to provide abortion services for Medicare beneficiaries. Although a little known fact, Medicare
+does provide reimbursement for those limited occasions when a disabled Medicare beneficiary is
+pregnant and seeks an abortion. The CHA requested that we attempt to find an exception for
+PSOs that object to providing the service on religious/moral grounds.        Senator Nickles is also
+placing great pressure on HHS to develop a formal position. Already he is reportedly drafting
+legislation that would apply the Hyde Amendment to Medicare if we conclude that Hyde does
+not have the statutory reach to apply to Medicare. (HHS initial review has concluded that Hyde
+does not apply, but we are having White House lawyers review this analysis.) Even if Hyde
+does not apply, we do believe we may have found a way to respbnd to CHA's request.
+Specifically, PSOs that have "conscience clause" policies could be exempt from providing
+abortion services; beneficiaries in these plans could go to a physician that billed Medicare directly
+for the service. Unfortunately, Senator Nickles is not likely to accept this option, even if CHA
+does. He clearly sees this as an extremely attractive election year issue. Ironically, however,
+since the Hyde amendment has a rape or incest exception, our approach -- which would not
+require that these PSOs reimburse for any abortion -- is more responsive to and consistent with
+the CHA position. We have a working group from DPC, Council's office, OMB, and HHS
+reviewing legal, policy and strategic options. We plan on sending you an options memo on this
+issue shortly.
+
+Genetic Discrimination Update.· Senator Jeffords, Chairman of the Senate Labor and Human
+Resources Committee, has indicated his intention to produce a bipartisan bill -- likely with
+Senator Dodd -- that prohibits insurers from accessing and inappropriately utilizing
+genetic coding information. Since last year, you have been calling on the Congress pass
+legislation to bar both insurers and employers to use genetic information in a discriminatory
+fashion. The Senator's announcement was as surprising as it is welcome; we will be sending
+Administration witnesses to testify at the Labor Committee's hearing on this subject within the
+next two weeks. While it will take work, we believe this Committee activity has every real
+chance of making a significant contribution toward passing this bill either as a free standing
+measure, a part of a patients bill of rights bill, or as part of a broader medical records/privacy
+initiative. We will keep you apprised of developments.
+
+

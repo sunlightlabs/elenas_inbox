@@ -1,0 +1,108 @@
+ RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+ CREATOR: Jeanne Lambrew ( CN=Jeanne Lambrew/OU=OPD/O=EOP [ OPD 1 )
+
+ CREATION DATE/TIME: 5-MAR-1998 17:44:07.00
+
+ SUBJECT:   CBO Medicare Buy-In Report: good news
+
+ TO: Joshua Gotbaum ( CN=Joshua Gotbaum/OU=OMB/O=EOP @ EOP [ OMB 1 )
+ READ: UNKNOWN
+
+ TO: Michelle Crisci ( CN=Michelle Crisci/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Lawrence J. Haas ( CN=Lawrence J. Haas/O=OVP @ OVP [ UNKNOWN 1 )
+ READ: UNKNOWN
+
+ TO: Joseph P. Lockhart ( CN=Joseph P. Lockhart/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ:UNKNOWN
+
+ TO: Russell W. Horwitz ( CN=Russell W. Horwitz/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ: UNKNOWN
+
+ TO: Paul E. Begala ( CN=Paul E. Begala/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Rahm I. Emanuel ( CN=Rahm I. Emanuel/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ:UNKNOWN
+
+ TO: Barry J. Toiv ( CN=Barry J. Toiv/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ: UNKNOWN
+
+ TO: Jake Siewert ( CN=Jake Siewert/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ; UNKNOWN
+
+ TO; Gene B. Sperling ( CN=Gene B. Sperling/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ:UNKNOWN
+
+ CC: Sarah A. Bianchi ( CN=Sarah A. Bianchi/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ: UNKNOWN
+
+ CC: Christopher C. Jennings ( CN=Christopher C. Jennings/OU=OPD/O=EOP @ EOP [ OPD 1
+ READ: UNKNOWN
+
+ TEXT:
+ ==================== ATTACHMENT   1 ====================
+ ATT CREATION TIME/DATE:   0 00:00:00.00
+
+ TEXT:
+ Unable to convert ARMS_EXT: [ATTACH.D01MAIL42899636R.026 to ASCII,
+  The following is a HEX DUMP:
+
+ FF57504300060000010A020100000002050000000A190000000200OOCB8CE937146EF092180892
+·
+                                                                                               Automated Records Management System
+                                  Congressional Budget Office (CBO) Analysisof di~-Dump Conversion
+                                       President's Medicare Buy-In Proposal
+
+        As part of their analysis of the President's Budget, CBO did an analysis of the Medicare buy in.
+        Their analysis found that:
+
+        ·   No Trust Fund Impact: The net cost of the Medicare buy-in, according to CBO, is $300
+            million over 5 years - only fractions of a percent of Medicare spending.
+
+        ·   More participants: Participation is estimated to be over 33 percent higher than what the
+            Administration estimated - 410,000.
+
+        ·   Lower cost: The post -65 premium that people ages 62 to 65 would pay is only $10 per month
+            per year - $6 per month and $72 less per year than Administration estimates. I
+
+                                Medicare Buy-In, 1999-2003 ($ in Billions, Fiscal Years)
+
+                 Spending (5 years)
+                       62 to 65 Year Olds                      8.9
+                       Displaced Workers                       0.5
+                       Total                                   9.3    *
+                 Premium revenue (5 years)
+                       62 to 65 Year aids                      -7.3
+                       Post-65                                 -0.2   **
+                       Displaced Workers                       -0.3
+                       Total                                   -7.8
+
+                 Net Costs                                     1.5                       (Administration: 1.5)
+
+                 Anti-Fraud Savings                            -1.4
+                 Premium offset                                +0.3                      (Administration: -2.4)
+
+                 NET MEDICARE                                  +0.3*                     (Administration: -0.8)*
+
+        * Numbers may not sum to total due to rounding
+        ** These premiums increase after the first 5 years as participants turn age 65
+        Participation when fully phased in:410,000                               (Administration: 300,000)
+
+        Premiums in 1999:
+              62 to 65 Year aIds                               $310 per month        (Administration: $305)
+              Post-65                                          $10 per month per year (Administration: $16)
+              Displaced Workers                                $400 per month       .(Administration: $400)
+
+        I. Although the base premium is slightly higher, overall premiums are much lower since the post-65 premium,
+        which is $6 less per month, would be paid every year until age 85.
+
+

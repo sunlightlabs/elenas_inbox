@@ -1,0 +1,106 @@
+RECORD TYPE: PRESIDENTIAL     (NOTES MAIL)
+
+CREATOR: Christopher C. Jennings ( CN=Christopher C. Jennings/OU=OPD/O=EOP [ OPD 1 )
+
+CREATION DATE/TIME: 3-DEC-1998 12:23:28.00
+
+SUBJECT:   medicare q&a
+
+TO: Daniel N. Mendelson ( CN=Daniel N. Mendelson/OU=OMB/O=EOP @ EOP [ OMB 1 )
+READ: uNKNOWN
+
+TO: Jeanne Lambrew ( CN=Jeanne Lambrew/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Jacob J. Lew ( CN=Jacob J. Lew/OU=OMB/O=EOP @ EOP [ OMB 1 )
+READ:UNKNOWN
+
+TO: Gene B. Sperling ( CN=Gene B. Sperling/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+CC: Devorah R. Adler ( CN=Devorah R. Adler/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ:UNKNOWN
+
+CC: Melissa G. Green ( CN=Melissa G. Green/OU=OPD/O=EOP @ EOP    [ OPD ] )
+READ: UNKNOWN
+
+CC: Cathy R. Mays    ( CN=Cathy R. Mays/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ:UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+TEXT:
+Hello
+
+Please review and call with comments as soon as possible. Sorry for the
+rush.
+
+Thanks
+
+cj
+
+==================== ATTACHMENT   1====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D55]MAIL49546483U.326 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043B0040000010A020100000002050000008F10000000020000C45C8F6BF740A6E24D9A64
+A1998E59F454510CAE853791A9E9C47F925449630E5AFAD89D6CD264BBA131DBA5AC560DA5F214
+4B814E873593471BA3A46DCOE84FE8773F950BD9FBA23A2F3515CC025D4E6FE1E17674CF88A17D
+
+
+
+
+     . Q:    Senator Breaux and Senator Frist accurately point out that the Medicare Trust
+             Fund is projected to become insolvent far sooner than Social Security's Trust Fund.
+             Both have stated that Medicare's more acute problem deserves serious attention
+             and, in fact, have said that addressing Medicare should be the Administration's and
+             Congress' first priority. (Senator Breaux is no longer saying Medicare first, but is
+             definitely wants the program to get equal billing). How do you respond? Don't
+             they have a point?
+
+      A:     Assuring a strong, modem Medicare program has always been and always will be a
+             top priority for this President. Last year, the President enacted into law arguably the
+             most significant changes to Medicare since the program's enactment in 1965 .
+                 . A provision in that legislation, one that he strongly supported, was the establishment
+             of the Medicare Commission. The Corrimission, which has 17 Members -- including four
+             Administration appointees -- and is chaired by Senator Beaux, is charged with developing
+             recommendations to begin dealing with the long-tenn health care delivery, financing, and
+             demographic challenges facing the Medicare program. Because of the President's strong
+             commitment to the program, we are closely following the work of the Commission and
+             are hopeful that we will be able to embrace its final report, now scheduled to be released
+             in March of next year.
+
+             Unlike Medicare, however, we have all benefited from the completion of the work of the
+             Social Security Advisory Commission. This Commission produced a comprehensive
+             analysis of the challenges facing Social Security and produced a series of options that are
+             now being seriously reviewed by all parties interested in this critically important program.
+              As a result, we now have a historic opportunity to ensure the solvency of Social Security
+             well into the next century. We need to respond to this opportunity. Doing so now will
+             make it easier for us to focus on the future of Medicare.
+
+        Q:   Are you saying that the President and the Administration will do nothing about
+             Medicare until the Commission files its report?
+
+      A:     Of course not. The President has and will continue to take administrative actions and
+             propose legislative initiatives that strengthen the Medicare program. For example, his
+             record on advocating for anti-fraud and program integrity initiatives is clear. As such,
+             we are currently reviewing options for this upcoming budget. However, we are doing so
+             in a way that complements rather than undermines the Commission's work.
+
+
+
+
+                                                        Automated Records Management System
+                                                        Hex-Dump Conversion
+
+

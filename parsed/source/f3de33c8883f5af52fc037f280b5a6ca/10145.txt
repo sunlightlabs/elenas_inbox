@@ -1,0 +1,33 @@
+RECORD TYPE: PRESIDENTIAL     (NOTES MAIL)
+
+CREATOR: Fred DuVal   ( CN=Fred DuVal/OU=wHO/O=EOP [ WHO 1 )
+
+CREATION DATE/TIME:20-NOV-1998 15:55:18.00
+
+SUBJECT:
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Maria Echaveste   ( CN=Maria Echaveste/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: John Podesta ( CN=John Podesta/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: William H. White Jr.    ( CN=william H. White Jr./OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+CC: Mickey Ibarra (CN=Mickey Ibarra/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TEXT:
+Attorney General Gregoire just let us know that all 46 states have signed
+onto the tobacco deal.
+..

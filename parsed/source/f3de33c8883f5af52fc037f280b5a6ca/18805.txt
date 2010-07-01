@@ -1,0 +1,193 @@
+RECORD TYPE: PRESIDENTIAL     (NOTES MAIL)
+
+CREATOR: Sandra Yamin ( CN=Sandra Yamin/OU=OMB/O=EOP [ OMB 1 )
+
+CREATION DATE/TIME: 2-MAR-1998 16:10:43.00
+
+SUBJECT:     Head Start options paper
+
+TO: Emil E. Parker      CN=Emil E. Parker/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Nicole R. Rabner ( CN=Nicole R. Rabner/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Jennifer L. Klein ( CN=Jennifer L. Klein/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+CC: Iratha H. Waters ( CN=Iratha H. Waters/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ:UNKNOWN
+
+CC: Barry White ( CN=Barry White/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+CC: Neera Tanden ( CN=Neera Tanden/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Denise M. Bray ( CN=Denise M. Bray/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ:UNKNOWN
+
+CC: Jennifer Friedman ( CN=Jennifer Friedman/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+CC: Keith J. Fontenot ( CN=Keith J. Fontenot/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TEXT:
+Barbara would like to meet with you on Thurs., Mar 5 at 12:00PM in Rm 260
+to discuss the attached Head Start Options Paper.  please confirm your
+attendance.  Thank you.
+
+(It was brought to my attention that Jennifer Klein is out of the office
+until Monday, but have scheduled this meeting for Thurs per Nicole's
+suggestion) .
+---------------------- Forwarded by Sandra Yamin/OMB/EOP on 03/02/98 02:58
+PM ---------------------------
+
+
+
+
+Jennifer Friedman
+03/02/98 02:52:41 PM
+Record Type:    Record
+
+To:        Sandra Yamin/OMB/EOP@EOP
+
+
+cc:
+Subject:        Head Start options paper
+
+
+
+
+==================== ATTACHMENT 1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D76]MAIL45918606N.026 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504314130000010A02010000000205000000663E000000020000ADDC6F17DDFB33DAB60BDC
+                                                                            Hex-Dump Conversion
+
+
+
+                   OPTIONS FOR HEAD START REAUTHORIZATION
+
+The FY99 President's budget increases Head Start $3.8 billion over the five year period FY99 to
+FY03. This funding level is sufficient to meet the President's goal of serving 1 million children
+by 2002, including 80,000 children in Early Head Start. The budget provides for a full inflation
+adjustment and "quality" set-aside in FY99. However, because out year policy was deferred to the
+reauthorization cycle, less than the full current law amounts for the traditional COLA or set-aside
+are in the budget for the outyears. The amounts for quality and COLA for FY 2000 to 2003 are
+between $40 to $260 million.
+
+Policy was deferred because the effectiveness of the quality set-aside and COLA in raising
+quality is not clear. HHS argues that the salary and benefit increases and the new staff paid for
+with the "quality" money help to improve student-to-teacher ratios and increase staff retention,
+and that these are proxies for quality. However, important points to consider when discussing
+Head Start quality are:
+
+·      There is no evidence indicating that these funds have lowered student-to-teacher ratios or
+       improved staff retention. Furthermore, there is a significant body of research showing
+       that improved teacher salaries do not result in improved educational outcomes for
+       children.
+·      The Head Start Performance Standards set required student-to-teacher ratios that are
+       designed to ensure a uniform level of program quality. These standards can be met
+       within current funding levels.
+·      Head Start providers currently earn $9 to $16 per hour, well above the average child care
+       worker's hourly wage of $6 to $7.
+·      COLA increases have been given in Head Start every year of the Clinton Administration.
+         Given the size of the base appropriation, even freezing participation requires a COLA
+       increase of over $100 million annually. Grantee staffs in other programs in HHS'
+       Administration for Children and Families, and very few social programs, if any, receive
+       COLAs by statute. In particular, neither the COPS program nor the new Class Size
+       Reduction Initiative include provisions that provide automatic COLAs.
+·      Even if these funds do improve quality, one can argue that there is still no need to
+       continue the set-aside because these funds have permanently increased the average amount
+       spent per child. Since 1993, this Administration has invested over $600 million in new
+       quality activities. When we consider that each year these funds go into the base and then
+       get inflated in subsequent years, we have cumulatively spent over $1.2 billion on quality
+       activities since 1993. Therefore, there are already sufficient funds in the base to continue
+       activities previously funded with the "quality" investment set-aside.
+
+The debate comes down to one of slots versus automatic set-asides, and as the discretionary caps
+become tighter in the outyears, it becomes increasingly necessary to prioritize.
+                                                                                Hex.Dump Conversion
+
+
+Providing the current law COLA and set-aside would add $1.6 to $1.8 billion to the cost of Head
+Start expansion from FYOO to FY03. Roughly $550 to $750 million is due to the set-aside; $900
+to $1,000 million is due to the COLA; and the remainder is due to interactions between the
+COLA and the set-aside. The costs are high because there is a compounding effect, i.e., each
+year the current law COLA and quality set-aside go into the base and then get inflated in
+subsequent years.
+
+OPTIONS
+
+Option 1 .
+
+·      Authorize appropriations for quality set-aside and COLA at the Administration's
+       discretion, not to exceed the levels currently authorized.
+       Require HHS to use part of the quality funds to track the use of quality dollars and
+       evaluate the effects of these investments on outcomes for children.
+
+       Pros:     Provides flexibility to make funding decisions on a year-by-year basis,
+                 resulting in potentially large savings. This flexibility allows the Secretary the
+                 choice of maintaining the FY99 budget path.
+                 Results in valuable information on meritorious uses of the quality set-aside.
+
+       Cons: .   Some argue that this option may upset Congressional consensus on Head
+                 Start; may be seen as an inconsistent position on quality, thereby jeopardizing
+                 the Child Care Initiative; and can be seen as compromising the President's
+                 commitment to Head Start.
+                 Puts pressure on the Administration to debate this issue every year when
+                 making funding decisions.
+
+
+Option 2
+
+·      Structure quality set-aside so that it continues to be 25 percent of the Head Start increase,
+       but provide quality funds for one-time expenditures, suc!: as facilities improvements,
+       salary bonuses based on merit, purchase of educational materials, playground
+       equipment, teacher training, transportation services, etc. Since funds go for one-time
+       purchases, the amounts do not need to go into the base.
+·      Require grantees to apply for quality funds on a competitive basis.
+       Remove requirement that at least 50 percent of quality funds must go to salary and benefit
+       improvements.
+·      Require HHS to use part of the quality funds to track the use of quality dollars and
+       evaluate the effects of these investments on outcomes for children.
+       Authorize appropriations for a COLA at the Secretary's discretion, not to exceed the
+       levels currently authorized.
+
+
+
+                                                                      Automated Records Management System
+                                                                              Hex-Dump Conversion
+     Pros:   By redirecting quality funds to one-time improvements/purchases, eliminates
+             need for quality funds to go into the base and get inflated. The increase over
+             the FY99 budget caused by this policy is $600 million less than the increase
+             caused by providing the current law COLA and quality set-aside.
+             Results in obtaining timely information on actual uses and net impact of the
+             quality set-aside.                                                  .
+             Provides opportunity to refine the quality set-aside and target dollars to
+             activities that have more clear cut benefits.
+             Rewards grantees that propose uses for quality funds that have proven merit.
+             Maintains quality investment as a set-aside equaling 25 percent of the
+             program's increase.
+             Provides flexibility to make funding decisions regarding the size of the COLA
+             on a year-by-year basis.
+
+     Cons:   Makes public the concern with the current structure.
+             Flexibility to lower COLA may be seen as a threat to teacher retention.
+             Removes guarantee that every grantee will receive quality funds.
+             Elimination of compounding effect for quality set-aside reduces rate of long
+             term Head Start spending, considered by some to be an independent goal.
+
+

@@ -1,0 +1,366 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Michael Cohen ( CN=Michael Cohen/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME: 19-JUN-1998 12:49:55.00
+
+SUBJECT:   Bilingual memo again
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP   @   EOP [ OPD ]. )
+READ: UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [톆HO ] )
+READ: UNKNOWN
+
+TEXT:
+Attached is the latest version of the memo, incorporating the additional
+legislative information and the additional option we discuss~d last
+night.  I'll call you to discuss how to proceed==================== ATTACHMENT    1
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D30]MAIL474628177.126 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043FA040000010A020100000002050000000659000000020000D901D99329C28741494A58
+43470DC287164AFB761FC431D95845326D3320351CCBD9F29FD35C61D321ACBA1D8276980DBOBE
+555B39CC288928CF7F58EF01843E04511B81BF8BF2A6BBF8BFC8088BC3F339EDCFF830CBCA2068
+AOD88448CE90D6974F5260565FCFD76C5CF5AA6451DC7C58EE224EE421467A280FD6BFDA6B037C
+B070BD52B5EC815941C422D4DA06F93560D57D553526C26DACB27F1287796E93E78A897D6BC1D7
+04E6804316DOC91293FE024C30A2C6491E91BC490DE9576B307BOF711E4A2BE5A65255ACE8A50A
+Fl19BEC8C81A7E9B458A55262223D4E25805D26C45CD5798DA6F31OCF21943667C959B6B3D4C28
+063F7694F3F07C01FCC5C4889FE1DFA437BA8DF9F2809555EBC6653703C4EDC535A155DCB9EC04
+2706848C4B8FAE1583B52B8061DC40508CD012F511B018BC78998AA56BF9930177D4373BA8FC9C
+8A35126EB563BOE049D4EC7D51D1FBAD41DCA734206F3248FD707COBBB94CFAOC335DB890CF179
+9DA1B244B2CDF9689CBOF79E8C923330D444CB47A8D317E4406288OEEC047EE40421748E45550E
+FBOEBA9BOE4AEED1E2F24EBA63C95C160CDDF89232DDB042DF188AF5C04745218D51DAD77A7920
+11C18C2964B38E7274D72A43BC68126D66B8A6E3692004F8B6BDA2C13AAE58937CBA5C9233C88E
+EOB80ABA5702002000000000000000000000000055010000004EOOO000C0030000092501000000
+060000000E04000008020100000010000000140400000B30020000003400000024040000081D01
+000000000000005804000008770100000040000000580400000834010000001400000098040000
+000000000000000000009804000000000000000000000000980400000000000000000000000098
+040000000000000000000000009804000000000000000000000000980400000000000000000000
+000098040000000000000000000000009804000000000000000000000000980400000000000000
+000000000098040000000000000000000000009804000000000000000000000000980400000000
+000000000000000098040000000000000000000000009804000000000000000000000000980400
+000000000000000000000098040000000000000000000000009804000000000000000000000000
+980400000000000000000000000098040000000000000000000000009804000000000000000000
+000000980400000000000000000000000098040000000000000000000000009804000000000000
+000000000000980400000B30130000004EOOOOOOAC0400002800D61EC30F390800001109000000
+5AOOOB01008B143600540069006D006500730020004E0065007700200052006F006D0061006EOO
+200052006500670075006C0061007200000000000000000001000100580208337C007800000200
+002B0000000100010000000400280000000COOOOOOOOOOOOOOOOOO0000000000000112A4552400
+A1000000A1000000D3050C0000010001000COOD30A000000220001004500230001000200240001
+0017002500010002002600010017002700010002002800010045002900010002002A0002001700
+2B0001004500AB9DC5240000000000363700373800383900393A0100000004003EOOOOOOOOOOOO
+00100000000000000000000000031D87A624002206000053006DOO61006C006C00200043006900
+720063006C0065000000F02206FOE0300C0000000008070COOEODDOA1000830104000300A45521
+1000DDD3050C0000010001000COOD3DDOBOB00030000040BOODDF1020BOOF1D103370080010000
+16007531010000580206000058020000000000000064ECOOOOOOOO580200000058020000000000
+000064EC003700D1F1030BOOF14452414654D0041500000B00090001B0040000000001201500DO
+                                                                       Hex-Dump Conversion
+
+DRAFT
+
+                                          June 18, 1998
+
+
+MEMORANDUM FOR THE PRESIDENT
+
+FROM:          BRUCE REED
+               LARRY STEIN (DO YOU WANT TO INCLUDE HIM ON THIS MEMO AS
+               REQUESTED BY JANET?)
+
+SUBJECT:       Bilingual Education
+
+
+        On June 4, the House Education and Workforce Committee reported H.R. 3982, the
+English Fluency Act, introduced by Rep. Frank Riggs. This bill raises many of the same
+programmatic issues and political dynamics as the Unz Initiative in California. The purpose of
+this memo is to update you on this proposal and the development of an Administration
+alternative, and to present you with options for how to proceed.
+
+I.     Overview of Riggs Bill
+
+        The bill would eliminate the existing Bilingual Education and Emergency Immigrant
+Education programs and would (1) distribute funds through a block grant that is not targeted
+toward school districts with the highest quality programs and greatest funding need; (2) require
+states to withdraw funding from local programs in cases where students do not master English
+within two years and set a 3-year limit for serving any individual student, though it would not
+provide any extra help for students or corrective action for programs that need it; (3) not require
+States to maintain their own efforts; and (4) eliminate professional development programs
+designed to prepared qualified ESL and bilingual education teachers. The bill also seeks to
+sharply curtail the enforcement powers of the Education Department's Office of Civil Rights by
+voiding existing voluntary compliance agreements between OCR and local school districts with
+regard to educating LEP students and by requiring OCR to publish -- and the Congress to ratify --
+new guidelines and compliance standards for Title VI enforcement. These provisions would
+weaken enforcement of Title VI ofthe Civil Rights Act of 1964 and result in increased litigation.
+
+II.    Development of Administration Alternative
+
+        We are on track to have an alternative bill based on the principles you approved and
+Secretary Riley articulated in his statement of opposition to the Unz Initiative completed and
+ready for transmittal to Congress by the end of this week. This bill would amend (rather than
+replace entirely) the existing bilingual education program. Specifically, it would require
+participating school districts to (1) establish a goal of preparing LEP students to enter
+                                                                           Hex-Dump Conversion
+
+successfully regular English classrooms in not more than three years, (2) conduct annual
+assessments of student's English proficiency; (3) provide additional help for students not on track
+to English proficiency; (4) develop a corrective action plan, to be approved by the Secretary, if a
+significant percentage of students do not meet the 3-year goal. If student performance does not
+improve after a year, no additional funding would be provided. The bill would also provide
+incentives for districts that make outstanding progress toward the three year goal, by providing
+them with an additional 2-4 years of funding. In addition, the bill would guarantee local
+flexibility by removing the existing cap on funding for programs that do not use the students
+native language, and would remove the competitive priority currently given to programs designed
+to maintain native language while helping students learn English.
+
+This bill would be a solid first step to reform federal programs to help students become proficient
+in English. The Education Department is working on a more thorough approach as part of its
+planning for the reauthorization of ESEA. This approach would include a more thorough
+overall of the bilingual education program, as well as an effort to make Title 1 a more effective
+tool for helping LEP students learn English.
+
+III.�   Congressional Dynamic
+
+        H.R. 3892 was reported out of committee on a straight party line vote (22-17). While the
+bill will certainly move in the House, there is no hint of movement on the Riggs bill in the
+Senate. Barring unforseen developments, we do not expect either the Senate authorizing or
+appropriations committees to take up this issue.
+
+        The Republicans will include the Riggs bill as a rider to the Labor-HHS-Education
+Appropriations bill when it is marked up in subcommittee on June 2x. Subcommittee
+Democrats view this bill as so fundamentally flawed that they do not plan on offering any
+amendments to try and improve it. The bill will provide approximately $2 [CK] billion less than
+you have requested for overall education spending; it will make significant cuts in.
+Administration priorities such as Goals 2000, and will contain a number of unacceptable riders
+including a prohibition on national testing and the creation of one or more block grants out of
+existing programs.
+
+       House Democrats have not yet finalized a strategy for this bill at the full committee and
+when it comes to the floor. They presume that you will issue a veto threat as the bill moves
+forward. It appears likely that any amendments offered will be designed to promote a unified
+Democratic message rather than to materially improve a bill will be still be fundamentally
+flawed. We do not expect the Hispanic Caucus to mount an effort to strip Riggs from the bill.
+Consequently, it is entirely possible that there will not be a vote or significant debate on bilingual
+education on the House floor.
+
+        It seems unlikely that the Republicans will completely pass up the opportunity to push a
+debate on this popular issue, and we cannot rule out the possibility that Riggs will come to the
+
+
+                                                  2
+                                                                         Hex-Dump ConverSion
+
+
+floor as a free-standing measure. Notwithstanding the success of the Unz Initiative, Committee
+Democrats did not feel compelled to offer an alternative to Riggs's bill during committee
+markup. Moderate Committee Democrats (e.g., Reps. Roemer and Kind) as well as the four
+Members of the Hispanic Caucus on the Committee (Reps. Martinez, Romero-Barcelo, Hinojosa
+and Sanchez) decided to vote against the Riggs bill even without a Democratic alternative.
+
+         However, it is quite possible that House Democrats will feel compelled to offer an
+alternative if and when the bill hits the floor so that they can vote for reform of bilingual
+education. Leaders of the Hispanic Caucus, including Caucus Chairman Becerra and Education
+Committee Member Hinojosa, have quietly acknowledged that, for the greater good of the
+Democratic Caucus, such a floor alternative might become necessary. However, up until now
+they have been adamantly opposed to a floor alternative, and remain to be convinced that one is
+necessary for a successful floor strategy. In addition to their own apprehensions, Hispanic
+Caucus members are under substantial political pressure from bilingual advocates to steer clear
+of an alternative.    While moderate Democrats themselves were not clear at the time of
+committee mark-up if they would need an alternative, there are now growing signs of interest in
+one among moderates, and ongoing discussions about this with the Hispanic Caucus members.
+
+IV.    Options for Leadership
+
+        Regardless of how the Riggs bill moves forward over the coming weeks and months, the
+national debate over bilingual education will continue. We believe that you must be an active
+player in that debate, in order to shape Congressional action on the federal program, as well as
+the broader debate that will affect state and iocal actions throughout the nation.
+
+        We see three options for how you can proceed. Any of these options could be carried out
+shortly after you return from China.
+
+Option 1..     Transmit An Administration Bill
+
+        Sending up a bill in the near future would demonstrate your clear corrimittment to
+reforming bilingual education, and would position you in the reasonable center of the emerging
+national debate, between those such as Unz and Riggs who are proposing extreme and punative
+approaches on the one hand, and those who are defending the status quo that was rejected by a
+large margin of the public, at least in California. From this point of view, it will be important to
+transmit the bill as soon as possible in the event that the Riggs bill captures press attention as it
+moves forward. It will provide House Democrats with a ready-made alternative to Riggs if
+they feel the need for one. Even if this bill is not introduced or does not gamer much support
+among Democrats, by staking out a clear and independent Administration position now, you
+can have a significant impact on next year's debate, when legislation to reform bilingual
+education is more likely to reach your desk.
+
+       There are significant legislative downsides to introducing an Administration bill now, if
+
+
+                                                 3
+                                                                        Hex-Dump Conversion
+
+House Democrats have otherwise concluded that they neither want nor need an alternative bill. In
+particular, introducing an alternative at this time would be perceived by the Hispanic Caucus as
+jumping the gun strategically, and preempting meaningful consultation regarding the substance
+of an alternative. It would generate a hostile reaction from the Caucus, and is likely to recreate
+the same divisions among House Democrats we saw last year on national testing. The prospects
+that the Black Caucus would ally itself with the Hispanic Caucus and Republicans in opposition
+to your bill are high. Under these circumstances, there is a good chance that your proposal
+would not find a Democratic sponsor, or if introduced and allowed to come up on the floor as an
+alternative to Riggs, would be defeated by a large, bipartisan margin. Opposition by the
+Hispanic and Black Caucus would almost certainly spill over into renewed opposition to
+continued funding for the national test (though the prospects of support from the two caucuses is
+slim at best in any event), and perhaps to other legislative battles as well.
+
+       Further, there is the outside chance that sending up an Administration alternative that
+lacks support from Democrats could push Riggs to seek to narrow the differences between his
+approach and yours. He has indicated privately that he does not see large differences between
+his approach and the principles outlined in the Administration's opposition to Unz, and that he is
+ultimately prepared to drop the civil rights enforcement provisions in his bill. If Riggs were to
+modify his bill in order to more closely reflect the principles in ours, we would have a difficult
+time opposing his bill and would risk infuriating Democrats if we cut a deal with him.
+
+Option 2.     Defer to the Congressional Democrats on the Timing of Transmittal
+
+        An alternative course of action would be to proceed immediately to consult with members
+of the Hispanic Caucus and other Democrats on the shape of an alternative bill, using the
+Administration bill as the starting point, and making our 3-year goal and strengthened
+accountability as nonnegotiable principles which must be incorporated into any legislation we
+would support. While there is no guarantee that Democrats in general and the Members of the
+Hispanic Caucus in particular will endorse our approach, we can gain leverage in these
+negotiations by making clear that a veto threat to Riggs remains dependent upon the introduction
+of an alternative consistent with our principles. We can also make clear that we will transmit a
+reauthorization bill next year that is fully consistent with these principles.
+
+        If we determine together with House Democrats that an alternative is strategically
+necessary when the bill comes to the floor or is taken up by the appropriations committee, we
+could then introduce a bill consistent with our principles that would unite, rather than divide
+Democrats. Alternatively, if House Democrats either do not want an alternative when the Riggs
+bill or the Appropriations bill reaches the floor, or will not support an approach based on our
+principles, we can reassess our position at that time and either send up our own alternative or
+choose to wait until next year's reauthorization.
+
+      This approach is more likely to unite the Democrats over a potentially divisive issue, keep
+them united for the larger education and other battles over the coming months, and enable those
+
+
+                                                4
+                                                                        Hex-Dump Conversion
+
+of us in the Administration to focus our time and energy on fights with Republicans rather than
+on infighting within the Democratic Caucus.
+
+       There are clear downsides to this approach as well. It places a large measure of control
+over the timing and, to some extent the content, of your own proposal in the hands of Members
+who do not share your views about the need or way to reform bilingual education.
+Consequently, the chances are high that you would not transmit legislation at all this year, and
+you would therefore be unable to position yourself or to effectively define the debate.
+
+
+Option 3.     Announce a Comprehensive Plan to Help Students Learn English, with
+              Legislation to be Sent up Next Year
+
+        A third alternative would be to announce a package of steps, designed to advance a
+comprehensive approach to helping LEP students receive a world-class education and become
+proficient in English. The idea is to broaden the debate beyond the design of the bilingual
+education program, and focus instead on a range of steps that would support the goal of helping
+students leam English within three years. This package is still under development and may not
+be ready until several weeks after you return from China. It would include:
+
+�      A .Proposal to Overhaul the Federal Bilingual Education Program and Related
+       Programs. You would announce that next year you will send Congress legislation that
+       would complete overhaul federal efforts to help LEP kids learn English. The overhaul
+       would set a 3 year goal for students to become proficient in English, hold schools
+       accountable for results, provide communities with the flexibility to determine how best to
+       meet the goal, and give parents greater choice. Legislation sent to Congress next year
+       would be more sweeping than the package of amendments available at present. It would
+       also address how the Title 1 program--which serves far more students than the bilingual
+       education program--will also be redesigned to help LEP students become proficient in
+       English, according to the same principles outlined above.
+
+�      A Directive to Identify National and International Models of Best Practice. You
+       would direct the Secretary of Education to produce a report by next Fall that would
+       identify places in the U.S. and in other countries with sizeable immigrant populations
+       (e.g., Canada and Israel) that help students become proficient in English (or another 2nd
+       language as appropriate) within 3 years. The purpose of the directive would be to inform
+       the development of our legislative proposal and to focus the attention of the public and
+       educators on effective ways to help students more rapidly become proficient in English.
+
+�      An Initiative to Strengthen Teaching for LEP Students. The existing bilingual
+       education program provides strong support for the recruitment, preparation and continued
+       training of bilingual and ESL teachers. We are exploring ways to better highlight and .
+       strengthen this component. In addition to further expanding our investments in this area,
+
+
+                                               5
+
+                                                                           Autornated Records Management System
+                                                                           Hex-Dwnp Conversion
+
+           options under discussion include creating mentoring programs to help beginning teachers,
+           providing additional incentives to recruit well prepared teachers, and strengthening the
+           provisions in Title 1.
+
+    �      An Initiative to Promote School/College. Partnerships, Tutoring, and Other
+           Community-Based Support for Helping Students Learn English. We are exploring
+           how best to use existing programs, including America Reads, the 21 st Century Learning
+           Program, and High Hopes as the foundation for promoting grass roots efforts to mobilize
+           extra help for LEP students to learn English through after-school tutoring, Saturday
+           programs, and other mechanisms to recruit adults, particularly bilingual adults, to help
+           students learn English.
+
+    �      An R&D and Technology Initiative. We can strengthen efforts to help students learn
+           English with an R&D initiative targeted to areas that have the potential for high impact.
+           These might include continued studies and demonstrations of best practices, the
+           development of technology-based assessments of language proficiency, and the
+           development of programming to promote English language acquisition, for use as digital
+           TV comes into widespread use. It might also include demonstration programs focused
+           on the best ways of helping young adult (18-24) recent immigrants, who have not
+           completed high school in their country of origin, do not emoll in high school in the U.S.,
+           learn English.
+
+    �      A Proposal to Help English Speaking Students Learn Foreign Languages. This
+           package provides an important opportunity to broaden the debate about bilingual
+           education by recognizing the value of bilingualism in a global economy. In particular,
+           we could propose an initiative to expand the existing $5 million program that promotes
+           foreign language instruction, and focus it on encouraging more schools to provide foreign
+           language instruction in the early grades, when students are best equipped to learn a
+           second language.
+
+           This more comprehensive approach would give you a strong basis for leading the national
+    debate about bilingual education, while providing the time to fully develop a comprehensive
+    Administration package as part of the FY 2000 budget process. By not transmitting legislation
+    now; it avoids the prospect of creating a rift with and among Congressional Democrats.
+    However, if there was agreement among Congressional Democrats that an alternative to Riggs
+    was necessary in the short run, the package of amendments we have already drafted could be
+    used.
+
+           The primary downside to this approach is that it could be seen by the press as an effort to
+    delay changing the bilingual education program, because legislation would not be sent until next
+    year, while Riggs is in play right now.
+
+
+
+
+                                                    6
+                                                               Hex-Dump Conversion
+
+
+        Recommendation: Elena-we'd need to circulate this, though I suspect that most of
+those involved in the deliberations to date would favor option 3.
+
+___Option 1          ___Option 2                 Option 3
+                                                                   ---"Discuss
+   Send Now            Defer to House            Announce a
+                       Democrats on Timing Comprehensive
+                                     Plan
+
+
+
+
+                                          7
+
+

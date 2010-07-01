@@ -1,0 +1,31 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Barry J. Toiv ( CN=Barry J. Toiv/OU=WHO/O=EOP [ WHO 1 )
+
+CREATION DATE/TIME: 3-MAR-1998 12:16:42.00
+
+SUBJECT:   Question
+
+TO: John A. Gribben ( CN=John A. Gribben/OU=OMB/O=EOP @ EOP [ OMB 1 )
+READ:UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Maria Echaveste ( CN=Maria Echaveste/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Karen Tramontano ( CN=Karen Tramontano/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Lawrence J. Haas ( CN=Lawrence J. Haas/O=OVP @ OVP [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TEXT:
+I'm being asked by L.A. Times for our stand on the various proposals to
+make it more difficult to vote, such as requirements to show a social
+security card or other id, ending motor voter or mail-in registration --
+sponsors include Tauzin, Horn.  Where do I go for this? Is there a piece
+of paper? what's status? do we have any SAPs?
+
+

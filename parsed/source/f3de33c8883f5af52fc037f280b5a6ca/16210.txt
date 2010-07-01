@@ -1,0 +1,164 @@
+RECORD TYPE: PRESIDENTIAL     (NOTES MAIL)
+
+CREATOR: Diana Fortuna ( CN=Diana Fortuna/OU=OPD/O=EOP [ OPD ] )
+
+CREATION. DATE/TIME: 11-JUL-1997 00: 20: 07.00
+
+SUBJECT:   Reconciliation items that weaken welfare work requirements
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emrnett/OU=WHO/O=EOP @ EOP [ WHO]   )
+READ: UNKNOWN
+
+TEXT:
+Attached is a rundown on these.
+
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D77]MAIL491120195.116 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504370040000010A02010000000205000000DB23000000020000D09AF7AFBB1E9C144CCC09
+.                                                .
+EEFB51715DD5D8F41EEC4A33000FFA5FB38C99B6CA1F981B98B231BB6A7249C3FCCC7BECE6E86C
+FA441E635691C2646C189498222268396D3C4A19B5FAOE49865D9EEC99220545461FFE2B7974FD
+5730F847D17FCBE36C99BBCCF1820E21A4FOE9CB6B55A0472FEF50FE8999FD92415F04E33EDB60
+423F7CF4CF60125BAB3401414F57EE85BOBB57CE1DFD56338438DFF4BCOODE8A2BF2CAA7AC9997
+1F1F4E66D5B343EB2A1682A8E35F34793F382EF5DC4E27312FDC225EC85DC50B75FF03124C6635
+6361D3FCB14CEOAC467E5DA8EB1B9AB50170F9BA783957A56BC9B51B851172A6CC731653E6772F
+FC40B1D28F30BF31A882BFAFCEE323CD532D82D40E34BFE592B8528CF17170F8775339444BCA36
+D10A890AOD32899F277D226B417958B1729444A561D10C1E4E3B5EC85A45C50173B82EDFF87CF9
+BD3B7DFC4421C65338CB4F04F149F048A64CB219BOF2FB27B15A4A3952868AB520D0055BC38A5C
+32FD131A7F10D28A2A3768BD56470150206C36AFFCED41F20C137B908606E90DC69B108B3900BB
+CCD0030A6C55617E10FFB72CF2679AEFFD2279E8499E63C1BC64A522E52EB794376167401C40D3
+AFD8FE310CB6FCE19A2B92BA3B5883887E262FA669CE11C5531E42B5EB158FDE8E87CA4F1616E3
+7ED0752FF202000900000000000000000000000823010000000B0100007E020000005501000000
+4E0000008903000009250100000006000000D70300000B300200000028000000DD030000087701
+000000400000000504000008340100000014000000450400000802010000000F00000059040000
+080501000000080000006804000000984C006F00630061006C002000430061006E006F006E0020
+004C00420050002D00340000000000000000000000000000000000000000000000000000000000
+00000000000000000000000057494E53504F4F4COOOOOOOOOOEOOI9001C80090019001C800E001
+900130000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000B0100002800D61EC30F3908000011090000005AOOOBOI008B143600540069006D0065
+00730020004E0065007700200052006F006D0061006E00200052006500670075006C0061007200
+000000000000000001000200580201000000040028000000000000000000000000000000000000
+00011202002400A1000000A10000000A0000001204010044001304010002001404010044001504
+010002001604010044001704010002001804010044001904010002001A04010044001B04340065
+81686D4C220000000000000000000000000000000008337C007800010200001B04000003010004
+0002000000DDOA10008301040003000200211000DDDDOBOB00030000040BOODDF1021B04F19BF1
+                                          Hex-Dump Conversioil
+
+        RECONCILIATION ITEMS THAT WEAKEN WORK REQUIREMENTS
+
+I. FLSAIMinimum Wage
+·      Work Activities Pennitted -- The House proposal would allow states whose benefits
+       levels don't support the minimum wage for the required number of hours to count work
+       activities that current law does not pennit them to count.
+
+       To get up to 20 hours a week, states could count any of the following activities, none of
+       which count under current law:
+       (1)    job skills training directly related to employment;
+       (2)    education for those with no high school diploma;
+       (3)    job search and job readiness assistance in excess of6 weeks (current law: the
+              first 6 weeks always count as work); and
+       (4)    vocational educational training in excess of 12 months (current law: the first 12
+              months always count as work).
+
+       To go from 20 to 30 hours a week, states could count any items from this same list of
+       activities; but current law already pennits 'activities (1) and (2) to count for hours over 20.
+
+·      Deducting child support retained by the state -- In defining the maximum number of
+       hours of workfare participation per month, the House bill deducts child support retained
+       by the state from welfare and food stamp benefits before dividing by the minimum wage.
+       This is intended to prevent women from having to "work off' their own child support, but
+       it raises a number of difficult fairness questions.
+
+Special Note on Nickles Amendment -- This amendment is intended to ameliorate one
+consequence of the Labor Department's minimum wage guidance. Applying either to current
+law or to the House bill, it says that regardless of minimum wage requirements, states may issue
+sanctions against recipients. The question is whether current law already pennits this, and DOL
+and HHS are investigating this question. For example, it may be that sanctions can be viewed as
+"wage garnishments" deducted after payment of the minimum wage.
+
+One easy solution that the agencies may offer is to allow a sanction to be imposed, but at the
+same time to cut the hours of work required. We have to decide if that solution is unacceptable
+to us. We have taken no position on the Nickles amendment to date.
+
+II. 20% Vocational Education Limit
+·     Current law is arguably somewhat murky on this issue. It says that "not more than 20%
+      of individuals in all families ... may be detennined to be engaged in work" because of
+      vocational education or high school attendance by teen parents. The liberal
+      interpretation (which the Education Department urged us to embrace publicly without
+      success) is that the cap is 20% of the entire caseload. The conservative interpretation is
+      that the cap is 20% of those engaged in work. Therefore, measuring whether the
+      reconciliation proposals weaken the work requirement depends on what interpretation
+      you start with.
+                                                Hex-Dump Conversion ·
+
+       Since teen parents attending high school "share" the 20% cap with vocational education,
+       and teen parents are 6% of current caseload, many argue that this leaves little or no room
+       for vocational education. (According to CRS, one-third of teen parents have diplomas,
+       so teen parents attending high school are 4% of current caseload -- or less, since many
+       don't actually attend school.)
+
+       The proposals vary widely in terms of the percent of the caseload that can be in
+       vocational education and still count as working -- from 2% to 20%.
+
+·      Percent of Caseload that can be in vocational education and count as working:
+       House Education and Workforce (strict interpretation of current law):
+       ·     FY98: 20% cap applied to the 30% required to work = 6%; less 4% teen parents = 2%
+       ·     FY02: 20% cap applied to the 50% required to work = 10%; less 4% teen parents = 6%
+
+       House Ways and Means (strict interpretation, but increase cap to 30% and take out teens):
+       ·     FY98: 30% cap applied to the 30% required to work = 9%
+       ·     FY02: 30% cap applied to the 50% required to work = 15%
+
+       Liberal Interpretation of Current Law (20% of total case1oad, teens part of cap):
+       ·       FY98: 20% cap applied to total case1oad, less 4% teen parents = 16%
+       ·       FY02: same = 16%
+
+       Senate (liberal interpretation, plus take out teens):
+       ·      FY98: 20%
+       ·      FY02: 20%
+
+III. Domestic Violence Exemption
+This Senate amendment would allow states to grant waivers from the 5-year time limit for
+victims of domestic violence in excess of the 20% cap now in the law. In addition, it would
+require HHS to exclude recipients with such waivers in computing state work participation rates
+and penalties.
+
+The House has no such provision. We have not yet taken any position on this amendment.
+
+·      Current Law -- States may exempt up to 20% of the monthly case10ad from the 5-year
+       time limit for reasons of hardship "or if the family includes an individual who has been
+       battered or subjected to extreme cruelty."
+
+       In addition, states have an option to certifY that they have and enforce standards to
+       identifY and provide services for recipients with a history of domestic violence; and to
+       waive program requirements "such as time limits ... , residency requirements, child support
+       cooperation requirements; and family cap provisions" when it would endanger, penalize,
+       or put at risk such victims.
+
+·      Senate Amendment (Murray) --
+                                  Hex-Dilmp Conve:sion
+
+·   States shall not be subject to any numerical limitation in granting domestic
+    violence waivers.
+·   HHS must exclude recipients granted domestic violence waivers by a state when it
+    determines whether a state has complied with work participation rates and
+    enforcement of the time limit, as well as whether penalties should be imposed.
+
+

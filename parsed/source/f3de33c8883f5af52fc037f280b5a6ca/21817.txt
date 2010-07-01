@@ -1,0 +1,121 @@
+    RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+    CREATOR: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP [ OPD ] )
+
+    CREATION DATE/TIME: 1-DEC-1998 10:28:55.00
+
+    SUBJECT:   Updated list of Welfare Offsets
+
+    TO: Elena Kagan    CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+    READ: UNKNOWN
+
+    TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO ] )
+    READ: UNKNOWN
+
+    TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ] )
+    READ: UNKNOWN
+
+    CC: Andrea Kane ( CN=Andrea Kane/OU=OPD/O=EOP @ EOP [ OPD ] )
+    READ: UNKNOWN
+
+    TEXT:
+    Here's a list of the proposed offsets with some additional information.
+    Most significant is that OMB scores the version of Medicaid cost
+    allocation that states prefer at $1 billion over 5 years -- not small
+    potatoes.  The harsher version reaps $2 billion in savings. ==================== ATT
+    ATT CREATION TIME/DATE:   0 00:00:00.00
+
+    TEXT:
+    Unable to convert ARMS_EXT: [ATTACH.D25]MAIL409350536.326 to ASCII,
+     The following is a HEX DUMP:
+
+    FF57504334090000010A02010000000205000000E31F00000002000041C9FF5DCC231C61A6C503
+    9FDE235FA122E07B3DDD796DFCD544F333BD22D3D209E4AAF06C130128DED9510950471878DB4B
+                                                     12/1/98
+
+Policy                                           Year 1      5 Year    Comment
+                                                 Savings     Savings
+                                                 (Outlays)
+
+Limit Transfers from TANF to SSBG to             $600        $600      This proposal saves about $130 million more
+4.25% in FY 2000                                 million     million   than needed to restore the SSBG cuts (cost
+                                                                       of SSBG restoration is about $470 million).
+Under this proposal, the amount of T ANF
+funds states could transfer to the Social                              You could propose a revenue neutral
+Services Block Grant would be lowered from                             alternative, e.g.:
+10% to 4.25% in FY 2000 (the transportation                            1) Allow transfers of more than 4.25%--
+bill already made this change for FY 2001).                            exact amount to be determined -- which
+This offset would allow us to fully fund SSBG                          would ease the transition for states now
+in FY 2000. States use SSBG for child care,                            transferring more than 4.25%; or
+child protective services, elderly programs,                           2) Allow states to transfer a certain amount
+and other low income services.                                         on average -- thus states that transferred less
+                                                                       in T ANF funds would allow other states to
+This limitation would in particular affect the                         transfer more;
+15 states that transferred more than 4.25% to
+SSBG in FY 1999 (CT, DE, FL, GA, KY,                                   States will consider this T ANF change to be
+MD, MA, MI, NJ, NY, PA, TX, VT, VA,                                    in bad faith.
+WI).
+
+Freeze State Supplemental Growth Fund at         $60         $60       In general, cuts in T ANF funds -- even a
+FY '99 Levels                                    million     million   subcategory of T ANF funds like these -- set
+                                                                       a bad precedent and states will consider it
+Currently, low benefit states with population                          bad faith.
+growth get 2.5% increases in their TANF
+grants.                                                                However, if cuts are needed, freezing states
+                                                                       at their current level of increase is a decent
+Under this proposal, states that got increases                         way to achieve savings, because it maintains
+in FY 98 and FY 99 would not receive                                   the increase states got in FY '98 and FY '99.
+another increase in FY 2000 (AL, AK, AZ,
+AR, CO, ID, FL, GA, LA, MS, MT, NC, NM,
+NV, TN, TX, UT)
+
+Medicaid Cost Allocation                         $295        $1.9      States and advocates will protest mightily
+                                                 million     billion   over this proposal. While they are willing
+The proposal would:                                                    to accept Part I (they will grudgingly agree
+Part 1: Lower federal Medicaid payments by                             that the T ANF block grant was inflated to
+the amount of Medicaid administrative costs                            include administrative costs for which they
+that were in the T ANF block grant; and                                still receive an open ended match, thus
+Part 2: Forbid states from using TANF dollars                          aHowing them to "double dip"), they argue,
+to pay Medicaid administrative costs.                                  rightly, that Part 1 combined with Part 2
+                                                                       (forbidding them from using TANF funds
+This Spring, a similar proposal was put in                             for Medicaid administrative costs) is
+place for Food Stamps in the Ag Research                               tantamount to "no dipping." Eliminating
+bill.                                                                  Part 2 cuts overall savings in half (to about
+                                                                       $1 billion over 5 years and $50 million in
+                                                                       year I).
+
+Eliminate Child Support                          $50         $300      Proposals were in our FY '99 budget.
+Enhanced Match for Patern!!y
+                                                                       Automated Records Management System
+                                                                       Hex-Dump Conversion
+,
+
+    Policy                                            Year 1      5 Year    Comment
+                                                      Savings     Savings
+                                                      (Outlays)
+    Establishment and Child Support                   million     million
+    Hold Harmless
+
+    This proposal would provide the regular 66%
+    federal match for paternity establishment
+    laboratory tests (an enhanced 90% match was
+    put in place years ago to encourage their use).
+
+    It would also eliminate the "hold harmless"
+    provision which guarantees states their 1995
+    level ofTANF-related child support
+    collections despite caseload reductions (the
+    hold harmless was put in place in 1996 to
+    protect states from the effects of new "family
+    first" distribution rules which requires states
+    to pay past due child support to the families
+    first instead of to the federal and state
+    governments).
+
+
+
+
+                                                                            Automated Records Management System
+                                                                            Hex-Dump Conversion
+
+

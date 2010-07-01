@@ -1,0 +1,146 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP [ OPD]    )
+
+CREATION DATE/TIME: 5-AUG-1997 15:57:16.00
+
+SUBJECT:   HHS estimate of Number Needed to Work
+
+TO: Elena Kagan ( CN=Elena "Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+CC: Diana Fortuna ( CN=Diana Fortuna/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP [ OPD ]   )
+READ: UNKNOWN
+
+TEXT:
+HHS has completed a draft analysis (attached) of how many people the
+welfare law would require to participate under two caseload reduction
+scenarios -- one "maximum caseload reduction" scenario which assumes
+states get credit for all the caseload reduction between 1995-1997, and
+second scenario assuming no caseload reduction credit.
+
+In the year 2000, these scenarios predict that between 732,000 and
+1,174,000 people will have to participate in a work-related activity for
+states to meet the work rates.  Keep in mind that in FY 1994*, 579,213
+individuals participated in the JOBS program, thus the additional number
+of people "working" in the year 2000 would be between 152,787 and
+594,787.
+
+
+*FY 1994 is latest year listed in Green Book.   I've asked HHS for FY 1996
+data.==================== ATTACHMENT    1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D2]MAIL41449561Z.216 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504380040000010A020100000002050000003524000000020000FDF50FCAFB84DD37177673
+68A1522068254DE8CB87FBA469E94AB2150A59D93F5F9804CB0068338976C3ED4C573BEB83618E
+E097D879DC36F78752FOEAEED5633832369BFBD1727F82971B642E1EAE910D4881F6AFDB2BD341
+B82D998EC9F8EC56596E2231E2347FFE462C66008761CB6F35C8C4DFC348141438B091C085C361
+4CB5723E69D7696D136501A3F4EB6B351E1A8AEAB937D8378CB5BB27A8FF029E33A11F395479EC
+BA8D0545BB34878C882861423E27F98F83B10FFC1E5D81A243FDDF61F5D8C23987084E9FE937DC
+4D6CCBB4E387303DD4140F5CA6FOE041BB2244099C5A6898AF15F4822622287EE4C6237527986B
+266824FCB0501B1F582C8A52723A9169F3A12636D8F27929BA4EE91B7281B50A7BE2E3F606DC23
+6094BCFEAA586693748D1A0185AA4DAD85DC77DC27A15951CDB54EC0457089064A8D828E081F10
+D5BD9DF3A6E7B26FBF6CD56D873568DFCF40A7EAA21F9C02304A8A59F2B169027600E8AB07C723
+2D02924A472128AF3C8D2455A9F727730F7AFDC3677CD881B2ABB34B6FEB93E567DD1001670950
+6EA6ACAB5B24795C6A0046F89D6A8FB4D1BC4C6FF266DE96E232B9F2F80003171CA29832998347
+61AE14B6F538713A44006F4BF6F6BDOF5D23CBA7BFF2894E2AC5A446A935B3170939C9B6E5F8B9
+F5698E40E502001000000000000000000000000055080000004EOO0000E0020000092501000000
+060000002E0300000943010000001A00000034030000006602000000020000004E030000006101
+00000014000000500300000055010000002A00000064030000005501000000180000008E030000
+0942040000001DOOOOOOA603000000550200000048000000C3030000080201000000100000000B
+                                                                        He~-Dwnp Conversion
+
+
+               *DRAFT*DRAFT*DRAFT*DRAFT*DRAFT*DRAFT*DRAFT
+
+
+                      Projecting the Number of Welfare Recipients Required
+                                 to Enter Work-Related Activities
+
+
+Below are preliminary estimates of the number of welfare recipients required to enter
+work-related activities, based on the attached methodology.
+
+The upper bound estimates are derived using no adjustment in the work participation rates for
+caseload reduction, while the lower bound estimates assume maximum caseload reduction, based
+on caseload reduction from 1995 - 1996 and 1995 - 1997. Additionally, these estimates are based
+on an assumption of continued 1997 levels of program participation. Estimates are based on
+average monthly caseload and cannot be summed.
+
+
+
+
+                Preliminary Estimate ofthe Number of Welfare Recipients
+                Required to Enter Welfare-Related Activities Under TANF
+                                   FY 1997 - FY 2000
+
+
+                                       Work         Maximum                 No
+                  FY            Participation        Caseload         Caseload
+                                        Rate        Reduction        Reduction
+
+                  1997                     25          546,000          734,000
+                  1998                     30          441,000          881,000
+                  1999                     35          586,000        1,027,000
+                  2000                     40          732,000        1,174,000
+
+
+              July 30, 1997
+                                                                       !.",,-l.lwnp Conversion
+
+Summary of Method
+The estimation of the size of the work program under T ANF for FY 1997 through FY 2000 is based on the
+most recent data on states' welfare case loads. These data are estimates and are subject to change as the
+data from the states are finalized. As caseload projections are not available beyond FY 1997, out year
+projections of work program size are based on FY 1997 caseload applied to the relevant year's work
+participation rate.
+
+The estimates of the number required to participate in a work program will be very sensitive to decisions
+that states make in the design and implementation of their programs under the Temporary Assistance for
+Needy Families.
+
+The method employs an estimate of total AFDC cases and subtracts an estimate of the number of
+child-only cases and cases with a child under age one who could be, at state option, exempt from the work
+requirement. The work participation rate is applied to the resulting nonexempt adult caseload.
+
+Detail on Method
+The total number of adult cases is based on an estimate of the average monthly caseload for FY 1997 based
+on state caseload reports covering October 1996 through March 1997. The total caseload is adjusted for
+child-only cases using unpublished data from the FY 1996 Quality Control Data System.
+
+The estimate of the number of nonexempt adult cases is calculated assuming that all states will take the
+option to exempt single parent families with children under age one from the work participation
+requirements. The proportion of single parent families with a child under age one is taken from the FY
+1996 Quality Control Data System.
+
+Pending the issuance of [mal regulations, the methodology for calculating the caseload reduction factor is
+unknown. In this analysis a lower and upper bound estimate is produced by using two values for the work
+participation rate. The upper bound is simply the work rate as specified in the law -- 25% in FY 1997
+rising to 40% in FY 2000 and continuing to rise to 50% in FY 2002.
+
+The lower bound work participation rate is estimated by assuming that states take the full case load
+reduction credit for the decline in caseloads from FY 1995 to FY 1996. While the caseload reduction
+factor should be calculated based on the combined AFDC and Emergency Assistance caseloads, an
+unduplicated count of cases is not available for this analysis. Therefore, the caseload reduction factor is
+based on the AFDC cash assistance caseload only. The caseload reduction factor for FY 1997 is
+calculated by the percentage change between the FY 1995 caseload and the FY 1996 caseload. The
+case load reduction factor for FY 1998 - FY 2000 is calculated by the percentage change between the FY
+1995 caseload and the 1997 caseIoad. To maximize the case load reduction, the most advantageous of
+either the total caseload change or the Unemployed Parent (UP) caseload change is applied to the UP
+cases.
+
+The projections of the number of adults required to work for states to meet their work requirements in
+future years (FY 19!?8 through FY 2000) would not be adjusted for either changes in caseloads or changes
+in the caseload reduction factor.
+,.
+

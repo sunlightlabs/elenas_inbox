@@ -1,0 +1,45 @@
+ RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+ CREATOR: Jose Cerda III ( CN=Jose Cerda III/OU=OPD/O=EOP [ OPD 1 )
+
+ CREATION DATE/TIME: 4-MAR-1998 12:45:21.00
+
+ SUBJECT:   .08 Statement
+
+ TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ: UNKNOWN
+
+ TEXT:
+ EK:
+
+ Rahm and Barry asked us to draft a .08 statement right away.    Can you look
+ at this ASAP.
+
+ Jose/Leanne
+
+ ==================== ATTACHMENT   1 ====================
+ ATT CREATION TIME/DATE:   0 00:00:00.00
+
+ TEXT:
+ Unable to convert ARMS_EXT: [ATTACH.D851MAIL491725267.026 to ASCII,
+  The following is a HEX DUMP:
+
+ FF57504370040000010A02010000000205000000060B000000020000B02959EF6377DE6F446803
+                                                                      Automated Records Management Systerr
+     DRAFT                        DRAFT                                       Hex-Dump ConversIon
+
+                                 STATEMENT OF THE PRESIDENT
+
+
+     I applaud the Senate for taking action today to protect our children from drunk drivers. Today's
+     vote to make .08 percent BAC the legal limit in all 50 states sends a powerful message: we will
+     not tolerate the irresponsible acts of those who chose to endanger the lives of all Americans by
+     drinking and driving. Thanks to the bipartisan leadership of Senators Lautenberg and DeWine,
+     we can do more to prevent needless alcohol-related crashes in the future and honor the memory
+     of the thousands oflives cut short by drunk drivers. I challenge the House of Representatives to
+     follow the Senate's lead and quickly pass this important life-saving measure.
+
+

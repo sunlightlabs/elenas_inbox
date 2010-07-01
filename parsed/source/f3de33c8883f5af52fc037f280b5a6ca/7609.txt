@@ -1,0 +1,226 @@
+RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+CREATOR: Daniel J. Chenok ( CN;Daniel J. Chenok/OU;OMB/O;EOP [ OMB 1
+
+CREATION DATE/TIME: 12-MAY-1998 16:47:48.00
+
+SUBJECT:    ETS Opt-out draft language
+
+TO: Elena Kagan ( CN;Elena Kagan/OU;OPD/O;EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+CC: John F. Morrall III ( CN;John F. Morrall III/OU;OMB/O;EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+CC: Donald R. Arbuckle ( CN;Donald R. Arbuckle/OU;OMB/O;EOP@EOP [ OMB 1
+READ: UNKNOWN
+
+CC: Richard J. Turman ( CN;Richard J. Turman/OU;OMB/O;EOP@EOP [ OMB 1
+READ: UNKNOWN
+
+CC: Cynthia A. Rice ( CN;Cynthia A. Rice/OU;OPD/O;EOP@EOP [ OPD 1
+READ: UNKNOWN
+
+CC: Lori Schack ( CN;Lori Schack/OU;OMB/O;EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+CC: Joshua Gotbaum ( CN;Joshua Gotbaum/OU;OMB/O;EOP@EOP [ OMB 1
+READ: UNKNOWN
+
+TEXT:
+Here are two versions of a draft provision that would amend the State
+opt-out in McCain (Section 507) to allow States to opt out if they
+implement alternative approaches that are "at least as effective" as an
+OSHA tobacco OSHA standard.
+
+The first   version has detail that is drawn from the relevant portions of
+the State   plan part of the Occupational Safety and Health Act.   The
+second is   a shorter, more general version that states the principle and
+leaves it   to DOL to regulate on the specifics.
+
+
+
+As a summary, the key phrase in each of these options is:
+
+"This Title shall not apply to any State that, under a plan based on State
+law, provides that this title shall not apply to that State because that
+State has standards that are at least as effective as the regulations
+promulgated by the Assistant Secretary under Section 505 of this Title."
+
+Emily Shetakoff (OSHA) points out that if details are left to regulation,
+OSHA takes years to finalize rules.
+
+Emily also believes that any provision that uses the term "opt out" will
+be ripe for abuse by employers in States that do not actually want to
+have a standard "at least as effective" as the OSHA standard.  She said
+that the term "opt out" opens the door too wide (I am not sure this is
+accurate because DOL would still have authority to review what "at least
+as effective" means, and not allow for an opt-out where State standards
+are weaker) .
+Emily would prefer a provision that where the State standard "takes
+
+
+precedence" over the Federal standard, for example:
+
+"If a State has standards that are at least as effective as the
+regulations promulgated by the Assistant Secretary under Section 505 of
+this Title, those State standards take precedence over the Federal
+standards regulations."
+
+While this formulation allows for State choice, this language does not
+explicitly address the general purpose ·of the McCain provision to allow
+for an "opt-out" option.==================== ATTACHMENT    1 ====================
+ATT CREATION TIME/DATE:    0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D45]MAIL46667713C.126 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504368040000010A020100000002050000003D1D0000000200007BEDC4E3D016AC1EC2DB83
+3AA7689FFB561EOB552F85A43CFE02555ACEAOCC184745516ADC5BCOF24E8B1918184D6426424B
+84B349CA3FDE8CF8D889485108D8BAF739EC9AA3DB1DF42C68D4A7F989E21C050EBADF15E1B1D4
+D36293E202453D70511D14718E5045E3AF2DAEC0314B5C2Cl05DE5B3710E19BEA076519898EDB7
+OA40FC37640D7502E37DEE73F8095B03946E1033EAOF20E04095C3DF27C5B50134680E3DA0026D
+6B1D806B8AB744B88289F68F7BA3AC39D23770618D5185067B7449E8832229C4696E7D81D15336
+607EE1707E1AB3FD141E06684757E565FB049CB0037759AFFF856C3634D03822BC479947D1128D
+D038A3C79766094686BD6043060E373F8ADEE683674BAE6B6FA99C9B3486B96AFOAE6C7AB4373E
+8057000A97A205D70B0035DOA9A666F616E811296459A782093BF2CF696D1E8506517BFE3705BO
+DAE69D91A65B63A2F4B09AB91CDA9D5B1705BD36B94C8403185461BAACCEE5DEFB67F7CD6ADE72
+55E1F0542116A1DCEE1A76BF51BD511D9F92DBFAF67DD131BA2BF712D2C43501D48814074CA7E9
+4C4A5BC2FCE629925D50AE4DC32A976F21A9DB305F422FF3FED4B7F96173DFODB7075D265F260A
+C5FEC67853AECF324B2B647D3A75811E1A823CF7B85C77C459CFD4C5E79888978983B4D82951B3
+1678A6E72F02000900000000000000000000000823010000000B0100007E020000005501000000
+4E0000008903000009250100000006000000D70300000B300200000028000000DD030000087701
+000000400000000504000008340100000014000000450400000802010000000F00000059040000
+081D01000000000000006804000000985C005C004F004D0042002D00500053002D00320035002D
+00320036005C003100300032003300350041000000000000000000000000000000000000000000
+00000000000000000000000057494E53504F4F4COOOOOOOOOOC800C8002C012C012C012C01C800
+C80030000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000005E004F102800C8196810480D000011090000005AOOOB010000103600540069006D0065
+00730020004E0065007700200052006F006D0061006E00200052006500670075006C0061007200
+000000000000000001000200580201000000040028000000000000000000000000000000000000
+00011202002400A1000000A10000000A0000001A01010044001B01010055001C01010044001D01
+020055001E01010045001F01030013002001010055002101010055002201010017002301010055
+005957AD200000000000000000000000000000000008337C007800010200002301000003DDOA10
+008301040003000200211000DDDDOBOB00030000040BOODDF20CF253454354494F4E803530372E
+808053544154458043484F494345F30CF3D0041500000B00090001B0040000000001201500DOF1
+021F01F1F1031F01F1F1022101F1CCF1032101F1F1021F01F154686973807469746C6580736861
+6C6C806E6F74806170706C7980746F80616E7980537461746580746861742C80756E6465728061
+80706C616E806261736564806F6E805374617465806C61772C8070726F76696465738074686174
+8074686973807469746C65CF7368616C6C806E6F74806170706C7980746F807468617480537461
+74658062656361757365807468617480537461746580686173807374616E646172647380746861
+7480617265806174806C656173748061738065666665637469766580617380746865CF72656775
+6C6174696F6E738070726F6D756C67617465648062798074686580417373697374616E74805365
+6372657461727980756E6465728053656374696F6E80353035806F668074686973805469746C65
+2EF1031F01F1F1022301F1CCF1032301F1F1002201F1F1021F01F18080546865CF417373697374
+616E7480536563726574617279807368616C6C80617070726F7665806F66807375636880706C61
+6E2C806F7280616E79806D6F64696669636174696F6E8074686572656F662C80756E6465728063
+72697465726961CF65737461626C697368656480696E80726567756C6174696F6E738070726F6D
+756C67617465648062798074686580417373697374616E748053656372657461727980756E6465
+                                                           Hex-Dump Conversion
+SECTION 507_ STATE CHOICE
+
+This title shall not apply to any State that, under a plan based on State law, provides that this title
+shall not apply to that State because that State has standards that are at least as effective as the
+regulations promulgated by the Assistant Secretary under Section 505 of this Title.
+
+(a) The Secretary shall approve of such plan, or any modification thereof, if such plan:
+
+            (1) designates a State agency or agencies as the agency or agencies responsible for
+            administering the law, regulation, or plan throughout the State,
+            (2) provides for the development and enforcement of a standard relating to the issue
+             addressed in the standards promulgated under Section 505 of this Title, which
+standard
+            (and the enforcement of which standard) is or will be at least as effective in providing
+safe
+            and healthful employment and places of employment as the standards promulgated
+under
+            section 505 of this title,
+            (3) provides for a right of entry and inspection of all workplaces subject to this chapter
+            which is at least as effective as that provided in 29 U.S.C. 657,
+            (4) contains satisfactory assurances that such agency or agencies have or will have the
+            legal authority and qualified personnel necessary for the enforcement of such
+            standard, and
+            (5) gives satisfactory assurances that such State will devote adequate funds to the
+            administration and enforcement of such standard,
+
+(b) Rejection of plan; notice and opportunity for hearing
+
+       If the Secretary rejects a plan submitted under subsection (a) of this section, the
+       Secretary shall afford the State submitting the plan due notice and opportunity for a
+       hearing before so doing.
+
+(c) Discretion of Secretary to exercise authority over comparable standards subsequent to
+     approval of State plan; duration; retention of jurisdiction by Secretary upon determination of
+     enforcement of plan by State.
+
+       After the Secretary approves a State plan submitted under
+       subsection (a) of this section, he may, but shall not be required to, exercise his authority
+       under 29 USC sections 657, 658, 659, 662, and 666 with respect to the comparable
+       standards promulgated under Section 505 of this Title, for the period specified in the next
+       sentence. The Secretary may exercise the authority referred to above until he determines, on
+       the basis of actual operations under the State plan, that the criteria set forth in subsection (c)
+       of this section are being applied, but he shall not make such determination for at least three
+       years after the' plan's approval under subsection (c) of this section. Upon making the
+       determination referred to in the preceding sentence, the provisions of sections 29 USC
+                                                        Hex-Dump Conversion
+
+       654(a)(2), 657 (except for the purpose of carrying out subsection (e) of this section), 658,
+659,
+       662, and 666, and standards promulgated under Section 505 of this title, shall not
+       apply with respect to any occupational safety or health issues covered under the plan, but the
+       Secretary may retain jurisdiction under the above provisions in any proceeding commenced
+       under 29 USC section 658 or 659 before the date of determination.
+
+       (d) Continuing evaluation by Secretary of State enforcement of approved plan; withdrawal
+of
+       approval of plan by Secretary; grounds; procedure; conditions for retention of jurisdiction
+by
+       State.
+
+       The Secretary shall, on the basis of reports submitted by the State agency and his own
+       inspections make a continuing evaluation ofthe manner in which each State having a plan
+       approved under this section is carrying out such plan. Whenever the Secretary finds, after
+       affording due notice and opportunity for a hearing, that in the administration of the plan
+       there is a failure to comply substantially with any provision of the plan (or any assurance
+       contained therein), he shall notify the State agency of his withdrawal of approval of such
+plan
+       and upon receipt of such notice such plan shall cease to be in effect, but the State may retain
+       jurisdiction in any case commenced before the withdrawal of the plan in order to enforce
+       standards under the plan whenever the issues involved do not relate to the reasons for the
+       withdrawal of the plan.
+
+       (e) Judicial review of Secretary's withdrawal of approval or rejection of plan; jurisdiction;
+       venue; procedure; appropriate relief; finality of judgment.
+
+       The State may obtain a review of a decision of the Secretary withdrawing approval of or
+       rejecting its plan by the United States court of appeals for the circuit in which the State is
+       located by filing in such court within thirty
+       days following receipt of notice of such decision a petition to modify or set aside in whole
+or
+    in part the action of the Secretary. A copy of such petition shall forthwith be served upon the
+    Secretary, and thereupon the Secretary shall certify and file in the court the record upon
+    which the decision complained of was issued as provided in section 2112 of title 28. Unless
+    the court finds that the Secretary's decision in rejecting a proposed State plan or
+withdrawing
+    his approval of such a plan is not supported by substantial evidence the court shall affirm
+the
+    Secretary's decision. The judgment of the court shall be subject to review by the Supreme
+    Court of the United States upon certiorari or certification as provided in section 1254 of title
+    28.
+,
+                                                   AulommtGd Records Management System
+                                                          Hex-Dump Conversion
+
+    SECTION 507. STATE CHOICE
+
+    This title shall not apply to any State that, under a plan based on State law, provides that this title
+    shall not apply to that State because that State has standards that are at least as effective as the
+    regulations promulgated by the Assistant Secretary under Section 505 of this Title. The
+    Assistant Secretary shall approve of such plan, or any modification thereof, under criteria
+    established in regulations promulgated by the Assistant Secretary under Section 505 of this Title.
+
+

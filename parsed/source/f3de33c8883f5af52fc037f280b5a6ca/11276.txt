@@ -1,0 +1,258 @@
+RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+CREATOR: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP [ WHO]       )
+
+CREATION DATE/TIME:19-FEB-1999 17:25:30.00
+
+SUBJECT:   Revised Weekly 2/19
+
+TO: Elena Kagan     CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ:UNKNOWN
+
+TEXT:
+  Stem-Cell section revised==================== ATTACHMENT        1 ====================
+ATT CREATION TIME/DATE:    0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D93]MAIL475717451.036 to ASCII,
+ The following is a HEX DUMP:
+
+  FF57504386110000010A020100000002050000008F56000000020000A04578AD3EA982EEFCCC4A
+ D3B3BB5E13542DCAA7FB8EF32E36682DCD3EAD780D42F9B9D80855F3331B04ECA541DA816B1E44
+  E69684D15C7BE9717424860C1CDE7D2D6C3834E93A6AOD707E6D860963982BAD6EF6B75B02C2C9
+  19C4D1B9F367CF4F38EE83C6EB4539187A9132E53318B4A3F50CA995A83CC700663179A8FBOOAB
+  7B89C4E66D1B5AD515Al132173C4DF263156B0707E8A06BD7523D97D083C626295C6A1D38D798B
+  F33A3A9ECAAE7D9F994B8DC4E3AFFA2F9C8B72C5A53E79D672E069C246F4E71E849DOE8B731B7E
+  4DCE5AEB82FD3A45A693362DA91C1EDF1ACE4BE46E650C563E7FBB5B8490C840140EB5E4787E52
+  7E86003D66D42DB968384D9AD956163314A5701CAB7E1C598C48BC9139CD8860D1479B35115174
+  6741D09C3078F4307D6326086A7D5B7162CFF1D177E486C63C49EF6FB560B497F61E93E87912F6
+-05F1883D2B55C95B51118EE7CF77DDBA42D9623E179F7DAOAF3CO6A42DCED406E79F15E741CBAF
+  3EC95406FC3E827C3330F10C7822C44FEC510F21ACF1CFC1A9AB2249E370B576A04380232B278E
+  6696D5F127050FD40A2C852B9D86FA6643D170F47A2E9E5F87AB7BA2443F7F2EBFA9A797B1A201
+  712A25854EE3E8C39FC58155B2D83B4A1AAEDl1208A8Dl131AF6BCA2AAB396FAB2EBB94361B62D
+  4A9B61A11F0200A400000000000000000000000823010000000B010000F80A000000551E000200
+  4E000000030C000009250100000006000000510COOOOOB300300000028000000570C0000080501
+  000000080000007FOC000000550100000042000000870COOOOOOOO0000000000000000870COOOO
+  00550A0001003COOOOOOC90C00000055010000004E000000050DOO000877010000004000000053
+  OD000008340100000014000000930D00000802010000000FOOOOOOA70DOOOOOB30010000006COO
+  0000B60D00000608010000002D000000220E00000055070001004E0000004FOE00000055030000
+  00320000009DOEOOOOOB300100000044000000CFOE00000055010000004E000000130F00000055
+_ 020000002E000000610F0000005504000200280000008FOFOOOOOO55010000004EOOOOOOB70FOO
+  000055010000004E00000005100000000000000000000000000510000000000000000000000000
+  051000000000000000000000000005100000000000000000000000000510000000000000000000
+  000000051000000000000000000000000005100000000000000000000000000510000000000000
+  000000000000051000000B30010000004E00000053100000000000000000000000005310000000
+  000000000000000000531000000000000000000000000053100000000000000000000000005310
+  000000000000000000000000531000000000000000000000000053100000000000000000000000
+  005310000000000000000000000000531000000000000000000000000053100000000000000000
+  00000000531000000942020000001DOOOOOOA110000000000000000000000000A1100000000000
+  00000000000000A110000000000000000000000000A110000000000000000000000000A1100000
+  00000000000000000000A110000000000000000000000000A11000OOOOOOOOOOOOOOOOOOOOOOAI
+ 10000000000000000000000000A110000000000000000000000000A11000000000000000000000
+ 0000A110000000000000000000000000A110000000000000000000000000A11000000000000000
+ 0000000000A110000009440200000033000000BE1000000942050000002AOOOOOOF11000000000
+ 0000000000000000F110000000000000000000000000F110000000000000000000000000F11000
+ 0000000000000000000000F110000000000000000000000000F110000000000000000000000000
+ F110000000000000000000000000F110000000000000000000000000F110000000000000000000
+ 000000F110000000000000000000000000F110000000000000000000000000F110000000000000
+ 000000000000F110000000000000000000000000F1100000000000OOOOOOOOOOOOOOFI10000000
+ OOOOOOOOOOOOOOOOOOF110000000000000000000000000F1100000OOOOOOOOOOOOOOOOOOOOF110
+ 000000000000000000000000F110000000000000000000000000F1100000000000000booooooOO
+                                                                Hex-Dump Conversion
+
+
+
+
+                                        February 20, 1999
+
+MEMORANDUM FOR THE PRESIDENT
+
+FROM:                     Bruce Reed
+                          Elena Kagan
+
+SUBJECT:                 ·DPC Weekly Report
+
+         Health Care -- Children's Health Insurance Outreach Event: Next Tuesday, you
+and the First Lady are scheduled to participate in an event highlighting major new
+initiatives designed to help target and enroll the over 5 million children who are eligible
+for but not yet enrolled in CHIP or Medicaid. Although 47 States have taken
+advantage of the CHIP program and all 50 States have Medicaid programs for children,
+the success of our children's health initiative will be depends on our ability to identify
+and enroll eligible children. At the event, you will unveil a new national toll-free
+number (1-877 KIDS NOW) for children's health outreach, a major media campaign
+(which includes the airing of PSAs on NBC, Univision -- the Hispanic television network,
+and Black Entertainment Television, as well as radio ads in 47 States), a series of private
+sector commitments (such as printing the new 1-800 number on Safeway grocery bags),
+and the next generation of efforts by your Federal Interagency Task Force on Children's
+Health Outreach. You will be joined at this event by the chair and vice chair of the
+NGA, Governors Carper and Leavitt, who will be in town for the National Governor's
+Association Conference.
+
+        Health Care -- Jeffords-Kennedy Disability Update: One issue that is gaining a great
+deal of bipartisan support, particularly in the Senate, is the Jeffords-Kennedy-Roth-Moynihan
+Work Incentives Improvement Act. The Senate has already held hearings on this legislation
+and is planning a March 4 markup. It is apparent that there are many Republicans and
+Democrats who are interested in this legislation in the House, although they are still
+discussing who should be the lead sponsors. Because of the interest in and bipartisan
+support for this legislation, we are looking for an opportunity for you to publicly urge the
+Congress to move to pass this legislation early this year.
+
+       Health Care -- Patients Bill of Rights Update: Senator Kennedy, Senator
+Daschle, and Congressman Dingell have requested that we assist them in encouraging
+consumer and provider groups to make an orchestrated effort to push the Congress to
+take strong and early action on the Patients Bill of Rights. In response, we will be
+meeting with a broad array of these organizations early next week to organize them
+around the concept of a enforceable bill, and to also help define the difference between a
+strong and an unacceptably weak bill.
+                                                                      Hex-Dump Conversion
+
+
+        Health Care -- Stem Cell: Next Tuesday, at her Appropriations Committee
+hearing, Secretary Shalala is expected to be questioned about the Department's
+statutory interpretation the Congressional ban on human embryo research does not apply to
+stem cell research, since the cells cannot be considered embryos as they do not have the
+capacity to develop into a human being. This hearing follows a letter signed by 70 members
+of Congress that raising serious objections to this interpretation and suggesting that it not only.
+serves to thwart the law, but could well encourage researchers to engineer lethal defects into
+embryos in order to use the tissue for research purposes. The disease and patient advocacy
+community is strongly supportive of our interpretation. However, it is clear that we need to
+better emphasize our commitment to implement safeguards that ensure that the cells obtained
+for this research have no direct link to human embryos. There is bipartisan support for this
+position, but Mr. Porter and Senator Spector have indicated their desire to develop legislation
+that codifies how we are going to implement these safeguards. We do not plan on signaling
+our openness to any such compromise language for next week's hearing, but we are drafting
+legislation to be available should the need arrive.
+
+         Crime -- Gun Tracing: On Sunday, the Treasury Department will release its second
+report on the Youth Crime Gun Interdiction Initiative (YCGll) now underway in 27 cities, as
+well as announce the inclusion of 10 more cities. Through YCGII, ATF is working with
+other federal, state, and local law enforcement agencies to systematically gather and analyze
+evidence from recovered crime guns to investigate and make cases against illegal gun
+traffickers. The new report contains data on crime guns from each participating YCGII cities
+and includes the key findings:
+       Confirms that kids and guns is a serious problem in all 27 cities. Crime guns
+       recovered from juveniles account for 11.3 percent of the crime guns submitted to ATF
+       and were recovered more frequently from 16 and 17 year-olds than persons over age 26.
+       Crime guns recovered from youth ages 18 to 24 years-old constituted about a third (32.4
+       percent) of all trace requests -- the most of any age grouping in the adult and juvenile
+       categories;
+
+     Handguns prevalent amongst youth and across all age groups. About 8 out of 10
+     crime guns traced were handguns, with most crime guns concentrated among relatively
+     few makes and calibers -- particularly amongst juveniles and youth;
+
+     Many crime guns used by kids moved rapidly from legal sale to illegal market.
+     Between 25 to 36 percent of firearms recovered from juveniles, and 32 to 49 percent of
+     guns recovered from youths were guns bought legally less than three years before
+     recovery. This indicates that a significant portion of legally purchased guns are
+     quickly diverted to kids and youths through illegal trafficking.
+
+     ATF doubled the number of trace requests handled from YCGII cities. The
+     number ofYCGII trace requests handled by ATF doubled from the previous report, from
+     37,000 to over 75,000 traces.
+                                                            Hex-Dump Conversion
+                                                                                                  3
+
+Treasury is in the process of adding new ATF agents in the participating 27 cities, and your
+FY 2000 budget includes additional funds to do the same in the new 10 cities being selected
+by ATF. These include: New Orleans, LA; Oakland, CA; San Francisco, CA; Dallas, TX;
+Tampa, FL; Charlotte-Mecklenberg, NC; Louisville, KY; Portland, OR; Omaha, NE; and
+Denver, CO. On a related note, you should know that some of the cities filing lawsuits
+against gun manufacturers and dealers have depended on ATF's crime gun tracing data as
+evidence of illegal gun trafficking in their communities.
+
+        Welfare Reform -- NGA Resolution: The Governors have an extensive resolution
+related to the implementation of welfare reform and although welfare is not one of the
+planned topics of discussion during Monday's roundtable, you may be asked about this issue
+by individual governors. The NGA resolution calls for greater flexibility on a number of
+issues in the pending welfare regulations.       It also calls upon Congress and the
+Administration to uphold the commitment in the 1996 welfare reform law for five years of
+full block grant funding.
+
+        The Governors are seeking several major changes in the pending TANF regulations
+including: allowing greater flexibility for programs funded with state Maintenance of Effort
+funds; narrowing the definition of assistance under TANF so that supports for working
+families won't be subject to the federal "time limit, work requirements, or reporting
+requirements; providing states maximum flexibility to continue their welfare reform
+waivers; streamlining data reporting; and allowing more flexibility in the definition of
+administrative costs. We are still reviewing HHS's proposed changes, we believe we will
+be able to address many of the governors' priority concerns. We will provide you with a
+more detailed analysis of these issues once we have had additional conversations with
+Secretary Shalala.
+
+        We believe we should work with the governors to preserve full funding for the
+T ANF block grant. While some in Congress have indicated that the $3 billion in
+unobligated TANF funds may be a good way to pay for other priorities, we disagree.
+Since the TANF block grant is fixed, we believe it is prudent for states to reserve some
+funds should economic conditions change. In addition, states may need to invest more as
+work requirements increase and as more and more of those remaining on the rolls are the
+'hardest to employ'. We also understand that different states are in different situations
+nearly half the states have obligated all of their FY 1998 funds.
+
+        Welfare Reform -- Urban Caseload Trends: On Thursday, The Brookings Institution
+released a study on welfare caseload trends in the 30 largest cities which shows that welfare
+caseloads are declining rapidly in America's cities, though the rate of decline in some places
+lags behind the statewide decline and hence some cities are becoming home to an increasing
+share of welfare caseloads. Specifically, welfare rolls in the 30 largest cities declined by 35
+percent between 1994 and 1998, while caseloads declined 44 percent in their respective
+                                                        Hex-Dump Conversion                        4
+
+states. The share of state caseloads in these 30 cities grew from 45 to 53 percent, but there
+is considerable variation: while nearly half the states saw an increasing concentration of
+welfare recipients, nearly one-third experienced no change in concentration, and one-quarter
+actually saw a decreasing concentration. Not surprisingly, there is a close correlation
+between slower rates of caseload decline, increasing concentrations of welfare caseloads and
+high levels of poverty -- in the 14 cities with increasing concentrations of welfare caseloads,
+15 percent of the population, on average, lives in high poverty neighborhoods, which is
+nearly triple the rate of high poverty neighborhoods in the cities with a declining share of the
+welfare caseload.
+
+       Caseloads with the fastest caseload decline (over 50 percent) include Milwaukee,
+Jacksonville, Penver, and Portland while cities with the slowest caseload decline (between
+18 and 26 percent) include Los Angeles, El Paso, Philadelphia, and New York. The
+Brookings report recommends additional welfare to work funding for the cities and
+highlights our Welfare-to-Work program as an important source of these funds. The
+Welfare-to-Work formula funds are distributed to states and communities based on their
+number of welfare recipients and residents in poverty.
+
+       Children and Families -- Foster Care: Rep. Ben Cardin (D-MD), the ranking
+Democratic on the House Ways and Means Subcommittee on Human Resources,
+introduced legislation recently to provide additional support to the nearly 20,000
+young people who each year "emancipate" from foster care at age 18. As you know,
+your FY 2000 budget provides nearly $300 million over five years in enhanced support
+for these young people. The Cardin legislation differs somewhat from our proposal
+and will likely cost more, but our goals are similar and we will work closely with
+Cardin over the coming months. The ranking member of the Subcommittee, Rep.
+Nancy Johnson (R-CT), shares an interest in this issue and plan to hold a ·hearing on
+March 9, at which the Administration will testify.
+
+        Livability -- Better America Bonds: We have begun outreach efforts to the bond
+community regarding your administration's Better America Bonds (BABs) proposal. Last
+week, EPA Administrator Carol Browner met with Bond Marketing Association -- as well
+as several individual firms including Lehman Brothers, Goldman Sachs, Bear Stearns, and
+Paine Webber -- to discuss BABs. While the groups expressed interest in the BABs
+proposal, they did express concern that both the School Construction bond proposal and
+BABs indicated that the Administration was abandoning the existing private activity bond
+structure. The Administrator stated that is not the Administration's intention. We plan to
+follow up with these groups to secure their support for BABs and reiterate that your
+administration supports private activity bonds as indicated by your agreement last year to
+increase the bond cap and your signing of a 1993 law to make the Mortgage Revenue Bond
+program permanent.
+                                                       Hex-Dump Conversion
+                                                                                             5
+
+        Consumer Protection -- Child Seat Belt Announcement: The National Highway
+Traffic Safety Administration (NHTSA) has the final rule ready for you to announce -- a
+new universal method for installing child safety seats in cars and light trucks. This
+rule will require each new child seat to have three attachments -- one on top and two at
+the base, and by 2002, will require all new cars and light trucks to be equipped with
+standard anchors in the back seat designed specifically to link to the child seat
+attachments. NHTSA estimates that currently about 80 percent of child seats are
+improperly connected putting children at risk. This rule is expected to prevent as
+many as fifty child deaths and 18,000 injuries each year. You announced the
+proposed rule in your radio address on February 15, 1997. There has been a good
+deal of press reports anticipating the new rule, including articles in the Washington
+Post and on AP. You are tentatively scheduled to announce this new rule in your
+radio address on February 27, 1999.
+
+

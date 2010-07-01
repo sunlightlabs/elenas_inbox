@@ -1,0 +1,43 @@
+RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+CREATOR: Cynthia A. Rice    ( CN=Cynthia A. Rice/OU=OPD/O=EOP [ OPD 1 )
+
+CREATION DATE/TIME:24-JUL-1998 12:23:56.00
+
+SUBJECT:   Lastest from Waxman
+
+TO: Peter G. Jacoby ( CN=Peter G. Jacoby/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Leanne A. Shimabukuro ( CN=Leanne A. Shimabukuro/OU=OPD/O=EOP @ EOP [ OPD ) )
+READ: UNKNOWN
+
+TO: Mary L. Smith ( CN=Mary L. Smith/OU=OPD/O=EOP @ EOP    [ OPD ) )
+READ: UNKNOWN
+
+TO: Cynthia Dailard ( CN=Cynthia Dailard/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ) )
+READ: UNKNOWN
+
+TO: Lawrence J. Stein ( CN=Lawrence J. Stein/OU=WHO/O=EOP @ EOP [ WHO)    )
+READ:UNKNOWN
+
+TO: Jose Cerda III   ( CN=Jose Cerda III/OU=OPD/O=EOP @ EOP [ OPD ) )
+READ:UNKNOWN
+
+TO: Thomas L. Freedman ( CN=Thomas L. Freedman/OU=OPD/O=EOP @ EOP [ OPD ) )
+READ: UNKNOWN
+
+TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO ) )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP    [ OPD ) )
+READ: UNKNOWN
+
+TEXT:
+Unable to convert ARMS_EXT: [MESSAGE.D82)MAIL4383850lA.226
+The following is a HEX dump of the file:
+
+

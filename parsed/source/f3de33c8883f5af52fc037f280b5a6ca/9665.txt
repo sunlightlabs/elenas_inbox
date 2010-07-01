@@ -1,0 +1,45 @@
+RECORD TYPE: PRESIDENTIAL     (NOTES MAIL)
+
+CREATOR: Cathy R. Mays    ( CN=Cathy R. Mays/OU=OPD/O=EOP [ OPD 1 )
+
+CREATION DATE/TIME: 8-0CT-1998 13:33:58.00
+
+SUBJECT:    Today's Ed Strategy Meeting
+
+TO: Broderick Johnson ( CN=Broderick Johnson/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Janet Murguia ( CN=Janet Murguia/OU=WHO/O=EOP @ EOP    [ WHO 1 )
+READ:UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Vicky_Stroud ( Vicky_Stroud @ ed.gov@inet [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Barbara Chow ( CN=Barbara Chow/OU=OMB/O=EOP @ EOP [ OMB 1 )
+READ:UNKNOWN
+
+TO: Michael Cohen ( CN=Michael Cohen/OU=OPDjO=EOP @ EOP    [ OPD 1 )
+READ: UNKNOWN
+
+TO: Gene B. Sperling ( CN=Gene B. SperlingjOU=OPDjO=EOP @ EOP [ OPD 1 )
+READ:UNKNOWN
+
+CC: Sandra Yamin ( CN=Sandra YaminjOU=OMBjO=EOP @ EOP [ OMB 1 )
+READ:UNKNOWN
+
+CC: Laura Emmett    ( CN=Laura EmmettjOU=WHOjO=EOP @ EOP [ WHO   1 ).
+READ: UNKNOWN
+
+CC: Mindy E. Myers ( CN=Mindy E. MyersjOU=WHOjO=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+CC: Peter A. weissman ( CN=Peter A. WeissmanjOU=OPDjO=EOP @ EOP [ OPD 1 )
+READ:UNKNOWN
+
+TEXT:
+CANCELLED
+
+

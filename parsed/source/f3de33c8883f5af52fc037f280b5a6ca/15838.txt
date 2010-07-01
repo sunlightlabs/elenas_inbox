@@ -1,0 +1,108 @@
+    RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+    CREATOR: Leanne A. Shimabukuro ( CN=Leanne A. Shimabukuro/OU=OPD/O=EOP [ OPD ] )
+
+    CREATION DATE/TIME:10-JUN-1997 19:11:24.00
+
+    SUBJECT:   event one-pager for your review
+
+    TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+    READ: UNKNOWN
+
+    CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO]    )
+    READ: UNKNOWN
+
+    CC: Jose Cerda III ( CN=Jose Cerda III/OU=OPD/O=EOP @ EOP [ OPD ] )
+    READ: UNKNOWN
+
+    TEXT:
+    It's not my favorite one-pager, but here it is ...
+
+    ==================== ATTACHMENT   1 ====================
+    ATT CREATION TIME/DATE:   0 00:00:00.00
+
+    TEXT:
+    Unable to convert ARMS_EXT: [ATTACH.D97]MAIL41400706Q.116 to ASCII,
+     The following is a HEX DUMP:
+
+    FF5750432E070000010A020100000002050000006D1900000002000007CCBF1FF6EF53A64A3D04
+    84CC1EOAACCCDAD1D83449B299C2F4B244F7BDA65C1D4884B770E6E9909D9B8BA4074BB14C508A
+    811E0187C4026167C9F866E7BAD5723D7BA6F3AEA6883F084C8A486AEC3A3DB598986C058AA6F9
+    C1FEFB52C45E4ABC2F76E352C8092AFEB4991275A9B21245783F6DD65B3D308E8B9C124B04A459
+    F801607BC256851CBD684ED7383D951416D09DACFD83B81D25AAAAB38257EF47A3195D42B31E1A
+    641BD5920FADD004D936C9309ADBD9150032C63FEBA05F1D765D1452B9E302DFOCA27C22E71911
+    76931CE131AC41FA31B5409C1FC872D9C6ECOE80B62FC69131128F6A1AE30C8929B67B27F8C8CO
+    92EB3FFE8E65F0949408A91A5E281E8260ABBDB6A6D86BOBC829474B8F01885E338CB073AD4930
+    8FA055C6D7297E901024815FBODBB5B7AEC4764920EF37339B73015836794BAC7A553AD79B7743
+    8EC812B8B023DE8A75A189BAA441D6CFEEACB031D06C47663AB2255DA4D3C82B1710E26B992807
+    B3E446222BFDFBBAA809CA2374155DB162C94A971F34BD80D3F7623D9E70598E640CD52B0637EC
+    90DB95C9F1998CD1D1DEFCD33FD95D3F0151C6D9EC1B7F5AE8C4B87A96477AA88BBB7CB6150944
+    299042355C93E073C4CC6B27329C10088A23AE6BC91132BC67590A104584BOE338E0001072D181
+    5453433F7B02001100000000000000000000000823010000000B010000EE02000000550C000100
+    4EOOOOOOF903000009250100000006000000470400000B30020000002800000040040000081601
+    000000320000007504000008770100000040000000A704000008340100000014000000E7040000
+    0802010000000FOOOOOOFB040000080501000000080000000A0500000055040000004C00000012
+    0500000055010000004E0000005E0500000055010000004EOOOOOOAC0500000055010000004EOO
+    0000FA0500000055010000004E000000480600000055000001004A000000960600000055010000
+    004EOOOOOOE006000000984800500020004C0061007300650072006A0065007400200035000000
+    000000000000000000000000000000000000000000000000000000000000000000000000000000
+    0000000000000057494E53504F4F4COOOOOOOOOOC800C8002C012C012C012C01C800C800300000
+    000000000000000000000000000000000000000000000000000000000000000000000000000000
+    000000000000000000000000000000000000000000000000000000000000000000000000000000
+    000000000000000000000000000000000000000000000000000000000000000000000000000000
+    000000000000000000000000000000000000000000000000000000OOOOOOOOOOOOOOOOOOOOOOOB
+    0100002800061EC30F3908000011090000005AOOOB01008B143600540069006000650073002000
+    4E0065007700200052006F006D0061006E00200052006500670075006C00610072000000000000
+    000000010002005802010000000400280000000000000000000000000000000000000001120200
+    2400A1000000A100000043003A005C00500052004F00470053005C00570050005C005300540041
+    004E0044004100520044002E0057005000540000000A000000090A0200BFOOOAOA0400BFOOOBOA
+    010099000COA020099000DOA010002000EOA020002000FOA01004500100A02000200110A010045
+    00120A01000200B7A489220000000000000000000000000000000008337C00780000020000120A
+                      YOUTH VIOLENCE AND CRIME
+                              June 11, 1997    Automated Records Management System
+                                                       Hex-Dump Conversion
+Announcement
+·    Today, President Clinton announced he will act to further restrict youth access to guns by
+     directing the Treasury Department to use its existing authority to regulate
+     federally-licensed gun dealers (FFLs) to publish regulations requiring them to post signs
+     and issue written notifications warning handgun purchasers about prohibitions on
+     transferring guns to minors and juvenile handgun possession [and that handguns are a
+     leading contributor to juvenile violence and fatalities].
+
+Background
+·     The mix of kids and guns is at the heart of our nation's youth violence epidemic. Guns
+      -- and handguns in particular -- have fueled the surge in juvenile murders. Since 1984,
+      the number of juveniles killing with a gun has quadrupled. And teenage boys today are
+      more likely to die of gun shot wounds than all natural causes combined.
+
+·      The Administration's juvenile crime legislation gets tough on guns by: increasing
+       penalties for illegally transferring guns to juveniles; expanding the Brady Law to prohibit
+       violent juveniles from owning guns as adults; and requiring federal gun dealers to provide
+       child safety locks with every gun sold.
+
+·       The President believes there is more we can-- and should -- do to cut off the easy access
+        to guns for our kids. For almost every gun that gets into a juvenile's hands, an adult had
+      . an opportunity to stop that transfer from taking place.
+
+·      The President's directive ensures that Treasury will do everything in its power to put
+       adult gun purchasers on notice about their legal obligation to help keep handguns away
+       from our kids. The directive calls for Treasury to issue regulations requiring all FFLs to
+       post signs and issue written warnings with each handgun sold that:
+
+               (I)    Make clear that it is generally illegal for any adult to transfer a handgun to
+                      a minor, or for minors to possess a handgun;
+               (2)    Make clear that violation of the prohibition on transferring a handgun to a
+                      juvenile is punishable, in some circumstances, by up to 10 years in prison;
+               [(3)   Warn that handguns are a leading contributor to juvenile violence and
+                      fatalities;] and
+               (4)    Suggest that safely storing and locking handguns can help ensure
+                      compliance with this law.
+
+Clinton Administration's Anti-Gang and Youth Violence Strategy
+·      The President's strategy seeks to break the back of violent gangs, reduce youth violence,
+       and provide kids with alternatives to steer them away from gangs, guns and drugs. In
+       addition to getting tough on guns, his strategy includes $200 million for local prosecutors,
+       probation officers, and anti-gang task forces and funds after school programs to keep kids
+       off the streets and out of trouble.
+
+

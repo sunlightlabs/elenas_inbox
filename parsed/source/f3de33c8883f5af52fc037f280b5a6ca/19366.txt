@@ -1,0 +1,338 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Michael J. Sorrell ( CN=Michael J. Sorrell/OU=PIR/O=EOP [ PIR 1 )
+
+CREATION DATE/TIME: 3-APR-1998 19:19:30.00
+
+SUBJECT:
+
+TO: Janet Murguia ( CN=Janet Murguia/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Robert N. Weiner ( CN=Robert N. Weiner/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Michael Waldman ( CN=Michael Waldman/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Dawn M. Chirwa ( CN=Dawn M. Chirwa/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Bob J. Nash ( CN=Bob J. Nash/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Doris o. Matsui ( CN=Doris O. Matsui/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Mona G. Mohib ( CN=Mona G. Mohib/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Ruby Shamir ( CN=Ruby Shamir/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Paul E. Begala ( CN=Paul E. Begala/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Gene B. Sperling ( CN=Gene B. Sperling/OU=OPD/O=EOP @ EOP [. OPD 1 )
+READ: UNKNOWN
+
+TO: Nelson Reyneri ( CN=Nelson Reyneri/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Minyon Moore ( CN=Minyon Moore/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Elisabeth Steele ( CN=Elisabeth Steele/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Trooper Sanders ( CN=Trooper Sanders/O=Ovp @ OVP [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Suzanne Dale ( CN=Suzanne Dale/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: edley ( edley @ law.harvard.edu @ INET @ LNGTWY [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Maria Echaveste ( CN=Maria Echaveste/OU=WHO/O=EOP @ EOP [ WHO 1 )
+
+
+READ: UNKNOWN
+
+TO: Jon P. Jennings ( CN=Jon P. Jennings/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Ananias Blocker III ( CN=Ananias Blocker III/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Laura K. Capps ( CN=Laura K. Capps/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Emil E. Parker ( CN=Emil E. parker/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Laura K. Demeo ( CN=Laura K. Demeo/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Cheryl D. Mills ( CN=Cheryl D. Mills/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Robert B. Johnson ( CN=Robert B. Johnson/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Lynn G. Cutler ( CN=Lynn G. Cutler/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: qNKNOWN
+
+TO: Sidney Blumenthal ( CN=Sidney Blumenthal/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Beverly J. Barnes ( CN=Beverly J. Barnes/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Peter Rundlet ( CN=Peter Rundlet/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Angelique Pirozzi ( CN=Angelique Pirozzi/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Sylvia M. Mathews ( CN=Sylvia M. Mathews/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Thurgood Marshall Jr ( CN=Thurgood Marshall Jr/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Susan M. Liss ( CN=Susan M. Liss/O=OVP @ OVP [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Ann F. Lewis ( CN=Ann F. Lewis/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Elena Kagan     CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Mickey Ibarra ( CN=Mickey Ibarra/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Marjorie Tarmey ( CN=Marjorie Tarmey/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Andrew J. Mayock ( CN=Andrew J. Mayock/OU=WHO/O=EOP @ EOP [ WHO 1 )
+
+
+READ: UNKNOWN
+
+TO: Julie A. Fernandes ( CN=Julie A. Fernandes/OU=OPD/O=EOP @ EOP [ OPD ]   )
+READ: UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D95]MAIL43227549Y.026 to ASCII,
+ The following is a HEX DUMP:
+
+FF5750434A070000010A02010000000205000000CB3000000002000033A88DB627C5A1EEFA2338
+B8DB1C5BA84924256A93COB4EC85BA61ED9232E69F305B172CDBAA82656547D729C32C2F80DBB5
+83C381038E1CB2F601B3BA3B96ED6E45324A3FB0610EDCBDC323E927499B9E5AF2DF62961BAF2F
+E390629F23C5589D15550CD20FOE705CODDA35F08AE132A48C92F069276BB30931CDC497FCC7FE
+8CA921336AFF0016BB81D81F3111A907806F65A8DD164055EED420556AA4CC61A6617F4984CB93
+B31CB7C4859DCB97A083C75F05A89CCCDC25E29E8A74243C6B13AE7D052D61BCBEB9A9787738D8
+5555A92924AA81B22EE616C37FF783A9B7B95F51E3A3DF62B829612A5B7DD09F19DBC9E698AE2B
+362F831F805DCAC7EB3F3C2AC957382B9F30B416FCC058499BOOC1F4B22A3B43F2E768D704A7F5
+88D8026CC9F64BCD99CC5EA47DFF72B6E547FFB933DAFB5247672761631BA4ACE077968E395FCC
+E84FFF074F0527775A27F7DFB560857DE244F6F27A6BE064A0809E12CEDBD7630124EA70D4DBC1
+1CB4A09C1F7737F544E485F6E0174C664A31E22F8BDA62B50091C3158C15D72B09854AFD2B8C48
+EE811CA4131F327001F81F3BD4C33El15212CB3833075D324AC5834CBAOD43638306443456345B
+EA08668965E7BA9A4845BFB0477C5B8E40897E143EAOC7003E83FFC3F4AD8D4B8F3E61C2163CAA
+0513EC896002001600000000000000000000000823010000000B01000034030000005515000100
+4E0000003F040000092501000000060000008D0400000B30020000002800000093040000005504
+00000040000000BB0400000055030000004EOOOOOOFB0400000877010000004000000049050000
+08340100000014000000890500000802010000000F0000009D05000008050100000008000000AC
+05000006080100000016000000B40500000B30010000004EOOOOOOCA0500000055010000004000
+00001806000000550A0000003C0000005806000000550000010028000000940600000055010000
+0040000000BC06000000000000000000000000BC06000000000000000000000000BC0600000000
+0000000000000000BC06000000000000000000000000BC0600000055010000004EOOOOOOFC0600
+0000985C005C0050004900520031005C005000520049004E005400450052003900000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000057
+494E53504F4F4C00000000002C01F0002C012C012C012C012C01FO003000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000002800C81968
+10480D000011090000005AOOOB010000103600540069006D006S00730020004E00650077002000
+52006F006D0061006E00200052006500670075006C006100720000000000000000000100020058
+020100000004002800000000000000000000000000000000000000011202002400A1000000A100
+000029004C1DC012C409000011090000005AOOOB010000102800430047002000540069006D0065
+007300200052006500670075006C006100720000000000000000002800E21978102DOD00001109
+0000005AOOOB01008B143600540069006D006500730020004E0065007700200052006F006D0061
+006E00200052006500670075006C00610072000000000000000000OAOOOOOOE70702001700E807
+02001700E90704001700EA0701004500EB0701000200EC0720006581ED0702001700EE07010002
+00EF0701004400F00701000200669C74240000000006FOE0300COO00000008070C08337C007800
+00020000F007000003010004000200000001000AOOOOOOOCOOOOOOD1000C00000200B0040COOD1
+0100000004003E00000000000000100000000000000000000000031587A624002206000053006D
+0061006C006C00200043006900720063006C0065000000F02206FOE0300C0000000008070COOEO
+29001E1FE30FF107000011090000005AOOOB01008B142B00430047002000540069006D00650073
+00200052006500670075006C006100720000000000000000001BOOF41A5C121A09000000000000
+00600018110000102400540069006D006500730020004E0065007700000052006F006D0061006E
+000000000000002500E41B3214BC0700001641000000600014100000101000480065006C007600
+00000000000000002900A61DD3126909000011090000005AOOOB01000010280043004700200054
+0069006D0065007300200052006500670075006C006100720000000000000000002800E2197810
+2DOD000011090000005AOOOB010000103600540069006D006500730020004E0065007700200052
+                                                                      Hex-Dump Conversion
+
+
+
+
+MEMORANDUM FOR THE PRESIDENT
+
+FROM:          JUDITH A. WINSTON
+
+THROUGH: ERSKINE BOWLES
+         SYLVIA MATHEWS
+
+DATE:          April 3, 1998
+
+SUBJECT:       PRESIDENT'S INITIATIVE ON RACE WEEKLY REPORT
+               MARCH 28 - APRIL 3
+
+
+
+ADVISORY BOARD ACTIVITIES
+
+        Columbia University. Reverend Suzan Johnson Cook, at the bequest of the Chaplain of
+        Columbia University, spoke to a select group of approximately 20 students about the
+        intersection of race and religion.
+
+    Stanford University. Angela Oh is participating in the Stanford Law School forum:
+    "Where Do We Go From Here- A Colloquium on Race in the 21st Century". Ms. Oh's
+    panel will address complex issues which compound the divisiveness between
+    communities of color.
+
+OFFICE OF THE EXECUTIVE DIRECTOR
+
+        Recruiting New Teachers_ On April 4, I will deliver the keynote address at the Sixth
+        National Conference of Recruiting New Teachers, Inc. The conference is being held in
+        Chicago, Illinois, and will be attended by more than 300 teachers, teacher educators,
+        principals, and superintendents from across the country. The theme of the conference is
+        "Meeting America's Teacher Recruitment, Development, and Diversity Challenges."
+        Following my address, Mickey Ibarra and I will participate in a community forum on
+        teaching and equal opportunity in America.
+
+        Statewide Days of Dialogue. Ten Governors have committed to participate in the
+        launching of Statewide Days of Dialogue on April 30. One hundred and three YWCA
+        local affiliates in 37 states and the District of Columbia have committed to participate.
+                                                                Hex·Dump Conversion
+
+    One America Dialogue Guide. We have mailed copies of the One America Dialogue
+    Guide to over 500 of the campuses which are participating in the Campus Week of
+    Dialogue and to approximately 400 local YWCA affiliates, one hundred and three of
+    which have thus far committed to participate in the Statewide Days of Dialogue.
+
+    Religious Leaders Forum. The religious leaders forum scheduled for April 15 in New
+    Orleans has been postponed. We have tentatively rescheduled the forum for May 21.
+
+    Campus Week of Dialogue. As we enter our final weekend of preparation, over
+    500 schools have responded to our invitation to participate in the Campus Week
+    of Dialogue from April 6-9. We will be forwarding to you a separate
+    memorandum detailing the activities of this effort.
+
+    ESPN Conversation About Race. We continue to work with representatives ofESPN
+    to plan the Conversation About Race. The show will air live on April 14. We are also
+    organizing watch parties across the nation.
+
+FEDERAL AGENCY ACTIVITIES
+
+    Department of Treasury
+
+           Race Initiative. On March 31, the Department of the Treasury held the second
+           in a series of seminars on the economics ofrace. Robert Fairlie, an economist at
+           the University of Cali fomi a at Santa Cruz, spoke on race, immigration, and
+           self-employment.
+
+    Department of Agriculture
+
+           Family Farmers. To date this fiscal year, USDA has provided $412 million in
+           8,652 direct loans, and $691 million in 4,970 guaranteed loans to family farmers
+           in rural America. In addition, USDA has provided $86 million in direct and
+           guaranteed loans to 1,550 minority and women farmers.
+
+           Civil Rights Initiative. On March 31, Secretary Glickman spoke to the editorial
+           board of Johnson Publications about USDA's Civil Rights Initiative and the
+           President's Initiative on Race.
+
+           Native American Outreach. Five USDA agencies have concluded an
+           agreement with the inter-tribal agricultural council for a five year outreach project
+           to increase Native American participation in USDA county and state committees.
+
+           Minorities in Agriculture. On April 3, Under Secretary Lyons spoke to the
+
+
+                                             2
+                                                               Hex-Dump Conversion .
+
+      National Society of Minorities in Agriculture, Natural Resources, and Related
+      Sciences in Des Moines, Iowa.
+
+Department of Commerce
+
+      MBDA Director. On March 30, Courtland Cox's appointment as Director of the
+      Minority Business Development Agency (MBDA) was finalized.
+
+      MBDAISBA Cooperation. On March 25, MBDA Director Cox met with SBA
+      Administrator Alvarez to discuss ways in which MBDA and SBA could cooperate
+      on minority business initiatives, in order to respond to Congress' mandate that the
+      two agencies eliminate any duplication of efforts and improve effectiveness of
+      their assistance to minority finns. They have created a joint task force to develop
+      a program for an on-line management and technical assistance center, using the
+      Internet to incorporate a variety of other public and private resources.
+
+      Hispanic Advancement. On April 2, Secretary Daley met with representatives
+      of the Coalition for Hispanic Advancement.
+
+Department of Health and Human Services
+
+      Racial and Ethnic Health Disparities. On April 3, Dr. Michael Trujillo,
+      Director of Indian Health Service, participated in a radio interview on the
+      President's Racial and Ethnic Health disparities initiative. Dr. Trujillo's interview
+      was carried on Native America Calling which is distributed on a national basis by
+      National Public Radio and the American Indian Radio on Satellite Network. It is
+      carried by 23 public/tribal radio stations in 11 states.
+
+Department of Housing and Urban Development
+
+      Blackfeet Reservation Housing. On March 30, Secretary Cuomo, U.S.
+      Attorney for Montana Matteucci, and a HUD Special Agent in Charge,
+      announced that a federal indictment was unsealed under which eleven
+      individuals and two corporations are charged with bribery, theft, and fraud
+      involving a program that brought $5.5 million in housing assistance to the
+      Blackfeet Indian Reservation in Montana through HUD's HOME program.
+
+Department of Transportation
+
+      Black Business Council. On April 2, FHWA Deputy Administrator Jeff will
+      speak at the National Black Business Council's trade mission in Washington,
+      DC.
+
+
+
+                                        3
+                                                      Automated Records Management SYstem
+                                                              Hex-Dump Conversion ·
+      Department of Energy
+
+            Hispanic Intern Program. Two program offices at DOE have
+            collaborated to establish a Fossil Energy Hispanics Intern Program, the
+            first Hispanic-focused intern program at the Agency. The internship
+            program will be conducted at the Fossil Energy field offices and begins on
+            June 1. Students will receive ten weeks of training.
+
+
+
+
+                                         4
+
+

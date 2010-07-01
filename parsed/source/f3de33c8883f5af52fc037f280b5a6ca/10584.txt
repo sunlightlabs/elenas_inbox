@@ -1,0 +1,125 @@
+ RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+ CREATOR: Sarah A. Bianchi   ( CN=Sarah A. Bianchi/O=OVP    UNKNOWN]
+
+ CREATION DATE/TIME: 7-JAN-1999 11:25:54.00
+
+ SUBJECT:   qa
+
+ TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+ READ: UNKNOWN
+
+ TEXT:
+ ==================== ATTACHMENT   1 ====================
+ ATT CREATION TIME/DATE:   0 00:00:00.00
+
+ TEXT:
+ Unable to convert ARMS_EXT: [ATTACH.D1]MAIL49205470W.036 to ASCII,
+  The following is a HEX DUMP:
+
+ FF575043C8040000010A020100000002050000003F1600000002000062BE6E8B1A17DE5F94DE26
+ 792D2FDCFBF035E4DD412A5A5ECD2321E526DC6FFAA4B57811C12FCC75F3C95ACA93B70059514A
+ 5E872759B09ADA347BAF2305896EAF411AADE560849D7C8DD71637340OEEA7E30CF8D54BD4782D
+ D969EDBFB397C85EAD1D2236491CDBA6549D1A6A6AD32DFB57D6F0466B5C6C941D3300892C2C98
+ 277507DBBD3FD78A49EB07AC65B248A002DEE942254C47588428F7101981C60B1B38BCB1B3BD9E
+ 4CF6728F911F75DC1E5D4CC5D10AC20CB7C4DC8528FDA30D7A47EF155F5A28D3AF7D613A41FA4C
+ 70EB179E71054916789012BE5767269A1BD94CFA61190B3D8A2E64944AF89D8D5FD4EAAFFF4AED
+ OD441695B34081B816E5378F7372CD64726F4782EC9CB625D8222755470FFFC29721B4024F9E61
+ 8DC405ACDFD8AEDC86EC5AA6979DF1EDF8F33F5ABA90F96D4FC837F39346DD4DAF38E174B77575
+ 58BBBAFFC770DC656C34F3D4E88C1A5A1FB46D3F29E71FF1C699D87803045B408D0789649758C7
+ FF3448DCD5932B3FCE4B04440843B329EABE13E8B35F9F703ADA11DFF8BDF918F23511735443F3
+ F89B8963AD87BDA151460C6BCOD8C7AFBAE3794F3CE2017B6EA3D7222EC3FCFC83C865933A33AC
+ E859953FE245976E92272ABBAA983300BCl19C338233B2D38FF6A0254E7FCADC80718CA8F84E18
+ 4E659608EA02000B00000000000000000000000823010000000BOl00009A020000005502000000
+ 4EOOOOOOA503000009250100000006000000F30300000B300200000028000000F9030000087701
+ 000000400000002104000008340100000014000000610400000802010000000F00000075040000
+ 0805010000000800000084040000081D01000000000000008C0400000055010000003C0000008C
+ 04000000984C006F00630061006C00200048005000200034000000000000000000000000000000
+ 000000000000000000000000000000000000000000000000000000000000000000000000000000
+ 0057494E53504F4F4COOOOOOOOOOC800C8002C012C012C012C01C800C800300000000000000000
+ 000000000000000000000000000000000000000000000000000000000000000000000000000000
+ 000000000000000000000000000000000000000000000000000000000000000000000000000000
+ 000000000000000000000000000000000000000000000000000000000000000000000000000000
+ 00000000000000000000000000000000000000000000000000000000000000000B0100002800C8
+ 196810480D000011090000005AOOOB010000103600540069006DOO6500730020004E0065007700
+ 200052006F006D0061006E00200052006500670075006C00610072000000000000000000010002
+ 0058020100000004002800000000000000000000000000000000000000011202002400A1000000
+ A10000000900010080010100020081010100550082010100440083010100020084010100450085
+ 0101000200860101004500870101000200880101000200890102006502C78A9E25000000000000
+ 0000000000000000000008337C00780000020000890100000301000400020000001BOOF41A5C12
+ 1A0900000000000000600018110000102400540069006D006500730020004E0065007700000052
+ 006F006D0061006EOOOOOOOOOOOOOODDOA10008301040003000200211000DDDDOBOB0003000004
+ OBOODD9B9CF20CF2D3050C0007010002000COOD3E0110A00400000OAOOE05175657374696F6E73
+ 80616E6480416E7377657273D0041500000B00090001B0040000000001201500DO~A616E756172
+ 7980372C8031393939CCD30510000601000002200000001000D3CCCC513A9BE0300C0000000008
+ 070COOE0446F6573807468658041646D696E697374726174696F6E80737570706F727480746865
+'804D6564696361726580436F6D6D697373696F6EF01C04F0738064657369726580746F80726566
+ 6F726b80746865DOOl1500000B000900017008C003040001201500D04D65646963617265807072
+ 6F6772616D8074686174806C6F6F6B73806D6F7265806C696B65807468658046454842503FD004
+ 1700000DOOOB0002080728230807282302201700DOCC413AE0300CO000000008070COOEOF30CF3
+ 546869738070726F706F73616C2C8067656E6572616C6C7980726566657272656480746F806173
+
+                                                                      Automated Records Managel'0ent System
+                                                                              Hex-Dump Conversion
+
+
+                                        Questions and Answers
+                                           January 7, 1999
+
+
+    . Q:   Does the Administration support the Medicare Commission's desire to reform the
+           Medicare program that looks more like the FEHBP?
+
+     A:    This proposal, generally referred to as a premium support program, has potential and is
+           worth considering. However, as with any health care initiative the devil is in the details.
+           We believe that just as there is potential to design a positive premium support program
+           there is great potential to develop a negative model. We cannot make any determinations
+           about this concept, but as always our fundamental commitment is to ensuring that
+           Medicare beneficiaries have a stronger program and are not exposed to excessive
+           financial burdens; We look forward to learning about this program as the Commission
+           develops the details over the next several weeks.
+
+     Q:    The MediCare Commission today is discussing raising the Medicare eligibility age
+           from 65 to 67 -- making it consistent with phase up for Social Security. What is the
+           Administration's position on this?
+
+     A:    As we have consistently stated, we would be seriously concerned about raising the
+           Medicare eligibility age, particularly outside the context of developing a mechanism to
+           assure this does not increase the number of uninsured Americans. Recent data reaffirms
+           Americans between ages 55 and 65 are the most rapidly growing group of uninsured
+           Americans and are some of the hardest-to-insure. There is no reason to believe that
+           Americans ages 65 to 67 would not face similar problems. We look forward to any
+           further analysis on this and other issues facing that Medicare program that are being
+           discussed by the Commission.
+
+     Q:    Will your Medicare buy-in proposal take care of that?
+
+     A:    The President's plan is structured for those 55-65 who don't have access to insurance. It
+           is paid for, in effect, by the purchasers of the insurance, and it is not subsidized. As you
+           know, the 65-67 population currently has a part A benefit they've paid for through their
+           work career and a subsidized part B for physician coverage. That would not be acceptable
+           for the 65-67 population, particularly those with low to moderate incomes. Therefore, any
+           move to increase the eligibility age would have to be combined with a policy that
+           provided for additional assurances that currently insured beneficiaries would have access
+           to affordable coverage.
+                                                                           Automated Records Management System
+                                                                                   Hex-Dump Conversion
+
+             Q:   Do you believe that additional revenues will be necessary to address the long term
+                  financing challenges that face the Medicare program?
+
+             A:   We have not reached any conclusions on this matter. Our record is clear -- no
+                  President has done more to strengthen and modernize this program. Just a year and
+                  a half ago, we signed into law the most significant reforms in the program since its
+                  enactment over 30 years ago. These reforms improved beneficiary choice, increased
+                  the emphasis on preventive benefits, constrained cost growth, and extended the life
+                  of the trust fund to 2008.
+
+                  The President's past actions well illustrate his commitment to work in a bipartisan
+                  fashion to strengthen the Medicare program every time the opportunity arises, all
+                  the while protecting beneficiaries from excessive out of pocket expenditures. We
+                  look forward to receiving the recommendations of the Medicare Commission and
+                  hope that this provides another opportunity to work together in a bipartisan fashion
+                  to recommit ourselves to improving and strengthening the Medicare program.
+
+

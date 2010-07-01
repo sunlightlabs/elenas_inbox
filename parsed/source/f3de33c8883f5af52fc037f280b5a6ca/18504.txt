@@ -1,0 +1,94 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME:23-JAN-1998 17:37:05.00
+
+SUBJECT:   Min wage and workfare sheet
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=E1ena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ:UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+CC: Diana Fortuna ( CN=Diana Fortuna/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TEXT:
+Elena -- Diana did the work sheet you asked for, comparing how many states
+will have trouble paying for workfare under the current and increased
+minimum wage.
+---------------------- Forwarded by Cynthia A. Rice/OPD/EOP on 01/23/98
+05:31 PM ---------------------------
+
+
+
+
+Diana Fortuna
+01/23/98 05:03:23 PM
+Record Type:    Record
+
+To:      Cynthia A. Rice/OPD/EOP
+cc:
+Subject:         Min wage and workfare sheet
+
+I couldn't do each year individually because there is a food stamp cost of
+living adjustment (which actually our previous analysis from HHS ignored) .
+But I think this works pretty well.  I got some numbers from Jeff Farkas
+to do it.
+
+
+
+
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D23]MAIL483846229.026 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043DEOBOOOOOIOA02010000000205000000891600000002000020AAB68910B504CEE8D8Fl
+                                                                        Hex.Dump Conversion
+
+          States With Problems in 2001 (assumes 20 hours of work per week)--
+          Factors in rough food stamp cost ofliving increase in 2001
+
+                                                 Families of 3
+                             Families of2        (average family size)    Families of 4
+
+          Current            8 states            No states (Miss.'s       No states
+          Minimum                                problem disappears
+          Wage -- $5.15                          by 2001 because of
+                                                 increase in food
+                                                 stamp allotment
+
+          Year 2001          24 states           4 states                 No states
+          minImum
+          wage: $6.20
+
+
+Recall that the number of hours of work required per week increases from 20 hours in 1997 and
+1998 to 25 hours in 1999, and 30 hours in 2000 and thereafter. However, the increase from 20
+to 30 hours can be in the form of training directly related to employment, so it is possible to
+argue that 20 hours is the more useful reference point. But below is the 30 hour chart.
+
+
+
+       States With Problems in 2001 (assumes 30 hours of work per week) --
+       Factors in rough food stamp cost ofliving increase in 2001
+
+                                                 Families of 3
+                              Families of 2      (average family size)    Families of 4
+
+       Current Minimum        38 states          14 states                2 states
+       Wage -- $5.15
+
+       Year 2001              48 states          36 states                12 states
+       minimum wage:
+       $6.20
+
+

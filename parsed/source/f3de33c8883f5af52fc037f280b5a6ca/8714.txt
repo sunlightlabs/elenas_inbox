@@ -1,0 +1,25 @@
+RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+CREATOR: Thomas L. Freedman ( CN=Thomas L. Freedman/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME:26-JUL-1998 17:12:22.00
+
+SUBJECT:   Country of Origin Labeling
+
+TO: Elena Kagan     CN=Elena Kagan/OU=OPD/O=?OP @ EOP [ OPD I )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD I )
+READ: UNKNOWN
+
+CC: Mary L. Smith ( CN=Mary L. Smith/OU=OPD/O=EOP @ EOP [ OPD I )
+READ: UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO I     )
+READ: UNKNOWN
+
+TEXT:
+Unable to convert ARMS_EXT: [MESSAGE.D77]MAIL46155211U.226
+The following is a HEX dump of the file:
+
+

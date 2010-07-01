@@ -1,0 +1,39 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Neera Tanden ( CN=Neera Tanden/OU=WHO/O=EOP [ WHO ] )
+
+CREATION DATE/TIME: 18-JAN-1999 20:45:46.00
+
+SUBJECT:
+
+TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D90]MAIL48232381F.036 to ASCII,
+ The following is a HEX DUMP:
+
+FF5750438E050000010A02010000000205000000E40B000000020000B047FC7773D14BED74217C
+OCEEB7F6F5CFIE35B9FB2EFE6ACFOF2EC5EAIC0044314C6C9AAF620F2F2917ECC45EBCB56F4EI0
+5BDAOBBOA5B4318A015C04DC5023303374B68D86B42EOF94835699882472F17FDAA9101E596294
+D02BEFDF19139807987855ADDF7C7AA6DCAOF19483280Al149EDAC59189851824CAB24F90B3728
+AC96EC71E61411B26C33D7CC4642B34F67CD151B22D666728C7C35CIB369FBF9AIDCA9F4E85DBC
+A463516DD549F9921F77325F15349C9D6070476A2CCIC31094681BBCAOAOC48429CFEF3802EB35
+E72C62FDIA6E4E14780C6C8063513E2AE4CDEOBB364EAA18EOBD5F6A28B5E3D27384258AE7D8BD
+                           Hex-Dump Conversion
+
+Largest increase in Family Planning Grants in 15 Years. The President's FY 2000 budget
+proposal will call for an increase of $25 million in Title X Family Planning grants, which helps
+provide women with vital services, including contraception, pregnancy testing, STD screening
+and treatment. This proposed increase would bring total Title X funding to $240 million -- a
+12% increase over last year. The President' proposed $25 million increase is the largest request
+in fifteen years, and would cap a 60% increase in Title X since 1992.
+     "
+

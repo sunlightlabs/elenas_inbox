@@ -1,0 +1,124 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Barry J. Toiv ( CN=Barry J. Toiv/OU=WHO/O=EOP [ WHO]     )
+
+CREATION DATE/TIME:15-MAR-1999 12:16:45.00
+
+SUBJECT:   today's medicare guidance
+
+TO: Christopher C. Jennings ( CN=Christopher C. Jennings/OU=OPO/O=EOP @ EOP [ OPO    1
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD   1 )
+READ: UNKNOWN
+
+CC: Elizabeth R. Newman ( CN=Elizabeth R. Newman/OU=WHO/O=EOP @ EOP [ WHO]    )
+READ:UNKNOWN
+
+TEXT:
+I've added a couple q&a from last week's Medicare guidance to what you
+provided today.  Pls take a look, but I don't think it should be a problem.=========
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D75]MAIL40558397Y.036 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043F2040000010A020100000002050000005C2400000002000012DAOCCB43CA69002D0442
+17B37A82BBBD0462782734443C5FC5CF3352258029581EFDFA10177A4289361B50EC8E272C7DBF
+B628AA1BEB58969C45BA3E1EC5604812D52195D06623466EF050BA3134987D64AOOAC35658C37D
+7F487831797CB9FD282E43E8C68F1D1393A5E790C62721211E024773E34EF13B193014197F151F
+257345769FFDAEFBA6B7788A664E30FE552158060F3A7ABCBFF19E6CADD03DB1E17301499A2684
+D5A48124E724174BDE243E9D6F099B96D1224D8AEODD7CC02A1516DAA7626FC44E8A07648142AB
+1829CCOAE8E9101DCOFC9C4E95DE4CF68496E1AE7EB2EOC11311236E14D215ADAA5DE84AC78413
+FF3D5AE4BEB63026F65E6BF84CA13FB9EDBE5EB2A48865CE278E57B15F0816894CF72C8F200EC2
+C1853C5C1525EAEB49FADA8326AD79A1B19DD6CDF34F1673F4180EEE306E4532C52F528D55144C
+D0126F0709C0992C1037BD44EADBDE07524A3B83A9FB18A8B1F267C3E4367EDE466B83D1FA5C75
+F6DCC4E36C7F5B60D210A42933C7055B4B0061F694C2751B43CFD9F515AB4E9FF810D030822240
+8D59D141EE8092B8E023C4423D26E356COF708782E285EA8ABB60F7AC93BFECF301EE1C3D36DBB
+2BD53D670331771487AC34A6E65B192BOEBF42A1DE5C1EE9A23097OD9468574330F8A5847D1CAA
+21683918AB02000B00000000000000000000000823010000000B0100009A020000005501000200
+4EOOOOOOA503000009250100000006000000F30300000B300200000028000000F9030000081D01
+00000000000000210400000055000001003C00000021040000005500000100320000005D040000
+087701000000400000008F04000008340100000014000000CF0400000802010000000FOOOOOOE3
+04000000985C005C004F0041005F0037005C005C005C0045004FOO50005F0043004F004D004DOO
+5C00570057005F004C00500031005F004800500049004900440000000000000000000000000000
+0057494E53504F4F4COOOOOOOOOOC800C8002C012C012C012C01C800C800300000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000005E00370E2800C8
+196810480D000011090000005AOOOB010000103600540069006DOO6500730020004E0065007700
+200052006F006D0061006E00200052006500670075006C00610072000000000000000000010002
+0058020100000004002800000000000000000000000000000000000000011202002400A1000000
+A10000001BOOF41A5C121A0900000000000000600018110000102400540069006D006500730020
+004E0065007700000052006F006D0061006E000000000000001BOOF41A5C121A09000011090000
+00600018110000101A00540069006D006500730020004E00650077OOOOOOOOOOOOOOOOOOOAOOOO
+000C00010017000D00010044000E00010017000F00060044001000020044001100010002001200
+010048001300010002001400010017001500010044005C7F5C2500000000640090005800900058
+00580008337C007800010200001500000003DDOA10008301040003000200211000DDDDOBOB0003
+0000040BOODDF20CF2513AE0300C0000000008070COOE0486F7780646F80796F7580726573706F
+                     Hex-Dump Conversion
+
+Q:   How do you respond to the GAO and CBO's contention that the President's
+          Medicare proposal does not represent real reform?
+
+A:   The President believes that preparing the Medicare program for the next century will
+     require both additional revenue and reforms to make the program more competitive. In
+     his State ofthe Union, he set out a planto provide the necessary new funds and proposed
+     working on a bipartisan basis to develop appropriate reforms. The President believed
+     that it was appropriate to await the recommendations of the Commission before
+     proposing specific reforms. When the Commission makes its recommendations, the
+     President will evaluate them and take the steps most likely to bring about agreement both
+     on reforming the program and on giving it new revenues.
+
+Q:   How do you respond to Senator Breaux's contention that the White House should
+     send a signal to its members to support the Commission's recommendation?
+
+A:   The President has confidence in his appointees and he believes they should excersize
+     independent judgement in responding to the various proposals the commission is
+     considering and he will not ask his Commissioners to vote for something they do not
+     believe will strengthen the Medicare program; conversely, he will not ask them to vote
+     against something they believe will help the program.
+
+Q:   What is the President's response to the Patients' Bill of Rights legislation that will
+     be marked up by the Senate Labor Committee this Wednesday?
+
+A:   We have not seen the details of the legislation Senator Jeffords intends to mark up this
+     Wednesday, but all indications are that it will fall far short of what is necessary to meet
+     the needs of patients in a rapidly changing health care system. We understand that it will
+     not cover tens of millions of Americans; that it will not have a standard to prevent HMOs
+     from making arbitrary coverage decisions; and that it will have a wholly inadequate
+     mechanism to enforce patients'. It is our hope that Senator Jeffords and the Committee
+     work toward passing a strong, comprehensive, and bipartisan Patients Bill of Rights that
+     the President can sign.
+
+Q.   Some have criticized the President for being "irresponsible" in proposing funding
+     for Medicare without any real structural reforms. Isn't this true?
+
+A.   Absolutely not. Unlike Republicans, he is acknowledging what every Medicare expert
+     knows: you cannot significantly extend the life of the Medicare Trust Fund without
+     additional financing. To get to 2020 by restructuring alone, a real cut in the program's
+     spending would be required, resulting in a growth rate that is 60 percent below private
+     spending growth per person. Reducing benefits is not a solution either: today, the value
+     of Medicare's benefits is about 80 percent below that offered to the typical employee.
+     Thus, some source of new financing is necessary to ensure that Medicare will be
+     financially secure when the baby boom generation begins to retire.
+                         Hex-Dump Conversion
+
+          The President has also made it clear that he would prefer to use the surplus for
+          Medicare in the context of broader reforms that include adding a long-overdue
+          prescription drug benefit. To that end, he outlined principles for improving and
+          strengthening Medicare, and hopes that the Commission's recommendations reflect
+          those principles. However, he believes that it would pre-empt and undermine the
+          work ofthe Medicare Commission for the Administration to weigh in on any specific
+          policy prior to the Commission's report.
+
+     Q    Will the President propose his own plan?
+
+     A,   The President always has that option. He would make that decision based on
+          whether it would enhance or detract from gaining a bipartisan consensus on reforms
+          that would strengthen and improve the program. He has made no decision on this
+          matter at this point.
+
+

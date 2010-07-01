@@ -1,0 +1,55 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Christopher C. Jennings ( CN=Christopher C. Jennings/OU=OPO/O=EOP [ OPO 1 )
+
+CREATION DATE/TIME:27-JUL-1998 19:34:21.00
+
+SUBJECT:   Here's my attempt at new paragraph.
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [,OPD 1 )
+READ:UNKNOWN
+
+TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP   [ WHO 1 )
+READ:UNKNOWN
+
+TO: Karen A. Popp ( CN=Karen A. popp/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TEXT:
+Please review and edit away.   I will send off to Justice as soon as I hear
+from you.
+
+cj==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D96]MAIL47214041N.226 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504370040000010A020100000002050000002B0800000002000025DDE746D18DA1FE6D8CF6
+DCD7A2DB10851D641AF61DBA7856134871D9CC93D69E8CB69D8C4F48CF280BACE502956A555EFE
+6FAF7D8AE19E1939F934BC860A48740EDOC55D23F7489C1308F7C6BF26EEOADE84ED539A34D376
+3E01EF3B50F56211E7DE1DA7F6742D63A8E9748B2919FE60655DEB16401C8CCBB12B72A7825E03
+1DF03C7BF704A12787144694BDDOA220FE94DB2C728E528534D56909BF89446839CBB47FA16018
+60622613F1EE217383862B058C3E1D92ED58E57F4CEC32BCF02A25F42AC14443985DEB6D2C359F
+C971453AA8AD8F49EF34119CDA5AE12F815DABBCA69165BF3FC3A12865CAFD3A322C5918A9EA5D
+85AC5CAF47C7E1265AEE330C8198EA7F73DAAD3827F736123017EFB3F8CFE706917F1F46843957
+8FE92A8CEBBB2ED4FA1D05EEA1C9FB40BE8792B86DE27C79A3DE96OBF02D4E5F17FDBC2CF3DDB5
+                                                             Hex-Dump Conversion
+
+NEW INSERT FOR 2nd PARAGRAPH. (This would be added onto the 3rd paragraph.)
+
+The President is opposed to assisted suicide and any Federal support for it. As such, he is open
+to working with you and other interested Members of Congress on this complex but extremely
+important issue. Having said this, the Administration believes that H.R. 4006 represents a
+flawed approach to the Federal regulation of medicine. We are particularly concerned that
+the insertion of the Drug Enforcement Agency (DEA) into the role of overseer of the practice of
+the medicine would inevitably divert agency attention away from the core mission of strictly
+controlling Schedule I drugs and preventing the diversion of and trafficking in all scheduled
+drugs.
+
+Determination of whether... (Start new paragraph here)
+
+cJ
+.-   .
+

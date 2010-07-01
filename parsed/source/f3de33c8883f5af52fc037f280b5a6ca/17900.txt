@@ -1,0 +1,338 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Mary L. Smith ( CN=Mary L. Smith/OU=OPD/O=EOP [ OPD]       )
+
+CREATION DATE/TIME:24-NOV-1997 14:42:32.00
+
+SUBJECT:   DOJ Debt Collection Legislation
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+CC: Thomas L. Freedman ( CN=Thomas L. Freedman/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO]    )
+READ: UNKNOWN
+
+TEXT:
+Here is a copy of the memo on the DOJ debt collection legislation.  (I
+think we sent over a hard copy last week) . Regards, Mary ==================== ATTAC
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D8]MAIL49483572H.316 to ASCII,
+ The following is a HEX DUMP:
+
+FF5750436B060000010A02010000000205000000EF4C00000002000088B164DCOB13FBA5C5BF86
+668A7159EB2A1DCE10B8A928EB5FF53161F8CF741B65DD13BFA63DA4A2D76C256CF76EA1AFE8D6
+93AA34C7B31C72D572FEBC6E1D56BD71F7C2385EBDB4948BDOOEA2B213D4D836FFD875CCB4B945
+78A2DCOEF5968BBFBC22083EE1406BDB316230064380AA9B304D15A39ABDA2FC17E60DB45E4A4A
+4812C7A4063D9A43DC7A3CCB5C7A37D1F8D7FE752EDE072DC9341614CCA88A634EF982865AAOED
+90250C64151CBB9FFAF36EF3C1869211E4396DE8A044A310B764A368E9963A0849B56F516E8D40
+1F66D9E86E14F0198FEAEF3FC5FEB920743D45FFDD19AOB18DF4865F2C70C3C925CB9AED3FOC44
+20AAC44D8389ADOBOFEBB412315C3F0588E14483F7CF60F83439BFB22F81BC233F49B6ABA5COFA
+FEC1B980C24DOFFA620B88517B14A9705A1F929F623C20FC01B6D250C52A92E1343F1B2A5D4435
+345EBE9196D3D645EE8E557E721E1292869471F842CF76082809D847A0152162849FD3E4A61153
+640B1777D06C607308D82199B6C09242FC88A6BC4E4FE7C9688B297DOF7B24B42C72FOA5504B3E
+F9D2503D052509AC46CA7CC85B50A583C4D67BFCEB205A1BAF9693DE94CB4D679B6E42401E073E
+114B361AD2CCE625C4F511516C5F1EEA85DF1D41698C5C6B984A45A9DD7ACF19840COD829Cll18
+58BC9B238502002B00000000000000000000000823010000000B0100005A040000005501000000
+4E0000006505000009250100000006000000B30500000B300200000028000000B9050000087701
+00000040000000E105000008340100000014000000210600000802010000000F00000035060000
+004501000000020000004406000008050100000008000000460600000000000000000000000046
+060000000000000000000000004606000000000000000000000000460600000000000000000000
+000046060000000000000000000000004606000000000000000000000000460600000000000000
+000000000046060000000000000000000000004606000000000000000000000000460600000000
+000000000000000046060000000000000000000000004606000000000000000000000000460600
+000000000000000000000046060000000000000000000000004606OOOOOOOOOOpOOOOOOOOOOOOO
+460600000000000000000000000046060000000000000000000000004606000000000000000000
+000000460600000000000000000000000046060000000000000000000000004606000000000000
+000000000000460600000000000000000000000046060000000000000000000000004606000000
+000000000000000000460600000000000000000000000046060000000000000000000000004606
+000000000000000000000000460600000000000000000000000046060000000000000000000000
+004606000000000000000000000000460600000000000000000000000046060000000000000000
+00000000460600000942020000001D0000004E06000000984C006F00630061006C002000430061
+006E006F006E0020004C00420050002D0034000000000000000000000000000000000000000000
+000000000000000000000000000000000000000057494E53504F4F4COOOOOOOOOOE0019001C800
+90019001C800E00190013000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+TO:            BRUCE REED, ELENA KAGAN                                Automated Records Management SYstem
+                                                                              Hex-Dump Conversion ·
+FROM:          THOMAS FREEDMAN, MARY L. SMITH
+
+RE:            DOJ DEBT COLLECTION
+
+DATE:          NOVEMBER 21, 1997
+
+SUMMARY
+
+        There is approximately $6 billion in uncollected federal criminal debt. A project that
+would have created anational database to oversee the collection has been terminated because it
+was behind schedule and plagued with problems. Only $2 billion of the $6 billion can reasonably
+be collected.
+
+       DOJ currently has two projects ongoing to address some of these issues. First, DOJ
+expects to award a contract in January 1998 to develop software to collect only federal civil debt.
+ However, the software is being developed to include data fields for criminal debt, so that
+criminal debt collection can be implemented in the future This software would be installed at
+the Executive Office of the U.S. Attorney, the U.S. Attorneys' Offices, Main Justice, and any
+DOJ field office. Second, DOJ has proposed legislation to address some of the problems the
+Government has in enforcing and collecting primarily federal criminal debt.
+
+BACKGROUND
+
+        The National Fine Center was authorized by the Criminal Fine Improvements Act of
+1987, PI. 100-185, 101 Stat. 1279. The Criminal Fine Improvements Act of 1987 contemplated
+that the director ofthe Administrative Office of the U.S. Courts (AOUSC) would establish a
+single national center within the judicial branch for processing fines, restitution, and special
+assessments.
+
+       There is a great need for a collection service for criminal fines because many fines are not
+recovered. For instance, as of early 1992, DOJ estimated that the total amount of unpaid
+criminal debt exceeded $l.6 billion. By late 1996, the amount of unpaid criminal debt had
+ballooned to nearly $6 billion.
+
+       Once the criminal debts were collected, the National Fine Center, via the Treasury, was to
+make payments to either the victims (e.g. federal agencies, private corporations, banks, or
+individuals) or to the Crime Victims Fund. The Crime Victims Fund was established by the
+Victims of Crime Act, P.L. 98-473, 98 Stat. 2170. Virtually, all criminal fines, special
+assessments, and bail bond forfeitures are deposited into this fund, which is administered by the
+
+
+                                                 1
+                                                                        Hex·Dump Conversion ·
+
+Office for Victims of Crime in the Department of Justice. Ninety percent of the Crime Victims
+Fund is distributed to states for compensation programs such as rape crisis centers and child
+abuse centers that provide financial assistance to victims and survivors of victims of criminal
+violence.
+                                         .
+        The National Fine Center was closed on November 15, 1996. Debt collection will revert
+to the decentralized system employed by each federal judicial district in the country, which, in
+many districts, involve catalog cards or ledger books.
+
+        Part of the reason that the amount of uncollected debt is so high is that "vanity fines" stay
+on the books. Vanity fines are fines with no realistic expectation that they will be collected. In
+fact, Kathleen Hegerty at the Department of Justice estimates that two-thirds of the current $6
+billion in criminal debt is uncollectible, or, in other words, approximately only $2 billion can
+reasonably be collected. In fact, one of the recommendations of a May 1995 GAO report was
+to establish procedures for determining the collectibility of criminal debt accounts .
+
+      . Despite the uncollectibility of much of the accrued criminal debt, there is still potentially
+a surplus, given a few criminal defendants with large fines and penalties that do have the ability
+to pay such as ADM and Daiwa, the Korean bank.
+
+II.    THE PROPOSED DOJ LEGISLATION
+
+       DOJ has drafted a bill that would improve the ability of Government a~tomeys to collect
+the approximately $6 billion of debt owed to the United States. This legislation would require
+no additional cost to implement. As an initial rough estimate, DOJ expects that this legislation
+will improve collection of approximately $200 million of the outstanding debt.
+
+       The bill is already drafted but needs some final vetting by DOJ.
+
+       Title I of the draft bill amends the Federal Debt Collection Procedures Act of 1990 (the
+"Act"). Title II of the bill, in large part, amends Title 18 of the United States Code. The
+provisions in Title II are largely the same as the restitution provisions in a draft bill that DOJ
+proposes to transmit on victims' rights.
+
+·      Surcharge. The bill amends § 3011 (a) of the Act to clarify that the United States is
+       entitled to recover a surcharge anytime it is required to bring a legal action to collect a
+       debt. The surcharge provision is intended to compensate the United States for the cost of
+       litigation and is in lieu of attorney's fees.
+
+·      Discovery. The bill makes it clear that discovery is not limited to cases in which the
+       United States has sought a prejudgment or postjudgment remedy.
+
+·      Assists in determining a debtor's ability to pay a judgment through disclosure of
+
+
+                                                  2
+                                                                      Hex·Dump Conversion
+
+    grand jury {"mancial information and better access to other financial information at
+    the time of conviction and after judgment is entered.
+    ·      Disclosure of grand jury information regarding financial condition. This
+           section ofthe bill will modify a Supreme Court decision that did not pennit a
+           criminal government attorney (the attorney in the grand jury proceeding) to
+           disclose financial infonnation to the civil government attorney (the attorney
+           responsible for enforcing the fine or restitution imposed by the court in a criminal
+           case).
+
+·   Investigative power. The bill pennits investigation prior to the institution of a civil
+    action by authorizing a civil investigative demand. Such a procedure is available in
+    other civil contexts, like antitrust and FTC investigations.
+
+·   Provides nationwide standards for property that civil debtors can protect from
+    seizure.
+
+    ·      Uniform federal law exempting property. This bill creates a unifonn federal
+           exemption law that applies to all federal debts collected under the Act.
+           Previously, exemptions for certain property was detennined by looking to state
+           law.
+
+·   Eliminates limitation on value of property that may be used to satisfy a debt.
+    Section 131 of the bill clarifies that any of the debtor's property may be seized and used
+    for satisfaction of the judgment debt, subject to the applicable exemptions. The
+    amendment eliminates a confusing limitation on the value of the property that may be
+    seized and sold. The limitation currently conflicts with § 3203(h) which clearly
+    contemplates that an execution sale will yield a surplus on occasion.
+
+·   Installment payment order. The bill increases the discretion of the court to fashion an
+    appropriate remedy by pennitting the court to issue an installment payment order
+    notwithstanding that the debtor's wages are subject to an order of garnishment. A wage
+    garnishment is limited to 25% of the disposable earnings paid by the debtor's employer.
+    However, a debtor's salary may be only a small fraction of the debtor's total income.
+    Furthennore, a debtor may manipulate actual salary by negotiating to receive less salary
+    and more benefits such as living expenses.
+
+·   Eliminates impediments to seizure of wages and bank accounts while preserving the
+    debtor's extensive due process rights.
+
+    ·      Waiting period for garnishment. The bill amends § 3205(b)(1) of the Act so
+           that the 30-day waiting period applies only to garnishment of the judgment
+           debtor's earnings rather than other assets such as bank accounts. The amendment
+           is necessary to prevent the fraudulent transfer of non-wage assets during a
+
+                                             3
+                                                                            Hex-Dump Conversion ·
+           previously afforded 30-day window of opportunity.
+
+·   Garnishment notice by mail. The bill permits the service of a writ of garnishment by
+    first class mail or in any manner provided under § ·3004. The amendment eliminates the
+    delay often associated with other methods of service and reduces the burden on the
+    United States marshals.
+
+·   Authorizes injunctive relief to prevent the dissipation of the debtor's assets while a
+    debt to the United States remains unpaid.
+
+    ·      Restraining notice. The bill adds a new enforcement procedure, the restraining
+           notice. This provision would require a judgment debtor to preserve his
+           nonexempt assets while the judgment remains unsatisfied. The restraining notice
+           does not restrain the transfer or disposition of any property necessary for the
+           support of the debtor or the debtor's dependents, or property necessary to operate
+           the debtor's business. Service of the restraining notice freezes the debtor's
+           property to prevent its transfer or dissipation.
+
+·   Clarifies the court's authority to prevent the debtor from evading, hindering, or
+    delaying debt collection efforts by the United States.
+
+    ·      Court may aid in enforcement of judgments. The bill makes clear that the
+           United States may enlist the aid of the court in the enforcement of its judgments.
+           For instance, if the debtor has placed property outside the jurisdiction of the
+           United States by transferring funds to an offshore bank, this amendment will
+           permit the court to issue an order directing the debtor to wire transfer the funds to
+           the Federal Reserve Bank of New York. Similar turnover powers are authorized
+           in the Bankruptcy Code.
+
+    ·      Enhancement of enforced collection of criminal debts. Without this
+           amendment, the United States cannot invoke any procedures under the Act until
+           the defendant has been sentenced to pay a financial penalty. The new provision
+           permits the court, after a verdict, plea agreement, or decision in favor of the
+           United States, to order the examination of any party and to issue a restraining
+           notice with the same effect as if the restraining notice had been issued after
+           judgment. The ability to examine the defendant immediately after an adverse
+           decision, coupled with a restraining notice, will assist in preventing fraudulent
+           transfers.
+
+·   Extends the time for undoing collusive transfers of property when made to avoid
+    paying criminal fines and restitution. (Makes the property available to pay the
+    debt.)
+
+
+
+                                             4
+                                                                      Hex·Dump Conversion
+    ·      Statutes of limitation for fraudulent transfer actions. Under current law, the
+           United States is often time-barred in seeking to set aside a fraudulent transfer
+           because the United States could not implement an action until a debt was actually
+           created at the time of sentencing. Even when the right to set aside the transfer is
+           not time-barred, there are other enforcement difficulties like the jurisdiction of the
+           enforcement transferring to the probation service during any period of probation.
+           The bill amends the statute of limitations to mitigate these impediments to the
+           enforcement of restitution and fines.
+
+·   Eliminates impediments to the enforcement of criminal monetary penalties, and
+    strengthens the rights of victims of crime.
+
+    ·      Enforcement of criminal monetary penalties. The bill improves the
+           enforcement of criminal monetary penalties. The bill allows the Government to
+           seek accelerated payment of criminal monetary penalties if the court ordered
+           deferred payment or payment in installments, and it is later determined that the
+           debtor has the ability to pay a greater amount.
+
+·   Clarifies that the United States may enforce victim restitution rights under the
+    Federal Debt CoUection Procedures Act.
+
+    ·      Restitution enforcement. The bill conforms the restitution enforcement
+           provisions in the Child Support Recovery Act of 1994 with those authorized for
+           other types of restitution under the Mandatory Victim Restitution Act.
+
+    ·      Restitution not dischargeable in bankruptcy. The bill clarifies that orders of
+           restitution, like criminal fines, are not dischargeable in federal bankruptcy
+           proceedings.
+
+    ·      Restitution as part of plea agreement. The bill requires the court to order
+           restitution as agreed to by the parties in the plea agreement. In the past, despite
+           any agreement that the debtor has made in the plea, the court has not included this
+           restitution as part of its order.
+
+    ·      Restitution with large number of victims. The bill provides the court with a
+           variety of options when the number of victims or the complexity of the victims'
+           losses may prolong or overly complicate the sentencing process. The bill
+           permits, among other options, the court tp create a reserve fund for restitution to
+           victims when the aggregate loss is known or agreed to by the parties in the plea
+           agreement, but all victims cannot be identified at the time of sentencing. After
+           all identified victims are made whole, any surplus funds remaining in the reserve
+           fund will be deposited in the Crime Victims Fund.
+
+
+
+                                             5
+                                                                        Hex-Dump Conversion
+
+    ·     Joint and severable liability for restitution. The bill adopts the principle of
+          joint and severable liability with respect to restitution among co-defendants,
+          making each debtor potentially liable for the full amount of each victim's loss.
+          The adoption of this basic principle of tort liability streamlines the enforcement
+          process arid promotes prompter recovery of the victim's full losses.
+
+    ·      Disclosure of information to enforce restitution. The bill permits the
+           Government to assist victims in enforcing restitution orders by disclosing certain
+           information about the debtor that might otherwise by protected from disclosure by
+           the Privacy Act, 5 U.S.c. § 552(a).
+
+·   Eliminates the need to sue student loan debtors twice before enforcing collection.
+
+·   Assists in stopping federal payments and privileges (such as small business loans,
+    hunting licenses) to debtors with outstanding federal civil and criminal judgments.
+
+·   Sections Related to the Elimination of the National Fine Center.
+
+    ·     The bill provides that the payment of fines, restitution, special assessments, and
+          bail bond forfeitures shall be made in accordance with procedures established by
+          the Director of the Administrative Office of the United States Courts. This
+          change is necessary because of the elimination of the National Fine Center.
+
+    ·     The bill repeals what was widely regarded as a mandate for a National Fine
+          Center. The new wording requires the Director of the Administrative Office of
+          the United States Courts to maintain oversight of the management of criminal
+          debt information.
+
+    ·     The bill completes the termination of the National Fine Center by eliminating
+          mandatory annual funding transfers to the judicial branch from the Crime Victims
+          Fund for the operation of a National Fine Center, and by requiring the return of
+          unspent funds from the National Fine Center. The amendment permits the
+          Director of the Crime Victims Fund to use the funds returned to the Crime
+          Victims Fund for the benefit of crime victims in the federal criminal justice
+          system.
+
+
+
+
+                                            6
+
+

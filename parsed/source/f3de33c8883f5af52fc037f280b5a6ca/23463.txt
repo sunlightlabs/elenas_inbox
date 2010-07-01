@@ -1,0 +1,50 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Mary L. Smith ( CN=Mary L. Smith/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME: 5-APR-1999 11:38:13.00
+
+SUBJECT:   New Q&A on hate crimes
+
+TO: Elena Kagan    CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO]     )
+READ: UNKNOWN
+
+TEXT:
+Here is a new Q&A for the press office today which says that we don't
+comment on pending trials, but also lists what the Administration has done
+on hate crimes. Let me know if you need anything else. Thanks, Mary =============
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D7]MAIL41197760N.136 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504370040000010A020100000002050000007EOA000000020000A40F996E5C75630A98F669
+FA7FD773982BD8975825F2042732B91428B53B46031256EB7AC4220012B1DDD4261110E888A12F
+97053720E85BBFE599E56FA8CA8FD4C82F6B8859090561E765665E8867AE87A2BFF8FC121AC299
+49E358387329E1ACB71EE33911DB5579181A276092CFF7B4326EF825102F92F4B6710F7FEB8AD7
+51544064AC99893083C66129DC189101A428143812F6F201F5A72CB25037FA150AEA6326CB8E1A
+                                                                      Hex-Dump COil version .
+                                     Hate Crime Q&A
+                                       April 5, 1999
+
+Q:   What about the article in the Washington Post today about the Matthew Shepard
+     trial?
+
+A:   The Administration does not comment on pending trials. However, the Clinton
+     Administration has taken a number of steps to combat hate crimes. In November 1997,
+     the President held the first-ever White House Conference on Hate Crimes where he
+     announced several initiatives to ensure effective law enforcement, including the creation
+     of working groups in every U.S. Attorney's district in the country to improve
+     coordination among local, state, and federal prosecutors; the addition of new FBI agents
+     and prosecutors to work on enforcement of hate crimes laws; and the development of
+     model curriculum for training law enforcement officers to deal with hate crimes. Since
+     the conference, the Administration has issued publications such as "Preventing Youth
+     Hate Crime: A Manual for Schools and Communities" and "Protecting Students from
+     Harassment and Hate Crime." In his FY2000 budget, the President has requested
+     approximately $34 million for hate crimes enforcement.
+
+

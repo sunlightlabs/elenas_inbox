@@ -1,0 +1,49 @@
+RECORD TYPE: PRESIDENTIAL      (NOTES MAIL)
+
+CREATOR: Cathy R. Mays ( CN=Cathy R. Mays/OU=OPD/O=EOP [ OPD 1 )
+
+CREATION DATE/TIME:13-MAY-1999 16:25:36.00
+
+SUBJECT:   Education Meeting
+
+TO: Mike_Cohen@ed.gov ( Mike_Cohen@ed.gov @ inet [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Broderick Johnson ( CN=Broderick Johnson/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Barbara Chow ( CN=Barbara Chow/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ:UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Iratha H. Waters ( CN=Iratha H. Waters/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+CC: Emma_Harrell@ed.gov ( Emma_Harrell@ed.gov @ inet [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TEXT:
+Bruce will be having an Education Meeting on Monday, May 17, at 9:00 a.m.
+in his office.
+
+
+Invited:
+
+Bruce Reed
+Barbara Chow
+Elena Kagan
+Barbara Chow
+Michael Cohen
+Wade Henderson
+Nancy Zirkin
+Bill Taylor
+Ceclia Munoz
+Charles Kamasaki
+Janelle Byrd
+
+

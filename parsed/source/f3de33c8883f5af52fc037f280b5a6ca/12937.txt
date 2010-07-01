@@ -1,0 +1,211 @@
+          RECORD TYPE: PRESIDENTIAL     (NOTES MAIL)
+
+          CREATOR: Leanne A. Shimabukuro (        CN~Leanne   A.   Shimabukuro/OU~OPD/O~EOP     [ OPD 1 )
+
+          CREATION DATE/TIME: 9-JUN-1999 10:03:38.00
+
+          SUBJECT:   REVISED PRESS PAPER
+
+          TO: Setti D. Warren (   CN~Setti   D.    Warren/OU~WHO/O~EOP @    EOP [ WHO 1 )
+          READ: UNKNOWN
+
+          TO: David Vandivier (   CN~David Vandivier/OU~OMB/O~EOP @         EOP [ OMB 1 )
+          READ:UNKNOWN
+
+          TO: Melissa B. Ratcliff (    CN~Melissa     B. Ratcliff/O=OVP @ OVP [ UNKNOWN 1 )
+          READ:UNKNOWN
+
+          TO: Erica S. Lepping ( CN=Erica S. Lepping/OU.=WHO/O=EOP          @   EOP [ WHO 1 )
+          READ:UNKNOWN
+
+          TO: Karin Kullman ( CN=Karin Kullman/OU=OPD/O=EOP @ EOP [ OPD 1 )
+          READ: UNKNOWN
+
+          TO: Julianne B. Corbett ( cN=Julianne B. Corbett/OU=WHO/O=EOP @ EOP [ WHO 1 )
+          READ:UNKNOWN
+
+          TO: Heather M. Riley ( CN=Heather M. Riley/OU=WHO/O=EOP @ EOP [ WHO 1 )
+          READ:UNKNOWN
+
+          TO: Julie B. Goldberg (    CN~Julie     B. Goldberg/OU=WHO/O=EOP @ EOP [ WHO 1 )
+          READ:UNKNOWN
+
+          TO: Jason H. Schechter ( CN=Jason H.        Schechter/OU=WHO/O~EOP @      EOP [ WHO 1 )
+          READ:UNKNOWN
+
+          TO: Dag Vega ( CN=Dag   Vega/OU~WHO/O=EOP @      EOP [ WHO 1 )
+          READ: UNKNOWN
+
+          TO: Beverly J. Barnes ( CN=Beverly J.        Barnes/OU~WHO/O=EOP @     EOP [ WHO 1 )
+          READ: UNKNOWN
+
+          TO: Nanda Chitre ( CN=Nanda Chitre/OU=WHO/O=EOP @ EOP [ WHO 1 )
+          READ: UNKNOWN
+
+          TO: Joseph P. Lockhart (    CN~Joseph    P. Lockhart/OU=WHO/O=EOP @ EOP [ WHO 1 )
+          READ:UNKNOWN
+
+          TO: Courtney O. Gregoire ( CN=Courtney O.       Gregoire/OU=OPD/O~EOP @       EOP [ OPD 1 )
+          READ: UNKNOWN
+
+          TO: Cathy R. Mays    ( CN=Cathy R. Mays/OU=OPD/O=EOP @ EOP [ OPD 1 )
+          READ: UNKNOWN
+
+          TO: Leanne A. Shimabukuro ( CN=Leanne A. Shimabukuro/OU=OPD/O=EOP @ EOP [ OPD 1 )
+          READ:UNKNOWN
+
+          TO: Irene Bueno ( CN=Irene Bueno/OU=OPD/O=EOP @ EOP [ OPD 1 )
+          READ: UNKNOWN
+
+          TO: Courtney M. Manning (   CN~Courtney     M. Manning/OU=WHO/O=EOP @ EOP [ UNKNOWN 1 )
+
+
+READ: UNKNOWN
+
+TO: Deborah Akel ( CN=Deborah Akel/OU=WHO/O=EOP @ EOP [ WHO   1 )
+READ: UNKNOWN
+
+TO: Alejandro G. Cabrera ( CN=Alejandro G. Cabrera/O=OVP @ OVP [ UNKNOWN]               )
+READ: UNKNOWN
+
+TO: Mark D. Neschis ( CN=Mark D. Neschis/OU=WHO/O=EOP @ EOP [ WHO]          )
+READ:UNKNOWN
+
+TO: Richard L. Siewert ( CN=Richard L. Siewert/OU=WHO/O=EOP @ EOP [ WHO]            )
+READ: UNKNOWN
+
+TO: Megan C. Moloney ( CN=Megan C. Moloney/OU=WHO/O=EOP @ EOP [ WHO]            )
+READ: UNKNOWN
+
+TO: Melissa G. Green ( CN=Melissa G. Green/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Sarah E. Gegenheimer ( CN=Sarah E. Gegenheimer/OU=WHO/O=EOP @ EOP [ WHO]                    )
+READ: UNKNOWN
+
+TO: Julia M. Payne ( CN=Julia M. Payne/OU=WHO/O=EOP @ EOP [ WHO]        )
+READ: UNKNOWN
+
+TO: Linda Ricci ( CN=Linda Ricci/OU=OMB/O=EOP @ EOP [ OMB ] )
+READ: UNKNOWN
+
+TO: Elizabeth R. Newman ( CN=Elizabeth R. Newman/OU=WHO/O=EOP @ EOP [ WHO]                  )
+READ: UNKNOWN
+
+TO: Jennifer M. Palmieri ( CN=Jennifer M. Palmieri/OU=WHO/O=EOP @ EOP [ WHO]                    )
+READ:UNKNOWN
+
+TO: Barry J. Toiv ( CN=Barry J. Toiv/OU=WHO/O=EOP @ EOP [ WHO]      )
+READ:UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD   1 )
+READ:UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ:UNKNOWN
+
+TO: Jose Cerda III ( CN=Jose Cerda III/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ:UNKNOWN
+
+TEXT:
+Jason -- Revised press paper for today's event, as discussed.       Please
+call me if you have any questions.
+
+Leanne
+65574
+
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS EXT: [ATTACH.D36]ARMS27972366L.136 to ASCII,
+ The following is a HEX DUMP:
+
+
+
+FF57504356050000010A02010000000205000000671A00000002000082DF76CEA7D34B679D2ECE
+53B27DAC07F86F8A806B161F28D478A6152938DFE9CB85DE2CC9FF873D660ES2CA91S4AB7761SD
+8C7EB1E222CF304SA7F90111A291EA11F48548569BFB8BA9290S9A18B9A1E65SB883FS4282DC2A
+E7906642A5CCDD413878EB3552DDEB33S0D1F359BB5311ED869SC6B1B3E3CA7B3F1EE2SFAC3776
+DEOEDF2FB466S70CDE03BBC1CDC9BDCBB6308D1D97227ES7SE9S10D28S045S47224F719B2ADEF7
+54C8FAA3FE3DS8A982688853F43948Cl1977FBD792DE7B15DC64E762745B6F6ED90440C38S9DB4
+F32384167628DDBD1S31BDD07B728AE486DF5BD7ACFAOF7B9F4DFD2B7B43D2187EE93C60C34S14
+4683FOBD280762CEBBE489BDA88BS4BS6D48FCB16A02AE8E9B3BF6B0499EB0972CB2FA7C28ADF9
+B72882AF93A3772E9984C03280DEBBFDA0977D2E19DOAD43B5F0093E9AE8C238A824FS94FA0381
+398F10A37EOBFFE34FSBF7D188308FE66CCBD478FB3BD8DA43BA92E7EF67SS62DEl198EOCC83A8
+OSE5C7D054B0766B157BEBDCCDE5E9A651882DFC09DODB9E8B7D1051S061D8FCA6COESCF2SCAD3
+FD98BDB8BE4FDB08AB06389E31B04C17056A880366CAC796A52A9E8DB02AOAD80380182B166462
+OS67969F155FE1EAODB85DSE6003134332860D49EC3ESD5B5899E81812C9C74BBA297333A1348D
+6E7F33344702000C00000000000000000000000823010000000BOI0000A802000000S504000000
+4EOOOOOOB3030000092S0100000006000000010400000B30020000002800000007040000081601
+                                Combating Racial Profiling
+                                       June 9,1999
+
+Today at a Justice Department conference, President Clinton will chair a roundtable discussion
+with leaders from civil rights and law enforcement organizations on ways to build trust between
+police and the communities they serve. To address the issue of racial profiling, the President
+will direct federal law enforcement agencies to begin collecting and reporting data on the race,
+ethnicity, and gender of the individuals they stop and search. The President also will call on
+Congress to pass legislation to promote data collection and reporting by state and local law
+enforcement agencies.
+
+Getting the Facts on Racial Profilillg
+
+       Leading by example. No person should be targeted by law enforcement because of the
+       color of his or her skin. Stopping or searching individuals on the basis of race is not
+       consistent with our commitment to equal justice under law and is not effective law
+       enforcement policy. Racial profiling is simply wrong. As a necessary step to combat
+       this problem, we need to learn the hard facts about when and where it occurs. That is
+       why the President will direct the Departments of Justice, Treasury and Interior to:
+
+              (1) begin collecting data on the race, ethnicity, and gender of individuals subject
+              to traffic and pedestrian stops, inspections at entries into the U.S., and certain
+              other searches by federal law enforcement agencies including the Immigration and
+              Naturalization Service, Drug Enforcement Agency, Customs Service, and
+              National Park Service; and
+
+              (2) after one year, report on the findings of the new data collection system and
+              make additional recommendations based on those findings on how to ensure
+              greater fairness in federal law enforcement's procedures.
+
+       Helping states and localities. The President also will support legislation introduced by
+       Representative John Conyers (D-MI) to establish a new federal grant program to assist
+       state and local law enforcement agencies to implement similar data collection systems.
+       This legislation also will authorize the Attorney General to develop a nationwide sample
+       and issue a report on the number and nature of traffic stops conducted by state and local
+       enforcement throughout the country.
+
+       Surveying the American public. As recently announced by the Attorney General, this
+       year the Justice Department will amend its National Crime Victimization Survey
+       and begin asking Americans about their experiences with traffic stops, police use of
+       force, and police misconduct. This new information will help measure our success
+       in building trust and improving relations between law enforcement and the
+       community.
+
+                                                     Automated Records Management System
+                                                     Hex-Dump Conversion
+
+
+
+    More Progressive Policing for the 21st Century
+
+           Continuing the community policing revolution. To make our communities safer and
+           stronger, we must enhance our commitment to community policing. The 21 st Century
+           Policing Initiative contained in the President's crime bill extends his successful
+           community policing initiative and contains several measures to help strengthen the
+           integrity and ethics of police forces across the country. Specifically, his crime bill
+           includes: (1) $20 million to expand police integrity and ethics training; (2) $20 million for
+           police scholarships to promote the best educated police force possible; (3) $2 million for
+           improved minority recruitment to help make sure police departments reflect the diversity
+           of the communities they represent; (4) $10 million to help police departments purchase
+           more video cameras to protect both the safety of officers and the rights of the individuals
+           they stop; and (5) $5 million to establish citizen police academies to engage community
+           residents in the fight against crime.
+
+
+
+
+                                                            Automated Records Management System
+                                                            Hex-Dump Conversion
+
+

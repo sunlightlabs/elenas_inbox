@@ -1,0 +1,24 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Laura Emmett ( CN=Laura Emmett/Ou=WHO/O=EOP [ WHO ) )
+
+CREATION DATE/TIME:24-JUL-1998 14:14:42.00
+
+SUBJECT:   Complete Weekly Report 7/24
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ) )
+READ:UNKNOWN
+
+TEXT:
+Unable to convert ARMS~EXT: [MESSAGE.D9l)MAIL4l33460lF.226
+The following is a HEX dump of the file:
+==================== ATTACHMENT    1 ====================
+ATT CREATION TIME/DATE:    0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS~EXT: [ATTACH.D91)MAIL41334601G.226 to ASCII,
+ The following is a HEX DUMP:
+
+================== END ATTACHMENT    1 ==================
+
+

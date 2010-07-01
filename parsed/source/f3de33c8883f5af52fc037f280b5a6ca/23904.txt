@@ -1,0 +1,65 @@
+ RECORD TYPE: PRESIDENTIAL       (NOTES MAIL)
+
+ CREATOR: Jose Cerda III ( CN=Jose Cerda III/OU=OPD/O=EOP [ OPD 1 )
+
+ CREATION DATE/TlME:20-MAY-1999 19:26:54.00
+
+     SUBJECT:   is this close?
+
+ TO: Elena Kagan        CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ: UNKNOWN
+
+ TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ) )
+ READ: UNKNOWN
+
+ CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO ) )
+ READ: UNKNOWN
+
+ TEXT:
+ ==================== ATTACHMENT   1 ====================
+ ATT CREATION TIME/DATE:   0 00:00:00.00
+
+ TEXT:
+ Unable to convert ARMS_EXT: [ATTACH.D94)ARMS22461235T.136 to ASCII,
+  The following is a HEX DUMP:
+
+ FF57504300060000010A02010000000205000000C8120000000200OOBOEEFA29196C8CE805FFF3
+ AE4966E8C07B150618D11AEC4EOBADA5CE3322DF99637C8890B8AD234B051FB8F4D56A145812F1
+
+
+
+                     Improvements to the Senate Juvenile Crime Legislation
+
+
+     ·   Three out of four "core mandates" preserved. Senator Hatch's bill originally
+         weakened all of the core protections for juveniles in state custody. The bill that cleared
+         the Senate today preserves language in current law ensuring that juveniles are separated
+         by sight and sound from adults while incarcerated; that they are not placed in adult jails;
+         and that status offenders are not incarcerated. However, the bill does re-write
+         protections against disproportionate minority confinement. An KennedyfW ellstone
+         amendment to drop this provision was defeated, and this issue will have to be revisited in
+         conference.
+
+     ·   Guaranteed prevention funds. The original Hatch bill provided almost no funds for
+         prevention. The bill that passed today sets aside 25 percent of the $450 million Juvenile
+         Accountability Block Grant for prevention, authorizes a separate $435 million for
+         delinquency and prevention programs.
+
+     ·   No new death penalties. The original Hatch bill made 16-year olds eligible for the
+         federal death penalty. This provision has been dropped.
+
+     ·   Onerous conditions on states deleted. To be eligible for the new block grant funds, the
+         original Hatch bill required states to pass new laws to prosecute juveniles (14-year olds)
+         as adults. These hard requirements have been dropped.
+
+     ·   Federalization clause dropped. The original Hatch bill included a presumption that all
+         juvenile crime should be federal and then referred to states as appropriate. Chief Justice
+         Rehnquist complained bitterly last year about this provision, and it is no longer in the bill.
+
+
+
+
+                                    Automated Records Management System
+                                    Hex-Dump Conversion
+   ,.
+

@@ -1,0 +1,40 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Christopher C. Jennings ( CN=Christopher C. Jennings/OU=OPD/O=EOP [ OPD]      )
+
+CREATION DATE/TIME:22-JUN-1998 00:20:16.00
+
+SUBJECT:   HHS letter re Hyde Amendment application to Medicare
+
+TO: Jennifer L. Klein ( CN=Jennifer L. Klein/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Ann F. Lewis ( CN=Ann F. Lewis/OU=WHO/O=EOP @ EOP [ WHO]      )
+READ: UNKNOWN
+
+TO: Robert G. Damus ( CN=Robert G. Damus/OU=OMB/O=EOP @ EOP [ OMB ] )
+READ: UNKNOWN
+
+TO: Martha Foley ( CN=Martha Foley/OU=WHO/O=EOP @ EOP [ WHO]      )
+READ: UNKNOWN
+
+TO: Janet Murguia ( CN=Janet Murguia/OU=WHO/O=EOP @ EOP [ WHO]        )
+READ: UNKNOWN
+
+TO: Audrey T. Haynes ( CN=Audrey T. Haynes/OU=WHO/O=EOP @ EOP [ WHO]      )
+READ: UNKNOWN
+
+TO: Daniel N. Mendelson ( CN=Daniel N. Mendelson/OU=OMB/O=EOP @ EOP [ OMB ] )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+Jeanne Lambrew ( CN=Jeanne Lambrew/OU=OPD/O=EOP [ OPD ] )
+READ: UNKNOWN
+
+TEXT:
+Unable to convert ARMS_EXT: [MESSAGE.D71]MAIL488004379.126
+The following is a HEX dump of the file:
+
+

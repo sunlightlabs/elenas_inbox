@@ -1,0 +1,299 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Mary L. Smith ( CN=Mary L. Smith/OU=OPD/O=EOP [ OPD ) )
+
+CREATION DATE/TIME: 9-MAR-1999 21:27:38.00
+
+SUBJECT:   memorandum on collecting wage data
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ) )
+READ: UNKNOWN
+
+CC: Thomas L. Freedman ( CN=Thomas L. Freedman/OU=OPD/O=EOP @ EOP [ OPD ) )
+READ: UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO)    )
+READ: UNKNOWN
+
+TEXT:
+Attached is a memorandum that describes what we currently do with respect
+to data collection in the equal pay context and lists some options that
+would improve information about the wage gap, including collecting wage
+data. ==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.DSS)MAIL428947377.036 to ASCII,
+ The following is a HEX DUMP:
+
+FFS7S04346070000010A0201000000020S000000D44S00000002000047D1449DOSCCA963S7A81A
+4A6B02CF410D1099B41FB190BFSDSF027CF6C88BA3S940DA4DC81FCCOB9FEEFAF7E7F034CDSA83
+C361B26SA99SS1SD7CADEB4DFS391BFBBF8EAF2EBS74EE4A073E9F37CBSDF06FOE3913B7DB88B1
+EFCC733317SSSBFS032S919916977A8194C84B09C4E729379A2BFB9ADA209COF881A77S8DE2SA9
+48DS3361C12DSOD06AS7SS82E6207SCE9FBSC46D90C06C90E6BD4F16ESE88B87B2CF8339379F90
+D2ASDBCESSSFAB7SBOA7746E192AAAOA9EOE60FE409FBE822C31ABBA7ASC9E6F994B8164FS48E1
+FEA8C9A7C4EDC37AEB99828471FCCFB777SC08CF91FB2999693E47BEEFCC4BE3S8EB1AB4S1F312
+SA1C081E6SDAEBD90B16CFE70B42COAA8ADS7E1S300E2BAOOF807CEC784B7FA882DA10S4CE2416
+8SB6B37B6FS4B3D3144SD76FS29210FD6S99646SC8F13F1F9D822B2F446SCOCCOD8B10ADCFA87B
+lSBCASE432BDB206SE7C94046E70B983FA6BE9S09BSFF21E44B2706B298F94D79SECDCA2EAF3C7
+36EEA1S99389418740A3E481716077D144690S2FDB9D99F90BOOES2E69FDS8SBE2ECES4D9C2S86
+A31C30EFES6FF1939DA874044B0274DDB7ASC1S06D7FA67E7EFB88CEFA8F80SS7CS4D42FOCCCEB
+7468BBAA321DOF48E09D194292FEA6231B88AC9D30FDB304CF3C21B33ES4CA99943C2BDFFDCF91
+DA4FB8803C02002B00000000000000000000000823010000000BOI0000SA04000000SS0S000000
+4E0000006S0S0000092S0100000006000000B30S00000B300200000028000000B90S0000087701
+00000040000000E10S000008340100000014000000210600000802010000000F0000003S060000
+080S010000000800000044060000094401000000430000004C060000060801000000160000008F
+06000000SS030000003COOOOOOAS06000006080100000016000000E10600000000000000000000
+0000E106000000SS0100000032000000F706000000000000000000000000F70600000000000000
+0000000000F706000000000000000000000000F706000000000000000000000000F70600000000
+0000000000000000F706000000000000000000000000F706000000000000000000000000F70600
+0000000000000000000000F706000000000000000000000000F706000000000000000000000000
+F706000000000000000000000000F706000000000000000000000000F706000000000000000000
+000000F706000000000000000000000000F706000000000000000000000000F706000000000000
+000000000000F706000000000000000000000000F706000000000000000000000000F706000000
+000000000000000000F706000000000000000000000000F706000000000000000000000000F706
+000000000000000000000000F706000000000000000000000000F7060000000000000000000000
+00F706000000000000000000000000F706000000000000000000000000F7060000000000000000
+00000000F70600000942020000001D0000002907000000984C006F00630061006C0020004800S0
+0020003S0000000000000000000000000000000000000000000000000000000000000000000000
+0000000000000000000000000000000000000000S7494ES3S04F4F4COOOOOOOOOOC800C8002COI
+2C012C012C01C800C8003000000000000000000000000000000000000000000000000000000000
+                                                                         Hex-Dump Conversion
+
+
+
+                                         March 9, 1999
+
+
+MEMORANDUM FOR ELENA KAGAN
+
+FROM:                    THOMAS FREEDMAN
+                          MARY SMITH
+
+SUBJECT:              Equal Pay Data Collection
+
+        This memorandum describes several alternatives for improving collection of wage data
+by the federal government. Last year, the Administration endorsed Senator Daschle's bill which
+currently contains only a Sense of the Senate provision, recognizing that the Administration
+should look into ways to collect this data. A previous version of Dasch Ie's bill contained a
+general provision that required employers to submit wage data to the EEOC, broken down by
+race, sex, and national origin, but this provision was removed at the Administration's request.
+Recently, however, Senator Daschle has made it clear that he intends to return some kind of data
+collection provision to his bill before Equal Pay Day on April 8 -- either what he previously
+included or some other recommendation from the Administration. This memorandum outlines
+how the federal government currently collects wage data, how it uses this data, and what efforts
+could be made to improve data collection.
+
+1.     Current Methods of Collecting Wage Data
+
+        There are three major uses of wage data: enforcement, technical assistance, and research.
+Both the Equal Employment Opportunity Commission (EEOC) and the Department of Labor's
+Office of Federal Contract Compliance Programs (OFCCP) currently collect data that is used for
+enforcement. The Bureau of Labor Statistics and the Bureau of the Census both collect data that
+is used for informational and research purposes, but not for enforcement.
+
+       A.     EEOC
+
+        The EEOC currently collects annual data regarding the demographic breakdown of the
+workforces of private employers with 100 or more employees and of federal contractors with 50
+or more employees on the EEO-l form. However, the EEOC does not currently collect salary
+data with respect to private employers. (The EEOC does collect pay data from state and local
+governments through the EEO-4 form.) The EEOC uses the data on the EEO-l form, after an
+individual claimant's charge is filed, to examine a company's practices. In addition, the EEOC
+uses this data to determine whether it will file a Commissioner's charge, a charge filed by the
+
+
+                                                1
+                                                                             Hex-Dump Conversion
+EEOC, not by a private citizen.
+
+      After a charge is filed, the EEOC can investigate and obtain wage data from an individual
+employer. This data could then be used in litigation. However, by statute, the data on the
+EEO-! is subject to privacy protections, and the EEOC cannot give this data to the public.
+
+       B.      OFCCP
+
+         OFCCP currently collects wage data from contractors when they are performing an
+compliance review on-site. While OFCCP is on-site, they obtain detailed wage data on
+individual employees. OFCCP has taken this data off-site in some instances. They use this data
+to settle cases with contractors and ensure that contractors correct their pay policies. OFCCP
+also uses the EEO-! form in helping to determine which contractors they will audit. Recently,
+OFCCP has requested wage data before venturing on-site, at the earlier stage of the audit called
+the "desk audit" phase. However, they are formally requesting OMB to allow them to do this
+for all cases.
+
+       C.      BLS and Census
+
+        In general, BLS gathers data from employers and from households. In virtually every
+case the respondents contribute information voluntarily. BLS, in tum, pledges to maintain the
+confidentiality of all survey responses and the identity of survey respondents.
+
+        The household-based surveys are the principal source of data on earnings by demographic
+variables such as sex and race. The employer-based surveys do not gather wage data on a
+demographic basis. BLS believes that voluntary employer-based surveys are not useful vehicles
+for obtaining demographic information.
+
+       The Census also collects some wage data by household but not by employer.
+
+         New Wage Gap Report. As announced by the Vice President last year, BLS will soon
+be issuing a report on women's earnings. This report will provide greater detail than previous
+reports. The data will be culled from the Current Population Survey (the major household
+survey). BLS intends to publish figures on women's earnings by various characteristics, such
+as full-time and part-time status; union status; occupation; educational attainment; and marital
+status. This compendium of tables will be accompanied by a brief analytical text.
+
+II.    Possible New Methods of Collecting Wage Data
+
+        Below are listed some options for collecting wage data for enforcement, technical
+assistance, and informational purposes.
+
+       A.      Wage Data for Enforcement and Technical Assistance
+
+
+
+                                                2
+                                                                             Hex-Dump Conversion
+       If data were collected for enforcement or technical assistance, either the EEOC or OFCCP
+should collect this data.
+
+               I.      EEOC
+
+       The most likely way for the EEOC to collect this data would be to add back in a provision
+to Daschle's bill. The old version of Daschle's bill provided for the collection of pay
+information by the EEOC from employers with 100 or more employees, analyzed by the race,
+sex, and national origin of the employees. It was somewhat vague on exactly how the wage
+data would be collected. In particular, it did not specify that the data needs to be collected on
+the EEO-I form, which is the form used by the EEOC to collect employment data.
+
+         Senator Harkin's bill also requires employers to submit wage data with respect to job
+category, sex, race, and national origin. Unlike Senator Daschle's bill which requires employers
+with 100 employees or more to submit this data, however, Senator Harkin's bill requires
+employers with 25 or more employees in the first two years and 15 or more employees in
+subsequent years to submit this data. Furthermore, under Harkin's bill, the EEOC is authorized
+to publish this data and may provide specific employer's reports to the public. This provision is
+very controversial. As noted above, Senator Daschle's bill had originally contained a requirement
+for greater collection of wage data, but the Administration felt this would draw a great deal of fire
+from Republicans and the business community and it was replaced with Sense of the Senate
+language that the President should increase the amount of information available on wage
+disparities.
+
+         The main concerns with collecting data on the EEO-I form centered around opposition
+from the business community and Congress. The EEO-I form has remained virtually unchanged
+for the past 30 years, despite its review every 3 years for OMB paperwork clearance (most
+recently in 1997). The nine occupational categories are so broad that each job category contains
+many individual jobs. As a result, many in the business community perceive the EEO-I form as
+a waste of time and money. (OMB estimates that adding wage data would likely increase the
+compliance costs dramatically -- possibly by several hundred-fold -- although creating a
+supplement to the form or limiting it to a subset of the reporting universe could mitigate some of
+these costs.) Nonetheless, the EEOC believes that collecting wage data on the EEO-l form
+would greatly improve its ability to target and prioritize discrimination cases. It also would
+assist the Department of Labor (DOL) in targeting its enforcement efforts and monitoring
+affirmative action programs.
+
+        There is consensus that any attempts to add wage data to the EEO-l form will draw
+immediate fire from the RepUblicans and the business community. Indeed, any announcement
+                                                                                  a
+of a process to determine the best way to gather this data would likely provoke rider and risk
+the increase in funds requested for the EEOC in our FY2000 budget. (The budget requests
+$312 million for the EEOC -- $33 million or 12 percent more than enacted in the 1999
+budget. Almost one-third of the increase, or $10 million, will be used for our Equal Pay
+Initiative. EEOC will advance outreach to businesses and employees to educate them
+
+                                                 3
+                                                                           H~)(4)ljmp Conversion
+
+about the legal requirements for paying equal wages, provide technical assistance, improve
+training for EEOC employees to better identify wage discrimination issues, and launch a
+public service announcement campaign to highlight the wage gap.)
+
+       We might consider adding in a more narrow provision to the Daschle bill such as a
+supplement to the EEO-l form to send to a subset of businesses and/or federal contractors which
+would require employers to disclose data on experience, education, race, wages, and gender.
+This could be targeted on an industry basis. This data could be used for technical assistance and
+enforcement by both OFc:CP and EEOC.
+
+               2.   OFCCP
+
+        There are two basic methods by which OFCCP could collect wage data: (1) a Scheduling
+Request which is currently pending at OMB and (2) a new Affirmative Action Summary. The
+Scheduling Request at OMB proposes to collect detailed wage data (which identifies individual
+employees) by mail from the 5000 or so federal contractors that are scheduled for compliance
+reviews each year. (Incidentally, OFCCP has already requested and received this same data
+from some contractors without explicit OMB approval). While OFCCP currently is able to
+obtain this data on-site at a later stage of the review process, this pending request seeks to get
+detailed pay information on every single employee at a particular site by mail at the early "desk
+audit" stage of the process. This data would be permitted to be used for technical assistance and
+enforcement. The Department of Labor requested that the decision on this issue be extended by
+90 days until May of this year.
+
+         The other option for OFCCP to collect wage data would be in a proposed Affirmative
+Action Summary (also known as 60-2). For several years, OFCCP has been authorized to issue
+a regulation that would allow them to collect summary information from all the approximately
+200,000 federal contractors, including wage data, by mail. OFCCP informs us that this proposal
+currently is being reviewed by their Solicitor's Office. OFCCP believes the advantages of this
+proposal are two-fold: (1) OFCCP will be able to get some idea of how the entire universe of
+federal contractors, not only those scheduled for compliance reviews, are implementing the civil
+rights laws; and (2) every federal contractor, simply by being required to compile this data, will
+become more aware of how they can better implement the civil rights laws by paying equal
+wages and preventing discrimination.
+
+        Both of these options have received strong resistance from the business community and
+strong support from the women's groups. OMB, DPC, and the Women's Office have met with
+both contractors and the women's groups on the pending request at OMB. The business
+community believes that the request is overly burdensome because businesses do not keep in a
+readily available format the pay information that OFCCP is requesting. The business groups
+also do not believe that this is the most effective method for OFCCP to determine whether
+discrimination based on race, sex, and pay exists. They do not, however, have a better proposal,
+but OMB is setting up a meeting between the business groups and Labor to discuss further the
+issue. The women's groups, on the other hand, do not believe the pending request advances the
+
+
+                                                4
+                                                                         Hex-Dump Conversion
+
+data collection issue at all. The women's groups believe that this request is merely a
+reaffirmation of existing OFCCP authority. In their minds, they believe that this request is
+separate and distinct from trying to come up with other ways to collect wage data.
+
+        As for the Affirmative Action Summary, even though the request has not even cleared
+Labor, the business community is already gearing up for a fight on this issue. While the
+women's groups believe this summary would be a powerful tool because it would reach every
+single contractor, it is clear that Labor will not have this proposal ready for April.
+
+       B.      Wage Data for Informational Purposes
+
+        BLS and the Census Bureau would be the appropriate places to explore if we decide to
+collect more pay data for informational purposes. BLS does not allow matching of its data with
+the data gathered from enforcement or regulatory agencies, owing to the clear differences in the
+respective missions. The Census Bureau and BLS have research programs that allow approved
+researchers, under carefully structured conditions, to gain access to "microdata" (the basic
+responses provided by survey respondents) in order to produce new research on relevant
+economic or social issues.
+
+       However, BLS asserts, as a general matter, that it can be a very complex undertaking to
+add additional data to existing surveys or to expand the surveys' sample sizes. There are issues
+regarding cost and design that have to be taken into account while balancing the desire for new
+data with an attempt to maintain survey response rates and not add to respondent burden.
+
+       In addition, Treasury has suggested funding a grant for a third party academic study.
+They believe this would lead to useful information. We have asked them to draft a brief
+proposal for our meeting on March 10.
+
+
+
+
+                                                5
+            Hex-Dump Conversion
+
+
+
+
+6
+           Hel(·Oump Canmion
+
+
+
+
+7
+
+

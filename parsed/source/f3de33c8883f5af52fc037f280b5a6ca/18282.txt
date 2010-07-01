@@ -1,0 +1,164 @@
+RECORD TYPE: PRESIDENTIAL      (NOTES MAIL)
+
+CREATOR: Sarah A. Bianchi ( CN=Sarah A. Bianchi/OU=OPD/O=EOP [ OPD 1 )
+
+CREATION DATE/TIME: 6-JAN-1998 09:05:34.00
+
+SUBJECT:   final one-pager
+
+TO: Michelle Crisci ( CN=Michelle Crisci/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Jeanne Lambrew ( CN=Jeanne Lambrew/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Russell W. Horwitz ( CN=Russell W. Horwitz/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Kara Gerhardt ( CN=Kara Gerhardt/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Kevin S. Moran ( CN=Kevin S. Moran/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Lori L. Anderson ( CN=Lori L. Anderson/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Joshua Silverman ( CN=Joshua Silverman/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Stacie Spector ( CN=Stacie Spector/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Barbara D. Woolley ( CN=Barbara D. Woolley/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Joshua Gotbaum ( CN=Joshua Gotbaum/OU=OMB/O=EOP @ EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Jake Siewert ( CN=Jake Siewert/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Gene B. Sperling ( CN=Gene B. Sperling/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Christa Robinson ( CN=Christa Robinson/OU=OPD/O=EOP @ EOP [ OPD ) )
+READ: UNKNOWN
+
+TO: Darby E. Stott ( CN=Darby E. Stott/OU=WHO/O=EOP @ EOP [ WHO)      )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Ann F. Lewis ( CN=Ann F. Lewis/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: William H. White Jr.     ( CN=william H. White Jr./OU=WHO/O=EOP @ EOP [ WHO ) )
+
+
+READ: UNKNOWN
+
+TEXT:
+==================== ATTACHMENT 1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D82]MAIL49653350I.026 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043680FOOOOOI0A02010000000205000000CA2E00000002000008E6D53214ECC33269536D
+5A662333140D84923B6390E2C053E6CB5A6438A2C0312A90A9A5175799A26BE6E389C2BD23F457
+     AMERICANS AGES 55 TO 65 IMPROVED ACCESS TO HEALTH INSURANCE
+                               January 6, 1998
+
+President Clinton today announced a targeted, paid-for proposal to give Americans under 65 new
+options to obtain health care coverage. The President's proposal:
+
+
+
+       Enables Americans Ages 62 to 65 To Buy into Medicare, by paying a full premium.
+
+       Provides Vulnerable Displaced Workers over 55 Access to Medicare by offering those
+       who have involuntarily lost their jobs and their health care coverage a similar Medicare
+       buy-in option.
+
+       Provides Americans Over 55 Whose Companies Reneged on Their Commitment to
+       Provide Retiree Health Benefits A New Health Option, by extending "COBRA"
+       continuation coverage until age 65.
+
+
+
+Americans ages 55 to 65 are one of the most difficult to insure populations: they have less access
+to and a greater risk of losing employer-based health insurance; and they are twice as likely to
+have health problems. Some lose their employer-based health insurance when their spouse
+(frequently the husband) becomes eligible for Medicare. Many lose their coverage because they
+lose their jobs due to company downsizing or plant closings. Still others lose insurance when their
+retiree health coverage is dropped unexpectedly.
+
+These older Americans are often left to buy into the individual insurance market, which can be
+prohibitively expensive (in some cases, more than $1,000 per month for a person with a
+pre-existing condition) and altogether unavailable for many older Americans with health
+problems. In virtually all states, people purchasing individual policies pay much higher insurance
+rates because of a pre-existing condition; in many, they can be denied coverage altogether.
+
+The President's targeted proposal provides greater access to health coverage by:
+
+       ENABLING AMERICANS AGES 62 TO 65 TO BUY INTO MEDICARE, by paying a
+       premium. The premium will be paid for in a two-part "payment plan." First, participants
+       will pay a base premium of about $300 per month - the average cost of insuring Americans
+       this age range. Second, participants will pay an additional monthly payment, estimated at
+       $10 to $20, for each year that they buy into the Medicare program. This premium, to be
+       paid once participants enter Medicare at age 65, covers the extra costs of sicker participants.
+       This two part "payment plan" enables these older Americans to buy into Medicare at a more
+       affordable premium, while ensuring that the buy-in option is self-financing in the long run.
+
+                                                                     Automated Records Management System
+                                                                     Hex-Dump Conversion
+      MEDICARE by offering those who have involuntarily lost their jobs and their health care
+      coverage a similar Medicare buy-in option. Individuals choosing this option will pay the
+      entire premium at the time they receive the benefit without any Medicare "loan," in order to
+      ensure that Medicare does not pay excessive up-front costs and participants do not have to
+      make large payments after they tum 65. This policy responds to the increased vulnerability
+      of older Americans to work transitions and company layoffs. Such workers have a harder
+      time finding new jobs: only 52 percent are reemployed compared to over 70 percent of
+      younger workers. Nearly half of these unemployed, displaced workers who had health
+      insurance remained uninsured.
+
+      PROVIDING AMERICANS OVER 55 WHOSE COMPANIES RENEGED ON
+      THEIR COMMITMENT TO PROVIDE RETIREE HEALTH BENEFITS A NEW
+      HEALTH OPTION, by extending "COBRA" continuation coverage until age 65. This
+      proposal allows these retirees to buy into their former employers' health plan through age 65
+      by extending the availability of COBRA coverage to these families. In recent years, the
+      number of companies offering retiree benefits has declined: in 1993, only about half of
+      full-time workers in medium to large firms had access to retiree health insurance, compared
+      to 75 percent in 1985. Some companies have ended coverage only for future retirees, but
+      others have dropped coverage for individuals who have already retired. This policy
+      provides much needed access to affordable health care for these retirees and their dependents
+      whose health care coverage is eliminated after they have retired. Retirees will pay a
+      premium similar to that of other COBRA participants.
+
+The President's proposal is fully funded and does not burden the Medicare Program.
+
+      THE POLICY IS DESIGNED TO BE SELF-FINANCING. All three proposals are
+      designed to be paid for by the people who benefit. People ages 62 to 64 who buy into
+      Medicare will, over time, repay the amount that Medicare "loans" them when they are
+      buying in. Displaced workers will pay a premium that takes into account participants'
+      costs. And, the COBRA buy-in policy has no Federal budget impact whatsoever.
+
+      ANY TEMPORARY COSTS WILL BE OFFSET BY MEDICARE FRAUD, ABUSE
+      AND WASTE. The short-term Medicare "loan" to buy-in participants, plus the costs of the
+      displaced workers' buy-in, will cost approximately $2 to 3 billion over 5 years. These costs
+      will be financed by a series of new Medicare anti-fraud and waste proposals, which will be
+      announced in the President's budget.
+
+
+
+
+                                                              Automatod llecords Management System
+                                                              Hex-Dump Conversion
+
+

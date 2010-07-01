@@ -1,0 +1,69 @@
+RECORD TYPE: PRESIDENTIAL     (NOTES MAIL)
+
+CREATOR: Edward W. Correia ( CN=Edward W. Correia/OU=WHO/O=EOP [ WHO ] )
+
+CREATION DATE/TIME: 11-MAR-1999 10:38:19.00
+
+SUBJECT:    Genetic Discrimination
+
+TO: Elena Kagan     CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Lisa M. Brown ( CN=Lisa M. Brown/O=OVP @ OVP [ UNKNOWN]       )
+READ: UNKNOWN
+
+TO: Christopher C. Jennings ( CN=Christopher C. Jennings/OU=OPD/O=EOP @ EOP [ OPD ]
+READ: UNKNOWN
+
+TO: Sarah A. Bianchi ( CN=Sarah A. Bianchi/O=OvP @ OVP [ UNKNOWN]     )
+READ: UNKNOWN
+
+TEXT:
+           Some comments on possible exemptions in the genetic discrimination
+order.
+
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D62]MAIL44437557U.036 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043D5070000010A0201000000020500000082110000000200006B7136C085234C040BEA1C
+177D7E07F019312117108ADB2F33447C6E9E2E19CA8E27F9E897DOB216FDC6941836BBA1BB770B
+9ACAA47DBF8CBCD13EC15675181523407068BC9C5269EA0313C02F2BE07B761CCC7F56B2401FOC
+6A83DAF3A426C32220C3BAE138A13F4CC55C947DD21BB834BA35ED0431E7845AA69303670736B3
+                                     Hex-Dump ConvelSion .
+
+
+        Here are some thoughts on the genetic discrimination issues that came up in
+yesterday's meeting. Family history really is different from genetic markers (at least the
+way it is used). Family history is used as a factor confirming the existence of current
+disease. For example, physicians use family history as one indicator that an individual
+now has heart disease. The CIA said it used family history as one indicator to suggest an
+applicant currently has mental illness. The principal concern about genetic markers has
+been that they indicate a possibility that disease will develop in the future.
+
+        I still think that it makes sense to prohibit direct use of family history to make
+hiring or assignment decisions. That is because, as I understand EEOC's interpretation,
+the ADA prohibits such decisions unless there is a direct and imminent threat to the
+employee. It will be rare when any condition reaches that threshold and even rarer when
+family history is the factor that pushes the evaluation over the threshold. The loss of that
+factor in the employer's decision is insignificant compared to the benefits in privacy and
+prevention of misuse.
+
+        On the other hand, it makes less sense to bar the use of family history as a factor
+indicating that further testing is needed. If employers, including federal agencies, are free
+to make medical evaluations of current physical condition, should we bar what is now one
+regular aspect of a conventional medical evaluation? Doing so could hamper evaluations
+and encourage physicians to do additional unnecessary testing.
+
+        I gave my views on formulating the exemption option so I won't repeat them here,
+except for one thought. If a narrow, agency-specific exemption finds its way into the
+order, the administration will probably have to explain it some day. At that point, the
+rationale will point toward a broader exemption. So? we will end up conceding the broad
+rationale but we will be stuck with (and have to defend) an illogical exemption.
+Consequently, the exemption option should be faced directly rather than serve as a
+(tempting) narrow fix.
+
+

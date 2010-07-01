@@ -1,0 +1,661 @@
+         RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+         CREATOR: Russell W. Horwitz ( CN=Russell W. HorwitzjOU=OPDjO=EOP [ OPD 1 )
+
+         CREATION DATEjTIME:29-SEP-1997 12:12:12.00
+
+         SUBJECT:   Income and Poverty Fact Sheets
+
+         TO: Noa A. Meyer ( CN=Noa A. MeyerjOU=WHOjO=EOP @ EOP   [ WHO 1 )
+         READ: UNKNOWN
+
+         TO: Sky Gallegos ( CN=Sky GallegosjOU=WHOjO=EOP @ EOP   [ WHO 1 )
+         READ: UNKNOWN
+
+         TO: Paul E. Begala ( CN=Paul E. BegalajOU=WHojO=EOP @ EOP [ WHO 1 )
+         READ: UNKNOWN
+
+         TO: Glen M. Weiner ( CN=Glen M. WeinerjOU=WHOjO=EOP @ EOP [ WHO 1 )
+         READ: UNKNOWN
+
+         TO: Ruby Shamir ( CN=Ruby ShamirjOU=WHOjO=EOP @ EOP [ WHO 1 )
+         READ: UNKNOWN
+
+         TO: Darby E. Stott ( CN=Darby E. StottjOU=WHOjO=EOP @ EOP [ WHO 1 )
+         READ: UNKNOWN
+
+         TO: Christopher R. Ulrich ( CN=Christopher R. UlrichjO=OVP @ OVP    [ UNKNOWN 1 )
+         READ: UNKNOWN
+
+         TO: Ananias Blocker III ( CN=Ananias Blocker IIIjOU=WHOjO=EOP @ EOP [ WHO 1 )
+         READ: UNKNOWN
+
+         TO: Robin J. Bachman ( CN=Robin J. BachmanjOU=WHOjO=EOP @ EOP [ WHO 1 )
+         READ: UNKNOWN
+
+         TO: Leanne A. Shimabukuro ( CN=Leanne A. ShimabukurojOU=OPDjO=EOP @ EOP [ OPD 1 )
+         READ: UNKNOWN
+
+         TO: Elizabeth R. Newman ( CN=Elizabeth R. NewmanjOU=WHojO=EOP @ EOP [ WHO 1 )
+         READ: UNKNOWN
+
+         TO: Mickey Ibarra ( CN=Mickey IbarrajOU=WHOjO=EOP @ EOP [ WHO 1 )
+         READ: UNKNOWN
+
+         TO: Anne H. Lewis ( CN=Anne H. LewisjOU=OPDjO=EOP @ EOP [ OPD 1 )
+         READ: UNKNOWN
+
+         TO: Lorraine A.Voles ( CN=Lorraine A. VolesjO=OVP @ OVP [ UNKNOWN 1 )
+         READ: UNKNOwN
+
+         TO: Jeffrey A. Forbes ( CN=Jeffrey A. ForbesjOU=WHOjO=EOP @ EOP [ WHO 1 )
+         READ: UNKNOWN
+
+         TO: Craig T. Smith ( CN=Craig T. SmithjOU=WHOjO=EOP @ EOP [ WHO 1 )
+         READ: UNKNOWN
+
+         TO: Christopher J. Lavery ( CN=Christopher J. LaveryjOU=WHOjO=EOP @ EOP [ WHO 1 )
+         READ: UNKNOWN
+
+         TO: Lisa J. Levin ( CN=Lisa J. LevinjOU=WHOjO=EOP @ EOP [ WHO 1 )
+.,
+
+     READ: UNKNOWN
+
+     TO: Jill M. pizzuto ( CN=Jill M. Pizzuto/OU=OMB/O=EOP @ EOP [ OMB 1 )
+     READ: UNKNOWN
+
+     TO: Aviva Steinberg ( CN=Aviva Steinberg/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     TO: Robert B. Johnson ( CN=Robert B. Johnson/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     TO: Beverly J. Barnes ( CN=Beverly J. Barnes/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     TO: Thomas D. Janenda ( CN=Thomas D. Janenda/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     TO: Ronda H. Jackson ( CN=Ronda H. Jackson/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     TO: Paul J. Weinstein Jr.   ( CN=Paul J. Weinstein Jr./OU=OPD/O=EOP @ EOP [ OPD 1 )
+     READ: UNKNOWN
+
+     TO: Barry J. Toiv ( CN=Barry J. Toiv/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     TO: Jordan Tamagni ( CN=Jordan Tamagni/OU=WHO/O=EOP @ EOP [ UNKNOWN 1 )
+     READ: UNKNOWN
+
+     TO: Stephen B. Silverman ( CN=Stephen B. Silverman/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     TO: Jake Siewert ( CN=Jake Siewert/OU=OPD/O=EOP @ EOP   [ OPD 1 )
+     READ: UNKNOWN
+
+     TO: David Shipley ( CN=David Shipley/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     TO: Ellen S. Seidman ( CN=Ellen S. Seidman/OU=OPD/O=EOP @ EOP [ OPD 1 )
+     READ: UNKNOWN
+
+     TO: Steven J. Ronnel ( CN=Steven J. Ronnel/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     TO: Christa Robinson ( CN=Christa Robinson/OU=OPD/O=EOP @ EOP [ OPD 1 )
+     READ: UNKNOWN
+
+     TO: Franklin D. Raines ( CN=Franklin D. Raines/OU=OMB/O=EOP @ EOP [ OMB 1 )
+     READ: UNKNOWN
+
+     TO: Jonathan Prince ( CN=Jonathan Prince/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     TO: Kristen E. Panerali ( CN=Kristen E. Panerali/OU=OPD/O=EOP @ EOP [ OPD 1 )
+     READ: UNKNOWN
+
+     TO: Peter O'Keefe ( CN=Peter O'Keefe/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     TO: Alison Muscatine ( CN=Alison Muscatine/OU=WHO/O=EOP @ EOP [ WHO 1 )
+. '.
+
+       READ: UNKNOWN
+
+       TO: Kevin S. Moran ( CN=Kevin S. Moran/OU=WHO/O=EOP @ EOP [ WHO 1 )
+       READ: UNKNOWN
+
+       TO: Joseph J. Minarik ( CN=Joseph J. Minarik/OU=OMB/O=EOP @ EOP [ OMB 1 )
+       READ: UNKNOWN
+
+       TO: Michael D. McCurry ( CN=Michael D. McCurry/OU=WHO/O=EOP @ EOP [ WHO 1 )
+       READ: UNKNOWN
+
+       TO: Doris o. Matsui ( CN=Doris   o.   Matsui/OU=WHO/O=EOP @ EOP [ WHO 1 )
+       READ: UNKNOWN
+
+       TO: Julie E. Mason ( CN=Julie E. Mason/OU=WHO/O=EOP @ EOP [ WHO 1 )
+       READ: UNKNOWN
+
+       TO: Jacob J. Lew ( CN=Jacob J. Lew/OU=OMB/O=EOP @ EOP [ OMB 1 )
+       READ: UNKNOWN
+
+       TO: G N. Lattimore ( CN=G N. Lattimore/OU=WHO/O=EOP @ EOP [ WHO 1 )
+       READ: UNKNOWN
+
+       TO: Robert D. Kyle ( CN=Robert D. Kyle/OU=OPD/O=EOP @ EOP [ OPD 1 )
+       READ: UNKNOWN
+
+       TO: Charles Konigsberg ( CN=Charles Konigsberg/OU=OMB/O=EOP @ EOP [ OMB 1 )
+       READ: UNKNOWN
+
+       TO: Thomas A. Kalil ( CN=Thomas A. Kalil/OU=OPD/O=EOP @ EOP [ OPD 1 )
+       READ: UNKNOWN
+
+       TO: Christopher C. Jennings ( CN=Christopher C. Jennings/OU=OPD/O=EOP @ EOP [ OPD 1
+       READ: UNKNOWN
+
+       TO: Katherine Hubbard ( CN=Katherine Hubbard/OU=WHO/O=EOP     @   EOP' [ WHO 1 )
+       READ: UNKNOWN
+
+       TO: Nancy V. Hernreich ( CN=Nancy V. Hernreich/OU=WHO/O=EOP @ EOP [ WHO 1 )
+       READ: UNKNOWN
+
+       TO: Lawrence J. Haas ( CN=Lawrence J. Haas/OU=OMB/O=EOP @ EOP [ OMB 1 )
+       READ: UNKNOWN
+
+       TO: Julia R. Green ( CN=Julia R. Green/OU=WHO/O=EOP @ EOP [ WHO 1 )
+       READ: UNKNOWN
+
+       TO: Jason S. Goldberg ( CN=Jason S. Goldberg/OU=WHO/O=EOP @ EOP [ WHO 1 )
+       READ: UNKNOWN
+
+       TO: Diana Fortuna ( CN=Diana Fortuna/OU=OPD/O=EOP @ EOP [ OPD 1 )
+       READ: UNKNOWN
+
+       TO: Rahm I. Emanuel ( CN=Rahm I. Emanuel/OU=WHO/O=EOP @ EOP [ WHO 1 )
+       READ: UNKNOWN
+
+       TO: Ann T. Eder ( CN=Ann T. Eder/OU=WHO/O=EOP @ EOP [ WHO 1 )
+       READ: UNKNOWN
+
+       TO: Suzanne Dale ( CN=Suzanne Dale/OU=WHO/O=EOP @ EOP       WHO 1 )
+
+
+READ: UNKNOWN
+
+TO: Michelle Crisci   ( CN=Michelle Crisci/OU=WHO/O=EOP @ EOP [ WHO 1
+READ: UNKNOWN
+
+TO: Steven A. Cohen ( CN=Steven A. Cohen/OU=WHO/O=EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Barbara Chow ( CN=Barbara Chow/OU=WHO/O=EOP @ EOP   [ WHO 1 )
+READ: UNKNOWN
+
+TO: Paul R. Carey ( CN=Paul R. Carey/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Phillip Caplan ( CN=Phillip Caplan/OU=WHO/O=EOP @ EOP [ WHO 1
+READ: UNKNOWN
+
+TO: Susan A. Brophy ( CN=Susan A. Brophy/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Erskine B. Bowles ( CN=Erskine B. Bowles/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Marsha E. Berry ( CN=Marsha E. Berry/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Kris M Balderston ( CN=Kris M Balderston/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Kenneth S. Apfel ( CN=Kenneth S. Apfel/OU=OMB/O=EOP @ EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Barry B. Anderson ( CN=Barry B. Anderson/OU=OMB/O=EOP @ EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Roberta W. Greene ( CN=Roberta W. Greene/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Andrei H. Cherny ( CN=Andrei H. Cherny/O=OVP @ OVP [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Neera Tanden ( CN=Neera Tanden/OU=WHO/O=EOP @ EOP   [ WHO 1 )
+READ: UNKNOWN
+
+TO: Michael V. Terrell ( CN=Michael V. Terrell/OU=CEQ/O=EOP @ EOP [ CEQ 1 )
+READ: UNKNOWN
+
+TO: Christopher F. Walker ( CN=Christopher F. Walker/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Jonathan H. Schnur ( CN=Jonathan H. Schnur/O=OVP @ OVP [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Robert M. Shireman ( CN=Robert M. Shireman/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Emil E. Parker ( CN=Emil E. Parker/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Virginia N. Rustique ( CN=Virginia N. Rustique/OU=WHO/O=EOP @ EOP [ WHO 1 )
+
+
+READ: UNKNOWN
+
+TO: Daniel C. Tate ( CN=Daniel C. Tate/OU=WHO/O=EOP   @   EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Roger V. Salazar ( CN=Roger V. Salazar/O=OVP @ OVP [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Virginia M. Terzano ( CN=Virginia M. Terzano/O=OVP @ OVP [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Karen E. Skelton ( CN=Karen E. Skelton/OU=WHO/O=Eo.P @ EOP [ WHO. 1 )
+READ: UNKNOWN
+
+TO: Minyon Moore ( CN=Minyon Moore/OU=WHo./O=EOP @ EOP    [ WHO 1 )
+READ: UNKNOWN
+
+TO: Lynn G. Cutler ( CN=Lynn G. Cutler/o.U=WHO/o.=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Joseph M. Wire ( CN=Joseph M. Wire/OU=OMB/O=EOP @ EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: William H. White Jr.    ( CN=William H. White Jr./OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Cynthia A. Rice      CN=Cynthia A. Rice/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Barbara D. Woolley ( CN=Barbara D. Woolley/OU=WHo./O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Charles R. Marr ( CN=Charles R. Marr/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Sara M. Latham ( CN=Sara M. Latham/OU=WHO/o.=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Kathleen M. Wallman ( CN=Kathleen M. Wallman/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Lisa M. Kountoupes      CN=Lisa M. Kountoupes/OU=OMB/O=EOP @ EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Michael Waldman      CN=Michael Waldman/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Daniel K. Tarullo ( CN=Daniel K. Tarullo/OU=OPD/o.=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Douglas B. Sosnik ( CN=Douglas B. Sosnik/OU=WHO/o.=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Joshua Silverman ( CN=Joshua Silverman/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Alice E. Shuffield ( CN=Alice E. Shuffield/OU=OMB/O=EOP @ EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Laura D. Schwartz ( CN=Laura D. Schwartz/o.U=WHO/o.=EOP @ EOP [ WHO. 1 )
+
+
+READ: UNKNOWN
+
+TO: Stacey L. Rubin ( CN=Stacey L. Rubin/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Dorothy Robyn ( CN=Dorothy Robyn/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: victoria Radd ( CN=Victoria Radd/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: John Podesta ( CN=John Podesta/OU=WHO/O=EOP @ EOP   [ WHO 1 )
+READ: UNKNOWN
+
+TO: Peter R. Orszag ( CN=Peter R. Orszag/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Bob J. Nash ( CN=Bob J. Nash/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Janet Murguia ( CN=Janet Murguia/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Linda L. Moore ( CN=Linda L. Moore/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Anne E. McGuire ( CN=Anne E. McGuire/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Cathy R. Mays ( CN=Cathy R. Mays/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Sylvia M. Mathews ( CN=Sylvia M. Mathews/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Bruce R. Lindsey ( CN=Bruce R. Lindsey/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Ann F. Lewis ( CN=Ann F. Lewis/OU=WHO/O=EOP @ EOP   [ WHO 1 )
+READ.: UNKNOWN
+
+TO: Jeanne Lambrew ( CN=Jeanne Lambrew/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Karin Kullman ( CN=Karin Kullman/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Jonathan A. Kaplan ( CN=Jonathan A. Kaplan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP   [ OPD 1 )
+READ: UNKNOWN
+
+TO: Peter G. Jacoby ( CN=Peter G. Jacoby/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: John L. Hilley ( CN=John L. Hilley/OU=WHO/O=EOP @ EOP [ WHO 1 )
+
+
+READ: UNKNOWN
+
+TO: Daniel D. Heath ( CN=Daniel D. Heath/OU=OMB/O=EOP @ EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Melissa Green   CN=Melissa Green/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: D. Stephen Goodin ( CN=D. Stephen Goodin/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Ben A. Freeland ( CN=Ben A. Freeland/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Karen E. Finney ( CN=Karen E. Finney/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: James T. Edmonds ( CN=James T. Edmonds/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Michael Deich ( CN=Michael Deich/OU=OMB/O=EOP @ EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Betty W. Currie ( CN=Betty W. Currie/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Brenda B. Costello ( CN=Brenda B. Costello/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Michael Cohen ( CN=Michael Cohen/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Cheryl M. Carter ( CN=Cheryl M. Carter/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Laura K. Capps ( CN=Laura K. Capps/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Rebecca A. Cameron ( CN=Rebecca A. Cameron/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Emily Bromberg ( CN=Emily Bromberg/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Jill M. Blickstein ( CN=Jill M. Blickstein/OU=OMB/O=EOP @ EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: David S. Beaubaire ( CN=David S. Beaubaire/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Eli G. Attie ( CN=Eli G. Attie/O=OVP @ OVP [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Brenda M. Anders ( CN=Brenda M. Anders/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Lori L. Anderson ( CN=Lori L. Anderson/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TEXT:
+
+
+Today, the Census Bureau released their annual survey of Income and
+Poverty in America for 1~96.  Attached are our fact sheets.
+
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D56)MAIL45264417H.216 to ASCII,
+ The following is a HEX DUMP:
+
+FF5750438A520100010A0201000000020500000083710100000200008E606324412655BBFD9A97
+BSB63282DFOB8A07BBCFE908424225076818D204D151B96E3BDE3EE006066479BDOD052FS6180A
+A7C1CE5E1ES5S5ED532A1D97C77479BCBEEA986FBA8EBEOE1007D7BA4870D3SC957F99A5806C02
+CBEE1917F057BC5417B2FC4CDD2FD4A81F4580AEOF56379B11ABC2A6569C3706EEEF9BC99317B4
+OA4FC970DE9EDFDS66E40C8C9A120S198EBC52COA60838AFCAFEOF6810A5A632A0089272576582
+2F55EEBEOEA13819482B6BC345048BF833323A98AEF6D9BC979CDB4C979DOB269FCE6D86C8D956
+225986F575211F7C542EBAA44C40A8B11BA229AB8E28D3AB88EOD07002387255888013C9472BC5
+A594EEB559CD48FF7A87F057F4AC7AFFBDCD8E3583532BB1D5AAFS37EC338D28B073E085C1E87S
+880290BA34A6B045EDD2503996SDOBF6B557677ECA6A9FB6891B75F1F43769EE7C4CDD786052FD
+94585BASDB3850E4F7F704B504CEEB7B28BCE4720B22B3C5A142802BF49FC3A958B6072D2BD1A5
+CDC82D018B327EDE48B3EEA87F8BDC6B4037FD5C15SC8A400BE0294A7B07213C501597FF615264
+5B66974D91091126E0264281FBF2E8F6A927A7105D8EE06AEDOOE26D302A85B35DCC418E577635
+OA1D70F956955E6F6B598BC028FAEF694A59B627FC3461F363B23617EOA4806E11982227FDDE2F
+E7891C18D502006501000000000000000000000B30030000007EOO0000861500000B3003000000
+78000000041600000B3003.0000006B0000007C1600000B30030000006BOOOOOOE71600000B3003
+0000009A000000521700000B30030000007EOOOOOOEC1700000B3002000000D10000006A180000
+OB3002000000E40000003B1900000B3003000000A60000001F1AOO000B3002000000F7000000C5
+1AOOOOOB30020000000A010000BC1BOOOOOB30020000001E010000C61COOOOOB30020000003101
+0000E41DOOOOOB300200000043010000151FOOOOOB300200000056010000582000000B30030000
+00CFOOOOOOAE2100000B3003000000A40000007D2200000B3003000000A4000000212300000B30
+03000000C3000000C52300000B3003000000BC000000882400000B3003000000BB000000442500
+000B3003000000D9000000FF2500000B3003000000A3000000D82600000B3003000000A3000000
+7B2700000B3002000000C10000001E2800000B3002000000D4000000DF2800000B3002000000E7
+000000B32900000B3002000000FA0000009A2AOOOOOB3002000000OD010000942BOOOOOB300200
+000020010000A12COOOOOB300200000033010000C12DOOOOOB300200000046010000F42EOOOOOB
+3002000000C10000003A3000000B3002000000D4000000FB300000OB3002000000E7000000CF31
+00000B3002000000FAOOOOOOB63200000B30020000000D010000BO3300000B3002000000200100
+00BD3400000B300200000033010000DD3500000B3002000000460100001037000000553DOOOOOO
+2E0000005638000009250100000006000000843800000B30010000007A0000008A3800000B3001
+000000D90000000439000009310200000005010000DD3900000B3001000000E4000000E23AOOOO
+090B0200000011000000C63BOOOOOB30020000003DOOOOOOD73BOO000B30020000004600000014
+3COOOOOB3002000000500000005A3C000009310200000093000000AA3COOOOOB3001000000B700
+00003D3D0000060801000000A2030000F43DOOOOOB300700000061000000964100000045200000
+0002000000F74100000B30010000007DOOOOOOF94100000B300100000078000000764200000B30
+010000008DOOOOOOEE4200000B3001000000F00000007B4300000B3001000000F80000006B4400
+000B3001000000EC000000634500000B3001000000E80000004F4600000B3001000000ECOOOOOO
+374700000B300100000012010000234800000B300100000006010000354900000B3001000000EA
+0000003B4AOOOOOB3001000000F0000000254BOOOOOB3001000000D2000000154COOOOOB300100
+0000DCOOOOOOE74COOOOOB3001000000DAOOOOOOC34DOOOOOB3001000000D80000009D4EOOOOOB
+3001000000FE000000754FOOOOOB30010000004601000073500000OB300100000048010000B951
+00000B300100000050010000015300000B30010000000E0100005154000000S5030000002EOOOO
+005F5500000B3001000000940000008D5500000B30010000005AOO0000215600000B3001000000
+5A0000007B5600000B300100000054000000D55600000B3001000000F201000029570000005501
+0000002E0000001B5900000B3001000000B5000000495900000B300100000066000000FE590000
+OB300100000063000000645AOOOOOB3001000000B1000000C75AOO000B30010000006C00000078
+5BOOOOOB300100000030010000E45BOOOOOB3001000000C2000000145DOOOOOB30010000003401
+0000D6SDOOOOOB3001000000340100000A5FOOOOOB3001000000BF0000003E6000000B30010000
+0040010000FD6000000B3001000000480100003D6200000B30010000008E010000856300000055
+350000003C000000136500000B3001000000450100004F6500000B30010000000E010000946600
+0006080100000092000000A26700000B300B000000610000003468000000650300000001000000
+    '.                                                                                          liClr� ~'!iFo.             ,',
+              KEY FACTS on CENSUS INCOME AND POVERTY REfr9~"c~'~c'n"".
+                                                  September 29, 1996                                            'l's101)         'IlJf:J:J18Jr~
+                                                                                                                                              'f:J:J}
+TODAY, THE CENSUS BUREAU RELEASED A REPORT ON INCOME AND POVERTY IN AMERICA
+IN 1996. HERE ARE SOME OF THE RESULTS:
+�   Typical Family Income Up $2,169 Since 1993. Last year, the median family's income, adjusted for inflation,
+    increased 1.2 percent -- the third consecutive yearly rise. Since President Clinton's Economic Plan passed in 1993,
+    median family income has increased from $40,131 in 1993 to $42,300 in 1996 -- that's a $2,169 increase in income,
+    adjusted for inflation. Fr<?m 1988 to 1992, median family income fell $1,795, adjusted for inflation.
+
+�   Under President Clinton, The Typical African-American Household's Income Is Up $2,300. Since 1993, the median
+    income of African-American households has increased from $21,209 to $23,482 -- that's $2,273 or an 11 percent
+    increase, adjusted for inflation, between 1993 and 1996.
+
+�   Income of Typical Hispanic Household Increased $1,400 Last Year. After dropping the previous year, the income of
+    the median Hispanic household, adjusted for inflation, increased from $23,535 in 1995 to $24,906 in 1996 -- that's
+    an increase of $1,371 or 5.8 percent in one year, the biggest one-year increase on record.
+
+�   All Income Groups Have Seen Incomes Rise Since 1993. Since 1993, every income group -- from the most well-off
+    to the poorest -- experienced a real increase in their income, with the poorest 20 percent of American households
+    experiencing the biggest percentage increase (6.8 percent).
+
+�   After Rising Sharply for 20 Years, Inequality Has Now Stabilized After rising for nearly 20 years, income inequality
+    has stayed constant over the last three years. In 1996, incomes rose at all points in the income distribution on an
+    after-tax basis. And while the real income of the American household at the lowest percentile            -- the 20th
+    percentile -- stagnated last year on a before-tax basis, it increased 3.3 percent on an after-tax basis, from $7,927 in
+    1995 to $8,189 in 1996.
+
+�   Poverty Rate Fell To 13.7 Percent in 1996 -- Down from 15.1 Percent in 1993. In 1996, the poverty rate declined to
+    13.7 percent from 13.8 percent the year before. Since President Clinton signed his Economic Plan into law, the
+    poverty rate has declined from 15.1 percent in 1993 to 13.7 percent last year -- that's the biggest three-year drop in
+    the poverty rate in a decade.
+
+�   The African-American Poverty Rate Dropped To Its Lowest Level In History. In 1996, the African-American poverty
+    rate declined from 29.3 percent to 28.4 percent -- that's its lowest level recorded since data were first collected in
+    1959. Since 1993, the African-American poverty rate ha~ dropped from 33.1 percent to 28.4 percent -- that's the
+    largest three-year drop in African-American poverty in nearly 30 years (1967-1970).
+
+    Under President Clinton, Largest Three-Year Drop in Child Poverty Since 1960s. In 1996, the child poverty rate declined
+    from 20.8 percent to 20.5 percent. Since President Clinton signed his Economic Plan into law, the child poverty rate
+    has declined from 22.7 percent to 20.5 percent -- that's the biggest three-year drop in nearly 30 years (1966-1969).
+
+�   Child Poverty Among African-Americans Down To Lowest Level in More Than 20 Years. In 1996, the
+    African-American child poverty rate fell from 41.9 percent to 39.9 percent -- its lowest level since 1974. Since
+    1993, the child poverty rate among African-Americans has dropped from 46.1 percent to 39.9 percent -- that's the
+    biggest three-year drop on record.
+
+    4.3 Million People Lifted Out of Poverty By BITC -- Double The Number in 1993. In 1993, President Clinton
+    expanded the Earned Income Tax Credit, providing a tax cut for low-income working families. In 1996, the
+    EITC lifted 4.3 million people out of poverty -- that's 2.2 million more people than were lifted out of poverty by
+    the EITC in 1993.
+
+�   More Children In Working Families Without Health Insurance. The number of Americans without health insurance
+    increased by 1.1 million to 41.7 million in 1996. Nearly three-quarters of this increase was due to a rise in the
+    number of uninsured children (up 800,000), most of whom (500,000) were above the poverty line. These are
+law in August -- the biggest children's health care investment' since the enactment of Medicaid in 1965.
+
+
+
+
+                                                                     Automated Records Management System
+                                                                     Hex-Dump Conversion
+                                                                Hex-Dump Conversion
+          ADDRESSING OUR REMAINING CHALLENGES
+                                      September 29, 1996
+
+TODAY'S CENSUS REPORT ON INCOME AND POVERTY IS GOOD NEWS,
+OVERALL, FOR AMERICA. WHILE WE HAVE MADE MUCH PROGRESS IN THE
+LAST 4Yz YEARS, TODAY'S REPORT HIGHLIGHTS SOME OF THE CHALLENGES
+THAT REMAIN.
+
+�   Typical Family Income Stagnated For 20 Years. During the 20 years before President
+    Clinton took office, median family income stagnated. Since 1993, the typical family'S
+    income has increased $2,169, adjusted for inflation. But this is not enough. That is why
+    President Clinton fought-- and will continue to fight -- for policies that help raise incomes
+    and families' take-home pay.
+
+    o    $500 Child Tax Credit For 27 Million Families with 45 Million Children Under
+         Age 17. The balanced budget legislation that the President negotiated with the
+         Congress includes a $500 per-child tax credit for children under age 17. For the
+         typical American family with two kids, this child tax credit will mean $1,000 more per
+         year in take-home pay.
+
+    o    Education Tax Breaks. The balanced budget deal also includes a $1,500 Hope
+         Scholarship to make the first two years of college universally available, and a
+         20-percent tuition tax credit for college juniors, seniors, graduate students, and
+         working Americans pursuing lifelong learning. For a student attending the average
+         four-year college, these education tax incentives will provide tax savings of up to
+         $5,000. [Source: Department of the Treaswy]
+
+    o    Lower Mortgage Rates Saved Families Thousands. President Clinton's 1993
+         Economic Plan cut the deficit more than 80 percent. Experts -- including Alan
+         Greenspan -- agree that this deficit reduction led to a drop in interest rates. And
+         according to the New York Times and Money, these lower interest rates saved the 10
+         million families who refinanced their home mortgages $1,000 to $2,000 per year, on
+         average. [Source: New York Times, 8/3/96; Money, 8/96]
+
+
+�   The Number of Children In Working Families Without Health Care Continues To Rise.
+    In 1996, children accounted for nearly 75 percent of the 1.1 million more Americans without
+    health insurance. Of the 800,000 additional children without health insurance, about
+    two-thirds came from families living above the poverty line. This is why the President fought
+    to ensure that the Balanced Budget included $24 billion to provide meaningfUl health care
+    coverage to as many as five million of our Nation's uninsured children.
+
+    o   Balanced Budget Invests Unprecedented $24 Billion for Uninsured Children.
+        The President insisted on increasing the investment for children's health from $16
+        billion to $24 billion by including revenue from a new tobacco tax. Because of the
+        President's leadership, this budget will contain the largest children's health care
+        budget increase since the enactment of Medicaid in 1965. Including these additional
+        revenues in the children's health initiative will not only further reduce the number of
+        uninsured children, but it will also serve as a financial barrier to help prevent our
+        children from starting to smoke in the first place.
+�   While Every Income Group Has Experienced A Real Income Increase Under President
+"
+                                                                Hex-Dump Conversion .
+    Clinton, Income Inequality Increased Slightly in 1996. Since 1993, every income group
+    -- from the most well-off to the poorest -- experienced a real increase in their income, with
+    the poorest 20 percent of American households experiencing the biggest percentage increase
+    (6.8 percent). But, in 1996, the Gini coefficient -- a measure of inequality -- increased
+    slightly. That is why President Clinton fought -- and will continue to fight -- for policies
+    that help low-income families make ends meet, while they rise up the economic ladder.
+
+    o    Expanded EITC Puts Money Back in Working Families' Pockets. The President
+         fought for a substantial expansion in the Earned Income Tax Credit in 1993 -- the
+         average family with two kids that received the EITC got a tax cut of $1 ,026. In 1996,
+         the EITC lifted 4.3 million out of poverty -- that's 2.2 million more people than were
+         lifted out of poverty by the EITC in 1993.
+
+    o    Minimum Wage Hike Increases Pay By $1,800 for FuU-Time Worker. On
+         September 1,1997, the minimum wage increased to $5.15 per hour for nearly 10 million
+         workers. For someone working at $4.25 per hour, that was a raise of 90-cents per hour
+         -- or $1,800 per year for a full-time worker.
+
+    o    Fought To Ensure Low-Income Families Benefitted from Child Tax Credit.
+         Because of the President's efforts, 13 million children from families with incomes
+         below $30,000 will receive the tax credit -- up to 7.5 million more than under the
+         House plans. Families making under $30,000 -- such as young teachers, police
+         officers, farmers, nurses and others who work hard and play by the rules -- will now
+         receive the child credit. [Source: Department of the Treasury]
+
+    o    AmeriCorps CoUege Support. The AmeriCorps program has enabled 70,000
+         volunteers to earn money for college by serving their communities and their country.
+
+    o    Increased WIC Nearly $1 Billion. President Clinton increased funding for WIC --
+         which provides nutrition packages, nutrition education, and health referrals to
+         low-income pregnant women, infants, and children -- by nearly $1 billion, or 34
+         percent, to $3.8 billion in FY97. The program's participation has expanded by 1.7
+         million since 1993, from 5.7 to 7.4 million women, infants, and children.
+
+    o    Expanded Head Start -- $1 Billion Higher Each Year. President Clinton has increased
+         funding for Head Start by 43 percent, from $2.8 billion in FY93 to $4.0 billion in FY97.
+         He also created the Early Head Start program in 1994 to support zero-to-3 year aIds and
+         their families. And the Balanced Budget agreement increases funding so that 1 million kids
+         can participate in 2002.
+
+    o    Doubled Dislocated Worker Funding. The funding for dislocated workers has been
+         doubled, from $651 million in FY93 to $1,286 million in FY97. This year, the
+         dislocated worker program will assist 580,000 workers, up about 300,000 since
+         President Clinton took office;
+
+    o    Largest PeU Grant Increase in Two Decades. The Balanced Budget agreement
+         boosts the maximum 1998 Pell grant from $2,700 to $3,000, and expands the program
+         to more poor independent students -- that's the largest increase in two decades.
+
+

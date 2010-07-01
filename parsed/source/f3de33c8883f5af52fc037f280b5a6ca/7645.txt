@@ -1,0 +1,130 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Christopher C. Jennings ( CN=Christopher C. Jennings/OU=OPD/O=EOP [ OPD )     )
+
+CREATION DATE/TIME: 14-MAY-1998 00:32:18.00
+
+SUBJECT:   tobacco funding table
+
+TO: Jeanne Lambrew ( CN=Jeanne Lambrew/OU=OPD/O=EOP@ EOP [ OPD )      )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ) )
+READ: UNKNOWN
+
+TO: Joshua Gotbaum ( CN=Joshua Gotbaum/OU=OMB/O=EOP @ EOP [ OMB ) )
+READ: UNKNOWN
+
+TO: BruceN. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ) )
+READ: UNKNOWN
+
+'TEXT:
+ Here is the draft tentative agreement on the spending priorities; we're
+ talking to NGA at 8:30, so any comments before then would be appreciated.
+
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS EXT: [ATTACH.D40)MAIL40165333W.126 to ASCII,
+ The fol'lowing is a HEX DUMP:
+
+ FF575043490C0000010A02010000000205000000612C0000000200000442ECB40F9A16C39A7A79
+ 4F805766327D554BE173COA6E491EEA24F4E9D5AFOOOA2A5B7EOC7884362AE6DE52553627CAOA6
+ 4A31535AC7630FDBD9431517D29CB850229B9D70737E5D948E794A76A258D59C943A393E79077E
+'C9FDA66758C262524BB36E0066DF4703643C5010ED9974F88118E741DA12F7B609ACDC6BA8B8F9
+ 2D935D52806445B3839EFBE4B537787DEF3AD8576601014A81E7246BA8AA52D94BC1217F51A565
+ EF0214393FB4265F2BB861565551AC2C886F2F93724BDAFD8090BAF6EE25DE62379C89EA8578F1
+ 506C95E4199F9B6C51102A068D453B5678CD15746FA15510460F345B5449EAC9C7381D371B6084
+ 6BB01FF805C352963DDCC78ADE5C198ABD13FE6385028AD1E98238E504995D9C5D57E814F2E65A
+ 48153EOBFF9E49062566ABDAC121C4614A6C6F5F72D8D651524DCB4558157FF9CC2CE3534C9764
+ CD59COFB567894978C282138CC933C9EB3D022D18DD41D2E75FE85D352F19988456961146BB13E
+ 3E5330E0651062E0536EBA5DED15560431642306D4E0576CD91EDF671B71D18376BD15FEEC8718
+ 521824COOB3E9C22CFB68198F1432C1A3F0574776283E0827E09D87D8D2626C8B01E2C6BF450FC
+ 6A6E80F66EA77075B47B51277262A096C8C1E451C9B01C41565F6C13286F624E766A5CB5E47269
+ 85FF2FOC3102003A00000000000000000000000823010000000B0100002C050000005511000000
+ 4E0000003706000009250100000006000000850600000B3002000000280000008B060000081601
+ 00000032000000B306000008770100000040000000E50600000834010000001400000025070000
+ 0802010000000F0000003907000008050100000008000000480700000066020000000200000050
+ 07000000610100000014000000520700000968010000004E040000660700000000000000000000
+ 000066070000000000000000000000006607000000000000000000000000660700000000000000
+ 000000000066070000000000000000000000006607000000000000000000000000660700000000
+ 000000000000000066070000000000000000000000006607000000000000000000000000660700
+                                       ,
+ 000000000000000000000066070000000000000000000000006607000000000000000000000000
+ 660700000000000000000000000066070000000000000000000000006607000000000000000000
+ 000000660700000000000000000000000066070000000000000000000000006607000000000000
+ 000000000000660700000B30010000004EOOOOOOB40BOOOOOOOOOO00000000000000B40BOOOOOO
+ 000000000000000000B40BOOOOOOOOOOOOOOOOOOOOOOOOB40BOOOO00000000000000000000B40B
+ 000000000000000000000000B40BOOOOOOOOOOOOOOOOOOOOOOOOB4OBOOOOOOOOOOOOOOOOOOOOOO
+ 00B40BOOOOOOOOOOOOOOOOOOOOOOOOB40BOOOOOOOOOOOOOOOOOOOO0000B40BOOOOOOOOOOOOOOOO
+ 00000000B40B000009422A0000001D000000020COOOOOOOOOOOOOO0000000000020COOOOOOOOOO
+                                                                            Hex-Dump Conversion
+"
+
+
+
+
+             TENTATIVE TOBACCO STRUCTURAL & SPENDING AGREEMENT (5/13/98)
+
+        Provision         HarkinlChafee                    NGAOffer                         Tentative Agreement*
+
+        Flow of          Through Federal                Directly to States             Through Federal Trust Fund
+        Funds            Trust Fund                    (McCain proposal)
+
+        Restricted v.          50/50                          40/60                                 50/50
+        Unrestricted                                                                       (Note: Budget was 57/43)
+
+        Maintenance         Unspecified                    Unspecified                               Aggregate
+        of Effort
+
+        Reassessmen            None           Statutory spending options (and          GAO (or others) reassess
+        t of Spending                         maintenance of effort) expire after      priorities every 5 years (separate
+        Options                               10 years or so                           legislation required for change)
+
+        Children's             None                           None                     Agreed to subtract from Federal
+        Health                                                                         share of grant (consistent with
+        Outreach                                                                       Budget)
+
+        SPENDING         20 widely varying    ADMIN. BASE LIST                         ADMIN. BASE LIST
+        OPTIONS          and broadly          ACCEPTED BY NGA                          ACCEPTED BY NGA
+                         defmed Federal       Substance Abuse Block Grant:             Substance Abuse Block Grant:
+                         and State            Prevention, Treatment                    Prevention, Treatment
+                         programs
+                         (developed with      Maternal and Child Health Block          Maternal and Child Health Block
+                         NGA)                 Grant Program                            Grant Program
+
+                                              Child Care Development Block             Child Care Development Block
+                         Rejected options
+                                              Grant                                    Grant
+                         include:
+                        Medicaid              Child welfare programs                   Child welfare programs
+                        CHCs                  (non-entitlement)                        (non-entitlement)
+                        TANF
+                        State program for                                              Reduce class size/teacher quality
+                         children with                                                 grant (new program)
+                         disabilities
+                        Comm. services        NGA ADDITIONS                            6 TENTATIVE ADD-ONS
+                         block grant          CHIP state share                         CHIP state share (only for TX
+                        Food Stamps                                                    andFL)
+                        LIHEAP
+                                              Head Start                               Head Start?
+                        General educ.
+                        WIC                   Social Services Block Grant (Title       REJECTED
+                        Child abuse           XX)
+                        Other anti-tobacco
+                         programs             Child Nutrition Programs                 Child Nutrition Programs?
+
+                                              Even Start Program                       REJECTED
+
+                                              Preventive Service Block Grant           REJECTED
+
+                                              Iridividuals with Disabilities           Individuals with Disabilities
+                                              Education Act                            Education Act?
+
+                                              Professional development grants          Professional development grants?
+
+                                              Technology grants                        Technology grants?
+    *    Note: The last column 1S tentative and subject to change
+
+

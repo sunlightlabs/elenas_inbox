@@ -1,0 +1,584 @@
+ RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+ CREATOR: Russell W. Horwitz ( CN=Russell W. Horwitz!OU=OPD!O=EOP [ OPD 1 )
+
+ CREATION DATE!TIME:30-MAY-1997 10:49:50.00
+
+ SUBJECT:   GDP 1-pager and economic report card 1-pager
+
+ TO: Julia M. payne ( CN=Julia M. Payne!O=OVP @ OVP [ UNKNOWN 1 )
+ READ: UNKNOWN
+
+ TO: Lorraine A. Voles ( CN=Lorraine A. Voles!O=OVP @ OVP [ UNKNOWN 1 )
+ READ:UNKNOWN
+
+ TO: Jeffrey A. Forbes ( CN=Jeffrey A. Forbes!OU=WHO!O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Craig T. Smith ( CN=Craig T. Smith!OU=WHO!O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Christopher J. Lavery ( CN=Christopher J. Lavery!OU=WHO!O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Nicholas B. Kirkhorn ( CN=Nicholas B. Kirkhorn!OU=WHO!O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Joseph M. Wire ( CN=Joseph M. Wire!OU=OMB!O=EOP @ EOP [ OMB 1 )
+ READ: UNKNOWN
+
+ TO: Dan Pink ( CN=Dan Pink!O=OVP @ OVP [ UNKNOWN 1 )
+ READ:UNKNOWN
+
+ TO: Aviva Steinberg ( CN=Aviva Steinberg!OU=WHO!O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Robert B. Johnson ( CN=Robert B. Johnson!OU=WHO!O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Beverly J. Barnes ( CN=Beverly J. Barnes!OU=WHO!O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Thomas D. Janenda ( CN=Thomas D. Janenda!OU=WHO!O=EOP @ EOP [ WHO 1 )
+ READ:UNKNOWN
+
+ TO: Daniel C. Tate ( CN=Daniel C. Tate!OU=WHO!O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Kathleen M. Wallman ( CN=Kathleen M. Wallman!OU=WHO!O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Ronda H. Jackson ( CN=Ronda H. Jackson!OU=WHO!O=EOP @ EOP [ WHO 1 )
+ READ:UNKNOWN
+
+ TO: Paul J. Weinstein Jr.   ( CN=Paul J. Weinstein Jr.!OU=OPD!O=EOP @ EOP [ OPD 1 )
+ READ: UNKNOWN
+
+ TO: Barry J. Toiv ( CN=Barry J. Toiv!OU=WHO!O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Jordan Tamagni ( CN=Jordan Tamagni!OU=WHO!O=EOP @ EOP [ UNKNOWN 1 )
+
+
+ READ: UNKNOWN
+
+ TO: Stephen B. Silverman ( CN=Stephen B. Silverman/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Jake Siewert ( CN=Jake Siewert/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ: UNKNOWN
+
+ TO: Robert M. Shireman ( CN=Robert M. Shireman/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ:UNKNOWN
+
+ TO: Laura D. Schwartz ( CN=Laura D. Schwartz/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ:UNKNOWN
+
+ TO: Stacey L. Rubin ( CN=Stacey L. Rubin/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Dorothy Robyn ( CN=Dorothy Robyn/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ: UNKNOWN
+
+ TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ: UNKNOWN
+
+ TO: Victoria Radd ( cN=Victoria Radd/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ:UNKNOWN
+
+ TO: John Podesta ( CN=John podesta/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Peter R. Orszag ( CN=Peter R. Orszag/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ: UNKNOWN
+
+ TO: Bob J. Nash ( CN=Bob J. Nash/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Janet Murguia ( CN=Janet Murguia/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Linda L. Moore ( CN=Linda L. Moore/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Joseph J. Minarik ( CN=Joseph J. Minarik/OU=OMB/O=EOP @ EOP [ OMB 1 )
+ READ: UNKNOWN
+
+ TO: Anne E. McGuire ( CN=Anne E. McGuire/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Cathy R. Mays ( CN=Cathy R. Mays/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ:UNKNOWN
+
+ TO: Sylvia M. Mathews ( CN=Sylvia M. Mathews/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ:UNKNOWN
+
+ TO: Gordon Li   ( CN=Gordon Li/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Jacob J. Lew ( CN=Jacob J. Lew/OU=OMB/O=EOP @ EOP [ OMB 1 )
+ READ: UNKNOWN
+
+ TO: Ann F. Lewis ( CN=Ann F. Lewis/OU=WHO/O=EOP @ EOP [ WHO 1 )
+
+
+ READ: UNKNOWN
+
+ TO: Jeanne Lambrew    CN=Jeanne Lambrew/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ: UNKNOWN
+
+ TO: Karin Kullman    CN=Karin Kullman/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Jonathan A. Kaplan ( CN=Jonathan A. Kaplan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ: UNKNOWN
+
+ TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ: UNKNOWN
+
+ TO: Christopher C. Jennings ( CN=Christopher C. Jennings/OU=OPD/O=EOP @ EOP [ OPD 1
+ READ: UNKNOWN
+
+ TO: Kathryn o. Higgins ( CN=Kathryn   o.   Higgins/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: John L. Hilley ( CN=John L. Hilley/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: James T. Heimbach ( CN=James T. Heimbach/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Lawrence J. Haas ( CN=Lawrence J. Haas/OU=OMB/O=EOP @ EOP [ OMB 1 )
+ READ: UNKNOWN
+
+ TO: Julia R. Green ( CN=Julia R. Green/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Jason S. Goldberg ( CN=Jason S. Goldberg/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Ben A. Freeland ( CN=Ben A. Freeland/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ:UNKNOWN
+
+ TO: Karen E. Finney ( CN=Karen E. Finney/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Nicole Elkon ( CN=Nicole Elkon/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Ann T. Eder ( CN=Ann T. Eder/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Marilyn DiGiacobbe ( CN=Marilyn DiGiacobbe/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Suzanne Dale ( CN=Suzanne Dale/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ:UNKNOWN
+
+ TO: Michelle Crisci ( CN=Michelle Crisci/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ:UNKNOWN
+
+ TO: Steven A. Cohen ( CN=Steven A. Cohen/OU=WHO/O=EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Michael Cohen ( CN=Michael Cohen/OU=OPD/O=EOP @ EOP [ OPD 1 )
+
+
+ READ: UNKNOWN
+
+ TO: Ann M. Cattalini ( CN=Ann M. Cattalini/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Paul R. Carey ( CN=Paul R. Carey/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Phillip Caplan ( CN=Phillip Caplan/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Sandra L. Bublick Max ( CN=Sandra L. Bublick Max/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ: UNKNOWN
+
+ TO: Emily Bromberg ( CN=Emily Bromberg/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Erskine B. Bowles ( CN=Erskine B. Bowles/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Sarah A. Bianchi ( CN=Sarah A. Bianchi/OU=OMB/O=EOP @ EOP [ OMB 1 )
+ READ:UNKNOWN
+
+ TO: David S. Beaubaire ( CN=David S. Beaubaire/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ:UNKNOWN
+
+ TO: Donald A. Baer ( CN=Donald A. Baer/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Kenneth S. Apfel   CN=Kenneth S. Apfel/OU=OMB/O=EOP @ EOP [ OMB 1 )
+ READ:UNKNOWN
+
+ TO: Barry B. Anderson ( CN=Barry B. Anderson/OU=OMB/O=EOP @ EOP [ OMB 1 )
+ READ:UNKNOWN
+
+ TO: Roger V. Salazar ( CN=Roger V. Salazar/O=OVP @ OVP [ UNKNOWN 1 )
+ READ: UNKNOWN
+
+ TO: Virginia M. Terzano ( CN=Virginia M. Terzano/O=OVP @ OVP [ UNKNOWN 1 )
+ READ:UNKNOWN
+
+ TO: Karen E. Skelton ( CN=Karen E. Skelton/OU=WHO/O=EOP @ EOP     WHO 1 )
+ READ: UNKNOWN
+
+ TO: Minyon Moore ( CN=Minyon Moore/OU=WHO/O=EOP @ EOP [ WHO 1
+ READ: UNKNOWN
+
+ TO: Lynn G. Cutler ( CN=Lynn G. Cutler/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Lisa J. Levin ( CN=Lisa J. Levin/OU=WHO/O=EOP @ EOP [ WHO
+ READ: UNKNOWN
+
+ TO: Jill M. pizzuto ( CN=Jill M. Pizzuto/OU=OMB/O=EOP @ EOP [ OMB 1 )
+ READ:UNKNOWN
+
+ TO: William H. White Jr.   ( CN=William H. White Jr./OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP @ EOP [ OPD 1 )
+
+
+ READ: UNKNOWN
+
+ TO: Barbara D. Woolley ( CN=Barbara D. Woolley/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Charles R. Marr ( CN=Charles R. Marr/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ: UNKNOWN
+
+ TO: Sara M. Latham ( CN=Sara M. Latham/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Anna M. Gomez ( CN=Anna M. Gomez/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ: UNKNOWN
+
+ TO: Lisa M. Kountoupes ( CN=Lisa M. Kountoupes/OU=OMB/O=EOP @ EOP [ OMB 1 )
+ READ: UNKNOWN
+
+ TO: Michael Waldman ( CN=Michael Waldman/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ:UNKNOWN
+
+ TO: Daniel K. Tarullo ( CN=Daniel K. Tarullo/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ: UNKNOWN
+
+ TO: Douglas B. Sosnik ( CN=Douglas B. Sosnik/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Joshua Silverman ( CN=Joshua Silverman/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Alice E. Shuffield ( CN=Alice E. Shuffield/OU=OMB/O=EOP @ EOP [ OMB 1 )
+ READ: UNKNOWN
+
+ TO: David Shipley ( CN=David Shipley/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Ellen S. Seidman ( CN=Ellen S. Seidman/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ: UNKNOWN
+
+ TO: Steven J. Ronnel ( CN=Steven J. Ronnel/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Christa Robinson ( CN=Christa Robinson/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ:UNKNOWN
+
+ TO: Franklin D. Raines ( CN=Franklin D. Raines/OU=OMB/O=EOP @ EOP [ OMB 1 )
+ READ:UNKNOWN
+
+ TO: Jonathan Prince ( CN=Jonathan Prince/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Kristen E. Panerali ( CN=Kristen E. Panerali/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ: UNKNOWN
+
+ TO: Peter O'Keefe ( CN=Peter O!Keefe/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Alison Muscatine ( CN=Alison Muscatine/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ:UNKNOWN
+
+ TO: Kevin S. Moran ( CN=Kevin S. Moran/OU=WHO/O=EOP @ EOP [ WHO 1 )
+
+
+ READ: UNKNOWN
+
+ TO: Nancy A. Min ( CN=Nancy A. Min/OU=OMB/O=EOP @ EOP [ OMB J )
+ READ: UNKNOWN
+
+ TO: April K. Mellody ( CN=April K. Mellody/OU=WHO/O=EOP @ EOP [ WHO J )
+ READ: UNKNOWN
+
+ TO: Michael D. McCurry ( CN=Michael D. McCurry/OU=WHO/O=EOP @ EOP [ WHO J )
+ READ: UNKNOWN
+
+ TO: Doris O. Matsui ( CN=Doris O. Matsui/OU=WHO/O=EOP @ EOP [ WHO J )
+ READ: UNKNOWN
+
+ TO: Julie E. Mason ( CN=Julie E. Mason/OU=WHO/O=EOP @ EOP [ WHO J )
+ READ:UNKNOWN
+
+ TO: Bruce R. Lindsey ( CN=Bruce R. Lindsey/OU=WHO/O=EOP @ EOP [ WHO J )
+ READ: UNKNOWN
+
+ TO: Patricia F. Lewis ( CN=Patricia F. Lewis/OU=WHO/O=EOP @ EOP [ WHO J )
+ READ: UNKNOWN
+
+ TO: G N. Lattimore ( CN=G N. Lattimore/OU=WHO/O=EOP @ EOP [ WHO J )
+ READ: UNKNOWN
+
+ TO: Robert D. Kyle ( CN=Robert D. Kyle/OU=OPD/O=EOP @ EOP [ OPD J )
+ READ: UNKNOWN
+
+ TO: Charles Konigsberg ( CN=Charles Konigsberg/OU=OMB/O=EOP @ EOP [ OMB J )
+ READ: UNKNOWN
+
+ TO: Angus S. King ( CN=Angus S. King/OU=WHO/O=EOP @ EOP [ WHO J )
+ READ: UNKNOWN
+
+ TO: Thomas A. Kalil ( CN=Thomas A. Kalil/OU=OPD/O=EOP @ EOP [ OPD J )
+ READ:UNKNOWN
+
+ TO: Brian J. Johnson ( CN=Brian J. Johnson/OU=CEQ/O=EOP @ EOP [ CEQ J )
+ READ: UNKNOWN
+
+ TO: Peter G. Jacoby ( CN=Peter G. Jacoby/OU=WHO/O=EOP @ EOP [ WHO J )
+ READ: UNKNOWN
+
+  TO: Katherine Hubbard ( CN=Katherine Hubbard/OU=WHO/O=EOP @ EOP [ WHO J )
+. READ: UNKNOWN
+
+ TO: Nancy V. Hernreich ( CN=Nancy V. Hernreich/OU=WHO/O=EOP @ EOP [ WHO J )
+ READ: UNKNOWN
+
+ TO: Daniel D. Heath ( CN=Daniel D. Heath/OU=OMB/O=EOP @ EOP [ OMB J )
+ READ: UNKNOWN
+
+ TO: Melissa Green ( CN=Melissa Green/OU=OPD/O=EOP @ EOP [ OPD J )
+ READ: UNKNOWN
+
+ TO: D. Stephen Goodin ( CN=D. Stephen Goodin/OU=WHO/O=EOP @ EOP [ WHO J )
+ READ: UNKNOWN
+
+ TO: Mary E. Glynn ( CN=Mary E. Glynn/OU=WHO/O=EOP @ EOP [ WHO J )
+
+
+ READ: UNKNOWN
+
+ TO: Diana Fortuna ( CN=Diana Fortuna/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ: UNKNOWN
+
+ TO: Rahm I. Emanuel ( CN=Rahm I. Emanuel/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: James T. Edmonds ( CN=James T. Edmonds/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Elizabeth Drye ( CN=Elizabeth Drye/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ: UNKNOWN
+
+ TO: Michael Deich ( CN=Michael Deich/OU=OMB/O=EOP @ EOP [ OMB 1 )
+ READ:UNKNOWN
+
+ TO: Betty W. Currie ( CN=Betty W. Currie/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Brenda B. Costello ( CN=Brenda B. Costello/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Barbara Chow ( CN=Barbara Chow/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Cheryl M. Carter ( CN=Cheryl M. Carter/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Laura K. Capps ( CN=Laura K. Capps/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Rebecca A. Cameron ( CN=Rebecca A. Cameron/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Susan A. Brophy ( CN=Susan A. Brophy/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ:UNKNOWN
+
+ TO: Alison E. Bracewell ( CN=Alison E. Bracewell/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Jill M. Blickstein ( CN=Jill M. Blickstein/OU=OMB/O=EOP @ EOP [ OMB 1 )
+ READ: UNKNOWN
+
+ TO: Marsha E. Berry ( CN=Marsha E. Berry/OU=WHO/O=EOP @ EOP [ UNKNOWN 1 )
+ READ: UNKNOWN
+
+ TO: Kris M Balderston ( CN=Kris M Balderston/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Eli G. Attie ( CN=Eli G. Attie/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Brenda M. Anders ( CN=Brenda M. Anders/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Lori L. Anderson ( CN=Lori L. Anderson/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ:UNKNOWN
+
+ TEXT:
+
+
+ ==================== ATTACHMENT   1 ====================
+ ATT CREATION TIME/DATE:   0 00:00:00.00
+
+ TEXT:
+ Unable to convert ARMS_EXT: [ATTACH.D71jMAIL46709394Y.116 to ASCII,
+  The following is a HEX DUMP:
+
+ FF5750439E520100010A020100000002050000005D6901000002000034EA1EA5ADCDF7F86AF432
+ A04B42C3D820A68A8D7898050D49E84B3DC3FC1C1722607EB46814760ABF99BDA2B9072AA31555
+ 007347BC82C175B1BDD80CA6E19DC97E15552C749DE264B9099589D9F7CDC8B3F50FBBC7B53FCF
+ B6B068E2F50318FBA987DBE16E8CBE32BDOCEE67E4143FB85FDl14C9803B71AAAB05641F65AB2D
+ 83DD4A3A16DDDD33F0427BE22DD7134221C7E899F3EC3D17B9D4DFF18B435FA58CF806454C4968
+ 5A18E872282CB7DF6BADE591EE91177995C446479CDF950A9B84006OA888A8A350165C796CB4E6
+ 7ADEE8D8007A22BCCCA5EC7BC43336D7D24401C8E54A10AB3747B610A673D1C838E178736FD785
+ OFD387E03934683E9C6839FADCE4162995F8223C8E47F800D03B2CCD5AB669CE517BE2DOAA4EDD
+ OE147E674E32AADF701B4B31DOF1803B413B1E55892419576432474A15451C612D1D4E5422BE52
+ 3C6570EACCA7DEB29F1A83EACCE500C5823034B3FOE1EFBC74EA1132COF169DF160CBC96304DC3
+ E7F124FD472ABDBEB6C88419B49A8A2A3CACC79C3370EOAF346130E4B94346C6C4D4F85955AA52
+ 0746E2776EA306C3EC7F44DD3372A75291B5E9B73CAB4039FAF3C2232C66E7527E54042E692F77
+ 4EEC28559130D06ADBEA5E291E716CDC8ADF909DA859134356B3CE2F263DE139B440F4474B34A9
+ 71709830C902006101000000000000000000000B30030000007EOO00004E1500000B3003000000
+ 78000000CC1500000B30030000006B000000441600000B30030000006BOOOOOOAF1600000B3003
+ 0000009A0000001A1700000B30030000007EOOOOOOB41700000B3002000000D100000032180000
+ OB3002000000E4000000031900000B3003000000A6000000E71900000B3002000000F70000008D
+ 1AOOOOOB30020000000A010000841BOOOOOB30020000001E0100008E1COOOOOB30020000003101
+ 0000AC1DOOOOOB300200000043010000DD1EOOOOOB300200000056010000202000000B30030000
+ 00CF000000762100000B3003000000A4000000452200000B3003000000A4000000E92200000B30
+ 03000000C30000008D2300000B3003000000BC000000502400000B3003000000BBOOOOOOOC2500
+ 000B3003000000D9000000C72500000B3003000000A3000000A02600000B3003000000A3000000
+ 432700000B3002000000C1000000E62700000B3002000000D4000000A72800000B3002000000E7
+ 0000007B2900000B3002000000FA000000622AOOOOOB3002000000OD0100005C2BOOOOOB300200
+ 000020010000692COOOOOB300200000033010000892DOOOOOB300200000046010000BC2EOOOOOB
+ 3002000000C1000000023000000B3002000000D4000000C3300000OB3002000000E70000009731
+ 00000B3002000000FA0000007E3200000B30020000000D010000783300000B3002000000200100
+ 00853400000B300200000033010000A53500000B300200000046010000D8360000005542000000
+ 2E0000001E380000092501000000~60000004C38000000552FOOOO003C000000523800000B3001
+ 0000007A0000008E3800000B3001000000D90000000839000009310200000005010000E1390000
+ OB3001000000E4000000E63A0000090B0200000011000000CA3BOO000B30020000003DOOOOOODB
+ 3BOOOOOB300200000046000000183COOOOOB3002000000500000005E3C00000931020000009300
+ 0000AE3COOOOOB3001000000B7000000413D0000060801000000EO030000F83DOOOOOB30070000
+ 008DOOOOOOD841000000452000000002000000654200000B30010000007D000000674200000B30
+ 0100000078000000E44200000B30010000008D0000005C4300000B3001000000FOOOOOOOE94300
+ 000B3001000000F8000000D94400000B3001000000ECOOOOOOD14500000B3001000000E8000000
+ BD4600000B3001000000ECOOOOOOA54700000B300100000012010000914800000B300100000006
+ 010000A34900000B3001000000EAOOOOOOA94AOOOOOB3001000000F0000000934BOOOOOB300100
+ 0000D2000000834COOOOOB3001000000DC000000554DOOOOOB3001000000DA000000314EOOOOOB
+ 3001000000D80000000B4FOOOOOB3001000000FEOOOOOOE34FOOOOOB300100000046010000E150
+ 00000B300100000048010000275200000B3001000000500100006F5300000B30010000000E0100
+ 00BF5400000055030000002EOOOOOOCD5500000B300100000094000000FB5500000B3001000000
+ 5A0000008F5600000B30010000005AOOOOOOE95600000B300100000054000000435700000B3001
+ 000000DC0100009757000000550100000018000000735900000B3001000000B50000008B590000
+ OB300100000066000000405AOOOOOB300100000063000000A65AOO000B3001000000B100000009
+ 5BOOOOOB30010000006COOOOOOBA5BOOOOOB300100000030010000265COOOOOB3001000000C200
+ 0000565DOOOOOB300100000034010000185EOOOOOB3001000000340100004C5FOOOOOB30010000
+ 00BF000000806000000B3001000000400100003F6100000B3001000000480100007F6200000B30
+ 010000008E010000C76300000B300100000045010000556500000B30010000000C0100009A6600
+ 00060801000000DOOOOPOOA66700000B300A0000008D0000007668000000650300000001000000
+ 036900000B30010000007F010000046900000B300100000072010000836AOOOOOB30010000002A
+ 010000F56BOOOOOB3001000000E10000001F6DOOOOOB30010000003A010000006EOOOOOB300100
+ 00004C0100003A6FOOOOOB3001000000EA000000867000000B30010000007C000000707100000B
+                       To GROW STEADY AND STRONG UNDER PRESIDENT CLINTON
+                                                   May 30, 1997
+
+
+
+    TODAY'S REVISED GDP DATA SHOW THAT THE AMERICAN ECONOMY CONTINUES TO ENJOY
+    ROBUST GROWTH AND MODERATE INFLATION. IN THE FIRST QUARTER, THE ECONOMY
+    GREW BY 5.8 PERCENT AT AN ANNUAL RATE -- THE FASTEST IN A DECADE. REAL INCOMES
+    ARE RISING. AND INFLATION REMAINS MODERATE.
+
+       �   Growth was 5.8 percent on an annualized basis. Investment in business equipment rose 13.4
+           percent, and exports rose 11.2 percent.
+
+       �   Private-sector growth continues to be stronger than either of the previous two Administrations. In the
+           first quarter, the private sector grew by 7.1 percent at an annual rate. Under Clinton, the private
+           sector has grown by 3.5 percent per year, compared to 3.0 percent under Reagan and 1.3 percent
+           under Bush.
+
+       �   Inflation remains low. Inflation as measured by the GDP price index was 2.2 percent in the first
+           quarter. Consumer price inflation -- 2.8 percent per year -- is the lowest for any administration
+           since John F. Kennedy was President.
+
+       �   First investment-led expansion in three decades.  Under President Clinton, business investment has
+           increased at a 10.5 percent annual rate -- stronger than any Administration since JFK.
+
+       �   Once again the Administrations forecasts seem conservative. In this year's budget, we projected
+           growth for 1997 to be 2.2 percent -- and even if there is no growth for the rest of the year, we
+           have already exceeded that.
+
+    WE HAVE 12.1 MILLION NEW JOBS. THE UNEMPLOYMENT RATE IS THE LOWEST IN 24 YEARS.
+     THE ECONOMY CONTINUES TO EXPERIENCE STRONG GROWTH, RAPID INVESTMENT, AND
+    LOW INFLATION.
+
+                     EXPERTS AGREE THAT THE AMERICAN ECONOMY IS STRONG:
+
+       �   Fortune, 6/9/97: "Business is booming, inflation is falling, jobs are plentiful, and American
+           industry is way out in front. The U.S. economy is stronger than it's ever been before."
+I
+       �   Allen Sinai, one of America's top economic forecasters, 4/30/97: "Job growth is good. Real income is
+           rising. Sentiment is high. Unemployment is the lowest in years. Times are good for American
+           consumers. "
+
+
+       � Mickey Levy, chief economist, NationsBank, 2/1/97: "It's really the best of all worlds.
+                                                                                               Growth at a
+           healthy pace, but with the economy not overheating and continued very favorable news on
+           inflation. "                                          A       � n. ..1. ' I .   : Sv쬽em
+                                                                    Hex-Dump Conversion
+    �   Paul Volcker, former Chairman of the Federal Reserve, 8/3/96: "It's been a remarkable period of
+        steady growth, low inflation and low unemployment."
+                                                                MAy 30, 1997
+                          Clinton Administration              Best Since             Related Facts
+
+                                                                                   UnemploYment fell from 7.5 percent in 1992 to 4.9 percent in
+     Unemployment and                                         Lowest average since April 1997 -- the lowest in 24 years -- and has remained under 6
+./   Inflation            Combined rate: 8.7 percent          Johnson              percent for 32 months .
+                                                              Lowest average since Underlying inflation -- excluding volatile food and energy
+./   Inflation            2.8 percent per year                Kennedy              components -- was -lowest since the Kennedy Administration .
+
+                                                                                     93 percent of the net new jobs were in the private sector. Over
+                                                              Only Administration    two-thirds of recent employment growth has been in
+./   Employment           12.1 million new jobs               to exceed 11 million   industry/occupation groups paying above-median wages .
+
+                                                              Fastest growth since   Real construction output has grown 5.7 percent per year -- the
+./   Construction Jobs    1.1 million new jobs                Truman                 fastest rate since the Kennedy Administration .
+
+                                                                                    University of Michigan sentiment index reached its highest
+                        Increased 14 percent from January     Highest average since level in 30 years. Conference Board measure reached its
+./   Consumer Sentiment 1993 to April 1997                    Eisenhower            highest level in 28 years.
+
+                          From 4.7 percent ofGDP in 1992 to
+                          1.4 in 1996 . Expected to be under Largest fall since      Deficit narrowed for four years in a row under one President for
+./   Deficit Reduction    1 percent in 1997                  Truman                  the first time since before the Civil War.
+
+                                                              Fastest growth since   Business investment averaged 7.7 percent ofGDP -- the highest
+./   Business Investment Grew 10.5 percent per year           Kennedy                share for any Administration since World War II.
+
+                          Rose from 63.7 to 65.4 percent of   Largest increase on
+./   Homeownership        households                          record                 Reached its highest level in 15 years.
+
+                          The Dow Jones rose from 3242 on     Fastest growth since   The real growth rate was higher than for any Administration
+./   Stock Market         1120/93 to 6844 on 1/20/97          World War II           since World War II.
+                                                                                     Real income for the bottom 20 percent of households has grown
+                          Declined from 15.1 in 1993 to 13.8 Largest drop since      6.8 percent between 1993 and 1995 -- after declining by 7.7
+./   Poverty Rate         in 1995                            Johnson                 percent between 1979 and 1993.
+
+     Median Family                                            Fastest growth since   Real net worth per household grew 3.2 percent per year after
+./   Income               Up $1,600 between 1993 and 1995     Johnson                falling over the previous 4 years.
+
+

@@ -1,0 +1,258 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Michael Cohen ( CN=Michael Cohen/OU=OPD/O=EOP [ OPD ]    )
+
+CREATION DATE/TIME: 1-OCT-1997 16:37:12.00
+
+SUBJECT:   Draft of testing memo
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD]   )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ]       )
+READ: UNKNOWN
+
+CC: Cathy R. Mays ( CN=Cathy R. Mays/OU=OPD/O=EOP @ EOP [ OPD ]       )
+READ: UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D14]MAIL46848637B.216 to ASCII,
+ The following is a HEX DUMP:
+
+ FF575043AD040000010A02010000000205000000793C000000020000477B2B92ABFBE1905AD37B
+ 2A2EC4B31AD1035B23F747B54990A548D4C535B287ADC92F33B7569DD10D7C94B5A6A6729F8F1D
+ ED9256EE54CDOCC175849F92F8B2D02FFF7CB1FD7C282F036304664098BOC92BB97B5213897BOA
+ 097DA604E3C4D7125D496FBDOOF333400794734848D1C9D525FDFOC783777C58C002B054F00764
+ 0466642462C4E1502BD819BCC88011798FFDF2AC09E6CD4CF20756D29621CC93CC22B9A79326F7
+ 53F1BFBD374BC8AFDCCA3ACECEABBEE673DDD4E7FEF20CB4DF776FAA6827CB1B641A9F5DC86871
+'098FEC4C98E093B3A7F2D3B4DCC76657CEE56A14665114B530EE49341745A1055D2F0464007889
+ BA18FDD2654009507A27FC6FA02E9CC728AE38729F6EF0748DA49E128851B84D909FCD52789941
+ 9463F556206821B4263846EC5C686C3FBE84FF1B9023387AC498B2DAF82BAAOD82C37042AB2331
+ 9803BD4C6CA34092E31665E0216C93D725E23C66579433F85E8540B10EA8772DD1E433EF45EE57
+ FD15F339EC4FE4135050A1FF55FBA919EE172882CBE94DOOCOB533B1579871A88A1A4D3A96E19C
+ 0838CE22EF642C6E934955AB51DBC2EB281335BAE7CABD98D7CA11BBD6A5CA814EF7E7A42FOE19
+ E7E28F6D87A73F7F30CF4EBB389C8CA4F046257973FA9B5576005ECD9F9474D1EA5E7948E02BE7
+ OF941A071302000900000000000000000000000823010000000B0100007E020000005502000000
+ 4E0000008903000009250100000006000000D70300000B301400000055000000DD030000005501
+ 0000004E000000320400000877010000000A00000080040000083401000000140000008A040000
+ 0802010000000F0000009E04000000984800500020004C0061007300650072004A006500740020
+ 003400200050006C007500730020002D0020004C006F00630061006COOOOOOOOOOOOOOOOOOOOOO
+ 00000000000000000000000057494E53504F4F4COOOOOOOOOOC800C8002C012C012C012C01C800
+ C80030000000000000000000000000000000000000000000000000000000000000000000000000
+ 000000000000000000000000000000000000000000000000000000000000000000000000000000
+ 000000000000000000000000000000000000000000000000000000000000000000000000000000
+ 000000000000000000000000000000000000000000000000000000000000000000000000000000
+ 000000005E008FOE2800D61EC30F3908000011090000005AOOOB01008B143600540069006D0065
+ 00730020004E0065007700200052006F006D0061006E00200052006500670075006C0061007200
+ 00000000000000000100020058020100000004003EOOOOOOOOOOOO001700000000000000000000
+ 000100842D24002206000053006D0061006C006C00200043006900720063006C0065000000F022
+ 06FOE030130000000008072E002E000108071300E02800D61EC30F3908000001390000005AOOOB
+ 01008B143600540069006D006500730020004E0065007700200052006F006D0061006E00200052
+ 006500670075006C00610072000000000000000000010000000100010013000F59352300000000
+ 0000D20B000000000000000000337C007800010200000100000003F1020100F1D41A1F00870105
+ 0008005802B65A00005802000058020200580200001FOOD444726166748032D0041500000B0009
+ 0001B0040000000001201500DOD3050C0000010002000COOD34F63746F62657280312C80313939
+ 37CCCCCCCCD3050C0000010000020COOD34D454D4F52414E44554D80464F528054484580505245
+ 534944454E54CCCC46524F4D3AE0110C0000000060090COOE042525543458052454544D0041500
+Draft 2                                                                  Hex-Dump Conversion
+                                          October 1, 1997
+
+
+
+MEMORANDUM FOR THE PRESIDENT
+
+FROM:          BRUCE REED
+               MIKE COHEN
+
+SUBJECT:       UPDATE ON NATIONAL TESTS
+
+This memo outlines the current status of the national testing initiative in Congress, and our
+strategy for winning the fight to keep the initiative on track.
+
+I. Current Status and Recent Developments
+The conferees have begun to meet, but are not expected to take up the testing issue until many
+other issues are addressed. We have two distinct objectives in conference: (1) security an
+authorization along the lines of the Senate provision, permitting us to proceed with the testing
+under NAGB's auspices, and, (2) ensuring that the bill provides the $16 million needed for
+continued test development.
+
+For the most part, the Appropriations Committee members have argued that a resolution of this
+issue will require us to reach an agreement with Goodling, though by all accounts, Goodling is
+firmly locked into his position with the strong support of the House leadership. Last Friday he
+sent you a letter implying that he will not move an America Reads bill forward as long as you
+continue to advocate for the tests.
+
+There has been one preliminary staff-level discussion for the purpose of exploring options.
+Republican staff floated the idea of proceeding with test development now, but requiring separate
+authorization for test implementation. We do not think that is a good deal for us.
+
+Conservative Republican Senators who supported the CoatslNAGB compromise have come
+under strong pressure from the Eagle Forum, and 14 of them switched sides last week and signed
+a letter written by Ashcroft, threatening to filibuster the appropriations bill if it does not contain
+Goodling's prohibition on the tests.
+
+In contrast, Democratic support is holding firm. Last week, 43 Democratic Senators signed
+letter written by Bingaman, threatening a filibuster if the conference report does not let your
+testing initiative go forward.
+
+The work on test development has been proceeding over the last several weeks. The test
+specifications which would provide the blueprint for test development were completed, and new
+advisory committees organized by the test development contractor began to meet.
+                                                                        Hex-Dump Conversion
+For a number of reasons, these developments were greeted with some alarm by key Republicans
+in the Congress (e.g., Coats, Specter, and Riggs) and elsewhere (e.g., Finn, Ravitch, Bennett and
+Engler). The test specifications included a provision permitting students to answer all test
+questions with the aid of a calculator. Continued work on test deVelopment was seen as
+ignoring a strong Senate vote to take responsibility for the tests away from the Education
+Department as well as a strong House signal to stop work altogether. It was being seen as a
+deliberate effort to undermine the compromise which would put NAGB in charge, by getting as
+much of the test development nailed down before NAGB could take control. Therefore, at our
+urging last week, Secretary Riley issued a statement criticizing the calculator decision, urging
+NAGB to reverse it when it assumes control of the test, and temporarily halting work on test
+development until we can turn this over to NAGB. Assuming that the appropriations process is
+completed within the next 4-6 weeks, this step should not materially affect our ability to conduct
+a pilot test this Spring as planned.
+
+
+
+II. Communications
+Our overall approach over the coming weeks is to convince the Republicans that they are fighting
+a losing battle by opposing us again on education issues. We will highlight the national tests as
+the centerpiece of your campaign improve public education through a comprehensive strategy of
+promoting higher standards and greater accountability; increased parental involvement and public
+school choice through charter schools; and investments in programs that can lead to improved
+teaching and learning, such as technology. This is contrasted with an extreme opposition that is
+trying to undermine improvements in public education and walk away from our schools, by
+blocking the tests, pushing for block grants which end important programs and cut investments,
+and promoting voucher efforts that will weaken public education. We will wage a continuing,
+high profile campaign over the next few weeks, with following events being planned:
+
+·      Your voucher statement on Tuesday
+·      Announcement by Secretaries Riley and Herman of new School-to-Work grants on
+       Tuesday
+·      The Vice President's release of an Education Department Study on the importance of
+       father's involvement in education on Thursday
+·      A meeting with John Doerr, James Barksdale and other high-tech CEO's on Oct. 8, prior
+       to your departure to New Jersey.
+·      A meeting with business leaders who support the test, on Oct. 20 or 21
+·      A meeting with the newly formed Learning Alliance for public education, a consortium
+       of 12 national organizations involved in K-12 education working to promote a
+       standards-based reform agenda at the local level, the day after the business leaders
+       meeting
+·      A meeting with labor union leaders supportive of education [many played key role in
+       STW and Skill Standards Board]
+·      If schedule permits, the Vice President's participation in a joint meeting ofthe Council of
+       Great City Schools and U.S. Conference of Mayors, where an additional 4-5 cities would
+       announce their participation in the tests, Oct 15-18
+                                                                       Hex-Dump Conversion
+·      One or more in depth background briefings on the stakes for public education for selected
+       press, by the Vice President or First Lady and Secretary Riley
+·      porus release of ED report on algebra courses/possible release ofEDINSF math
+       directive action plan
+·      porus announcement of new plan for recycling surplus federal computers to schools
+·      Use of Sunday talk shows (LewislRiley)
+·      Development of common education agenda/message with Congressional Democrats for
+       Fall [check with Podesta?]
+·      Continued efforts by Secretary Riley and Deputy Secretary Smith to talk to editorial
+       boards in newspapers in communities in key states and congressional districts
+·      Launch similar editorial board efforts by selected Cabinet members and WH staff
+
+
+
+III. Outreach
+Our outreach efforts have been focused in a number of areas. DPC and Education Department
+staff meet weekly with education and business groups that support the tests to share information
+and coordinate strategy [can I say this?]. We have also worked closely with other business
+leaders and groups, including Lou Gerstner and John Doerr. As a result, we have learned that:
+
+·      A number of business leaders have unsuccessfully submitted supportive op-eds to key
+       newspapers; several are now considering buying ads instead.
+·      Lou Gerstner is trying to secure an endorsement for the tests by ACHIEVE. The six
+       CEO's on the Board and four of the Governors (Engler, Romer, Hunt and Miller are
+       supportive; Voinavich and Thompson have not yet agreed).
+·      John Doerr has written to governors and state education officials, as well as big city
+       education leaders, thanking those who have signed up for the tests and urging others to
+       join. In addition, they are focusing their attention on the Congressional battle.
+·      Business and education groups alike have sent alerts to their grass roots membership
+       urging them to contact their Congressional delegations and to promote the testing
+       initiative in the press.
+
+The Office of Intergovernmental Affairs has worked regularly to shore up the Governors and
+Mayors already participating in the tests, keep them apprised of the Congressional battle, and
+reach out to additional state and local elected officials.
+
+Education Department and DPC staff continue to meet with civil rights groups in an ongoing
+effort to respond to their concerns and to educate them about the implications of placing NAGB
+in charge of the tests.
+
+We have also been in close contact with Checker Finn and Diane Ravitch, urging them, together
+with Bill Bennett and John Engler, to work privately and publicly to maintain Republican support
+in the Senate and help find a toehold in the House. .
+
+IV. Legislative
+                                                                  Hex-Dump Conversion
+As indicated above, we have secured our Democratic supporters in the Senate through Sen.
+Bingaman's letter, and are relying on business groups and Finn and Bennett to hold as many
+Republicans as possible.
+
+In the House, securing Republican support for something along the lines of the Senate provision
+is key. In addition, we continue to explore ways of reducing the opposition from the Black and
+Hispanic Caucuses, though securing their support without turning around the Republicans will
+not substantially advance our cause.
+Secretary Riley and his staff have reached out to possible Republican allies. They are trying to
+get Mike Castle, who spoke in favor of the Senate provision on the floor and has previously
+served on NAGB, to enlist moderate Republican support on a letter urging the conferees to
+support the Senate provision.
+
+We are considering another call from Secretary Riley to Bill Goodling, though do not think the
+time is right for this just yet.
+
+In addition, we anticipate that any compromise will need to modify the Senate provision at least
+somewhat, and we are working with ED to prepare proposals that we can support. These might
+include language that prohibits the Education Department from developing national curriculum
+in reading and math, or that delays full test implementation for a year, while providing for a field
+test in interested states and districts in 1999.
+
+Secretary Riley has also met with the three members of the CBC who opposed the Goodling
+amendment -- Chaka-Fattah, Al Wynn, and Harold Ford, to seek their advice on how best to
+secure the support of the Black Caucus. They noted that the primary concern of caucus
+members is school construction, and that members feel strongly that we have failed to fight
+sufficiently hard for our proposal. The scepticism among caucus members is so high that there
+is little we can do on this front in the short term on this issue that would tum the caucus around.
+However, there are two school construction tax-credit proposals likely to be introduced in the
+near future, both as alternatives to Coverdell-like provisions to provide IRA tax free withdrawals
+for K-12 education. One will be offered by Rangel in a Ways and Means mark-up, and the other
+by Daschle if Coverdell offers his proposal in the Senate. We believe that it will be helpful for
+us to endorse at least one of these proposals if they begin to move in Congress.
+
+We have been working closely with the Council of Great City Schools to explore commercially
+available 4th grade reading tests in Spanish that are aligned to NAEP frameworks and
+performance standards. There is at least one such test already available -- essentially the
+equivalent of a Spanish-language version of the national reading test. Our strategy is for the
+Great City Schools and the local superintendents to take the lead in persuading the Hispanic
+groups and the Hispanic Caucus that this test provides what they have been asking for. We then
+would help ensure that these tests could be administered and reported in coordination with the
+national tests, and be prepared to support paying for their administration.
+
+Finally, DPC and NEC, along with the Education Department, are developing two new initiatives
+that should be of considerable interest to both the Black and Hispanic Caucuses. One is our
+                                                                  Hex-Dwnp Conversion
+
+response to Chaka-Fattah's proposal for a Pell Grant guarantee, while the other is an urban
+initiative focused on supporting standards-based refonns (including ending social promotions,
+intervening in failing schools, and removing incompetent teachers). We believe it may be useful
+to begin to work collaboratively with both caucuses on these initiatives, as a signal to them that
+we are working to provide resources and opportunities for minority students.
+
+v.  Additional Steps for You
+Phone calls to:
+o     business leaders
+o      key Republicans (Specter, Coats, Riggs-need to check with leg affairs first)
+o      Key Democrats
+o      African American Leaders (e.g., Hugh Price, Kwaisi Mfume)
+
+

@@ -1,0 +1,68 @@
+RECORD TYPE: PRESIDENTIAL     (NOTES MAIL)
+
+CREATOR: Donna L. Geisbert ('CN=Donna L. GeisbertjOU=OPDjO=EOP [ OPD 1 )
+
+CREATION DATEjTIME:20-AUG-1998 13:36:46.00
+
+SUBJECT:   HC Strategy Meeting
+
+TO: Michael Waldman     CN=Michael WaldmanjOU=WHOjO=EOP @ EOP [ WHO 1 }
+READ:UNKNOWN
+
+TO: David W. Beier ( CN=David W. BeierjO=OVP @ OVP [ UNKNOWN 1 )
+READ:UNKNOWN
+
+TO: Minyon Moore ( CN=Minyon MoorejOU=WHOjO=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena KaganjOU=OPDjO=EOP @ EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Gene B. Sperling ( CN=Gene B. SperlingjOU=OPDjO=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Karen E. Skelton ( CN=Karen E. SkeltonjOU=WHOjO=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Barbara D. Woolley ( CN=Barbara D. WoolleyjOU=WHOjO=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Daniel N. Mendelson ( CN=Daniel N. MendelsonjOU=OMBjO=EOP @ EOP [ OMB 1 )
+READ:UNKNOWN
+
+TO: Jennifer L. Klein ( CN=Jennifer L. KleinjOU=OPDjO=EOP @ EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Rahm I. Emanuel   ( CN=Rahm I. EmanueljOU=WHOjO=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Gina C. Mooers ( CN=Gina C. MooersjOU=OMBjO=EOP @ EOP [ OMB 1 )
+READ:UNKNOWN
+
+CC: Laura K. Capps    ( CN=Laura K. CappsjOU=WHOjO=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Laura Emmett ( CN=Laura EmmettjOU=WHOjO=EOP @ EOP     [ WHO 1 )
+READ: UNKNOWN
+
+CC: Michelle Crisci ( CN=Michelle CriscijOU=WHOjO=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Satish Narayanan ( CN=Satish NarayananjO=OVP @ OVP     [UNKNOWN 1 )
+READ: UNKNOWN '\
+
+CC: Toby Donenfeld ( CN=Toby DonenfeldjO=OVP @ OVP [ UNKNOWN 1 )
+READ: UNKNOWN
+
+CC: Jocelyn Neis   ( CN=Jocelyn NeisjOU=WHOjO=EOP @ EOP   [ WHO 1 )
+READ:UNKNOWN
+
+CC: Peter A. Weissman ( CN=Peter A. WeissmanjOU=OPDjO=EOP @ EOP       [ OPD 1 )
+
+
+READ:UNKNOWN
+
+TEXT:
+Today's 4:00 Health Care Strategy Meeting is CANCELLED.
+
+

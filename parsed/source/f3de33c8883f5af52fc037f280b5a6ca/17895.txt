@@ -1,0 +1,19 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Maureen T. Shea ( CN=Maureen T. Shea/OU=WHO/O=EOP [ WHO]   )
+
+CREATION DATE/TIME:24-NOV-1997 12:44:30.00
+
+SUBJECT:   Catholics
+
+TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TEXT:
+Unable to convert ARMS_EXT: [MESSAGE.D7]MAIL498574722.316
+The following is a HEX dump of the file:
+
+

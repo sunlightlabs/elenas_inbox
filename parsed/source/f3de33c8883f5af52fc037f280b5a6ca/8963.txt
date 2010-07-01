@@ -1,0 +1,90 @@
+RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+CREATOR: Sonyia Matthews    ( CN=Sonyia Matthews/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME: 6-AUG-1998 14:35:14.00
+
+SUBJECT:   community colI presidents
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Barry White ( CN=Barry White/OU=OMB/O=EOP @ EOP    [ OMB ] )
+READ: UNKNOWN
+
+TO: Cecilia E. Rouse ( CN=Cecilia E. Rouse/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Emil E. Parker ( CN=Emil E. Parker/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ:UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ:UNKNOWN
+
+TO: Robert M. Shireman ( CN=Robert M. Shireman/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ:UNKNOWN
+
+TO: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP @ EOP [ OPD ]       )
+READ:UNKNOWN
+
+TO: Diana Fortuna ( CN=Diana Fortuna/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+CC: Donna L. Geisbert   ( CN=Donna L. Geisbert/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+CC: Cathy R. Mays ( CN=Cathy R. Mays/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TEXT:
+The following meeting will now start back at its original time at 9:00 am
+on Friday, August 7th in room 239·.  Thank you.
+--------------------- Forwarded by Sonyia Matthews/OPD/EOP on 08/04/98
+11:42 AM ---------------------------
+
+
+
+        Jon_Weintraub @ ed.gov
+        08/03/98 11:17:00 AM
+Record Type: Record
+
+To: Sonyia Matthews
+cc:
+Subject: community colI presidents
+
+
+     a group of community college presidents [who would be suitable for a
+     follow up meeting as per our discussion] will be in town next week.
+     they are available friday morning 8/7/98 between 8:30-10:00am.
+
+
+    can we set up a meeting at the white house for that time, and can you
+    get a suitable room?
+
+
+
+
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+RFC-822-headers:
+Received: from conversion.pmdf.eop.gov by PMDF.EOP.GOV (PMDF V5.1-9 #29131)
+ id <01J05ZAC99M8009SPH@PMDF.EOP.GOV> for matthews_s@a1.eop.gov; Mon,
+ 3 Aug 1998 11:49:22 EDT
+Received: from Storm.EOP.GOV by PMDF.EOP.GOV (PMDF VS.1-9 #29131)
+ with ESMTP id <01J05ZA9G9FK008S52@PMDF.EOP.GOV> for matthews s@a1.eop.gov;
+ Mon, 03 Aug 1998 11:49:19 -0400 (EDT)
+Received: from vader.ed.gov ([165.224.216.253])
+ by STORM.EOP.GOV (PMDF V5.1-10 #29131)
+ with ESMTP id <01J05Z9FM618000QAT@STORM.EOP.GOV> for matthews_s@a1.eop.gov;
+ Mon, 03 Aug 1998 11:48:38 -0400 (EDT)
+Received: from smtpgwy1.ed.gov (smtpgwy1.ed.gov [165.224.16.166])
+ by vader.ed.gov (8.9.0/8.8.4) with SMTP id LAA18349 for
+ <matthews_s@a1.eop.gov>; Mon, 03 Aug 1998 11:52:03 -0400 (EDT)
+Received: from ccMail by smtpgwy1.ed.gov
+ (IMA Internet Exchange 2.12 Enterprise) id 001E90B5; Mon,
+ 03 Aug 1998 11:27:52 -0400
+================== END ATTACHMENT    1 ==================
+
+

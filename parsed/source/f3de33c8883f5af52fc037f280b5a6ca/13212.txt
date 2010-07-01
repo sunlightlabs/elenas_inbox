@@ -1,0 +1,37 @@
+RECORD TYPE: PRESIDENTIAL       (WAVES RECEIPT)
+
+CREATOR: Mail Link Monitor ( MAILMGT )        (SYS)
+
+CREATION DATE/TIME:29-NOV-1995 18:03:03.07
+
+SUBJECT:       CONFIRMATION:    APPT. REQUEST FOR KAGAN, ELENA
+
+TO: Elena Kagan                                   KAGAN E         (WHO)
+READ:29-NOV-1995 18:10:21.11
+
+TEXT:
+FROM:        WAVES OPERATIONS CENTER - ACO:
+Date:        11-29-1995                               P6/(b)(6), (b)(7)(c),   (b)(7)(e), (b)(7)(f)
+Time:        17:55:37
+This message serves as confirmation of an appointment for the
+visitors listed below.
+Appointment With:            KAGAN, ELENA
+Appointment Date:            11/30/95
+Appointment Time:            9:00:00 AM
+Appointment Room:            125
+Appointment Building:        OEOB
+Appointment Requested by:    KAGAN ELENA
+Phone Number of Requestor:   67594
+Comments:
+WAVES APPOINTMENT NUMBER:    U36925
+If you have any questions regarding this appointment,
+please call the WAVES Center at 456-6742 and have the
+appointment number listed above available to the
+Access Control Officer answering your call.
+***************************************************************************
+  TOTAL NUMBER OF NAMES SUBMITTED FOR ENTRY:              1
+  TOTAL NUMBER OF NAMES OF CLEARED FOR ENTRY:             1
+***************************************************************************
+   SCHIFFER, LOIS                                     P6/(b)(6)
+
+

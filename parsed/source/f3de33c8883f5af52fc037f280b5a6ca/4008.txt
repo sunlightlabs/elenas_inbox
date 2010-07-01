@@ -1,0 +1,52 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP [ OPD 1 )
+
+CREATION DATE!TIME:15-AUG-1997 18:02:11.00
+
+SUBJECT:   Penalty runs
+
+TO: Elizabeth Drye ( CN=Elizabeth Drye/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Jerold R. Mande ( CN=Jerold R. Mande/OU=OSTP/O=EOP @ EOP [ OSTP 1 )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPO 1 )
+READ: UNKNOWN
+
+TEXT:
+Could you have OMB run a few penalty scenarios to see how much they cost?
+We need 10 and 25-year numbers, as well as year-by-year totals. We should
+also figure out both pre- and post-tax cost (i.e., how much the industry
+must earn in order to pay the penalty).  I don't know what tax rate to
+assume; the companies say 42%.
+
+1.  Two-tier penalty structure, as follows:
+        * If industry misses target by less than 10%, each point costs $80
+million, and is tax-deductible.
+        * If industry misses target by more than 10%, each point (above
+the first 10) costs $160 million, and is not tax-deductible.
+        * Eliminate the cap.
+        * Keep the double counting provision as written.
+2.   One-tier penalty, but not tax-deductible:
+        * Each point costs $80 million
+        * No cap.
+        * Keep double counting provision.
+        * Find out the pretax cost to the company
+3.   Higher one-tier penalty, but tax-deductible:
+         * $160 million a point
+         * No cap.
+         * Keep double counting provision.
+4.   Excise tax trigger:
+         * $80 million a point, tax-deductible.
+         * Keep $2 billion cap.
+         * Keep double counting.
+         * If industry misses target in year 5, it triggers 10 cent a pack
+tax.   If target missed in year 7, that tax rises to 20 cents a pack.  If
+target missed in year 10, rises to 30 cents a pack.
+
+
+That's probably enough scenarios for now.    Thanks.
+
+

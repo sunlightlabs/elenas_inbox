@@ -1,0 +1,288 @@
+      RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+      CREATOR: Sarah A. Bianchi ( CN=Sarah A. Bianchi/OU=OPD/O=EOP [ OPD 1 )
+
+      CREATION DATE/TIME: 9-MAR-1998 09:54:56.00
+
+      SUBJECT:   Press release for AMA speech
+
+      TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO 1 )
+      READ: UNKNOWN
+
+      TO: Eleanor S. Parker ( CN=Eleanor S. parker/OU=WHO/O=EOP @ EOP [ WHO 1 )
+      READ: UNKNOWN
+
+      TO: Peter D. Greenberger ( CN=Peter D. Greenberger/OU=WHO/O=EOP @ EOP [ WHO 1 )
+      READ:UNKNOWN
+
+      TO: Janet Murguia ( CN=Janet Murguia/OU=WHO/O=EOP @ EOP [ WHO 1 )
+      READ: UNKNOWN
+
+      TO: Anne E. McGuire ( CN=Anne E. McGuire/OU=WHO/O=EOP @ EOP [ WHO 1 )
+      READ:UNKNOWN
+
+      TO: Nanda Chitre ( CN=Nanda Chitre/OU=WHO/O=EOP @ EOP [ WHO 1 )
+      READ:UNKNOWN
+
+      TO: Lori L. Anderson ( CN=Lori L. Anderson/OU=WHO/O=EOP @ EOP [ WHO 1 )
+      READ: UNKNOWN
+
+      TO: Barbara D. Woolley ( CN=Barbara D. Woolley/OU=WHO/O=EOP @ EOP [ WHO 1 )
+      READ: UNKNOWN
+
+      TO: Jake Siewert ( CN=Jake Siewert/OU=OPD/O=EOP @ EOP [ OPD 1 )
+      READ:UNKNOWN
+
+      TO: Jonathan Murchinson ( CN=Jonathan Murchinson/OU=WHO/O=EOP @ EOP [ WHO 1 )
+      READ: UNKNOWN
+
+      TO: Stacie Spector ( CN=Stacie Spector/OU=WHO/O=EOP @ EOP [ WHO 1 )
+      READ:UNKNOWN
+
+      TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+      READ:UNKNOWN
+
+      TO: Gene B. Sperling ( CN=Gene B. Sperling/OU=OPD/O=EOP @ EOP [ OPD 1 )
+      READ: UNKNOWN
+
+      TO: Ann F. Lewis ( CN=Ann F. Lewis/OU=WHO/O=EOP @ EOP [ WHO 1 )
+      READ: UNKNOWN
+
+      TO: Michelle Crisci ( CN=Michelle Crisci/OU=WHO/O=EOP @ EOP [ WHO 1 )
+      READ: UNKNOWN
+
+      TO: Lawrence J. Stein ( CN=Lawrence J. Stein/OU=WHO/O=EOP @ EOP [ WHO 1 )
+      READ: UNKNOWN
+
+      TO: Elisa Millsap ( CN=Elisa Millsap/OU=WHO/O=EOP @ EOP [ WHO 1 )
+      READ:UNKNOWN
+
+      TO: Peter A. Weissman ( CN=Peter A. Weissman/OU=OPD/O=EOP @ EOP [ OPD 1 )
+
+
+READ: UNKNOWN
+
+TO: Neera Tanden ( CN=Neera Tanden/OU=WHO/O=EOP @ EOP [ WHO]   )
+READ: UNKNOWN
+
+TO: Elizabeth R. Newman ( CN=Elizabeth R. Newman/OU=WHO/O=EOP @ EOP [ WHO]          )
+READ: UNKNOWN
+
+TO: Christa Robinson ( CN=Christa Robinson/OU=OPD/O=EOP @ EOP [ OPD ]   )
+READ: UNKNOWN
+
+TO: William H. White Jr.   ( CN=William H. White Jr./OU=WHO/O=EOP @ EOP [ WHO]          )
+READ: UNKNOWN
+
+TO: Jonathan A. Kaplan ( CN=Jonathan A. Kaplan/OU=OPD/O=EOP @ EOP [ OPD ]       )
+READ: UNKNOWN
+
+TO: Kara Gerhardt ( CN=Kara Gerhardt/OU=WHO/O=EOP @ EOP [ WHO]     )
+READ:UNKNOWN
+
+TO: Joseph P. Lockhart ( CN=Joseph P. Lockhart/OU=WHO/O=EOP @ EOP [ WHO]        )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Beverly J. Barnes ( CN=Beverly J. Barnes/OU=WHO/O=EOP @ EOP [ WHO]      )
+READ: UNKNOWN
+
+TO: Barry J.Toiv ( CN=Barry J. Toiv/OU=WHO/O=EOP @ EOP [ WHO]      )
+READ:UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D75]MAIL47786376R.026 to ASCII,
+ The following is a HEX DUMP:
+
+FF5750434E060000010A020100000002050000000A45000000020000714CF9BE1FOC97ESEFOBE9
+1277F3E4D17FA643F6F1B7D99S6DD8COC7SSS3BBEA8332D27A45S7A71BFBS617DB18BF904847C2
+2D49BSS07787FEDAD32C6D728A9293SF7C7F4D1CB906DDS711C3B9SEC07C3COS1S28S433BA99DD
+A434DllE7BDF2916234EC1D022D43332E040484C12D48AF1C8FCD24C3B89ED1FCBCD89ED8F4EFO
+993EDOB3D34601417A98SBOEB74F8D48ADSS48FS376B1B7S336DEFl6891171CS48DFAA2C66B6E8
+B42S0A01E066EE31E823063A6BEED7AS212AS61AC88F17S20E20DF9112864669CB688641A1336D
+F10B292SB1FSEC7DSEAA997S90696S7SSCE8CE64FDBCD31C8115S6ES22C41C7BDOS977D8SSBEC6
+6A304D09SFCSFF7C09S7229BB913F2SEB97098SAB2EE7202E1A7686BAl14EFBSC99E8AF3CD467C
+3C9102AD0962EAFF491EACF99204684CEDFD77F7DCF29FAC60912FE4240D664242B469F17A6660
+F7142EOB948CCC580601S96C2ACBCA3SEF2C66207AA2A5C7D4A1779849A43SC226F7739BC2373A
+E719299D17A332F793D916EBOC8B89COF8B0260DA802C171295A4DD7AED4B3168S4S9EBC1DD4F4
+8D0449F48CAB794A12SEB18236A10888AFABB4SBD821747C90346SA60234670426D8A7Fl17376C
+OB67SC3D39CSA2742SA7E43SA70S23E4EC7DOCC3A01ACFD48BB2S04BCDEE2EOF82AA1BB677C17E
+EC41D9ACE802002000000000000000000000000823010000000BOlOOOOC003000000SS09000000
+4EOOOOOOCB040000092S0100000006000000190S00000B3002000n00280000001FOSOOOOOOSS08
+0000004E000000470S0000087701000000400000009S0S000008340100000014000000DSOSOOOO
+0802010000000FOOOOOOE90S0000080S0100000008000000F80S00OOOOOOOOOOOOOOOOOOOOOOF8
+OSOOOOOOOOOOOOOOOOOOOOOOOOF80S000000000000000000000000F80S00000000000000000000
+OOOOF80S000000000000000000000000F80S000000000000000000OOOOOOF80S00000000000000
+OOOOOOOOOOF80S000000000000000000000000F80S000000000000OOOOOOOOOOOOF80S00000000
+    PATIENT BILL OF RIGHTS, COMPREHENSIVE TOBACCO LEGISLATION, AND THE
+                         MEDICARE BUY-IN PROPOSAL
+                                                     Automated Records .Management System
+                                 March 9,1998
+                                                    Hex-Dump Conversion
+In a speech to the American Medical Association (AMA) today, the President renewed his call to
+Congress to pass a patients' bill of rights, comprehensive tobacco legislation to reduce teen smoking,
+and his proposal to allow hundreds of thousands of Americans ages 55 to 65 to buy into Medicare. In
+his speech, which marks the first time a President has spoken to the AMA in fifteen years, President
+Clinton highlighted that he and the AMA are united on the need for a patients' bill ofrights and
+tobacco legislation, and urged the AMA to lend its strong support to his Medicare buy-in proposal.
+Underscoring the bipartisan support for a patients' bill of rights, the President released a report
+showing that 44 states -- including 28 states with Republican Governors -- have enacted the "Consumer
+Bill of Rights" that the President's Quality Commission recommended and the President endorsed last
+year. In his speech, the President:
+
+RELEASED NEW REPORT SHOWING THAT 44 STATES -- INCLUDING 28 STATES
+WITH REPUBLICAN GOVERNORS -- HAVE ENACTED AT LEAST ONE OF THE
+PROVISIONS IN THE PATIENTS' BILL OF RIGHTS. The President released a new report that
+underscores the bipartisan support for the patients' bill of rights he endorsed last year. Highlights from
+this report are as follows:
+
+·       Forty-four states have enacted at least one of protections in the patients' bill of rights.
+
+·       Patient protection laws have been enacted by Democratic and Republican Governors
+        alike. Twenty-eight of the 32 states with Republican Governors have enacted at least one of
+        these protections.
+
+·       Each of these patient protections has been enacted in at least eight states around the
+        country and some have been enacted in as many as forty-one states. For example:
+
+               Twenty-eight states -- including 16 with Republican Governors -- have enacted
+               protections to assure access to emergency room services .
+
+              . Thirty states -- including 15 with Republican Governors -- have enacted protections to
+                give direct access to certain specialists, including access to qualified specialists for
+                women's health services.
+
+URGED CONGRESS TO PASS FEDERAL LEGISLATION BECAUSE, DESPITE STATE
+LAWS, ST ATES HAVE NO JURISDICTION OVER MORE THAN 100 MILLION
+AMERICANS. A patchwork of non-comprehensive state laws cannot provide Americans with the
+protections they need -- especially because state laws do not even have jurisdiction over more than 100
+million Americans. For example, they do not cover tens of millions of Americans in self-insured
+plans covered under the Employee Retirement Income Security Act (ERISA). The only way to ensure
+that all health plans serving all Americans provide the protections envisioned by the Quality
+Commission is to pass and enact bipartisan Federal legislation.
+                                                                  Hex-Dump Conversion
+
+CALLED ON CONGRESS TO PASS COMPREHENSIVE TOBACCO LEGISLATION THIS
+YEAR. The President also reiterated his call for Congress to pass comprehensive tobacco legislation
+this year that includes his five key principles:
+
+·      A comprehensive plan to reduce youth smoking, including: significant price increases; tough
+       penalties on tobacco firms that continue to market to youths; public education and counter
+       advertising; and expanded efforts to restrict access and limit appeal.
+
+·      Full authority of the Food and Drug Administration to regulate tobacco products.
+
+·      Changes in how the tobacco industry does business, including an end to marketing and
+       promotion to children and broad document disclosure.
+                                                 ,
+·      Progress towards other public goals, including a reduction of secondhand smoke; promotion of
+       cessation programs; public health research; and the strengthening of international efforts to
+       control tobacco.
+
+·      Protection for tobacco farmers and their communities.
+
+REITERATED THAT THIS TOBACCO PROPOSAL COULD PREVENT UP TO ONE
+MILLION PREMATURE DEATHS OVER THE NEXT FIVE YEARS. The recent Treasury
+Department's study, based on conservative estimates from well-respected analytical models, concluded
+that the A,dministration's proposal to increase the price of cigarettes by $1.50 per pack-- coupled with
+proposed sales and advertising. restrictions -- would:
+
+·      Keep up to 1.9 million Americans from smoking in 2003 -- a 39 to 46 percent reduction in
+       youth smoking. Over the next five years, the cumulative number of young people kept from
+       smoking would be up to 2.8 million.
+
+·      The direct result of these policies over the next five years is that, as many as 1 million oftoday's
+       young people will be spared from premature deaths resulting from smoking-related diseases.
+
+URGED CONGRESS TO ACT NOW TO PASS HIS TARGETED PROPOSAL TO GIVE·
+AMERICANS AGES 55 TO 65 ACCESS TO HEALTH INSURANCE.
+
+·      Americans ages 55 to 65 are one of the most difficult to insure popUlations: they have less
+       access to and a greater risk of losing employer-based health insurance; and they are twice as
+       likely to have health problems.
+
+·      The President has a carefully-targeted, fiscally-responsible proposal that would allow
+       hundreds of thousands of vulnerable Americans to gain access to more affordable health
+       care coverage by: allowing Americans ages 62 to 65 to buy into the Medicare program;
+       allowing displaced workers age 55 and over a similar buy-in option; and allowing Americans
+       55 and over who have lost their retiree health benefits to buy into their former employers'
+       health plan.
+
+·      The Congressional Budget Office just confirmed that this proposal will help hundreds of
+       thousands of Americans without burdening the Medicare Trust Fund or the budget.
+                                                                   Hex-Dump Conversion
+
+       PRESIDENT CLINTON RELEASES WHITE HOUSE REPORT REVEALING THAT
+    STATES HAVE ENACTED EACH OF THE PATIENT PROTECTIONS HE HAS ENDORSED
+             -- INCLUDING MANY STATES WITH REPUBLICAN GOVERNORS
+                                  March 9, 1998
+
+
+    ·   Thirty-four states -- including 21 states with Republican Governors -- have enacted
+        information disclosure provisions. At least 34 states have enacted provisions that require
+        health plans to disclose information to help consumers make informed decisions about their
+        health plans, health professionals, and health facilities.
+
+    ·   Ten states have enacted provider network adequacy provisions -- including four states
+        with Republican Governors. Atleast ten states have enacted provisions to help ensure that
+        health plan networks provide access to sufficient numbers and types of providers without
+        unreasonable delay.
+
+    ·   Thirty states -- including 15 states with Republican Governors -- have enacted protections
+        to give direct access to certain specialists, including qualified specialists for women's
+        health services. At least 30 states have enacted provisions to give patients greater access to
+        needed specialists, including giving women greater access to qualified specialists for women's
+        health services.
+
+    ·   Seventeen states have enacted continuity of care protections -- including ten states with
+        Republican Governors. At least 17 states have enacted protections to help ensure continuity
+        of care for enrollees who are involuntarily forced to change providers.
+
+    ·   Twenty-eight states have enacted protections to assure access to emergency room services
+        -- including 16 states with Republican Governors. At least 28 states have enacted
+        legislation to help ensure that patients have access to emergency room services when and where
+        the need arises. These provisions require health plans to pay for the initial screening
+        examination and stabilization carc -- regardless of whether the emergency room is in the
+        plan's network -- when an enrolled person needs emergency services. Twenty of these states
+        require the use of a prudent layperson standard to determine whether an emergency exists, to
+        ensure that any person who reasonably thought they were having an emergency is covered by
+        their health plan.
+
+    ·   Forty-one states have enacted anti-gag clauses -- including 26 states with Republican
+        Governors. At least 41 states have enacted "anti-gag" clauses prohibiting health plans from
+        using contract clauses that restrict providers' communications with their patients.
+
+    ·   Eighteen states have enacted provisions that require health plans to disclose financial
+        incentives -- including 12 states with Republican Governors. At least 18 states have passed
+        protections requiring health plans to disclose any financial arrangements with their physicians.
+
+    ·   Nineteen states have enacted provisions to protect confidentiality of health information --
+        including ten states with Republican Governors. At least 19 states have enacted some type
+        of provision to help protect the confidentiality of health information for health plan enrollees
+                                                                  Hex-Dump Conversion
+
+
+·      Eight states have enacted anti-discrimination provisions, including six states with
+       Republican Governors.
+
+·      Twelve states now require that health plan enrollees have access to an external appeal
+       process, including eight states with a Republican Governor. At least 12 states now require
+       that health plan enrollees have access to specially designated and independent external appeals
+       entities, which are funded and empowered to hear and act upon such appeals.               \
+
+
+Last November the President endorsed the "Consumer Bill of Rights" recommended by his Advisory
+Commission on Quality and Consumer Protection. These rights included: information disclosure; a
+choice of providers including provider network adequacy provisions, access to specialists (including
+qualified specialists for women's health services), and transitional care provisions; access to emergency
+room services; participation in treatment decisions including prohibiting anti-gag clauses and requiring
+disclosure of financial incentives; protection of the confidentiality of health information;
+anti-discrimination provisions; and access to an appeals process.
+
+

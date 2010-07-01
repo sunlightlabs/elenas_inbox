@@ -1,0 +1,227 @@
+RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+CREATOR: Mary L. Smith ( CN=Mary L. Smith/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME: 9-APR-1999 12:36:39.00
+
+SUBJECT:   Op ed
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ:UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO]    )
+READ:UNKNOWN
+
+TEXT:
+----------.------------ Forwarded by Mary L. Smith/OPD/EOP on 04/09/99
+12:36 PM ---------------------------
+
+
+
+
+Rebecca M. Blank
+04/09/99 12:31:23 PM
+Record Type:     Record
+
+To:      See the distribution list at the bottom of this message
+cc:      Cordelia W. Reimers/CEA/EOP, Nora E. Gordon/CEA/EOP
+Subject:         Op ed
+
+As some of you know, Ann Lewis asked if the CEA could produce an op ed by
+Janet Yellen, presenting the Administration's concerns with the gender pay
+gap (and at least indirectly responding to the recent AEI book.)  Attached
+is a copy.  I've sent this to Ann's office for their suggestions and
+input, but also want you to have a chance to look at it as well.  Can you
+get comments back to Cordelia Reimers by COB today?
+
+Thanks much.
+
+
+
+Message Sent
+TO:~------------~--~---------------------------------------------
+Jennifer M. Luray/WHO/EOP
+Kelley L. O'Dell/WHO/EOP
+Shirley S. Sagawa/WHO/EOP
+Mary L. Smith/OPD/EOP
+Thomas L. Freedman/OPD/EOP
+
+
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D30]MAIL46332631Q.136 to ASCII,
+ The following is a HEX DUMP:
+
+FFS7S04370040000010A0201000000020S0000009D190000000200004AS4360E6E26CS36BBFl18
+
+
+ 4FA7031B9BBBBC9FDFBC9DAB71C2BBED5E7CE9DD21D999DD694F1416E3350BF17960CDE914B34B
+ BA55AC2E3456F7C22CFBD3ECFOE5E5155FE2023BD22BD3B420342BllEB6319359EB2D420EFCODD
+ 9E4C6F36F71BCDFCA836CF757BA3B2BCEBEB5F29D309E2457E9719BDOB69D8C2F39772CCA266Al
+ 44F45DE77543DFl126D745EB799E13D66CF4BB19F2BFBOB44870C4DFD4E3D3102B36BEF3F6FDFO
+ 4FBBB3A16E30492F9E18461D226014B55FAOA469B276F721A9C76F59ADE20B6D655D04CB45CEOB
+ CB45B71E6947AAOFBC469AOE7388F017E43AIE98A12F39AB33599BOF6F5EF29ECIBC6116E0650D
+ 73EE27769E36EDCB7A5E6373BOBB270BE057EF21F4B2FC7E4913A9E946A363CAOBF71E7302EEOE
+ F273634EC31EB2520169550A099492EDD56BBB7411CFB61A504768EF381FA73B245EFC8989BC61
+ 005A3C7BBA7DAI076F8CEFBA9494112BC130D620E74A9BOOFB4EDOB6AIEDOOIE2F8401631D149F
+ 6B279CBA2A48D58198FFBOODOIF2DCCA4E2B12AD8AIDE643BFE6CC420F817CE7FIF33024BD268D
+ 95ABIEIOA3EBFEBEB560BE19F5330A3340BE2907DDOB7104AA31B59AC76820FA94BOAOF30E5AB7
+                           Hex-Dump Conversion
+
+                                Shrinking the Gender Pay Gap
+
+                                           Janet Yellen
+
+
+
+
+       Since the Equal Pay Act was signed into law by President Kennedy in 1963 women
+
+workers have made enormous strides. For example, in the Clinton Administration, women hold
+
+seven cabinet-level positions, including Secretary of State, Attorney General, and chair of the
+
+Council of Economic Advisers. Does this mean that all the barriers have been removed and
+
+women now have equal access to the good jobs and higher wages long available only to men?
+
+Unfortunately, no.
+
+
+
+       Before the Equal Pay Act, employers regularly paid women less than men doing the very
+
+same job.   Since then, new cohorts of women have overtaken men in educational attainment
+
+over the last 35 years, and women are entering many high-paying formerly "male" occupations,
+
+such as law, medicine, and accounting, in large numbers. Moreover, women are taking fewer
+
+years out of the labor force for child-rearing, which means they are accumulating greater work
+
+experience. As a result, by 1998 women's wages had risen to 76 percent of men's.
+
+
+
+       While 76 cents on the dollar represents progress, the earnings gap remains much too high.
+
+Research on the causes of the remaining gender pay gap were summarized in a recent report by
+
+the Council of Economic Advisers. The evidence suggests that about 60 percent can be
+
+explained by continuing differences in accumulated years of full-time work experience between
+
+
+                                                1
+                            Hex-Dump Conversion
+
+men and women, in the broad occupations and industries in which women and men are
+
+concentrated, and in union status. After adjusting for these differences -- some of which may
+
+themselves be due to differential treatment of women versus men -- the pay ratio rises to about
+
+90 percent, leaving an ongoing 10 percent unexplained gap between men and women's pay.
+
+
+
+       Interestingly, the evidence suggests that most of the unexplained pay gap is currently
+
+concentrated among women with children. Younger childless women receive pay almost at par
+
+with younger men. But mothers' wages are an estimated 10 percent lower than those of
+
+childless women with the same levels of education and workforce experience.
+
+
+
+       Some have argued that the prevalence of lower pay for mothers results from the inherent
+
+difficulty women face in combining careers with childrearing and is not a problem requiring a
+
+public policy response. After all, if women choose to have children, they must bear the
+
+consequences. But the impact of family and children on women's careers and earnings is not an
+
+unalterable consequence of biology. Rather, it results from current social arrangements and
+
+workplace practices that make it difficult to combine career and family.
+
+
+
+       These behaviors can change, and indeed are changing: fathers can spend more time in
+
+household and child-rearing tasks, and employers can offer family-friendly scheduling and
+
+benefits policies. Policies to reduce the gender gap further must focus on making it easier for
+
+parents -- both women and men -- to combine work and family. For instance, government can
+
+help assure that family and medical leave is available to workers, and can increase the
+
+
+                                                2
+                                                  Hex-Dump Conversion
+
+availability of safe and affordable child care.
+
+       Gender discrimination in the labor market has not disappeared, as the 24,500
+
+gender-discrimination complaints filed with the Equal Employment Opportunity Commission in
+
+1998 attest And research consistently finds evidence of ongoing discrimination in the labor
+
+market and differential treatment of women on the job.
+
+
+
+       In many workplaces discrimination may take more subtle forms today than in the past. A
+
+recent report on female faculty at MIT indicated that even this group of highly skilled,
+
+high-achieving women faced discrimination, which the report defined as "a pattern of powerful
+
+but unrecognized assumptions and attitudes that work systematically against women faculty even
+
+in the light of obvious good will." This is a familiar story for women who regularly feel that
+
+they are treated less seriously, excluded from key decision-making, or passed over for a project
+
+assignment without even being asked ("we know she won't want to do this given her family
+
+demands").
+
+
+
+       Working toward gender pay equity means fighting workplace discrimination of all types,
+
+and strongly enforcing the Equal Pay Act. But it also means promoting policies that allow
+
+workers to be both good parents and effective employees. Raising our children to be
+
+well-functioning adults may be the most important thing many of us will do in our lives, and this
+
+task is vitally important to the future of our nation. We must find ways to support rather than
+
+penalize workers who are also active and involved parents.
+
+
+
+
+                                                  3
+                                          Automated Records Management System
+                                          Hex-Dump Conversion
+
+       Janet Yellen is chair of the Council of Economic Advisers, and a parent.
+
+
+
+
+                                                       4
+
+

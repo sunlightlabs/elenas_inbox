@@ -1,0 +1,221 @@
+ RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+ CREATOR: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP [ OPD ] )
+
+ CREATION DATE/TIME: 5-AUG-1997 15:35:54.00
+
+ SUBJECT:   HHS Consultation on Child Poverty Rate Regs
+
+ TO: Emily Bromberg ( CN=Emily Bromberg/OU=WHO/O=EOP @ EOP [ WHO]      )
+ READ: UNKNOWN
+
+ TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+ READ: UNKNOWN
+
+ TO: Emil E. Parker ( CN=Emil E. Parker/OU=OPD/O=EOP @ EOP [ OPD]      )
+ READ: UNKNOWN
+
+ TO: Diana Fortuna ( CN=Diana Fortuna/OU=OPD/O=EOP @ EOP [ OPD ] )
+ READ: UNKNOWN
+
+ TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ] )
+ READ: UNKNOWN
+
+ TEXT:
+   The welfare law requires each state to report its child poverty rate
+ annually to HHS. If the child poverty rate increases by five percent or
+ more from the prior year as a result of the TANF law, the state must also
+ submit a corrective plan that outlines how the state will reduce the child
+ poverty rate.
+
+         The law charges HHS with devising a methodology for states to use
+ in devising child poverty rates.  HHS has drafted a preliminary
+ methodology (attached) and wants share it at a series of consultations
+ with states and academics, starting on Friday.   I have reviewed the
+ attached and see no problem. Would you care to review? Ann Rosewater is
+ hoping for a response by noon tomorrow.  ==================== ATTACHMENT     1 =======
+ ATT CREATION TIME/DATE:   0 00:00:00.00
+
+ TEXT:
+ Unable to convert ARMS_EXT: [ATTACH.D33]MAIL43218561I.216 to ASCII,
+  The following is a HEX DUMP:
+
+ FF575043A5080000010A020100000002050000004A2900000002000007FOE7BFABAC189B84C3DD
+ 2EBA01B2A07C14538BC37F866E4A34ECBA177CE76ADA3A0430AOCC749589A48881257EAF2F83CA
+ E6D1C62410CA9E27291F479432CDAC94F9F5A5102795BE0445F071795F4B24C563C824A9AC13DE
+ BA9B8B64D7373670C207F83FD3A3B32EFDF1813AF06151C1DB94234727C5F2D681D3E533EEA943
+ l046BBE9083EFE043BOBADDC1CFF333F5484ADB8D02A23D48FCE9B3018108AF86E446CA9A62E02
+ F6068FF3F705D807F78DA3A35AA69CE663517COA679C146D86000D517A78F5F87ACA8654CFBA83
+ CE4648E3D37ED6A5EF50F285AA744E1060EBD905528FCF7DFOE548835F7DE2BF6D5A1478424957
+ 792A15D4BBB77DFDAAC0726DB82388CD3551A8F268E2F557BB916B71BB53283CA576C95CECE576
+ 2CC9609EOA19477D0074A7EB5DEECC751291A040C4725112F4F162448310696A93DCA98617D922
+ OBACF3B1612E9A8CE4ACF27CBCABBA59868206A206B9114D3ECFE4B53C09E81128EEF5BDCFD939
+ E6377B485FEA53A44FC423F779F2183F736B79038B4453187E36BBD7503022E71BC27B4ACFB1BF
+ 33E3D502B921lE8DEOBEBE7626C99E6BD412BBC3AI08D57F50E4A77DOBE76FB242DBAC1A48C93E
+ A733B95421A32C96EOC33BFF12DEBF304FF616C5A9B001AC52C7EF568A056A8D9C8C420AAF089E
+ 60DE1097E002002B00000000000000000000000055070000004AOO00005A040000092501000000
+ 06000000A40400000B300600000055000000AA04000000650100000001000000FF0400000B3002
+ 00000043000000000500000608010000007F000000430500000608010000001C020000C2050000
+ 0055010000004EOOOOOODE070000080201000000100000002C0800000B3004000000340000003C
+ 080000081D01000000000000007008000008770100000004000000700800000834010000001400
+                                                          Automated Records an g
+                                                          Hex-DumP Conversion
+
+                                                            DRAFT    March 26, 2010 DRAFT
+                          Regulations on State Child Poverty Rates
+
+Section 413(i) of the Personal Responsibility and Work Opportunity Reconciliation Act
+(PRWORA) requires that each state report their child poverty rate annually to the U.S.
+Department of Health and Human Services (HHS).1 If the child poverty rate has
+increased by five percent or more since the prior year as a result of Section 103 (TANF)
+of PRWORA, the state must also submit a corrective plan that outlines how the state
+will reduce the child poverty rate.
+
+The Secretary of HHS is charged with establishing a methodology for states to use in
+determining their child poverty rates. The methodology is statutorily required to
+include:
+
+·      The number of children who receive free and reduced price school lunches;
+·      The number of food stamp households;
+·      County by county estimates of children in poverty as determined by the Census
+       Bureau.
+
+From the factors outlined in the legislation (school lunches and food stamp
+participation) it would appear the Congress is not concerned solely with an official
+measure of poverty.      However, given the unsettled nature of the debate on measUring
+poverty and the requirement that the measure must be able to indicate a five percent
+change in child poverty, we approach this regulation with a desire not to deviate too far
+from the official poverty measure.
+
+Our examination of this issue has focused on two questions:
+
+1.     A technical methodology for measuring state-level child poverty, including a
+       process for determining whether changes in state-level child poverty are
+       attributable to TANF.
+2.     Potential regulations regarding corrective action plans.
+
+1.     Methodology for Measuring Child Poverty Rates
+
+       Data Limitations
+
+       We began our consideration of the issue by examining the data sources
+       mentioned in PRWORA. There are certain limitations to the data types
+       mentioned in the law.
+
+       ·       According to the U.S. Department of Agriculture (USDA), schools report
+
+     This section of the law is attached.
+
+
+                                             1
+                                                     Hex-Dump Conversion
+      participation by the number of lunches served and do not record the
+      number of children who participate. Over the past several years the
+      proportion of lunches served free or reduced price and the proportion of
+      enrollment approved for free or reduced price meals both have risen
+      steadily. During the same time period, however, poverty counts and
+      AFDC participation decreased. The cause of these disparate trends is
+      unknown.
+
+·     Currently, the Census Bureau does not estimate small area poverty rates
+      (what the legislation identifies as the Census' county-by-county estimates)
+      on an annual basis. The most recent data currently available is for 1993;
+      1995 data is expected in 1998.
+
+We also examined other possible data sources that could be used to calculate
+poverty rates. The most likely data source is the Current Population Survey
+(CPS), which the Census Bureau uses to calculate annual national poverty rates.
+ It also has a number of limitations, most notably small sample sizes in the
+majority of states.
+
+      POTENTIAL METHODOLOGY
+
+After examining a number of options, HHS staff have developed a potential
+approach that attempts to balance data limitations with the requirements and
+intent of the legislation.
+
+Under this approach, the measure of state level child poverty would involve a
+three-step process:
+
+1.    We would ask the Census Bureau to develop annual state child poverty
+      estimates using the method developed for estimating small area poverty
+      rates.
+
+2.    If the Census method in Step 1 showed an increase of five percent or
+      more in the child. poverty rate for a state, then that state would submit data
+      on the number of households with children participating in the Food
+      Stamp Program.
+
+3.    If the use of food stamp data in Step 2 also showed an increase of five
+      percent or more, then states could submit evidence that the increase in
+      child poverty resulted from factors unrelated to TANF.
+
+Step 1: Use of the Census Methodology for Estimating Small Area Poverty
+
+The Census Bureau has developed a model for estimating local area poverty
+
+
+                                     2
+                                                                      Hex·Dump Conversion
+
+       rates. This model, which uses CPS data, the Census Bureau's Annual
+       Intercensal State Population Estimates, Food Stamp Participation data, and IRS
+       Tax Return data, is designed to reduce the large year-to-year variations in state
+       poverty rates that result from CPS-only estimates.
+
+       This model would produce the best results from a statistical standpoint. It
+       presents the best opportunity for estimating state-level child poverty rates, and it
+       would allow detection of changes within a statistical confidence interval. At the
+       same time there are limitations to this approach as well. There is a time lag in
+       the availability of the estimates, and the model may not allow the impact of T ANF
+       on the poverty rate to be isolated.
+
+       Step 2: Use of Food Stamp Participation Data
+
+       We are considering augmenting the Census estimates by using more recent
+       food stamp data. If the Census model detected a·5 percent or more increase in
+       the child poverty rate in a state, then the state would submit data on the number
+       of households with children that received food stamps in the two most recent
+       years. This food stamp data would be used to confirm that economic
+       deprivation among children continued to be a problem in a more recent period.
+
+       Step 3:    Evidence that Increases in Poverty were Independent of T ANF
+
+       The methods described in steps 1 and 2 above for estimating state child poverty
+       rates would not isolate the impact ofTANF on child deprivation. Therefore, our
+       methodology must include additional procedures to shed light on the relationship
+       between TANF and changes in child poverty.
+
+       If the Census methodology and use of food stamp data resulted in an estimated
+       increase in child poverty rates by five percent or more, states could submit other
+       evidence--economic, programmatic, etc.--that child deprivation did not increase,
+       or that the increase in the child poverty rate resulted from factors outside of
+       TANF.
+
+2.     Corrective Action Plans
+
+       If a state's child poverty rate increased by five percent of more resulting from
+       TANF, then the state must submit a corrective action plan. The plan is to
+       outline the manner in which the state will reduce the child poverty rate, including
+
+
+      As one could expect, the intricacies of this model are complex. We plan to have Census staff
+present at our consultation meetings to answer questions. A full discussion of this model can be found
+on the Internet at the Census Bureau's home page. The address for the Small Area Income and Poverty
+Estimates is: hUp:/Iwww.census.gov/hhes/www/saipe/.
+
+
+                                                  3
+a description of the actions to be taken.                  H~x·DlIlllp   Conversion
+
+HHS has limited authority to regulate in this area. The statute gives the Secretary
+explicit authority to establish a methodology, but is silent on authority to regulate
+corrective action plans. As a result, we do not intend to establish detailed regulations
+regarding the content and timing of corrective action plans.
+
+
+
+
+                                         4
+
+

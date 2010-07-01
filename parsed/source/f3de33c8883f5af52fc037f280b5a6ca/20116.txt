@@ -1,0 +1,95 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Jose Cerda III ( CN=Jose Cerda III/OU=OPD/O=EOP [ OPD 1 )
+
+CREATION DATE/TIME: 2-JUN-1998 11:05:50.00
+
+SUBJECT:   Coverdell Cost Estimate Chart
+
+TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+CC: Leanne A. Shimabukuro ( CN=Leanne A. Shimabukuro/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+CC: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+CC: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TEXT:
+EK:
+
+I re-did the chart as we discussed last night.   It's still not perfect,
+arid there are too many unanswered questions -- but this gives us a worse
+case scenario of costs.   To get in the 2 to 3 billion a year ball park, I
+added all of the increases in year 1 and carried them forward ($2.124
+billion a year, plus a one-time technology add-on of $89 million).   Also,
+I can't understand how you include the Drug-Free Borders bill and propose
+doubling Customs drug budget without completely overlapping or duplicating
+the costs.
+
+Finally, I should note that while the Drug-Free Borders bill passed the
+House w about 350 votes and Treasury wanted to be supportive, there are
+some hard to swallow labor provisions in the bill (i.e., it allows the
+Customs Commission to sidestep collective bargaining, if necessary, to
+ensure that drug interdiction is not compromised) .
+
+Jose'
+
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D601MAIL40207035Y.126 to ASCII,
+ The. following is a HEX DUMP:
+
+FF575043BDOF0000010A02010000000205000000D9250000000200007D2CD1625E4E9636DOA53A
+B881C895FOC24B8C260873FE85917379D3A1D75A4D95C4D621108D5BFA3D2E11E37E65E8A145BA
+                                                                          Automated Records Management System
+                                                                                  Hex-Dump Conversion
+                                  Coverdell-Craig-Abraham Amendment
+                                             Cost Estimate
+
+
+
+                 Current   Increase   FY99     FYOO     FY 01    FY02      FY03        TOTAL
+
+       Custom    502M      +502       1004     1004     1004     1004      1004        5020M
+       s
+
+       Coast     401 M     +401       802      802      802      802       802         4010M
+       Guard
+
+       Defense   468M      +468       936      936      936      936       936         4680M
+
+       Drug      1500M     +300       1500     1500     1500     1500      1500        7500 M
+       Enf.
+       Agency
+
+       FBI       825 M     +206       1031     1031     1031     1031      1031        5155 M
+       Drug
+       Enf.
+
+       Drug-Fr
+       ee
+       Borders
+                 502M      +182       684      684      684      684       684         3420M
+       Doublin
+       g         NA        +89        89       0        0        0         0           89M
+       Custom
+       s
+       Agents
+
+       Tech.
+
+       Other     10 M      + 55       65       65       65       65        65          325 M
+
+       TOTAL     4008 M    2213 M     6111 M   6022 M   6022 M   6022 M    6022M       30.199
+                                                                                       Billion
+
+

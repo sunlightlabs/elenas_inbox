@@ -1,0 +1,716 @@
+     RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+     CREATOR: Ingrid M. Schroeder. ( CN=Ingrid M. Schroeder/OU=OMB/O=EOP [ OMB 1 )
+
+     CREATION DATE/TIME: 26-MAR-1998 20:26:36.00
+
+     SUBJECT:   LRM #IMS279 - JUSTICE, OMB, and DPC Executive Summary/Framework regarding
+
+
+     TO: US@2=TELEMAIL@3=GOV+TREAS@S=DO@4=MSOl@7=LLR@6=TREASURY@mrx@lngtwy ( 1=US@2=TELEM
+     READ:UNKNOWN
+
+     TO: US@2=TELEMAIL@S=JMD@7=Deborah@6=Clifton@mrx@lngtwy ( 1=US@2=TELEMAIL@S=JMD@7=Deb
+     READ: UNKNOWN
+
+     TO: Robert N. Weiner ( CN=Robert N. Weiner/OU=WHO/O=EOP@EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP@EOP [ OPD 1 )
+     READ: UNKNOWN
+
+     TO: Julie A. Fernandes ( CN=Julie A. Fernandes/OU=OPD/O=EOP@EOP [ OPD 1 )
+     READ: UNKNOWN
+
+     TO: Jill M. Blickstein ( CN=Jill M. Blickstein/OU=OMB/O=EOP@EOP [ OMB 1 )
+     READ: UNKNOWN
+
+     TO: Charles E. Kieffer ( CN=Charles E. Kieffer/OU=OMB/O=EOP@EOP [ OMB 1 )
+     READ:UNKNOWN
+
+     TO: Daniel J. Chenok ( CN=Daniel J. Chenok/OU=OMB/O=EOP@EOP [ OMB 1 )
+     READ: UNKNOWN
+
+     TO: Kimberly A. Maluski ( CN=Kimberly A. Maluski/OU=OMB/O=EOP@EOP [ OMB 1 )
+     READ:UNKNOWN
+
+     TO: Stephen G. Elmore ( CN=Stephen G. Elmore/OU=OMB/O=EOP@EOP [ OMB 1 )
+     READ:UNKNOWN
+
+     TO: Philip A. DUSault ( CN=Philip A. DuSault/OU=OMB/O=EOP@EOP [ OMB 1 )
+     READ: UNKNOWN
+
+     TO: Evan T. Farley ( CN=Evan T. Farley/OU=OMB/O=EOP@EOP [ OMB 1 )
+     READ: UNKNOWN
+
+     TO: Barry White ( CN=Barry White/OU=OMB/O=EOP@EOP [ OMB 1 )
+     READ: UNKNOWN
+
+     TO: Debra J. Bond ( CN=Debra J. Bond/OU=OMB/O=EOP@EOP [ OMB 1 )
+     READ: UNKNOWN
+
+     TO: Theodore Wartell ( CN=Theodore Wartell/OU=OMB/O=EOP@EOP [ OMB 1 )
+     READ: UNKNOWN
+
+     TO: David J. Haun ( CN=David J. Haun/OU=OMB/O=EOP@EOP [ OMB 1 )
+     READ: UNKNOWN
+
+     TO: US@2=TELEMAIL@S=OPMMAC@7=Charlie@6=OPMOLA@mrx@lngtwy ( 1=US@2=TELEMAIL@S=OPMMAC@
+     READ: UNKNOWN
+
+
+TO: dol-sol-leg@dol.gov ( dol-sol-leg@dol.gov @ inet [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: James C. Murr ( CN=James C. Murr/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Peter G. Jacoby ( CN=Peter G. Jacoby/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Leanne A. Shimabukuro ( CN=Leanne A. Shimabukuro/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Alice E. Shuffield ( CN=Alice E. Shuffield/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Robert G. Damus ( CN=Robert G. Damus/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Norwood J. Jackson Jr ( CN=Norwood J. Jackson Jr/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Harry G. Meyers ( CN=Harry G. Meyers/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ:UNKNOWN
+
+TO: Janet R. Forsgren ( CN=Janet R. Forsgren/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ:UNKNOWN
+
+TO: Raymond P. Kogut ( CN=Raymond P. Kogut/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Bruce K. Sasser ( CN=Bruce K. Sasser/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Joseph G. Pipan ( CN=Joseph G. Pipan/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Larry R. Matlack ( CN=Larry R. Matlack/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Michael Deich ( CN=Michael Deich/OU=OMB(O=EOP@EOP [ OMB 1 )
+READ:UNKNOWN
+
+TO: Kenneth L. Schwartz ( CN=Kenneth L. Schwartz/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Steven M. Mertens ( CN=Steven M. Mertens/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ:UNKNOWN
+
+CC: Darlene O. Gaymon ( CN=Darlene O. Gaymon/OU=OMB/O=EOP@EOP COMB 1 )
+READ: UNKNOWN
+
+CC: James J. Jukes ( CN=James J. Jukes/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TEXT:
+        YOU WILL NOT RECEIVE A PAPER COPY OF THIS LRM.
+
+Total Pages: ____
+ '"
+
+LRM ID: IMS279
+EXECUTIVE OFFICE OF THE PRESIDENT
+OFFICE OF MANAGEMENT AND BUDGET
+Washington, D.C. 20503-0001
+
+Thursday, March 26, 1998
+
+LEGISLATIVE REFERRAL MEMORANDUM
+
+TO:                        Legislative Liaison Officer - See Distribution below
+
+FROM:          James J. Jukes (for) Assistant Director for Legislative Reference
+OMB CONTACT:   Ingrid M. Schroeder
+                                PHONE: (202)395-3883 FAX: (202)395-3109
+SUBJECT:       JUSTICE, OMB, and DPC Executive Summary/Framework
+regarding the Administration's Plan for Restructuring INS
+
+DEADLINE:                  Noon   Friday, March 27, 1998 -- FIRM
+
+In accordance with OMB Circular A-19, OMB requests the views of your
+agency on the above subject before advising on its relationship to the
+program of the President.  Please advise us if this item will affect
+direct spending or receipts for purposes of the "Pay-As-You-Go" provisions
+of Title XIII of the Omnibus Budget Reconciliation Act of 1990.
+
+COMMENTS: The attached Executive Summary/Framework will be included in a
+package of materials (letter to Chairman Rogers and side-by-side analysis
+circulated under LRM #IMS275) outlining the Administration's plan for
+restructuring INS.  This package will be distributed on March 31st when
+the Commissioner of INS testifies before a House Appropriations
+subcommittee on this topic.
+
+DISTRIBUTION LIST
+
+AGENCIES:
+61-JUSTICE - Andrew Fois - (202) 514-2141
+62-LABOR - Robert A. Shapiro - (202) 219-8201
+114-STATE - Paul Rademacher - (202) 647-4463
+92-0ffice of Personnel Management - Harry Wolf - (202) 606-1424
+118-TREASURY - Richard S. Carro - (202) 622-0650
+76-National Economic Council - Sonyia Matthews - (202) 456-6630
+B3-National Security Council - Glyn T. Davies - (202) 456-9221
+
+EOP:
+Steven M. Mertens
+David J. Haun
+Kenneth L. Schwartz
+Theodore Wartell
+Michael Deich
+Debra J. Bond
+Larry R. Matlack
+Barry White
+Joseph G. Pipan
+Evan T. Farley
+Bruce K. Sasser
+Philip A. DuSault
+Raymond P. Kogut
+Stephen G. Elmore
+Janet R. Forsgren
+Kimberly A. Maluski
+'"   ,"
+
+     Harry G. Meyers
+     Daniel J. Chenok
+     Norwood J. Jackson Jr
+     Charles E. Kieffer
+     Robert G. Damus
+     Jill M. Blickstein
+     Alice E. Shuffield
+     Julie A. Fernandes
+     Leanne A. Shimabukuro
+     Elena Kagan
+     Peter G. Jacoby
+     Robert N. Weiner
+     James C. Murr
+     LRM ID: IMS279 SUBJECT:    JUSTICE, OMB, and DPC Executive Summary/Framework
+     regarding the Administration's Plan fo~ Restructuring INS
+
+
+     RESPONSE TO
+     LEGISLATIVE REFERRAL
+     MEMORANDUM
+
+     If your response to this request for views is short (e.g., concur/no
+     comment), we prefer that you respond bye-mail or by faxing us this
+     response sheet.  If the response is short and you prefer to call, please
+     call the branch-wide line shown below (NOT the analyst's line) .to leave a
+     message with a legislative assistant.
+
+     You may also respond by:
+              (1) calling the analyst/attorney's direct line (you will be
+     connected to voice mail if the analyst does not answer); or
+              (2) sending us a memo or letter
+     Please include the LRM number shown above, and the subject shown below.
+
+
+     TO:             Ingrid M. Schroeder Phone:   395-3883   Fax:  395-3109
+                     Office of Management and Budget
+                     Branch-Wide Line (to reach legislative assistant): 395-3454
+
+     FROM:                                                     (Date)
+
+                                                               (Name)
+
+                                                               (Agency)
+
+                                                               (Telephone)
+
+
+     The following is the response of our agency to your request for views on
+     the above-captioned subject:
+
+                    Concur
+
+                    No Objection
+
+                    No Comment
+
+                    See proposed edits on pages ___________
+
+                    Other:
+""
+
+
+                 FAX RETURN of _____ pages, attached to this response sheet
+
+
+
+DRAFT --
+3/26/98 -- 8pm
+
+A FRAMEWORK FOR CHANGE:
+The Immigration and Naturalization Service
+
+
+Background
+
+America has always been a nation of immigrants, and this Administration is
+proud of the significant progress we have made toward improving AmericaO,s
+immigration system. Over the last five years, the INS has worked hard to
+curtail illegal immigration through tougher border control, strengthened
+worksite enforcement, and removal of a record numbers of criminal and
+other illegal aliens. The agency has also worked to improve and tighten
+the naturalization process, and has made needed reforms to our asylum syst
+em for refugees fleeing persecution. While the INS has achieved progress
+in these areas, the Administration recognizes the need to restructure the
+agency in order to improve its AdministrationO,s ability to carry out the
+nationO,s immigration laws.
+
+In its final report to Congress last fall, the United States Commission on
+Immigration Reform (CIR) called for significant reform to our nationO,s
+immigration system.  The CIR criticized that the INSO,s dual
+responsibility of welcoming immigrants who enter legally and deterring
+those who enter illegally has resulted in O&mission overload,08 and
+recommended reallocating responsibilities both within,the Department of
+Justice (DOJ) and outside the agency.  The major thrust of the CIRO,s
+proposed reform would move all immigration service functions to the
+Department of State, and would consolidate all immigration enforcement
+into a new federal law enforcement agency within the Justice Department.
+
+In response to the CIRO,s recommendation, the President asked the Domestic
+Policy Council (DPC) to O&evaluate carefully the [CIR] proposal and other
+reform options designed to improve the executive branchO,s administration
+of the NationO,s immigration laws.D8 In conducting this review, the DPC,
+working closely with the Office of Management and Budget, consulted with
+the Departments of Justice, Labor and State, the INS, staff of the CIR,
+immigration experts and advocacy groups, and other White House offices,
+including the National Security Council.  This review examined
+organizational and restructuring options including those formulated by the
+CIR and members of Congress. After the Administration established a
+framework for reform, the Justice Department contracted with a management
+conSUlting firm to assist in developing a plan to make this framework
+O&operational.08
+
+The AdministrationO,s Framework for Change
+
+The CIR report correctly diagnosed many of INSO,s problems -- insufficient
+accountability between field offices and headquarters, lack of consistency
+and professionalism, overlapping organizational relationships, and
+significant management weaknesses.  These problems have hampered the
+INSO,s ability to effectively pursue the tasks that Congress and the
+President expect the INS to perform: effective enforcement of our
+immigration laws both at our borders and in the interior, and the
+efficient provision of immigration and citizenship benefits and services.
+
+
+Improving the ability of the INS to pursue these critical priorities must
+be the guiding principle of any reform plan.
+
+After careful consideration and study, the Administration concluded that
+the most effective way to adhere to this guiding principle is to implement
+dramatic and fundamental reforms within the INS.   The AdministrationO,s
+reform plan untangles the INSO,s overlapping and frequently confusing
+organizational. structure and replace it with two clear organizational
+chains of command -- one for accomplishing its enforcement mission and one
+for the provision of services.   Each operation would be headed by an
+Executive Associate Commissioner (EAC) who would report directly to the
+Commissioner or Deputy Commissioner.   This division of responsibility sets
+up clear lines of authority and accountability at every functional level.
+
+While the AdministrationO,s plan calls for separating enforcement from
+services operations within the INS, it also retains essential integrating
+functions for supporting and coordinating these operations.   The result
+will be an INS organization wi,th strengthened accountability and improved
+efficiency and effectiveness that allows each operation to focus on the
+unique management, knowledge, skills, and abilities of its function.
+
+Improved Customer-oriented services
+
+00      Creates new local service offices.   The new immigration services
+operation would locate new service offices in immigrant communities around
+the country. These offices would focus on providing efficient and
+effective service, while maintaining the integrity of application
+processing. The offices would provide a range of services including:
+providing information to applicants, taking fingerprints and photographs,
+testing, an~ interviewing. Depending on community needs, some offices may
+be configured as full-service centers and others could serve as satellite
+locations to perform specific functions.   These new service facilities
+would have a standard O&look and feel08 with clear signs, comfortable
+waiting rooms, some evening and weekend hours, and other customer-friendly
+features:
+
+00      Creates stronger lines of authority and accountability.  The heads of
+the local service offices would report to an Service Area Director. The
+Service Area Director would report directly to the Executive Associate
+commissi.oner for Immigration Services. Service Area Directors would have
+the flexibility to move case processing responsibilities among offices
+within their area to maximize efficiency.  Area Directors would be held
+accountable for meeting a nationally-established standard for timely
+processing and courteous service at all of the locations throughout the
+areaO,s jurisdiction.
+
+DO      Offers high-tech answers.   This new framework provides high-tech ways
+for people to receive better service through remote service centers.     As
+part of this restructuring effort, INS will re-examine the capabilities
+of the four service centers that handle the automated, bulk processing
+workload of the current district offices. These centers currently take
+applications, create electronic records of them, and conduct the
+pre-processing necessary before the examination is administered.   Under
+the new structure, more clerical work would be shifted to the service
+centers, thus allowing local offices to focus on core activities which
+require interaction with customers.
+
+A Strengthened and Integrated Enforcement Operation
+
+00      Establishing a single, coordinated enforcement function.   The plan
+
+
+creates an operational chain of command dedicated to immigration
+enforcement.   INS can focus comprehensively on illegal immigration
+problems at the border and in the interior, and create a single point of
+accountability for performance. This approach will strengthen
+professionalism and improve results. Also, this structure would ensure
+priorities are shared and allow close coordination of day-to-day
+operations among each enforcement discipline.
+
+DO      Integrating enforcement and strengthening accountability. The new
+enforcement operations areas would combine all functions related to the
+enforcement of immigration laws. Each enforcement area would be organized
+according to four enforcement functions, and led by a single director.
+The Area Enforcement Director would report directly to the Executive
+Associate Commissioner for Enforcement.
+
+DO      Four Field Components organized by function.  The enforcement areas
+would be organized around four functional goals: managing the border;
+inspections and management at ports of entry; investigations and removals;
+and detention.
+
+1) Border Patrol.  The Border Patrol would,perform its current border
+management functions of deterring illegal immigration, apprehending
+illegal aliens, and working to dismantle smuggling rings.
+
+2) Inspectors.   The plan recognizes the critical part the ports of entry
+play in INSD,s border management strategy by putting inspectors in the
+enforcement chain of command.   This would give the ports a stronger role
+on the enforcement side of the agency and gives inspectors a direct
+reporting relationship to the Enforcement Area Director.
+
+3) Investigations and Removals. This plan would also bring investigators,
+intelligence officers and deportation officers into one multi-disciplinary
+component in order to focus on removals and pursuing cases of fraud,
+smuggling and illegal employment at the workplace. Offices in the field
+would be located in areas with the greatest demand for those functions--
+similar to the traditional Special or Resident Agent-in Charge (SAC/RAC)
+law enforcement model used by the FBI.
+
+4) Detention and Enforcement Support. This framework would improve the
+logistical coordination of transporting criminal and illegal aliens and
+detaining them in long-term facilities by centralizing the current
+District Office detention and transportation operations. Under the new
+framework, this component would ,be better able to track open bed space at
+INS and contract facilities, improve and monitor conditions at these
+facilities, as well as provide appropriate access to them.
+
+shared Support
+
+DO      Providing the right tools.  The D&shared supportDB operation (e.g.,
+records and data management, technological support, employee relations,
+and administrative support) serves as the administrative and technological
+backbone upon which both enforcement and service operations depend. The
+goal of this operation will be to ensure that each side of the agency has
+the appropriate administrative and technological tools to do their jobs.
+These range from new computer software systems that are D&user-friendlyDB
+for enforcement agents and service officers, to appropriate training to
+strengthen professionalism.
+
+DO      Managing essential records. An important cohesive function of the
+shared support operation is the management of all of INSD,s files and
+
+
+electronic databases.  The INS's records are the basis for its work --
+whether law enforcement or the provision of services to customers. For exa
+mple, the information contained in those records tells an INS deportation
+officer that an individual has overstayed his visa and the last address at
+which he might be found. It also tells an adjudicator whether a person has
+ever entered without inspection, therefore jeopardizing his eligibility to
+become a legal permanent� resident.
+
+New 0&Strategy08 Office
+
+00      Eliminating overlapping functions.   The Administrationo,s proposed
+structure -includes the creation of a small, new "strategy" unit that would
+focus on setting priorities, designing the ways in which they can be
+executed in the field, as well as analyzing the effectiveness of their
+execution. The unit would use staff from headquarters, as well as create
+subject area task forces to draw on the expertise of individuals
+accountable for each program.
+
+New Chief Financial Officer Role
+
+DO      Enhancing accountability and efficiency.  The new structure also
+creates a role for a new Chief Financial Officer to improve the
+distribution, control, and monitoring of the agencyo,s finances. This
+would enhance accountability for managing the agencyo,s resources and
+ensure that immigrant services and enforcement have clearly separated and
+defined revenue streams.
+
+
+Other Management Improvements
+
+INS recognizes that a profound restructuring is only one aspect of
+improving its ability to build a more effective organization. As part of
+its reform efforts, the agency is also planning management initiatives
+such as fundamentally redesigning outdated business processes, and the
+creation of new training opportunities.
+
+Conclusion
+
+Preserving our countryo,s tradition as a nation of laws and a nation of
+immigrants requires one agency with clear, defined operational lines of
+authority and accountability. This new structure will allow our Nation to
+better control its borders and provide improved service and benefits to
+the immigrant community.  The Administrationo,s plan is a bold initiative
+to strengthen the INSo,s capacity and ability to accomplish this critical
+mission.
+
+
+
+
+March 26, 1998
+C:\WORK\WP\IMMIGRAT\ANBENDER.6
+8:00pm==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D58)MAIL46244748N.026 to ASCII,
+ The following is a HEX DUMP:
+
+
+                                                                       Automated Records Management System
+     A FRAMEWORK FOR CHANGE:                                                   Hex-Dump Conversion
+     The Immigration and Naturalization Service
+
+
+     Background
+
+     America has always been a nation of immigrants, and this Administration is proud of the
+     significant pr.ogress we have made toward improving America's immigration system. Over the last
+     five years, the INS has worked hard to curtail illegal immigration through tougher border
+     control, strengthened worksite enforcement, and removal of a record numbers of criminal and
+     other illegal aliens. The agency has also worked to improve and tighten the naturalization
+     process, and has made needed reforms to our asylum system for refugees fleeing persecution.
+     While the INS has achieved progress in these areas, the Administration recognizes the need to
+     restructure the agency in order to improve its Administration's ability to carry out the nation's
+     immigration laws.
+
+     In its final report to Congress last fall, the United States Commission on Immigration Reform
+     (CIR) called for significant reform to our nation's immigration system. The CIR criticized that
+     the INS's dual responsibility of welcoming immigrants who enter legally and deterring those who
+     enter illegally has resulted in "mission overload," and recommended reallocating responsibilities
+     both within the Department of Justice (DOJ) and outside the agency. The major thrust of the
+     CIR's proposed reform would move all immigration service functions to the Department of State,
+     and would consolidate all immigration enforcement into a new federal law enforcement agency
+     within the Justice Department.
+
+     In response to the CIR's recommendation, the President asked the Domestic Policy Council
+     (DPC) to "evaluate carefully the [CIR] proposal and other reform options designed to improve
+     the executive branch's administration of the Nation's immigtation laws." In conducting this
+     review, the DPC, working closely with the Office of Management and Budget, consulted with the
+     Departments of Justice, Labor and State, the INS, staff of the CIR, immigration experts and
+     advocacy groups, and other White House offices, including the National Security Council. This
+     review examined organizational and restructuring options including those formulated by the CIR
+     and members of Congress. Afterthe Administration established a framework for reform,
+     the Justice Department contracted with a management consulting firm to assist in
+     developing a plan to make this framework "operational."
+
+     The Administration's Framework fOr Change
+
+     The CIR report correctly diagnosed many of INS's problems -- insufficient accountability
+     between field offices and headquarters, lack of consistency and professionalism,
+     overlapping organizational relationships, and significant management weaknesses. These
+     problems have hampered the INS's ability to effectively pursue the tasks that Congress and
+
+                                                   -1-
+                                                                               Hex-Dump Conversion
+
+the President expect the INS to perform: effective enforcement of our immigration laws
+both at our borders and in the interior, and the efficient provision of immigration and
+citizenship benefits and services. Improving the ability of the INS to pursue these critical
+priorities must be the guiding principle of any reform plan.
+
+After careful consideration and study, the Administration concluded that the most effective
+way to adhere to this guiding principle is to implement dramatic and fundamental reforms
+within the INS. The Administration's reform plan untangles the INS's overlapping and
+frequently confusing organizational structure and replace it with two clear organizational
+chains of command -- one for accomplishing its enforcement mission and one for the
+provision of services. Each operation would be headed by an Executive Associate
+Commissioner (EAC) who would report directly to the Commissioner or Deputy
+Commissioner. This division of responsibility sets up clear lines of authority and
+accountability at every functionalleveI.
+
+While the Administration's plan calls for separating enforcement from services operations
+within the INS, it also retains essential integrating functions for supporting and
+coordinating these operations. The result will be an INS organization with strengthened
+accountability and improved efficiency and effectiveness that allows each operation to
+focus on the unique management, knowledge, skills, and abilities of its function.
+
+ImDroyed Customer-Oriented Services
+  �
+
+�      Creates new local service offices. The new immigration services operation would locate
+       new service offices in immigrant communities around the country. These offices would
+       focus on providing efficient and effective service, while maintaining the integrity of
+       application processing. The offices would provide a range of services including: providing
+       information to applicants, taking fingerprin'ts and photographs, testing, and interviewing.
+       Depending on community needs, some offices may be configured as full-service centers
+       and others could serve as satellite locations to perform specific functions. These new
+       service facilities would have a standard "look and feel" with clear signs, comfortable
+       waiting rooms, some evening and weekend hours, and other customer-friendly features.
+
+�      Creates stronger Jines of authority and accountability. The heads of the local service offices
+       would report to an Service Area Director. The Service Area Director would report
+       directly to 'the Executive Associate Commissioner for Immigration Services. Service Area
+       Directors would have the flexibility to move case processing responsibilities among offices
+       within their area to maximize efficiency. Area Directors would be held accountable for
+       meeting a nationally-established standard for timely processing and courteous service at all
+       of the locations throughout the area's jurisdiction.
+
+�
+                       -
+       Offers high-tech answers. This new framework provides high-tech ways for people to
+
+                                                -2-
+                                                                            Automated Records Management System
+                                                                                    Hex-Dump Conversion
+
+            receive better service through remote service centers.    As part of this restructuring effort,
+            INS will re-examine the capabilities of the four service centers that handle the
+            automated, bulk processing workload of the current district offices. These centers currently
+            take applications, create electronic records of them, and conduct the pre-processing
+            necessary before the examination is administered. Under the new structure, more clerical
+            work would be shifted to the service centers, thus allowing local offices to focus on core
+            activities which require interaction with customers.
+
+     A Strengthened and Integrated Enforcement Operation
+
+     �      Establishing a single, coordinated enforcement function. The plan creates an operational
+            chain of command dedicated to immigration enforcement.         INS can focus
+            comprehensively on illegal immigration problems at the border and in the interior, and
+            create a single point of accountability for performance. This approach will strengthen
+            professionalism and improve results. Also, this structure would ensure priorities are shared
+            and allow c1qse coordination of day-to-day operations among each enforcement discipline.
+
+     �      Integrating enforcement and strengthening accountability, The new enforcement operations
+            areas would combine all functions related to the enforcement of immigration laws. Each
+            enforcement area would be organized according to four enforcement functions, and led
+            by a single director. The Area Enforcement Director would report directly to the
+            Executive Associate Commissioner for Enforcement.
+
+     �      Four Field Components organized by function.   The enforcement areas would be
+            organized around four functional goals: managing the border; inspections and
+            management at ports of entry; investigations and removals; and detention.
+
+            1) Border Patrol. The Border Patrol would perform its current border management
+            functions of deterring illegal immigration, apprehending illegal aliens, and working to
+            dismantle smuggling rings.
+
+            2) Inspectors. The plan recognizes the critical part the ports of entry play in INS's
+            border management strategy by putting inspectors in the enforcement chain of command.
+             This would give the ports a stronger role on the enforcement side of the agency and
+            gives inspectors a direct reporting relationship to the Enforcement Area Director.
+
+            3) Investigations and Removals. This plan would also bring investigators, intelligence
+            officers and deportation officers into one multi-disciplinary component in order to focus
+            on removals and pursuing cases of fraud, smuggling and illegal employment at the
+            workplace. Offices in the field would be located in areas with the greatest demand for
+            those functions-- similar to the traditional Special or Resident Agent-in Charge
+
+                                                      -3-
+                                                                                  Automated Records Management System
+                                                                                          Hex-Dump Conversion
+             (SAC/RAC) law enforcement model used by the FBI.
+
+             4) Detention and Enforcement Support. This framework would improve the logistical
+             coordination of transporting criminal and illegal aliens and detaining them in long-term
+             facilities by centralizing the current District Office detention and transportation operations.
+             Under the new framework, this component would be better able to track open bed space
+             at INS and contract facilities, improve and monitor conditions at these facilities, as well as
+             provide appropriate access to them.
+
+      Shared Support
+
+      �      Providing the right tools. The "shared support" operation (e.g., records and data
+             management, technological support, employee relations, and administrative support)
+             serves as the administrative and technological backbone upon which both enforcement
+             and service operations depend. The goal of this operation will be to ensure that each side
+             of the agency has the appropriate administrative and technological tools to do their jobs.
+             These range from new computer software systems that are "user-friendly" for enforcement
+             agents and service officers, to appropriate training to strengthen professionalism.
+
+      �      Managing essential records.    An important cohesive function of the shared support
+             operation is the management of all of INS's files and electronic databases. The INS's
+             records are the basis for its work -- whether law enforcement or the provision of services
+             to customers. For example, the information contained in those records tells an INS
+             deportation officer that an individual has overstayed his visa and the last address at which
+             he might be found. It also tells an adjudicator whether a person has ever entered without
+             inspection, therefore jeopardizing his eligibility to become a legal permanent resident.
+
+      New "Strategy" Office
+
+      �      Eliminating overlapping functions.   The Administration's proposed structure includes the
+             creation of a small, new "strategy" unit that would ,focus on setting priorities, designing
+             the ways in which they can be executed in the field, as well as analyzing the effectiveness
+             of their execution. The unit would use staff from headquarters, as well as create subject
+             area task forces to draw on the expertise of individuals accountable for each program.
+
+      New ChiefFinancial Officer Role
+
+      �      Enhancing accountability and efficiency. The new structure also creates a role for a new
+             Chief Financial Officer to improve the distribution, control, and monitoring of the
+             agency's finances. This would enhance accountability for managing the agency's resources
+             and ensure that immigrant services and enforcement have clearly separated and defined
+
+                                                      -4-
+
+                               Automated Records Management System
+      revenue streams.                 Hex-Dump Conversion
+
+
+
+
+                         -5-
+
+
+
+                                                                                Automated Records Management System
+                                                                                        Hex-Dump Conversion
+                Other Management Improvements
+
+                INS recognizes that a profound restructuring is only one aspect of improving its ability to build a
+                more effective organization. A1; part of its reform efforts, the agency is also planning management
+                initiatives such as fundamentally redesigning outdated business processes, and the creation of new
+                training opportunities.
+
+                Conclusion
+
+                Preserving our country's tradition as a nation of laws and a nation of immigrants requires one
+                agency with clear, defined operational lines of authority and accountability. This new structure
+                will allow our Nation to better control its borders and provide improved service and benefits to
+                the immigrant community. The Administration's plan is a bold initiative to strengthen the INS's
+                capacity and ability to accomplish this critical mission.
+
+
+
+
+                April 2, 2010
+                C:\WORK\WP\IMMIGRAT\ANBENDER.6
+                8:00pm
+
+
+
+
+                                                               -6-
+
+

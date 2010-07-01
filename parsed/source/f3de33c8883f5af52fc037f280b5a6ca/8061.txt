@@ -1,0 +1,579 @@
+RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+CREATOR: Cecilia E. Rouse ( CN=Cecilia E. Rouse/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME: 9-JUN-1998 19:02:52.00
+
+SUBJECT:   Latest Draft of Poverty Memo
+
+TO: Joseph J. Minarik ( CN=Joseph J. Minarik/OU=OMB/O=EOP @ EOP [ OMB ] )
+READ: UNKNOWN
+
+TO: Sally Katzen ( CN=Sally Katzen/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=ElenaKagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Rebecca M. Blank ( CN=Rebecca M. Blank/OU=CEA/O=EOP @ EOP [ CEA]     )
+READ: UNKNOWN
+
+CC: Andrea Kane   ( CN=Andrea Kane/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP   [ WHO]    )
+READ: UNKNOWN
+
+CC: Paul Bugg (CN=Paul Bugg/OU=OMB/O=EOP @ EOP [ OMB ]    )
+READ: UNKNOWN
+
+CC: Shannon Mason ( CN=Shannon Mason/OU=OPD/O=EOP @ EOP   [ OPD ] )
+READ: UNKNOWN
+
+TEXT:
+Attached is the latest draft of the poverty memo. The main change is that
+the first three pages have been substantially re-cast in an effort to
+better structure the main issues for the Principals.   (We've also moved
+the placement of Tables 1 and 2.)   This attachment does not include the
+Guideline appendix which. will be sent under separate cover.  However, you
+may want to know that the new appendix does include a range of estimates
+on potential budgetary impact of using the new poverty measures.
+
+We would like to get this background memo to the Principals as soon as
+possible. Therefore, please send Ceci your comments by 3pm tomorrow; the
+full memo will be sent to the Principals at 5pm.
+
+-- Ceci and Paul==================== ATTACHMENT
+ATT.CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D82]MAIL46307506R.126 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043B2080000010A02010000000205000000C8920000000200OOOA708D48F35797F36D8BD3
+29E6B46BAOB557B499480AF33224376549819938EB4FFC5C5C833011DFDF2676E20883616903A5
+100A18F52CCD76B90D24785D34D1F31E22154067152DACFE76895D4F41202EDF29483DA03DBB1A
+87BFB3E0863781198ECOB830EOCB848BD7AB8E45D720FB363718D8131E835D8388C9F182CA6F22
+8C11BOAC84956B01A43ECFDODCEOEA8206378AF4F611B1BDC3287459DCEDFB6EAD94C659B3802C
+CF63A62E95E67BADC2B6E4E5CB89D0847FB435C49256D19088EF71D32EFC8210FC4B104FE07BC5
+90D4D7A618E7CF16E370D1FB7DB6AF51C518AF492BEFFDC38BA1558072CA8752A803E3F17EC9B8
+5C16718A95943CE13601235CEE943B4FB4EEE63E09503C721FE69218CBB40DODBCBCE5B6F64F8C
+                                                                         i lex-Dump Conversion
+
+
+                                                                         CLOSE HOLD. Page 1
+
+June 9,1998
+
+DRAFT BACKGROUND MEMORANDUM FOR EOP PRINCIPAL'S MEETING
+
+FROM:         Income and Poverty Measurement Working Group
+
+Subject:      Meeting on Income and Poverty Measures
+
+This cover memo outlines the main issues related to revising our income and poverty measures to
+be discussed at the Principals meeting, and the attached background paper explains the more
+technical issues. The background paper was prepared by a policy working group consisting of
+CEA, DPC, NEC, and OMB. (Among the agencies, only the Deputy Assistant SecretfU)' for
+Human Services Policy at HHS participated because of her expertise on poverty measurement.)
+
+Action Forcing Event and Purpose of the Meeting
+
+In early 1999, the Census Bureau will publish alternative measures of poverty based on the
+proposals contained in the 1995 National Research Council (NRC) report, Measuring Poverty: A
+New Approach. Census has asked for advice from the EOP on their proposed alternative
+measures (because OMB, through OIRA's Statistical Policy Office, is the statutory arbiter ofthe
+"official" poverty measurement methodology). It is important to emphasize that we are only
+being asked to advise the Bureau of the Census; what it actually publishes is its decision.
+
+There are four questions to be discussed at the meeting: 1) At what pace should the
+Administration proceed toward the adoption of a new official measure of poverty? 2) Should
+the Administration initially propose a preferred option or a range of alternatives? 3) Should the
+new measure be benchmarked to the most current poverty rate? 4) Ifhighlighting a preferred
+option is selected, what are the components of that preferred option? . In considering these
+questions, it is critical that the Principals note that, at this time, we do not have definitive
+analyses of the budgetary and programmatic impacts of NRC-based alternative measures of
+poverty. We are unlikely to have such analyses before the Census publishes its report.
+
+Background
+
+The current official poverty measure dates back to the 1960s. And, although this measure has
+been an important contributor to public debate and policymaking, the NRC report reflects a broad
+consensus that the measure is out-of-date and in need of revision.
+
+Poverty measurement involves two concepts: (1) a definition of family resources, and (2) a
+"threshold" against which resources are compared to determine if a family is poor. Changes in
+these two concepts will have a direct impact on statistics used by the public for informational and
+analytical purposes. Changes will likely have an effect on both Federal program budgets and
+participant eligibility as well.
+                                                                            Hex-pymp Conversion
+
+                                                                            CLOSE HOLD. Page 2
+
+As discussed in the technical background paper, the NRC's recommended new poverty measure
+has two important consequences for the poverty rate. First, it would increase the poverty rates of
+all groups. For example, as shown in Table 1, in 1996 the poverty level was 13.7% using the
+current measure; it would increase to 18% using the new measure .
+
+. Second, it would substantially alter the demographic composition of the poor as set out in Table
+  2. For example, the NRC measure nearly doubles the poverty rate among the elderly (from
+  10.8% to 20.4%), raising the rate to nearly that of children. Other groups with relatively large
+  increases are Whites and Hispanics, and married couples.
+
+It is important to keep in mind that the NRC panel cautioned that setting the level below which a
+family is considered poor is more of an art than a science. They therefore suggested a range of
+alternatives and left it to policymakers to determine the most appropriate levels.
+
+Issues for Consideration
+
+1. At What Pace Should the Administration Proceed Toward the Adoption of a New Official
+Measure of Poverty?
+
+The most important issue to be decided is whether the Administration should attempt to adopt a
+new official measure of poverty before the end of the second term. The advantage of acting
+during this Administration is that the second term of an Administration with a strong economy is
+an opportune time to make such a change. Also, the NAS made its recommendation three years
+ago and some might question our delay in implementation. On the other hand, by proceeding
+more cautiously, we would allow the community of users of poverty statistics to develop a better
+understanding of the pros and cons, both analytical and programmatic, of the various alternative
+measures. By establishing a more open process, we may also decrease the chance of a political
+backlash and of Congressional intervention. In addition, it will take at least another 4 years to
+develop fully the data needed to implement the NRC recommendations. Finally, selecting a
+preferred alternative measure and analyzing its programmatic and budgetary impacts is likely to
+be an iterative process that may take some time.
+
+2. Should the Administration Initially Propose a Preferred Option or a Range of Alternatives?
+
+Census' current plan is to publish a small number of alternatives. These would reflect the NAS
+recommendation and analytically interesting variations. (There will be extensive appendices in
+this report that will report a wide variety of different poverty definitions, to help demonstrate the
+statistical and analytical properties of the poverty measure recommended by the NRC.)
+
+We need to determine whether we will recommend that the Census Bureau select or highlight a
+single alternative poverty measure, or present several equally in its forthcoming report. The
+advantages of highlighting a single alternative measure is that it may be less confusing than
+publishing multiple alternatives, and if we are correct in our choice, it may be easier for it to be
+                                                                         Hex-Dump Com'~rsion
+                                                                          CLOSE HOLD. Page 3
+
+selected as the official poverty measure. In contrast, publishing a range of alternatives has many
+of the same advantages of proceeding cautiously in the adoption of a new official measure of
+poverty; that is, it would allow us more time to understand fully the analytical, programmatic,
+and budgetary implications of the different alternative measures, preserve the Administration's
+options to consider this issue further, and may be less likely to raise the ire of Congress.
+
+3. If Highlighting a Preferred Option is Selected, Should the New Measure Be Benchmarked to
+the Most Current Poverty Rate? (This is issue number 1 in the technical background paper.)
+
+If we select a single measure, we will need to decide whether to recommend that Census
+benchmark the new poverty measure to the old poverty rate in the current year (so that the
+number of people classified as poor would remain the same, although the distribution would
+change) or publish an NRC-like measure, which would result in a higher poverty rate (e.g., 18%
+rather than 13.7% in 1996). Some argue that benchmarking to the current poverty rate would
+diminish criticisms that the change is motivated by an effort to increase the estimated number of
+people living in poverty, and would also focus attention on the distribution of who is poor, rather
+than on how many people are poor. Others argue that since benchmarking to the current poverty
+rate does not follow the NRC recommendation (which would result in a higher poverty rate), it
+will be viewed as an effort to reduce artificially the estimated size of the poor population. Also,
+it could be argued that benchmarking alters the composition ofthe poor. For example, the Black
+poverty rate falls with benchmarking but rises with the NRC measure.
+
+4. If Highlighting a Preferred Option is Selected, What are the Components of that Preferred
+Option? .
+
+Issues relating to the choice of components are discussed in the technical background paper.
+They include: how the poverty rate should be updated over time; whether the poverty thresholds
+should be adjusted for geographic variation in the cost-of-living; and how to account for medical
+care expenditures. Of these, how to adjust for medical expenditures is the most controversial.
+At this time, the Census Bureau is prepared to account for differences in medical out~of-pocket
+(MOOP) expenditures among households in the way recommended by the NRC, namely,
+subtracting them from income before a family'S poverty status is calculated. However, there is
+also interest in having medical expenditures added to the poverty thresholds. (Which of these
+methodologies should be used is a technical choice best left to Census.)
+                                                                    Hex-Dump Conversion
+
+
+                                                                   CLOSE HOLD. Page 4
+
+Table 1. Poverty Rates and Thresholds under Alternative Measures, 1991-96, CPS
+
+                              Official     Benchmarked         NRC
+                              measure      to 1996             Experimental
+
+Poverty Rates
+       1991                    14.2          14.5                       18.9
+       1992                    14.8          15.3                       19.6
+       1993                    15.1          15.7                       20.2
+       1994                    14.6          14.7                       19.0
+       1995                    13.8                   13.8                       18.2
+       1996                    13.7          13.7                       18.0
+
+Thresholds for 2 adults
+and 2 children (in dollars)
+       1991                   13,812         11,891            13,891
+       1992                   14,228         12,249            14,309
+       1993                   14,654         12,616            14,738
+       1994                   15,029         12,938            15,115
+       1995                   15,455         13,305            15,543
+       1996                   15,911         13,698            16,002
+                                                                     Hex-Dump Conversion
+
+
+                                                                         CLOSE HOLD. Page 5
+
+                  Table 2. Poverty Rates under Alternative Measures, 1996, CPS
+
+                               Official          BenchmarkedNRC
+                               measure           to 1996          Experimental
+
+All persons                     13.7               13.7                    18.0
+
+. Children                     20.5                18.1                    23.8
+  Nonelderlyadults             11.4                11.5                    15.0
+  Elderly               10.8              15.6                    20.4
+
+White                          11.2                11.8                    15.6
+Black                          28.4                25.2                    32.0
+Hispanic origin                29.4                28.5                    37.7
+
+One or more workers              9.5               10.0                    13.6
+
+Persons in family of type:
+       Married couple            6.9                 7.8                   11.1
+       Female householder      35.8                32.3                    40.4
+
+Geographic regions:
+      Northeast                 12.7               14.3                    18.8
+      Midwest                   10.7               10.3                    13.8
+      South                     15.1               14.2                    18.3
+      West                      15.4               16.1                    21.0
+
+Metropolitan/Central City       19.6               19.2                    24.7
+Not Central City                  9.4              10.6                    14.1
+Nonmetropolitan                 15.9               13.5                    17.5
+                                                                        Hex-Dump Conversion
+
+                                                                          CLOSE HOLD. Page 6
+
+       TECHNICAL BACKGROUND ON INCOME AND POVERTY MEASURES
+
+
+The Current Poverty Measure
+
+The methodology by which current poverty thresholds are determined was developed in the early
+1960s by Mollie Orshansky, a staff economist at the Social Security Administration. She
+developed a set of poverty thresholds that vary with the number of adults, the number of children,
+and the age of the family head. These thresholds represent the cost of a minimum diet
+multiplied by 3 to allow for nonfood expenditures. The multiplier of 3 was chosen because the
+average family in 1955 spent one-third of its after-tax income on food. Since the late 1960s, the
+thresholds have been updated annually with the CPI to adjust for price inflation. Thus, the
+definition of poverty has remained virtually unchanged for 35 years, despite substantial changes
+in family behavior and government policy.
+
+The NRC panel identified several weaknesses in the current poverty measure:
+
+·      The current poverty measure takes no account of changes in taxes (e.g., the expansion of
+       the EITC) or in-kind benefits (e.g., Food Stamps).
+
+·      The current measure does not distinguish between the needs of working and nonworking
+       families. In particular, it does not reflect the cost of child care and other work expenses
+       for working low-income families.
+
+·      The current poverty measure takes no explicit account of medical care costs, which vary
+       significantly across families and have increased substantially since the current poverty
+       measure was developed.
+
+The NRC Recommendations
+
+In order to understand the NRC panel's recommended revisions, one must understand the basics
+of determining poverty. A family is considered poor when its resources fall below a
+predetermined poverty line or threshold. Therefore, one must develop a methodology for
+estimating family resources and for defining the threshold resource level below which a family is
+considered poor.
+
+1.     Defining Family Resources
+
+Under the current poverty calculation, the definition of family resources is cash income. The
+NRC recommendations would estimate family resources as:
+
+Family resources             Cash income + Near-money in-kind benefits - Taxes - Child care
+                             costs - Work expenses - Child support payments - Out of pocket
+                                                                        Hex-Dump Conversion
+
+                                                                          CLOSE HOLD. Page 7
+
+                              medical care expenditures (including health insurance premiums)
+
+The rationale for subtracting taxes, work, and medical expenses from family resources is that
+these expenditures are typically not discretionary and reduce the family income available to
+achieve a basic quality of life.
+
+There is near consensus among researchers that adjusting for near-money in-kind benefits
+(primarily Food Stamps and housing subsidies) and taxes would be an improvement in how
+poverty is measured. There is slightly less agreement on whether child care costs, work
+expen~es, and child support payments should also be deducted because an unknown proportion
+of these expenses is likely discretionary. (The NRC proposes to cap the amount of child care
+and work expenses that can be subtracted to deal with this problem.) As discussed below, the
+adjustment for out-of-pocket medical care expenditures is more controversial.
+
+2.     Defining a Poverty Threshold
+
+A threshold must be determined against which to compare a family's resources. The NRC panel
+ recommends basing the threshold on expenditures on "necessities" (food, shelter, and clothing)
+plus a little more. Specifically, the NRC panel recommends selecting the 30th to 35th percentile
+in the distribution of annual expenditures on food, shelter, and clothing among families of four
+(two adults and two children), and then mUltiplying this expenditure level by between 1.15 and
+1.25. Thresholds for other family sizes and types would be determined by an equivalency scale
+calculation.
+
+The NRC recommends adjusting these thresholds to take into account geographic variation in
+cost of living, based on differences in housing costs by region and by city-size. It also
+recommends adjusting the thresholds over time by recalculating them from expenditure data on
+an annual basis.
+
+
+                                    TECHNICAL ISSUES
+
+1. Determining the level of the poverty threshold.
+
+The NRC panel acknowledges that the actual level at which the poverty threshold is set (and
+hence the final poverty rate) is inherently arbitrary and cannot be determined on the basis of
+purely statistical judgements. There are two primary options:
+
+A. The NRC alternative. As described above, the NRC panel recommends establishing a
+threshold based on the 30th-35th percentile in the distribution of annual expenditures for a family
+offour, with a small multiplier to account for additional small personal expenditures. As shown
+in Tables 1 and 2, column 3, this would raise the 1996 poverty rate from 13.7% to 18%, and
+increase poverty among all subgroups. In addition, (as described further in Option B) this
+                                                                              Hex-Dump Conversion
+
+                                                                                CLOSE HOLD. Page 8
+
+    change will alter the composition of poverty by changing the poverty rate among subgroups.
+
+    B. Benchmarking. The NRC panel also considered poverty estimates that benchmark the
+    alternative poverty rate to equal the old poverty rate in a given year. The Census Bureau has
+    done a number of such benchmarked calculations for 1996, as shown in Tables 1 and 2, column
+    2. (The report issued early next year could benchmark to 1997.) Benchmarking would assure
+    that the aggregate poverty rate is identical for the official and the alternative measure in the'
+    benchmark year. But the distribution of poverty among subgroups within each measure would
+    differ (see Table 2). In general, working families and families with large out-of-pocket medical
+    expenses become poorer and nonworking families with substantial in-kind benefits become less
+I   poor. This has geographic as well as subgroup poverty rate implications. Similarly, both
+    historical and future trends would differ. For instance, the alternative measure is identical in
+    1996 but higher in 1991. (The faster fall using the alternative measure is largely due to the
+    expansion in the EITC.)
+
+    Pros of using the NRC measure:
+    ·      Incorporates the recommendations of the NRC panel, based on their professional
+          judgement from the best available evidence.
+
+    ·      Generates dollar threshold levels that are quite similar to the current dollar thresholds
+           (although the resources to which the thresholds would be compared are.quite different).
+
+    Cons of using the NRC Measure:
+    ·     Results in a higher poverty rate (although the trends over time are similar.)
+
+
+    Pros of Benchmarking:
+    ·      May provide an easier transition to the new methodology because there will not be a
+           change in the overall level of poverty. Critics, of course, will still charge that this level
+           is arbitrary.
+
+    ·      Focuses the arguments on the relative distribution of who is poor rather than how many
+           people are poor.
+
+    Cons ofBenchmarking:
+    ·     Violates the NRC recommendation that the threshold should be based on the 30th-35th
+          percentile in the expenditure distribution. In order to benchmark, the threshold falls to
+          (about) the 25th percentile of expenditures on food, shelter, and clothing.
+
+
+    2. Updating the thresholds over time
+
+    Currently the poverty threshold is updated annually using the CPI_U. This, however, does not
+                                                                       Hex-Dump Conversion .
+
+
+                                                                         CLOSE HOLD. Page 9
+
+allow for adjustments that reflect changes in underlying consumption patterns that might affect
+the revised thresholds. For instance, food prices have decreased relative to other goods over
+time, while housing prices have increased. There are two options:
+
+(A) Recalculate the thresholds annually as a share of consumption on food, shelter, and clothing.
+(This is recommended by the NRC panel.)
+
+(B) Update the thresholds on a year-to-year basis using a price index (preferably one based only
+on food, shelter and clothing). Implement a regular process (every 5-10 years) of reviewing the
+poverty measure and recalculating the thresholds.
+
+Pros ofRe-calculating the Thresholds:
+·      Regular recalculation will allow the poverty thresholds to reflect more accurately changes
+       in consumption patterns and standards ofliving.
+                                            ,
+·      Without an expectation that the thresholds will be re-calculated regularly, it may be hard
+       to update them at all.
+
+Cons ofRe-calculating the Thresholds:
+·     Under certain data circumstances, recalculation could move the threshold a large amount
+      or in an unexpected direction. This might raise substantive and political concerns.
+
+
+Pros of Updating Using the CPI:
+·      Using the NRC methodology, the poverty thresholds are somewhat relative (i.e., they are
+       affected by changes in the distribution of household expenditures.) As a result, they are
+       a moving target and do not provide an absolute standard of need. A CPI adjustment
+       would make it easier to compare poverty from year-to-year against a constant standard.
+
+·      Because consumption patterns and standards of living change slowly, it may be better to
+       take them into account periodically rather than annually.
+
+·      An update with a CPI for necessities only (food, clothing, and shelter) may capture most
+       of the relevant changes and would make it easier in the short run to understand the
+       updating procedure.
+
+·      The data may not be good enough for an annual re-calculation of the thresholds .
+
+. Cons of Updating Using the CPI:
+  ·     Does not follow the NRC recommendations.
+
+·      Needs to be supplemented by a periodic updating and recalculation process that could
+       prove difficult to implement.
+                                                                            Hex-Dump Conversion
+                                                                         CLOSE HOLD. Page lO
+
+
+NOTE: The EOP Policy Working Group recommends Option (8).
+
+
+3. Should thresholds be adjusted for geographic variation.
+
+The NRC panel recommended adjusting the poverty thresholds for cost-of-living differences
+across regions and by city size. Following the NRC recommendation, the Census Bureau
+proposes to make such adjustments based on housing cost differences (which have much greater
+regional/city size variation than food or clothing.)
+
+Pros ofAdjusting for Geographic Variation in Cost ofLiving:
+·      Most statisticians and economists agree that such adjustments should be made if data are
+       available.
+
+·        The Administrative poverty guidelines that currently exist are already adjusted for Alaska
+         and Hawaii.
+
+Cons ofAdjusting for Geographic Variation in Cost ofLiving:
+·     There is no one "right" way to make such adjustments and the issue could be highly·
+      politicized.
+
+·        The data available to make such adjustments are limited and may not be entirely reliable.
+
+·        Implementing such an adjustment in the poverty line threshold could lead to pressure to
+         provide regional cost adjustments in a wide variety of other government programs, from
+         Social Security benefits to tax payments.
+
+
+NOTE: The EOP Policy Working Group recommends against geographic price adjustments.
+
+
+    4. How to account for medical care expenditures.
+
+Since the mid-l970s, analysts have been concerned that the official poverty rate overstates the
+extent of poverty among beneficiaries of Medicare, Medicaid, and private health insurance. At
+the same time, the official poverty rate may understate the extent of poverty among populations
+with large medical expenditures. Most analysts agree that, in principle, medical care "needs"
+should be incorporated into the calculations of the threshold and family resources (i.e., families
+with higher medIcal needs should have higher thresholds; those with more generous medical
+benefits should be considered to have more resources; and those who must spend more to
+achieve "good health" should have those expenses subtracted from their resources). However
+we cannot observe a family's medical need. In addition, it is not clear that one can simply
+                                                                                   Hex-Dump Conversion
+
+
+                                                                               CLOSE HOLD. Page 11
+
+     impute the cash value of insurance benefits and add this to income; the "extra" benefits received
+     from insurance to cover expensive medical services do not provide income that can be used for
+     any other purpose.
+
+     To understand the difficulties, consider including medical benefits into the income calculations.
+     Adding medical benefits to income, without also adjusting the poverty threshold, has the perverse
+     effect of making sicker individuals appear better off. Other proposals to adjust the poverty
+     threshold (without also adjusting resources) run into similar problems.
+
+     In the end, the NRC panel recommended subtracting all medical out-of-pocket (MOOP)
+     expenses (including health insurance premiums) from income, without trying to value health
+     insurance as a part of income or medical need as a part of the thresholds. Hence, family
+     resources are measured net ofMOOP. Those individuals with good insurance will have few
+     out- of-pocket medical expenses; those without insurance who face health problems will have
+     lower measured incomes as they pay more for medical care.
+
+     This adjustment accounts for the larger poverty rates using the NRC methodology. For example,
+     in 1996 the poverty rate was 13.7% using the current methodology; it would have been 18%
+     using the NRC methodology, but only 13.2% using the NRC methodology without the medical
+     expenses adjustment. This adjustment nearly doubles the poverty rate for the elderly, raising it
+     almost to the rate for children. This adjustment is one of the most controversial of the NRC
+     recommendations.
+
+     There is general agreement that ignoring medical care and medical expenses entirely is not a
+     good idea, particularly given the rapid increase in medical costs in the past 30 years, the extent of
+     uninsurance among the low-income population, and this Administration's concern with it. In
+     addition, if we do not adjust for medical care (in some way) now, it may be much harder to do so
+     in a few years when we will have better data (because the change will be so dramatic it will be
+     viewed as another big methodology change).
+
+     There are three approaches to incorporating medical care and expenses:
+
+     (A) Follow the NRC recommendation and subtract MOOP from family resources. This makes
+     families with unreimbursed medical expenses less well-off than other families.
+
+     (B) MOOP could be added to the thresholds rather than subtracted from resources. (The choice
+     between options (A) and (B) is a technical decision that Census should address.)
+
+     (C) Try to impute the value of health insurance to resources, so those with insurance have higher
+     resources. Health insurance should then also be imputed into the thresholds.       .
+
+     Pros ofAdjustingfor MOOP (either options (A) or (B}):
+     ·      While not perfect, under the NRC recommended adjustment families with higher
+                                                                            Hex-Dump Conversicn
+
+                                                                            CLOSE HOLD. Page 12
+
+           unreimbursed medical expenditures will be "poorer." The NRC recommended
+           adjustment would also be sensitive to changes in health care financing that would
+           decrease MOOP and thereby increase disposable income and reduce poverty.
+
+    Cons ofAdjustingfor MOOP (either options (A) or (B)):
+    ·     The data that are currently available are out-of-date (but we should have updated
+          information available in a more timely fashion within another year.)
+
+    ·      The NRC recommended approach relies on the controversial assumption that all medical
+           care expenditures are nondiscretionary. (This concern could be mitigated to some extent
+           by imposing a cap on the amount of medical expenses.)
+
+
+    Pros ofImputing the Value ofHealth Insurance into Resources and Thresholds:
+    ·      Provides a more complete accounting of all medical resources available to a family.
+
+    Cons ofImputing the Value ofHealth Insurance into Resources and Thresholds:
+    ·     There is no accepted "correct" way to do this. The data here are probably more
+          unreliable thaI) the data needed to impute the value of MOOP to families.
+
+    ·      Many analysts agree with the NRC panel that the value of health insurance is quite
+           different from (say) the value offood stamps, which are far more fungible. Mixing in
+           health insurance coverage with economic need causes interpretational and conceptual
+         . problems to a measure of economic need.
+
+    ·      To date, Census has been following the NRC recommendation. Ifwe asked them to
+           switch to this approach, it might require substantial additional work and seriously delay
+           their report.
+
+    NOTE: The EOP Policy Working Group recommends that Census incomorate medical care in
+    some way and recognizes that the Census Bureau of prepared for option (A). However, the
+    grOUP strongly recommends that Census thoroughly investigate the impact of option (B), and
+    continue work on other approaches to incomorating medical care and expenditures, such as by
+    valuing medical health insurance (option (C»).
+EMAILS RECEIVED
+ARMS - BOX 031 - FOLDER -012
+
+
+[06/09/1998] [2]

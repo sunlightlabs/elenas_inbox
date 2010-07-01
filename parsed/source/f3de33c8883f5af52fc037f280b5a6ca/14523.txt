@@ -1,0 +1,139 @@
+ RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+ CREATOR: Eli G. Attie ( CN=Eli G. Attie/OU=WHO/O=EOP [ WHO ] )
+
+ CREATION DATE/TIME:31-JAN-1997 19:01:16.00
+
+ SUBJECT:
+
+ TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPO ]   )
+ READ: UNKNOWN
+
+ TEXT:
+ revised ... ==================== ATTACHMENT   1 ====================
+ ATT CREATION TIME/DATE:     0 00:00:00.00
+
+ TEXT:
+ Unable to convert ARMS_EXT: [ATTACH.D52]MAIL482586034.016 to ASCII,
+  The following is a HEX DUMP:
+
+ FF57504318050000010A020100000002050000001D1B0000000200008216ECDB202834B79CE59C
+ BF763063FFD86A6211B456F8D4AD81DCE656F21A909845E4D029F9128026586C47E979E41COBAF
+ 54BB10726B5EB7746D6596BF63FAD3E3C8BBED21B3C4AF7380258DC326CAAAD6725C50407BC27B
+ C872B5D8064A4DE700A22EB18A332372335E659C64DAA24E87E51A92FDB108BBFF17382A33996F
+ 29BFE7C2A4912554205261F5036399CBF6A7B8058CA5FE2EAAE943B731FAF0392C9E1F571428EO
+ A873644D10851418910C9798AA61003BCCDB91439DE7D89352E8ABD8BF451C73FA19A420C237F5
+ 90C16C625A1A7F10D833D001892E3CBC47DD231A05ACFA5B1B590EE21EC7D215ACF08070E1C233
+ OBE57B8E49B19A354BF57AC0699957D9D3C2AD5CFE3FC33EC04DAB768D2E4D6FACCD8023BB4B04
+ C93B4BBF663233E223BF67E686458578D5124FC32499508EEE6E18308DA22338C949B8EA647E2B
+ 856E63CF1399281A47854EC3B40F8C03BCA6E006E776137133301A5079BDECD32530CAA83991F1
+ EOA2DDF383A8EF2C9AF9699996A2CB6D36CCBF5B3C84721EB1CFA9E7AA89AA57F14AF3A90E4224
+ 8BA319BF80A5A07DFF97B7ABD35C1C6012F84427AF94D7906A5001902E9FD7AA8FF200AOCE3900
+ 9D738E780949E5FOCE6141EA02AF88BD6FF267B374C5642CE10EFF16E186D2AAA72F97C8327D4A
+ 296B249BFC02000C00000000000000000000000823010000000B010000A8020000005505000000
+ 4EOOOOOOB303000009250100000006000000010400000B30020000002800000007040000087701
+ 000000400000002F040000083401000000140000006F0400000802010000000F00000083040000
+ 0805010000000800000092040000081D01000000000000009A0400000055030000003C0000009A
+ 04000000550100000042000000D604000000984C004F00430041004COOOOOOOOOOOOOOOOOOOOOO
+ 000000000000000000000000000000000000000000000000000000000000000000000000000000
+ 00000000000000000000000000000057494E53504F4F4COOOOOOOO00C800C8002C012C012C012C
+ 01C800C80030000000000000000000000000000000000000000000000000000000000000000000
+ 000000000000000000000000000000000000000000000000000000000000000000000000000000
+ 000000000000000000000000000000000000000000000000000000000000000000000000000000
+ 000000000000000000000000000000000000000000000000000000000000000000000000000000
+ 000000000000000B0100002800D61EC30F3908000011090000005A000B01008B14360054006900
+ 6D006500730020004E0065007700200052006F006D0061006E00200052006500670075006C0061
+ 007200000000000000000001000200580201000000040028000000000000000000000000000000
+ 00000000011202002400A1000000A10000000AOOOOOOAC0201000200AD0201004400AE02010002
+ 00AF0201004400B10201004500B20201000200B30201004400B40201000200B50201000200B602
+ 010044005A5458210000000000000925010000000600000008337C00780000020000B602000003
+ 01000400020000001BOOF41A5C121A0900000000000000600018110000102400540069006D0065
+ 00730020004E0065007700000052006F006D0061006EOOOOOOOOOO00001COOF41A5C121A090000
+ 1109000000600018110000102A00540069006D006500730020004E0065007700200052006F006D
+ 0061006E00000000000000540054000000DDOA10008301040003000200211000DDDDOBOB000300
+ 00040BOODDD41A1F0087010A0008005802F62100005802000058020200580200001FOOD4D30454
+ 0000400001DC0514003408008COAOOE40C003COF00941100EC13004416009C1800F41A004C1DOO
+ A41FOOFC2100542400AC26000429005C2BOOB42DOOOC3000643200BC3401B004020000009C5802
+ 5400D3D3050C0000010002000COOD3D3050C0007010000020COOD3647261667480312F333180F1
+ 00B102F136F101B102F1F102B202F137F103B202F1706DF20CF2DO041500000B00090001B00400
+ 00000001201500DOD305100006010002009A0000001000D3505245534944454E549B8057494C4C
+ 49414D804A2E80434C494E544F4ECC524144494F8041444452455353804F4E8046414D494C5980
+                                Automated Records Management System
+                                Hex-Dump Conversion
+
+    draft 1/31 7pm
+                              PRESIDENT WILLIAM J. CLINTON
+                             RADIO ADDRESS ON FAMILY LEAVE
+                                  Saturday,Februaryl,1997
+
+           Good morning. As a parent, I know how important it is to take responsibility for
+    our children when they need us most -- when they are sick, when they need to go to the
+    doctor, or when there is a parent-teacher conference at school. Fortunately, Hillary and I
+    have never had to risk our jobs to be there for our daughter. We have never had to make
+    the choice between being good parents and good workers. Today, I want to talk with you
+    about what we have done, and what more we must do, to give that same assurance to every
+    American family.
+
+           One of the things that I most wanted to do when I became President was to help
+    parents succeed both at home and at work. That is why I was so proud to make the
+    Family and Medical Leave Act the first bill I signed as President, exactly four years ago
+    this Wednesday.
+
+           Family and Medical Leave allows people in companies with 50 or more employees to
+    take up to 12 weeks of unpaid leave -- to care for a newborn or newly-adopted child, or to
+    be with a family member who is seriously ill, without fear of losing their job.
+
+           Today, over half of all American workers share this important benefit. People like
+    Christie Sens, a first grade teacher from Fairfax, Virginia who is here with me today.
+    Christie was among the first Americans to make use of the new Family Leave law in 1993,
+    when she and her husband were expecting their first child. Christie thought she would be
+    forced to choose between the six weeks her school allowed for new mothers, or taking a
+    whole year off without pay. Because of our new law, she was able to spend 12 full weeks
+    at home -- recovering from her pregnancy, and spending precious time with her new
+    daughter. Christie used the benefit again in 1995 for the birth of her second child.
+
+            Family leave is not only family friendly -- it is employer friendly as well. Also with
+    me today is Stan Sorrell, President and CEO of the Calvert Group, an investment firm in
+    Bethesda, Maryland, and two of his employees who have used Family Leave. The Calvert
+    Group started a Family and Medical Leave program three years before it became the law
+    of the land. Like almost 90 percent of businesses covered by the law, they found that
+    Family Leave is easy to administer, and costs them little or nothing. So we know it is
+    working for both families and businesses. After all, in these past four years, American
+    business created 11.2 million new jobs - more than any four-year term in our history.
+
+            We must make it even easier for parents to take responsibility, and live up to their
+    obligations to their children and their employers. Today, I call on Congress to expand the
+    Family Leave Law, to give parents an additional 24 hours of unpaid leave each year -- to take a
+    child or an elderly relative to a regular doctor's appointment, or to attend parent-teacher
+    conferences at school. In doing so, we will make our families stronger and our workers
+                           Automated Records Management System
+                           Hex-Dump Conversion
+
+     more productive -- building the kind of country and economy we all want for our children.
+
+            We must also address the fact that too many workers still do not know about the
+     Family Leave law. That is why I am pleased to announce that we are launching a
+     mnlti-media public education campaign, to spread the word about Family Leave; to make
+     sure employers and employees have the facts; and to make sure everyone knows how to
+     make this law work for them. It's not enough to help people have the tools to succeed; we
+     must make sure they know what those tools are. The centerpiece of this campaign is a new
+     800 number that any American can call to learn about Family and Medical Leave:
+     1-800-959-FMLA. You can also get information through our Labor Department's website
+     on the Internet: WWW.DOL.GOV.
+
+            By expanding Family Leave to cover children's doctor's visits and parent-teacher
+     conferences -- by helping more Americans learn about the opportunity of Family Leave -
+     we will enable millions more Americans to meet their responsibilities, both at home and at
+     work. That is how we must prepare our people for a new century, full of new promise and
+     possibility.
+
+             As parents, teachers, and business people; as members of the workforce and
+     members of our communities - we all share a stake in the strength of our families. Our
+     society can never be stronger than the children we raise, or the families in which we raise
+     them.. That is why Family Leave is more than a single issue or accomplishment. It is at
+     the heart of our approach to preparing America for the 21st Century, by ensuring that we
+     can all meet our obligations, and make the most of the gifts that God gave us.
+
+            Thanks for listening.
+
+

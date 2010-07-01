@@ -1,0 +1,43 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Julie A. Fernandes ( CN=Julie A. Fernandes/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME:30-DEC-1998 11:12:31.00
+
+SUBJECT:   additional q&a
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO]    )
+READ: UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D38]MAIL45894536T.326 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504370040000010A02010000000205000000EB090000000200006EB392E9B95FBC384E35B6
+E5AB9E6910513F1Cl1702C1E2733834310B1EE3155E13EFFEOA1615BB35BDD9EFDEAAOFEA74C3F
+                                                                 Hex-Dump Conversion
+
+
+
+Q:   What is today's announcement with regard to Central America?
+
+A:   Last November, in the wake of the devastation caused by Hurricane Mitch in much of
+     Central America, the Attorney General temporarily stayed the removal of nationals in the
+     U.S. from Honduras, Nicaragua, EI Salvador, and Guatemala. This stay is set to expire
+     on January 7, 1999.
+
+     After consultation with the Department of State, the Attorney General has decided to
+     designate Honduras and Nicaragua for Temporary Protected Status (TPS) for a period of
+     18 months. This action will permit nationals from Honduras and Nicaragua to remain in
+     the U.S. and receive work authorization during this period. The Attorney General has
+     also decided to extend the stay of removals of El Salvadorans and Guatemalans for 60
+     days.
+
+

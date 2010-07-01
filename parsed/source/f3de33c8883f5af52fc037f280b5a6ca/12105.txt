@@ -1,0 +1,56 @@
+            RECORD TYPE: PRESIDENTIAL     (NOTES MAIL)
+
+            CREATOR: Mary L. Smith ( CN=Mary L. Smith/OU=OPD/O=EOP [ OPD ] )
+
+            CREATION DATE/TIME: 5-APR-1999 11:3B:13.00
+
+            SUBJECT:   New Q&A on hate crimes
+
+            TO: Elena Kagan     CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+            READ: UNKNOWN
+
+            CC: Laura Emmett    ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO]   )
+            READ:UNKNOWN
+
+            TEXT:
+            Here is a new Q&A for the press office today which says that we don't
+            comment on pending trials, but also lists what the Administration has done
+            on hate crimes.  Let me know if you need anything else.  Thanks, Mary =============
+            ATT CREATION TIME/DATE:   0 00:00:00.00
+
+            TEXT:
+            Unable to convert ARMS_EXT: [ATTACH.D7]MAIL41197760N.136 to ASCII,
+             The following is a HEX DUMP:
+
+            FF57504370040000010A020100000002050000007EOA000000020000A40F996E5C75630A98F669
+            FA7FD7739B2BDB975825F2042732B91428B53B46031256EB7AC4220012B1DDD4261110E888A12F
+            97053720EB5BBFE599E56FA8CABFD4CB2F6B8859090561E765665EBB67AE87A2BFF8FC121AC299
+            49E35B387329E1ACB71EE33911DB5579181A276092CFF7B4326EFB25102F92F4B6710F7FEB8AD7
+            51544064AC99893083C66129DC189101A42B143B12F6F201F5A72CB25037FA150AEA6326CB8EIA
+            AOC83E2C54C5ABB7AF73B4CE83E5735BB7BBB44DC7FBA5AE4C6C4AO8F9A692E4626E4D47AIB431
+            2EIC12F697147BC297824F4A4BOE20BE1325B1E936179E4C8A2ABCA25AF5F219639F749AF3593E
+            F2DB69B44BA02AIF30FE0993A3D49CBFEB7E64C9D8CB437A510749C83CF6F7FFBB64AEIB65A859
+            B4CC29A981A30B29A403C4AA3A654254873ECD9CF5323BAC79111AEOFA77250C1CBC7094251DAD
+            C49BBB2C7020CE8073925295A933FCB5AE70B90CB2C5BBBCC7B167OD890B2EBOB4B4DOA2CCDF92
+                                                                        Automated Records Management System
+                                                                                Hex-Dump Conversion
+                                         Hate Crime Q&A
+                                           April 5, 1999
+
+     Q:   What about the article in the Washington Post today about the Matthew Shepard
+          trial?
+
+     A:   The Administration does not comment on pending trials. However, the Clinton
+          Administration has taken a number of steps to combat hate crimes. In November 1997,
+          the President held the first-ever White House Conference on Hate Crimes where he
+          announced several initiatives to ensure effective law enforcement, including the creation
+          of working groups in every U.S. Attorney's district in the country to improve
+          coordination among local, state, and federal prosecutors; the addition of new FBI agents
+          and prosecutors to work on enforcement of hate crimes laws; and the development of
+          model curriculum for training law enforcement officers to deal with hate crimes. Since
+          the conference, the Administration has issued publications such as "Preventing Youth
+          Hate Crime: A Manual for Schools and Communities" and "Protecting Students from
+          Harassment and Hate Crime." In his FY2000 budget, the President has requested
+          approximately $34 million for hate crimes enforcement.
+
+

@@ -1,0 +1,64 @@
+RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+CREATOR: Andrea Kane ( CN=Andrea Kane/OU=OPD/O=EOP [ OPD ) )
+
+CREATION DATE/TIME: 4-SEP-1998 18:55:37.00
+
+SUBJECT:   Welfare Caseload Trends
+
+TO: Elena Kagan     CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ) )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ) )
+READ: UNKNOWN
+
+CC: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP @ EOP [ OPD ) )
+READ:UNKNOWN
+
+TEXT:
+Bruce, re: your question about USA Today statement that downward trend in
+caseloads is slowing , it looks like Rich Wolf used absolute numbers and
+therefore his conclusion is WRONG.  In fact, as the attached analysis
+shows, the rate of decline has held steady: case loads declined by 6%
+between March 97 and June 97, and also declined by 6% between March 98 and
+June 98 (depending on how many decimals you use, the rate of decline has
+actually picked up slightly). On a national basis, the rate of caseload
+decline -- both from month to month and year to year -- has held roughly
+steady over the past year.  It appears that the slowing rates of decline
+in some states (mostly small and medium) must be offset by increasing
+rates of decline in other states.  Becky Blank has agreed to have CEA
+staff do some more detailed analysis of state by state trends.
+
+
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D82)MAIL48849374P.226 to ASCII,
+ The following is a HEX DUMP:
+
+00001A0002100400000000002100000513002000010AOOOOOOOOOO0000001F0008000000013000
+0021001F00080000010130020019001F0008000002013002001EOO1F0008000003013002001EOO
+1F00080000040130020019001F00080000050130020019000300060001000000010004001C0001
+0101000000061645040400B72COE0001000000FAF2991607266AOO050010000000073707000300
+
+
+
+      Clinton Presidential Records
+    Automated Records Managemen t
+            System [EMAIL]
+     This is not a presidential record. This is used as an
+  administrative marker by the William J. Clinton Presidential
+                         Librarv Staff.
+
+
+
+Hex Dump file is not in a recognizable format, has been incorrectly
+                      decoded or is damaged.
+
+
+
+
+Attachment Number: [ATTACH.D82]MAIL48849374P.226 to ASCII
+
+

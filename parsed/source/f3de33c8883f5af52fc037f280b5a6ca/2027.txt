@@ -1,0 +1,110 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Leanne A. Shimabukuro ( CN=Leanne A. Shimabukuro/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME:28-APR-1997 18:44:34.00
+
+SUBJECT:   the revised crack one-pager
+
+TO: Michelle Crisci   CN=Michelle Crisci/OU=WHO/O=EOP @ EOP [ WHO]    )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD]   )
+READ: UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D97]MAIL44757671U.116 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504370040000010A020100000002050000007B13000000020000AOACEABBEBDDB5522EB779
+44DFEF865911F947EFCC8FE756CB0395D8570CDA701AD3EBBB506AC780173777FB52E717D19873
+9B51D6170BE2D7A3A706D200C628788AECB3D8807F7E8D8D68170B5DA8A71774D73636215E329B
+780168795336CA2E8E46035ECD2C807834EB263B4BB1873F4E4B7EABAE44C69BD980DC5B399FC8
+D9DBA634D2F7AA3D1B1F6596DF783C5D65B79FBDOCE138E1F5E63EDB20B51704E443E5DB4AACD8
+DA8517A238AEA200B694C9E1A79BB134438D87DC1682484CD065FA1D9EOA8857306E11F962E514
+2719BBF25474157CA268BC5A760F53DA83DD868733303F73A1CD5532B4702462AC04D796278A66
+E9B283429D1DB4EAB10B1B03FD224E5C8A64D9AA06FFD699EC159A47306A9BFF8A787E4DF19E3A
+1096B40866A56CB539FDD6BF9F9EA726E95719DF2C5E5E1378A33C24BEA54EB121380D01088CBC
+C27313A496018DE1747A21F9456CAD30541C88A4E7FD52419532EBOC6A295AD482FF187D06271C
+D0440EE42A4E98F03841F25AD6FD82C40601AD7CD990A7EE7BA43338OC66D783704A5B3FA241C5
+BB44DFFD9B93DFD347A631FEF35002928360A8101E27B053C1FBF6380F4C1EAE8735CF96696DFA
+14427C404F85F63D4B31FC25B48BFAFE14866F2D6ED1F987B40660E4859267E4D6CCB09B9DC5CB
+851E2C4FE502000900000000000000000000000823010000000B0100007E020000005503000000
+4E0000008903000009250100000006000000D70300000B300200000028000000DD030000087701
+000000400000000504000008340100000014000000450400000802010000000F00000059040000
+080501000000080000006804000000984800500020004C0061007300650072006A006500740020
+003500000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000057494E53504F4F4COOOOOOOOOOC800C8002C012C012C012C01C800
+C80030000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000BOI00002800D61EC30F3908000011090000005AOOOB01008B143600540069006D0065
+00730020004E0065007700200052006F006D0061006E00200052006500670075006C0061007200
+000000000000000001000200580201000000040028000000000000000000000000000000000000
+00011202002400A1000000A10000000AOOOOOOB60A01004500B70A02000200B80A01004500B90A
+02000200BAOA01004500BBOA01000200BCOA01004400BDOA01004400BEOA01001700BFOA010055
+00B7A4B922000000000000000000000000000000000B337C007BOO00020000BFOA000003010004
+0002000000DDOA1000B301040003000200211000DDDDOBOB00030000040BOODDF102ADOAF19BF1
+03ADOAF1F100ADOAF19BF101ADOAF1F102ADOAF1F103ADOAF1D1010EOOO00200C003B0040EOOD1
+D3050C0007010002000COOD3F20CF2F20EF2D41B1FOOB70102000800BC02DC7E0200BC0200005B
+0202005B0200001FOOD4552E532EB053656E74656E63696E6780436F6D6D697373696F6EB05265
+706F7274B06F6E80437261636B80436F6361696E65D41B2300860102000B005802B61E00005B02
+0200BC020200BC02DC7E5B0000002300D4F30EF3F30CF3D0041500000B00090001B00400000000
+01201500DOD30510000601000002490000001000D3F20CF2E0401200000000911191112300EC13
+1200E0417072696C8032392C8031393937B8D0041500000B00090001BE050E01010001201500DO
+F30CF3CCF20EF2F20CF2416E6E6F756E63656D656E74F30CF3F30EF3D0041500000B0009000196
+                                                                           Hex-Dump Conversion
+
+              u.s. Sentencing Commission Report on Crack Cocaine
+                                        April 29, 1997
+
+Announcement
+·    Today, the President released a statement commending the U.S. Sentencing Commission
+     for moving forward with recommendations to reduce the disparity between crack and
+     powder cocaine penalties. The President directed Director McCaffrey and Attorney
+     General Reno to review the Sentencing Commission's specific recommendations and
+     report back to him in 45 days.
+
+Background
+·     Current federal law requires a 5-year mandatory sentence for 500 grams of powder
+      cocaine, but imposes the same sentence for only 5 grams of crack cocaine -- a 100 to 1
+      ratio.
+
+.·     The 1994 Crime Bill directed the Sentencing Commission to issue a report and
+       recommendations on cocaine and federal sentencing policy. On May 1, 1995 the
+       Commission sent to Congress proposed sentencing changes to equalize penalties at the
+       powder cocaine level -- substantially reducing the penalties for crack cocaine possession
+       and distribution. The Commission also proposed reducing money laundering sentences.
+       President Clinton signed legislation which rejected these recommendations and directed
+       the Commission to undertake additional review and submit new recommendations.
+
+·      Today's report by the Commission recommends that the triggering amount for the 5-year
+       mandatory minimum for crack increase from the current 5 grams to between 25 and 75
+       grams, and decrease for powder from the current 500 grams to between 125 and 375
+       grams. If these recommendations become law, the resulting rations would range
+       between 15 to 1 and 1.66 to 1.
+
+·      The President has stated before that some adjustment to the penalties for crack and
+       powder cocaine is warranted. Such an adjustment would ensure that federal resources
+       target mid- and high-level drug traffickers. However, he believes that any revision to the
+       sentencing laws must continue to reflect that crack is a more dangerous form of cocaine
+       and that tougher sentences are appropriate for more dangerous offenders. That is why
+       his 1994 Crime Bill included an exception to the mandatory minimum drug penalties --
+       the "safety valve" -- for certain first-time, non-violent, low-level drug offenders.
+
+Clinton Administration: Fighting Cocaine and Emerging Drugs
+·      President Clinton has submitted the largest anti-drug budget to Congress. Overall drug
+       use in the United States has fallen dramatically-- by half in 15 years. Between 1985 to
+       1995, the number of current cocaine users dropped by 74%.
+
+·      Last year, the President signed his methamphetamine legislation into law. That law
+       attacks this emerging drug at every level and directed the Commission to increase the
+       penalties for methamphetamine offenses. Yesterday, the Commission strengthened
+       penalties for methamphetamine offenses pursuant to that law.
+
+

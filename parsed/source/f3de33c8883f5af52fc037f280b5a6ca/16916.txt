@@ -1,0 +1,237 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Michael A. Fitzpatrick ( CN=Michael A. Fitzpatrick/OU=OMB/O=EOP [ OMB ]     )
+
+CREATION DATE/TIME: 12-SEP-1997 12:21:31.00
+
+SUBJECT:   Draft Federalism Executive Order
+
+TO: Robert G. Damus ( CN=Robert G. Damus/OU=OMB/O=EOP @ EOP [ OMB ] )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Kathleen M. Wallman ( CN=Kathleen M. Wallman/OU=WHO/O=EOP @ EOP [ WHO ]    )
+READ: UNKNOWN
+
+TO: Jefferson B. Hill ( CN=Jefferson B. Hill/OU=OMB/O=EOP @ EOP [ OMB ] )
+READ: UNKNOWN
+
+TO: Robert N. Weiner ( CN=Robert N. Weiner/OU=WHO/O=EOP @ EOP [ WHO]     )
+READ: UNKNOWN
+
+TO: Lisa M. Brown ( CN=Lisa M. Brown/O=OVP @ OVP [ UNKNOWN]      )
+READ:UNKNOWN
+
+TO: William P. Marshall ( CN=william P. Marshall/OU=WHO/O=EOP @ EOP [ WHO]     )
+READ: UNKNOWN
+
+CC: Sally Katzen ( CN=Sally Katzen/OU=OMB/O=EOP @ EOP [ OMB ]        )
+READ: UNKNOWN
+
+TEXT:
+        I've attached the most recent draft of the Federalism E.O. which
+was drafted by our office and Bill Marshall. Bill, you might want to get
+this to Randy Moss at OLC for his review.  Please forward any comments you
+might have to Bill or to me by Wednesday of next week. Thanks.
+
+        ==================== ATTACHMENT       1 ====================
+ATT CREATION TIME/DATE:   o 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D55]MAIL44640545B.216 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043D8040000010A02010000000205000000283100000002000023F3426BA749E716D67840
+B4B58BDC32C6ED1F5BD5E2A336812119E89111603505763790E747FBCBDB43D2E8FDC816320F04
+AA3EFOAD84870EF5D40FC8EC284C967B3392E56BOC1DC552064B55E554D7B400C750A4893E5081
+348DF249043FACEA840E045223A0637F060EECBED53F94245641769F3578C1A50CFD03870AA922
+74CA1A7EEA3A2F7FB73C9A2EA22590DF7A40390F4A9A5342B87901D9CBFCCC4A34FD75B0109222
+9DFOC71326FA5D80EC3E2279B24FE7F135C5F1BCA09019987E9CBED95DE221BE5099418885A2BE
+D1F2F88E08D6F56ABDC31FAF5659BE6C3647F654D4E64B6AA14F23365780924AODB1A896B90B8B
+03819EDC06C635D46E260EA5D4D4523FD9E4BC97F5FE6135837F3B992A3BD008FECEE95FF01673
+D66D5791528A9958151CD6D58BA350334B1C72194CC7EOFB06BB2106E59B3914120FD6F645828E
+8A873BF9E618A03A65D81F7295B9050D6B726406CE331B48709EDAFF228B5AF5C8C64737899334
+AF657EA472D823864F6E466595BFA2D87ECE4CAB7595A53240928669B1A059A19CE06BFE73CS1D
+8DA85598ECB1BOF8D3148ECFC6B6BBE13F8A3EF4E24F28313A24FFA199A6B027DA2FCD969ED2BD
+5458A3F9B5C91765D9222FA9BA6ED36551D40B554F5EA8046649C78F62DDCA0470EAAFEBA3309E
+3A97E8AOD402000B00000000000000000000000823010000000B0100009A020000005502000000
+4EOOOOOOA503000009250100000006000000F30300000B300200000028000000F9030000087701
+                                                                      H@ot)ump Conversion .
+                                             · -1-
+
+                                                              DRAFT (September 12, 1997)
+
+
+Executive Order - - - - - - - -
+
+Federalism
+By the authority vested in me as President by the Constitution and laws of the United States of
+America, and in order to restore the division of governmental responsibilities, embodied in the
+Constitution, between the federal government and the States that was intended by the Framers to
+ensure that the principles of federalism guide the Executive departments and agencies in the
+formulation and implementation of policies, it is hereby ordered as follows:
+
+Sec. 1. Definitions. For purposes of this Order:
+
+(a) "Policies that have federalism implications" refers to regulations, legislative comments or
+proposed legislation, and other policy statements or actions that have substantial direct effects on
+the relationship between the federal government and the States, or on the distribution of power
+and responsibilities among the various levels of government.
+
+(b) "State" or "States" refer to the States of the United States of America, individually or
+collectively, and, where relevant, to State governments, including units of local government, tribal
+government, and other political subdivisions established by the States.
+
+(c)   "Agency" or "agencies" mean any authority of the United States that is an "agency" under
+44 US.c. 3502(1), other than those considered to be independent regulatory agencies, as defined
+in 44 US.c. 3502(10) ..
+
+Sec. 2. Fundamental Federalism Principles. In formulating and implementing policies that have
+federalism implications, agencies shall be guided by the following fundamental federalism
+principles:
+
+(a) Federalism is rooted in the knowledge that our political liberties are best assured by limiting
+the size and scope of the federal government.
+
+(b) The people of the States created a federal government of limited powers. All other
+sovereign powers are reserved to the States, save those expressly prohibited the States by the
+Constitution, or to the people.
+
+(c) The people of the States are free, subject only to restrictions in the Constitution itself or in
+constitutionally authorized Acts of Congress, to define the moral, political, and legal character of
+                                               -2-                       Hex-Dump Conversion
+their lives.
+
+(d) The nature of our constitutional system encourages a healthy diversity in the public policies
+adopted by the people of the several States according to their own conditions, needs, and desires.
+  Effective public policy is often achieved when there is competition among the several states in
+the fashioning of different approaches to public policy issues.
+
+(e) The search for enlightened public policy is furthered when individual States and
+communities are free to experiment with a variety of approaches to public issues. Uniform,
+national approaches to public policy problems can often inhibit the creation of effective solutions
+to those problems.
+
+(f)  In most areas of governmental concern, the States uniquely possess the constitutional
+authority, the resources, and the competence to discern the sentiments of the people and to
+govern accordingly. In Thomas Jefferson's words, the States are "the most competent
+administrations for our domestic concerns and the surest bulwarks against antirepublican
+tendencies."
+
+(g) Acts of the federal government -- whether legislative, executive, or judicial in nature -- that
+exceed the limited powers of that government under the Constitution violate the principle of
+federalism established by the Framers.                                    .
+
+(h) Policies of the federal government should recognize the respon~ibility of -- and should
+encourage opportunities for -- individuals, families, neighborhoods, local governments, and
+private associations to achieve their personal, social, and economic objectives through cooperative
+effort.
+
+Sec. 3. Federalism Policymaking Criteria. In addition to the fundamental federalism principles
+set forth in section 2, Executive departments and agencies shall adhere, to the extent permitted by
+law, to the following criteria when formulating and implementing policies that have federalism
+implications:
+
+(a) There should be strict adherence to constitutional principles. Executive departments and
+agencies should closely examine the constitutional and statutory authority supporting any federal
+action that would limit the policymaking discretion of the States, and should carefully assess the
+necessity for such action.
+
+(b) Federal actions limiting the policymaking discretion of the States should be taken only
+where constitutional authority for the action is clear and certain.
+
+(c)   With respect to national policies administered by the States, the federal government should
+                                                -3-                   H~~C~~moo
+
+grant the States the maximum administrative discretion possible.     Intrusive federal oversight of
+State administration is neither necessary nor desirable.
+
+(d) It is important to recognize the distinction between problems of national or multi-state
+scope (which may justify federal action) and problems that are merely common to the States
+(which will not justify federal action because individual States, acting individually or together, can
+effectively deal with them). In general federal action is warranted only in the following
+circumstances:
+
+(1) When the problem to be addressed by federal action occurs interstate as opposed to being
+contained within one State's boundaries.
+
+(2) When the source of the problem that is sought to be redressed occurs in a State different
+from the State (or States) where a significant amount of the harm occurs. [This type of issue
+often exists in the environmental area when the State which is the source of the environmental
+harm is often not the State which suffers the greatest effed of that .harm.]
+
+(3)   When there is a need for uniform national standards.
+
+(4) When decentralization increases the costs of government thus imposing additional burdens
+on the taxpayer. [For example, in an increasingly technologically and economically sophisticated
+environment, regulatory intervention often requires the use of highly-skilled experts, analysts, and
+accountants; and the costs inherent in maintaining this type of regulatory task force are quite
+sizable. It is therefore less costly and far more efficient for there to be one regulatory authority
+incurring the costs of these analysts and experts than to have fifty similar regulatory task-forces
+throughout the country.]
+
+(5)   When State and local governments have not acted to protect individual rights and liberties.
+
+(6) When decentralized authority will lead to circumstances in which a State will be reluctant to
+impose necessary regulations on its industry for fear of losing that industry to another State.
+
+(7) When placing regulatory authority at the State or local level will seriously undermine
+regulatory goals because enforcement costs will effectively place the regulatory matter beyond the
+resources of State and local enforcement authorities. [As industries expand in size and complexity
+and the dangers they pose to the society become more severe, the cost of monitoring and
+regulating their activities also become greater. Federal action may be justified to assure that
+industry does not escape regulation based upon its size alone.]
+
+Sec. 4. Consultation. (a) Each agency shall develop an effective process to permit elected
+officials and other representatives of State, local, and tribal governments to provide meaningful
+                                                                   Reii4Jump Conversion
+                                               -4-
+and timely input in the development of regulatory policies that have federalism implications.
+
+
+        (b) To the extent feasible and permitted by law, no agency shall promulgate any
+regulation that is not required by statute and that has federalism implications, unless the agency,
+in a separately identified portion of the preamble to the regulation as it is proposed for public
+comment in the Federal Register, provides a description of the extent ofthe agency's prior
+consultation with representatives of affected State, local, and tribal governments, a summary of
+the nature of their concerns [with its federalism implications], and the agency's position
+supporting the need to issue the regulation.
+
+Sec. 5. Increasing Flexibility for State and Local Waivers. (a) Each agency shall review its
+waiver application process and. take appropriate steps to streamline that process.
+
+         (b) Each agency shall, to the extent practicable and permitted by law, consider any
+application by a State, local, or tribal government for a waiver of statutory or regulatory
+requirements in connection with any program administered by that agency with a general view
+toward increasing opportunities for utilizing flexible policy approaches at the State, local, and
+tribal level in cases in which the proposed waiver is consistent with the applicable Federal policy
+objectives and is otherwise appropriate.
+
+        (c) Each agency shall, to the fullest extent practicable and permitted by law, render a
+decision upon a complete application for a waiver within 120 days of receipt of such application
+by the agency. If the application for a waiver is not granted, the agency shall provide the
+applicant with timely written notice of the decision and the reasons therefor.
+
+        (d) This section applies only to statutory or regulatory requirements of the programs that
+are discretionary and subject to waiver by the agency.
+
+Sec. 6. Independent Agencies.   Independent regulatory agencies are requested to comply with the
+provisions of this order.
+
+Sec. 7. General Provisions. (a) This Order is intended only to improve the internal management
+of the executive branch and is not intended to, and does not, create any right or benefit,
+substantive or procedural, enforceable at law or equity by a party against the United States, its
+agencies or instrumentalities, its officers or employees, or any other person.
+        (b) This ordershall supplement but not supersede the requirements contained in
+Executive Order No. 12866 ("Regulatory Planning and Review") and Executive Order No. 12988
+("Civil Justice Reform").
+
+       (c) Executive Order Nos. 12612 of October 26, 1987, and 12875 of October 26, 1993, are
+revoked.
+                                                            H~ con'NSion
+                                         -5-
+(d) This order shall be effective 90 days after the date of this order.
+
+

@@ -1,0 +1,269 @@
+ RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+ CREATOR: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP [ WHO]     )
+
+ CREATION DATE/TIME:22-MAY-1998 11:23:00.00
+
+. SUBJECT:   5/22 Complete Weekly Report
+
+ TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+ READ: UNKNOWN
+
+ TEXT:
+ ==================== ATTACHMENT   1 ====================
+ ATT CREATION TIME/DATE:   0 00:00:00.00
+
+ TEXT:
+ Unable to convert ARMS_EXT: [ATTACH.D67] MAIL49806414W. 126 to ASCII,
+  The following is a HEX DUMP:
+
+ FF575043D60F0000010A02010000000205000000E64E000000020000E2C965DDB0182DF1A21888
+ D75C703D5AA2BFF9CA34928ABF82600D6D4C95904342841608CF3FOD774364F50CD5FAB72F67B4
+ A90B910BA76D3536446D4A5FAAB48277614005FOEFB3D5A3E97324FC7FBD78F12D634BAB2B2650
+ 2EB206ECEF42A40D4F16C83CBA5820F6A3327585EDF636673C6186A69C73174D335EOOD8AC4258
+ C975450F8D2E63B24A9A843802A50C2241902C3D2AAF1BDA54424148CCEBDA24998C65C2D55EAD
+ CB51EB1CF8ABl15BFAD7B1FFB82146708E92971A67D6437BDB3D8671716D1412A61D1709993E2A
+ 8D3F8663475B7358AC3185DOFA674659EDOED4113092B5D9A86B913EACA4701E2ACC332F1477C4
+ DD7CC7FB7D3FBA5216BC8D6028DD10D46D82BD19A85150EE14DF9E9C9893383307B7B23EE750F3
+ 67B58216EEBF2923DDC9FAC8Bl128395CD4806B7518E8835FAA2C85OD9BE197CB1FE139BC53812
+ CDFFAF549582D08A15D60A5779494AD2E4D8904A1449345F934BBA5C638F744096F0938EB26F09
+ 9B739160F71C415E67E24DD6C712FC6716F06C8F84CC1B600FB00816480926F3E47B388F0848CD
+ COD5841CC4936BD4D9C6248CAADCD4C52CE3019ACAE3C2324236251E258A2ACBF81EAOED705B40
+ 7DEB2C8F12C007697B78B85D920F43822EE6BE3173EE24617510B5D1D7A40C7C497461B8ED6D2B
+ C822C6BA280200A400000000000000000000000823010000000B010000F80A000000550DOOOOOO
+ 4E000000030C000009250100000006000000510COOOOOB300300000028000000570C0000080501
+ 000000080000007FOC00000055020000004E000000870COOOOOOOO0000000000000000870COOOO
+ 00000000000000000000870C00000055050000003COOOOOOD50COO000877010000004000000011
+ OD000008340100000014000000510D00000802010000000FOOOOOO650DOOOOOB30010000006COO
+ 0000740D00000055010000004EOOOOOOEOOD00000055010000004E0000002EOE00000055010000
+ 004E0000007COEOOOOOB300100000044000000CAOE00000608010000002DOOOOOOOEOF00000055
+ 02000000320000003BOF0000000000000000000000003BOFOOOOOO0000000000000000003BOFOO
+ 00000000000000000000003BOF0000000000000000000000003BOF000000000000000000000000
+ 3BOF0000000000000000000000003BOFOOOOOOOOOOOOOOOOOOOOOO003BOFOOOOOOOOOOOOOOOOOO
+ 0000003BOF0000000000000000000000003BOFOOOOOOOOOOOOOOOO000000003BOFOOOOOOOOOOOO
+ 0000000000003BOF0000000000000000000000003BOFOOOOOOOOOO000000000000003BOFOOOOOO
+ 0000000000000000003BOF0000000000000000000000003BOFOOOO000000000000000000003BOF
+ 0000000000000000000000003BOF0000000000000000000000003BOFOOOOOOOOOOOOOOOOOOOOOO
+ 003BOF0000000000000000000000003BOFOOOOOOOOOOOOOOOOOOOO00003BOFOOOOOOOOOOOOOOOO
+ 000000003BOF00000942010000001D0000006DOFOOOOOOOOOOOOOO00000000006DOFOOOOOOOOOO
+ 000000000000006DOF0000000000000000000000006DOFOOOOOOOO00000000000000006DOFOOOO
+ 000000000000000000006DOF0000000000000000000000006DOFOO00000000000000000000006D
+ OF0000000000000000000000006DOFOOOOOOOOOOOOOOOOOOOOOOOO6DOFOOOOOOOOOOOOOOOOOOOO
+ 00006DOF0000000000000000000000006DOFOOOOOOOOOOOOOOOOOO0000006DOFOOOOOOOOOOOOOO
+ 00000000006DOF0000000000000000000000006DOFOOOOOOOOOOOO0000000000006DOFOOOOOOOO
+ 00000000000000006DOF0000000000000000000000006DOFOOOOOO0000000000000000006DOFOO
+ 00000000000000000000006DOF0000000000000000000000006DOF000000000000000000000000
+ 6DOF0000000000000000000000006DOFOOOOOOOOOOOOOOOOOOOOOO006DOFOOOOOOOOOOOOOOOOOO
+ 0000006DOF0000000000000000000000006DOFOOOOOOOOOOOOOOOO000000006DOFOOOOOOOOOOOO
+ 0000000000006DOF0000000000000000000000006DOFOOOOOOOOOO000000000000006DOFOOOOOO
+ 0000000000000000006DOF0000000000000000000000006DOFOOOO000000000000000000006DOF
+ 0000000000000000000000006DOF0000000000000000000000006DOFOOOOOOOOOOOOOOOOOOOOOO
+                                               Hex-Dump Conversion
+
+
+
+                                          May 22,1998
+
+
+MEMORANDUM FOR THE PRESIDENT
+
+FROM:          Bruce Reed
+               Elena Kagan
+
+RE:            DPC Weekly Report
+
+
+      . Tobacco -~ Senate Update: On Monday, the Senate began consideration of the
+McCain bill. Members filed approximately 100 amendments and debate has proceeded at a
+slow pace. The following amendments were considered:
+
+·      Faircloth amendment to impose a $250 per hour cap on attorney fees. Rejected.
+·      Kennedy amendment to increase the price to $1.50 per pack phased in over three years.
+       Rejected: 58-40.
+·      Ashcroft amendment to strike the $1.10 per pack price increase. Rejected: 72-26.
+·      Gregg-Leahy amendment to remove the $8 billion liability cap and other liability
+       protections. Adopted 61-37.
+·      Gramm to eliminate the tax code's marriage penalty.
+·      Durbin amendment to increase the company-specific penalty and reduce the industry
+       wide-penalty.
+·      Amendment to strike Senator Ford's LEAF Act (and keep the Lugar farm provisions.)
+
+        Given the slow speed at which they are proceeding, it is currently unclear whether the
+Senate can wrap the bill up before the Memorial Day recess, or whether debate will continue
+after they reconvene in June. [THIS IS SUMMARY AS OF 4:00PM THURS; WILL NEED TO
+BE UPDATED.]
+
+         Tobacco -- MMWR Study: The Centers for Disease Control released on Thursday new
+statistics on teenage smoking patterns and addiction. The data found that: (I) teenagers find it
+difficult to quit smoking -- 86 percent of teens who smoke daily and try to quit are unsuccessful;
+(2) teenagers underestimate the addictiveness of nicotine -- 75 percent of teenage daily smokers
+who expect to quit are still smoking five years later; (3) casual smokers become hooked -- 42
+percent of young people who smoke as few as three cigarettes per month go on to become regular
+smokers. Currently, 36.4 percent of high school students smoke.
+
+        Immigration -- H-IB visas: Last Wednesday, the House Judiciary Committee approved
+by a vote of 23-4 a bill, authored by Rep. Lamar Smith, increasing the cap on H-I B visas while
+making substantial reforms to protect qualified U.S. workers from being displaced or passed over
+                                          Hex·Dump Conversion
+
+in favor of temporary foreign workers to the program. Unfortunately, the Smith bill does not
+contain a training component. Prior to the mark·up, Secretaries Daley and Herman and the
+Attorney General sent a letter to Chairman Hyde indicating that the Administration would
+support the bill if it were modified to include a meaningful training provision and a more modest
+increase in the cap.
+
+       Last week, the Senate passed a similar bill that temporarily increases the cap and
+authorizes money for increased training through Title IV of the JTP A, but does not include any
+meaningful reform of the H-IB program. OMB sent a Statement of Administration Position
+(SAP) that related if the final bill did not include meaningful reform of the H-I B program, the
+Secretary of Labor would recommend a veto.
+
+         Immigration -- INS Reform: Last Wednesday, Rep. Rogers introduced an INS
+restructuring bill that generally tracks the recommendations of the United States Commission on
+Immigration Reform. The bill was referred to the Judiciary Committee. INS has prepared draft
+legislation that would implement our restructuring plan, which we plan to have introduced soon
+after the Memorial Day break (possibly by Rep. Watt or Sen. Kennedy). Sen. Abraham has
+announced his intention to hold hearings starting in June on INS restructuring, though he has
+stated it is unlikely that a restructuring plan would be in place by the end of this Congress.
+
+        Crime -- COPS Event: Next Friday, we have an event tentatively scheduled to: I)
+celebrate the milestone of the 75,000th cop funded under your COPS initiative; and 2) launch a
+new pilot project to target COPS funding toward distressed neighborhoods. The first phase of
+the pilot will fund more than 500 officers; the COPS office is currently finalizing the list of
+participating cities which they expect will include 10 large and 10 small cities across the country.
+
+        Crime -- Police bills: Last Friday, the Congress passed two bills strongly supported by
+law enforcement and the Administration. One bill creates a grant program to help local law
+enforcement agencies purchase additional bulletproof vests; the other helps fund counseling
+services for dependents of slain officers. Weare working with Rahrn Emanuel and Legislative
+Affairs to schedule a signing ceremony for these bills as part ofthe COPS event, or at some later
+date.
+
+       Drunk Driving -- .08 BAC: Last weekend, conferees to the highway bill agreed to
+include a new $500 million incentive grant program for states with .08 BAC laws instead of
+imposing sanctions on states that fail to pass .08 laws. MADD and others such as Senator
+Lautenberg and Representative Lowey were extremely disappointed with the outcome on the .08
+issue. Conferees and committee staff are pushing hard to complete their work to allow the
+Congress to vote on the final bill prior to the Memorial Day recess.
+
+       Health Care -- Patients' Bill of Rights Update: There were reports this week that
+Speaker Gingrich is trying to stop any patients' bill of rights legislation from moving this
+year by stalling and diluting the efforts of his Republican task force led by Rep. Hastert.
+
+
+                                                  2
+                                           Hex·Dump Conversion
+We have learned that Rep. Norwood shares our frustration and is quietly talking to Rep.
+DingeU about a possible discharge petition to bypass the House Republican Task Force and
+the Committees of Jurisdiction. We are extremely encouraged by these discussions and
+are pursuing this and other strategies to move this legislation. To increase momentum on
+this issue, you are scheduled to participate in an event next week to release a state-by-state
+analysis to illustrate how many Americans are not covered by state patient protection laws,
+even where they exist (125 million). This event will also highlight why the patients'
+protections are so important to women -- women are larger consumers of health care than
+men and reports now confirm that complaints made by women are seen as less urgent than men
+and consequently, women are less likely to be referred to specialists. Nancy Dickey, the
+newly-appointed first women chair of the American Medical Association, is also scheduled
+to participate in this event.
+
+        Campaign Finance Reform -- Free TV Petition: Today, the Federal Communications
+Commission (FCC) will place into circulation a Notice ofInquiry (N0l), opening a proceeding
+on free and discounted air time for candidates. The NOJ is expected to pass within the month at
+which point it will become open for public comment. The FCC will conclude the NOI and
+submit a report to Congress by the end of the year. The recommendations of The President's
+Advisory Committee On the Public Interest Obligations of Digital Broadcasters will be included
+in the FCC's final report to Congress.
+
+        Education -- Bilingual Education: The House Subcommittee on Children, Youth and
+Families reported out a bill offered by Rep. Riggs that would replace the current bilingual and
+immigrant education programs with a block grant to states to help LEP students master English
+within two years. States would be required to cut off funds to any local program that does not
+meet the 2·year deadline for all students, and would be prohibited from exempting any students.
+from state testing programs in English if the student has been in school for two years. Funds
+under this bill would be less effectively targeted to high need communities than in the
+current program. The bill also ends funding for teacher training. In addition, this bill
+would void existing compliance agreements between the Education Department's Office of Civil
+Rights and local school districts regarding the provision of services to LEP students, and would
+prohibit the Department of Education from entering into additional agreements until it proposes,
+and Congress ratifies, guidelines and compliance standards for Title VI. DPC staff have been
+working closely with other WH offices and the Education Department to develop a strategy for
+addressing the Riggs bill, and to prepare alternative legislation that could be introduced if
+appropriate, which fully reflects the principles for strengthening programs for LEP students you
+approved along with the decision to oppose the Unz Initiative. We will send you a more
+detailed status report on this issue this coming week.
+
+Note to Elena: You may recall that we have been talking about linking any veto threat to the
+Riggs bill to the introduction of an alternative bill reflecting our anti-Unz principles-despite
+the wishes of the Hispanic Caucus that we threaten to veto but not propose an alternative.
+The bill that was marked up today is a new Riggs bill, including civil rights and testing
+
+
+                                                 3
+                                           Hex-Dump Conversion
+
+provisions described above that were not included in the draft we had seen. I believe that the
+new Riggs bill may change our calculations about linking the veto threat and alternative
+legislation, because the civil rights provisions seem to be so objectionable on their own. I've
+ written the paragraph above to give us the room to consider this possibility, and hope that your
+final version will do the same.
+
+        Education -- Class Size: Congressional Democrats and the NEA, AFT and other
+education groups are upset that the agreement we reached with NGA on spending the state share
+of tobacco funds did not include your class size reduction proposal, and some fault us for
+walking away from this initiative. In response, we met with Sen. Patty Murray, the prime Senate
+sponsor, and agreed to look for ways to help keep this issue alive, including looking for offsets
+that would enable her to bring this to the floor for debate. Even though the chances of
+enactment are slim, our ability to mobilize the education groups behind our overall education
+agenda as we head into the Fall depends in part on continuing to press for funding for your class
+size proposal.
+
+        Education -- New Orleans Schools: Several weeks ago you expressed concern about a
+controversy involving the Education Department's Office of Civil Rights and the New Orleans
+schools, regarding the use ofIQ tests for admission to the Benjamin Franklin High School, a
+selective magnet school. OCR has been working with the local school board to resolve a
+complaint about the use of IQ test cutoff score as an admissions requirement regardless of grades
+or other indicators of academic performance. The local school board has already agreed to halt
+that practice, and to develop a new approach that would still maintain high admissions standards.
+ The immediate controversy revolved around a decision by the local school board to rescind
+admission decisions that had already been announced for the next school year. OCR has told the
+board not to rescind its admissions decisions for the coming year, but instead to focus on
+developing new admissions criteria for the following school year. OCR understands the
+importance of working with New Orleans to resolve this in a fashion that enables the school to
+maintain high standards, and that does not undermine the Administration's commitment to high
+standards and testing.
+
+        Welfare Reform -- Welfare-to- Work Celebration: A series of activities are scheduled for
+May 27th to celebrate the success of the welfare-to-work effort, with a particular spotlight on the
+Welfare-to-Work Partnership and on the importance of job retention. As part of the celebration,
+you will join a small working meeting of CEOs from the Board of the Partnership and key
+Cabinet officials in the Roosevelt Room, where you will have a chance to congratulate these
+businesses for their extraordinary success in both hiring and retaining welfare recipients, and
+urge them to sustain their commitment. . Over the last year, the Partnership has grown from 100
+businesses to 5,000 today, and their business partners have hired 135,000 welfare recipients. In
+a recent survey of these businesses by the Wirthlin group, 75% found welfare recipients to be
+good, productive employees. United Airlines and others have found that the people hired off
+welfare have higher retention than other new employees.
+
+
+
+                                                  4
+                                          Hex·Dump Conversion
+
+       Following the working meeting is an event in the East Room where you will be joined on
+the program by the VP, Eli Segal, Jerry Greenwald from United, and a welfare-to-work success
+story. At the event, you will announce the first round of Welfare-to-Work Competitive grants
+and the latest welfare caseload reductions, and you will challenge the Partnership to double the
+number of people hired by their business partners in the coming year. In the front row will be
+the success stories you met in Wichita and St. Louis, along with new success stories from
+United, UPS, and other companies. Other invitees include a group of Welfare-to-Work
+Competitive grant winners (from local governments, PICs, and non-profit organizations).
+In conjunction with the event, the Partnership will release a report called the Road to
+Retention, which pronIes the retention successes of 16 large and small businesses. The
+Partnership will also release welfare-to-work PSAs.
+
+
+
+
+                                                 5
+
+

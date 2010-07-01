@@ -1,0 +1,66 @@
+RECORD TYPE: ·PRESIDENTIAL    (NOTES MAIL)
+
+CREATOR: Rachel E. Levinson ( CN=Rachel E. Levinson/OU=OSTP/O=EOP [ OSTP ] )
+
+CREATION DATE/TIME: 1-DEC-1998 16:21:42.00
+
+SUBJECT:   Varmus testimony
+
+TO: Christopher C. Jennings    ( CN=Christopher C. Jennings/OU=OPD/O=EOP @ EOP [ OPD ]
+READ:UNKNOWN
+
+TO: Robert J. Pellicci ( CN=Robert J. Pellicci/OU=OMB/O=EOP @ EOP [ OMB ] )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD]      )
+READ:UNKNOWN
+
+TEXT:
+What do you think of this?    ==================== ATTACHMENT       1 ===================
+ATT CREATION TIME/DATE:    0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D4]MAIL48846653C.326 to ASCII,
+ The following is a HEX DUMP:
+
+DOCF11EOA1:B11AE1000000000000000000000000000000003E00030OFEFF090006000000000000
+0000000000010000002200000000000000001000002400000001000000FEFFFFFF000000002100
+OOOOFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+     Possible edits
+
+     Page 6
+
+     Insert at end of second paragraph:
+
+     The legality of using Federal funds to support research using pluripotent stem cells is a
+     question to be determined by DHHS lawyers.
+
+     Ethical Issues
+
+     I have just described the science and medical promise of research on the pluripotent stem
+     cell. But the realization ofthis promise is also dependent on a full and open examination
+     of the social and ethical implications of this work. The fact that these stem cells were
+     produced from embryos and fetal tissue raises a number of ethical issues including, for
+     example, the need to ensure that stem cell research not encourage the creation of embryos
+     or the termination of pregnancies for research purposes. In strict accordance with the
+     President's 1994 directive, no NIH funds will be used for the creation of human embryos
+     for research purposes. We will also continue to abide by relevant statutes.
+
+     The ethical and social issues associated with stem cell research are complex and
+     controversial and require thoughtful discourse in public fora to reach resolution. To this
+     end, the President has asked the National Bioethics Advisory Commission to undertake a .
+     thorough review of the issues associated with human stem cell research, balancing all
+     ethical and medical considerations.
+
+     Delete the rest of the text in this section.
+
+
+
+
+                                                           Automated Records Management System
+                                                           Hex-Dump Conversion
+
+

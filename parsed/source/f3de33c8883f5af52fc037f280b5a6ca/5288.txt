@@ -1,0 +1,86 @@
+      RECORD TYPE: PRESIDENTIAL      (NOTES MAIL)
+
+      CREATOR: Thomas L. Freedman ( CN=Thomas L. Freedman/OU=OPD/O=EOP [ OPD ) )
+
+      CREATION DATE/TIME:14-NOV-1997 18:59:42.00
+
+      SUBJECT:   Tobacco weekly
+
+      TO: Elena Kagan       CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD)   )
+      READ: UNKNOWN
+
+      CC: Mary L. Smith ( CN=Mary L. Smith/OU=OPD/O=EOP @ EOP [ OPD ) )
+      READ: UNKNOWN
+
+      CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO )        )
+      READ: UNKNOWN
+
+      TEXT:                                                   ,
+      This may be a little much-- its a brief description of the bills.   I
+      included some of the material from the weekly item (the lawyer fee bills
+      part) I  sent on 10/31, I'm not sure if it got in before. Also, I don't
+      mention the Graham (D-FL) bill to prohibit HHS from treating Medicaid
+      related funds, recovered as part of state litigation from the tobacco
+      companies, as overpayments under the Medicaid program.    ==================== ATTACH
+      ATT CREATION TIME/DATE:   0 00:00:00.00
+
+      TEXT:
+      Unable to convert ARMS_EXT: [ATTACH.D20)MAIL42972771Z.316 to ASCII,
+       The following is a HEX DUMP:
+
+      FF57504370040000010A02010000000205000000820D0000000200000CDCBE713F51269B36356A
+      7683538B33A5A34E144D3B3BFDB1BA8Al5453720COB7DA79382Al7OA559BB76137E6C498F7F89F
+      49BCD357EEE176FC26F406702BA9BB50CE327D766D694A7DD55CB67EC5E268702493D08B4B47FC
+      F540F8AFA3E9C5BD4056682ED60670B6AC6F675DFAE25C810A6DC4763A87EE832A85EF37COC2E3
+      4029CCE035DEEC490D53DCAC08241F767211175F3FOFE511AAOE4CA20BB4F062D3A8571334E784
+      2765BA0918090DD5B554A3FE4788B6F83375E8E4620C610C985060OD83AEB3976CFC22991627E5
+      6D7DECAD8BC72DC56127517FBC767459DEDB7513C87FCA1E7C023AFODF6FEOCF55DC8230B9E004
+      EC836B1D094ABF6E32F66E8C668912D5400C3005336816FBB791C8D2C54E6901564FFAOB5E83B7
+      AF13EC229EACOOE40315AB2C67B12F260E9DFD01B004872F7C5388C7E35F39BF45677FC83857CC
+      AD904D2DB42DD042FE65ADDCE8F54FA69C1DA75AC69409A3D17234C2BEOC46A1A245ABBAC7BFFF
+      35ACE4AD6E44F997DBCOAE93A4FOOD828C612E23D71E482CF15AF9E30CE1C79EC2131513B3DDF8
+      EFF9F0048495C24CDC3BAC15D2202C80D5F2D8F68895A2518493AFB31CEAC5D63C2CBF4536B4ED
+      2AB5AC1BC6C959E17182D3BB5FDC1E5B7382C144BD6DOB8B7A7B8BED10127E4B95B080AE1DDEA4
+      56A479294F02000900000000000000000000000823010000000B0100007E020000005501000000
+      4E0000008903000009250100000006000000D70300000B300200000028000000DD030000087701
+      000000400000000504000008340100000014000000450400000802010000000F00000059040000
+      080501000000080000006804000000984800500020004C0061007300650072004A006500740020
+      00340020002D0020004C006F00630061006COOOOOOOOOOOOOOOOOO000000000000000000000000
+      00000000000000000000000057494E53504F4F4COOOOOOOOOOC800C8002C012C012C012C01C800
+      C80030000000000000000000000000000000000000000000000000000000000000000000000000
+      000000000000000000000000000000000000000000000000000000000000000000000000000000
+      000000000000000000000000000000000000000000000000000000000000000000000000000000
+      000000000000000000000000000000000000000000000000000000000000000000000000000000
+      000000005E008FOE2800D61EC30F3908000011090000005AOOOB01008B143600540069006D0065
+      00730020004E0065007700200052006F006D0061006E00200052006500670075006C0061007200
+      000000000000000001000200580201000000040028000000000000000000000000000000000000
+      00011202002400A1000000A10000000A0000005501010044005601010044005701020002005801
+      030044005901010002005A01010002005B01010002005C01010002005D01010002005E01010045
+      00099F6D2300000000B9050000000000000000000008337C007800000200005E01000003010004
+      0002000000DDOA10008301040003000200211000DDDDOBOB00030000040BOODD9BF20CF24C6567
+                                                                              Automated Records Management SY5tem
+                                                                              Hex-Dump Conversion
+     Legislation in Congress on Tobacco
+             In response to your announcement of a plan for tobacco legislation and the subsequent
+     meeting with bipartisan Congressional leaders, a number of bills have been introduced in the last
+     few weeks. Senator Hatch has introduced legislation that increases the cost of the proposed
+     settlement from $368 billion to $397.5 billion, raises the limits on company payments if
+     underage smoking fails to reach target levels, but differs with public health groups on FDA
+     authority by not treating cigarettes as "drug delivery devices." The bill bans future class-action
+     suits against the companies and provides punitive damage protection for past misconduct.
+     Senator Kennedy's bill raises the cost of the settlement to more than $600 billion, increases the
+     tobacco tax by $1.50 over three years, and fails to provide tobacco producers with protections
+     against lawsuits. Senator McCain has introduced a bill that is directly patterned on the
+     settlement language itself. Senator Lautenberg has introduced a bill that would cost $494 billion
+     and give cigarette makers no relief from lawsuits.
+             In addition to these comprehesive tobacco bills, more specific bills involving the
+     settlement have also been introduced. Several House members have legislation to limit fees
+     paid to attorneys involved in the settlement. Senators Ford and Lugar have bills that differ from
+     each other regarding the maintenance of the price support system for farmers and the buying out
+     of farmers' quotas. Also this week, Speaker Gingrich said the House may break the national
+     tobacco settlement into separate bills, such as teenage smoking and industry liability, and act on
+     each as a consensus emerges. Finally, Congressman Bliley held the first in a series of hearings
+     this week during which he publicly pressed the tobacco industry for the release of 864 documents
+     that are at issue in a lawsuit filed by the State of Minnesota.
+
+

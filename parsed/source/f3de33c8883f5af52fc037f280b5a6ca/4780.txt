@@ -1,0 +1,166 @@
+       RECORD TYPE: PRESIDENTIAL     (NOTES MAIL)
+
+       CREATOR: Michael Cohen ( CN=Michael Cohen/OU=OPD/O=EOP      OPD ]   )
+
+       CREATION DATE/TIME:14-0CT-1997 14:02:26.00
+
+       SUBJECT:   Revised education communications memo
+
+       TO: Elena Kagan      CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+       READ: UNKNOWN
+
+       TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ]         )
+       READ: UNKNOWN
+
+       TEXT:
+       Here is a revised version of Begala's memo. Once you are comfortable with
+       it, I will circulate it to everyone else, and then get it out of here.==============
+       ATT CREATION TIME/DATE:   0 00:00:00.00
+
+       TEXT:
+       Unable to convert ARMS_EXT: [ATTACH.DIO]MAIL488525680.216 to ASCII,
+        The following is a HEX DUMP:
+
+       FF57504384040000010A02010000000205000000712A0000000200004F6BOF84639B6AF4132BAB
+       23B5E498C6F73C193E7370E89C4D32312B3BAB81B60D5569DAA4AF07FCA626426CA8930373DIBO
+       EID07A4A51AC798A2B39AF3C4A94C242256DABD25B36AF9FE139F2F9C77745E2655A4362FOD330
+       67DE7CFAD153377ECA68ECDOA3235A16DAD8DIE3FFAOOC1704894FD7D2541A222B8B63CF895882
+       A5C2E6C6487D9CDC494B2610C179C4B5D905F56B4E690AID83ACCB179D8D9B224C49CF7107EIID
+       C89D7C8BA075814A27EBAC6CE90EB618C9BAFE217E53A12EDE47BE36311421C06207BED750D6B4
+       A9DFA8E20A463CA81F95C762EE18C24704607E05C3E64819CB781103B3E61705838D5C579DADBE
+       5BC85D5386423D01733F569BOB45F91CA8D856COE25DEOOAD9D2FED9D7AD3864B3A62CA3BBIOOC
+       5E7F59254F7B7B63A289139496A78127534955C2148B2F33E3697E72B8D720189B34EFDE542F3B
+       442ABACCOAC3BFCDC281D97D2FF20EF95C6DC4149537B0612C02CC63695A156735C3834CED6732
+       200C66D063DAA7E98AE3D8AIF7785D95352D4EF56C55E95A088C63AA461EB5CFCABD7EFA571924
+       8265B8445AFD567C2FDF867877C92A6AC0671B409BE2193CB8E5A67D6Fll15A7762B2828ABOCF7
+       49B676995F2F6D8AEFBD2EDD82FE47EDCDA8200609C4D945CB161CE3C3A0532E047653469FCIC3
+       997E8BE39202000900000000000000000000000823010000000BOl00007E020000005502000000
+       4E0000008903000009250100000006000000D703000008050100000008000000DD030000005501
+       0000003COOOOOOE503000008770100000040000000210400000834010000001400000061040000
+       0802010000000F0000007504000000984800500020004C0061007300650072004A006500740020
+       003400200050006C007500730020002D0020004C006F00630061006COOOOOOOOOOOOOOOOOOOOOO
+       00000000000000000000000057494E53504F4F4COOOOOOOOOOC800C8002C012C012C012COIC800
+       C80030000000000000000000000000000000000000000000000000000000000000000000000000
+       000000000000000000000000000000000000000000000000000000000000000000000000000000
+       000000000000000000000000000000000000000000000000000000000000000000000000000000
+       000000000000000000000000000000000000000000000000000000000000000000000000000000
+       000000005E00371D2800D61EC30F3908000011090000005AOOOBOl008B143600540069006D0065
+       00730020004E0065007700200052006F006D0061006E00200052006500670075006C0061007200
+       00000000000000000l000200580201000400020000001BOOF41A5C121A09000000000000006000
+       18110000102400540069006D006500730020004E0065007700000052006F006D0061006EOOOOOO
+       000000000A0000005EOOOD0055005FOOOIOOA30060000200020061000100450062000200020063
+       0003007B0364000A00020065000200A300660002004500670001005500E55C4A23000000000000
+       0000000000000000000008337C0078000002000067000000039B9CD41AIF008701050008005802
+       167200005802000058020200580200001FOOD4FI025EOOFIFI035E00FIFI025FOOFID3050COOOO
+       Ol0002000COOD3FI035FOOFIFI025EOOFIFI035EOOFIFI006300FlFI026000F14F6374FI036000
+       FIFI016300FIFI006100FIFI026000F12EFI036000FIFI016100FlFI006300FIFI026200F16F62
+       6572FI036200FIFI016300FIFI026300F14F63746F626572FI0363OOFIFI026200F180FI036200
+       FIFI025EOOFIFI035EOOFIFI026400F131FI036400FIFI025EOOFlFI035EOOFIFI026400F134Fl
+       036400FIFI025EOOFIFI035EOOFIFI026400F12CFI036400FIFI025EOOFIFI035EOOFIFI026400
+       F180FI036400FIFI025EOOFIFI035EOOFIFI026400F131FI036400FIFI025EOOFIFI035EOOFIFl
+                                      October 14, 1997     Hex-Dump Conversion
+
+
+
+
+MEMORANDUM FOR JOHN PODESTA
+
+FROM:                    SYLVIA MATHEWS
+                         RAHM EMANUEL
+                         ANN LEWIS
+                         GENE SPERLING
+                         PAULBEGALA
+                         BRUCE REED
+                         MIKE COHEN
+
+RE:                      MESSAGE PLAN FOR EDUCATION WEEK
+
+DATE:                    OCTOBER 14, 1997
+
+Strategic Context
+
+      The Republicans intend to make the week of October 20 - 24 as "Education Week."
+ They have not announced specific events yet, and, depending upon the House and Senate
+schedules that week, it is possible that their events may spill over until the following week.
+The purpose of this memo is to suggest a strategy to ensure that we win the battle of
+"Education Week."
+
+       The programmatic heart of the Republican approach is embodied in their support
+for vouchers for DC students and/or the Coverdell bill to provide for a $2,500 IRA-type
+deduction for private school tuition. Their fundamental message centers around choice
+and individual empowerment.
+
+       Our goal is to defme Republicans as seeking to abandon public schools in favor of
+private academies, just when public schools need our attention the most, while we support
+fundamental and far-reaching reforms to strengthen our public schools, from high national
+standards to public school choice to charter schools to early education innovations like
+child care and America Reads. Our fundamental message centers on strengthening public
+education through change and reform.
+
+Specific Events
+
+        We know for certain that the Republicans will hold hearings in Pennsylvania,
+perhaps in Chairman Goodling's district. The hearings will be chaired by Peter Hoekstra,
+and will probably not get much national attention. We'll pass on further information as
+we obtain it. But we should assume for planning purposes that the RepUblicans will focus
+their efforts here in Washington and on the issue of choice.
+                                                                    Automated Records Management System
+                                                                    Hex-Dump COil version
+
+          We propose the following nine message events to highlight the issue in a light
+    favorable to the President:
+
+    Friday, 10/17:       Vice President Gore decries House Republicans for holding the
+                         America Reads program hostage to their attempt to kill national
+                         standards. Under pressure from extreme conservatives, Chairman
+                         Goodling has said, "Because of the administration's continued
+                         attempts to forge ahead with federal testing despite the objections of
+                         the US House of Representatives, I have stopped the committee's work
+                         on any reading initiatives ....I (am doing) what any good chairman
+                         would do - sleep on it." The VP's message: Because they are so
+                         opposed to testing our students in reading, the Congressional
+                         Republicans even oppose the President's plan to improve teaching our
+                         students reading.
+
+    Saturday, 10/18:     President's radio address is broadcast (taped the day before). Topic:
+                         bipartisan cooperation on charter schools. The President should
+                         embrace the charter. school proposal currently being advanced in the
+                         GOP bill, and could also embrace the ObeylPorter comprehensive
+                         school reform proposal in the appropriations bill, which provides for
+                         schools to implement school-wide reforms based on effective, proven
+                         models. Together, these two proposals provide compelling
+                         approaches to dealing with failing schools: fIX them with proven
+                         practices, and/or give kids the choice of going to charter schools.
+
+
+    Sunday, 10/19:      Leak for Monday publication the Education Department study that
+                        shows students who take 8th grade algebra and other advanced
+                        courses are better prepared for college, which ties-in with our support
+                        for 8th grade math tests.
+
+    Monday,10/20:        Since the global climate change position is likely to be announced that
+                         day, no education event as such is planned.
+
+    Tuesday,10121:       The President and college Presidents announce that nearly 800
+                         colleges (up from 165 in April), in aliSO states, have pledged to use
+                         work-study students as tutors in support of America Reads.
+
+    Wednesday, 10/22:    The President meets with high-tech and other business leaders. Pool
+                         spray during meeting, stakeout after in which the CEO's announce
+                         their support for public education reform as a pro-business,
+                         pro-technology, pro-jobs issue.
+
+    Thursday,10/23:      White House Conference on Child Care. Major event, and another
+
+
+                                                         Automated Records Management System
+                                                         Hex-Dump Conversion
+                      aspect of our commitment to education.
+
+     Friday, 10/24:   President and First Lady make brief remarks to the National Board
+                      for Professional Teaching Standards (the "Master Teachers"
+                      program). Announces new initiative for R&D on teaching. Should
+                      be significant regional press; good opportunity to wrap-up Education
+                      Week.
+
+

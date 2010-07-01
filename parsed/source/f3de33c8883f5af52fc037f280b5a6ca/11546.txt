@@ -1,0 +1,195 @@
+ RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+ CREATOR: Jose Cerda III ( CN=Jose Cerda III/OU=OPD/O=EOP [ OPD 1 )
+
+ CREATION DATE/TIME: 4-MAR-1999 16:45:36.00
+
+ SUBJECT:   Follow-up from today's meeting
+
+ TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ:UNKNOWN
+
+ TO: Irene Bueno ( CN=Irene Bueno/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ:UNKNOWN
+
+ TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ:UNKNOWN
+
+ CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ:UNKNOWN
+
+ CC: Leanne A. Shimabukuro ( CN=Leanne A. Shimabukuro/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ:UNKNOWN
+
+ TEXT:
+ BR/EK:
+
+ Attached please find: (1) a draft one-page memo on our radio address
+ proposal; (2) a slightly re-worked version of our policy recs; and (3) the
+ latest police brutality q/a.
+
+ BR:  You asked me to update the question, but it seems our latest version
+ already incorporates much of what we want to say. Does this work? Or do
+ you want me to re-do w/more specifics on our potential policy recs?
+
+ jc3
+
+ ==================== ATTACHMENT   1 ====================
+ ATT CREATION TIME/DATE:   0 00:00:00.00
+
+ TEXT:
+ Unable to convert ARMS_EXT: [ATTACH.D24)MAIL435757764.036 to ASCII,
+  The following is a HEX DUMP:
+
+ FF57504370040000010A02010000000205000000BEOE0000000200007DB6BE14F91FA966342DBA
+ 9777F43DEB4EIB0562AEBB6D97E962F02960F4A9A998B99A357DICOBA39DBIA13B06EIEB36DC6B
+ 2D0159EAC56F4F8746D14623220B9BDA3CCID3B3BF9E6BOEBE30594COD929D3A91C609A7CABBA5
+ AE20E46B4F7F903D9F76A525ECEOOEID2887C06D69B78FC28BF41FB323CB5B7690243CEOAOEB60
+ 54E86049Cl17A06000D129B79159A3DFE2FDBE79EFC96DB57249EA942525EFE95BDCBDCCD9B572
+ 2651BFD2FF080173961COOA456A72EEB375CBDA32AB24F07A42392134BA3FEAAED207D62BEB2E6
+ 13CIAF655BC52FE57BI04F6COA7DAD04088B4C3EDDD5F2A84B423BB388DBAFC2169BA3829EOCAI
+ 708B49AFF045BCA969B15EC520EEBAD482886CCF6FDC9FC667363DEBAF66439A5C3EIB499ABF49
+ 299188C79FA138AE6B9C425A459F25B1CC9827D5D3FFF83EOBEDBBD9FFOIIFAB71B555FAB5396D
+ 439AAOEA43AFFF533F97E11EB13E8DFF3CA822A54AE09A78D0232EF3277C93B4DB60E8740DCDAF
+ 5D1A65DB4366EB3B8A77631E995668DF9F9909F48E824D864C63CAC357FBF7B73BOC6323435D56
+ 284ADBOB3DC104A2DFD3842ID6F837C4728A165FD331C24D595B9E292D9FA6B163EE9FE7D6F70B
+ BFE4E3CEB5DD77C86DE99BA10CFC4082BC9E6EII0A50F7F4BE85EO6AB36BBEC3932AOEC2FCCEB4
+ A87A5A482102000900000000000000000000000823910000000BOI00007E020000005501000000
+ 4E0000008903000009250100000006000000D70300000B30020000002BOOOOOODD030000087701
+ 00000040000000050400000B340100000014000000450400000802010000000F00000059040000
+ 080501000000080000006804000000984C006F00630061006C0020004800500020003500000000
+                                                                             l'1ex,\)\lmp COl'lve:sion
+
+                                          March 4, 1999
+
+
+MEMORANDUM FOR THE PRESIDENT
+
+FROM Bruce Reed
+            Chuck Ruff
+
+RE:            Police Brutality
+
+        We wanted to update you on our discussions regarding Hugh Price's letter to you on the
+issuc of police brutality. Chuck has personally followed up with Mr. Price, who believes --
+along with many of the other civil rights advocates -- that you need to speak to this issue as soon
+as possible. Key White House and Justice Department staff share this sense of urgency, and we
+also generally agree that it is important for you to focus on the constructive steps the Admini-
+stration has and will to take to root out police brutality and strengthen the bond between police
+officers and the communities they serve. Accordingly, we recommend the following:
+
+       (I) Use your next radio address to bring together a group of civil rights advocates,
+       mayors, police chiefs, and rank-and-file law enforcement organizations;
+
+       (2) Challenge these leaders to work with you to make sure that the criminal justice system
+       serves the needs of all Americans, and to make the system both fairer and more effective;
+
+       (3) Discuss new provisions to be included in your 21st Century Crime Bill that will help
+       accomplish this -- such as more and better police training, early warning systems to detect
+       problem police, better educated police forces, improved efforts to recruit minorities, and a
+       long-tell11 commitment to strengthen community policing efforts across the country; and
+
+       (4) Direct the Attorney General to hold a series of meetings with all of these interested
+       groups, and to recommend further action steps that the Administration can take.
+
+Also, attached please find a brief description of some of the initial proposals you may want to
+consider supporting in such a radio address. Although these require further development -- and
+we have not yet consulted with any of the impacted groups -- we thought you might be interested
+in Ollr initial recommendations.
+                                                                                  Hex-Dump Conversion
+                                 Police Abuse and Misconduct
+                                     Policy Announcements
+
+
+        1. Increase funding for police integrity and ethics training. Currently, the federal
+governmelit invests only a limited amount of funds to promote police integrity and to keep
+officers from turning to misconduct or abuse. With community policing helping to decentralize
+the management of police, this training becomes increasingly important. However, of the
+approximately 25 regional training centers funded by the Justice Department's COPS Office,
+only 2 specialize in this important area. By increasing the percentage of funds in the COPS
+program that can be used for training, we can make police integrity and ethics the priority it
+should be in all 25 of the federally-funded regional training centers.
+
+        2. Develop early warning systems to detect abuse and misconduct. Studies show
+that many of the police officers who engage in serious misconduct and abuse tend to be the
+source of a disproportionate number of complaints. Local police departments can and should do
+more to implement early warning systems that allow them to identify and discipline problem
+police officers sooner. Funds could be authorized to help police departments put such early
+warning systems into place.
+
+        3. Develop a national system to track serious misconduct and abuse. The federal
+government could establish a national database that tracks police officers who are found guilty of
+serious misconduct or abuse. State, local and federal law enforcement agencies would then be
+required to consult this database when screening prospective recruits. Such a database would
+help ensure that rogue cops who are disciplined or let go in one jurisdiction are not simply
+re-employed by another law enforcement agency.
+
+        4. Enhance police recruitment of minorities. Fonner New York Police
+Commissioner William Bratton has recommended that police department diversify and improve
+their workforce by aggressively recruiting and educating minority candidates. He has proposed
+offering 12-to-14 year-olds summer jobs and training, establishing public safety high schools,
+and continuing to pay for the education of police cadets in the City College system. The Police
+Corps and/or COPS program could easily be amended to support such long-tenn minority
+recruitment efforts.
+
+       5. Raise police force education levels. A fundamental refonn in policing that is
+supported by both police management and labor is an overall increase in the education level of
+America's police. Our budget this year already includes $20 million for such scholarships.
+
+        6. Establish citizen poliee academies. In some cities, police departments offer a
+vcrsion of their police academy training to citizens and community advocates. The goal of this
+training is two-fold: (I) for police department to better understand the concerns of its citizens;
+and (2) for citizens to better understand how police make important decisions, such as when and
+how to usc force, when to stop a motorist, etc. Support for such academies could be specifically
+authorized by the COPS program.
+                                                                                   Hex-Dump Conversion
+
+
+       7. Promote tough enforcement of our laws. Tough enforcement of our civil rights
+laws mllst be a central element of any plan against police misconduct and abuse. Our budget
+includes an increase of more than $1 million dollars (and 10 new attorneys) just for this purpose.
+
+        8. Complete the transition to community policing. Over the long term, the most
+important thing we can do to affinnatively strengthen the bond between police and the people
+they serve is to renew the COPS program, which has helped to sow the seeds of change in
+thousands of law enforcement agencies throughout the country. If COPS is not renewed this
+year, or if it is replaced with a block grant, the federal government will lose the leverage it has
+gained over the past 5 years in helping to promote changes in law enforcement at the local level.
+                                                                                         Hex-DiJmp Conversion ·
+                           Policc Misconduct and Abuse Q&A
+                                     March 2, 1999
+
+
+Q:   The Diallo case in New York has raised the issue of police abuse and misconduct
+     across the country_ Last week, a number of civil rights groups including the Urban
+     League held a press conference on the issue_ What do you intend to do about this
+     matter'?
+
+A:   With respect to the Diallo case in particular, as the Attorney General said last week, the
+     Department of Justice's Civil Rights Division, the local U.S. Attorney's Office, and the
+     FBI are working with the local prosecutor and local authorities to ensure that every
+     possible step is taken in this case.
+
+     As to the larger issue ofpolice brutality, the criminal justice system must be fair and have
+     the suppOli of all law-abiding Americans. I've asked the Attorney General to consider
+     the thoughtful recommendations submitted by Mr. Price as she continues to work with
+     state and local law enforcement agencies on these matters.
+
+     My Administration is committed to vigorous enforcement of our civil rights laws against
+     those police officers who would betray the public'S trust through lawlessness or brutality.
+      Our record shows that. Since 1993, the Justice Department has criminally prosecuted
+     over 300 officers, resulting in more than 200 convictions. And our budget for next year
+     includes a 15 percent increase for civil rights enforcement across the board, and an even
+     more substantial increase for the Civil Rights Division of the Justice Department, which
+     has responsibility for much of the work involving police misconduct.
+
+     We must also work proactively to ensure that the criminal justice system serves the public
+     safety needs of all Americans. The Justice Department is actively working with law
+     enforcement organizations across the countJy to develop training programs to address
+     issues of misconduct and abuse. And our community policing initiative has been
+     instrumental in strengthening the bond between community residents and their local
+     police, as well as reducing the victimization of minorities. Building this kind of trust is
+     essential if we are to move forward to make our criminal justice system more responsive
+     and fairer for all of our citizens.
+
+

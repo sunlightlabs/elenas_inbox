@@ -1,0 +1,46 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Sarah A. Bianchi ( CN=Sarah A. Bianchi/OU=OPD/O=EOP [ OPD ) }
+
+CREATION DATE/TIME:27-AUG-1998 23:42:26.00
+
+SUBJECT:   weekly report insert
+
+TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO) }
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP   [ OPD ) }
+READ: UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D12)MAIL41462293K.226 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504370040000010A020100000002050000002AOB000000020000B15AAFOFBOID81C082BA6F
+CODCOE8DE7B004866826FA2229C2C134D30F6A81E6FE763A8211D8B6B54764293D3C20D86BA9E5
+5AAF3F96125977D9515B221453FAEIEEFOED4161D6B139598D4764EF9B510CF369AA5DA4308F47
+FD83050C814CFD23EA69509397FBDB5BE090526B758E3DD4489BD9A962EA8CAOB5EAE39DIEAA80
+DD7C074A95F90A70817F5D4D342FD612691DBE40A5284891E81B4E6A5FFOD58473B037D954AB82
+to participate in a children's health insurance outreach event with Irwin Redlener's Children's
+Health Fund to announce two to three new states that are receiving Children's Health Insurance
+Program (CHIP) approvals. The states include Iowa and possibly Georgia, Delaware, Montana
+or Kansas. At this event, the Children's Health Fund will be focusing attention on its new
+medical caravan, which is touring through several states over the next week in an effort to sign
+up uninsured children who are eligible but not enrolled in health insurance programs. In
+addition, the Vice President will also highlight some of the initiatives that Federal government is
+taking in response to the Executive Memorandum you issued in June at the Family Conference in
+Nashville directing eight Federal agencies to enroll and cover uninsured children, including over
+150,000 children's health pamphlets that are being sent Treasury Department workers,
+administering the EITC and other low-income assistance programs.
+
+
+
+
+                                                 Automated Records Management System
+                                                 Hex.Dump Conversion
+
+

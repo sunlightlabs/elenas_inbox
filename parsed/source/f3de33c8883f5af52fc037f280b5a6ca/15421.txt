@@ -1,0 +1,80 @@
+RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+CREATOR: Elizabeth Drye ( CN=Elizabeth Drye/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME: 2-MAY-1997 14:35:09.00
+
+SUBJECT:   POTUS stmt cleared by DOJ, HHS, FDA
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Michelle Crisci ( CN=Michelle Crisci/OU=WHO/O=EOP @ EOP [ WHO]    )
+READ: UNKNOWN
+
+CC: Joshua Silverman ( CN=Joshua Silverman/OU=WHO/O=EOP @ EOP [ WHO]      )
+READ: UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO]    )
+READ: UNKNOWN
+
+TEXT:
+This just needs clearance by Elena and Rahm.
+
+Laura, please have Elena review right at 3:00 and give any changes to
+Michelle.
+
+Michelle,  George Phillips (514-5713) at DoJ will call you when the appeal
+is ready and the statement can be released.  Please then get stmt.
+(cleared by Elena and Rahm and COS deputy (per Barry))   to Josh Silverman
+for release.
+
+Also, please fax final stmt to Geroge Phillips at 514-8071 and to Jim
+O'Hara at FDA press office 301-594-6004.
+
+Sorry   to bark orders.   THanks for your help.
+
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D44]MAIL467525123.116 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504370040000010A020100000002050000005D09000000020000B9747E89C07ECF5AD2BFFO
+7545BF2CDA4ED658DC6BB9C41BFC837523FA56EE52BOFD267E80AE4B8E0681146872151DF0884C
+29B13EOFBBCD95C7E66351C2A7CCCAFF7ADDDA07F3E66B7DBC6E355B881E7516D2EBE2376F3B1D
+08200E6DEE38D3DEDB83EE76E3425AD981CD51303429460DEDBC341BD87B811A6BECC5E4CE2C8D
+5A79FOF1E98943664AOOF20FB2A06978DBA300FDD6E9A4CBBBE917OAB60BAD9D42D464BF21AB2D
+2B325D7874A8DA5B3AB940C0007D75152A735EA36689DFCB1A93551E83E8FD6753151DDCOA6F9F
+OF18B70DF8C20D46E8BDFD8996EB7DB2DE42B9F6CAD11A5857118BED90EA6D31E885F372E33EDD
+FD5CFD836FDDC621F068F2FA44DCC197F47EFEB126AOBA26FD4B2E33656CC21CBA6CE712B96405
+CF067FD116769397942AOA2BD108BDD47895F8COF38ADOE8601D2617FOE046036A3D503A170DEA
+591DC64963BBB46A7D392D385D31389051E41A4D6AAA7CB60E26134D74757F2C46F06FF18B8733
+171AE37284237EOF9638A80F3BF44CB2433A37BF1FD85904DCF14E55DD632BEA95907EA1518EA9
+B958826C803FFEBOD6ECFEF4FD200506970236A7A70BOF581293FE1673431B926F5D05113CB479
+B9C89B79229BAAAED5175E289F8BFF61AEOA50BE54A6D10AOCF8E22F59F04E8C6E4452717A3BA5
+34E8FF07A502000900000000000000000000000823010000000B0100007E020000005501000000
+4E0000008903000009250100000006000000D70300000B300200000028000000DD030000087701
+000000400000000504000008340100000014000000450400000802010000000F00000059040000
+080501000000080000006804000000984C006F00630061006C002000430061006E006F006E0020
+
+Today the Department of Justice filed a notice in the Greensboro U.S. District Court appealing
+the part of Judge Osteen's order that invalidated the Food and Drug Administration's tobacco
+advertising restrictions. The Department is asking for an expedited appeal, because every day of
+delay matters to our children's health. Each day, 3,000 children and young people become
+regular smokers, and 1000 ofthem will have their lives cut short as a result oftheir smoking.
+And this problem of youth tobacco use is getting worse. The percentage of eighth and tenth
+graders who smoke has risen for four consecutive years. The FDA's common sense access and
+advertising restrictions would reverse this trend.
+
+We will continue to work to protect our children from tobacco, and we will not stop until we
+succeed.
+
+
+
+
+                              Automated Records .Management System
+                              Hex-Dump Conversion
+
+

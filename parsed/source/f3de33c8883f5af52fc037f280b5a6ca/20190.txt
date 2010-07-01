@@ -1,0 +1,204 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Edward W. Correia ( CN=Edward W. Correia/OU=WHO/O=EOP [ WHO ] )
+
+CREATION DATE/TIME: 9-JUN-1998 12:09:04.00
+
+SUBJECT:   Benchmarking Summary
+
+TO: Peter Rundlet ( CN=Peter Rundlet/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP'[ OPD ] )
+READ: UNKNOWN
+
+TO: Dawn M. Chirwa ( CN=Dawn M. Chirwa/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+TO: Susan M. Liss ( CN=Susan M. Liss/O=OVP @ OVP [ UNKNOWN ] )
+READ:UNKNOWN
+
+TO: Tracey E. Thornton '( CN=Tracey E. Thornton/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+TO: Maria Echaveste ( CN=Maria Echaveste/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+TO: Steven L. Schooner ( CN=Steven L. Schooner/OU=OMB/O=EOP @EOP [ OMB ] )
+READ: UNKNOWN
+
+TO: Sally Katzen ( CN=Sally Katzen/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ:UNKNOWN
+
+TO: Audrey T. Haynes ( CN=Audrey T. Haynes/OU=WHO/O=EOP @ EOP [ WHO]    )
+READ: UNKNOWN
+
+TO: Charles M. Brain ( CN=Charles M. Brain/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+TO: Ann F. Lewis ( CN=Ann F. Lewis/OU=WHO/O=EOP @ EOP [ WHO]     )
+READ:UNKNOWN
+
+TO: Sylvia M, Mathews ( CN=Sylvia M. Mathews/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+TEXT:
+For purposes of the meeting today, here is the latest version of a summary
+of benchmarking. This is a draft of what would be released with the new
+rule.
+
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D62]MAIL48795206B.126 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504370040000010A02010000000205000000972E000000020000321E9EBED81EAD3A515344
+C4FA04E701E1DF65A15D545B32A7711E5B25708888B6DOAA2D361306B687007F7F279E05F8ECAA
+
+                                                                              Automated Records Management SysteG
+                                                                                      Hex-Dump Conversion
+
+
+                      THE PRICE EVALUATION ADJUSTMENT PROGRAM
+
+            A key component of the Clinton administration's reform of the federal government's
+    procurement assistance programs is its new price evaluation adjustment program. This program
+    was authorized by Congress in 1994 as part of the Federal Acquisition Streamlining Act. The
+    first phase ofthe program, which is being implemented through a revision of the Federal
+    Acquisition Regulation, goes into effect on _ _ __
+
+            Under this new program, owners of small disadvantaged businesses ("SDB's") bidding
+    on competitively awarded federal contracts may qualify for a price evaluation credit of up to
+    10%. Credits will be available only to businesses that have been certified as SDB's by the Small
+    Business Administration. These credits help level the playing field for minority groups who have
+    encountered discrimination in their efforts to compete. Other than receiving these credits, SDB's
+    must compete with all other businesses to win federal contracts. Price evaluation credits are not
+    set-asides. They do not assure that any firm, or group of firms, will win acontract.
+
+            In order to ensure that the use of these credits is fair and meets legal requirements, they
+    will be available only in industries in which minority-owned firms continue to suffer the effects
+    of discrimination. "Benchmarking" provides a methodology for identifying these industries by
+    comparing the actual federal procurement market share of minority-owned businesses with the
+    federal procurement market share that would be expected in the absence of discrimination.
+    Credits will be available only in industries where the actual federal procurement market share
+    ("utilization") falls short of the expected federal procurement market share ("capacity").
+
+    Constitutional Requirements
+
+            The administration developed this benchmarking methodology to ensure that federal
+    procurement complies with the Supreme Court's decision in Adarand Constructors, Inc. v. Pena.
+    In Adarand, the Court held that it is constitutional to provide targeted assistance to
+    minority-owned businesses as long as two requirements are met. The first is that the assistance
+    must serve a "compelling interest." This requirement is satisfied if there has been discrimination
+    that has harmed minority business owners in the particular industry where assistance is to be
+    provided. The second requirement is that the remedy is "narrowly tailored," that is, any
+    assistance targeted to members of a certain race or ethnic group must be necessary to remedy
+    discrimination and must be carefully designed to address its effects.
+
+           A. Compelling Interest
+
+           Based on an extensive review of evidence, the Department of Justice has established that
+    discrimination has harmed minority businesses. In addition to commissioning an analysis of
+    dozens of studies of industries throughout the country, DOJ also reviewed a long history of
+    Congressional findings of discrimination. Congress relied on these findings in enacting
+    affirmative action and other remedial legislation. For example, there is substantial evidence that
+                                                                                 Hex-Dump Conversion
+
+minority-owned businesses have been prevented from obtaining access to capital, from
+participating in trade associations, and from gaining enough experience to become bonded. Most
+of the present effects of discrimination stem from discrimination in the private sector, not in the
+public sector. These limitations have erected substantial barriers to minority-owned firms and
+have hampered their ability to win contracts. For example, in FY 1996, 25 percent of firms that
+participated in SBA's 8(a) program were SOB's, but SOB's won only about 6 percent offederal
+contracting dollars. Consistent with Congress's long-standing determinations, the government
+has a compelling interest in providing targeted assistance to minority businesses.
+
+        B. Narrow Tailoring
+
+        The use of benchmarks helps satisfy the Supreme Court's "narrow tailoring" requirement
+by providing a means for determining whether the effects of discrimination still burden small
+businesses in a particular market. Credits will be used only in those rriarkets where it is still
+necessary to offset the effects of discrimination. Based on FY 1996 data, the Department of
+Commerce estimates that industries representing about 74% of federal contract dollars awarded
+to SOB's will be eligible for price credits. The capacity and utilization of minority-owned .
+businesses in 70 two digit SIC code major industry groups and nine Census divisions for each of
+the three construction major industry groups were determined by analyzing data representing all
+the firms in the United States that bid on federal contracts or participated in the 8(a) programs
+administered by the Small Business Administration. This group of firms represents those that
+were ready, willing and able to fulfill federal contracts in FY 1996.
+
+        The ''utilization'' of minority-owned firms is simply a measure of the total dollar value of
+the federal contracts awarded to them in FY 1996. Calculating the "capacity" of theses firms is
+more complex. In order to estimate capacity, the benchmarks take into account various
+characteristics of firms that bear directly on the value of contracts that they receive, including the
+age and size of the firm. This approach allows Commerce Department statisticians to estimate
+the value of contracts a minority-owned firm would be expected to receive if its success in
+winning federal contracts equaled that of all other firms in the industry of equal age and size. An
+outside panel of statisticians and economists reviewed this methodology and concluded that it
+was the best approach possible.
+
+ The Scope of the Program
+
+        Three agencies, the Department of Defense, NASA, and the Coast Guard have had
+authorization to offer credits since FY 1994. From the inception of the program, DOD has
+awarded about $172 million in contracts through this program. Under the rule announced today,
+all agencies will be required to implement the price evaluation credit program. Currently, data are
+available to allow application of price credits to SOB's that are prime contractors. This step is
+estimated to increase the share of price contracts awarded to SOB's from 6.9% to 7.6% (about $1
+billion). Evaluation credits will be extended to subcontractors on              . Sometime during
+the next year, the Small Business Administration will also use benchmarks in administering the
+
+
+                                                  2
+                                                                                   Hex.Dump Conversion
+
+ 8(a) program. Benchmarks will provide guidance to program administrators, for example,in
+ determining the number and type of firms that will participate in the program. Benchmarks will
+ not apply to the Department of Transportation's program for Disadvantaged Business
+ Enterprises, which is administered by grantees, such as state and local governments.
+
+ The Advantages of Benchmarking
+
+        The benchmarking/price evaluation adjustment program offers several advantages in
+ designing government affirmative action programs to assist SDB's.
+
+        Constitutionality -- The program responds to the core concerns about
+procurement-related affirmative action programs expressed by the Supreme Court. The Court has
+made clear that government may remedy discrimination by the government itself or by the
+private sector. However, the Court has also indicated that any affirmative action program should
+be designed to address the actual effects of past discrimination. Benchmarking provides a means
+for carefully targeting our efforts to remedy those effects.
+
+         Flexibility -- Benchmarks are not quotas. The price evaluation adjustment program
+includes a series of provisions designed to target assistance carefully, to ensure flexibility and to
+maintain vigorous competition. Price credits will not be available in all industries, only those
+where there is evidence of remaining effects of discrimination. Price credits will be available
+only when the government has concluded that race-neutral efforts are inadequate to address past
+discrimination. Even in cases when utilization falls short of capacity in a major industry
+grouping, the relevant agencies retain discretion to adjust or eliminate the credit under some
+circumstances.
+
+         Preserving Competition -- Price and evaluation adjustments are not set-asides. No firm
+or group of firms is guaranteed any contract. These credits provide a small boost for
+minority-owned firms when there has been a record of past discrimination. However, these firms
+must compete with all other firms for contracts. As a result, government can make good faith
+efforts to remedy prior discrimination, while preserving the incentives for firms to compete
+vigorously for taxpayer dollars.
+
+          Annual Review -- Federal procurement data will be reviewed annually to ensure that
+. price credits are available only in those industries where the effects of discrimination persist.
+
+ Industries Where Credits are Available
+
+        Benchmarking estimates are based on two digit SIC code major industry groups. With the
+exception of construction, for which regional benchmarks have been developed, the estimates are
+for the nation as a whole. Based on these benchmarks, the Department of Commerce has
+identified the industries in which credits will be available. A table showing these industries
+appears in the Federal Register of June _ , 1998.
+
+
+                                                   3
+
+

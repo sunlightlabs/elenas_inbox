@@ -1,0 +1,143 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Julie A. Fernandes ( CN=Julie A. Fernandes/OU=OPD/O=EOP [ OPD ) )
+
+CREATION DATE/TIME:11-JAN-1999 18:19:55.00
+
+SUBJECT:   background memo for public charge meeting
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ) )
+READ: UNKNOWN
+
+CC: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP @ EOP [ OPD ) )
+READ:UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO)    )
+READ:UNKNOWN
+
+TEXT:
+here it is.
+
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D73)MAIL43278511W.036 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043D8060000010A020l0000000205000000DB2400000002000006A9D60670F6B589ADOB58
+93F5BECA5l0AD678BOEC6DE716CFC78458623728A06A628504ABCB8EAD7FOCA081D8A5B8188C7A .
+3420E9EB289D5C5FOCEBC07BA4C919B13E54FOD9044C5912652E4FA7C14CF8FBEBCC92D70A7742
+02401520FOFCDF67A09AC15355CA3881AF7107BDE7AOAAF05E52BC7D05114B51482427EE700F7A
+                                      Hex-Dump Conversion
+MEMORANDUM FOR ELENA KAGAN
+
+FROM:          Julie Fernandes
+
+CC:            Cynthia Rice
+
+RE:            Public Charge -- remaining legal issues
+
+DATE:January 11,1999
+
+Recent changes in the welfare and immigration laws, along with changes in the Medicaid
+program, have created some confusion about how Medicaid and Food Stamps should be
+considered in the determination of whether an alien is or is likely to become a "public charge."
+Determination as a "public charge" has significant consequences for an alien -- it can cause them
+to be denied admission to the United States, deported, or denied permanent residency. By
+statute, the INS and State Department are required to consider the alien's age, health, family
+status, assets, resources, financial status, education and skills when considering whether he or she
+is or is likely to become a public charge.
+
+There have been documented instances in which aliens have been denied re-entry to the U.S.
+because they had received Medicaid or Food Stamps. Moreover, aliens have been told that
+receipt of Medicaid and/or Food Stamps will have a negative effect on their immigration status.
+These cases have translated into widespread concern in immigrant communities about legal
+receipt of these benefits, even where the beneficiary is a U.S. citizen child. The concern about
+negative immigration consequences associated with the legal use of Medicaid and Food Stamps
+interferes with the President's goals of increasing insurance coverage and improving public
+health.
+
+After much discussion and debate, the INS and the State Department have agreed to issue
+guidance that past or current use of Medicaid, the Children's Health Insurance Program (CHIP),
+or Food Stamps (or their state analogs) is not to be considered in determining whether a person is
+likely to become a public charge for purposes of admission to the U.S. or adjustment of status,
+except where an alien has received long-term institutionalized care funded by Medicaid.
+
+However, we have not reached resolution on how these programs should be treated for purposes
+of deportation based on having become a public charge. Section 237(a)(5) of the INA states that
+"[a]ny alien who, within five years after the date of entry, has become a public charge from
+causes not affirmatively shown to have arisen since entry is deportable." Under the INS's current
+policy -- informed by a 1948 decision of the Board of Immigration Appeals (BIA), Matter of B.
+-- if an alien is subject to the new binding affidavit of support (post-December 1997 aliens only)
+and (1) receives a public benefit (like Medicaid or T ANF) within five years after entry, (2) there
+is a demand for repayment ofthe value of that benefit from the benefit-granting agency, and (3)
+the sponsor refuses to pay, the alien can be subject to deportation for being a public charge. The
+                             hex-Dump Conversion
+
+theory is that since the new affidavit of support creates a binding obligation on the part of the
+sponsor to support the alien, a failure on the sponsor's part to meet that obligation creates an
+unpaid debt for which the alien is responsible, and thus the alien is deportable as a public charge.
+
+
+With regard to the receipt of federal welfare benefits, this rule has almost no application -- most
+aliens entering the U.S. are not eligible for Medicaid and/or Food Stamps for the first five years
+(unless, of course, we manage to restore some benefits to post-Welfare Act aliens in FY 2000).
+However, states are free to provide welfare-like benefits (including state-only food and health
+benefits) to post-Welfare Act aliens. Thus, aliens in jurisdictions where state-only benefits are
+available may be deterred from taking advantage of these programs if they believe there may be
+deportation consequences down the road. In addition, some states do not make clear whether
+benefits offered are state-only or federally financed, and thus some aliens may be deterred from
+taking advantage of any medical and/or food benefits for fear of the possible deportation
+consequences.
+
+Issue #1
+
+We would like to be able to assure legal immigrants that legal use of Medicaid, CHIP, and Food
+Stamps -- or their state analogs -- would never lead to deportation. The legal question that we
+have posed to the Department of Justice is how we can get to this result in light of the
+aforementioned BlA case (Matter of B.) that sets out this multi-part test for when a finding of
+public charge is triggered. According to DOJ, the binding affidavit of support creates just the
+kind of debt that Matter of B. contemplated.
+
+The Department has indicated that in order for the Attorney General to take certain programs
+(like Medicaid or Food Stamps) off the table for purposes of triggering the Matter of B. test, she
+must issue a regulation. However, they have suggested that it may be possible to issue interim
+guidance that directs INS officers not to consider Medicaid or Food Stamp use as a basis for a
+debt that could trigger deportation, pending the issuance of a regulation that effects this change.
+OLC is looking into whether this option is legally-permissible.
+
+Issue #2
+
+We would like the INS's guidance to layout a clear analytical distinction between those
+programs that should be considered for purposes of the public charge analysis, and those that
+should not.
+
+The current version of the guidance lists examples of those programs that should be considered
+in the public charge analysis (T ANF, SSI) and those that should not be considered (Food Stamps,
+Medicaid, WIC, etc.), but does not articulate the basis for distinguishing one group from the
+other. Thus, if an immigration or consular officer is presented with an alien who is receiving
+benefits from a program not listed, there is no guidance to that officer about whether to consider
+
+
+                                                  2
+                                      Hex-Dump Conversion
+
+        this program for public charge purposes.
+        HHS has made the argument to the INS that the distinction should be between cash and non-cash
+        benefits (with an exception for those who reside in a long-term care institution; though the
+        benefit they receive is non-cash, they are wholly dependent on it for food and shelter). The State
+        Department, while not endorsing any particular framework for the overall distinction, has long
+        relied on the conclusion that Food Stamps are "supplemental" for determining that receipt of
+        Food Stamp benefits should not be considered for purposes of public charge.
+
+        According to DO] and INS, they have not yet concluded whether they can -- in light of their past
+        administrative decisions re: public charge -- separate programs based on a cash/non-cash or a
+        supplemental/non-supplemental distinction.
+
+
+
+
+                                                        3
+
+

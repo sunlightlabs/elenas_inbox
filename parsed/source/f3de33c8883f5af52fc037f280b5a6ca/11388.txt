@@ -1,0 +1,609 @@
+RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+CREATOR: Charles R. Marr ( CN;Charles R. Marr/OU;OPD/O;EOP [ OPD 1 )
+
+CREATION DATE/TIME:25-FEB-1999 12:47:52.00
+
+SUBJECT:   revised Davis-Bacon Memo
+
+TO: kcurran ( kcurran @ fenix2.dol-esa.gov @ inet [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Bruce.Davie ( Bruce.Davie @ MS01.DO.treas.sprint.com @ inet [ UNKNOWN   1 )
+READ: UNKNOWN
+
+TO: Susan Frost     Susan Frost @ ed.gov @ inet [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Tanya E. Martin ( CN;Tanya E. Martin/OU;OPD/O;EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Sandra Yamin ( CN;Sandra Yamin/OU;OMB/O;EOP @ EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Charles M. Brain ( CN;Charles M. Brain/OU;WHO/O;EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN;Elena Kagan/OU;OPD/O;EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: MARTI.THOMAS ( MARTI.THOMAS @ MS01.DO.treas.sprint.com @ inet [ UNKNOWN 1 )
+READ:UNKNOWN
+
+TO: JON.TALISMAN ( JON.TALISMAN @ MS01.DO.treas.sprint.com @ inet [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Jonathan H.·Schnur ( CN;Jonathan H. Schnur/OU;OPD/O;EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Debra J. Bond ( CN;Debra J. Bond/OU;OMB/O;EOP @ EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Broderick Johnson ( CN;Broderick Johnson/OU;WHO/O;EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: David W. Beier ( CN;David W. Beier/O;OVP @ OVP [ UNKNOWN    1 )
+READ:UNKNOWN
+
+TO: Karen Tramontano ( CN;Karen Tramontano/OU;WHO/O;EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Melissa G. Green ( CN;Melissa G. Green/OU;OPD/O;EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+CC: Sally Katzen ( CN;Sally Katzen/OU;OPD/O;EOP @ EOP [ OPD 1 )
+READ:UNKNOWN
+
+TEXT:
+Here is a revised memo for tomorrow's meeting.  I have incorpated
+comments.  Let me know if you have additional comments.  Thanks.====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D93]MAIL42791016F.036 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043BF160000010A0201000000020500000096AF0000000200004ABF945COD82E30133D526
+19B14A5C14E4567BF54DEF33155F14A0714A80E4F042F4CD93D76D8EF411DAB7A7326AC95E64AD
+
+
+                                                                     Automated Records Management System
+                                                                             Hex·Dump Conversion
+MEMORANDUM FOR
+
+FROM:
+
+RE:        Davis-Bacon and School Construction
+
+The President's FY2000 budget again includes a significant school construction proposal --
+Federal tax credits to pay interest on nearly $25 billion in bonds. Last year, our proposal and the
+legislative versions introduced in Congress were silent on Davis-Bacon. Our publicly stated
+position has been that Davis-Bacon would not apply.
+
+Organized labor, especially the Building Trades, have urged the Administration to reconsider our
+position and the President has agreed to take another look at the issue. The NEC has convened
+an inter-agency working group (including DPC, OMB, Treasury, Education, DOL) to examine
+the key policy questions. Specifically, the working group has focused on whether adding a
+Davis-Bacon requirement to the President's school construction proposal:
+
+       1)       Is administratively feasible?
+       I1)      Is good labor policy?
+       Ill) Is good tax policy?
+       IV) And, how it would affect prospects of enacting the President's school construction
+                proposal.
+
+Following a discussion of these key policy questions, the memo discusses the pros and cons of
+four options:
+       1) Decide that Davis-Bacon does not apply.
+
+       2) Remain silent on Davis-Bacon until it becomes critical during consideration of a bill.
+
+       3) Directly add Davis-Bacon to the proposal now.
+
+       4) Indirectly add Davis-Bacon to the proposal now.
+A legislative history and a table on state prevailing wage laws are attached as appendices to the
+memo. Thirty-one states currently have prevailing wage laws.
+
+I. Administrative Feasibility
+Legitimate concerns had been raised about enmeshing the IRS in the administration of a labor
+program. There is consensus within the working group that Davis-Bacon could be applied m
+such a way that the IRS would not have to play an enforcement role.
+
+A Davis-Bacon requirement could be built into the process whereby states and school districts
+submit school construction plans to the Department of Education for review and approval. It
+could work as follows:
+· The Department of Education would issue guidelines that would includ~~F"m
+    Davis-Bacon prevailing wages as one of the required plan components.
+
+·   States and eligible school districts would submit the proposed plans to Education.
+
+·   Education would review the plans for completeness and compliance with construction plan
+    guidelines, and approves compliant plans.
+
+·   States and school districts would issue bonds.
+
+·   States and school districts would insert the Davis-Bacon prevailing wage clause into their
+    construction contracts.
+
+·   The Department of Labor would investigate any complaint filed regarding the wage rate paid
+    on the contract. Treasury would have no role. rfDOL found a violation, it would require
+    the contractor to pay back wages; and may also request the school board to withhold payment
+    until the contractor has paid the back wages. DOL would not reach back to the bond.
+
+    (Note: the Federal tax credit interest payments to investors would in no way be conditioned
+    on compliance with Davis-Bacon).
+
+II. Would it be Good Labor Policy?
+Labor policy arguments in favor of adding a Davis-Bacon requirement to our school
+construction proposal include:
+
+·   A basic underlying purpose of the Davis-Bacon Act is to prevent construction workers' wages
+    from being undercut as a result of aggressive bidding on government construction contracts.
+    The government's large purchasing power combined with the public sector's emphasis upon
+    awarding contracts to the lowest bidder can easily create an environment that encourages
+    contractors to cut costs by paying less than the locally prevailing wage rate.
+
+·   Even where no Federal money is directly involved to finance construction (e.g., HUD and
+    FHA loan guarantee programs) it has been recognized that the application of Davis-Bacon
+    labor standards is appropriate. These HUD and FHA programs recognize that the
+    construction in question would not take place without the Federal support. The Federal
+    government has a responsibility to ensure that its use of taxpayers' resources to support large
+    construction programs does not serve to undercut locally prevailing wages.
+
+·   The application of the Davis-Bacon Act can help ensure quality construction. While the
+    payment of locally prevailing wages does not guarantee that the most skilled and qualified
+    craftsmen will be employed on construction projects, contractors that bid based on paying
+    less that the prevailing local wage rate may find it difficult to hire and retain qualified
+    employees which in turn may lead to inferior construction.
+
+·   The Davis-Bacon Act simply requires that contractors and subcontractors pay their
+    employees the wage rates and fringe benefits prevailing in the locality where the construction
+    work is performed. The Davis-Bacon Act does not impose federal standards inconsistent
+    with the local labor market.
+A counter-argument would be that:                                         Hex-Ournp Conversion
+
+·   Traditionally, school construction is funded by some combination of State funding and local
+    bond initiatives. The Davis-Bacon Act has not applied to these locally-financed school
+    construction projects and the current tax incentive program should not be the catalyst to
+    change that dynamic.
+
+·   The Administration has been successful in protecting Davis-Bacon in connection with
+    Federal outlays. Our position on Davis-Bacon could be weakened if we propose adding it to
+    our school construction bill and then sign a version without Davis-Bacon.
+
+III. Would it be Good Tax Policy?
+Proponents of adding Davis-Bacon to our school construction proposal have made the following
+tax policy arguments:
+
+·   The tax code includes instances where favorable tax consequences of bond financing have
+    been conditioned. For example, the interest from state and local bonds is exempt from
+    Federal taxation, if, among other conditions, the bonds are used for a government purpose.
+    When marketing these bonds, state and local governments describe how proceeds will be
+    used and include covenants on the necessary actions that will be taken to preserve the tax
+    exemption.
+
+·   The tax code includes "multiple objective" tax benefits. For example, there is a tax credit
+    for wages paid to a member or an Indian tribe. The credit, however, is not available if the
+    employee is performing certain gaming activities.
+
+The Treasury Department has raised a range of tax policy arguments against adding a
+Davis-Bacon requirement:
+
+·   Currently there is no reference to the Davis-Bacon Act anywhere in the Internal Revenue
+    Code. Conditioning School Modernization Bonds on compliance with the Act would
+    establish the dangerous precedent of using a tax code incentive to implement social policies
+    unrelated to the benefit that is the object of the tax incentive.
+
+·   It would invite attempts to impose compliance with Davis-Bacon on the whole range of
+    construction projects financed with tax-exempt bonds, low-income housing credits, historic
+    rehabilitation credits, and other tax code proviSions.
+
+·   Ifthe tax code is used to apply Davis-Bacon, efforts to apply Buy America rules, restrict
+    abortion, meet energy efficiency targets, and obtain other unrelated objectives would surely
+    follow. It would not be long before insertion of such extraneous requirements into the
+    Internal Revenue Code would require enforcement by the IRS, imposing upon it an
+    impossible administrative task entirely foreign to its tax collecting mission and its efforts to
+    be more taxpayer friendly.
+
+·   Proponents cite complex requirements associated with other tax incentives as precedent.
+    Such requirements are in the tax code to identify clearly the kind of activity for which the tax
+    benefit is intended and the class of taxpayers eligible to claim the benefit.
+                                                                                        COrds
+                                                                                  n~;(.   ump Conversion
+·   The tradition of tax-exempt State and local financing has always been regarded jealously as a
+    prerogative of State and local governments, free from totally unrelated conditions imposed by
+    the Federal government. Conditioning School Modernization Bonds, that differ from
+    tax-exempt bonds essentially in terms of the depth of the interest subsidy, on compliance
+    with the Act would be considered by State and local governments as an intrusion on their
+    autonomy.
+
+
+IV. Impact on Prospects for Enacting School Construction Proposal
+
+Legislative Arguments in Favor of Adding Davis-Bacon:
+
+·   The moderate Republicans most likely to support the President's school construction
+    proposal tend to be pro-Davis-Bacon. Adding Davis-Bacon could provide another reason
+    for these moderates to support the President's proposal.
+
+·   Enactment of school construction will come down to the endgame. Ifthere is a tax bill,
+    which is an open question, success will hinge on the President rallying people behind school
+    construction and insisting that Republicans include it, and not on whether Davis-Bacon is in
+    or out.
+
+·   Adding Davis-Bacon would energize the building trades to become strong advocates for the
+    school construction proposal.
+
+Legislative Arguments Against Adding Davis-Bacon:
+
+·   Given that the Republicans are ready to propose their own method of financing school
+    construction, however insignificant, it would be dangerous for Democrats to lose their focus
+    by opening a debate on competing proposals among themselves.
+
+·   Expanding Davis-Bacon into this new arena would only strengthen the resolve of the
+    opposition and provide them with a ready-made excuse to kill the President's bill and to pass
+    an alternative oflesser magnitude or of no magnitude.
+
+·   It is possible that if Davis-Bacon were added, some of the groups could be forced to support
+    an alternative proposal put forth by the RepUblicans. For instance, NSBA is on record as
+    opposing a "federal mandate" that overrides state and local prevailing wage laws. As
+    mentioned above, the School Board constituency is one of the strongest in support of the
+    President's proposal.
+
+·   Injecting the expansion of Davis-Bacon into this debate could split the coalition of education
+    groups, community-based organizations and architects that has been working together over
+    the last two years to build public support for the President's proposal. This would make it
+    more difficult for Democrats who would have to choose between two opposing sides - voting
+    for the expansion of Davis-Bacon, particularly in a tax bill, and for more federal control over
+    education decisions than the constituency can support, or voting for the President's current
+    proposal that can potentially garner bipartisan support.
+                                                                                  Hex-Dump Conversion
+·   While the House voted to protect Davis-Bacon in the FY1998 DC Appropriations bill by a
+    vote of234-188, further analysis shows that a majority of the members of the Ways and
+    Means Committee voted against maintaining Davis-Bacon. So although an expansion of
+    Davis-Bacon may have more success on the House floor, it is unlikely that it would ever be
+    passed out of committee in the first place. Moreover, the previous Davis-Bacon votes have
+    focused on its repeal or its application to spending proposals. The accuracy of those vote
+    counts in predicting the outcome on an expansion of Davis-Bacon to a tax proposal is
+    questionable. Thus, the whole school construction bill could be stalled without gaining any
+    ground on Davis-Bacon.
+
+·   The President has made flexibility and accountability major themes in his State of the Union
+    education message. In the President's speech to the National School Boards Association on
+    the day he released his budget, he made it clear that he did not want to micromanage schools
+    and school districts, but rather he wanted to invest in what works and stop investing in what
+    does not. Allowing school construction to be used as a vehicle for expanding Davis-Bacon
+    into the tax arena would raise the issue of increased federal intervention and control not only
+    in the school construction debate but also in the debate over results and accountability for all
+    of the President's education agenda.
+
+
+Options:
+
+1) Decide that Davis-Bacon does not apply.
+We would convey to the Hill and to Labor that we are sticking to our existing position that
+Davis-Bacon does not apply to our school construction tax credit proposal.
+
+Pros:
+· Keeps focus on our underlying school construction proposal and keeps our coalition of
+   education supporters together (e.g. school boards).
+
+·   Avoids setting tax policy precedent as described above.
+
+·   Takes pressure off of our allies on the Hill.
+
+Cons:
+· Misses an opportunity to advance a deeply held goal -- decent wages for construction (and
+   all) workers.
+
+·   Rejects a key Labor priority and to this extent could diminish support for the underlying bill
+    from at least part of this constituency.
+
+2) Remain silent on Davis-Bacon until it becomes critical during consideration of a bill.
+This option would have us continue our posture of "we're taking another look" until we would it
+became critical later in the year when a bill is actually being considered.
+
+Pros:
+
+·   Keeps our options open and avoids offending a key constituency before we know how this
+                                                                                 Hex·Dump Conversion
+    will play out.
+·   Avoids (at least temporarily) setting tax policy precedent as described above.
+
+
+
+·   Staying in limbo could hamper our ability to push the school construction proposal as
+    aggressively as we otherwise would.
+
+·   It is unclear how sustainable this is. Hill may soon press us more flatly -- what is your
+    position?
+
+
+3) Directly add Davis-Bacon to the proposal now
+Either through drafting our own bill or urging Hill Democratic sponsors, we could add a
+provision that states that Davis-Bacon applies to this legislation.
+
+
+
+·   Would advance a deeply held goal-- decent wages for workers.
+
+·   Would add an enthusiastic supporter -- building trades.
+
+
+
+·   Sets a major tax precedent with potentially serious ramifications.
+
+·   Jeopardizes the prospects of the underlying proposal -- risks turning battle over school
+    construction into a fight over Davis-Bacon, dividing the education coalition that is now
+    strongly behind our proposal, and handing Republicans an excuse to be against our proposal
+    and to coalesce around the Archer arbitrage.
+
+4) Indirectly add Davis-Bacon to the proposal now
+We could apply Davis-Bacon indirectly by placing the school construction proposal under the
+General Education Provisions Act (GEP A), which includes a Davis-Bacon requirement. The
+school construction legislation, therefore, would not say Davis-Bacon, but the result would be
+that Davis-Bacon applies. Below are two sub-options for indirectly requiring Davis-Bacon by
+applying GEP A.
+
+A) Deem GEPA to apply
+A provision could be added that would deem the school construction proposal to be an applicable
+program administered under the GEP A, which as mentioned above includes a Davis-Bacon
+requirement.
+
+
+
+·   Would advance a deeply held goal-- decent wages for workers.
+
+·   Would add an enthusiastic supporter -- building trades.
+                                                                                 Hex-Dump Conversion
+
+
+
+·   Would likely be transparent to Congressional members and interested organizations that
+    oppose application of Davis-Bacon to school construction bonds.
+
+·   Sets a major tax precedent with potentially serious ramifications.
+
+·   Jeopardizes the prospects of the underlying proposal-- risks turning battle over school
+    construction into a fight over Davis-Bacon, dividing the education coalition that is now
+    strongly behind our proposal, and handing Republicans an excuse to be against our proposal
+    and to coalesce around the Archer arbitrage.
+
+·   Could require joint referral of the bond initiative to the tax and education committees in the
+    House.
+
+B) Add and outlay component to proposal
+A new grant program would be created, administered by the Secretary of Education under the
+GEPA, that provides resources to states and eligible school districts for administrative expenses
+related to the bond. Examples of administrative expenses include developing the construction
+plan, monitoring and overseeing the construction project, and annual reporting to the Secretary
+on progress and modifications made regarding the construction plan. The grant provision would
+be drafted such that the bond program could only be implemented to the extent the grant program
+is implemented.
+
+< Award $250,000 to states and $100,000 to each eligible school district annually. The
+    amount of the grant could also be sized by the school age population within the state or
+    eligible school district.
+
+< The bond funds would be subject to Davis-Bacon indirectly due to the link with the grant
+    program. The bonds could not be issued absent the grant. It is unclear whether some
+    entities would not take advantage of the bond due to Davis-Bacon application. OMB
+    estimates the cost of this proposal to be $25.5 million.
+
+Pros:   (same as A above, plus)
+
+·   Applies Davis-Bacon while avoiding tax policy precedent.
+
+
+Cons: (same as A above, plus)
+
+·   Adds a new and very late layer of complexity at a time when we need to make our proposal
+    as understandable as possible.
+                                                                          Automated Records Management System
+                                                                                  Hex·Oump Conversion
+FY1998
+In the FY1998 budget, the President requested $5 billion over 5 years in mandatory spending that
+would have leveraged up to $20 billion in bonds over a four year period. The Administration
+made it clear that Davis-Bacon would apply to this initiative since it was a federal spending
+proposal.
+
+The Administration's bill was introduced by Rep. Nita Lowey in the House and Senator Carol
+Moseley-Braun in the Senate. There was no action on the bill in either the authorizing or the
+appropriations committees. The Republican leadership actively kept potential Republican
+supporters off the bill and repeatedly argued that the federal government had no business getting
+involved in building schools at the local level. Several Republicans touted the Davis-Bacon
+requirement as proof of "federal intervention in local education decisions."
+
+The education constituency was split on this issue. AFT, NEA, and urban school
+superintendents supported the bill, but the National School Boards Association (NSBA), one of
+the most vocal constituencies, could not support the President's proposal because of the federal
+Davis-Bacon requirement. This split weakened the support of other groups, such as the National
+PTA and rural and suburban superintendents.
+
+Although school construction was one ofthe last items left on the table when the Balanced
+Budget Agreement was struck in the summer of 1997, the Republican leadership refused to
+move off their position that the federal government had no role in communities' decisions to
+build schools. The only provision they accepted was Rep. Rangel's Qualified Zone Academy
+Bonds (QZABs) for a total of$800 million of new bonding authority (compared to the potential
+$20 billion that would have been leveraged in the President's request). Davis-Bacon was not
+applied to the QZABs.
+
+FY1999
+The President once again made School Construction a major priority in his FY1999 budget, but
+this time the proposal provided a tax credit in lieu of interest and involved no direct federal
+spending. The initiative would have provided federal funding to pay the interest on $22 billion
+in bonds. The Administration was silent on whether Davis-Bacon applied to this proposal in the
+President's budget submission. In Qs and As, however, Administration officials twice
+confirmed that Davis-Bacon had not applied to provisions in the tax code to date and was not
+expected to apply in this case. Further, in a widely vetted letter to Rep. Ballenger, the Director
+ofOMB stated "given that the bond initiative would offer a tax incentive for purchasing bonds
+(as opposed to a direct grant, loan, or loan guarantee) and that the Federal government would not
+be a party to a construction contract, the Administration determined that the Davis-Bacon Act
+does not apply."
+
+This allowed NSBA to become active in the Rebuild America's Schools coalition in support of
+the revised proposal. School board members became strong advocates at the State and local
+level for the proposed federal partnership arguing that the initiative would help leverage local and
+State dollars for construction but would leave decisions on where and how to build schools to
+local communities. Partly as a result of this more unified constituency support, Democrats were
+                                                                                        H~~DYmp Conversion.
+
+able to make a strong case for their school construction bill to the voters. This was reflected in
+the polling results and the Democrats' winning message on education.
+
+Republicans continued to argue against this popular initiative, and in the process lost support for
+their position. The House Ways and Means Committee refused to act on the President's
+proposal, although Chairman Archer included a much smaller arbitrage provision in the
+multi-billion dollar House tax bill that was never signed into law. Rep. Rangel succeeded in
+forcing two House floor votes on the issue - an amendment to instruct conferees to include
+school construction as an amendment to the Coverdell education savings account failed 192-222,
+and an amendment to substitute school construction for Coverdell failed 196-225. Eight
+Republicans were allowed to break ranks with the leadership on one or both of the votes (Leach,
+IA; Morella, MD; Forbes, NY; Gilman, NY; Weller, IL; Johnson, CT; LoBiono, NJ; and
+McHugh, NY).
+
+Senator Moseley-Braun offered her school construction bill as a substitute to the Coverdell
+savings account on the Senate floor. A motion to table the amendments passed 56-42 with
+D' Amato and Specter voting against the motion and 4 Democrats voting in favor (Biden, DE;
+Byrd, WV; Lieberman, CT; and Torricelli, NJ).
+
+Although support for school construction was building, in the end there was no significant tax
+bill that the Administration supported and could use to force an agreement on school
+construction. Republicans rejected Administration efforts to attach school construction to the
+tax extenders package.
+
+FY2000
+The President's FY2000 budget request for school construction expands the FY1999 tax bond
+proposal, this time paying the interest on $24.8 billion in new bonds. Placeholder bills have
+been introduced by Senators Daschle, Lautenberg, and Robb and Rep. Rangel is preparing to
+introduce one in the House. The Senate bills have remained silent on Davis-Bacon. House
+Democrats are working through this issue now and are looking for any signals from us.
+
+Unlike the last two years, the Republican leadership has come out publicly in support of school
+construction and is backing their own school construction proposals. Chairman Archer has
+introduced a $1.4 billion arbitrage initiative similar to his proposal on the tax bill last year.
+While inadequate and flawed, the Archer proposal allows Republicans to argue that they are
+addressing school construction.
+
+The Speaker has mentioned this initiative as a high priority. However, Democratic efforts to get
+bipartisan cosponsorship of the President's proposal have not been successful. It appears that
+the Republican leadership understands they must advance some kind of school construction bill
+this year - the question is whether our proposal will prevail.
+                                                                                         Hex-Dump Conversion
+                        Appen dOIX- S tate PrevaIling w age L aws
+
+                State                  Dollar Threshold Amount for Contract Coverage
+
+Alaska                                                        $2,000
+
+Arkansas                                                      75,000
+
+California                                                     1,000
+
+Connecticut                            400,000 for new constructionllOO,OOO for remodeling
+
+Delaware                                100,000 for new constructionll5,000 for remodeling
+
+Hawaii                                                         2,000
+
+Illinois                                                       none
+
+Indiana                                                      150,000
+
+Kentucky                                                     250,000
+
+Maine                                                         10,000
+
+Maryland                                                     500,000
+
+Massachusetts                                                  none
+
+Michigan                                                       none
+
+Minnesota                                 25,000 where more than one trade is involved
+                                              2,500 where a single trade is involved
+
+Missouri                                                       none
+
+Montana                                                       25,000
+
+Nebraska                                  none, except 40,000 for public school projects
+
+Nevada                                                       100,000
+
+New Jersey                                                    2,000
+
+New Mexico                                                    20,000
+
+New York                                                       none
+
+Ohio                                    55,574 for new constructionlI6,672 for remodeling
+
+Oregon                                                        25,000
+
+Pennsylvania                                                  25,000
+
+Rhode Island                                                  1,000
+
+Tennessee                                                     50,000
+
+Texas                                                          none
+
+Washington                         none (separate 17,500 threshold for state college/university)
+                                                                        .
+
+West Virginia                                                  none
+
+Wisconsin                                 160,000 where more than one trade is involved
+                                             32,000 where a single trade is involved
+                                            (no threshold for state highway contracts)
+
+
+
+States Without Prevailing Wage Laws:                                       AYmmlltGd Records Management System
+                                                                                  HGX.oYmp Conwrsion
+
+Alabama (repealed in 1980)
+
+Arizona (invalidated by 1980 court decision, repealed by referendum in 1984)
+
+Colorado      (repealed in 1985)
+
+Florida     (repealed in 1979)
+
+Georgia
+
+Idaho      (repealed in 1985)
+
+Iowa
+
+Kansas (repealed in 1987)
+
+Louisiana (repealed in 1988)
+
+Mississippi
+
+New Hampshire (repealed in 1985)
+
+North Carolina
+
+North Dakota
+
+Oklahoma       (invalidated by 1995 court decision)
+
+South Carolina
+
+South Dakota
+
+Utah        (repeal in 1981)
+
+Vermont
+
+Virginia
+
+
+(Source: Department of Labor)
+
+

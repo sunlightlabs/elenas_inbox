@@ -1,0 +1,275 @@
+RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+CREATOR: Michael J. Sorrell ( CN=Michael J. Sorrell/OU=PIR!O=EOP [ PIR 1 )
+
+CREATION DATE/TIME:23-FEB-1998 17:18:54.00
+
+SUBJECT:
+
+TO: Janet Murguia ( CN=Janet Murguia!OU=WHO!O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Robert N. Weiner ( CN=Robert N. Weiner!OU=WHO!O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Michael Waldman ( CN=Michael Waldman!OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Dawn'M. Chirwa ( CN=Dawn M. Chirwa!OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Bob J. Nash ( CN=Bob J. Nash!OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Doris O. Matsui   ( CN=Doris o. Matsui!OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Mona G. Mohib ( CN=Mona G. Mohib!OU=WHO!O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Ruby Shamir ( CN=Ruby Shamir!OU=WHO!O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Paul E. Begala ( CN=Paul E. Begala!OU=WHO!O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Gene B. Sperling ( CN=Gene B. Sperling!OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Nelson Reyneri ( CN=Nelson Reyneri!OU=WHO!O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Minyon Moore ( CN=Minyon Moore/OU=WHO!O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Elisabeth Steele ( CN=Elisabeth Steele!OU=WHO!O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Trooper Sanders ( CN=Trooper Sanders/o=ovp @ OVP [ UNKNOWN 1 )
+READ:UNKNOWN
+
+TO: Laura Emmett (,CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Suzanne Dale ( CN=Suzanne Dale!OU=WHO!O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TQ: edley ( edley @ law.harvard.edu @ INET @ LNGTWY [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Maria Echaveste ( CN=Maria Echaveste!OU=WHO!O=EOP @ EOP [ WHO 1 )
+
+
+READ: UNKNOWN
+
+TO: Jon P. Jennings ( CN=Jon P. Jennings/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Ananias Blocker III ( CN=Ananias Blocker III/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Laura K. Capps ( CN=Laura K. Capps/OU=WHO/O=EOP @ EOP [ WHO ) )
+READ: UNKNOWN
+
+TO: Emil E. Parker ( CN=Emil E. Parker/OU=OPD/O=EOP @ EOP [ OPD )           )
+READ: UNKNOWN
+
+TO: Laura K. Demeo ( CN=Laura K. Demeo/OU=WHO/O=EOP @ EOP [ WHO ) )
+READ: UNKNOWN
+
+TO: Cheryl D. Mills ( CN=Cheryl D. Mills/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Robert B. Johnson ( CN=Robert B. Johnson/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Lynn G. Cutler ( CN=Lynn G. Cutler/OU=WHO/O=EOP @ EOP [ WHO)            )
+READ: UNKNOWN
+
+TO: Sidney Blumenthal ( CN=Sidney Blumenthal/OU=WHO/O=EOP @ EOP [ WHO)          )
+READ:UNKNOWN
+
+TO: Beverly J. Barnes ( CN=Beverly J. Barnes/OU=WHO/O=EOP @ EOP [ WHO)          )
+READ: UNKNOWN
+
+TO: Peter Rundlet ( CN=Peter Rundlet/OU=WHO/O=EOP @ EOP [ WHO)          )
+READ: UNKNOWN
+
+TO: Angelique Pirozzi ( CN=Angelique Pirozzi/OU=WHO/O=EOP @ EOP [ WHO)          )
+READ: UNKNOWN
+
+TO: Sylvia M. Mathews ( CN=Sylvia M. Mathews/OU=WHO/O=EOP @ EOP [ WHO)          )
+READ: UNKNOWN
+
+TO: Thurgood Marshall Jr ( CN=Thurgood Marshall Jr/OU=WHO/O=EOP @ EOP [ WHO)           )
+READ: UNKNOWN
+
+TO: Susan M. Liss ( CN=Susan M. Liss/O=OVP @ OVP [ UNKNOWN)     )
+READ:UNKNOWN
+
+TO: Ann F. Lewis ( CN=Ann F. Lewis/OU=WHO/O=EOP @ EOP [ WHO)        )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Mickey Ibarra ( CN=Mickey Ibarra/OU=WHO/O=EOP @ EOP [ WHO)          )
+READ: UNKNOWN
+
+TO: Marjorie Tarmey ( CN=Marjorie Tarmey/OU=WHO/O=EOP @ EOP [ WHO ) )
+READ:UNKNOWN
+
+TO: Andrew J. Mayock ( CN=Andrew J. Mayock/OU=WHO/O=EOP @ EOP [ WHO·)
+
+
+READ: UNKNOWN
+
+TO: Julie A. Fernandes   ( CN=Julie A. Fernandes/OU=OPD/O=EOP @ EOP   [ OPD ]   )
+READ: UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D86]MAIL400313458.026 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043EA050000010A02010000000205000000212000000002000057292A9B9EA9778F9334EE
+711DODAE1849B7EB32BB3570D6F2038AD5D06568982FA46D4239C353EF21D35EEA619998338237
+FB77AF374EF596F2CC08DOCEF6DOF58DDl12575CBO,lOF49CE026581756172C8914F41450E43219
+FAE530BB18A4AE52F3AB3C33C19ED904E7D590500B6A5D944CD5CB5333DDC1C4A86BC14FE43CBO
+5A9133F7BFEE878B97E1E65BOD9B4DE6D35394E75222306506D99582C4A02639F4AAB632AF7AA8
+E12F28630C3C60CD315CC21A081CAA2C1C7C72242C6D3B1290538FDAED5AF720039280E3BE1276
+DDBCD5F70B48BDF540EED885D86FD97DE36668DFBEF577159FC22DA5B8764F50A8FBE1ED4B4B1B
+E0663B8F6ABFDA9733E43124FDD75AE251F90A592B05E6E6CF5E6CBA2461E3BB9C76037C5A3693
+CCF8C4BED6DA701B39C3EB98C109D545219EA90490C16C7486AC362015187AA6500BFF3562CBC8
+18784COOFA1688B5DOOF270CC8EB50FFOA30A580F6627036050F364A5D84F605579875F24FEE8A
+98061B0751E8D2D20877E16FF68911CEFBE60B3C7AC8F16261BA195BBBA923976BACB78AF0611C
+CCE47571816F427C3B37AEAC560D3BC046219E7E3829319C86906CDE4478E8541DC82B2B5AE500
+138AB566C7B7F79D4FAF58DA6195285D7824F758092DDOC462B12A6A29660B62DA423F30FE5031
+11B9CB044402001100000000000000000000000823010000000B010000EE02000000550D000200
+4EOOOOOOF903000009250100000006000000470400000B3002000000280000004D040000005506
+0000004000000075040000000000000000000000007504000008770100000040000000B5040000
+08340100000014000000F50400000802010000000F000000090500000805010000000800000018
+05000000000000000000000000180500000B30010000004EOOOOOO200500000055050002003COO
+00006E050000000000000000000000006E050000000000000000000000006E0500000055010000
+0040000000AA05000000985C005C0050004900520031005C005000520049004E00540045005200
+330000000000000000000000000000000000000000000000000000000000000000000000000000
+0000000000000057494E53504F4F4C00000000002C01F0002C012C012C012C012C01F000300000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+0000002800C8196810480D000011090000005AOOOB010000103600540069006D00650073002000
+4E0065007700200052006F006D0061006E00200052006500670075006C00610072000000000000
+000000010002005802010000000400280000000000000000000000000000000000000001120200
+2400AIOOOOOOA100000029004C1DC012C409000011090000005AOOOB0100001028004300470020
+00540069006D0065007300200052006500670075006C0061007200OOOOOOOOOOOOOOOOOAOOOOOO
+EA0101000200EB0101004400EC0102001700ED010I001700EE0101001700EF0101001700F00101
+001700F10101004500F20102001700F3010B006581F34C38230000000006FOE0300C0000000008
+070C08337C00780000020000F30100000301000400020000000100000004003EOOOOOOOOOOOOOO
+100000000000000000000000031587A624002206000053006D0061006C006C0020004300690072
+0063006C0065000000F02206FOE0300C0000000008070COOE01BOOF41A5C121A09000000000000
+00600018110000102400540069006D006500730020004E0065007700000052006F006D0061006E
+000000000000002900A61DD3126909000011090000005AOOOB0100001028004300470020005400
+69006D0065007300200052006500670075006C00610072000000000000000000DDOA1000830104
+0003000200211000DDDDOBOB00030000040BOODDF102F301F19BF103F301F1F100F301F19BF101
+F301F1F20CF2D41A1F00870105000800580210D802005802000058020200580200001FOOD4CCCC
+CCCCCCCCF100F301F19CF101F301F1CCF100F301F19BF101F301F1CCCC4D454D4F52414E44554D
+80464F528054484580505245534944454E54F30CF3D0041500000B00090001200D700809000120
+1500DOCCF20CF246524F4DE0110C0000000060090COOE03AF30CF3E0110COOOOOOOOB80BOCOOEO
+4A554449544880412E8057494E53544F4ED0041500000B00090001000F500AOB0001201500DOCC
+F20CF25448524F55474BE0110C0000000060090COOE03AF30CF3EO110COOOOOOOOB80BOCOOE045
+52534B494E4580424F574C4553E0110COOOOOOOOC0120COOEOD0041500000B00090001E010300C
+                                                 Hex-Dump Conversion
+
+
+
+
+MEMORANDUM FOR THE PRESIDENT
+
+FROM:      JUDITH A. WINSTON
+
+THROUGH           ERSKINE BOWLES
+                  SYLVIA MATHEWS
+
+DATE:      FEBRUARY 20, 1998
+
+SUBJECT           PRESIDENT'S INITIATIVE ON RACE WEEKLY REPORT
+                  FEBRUARY 14-FEBRUARY20
+
+
+
+ADVISORY BOARD ACTIVITIES
+
+     WNET-TV Event. On February 19, Reverend Suzan Johnson Cook was a
+     guest on a WNET-TV program, in New York City, which focused on race issues.
+     Reverend Cook was joined on the show by Jim Sleeper, author of Liberal
+     Racism.
+
+     Department of Energy Event. As part of Black History Month, Reverend Cook will
+     speak at the U.S. Department of Energy on "African-Americans and Business--The
+     Path Towards Empowerment," and will highlight the significant achievements and
+     contributions that African-Americans have made in America. Secretary Pen a will
+     give remarks and introduce Reverend Cook.
+
+     EEAC Annual Conference. On February 19, Bob Thomas participated on a
+     panel at the annual conference of the Equal Employment Advisory Council.
+     Joining Mr. Thomas on this panel were: Dr. Bernard Anderson, the Department
+     of Labor; Richard McCormick, Chairman and CEO of U.S. West; and
+     Congressman George Gekas.
+
+     Race in America Video. On February 24, Ms. Oh will participate in a public
+     screening of a video, "Race in America" which was created in response to your
+     Initiative on Race by the Multicultural Collaborative, a Los Angeles community
+     organization. At the public screening at the Los Angeles Theater, Ms. Oh will
+                                                        Hex-Dump Conversion
+
+     answer questions about the Initiative and participate in a morning press conference
+     about the screening.
+
+     Pasadena Senior Center. On February 24, Ms. Oh will address an audience of
+     approximately 200 senior citizens about the Initiative.
+
+OFFICE OF THE EXECUTIVE DIRECTOR
+
+     WVEC Town Hall Meeting. On February 20, I participated in a town hall
+     meeting sponsored by WVEC-TV, the local ABC affiliate in Norfolk, VA. I also
+     spoke about the Initiative on a WVEC-TV program, "Forum on Race Relations".
+
+     Corporate Leaders Forum. Secretary of Transportation Rodney Slater has
+     agreed to moderate a corporate leaders forum in St. Louis on March 4.
+     Advisory Board member Bob Thomas will chair the meeting.
+
+     Religious Leaders Forum. Reverend Suzan Johnson Cook will chair a
+     religious leaders forum which will be held in New Orleans on April 15.
+
+FEDERAL AGENCY ACTIVITIES
+
+     Small Business Administration
+
+     MOU with the Big 3 Automakers. The Vice President and Administrator Alvarez
+     announced the signing of an agreement between the SBA and the Big 3 Automakers on
+     February 19, at an event held in the Roosevelt Room. The agreements will increase the
+     auto companies' subcontracts with minority-owned businesses by $3 billion over the next
+     three years.
+
+     Department of Treasury
+
+    . Black Patriots Commemorative Coins. On February 25, Secretary Rubin and
+      Treasurer Withrow will present the first Black Revolutionary War Patriots
+      Commemorative Coin to members of the Black Patriots Foundation, school children, and
+      Members of Congress. The coins honor African Americans who served in and supported
+      America's War ofIndependence.
+
+     Department of Veterans Affairs
+
+     Dialogue on Race For Youth. In support of the Federal Youth Taskforce, a component
+     of the President's Initiative on Race, V A will host a race dialogue for high school
+     students in the Washington metropolitan area. School officials from Georgetown
+     Preparatory School in North Bethesda, MD; Lake Braddock High School, in Fairfax, V A;
+     and axon Hill High School, in Ft. Washington, MD, have expressed an interest In
+     participating. The dialogue will be held in early spring at VA Headquarters.
+
+

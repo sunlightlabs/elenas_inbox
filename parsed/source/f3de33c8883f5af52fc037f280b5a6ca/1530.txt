@@ -1,0 +1,166 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES ,MAIL)
+
+CREATOR: Christa Robinson ( CN=Christa Robinson/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME:26-MAR-1997 21:25:43.00
+
+SUBJECT:   final briefing for mammogram event
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ]   )
+READ: UNKNOWN
+
+TO: Christopher C. Jennings ( CN=Christopher C. Jennings/OU=OPD/O=EOP @ EOP [ OPD ]
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D17]MAIL406177485.016 to ASCII,
+ The following is a HEX DUMP:
+
+FF5750.43B0040000010A02010000000205000000F41D000000020000B08AF758689AA775C4A86B
+96588BE9B396C137D6081F61A010C19B752DC6D8BED49A625FAA830574787DB8B3EEFB2DDFE2D9
+2471F341B930895FOFAD3E11D4190675FBA2FE0894748422E97D66111DD1BB71412A2A524DD77F
+2EOB4529E830C3AD2D169COEB3C9C4FD264F4D958E08B4D20635ED55AB91E82A0977A4C72EDC3D
+593C89520DC1022EB072CD2793EAB3A96C935BC2CA2A5Fl1314FBCBE950B50EE52D276CF3E92DD
+22BD6C8E5A5CBFEF6316A355B513ED9EF74DF8FE614EE6B63D6DDB913415D093A201E7129040C7
+8179FF26CE55DF3542CD1873141DA5A2D51A4D4BD71C53117EA41063EC38BC2EA133335043D47F
+536185EA42366218C49456F094240E55113E4CD92234CF8DEB09BB2B887A858B31C3F2AD1B66A9
+C60378AFEE79D180E10366BED8678A3D4D45BBD8B25555CBEFEEA95F08A6F68969F4C82FB787CO
+1368E960D7AB311220B0978F97045950029124BBF6702CB458D0900CC6F354D5A08602F38095E7
+1D69FE18BDE51AD04C8E607AEOE401DOA169A29E85977F2EDE6A6C6D129A32A6339B5E7D048AA8
+149B7FC79A826F035E42137FFF3ABC32AF0861F36CE7D981FD8B6B662CE4A1E5260EF62EBD9BC2
+C87A4D83E769A13C289C9E07A04B4BFF2655CB2D22E20EF5437CEE72CB1CDBA16EE68D6423F8D5
+7F5A3769AE02000A00000000000000000000000823010000000B0100008C020000005501000000
+4E0000009703000009250100000006000000E50300000B300200000028000000EB030000081601
+000000320000001304000008770100000040000000450400000834010000001400000085040000
+0802010000000F0000009904000008050100000008000000A80400000098430061006E006E006F
+006E0020004C00420050002D003400200020004C006F00630061006COOOOOOOOOOOOOOOOOOOOOO
+000000000000000000000000000000000000000000000000000057494E53504F4F4COOOOOOOOOO
+E0019001C80090019001C800E00190013000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+0000000000000000000000000000000000000B0100002800C8196810480D000011090000005AOO
+OB010000103600540069006D006500730020004E0065007700200052006F006D0061006E002000
+52006500670075006C006100720000000000000000000100020058020100000004002800000000
+000000000000000000000000000000011202002400A1000000A100000043003A005C0050005200
+4F00470053005C00570050005C005300540041004E0044004100520044002E0057005000540000
+000A0000004907010002004A07010044004B07010002004C07010049004D07010044004E070100
+55004F070100490050070100020051070100550052071E0065815A54582100000000AC01980010
+00F41F0200000008337C0078000002000052070000030100040002000000DDOA10008301040003
+000200211000DDDDOBOB00030000040BOODDF1025207F19BF1035207F1F1005207F19BF1015207
+F1CCCCCCCCE0401200000000701170112300EC131200E04D617263688032362C803139393788CC
+CCE0401200000000720D720D1FOOEC131200EOF1005207F19CF1015207F1F20CF24D414D4D4F47
+52414D80414E4E4F554E43454D454E54F30CF3F1005207F19BF1015207F188D0041500000B0009
+                                            Hex-Dump Conversion
+
+
+
+
+                                      March 26, 1997
+
+                          MAMMOGRAM ANNOUNCEMENT
+
+                           DATE:          March 27,1997
+                           LOCATION:      Oval Office
+                           BRIEFING TIME: 11:30 am - 12:00 pm
+                           EVENT TIME:    12:00 pm - 12:30 pm
+                           FROM:          Bruce Reed
+
+
+I.    PURPOSE
+
+      You will be announcing several new steps to encourage women to undergo regular
+      mammograms beginning at age 40 as recommended by the National Cancer Institute in a
+      morning press conference. This will highlight your continued commitment to making
+      mammograms more readily available to women of all ages and the Administration's
+      ongoing efforts to prevent, detect and treat breast cancer more effectively.
+
+II.   BACKGROUND
+
+      At 10:30am on Thursday, the Presidentially appointed National Cancer Advisory Board
+      will announce that they are now recommending mammograms every one or two years for
+      women in their forties. At this event, Richard Klausner, the Director of the National
+      Cancer Institute, will also announce that he is accepting their recommendations. Since
+      1993, the National Cancer Institute has not recommended regular mammograms for
+      women in their forties; the decision had been left up to women and their doctors.
+
+      This decision by the National Cancer Institute means there is now consensus in the
+      medical community on regular mammogram screening. However, the American Cancer
+      Society recommends screening every year and the National Cancer Institute is
+      recommending them every one or two years. In practice the National Cancer Institute
+      informs us that there will be little to no difference between the recommendations.
+
+      You will be responding to these new recommendations by announcing the following steps
+      that will expand coverage of mammograms to women in their forties and to provide
+      clearer educational information to women on this issue:
+
+      ·      MEDICARE LEGISLATION - You will announce that as you forward the health
+             portion of the balanced budget to Congress on Thursday, the Medicare provisions
+             will be amended to include annual mammograms for women age 40 and over.
+                                               Hex-Dump Conversion
+              (This expansion will be added to refonns already in your budget that improve the
+              mammography benefit by eliminating the copayment.)
+
+       ·      MEDICAID
+              You will be announcing that the Health Care Financing Administration (HFCA) is
+              sending a letter to state Medicaid directors to urge states to provide annual
+              mammography screening to Medicaid beneficiaries over age 40, and to assure
+              them that HCF A will provide federal matching payments for these screenings
+
+       ·      FEDERAL EMPLOYEES
+              You will announce that starting January I, 1988, the Office of Personnel
+              Management will require all federal health benefits plans to comply with the
+              National Cancer Advisory Board's recommendations on mammogram screenings.
+
+       ·      PUBLIC INFORMATION CAMPAIGN
+              You will announce that the Administration is launching a public education
+              campaign to provide information to women about breast cancer screening.
+              Secretary Shalala will announce in her remarks that the 1-800-4-CANCER hotline
+              will begin immediately to provide infonnation consistent with the
+              recommendations of the National Cancer Institute.
+
+       ·      CHALLENGE TO PRIVATE SECTOR HEALTH PLANS
+              You will call on the private sector health plans to follow the federal government
+              lead to require federal health plans to provide coverage consistent with the
+              National Cancer Institute's recommendations.
+
+III.   PARTICIPANTS
+
+       Briefing Participants:
+       Secretary Shalala
+       Erskine Bowles
+       Rahm Emanuel
+       Bruce Reed
+       Chris Jennings
+       Kitty Higgins
+       Betsy Myers
+       Terry Edmonds
+       Mike McCurry
+
+       Event Participants:
+       Secretary Shalala
+
+       There will be no invited guests to this event.
+                                                   Hex-Dilmp Conversion
+       Pool Press.
+
+V.     SEQUENCE OF EVENTS
+
+       - You will enter the Oval Office, accompanied by Secretary Shalala, and walk directly to
+ 'the podium.
+       - You will make remarks and then introduce Secretary Shalala.
+       - Secretary Shalala will make remarks.
+        - The Pool will ask questions, and then you will depart.
+
+VI.    REMARKS
+
+       Remarks Provided by Terry Edmonds in Speechwriting.
+
+

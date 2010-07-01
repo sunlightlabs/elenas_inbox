@@ -1,0 +1,62 @@
+RECORD TYPE: PRESIDENTIAL       (NOTES MAIL)
+
+CREATOR: Jose Cerda III ( CN=Jose Cerda III/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME:20-MAY-1999 19:26:54.00
+
+SUBJECT:   is this close?
+
+TO: Elena Kagan      CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO]              )
+READ:UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D94]ARMS22461235T.136 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504300060000010A02010000000205000000C812000000020000BOEEFA29196C8CE805FFF3
+AE4966E8C07B150618D11AEC4EOBADA5CE3322DF99637C8890B8AD234B051F~8F4D56A145812F1
+C9B6172A3E445507EC3C7A3FB51CB37BBE1798F877E8ADAFFE051ACEOCDA499FE69FAAB800131E
+359BB0155F521E478836E010D54407939D7A42047D5724D56C9C20858EABC1EA77B7F5AEFD42CA
+4DF2FC12EB2A90E40COD74C68948A78739FA7AF690C799A4335385DBD3AA2D592EA1886EFCl181
+3AF73D2D5B763D623023C2CBAF2261BA05510081EDB531C67F83F6F6C11B80772582D941B207AA
+4 91C32 7A31E666FCO 7F311CDE98 OEA62 5AO 8A8C4 8 OD6AF4 F6663.3B14 8156D3 OBFB9E4 833 8F93 F7
+C7E4993F546ADOB9961CAA9A3A5CAD6A54D2CIEA8026587B358509828365F85B41D098840C3D3C
+                                                                        Hex-Dump Conversion
+
+                          Improvements to the Senate Juvenile Crime Legislation
+
+
+          ·   Three out of four "core mandates" preserved. Senator Hatch's bill originally
+              weakened all of the core protections for juveniles in state custody. The bill that cleared
+              the Senate today preserves language in current law ensuring that juveniles are separated
+              by sight and sound from adults while incarcerated; that they are not placed in adult jails;
+              and that status offenders are not incarcerated. However, the bill does re-write
+              protections against disproportionate minority confinement. An Kennedy/Wellstone
+              amendment to drop this provision was defeated, and this issue will have to be revisited in
+              conference.
+
+          ·   Guaranteed prevention funds. The original Hatch bill provided almost no funds for
+              prevention. The bill that passed today sets aside 25 percent of the $450 million Juvenile
+              Accountability Block Grant for prevention, authorizes a separate $435 million for        .
+              delinquency and prevention programs.
+
+          ·   No new death penalties. The original Hatch bill made 16-year olds eligible for the
+              federal death penalty. This provision has been dropped.
+
+          ·   Onerous conditions on states deleted. To be eligible for the new block grant funds, the
+              original Hatch bill required states to pass new laws to prosecute juveniles (14-year olds)
+              as adults. These hard requirements have been dropped.
+
+          ·   Federalization clause dropped. The original Hatch bill included a presumption that all
+              juvenile crime should be federal and then referred to states as appropriate. Chief Justice
+              Rehnquist complained bitterly last year about this provision, and it is no longer in the bill.

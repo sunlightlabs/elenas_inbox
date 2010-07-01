@@ -1,0 +1,404 @@
+RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+CREATOR: Michael Cohen ( CN=Michael Cohen/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME:20-JAN-1998 18:43:53.00
+
+SUBJECT:   Class Size memo
+
+TO: Elena Kagan '( CN=Elena Kagan/OU=OPD/O=EOP   @   EOP [ OPD ] )
+READ:UNKNOWN
+
+TO: Barbara Chow ( CN=Barbara Chow/OU=OMB/O=EOP @ EOP      [ OMB ] )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD]         )
+READ: UNKNOWN
+
+CC: Mary I. Cassell ( CN=Mary I. Cassell/OU=OMB/O=EOP @ EOP [ OMB ] )
+READ: UNKNOWN
+
+CC: Barry White ( CN=Barry White/OU=OMB/O=EOP @ EOP [ OMB]       )
+READ: UNKNOWN
+
+TEXT:
+Forgot to actually attach the memo to the previous e-mail.
+
+This has the higher budget numbers for years 6 and 7, consistent with OMB
+tape.  It also has my best cut at laying out the teacher testing issues,
+capturing where DPC and ED are.
+
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D4]MAIL48408691Z.026 to ASCII,
+ The following is a HEX DUMP:
+
+FF5750435AOE0000010A02010000000205000000C86F000000020000A1E339C538FDFD5056CC05
+B80DD949B7AD37592Cl180787BF5274D52689BC56CCC3CE8D732F8A585CFAF787DFE300ABB326A
+69441D4303BC3B5E7D10CA5631105BD4AC11FBAFDA66ACE683E8197D9FED8675E351DB40980140
+5502DB56714BC19AA439A368221BEB343DDA6EFE8BDA4CF8DODE99567C93A067115A7544864AF8
+978A7A6063E462CF2AF5010D5DC2CB7A3432787F23D9DEE6DAFE517CFF40F94DAFC4DEFA37BF9B
+3729A2D7C2346E899EB4965CCEDB9D451DB3F5BFFBB4D059B01D55F02958E792BB5F177116EA68
+AC8ABAF81F64441AC04EOAF6C3F5177B8D860DAFCD97B028D5321E308B1AC5A330957DC8C5C581
+3AF5DF763F4905701F14DF5580347EAD647B41BD80879A2FD32EF1636270634C686A42DD21FD18
+A5C2657F3D6A46DC3FB34F307D478ED6F644463291E7FDD2B55D24OD628F890D2A8383BA62CB6B
+D935AB76CA31F515C277210A2DA8195271C12159643751F14F22EC2A36D4B36BD82B5C803B3007
+97B443C44A694E8465534B155C16DAD94610BEA081808BC7A529412EDAB08DE097EE1842BDB651
+C481776351CF51786AE557DOIF65F9867466B080BB4F3FCE8D10B8920466A8465389C8E7977CDO
+A0174D058BBC29928DOA18B7D37FEIEE62E3E15E5B9C7C662C7707lA940530637DCE85D217CBFA
+BD3A2349CB02001700000000000000000000000055050000004EOO000042030000092501000000
+06000000900300000B300100000055000000960300000055010000004EOOOOOOEB030000094301
+0000001A0000003904000009680100000078040000530400000000000000000000000053040000
+0942020000001DOOOOOOCB0800000055020000004EOOOOOOE80800000B30030000004300000036
+09000006080100000040020000790900000B300300000082000000B90B00000802010000001000
+00003BOCOOOOOB3003000000340000004BOC0000080501000000080000007FOC00000208010000
+0069010000870C000008770100000040000000FOOD000008340100000014000000300EOOOOOOOO
+0000000000000000300E000000000000000000000000300EOOOOOO660200000002000000440EOO
+0000610100000014000000460E00002800D61EC30F3908000001390000005AOOOBOI008B143600
+540069006D006500730020004E0065007700200052006F006D0061006E00200052006500670075
+
+FROM:                  BRUCE REED
+                       MIKE COHEN
+
+SUBJECT:               Class Size Reduction Block Grant Design Issues
+
+        The purpose of this memo is to provide you with some detail about the critical design
+issues in the Class Size Reduction Block Grant. On one issue, a proposal to test new teachers,
+we present options for your consideration.
+
+I.   Background
+
+        The purpose of this initiative is to reduce class size and provide qualified teachers in the
+early grades in order to ensure that all 8 year olds learn to read. More specifically, this initiative
+will help reduce class size from an average of 22 nationwide to an average of 18 in grades 1-3.
+In designing it, we have been guided by'several considerations.
+
+        First, the best research evidence suggests that the benefits of smaller classes accrue
+especially to the most disadvantaged students, and occur most powerfully when classes are no
+larger than 15-18 students. To be both credible and effective, this initiative must get the vast
+majority of classes into that range, especially in high-poverty schools.
+
+       Second, California's recent experience demonstrates that programs to reduce class size
+can and will lead to the hiring of plainly unqualified teachers, particularly in urban areas, if
+safeguards are not built in.
+
+       Third, efforts to reduce class size can exacerbate and be thwarted by shortages of space.
+
+        Fourth, because this is a new area of federal involvement in education, the requirements
+placed on state andlocal grant recipients in order to ensure effective use of the funds must be
+clearly justified and not leave us vulnerable to charges of federal intrusion.
+
+       There are a number of other proposals to provide federal support to recruit or hire
+teachers, primarily to respond to the need to hire an estimated 2 million teachers over the next
+decade. Senator Kennedy proposes to help recruit 100,000 teachers per year over the next decade
+by forgiving up to $8,000 in loans for those who become teachers. Rep. George Miller has also
+advanced a proposal to provide loan forgiveness for an-as-yet unspecified number of individuals
+who enter teaching.
+
+        In contrast to the Kennedy and Miller proposals, your proposal involves funding teacher
+salaries rather than providing loan forgiveness, since the primary cost of reducing class size is
+salaries for additional teachers. In addition, there is little evidence that loan forgiveness is an
+
+
+                                                  1
+                                                                      Automated Records Management System
+                                                                      Hex-Dump Conversion
+considerable evidence to suggest that it is insufficient to attract and retain well prepared
+candidates where they are needed most -- in the high-poverty urban and rural districts that most
+frequently experience shortages.
+
+        Rep. Bill Paxon has also announced a proposal to help school districts hire 100,000
+teachers, by funding teacher salaries. His proposal would pay for this by eliminating Goals
+2000, Americorps and the National Endowment for the Arts as well as a number of other
+programs. While these additional teachers could be used to lower class size, Paxon does not
+require that funds be used for this purpose.
+
+        We believe the existence of a Republican proposal for the federal government to pay
+teacher salaries on a large scale, that attaches conditions to it (e.g., teachers hired with these
+funds could not be tenured), and that requires states and local school districts to share the total
+cost of the initiative, provides some protection for your proposal against charges of federal
+intrusion. It may also ultimately provide the basis of a bipartisan effort.
+
+II. Funding Issues
+
+       Your budget will include $11.4 billion over 7 years to hire 100,000 teachers, enough to
+reduce class size in grades 1-3 to an average of18 nationwide. The table below shows the
+annual budget, number of teachers communities would hire each year, and the impact on class
+sIze.
+
+ Fiscal Year               Budget (in billions)        Number of Teachers     Average Class Size
+                                                       Hired                  in Grades 1-3
+
+ 1998                                                                         21.9
+
+ 1999                      $1.1                        35,714                 20.3
+
+ 2000                      $1.3                        42,208                 20.1
+
+ 2001                      $1.5                        48,701                 19.8
+
+ 2002                      $1.7                        55,195                 19.6
+
+ 2003                      $1.74                       56,331                 19.5
+
+        5 Year Total                     $7.34
+
+ 2004                      $2.3                        82,143                 18.6
+
+ 2005                      $2.8                        100,000                18.1
+
+     7 Year Total                          $12.4
+
+                                                   2
+
+         We would distribute funds to states on the basis of the Title 1 fonnula, which is based on
+the number of students in the state, weighted by poverty and by the cost of education. We also
+considered distributing the funds based on the number of new teachers needed to reduce class
+size to the target of 18, also weighted by poverty and cost. While this fonnula is somewhat
+more efficient in targeting funds for the program purposes, it also would "penalize" California
+because of that state's own class size reduction initiative, a situation that would be untenable.
+Further, while a handful of states either receive "windfalls" or "shortfalls" under the Title 1
+fonnula compared to the number of teachers they would need to hire to reach the class size
+target, for the most part states receive a comparable percentage of the total funds under either
+fonnula.
+
+       With this fonnula, we will be able to reduce average class size in grades 1-3 to 18
+nationwide.
+
+       Once a state has reached an average of 18 in grades 1-3, it could use these funds to further
+reduce class size in those grades, or it could extend its efforts to other grades.
+
+B. Targeting Funds Within States
+
+        Though this proposal is universal in scope, we want to drive the funds to school districts
+with the largest class sizes, and to give priority to high-poverty districts. To accomplish this, we
+would require states to guarantee high-poverty school districts (defined as those with at least
+10,000 poor children or 30% of students in poverty) at least the same share of the State's class
+size funds that they receive of the State's Title 1 funds. States would allocate the remaining
+funds on the basis of class size within the state. In addition, the State would describe its
+methodology for making this allocation in its plan to the Education Department, and make that
+methodology public within the State.
+
+
+        This approach ensures that major urban school districts and other high-poverty areas will
+receive their "fair share" of the funds, while still leaving states with the ability to target funds to
+school districts with large classes, regardless of their income levels.
+
+C. Cost-Sharing Requirements
+
+        We would require matching funds from participating local school districts, on a sliding
+scale that would average 80% federal and 20% local. High-poverty school districts would be
+required to provide a 10% match, while the wealthiest would be required to provide a 50%
+match. School districts would be pennitted to use other federal funds for the match, a feature
+
+                                                   3
+funds. This approach would encourage districts to use Title I funds for class size reductions
+rather than continuing to hire classroom aides or resource teachers who pull Title I students out
+of the classroom -- practices that are neither required or encouraged by the Title 1 statute, but
+which have nonetheless been continued in many districts around the country.
+
+D. Duration of Program
+
+         Because we will be presenting a five year budget, many will automatically assume that
+we expect this initiative to end after five years. This will heighten concerns about federal
+intrusion and fears that local school districts will be stuck with higher personnel costs shortly
+after the program is fully implemented. (Rep. Paxon's proposal would end federal funding after
+5 y~ars.) We believe that the best way to deal with this is to make clear that we see this
+initiative as a continuing part of federal aid to education, and not a one-time effort.
+
+       This longer approach will also be necessary in order to fund 100,000 teachers; the
+funding levels in the first five years will pay for approximately 56,000 teachers. Because we are
+paying for this initiative with revenue from tobacco legislation, we will have an added basis for
+describing this as a long-term program.
+
+
+III. Teacher Quality
+
+         For reductions in class size to result in improved reading performance, we need to make
+sure that both newly hired and existing teachers are fully qualified, and have the knowledge and
+skills to teach reading effectively in small classes. This will not occur without a deliberate
+strategy, for considerable research and recent experience in California demonstrate that many
+existing teachers lack expertise in reading instruction and will need help to alter their teaching
+practices to capitalize on small classes. Further, many school districts, particularly in
+high-poverty areas, will hire teachers on emergency certificates, lacking even basic preparation
+for teaching.
+
+       We propose a number of steps to deal with these challenges.
+
+         A. 10% Set-Aside for Quality: The overall budget for this initiative is based on the
+average cost of newly hired teachers (assuming that 75% are beginning teachers and 25% are.
+experienced teachers returning to the classroom or moving between districts) plus a 10%
+increment in the first 5 years to address teacher quality issues. This will give every school
+district funds that can be used for a number of purposes, including (l) training existing teachers
+in effective reading instruction practices and/or in effective practices in small classes; (2)
+providing mentors or other support for newly hired teachers; (3) providing incentives to recruit
+teachers to high poverty schools; (4) providing scholarships or other aid to paraprofessionals or
+
+
+
+                                                 4
+         We will pennit districts to carry over unspent funds. This will penn it districts to invest
+in the first couple of years in recruiting and training qualified teachers, before reducing class size
+on a large scale.
+
+        Local school districts will also be required (and have the time) to develop an overall
+strategy for improving teacher quality as part ofthe class size reduction initiative, and will be
+encouraged to consider how to use other funds, including federal funds from Title I, Eisenhower
+Professional Development Program, America Reads, and Goals 2000.
+
+
+         B. Require Teachers to Meet State Certification Standards: States and school
+districts would be required to ensure that individuals hired to fill these new positions must be
+either fully certified or are making satisfactory progress toward full certification. School
+districts could use the teacher quality funds described above to provide teachers with the
+additional training needed to meet certification requirements.
+
+        C. Encourage States to Adopt Rigorous Professional Tests and Upgrade Teacher
+Certification Requirements: As part of this initiative, we would allow states to use a small
+portion of their funds to make their teacher certification requirements more rigorous and
+perfonnance-based, reflecting what beginning teachers must know and be ale to do. There is
+widespread agreement that current teacher certification requirements are not a good indicator of
+teacher quality and need to be upgraded. The National Commission on Teaching and America's
+Future, chaired by Gov. Hunt, has recommended that states toughen their licensure requirements
+to reflect what beginning teachers must know and be able to do. The commission recommended
+that prospective teachers be required to pass rigorous tests of subject matter expertise and
+professional knowledge before they start teaching, and that beginning teachers not be fully
+certified until they have taught for several years and can also demonstrate that they have met
+rigorous standards of classroom teaching, through classroom observations and other fonns of
+performance assessment.
+
+        Twenty states have already adopted perfonnance-based standards along these lines.
+Sixteen states are working together to develop common assessments for beginning teachers, and
+additional states are likely to join this effort over time. Pennitting states to use a portion of their
+funds to improve their licensure systems is likely to accelerate these trends and to improve the
+quality and preparation of people entering the profession. 'We estimate that the state the furthest
+along could have more rigorous certification and testing requirements in place in the next 3-4
+
+     1 At the NAACP Convention in July you announced a $65 million per year competitive
+grant program to help high-poverty urban and rural communities recruit and prepare new teachers
+(Title V of the Higher Education Act). Districts that compete for these funds would receive
+priority for showing how they will effectively integrate both class size funds and Title V funds
+into a comprehensive effort to recruit and prepare new teachers.
+
+
+                                                  5
+
+
+         D. Hold School Districts Accountable for Results: As discussed below, part of the
+ overall design for this initiative will be to require school districts and each individual school to
+ make measurable progress in improving reading achievement within 3 years, or take corrective
+ action. If improved reading achievement does not result after corrective action, the district
+ could lose a portion of its continued funding. This approach will provide powerful incentives
+.for school districts to recruit and hire people who will be effective in the classroom, and to
+ provide all teachers in grades 1-3 with high quality professional development.
+
+        All of your advisors agree on the four steps outlined above. There is disagreement about
+one additional component:
+Requiring new teachers to pass state basic skills tests. Most of your advisors feel strongly
+that the above measures are not sufficient to persuade the public that new teachers would be able
+to measure up in the classroom. Existing teacher certification requirements are generally not
+viewed as effective means of ensuring quality, and the tougher standards and testing
+requirements we are encouraging states to adopt will not be implemented for some time. They
+feel that, as part of this initiative, states should require basic skills testing for new teachers, with
+the particular test selected by each state.
+
+         This requirement is intended to give parents the confidence that new teachers in the
+elementary grades at least have basic reading and math skills, and is needed because teacher
+certification standards in general are not seen as much of an indicator of teacher quality. It also
+builds on your landmark efforts on teacher testing in Arkansas. A tough, clear message on
+teacher competency would also make it difficult for Republican opponents to paint this
+initiative as simply a way for the Administration to help the teachers' unions expand their
+memberships. The most comparable Republican proposal takes a "tough on teachers" approach
+by prohibiting the teachers it hires from being tenured
+
+        Under this proposal states would be required to give prospective teachers basic skills tests
+at some point before they enter the classroom. Approximately 40 states already have such a
+requirement in place. 2 As isthe case with teacher certification requirements, states would retain
+the ability to let teachers who fail the test to teach with an emergency certificate. We considered
+and rejected a stronger version, that would require prospective teachers to pass the test before
+they could teach. We felt that such a requirement, while reasonable on its face, might well
+negatively affect the supply of teachers in poor districts that already have a hard time finding
+qualified teachers. It could also drive states to simply lower the passing score on the tests.
+
+
+     2   According to the most recent state-by-state data, the following states would have to
+institute basic skills testing for teachers under this proposal: Alaska, Georgia, Idaho, Iowa,
+Maryland, Missouri, New Jersey, New York, Utah and Vermont.
+
+
+                                                   6
+teacher testing be limited to the proposal above to encourage states to adopt tough new tests of
+subject matter and professional knowledge for beginning teachers, as part of initiatives to
+upgrade teacher certification requirements. If it is necessary to require states to test teachers,
+Education would prefer to require states to implement these new tests.
+
+          Education argues that passing a basic skills test is no assurance of teacher quality. It
+sets the bar too low for teachers, and undermines your long-standing push for higher standards
+for both students and teachers. It sends the wrong message to the public about teachers,
+reinforcing the erroneous notion that academically weak people go into teaching. Further,
+because our proposal would permit teachers who fail the test to teach under an emergency
+license, Education points out that our testing requirement would not prevent the current situation,
+in which people can teach without demonstrating they possess basic skills. Finally, many in the
+civil rights community are likely to raise concerns that new testing requirements, especially
+without proper validation, are likely to have disparate impacts on minorities.
+
+IV. Facilities
+
+        The need to find additional classrooms in order to reduce class sizes will increase the
+existing, considerable facilities needs. However, this impact will not be evenly distributed.
+Some areas, particularly cities with increasing immigrant populations (e.g. Los Angeles, South
+Florida) have schools that are already extremely over-crowded, while there are other cities,
+particularly in the northeast (e.g. Baltimore, D.C.) that have more capacity than the student
+population demands.
+
+         We propose several steps to address facilities issues, including (1) Rely on our $10 billion
+school construction initiative to provide incentives for communities to invest in local school
+facilities; (2) Make facilities changes needed to reducing class size an allowable use of school
+construction funds; (3) Phase in implementation of the class size reduction proposal to allow for.
+enhanced state/local facilities planning; and, (4) Allow those districts that absolutely have no
+space available for additional classes to use some of their class size reduction funds to implement
+proven reading instruction practices instead.
+
+
+V. Accountability
+
+       School districts receiving these funds must be accountable both for using them to actually
+reduce class size, and for improving student performance in reading. We propose three forms of
+accountability.
+
+        First, a school district receiving these funds must show it is actually reducing class size
+rather than filling old slots, by reporting class size in grades 1-3 to parents and to the state each
+year. Each school must publish an annual report card showing reading achievement, class size
+
+
+                                                  7
+
+
+
+
+    and teacher qualifications.
+
+           Second, as is the case with other federal education programs, we will incorporate a
+    "maintenance of effort" provision, that requires states to keep up their overall investments in
+    K-12 education.
+
+             Third, we will require accountability for results. Rather than establishing a separate
+    accountability system for this initiative, we would build on Title 1 reporting and accountability
+    requirements, which already require school-by-school reporting of progress in reading, measured
+    against state standards and tests as defined under Title 1 and Goals 2000. Under Title 1, school
+    districts must define adequate annual progress for each school.
+
+            Under this initiative, for every school that fails to make adequate progress over three
+    years, the district would be required by the state education agency to develop and implement a
+    corrective action plan. If the school fails to show improved reading achievement after
+    implementing the corrective action plan, the state could withhold the equivalent of the school's
+    share of the district's funds.
+
+
+
+
+                                                     8
+
+

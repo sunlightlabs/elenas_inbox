@@ -1,0 +1,192 @@
+     RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+      CREATOR: Seidman Ricki L <Ricki.L.Seidman@usdoj.gov> ( Seidman Ricki L <Ricki.L.Seid
+
+      CREATION DATE/TIME: 6-APR-1999 18:43:39.00
+
+      SUBJECT:   FW: Draft Executive Order on Data Collection for Fed Law Enforcement
+
+      TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP [ OPD I )
+      READ: UNKNOWN
+
+      TEXT:
+      please keep my confidence on this .... give me a call with your comments and
+      I will pass them on.  I will also forward my comments and some of the
+      other comments that have come across my email.
+
+      -----Original Message-----
+      From: Karen L. Stevens
+      Sent: Monday, April OS, 1999 10:22 AM
+      To: Simon Charles A; Scrivner, Ellen; Castello James E; Morton John T;
+      Gess Nicholas M; Katyal Neal K; Scott-Finan Nancy; Jerome Richard;
+      Jackson Brian A; Seidman Ricki L; Hodgkiss Anita; Fernandes Julie;
+      Stevens Karen L.; King Loretta; Yeomans William R.
+      Cc: Rosenbaum Steven; Lee Bill Lann; Kayyem Juliette N.
+      Subject: Draft Executive Order on Data Collection for Fed Law
+      Enforcement
+
+
+       AS discussed at our meeting on Wednesday, attached is a rough first
+      cut for an executive order that would require federal law enforcement
+      agencies to collect data on the use of race and national origin in covered
+      law enforcement activities. We would like to circulate something to folks
+      at Treasury late today, if possible, so please forward me your comments
+      today so that they can be incorporated.   My fax number is 514-9962.
+      Thanks.
+
+      Karen Stevens
+      353-8622
+
+      - EXDATA.WPD==================== ATTACHMENT
+     ATT CREATION TIME/DATE:   0 00:00:00.00
+
+     TEXT:
+     Unable to convert ARMS_EXT: [ATTACH.D50]MAIL472594904.136 to ASCII,
+      The following is a HEX DUMP:
+
+     FF5750433B050000010A02010000000205000000051F000000020000050AFCOOFDD4EE59ADD4CE
+     5BOBC12ADBE1D8384CCED77DDF58FC8BF14A32EE47B4728E3307A22E56F1420EE5C5DBD8958B57
+     80375625EBD7E9F4E53D32D1E893Al12581FF95EAA920C60B6A2B2C7E89F6B193D9E9ACAECEA2C
+     F62AD4983A766D8BDE3607FB8767C4F1540C4C3AEAOC123DD603679BB4BFF520B9B787F7E5F93F
+     3EOOC2A6CDAFD46ED4E2E1E39BA742B2B5B8DB8B1C9AD932C2F952E1FOBD8C674C6592D950092B
+     6F365EDA69672EF4D9D3F3207782CA516DE6389C265CF1B4A82DBCFA09COEB952744B14FBB4773
+                  JIex-Dump Conversion
+
+
+DRAFT     DRAFT      DRAFT           DRAFT          DRAFT    DRAFT
+
+
+
+                     Executive Order No.            *****
+         Fairness in Law Enforcement:             Collection of Data
+
+WHEREAS tools such as traffic stops, searches, and examinations
+of persons entering the jurisdiction of the United States from other
+countries are a vital tool for federal law enforcement and for
+maintaining the integrity of our borders; and
+
+WHEREAS the principles on which our Government is based require the
+fair administration of law enforcement activities throughout the
+Federal establishment, without discrimination because of race,
+color, [religion, gender?] or national origin; and
+
+WHEREAS the systematic and comprehensive collection of statistics
+regarding federal law enforcement activities will increase both the
+effectiveness and the fairness of our law enforcement practices;
+
+NOW, THEREFORE, by the authority vested in me as President by the
+Constitution and laws of the United States of America, including
+[specific statutes?], it is hereby ordered as follows:
+
+
+Section 1. Data Collection
+a. The head of each department in the executive branch of the
+Government shall be responsible for designing and implementing a
+system to collect and report the statistics set forth in section
+2 for each covered law enforcement activity in his or her department
+within six months of the date of this order.
+
+b. The head of each department shall report annually a summary of
+the data collected to the Attorney General [and the Secretary of
+the Treasury?] for transmittal to the President.
+
+c. The report of the Attorney General [and the Secretary of the
+Treasury] shall include recommendations on training, management
+techniques, the investigation and resolution of citizen complaints,
+and other methods for identifying and preventing bias and
+stereotyping based on race, color, or national origin in federal
+law enforcement activities, including specific measures to address
+any indications of bias and stereotyping in the reported statistics.
+
+Section 2. The data collected by each department respecting covered
+law enforcement activities shall, to the extent practicable, be
+sufficiently detailed to permit an analysis, by department component,
+of those categories of stops, requests for consent to search,
+                 Hex-Dump Conversion
+
+searches, and other investigatory targeting relevant to the
+activities of each department and agency by race and national origin,
+[religious garb?] including the following:
+
+(a) Traffic stops
+      (1) the number of individuals stopped
+      (2) the alleged violation leading to the stop
+      (3) the race, ethnicity, gender, [and religious garb if any]
+of the individual stopped
+      (4) other physical or behavioral characteristics of the vehicle
+or driver that prompted the stop
+      (5) whether the officer requested consent to search
+      (6) whether consent was granted
+      (7) whether a search was conducted, and whether consent was
+required for the search
+      (8) any warning or citation issued as a result of the stop
+      (9) whether any other charges were issued pursuant to the stop
+      (10) number of citizen complaints of discrimination based on
+race, color, or national origin, and resolution of such complaints_
+
+ (b) Pedestrian stops
+      (1) the number of individuals stopped
+      (2) the alleged violation or reason leading to the stop
+      (3) the race, ethnicity, gender, [and religious garb if any,]
+of the individual stopped
+      (4) whether the officer requested consent to search
+      (5) whether consent was granted
+      (6) whether a search was conducted, and whether consent was
+required to justify the search
+      (7) any citations or charges resulting from the stop
+      (8) number of citizen complaints of discrimination based on
+race, color, or national origin, and the resolution of such
+complaints_
+
+(c) Point of Entry Stops/Inspections
+      (1) the number of individuals subjected to an examination
+exceeding the agency's customary and routine interview and search
+      (2) the reason for the referral for additional questioning or
+inspection
+      (3) the race, ethnicity, gender, [and religious garb if any,]
+of the individual so referred
+      (4) whether the officer requested consent for a search
+      (5) whether consent was granted
+      (6) whether a search was conducted, and whether consent was
+required for that search
+      (7) whether any violation was found, and the nature of such
+violation
+     (8) whether any other charges were issued
+
+                                         2
+                  Hex-Dump Conversion
+
+      (9) number of citizen complaints of discrimination based on
+race, color, or national origin, and the resolution of such
+complaints:
+(d) Other Targeting of Individuals. Agencies shall collect similar
+data regarding other covered law enforcement activities in which
+individuals are targeted.
+
+Section 3. Covered law enforcement activity.    The term "covered law
+enforcement activity," as used herein, means the targeting of
+individuals for actions such as traffic stops, pedestrian stops,
+a more extensive inspection or interview than that customarily
+conducted with all entrants to the United States, requests for consent
+to search, or searches where the officer is not acting pursuant to
+information on a specific suspect who was described in part by his
+or her race, national origin, or religious apparel.    The term shall
+include such functions of the Federal Bureau of Investigation, the
+Drug Enforcement Agency, the Immigration and Nationalization
+Service, the United States Customs Service, the Bureau of Alcohol,
+Tobacco and Firearms, the Secret Service, the United States Park
+Police, and [Federal Aviation Administration?] , [United States
+Marshals Service?], [Interior Indian Affairs officers?] .
+
+
+
+
+                                        3
+Hex-Dump Conversion
+
+
+
+
+               4
+
+

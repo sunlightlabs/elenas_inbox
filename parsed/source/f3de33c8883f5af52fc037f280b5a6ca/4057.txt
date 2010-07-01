@@ -1,0 +1,271 @@
+ RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+ CREATOR: Michael Cohen ( CN;Michael Cohen/OU;OPD/O;EOP [ OPD ]         )
+
+ CREATION DATE/TIME:21-AUG-1997 10:29:28.00
+
+ SUBJECT:   Draft memo to POTUS
+
+ TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ]    )
+ READ: UNKNOWN
+
+ CC: Laura Emmett ( CN;Laura Emmett/OU;WHO/O;EOP @ EOP    [ WHO ]   )
+ READ: UNKNOWN
+
+ TEXT:
+ Here it is. My meeting on the Hill has been postponed until 3:00 today,
+ so I am going to have Andy Blocker work with me on the legislative
+ strategy portion of the memo when he get back to his office in the next
+ half hour.;;==;;;;;;;;;;;;;;;; ATTACHMENT   1 ;=;;;;==;;;;;==;;;;;
+ ATT CREATION TIME/DATE:   0 00:00:00.00
+
+ TEXT:
+ Unable to convert ARMS_EXT: [ATTACH.D86] MAIL40479323U. 216 to ASCII,
+  The following is a HEX DUMP:
+
+ FF57504302050000010A02010000000205000000104400000002000064A4FFE185FOD896590189
+ 2F6C5058F34781AF9EECOFE534F414E81573E2E20FEB37AD74DC9115E1485A32C98AD168E853FA
+ D80F6616E33132378F62F5980C21A55102CF388EE91EF6C7E4269AF760A396B561780EA9B778B7
+ 7E43880566F0679D20F6CCFDA312E53388D6B3562DFD8621C928FF31B8530E57CA2013FF6A17C1
+ EAOD7903D570AA98CC7C6A2E083C5682B4587D6F704C9088B582B9F49FFAE98F209122EEB2243B
+ DA5A53E70A414D6D906ABCE3DC4C971B1DAC2ECFC20CEFDDB617C8172BCA28A7C67C70FF5A7A14
+ 624EF4BB2B8EF778FF49C966525139DAE2F91FF2A2527DC9C515E60BCC01E19A44D70BAF8F2BEE
+ D7B3EC9E9EF02313BCE1C03CAF03F974114468A6805CDA7F6F9358B829288C8EF37C484957BC7F
+ BE45850BDE48C80C4F05D3508BD026FA228F2981F906836100CDB3CD85DFDD5B22Fl17C1780831
+ 6C05478770DC034DD7FDC24E8E5EOOAEBB409A990EE6778C472AA98AAB88E36D48105E504997A5
+ 34EDE32331686381BF4FBB4CBAF48870DC778443C58BE171EDE5BAB4D5F28CD6C10CBB19A9CD53
+ E82C487CFFF29FCC1EA3B4C2262312E325F34900C4D59592979D11COA894B01BE845A40AC7E52D
+ 13DE855CDB21E4E6C278271FCA3E081C4BD5711AFAEACB97CE7CE2399A9054EB691147B1865F1E
+ E2721C95C802002000000000000000000000000055010000004EOO0000C0030000092501000000
+ 060000000E04000008020100000010000000140400000B30020000003400000024040000080501
+ 0000000800000058040000087701000000400000006004000008340100000014000000A0040000
+ 00000000000000000000A004000000000000000000000000A00400OOOOOOOOOOOOOOOOOOOOOOAO
+ 04000000000000000000000000A004000000000000000000000000A00400000000000000000000
+ 0000A004000000000000000000000000A004000000000000000000000000A004000.00000000000
+ 0000000000A004000000000000000000000000A004000000000000000000000000A00400000000
+ 0000000000000000A004000000000000000000000000A004000000000000000000000000A00400
+ 0000000000000000000000A004000000000000000000000000A004000000000000000000000000
+ A004000000000000000000000000A004000000000000000000000000A004000000000000000000
+ 000000A004000000000000000000000000A004000000000000000000000000A004000000000000
+ 000000000000A00400000B30190002004EOOOOOOB40400002800D61EC30F390800001109000000
+ 5AOOOB01008B143600540069006D006500730020004E0065007700200052006F006D0061006EOO
+ 200052006500670075006C0061007200000000000000000001000100580208337C007800000200
+ 00940200000100010000000400280000000COOOOOOOOOOOOOOOOOO0000000000000112A4552400
+ A1000000A1000000D3050C0000010001000COOD301000400020000000A0000008B02010045008C
+ 02020002008D02010045008E02020002008F020100450090020200020091020100450092020200
+ 02009302010045009402330065814B540C23000000000000000000000000000000000100000004
+ 003E00000000000000100000000000000000000000031D87A624002206000053006D0061006COO
+ 6C00200043006900720063006C0065000000F02206FOE0300COOOO000008070COOEODDOA100083
+ 0104000300A455211000DDD3050C0000010001000COOD3DDOBOBOO030000040BOODDF1029402F1
+ 9BF1039402F14D454D4F52414E44554D80464F528054484580505245534944454E54CCCC46524F
+ MEMORANDUM FOR THE PRESIDENT                                      Hex-Dump Conversion
+
+ FROM:                 Bruce Reed
+                       Mike Cohen
+
+ SUBJECT:              Congressional Fight over national testing initiative
+
+
+  The National Test initiative faces an extremely serious challenge when Congress resumes and
+  takes up the Labor-HHS-ED appropriations bills, possibly as early as September 2 in the Senate
+  and September 4 in the House. The situation in the House is particularly serious. Our chief
+  supporters on the appropriations subcommittee, Dave Obey and John Porter, are very concerned,
+  and staff to Obey, Goodling and Riggs all believe that Goodling can prevail on the House floor.
+. No one has a firm vote count, and the timing of votes in both the House and Senate is subject to
+  change. At present we are proceeding on the basis of a worst-case scenario, while we continue
+  to gather information that will further shape our strategy and enable us to best calibrate our
+  actions to the magnitude of the situation we face.
+
+Where We Stand
+Bill Goodling will offer his amendment to prohibit the use of funds for the development of the
+test; the amendment has the potential of passing by a large margin. As a result of growing
+activity from far right groups and home schoolers, mounting criticism from Lynn Cheney and
+others, and a significant effort on Goodling's part, there is a strong chance that he will carry
+almost all Republicans. Moderate Republicans who support the testing initiative, including
+Mike Castle and Frank Riggs, are unlikely to oppose the committee chairman. Republican
+opposition has apparently been fueled somewhat by the Education Department's award (on
+Monday) of the contract to develop the tests to a consortium of test publishers. To some, this
+was seen as another unilateral action by the Administration that demonstrated our unwillingness
+to recognize a Congressional role in the tests.
+
+In addition, support for the tests is weak in the Black and Hispanic Caucuses. In particular, the
+Hispanic Caucus has indicated that it is very likely to vote with Goodling unless we agree to their
+request to test LEP students in reading in Spanish. In addition, some in the Black Caucus are
+concerned because they believe that the tests will be used primarily to highlight the low
+performance of Black students without also providing them with needed assistance.
+
+Over the next several days we will work to get a better reading on the level of support .for
+Goodling's amendment, and on the blocks of members on whom we must focus.
+
+While no similar challenge has surfaced in the Senate, we believe it is likely that one will arise
+once the appropriations bill reaches the floor, and that the same political forces can lead to a
+defeat for our initiative there as well. We are monitoring the situation in the Senate and will
+develop specific strategies as appropriate.
+Next Steps                                                          Hex-Dump Conversion
+
+Legislative Strategy
+While we gather additional information, we are preparing a 2-pronged strategy to strengthen our
+base of support among Democrats, and to peel off Republican votes. We are focused primarily
+on the House, as we get a better handle on what we might face in the Senate, a Senate strategy
+will take shape as well.
+
+Getting Republican Support
+We know their are a number of Republicans, including Castle, Riggs and Porter, who support our
+idea of national tests, and we believe the idea has broader appeal to Republicans. Our basic
+strategy is to find a compromise that will enable us to keep moving on the development and
+piloting of the test in the coming year, while giving Congress a larger role in shaping the future
+of the testing initiative. Our objective will be to separate those Republicans from Goodling and
+his allies on the far right, since we do not believe it is possible to turn either Goodling or the far
+right around.
+
+Our first step is to explore with Porter possible options for compromise that will strengthen his
+hand on the floor. We will also work with him to secure Livingston's support for the floor.
+
+ We anticipate several options, including offering legislation to seek specific authorization for the
+ tests, and/or to establish NAGB as an independent governing board -- so long as we can continue
+.to develop the tests over the coming year. Our assumption is that this approach will enable
+ those who support the idea of tests but believe Congress should have a role, to split from
+ Goodling. There are potential down sides to these options. We may fail to enact legislation, or
+ we may delay the initial implementation of the tests for a year while NAGB assumes its role.
+ We think these dangers are worth the gamble-- pushing Congress for an up or 톎own vote on the
+ tests will give you a good vehicle for using the bully pulpit, and for splitting more moderate
+ republicans from the far right.
+
+We will be meeting with Porter's staff on Thursday morning. This may yield a different set of
+options for us to consider. If appropriate will ask Secretary Riley to follow up with Porter and
+Livingston. Depending upon where we wind up with them, we may approach Riggs as well.
+
+Securing the Democratic Base [Elena--I want to run this whole section by Andy this morning. He
+should be able to fill in some details, and he ought to be able to improve on the overall
+approach.]
+
+There are three basic steps we must take to strengthen and mobilize our support among
+Democrats.
+
+First, we must make clear to the House Democratic leadership that the standards and testing
+agenda is your top priority, and that together we must work to keep the support of the Democratic
+Caucus. [Do we say that Hilley will develop a strategy to address this when he returns next
+week?]
+                                                              Hex-Dump Conversion
+Second, we must activate and support the allies we know we have, including Obey and others on
+the appropriations committee, George Miller, Dale Kildee and others on the Education and
+Economic Opportunities Committee; Tim Romer, Bob Etheridge and others on the Education
+Task Force, etc.
+
+Third, we must win as much support as possible from the Hispanic and Black caucuses, by
+addressing their concerns where possible or by persuading them to support us on other grounds.
+
+
+Hispanic Caucus: As you know, the principal concern of the Hispanic Caucus is that LEP
+students who are not sufficiently proficient in English be given the opportunity to take a Spanish
+version of the 4th grade reading test, rather than either being unfairly forced to take a test they are
+unprepared for, or being excluded from the test altogether. Caucus members believe that unless
+these students were provided with a Spanish language version of the test, they would be
+stigmatized by virtue of being treated differently, and the schools would not be held accountable
+for their perfonnance. In many states and local school districts with large enrollments of LEP
+students, LEP students are generally excluded from taking tests in English if they have fewer
+than 3 years of schooling. Title 1 now requires that LEP students who are excluded from tests in
+English be given the opportunity to take tests in their primary language in order to best
+demonstrate that they have mastered the subject matter.
+
+We see the 4th grade reading test as measuring the ability of students to read in English (rather
+than solely measuring reading comprehension skills which may ultimately transfer from one
+language to another). Under our current policy, LEP students, with less than three full years of
+schooling would be excluded from the 4th grade reading test (unless their parents requested that
+they take it). In addition, because of the Title 1 requirements as well as similar local and state
+requirements, LEP students excluded from our test will have the opportunity at some point in the
+early grades to take a reading comprehension test in their native language.
+
+Over the past several weeks DPC and the Education Department, with the support of the urban
+school systems participating in the tests, have explored a number of options for addressing the
+concerns of the Hispanic Caucus without altering our fundamental position on the purpose of the
+reading test. In addition to simply reiterating our current policy, these options include (1)
+providing LEP students with reading tests in their native language (either by developing versions
+of the national test in Spanish or other languages, or by helping local districts select high quality
+commercially produced Spanish reading tests); (2) testing students in English and in their native
+language (so that a 4th grade LEP student would take the English test, and could also take a
+Spanish version of the test to demonstrate reading comprehension skills regardless of language
+proficiency); and (3) providing LEP students an opportunity to take a reading test in English after
+the 4th grade, once they have been in school for a full three years.
+
+Secretary Riley had a lengthy and difficult conversation with Rep. Becerra on this issue on
+Tuesday. Becerra reiterated the views of the Caucus, while Secretary Riley indicated his belief
+that we should provide the test in English only because we must send students and parents an
+                                                                    Hex-Dump Conversion
+
+unambiguous signal about the importance of learning to read in English. The Secretary favors
+an option that would enable LEP students who are not tested in 4th grade reading to take the
+reading test at a later time, when they have been in school for a full three years. While there is
+room for continued discussion with Becerra on this issue, it appears very unlikely that we will be
+able to keep the support ofthe Caucus if we hold our current position.
+
+Nonetheless, Secretary Riley believes that we should send an unambiguous signal to LEP
+students and their parents that students should be expected to learn to read in English, and that
+we should provide the reading test only in English. We agree.
+
+We also believe we should explore appealing to the Caucus on a broader basis than simply the
+language of the test, including but not limited to other aspects of our education agenda. In
+addition, we will explore whether appeals to the Caucus from Secretary Pena and former
+Secretary Cisneros could be productive.
+
+Black Caucus: [to be filled in after meeting with Andy -- he thinks we can get 16-18 votes from
+CBC.]
+
+Additional steps: Use Alexis Herman
+
+Communications Strategy
+There are several events already planned that will provide us with good opportunities to make
+our case to the public. These are:
+
+�      Secretary Riley and Bill Goodling will discuss this issue on Face the Nation this Sunday
+
+�      An event for the Vice President the week of Aug 25, including possibly a meeting with
+       some of the high-tech business leaders who endorsed the tests in April.
+
+�      August 30th Radio Address, in which you will announce the findings from a report on
+       NAEP long-term trends. The report shows that we have made some progress but not
+       nearly enough, and you will be able to use these findings to make the case that national
+       standards and tests are critical for continued improvement.
+
+�      We have held Sept. 8 for a test-related event. As we get closer we will be better able to
+       determine the most appropriate event for the day.
+
+It may be helpful for you to take additional steps while on vacation that would reinforce our
+message. For example, it might be a good idea for you to make a brief statement to the press on
+Sunday, after the Riley/Goodling appearance on Face the Nation, to demonstrate your personal
+commitment to the success of the testing initiative, and to take on any of Goodling's points that
+may warrant additional response.
+
+Outreach Strategy
+                                                                 Hex-Dump Conversion
+DPC and the Education Department have been working with our core supporters in the education
+and business community.       The Council of Great City Schools, AFT, NEA, and CCSSO,
+together with BRT and NAB, have already been contacting moderate Republicans (business
+groups), urban Democrats, and the House leadership. In addition, they are working on a joint
+statement of support from others in education community, including local school boards and
+elementary school principals.
+
+We are planning a number of additional steps, including:
+
+�      Mobilizing the High-Tech Business Leaders who have endorsed the test. John Doerr has
+       contacted us, offering to help. We will explore with him a number of possible steps,
+       including asking them to (1) place a full page add in support of the tests in the Post,
+       Times or Wall Street Journal; (2) have prominent Republicans among the CEO's to
+       privately approach the Speaker (3) have all of the business leaders contact key meinbers.
+
+�      Mobilizing CEO's in the main business groups in support of our agenda. While the
+       national organizations have been working with us, it is important for a number of well
+       respected CEO's to personally take on a more active role. It may be helpful for you to
+       personally call a number of them (e.g., Lou Gerstner, John Pepper, Joe Gorman, Frank
+       Schrantz [Elena--this list of names may change somewhat in the final version]) in order to
+       secure their active support.
+
+�      Mobilize Mayors and Governors, especially where we can productively connect
+       supportive mayors and governors with key members of Congress
+
+�      Meet with Black and Hispanic Groups, such as the NAACP and Urban League to discuss
+       the tests. These meetings will be an opportunity to continue to respond to concerns in
+       the minority community. While we may not be able to win any converts through this
+       process, we may at least be able to diminish the intensity of their opposition.
+
+

@@ -1,0 +1,42 @@
+RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+CREATOR: Sarah A. Bianchi ( CN=Sarah A. Bianchi/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME:19-JUN-1998 08:24:39.00
+
+SUBJECT:   weekly
+
+TO: Paul J. weinstein Jr.   ( CN=Paul .J. weinstein Jr./OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+  TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+. READ: UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D14]MAIL40358517X.126 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504370040000010A020100000002050000006209000000020000E843A7D7937C19DF1F40Al
+A8895FCAD5AE4C19E9B64F6E37E1A876FDBF37A782AB2F583F29320DEC645430538603559C2D66.
+                                                                                      fiex-Dump Conversion
+
+       Gore's Family Conference. Next week, the Gores' will be hosting their annual family
+       conference on the subject of health, You and the Vice President will be announcing a new
+       Executive Directive on children's outreach and a multi-faceted national health initiative for older
+       Americans, which includes: new preventive benefits for Medicare beneficiaries; a national
+       Internet site for Medicare beneficiaries; and a new nationwide public/private Medicare council
+       with over 80 organizations to ensure older Americans have the information they need to select
+       health plans and encourage prevention and wellness. To highlight the new Medicare preventive
+       benefits, the First Lady will also announce a new public service announcement on osteoporosis,
+       featuring her and Mrs. Gore. You will also renew your call to pass a patients' bill of rights and
+       reiterate your commitment to continue to push Congress to pass comprehensive, anti-tobacco
+     . legislation.
+
+

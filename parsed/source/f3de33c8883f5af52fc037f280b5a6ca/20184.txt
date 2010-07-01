@@ -1,0 +1,61 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Jose Cerda III ( CN=Jose Cerda III/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME: 8-JUN-1998 16:16:33.00
+
+SUBJECT:   SCOTUS Gun/Drug Statememt
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Michelle Crisci ( CN=Michelle Crisci/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+CC: Cathy R. Mays ( CN=Cathy R. Mays/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+CC: Leanne A. Shimabukuro ( CN=Leanne A. Shimabukuro/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ:UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO]    )
+READ:UNKNOWN
+
+TEXT:
+Michelle, et.al.:
+
+Here's the quickie statement Rahm wanted on this case. Someone will have
+to run it by Counsel. Bill Marshall already told me we shouldn't do
+one ... not a constitutional case, etc.
+
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D23]MAIL461233953.126 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043B0040000010A0201000000020500000044080000000200007703B1A90E865BA9441478
+B57FC45C31806DD7273947DC0831D7E34707109988732079A9CD6208D94F6F07AODAF73A8DE72C
+
+
+
+
+                                                ·
+                                                                                Automated Records Management System
+                                                                                        Hex-Dump Conversion
+
+                                                      DRAFT
+
+                                            Statement by the President
+
+                 I applaud the Supreme Court's decision today to make sure that drug traffickers who carry
+         firearms -- whether on their person or in their car -- are subject to the stiffest penalties possible.
+         Crime rates have fallen in America for six years in a row, but guns and drugs remain serious
+         problems among our youth and in many of our neighborhoods. Today's decision is one more
+         victory for law enforcement and law abiding citizens in the fight against crime and drugs.
+
+

@@ -1,0 +1,31 @@
+RECORD TYPE: PRESIDENTIAL        (NOTES MAIL)
+
+CREATOR: Cynthia A. Rice (       CN~Cynthia   A.   Rice/OU~OPD/O~EOP   [ OPD ] )
+
+CREATION DATE/TIME: 12-AUG-1998 13:22:46.00
+
+SUBJECT:   One page summary for Shea mtg Thurs @ 11:00 (Bruce's office)
+
+TO: Karen Tramontano (    CN~Karen Tramontano/OU~WHO/O~EOP        @ EOP [ WHO ] )
+READ:UNKNOWN
+
+TO: Elena Kagan (    CN~Elena Kagan/OU~OPD/O~EOP        @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Laura Emmett (    CN~Laura    Emmett/OU~WHO/O~EOP     @ EOP [ WHO ] )
+READ: UNKNOWN
+
+TO: Bruce N. Reed (    CN~Bruce   N.   Reed/OU~OPD/O~EOP    @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TEXT:
+Just a reminder of the issues in case you've suppressed them.             ~~~~~~~~~~~~~~~~~~~~   A
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D93]MAIL48400172M.226 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043DA060000010A02010000000205000000A51500000002000074FD06A3E47096A27E93AA
+
+

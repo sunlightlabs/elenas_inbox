@@ -1,0 +1,52 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: "Christopher F. Edley, Jr." <edley@law.harvard.edu> ( "Christopher F. Edley
+
+CREATION DATE/TIME:25-FEB-1999 08:36:41.00
+
+SUBJECT:   Your Police Brutality Meeting
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP [ WHO   1 )
+READ: UNKNOWN
+
+CC: Ora Theard ( CN=Ora Theard/OU=WHO/O=EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Leslie Bernstein ( CN=Leslie Bernstein/OU=WHO/O=EOP [ WHO   1 )
+READ: UNKNOWN
+
+CC: Marjorie Tarmey ( CN=Marjorie Tarmey/OU=WHO/O=EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Cathy R. Mays ( CN=Cathy R. Mays/OU=OPD/O=EOP [ OPD 1 )
+READ: UNKNOWN
+
+CC: Thurgood Marshall Jr ( CN=Thurgood Marshall Jr/OU=WHO/O=EOP [ WHO   1 )
+READ: UNKNOWN
+
+CC: Edward W. Correia ( CN=Edward W. Correia/OU=WHO/O=EOP [ WHO 1 )
+READ:UNKNOWN
+
+CC: Charles F. Ruff ( CN=Charles F. Ruff/OU=WHO/O=EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Robert B. Johnson ( CN=Robert B. Johnson/OU=WHO/O=EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Maria Echaveste ( CN=Maria Echaveste/OU=WHO/O=EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP [ OPD 1 )
+READ:UNKNOWN
+
+CC: Jose_Cerda._III@£ngate2.eop.gov ( Jose_Cerda._III@lngate2.eop.gov [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TEXT:
+Unable to convert ARMS_TST: [MESSAGE.D73)ARMSl9495306H.036
+The following is a HEX dump of the file:
+
+

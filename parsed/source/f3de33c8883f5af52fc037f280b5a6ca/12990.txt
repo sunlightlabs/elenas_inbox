@@ -1,0 +1,22 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Jose Cerda III ( CN=Jose Cerda III/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME:14-JUN-1999 18:06:12.00
+
+SUBJECT:   one more
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP@EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Leanne A. Shimabukuro ( CN=Leanne A. Shimabukuro/OU=OPD/O=EOP@EOP [ OPD ] )
+READ:UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP@EOP [ OPD ] )
+READ:UNKNOWN
+
+TEXT:
+Unable to convert ARMS_EXT: [MESSAGE.D65]ARMS2026l727H.136
+The following is a HEX dump of the file:
+
+

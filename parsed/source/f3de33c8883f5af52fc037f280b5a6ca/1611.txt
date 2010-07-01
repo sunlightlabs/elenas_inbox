@@ -1,0 +1,121 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Michael Cohen ( CN=Michael Cohen/OU=OPD/O=EOP [ OPD ]   )
+
+CREATION DATE/TIME: 2-APR-1997 08:02:58.00
+
+SUBJECT:   CA materials with attachements
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TEXT:
+This time, the attachment is attached.==================== ATTACHMENT   1 ==========
+ATT CREATION TIME/DATE:   0 00.:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D90]MAIL48212319J.016 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043EAOC0000010A02010000000205000000D21F000000020000CD63A750DD690BB6B38256
+94246CDEDE5AEECD271C2DE4C8A3432E401A7473AOABB7AB54F8B60BEDDA749B3A378DE7E3852E
+4C2F33110557804F8DE8469FAD817380BF21845D9A51E10B0951DEBFB8E940BD22EOAE03C5D63E
+04B7867870ECE8C22E7A53F1904736F45E485A80E47B3E6E6F58ECD373D120CD98989AllDC7434
+E91D7C3F5AA70D8AE27AOE9611E489981687E932BEC4208D7D58182A43228663FA138552B5437E
+34DB16151DAA82F49AA94259845ABDC09FE362BE26FB649882B9AE7FO3C81316CllE1898C97D29
+FCEFAB4BDF91F39207DB233548B58DDEEB3ED9Bl18CF121B1E7896152AB21CAA476BF3D4C4935A
+379160B24F7BA17451A90EE326D57DF78135AC593096EC69F8C39CD51A75E739C6A3D21D895A94
+3A029597DA32E18604874F47C5BCCA28C5D7D2F5F35F95CF1A9581DEE70F05573BE539CF4EED8D
+EF2A8C269F17FA98FAABA362F8CD5B94B5C97FF9DF7029530C7CDD6B4D12AOEFD99661F20EDAEE
+F9A77847CD52E2CF57E3783CD2A9956F793270042E066F9D8FDD42FF2DCECD2B7B91D5DC193EA2
+DC68EF526F6C1314DA60B9BB5E75A70983A51AA023027CD1F7FD2D58110E6D70EDFC967C666413
+4228EA4E73EA725E8563318C14D278E24A4569DEl15AEDD9733EECBCDDDE71884AB6E608CEFB4B
+DF47F192D40200A200000000000000000000000823010000000BOl0000DCOA0000005501000000
+4EOOOOOOE70B000009250100000006000000350C0000087701000000400000003BOC0000083401
+000000140000007BOC00000802010000000F0000008FOC00000805Ol000000080000009EOCOOOO
+000000000000000000009EOC0000000000000000000000009EOCOO00000000000000000000009E
+OC0000000000000000000000009EOCOOOOOOOOOOOOOOOOOOOOOOOO9EOCOOOOOOOOOOOOOOOOOOOO
+00009EOC0000000000000000000000009EOCOOOOOOOOOOOOOOOOOO0000009EOCOOOOOOOOOOOOOO
+00000000009EOC0000000000000000000000009EOCOOOOOOOOOOOO0000000000009EOCOOOOOOOO
+00000000000000009EOC0000000000000000000000009EOCOOOOOO0000000000000000009EOCOO
+00000000000000000000009EOC0000000000000000000000009EOC000000000000000000000000
+9EOC0000000000000000000000009EOCOOOOOOOOOOOOOOOOOOOOOO009EOCOOOOOOOOOOOOOOOOOO
+0000009EOC0000000000000000000000009EOCOOOOOOOOOOOOOOOO000000009EOCOOOOOOOOOOOO
+0000000000009EOC0000000000000000000000009EOCOOOOOOOOOO000000000000009EOCOOOOOO
+0000000000000000009EOC0000000000000000000000009EOCOOOO000000000000000000009EOC
+0000000000000000000000009EOC0000000000000000000000009EOCOOOOOOOOOOOOOOOOOOOOOO
+009EOC0000000000000000000000009EOCOOOOOOOOOOOOOOOOOOOO00009EOCOOOOOOOOOOOOOOOO
+000000009EOC0000000000000000000000009EOCOOOOOOOOOOOOOO00000000009EOCOOOOOOOOOO
+000000000000009EOC0000000000000000000000009EOCOOOOOOOO00000000000000009EOCOOOO
+000000000000000000009EOC0000000000000000000000009EOCOO00000000000000000000009E
+OC0000000000000000000000009EOCOOOOOOOOOOOOOOOOOOOOOOOO9EOCOOOOOOOOOOOOOOOOOOOO
+00009EOC0000000000000000000000009EOCOOOOOOOOOOOOOOOOOO0000009EOCOOOOOOOOOOOOOO
+00000000009EOC0000000000000000000000009EOCOOOOOOOOOOOO0000000000009EOCOOOOOOOO
+00000000000000009EOC0000000000000000000000009EOCOOOOOO0000000000000000009EOCOO
+00000000000000000000009EOC0000000000000000000000009EOC000000000000000000000000
+9EOC0000000000000000000000009EOCOOOOOOOOOOOOOOOOOOOOOO009EOCOOOOOOOOOOOOOOOOOO
+0000009EOC0000000000000000000000009EOCOOOOOOOOOOOOOOOO000000009EOCOOOOOOOOOOOO
+                                                         Hex-DiJmp Conversion
+
+                     Background on Standards and Testing in California
+
+State Superintendent of Public Instruction Delaine Eastin's announcement of support for
+California's participation in your national standards and testing initiative comes against the
+backdrop of a difficult history to set standards and assess student progress in California over the
+past 5 years, as well as a major political battle with Governor Wilson over participation in Goals
+2000. Her announcement will gamer support among key segments of the education community
+(e.g., higher education, the AFT and NEA affiliates, the state PTA). It will also be played out in
+the press and in the political arena against the backdrop of recent battles and developments,
+including:
+
+1. Gov. Wilson's cancellation ofthe California Learning Assessment System (CLAS) in
+1994. The CLAS test, initially hailed as a model of new, performance-oriented assessments,
+was canceled by Gov. Wilson in 1994, only a few years after its initial administration. The
+testing program came under strong attack, especially by conservatives, for a number of reasons.
+A number of test questions were seen as focusing on values and invading student and family
+privacy, and some of the reading passages contained material some viewed as objectionable.
+The political outcry that was generated by these concerns overwhelmed the capacity of the
+Department of Education to defend the tests, and Gov. Wilson and the state legislature ended
+funding for the tests in 1994. Since that time, there has been no statewide testing in California,
+although local school districts continue to administer their own tests.
+
+2. Establishment of a state standards commission. In 1995, Assembly Bill 265, with the
+support of both Gov. Wilson and Delaine Eastin, and over the opposition of conservative
+legislators, was enacted into law. The Act establishes a standards commission (2/3 of the
+members appointed by Gov. Wilson, 1/3 appointed by Delaine Eastin) charged with
+responsibility of developing model academic standards. The first standards, in Language Arts
+and Math at Grades 4, 8 and 10, are to be completed and presented to the State Board of
+Education in October 1997. Other subject areas will follow. These model standards will be the
+basis of statewide tests to be developed. The math and Language Arts tests will be available in
+2001. However, unlike statewide tests in almost every other state, these tests will not produce
+individual student scores.
+
+In addition, to encourage individual student testing, this legislation provides a $5 per student
+state subsidy to local school districts that test all students using a state-approved test.
+
+3. Delaine Eastin's Challenge Districts. In 1995, Delaine Eastin launched a standards-based
+challenge to local school districts in California, to adopt local standards and local assessments,
+and to be held accountable for year-to-year progress in reaching these standards. In exchange,
+the California Department of Education provides these districts with technical assistance,
+networking, and regulatory flexibility.
+
+To support these local districts, and to shape the work of the standards commission discussed
+above, Delaine has worked with the higher education community and New Standards to develop
+                                                      Hex-Dump COilve:sioil
+
+model standards. These standards, nearing completion, will be consistent with the NAEP and
+TIMSS frameworks that provide the foundation for the national tests.
+
+Gov. Wilson's 9-month refusal to accept Goals 2000 funds. From July 1995 to March 1996,
+Gov. Wilson refused to permit California to accept Goals 2000 funds, because of unspecified
+concerns about "federal intrusion." This stance was well received among staunch conservatives
+in the state, including in the legislature. However, after increasing pressure from the education
+and business community, and considerable negative press, Gov. Wilson finally agreed to accept
+the funds after receiving assurances from Secretary Riley that this would not interfere with
+California's ability to control its own education system. California is now using most of its Goals
+2000 funds to support an early reading initiative.
+
+

@@ -1,0 +1,142 @@
+RECORD TYPE: PRESIDENTIAL     (NOTES MAIL)
+
+CREATOR: Essence P. Washington ( CN=Essence P. Washington/OU=OPD/O=EOP [ OPD 1 ')
+
+CREATION DATE/TIME:23-MAR-1999 14:36:24.00
+
+SUBJECT:   OPD SERVER UPGRADE (text for message)
+
+TO: Irene Bueno ( CN=Irene Bueno/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Devorah R. Adler ( CN=Devorah R. Adler/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Jonathan H. Schnur ( CN=Jonathan H. Schnur/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Neera Tanden ( CN=Neera Tanden/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Leanne A. Shimabukuro ( CN=Leanne A. Shimabukuro/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Cathy R. Mays ( CN=Cathy R. Mays/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Jeanne Lambrew ( CN=Jeanne Lambrew/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena   Kaga~/OU=OPD/O=EOP   @ EOP [ OPD 1
+READ: UNKNOWN
+
+TO: Thomas L. Freedman ( CN=Thomas L. Freedman/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Jose Cerda III    ( CN=Jose Cerda III/OU=OPD/O=EOP @ EOP [ OPD 1
+READ:UNKNOWN
+
+TO: J. Eric Gould ( CN=J. Eric Gould/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Teresa M. Jones    ( CN=Teresa M. Jones/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: WEINSTEIN_P@A1@CD@VAXGTWY     WEINSTEIN_P@A1@CD@VAXGTWY @ VAXGTWY [ UNKNOWN 1 ) (0
+READ: UNKNOWN
+
+TO: Mary L. Smith ( CN=Mary L. Smith/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Nicole R. Rabner ( CN=Nicole R. Rabner/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Tanya E. Martin ( CN=Tanya E. Martin/OU=OPD/O=EOP @ EOP [ OPD 1 )
+  "
+
+
+
+
+READ: UNKNOWN
+
+TO: Andrea Kane ( CN=Andrea Kane/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Christopher C. Jennings ( CN=Christopher C. Jennings/OU=OPD/O=EOP @ EOP [ OPD 1
+READ: UNKNOWN
+
+TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO 1
+READ: UNKNOWN
+
+TO: Sarah A. Bianchi ( CN=Sarah A. Bianchi/O=Ovp @ OVP [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TEXT:
+PLEASE READ BELOW! VERY IMPORTANT FOLKS!
+---------------------- Forwarded by Essence P. Washington/OPD/EOP on
+03/23/99 02:35 PM ---------------------------
+
+
+
+
+Ashley L. Raines
+03/22/99 10:52:08 AM
+Record Type:     Record
+
+To:      Essence P. Washington/OPD/EOP, Paul J. Weinstein Jr./OPD/EOP, Todd A.
+Summers/OPD/EOP
+cc:
+Subject:         OPD SERVER UPGRADE (text for message)
+
+IS&T needs to upgrade the OPD server this Saturday from 8pm until Sunday
+at 8am in preparation for the NT 4.0 roll-out which begins next week and
+for the Y2K effort.  This upgrade must take place this weekend.  Please
+let me know if there are any serious conflicts with doing this upgrade.
+If there are, we may have to schedule it for one night this week. Thank
+you for your cooperation.
+---------------------- Forwarded by Ashley L. Raines/OA/EOP on 03/22/99
+09:54 AM ---------------------------
+
+
+
+Sharon L. Mitchell
+03/19/99 04:42:08 PM
+Record Type:    Record
+
+To:      Ashley L. Raines/OA/EOP
+cc:      William H. VanHorn/OA/EOP
+Subject:         OPD SERVER UPGRADE (text for message)
+
+The process to upgrade the OPD server will begin Saturday evening, April
+3rd, starting at 8 p.m.   This step is in anticipation of the NT4 rollout
+and to assure Y2K compliancy.   It is expected this task will be completed
+by 8 a.m. Sunday morning.   During this upgrade period, you will not be
+able to access any applications running off the server, including Lotus
+Notes e-mail, nor will you be able to print to any networked printers
+(local printers are not affected) .
+
+If you need to access WordPerfect (which runs off your PC), boot up and
+log on with your password as usual. You will then receive an error
+  ,                                                                         Page 3 of 3
+
+
+message:    "Cannot find file 'Q:\STD\WINDOWS\RWIN\SERVER.EXE' specified
+in the startup group (or one of its components); check to ensure the path
+and filename are correct and that all required libraries are available,"
+Click on the OK button that appears in this box and the message will clear
+itself. Your desktop will then appear where you can select Word Perfect.
+Again some of your desktop applications will NOT work since they are
+executed off the server.
+
+You are asked to please logoff and turn off your PC when departing Friday
+evening or before the upgrade begins.
+
+If you have any questions ....
+
+

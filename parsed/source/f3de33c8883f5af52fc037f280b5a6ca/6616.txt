@@ -1,0 +1,131 @@
+  RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+  CREATOR: Thomas L. Freedman ( CN=Thomas L. Freedman/OU=OPD/O=EOP [ OPD ] )
+
+  CREATION DATE/TIME:10-MAR-199B 12:0B:39.00
+
+  SUBJECT:
+
+  TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+  READ: UNKNOWN
+
+  CC: Laura Emmett    CN=Laura Emmett/OU=WHO/O=EOP @ EOP   [ WHO ] )
+  READ:UNKNOWN
+
+  TEXT:
+  ==================== ATTACHMENT   1 ====================
+  ATT CREATION TIME/DATE:   0 00:00:00.00
+
+  TEXT:
+  Unable to convert ARMS EXT: [ATTACH.DO] MAIL492415861. 026 to ASCII,
+   The following is a HEX DUMP:
+
+  FF57504370040000010A02010000000205000000631600000002000058E7903BDEF6BC4EFFB26E
+  CBAE5E5E1FEAAEFBBB41C3D493501D10C02CBA9C96909E13196E46B9E493C6105647A7FA061463
+  D6FFD3A5D1BOAODOED22BB3B440A7C523D5B6B46A13AFD6CC7AE71A6E4B75CB5B319AB471EBE66
+  81EC5024DA46CF0721ADDE201D61A39D74BBAEOC5B1B9842D9BE1650CB30C7CAE0693D624C2C9D
+  E03E4616BA4AE4D9266D5D3B6BABBB2B499A99F2AC94747ABB3F05B292Cl13A3A174913363BOA3
+  2D952BB7985D09499BF7DA3E5F39AOB7B52D21A4400AC407BODBOBF2901B74ACD969FOD7ABOFE1
+  BE4331FB6D96377C20794BC3585016681BB42872761C5003E9CBDE08EB5B75F91CBOC052065156
+  23F743FDD9D13ADCD5A3FBEA67E09265BB3D1F6C4C4F44CC67FA773CE403E14BD86920B55944ED
+  050110DE7B17F1744CEC42B8260BOAB707E4B1522E35EA0269A3D4717AEEC69A1BD43CC5D94A47
+  293BE9D3CFBBB2166BFE713C3D9344937260FA4EFE34178E07DE20F4F04E59EC02A9530D709FF8
+  66BF2815BOEB66COEDBEC964A260B45ABBE6916E9565D7BCC31687BOF1DED4C3C5DCCB6DOB8A6E
+  DC6529920851225B271DDF662B236ACE3CE921443F22F32123CBC97A224A490B71EF87FD361F71
+  23A973477933B03720AB63014F10D7EOF76B353BFF472967CEDCFEBE7C020F3BE1FC871F9FD2BE
+  9AB224AA3D02000900000000000000000000000823010000000B0100007E020000005501000000
+  4E0000008903000009250100000006000000D70300000B300200000028000000DD0300000B7701
+  000000400000000504000008340100000014000000450400000802010000000F00000059040000
+  OB05010000000B0000006B040000009B4C006F00630061006C0020005000720069006E00740065
+  007200000000000000000000000000000000000000000000000000000000000000000000000000
+  00000000000000000000000057494E53504F4F4COOOOOOOOOOCBOOCB002C012C012C012C01C800
+  CB00300DOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO000000000000000000000000
+  000000000000000000000000000000000000000000000000000000000000000000000000000000
+  000000000000000000000000000000000000000000000000000000000000000000000000000000
+  000000000000000000000000000000000000000000000000000000000000000000000000000000
+  000000000B0100002BOOD61EC30F390B000011090000005AOOOB01008B143600540069006D0065
+  00730020004E0065007700200052006F006D0061006E0020n052006500670075006C0061007200
+  00000000000000000100020058020100000004002BOOOOOOOOOOOO000000000000000000000000
+  00011202002400A1000000A10000000AOOOOOOD20301000200D30301004400D40301000200D503
+  01004400D60301004500D70302000200DB0301004500D90301000200DA0301000200DB03010044
+  00099F6D2300000000000000000000000000004D060B337C007BOO00020000DB03000003010004
+  0002000000DDOA10008301040003000200211000DDDDOBOB00030000040BOODD9BE04012000000
+  00D30FD30F2200EC131200EOF20CF2544F424143434F804641524D455253F30CF38088D0041500
+  000B00090001B0040000000001201500DOED401200000000A311A3112400EC131200E04D617263
+  6B80392C803139393B88CCCCF20CF24261636B67726F756E643AD0041500000B000900017B07CB
+  02030001201500DOCCE0110COOOOOOOOOB070COOEOBOF30CF353696E6365B0746865B031393330
+  732CB0746F626163636FB0707269636573B06B617665B06265656E80737570706F727465648061
+  6E648073746162696C697A6564806279B0746B65806665646572616CDOOl1500000B0009000150
+  09A004050001201500D0676F7665726E6D656E74F01C04F073B0636F6D6D6F64697479B0737570
+  706F7274B070726F6772616D2E80B0546B65B0746F626163636F8070726F6772616D806F706572
+
+                                         TOBACCO FARMERS                 Automated Records Management System
+                                            March 9, 1998                Hex-Dump Conversion
+
+      Background:
+
+               Since the 1930s, tobacco prices have been supported and stabilized by the federal
+      government's commodity support program. The tobacco program operates through a
+      combination of marketing quotas, which limit supply, and no-net-cost tobacco loans, which help
+      to balance supply with demand. There are two main types of tobacco, Flue-cured and Burley.
+      Flue-cured is common in North Carolina, Burley is more popular in Kentucky.
+
+               The settlement agreement with the Attorneys General did not outline a plan to
+      compensate farmers for the negative effects of diminished domestic tobacco sales that might
+      result from comprehensive legislation. The President, however, made protecting tobacco
+      farmers and their communities one of the five key elements of his plan for comprehensive
+      tobacco legislation.
+
+
+      Status in Congress:
+
+              Thus far, three types oflegislative approaches have been discussed. First, Senator Lugar
+      has proposed legislation that would quickly "buy-out" quota owners from the governmental
+      system at approximately $8 a pound. In Senator Lugar's plan, tobacco prices would then be
+      subject to the free market. Second, Senator Ford has proposed legislation that would maintain
+      the current quota system. However, if prices decline Senator Ford would require the
+      government to compensate farmers for the difference between the prices farmers would have
+      enjoyed without legislation and the diminished prices they may experience -- up to a total of up
+      to $8 per pound. Senator Ford's bill also includes approximately a $500 million a year
+      transistion fund for communities. Finally, Senator Robb has legislation that would combine
+      elements of both pieces of legislation. Senator Robb plans on buying-out farmers, but replacing
+      the quota system with a production control system based on licenses. Unlike quotas, licenses
+      would be given only to those who actually grew tobacco and could not be bought or rented.
+
+               No consensus has yet emerged in the tobacco growing community as to which legislation
+      is preferred. Senator Ford's proposal, the LEAF Act, appeals most to Burley growers like
+      those in Kentucky who have small farms and want to continue the quota program. Senator
+      Robb's approach has gained some support from Flue-cured farmers (based mainly in North
+      Carolina and Virginia) who believe the buy-out and license system better fits more
+      capital-intensive Flue-cured production. Senator Lugar's approach has some appeal to
+      conservative farmers but has not attracted widespread support, and even those tobacco-state
+      senators like McConnell who may philosophically favor this approach likely would not come out
+      for it publicly.
+
+            Senators Ford and Robb have discussed a compromise bill which would treat Flue-cured
+      and Burley tobacco differently. Under this approach, Flue-cured growers would be bought-out
+
+
+
+
+       and remaining growers would use a license system like that supported by Senator Robb, Burley
+       growers would remain subject to the quota system as favored by Senator Ford in the LEAF Act.
+       The Administration has encouraged their efforts at compromise. Many members of the House are
+       looking to Ford and Robb for a workable compromise which could then be introduced by a
+       tobacco state coalition in the House. The major issue separating Ford and Robb at this point is
+       Robb's belief that there should be a decrease in the legislatively-set price of Flue-cured tobacco
+       so it can be more competitive internationally. Senator Ford has opposed this, and the
+       Administrationhas expressed concern to Robb's staff that decreasing the price of tobacco, no
+       matter how small its effect on the price of cigarettes, is likely not compatible with comprehensive
+       tobacco legislation. Senators Helms and Faircloth originally saw Senator Ford's bill as a useful
+       block in place of Senator Lugar's bill, and Ford attracted their initial support along with that of 4
+       other Republican co-sponsors. Senator Ford continues to work with Helms and Faircloth in
+       crafting a bill that can obtain bipartisan support.
+
+
+
+
+                                                                         Automated Records Management System
+                                                                         Hex-Dump Conversion
+
+

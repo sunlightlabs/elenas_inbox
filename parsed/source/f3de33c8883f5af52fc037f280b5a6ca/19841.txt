@@ -1,0 +1,387 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Ingrid M. Schroeder ( CN=Ingrid M. Schroeder/OU=OMB/O=EOP [ OMB 1 )
+
+CREATION DATE/TlME:11-MAY-1998 15:42:01.00
+
+SUBJECT:   LRM#IMS321 - LABOR and JUSTICE Report on HR3736 Workforce Improvement and
+
+
+TO: lrm ( lrm @ os.dhhs.gov @ inet [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Jeffrey M. Smith ( CN=Jeffrey M. Smith/OU=OSTP/O=EOP@EOP [ OSTP 1 )
+READ: UNKNOWN
+
+TO: lrm ( lrm @ostp.eop.gov @ inet [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: mjtaylor ( mjtaylor @ dol.gov @ inet [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: ogc_legislation ( ogc_legislation @ ed.gov @inet [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: US@2=TELEMAIL@5=JMD@7=Deborah@6=Clifton@mrx@lngtwy ( 1=US@2=TELEMAIL@5=JMD@7=Deb
+READ: UNKNOWN
+
+TO: Ellen J. Balis ( CN=Ellen J. Balis/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Lisa M. Kountoupes ( CN=Lisa M. Kountoupes/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Maria J. Hanratty ( CN=Maria J. Hanratty/OU=CEA/O=EOP@EOP [ CEA 1 )
+READ: UNKNOWN
+
+TO: Ricardo M. Gonzales ( CN=Ricardo M. Gonzales/O=OVP@OVP [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: William P. Marshall ( CN=William P. Marshall/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Maria Echaveste ( CN=Maria Echaveste/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Broderick Johnson ( CN=Broderick Johnson/OU=WHQ/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Peter G. Jacoby ( CN=Peter G. Jacoby/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Sally Katzen ( CN=Sally Katzen/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Cecilia E. Rouse ( CN=Cecilia E. Rouse/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+
+TO: Jack A. Smalligan ( CN=Jack A. Smalligan/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Katherine M. Tyer ( CN=Katherine M. Tyer/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Charles W. Fox ( CN=Charles W. Fox/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Richard J. Turman ( CN=Richard J. Turman/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Ronald L. Silberman ( CN=Ronald L. Silberman/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Evan T. Farley ( CN=Evan T. Farley/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Steven M. Mertens ( CN=Steven M.   Mertens/OU=OMB/O~EOP@EOP   [ OMB 1 )
+READ: UNKNOWN
+
+TO: Sandra Yamin ( CN=Sandra Yamin/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ:UNKNOWN
+
+TO: Larry R. Matlack ( CN=Larry R. Matlack/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ:UNKNOWN
+
+TO: lrm ( lrm @ nsf.gov @ inet [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Rachel E. Levinson ( CN=Rachel E. Levinson/OU=OSTP/O=EOP@EOP [ OSTP 1 )
+READ: UNKNOWN
+
+TO: dodlrs ( dodlrs @ osdgc.osd.mil [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: dol-sol-leg ( dol-sol-leg @ dol.gov @ inet [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: clrm ( clrm @ doc.gov @ inet [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: James C. Murr ( CN=James C. Murr/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Charles Konigsberg   CN=Chartes Konigsberg/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Kate P. Donovan ( CN=Kate P. Donovan/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ:UNKNOWN
+
+TO: Rebecca M. Blank ( CN=Rebecca M. Blank/OU=CEA/O=EOP@EOP [ CEA 1 )
+READ: UNKNOWN
+
+TO: Karen Tramontano ( CN=Karen Tramontano/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Robert N. Weiner ( CN=Robert N. Weiner/OO=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN-
+
+
+TO: Tracey E. Thornton ( CN=Tracey E. Thornton/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Janet Murguia ( CN=Janet Murguia/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Gene B. Sperling ( CN=Gene B. Sperling/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Emil E. Parker ( CN=Emil E. Parker/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Thomas A. Kalil ( CN=Thomas A. Kalil/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Julie A. Fernandes ( CN=Julie A. Fernandes/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: S. A. Noe   CN=S. A. Noe/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Gregory G. Henry ( CN=Gregory G. Henry/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Mary Jo Siclari ( CN=Mary Jo Siclari/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Louisa Koch ( CN=LouisaKoch/OU=OMB/O=EOP@EOP [ OMB ) )
+READ: UNKNOWN
+
+TO: Joseph G. Pipan (. CN=Joseph G. Pipan/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Daniel J. Chenok ( CN=Daniel J. Chenok/OU=OMB/O=EOP@EOP [ OMB ) )
+READ: UNKNOWN
+
+TO: Barbara Chow ( CN=Barbara Chow/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Barry White ( CN=Barry White/OU=OMB/O=EOP@EOP [ OMB   J   )
+READ: UNKNOWN
+
+TO: Debra J. Bond ( CN=Debra J. Bond/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+CC: Darlene O. Gaymon ( CN=Darlene O. Gaymon/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ:UNKNOWN
+
+CC: James J. Jukes ( CN=James J. Jukes/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TEXT:
+Total Pages: ____
+
+
+LRM ID: IMS321
+EXECUTIVE OFFICE OF THE PRESIDENT
+OFFICE OF MANAGEMENT AND BUDGET
+Washington, D.C. 20503-0001
+
+
+Monday. May 11. 1998
+
+LEGISLATIVE REFERRAL MEMORANDUM
+
+TO:                     Legislative Liaison Officer - See Distribution below
+
+FROM:           James J. Jukes (for) Assistant Director for Legislative Reference
+OMB CONTACT:    Ingrid M. Schroeder
+                                PHONE: (202) 395-3883 FAX: (202) 395-3109
+SUBJECT:        LABOR and JUSTICE Report on HR3736 Workforce Improvement
+and Protection Act of 1998
+
+DEADLINE:               lOam   Tuesday. May 12. 1998
+
+In accordance with OMB Circular A-19.0MB requests the views of your
+agency on the,above subject before advising on its relationship to the
+program of the President.  Please advise us if this item will affect
+direct spending or receipts for purposes of the "Pay-As-You-Go" provisions
+of Title XIII of the Omnibus Budget Reconciliation Act of 1990.
+
+COMMENTS: HR3736 is scheduled for markup in the House Judiciary Committee
+on May 13th.
+DISTRIBUTION LIST
+
+AGENCIES:
+62-LABOR - Robert A. Shapiro - (202) 219-8201
+61-JUSTICE - Ann Harkins - (202) 514-2141
+25-COMMERCE - Michael A. Levitt - (202) 482-3151
+114-STATE - Paul Rademacher - (202) 647-4463
+118-TREASURY - Richard S. Carro - (202) 622-0650
+128-US Trade Representative - Fred Montgomery - (202) 395-3475
+30-EDUCATION - Jack Kristy - (202) 401-8313
+52-HHS -Sondra S. Wallace - (202) 690-7760
+29-DEFENSE - Samuel T. Brick Jr. - (703) 697-1305
+84-National Science Foundation - Lawrence Rudolph - (703) 306-1060
+95-0ffice of Science and Technology Policy - Jeff Smith - (202) 456-6047
+76-National Economic Council - Sonyia Matthews - (202) 456-6630
+Council of Economic Advisers - Liaison Officer - (202) 395-5084
+
+EOP:
+Debra J. Bond
+Larry R. Matlack
+Barry White
+Sandra Yamin
+Barbara Chow
+Steven M. Mertens
+Daniel J. Chenok
+Evan T. Farley
+Joseph G. Pipan
+Ronald L. Silberman
+Louisa Koch
+Richard J. Turman
+Mary Jo Siclari
+Charles W. Fox
+Gregory G. Henry
+Katherine M. Tyer
+S. A. Noe
+Jack A. Smalligan
+Julie A. Fernandes
+Elena Kagan
+
+
+Thomas A. Kalil
+Cecilia E. Rouse
+Emil E. Parker
+Sally Katzen
+Gene B. Sperling
+Peter G. Jacoby
+Janet Murguia
+Broderick Johnson
+Tracey E. Thornton
+Maria Echaveste
+Robert N. Weiner
+William P. Marshall
+Karen Tramontano
+Ricardo M. Gonzales
+Rebecca M. Blank
+Maria J. Hanratty
+Kate P. Donovan
+Lisa M. Kountoupes
+Charles Konigsberg
+Ellen J. Balis
+James C. Murr
+LRM ID: IMS321 SUBJECT:    LABOR and JUSTICE   Report on HR3736 Workforce
+Improvement and Protection Act of 1998
+
+
+RESPONSE TO
+LEGISLATIVE REFERRAL
+MEMORANDUM
+
+If your response to this request for views is short (e.g., concur/no
+comment), we prefer that you respond bye-mail or by faxing us this
+response sheet.  If the response is short and you prefer to call, please
+call the branch-wide line shown below (NOT the analyst's line) to leave.a
+message with a legislative assistant.
+
+You may also respond by:
+         (1) calling the analyst/attorney's direct line (you will be
+connected to voice mail if the analyst does not answer); or
+         (2) sending us a memo or letter
+please include the LRM number shown above, and the subject shown below.
+
+
+TO:             Ingrid M. Schroeder Phone:   395-3883   Fax:  395-3109
+                Office of Management and Budget
+                Branch-Wide Line (to reach legislative assistant): 395-3454
+
+FROM:                                                     (Date)
+
+                                                          (Name)
+
+                                                          (Agency)
+
+                                                          (Telephone)
+
+
+The following is the response of our agency to your request for views on
+the above-captioned subject:
+
+               Concur
+
+
+               No Objection
+
+               No Comment
+
+               See proposed edits on pages
+
+               Other:
+
+               FAX RETURN of _____ pages, attached to this response sheet
+
+The Honorable Henry J. Hyde
+Chairman
+Committee on the Judiciary
+U.S. House of Representatives
+Washington, D.C.  20515
+
+
+Dear Chairman Hyde:
+
+        Today, your Committee will mark-up H.R. 3736, the U&Workforce
+Improvement and Protection Act of 199808 which is intended to address the
+growing demand for skilled workers in the information technology (IT)
+industry by enacting a temporary increase in the annual cap on the number
+of visas for temporary foreign 0&specialtyD8 workers under the H-1B
+program, while also effecting reforms to the H-1B program that would help
+target their usage to industries and employers that are actually
+experiencing skill shortages.
+
+        The Administration believes that the first step in increasing the
+availability of skilled workers must be raising the skills of u.S. workers
+and helping the labor market work better to match employers with u.S.
+workers. Therefore, substantial additional efforts to increase the skill
+level of u.S. workers and needed improvements in the H-1B visa program are
+necessary prerequisites for the Administration to support any short-term
+increase in the number of visas for temporary foreign workers.
+
+         We are pleased that H.R. 3736 as reported from the Immigration and
+Claims Subcommittee is consistent with one of our primary objectives,
+insofar as it links a temporary increase in the H-1B cap to the enactment
+of meaningful reforms to the H-IB visa program. H.R. 3736 would help
+ensure that u.S. workers do not lose their jobs to temporary foreign
+workers and that qualified u.S. workers have the opportunity to fill a job
+before a temporary foreign worker is hired. Moreover, H.R. 3736 modestly
+expands enforcement authority to help prevent employer abuses of the H-IB
+program.   These reforms will effectively target H-1B visas to industries
+experiencing skill shortages. The Administration strongly opposes
+amendments that would weaken these reforms.
+
+        Unfortunately, H.R. 3736 does not contain any provision to
+encourage additional training of u.S. workers. Training is a vital
+component of our strategy to address the long-term demand for highly
+skilled U.S. workers and to enhance the international competitiveness of
+important u.S. industries. An effective training strategy would also work
+to reduce the demand for H-IB visas. The Administration strongly supports
+amending H.R. 3736 to provide for additional training opportunities for
+u.S. workers and believes that this training should be funded, in part,
+through a modest H-1B application fee paid by employers. The
+Administration is also concerned that the increase in the annual number of
+H-1B visas reflected in this bill is too large, although we agree that the
+increase should last for only three years.
+·
+
+            The Administration believes that H.R. 3736 would substantially
+    improve the current H-IB program and, with the addition of a meaningful
+    training provision and a modest reduction in the level of increase in the
+    annual H-IB visa cap, would garner the AdministrationD,s support. We look
+    forward to working with the Congress on these and other specific
+    provisions in the bill.
+
+            The Office of Management and Budget advises that there is no
+    objection to the submission of this report from the standpoint of the
+    Administrationn,s program.
+
+
+
+    Sincerely,
+
+
+    Labor                  Justice
+
+

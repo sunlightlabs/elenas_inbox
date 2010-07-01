@@ -1,0 +1,261 @@
+           RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+           CREATOR: Cynthia A. Rice ( CN;Cynthia A. Rice/OU;OPD/O;EOP [ OPD 1 )
+
+           CREATION DATE/TIME: 5-JAN-1999 11:11:01.00
+
+           SUBJECT:   I'm faxing you two things to look at, one tobacco and one welfare
+
+           TO: Laura Emmett ( CN;Laura Emmett/OU;WHO/O;EOP @ EOP [ WHO 1 )
+           READ:UNKNOWN
+
+           TO: Cathy R. Mays ( CN;Cathy R. Mays/OU;OPD/O;EOP @ EOP [ OPD 1 )
+           READ:UNKNOWN
+
+           TO: Elena Kagan ( CN;Elena Kagan/OU;OPD/O;EOP @ EOP [ OPD 1 )
+           READ:UNKNOWN
+
+           TO: Bruce N. Reed ( CN;Bruce N. Reed/OU;OPD/O;EOP @ EOP [ OPD 1 )
+           READ:UNKNOWN
+
+           CC: Andrea Kane ( CN;Andrea Kane/OU;OPD/O;EOP @ EOP [ OPD 1 )
+           READ:UNKNOWN
+
+           CC: Jay Eric Gould ( CN;Jay Eric Gould/OU;OPD/O;EOP @ EOP [ OPD 1 )
+           READ:UNKNOWN
+
+           TEXT:
+           Tobacco: We've put on a couple of pages where I think we are on tobacco,
+           should it be helpful for our conversation with Secretary Shalala
+           tomorrow. HHS also put some thoughts on paper, which I'll attach in the
+           fax.
+
+           welfare: Before the holidays, Shalala submitted a memo to the President on
+           TANF spending trends.  Staff Secretary would like to submit it this
+           weekend, which seems reasonable, so we've prepared a cover memo from
+           Bruce. The fax will have the Secretary's memo attached.
+
+
+           Here are the electronic documents if you want to edit.
+
+           tobacco
+
+           welfare;;;;;;;;;;;;;;;;;;;; ATTACHMENT     1 ;;;;;;;;;;;;;;;;;;;;
+           ATT CREATION TIME/DATE:   0 00:00:00.00
+
+           TEXT:
+           Unable to convert ARMS_EXT: [ATTACH.D701MAIL484666402.036 to ASCII,
+            The following is a HEX DUMP:
+
+           FF57504372030000010A02010000000205000000C314000000020000732ECF83AE15179DBCC97E
+           8B61B82B50B4936CC4A59837ECB47C43F2AF719576827FADCIBCA5AA08FCA6ACEEOE8811815603
+           44CA5A4758DE3B646EFD8EA9AD171BD4C8A9E876501DD6DC09276DOB4A95032D833A4COD9EOD02
+           CD9CA94CA0845B83489C33F240BA4348AC829403E570AF150D84C6F68ACC031145387B602DOA7F
+           F7ACBC48FB42F3F845FEFB63086304D3F44441AFC9C299629B40F52F780EB4B2AAF25AEB6194E9
+           BF4A1A74C672D34BF8938927E11FACC7AOEF455458D06017825E921447D8BOA55FB8655F20455A
+           293AABA1BA025E16BD301B66B2CB13A2653EA89753726170A89FF04607E8110C71C6BC9AEAE5D4
+           A1EA79E2EOEBCAC8D81EB72C482BFC5A51D452F5C48E233A4D2DF564B74634B569C38F4DDEF75D
+           4FEB72B263D9C4BC3A15830ABB38FFIBDFF071495D627E2E8AC6882433COE5BDD8342DF3BE594A
+           5F42E898COB2A3AC30F1A9BD1BDC20B9DD7F553222E082C9E6BB6B6F068C816ACOBB0400C9C435
+           27D5451C375666D32D26242FF0823AFFDA74565E0751907DEF167EOA3A55BD620A56751A280368
+                                                                            Hex-Dump Conversion
+
+
+
+                                    DRAFT -- January 4, 1998
+
+
+
+MEMORANDUM FOR THE PRESIDENT
+
+FROM:          Bruce Reed
+
+SUBJ:          Secretary Shalala's Report on State Welfare Spending
+
+The attached memo from Secretary Shalala provides a useful update on state welfare reform
+spending trends: While this is a preliminary snapshot of spending, the analysis shows that
+through June 1998 states spent only about three-quarters of available funds, leaving about $3
+billion unobligated. There is growing concern among states and some advocates that these
+surpluses may make TANF an attractive target for budget savings. Others worry that states are
+not doing enough to invest in welfare reform, although, even with these savings states are
+actually spending more per person than before reform while spending less overall due to caseload
+declines. On the other hand, these surpluses, which can be carried over from year to year, will
+help provide assistance to additional families if needed during an economic downturn.
+
+To identify the reasons for these trends, HHS surveyed the 12 states with the lowest obligation
+rates, which together account for 80% ofthe total unobligated funds (CA, FL, KA, LA, MN, NJ,
+NY, OK, PA, WA, WV, WI). Key factors identified by the states include:
+
+        1) Unexpectedly large caseload reductions provided states with unforeseen funds which
+        they have not yet spent. For example, Mimiesota, anticipating caseload increases due to
+        expanded eligibility rules, had actually cut back on some support services. In light of
+        unanticipated caseload reductions, the state plans to increase these services.
+
+        2) Early stages of TANF implementation. Many fiscal and policy decisions made by
+        Governors and state legislators had not taken effect as of last June. For example,
+        California's new law did not take effect until January 1998, which means counties didn't
+        start bringing large numbers of people into the program and spending new funds until
+        mid- to late-1998.
+
+        3) Saving for possible economic downturns. States are saving money in rainy day
+        funds to ensure they have adequate resources to meet future spending requirements. For
+        example, Florida's legislature required a $250 million rainy day fund (which repre.sents
+        43 percent of their FY 1998 block grant). In addition, states are spending state funds
+        before federal funds in order to meet the maintenance of effort requirement. This
+        requirement, which is a fixed percentage of each state's historic spending levels, must be
+        met each year regardless of total spending level while federal money may be carried over
+        to future years.
+                                                                              Hex-Dump Conversion
+
+
+       4) Some states have concrete plans in place for investing TANF resources, while others
+       do not. The Secretary recommends that we continue to send a strong message about the
+       importance of maintaining investments in low-income working families.
+
+The Secretary's report shows that more states are beginning to, use their flexibility to transfer
+funds from TANF to the Social Services Block Grant and the Child Care Block Grant. By the
+third quarter ofFY 1998, twenty-seven states -- or double the number from the prior quarter--
+transferred some funds, although the amount transferred is well below the maximum allowed.
+There are indications from states that these transfers will increase, which should increase overall
+T ANF spending.
+
+While not specifically referenced in Secretary Shalala's report, it is important to remember that
+caseloads have fallen by more than one-third from the base years used to calculate the T ANF
+block grant, so even if states spend only 75 percent of their block grant funds this year, they are
+actually investing more per person. GAO estimates that, nationwide, states had nearly 40
+percent more federal funds per recipient under T ANF in 1997 than they had in the prior year
+under AFDC.
+                                                                                  Hex-Dump Conversion
+
+               President Clinton Continues the Fight ,Against Youth Smoking
+                                        114 Draft
+
+Last fall, President Clinton declared the $206 billion multi-state tobacco settlement a step in the
+right direction and said enacting national tobacco legislation to finish the job would be one of his
+top priorities in the next Congress. In the coming months, he will push a comprehensive agenda
+to reduce youth smoking and hold the tobacco industry accountable for targeting children.
+
+                   Reimburse Taxpayers for the National Costs of Tobacco
+
+The $206 billion multi-state settlement with the tobacco industry will reimburse states for
+tobacco-related medical costs. Now it's time for the federal taxpayers to obtain the same relief.
+
+Costs to Our Armed Forces, Veterans, and Federal Employees_ Every year, the Department
+of Defense, Veterans Affairs, and the Federal Employees Health Benefit Program spend more
+than $7 billion in tobacco-related health costs for members of the armed forces, veterans, and
+federal employees who smoke or use tobacco products. Federal taxpayers, like those in the
+states, deserve reimbursement for these tobacco-related health costs, and this year's budget will
+include a $.55 per pack tobacco excise tax to pay for these $7-billion-a-year tobacco-related
+costs.
+
+Costs to Medicare. Tobacco-related health problems cost the Medicare program billions of
+dollars over the last three decades making it more difficult to preserve and protect Medicare for
+the 21st century. To recover these losses, the U.S. Department ofJustice intends to bring suit
+against the tobacco industry, and the new FY 2000 budget will contain $20 million to pay for the
+necessary legal costs. All recoveries will be used to extend the life of the Medicare program for
+future generations.
+
+Costs to Medicaid. The federal government pays 57 percent of all Medicaid costs and is legally
+required to collect 57 percent of state Medicaid recoveries, including Medicaid funds recovered
+through the state tobacco settlements. However, because the Iederal government and the states
+share the goals ensuring the health of our nation's families, the Administration would be willing
+to consider legislation to waive the federal claim for recovery if states agree to spend a portion of
+their settlement on a negotiated menu of items. Possible menu options include:
+
+�      McCain Menu (which was negotiated and agreed to by NGA and the Administration):
+       1) Maternal and Child Health Bureau's Title V program; 2) Child Care and Development
+       Block Grant; 3) Child welfare programs (Title IV-B); 4) SAMHSA; 5) Safe and Drug
+       Free Schools program; 6) Professional Development (Eisenhower) grants; 7) CHIP
+       matching funds (limited to 6 percent of restricted funds).
+
+�      McCain Plus Tobacco Control and Farmer Assistance: Another alternative would be
+       to preserve the McCain list but add tobacco control activities, such as counter-advertising
+       campaigns and state and community based education and prevention programs, and
+       assistance to tobacco farmers and their communities.
+                                                                                  Hex-Dump Conversion
+
+     �      Scaled Back McCain Plus Tobacco Control and Farmer Assistance: A third option
+            would be to pair down the McCain list to four or five programs and add tobacco control
+            and farmer assistance.
+
+     Because adopting a menu will require extensive discussions between the states, the Congress,
+     and the Administration, the Administration proposes to allow up to a year to enact this provision.
+      To pay for this one year delay in recoupment, the President's FY 2000 budget would accelerate a
+     previously enacted $.15 per-pack cigarette excise tax increase. If a menu cannot be agreed to
+     within a year, the Administration plans to withhold Medicaid funds from the states in an amount
+     equal to 57 percent of the state tobacco settlements starting in FY 2000.
+
+                                         Reduce Youth Smoking
+
+     Every day, 3,000 children become regular smokers and 1,000 have their lives shortened because
+     of it. Almost 90 percent of adult smokers began smoking by age 18 and today, 4.5 million
+     children aged 12 to 17 -- 37 percent of all high school students -- smoke cigarettes. Tobacco is
+     linked to over 400,000 deaths a year from cancer, respiratory illness, heart disease and other
+     problems. To end this scourge, we must do everything we can to reduce youth smoking. The
+     President has set a goal of cutting youth smoking in half within five years. To do so he
+     proposes:
+
+     Reaffirm FDA's Authority to Treat Nicotine Like a Drug. Nicotineis an addictive drug, and
+     it's time for the Congress to recognize that by affirming the Food and Drug Administration's
+     authority over tobacco products. In 1996, the FDA approved a regulation designed to keep
+     young people from smoking before they start by stopping advertising targeted at children and
+     curbing minors' access to tobacco products. Unfortunately, most of the rule's provisions have
+     been blocked in court. Now Congress can take this matter out of the courts by confirming
+     FDA's authority in this area. While the new multi-state tobacco settlement contains many
+     important provisions restricting tobacco marketing, it does not go far enough to protect children.
+     Congress should reaffirm FDA's authority by either:
+
+     �      Clarifying the definitions of "drug" and "device" to explicitly include tobacco products
+            and clarify FDA's statutory authority to place restrictions on medical device products to
+            explicitly include tobacco advertising, as proposed by Conrad, HarkiniChafee, and
+            HansenlMeehan.
+
+     �      Create a separate chapter in the Food, Drug and Cosmetic Act to address tobacco as
+            proposed by McCainlFrist.
+
+     In addition, legislation could contain additional restrictions on tobacco advertising that go
+     beyond those contained in the FDA regulation, such as banning the use of human images or
+     cartoons in all tobacco advertising, banning the use of all outdoor advertising of tobacco
+     products, and banning tobacco advertising on the Internet.
+                                                                               Hex-Dump Conversion
+
+
+
+Look-Back Surcharges. Strong look-back surcharges will act as an insurance policy to ensure
+youth smoking declines. Because increasing the price of cigarettes is one of the most effective
+ways to reduce youth smoking, tobacco legislation should increase per pack tobacco excise taxes
+if youth smoking is not cut in half within five years. In addition, individual companies could
+pay a surcharge based on how many underage youth smoke their brands, to provide additional
+funds to fight youth smoking.
+
+Public Health Funding. The President's FY 2000 budget will include core public health
+funding to prevent young people from smoking by curbing youth access to tobacco products;
+sponsoring counter-advertising and other public information campaigns, funding prevention
+programs in states and local communities, conducting additional research on what works, and
+monitoring youth behavior through expanded surveys. To fulfill' these goals, the President's
+budget will double the funding for the Food and Drug Administration's tobacco budget to $68
+million, increase funding for the Centers for Disease Control's tobacco control efforts from $73
+to $100 million, and fund $4 million in research at SAMSHA.
+
+Price. As described above, the Administration proposes to reimburse federal taxpayers for the
+yearly tobacco-related health costs for the armed forces, veterans, and federal employees. To
+reimbursing this $7 billion cost, the President's FY 2000 budget proposes to increase the cigarette
+excise tax by $.55 per-pack. This price increase will have the additional benefit of preventing
+youth smoking, since young people are particularly sensitive to higher cigarette prices.
+
+                        Protection for Farmers and Their Communities
+
+As part of a comprehensive plan to reduce youth smoking, the President is committed to
+protecting farmers and farm communities. Currently, there are on-going discussions between
+the tobacco industry, the tobacco growers, and the states over proposals for purchase guarantees
+in which the companies would commit to buy a certain amount of tobacco each year, a possible
+industry-established trust fund of up to $5.15 billion to help growers adjust as the demand for
+tobacco declines, and the potential set aside of state settlement funds to assist farmers and their
+communities.
+
+The President is committed to protecting tobacco farmers and their communities, and he will
+monitor these efforts closely to ensure they are successful. If needed, the President will consider
+further measures, such as requiring states to set aside state settlement funds for tobacco farmers
+and additional surcharges earmarked for farmers if necessary.
+
+

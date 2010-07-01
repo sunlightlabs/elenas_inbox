@@ -1,0 +1,203 @@
+RECORD TYPE: PRESIDENTIAL      (NOTES MAIL)
+
+CREATOR: cynthia A. Rice ( CN;Cynthia A. Rice/OU;OPD/O;EOP [ OPD ] )
+
+CREATION DATE/TIME: 7-DEC-1998 10:45:38.00
+
+SUBJECT:   Budget Lists
+
+TO: Elena Kagan ( CN;Elena Kagan/OU;OPD/O;EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Laura Emmett ( CN;Laura Emmett/OU;WHO/O;EOP @ EOP         [ WHO]   )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN;Bruce N. Reed/OU;OPD/O;EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+CC: Andrea Kane ( CN;Andrea 'Kane/OU;OPD/O;EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TEXT:
+ welfare
+tobacco
+
+;;;;;;;;;;;;;;;;;;;; ATTACHMENT   1 ;;;;;;;;;;;;=;;;;==;
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D36]MAIL44823414W.326 to ASCII,
+ The following is a HEX DUMP:
+
+FF5750430E090000010A02010000000205000000012600000002000074BAE6EDEA140ED1F8C8C1
+C4D428525305EFBOA67B701EFOB4C024934544593396D7AC73EE0309B76793139A57659C960493
+688534CACDE7C97A6ACE354CC197E2E481B55AA378773C1E1F43E2007DCOEFEA8AE74F4A49FDEC
+EB9FEBOD32207F1E5450CA60BFFD702A9A63ECOADFE1783CDC40D7CD09869EFF15852F4C107772
+B7 91D2C99F13 3D3 9ED7C8E12 5B2 8 7DD18D6B9519D5E68B421 7DBE3A 7C,C198ABFF2A1 7BA8 63B3 06
+6B3A6E791E359B68C01976B5F10E80BD8DD672A3D1ABA6517ADEABA36A8A9AE823CD6B782328A8
+5639001A319DF4C65754797242A669541A7CF1CB47E4875DBB2FDC304FFFB9926CC987B24C85C6
+                                  12/7/98
+
+Initiative                   Proposed     OMB         Comment
+                                          Passback
+
+Welfare-to-Work              $1.5 8       N.A.        DOL request did not include separate
+Reauthorization, including   annually                 Fathers grants, but they are generally
+Responsible Fathers          over 5 yrs               supportive of the concept.
+Grants.
+- approx. 60% to formula
+grants                                                Status: meeting wi DOL on overall
+- approx. 20% to                                      reauthorization issues 12/7; meeting wi
+competitive grants, wi                                DOL & HHS on Fathers 12/9.
+possible set asides for
+substance abuse,
+literacylESL, disabilities
+- approx. 15% to fathers
+grants
+
+Welfare-to-Work Housing      $289M        $144M       In passback, OMB also proposed that HUD
+Vouchers                     (BA)         (BA)        could fund up to 36,000 more vouchers
+                                                      beginning in 2001 (for WtW or other
+                             50,000       25,000      purposes) through enhanced rent collection
+                             vouchers,    vouchers,   or other program savings.
+                             on top of    on top of
+                             50,000       50,000      Passback level seems reasonable given
+                             funded in    funded in   budget constraints.
+                             FY99         FY99
+
+
+Access to Jobs               $150 M       $75 M       TEA-21 authorized $150 M, guaranteed
+Transportation                                        $75M for FY 2000.
+                                                      Preliminary discussion of targeting
+                                                      additional $75 M to jobs gap proposal under
+                                                      race initiative.
+
+
+Adult LiteracylESL           N.A.         N.A.        Working wi NEe to refine proposal on
+                                                      addressing skills gap through expanding
+                                                      adult edlESL, workplace literacy, and
+                                                      combined ESLIacculturation services
+
+Expand targeted Substance    $lOOM        $26M        These 'targeted capacity expansion grants'
+Abuse Treatment grants                                address emerging needs in local
+                                                      communities. In FY 98, SAMHSA
+                                                      awarded 44 grants totaling $24 M, wi about
+                                                      one-third to women with children andlor
+                                                      women on TANF. Unlike the substance
+                                                      abuse block grant, we can target these to
+                                                      specific issues and they can go directly to
+                                                      locals. (See background information
+                                                       Automated Records Managemeul ::') ""jJ!
+                                                       Hex-Dump Conversion
+                                    Passback
+                                                 below)
+
+                                                 Depending on available funding, some
+                                                 increase in these grants would help address
+                                                 the specific substance abuse needs of
+                                                 women moving from welfare to work. We
+                                                 continue to work with Crime and Health
+                                                 teams to determine suggested funding level
+                                                 and strategy.
+
+Child Support Law        $35 mi                  This initiative will increase the prosecution
+Enforcement Initiative   DOJ                     of egregious child support violators by
+                         $5 mi                 . establishing multi-agency investigative team;
+                         HHS                     to identify, analyze, and investigate cases for
+                                                 prosecution. This investigative effort will
+                                                 result in more cases being referred to the
+                                                 U.S. Attorney offices ready to prosecute.
+                                                 HHS's Office of Child Support
+                                                 Enforcement, Office of the Inspedor
+                                                 General, and Office of Investigations,
+                                                 working with state and local law
+                                                 enforcement and child support agencies,
+                                                 have already launched a pilot project in
+                                                 Columbus Ohio, which will cover 5 states
+                                                 (Illinois, Indiana, Michigan, Minnesota, and
+                                                 Ohio). This proposal would put these
+                                                 units in place all across the nation within the
+                                                 next several years. Additionally, it would
+                                                 provide paralegals dedicated to child support
+                                                 cases to the 83 U.S. Attorneys offices that do
+                                                 not now have them. In July, the President
+                                                 signed into law the Deadbeat Parents
+                                                 Punishment Act, creating two new
+                                                 categories of felonies for the most egregious
+                                                 child support evaders.
+
+
+
+
+                                                 Automated Records Management System
+                                                 Hex-Dump Conversion
+There are two ways to increase substance abuse treatment:
+
+1) Substance Abuse Block Grant
+These funds ·are allocated to states on a formula basis with states deciding how to target the funds.
+SAMHSA requested an increase of $270 million for FY 2000. OMB passback holds them to FY 99 level
+of$1.585 billion (plus an additional $\00 million in advance funding).
+
+2)Targeted Capacity Expansion Grants
+These funds are designed to address treatment needs for emerging substance abuse problems specific to a
+city, county, state or region, with a particular focus on meeting local needs since the block grant goes to
+states. For FY 1988, SAMHSA identified several target groups including: substance abusing women
+and their children, clients participating in welfare reform programs, juvenile and adult criminal
+justice-referred offenders, dually diagnose youth offenders, substance abusing physically and cognitively
+challenged individuals, and hard-to-reach N drug users. FY 98 funds supported 41 grants totaling $24
+million to a combination of state, local, and tribal agencies and community-based organizations. This
+funding will serve an additional_ people on an annual basis. Grants are available for three years, with·
+first year funding generally between $500,000 and $700,000. Approximately one-third of the FY 1998
+grants are targeted to TANF or substance abusing women with children. For example, Women in Need in
+Brooklyn received $250,000 to expand capacity to serve an additional 85 homeless women and women
+with children receiving TANF. The Wisconsin Department of Health and Family services received
+$750,000 to provide intensive family treatment to 121 women with children and TANF recipients.
+
+US Conference of Mayors has indicated strong support for these grants -- in fact, they would like to see an
+increase of around $250 million. Based on conversations with ONDPe staff, they generally support
+SAMHSA's request both for the block grant and targeted capacity grants, but they particularly like the
+targeted capacity grants since we have more ability to target and track how these get spent.
+
+
+
+
+                                                            Automated Records M
+                                                            H D               . anagement System
+                                                             ex- wnp Conversion
+All figures are outlays
+
+
+                    FY'99               FY'OOHHS             Requested           OMB Passback
+                                        Request              Increase
+
+ FDA                $964 million        $1.3 billion         $403 million        $1 billion
+
+ CDC                $73 million         $243 million         $170 million        $73 million
+
+
+
+Cessation New Initiatives
+
+       · New Department of Defense anti-tobacco plan. This comprehensive anti-tobacco
+       plan to increase military readiness will likely include covering over-the-counter nicotine
+       replacement therapies under military health care coverage as part of a comprehensive
+       military-wide anti-tobacco plan. (Cost: $300 million over 5 years)
+
+       · Veterans. We should re-propose the plan from the President's 1999 budget which
+       created a new discretionary program open to all veterans who began using tobacco
+       products while in the service, regardless oftheir eligibility for other VA health care
+       services (currently less than 15 percent of veterans receive their health care through the
+       V A system because of statutory limits --veterans must be low income or have a
+       service-related injury.) Thirty-six percent of the 25 million veterans in this country
+       smoke. (Cost: $435 million over 5 years).
+
+
+
+
+                                                           Automated Records Management System
+                                                           Hex-Dump Conversion
+"
+
+
+
+

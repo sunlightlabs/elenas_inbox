@@ -1,0 +1,70 @@
+     RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+     CREATOR: Jennifer M. Luray ( CN=Jennifer M. Luray/OU=WHO/O=EOP [ WHO ] )
+
+     CREATION DATE/TIME: 9-JUN-1999 11:57:26.00
+
+     SUBJECT:   EPICC letter
+
+     TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP@EOP [ OPD ] )
+     READ: UNKNOWN
+
+     TO: Sarah A. Bianchi ( CN=Sarah A. Bianchi/O=OVP@OVP [ UNKNOWN ] )
+     READ: UNKNOWN
+
+     TO: Christopher C. Jennings ( CN=Christopher C. Jennings/OU=OPD/O=EOP@EOP [ OPD ] )
+     READ: UNKNOWN
+
+     CC: Kelley L. O'Dell ( CN=Kelley L. O'Dell/OU=WHO/O=EOP [ WHO]   )
+     READ: UNKNOWN
+
+     CC: Devorah R. Adler ( CN=Devorah R. Adler/OU=OPD/O=EOP@EOP [ OPD ] )
+     READ: UNKNOWN
+
+     TEXT:
+      Draft of letter. Unsure of format. Leaving building for meeting. Page me
+     if necessary. ==================== ATTACHMENT   1 ====================
+     ATT CREATION TIME/DATE:   0 00:00:00.00
+
+     TEXT:
+     Unable to convert ARMS_EXT: [ATTACH.D48]ARMS214146667.136 to ASCII,
+      The following is a HEX DUMP:
+
+     DOCF11EOA1B11AE1000000000000000000000000000000003E000300FEFF090006000000000000
+
+          (Letter to cosponsors or press statement?)
+
+          Today, the Equity in Prescription Insurance and Contraceptive Coverage Act (EPICC) will be
+          introduced in both the House and the Senate. I urge Congress to pass legislation, which will
+          ensure that women across our nation have access to the full range of contraceptive care. Family
+          planning is basic health care for women although too many health plans do not cover the full cost
+          of this care.
+
+          In October oflast year, Congress took a historic step forward in making health care costs for
+          women more equitable when it approved legislation as part of the FY 1999 Omnibus
+          Appropriations Act requiring all insurance plans participating in the Federal Employee Health
+          Benefits Program that cover prescription drugs, to include contraceptive drugs and devices as
+          part of that coverage. I strongly urge Congress to pass legislation that is similar to that enacted
+          last year, so those women outside of the federal workforce may share these important benefits.
+
+          Even though well over 80 percent of private insurance plans cover prescription drugs in general,
+          only about one-third cover the costs of oral contraceptives (the most commonly used birth
+          control method). Yet, research shows that three out of every four women say that cost is an
+          important factor when choosing between a birth control method that is covered and one that is
+          not. Moreover, women of childbearing age spend 68 percent more in out-of-pocket health care
+          costs than do men.
+
+          In addition, we know that improved contraceptive coverage means fewer unintended
+          pregnancies, which means fewer abortions. This is a goal we all share.
+
+           I urge Congress to pass contraceptive coverage legislation that will put women health care
+          consumers on a more level playing field, reduce unwanted pregnancies, and improve the quality
+          of care for women across the nation.
+
+
+
+
+                                         Automated Records Management System
+                                         Hex-Dump Conversion
+
+

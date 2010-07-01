@@ -1,0 +1,50 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Jose Cerda III ( CN=Jose Cerda III/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME:15-MAY-1998 14:33:51.00
+
+SUBJECT:   Draft FBI Statement
+
+TO: Leanne A. Shimabukuro ( CN=Leanne A. Shimabukuro/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+TO: Michelle Crisci ( CN=Michelle Crisci/OU=WHO/O=EOP @ EOP [ WHO]    )
+READ: UNKNOWN
+
+TEXT:
+A little flat, but I welcome any comments, suggestions ... jc3
+
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D39]MAIL40549643E.126 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043B0040000010A020100000002050000003F090000000200000613133B8925019435ED09
+8FEE8221FEOAD6FA2EBCD948E85C5E9630B3BADB2DBCF6F1488EBA2012A1EF82DC15AEA6D4C1DA
+
+                                                                                      Automated Records Management Sysrer
+                                                                                              Hex-Dump Converston
+                                                   DRAFT
+
+                                       Statement by the President
+                             (Embargoed until 6:00 pm, Sunday, May 17,1998)
+
+
+        Today's announcement by the Justice Department that crime has fallen for the sixth year in a row
+        is great news for the American people. Since 1993, violent crimes have dropped by nearly 20%,
+        and murders are down by a remarkable 30%. These results show that our strategy of giving
+        communities the resources they need for more police, tougher punishments and better prevention
+        is working. But too many of our children are either killing or being killed because of the deadly
+        mix o(gangs, guns and drugs that remains a serious problem in America today. And we cannot
+        let up in our fight against crime and violence until that changes.
+
+

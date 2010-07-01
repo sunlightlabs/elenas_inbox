@@ -1,0 +1,165 @@
+RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+CREATOR: Devorah R. Adler ( CN=Devorah R. Adler/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME:19-MAR-1999 10:55:39.00
+
+SUBJECT:   weekly
+
+TO: Paul J. weinstein Jr.   ( CN=Paul J. weinstein Jr./OU=OPD/O=EOP @ EOP [ OPD ] )
+READ:UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+CC: Sarah A. Bianchi   ( CN=Sarah A. Bianchi/O=OVP @ OVP [ OVP ] )
+READ:UNKNOWN
+
+CC: Jeanne Lambrew ( CN=Jeanne Lambrew/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ:UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D3]ARMS16824578C.036 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043D2050000010A02010000000205000000232A0000000200006C7C1940DDB7B421FDD16E
+DDB379FC32F3C9DED70930D8188B729919BD6BC870A9849B4FA9F7405B7D67920B35262B72D5EC
+C8A8ECB3D9BDB6255DF6E60F46B8E6AFDA610053F606F9A0093AB40C56A64C7154F3F983AEEA54
+2F5D21C01425B997D4B185F4002F43A491F1728CC41C336C70B85ACBF9EE14DE3F4CDFE1A5F2FD
+E5B734B52ACC7C72A3588C11933956CCAEAA9F717F4D3AE43B6C3863BAEOEA1EC42947CF704476
+667F1E2CA17715C4A78A1DB6B0125015F5982C732B4F640E365D47OF8B651A1E25E7B0367EBE91
+E3650597EE883BF253F54ED48DFDA1096161CC8828150C921DAB74C0168BA2FDDE06987857ECA6
+62A81676935320EE02D3AOAABBOFB93EA53F8B5F19DD65FE31A070CA2304169B91DDB8DDB6038A
+9BFE3271A4A186E9DEFAF6D8B41A21316C07F8D958467C73C71F6F71F55E411AA8B9E80F22F2C8
+3F84F663A730698A5080524F7B7AB8BAA940C30012AE798D5CA0728D1B4721C9C64C43B4C97EA4
+D7BD88FEFA1A62343673DOB6E25D701E236516A505078BEF84F647327506A5E4E097C211ECF7FD
+918E82F38AEEED804097F30AAFBF500341D04DA4957EA5D51930E3A30FBF67F1A7167B8CB5364E
+4B31E516100321D959D041FB3DE779850B206D432225A580E86FF9446823509FE479D59CA2DA37
+56089193D902000E00000000000000000000000823010000000BOI0000C4020000005506000000
+4EOOOOOOCF030000092501000000060000001D0400000B30020000002800000023040000081601
+000000320000004B040000087701000000400000007D04000008340100000014000000BD040000
+0802010000000FOOOOOOD104000008050100000008000000E00400000055020000003COOOOOOE8
+04000000550100000032000000240500000055010000002EOOOOOO560500000055010000004EOO
+00008405000000985C005C004F0041005F0037005C005C005C004F00500044005C003200310036
+005F00410000000000000000000000000000000000000000000000000000000000000000000000
+0000000057494E53504F4F4COOOOOOOOOOC800C8002C012C012COI2C01C800C800300000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000B010000
+2800C8196810480D000011090000005AOOOB010000103600540069006D006500730020004E0065
+007700200052006F006D0061006E00200052006500670075006COO610072000000000000000000
+0100020058020100000004002800000000000000000000000000000000000000011202002400A1
+000000A100000043003A005C00500052004F00470053005C00570050005C005300540041004EOO
+44004100520044002E0057005000540000000A0000009E07010045009F0703000200A007010045
+00A10702000200A20701001700A30701000200A40701004500A50701000200A60701004400A707
+38006581274C72260000000000001900000000000000000000337C00780000020000A707000003
+                         Hex-Dump Conversion
+
+ Update on nursing home quality and enforcement problems. In recent days, the Senate Aging
+ Committee, chaired by Senator Grassley, has been releasing a series of GAO and HHS IG
+ reports critical ofHCFA's nursing home quality enforcement activities. The reports indicate that
+ HCF A has failed to ensure that the states are fulfilling their nursing home quality obligations.
+ The reports findings include that: HCFA has failed to pursue the investigation of serious quality
+ complaints, inadequately addressed problems associated with repeat offenders, and inadequately
+ intervened in cases where health and safety violations resulted in actual harm to residents. Some
+ of these findings have been or are being addressed by a nursing home quality imitative you
+ unveiled last year. Others are new and are disturbing. In response, we have instructed HCF A to
+ aggressively improve their enforcement activities by requiring states to investigate complaints
+ that allege harm to residents within 10 working days, increasing the minimum fine for facilities
+ violating quality standards to $50 to $1,000, and making it easier for states to impose fines of up
+ to $10,000 for quality violations. We are also working on additional enforcement improvement
+ provisions which are outlined below.
+
+
+ Signing ceremony for the Nursing Home Resident Protection Act. Next week, you are
+ tentatively scheduled to sign into law legislation which prohibits the transfer of Medicaid patients
+ by nursing homes wishing to privatize their entire resident population. This legislation was
+ inspired by cases in Florida in which residents actually died as they were being transferred. The
+ legislation that will be presented to you explicitly prohibits nursing homes who decide to
+ withdraw from the Medicaid program from evicting Medicaid patients. At this event, we are
+ contemplating one or more announcements to underscore our commitment to nursing home
+ quality enforcement. The first is a new legislative proposal that creates new Federal criminal (5
+ to 10 years in prison) and civil penalties (of up to $1,000,000 per facility in a corporate chain out
+ of compliance) for individuals, facility chains, or management companies if they engage in
+ conduct that results in a pattern of physical or mental harm to residents. In addition, we are
+ contemplating using this as an opportunity to criticize the Republican bill for its across the board
+ 12 percent cut which will result in a significant reduction in nursing home quality enforcement
+ activities.
+
+  Patients Bill of Rights (PBOR) markup. On Thursday night, the Senate Labor Committee
+  completed its mark up of the Patients Bill of Rights. Senator Kennedy offered the
+  Daschle-Kennedy PBOR as a substitute for the Chairman's mark and it failed along a party line
+. vote. Most of the subsequent strengthening amendments were also defeated among party line
+  votes. The Democrats were pleased with your statement in support of a strong, enforceable,
+  PBOR at the beginning of this mark-up process and have indicated they wish to work closely
+  with us to develop an amendment strategy when this legislation makes it to the Senate floor. It is
+  our hope that we will find a more receptive group of Republicans on the Senate floor to these
+  amendments. Senator Chafee and Senator Specter's interest in this area provides some level of
+  encouragement; however, as each day passes it appears more clear that the House is likely to
+  have a stronger set of provisions, which will hopefully help us in ajoint House-Senate
+  conference ifthis legislation reaches this stage.
+
+ Update on Medicare. In the wake of the Medicare Commission vote and your announcement
+                        Hex-Dump Conversion
+
+of your intention to propose your own Medicare reform initiative, we are developing a range of
+options for your consideration. This work will be complicated by the March 30th release of this
+year's Social Security/ Medicare trustees report, which is expected to push out the exhaustion
+date of the Medicare trust fund by a number of years. Not only will this impact on our strategy
+surrounding the dedication of the surplus to Medicare, it will change the scoring of many ofthe
+underlying provisions of any proposal. Because it is likely that it will be much easier to reach
+your previously stated goal of pushing out the exhaustion date to 2020, we believe that it is
+advisable to stop using any reference to the year 2020 and/or the number of years you wish to
+extend the life of the trust fund. Instead, we suggest confining our comments to statements like:
+"We are dedicating 15 percent of the surplus ($686 billion over 15 years) to Medicare." This will
+protect our current policy position while enabling us to potentially modify how we describe the
+impact of this infusion of dollars to the Medicare program.
+
+Update on TANF/ Medicaid guidebook. Next Monday, we have asked HCFA to release new
+guidance for states to ensure that those eligible for Medicaid -- especially children -- are enrolled.
+ There have been a number of reports that some states may be inappropriately preventing
+families from obtaining Medicaid coverage by imposing waiting periods for issuing an
+application or determining Medicaid eligibility. This guidance makes it clear that these delays
+are impermissible and inconsistent with the law and underscores your long standing commitment·
+to ensure that welfare reform does not reduce access to the Medicaid program. The letter and
+guidebook will be issued prior to the release of a report from George Washington University's
+Center for Health Policy Studies which implies that the welfare reform statute has created
+barriers to receiving Medicaid. While we believe the guidance is expected to be well received by
+advocates, we do not expect states to raise serious concerns about this communication.
+
+Update on the FDA's recent action to limit the use of antibiotics in animal feed. The FDA
+has increased evidence that the routine use of antibiotics in livestock to promote growth may
+diminish the drugs' power to cure infections in people. As more people consume antibiotics
+through foodstuffs, they appear to be more resistant to antibiotics when in need of
+pharmacological intervention. In response, the FDA has released a draft of new regulations that
+would require manufacturers to test new livestock drugs to see ifthey foster the growth of
+resistant bacteria that cause disease in people, both before and after they are approved for use. If
+they are shown to foster resistance, FDA can curtail their distribution or remove them from the
+market entirely. The drug and agriculture industries say that the FDA is unnecessarily restricting
+access to antibiotics, which they insist have not been proved to harm people and are essential to
+producing affordable meat and poultry. Public health advocates believe that the use of these
+antibiotics for animals should be severely restricted, if not eliminated altogether, in order to
+prevent the further development of resistant bacteria. The new FDA proposal is consistent with
+your "superbug" initiative that provides a significant increase in funding ($25 million) to finance
+a new electronic disease surveillance network that facilitates the timely transmission of
+information to physicians in order to ensure that new strains of bacteria are identified swiftly and
+treated effectively.
+
+
+Update on stem cell research. On Friday, the journal Science will publish a letter from 73
+                       Hex-Dump Conversion
+
+prominent scientists, including 67 Nobel prize winners, that supports plans by NIH to consider
+financing research with stem cells that originate from human embryos. This should bolster our
+efforts on Capitol Hill to push back legislation designed to repeal NIH's authority to make this
+decision.
+
+
+
+
+

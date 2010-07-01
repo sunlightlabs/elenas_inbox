@@ -1,0 +1,714 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Cynthia A .. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME: 9-JUL-1998 13:10:20.00
+
+SUBJECT:   Re: Here's the latest version of the price paper
+
+TO: Cynthia Dailard ( CN=Cynthia Dailard/OU=OPD/O=EOP @ EOP     OPD ] )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TEXT:
+This is the latest version of the Treasury price paper -- available for
+our use when we need it.
+
+
+
+
+Cynthia A. Rice
+07/07/98 05:39:19 PM
+Record Type:    Record
+
+To:      Bruce N. Reed/OPD/EOP, Cynthia Dailard/OPD/EOP
+cc:
+Subject:         Here's the latest version of the price paper
+
+It's a bit nerdy (footnotes and all) but I think that would serve our
+purposes -- it will help us make the case that there is overwhelming
+evidence that price increases will reduce youth smoking.
+
+
+
+
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D4]MAIL41963598Q.126 to ASCII,
+ The following is a HEX DUMP:
+
+FF5750433D180000010A020100000002050000006B810000000200003776A8A935C26BE32760F8
+C0787CCFOC652A1DA973B79962E739F20F274BD45D07F03E8F68ACF559A4C57BBE326AOB3AB2D2
+                           Department of the Treasury Analysis
+
+
+Over 3 million teenagers smoke cigarettes on a daily basis in the United States. An additional 2
+million smoke on a less than daily basis, but are at risk of becoming chronic daily users.
+
+·        The most recent data show that 25 percent of high school seniors were daily smokers;
+         another 12 percent smoked on a less than daily basis. In addition, underage youth
+         smoking has been on an upward trend - smoking rates among high school students rose
+         by nearly a third between 1991 and 1997, from 27.5 percent to 36.4 percent.
+
+Reducing youth smoking is the best way to reduce the overall incidence of smoking in the future;
+ 90 percent of adult daily smokers first begin smoking cigarettes as teenagers.       .
+
+The most reliable method for reducing teen smoking is to increase the price of cigarettes.
+
+·        Recently released tobacco company documents demonstrate that the tobacco industry has
+         known for years that youths are very responsive to price. A 1981 Philip Morris memo
+         analyzed the research and concluded "it is clear that price has a pronounced effect on the
+         smoking prevalence of teenagers."
+
+·        A large number of rigorous economic studies have shown that teen smoking is responsive
+         to changes in the price of cigarettes. A consensus view is that the number of teen
+         smokers declines by about 7 percent for a 10 percent increase in the real price of
+         cigarettes.]
+
+                 This relationship represents the response for a very small change in prices. Our
+                 model allows the responsiveness to decline as prices rise, since the smokers that
+                 remain at high prices have revealed that they are less responsive to price signals.
+
+Additional efforts beyond price changes can help to reduce youth smoking - such as eliminating
+vending machines, enforcing restrictions on sales to youths, eliminating advertising aimed at
+youths, and anti-smoking counter-advertising.
+
+·       Studies have shown that fully-enforced sales restrictions have successfully led to
+        reductions in youth smoking, particularly for younger teens.
+
+                 A 1991 study in the Journal a/the American Medical Association reported a 69
+                 percent decline in daily use by seventh and eighth graders in Woodridge, Illinois
+                 following legislation and enforcement of restrictions on cigarette sales to minors.2
+
+
+        ]Chaloupka, F., and M. Grossman, "Price, Tobacco Control Policies, and Youth Smoking," NBER
+Working Paper #5740, 1996.
+
+         2Jason, L. A., P. Ji, M.Anes, S. Birkhead, "Active Enforcement of Cigarette Control Laws in the Prevention
+of Cigarette Sales to Minors," Journal of the American Medical Association, Vol. 266, no. 22, December 11,1991,
+pp.3159-3161.
+
+                                                             Automated Records Management System
+                                                             Hex-Dump Conversion
+                 school students' smoking in Leominster, Massachusetts as a result of strictly
+                 enforced sales restrictions. 3
+
+                 A recent working paper comparing the effectiveness of state and local access
+                 restrictions estimates that comprehensive access restrictions for youth can lower
+                 youth smoking by 18%.4
+
+                 A number of experts in this area suggest that a conservative assumption for the
+                 impact of comprehensive sales and marketing restrictions is a 10-20% reduction
+                 in youth smoking. Based on their opinion and the existing literature, we use 15%
+                 in our estimates.
+
+Hence, a coordinated effort of sizeable price increases and fully-enforced access and advertising
+restrictions would be more likely to produce a significant and sustained decline in youth smoking
+than either policy by itself.
+
+·       The Administration's Budget proposal calls for a significant increase in the real price of
+        cigarettes over the next five years. Coupled with comprehensive sales and advertising
+        restrictions, that price increase will lead to about a 42 percent reduction in underage teen
+        smoking in five years.
+
+·       In 2003 alone, the number of young people kept from smoking would be about 1.6
+        million teens.
+
+·       Over the next five years, the total number of young people kept from smoking would be
+        about 3 million teens.
+
+·       The direct result of these policies over the next five years is that about 1 million of
+        today's young people will be spared from premature deaths resulting from
+        smoking-related diseases.
+
+These estimates illustrate the powerful impact of a combination of price increases and
+access/marketing restrictions on youth smoking. But there remains some uncertainty in our
+estimates of the impact of these policies.
+
+·       That is why the President has also called for youth smoking penalties on the tobacco
+        industry if they do not meet targeted reductions in youth smoking. These penalties will
+        help to ensure that we meet our youth targets.
+
+
+
+
+        3DiFranza, J.R., R.R. Carlson, R.E. Caisse, "Reducing Youth Access to Tobacco," Tobacco Control, 1992.
+
+      4Chalupka, F., and R.L. Pacula, "Limiting Youth Access to Tobacco: The Early Impact of the Synar
+Amendment on Youth Smoking," Working Paper, University of Illinois-Chicago, January, 1998.
+
+                                                          Automated Records Management System
+                                                        . Hex-Dump Conversion
+daily basis frequently leads to daily smoking and the subsequent risk of death and disease, the
+figures understate the total benefits of these policies.
+                      Background on Youth Smoking Elasticity Estimates
+
+
+The Treasury Model
+
+·        The Treasury model of youth smoking starts from a participation elasticity of -0.7 at the
+         current price level of about $1.95 - which means that a 10% increase in price above its
+         current level would reduce the number of teen smokers by 7%.
+
+·        But this relationship only holds for very small price changes. For larger and larger
+         price increases, the Treasury model predicts somewhat smaller proportional reductions in
+         teen smoking. This reflects the fact that the teens most likely to respond to price signals
+         are also the first to be discouraged from smoking by a price increase.
+
+·        Using this model, a $1.10 increase in the real price of cigarettes is projected to reduce
+         youth smoking by 32%. Since a $1.10 increase in the real price in 2003 represents a
+         53% rise, the associated "average" elasticity is actually _0.6. 5
+
+Industry Views Validate Administration Analysis
+
+·        Recently released internal documents from Philip Morris demonstrate that the tobacco
+         industry has known for years that youths are very responsive to price.
+
+·        A memo from 1981 documents that the tobacco industry understands the compelling
+         evidence that youths are very price responsive. This document is a review of the 1981
+         working paper by Lewit, Coate, and Grossman, discussed below. This industry review is
+         very favorable, and does not question this substantial estimate of youth price
+         responsiveness. As the memo states, "The authors of this paper ... have constructed an
+         elegant longitudinal and cross-sectional model of teenage smoking behavior... The most
+         important finding, and the one of greatest significance to the company, is their calculation
+         of the price elasticity of cigarettes among teenagers."
+
+·        This memo goes on to state " ... it is clear that price has a pronounced effect on the
+         smoking prevalence of teenagers, and that the goals of reducing teenage smoking and
+         balancing the budget would both be served by increasing the Federal excise tax on
+         cigarettes. "
+
+
+
+
+         5The semi-logarithmic demand function underlying this analysis is based on a standard model used to
+predict overall cigarette demand. Under it, every dime ($0.10) increase in price reduces demand by the same
+percent, but since it is doing so from a smaller and smaller base at each step, the absolute reduction in teen smoking
+from each 10 cent increment declines slightly.
+
+                                                                Automated Records Management System
+                                                                t.f@.x--l)umpCoilvemon
+          below. Another Philip Morris strategic planning document from the early 1990s states:
+          "There is no question that increasing taxes will cause a decrease in smoking. This point
+          is best illustrated by the present situation in Canada."
+
+·         In another document dated September 3, 1987, a Philip Morris analysis of price increases
+          concluded: "price increases ... prevented 600,000 teenagers from starting to smoke ...
+          We don't need to have that happen again."
+
+Previous Academic Studies
+
+·         A number of studies have attempted to estimate the responsiveness of youth smoking in
+          the U.S. to price changes - the participation elasticity, or the change in the number of
+          teen smokers due to price changes. This literature is based on comparisons of youth
+          smoking rates in high and low tax states, and on changes in youth smoking within states
+          as tax rates change.
+
+·         The CBO recently summarized this literature by stating that most ofthe evidence points
+          to participation elasticities ranging from -0.50 to -0.75. The Treasury estimate is in the
+          range used by the CBO.
+
+·         The results from this literature are shown in the Table below. Because differences in
+          elasticity estimates may be less intuitive, the table shows - for each analysis of youth
+          smoking - the projected reduction in teen smokers from a $1.10 price increase (along
+          with the Treasury estimates). This approach recognizes the fact that the Treasury model
+          allows the elasticity to decline for larger price increases.
+
+
+
+    Study of Teen Smoking                              Percent Reduction in Teen Smoking from
+                                                               $1.10 Real Price Increase
+    Lewit, Coate, and Grossman (1981)                                     65%
+    DeCicca et al. (1998)                                                 46%
+    Grossman et al. (1983)                                                41%
+    Chaloupka and Grossman (1996)"                                        36%
+    CBO (midpoint)                                                        34%
+
+    Treasury                                                              32%
+    Evans and Huang (1997)                                                28%
+    Wasserman et al. (1991)                                               0-9%
+
+
+
+
+                                                          Automated Records Management System
+                                                          Hex-Dump Conversion
+      question. Indeed, our estimates are more conservative than what most of the recent work
+      in this area would suggest.
+
+·     One study which estimates a very different response from the remainder of the literature
+      (Wasserman et al.) focuses exclusively on the late 1970s. During this period some
+      surveys indicate that youth smoking fell precipitously without a price increase. We
+      believe a more appropriate interpretation of the data during the late 1970's is that youth
+      smoking was driven down by the broader dissemination of facts about smoking's dangers.
+       According to one major survey, only half of 12th graders saw a great risk in smoking a
+      pack or more of cigarettes a day in 1975 - the lowest level in the survey - but this
+      number increased by nearly 25% between 1975 and 1980. Thus, rather than indicating
+      that price does not affect youth smoking, we believe this data shows that other things can
+      influence teens in addition to price.
+
+·     This same problem has led to a misinterpretation by some of the Evans and Huang paper.
+      As Professor William Evans of Maryland pointed out in a recent letter to the Commerce
+      Committee, the findings of his paper have been misquoted. As noted in the Table above.
+      the estimate that Evans stands behind is very close to the Administration estimate. The
+      confusion over his findings arises from the fact that his estimates which include data from
+      the late 1970s show a smaller youth elasticity than his estimates which focus on the 1980s
+      and 1990s. As Prof. Evans has noted, however, the data are less reliable for this earlier
+      period; in addition, as noted above, this was an era when non-price factors were driving
+      teen smoking down in the face of constant prices.
+
+The Cornell Study
+
+·     Some have cited the recent study by DeCicca et al. as refuting the previous literature. In
+      fact, this study finds higher estimates than the remainder ofthe literature when standard
+      estimation techniques are used on their full sample of 8th-12th graders. 6
+
+·     The study does find smaller effects when they choosc the particular sample of 12th
+      graders who weren't smoking in 8th grade, and try to model whether they start smoking.
+      But there is no obvious explanation for this anomalous result; after all, removing from
+      their model a population that is more addicted to cigarettes - individuals smoking from
+      8th to 12th grade - should raise, not lower, the elasticity estimate. It is troubling that
+      dropping only 5% of their sample - the 5% of teens that are most addicted - reduces
+      their estimate so dramatically.
+
+
+
+
+      6The   estimate cited in our Table is an average of their elasticities for 8th, 10th, and 12th graders.
+
+
+                                                             Automated Records Management System
+                                                             Hex-Dump Conversion
+      methodology. A recent re-analysis of their data by Professors Thomas Dee of Georgia
+      Tech and William Evans of Maryland has found these results to be very sensitive to the
+      particular sample restrictions imposed by the Comell authors. As these experts note,
+      "The results appear to be purely an artifact of the way that the authors constructed the
+      analysis sample." When a broader sample of observations is used, there is a very
+      significant effect of taxes on youth smoking in their onset model-- indeed, the results are
+      quite comparable to the previous literature ..
+
+·     This partly explains why the results of the Cornell study are so statistically imprecise.
+      For example, in this particular model, they estimate that a $1.10 price rise would reduce
+      smoking onset by only 7%. However, given the level of statistical imprecision in their
+      model, their findings would be equally consistent with a reduction in youth onset of 50%
+      or more from this $1.10 price increase - a range which encompasses the Treasury
+      estimate, as well as their own estimates using a more straightforward methodology.
+
+·     One criticism levied by DeCicca et al. against the earlier literature is that it does not
+      control for differences across states at a point in time that might determine youth smoking
+      propensities; low tax states may have high smoking because of other regulatory or
+      cultural factors. But their approach does not solve this problem; it still relies on
+      point-in-time comparisons of smoking onset across states, making it difficult to separate
+      out other differences across those states. Other studies address this problem much more
+      directly. Chaloupka and Grossman (1996) do so by including a variety of state
+      charactenstics, including state anti-tobacco regulations. Evans and Huang (1997)
+      address the problem even more directly by examining only the effect of within-state price
+      changes on youth smoking. The fact that these estimates are so similar to that used by
+      Treasury highlights the robustness of the conclusions, and indicates why the previous
+      scientific consensus is not undermined by one set of anomalous results.
+
+International Evidence
+
+·     There has also been much recent attention paid to the fact that youth smoking remains
+      high in other countries with much higher cigarette prices. In particular, Wall Street
+      analyst Martin Feldman noted in his testimony of March 19th that youth smoking rose in
+      the U.K. between 1988 and 1996, despite a 26% rise in the real price of cigarettes. The
+      inference that is often drawn from this type of evidence is that higher prices won't deter
+      youth smoking in the U.S.
+
+·     But these international comparisons do not tell us much ofanything about the response
+      ofyouth in the Us. to price changes. The fact that youth smoking rates remain high in
+      other countries reflects other cultural factors that influence youth to smoke, and is not a
+      rejection of the fundamental relationship between price and demand. And increased
+      smoking among youth in the U.K. between 1988 and 1996 may have more to do with
+      other factors, such as a recession which raised youth unemployment rates by 25% over
+      this period, than with changes in the price of cigarettes. In light of this concern, it is
+      certainly preferable to rely on careful, controlled analysis of U.S. teen smoking than on
+      this type of anecdotal international evidence.
+                                                           Automated Records Management System
+                                                           Hex-Dump Conversion
+    appropriate one would be to Canada, since it is more similar to and faces many of the
+    same cultural influences as the U.S. The two economic studies which estimate the
+    effects of cigarette prices on Canadian teens are both consistent with the findings in the
+    U.S. literature - teens are not only responsive to price changes, but they are more
+    responsive than adults. In fact, the Canadian youth elasticity estimates are higher than
+    those for the U.S.
+
+·   Moreover, the pattern of youth smoking in Canada during the 1980s confirms the
+    sensitivity of youth to price changes.
+
+·   In 1981, youth smoking was pervasive in Canada -- 43.S% of Canadian teen were current
+    smokers (defined as having smoked in the last thirty days). The youth smoking rate
+    during this period was about SO% higher than in the U.S.
+
+·   Over the next decade, Canada significantly increased the price of cigarettes. From 1981
+    to 1989, the price increased by about 90%. It is worth noting that these price increases
+    occurred without significant smuggling; the widely cited smuggling episode from Canada
+    did not occur until 1992-1993, when cigarette prices had risen by more than $1.S0 above
+    their 1989 level.
+
+·   These price increases were associated with enormous declines in teen smoking. From
+    1981 to 1989, current Canadian teen smoking rates fell from 43.S% to 22.6%, a decline of
+    almost fifty percent. During this period there were no substantial change in teen
+    smoking rates in the U.S., so by 1991 Canada's teen smoking rate was lower than ours.
+
+·   The implied Canadian elasticity of -0.S2 is very close to the estimate that would be
+    computed by the Treasury model (which allows the price responsiveness to fall as the
+    magnitude of the price increase grows) for this large a price rise, which is an elasticity of
+    -O.SI. The large declines in Canadian youth smoking rates represent largely the impacts
+    of price increases, as opposed to other public policies designed to curb teen smoking.
+    From 1981 to 1989, Canada did not impose any significant public health policy changes
+    designed to reduce teen smoking.
+
+·   In the early 1990s, smuggling did become a problem in Canada, and the government
+    lowered dramatically its federal excise taxes. As a result, between 1991 and 1994 teen
+    smoking began to rise again in Canada. Of course, teen smoking was on the rise in the
+    U.S. over this period as well, so it is not as easy to attribute all of the rise in Canada over
+    this time period to price impacts. But the fact remains that for the country most
+    comparable to the U.S., teen smoking rates fell as prices rose, and rose as prices fell.
+
+
+
+
+                                                         Automated Records Management System
+                                                         Hex-Dump Conversion
+                                    Department of the Treasury Analysis
+
+Over 3 million teenagers smoke cigarettes on a daily basis in the United States. An additional
+2 million smoke on a less than daily basis, but are at risk of becoming chronic daily users.
+
+·        The most recent data show that 25 percent of high school seniors were daily smokers;
+         another 12 percent smoked on a less than daily basis. In addition, underage youth
+         smoking has been on an upward trend -- smoking rates among high school students rose
+         by nearly a third between 1991 and 1997, from 27.5 percent to 36.4 percent.
+
+Reducing youth smoking is the best way to reduce the overall incidence of smoking in the future;
+ 90 percent of adult daily smokers first begin smoking cigarettes as teenagers.
+
+The most reliable method for reducing teen smoking is to increase the price of cigarettes.
+
+·        Recently released tobacco company documents demonstrate that the tobacco industry has
+         known for years that youths are very responsive to price. A 1981 Philip Morris memo
+         analyzed the research and concluded "it is clear that price has a pronounced effect on the
+         smoking prevalence of teenagers."
+
+·        A large number of rigorous economic studies have shown that teen smoking is responsive
+         to changes in the price of cigarettes. A consensus view is that the number of teen
+         smokers declines by about 7 percent for a 10 percent increase in the real price of
+           ·         1
+         CIgarettes.
+
+                 This relationship represents the response for a very small change in prices. Our
+                 model allows the responsiveness to decline as prices rise, since the smokers that
+                 remain at high prices have revealed that they are less responsive to price signals.
+
+Additional efforts beyond price changes can help to reduce youth smoking -- such as eliminating
+vending machines, enforcing restrictions on sales to youths, eliminating advertising aimed at
+youths, and anti-smoking counter-advertising.
+
+·       Studies have shown that fully-enforced sales restrictions have successfully led to
+        reductions in youth smoking, particularly for younger teens.
+
+                 A 1991 study in the Journal o/the American Medical Association reported a 69
+                 percent decline in daily use by seventh and eighth graders in Woodridge, Illinois
+                 following legislation and enforcement of restrictions on cigarette sales to minors.2
+
+
+
+        lChaloupka, F., and M. Grossman, "Price, Tobacco Control Policies, and Youth Smoking," NBER
+Working Paper #5740, 1996.
+
+         2Jason, L. A., P. Ji, M.Anes, S. Birkhead, "Active Enforcement of Cigarette Control Laws in the Prevention
+of Cigarette Sales to Minors," Journal of the American Medical Association, Vol. 266, no. 22, December 11,1991,
+pp.3159-3161.
+                                                                 Automated Records Management System
+                                                                 Hex-Dump Conversion
+                 school students' smoking in Leominster, Massachussetts as a result of strictly
+                 enforced sales restrictions. 3
+
+                 A recent working paper comparing the effectiveness of state and local access
+                 restrictions estimates that comprehensive access restrictions for youth can lower
+                 youth smoking by 18%.4
+
+                 A number of experts in this area suggest that a conservative assumption for the
+                 impact of comprehensive sales and marketing restrictions is a 10-20% reduction
+                 in youth smoking. Based on their opinion and the existing literature, we use this
+                 range for our estimates.
+
+Hence, a coordinated effort of sizeable price increases and fully-enforced access and advertising
+restrictions would be more likely to produce a significant and sustained decline in youth smoking
+than either policy by itself.
+
+·       The Administration's Budget proposal calls for a significant increase in the real price of
+        cigarettes over the next five years. Coupled with comprehensive sales and advertising
+        restrictions, that price increase will lead to a 39 to 46 percent reduction in underage teen
+        smoking in five years.
+
+·       In 2003 alone, the number of young people kept from smoking would be in the range of
+        about 1.4 to 1.7 million teens.
+
+·       Over the next five years, the cumulative number of young people kept from smoking
+        would be in the range of about 2.4 to 2.8 million teens.
+
+·       The direct result of these policies over the next five years is that almost 1 million of
+        today's young people will be spared from premature deaths resulting from
+        smoking-related diseases.
+
+These estimates illustrate the powerful impact of a combination of price increases and
+access/marketing restrictions on youth smoking. But there remains some uncertainty in our
+estimates ofthe impact of these policies.
+
+·       That is why the President has also called for youth smoking surcharges on the tobacco
+        industry if they do not meet targeted reductions in youth smoking. These surcharges will
+        help to ensure that we meet our youth targets.
+
+These estimates are based on daily smoking. Because underage teen smoking on iess than a
+daily basis frequently leads to daily smoking and the subsequent risk of death and disease, the
+figures understate the total benefits of these policies.
+
+        30iFranza, J.R., R.R. Carlson, R.E. Caisse, "Reducing Youth Access to Tobacco," Tobacco Control, 1992.
+
+      4Chalupka, F., and R.L. Pacula, "Limiting Youth Access to Tobacco: The Early Impact of the Synar
+Amendment on Youth Smoking," Working Paper, University of Illinois-Chicago, January, 1998.
+
+                                                                      Automated Records Management System
+                                                                      Hex-Dump Conversion
+
+
+The Treasury Model
+
+·        The Treasury model of youth smoking starts from a participation elasticity of -0.7 at the
+         current price level of about $1.95 - which means that a 10% increase in price above its
+         current level would reduce the number of teen smokers by 7%.
+
+·        But this relationship only holds for very small price changes. For larger and larger
+         price increases, the Treasury model predicts somewhat smaller proportional reductions in
+         teen smoking. This reflects the fact that the teens most likely to respond to price signals
+         are also the first to be discouraged from smoking by a price increase.
+
+·        Using this model, a $1.10 increase in the real price of cigarettes is projected to reduce
+         youth smoking by 32%. Since a $1.10 increase in the real price in 2003 represents a
+         53% rise, the associated "average" elasticity is actually _0.6. 5
+
+Industry Views Validate Administration Analysis
+
+·        Recently released internal documents from Philip Morris demonstrate that the tobacco
+         industry has known for years that youths are very responsive to price.
+
+·        A memo from 1981 documents that the tobacco industry understands the compelling
+         evidence that youths are very price responsive. This document is a review of the 1981
+         working paper by Lewit, Coate, and Grossman, discussed below. This industry review is
+         very favorable, and does not question this substantial estimate of youth price
+         responsiveness. As the memo states, "The authors of this paper ... have constructed an
+         elegant longitudinal and cross-sectional model of teenage smoking behavior... The most
+         important finding, and the one of greatest significance to the company, is their calculation
+         ofthe price elasticity of cigarettes among teenagers."
+
+·        This memo goes on to state " ... it is clear that price has a pronounced effect on the
+         smoking prevalence of teenagers, and that the goals of reducing teenage smoking and
+         balancing the budget would both be served by increasing the Federal excise tax on
+         cigarettes. "
+
+
+
+
+         5The semi-logarithmic demand function underlying this analysis is based on a standard model used to
+predict overall cigarette demand. Under it, every dime ($0.10) increase in price reduces demand by the same
+percent, but since it is doing so from a smaller and smaller base at each step, the absolute reduction in teen smoking
+from each 10 cent increment declines slightly.
+                                                                              Automated Records Management System
+                                                                              Hex-Dump Conversion
+          below. Another Philip Morris strategic planning document from the early 1990s states:
+          "There is no question that increasing taxes will cause a decrease in smoking. This point
+          is best illustrated by the present situation in Canada."
+
+·         In another document dated September 3,1987, a Philip Morris analysis of price increases
+          concluded: "price increases ... prevented 600,000 teenagers from starting to smoke ...
+          We don't need to have that happen again."
+
+Previous Academic Studies
+
+·         A number of studies have attempted to estimate the responsiveness of youth smoking in
+          the U.S. to price changes - the participation elasticity, or the change in the number of
+          teen smokers due to pric~ changes. This literature is based on comparisons of youth
+          smoking rates in high and low tax states, and on changes in youth smoking within states
+          as tax rates change.
+
+·         The CBO recently summarized this literature by stating that most of the evidence points
+          to participation elasticities ranging from -0.50 to -0.75. The Treasury estimate is in the
+          range used by the CBO.
+
+·         The results from this literature are shown in the Table below. Because differences in
+          elasticity estimates may be less intuitive, the table shows - for each analysis of youth
+          smoking - the projected reduction in teen smokers from a $1.10 price increase (along
+          with the Treasury estimates). This approach recognizes the fact that the Treasury model
+          allows the elasticity to decline for larger price increases.
+
+
+
+    Study of Teen Smoking                              Percent Reduction in Teen Smoking from
+                                                               $1.10 Real Price Increase
+    Lewit, Coate, and Grossman (1981)                                     65%
+    DeCicca et al. (1998)                                                 46%
+    Grossman et al. (1983)                                                41%
+    Chaloupka and Grossman (1996)                                         36%
+    CBO (midpoint)                                                        34%
+    Treasury                                                              32%
+    Evans and Huang (1997)                                                28%
+    Wasserman et al. (1991)                                               0-9%
+
+
+
+
+                                                                  Automated Records Management System .
+                                                                  Hex-Dump Conversion
+      question. Indeed, our estimates are more conservative than what most of the recent work
+      in this area would suggest.
+
+·     One study which estimates a very different response from the remainder of the literature
+      (Wasserman et al.) focuses exclusively on the late 1970s. During this period some
+      surveys indicate that youth smoking fell precipitously without a price increase. We
+      believe a more appropriate interpretation of the data during the late 1970's is that youth
+      smoking was driven down by the broader dissemination of facts about smoking's dangers.
+       According to one major survey, only half of 12th graders saw a great risk in smoking a
+      pack or more of cigarettes a day in 1975 - the lowest level in the survey - but this
+      number increased by nearly 25% between 1975 and 1980. Thus, rather than indicating
+      that price does not affect youth smoking, we believe this data shows that other things can
+      influence teens in addition to price.
+
+·     This same problem has led to a misinterpretation by some of the Evans and Huang paper.
+      As Professor William Evans of Maryland pointed out in a recent letter to the Commerce
+      Committee, the findings of his paper have been misquoted. As noted in the Table above,
+      the estimate that Evans stands behind is very close to the Administration estimate. The
+      confusion over his findings arises from the fact that his estimates which include data from
+      the late 1970s show a smaller youth elasticity than his estimates which focus on the 1980s
+      and 1990s. As Prof. Evans has noted, however, the data are less reliable for this earlier
+      period; in addition, as noted above, this was an era when non-price factors were driving
+      teen smoking down in the face of constant prices.
+
+The Cornell Study
+
+·     Some have cited the recent study by DeCicca et al. as refuting the previous literature. In
+      fact, this study finds higher estimates than the remainder of the literature when standard
+      estimation techniques are used on their full sample of 8th-12th graders. 6
+
+·     The study does find smaller effects when they choose the particular sample of 12th
+      graders who weren't smoking in 8th grade, and try to model whether they start smoking.
+      But there is no obvious explanation for this anomalous result; after all, removing from
+      their model a population that is more addicted to cigarettes - individuals smoking from
+      8th to 12th grade - should raise, not lower, the elasticity estimate. It is troubling that
+      dropping only 5% of their sample - the 5% of teens that are most addicted - reduces
+      their estimate so dramatically.
+
+
+
+
+      6The   estimate cited in our Table is an average of their elasticities for 8th, 10th, and 12th graders.
+
+                                                                                              Automated Records Management System
+                                                                                              Hex-Dump Conversion
+      methodology. A recent re-analysis of their data by Professors Thomas Dee of Georgia
+      Tech and William Evans of Maryland has found these results to be very sensitive to the
+      particular sample restrictions imposed by the Comell authors. As these experts note,
+      "The results appear to be purely an artifact of the way that the authors constructed the
+      analysis sample." When a broader sample of observations is used, there is a very
+      significant effect of taxes on youth smoking in their onset model-- indeed, the results are
+      quite comparable to the previous literature.
+
+·     This partly explains why the results of the Cornell study are so statistically imprecise.
+      For example, in this particular model, they estimate that a $1.10 price rise would reduce
+      smoking onset by only 7%. However, given the level of statistical imprecision in their
+      model, their findings would be equally consistent with a reduction in youth onset of 50%
+      or more from this $1.10 price increase - a range which encompasses the Treasury
+      estimate, as well as their own estimates using a more straightforward methodology.
+
+·     One criticism levied by DeCicca et al. against the earlier literature is that it does not
+      control for differences across states at a point in time that might determine youth smoking
+      propensities; low tax states may have high smoking because of other regulatory or
+      cultural factors. But their approach does not solve this problem; it still relies on
+      point-in-time comparisons of smoking onset across states, making it difficult to separate
+      out other differences across those states. Other studies address this problem much more
+      directly. Chaloupka and Grossman (1996) do so by including a variety of state
+      characteristics, including state anti-tobacco regulations. Evans and Huang (1997)
+      address the problem even more directly by examining only the effect of within-state price
+      changes on youth smoking. The fact that these estimates are so similar to that used by
+      Treasury highlights the robustness of the conclusions, and indicates why the previous
+      scientific consensus is not undermined by one set of anomalous results.
+
+International Evidence
+
+·     There has also been much recent attention paid to the fact that youth smoking remains
+      high in other countries with much higher cigarette prices. In particular, Wall Street
+      analyst Martin Feldman noted in his testimony of March 19th that youth smoking rose in
+      the U.K. between 1988 and 1996, despite a 26% rise in the real price of cigarettes. The
+      inference that is often drawn from this type of evidence is that higher prices won't deter
+      youth smoking in the U.S.
+
+·     But these international comparisons do not tell us much of anything about the response
+      ofyouth in the u.s.  to price changes. The fact that youth smoking rates remain high in
+      other countries reflects other cultural factors that influence youth to smoke, and is not a
+      rejection of the fundamental relationship between price and demand. And increased
+      smoking among youth in the U.K. between 1988 and 1996 may have more to do with
+      other factors, such as a recession which raised youth unemployment rates by 25% over
+      this period, than with changes in the price of cigarettes. In light of this concern, it is
+      certainly preferable to rely on careful, controlled analysis of U.S. teen smoking than on
+      this type of anecdotal international evidence.
+                                                                  Automated Records Management System
+                                                                  Hex-Dump Conversion
+    appropriate one would be to Canada, since it is more similar to and faces many of the
+    same cultural influences as the U.S. The two economic studies which estimate the
+    effects of cigarette prices on Canadian teens are both consistent with the findings in the
+    U.S. literature - teens are not only responsive to price changes, but they are more
+    responsive than adults. In fact, the Canadian youth elasticity estimates are higher than
+    those for the U.S.
+
+·   Moreover, the pattern of youth smoking in Canada during the 1980s confirms the
+    sensitivity of youth to price changes.
+
+·   In 1981, youth smoking was pervasive in Canada -- 43.5% of Canadian teen were current
+    smokers (defined as having smoked in the last thirty days). The youth smoking rate
+    during this period was about 50% higher than in the U.S.
+
+·   Over the next decade, Canada significantly increased the price of cigarettes. From 1981
+    to 1989, the price increased by about 90%. It is worth noting that these price increases
+    occurred without significant smuggling; the widely cited smuggling episode from Canada
+    did not occur until 1992-1993, when cigarette prices had risen by more than $1.50 above
+    their 1989 level.
+
+·   These price increases were associated with enormous declines in teen smoking. From
+    1981 to 1989, current Canadian teen smoking rates fell from 43.5% to 22.6%, a decline of
+    almost fifty percent. During this period there were no substantial change in teen
+    smoking rates in the U.S., so by 1991 Canada's teen smoking rate was lower than ours.
+
+·   The implied Canadian elasticity of -0.52 is very close to the estimate that would be
+    computed by the Treasury model (which allows the price responsiveness to fall as the
+    magnitude of the price increase grows) for this large a price rise, which is an elasticity of
+    -0.51. The large declines in Canadian youth smoking rates represent largely the impacts
+    of price increases, as opposed to other public policies designed to curb teen smoking.
+    From 1981 to 1989, Canada did not impose any significant public health policy changes
+    designed to reduce teen smoking.
+
+·   In the early 1990s, smuggling did become a problem in Canada, arid the government
+    lowered dramatically its federal excise taxes. As a result, between 1991 and 1994 teen
+    smoking began to rise again in Canada. Of course, teen smoking was on the rise in the
+    U.S. over this period as well, so it is not as easy to attribute all of the rise in Canada over
+    this time period to price impacts. But the fact remains that for the country most
+    comparable to the u.s., teen smoking rates fell as prices rose, and rose as prices fell.
+
+
+
+
+                                                                 Automated Records Management System
+                                                                 Hex-Dump Conversion
+
+

@@ -1,0 +1,35 @@
+RECORD TYPE: PRESIDENTIAL      (NOTES MAIL)
+
+CREATOR: Mary L. Smith ( CN=Mary L. Smith/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME:16-JUN-1999 20:39:15.00
+
+SUBJECT:   July event ideas
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP@EOP [ OPD ]
+READ: UNKNOWN
+
+TO: Thomas L. Freedman ( CN=Thomas L. Freedman/OU=OPD/O=EOP@EOP [ OPD ] )
+READ:UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP@EOP [ OPD ] )
+READ: UNKNOWN
+
+CC: Karin Kullman ( CN=Karin Kullman/OU=OPD/O=EOP@EOP [ OPD ] )
+READ: UNKNOWN
+
+CC: Courtney   o.   Gregoire ( CN=Courtney    o.   Gregoire/OU=OPD/O=EOP@EOP [ OPD ] )
+READ:UNKNOWN
+
+TEXT:
+Here are some July event ideas.  I will be able to get more details
+tomorrow.  Thanks, Mary==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D26]ARMS231365572.136 to ASCII,
+ The following is a HEX DUMP:
+
+================== END ATTACHMENT       1 ==================
+
+

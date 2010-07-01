@@ -1,0 +1,348 @@
+RECORD TYPE: PRESIDENTIAL     (NOTES MAIL)
+
+CREATOR: Andrew J. Mayock ( CN=Andrew J. MayockjOU=WHojO=EOP [ WHO 1 )
+
+CREATION DATE/TIME:21-FEB-1999 18:17:48.00
+
+SUBJECT:   Governors' Political Briefing Memo
+
+TO: Skye S. Philbrick ( CN=Skye S. PhilbrickjOU=WHOjO=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Andrew J. Mayock (CN=Andrew J. Mayock/OU=WHOjO=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Simeona F. Pasquil ( CN=Simeona F. PasquiljOU=WHOjO=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Bridget T. Leininger ( CN=Bridget T. LeiningerjOU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Linda L. Moore ( CN=Linda L. MoorejOU=WHOjO=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Matthew S. Vamvakis    ( CN=Matthew S. Vamvakis/OU=WHO/O=EOP @ EOP [ WHO   1 )
+READ:UNKNOWN
+
+TO: Raynell K. Morris ( CN=Raynell K. MorrisjOU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: William H. White Jr.    ( CN=william H. White Jr./OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Mickey Ibarra ( CN=Mickey IbarrajOU=WHO/O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Minyon Moore ( CN=Minyon MoorejOU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Dawn L. Smalls ( CN=Dawn L. Smalls/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Elena Kagan ( CN=Elena KaganjOU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Joshua Gotbaum ( CN=Joshua Gotbaum/OU=OMBjO=EOP @ EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Rebecca L. Walldorff ( CN=Rebecca L. Walldorff/OU=WHojO=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Cathy R. Mays ( CN=Cathy R. MaysjOU=OPDjO=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Jocelyn A. Bucaro ( CN=Jocelyn A. BucarojOU=WHO/O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Marsha Scott ( CN=Marsha Scott/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Craig Hughes ( CN=Craig Hughes/OU=WHO/O=EOP @ EOP [ WHO 1 )
+
+
+READ: UNKNOWN
+
+TO: Orson C. Porter ( CN=Orson C. Porter/OU=WHO/O=EOP @ EOP [ WHO]         )
+READ: UNKNOWN
+
+TO: Cynthia M. Jasso-Rotunno ( CN=Cynthia M. Jasso-Rotunno/OU=WHO/O=EOP @ EOP [ WHO
+READ: UNKNOWN
+
+TO: Patrice L. Stanley ( CN=Patrice L. Stanley/OU=WHO/O=EOP @ EOP [ WHO]       )
+READ: UNKNOWN
+
+TO: Todd A. Bledsoe ( CN=Todd A. Bledsoe/OU=WHO/O=EOP @ EOP [ WHO]         )
+READ: UNKNOWN
+
+TO: Maria E. Soto ( CN=Maria E. Soto/OU=WHO/O=EOP @ EOP [ WHO]     )
+READ:UNKNOWN
+
+TO: Fred DuVal ( CN=Fred DuVal/OU=WHO/O=EOP @ EOP [ WHO]   )
+READ:UNKNOWN
+
+TO: Sara M. Latham ( CN=Sara M. Latham/OU=WHO/O=EOP @ EOP [ WHO]       )
+READ:UNKNOWN
+
+TO: Kevin S. Moran ( CN=Kevin S. Moran/OU=WHO/O=EOP @ EOP [ WHO]       )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Dawn V. Woollen ( CN=Dawn V. Woollen/OU=OMB/O=EOP @ EOP [ OMB ] )
+READ: UNKNOWN
+
+TO: Ruby Shamir ( CN=Ruby Shamir/OU=WHO/O=EOP @ EOP [ WHO]     )
+READ:UNKNOWN
+
+TEXT:
+FYI: Attached is OPA's "Governors Political Briefing: Races 1999-2000."
+
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D43]MAIL40388355W.036 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043FF060000010A020100000002050000004052000000020000771C182912C90BB84298D3
+D823A2DE909C009BAAE3E96B6D619C33D337E30D259DF8281FC5D044B1A04DOCA30F3B7E8D9996
+FC4AB839FC1F48B71E513609830BCD2C428CA31E1FCCC1D2C131CD2EAC4666E71B4555C1CBB51F
+7FFB7F565E58F97A582BC538DA55D3473E35033A5DB6B1E2E287C73E280B42D346EC69852B3879
+1D7B16237FE810581CD3A82638EA6B6CEEC33E6944B7374176A140EFBOED889586139B597A9E72
+221123AOB772BE587139254320E5B4E569935D4A60AOE5C18B5E278D274C8E4E65AF6519152220
+20781AFCE1478D126ECEB99B00170839C09A8711E3F487CF14423DD6C6F30D2B24895EE58FD68E
+4FAB7846B9B5142165FODOD7D074EFA935ED5F5F341FBEOFD8EAA1B76C5D1AB57FC9A78B74F033
+COD9CB97CB9A3CD11ACBA8524590D647007C445C697327E2B6FFOE45AD7AB71F5EAB3DCFBD4454
+AF947666BA16630089890A6A7E6597305023999E6E982C4D22ADECE72C7DC166AFF7460C068BBC
+77384A60751404CDB914F83A22E85E998763612AOBCCC56B25FFAFBD16A959E9C20032A963657F
+283C60F7038D79940A37EE4BF618FF44C479752967AF51E8334E60FABF733299FF87CB49C6258A
+AA08DBD75E6DDA6AFBC48EAD5ADE6BB35195FFC98CFEE607D3463CEC6E5A3A147F700EA8581C7D
+A37BOB51CD02002000000000000000000000000823010000000B010000C003000000553A000100
+4EOOOOOOCB04000009250100000006000000190500000B3002000000280000001F050000081601
+                                                                   Hex-Dump Conversion
+
+
+
+
+                                            March 5, 2010
+
+MEMORANDUM FOR THE PRESIDENT
+
+FROM:                             MINYON MOORE AND ANDREW MAYOCK
+
+SUBJECT:                          Governors Political Briefing: Races 1999-2000
+
+This memo overviews the 1999-2000 gubernatorial races and reviews the current political situations in
+affected states. Several "hot" issues developing in Alabama, Iowa and New Jersey are also examined
+in more detail at the end of the memo.
+
+1998 Elections: The 1998 elections left the overall gubernatorial situation largely unaffected. The
+Republicans lost one governorship, but retained control of the top job in 31 states; and Democrats
+continued to hold 17 governorships, plus four territories. Jesse Ventura became the first Reform Party
+governor, and Angus King remains the only Independent governor. Despite what this straight
+numbers analysis might indicate, the 1998 elections tell a much more dynamic political story.
+Democrats suffered setbacks by losing open seats in the West -- Colorado, Nevada and Oklahoma -- in
+addition to the critical Florida governship. But they also made key gains -- in the South with victories
+by Hodges in South Carolina, Siegelman in Alabama and Barnes in Georgia, and in the West and
+Midwest with Davis (CA) and Vilsack (IA), respectively.
+
+1999-2000 Elections: In the next two-year election cycle 14 governships will come up for election - -
+three seats in 1999 (Kentucky, Louisiana and Mississippi), and 11 seats in 2000 (Delaware, Missouri,
+Montana, North Carolina, Indiana, North Dakota, New Hampshire, Vermont, Utah, Washington and
+West Virginia). It is early in the cycle, but no major realignment is expected to take place.
+Incumbents are expected to run in all but five states: Mississippi, Delaware, Missouri, Montana and
+North Carolina. In the best case scenario, Democrats could pick up two seats overall and solidify our
+southern resurgence, if we held all seven incumbents seats, held on to the three open Democratic seats
+in Missouri, North Carolina and Delaware and won the two Republican open seats in Mississippi and
+Montana. Of the five open races in the 1999 - 2000 cycle, three will be closely followed--
+Mississippi, North Carolina and Missouri -- and will be viewed as bellweathers of the political mood of
+the country and the strength of the parties.
+
+                                      1999 GOVERNORS' RACES
+
+In 1999, incumbents are expected to easily win in Kentucky and Louisiana.     Mississippi is an open
+seat and provides Democrats with a serious opportunity for a pick up.
+
+Mississippi: Governor Kirk Fordice (R) is limited by state law from seeking a third term.  Before
+Fordice, Mississippi had not elected a Republican governor since 1874, and during both of his races
+Fordice faced tough opposition. March 2 is the filing deadline, and to date, Lt. Gov. Ronnie
+Musgrove (D) is the only big-name contender to officially declare his intention to run. Rep. Mike
+                                                               Hex-Dump Conversion
+Parker (R) is expected to seek the Republican nomination. This past Friday, we met with Musgrove
+who is upbeat and strongly conveyed to us that he will run a moderate campaign.
+
+Kentucky: In 1995, Governor Paul Patton (D) was elected with 51 % of the vote. Governor
+Patton and Lt. Governor Steve Henry (D) filed their reelection papers on January 25. Patton
+will not face any primary opposition in May and is expected to face a nominal challenge in the
+general election in November.
+
+Louisiana: Since his election in 1995, Governor Mike Foster (R) has consistently posted approval
+ratings over 70. A Southern Media & Opinion poll conducted January 21-25 showed Foster
+with a 79% job approval rating. The Governor raised nearly $2 million for his reelection campaign
+this year, although he says that he has not yet decided whether he will run. To date, Rep. William
+Jefferson (D) is the only Democrat who has announced his candidacy for the race.
+
+                                      2000 GoVERNORS' RACES
+
+In 2000, four of the 11 governorships up for election are held by Republicans and seven are held by
+Democrats. Of the four Republican seats, only one is expected to be open, while three of the seven
+Democratic seats will be open. The four incumbent Democrats who are expected to run again are
+O'Bannon (IN), Dean (VT), Shaheen (NH) and Locke (WA). Their seats appear to be "safe." The
+three "safe" Republican incumbents are Schafer (ND), Leavitt (UT) and Underwood (WV). The three
+open seats held by Democrats (Delaware, Missouri and North Carolina) may prove challenging to hold.
+ The open Montana seat provides Democrats with the best opportunity for picking up a currently
+Republican held state.
+
+Open Seats
+
+Delaware: Governor Thomas Carper (D) cannot run in 2000, because of state-imposed term limits.
+In 1996, he defeated state Treasurer Janet Rzewnicki (R), 70% - 31 %. Lt. Governor Ruth Minner (D),
+is the only candidate to announce her intention to run for governor and already has raised over
+$325,000 for her campaign. Other potential candidates include: Delaware Speaker of the House
+Terry Spence (R); businessman and ex-Dupont executive Dennis Rochford (R); Chamber of
+Commerce President John Burris (R); and Attorney General M. Jane Brady (R).
+
+Note: Governor Carper is seriously considering a bid for u.s. Senate. Incumbent Senator
+William Roth (R) has not announced his intentions for 2000, although most analysts expect him
+to run for another term. At the request of the DSCC, Vice President Gore will call Governor
+Carper this week to urge him to run. Former governor and current Representative Tom Castle
+(R) will run for the Republican nomination if Roth does not, and he has not ruled out a primary
+challenge to Roth, although it is unlikely.
+
+Missouri: Outgoing Governor Mel Carnahan (D) is term limited and is running for the Senate
+against incumbent Senator John Ashcroft (R). Rep. Jim Talent (R) kicked off his campaign for
+governor last week and plans to focus his campaign on lowering taxes, fixing public education
+
+
+
+                                                 2
+                                                                   Hex-Dump Conversion
+
+and improving highways. Talent will face state Treasurer Bob Holden (D) in the general
+election next year.
+Montana: Montana offers Democrats one of their best opportunities to pick up a governorship.
+  Governor Marc Racicot (R), who is quite popular, is term limited. In 1992, he beat Dorothy
+Bradley (D) 51 % - 49%. Racicot won in 1996, defeating Judy Jacobson (D) 79% - 19%. The
+prospective Democratic candidates are all fairly strong candidates with good name recognition.
+On the Republican side, no viable candidate has emerged from a field that is largely unknown
+and at the far right of the party. To date, Secretary of State Mike Cooney (D) is the only
+announced candidate for the governor in 2000. Other Democrats expected to join the primary
+race are Attorney General Joe Mazurek (D) and State Auditor Mark O'Keefe (D). The primary
+is slated for June 2000.
+
+North Carolina: Governor Jim Hunt (D) is term-limited. In 1996, he defeated Robin Hayes (R)
+56% - 43%. North Carolina is shaping up like recent races in Alabama and South Carolina, where the
+lottery-education issue is at the center of the campaign. Lt. Governor Dennis Wicker (D) and Attorney
+General Mike Easley (D), the leading potential Democratic candidates, support the lottery. All three
+likely GOP hopefuls for governor are lottery opponents.
+
+Democratic Incumbents
+
+Indiana: In 1996, Governor Frank O'Bannon (D) came from behind to defeat Indianapolis Mayor
+Steve Goldsmith (R) 52 - 47. He served as Lt. Governor for eight years under then Governor
+Evan Bayh (D). He consistently posts approval ratings in the 70 s, and is in strong shape for his
+reelection campaign next year.                    .
+
+New Hampshire: Gubernatorial elections in New Hampshire are held every two years. Governor
+Jeanne Shaheen in expected to run and win again in 2000. In 1998, she won a second term as
+governor 65% - 35% over Jay Lucas. In 1996, she won a first term by defeating Ovide Lamontagne
+(R) 57% - 40%.
+
+Vermont: Gubernatorial elections in Vermont are also held every two years. Governor Howard
+Dean (D), who first assumed office in '91, won his bid for reelection last November by defeating Ruth
+Dwyer (R) 56% to 41 %. Dean served as DGA chair in 1997-98.
+
+Washington: Governor Gary Locke (D-WA) faces reelection in 2000. He was first elected in 1996
+by defeating his Republican opponent Ellen Craswell (R), 58% - 42%. Locke made history in 1996 by
+becoming the nation's first elected Chinese-American governor. Locke has been a very popular
+governor. To date, he faces no primary opponent. On the Republican side, 1998 senate nominee and
+former Rep. Linda Smith is likely to run.
+
+Republican Incumbents
+
+North Dakota: While Gov. Edward Schafer (R) has not announced whether he will run in 2000,
+it is likely that he will. In 1992, Schafer won the governship by defeating Nicholas Spaeth (D)
+58% - 41 %. In 1996, Schafer beat Lee Kaldor (D) 66% - 34% to retain his seat.
+
+
+                                                  3
+                                                         Hex-Dump Conversion
+
+Utah: Governor Leavitt CR) is expected to run and win easily in 2000. Recently, he has emerged as
+a strong voice of reform in the aftermath of the Olympic scandal. In 1996, Leavitt beat Jim Bradley
+CD) 75% - 23% for a second term.
+
+West Virginia: Governor Cecil Underwood CR) was first elected governor in 1956, making him
+the nation's youngest governor at age 34. When he was reelected in 1996, he became the
+nation's oldest governor at age 74. Former state tax secretary James Paige III (D) filed
+pre-candidacy papers announcing his decision to run for Governor. Paige joins Rep. Bob Wise
+(D) and Charleston Attorney Jim Lees (D) as the likely candidates in the race to unseat Governor
+Underwood.
+
+                                            HOT ISSUES
+
+We wanted to brief you on a few "hot" issues facing governors who do not face races in 1999-2000,
+but which we felt should be noted for you.
+
+Alabama: Governor Don Siegelman CD) defeated Fob James last November 58% - 42% to win his
+first term as governor. The biggest question in Alabama right now is whether Siegelman will get
+the education lottery on which he campaigned. The lottery will require a constitutional
+amendment, and Siegelman will have a tough time getting a lottery special election bill passed by
+the legislature when they convene next month. Religious and conservative groups are still very
+much against the plan. On his first day in office, Siegelman signed an executive order      .
+instructing school administrators to begin the process of removing portable classrooms.
+
+Iowa: In a dramatic come-from-behind race, state Senator Vilsack (D) defeated former Rep.
+Jim Ross Lightfoot (R) 53% - 46% to become Iowa's first Democratic governor in 30 years. He
+follows Governor Terry Branstad (R), who had served as governor since 1983.
+
+A Des Moines Register poll conducted January 22 - 25 showed Governor Tom Vilsack's (D) job
+approval rating is 57%, his disapproval rating is only 5%, while 38% were unsure.
+
+The two hottest issues in the Iowa state legislature are education initiatives and
+methamphetamine use. The Governor and the Legislature have agreed on a three-part school
+finance package that includes a 4% increase in per-pupil spending for the 2001 budget year, a
+guarantee that school districts with enrollment losses would be allowed to spend the same
+amount next year on regular programs as this year, and accelerated state aid totaling $4 million
+for districts with growing enrollments. Governor Vilsack is now trying to get a five-year plan
+approved which would further increase education spending, limit K-3 class sizes to 17 students,
+and demand accountability from local school districts. The legislature likely will pass a
+weakened version of the plan.
+
+Governor Vilsack has put forth a plan which addresses education, treatment and law
+enforcement. The most controversial part of his plan calls for mandatory life sentences for
+those caught selling meth to children. Republicans are debating the issue. This stance has
+
+
+                                                 4
+                                                               Hex-Dump Conversion
+
+made Vilsack appear to be the hawk and Republicans the doves when it comes to getting tough
+with drug pushers.
+
+Vilsack and his Lt. Governor, Sally Pederson, have a very strong partnership, much like your
+relationship with the Vice President. Vilsack and Pederson are developing a reinventing government
+initiative, modeled after the Vice President's NPR program.
+
+New Jersey: Wednesday's surprise announcement by Senator Frank Lautenberg (D) have
+Governor Christie Todd Whitman (R) seriously weighing a bid for the Senate. Whitman's
+moderate policies as governor nearly guarantee her a primary challenge from the conservative
+wing of the party, and a primary could drive a large wedge in the New Jersey GOP. In 1994,
+Lautenberg beat Chuck Hayataian (R) 50% - 47% in a very bitter race. In 1988, Lautenberg won the
+Senate seat 54% - 46% over Peter Dawkins (R).
+
+
+
+
+Attachments: Map of Partisan Control of Governorships in 1999 .
+             Map of 1999 Governor Elections by Partisan Status
+             Map of 2000 Governor Elections by Partisan Status
+             Map of 2000 U.S. Senate Elections by Partisan Status
+
+
+
+
+                                                5
+
+

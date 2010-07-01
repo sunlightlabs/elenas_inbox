@@ -1,0 +1,297 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Michael J. Sorrell ( CN=Michael J. Sorrell/OU=PIR/O=EOP [ PIR 1 )
+
+CREATION DATE/TIME:22-MAY-1998 17:51:22.00
+
+SUBJECT:
+
+TO: Ananias Blocker III ( CN=Ananias Blocker III/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Laura K. Capps ( CN=Laura K. Capps/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Emil E. Parker ( CN=Emil E. Parker/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Laura K. Demeo ( CN=Laura K. Demeo/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Cheryl D. Mills ( CN=Cheryl D. Mills/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Robert B. Johnson ( CN=Robert/B. Johnson/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Lynn G. Cutler ( CN=Lynn G. Cutler/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Sidney Blumenthal ( CN=Sidney Blumenthal/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Beverly J. Barnes ( CN=Beverly J. Barnes/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Peter Rundlet ( CN=Peter Rundlet/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Minyon Moore ( CN=Minyon Moore/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Elisabeth Steele ( CN=Elisabeth Steele/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Trooper Sanders ( CN=Trooper Sanders/O=OVP @ OVP [ UNKNOWN 1
+READ: UNKNOWN
+
+TO: Ruby Shamir ( CN=Ruby Shamir/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Suzanne Dale ( CN=Suzanne Dale/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: edley ( edley @ law.harvard.edu @ INET @ LNGTWY [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Maria Echaveste ( CN=Maria Echaveste/OU=WHO/O=EOP @ EOP [ WHO 1 )
+
+
+READ: UNKNOWN
+
+TO: Jon P. Jennings ( CN=Jon P. Jennings/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Janet Murguia ( CN=Janet Murguia/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Robert N. Weiner ( CN=Robert N. Weiner/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Michael Waldman ( CN=Michael waldman/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Dawn M. Chirwa ( CN=Dawn M. Chirwa/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Bob J. Nash ( CN=Bob J. Nash/OU=WHO/O=EOP @ EOP [WHO 1 )
+READ: UNKNOWN
+
+TO: Doris o. Matsui ( CN=Doris O. Matsui/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Mona G. Mohib ( CN=Mona G. Mohib/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Paul E. Begala ( CN=Paul E. Begala/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Gene B. Sperling ( CN=Gene B. Sperling/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Nelson Reyneri ( CN=Nelson Reyneri/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Sylvia M. Mathews ( CN=Sylvia M. Mathews/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Thurgood Marshall Jr ( CN=Thurgood Marshall Jr/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Susan M. Liss ( CN=Susan M. Liss/O=OVP @ OVP [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Ann F. Lewis ( CN=Ann F. Lewis/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Mickey Ibarra ( CN=Mickey Ibarra/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Marjorie Tarmey ( CN=Marjorie Tarmey/OU=WHO/O=EOP·@ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Andrew J. Mayock ( CN=Andrew J. Mayock/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Julie A. Fernandes ( CN=Julie A. Fernandes/OU=OPD/O=EOP @ EOP [ OPD 1 )
+
+
+ READ: UNKNOWN
+
+ TEXT:
+ ==================== ATTACHMENT 1 ====================
+ ATT CREATION TIME/DATE:   0 00:00:00.00
+
+ TEXT:
+ Unable to convert ARMS_EXT: [ATTACH.D22]MAIL468438148.126 to ASCII,
+  The following is a HEX DUMP:
+
+  FF575043CA050000010A020100000002050000009324000000020000F5EC1E981EE40E9BB76C5E
+  2DC8E473863CB4BD3D1ECB6F80D3DD09398234076C3DC1B5F816EE29FOED864AAOA4901DF35F27
+  92DE766E6A6AD73663248A459A5D304AFBFE9836BCC213DBD858BADD1C583D1CF75ACA35C259D2
+  84BC005C6D74C782711ECFCD98928E5EB9D6E74E1ECD54A32500BD214D18C78307375BE3907F80
+  C4B5D617ED36130C47A6A966B5C33D09871A85BF809A41C6EEA90A4E7BF92989A574F3F9646AF7
+  05A2CABD55FD582FC6ECOE61C4443E18CD4190C2793505D250342C3B1FAAC446E79EAAA3B33052
+  C2638D8264DB8988897D74778A31EC44FE285B7E6D360DOF892151B042906A14E54A5028129815
+  C6D5A565358EB7D3619883D6990A3AF4FC75D93A5FDD7806BF7DBB691EDE21A2BFB28AEE9C2B7C
+  EF25ED4623C36492383DF31677E95F51993AC1CB37F6F1D2797C802C5191C666FC3815C0282E56
+  E3C8622BD6F679C621E20BAD9A85216E3C635A5CB69FA067BOE64A823C3C69E9297COC6AAF2A1B
+  8C30D0897DAOA158D4DDEC221B701B583AOBC1EAB6D26F4230330854D4D376AED554601408FC4D
+  E628B2BFDA184B7F51897BB90A252C06ADBDE3A351D90A1D6C3EOD458572763B5F8DD68DF68132
+  4C3E8A94B2AEBAF48112FFE4C769D4FCAAF756E68E27495F39AE8898DC96EFD765BA52526B4B13
+  8D7F88894302000E00000000000000000000000823010000000B010000C4020000005510000000
+  4EOOOOPOCF030000092501000000060000001D0400000B30020000002800000023040000080501
+  000000080000004B0400000055020000003C00000053040000005504000000280000008F040000
+  08770100000040000000B704000008340100000014000000F70400000802010000000FOOOOOOOB
+  050000005507000000400000001A050000005502000000400000005A0500000055020000003000
+  00009A05000000985C005C0050004900520031005C005000520049004E00540045005200330000
+  000000000000000000000000000000000000000000000000000000000000000000000000000000
+  0000000057494E53504F4F4COOOOOOOOOOC80018012C012C012C012C01C8001801300000000000
+  000000000000000000000000000000000000000000000000000000000000000000000000000000
+  000000000000000000000000000000000000000000000000000000000000000000000000000000
+  000000000000000000000000000000000000000000000000000000000000000000000000000000
+  000000000000000000000000000000000000000000000000000000000000000000000000000000
+  2800C8196810480D000011090000005AOOOB010000103600540069006D006500730020004E0065
+  007700200052006F006D0061006E00200052006500670075006COO610072000000000000000000
+  0100020058020100000004002800000000000000000000000000000000000000011202002400A1
+  000000A100000001000400020000001BOOF41A5C121A0900000000000000600018110000102400
+  540069006D006500730020004E0065007700000052006F006D0061006E000000000000002500E4
+  1B3214BC0700001641000000600014100000101000480065006COO760000000000000000000AOO
+  0000D60202005BOOD7020100A300D8022B006581D90201005500DA0201005500DB0201005500DC
+  0201004400DD0205005500DE0201001700DF020100170066A47424000000000000000000000000
+  0000000008337C00780000020000DF0200000329004C1DC012C409000011090000005AOOOB0100
+  00102800430047002000540069006D0065007300200052006500670075006C0061007200000000
+  00000000002900A61DD3126909000011090000005AOOOB01000010280043004700200054006900
+  6D0065007300200052006500670075006C006100720000000000000000003200CF19BE10A60800
+  001109000000600018110000101800430047002000540069006DOO650073000000000000000000
+  DDOA10008301040003000200211000DDDDOBOB00030000040BOODDF102D802F19BF103D802F1F1
+. 00D802F19BF101D802F1F20CF2D41A1F0087010B00080058023EA5020058020000580202005802
+  00001FOOD4D10337008001000016006C94010000580206000058020000000000000064FOOOOOOO
+  00000000000000000000000000000064F0003700D19CF102D902F1CCCCCCCCF103D902F1F102DA
+  02F1CCCCCCF103DA02F1F102DB02F1CCCCF103DB02F14D454D4F52414E44554D9B80464F528054
+  484580505245534944454E54F30CF3D0041500000B00090001200D7008090001201500DOCCF20C
+  F246524F4D3AF30CF3E0110C0000000060090COOE04A554449544880412E8057494E53544F4EDO
+  041500000B00090001000F500AOB0001201500DOCCF20CF25448524F5547483AF30CF3E0110COO
+  00000060090COOE04552534B494E4580424F574C4553E0110COOOO000068100COOEOD004150000
+  OB00090001E010300COD0001201500DOE0110C0000000008070COOEOE0110C0000000060090COO
+  E053594C564941804D415448455753CCCCF20CF2444154453AF30CF3E0110C0000000060090COO
+  E04D41598032322C8031393938D0041500000B00090001B013000F100001201500DOE0110COOOO
+                                              Hex·Dump Conversion
+
+
+
+
+MEMORANDUM FOR THE PRESIDENT
+
+FROM:        JUDITH A. WINSTON
+
+THROUGH: ERSKINE BOWLES
+         SYLVIA MATHEWS
+
+DATE:        MAY 22,1998
+
+SUBJECT:     PRESIDENT'S INITIATIVE ON RACE WEEKLY REPORT
+             MAY 16 - MAY 22
+
+
+
+ADVISORY BOARD ACTIVITIES
+
+      May Advisory Board Meeting on Administration of Justice. On May 19, the
+      Advisory Board met at The George Washington University to discuss Race and the
+      Administration of Justice. The meeting featured an address by U.S. Attorney General
+      Janet Reno, who spoke about the importance of establishing trust in the criminal justice
+      system, and included a factual overview of race and the justice system by Christopher
+      Stone, Director ofthe Vera Institute of Justice. Professor Charles Ogletree of Harvard
+      Law School served as the moderator, of the meeting, which included 10 panelists and
+    . Advisory Board members Dr. John Hope Franklin, Reverend Dr. Suzan Johnson Cook,
+      Governor Tom Kean, Angela Oh, Linda Chavez-Thompson and Bob Thomas. Among
+      the topics discussed were racial profiling, jury composition, and disparities in sentencing
+      between whites and minorities. Approximately 250 people attended the meeting.
+
+     Religious Leaders Forum. The first Religious Leaders Forum was held on May 21,
+     at Tulane University in New Orleans. It was hosted by Reverend Dr. Suzan Johnson
+     Cook and was attended by more than 100 local and national religious leaders. Reverend
+     James Forbes of the Riverside Church in New York City was the keynote speaker at the
+     plenary session. The forum focused on the ways to strengthen the faith community's
+     commitment to and involvement in, One America. The next Religious Leaders Forum is
+     scheduled to occur in Louisville, Kentucky on June 1.
+
+                                               1
+                                        Hex-Dump Conversion
+
+     Asian Pacific American California School Board Officials. On May 16, Angela Oh spoke
+     to this organization in San Diego about the role of California public schools in
+     promoting improved race relations.
+
+     Ecumenical Group of Clergy. On May 18, Reverend Dr. Suzan Johnson Cook
+           addressed the Ecumenical Group of Clergy for Metropolitan DC. She
+     discussed her work as an Advisory Board member and her vision of One
+     America.
+
+    Joint Center for Political and Economic Studies. On May 20, Linda
+    Chavez-Thompson was the keynote speaker at a forum entitled "The African American
+    Military Officer in the New Millenium." The forum was hosted by the Joint Center for
+    Political and Economic Studies. At the forum, the Joint Center released a nine-month
+    study regarding the state of affairs of the African-American officer in the Army.
+
+OFFICE OF THE EXECUTIVE DIRECTOR
+
+    Race Symposium. We participated in a symposium sponsored by the National
+    Park Service and the Brown v. Board of Education Foundation. The symposium
+    was part of a series of events that the Park Service has sponsored around the
+    country on race. This three-day conference commemorated the 44th
+    anniversary of the Brown decision. It brought together community leaders to
+    address race issues that affect the quality of life in the community, schools and
+    families of the people of Topeka.
+
+    Dakota Territory Tribal Chairmen's Association Meeting. On May 20, we met with
+    representatives from the Oglala, Rosebud and Yankton Sioux Tribes. The discussion
+    focused on steps the Initiative could take to promote a more complete historical
+    understanding of the Native American experience.
+
+    Meeting with the Navajo Nation. On May 19, Advisory Board members Dr. John
+    Hope Franklin and Bob Thomas and myself, met with Navajo Nation representatives
+    Chief Justice Robert Yazzie and Sharon Clahchischilliage to discuss the May Advisory
+    Board meeting and issues of concern to the Navajo Nation.
+
+    The National Research Council Project. On May 19, we announced the National
+    Research Council (NRC) project. The NRC will hold a conference October 15 and 16 in
+    Washington, DC. The NRC has commissioned nationally recognized scholars to
+    examine past and current trends for different racial and ethnic groups in key areas,
+    including health, education, employment and the administration of justice and identify
+    gaps in research and data that are needed to promote a clear understanding of race-related
+    issues.
+
+
+
+                                               2
+                                  Hex-Dump Conversion
+
+
+
+June Advisory Board Meeting. We have begun planning the June Advisory Board
+Meeting, which is scheduled to take place June 17 and 18 in Washington, DC. The
+Advisory Board plans to discuss and analyze infonnation that has been gathered during
+the course of the year.
+
+Carnegie Endowment for International Peace. On July 13, the Carnegie Endowment
+for International Peace will sponsor an event on the immigrant experience and race. The
+event will provide Advisory Board members with a more in-depth understanding of the
+issues relating to the changing face of immigration and its effect on America.
+
+
+                 Federal agency activities were not available.
+
+
+
+
+                                        3
+
+

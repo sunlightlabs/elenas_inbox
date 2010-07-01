@@ -1,0 +1,232 @@
+RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+CREATOR: Andrew J. Mayock ( CN=Andrew J. Mayock/OU=WHO/O=EOP [ WHO 1 )
+
+CREATION DATE/TIME:22-MAY-1997 08:02:05.00
+
+SUBJECT:   Please Review Memo This Morning
+
+TO: Michael D. McCurry ( CN=Michael D. McCurry/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Ellen M. Lovell ( CN=Ellen M. Lovell/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Beverly J. Barnes ( CN=Beverly J. Barnes/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Ann F.· Walker ( CN=Ann F. Walker/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Carolyn Curiel ( CN=Carolyn Curiel/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Doris o. Matsui ( CN=Doris O. Matsui/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Robert B. Johnson ( CN=Robert B. Johnson/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Minyon Moore ( CN=Minyon Moore/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Richard Socarides ( CN=Richard Socarides/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Laura K. Demeo ( CN=Laura K. Demeo/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Cheryl D. Mills ( CN=Cheryl D. Mills/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Maria Echaveste ( CN=Maria Echaveste/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Angelique Pirozzi ( CN=Angelique Pirozzi/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Mary E. Glynn ( CN=Mary E. Glynn/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Susan M. Liss ( CN=Susan M. Liss/O=OVP @ OVP [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Thurgood Marshall Jr.   ( CN=Thurgood Marshall Jr./O=OVP @ OVP [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: James T. Edmonds ( CN=James T. Edmonds/OU=WHO/O=EOP @ EOP [ WHO 1 )
+
+
+READ: UNKNOWN
+
+TO: Douglas B. Sosnik ( CN=Douglas B. Sosnik/OU=WHO/O=EOP @ EOP [ WHO]        )
+READ: UNKNOWN
+
+TO: Andrew J. Mayock ( CN=Andrew J. Mayock/OU=WHO/O=EOP @ EOP [ WHO]      )
+READ: UNKNOWN
+
+TO: Robert N. Weiner ( CN=Robert N. Weiner/OU=WHO/O=EOP @ EOP [ WHO]      )
+READ: UNKNOWN
+
+TO: Tracey E. Thornton ( CN=Tracey E. Thornton/OU=WHO/O=EOP @ EOP [ WHO]          )
+READ: UNKNOWN
+
+TO: Janet Murguia ( CN=Janet Murguia/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+TO: Bob J. Nash ( CN=Bob J. Nash/OU=WHO/O=EOP @ EOP [ WHO]   )
+READ: UNKNOWN
+
+TO: Ann F. Lewis ( CN=Ann F. Lewis/OU=WHO/O=EOP @ EOP [ WHO]     )
+READ: UNKNOWN
+
+TO: Richard L. Hayes ( CN=Richard L. Hayes/OU=WHO/O=EOP @ EOP [ WHO]      )
+READ: UNKNOWN
+
+TO: Dawn M. Chirwa ( CN=Dawn M. Chirwa/OU=WHO/O=EOP @ EOP [ WHO]      )
+READ: UNKNOWN
+
+TEXT:
+Attached is a memo from Maria which summarizes the consultations regarding
+the race initiative. Please give it a quick look and provide comments to
+Maria by NOON today.   (Please get your comments in so that the memo can be
+sent to the President by this weekend.)
+
+This memo includes consultations with appropriate people that were not on
+our original list, but whom you may have heard from or talked to.  Please
+add those folks if they are not listed already.
+
+Thank you.
+
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D27]MAIL45444414N.116 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043E8040000010A02010000000205000000FC2A000000020000AEE58308E99B78BA691E6C
+CFFB9B6DBF936E31F7702F51881E32F250449CF43F95FFB87C5ABI06100286B90303CIE69B0527
+2571344727COA55494A01895A3BD6A83E724B8DEDA798E7A03BAD87B381FBF21BB2BOA8BBC4D4D
+A417689D6344E52E497BE330804DE81A33D78BEE2FE15C58C14CB8157600B8E276A73568686189
+791BCOEl186BC6C66D52BCOED24061EA3AIF731B06E08DA6CD599AlC6803F234A9B7CA5560B869
+F7C689C54EBB26E6EC73080EIFA31372EF25326F323474CD9E69BB977DA5ECCC9C651E5CC6539C
+B5C609AABB9FOOEB4CCB7B75AB87E4281F532B9EIC77208CE2ED86933396DIB048DE7EFBBDB5F6
+06F417B567C5FA1488E3DCFCDEDD53C0201B53C6AIED478ADDD3ECO2299320E5F2AF60FC272A9A
+C7B0983EB198982C5F5ACDF0431AIC41739628DIB4CD4BF2391855OECABE25CAC9677095080F8E
+DC880838A0440E799BD8AA4CFF8DOF2CFFA375C58EA621CF575BFC55155DA727A979AOFA35861F
+DA129DE3854386F94586208194A97C9E3596171C13BA959390E80774762CE26DDEED937B1866A2
+AA15B5B47A47303B7B9FF3414E3DB3B0138CAII043554DF5DCOEDFCCD9366317081F6A476F6BIE
+                                                               Hex-Dump Conversion
+
+
+
+MEMORANDUM FOR THE PRESIDENT
+
+FROM:                  Sylvia Mathews
+                       Maria Echaveste
+
+DATE:          May 21, 1997
+
+RE:                    Reconciliation Outreach Efforts
+
+In developing recommendations for your initiative on race and diversity, we consulted a number
+of individuals and national leaders who have spoken out on this issue in the past. We explained
+that you were considering a number of proposals that would speak to the unresolved issue of
+racial and ethnic discrimination, and would focus on the great challenge facing our country as we
+move into the next century. We solicited their views regarding the advisability of a Presidential
+initiative on race, whether such an initiative should take the form of a commission or some type
+of a White House summit, and asked for suggestions of who should be asked to serve on a
+commission, if that were to be established.
+
+Everyone we called supported the idea of a Presidential initiative; many speaking enthusiastically
+of your unique ability to speak to the nation on the subject of race and reconciliation and to move
+the country toward racial healing and tolerance. For example, Father O'Donnovan and Father
+Hesburgh both expressed strong support for your taking on the race issue. Father Hesburgh
+cited your success with the Memphis speech and said he felt America is ready to face this issue
+and suggested that you should try to build on the 1964 Civil Rights Act.
+
+Several people expressed concern about creating a commission believing that it would run the
+risk of being big on rhetoric and short on substance. Some argued that there has been enough
+study; that it was time for action. Among those cautioning against a commission were Al
+Fromm, Xavier Becerra and Hugh Price. Others such as Kwesi Mfume and Joe Lowery, while
+not opposing a commission, were more concerned about the potential lack of concrete actions.
+John Sweeney thought selecting a commission would be hard but supported your effort to engage
+the public on the issue. Senator Moseley-Braun thought a commission was an excellent idea and
+the you were ideally suited to leave a lasting legacy on the matter of race. She believes that you
+have the credibility and can give direction to the nation on this important issue
+
+
+Hugh Price also suggested that the real challenge for the future is ensuring that what he called the
+"opportunity structure" be open to all populations in the country, and not just focus on past
+discrimination. He proposed that you convene a dialogue with mayors who have real life
+experiences with interactions among different people and the difficulty of governing diverse
+                                                              Hex-Dump Conversion
+
+populations. Andrew Young argued that you would get much further by focusing on the issue of
+poverty and highlighting the common goal of economic security. He also thought consideration
+should be given to human relations and how we develop respect for all types of diversity.
+
+Representative Mink said that the commission should have a name that was inclusive and that a
+commission on race was a very bad idea which conjured up very negative and divisive signals.
+Representative Matsui agreed with the idea of a reconciliation commission and suggested several
+prominent Asian-Americans be considered. Becerra of the Hispanic Caucus also stressed the
+importance of going beyond a black and white dialogue. Ron Allen, a Native American leader,
+expressed great concern that racism was at the very heart of the problems besetting the Native
+American community but that a commission on race would not address the needs of this
+community. Substantial participation by Native Americans in this initiative will be required to
+allay concerns.
+
+Anna Devere Smith argued that the press should be challenged and included in the effort to bring
+about reconciliation.
+
+We also had lengthy conversations with both Mayor Dennis Archer and Mayor Willie Brown;
+both of whom were highly supportive and pleased to be asked for their advice. Mayor Brown
+was particularly interested in trying to identify new leadership -- younger people not already
+previously identified with the Civil Rights movement to participate in this effort. Both indicated
+they will applaud you when you make your speech..
+
+Lastly, we have spoken with Rev. Jackson who stressed that vision, policy and politics must be
+connected. The key question for him is whether you are prepared to make some bold moves to
+advance this effort with particular emphasis on our criminal justice system and our economic
+structure. While he believes that you are deeply committed to the issue, but the initiative must
+be more than dialogue.
+
+Below is a list of the individuals with whom we spoke:
+
+Kwesi Mfume                       Senator Ted Kennedy
+Wade Henderson                    Vernon Jordan
+George Stephanapoulos             Bill Galston
+Taylor Branch              Secretary Rodney Slater
+Chris Edley                       William Julius Wilson
+Hugh Price                        Congressman Xavier Beccerra
+John Sweeney                      Governor Winter
+Michael Wenger                    Al Fromm
+Mayor Dennis Archer               Mayor Willie Brown
+Rev.Jesse Jackson                 Father Ted Hesburgh
+Rev. Joseph Lowery                Senator Carol Mosley Braun
+Congressman John Lewis            Congresswoman Maxine Waters
+Congressman Bob Matsui            Warren Christopher
+Ambassador Bill Richardson        Secretary Federico Pena
+                                                                           Automated Records Management System
+                                                                           Hex-Dump Conversion
+    Henry Cisneros                                 Anna Devere Smith
+    Father Leo O'Donnovan
+    Before the initiative can be announced and before your speech, there are two critical calls that
+    remain to be made: Rev. Jesse Jackson and Mary Francis Berry, Chair of the U.S. Commission
+    on Civil Rights. There is no plan to place either on the commission, but we propose to consult
+    with them regularly throughout this effort. Our recommendation is that you speak with Rev.
+    Jackson to ensure his support for your initiative.
+
+    We also suggest that the Vice President speak with Mary Berry. The U.S. Civil Rights
+    Commission, in particular, has addressed aspects of this issue of race as part of their ongoing
+    work and one question that will have to be answered is why create another commission.
+    Certainly there are opportunities to use some of the Commission's findings and research as we do
+    our work.
+
+    Before the speech is given, we plan to call 10-15 key elected officials nationwide to give them
+    advance notice of the speech. Additionally, attached is a much longer list of people whom we
+    intend to call in advance of the speech

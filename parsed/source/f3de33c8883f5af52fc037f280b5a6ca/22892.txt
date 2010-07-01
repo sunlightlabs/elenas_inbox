@@ -1,0 +1,56 @@
+   RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+   CREATOR: Jose Cerda I I I ( CN=Jose Cerda III/OU=OPD/O=EOP [ OPD ) )
+
+   CREATION DATE/TIME:24-FEB-1999 18:59:04.00
+
+    SUBJECT:   Added line per phil
+
+   TO: Leanne A. Shimabukuro ( CN=Leanne A. Shimabukuro/OU=OPD/O=EOP @ EOP [ OPD ) )
+   READ: UNKNOWN
+
+   TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO ) )
+   READ: UNKNOWN
+
+   TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ) )
+   READ:UNKNOWN
+
+   TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ) )
+   READ:UNKNOWN
+
+   TEXT:
+   ==================== ATTACHMENT   1 ====================
+   ATT CREATION TIME/DATE:   0 00:00:00.00
+
+   TEXT:
+   Unable to convert ARMS_EXT: [ATTACH.D57)MAIL46815895L.036 to ASCII,
+    The following is a HEX DUMP:
+
+   FF575043CC040000010A02010000000205000000470B000000020000E877111E40F91DC6CE27D9
+   7DAABD0109A8835AF9CE4057AE7B4EEC7BOAEF129CCC65D98797F50C4F256CC52EC0530B89BEBC
+   5FBB7881391EEAAFE9D63A4722F8BC830498FD376F03403B588BAAFD2E04D95927B175210502CF
+
+
+
+
+                                Automated ReconIs Management System
+                                        Hex.[)ump Conversion
+       Dear Hugh:
+
+       Thank you for your thoughtful letter on the issue of police abuse and misconduct. I
+       appreciate your recommendations on this difficult issue, and have forwarded your letter to
+       the Attorney General for her consideration [as she continues to work with state and local
+       law enforcement agencies on these matters].
+
+       But I want to be clear: My Administration is committed to vigorously enforcing the law,
+       including against those police officers who would betray the public's trust through
+       lawlessness or brutality. We are equally committed to strengthening the bond between
+       community residents and their local police, and making the criminal justice system more
+       responsive to the public safety needs of all our people.
+
+       Again, thank you for your letter. I have asked Chuck Ruff, the White House Counsel, to
+       follow up with you personally.
+
+       BC
+
+

@@ -1,0 +1,82 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Leanne A. Shimabukuro ( CN=Leanne A. Shimabukuro/OU=OPD/O=EOP [ OPD 1 )
+
+CREATION DATE/TIME:15-JUL-1998 09:35:53.00
+
+SUBJECT:   crime meeting agenda
+
+TO: Christa Robinson ( CN=Christa Robinson/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Karen A. Popp ( CN=Karen A. Popp/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Michelle Crisci ( CN=Michelle Crisci/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+CC: Jose Cerda I I I ( CN=Jose Cerda III/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 =='==================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D70]MAIL47360559L.126 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043B0040000010A02010000000205000000F50C0000000200002E3BE7A2FEE74848957691
+C449EE79CDB6F15762F2609D7CD09574DD42302A6AE3C884FA90182010314Fl156EE95F23A7B60
+                                        July 15, 1998
+
+Upcoming Events
+
+       *        7/20 Curfews, school uniforms, anti-truancy announcement, New Orleans
+
+       *        7/23    Faith-oriented anti-gang grants
+
+
+Pending Items
+
+       *        School safety
+                - Release of early warning guide at end of August (meet w/communities, experts)
+                - Early September release of COPS/Schools grants and plan
+                - Annual School Safety Report and School Safety day (early October)
+
+       *        7/28 Drug Strike Force VP announcement, Chicago
+
+       *        Teen drug testing/driver'S licenses pilot
+
+       *        CAP legislation follow-up meeting
+
+Legislative
+
+       *        Juvenile crime
+
+       *        Appropriations
+                - CJS
+                - Treasury-Postal
+                - LaborlHHS
+
+       *        Drugs
+
+Miscellaneous
+
+       *        FRC drug study release today
+
+       *        Other releases, DOJ reports
+
+       *        Law enforcement groups
+
+                                                          Automated Records Management System
+       *        HHS Household Survey
+                                                          Hex-Dump Convet1ion
+
+

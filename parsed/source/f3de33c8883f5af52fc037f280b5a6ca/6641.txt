@@ -1,0 +1,162 @@
+    RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+    CREATOR: Jacinta Ma ( CN=Jacinta Ma/OU=PIR/O=EOP [ PIR 1 )
+
+    CREATION DATE/TIME: 12-MAR-1998 20:21:29.00
+
+    SUBJECT:   Room Change for LCCR
+
+    TO: Michael J. Sorrell ( CN=Michael J. Sorre11/0U=PIR/O=EOP @ EOP [ PIR 1 )
+    READ:UNKNOWN
+
+    TO: Tamara Monosoff ( CN=Tamara Monosoff/OU=PIR/O=EOP @ EOP [ PIR 1 )
+    READ: UNKNOWN
+
+    TO: Michael Wenger ( CN=Michael Wenger/OU=PIR/O=EOP @ EOP [ PIR 1 )
+    READ: UNKNOWN
+
+    TO: Robert wexler ( CN=Robert wexler/OU=PIR/O=~OP @ EOP [ PIR 1 )
+    READ: UNKNOWN
+
+    TO: Edward W. Correia ( CN=Edward W. Correia/OU=WHO/O=EOP @ EOP [ WHO 1 )
+    READ:UNKNOWN
+
+    TO: Theodore Wartell ( CN=Theodore Wartell/OU=OMB/O=EOP @ EOP [ OMB 1 )
+    READ: UNKNOWN
+
+    TO: edley ( edley @ law.harvard.edu @ inet    [ UNKNOWN 1 )
+    READ:UNKNOWN
+
+    TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+    READ:UNKNOWN
+
+    TO: Susan M. Liss ( CN=Susan M. Liss/O=OVP @ OVP [ UNKNOWN 1 )
+    READ: UNKNOWN
+
+    TO: Doris O. Matsui ( CN=Doris O. Matsui/OU=WHO/O=EOP @ EOP [ WHO 1 )
+    READ: UNKNOWN
+
+    TO: Maria Echaveste ( CN=Maria Echaveste/OU=WHO/O=EOP @ EOP [ WHO 1 )
+    READ: UNKNOWN
+
+    TO: Andrew J. Mayock ( CN=Andrew J. Mayock/OU=WHO/O=EOP @ EOP [ WHO 1 )
+    READ: UNKNOWN
+
+    TO: Lydia Sermons ( CN=Lydia Sermons/OU=PIR/O=EOP @ EOP [ PIR 1 )
+    READ: UNKNOWN
+
+    TO: Claire Gonzales ( CN=Claire Gonzales/OU=PIR/O=EOP @ EOP [ PIR 1 )
+    READ: UNKNOWN
+
+    TO: Lin Liu ( CN=Lin Liu/OU=PIR/O=EOP @ EOP [ PIR 1 )
+    READ: UNKNOWN
+
+    TO: Audrey M. Hutchinson ( CN=Audrey M. Hutchinson/OU=PIR/O=EOP @ EOP [ PIR 1 )
+    READ: UNKNOWN
+
+    TO: Robert M. Shireman ( CN=Robert M. Shireman/OU=OPD/O=EOP @ EOP [ OPD 1 )
+    READ: UNKNOWN
+
+    TO: Emil E. Parker ( CN=Emil E. parker/OU=OPD/O=EOP @ EOP [ OPD 1 )
+
+
+READ: UNKNOWN
+
+TO: Julie A. Fernandes ( CN;Julie A. Fernandes/OU;OPD/O;EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN;Bruce N. Reed/OU;OPD/O;EOP   @   EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Audrey T. Haynes ( CN;Audrey T. Haynes/OU;WHO/O;EOP @ EOP [ WHO]     )
+READ:UNKNOWN
+
+TO: Robert B. Johnson ( CN;Robert B. Johnson/OU;WHO/O;EOP @ EOP [ WHO]       )
+READ: UNKNOWN
+
+TO: Minyon Moore ( CN;Minyon Moore/OU;WHO/O;EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+TO: Sylvia M. Mathews ( CN;Sylvia M. Mathews/OU;WHO/O;EOP @ EOP [ WHO]       )
+READ:UNKNOWN                                           j
+
+
+
+
+CC: Carole A. Parmelee ( CN;Carole A. Parmelee/OU;WHO/O;EOP @ EOP [ WHO]         )
+READ: UNKNOWN
+
+CC: Laura Emmett ( CN;Laura Emmett/OU;WHO/O;EOP @ EOP [ WHO]      )
+READ: UNKNOWN
+
+CC: Demond T. Martin ( CN;Demond T. Martin/OU;WHO/O;EOP @ EOP [ WHO]     )
+READ: UNKNOWN
+
+CC: Gene B. Sperling ( CN;Gene B. Sperling/OU;OPD/O;EOP @ EOP [ OPD ] )
+READ:UNKNOWN
+
+CC: Angelique Pirozzi ( CN;Angelique Pirozzi/OU;WHO/O;EOP @ EOP [ WHO]       )
+READ: UNKNOWN
+
+CC: Cathy R. Mays ( CN;Cathy R. Mays/OU;OPD/O;EOP   @   EOP [ OPD ] ),
+READ: UNKNOWN
+
+CC: Peter A. Weissman ( CN;Peter A. Weissman/OU;OPD/O;EOP @ EOP [ OPD ] )
+READ:UNKNOWN
+
+CC: Thurgood Marshall Jr ( CN;Thurgood Marshall Jr/OU;WHO/O;EOP @ EOP [ WHO]                )
+READ: UNKNOWN
+
+TEXT:
+We were bumped from the Roosevelt Room. We'll be meeting in the Vice
+President's Ceremonial Room instead (276 OEOB). Attached is the agenda.          =:;;;;;;;;;;;:;;;:;;;:;;;===
+
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D94]MAIL47424707A.026 to ASCII,
+ The following is a HEX DUMP:
+
+FFS7504370040000010A0201000000020S0000009BOC000000020000637C1991210BDE70B51S0B
+3CE81378613764C7788364DFD2E34CA8A44BF76EB8FBC6D76S72E4DOBSD297234256D421SBD5E3
+937993977B546A797AF0626F19S2EDBA13E7E1444E19E2C366715FA6D2900BFE24C40729309EFO
+3FEA0465A90EFD10FODBC5179FSD4210F3DEFDSF793460CD83014A2CBS18882A95302EF73C28F2
+9FCE51078EE700BE92EF19B639E95F7DE298700377290C8El03S61S18E982D3D374AOAFBF13SCB
+E4B6714F98F1470D617D9B25E96E7129DOOE2E850D4D3347BEC29F9A6BSA2EF3B78SFC6486BS03
+C280D1307E068E7B51F18255B3B7664B70BFE77AS87BC70E6C69AF771S4F194838EB29387SEEAS
+
+
+
+
+                                                                 Automated Records Management System .
+                                                                 Hex-Dump Conversion
+
+
+
+
+                           Leadership Conference on Civil Rights Meeting
+                                 Vice President's Ceremonial Office
+                                       Friday, March 13,1998
+                                              1:00 -3:00
+
+    I.      Introductions and Welcoming Remarks -- Erskine Bowles (5 minutes)
+
+    II.     Remarks --Dr. Dorothy Height (4 minutes)
+
+    III.    Remarks from the Chairman -- Dr. John Hope Franklin (3 minutes)
+
+    IV.     President's Initiative on Race Goals and Future Activities -- Judy Winston (8 minutes)
+
+    V.      Policy Overview (15 minutes)
+
+            Franklin Raines, Director of the Office of Management and Budget
+            Gene Sperling, Director of the National Economic Council
+            Bruce Reed, Director of the Office of Domestic Policy Council
+
+    VI.     The President's Report on Race -- Chris Edley (5 minutes)
+
+    VII.    Leadership Conference on Civil Rights Response and Dialogue (40 minutes)
+
+    VIII.   Next Steps -- Sylvia Mathews and Judy Winston (5 minutes)
+
+

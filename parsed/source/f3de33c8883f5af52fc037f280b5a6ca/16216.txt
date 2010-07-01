@@ -1,0 +1,115 @@
+       RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+       CREATOR: Christopher C. Jennings ( CN=Christopher C. Jennings/OU=OPD/O=EOP [ OPD ] )
+
+       CREATION DATE/TIME:12-JUL-1997 11:24:58.00
+
+       SUBJECT:   Genetic One-Pager with CJ's edits
+
+       TO: Christa Robinson ( CN=Christa Robinson/OU=OPD/O=EOP @ EOP [ OPD ] )
+       READ: UNKNOWN
+
+       TO: April K. Mellody ( CN=April K. Mellody/OU=WHO/O=EOP @ EOP [ WHO]   )
+       READ: UNKNOWN
+
+       TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+       READ: UNKNOWN
+
+       CC: Sarah A. Bianchi ( CN=Sarah A. Bianchi/OU=OMB/O=EOP @ EOP [ OMB ] )
+       READ: UNKNOWN
+
+       CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO]    )
+       READ: UNKNOWN
+
+       TEXT:
+       ==================== ATTACHMENT   1 ====================
+       ATT CREATION TIME/DATE:   0 00:00:00.00
+
+       TEXT:
+       Unable to convert ARMS_EXT: [ATTACH.D5l]MAIL43721429C.116 to ASCII,
+        The following is a HEX DUMP:
+
+       FF575043D6050000010A020l0000000205000000CE1D000000020000494147B06477EECE3F3l3l
+       4639EOC95093E0241407C55D678471ED0416B8EECEF9A16l11B2558954E6306DB37EAEB5047BA6
+       ll9CC4878990A15D4480A654D42B17C75BDOB09986El5F97583E3060B7A6C3DBB7DFCBF0207730
+       073D3A46E4204A41786FC46AAA1B9CF7667EADA55C623ED5645BE4E204435BDB548AAF6130FABO
+       2A819CD3FF362863A6434l70Cl68970FlF73686ED72ll4C59D2Fl75EB336F9F097B3l0B046F230
+       2E6DB8DAC666FOD46A4ABDOA5l4445F53FA8E57DB8lB50lDA93E2518F12741722495178B4604AO
+       8EBOFC6AEFE7C2FF53181A37D95943F3DB2C71FC66DAFB9089A06D2B9CAC50A2B98931929012E4
+       80FC68159902725FD2DF92D759CA6AF955436FC12FF1A95B273AF85ABADA76FAEE2BD3E7624324
+       F6113Cl136FC8524824BOC2A217EFFB09FD87506AA3AAEC46B7CF7D9C23260ABD5AB5E03AD086F
+       AD7CEA9F759996FF71533AB51505E6CCCFC9F6ACBBD6AB885A5CD004CDC3225916A011CEE92E1C
+       177C43DBDBEE6E5CA6D5D6EA81D80FEB6B04B6914D3E33E9F9197EE596C347DD7A53840D018305
+       4BBOCDF3A62F877D3A77BE18D87C8583BDEDF11071881BDCA017F9OA9EA056679311189E6DE276
+       FBB6720B6EOBC8024FAODE89343BC24BEABE7D84F9F997D8E969A33F4A266B8A77001C7532FD38
+       C9ABC9C10502000D00000000000000000000000055020000004EOOO000B6020000092501000000
+       0600000004030000005501000000420000000A030000087701000000400000004C030000080201
+       000000100000008C030000086E01000000580100009C0300000B300200000034000000F4040000
+       080501000000080000002805000008340100000014000000300500000055010000004E00000044
+       050000060800000100220000009205000006080100000022000000B40500002800C8196810480D
+       000011090000005AOOOB010000103600540069006D006500730020004E0065007700200052006F
+       006D0061006E00200052006500670075006C006100720000000000000000000100010058021COO
+       F41A5C121A0900001109000000600018110000102A00540069006D006500730020004E00650077
+       00200052006F006D0061006E000000000000005400540000000AOO0000C80101000200C9010300
+       6100CA0106006100CB0109006100CC0104009900CD0103009900CE0102009900CF0102009900DO
+       0103009900D1011B00658108337C00500000020000D10100000100AB001COOF41A5C121A090000
+       1109000000600018110000102A00540069006D006500730020004E0065007700200052006F006D
+       0061006E0000000000000054005400000061007200000000000000000000000000000000000000
+       000000000000000000000000000000000000000000000000000000000000000000000000000000
+       000000000000000000000000000000580258025000F41A5C121A090000001020508E001C365111
+       03105802502000F41A5C121A090000110900000060001811000010120052006F006D0061006EOO
+
+
+
+                                                                                            Automated Records ~anagtm3nt System
+                                                                                                    Hex-Dump Conversion
+                            PREVENTING INSURANCE DISCRIMINATION BASED
+                                     ON GENETIC INFORMATION
+
+     Today the President pledged his commitment to enacting bipartisan legislation in this Congress to prohibit
+     health plans from inappropriately using genetic screening information to deny coverage, set premiums, or to
+     distribute confidential information. In so doing, he released a new report from the Department of Health and
+     Human Services that summarizes the promise and perils of genetic screening. He also announced that the
+     Republican Chair ofthe Senate Labor and Human Resources Committee, Senator Jim Jeffords, and the
+     Public Health and Safety Subcommittee Chair, Senator and Doctor Bill Frist, have indicated their support for
+     passing a bipartisan bill that is consistent with the goals and general recommendations of the HHS report.
+
+     The Progress and Promise of Genetic Testing. Genetic testing has the potential to identify hidden genetic
+     disorders and spur early treatment. Tests for genetic predisposition to certain diseases and conditions -- such
+     as Huntington's disease and certain types of breast cancer -- are already available and more genetic tests are
+     on the horizon.
+
+     Genetic Discrimination: The Perils of This Progress. But genetic testing also can be used by insurance
+     companies and others to discriminate and stigmatize groups of people. Studies have shown that:
+
+     ·      Over one-fifth of people in families where someone has a genetic disorder report that they, or a
+            member of their family, had been discriminated against by an insurance plan.
+
+     ·      85 percent of Americans report that they are extremely concerned with the possibility that their
+            genetic makeup will be used to discriminate against them or a member of their family.
+
+     Building on Kassebaum-Kennedy. Kassebaum-Kennedy took steps to prohibit genetic discrimination by
+     preventing insurers from using genetic information as a "pre-existing condition" and denying or limiting
+     coverage in group markets. However, Kassebaum-Kennedy falls short in three areas. It does not: (1)
+     prevent health plans in the individual market from denying coverage on the basis of genetic information; (2)
+     assure that premiums settings are in no way based on genetic information both in the group and individual
+     market; and (3) prevent health plans from disclosing genetic information to insurers, to plan sponsors, and
+     other entities regulated by state insurance laws, such as life, disability, and long-term care insurers.
+
+     State laws are insufficient. Nineteen states have already enacted laws to restrict the use of genetic information
+     in health insurance and many others have introduced legislation. However, state legislation is insufficient to
+     solve this problem. First, private sector employer sponsored health plans, which cover half of all Americans,
+     are exempt from state insurance laws due to ERISA preemption. Second, current state laws generally focus
+     on genetic tests rather than a broader definition of genetic information such as family history, medical
+     records, and physical exams. Finally, the variability among state bills will lead to a lack of uniformity across
+     the nation as to whether and how genetic information may be used by health plans.
+
+     Building on the existing bipartisan commitment to the President's challenge. Several bills have been introduced
+     in this Congress which prohibits health plans from requesting or using genetic information to deny health
+     care coverage or raise premiums. The bipartisan legislation introduced by Rep. Louise Slaughter, H.R. 306,
+     addresses the three major gaps left by the HIP AA legislation and represents a strong foundation for this
+     much-needed reform. It has already attracted over 150 cosponsors. The HHS report released today
+     recommends building on this legislation and enacting a bill that protects all Americans from the threat of
+     genetic discrimination.
+
+

@@ -1,0 +1,24 @@
+RECORD TYPE: PRESIDENTIAL     (NOTES MAIL)
+
+CREATOR: Fred DuVal ( CN=Fred DuVal/OU=WHO/O=EOP [ WHO 1 )
+
+CREATION DATE/TIME: 4-JUN-1998 12:12:41.00
+
+SUBJECT:   tobacco
+
+TO: Elena Kagan      CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ:UNKNOWN
+
+CC: Mickey Ibarra ( CN=Mickey Ibarra/OU=WHOIO=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Christopher C. Jennings ( CN=Christopher C. Jennings/OU=OPD/O=EOP @ EOP [ OPD 1
+READ: UNKNOWN
+
+TEXT:
+Why don't we pull together a conf call with Erskine and Bruce with the NGA
+Exec Committee with the message "We have stuck with the states and we
+need your help".

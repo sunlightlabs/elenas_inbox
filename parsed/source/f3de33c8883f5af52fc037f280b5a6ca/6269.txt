@@ -1,0 +1,141 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Rachel E. Levinson ( CN=Rachel E. Levinson/OU=OSTP/O=EOP [ OSTP 1 )
+
+CREATION DATE/TIME: 4-FEB-1998 18:46:33.00
+
+SUBJECT:   Adhoc: Cloning Legislation
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Arthur Bienenstock ( CN=Arthur Bienenstock/OU=OSTP/O=EOP @ EOP [ OSTP 1 )
+READ: UNKNOWN
+
+TO: Jerold R. Mande ( CN=Jerold R. Mande/OU=OSTP/O=EOP @ EOP [ OSTP 1 )
+READ: UNKNOWN
+
+TO: Lucia A. Wyman ( CN=Lucia A. Wyman/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Clifford J. Gabriel ( CN=Clifford J. Gabriel/OU=OSTP/O=EOP @ EOP [ OSTP 1 )
+READ: UNKNOWN
+
+TO: Wendy A. Taylor ( CN=Wendy A. Taylor/OU=OMB/O=EOP @ EOP [ OMB 1 )
+READ:UNKNOWN
+
+TO: Rachel E. Levinson ( CN=Rachel E. Levinson/OU=OSTP/O=EOP @ EOP [ OSTP 1 )
+READ: UNKNOWN
+
+TO: William P: Marshall ( CN=william P. Marshall/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Thomas L. Freedman ( CN=Thomas L. Freedman/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Jeffrey M. Smith ( CN=Jeffrey M. Smith/OU=OSTP/O=EOP @ EOP [ OSTP 1 )
+READ: UNKNOWN
+
+TO: gips_d ( gips_d @ al.eop.gov @ inet    [ UNKNOWN 1 )   (VPO)
+READ: UNKNOWN
+
+TO: Toby Donenfeld ( CN=Toby Donenfeld/O=OVP @ OVP [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TEXT:
+here's an example of mobilizing the forces
+---------------------- Forwarded by Rachel E. Levinson/OSTP/EOP on
+02/04/98 06:45 PM -------------------------~-
+
+
+
+        owner-adhoc @ aamcinfo.aamc.org
+        02/04/98 04:20:00 PM
+Record Type: Record
+
+To: Rachel E. Levinson
+cc:
+Subject: Adhoc: Cloning Legislation
+
+Colleagues:
+
+
+
+I am writing   to bring everyone up to speed on the status of the
+anti-cloning   legislative proposals, and to ask for help. Please note
+that while I   am borrowing the Ad Hoc Group's List Serve capacity, I am
+not speaking   for the Ad Hoc Group.
+
+Senators Feinstein and Kennedy have introduced a bill ( S1602) as has
+Senator Bond (S 1599). Bonds has been re-introduced with Sen. Lott as
+main sponsor ( S. 1601) in order to make it a leadership bill.
+
+The Bond bill prohibits th~ use of somatic cell nuclear transfer
+technology. It prohibits the use of this technology to produce an embryo
+from the earliest stages, but it does n6t define the term somatic cell
+anywhere.
+
+The Kennedy/Feinstein Bill contains clear definitions, has a federal
+preemption, has a sunset in 10 years, and it makes illegal any attempt
+to implant an embryo produced from cloning into a woman's uterus.
+
+We think the Bond bill is very dangerous for the medical research
+community.  It makes the use of a specific technology in medical
+research a federal crime, punishable by 10 years in prison.
+
+Its broad prohibition and imprecise wording endanger many areas of
+medical research including gene therapy and stem cell research.  It also
+poses risks for several promising infertility treatments.
+
+We expect an attempt to bring the Bond (now the Lott) bill to the floor
+of the Senate as early as Thursday, and certainly by early next week.
+
+I hope that regardless of where you or your organization stand on
+cloning or cloning legislation, you will at least object to the bringing
+this measure to the floor in such a hurry.  I would urge you to contact
+members of the Senate and ask them to avoid acting on this with such
+haste and instead deal with this matter in the serious deliberative
+manner it deserves.
+
+Please feel free to contact me with questions or comments.
+
+Sean Tipton
+American Society for Reproductive Medicine
+202-863-2494
+
+
+
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+RFC-822-headers:
+Received: from conversion.pmdf.eop.gov by PMDF.EOP.GOV (PMDF V5.0-4 #6879)
+ id <0IIT6SZP7IIOOI7SXO@PMDF.EOP.GOV> for "Rachel E. Levinson"@oa.eop.gov; Wed,
+
+ 04 Feb 1998 16:40:10 -0500 (EST)
+Received: from storm.eop.gov (storm.eop.gov)
+ by PMDF.EOP.GOV (PMDF V5.0-4 #6879) id <0IIT6SZNL3WGOOB5M2@PMDF.EOP.GOV> for
+ Rachel_E._Levinson@oa.eop.gov; Wed, 04 Feb 1998 16:40:08 -0500 (EST)
+Received: from aamcinfo.aamc.org ([143.220.1.4])
+ by STORM.EOP.GOV (PMDF V5.1-7 #6879)
+ with ESMTP id <0IIT6SYZ06JIOOIEEI@STORM.EOP.GOV> for
+,,"
+                                                                               Page 3 of3
+
+
+   Rachel_E._Levinson@oa.eop.gov; Wed, 04 Feb 1998 16:39:37 -0500 (EST)
+  Received: (from daemon@localhost) by aamcinfo.aamc.org (8.7.6/8.7.3)
+   id QAA06991 for adhoc-outgoing; Wed, 04 Feb 1998 16:20:03 -0500 (EST)
+  Received: from aamc.org (wpo.aamc.org [143.220.26.49])
+   by aamcinfo.aamc.org with SMTP (8.7.6/8.7.3)
+   id QAA06979 for <adhoc@aamcinfo.aamc.org>; Wed,
+   04 Feb 1998 16:19:59 -0500 (EST)
+  Received: from AAMC-Message_Server by aamc.org with Novell_GroupWise; Wed,
+   04 Feb 1998 16:22:06 -0500
+  X-Mailer: Novell GroupWise 4.1
+  content-disposition: inline
+  Precedence: bulk
+  ;;;;;;;;;;;;;;;;;; END ATTACHMENT
+
+

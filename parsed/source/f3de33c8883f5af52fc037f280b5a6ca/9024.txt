@@ -1,0 +1,88 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME: 12-AUG-1998 10:42:06.00
+
+SUBJECT:   If you want to read up on San Diego before our 2:00 chat
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP   [OPD ] )
+READ: UNKNOWN
+
+TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO]     )
+READ:UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ:UNKNOWN
+
+TEXT:
+Here's a one pager. Or feel free to wait until 2:00 -- I'll bring copies
+of it.==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D29]MAIL443676629.226 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504370040000010A020100000002050000008E1500000002000093E327E9D7F2BD19C53D11
+9774EE58DCB905E8AEFBCCC86AE03345FAl190B54B5A17F490E03B4EA9F940D65AAB2B2D71FE92
+7A59FF7BFA23E351E8454C741350ED2BF35711AC9C35E179B38CFF47DD5D6CA93C7E22C4D1D3AC
+FCB9C291ECAE922DD45F19C94E6222776E5A917193FE50775A49656E481D5A1450A9AB086C6EC9
+939AOA2BCB2847C76B01DC0145B8B9CF172DF873E8ECE7E39F0231640991B34443176CDBB2543E
+2BDA257D2CB52791775502928B3C1DEF57CFB05BBDFA7DE1A3037F642296F4ABBC69BD57340945
+599553EOC77DD4999690660C8E2A85CCA02ED983EC6420957A95AD92CCFAF3997E59348C4288F3
+BBD47E96CCC5D29FDD05D8A8DE1ADF28C1D05EF4781072BB866792FC34A03AFF54669FD75F03CD
+7FC1F713B5C0256DB6A73519ECE68FD48E80579D183BD62E73D1852D1B7681CF6C546158A52206
+D83DDAOFAD59EC1EB7B466C6B091F8C13F9CBF4BC6B3778FE421CDE84ED8162BDDA3D87E2B5637
+
+San Diego Action: San Diego County plans to send a letter to all CalWORKS (TANF), Food Stamps,
+and General Relief (but not Medicaid) recipients stating that the county plans to provide immigration
+status information to the INS for all undocumented adults living in the home except in certain very
+limited circumstances (in cases of domestic violence or children are being cared for by a non-parent
+relative). San Diego uses an application form which requires parents to specify their immigration
+status (with one box labeled "undocumented") even if they are not applying for assistance for
+themselves.
+
+Effect of San Diego Policy: Undocumented parents may be deterred from applying for or receiving
+Food Stamps for their citizen children. Children cannot apply for their own benefits; application must
+be made by a parent or another adult exercising parental control. According to advocates, as many as
+428,000 citizen children nationwide could be blocked from obtaining Food Stamps if other
+jurisdictions follow San Diego's policy.
+
+Legal Basis of San Diego Policy: Section 404 of the Personal Responsibility Act says that each state
+that receives a TANF grant "shall, at least 4 times annually and upon request of the Immigration and
+Naturalization Service, furnish the Immigration and Naturalization Service with the name and address
+of, and other identifying information on, any individual who the State knows is unlawfully in the
+United States." Advocates note that if San Diego did not have an application form requiring parents to
+check "undocumented" then they would not "know." In addition, section 434 of the welfare law says
+"Notwithstanding any other provision of Federal, State, or local law, no State or local government
+entity may be prohibited, or in any way restricted, from sending to or receiving from the Immigration
+and Naturalization Service information regarding the immigration status, lawful or unlawful, of an
+alien in the United States."
+
+Legislative History on Eligibility for Citizen Children: Early versions of Congressional welfare
+reform proposals which had made citizen children ineligible for benefits were amended before final
+passage to maintain their eligibility. The Agriculture Research bill enacted in June restored Food
+Stamps to legal immigrant children irregardless of their parents' immigration status.
+
+Possible Administration Action: USDA could send a letter to the state of California saying "Our
+concern is that requiring ineligible parents to go beyond the requirements of the Food Stamp program
+and provide more detailed information as to why they are ineligible, many parents will be deterred
+from making application for eligible children" and asking that action be delayed until this concern can
+be resolved. The letter would focus on the effect of collecting information on the Food Stamp
+application on the service received by eligible, U.S. citizen children (and not on the reporting of
+information to the INS).
+
+Legal Basis of Possible Administration Action: The Food Stamp Act, as amended by the welfare
+reform law, requires states to "establish procedures governing the operation offood stamp offices
+that...provide timely, accurate, and fair service to applicants for, and participants in, the food stamp
+program [and] develop an application containing the information necessary to comply with this Act."
+This requirement has not been defined in regulations. In addition, the Food Stamp Act prohibits states
+from imposing additional conditions of eligibility for food stamps not authorized by federal law.
+
+Possible Additional Administration Action: If the San Diego refuses to changes its policy, then
+USDA could bring administrative action against the state. In addition, USDA could begin a
+rulemaking to define "timely, accurate, and fair service."              ~lItomated Records Management System
+                                                                                  Hex-Dump Conversion
+
+

@@ -1,0 +1,54 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Jose Cerda III ( CN=Jose Cerda III/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TlME:20-NOV-1998 10:22:44.00
+
+SUBJECT:   FBI Statement
+
+TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+CC: Leanne A. Shimabukuro ( CN=Leanne A. Shimabukuro/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TEXT:
+This includes a combination of EK's and BR's edits. Please have EK review
+one last time. Once she's okay with it, can you get this to the road for
+release, Laura? Thanks.
+
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D90]MAIL457823424.326 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043B0040000010A02010000000205000000C20C0000000200009FFBA23A897E5537CFEB2C
+5672753FFC9AF145F6A4203163132BDED29DA3FAEC0795F1B94D78FOFF9261D093ADE215C57F91
+                   (Embargoed until 9:00 am, Sunday, November 22, 1998)
+
+
+The 1997 Uniform Crime Report released by the FBI today shows that murder, rape, robbery,
+assault, and even juvenile crime fell across the board last year. Serious crime has now fallen for
+six years in a row. With the murder rate down by more than 25 percent since I took office, and
+now at its lowest level in three decades, Americans are safer today than they have been in many
+years. Our strategy of putting more police on the beat and getting guns off the street is working.
+Americans have taken back their neighborhoods, and proved that rising crime and deadly
+violence need not be tolerated. But in far too many communities, crime remains a serious
+problem, and our work is far from done. We must continue the job of putting 100,000 more
+police on our streets, tougher laws on our books, and more effective crime prevention in our
+schools. With these efforts, we can keep driving down the crime rates -- and keep tipping the
+scales of justice in favor of law-abiding Americans.
+
+
+
+
+                                                                      n'eco Management System
+                                                            Automated N rds
+                                                            Hex-Dump conversion
+
+

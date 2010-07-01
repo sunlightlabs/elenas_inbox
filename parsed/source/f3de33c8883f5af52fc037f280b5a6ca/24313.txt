@@ -1,0 +1,556 @@
+ RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+ CREATOR: Rebecca M. Blank ( CN=Rebecca M. Blank/OU=CEA/O=EOP [ CEA]     )
+
+ CREATION DATE/TIME: 28-MAY-1998 15:29:54.00
+
+ SUBJECT:   Draft options memo for principal's meeting on poverty measurement
+
+ TO: Katherine K. Wallman ( CN=Katherine K. Wallman/OU=OMB/O=EOP @ EOP [ OMB ]        )
+ READ: UNKNOWN
+
+ TO: Elena Kagan ( CN=Elena Kagan!.OU=OPD/O=EOP @ EOP [ OPD]   )
+ READ: UNKNOWN
+
+ TO: pruggles ( pruggles @ osaspe.dhhs.gov @ inet [ UNKNOWN]       )
+ READ: UNKNOWN
+
+ TO: Joseph J. Minarik ( CN=Joseph J. Minarik/OU=OMB/O=EOP @ EOP [ OMB ] )
+ READ: UNKNOWN
+
+ TO: Sally Katzen ( CN=Sally Katzen/OU=OPD/O=EOP @ EOP [ OPD ] )
+ READ: UNKNOWN
+
+ CC: Andrea Kane ( CN=Andrea Kane/OU=OPD/O=EOP @ EOP [ OPD]    )
+ READ: UNKNOWN
+
+ CC: Mark A. Wasserman ( CN=Mark A. Wasserman/OU=OMB/O=EOP @ EOP [ OMB ] )
+ READ: UNKNOWN
+
+ CC: Richard B. Bavier ( CN=Richard B. Bavier/OU=OMB/O=EOP @ EOP [ OMB ] )
+ READ: UNKNOWN
+
+ CC: Cecilia.E. Rouse ( CN=Cecilia E. Rouse/OU=OPD/O=EOP @ EOP [ OPD ]       )
+ READ: UNKNOWN
+
+ CC: Paul Bugg ( CN=Paul Bugg/OU=OMB/O=EOP @ EOP [ OMB ] )
+ READ: UNKNOWN
+
+ TEXT:
+ Attached is a draft options memo for the upcoming Principal's meeting on
+ poverty measurement.  Please return your comments to me as soon as
+ possible.
+
+ Thanks.
+
+                                 Becky Blank
+ ==================== ATTACHMENT   1 ====================
+ ATT CREATION TIME/DATE:   0 00:00:00.00
+
+ TEXT:
+ Unable to convert ARMS_EXT: [ATTACH.D45]MAIL40804315U.126 to ASCII,
+  The following is a HEX DUMP:
+
+ FF575043700B0000010A02010000000205000000779B00000002000046592509DE08AA3B791A3A
+ 4E2A59B9D38480FE1E6A344897CCC32B2851684DFBA27BAF6A22C5EEAAB605489D9EC71AOC9FDB
+ 5C2DOBD73984607F51A7248348DFB2FA6316AF57ABA4E1DB243502F868CB327A2935ACDE7F1928
+ D6CC7B90B37B03BEA288E0719169BEB7E6078FF4864526CBAACA96C9785BE5F2A7BF422B9C378C
+ 4A8356FAFC74945270DA3ADF8876CB593C4403596E59E2ABB5F1C32EBEC3502B368C2245B7A1E1
+ D9806C7824FCB846AC56FC6DOB0382BF89D9AD86FB953AB5B6100CDC829418DF40F256FF2E59AF
+ FDBEBD522E254B6B9B710D340260C2455119C4B8F70A7D09C041EO35AF478FC9E2F78D24F19768
+
+May 27, 1998
+
+DRAFT MEMORANDUM FOR EOP PRINCIPAL'S MEETING
+                                                                         Automated Records M
+     Jack Lew
+                                                                                Hex-Oumn coannage'!1ent System
+     Bruce Reed                                                                          I'   version
+     Gene Sperling
+     Janet Yellen
+
+FROM:          EOP Policy Working Group on Poverty Measurement
+
+SUBJECT:       Advice to the Bureau of the Census
+
+                                        BACKGROUND
+
+In 1992, the Bureau of the Census commissioned the National Research Council of the National
+Academy of Sciences (NAS) to establish a panel of experts to recommend improvements in the
+measurement of poverty. The final NAS report was issued in 1995. Census has announced that
+IT IS planning to release a report in late 1998 or early 1999 providing alternative poverty
+measures, based on the NAS recommendations. Near the end of 1997 the Department of
+Commerce approached OMB and indicated its willingness to receive any advice that OMB or
+other WH policy offices might have regarding policy-related issues that the Bureau of the Census
+will face in determining which alternative poverty measures to present. As a result of that
+request, an EOP Policy Working Group on Poverty Measurement (composed of CEA, DPC,
+NEC, and OMB) was established to review key policy-related questions. The Deputy Assistant
+Secretary for Human Services Policy in HHS also attended these meetings because of her
+expertise on programs. This memorandum presents a set of options discussed by that group on
+topics where the NAS poverty measurement recommendations have major policy ramifications.
+(Note that a broader interagency Technical Working Group on Poverty Measurement is also
+meeting to consult with Census on statistical issues relating to alternative poverty measures.) It
+is important to note that we are merely being asked to give advice to the Bureau of the Census;
+what they actually publish is their decision.
+
+The official measure of poverty has remained virtually unchanged for 35 years, despite
+substantial changes in family behavior and government policy. For instance, the NAS panel
+identified several weaknesses in the current poverty measure:
+
+·      The current poverty measure takes no account of changes in government policy, such as
+       changes in tax laws (i.e., the expansion of the EITC) or changes in in-kind benefits (i.e.,
+       Food Stamps).
+
+·      The current measure does not distinguish between the needs of working and non-working
+       families. In particular, it does not reflect the cost of child care and other work expenses
+       for working low-income families.
+                                                        Hex-Dump Conversion
+
+
+                                                      Preliminary Draft -- CLOSE HOLD. Page 2
+
+
+ ·      The current measure takes no account of medical care costs which vary substantially
+        across families.
+
+  Note that the discussion to date only concerns the alternative measures that Census will publish.
+  The Statistical Policy Office in OIRA officially issues the regulation that determines what the
+  "official" poverty measurement methodology will be, while the Office of the ASPE in HHS
+  officially determines the "guidelines", which are a simplified form of poverty thresholds used by
+  some programs in the determination of eligibility. The last item for discussion is the process to
+  explore the possibility of adopting an improved alternative poverty definition as the new
+  "official" definition and utilizing it in program eligibility decisions. Attachment 1 (from HHS)
+. provides a brief review of how program eligibility is (or isn't) tied to poverty line measurement.
+
+ The Current Poverty Measure
+
+The methodology by which current poverty thresholds are determined was developed in the early
+1960s by Mollie Orshansky, a staff economist at the Social Security Administration. She
+developed a set of poverty thresholds that vary with the number of adults, the number of children,
+and the age of the family head. These thresholds represent the cost of a minimum diet
+multiplied by 3 to allow for non-food expenditures. The multiplier of 3 was chosen because the
+average family in 1955 spent one-third of its after-tax income on food. Since the late 1960s, the
+thresholds have simply been updated annually to adjust for price inflation.
+
+ The NAS Recommendations
+
+In order to understand the NAS panel's recommended revisions, one must understand the basics
+of determining poverty. A family is considered poor when their resources fall below a
+predetermined poverty line or threshold. Therefore, one must develop a methodology for
+estimating family resources and for defining the threshold resource level below which a family is
+considered poor.
+
+ 1.     Defining Family Resources
+
+ For purposes of the current poverty calculation, the definition of family resources is cash income.
+  The NAS recommendations would estimate family resources as:
+
+ Family resources              Cash income + Near-money in-kind benefits - Taxes - Child care
+                               costs - Work expenses - Child support payments - Out of pocket
+                               medical care expenditures (including health insurance premiums)
+
+ The rationale for subtracting taxes, work and medical expenses from family resources is that
+ these expenditures are typically not discretionary and reduce the income available to a family for
+ economic survival.
+                                                                 Hex-Dump Conversion
+
+                                                     Preliminary Draft -- CLOSE HOLD. Page 3
+
+There is near consensus among researchers that adjusting for near-money in-kind benefits
+(primarily food stamps and housing subsidies) and taxes would be an improvement in how
+poverty is measured. There is slightly less agreement on whether child care costs, work
+expenses, and child support payments should also be deducted because an unknown proportion
+of these expenses are likely discretionary. (The NAS proposes to cap the amount of child care
+and work expenses that can be subtracted to deal with this problem.) As discussed below, the
+adjustment for out-of-pocket medical care expenditures is more controversial.
+
+2.     Defining a Poverty Threshold
+
+A threshold must be determined against which to compare a family's resources .. The NAS panel
+ recommends basing the threshold on a fraction of expenditures on necessities (food, shelter, and
+clothing) plus a little more. Specifically, the NAS panel recommends selecting the 30th to 35th
+percentile in the distribution of annual expenditures on food, shelter, and clothing among
+families offour (two adults and two children), and then multiplying this expenditure level by
+between 1.15 and 1.25. Thresholds for other family sizes and types would be determined by an
+equivalency scale calculation.
+
+The NAS recommends adjusting these thresholds to take into account geographic variation in
+cost of living, based on differences in housing costs by region and by city-size. It recommends
+adjusting them over time by recalculating them from expenditure data on an annual basis.
+
+
+                                OPTIONS FOR DISCUSSION
+
+1. Recommendations regarding which alternatives the Bureau of the Census should adopt
+to determine the level of the poverty threshold.
+
+The NAS panel acknowledges that the actual level at which the poverty threshold is set (and
+hence the final poverty rate) is inherently arbitrary and cannot be determined on the basis of
+purely statistical judgements. There are two primary options:
+
+A. The NAS alternative. As described above, the NAS panel recommends establishing a
+threshold based on the 30th-35th percentile in the distribution of annual expenditures for a family
+of four, with a small multiplier to account for additional small personal expenditures. As
+shown in Tables 1 and 2, column 3, this would raise the 1996 poverty rate from 13.7% to 18%,
+and increase poverty among all subgroups.
+
+B. Benchmarking. The NAS also provides poverty estimates that benchmark the alternative
+poverty rate to equal the old poverty rate in a given year. The Census has done a number of such
+benchmarked calculations for 1996, as shown in Tables 1 and 2, column 2. (The report issued
+early next year would benchmark to 1997.) Benchmarking would assure that the aggregate
+poverty rate is identical for the official and the alternative measure in the benchmark year. But
+                                                                Hex-Dump Conversion
+
+                                                     Preliminary Draft -- CLOSE HOLD. Page 4
+
+the distribution of poverty among subgroups within each measure would differ (see Table 2).
+Similarly, both historical and future trends would differ. For instance, the alternative measure is
+identical in 1996 but higher in 1991. (The faster fall is largely due to the decline in the EITe.)
+
+Pros of using the NAS measure:
+·      Incorporates the recommendations of the NAS panel, based on their judgement from the
+       best available evidence.
+
+·      Maintains threshold levels that are quite similar to the current thresholds (although they
+       have a very different interpretation.)
+
+Cons ofusing the NAS Measure:
+·     Results in a substantially higher poverty rate (although the trends over time are similar.)
+
+·      Changes the relative poverty share of different groups.
+
+Pros of Benchmarking:
+·      May provide an easier transition to the new methodology because there will not be a
+       change in the overall level of poverty.
+
+·      Focuses the arguments on the relative distribution of who is poor rather than how many
+       people are poor. Proposed changes in the relative well-being of different groups may be
+       more defensible than proposed changes in the levels of poverty.
+
+Cons ofBenchmarking:
+·     Violates the NAS recommendation that the threshold should be based on the 30th-35th
+      percentile in the expenditure distribution. In order to benchmark, the threshold falls to
+      (about) the 25th percentile of expenditures on food, shelter, and clothing.
+
+
+2_ Recommendations regarding updating the thresholds over time
+
+Currently the poverty threshold is updated annually using the CPI. This, however, does not
+allow for adjustments that reflect changes in underlying consumption patterns that might affect
+the revised thresholds. For instance, food prices have decreased relative to other goods over
+time, while housing prices have increased. There are two options:
+
+(A) Recalculate the thresholds annually as a share of consumption on food, shelter, and clothing.
+(This is recommended by the NAS panel.)
+
+(B) Update the thresholds on a year-to-year basis using a price index (preferably one based only
+on food, shelter and clothing). Implement a regular process (every 5-1 0 years) of reviewing the
+poverty measure and recalculating the thresholds.
+                                                              Hex-Dump Conversion
+
+                                                     Preliminary Draft -- CLOSE HOLD. Page 5
+
+NOTE: The deputies recommend Option (B).
+
+Pros ofRe-calculating the Thresholds:
+·      Regular recalculation will allow the poverty thresholds to more accurately reflect changes
+       in consumption patterns and standards ofliving.
+
+·      Without an expectation that the thresholds will be re-calculated regularly, it may be hard
+       to update them at all.
+
+Pros of Updating Using the CPI:
+·      Using the NAS methodology, the poverty thresholds are somewhat relative (i.e., they are
+       affected by changes in the distribution of household expenditures.) . As a result, they are
+       a moving target and do not provide an absolute standard of need. A CPI adjustment
+       would make it easier to compare poverty from year to year against a constant standard.
+·      Because consumption patterns and standards of living change slowly, it may be better to
+       take them into account periodically rather than annually.
+
+·      If updated with a CPI for necessities only (food, clothing, and shelter), this may capture
+       most of the relevant changes and will make it easier in the short-run to understand the
+       updating procedure.
+
+·      The data may not be good enough for an annual re-calculation of the thresholds.
+
+
+3. Recommendation as to whether thresholds should be adjusted for geographic variation.
+
+The NAS panel recommended adjusting the poverty thresholds for cost-of-living differences
+across regions and by city size. Census proposes to make such adjustments based on housing
+cost differences (which have much greater regional/city size variation than food or clothing.)
+
+NOTE: The Deputies recommend against geographic price adjustments.
+
+Pros ofAdjusting for Geographic Variation in Cost ofLiving:
+·      Most statisticians and economists agree that such adjustments should be made if data are
+       available.
+
+Cons ofAdjustingfor Geographic Variation in Cost ofLiving:
+·     There is no one "right" way to make such adjustments and legislators could try to
+      intervene on exactly how the "correct" regional price adjustments are done.
+
+·      The data available to make such adjustments are limited and may not be entirely reliable.
+
+·      Implementing such an adjustment in the poverty line threshold could lead to pressure to
+                                                              Hex-Dump Conversion
+
+                                                     Preliminary Draft -- CLOSE HOLD. Page 6
+
+       provide regional cost adjustments ih a wide variety of other government programs, from
+       Social Security benefits to tax payments.
+
+
+ 4. Recommendation regarding how to account for medical care expenditures.
+
+Since the mid-1970s, analysts have been concerned that the official poverty rate overstates the
+extent of poverty among beneficiaries of Medicare, Medicaid, and private health insurance. At
+the same time, the official poverty rate may understate the extent of poverty among populations
+with large medical expenditures. Most analysts agree that, in principle, medical care "needs"
+should be incorporated into the calculations of the threshold and family resources (i.e., families
+with higher medical needs should have higher thresholds; those with more generous medical
+benefits should have higher income; and those who must spend more to achieve "good health"
+should have those expenses subtracted from their resources). However we cannot observe a
+family's medical need. In addition, it is not clear that one can simply impute the cash value of
+insurance benefits and add this to income. The "extra" benefits received from insurance to cover
+expensive medical services do not provide income that can be used for any other purpose.
+
+To understand the difficulties, consider including medical benefits into the income calculations.
+Adding medical benefits to income, without also adjusting the poverty threshold, has the perverse
+effect of making sicker individuals appear better off. Other proposals to adjust the poverty
+threshold (without also adjusting income), run into similar problems.
+
+In the end, the NAS panel recommended subtracting all medical out-of-pocket (MOOP)
+expenses (including health insurance premiums) from income, without trying to value health
+insurance as a part of income or medical need as a part of the thresholds. Hence, family
+resources are measured net ofMOOP. Those individuals with good insurance will have few
+out- of-pocket expenses; those without insurance who face health problems will have lower
+measured incomes as they pay more for medical care. (The NAS panel also recommends a
+"medical care risk" index be developed, separate from an index of economic need, to measure
+how well an individual is protected against medical problems.)
+
+This adjustment accounts for the larger poverty rates using the NAS methodology. For example,
+in 1996 the poverty rate was 13.7% using the current methodology; it would have been 18%
+using the NAS methodology, but only 13.2% using the NAS methodology minus the medical
+expenses adjustment. This adjustment has its largest impact on poverty rates for the elderly and
+would have the effect of substantially narrowing the poverty gap between children and the
+elderly. This adjustment is one of the most controversial of the NAS recommendations.
+
+There is general agreement that ignoring medical care arid medical expenses entirely is not a
+good idea, particularly given the rapid increase in medical costs in the past 30 years and the
+extent of uninsurance among the low-income population. Ignoring this issue -- particularly
+given this Administration's concern with it -- is not a credible option. There are two other
+                                                              Hex-Dump Conversion
+                                                   Preliminary Draft -- CLOSE HOLD. Page 7
+
+alternatives
+(A) Follow the NAS recommendations and subtract MOOP from family resources. This makes
+families without health insurance who face medical expenses less well-off than other families.
+(Note, there is still an open discussion as to whether MOOP should be subtracted from family
+resources or added to the thresholds. Either way, it will make little difference in aggregate.
+This is clearly a technical decision best left to the Census.)
+
+(B) Try to impute the value of health insurance to income, so those with insurance have higher
+resources. Health insurance should then also be imputed into the thresholds.
+
+NOTE: The Deputies recommend option A
+
+ Pros 0/Adjusting/or MOOP:
+.·      While not perfect, under the NAS recommended adjustment families with higher medical
+        expenditures will be "poorer." The NAS recommended adjustment would also be
+        sensitive to changes in health care financing that would increase disposable income and
+        thereby reduce poverty.
+
+·      If we do not adjust for medical care (in some way) now, it may be much harder to do so in
+       a few years when we will have better data (because the change will be so dramatic it will
+       be viewed as another big methodology change).
+
+Cons 0/Adjusting/or MOOP:
+·     The data that are currently available are out-of-date, (but we should have updated
+      information available in a more timely fashion within another year.)
+
+·      The NAS recommended approach relies on the controversial assumption that all medical
+       care expenditures are nondiscretionary. (This concern could be mitigated to some extent
+       by imposing a cap on the amount of medical expenses.)
+
+Pros o/Imputing the Value a/Health Insurance into Resources and Thresholds:
+·      Provides a more complete accounting of all medical resources available to a family.
+
+Cons a/Imputing the Value a/Health Insurance into Resources and Thresholds:
+·      There is no accepted "correct" way to do this. The data here are probably more
+      unreliable than the data needed to impute the value of MOOP to families.,
+
+·      Many analysts agree with the NAS panel that the value of health insurance is quite
+       different than (say) the value offood stamps, which are far more fungible. Mixing in
+       health insurance coverage with economic need causes serious interpretational and
+       conceptual problems to a measure of economic need.
+
+·      To date, Census has been following the NAS recommendations. Ifwe asked them to
+                                                                 Hex-Dump Conversion ystern
+                                                    Preliminary Draft -- CLOSE HOLD. Page 8
+
+       switch to this approach, it might require substantial additional work and seriously delay
+       their report.
+
+
+5. Recommendations regarding which alternatives Census should publish and/or how
+they should be presented.
+
+The current plan is to publish a small number (maybe 3) alternatives. For instance, the Census
+could publish a 1997-benchmarked poverty rate and a NAS-alternative poverty rate, providing
+two alternatives. Or it could publish a 1997-benchmarked poverty rate including all of the NAS
+recommendations, and then publish the same thing without MOOP, or without geographical price
+variation. (There will be extensive appendices in this report that will report a wide variety of
+different poverty calculations, to demonstrate the statistical properties of the poverty
+measurement recommended by NAS.)
+
+·      Will it be confusing to publish multiple (even a small number) of alternatives, as opposed
+       to only one alternative? How will this affect how the report is received? How should
+       these be presented?
+
+·      What problems will it create to have mUltiple alternatives if at some future point we
+       want to redefine the official poverty rate to one of these improved alternative measures?
+
+
+6. Process from here
+
+Among the options to be considered as we move forward from here:
+
+·      Hold a joint DPC-NEC Principal's meeting to brief the broad group of interagency
+       principals about this process and it's potential implications.
+
+·      An interagency working group should start discussing the implications of alternative
+       poverty measures on program eligibility.
+
+·      Is there some preparation we should be sure happens on the Hill or among advocacy
+       groups to prepare people for the upcoming poverty report?
+                                                 Preliminary Draft -- CLOSE HOLD. Page 9
+
+       Table 1. Poverty Rates and Thresholds under Alternative Measures, 1991-96, CPS
+
+                              Official      Benchmarked           NAS
+                              measure       to 1996               Experimental
+
+Poverty Rates
+       1991                    14.2           14.5                           18.9
+       1992                    14.8           15.3                           19.6
+       1993                    15.1           15.7                           20.2
+       1994                    14.6           14.7                           19.0
+       1995                    13.8                    13.8                          18.2
+       1996                    13.7           13.7 .                         18.0
+
+Thresholds for 2 adults
+and 2 children (in dollars)
+       1991                    13,812         11,891                13,891
+       1992                    14,228         12,249                14,309
+       1993                    14,654         12,616                14,738
+       1994                    15,029         12,938                15,115
+       1995                    15,455         13,305                15,543
+       1996                    15,911         13,698                16,002
+                                                                       onvers/on          .
+                                                    Preliminary Draft -- CLOSE HOLD. Page 10
+
+                  Table 2. Poverty Rates under Alternative Measures, 1996, CPS
+
+                               Official          BenchmarkedNAS
+                               measure           to 1996             Experimental
+
+All persons                     13.7               13.7                            18.0
+
+Children                        20.5               18.1                        23.8
+Nonelderlyadults                11.4               1l.5                        15.0
+Elderly                 10.8              15.6                        20.4
+
+White                           1l.2               11.8                            15.6
+Black                           28.4               25.2                            32.0
+Hispanic origin                 29.4               28.5                            37.7
+
+One or more workers             9.5                10.0                            13.6
+
+Persons in family of type:
+       Married couple           6.9                7.8                 11.1
+       Female householder       35.8               32.3                            40.4
+
+Geographic regions:
+      Northeast                 12.7               14.3                            18.8
+      Midwest                   10.7               10.3                            13.8
+      South                     15.1               14.2                            18.3
+      West                      15.4               16.1                            2l.0
+
+Metro/CC                        19.6               19.2                            24.7
+NotCC                           9.4                10.6                            14.1
+Nonmetro                        15.9               13.5                            17.5
+                                                                ex-Dump Conversion
+
+                                                   Preliminary Draft -- CLOSE HOLD. Page 11
+
+                                  Attachment 1 (from HHS)
+
+  Use of the Federal Poverty Guidelines in Determining Program Eligibility and Benefits
+
+The Federal poverty guidelines are a simplified version of the official poverty line thresholds
+which are used for program purposes. They are issued by HHS annually, and are based on the
+previous year's thresholds.
+
+As Gordon Fisher, the analyst at HHS who oversees the production of the guidelines, notes in a
+recent paper:
+
+       A number of people believe that the poverty guidelines affect many big entitlement
+       programs. That belief is an exaggeration of the actual situation. Most of the Federal
+       programs using the guidelines are medium-sized or small, with only a few big programs.
+       Moreover, most...are discretionary programs ... Only a few programs using the guidelines
+       are mandatory: Medicaid, the Food Stamp Program, and child nutrition programs (mainly
+       the National School Lunch Program.)1
+
+As Fisher notes, spending under discretionary programs, which are appropriated each year, would
+not be affected by any change in the guidelines, even if that change affected eligibility for the
+program. If eligibility for these programs expands, the appropriated funds are able to serve a
+smaller proportion of the eligible population, but total spending does not change. (Most of these
+programs already serve only a small fraction of those estimated to be eligible.) Only the three
+big mandatory programs Fisher mentions above would have spending changes associated with a
+change in the guidelines.
+
+Even within these three programs, the impact of changes in the poverty guidelines is less than
+might be expected. In Medicaid, for example, most recipients qualify for coverage because of
+their participation in other means-tested programs such as T ANF and SSI--programs that do not
+use the poverty line in their eligibility criteria. The major group whose coverage does depend on
+the guidelines is children in families below 133% of the poverty line who are not current or
+recent TANF recipients. In all, people whose eligibility for Medicaid is somehow related to the
+poverty line are estimated to account for about 20 percent of Medicaid recipients. Since most
+are in families with incomes well below the specified level, only a small fraction would actually
+be affected by a poverty line change.
+
+Impacts in the Food Stamp Program and the National School Lunch Program would probably be
+even smaller. The poverty guidelines are used in the Food Stamp Program to set gross income
+eligibility--only families with gross incomes below 130% ofthe poverty line are eligible for food
+
+      IG. Fisher, "Disseminating the Administrative Version and Explaining the
+Administrative and Statistical Versions of the Federal Poverty Measure." Clinical Sociology
+Review, vol. 15 (1997), p. 165.
+                                                                  Hex-Dump Conversion
+
+                                                      Preliminary Draft -- CLOSE HOLD. Page 12
+
+stamps. Actual food stamp benefits are calculated based on net income, however--income after
+deductions for work expenses and other items. Net income is compared to a specific benefit
+allotment, determined nationally for each family size, and that benefit is reduced by 30 cents for
+every dollar of net income the family receives. In practice, the benefit allotment would reach
+zero for almost all families long before an income of 130 percent of poverty was reached. Thus,
+the gross income eligibility cut-offfor food stamps is more theoretical than real--families at or
+near 130% of the poverty line will almost always be eligible only for zero benefits.
+
+  The National School Lunch Program has two cut-offs related to the poverty guidelines: Families
+  with incomes below 130% of poverty are eligible for free lunches, and those below 185% are
+  eligible for reduced-price lunches. Unlike the Food Stamp and Medicaid Programs, however,
+  the school lunch program does not collect and verify detailed information on recipients' family
+  incomes. Instead, families are asked at the beginning of each school year (or when their child
+. enters a new school) to fill out a form certifying that their incomes are below the specified level.
+  Because this process is relatively informal, it seems unlikely that small changes in the level of the
+  income cut-off would have big impacts on the number of children applying for and receiving free
+  and reduced-price school lunches. In any case, total spending on the school lunch program--a
+  significant proportion of which is not means-tested--is much smaller than spending on Medicaid
+  and food stamps. In 1996 Federal spending on the school lunch program was $5.4 billion,
+  compared to $25.4 billion for food stamps and almost $92 billion for the Federal share of
+  Medicaid.
+
+

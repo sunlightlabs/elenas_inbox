@@ -1,0 +1,285 @@
+     RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+     CREATOR: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP [ WHO)     )
+
+     CREATION DATE/TIME:18-APR-1997 13:27:12.00
+
+     SUBJECT:   Weekly including item from Leanne
+
+     TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ) )
+     READ: UNKNOWN
+
+     TEXT:
+     ==================== ATTACHMENT   1 ====================
+     ATT CREATION TIME/DATE:   0 00:00:00.00
+
+     TEXT:
+     Unable to convert ARMS_EXT: [ATTACH.D8)MAIL477484703.116 to ASCII,
+      The following is a HEX DUMP:
+
+     FF575043C8050000010A020100000002050000005D26000000020000842FAC5299001439791FFB
+     168BCF7B1BD806A900BE87D5B9BD6E0104BBD12070BDD44F594D2B97EDA092A0294874FE64EFA5
+     658EAAA25FE975C7F9E265109277CA91344FC88D95E19A71C37329ABAB487C8EA4F8F802819416
+     8EF48D9998B6B24E9864142FOD8CA6ED736F447281FFF4F1510571AB78ED719B6293FB866703E1
+     C140E4767B9E77F6A6D55D793388AB8F9FD916E6BB52D1A9B1C9C8F34F49C1C3099914D8044A02
+     4AD65AC3352B37A966B2B6ED24D4664BB5596A36E1894FB8678940CB729820974AEB8854B870C8
+     34AAC54E4EC595BF66DD568ADBDOE64323B1CDBBOA7C640B4B59E38E9C3E414172548136C2D17F
+     366671FABB1E544139COCF45742C6A6EBD8BBCBF526DB99A04E3C70D9997D4C645671A98248B1B
+     470004F9B3DFD1A8B107573342B02E57BD3E98404964340E81A8D88C05FB8BD8184F81B54C2FEE
+     1C5D31FAE89A8884FC7F6E29EF9C971A3DCADEF03A3B6851E47FC8AF993D9B98634FB87CADB833
+     AOE876EF4A8993E717211E60DA702AA034120984D473143CBE644F748AFE0162B7BBEDFAAF4411
+     B7D0542F06716BFE64E159480298C4523C3666D4F79560C515F6246C7A7E9D6ECDOF2AB40344E1
+     01172E6C50AF8C973CC2C9372AF9A4B19E1D1E72A1A131F508A2E1F4E64627E7F21741C71DF620
+     CB491D2F6302000E00000000000000000000000823010000000B010000C4020000005508000000
+     4EOOOOOOCF030000092501000000060000001D0400000B30020000002800000023040000080501
+     000000080000004B040000000000000000000000004B0400000055020000002800000053040000
+     0055030000004E0000007B0400000055030000004EOOOOOOC90400000877010000004000000017
+     05000008340100000014000000570500000802010000000FOOOOOO6B0500000055010000004EOO
+     00007A05000000985C005C004F0041005F0038005C005C005C004F00500044005C00320046004C
+     004F00500044005F00410000000000000000000000000000000000000000000000000000000000
+     0000000057494E53504F4F4COOOOOOOOOOCBOOC8002C012C012C012C01C800C800300000000000
+     000000000000000000000000000000000000000000000000000000000000000000000000000000
+     000000000000000000000000000000000000000000000000000000000000000000000000000000
+     000000000000000000000000000000000000000000000000000000000000000000000000000000
+     00000000000000000000000000000000000000000000000000000000000000000000000B010000
+     2800C8196810480D000011090000005AOOOB010000103600540069006D006500730020004E0065
+     007700200052006F006D0061006E00200052006500670075006COO610072000000000000000000
+     0100020058020100000004002800000000000000000000000000000000000000011202002400A1
+     000000A100000001000400020000002500E41B3214BC0700001641000000600014100000101000
+     480065006C00760000000000000000002800D61EC30F3908000011090000005AOOOBOI008B1436
+     00540069006D006500730020004E0065007700200052006F006DOO61006E002000520065006700
+     75006C006100720000000000000000002800E21978102DOD000011090000005AOOOB01008B1436
+     00540069006D006500730020004E0065007700200052006F006DOO61006E002000520065006700
+     75006C006100720000000000000000000A0000005900010050005A00010002005B00010045005C
+     00070065815D00020055005E00090013005F0001004500600002005B00610002005B0062000200
+     50005A5C58210000000000000000000000000000000000337C0078000102000062000000032800
+     C8196810480D000011090000005AOOOB01008B143600540069006D006500730020004E00650077
+     00200052006F006D0061006E00200052006500670075006C00610072000000000000000000DDOA
+     10008301040003000200211000DDDDOBOB00030000040BOODDF1025COOF19BF1035COOF1F1005C
+     00F19BF1015COOF1D41A1F0087010900080058025C9B00005802000058020200580200001FOOD4
+     D3050C0007010002000COOD3D1060C0000010001000COOD1CCCCCCCCCC417072696C8031392C80
+
+                                     Automated Records Management System
+                                             Hex·Dump Conversion
+
+
+
+
+                                               April 19, 1997
+
+
+     MEMORANDUM FOR THE PRESIDENT
+
+     FROM:         Bruce Reed
+                   Elena Kagan
+
+     RE:           DPC Weekly Report
+
+
+
+             1. Smart Guns: The Justice Department is ready to announce a $500,000 grant to the
+     Colt Company in Connecticut to finish the development of the "Smart Gun." A smart gun can
+     only be fired by the owner when the owner is wearing a wrist band. This technology will deter
+     accidental shootings and gun theft and is a major breakthrough in the gun control debate. The
+     Justice Department currently has a prototype that can be exhibited. We need to announce this in
+     the near future and would recommend a Radio address.
+
+
+             2. Washington State Request for Food Stamp Waiver: You asked about a recent
+     Cabinet Affairs report that the Department of Agriculture denied Washington state's request to
+     waive the food stamp three-month time limit for those pursuing their graduate equivalency
+     diplomas. The welfare law limits food stamp benefits to only three months in a three-year
+     period for non-disabled childless adults between the ages of IS-50 who are not working. The
+     law also allows USDA to waive that requirement at state request in areas where unemployment
+     rates exceed 10% and areas with insufficient jobs.
+
+              USDA debated whether this language allowed them to go beyond strictly geographical
+     criteria to exempt individuals who had not completed high school (on the theory that a person
+     without a high school diploma did not have access to an adequate job), or to use some other
+     educational criteria. They concluded that the law did not give them such authority, and that
+     Congress would likely react very negatively if they were to interpret the law in this way. USDA
+     now awards waivers based on geographical criteria such as labor surplus areas as defined by the
+     Bureau of Labor Statistics. Therefore, Washington's waiver request clearly fell outside of the
+     bounds of the waiver program they have been running. However, 40 states have gotten waivers
+     from USDA exempting certain areas. Washington has already gotten approval for all or part of
+     24 counties and 7 Indian reservations.
+
+            3. National Standards and Testing Initiative: We are continuing to identify states to
+     sign up for the 4th and Sth grade testing initiative. Gov. Weld announced -- at an education
+                                 Hex.[)ump Conversion
+
+meeting with Gov. Hunt in North Carolina -- that Massachusetts will participate in the testing
+initiative. Last week the West Virginia State Board of Education voted to participate; the State
+Board is now working to secure Gov. Underwood's support as well. Secretary Riley has recently
+met with Gov. Carnahan in Missouri and Gov. Dean in Vermont, and believes that both states
+will be willing to sign up shortly. New York State Commissioner of Education Rick Mills is
+working to secure the support of the State Board of Regents and Gov. Pataki. We believe this
+may be possible by early June. We expect to identify several additional states in the coming
+weeks, and to propose a White House event to highlight the participation of this new group of
+states.
+
+         4. Incentives for A Career in Teaching: In preparation for the Service Summit, DPC is
+working with the Education Department to develop an initiative, similar to the Police Corps, that
+would provide incentives for young people to make a career of service as school teachers. This
+initiative will likely target inner city and possibly rural schools where the shortage of well
+prepared teachers is the greatest, and provide scholarships or other financial incentives to attract
+and retain well prepared individuals.
+
+        5. Child Support Enforcement: We have three child support enforcement
+announcements that we would like to combine into a radio address for May 3rd or May 10th.
+First, we are ready to transmit to Congress the 20th Annual Report to Congress on Child Support
+Enforcement prepared by HHS which shows that from 1992 to 1996 child support collections
+increased by 50%, from $8 billion to a record $12 billion; the number of paternities established
+nearly doubled increasing from 516,000 to nearly one million; and the number of child support
+cases with collections rose to 4 million, an increase of 43 percent, from 2.8 million.
+
+       Second, as a result of the Executive Order you signed on September 28, 1996, the
+Treasury Department has just notified the first 123,000 delinquent parents that their federal
+payments will be seized for past due child support. Thousands more payments will be seized as
+Treasury adds more types offederal payments and more states to its new system (the 123,000 are
+from just three states and the District of Columbia).
+
+         Third, in response to a directive you issued to the Attorney General on July 21, 1996, we
+are ready to transmit to Congress legislation which would establish felony violations for certain
+egregious actions taken to avoid paying child support. The legislation would make it a felony
+offense to I} travel in interstate or foreign commerce with the intent to evade a support obligation
+that is greater than $5,000 or has remained unpaid for longer than one year; 2} willfully fail to
+pay a support obligation regarding a child residing in another state if the obligation has remained
+unpaid for two years or is greater than $10,000. The language is a revised version of language
+the Department of Justice sent to the Hill at the end of the 104th Congress.
+
+       6. Study on Crime Prevention -- This week the Justice Department released a
+comprehensive study, requested by Congress, on federal crime prevention funding. The study
+received a fair amount of press because it concluded that many prevention programs, including
+DARE, midnight basketball and others, have little impact. It recommends directing funding to
+urban neighborhoods where youth violence is highly concentrated and concludes that targeting
+                                       Hex-Dump Conversion
+
+
+     additional police to "hot spot" areas as well as drug treatment in prisons are effective programs.
+     And in what some might consider self-serving, the authors, who are University of Maryland
+     researchers, recommend that 10% of all funding for crime prevention should be used to conduct
+     program evaluations.
+
+             Although this report was interpreted by some as an indictment of prevention programs, it
+     in many respects supports the direction the Administration has taken: it supports additional
+     policing and prison drug treatment; it found formula and block grants to be less effective than
+     discretionary grants; and your Anti-Gang and Youth Violence Bill would reserve 10% of juvenile
+     justice grants for research on program effectiveness.
+
+           In addition, you should be aware that the Department of Education is currently working
+     with DARE to improve their curriculum in light ofrecent criticisms of the program.
+                                    Hex-Dump Converillorl
+
+
+
+
+                                          April 19, 1997
+
+
+MEMORANDUM FOR THE PRESIDENT
+
+FROM:         Bruce Reed
+              Elena Kagan
+
+RE:           DPC Weekly RejJort
+
+
+
+        1. Smart Guns: The Justice Department is ready to announce a $500,000 grant to the
+Colt Company in Connecticut to finish the development of the "Smart Gun." A smart gun can
+only be fired by the owner when the owner is wearing a wrist band. This technology will deter
+accidental shootings and gun theft and is a major breakthrough in the gun control debate. The
+Justice Department currently has a prototype that can be exhibited. We need to announce this in
+the near future and would recommend a Radio address.
+
+
+        2. Washington State Request for Food Stamp Waiver: You asked about a recent
+Cabinet Affairs report that the Department of Agriculture denied Washington state's request to
+waive the food stamp three-month time limit for those pursuing their graduate equivalency
+diplomas. The welfare law limits food stamp benefits to only three months in a three-year
+period for non-disabled childless adults between the ages of 18-50 who are not working. The
+law also allows USDA to waive that requirement at state request in areas where unemployment
+rates exceed.! 0% and areas with insufficient jobs.
+
+         USDA debated whether this language allowed them to go beyond strictly geographical
+criteria to exempt individuals who had not completed high school (on the theory that a person
+without a high school diploma did not have access to an adequate job), or to use some other
+educational criteria. They concluded that the law did not give them such authority, and that
+Congress would likely react very negatively if they were to interpret the law in this way. USDA
+now awards waivers based on geographical criteria such as labor surplus areas as defined by the
+Bureau of Labor Statistics. Therefore, Washington's waiver request clearly fell outside ofthe
+bounds of the waiver program they have been running. However, 40 states have gotten waivers
+from USDA exempting certain areas. Washington has already gotten approval for all or part of
+24 counties and 7 Indian reservations.
+
+       3. National Standards and Testing Initiative: We are continuing to identify states to
+sign up for the 4th and 8th grade testing initiative. Gov. Weld announced -- at an education
+                                           Hex-Dump Conversion
+
+
+     meeting with Gov. Hunt in North Carolina -- that Massachusetts will participate in the testing
+     initiative. Last week the West Virginia State Board of Education voted to participate; the State
+     Board is now working to secure Gov. Underwood's support as well. Secretary Riley has recently
+     met with Gov. Camahan in Missouri and Gov. Dean in Vermont, and believes that both states
+     will be willing to sign up shortly. New York State Commissioner of Education Rick Mills is
+     working to secure the support of the State Board of Regents and Gov. Pataki. We believe this
+     may be possible by early June. We expect to identify several additional states in the coming
+     weeks, and to propose a White House event to highlight the participation of this new group of
+     states.
+
+              4. Incentives for A Career in Teaching: In preparation for the Service Summit, DPC is
+     working with the Education Department to develop an initiative, similar to the Police Corps, that
+     would provide incentives for young people to make a career of service as school teachers. This
+     initiative will likely target inner city and possibly rural schools where the shortage of well
+     prepared teachers is the greatest, and provide scholarships or other financial incentives to attract
+     and retain well prepared individuals.
+
+             5. Child Support Enforcement: We have three child support enforcement
+     announcements that we would like to combine into a radio address for May 3rd or May 10th.
+     First, we are ready to transmit to Congress the 20th Annual Report to Congress on Child Support
+     Enforcement prepared by HHS which shows that from 1992 to 1996 child support collections
+     increased by 50%, from $8 billion to a record $12 billion; the number of paternities established
+     nearly doubled increasing from 516,000 to nearly one million; and the number of child support
+     cases with collections rose to 4 million, an increase of 43 percent, from 2.8 million.
+
+            Second, as a result of the Executive Order you signed on September 28, 1996, the
+     Treasury Department has just notified the first 123,000 delinquent parents that their federal
+     payments will be seized for past due child support. Thousands more payments will be seized as
+     Treasury adds more types of federal payments and more states to its new system (the 123,000 are
+     from just three states and the District of Columbia).
+
+              Third, in response to a directive you issued to the Attorney General on July 21, 1996, we
+     are ready to transmit to Congress legislation which would establish felony violations for certain
+     egregious actions taken to avoid paying child support. The legislation would make it a felony
+     offense to 1) travel in interstate or foreign commerce with the intent to evade a support obligation
+     that is greater than $5,000 or has remained unpaid for longer than one year; 2) willfully fail to
+     pay a support obligation regarding a child residing in another state if the obligation has remained
+     unpaid for two years or is greater than $10,000. The language is a revised version oflanguage
+     the Department of Justice sent to the Hill at the end of the 104th Congress.
+
+            6. Study on Crime Prevention -- This week the Justice Department released a
+     comprehensive study, requested by Congress, on federal crime prevention funding. The study
+     received a fair amount of press because it concluded that many prevention programs, including
+     DARE, midnight basketball and others, have little impact. It recommends directing funding to
+     urban neighborhoods where youth violence is highly concentrated and concludes that targeting
+
+                                                           Automated Records Management System
+                                                                   Hex-Dump Conversion
+
+
+                         additional police to "hot spot" areas as well as drug treatment in prisons are effective programs.
+                         And in what some might consider self-serving, the authors, who are University of Maryland
+                         researchers, recommend that 10% of all funding for crime prevention should be used to conduct
+                         program evaluations.
+
+                                 Although this report was interpreted by some as an indictment of prevention programs, it
+                         in many respects supports the direction the Administration has taken: it supports additional
+                         policing and prison drug treatment; it found formula and block grants to be less effective than
+                         discretionary grants; and your Anti-Gang and Youth Violence Bill would reserve 10% of juvenile
+                         justice grants for research on program effectiveness.
+
+                               In addition, you should be aware that the Department of Education is currently working
+                         with DARE to improve their curriculum in light of recent criticisms of the program.
+
+

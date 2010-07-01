@@ -1,0 +1,164 @@
+RECORD TYPE: PRESIDENTIAL     (NOTES MAIL)
+
+CREATOR: Tracy Pakulniewicz ( CN=Tracy Pakulniewicz/OU=WHO/O=EOP [ WHO 1 )
+
+CREATION DATE/TIME:26-MAR-1999 10:06:29.00
+
+SUBJECT:   msg mtg
+
+TO: Barbara D. Woolley ( CN=Barbara D. Woolley/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Joshua Gotbaum ( CN=Joshua Gotbaum/OU=OMB/O=EOP @ EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Elliot J. Diringer ( CN=Elliot J. Diringer/OU=CEQ/O=EOP @ EOP [ CEQ 1 )
+READ: UNKNOWN
+
+TO: Patricia M. Ewing ( CN=Patricia M. Ewing/O=OVP @ OVP [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Mary E. Cahill ( CN=Mary E. Cahill/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Tomasz P. Malinowski    ( CN=Tomasz P. Malinowski/OU=NSC/O=EOP @ EOP [ NSC 1 )
+READ: UNKNOWN
+
+TO: Matt Gobush ( CN=Matt Gobush/OU=NSC/O=EOP @ EOP [ NSC 1 )
+READ: UNKNOWN
+
+TO: Joshua S. Gottheimer ( CN=Joshua S. Gottheim"er/OU=WHO/O=EOP   @   EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: George G. Caudill ( CN=George G. Caudill/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Elisa Millsap ( CN=Elisa Millsap/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Stephanie S. Streett ( CN=Stephanie S. Streett/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Jonathan A. Kaplan ( CN=Jonathan A. Kaplan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Kim B. Widdess ( CN=Kim B. Widdess/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Laura D. Schwartz ( CN=Laura D. Schwartz/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Janet Murguia ( CN=Janet Murguia/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Karen Tramontano ( CN=Karen Tramontano/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Sarah A. Bianchi ( CN=Sarah A. Bianchi/O=OVP @ OVP [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Linda Ricci ( CN=Linda Ricci/OU=OMB/O=EOP @ EOP [ OMB 1 )
+
+
+READ: UNKNOWN
+
+TO: Charles M. Brain ( CN=Charles M. Brain/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Beth A. Viola ( CN=Beth A. Viola/OU=CEQ/O=EOP @ EOP [ CEQ 1 )
+READ: UNKNOWN
+
+TO: Jeffrey A. Forbes ( CN=Jeffrey A. Forbes/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Wendy E. Gray ( CN=Wendy E. Gray/OU=NSC/O=EOP @ EOP [ NSC 1 )
+READ: UNKNOWN
+
+TO: Ted Widmer ( CN=Ted widmer/OU=NSC/O=EOP @ EOP [ NSC 1 )
+READ: UNKNOWN
+
+TO: David Halperin ( CN=David Halperin/OU=NSC/O=EOP @ EOP [ NSC 1 )
+READ: UNKNOWN
+
+TO: Chandler G. Spaulding ( CN=Chandler G. Spaulding/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Ann F. Lewis ( CN=Ann F. Lewis/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Karin Kullman ( CN=Karin Kullman/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Tracey E. Thornton ( CN=Tracey E. Thornton/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Sharon K. Gill ( CN=Sharon K. Gill/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Kris M Balderston ( CN=Kris M Balderston/OU=WHO/O=EOP   @   EOP [ .WHO 1 )
+READ:UNKNOWN
+
+TO: Minyon Moore ( CN=Minyon Moore/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Douglas B. Sosnik ( CN=Douglas B. Sosnik/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Dario J. Gomez ( CN=Dario J. Gomez/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Alejandro G. Cabrera ( CN=Alejandro G. Cabrera/O=OVP @ OVP [ UNKNOWN 1 )
+READ: UNKNOWN
+
+CC: Joseph D. Ratner ( CN=Joseph D. Ratner/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Anne Whitworth ( CN=Anne Whitworth/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Peter A. Weissman ( CN=Peter A. Weissman/OU=OPD/O=EOP @ EOP [ OPD 1 )
+
+
+READ:UNKNOWN
+
+cc: Mindy E. Myers ( CN=Mindy E. Myers/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Carolyn T. Wu ( CN=Carolyn T. Wu/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Stacie Spector ( CN=Stacie Spector /OU=WHO/O.=EOP   @   EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+CC: Ruby Shamir ( CN=Ruby Shamir/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Melissa G. Green ( CN=Melissa G. Green/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+CC: Jon P. Jennings ( CN=Jon P. Jennings/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Jocelyn A. Bucaro ( CN=Jocelyn A. Bucaro/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+CC: Dominique L. Cano ( CN=Dominique L. Cano/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TEXT:
+We would like to hold this meeting at 2:30 p.m. today instead.        Please let
+me know of any schedule conflicts.  Thank you.
+
+
+Loretta Ucelli will hold a message meeting tomorrow, March 26,       in her
+office re: next weeks event at 3:00 p.m.
+
+Thank you!
+
+

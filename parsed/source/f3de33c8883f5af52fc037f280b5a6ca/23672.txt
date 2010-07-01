@@ -1,0 +1,27 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Iratha H. Waters ( CN=Iratha H. Waters/OU=OMB/O=EOP [ OMB 1 )
+
+CREATION DATE/TIME:29-APR-1999 11:06:45.00
+
+SUBJECT:   Meeting Notice/Reminder
+
+TO: Broderick Johnson ( CN=Broderick Johnson/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Fred DuVal ( CN=Fred DuVal/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Jeffrey L. Farrow ( CN=Jeffrey L. Farrow/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ:UNKNOWN
+
+TEXT:
+Meeting today in Barbara Chow's office (260) at 4:30 pm ... reo   Puerto
+Rico ...
+
+Thanks.
+')
+ "

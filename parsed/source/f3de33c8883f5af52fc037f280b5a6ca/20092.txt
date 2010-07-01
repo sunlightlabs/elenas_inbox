@@ -1,0 +1,49 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Andrea Kane ( CN=Andrea Kane/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME:29-MAY-1998 14:34:45.00
+
+SUBJECT:   Revised welfare weekly
+
+TO: Elena Kagan   CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+CC: Diana Fortuna ( CN=Diana Fortuna/OU=OPD/O=EOP [ OPD ] )
+READ: UNKNOWN
+
+CC: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TEXT:
+I've clarified some· of the numbers and comparisons.==================== ATTACHMENT
+ATT CREATION TIME/DATE:    0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D97]MAIL42382615J.126 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043B6050000010A02010000000205000000FAOD0000000200008888FOE1E51EEC495B3F68
+546BD6E55E913285EFC95ED3670CDF658282D629247820CF5A35A25572D6B8A1936D9B376ED442
+
+                                                                                 Automated Records Management Systerr
+                                                                                         Hex-Dump Conversion
+         Weekly Report -- Welfare Reform Team
+         5/28/98
+
+                   Welfare Reform -- State Reinvestment ofTANF Savings: During your meeting with
+         Welfare-to-Work Partnership Board members last week you stressed the importance of states
+         reinvesting their welfare savings in child care, transportation and training. We will work with
+         HHS to analyze state expenditure data for T ANF and child care. This data is not as timely as we
+         would like. In the meantime, there is some encouraging information in the NGA Fiscal Survey
+         of States released on May 27th. The way states are spending their federal and state welfare
+         funds is shifting from cash to work-related supports. Comparing expenditures of state funds in
+         1996 with planned spending for 1998, spending for cash assistance decreased 26 percent, while
+         spending for child care increased 85 percent and spending on work activities increased 34
+         percent. Total state welfare spending declined by 9 percent, but given caseload reductions, this
+         actually represents increased spending per person.
+
+

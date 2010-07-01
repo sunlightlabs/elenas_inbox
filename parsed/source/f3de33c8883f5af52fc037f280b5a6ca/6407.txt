@@ -1,0 +1,186 @@
+RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+CREATOR: Sarah A. Bianchi   ( CN=Sarah A. Bianchi/OU=OPD/O=EOP [ OPD ]   )
+
+CREATION DATE/TIME:23-FEB-1998 10:20:09.00
+
+SUBJECT:   needle exchange memo
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP   [ WHO ]   )
+READ: UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D15]MAIL49022835R.026 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504370040000010A0201000000020500000081280000000200005A14C2F779F9A49BOB36A4
+9B64ADD8AA181EB132B995A88356156CB3335E8CD83328660903E3BO19AF70072AOD6AA9C28832
+8D58F8361ABB72E1CA6FE58487F42840F2484571B0571DEA2DF950C4A9D477F43BA8CC9F72BDD5
+OAB9242090B9CD58B8574738A8D9A1057343DOE34941EF281DE36AA5D159C3569B4BEA3ACD7E4D
+C82BA7F99C1E7278C77645D425918F233A343604860B20EF30E76977458054E87431EEAE5A185F
+04D220BDD98A340962A68AOA780693726FA0385840A98569E9F2EFFD456F0417736184B749AA7F
+43EC6C9CE7B1DF0038ECD8549ACA8D21C365CDDA7C1EFE7CD71E21F3EB2A43DAFEC5D25598FE6A
+CDDDOFBA4E4837AOE3BF20808CE11E45C265D7B5ACD986FD5C40B2C02B098BC2D127C5EC4035FB
+84DF698810F4D04DE838743E3E521275E1DOE5C368F1941A3F5CC5136AEC97A958885F3BE77B63
+B41847901B8618AD6F62A47B7BA4C483C4F07E9C4C818EC995527C84D80E4E2518A13B60059481
+4B25C6F298D9AFDA399A64BEOC59AB04E5F8FBA36EFBB687FAAB28553D5992EA3871B34F97EF7F
+3A42AFD8DCBBC3A3FC1FB1688843AFD83F20D6A76A5524C62847BEFOD28B4C8E11799E5CA75098
+134E326D273A89B5627911059A7E38DAOC94765F8Al153F80CD2DO5B4A20CF634FCF5A75BBFEA6
+9D6ED8AB2E02000900000000000000000000000823010000000B0100007E020000005501000000
+4E0000008903000009250100000006000000D70300000B300200000028000000DD030000087701
+000000400000000504000008340100000014000000450400000802010000000F00000059040000
+080501000000080000006804000000985C005C004F0041005F0037005C005C005C004F00500044
+005C003200310036005F0041000000000000000000000000000000000000000000000000000000
+00000000000000000000000057494E53504F4F4COOOOOOOOOOC800C8002C012C012C012C01C800
+C80030000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000B0100002800C8196810480D00001I090000005AOOOB010000103600540069006D0065
+00730020004E0065007700200052006F006D0061006E00200052006500670075006C0061007200
+000000000000000001000200580201000000040028000000000000000000000000000000000000
+00011202002400A1000000A10000000AOOOOOOF80901004500F90901000200FA0901000200FB09
+02004400FC0901000200FD0901004500FE0902000200FF0901004500000A01000200010A270065
+817A515724000000000100000Q400000000504000008337C00780000020000010A000003010004
+0002000000DDOA10008301040003000200211000DDDDOBOB00030000040BOODDF102010AF19BF1
+03010AF1F100010AF19BF101010AF1F20CF2D3050C000701000200OCOOD3CCCC804D8045804D80
+4F80528041804E80448055804DCCD30510000601000002340000001000D3CCCCCCF30CF3D3050C
+0007010003000COOD346656272756172798032332C8031393938F2OCF2D0041500000B00090001
+500AA005060001201500DOD305100006010000036D0000001000D3CCCCF30CF3544F3A80E0110C
+0000000008070COOE0456C656E61F20CF2D0041500000B00090001200D7008090001201500DOCC
+F30CF346523AE0110C0000000008070COOE0436872697380616E6480536172616880F20CF2D004
+1500000B00090001000F500AOB0001201500DOCCF30CF352453AE0110C0000000008070COOE04E
+6565646C658045786368616E6765D0041500000B00090001E01030OCOD0001201500DOCCCCE011
+                                    MEMORANDUM                     Hex-Dump Conversion
+
+
+
+
+                                                                              February 23, 1998
+
+
+TO:    Elena
+
+FR:    Chris and Sarah
+
+RE:    Needle Exchange
+
+
+        The purpose of this memo is to help frame the Administration's options as they relate to
+the needle exchange issue and to develop a strategy to lay the groundwork for whatever decision
+is made. Following the confirmation of Dr. David Satcher as Surgeon General and the
+expiration of the Congressional prohibition on releasing needle exchange funds (which is coming
+up on March 31 th), there will be great pressure for the Administration to take a formal position
+on this issue.
+
+Background: Congress has given the Secretary of Health and Human Services the authority to
+release Federal funding for needle exchange programs if she concludes that needle exchange
+programs decrease HIY transmission and do not increase drug use. The Secretary has already
+concluded that these programs do decrease the transmission of HIY, but has yet to make a formal
+finding regarding their impact on drug use. There has been increasing pressure from scientists,
+the public health community, and the AIDS community regarding the Administration's position
+on needle exchange programs. The pressure has become more intense as a great number of
+people believe that the evidence that needle exchange programs do not increase drug use is quite
+strong. As a result there is a heightened sense among the advocates that the only reason the
+Administration has mot made a positive finding is the fear of the political consequences of such
+an action.
+
+        Although there does appear to be credible information that needle exchange programs do
+not increase drug use, this is not a widely held view among the public and the law enforcement
+community. This fact helps explain why another critical player in this discussion, General
+McCaffrey, continues to send strong signals against any movement in this area.
+
+       With the General's opposition in mind and with the confirmation of Dr. Satcher for
+Surgeon General pending, the Administration hesitated to make any dispositive finding regarding
+needle exchange. This decision was further validated when during the appropriations process,
+there was a very real chance that any move to make such a finding would have led Congress to
+eliminate, altogether, the Secretary's current authority to release funds for needle exchange·
+                                                                                COws Management System
+                                                                 Hex-Dump Conversion
+
+programs. Instead, at least partially as the result of our decision not to act, the authority was not
+repealed and the Congress limited its intervention to delaying our authority to release funds until
+March 31. As a consequence, even if the Administration makes a final determination that
+needle exchange programs do not, in fact, increase drug use, no dollars can be released until the
+end of March.
+
+        There is little question that Dr. Satcher's confirmation and the pending March deadline
+places extraordinary pressure on the Administration to release findings on the impact of needle
+exchange programs on drug use. This means we must quickly move to decide how best to
+position ourselves on this issue and begin to lay the foundation for whatever position we take.
+
+Options: There are currently three options to contemplate as we move forward.
+
+(1) Maintain Status Quo: Maintain our current position that there is not enough
+information to make a decision as to whether needle exchange programs increase drug use.
+ The Administration could continue to conclude that there is not sufficient data to make a final
+determination on the impact of these programs with regard to drug use. Under this option, we
+would choose to delay the issue until a more appropriate time for a determination (e.g. if ever a
+more friendly Congress is in place). This position would no doubt anger the AIDS community
+even though we would, under this resolution, stand a better chance at retaining the Secretary's
+authority to release funding to needle exchange programs over the long haul. The AIDS
+community believes that there is more than enough information to conclude that needle exchange
+programs do not increase drug use and do help reduce HIV transmission. Therefore they would
+find any efforts by the Administration to further delay this issue to be morally reprehensible.
+We would also likely be criticized by other elite validators who would find this choice to be a
+purely political move.
+
+        On the other hand, under this option, the Secretary is far more likely to retain her current
+statutory authority to fund these programs. It would also help us avoid a major confrontation
+with the Republican Congress on this issue -- a confrontation that many political experts believe
+ we would inevitably lose,
+
+(2) Make and Release a Finding That Needle Exchange Programs Do Not Increase Drug
+Use. The Secretary could, based on a new study (that could easily be produced by HHS),
+conclude that needle exchange programs do not increase drug use and release funding for needle
+exchange programs. With this conclusion, the President would be widely praised by the AIDS
+community for his moral leadership. The American Bar Association, the American Medical
+Association, and other influential validators would also, no doubt, praise the Administration.
+Our position could be described as one of community empowerment and choice rather than the
+Federal government micromanaging these programs: Federal funds would only be released to
+those communities that decided themselves to have programs. Having said this, the far right and
+the law enforcement community could be expected to react extremely negatively to such a move.
+difficult to sustain in an election year where the Democrats are trying to win back the House by
+claiming they are more in touch with the American public. In particular the conservative wing
+of the party would have no appetite to fight for this position. Republicans would seize upon this
+issue to illustrate their point that the Democrats are out of touch with the public and in the pocket
+of certain special interests.
+
+       If we choose this option, Congress would inevitably make an effort to remove the
+Secretary's authority to release funds, and many believe they would be successful. Interestingly,
+even though it is extremely likely the Secretary could lose all authority to release federal funding,
+the AIDS community (even acknowledging this) would still likely back this as the only
+acceptable option.
+
+(3) Make Positive Finding But Do Not Release Funds Unless Local Law Enforcement
+Community Draws Similar Conclusion. This approach would require the law enforcement
+community in each particular area applying for funds to draw a similar conclusion to that of the
+Administration: that needle exchange programs do not increase drug use. This compromise
+option would help mitigate the inevitable opposition for a positive finding and reduce the
+chances that the Congress would remove the Secretary's authority. It would also help immunize
+the Administration from attacks from the right. However, this approach would likely draw a
+great deal of criticism from the AIDS community, who are likely to approve of nothing less than
+full victory because they feel it would reduce the number of comQ'lunities eligible for funding.
+Also, it is important to note that Republicans would still try and use this issue to their advantage,
+suggesting that any needle exchange programs will increase drug utilization. As such they would
+inevitably use option 2 or 3 as a weapon in the upcoming mid-term Congressional elections.
+
+Addendum: Regardless of what decision is made, it is extremely important that we begin to lay
+the foundation for how we plan to proceed. We will have to think about timing as well as how
+our decision is rolled out with regard to the AIDS community, the Congress, the law enforcement
+community. Most important of all, whatever decision we make must be made with a total
+commitment with all the Administration parties to ensure it is consistently communicated and
+competently implemented.
+
+
+                                                              Automated Records Management System
+                                                              Hex-Dump Conversion
+
+

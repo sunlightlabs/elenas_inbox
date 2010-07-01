@@ -1,0 +1,160 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Peter G. Jacoby ( CN=Peter G. Jacoby/OU=WHO/O=EOP [ WHO]     )
+
+CREATION DATE/TIME:12-FEB-1997 20:05:38.00
+
+SUBJECT:   Beck Memo
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TEXT:
+ Elena -- FYI Peter==================== ATTACHMENT     1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT: .
+Unable to convert ARMS_EXT: [ATTACH.D98]MAIL404187245.016 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043CC040000010A020100000002050000004B230000000200005F86465E38DOBDD12A37A4
+FOC8985B4A8E386233661AA40FFC94815003EB4C8B8A9D245E1716FA27BD2EBD10122AC371BBC3
+E372E7D8300515484605E43E17CB94B100FDEF165B721745FDF2C262777A8B8B1A370D2524A78B
+A4DA8FDE899E4646E028A71AAB77AB1FE10240842EAA99D958F69DFB152702CA9A944F7BBDEB49
+FFAB6AAE764BD97D944AFOAOBEFOOBE9BCBE059315354D720074BC8104B82AEE34B74F484FB748
+4D03974DF5423DDD4C9D46BFC05B11B1ECOF5BF51A6EA046527C96087E6BE26966BFD3015F9798
+4405EC8D4E15D8144E5C011D892289909532683049D437BCOF6BD4EOF8DE7D5A6529C7EB8111B9
+E99C77A23EB2800CC9EB954BF7E444594D70619DE18EDOCF5984CO174A35D9314EOD99990C782B
+875217394FE7AEOB22EC2019068F78234A8E132DF074435CC61C290168B0066F072E3697BE6520
+E9A998705F4FOADF34C05ED18A55CD2E8F10D2723B1BBABOE70C06EFFOBF28D27D478A568F2A4A
+D8E8324A36462261513089C817B7840E18E16239687179CACF18345BCA37CF52C548AA1006065D
+A4DBAEECF41750D60100002555ECFE462590931F6F4FFA7673784B27El151018984DA9FB4592C9
+87A6DE35C76ABE2F9615ECC79410E54060FE359559D95ADCC4C5FED503627F26E5A816FOA5EFAO
+541246D7F102000A00000000000000000000000823010000000B0100008C020000005503000000
+4E0000009703000009250100000006000000E50300000B300200000028000000EB030000005502
+0000004E00000013040000087701000000400000006104000008340100000014000000A1040000
+0802010000000FOOOOOOB504000008050100000008000000C404000000985C005C004F0041005F
+0037005C005C005C0045004100530054005F00570049004E0047005C00450057005F0031003100
+32005F004100000000000000000000000000000000000000000057494E53504F4F4COOOOOOOOOO
+2C012C012C012C012C012C012C012C013000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+0000000000000000000000000000000000000B0100002800D61EC3OF3908000011090000005AOO
+OB01008B143600540069006D006500730020004E0065007700200052006F006D0061006E002000
+52006500670075006C006100720000000000000000000100020058020100000004002800000000
+000000000000000000000000000000011202002400A1000000A10000002800C8196810480DOOOO
+11090000005AOOOB010000103600540069006D006500730020004E0065007700200052006F006D
+0061006E00200052006500670075006C006100720000000000000000000A000000290401004500
+2A04010002002B04010044002C04010002002D04010044002E04020002002F0401004500300401
+000200310401004400320408006581594FAD200000000000000000000000000000000008337COO
+78000002000032040000030100040002000000DDOA10008301040003000200211000DDDDOBOBOO
+030000040BOODDF1023204F19BF1033204F1F1003204F19BF1013204F1E0401200000000421142
+112200EC131200E04A616E756172798032362C803139393788CCCC4D454D4F52414E44554D8046
+4F52804552534B494E4580424F574C4553CCCC46524F4D3AE0110CO000000060090COOE04A4F48
+4E8048494C4C4559D0041500000B000900016008B003040001201500DOEOllOC0000000008070C
+00EOEOllOC0000000060090COOE05045544552804A41434F4259CCCC52453A80E0300COOOOOOOO
+08070COOEOE0301400000000600908072823080728231400E04F5247414E495A4544804C41424F
+52F01C04F05380434F4E4345524E805749544880434F44494659494E4780544845805355505245
+4D45DOOl1500000B00090001240B7406070001201500D0434F555254F01C04F053804445434953
+494F4E80494E80F20EF2434F4D4D554E49434154494F4E5380574F524B45525380762E80424543
+                        Hex-Dump Conversion
+
+                                         January 26, 1997
+
+MEMORANDUM FOR ERSKINE BOWLES
+
+FROM:          JOHN HILLEY
+               PETER JACOBY
+
+RE:            ORGANIZED LABOR'S CONCERN WITH CODIFYING THE SUPREME
+               COURT'S DECISION IN COMMUNICATIONS WORKERS v. BECK IN
+               CAMPAIGN FINANCE REFORM LEGISLATION
+
+        Organized labor's high-profile participation in the last election cycle has intensified
+Republican efforts to include a codification of the Supreme Court's 1988 decision in
+Communications Workers v. Beck in any campaign finance reform legislation that passes
+Congress. It is likely that organized labor will want to know the President's position on this
+issue as soon as possible.
+
+Background
+
+        In 1988 the Supreme Court decided in Communications v. Beck that a union may not,
+over the objections of dues-paying nonmember employees, expend funds collected from them on
+activities unrelated to collective bargaining activities.
+
+        The suit in Beck was brought by employees who chose not to become members of the
+union that represented them. They specifically objected to being required to pay union dues that
+were used -- in part-- for organizing, legislative lobbying, and participating in political events.
+The Court found that under federal labor law, Congress authorized compulsory unionism only to
+the extent necessary to ensure that those who enjoy union-negotiated benefits contribute to their
+costs; As a result, the Court held that non-member employees cannot be required to contribute
+to union activities "beyond those germane to collective bargaining, contract administration, and
+grievance adjustment." The practical effect is that in a workplace where a union represents
+non-members (i.e., a "closed" shop where every worker is not a union member), the union must
+charge these non-members "agency fees" at a level below regular union dues. This reduction
+reflects the percentage of a union member's dues spent on "non-representational" activities.
+
+        Since 1988, the implementation of Beck has been controversial. Labor unions have set
+up procedures to make sure that objecting employees are not required to pay for
+non-representational activities but full scale efforts to inform all union members and
+non-members of the rights under Beck have been spotty. Additionally, it has often proven
+difficult for objecting employees to determine the exact percentage of dues that are spent on
+non-representational activities. Enforcement of Beck rights ultimately falls to the National
+Labor Relations Board (NLRB) where employees may file unfair labor practice charges against
+any union. Critics charge that the NLRB has been slow in acting on Beck cases and rather than
+issuing general rules, has considered Beck issues on a case-by-case basis. The NLRB's first
+decision in this area was not issued until late 1995 and it is currently under appeal. Finally, a
+                        Hex-Dump Conversion
+
+proposed rulemaking implementing Beck, which was first issued for comment in 1992, was
+withdrawn in 1996 by the NLRB to allow them to consider the outcome of several pending Beck
+cases,
+
+        Since the 1988 decision, organized labor has strongly, and successfully, fought consistent
+Congressional Republican efforts to implement the Beck holdings through statute. These efforts
+reached their zenith in 1996 when the House considered the Republican leadership's campaign
+finance reform bill which included a broad codification of Beck. The measure was ultimately
+defeated, however, in part by moderate, pro-labor Republicans voting against the codification
+language. Unions argue that since 1947 they have been prohibited from using dues money to
+make campaign contributions. Additionally, under the Federal Elections Control Act (FECA)
+union political expenditures can only be financed by voluntary contributions through political
+action committees. Finally, unions are specifically allowed to use their dues to communicate
+with their members "on any subject" and to conduct "non-partisan voter registration and
+get-out-the-vote campaigns ... aimed at members and their families."
+
+        In the new Congress, Republican leaders in both Houses have already gone on the
+offensive. Republican campaign finance reform rhetoric now includes obligatory calls to
+"codify the Beck decision", as well as references to union dues as the only source of involuntary
+campaign spending. On the first day of the session, Senators Lott and Nickles introduced a
+measure to codify Beck as one of the Senate Republican leadership's first bills. In the House,
+Congressman Bill Thomas (R-CA), chairman of the House Oversight Committee, is considering
+similar legislation. In the past, Congressional Republicans have tried to broaden the codification
+of Beck to include all union members as well as the non-members represented by unions that
+were addressed in the original decision. This expansive codification is expected to be the focus
+of Republican leadership efforts in the current Congress.
+
+Talking Points for Meeting with Organized Labor
+
+�      The President has declared his strong and serious commitment to passing comprehensive,
+       bipartisan campaign finance reform legislation this year.
+
+�      The President has also stated that one of his core principles for campaign finance reform .
+       is that a bill must not favor one party over the other. Therefore any provision in the bill
+       which disadvantaged one party over the other would seriously concern the President
+
+�      He understands that any campaign finance vehicle is extremely likely to attract a Beck
+       codification provision. If such a provision is so broad that it would disadvantage one
+       party over the other, that provision would be opposed by the White House.
+
+.�     As a practical matter, it would be useful to know if there is any version oflanguage to
+       codify Beck that is acceptable to the unions. It is always a better strategy to have an
+       acceptable alternative to support in the face of an unacceptable provision.
+
+�      We will work closely with you at every step of the legislative process. We are aware of
+                      Hex-Dump Conversion
+
+
+    your cone"ems and would like to satisfactorily address the Beck issue as this bill proceeds.
+
+

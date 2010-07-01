@@ -1,0 +1,131 @@
+RECORD TYPE: PRESIDENTIAL     (NOTES MAIL)
+
+CREATOR: Julie A. Fernandes    ( CN=Julie A. Fernandes/OU=OPD/O=EOP [ OPD ]   )
+
+CREATION DATE/TIME:29-APR-1998 18:54:59.00
+
+SUBJECT:   h1b letter
+
+  TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+, READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ]         )
+READ: UNKNOWN
+
+CC: Cathy R. Mays    ( CN=Cathy R. Mays/OU=OPD/O=EOP @ EOP   [ OPD ]    )
+READ: UNKNOWN
+
+CC: Laura Emmett    ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP   [ WHO]   )
+READ: UNKNOWN
+
+TEXT:
+Here is the letter, reflecting agency comments.
+
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   o 00:00:00.00
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D26] MAIL47453781H. 126 to ASCII,
+ The following is a HEX DUMP:
+
+ FF57504370040000010A02010000000205000000C318000000020000F4617DDOBD61DC2CDCF3E6
+ B471B2E1DA2E918F3E177E4B380C5D72C5AFAEBOOEFCBD37912C9CE335D65C7AC132D8B295F7BB
+ FOED6960B5F10D31D9F052FE1585B13765B3580DEE657CAF5A5D60434770986E33CF43B2CCA5B9
+ 1B087D2D09BD31EC9806E914BF409BC2E8C1018A155C9CBA72BA8DFF24167C763F098802F94218
+ 3783A711A25012AE3918F38AFB3F9575508A92F87BB661486D2C552D2DE33CF4CB4FEBFA1412B4
+ BBB7145AF5ECDE1977584EDD6121739ABC80DF4941FCB497AFD6ACC776985B9FE34E8422E91EB3
+ 74A1C2BC36CBE065413025C597E9F3869EBE7DFA4FB7680082C6A93FBCCEB3597A54988E962612
+ 47CEBA9095BE7B03E073216AF9F807EDEF500217C92E1CBDE50A44A8E57E148D1FF6C9BC2BEA65
+ 4E890D374DB8FC31134B6CA48EDFCOF378D59E54D3F634EE6E98322645AB074404A5D1606E664D
+ 4EBBAC53DC07C611148748CE5618596EFFD253EC9A5C07BE02C6457417FCA3DC395A9D57E8871C
+ 5CC8776995469245A46B6D6DC1AFDB8DB299BA06FEA3834F91D15EE87B025A2562F26DDF4E5BEA
+ 6C50DDE75BFAC32DE1640E8B01835752468EOFCOF9FB77DFB9262326EF9C2F441B45E04FCD9D27
+ BC93B2E8623986B1EAODA8BA317C517CE64D7733AB5C509629581D8B903ADDDEE89F9EC431C5CE
+ 408BB6F25B02000900000000000000000000000823010000000B0100007E020000005501000000
+ 4E0000008903000009250100000006000000D70300000B300200000028000000DD030000087701
+ 000000400000000504000008340100000014000000450400000802010000000F00000059040000
+ 080501000000080000006804000000984C006F00630061006C0020004800500020004C00610073
+ 00650072006A006500740020003500000000000000000000000000000000000000000000000000
+ 00000000000000000000000057494E53504F4F4COOOOOOOOOOC800C8002C012C012C012C01C800
+ C80030000000000000000000000000000000000000000000000000000000000000000000000000
+ 000000000000000000000000000000000000000000000000000000000000000000000000000000
+ 000000000000000000000000000000000000000000000000000000000000000000000000000000
+ 000000000000000000000000000000000000000000000000000000000000000000000000000000
+ 000000005E008FOE2800C8196810480D000011090000005AOOOBOI0000103600540069006D0065
+ 00730020004E0065007700200052006F006D0061006E00200052006500670075006C0061007200
+ 000000000000000001000200580201000000040028000000000000000000000000000000000000
+'00011202002400A1000000A10000000A0000005E02050055005FO2010045006002030055006102
+ 0100020062020100450063020400500064020200020065020200020066020100440067025C0065
+ 81859983240000000000000000000000000000000008337C007800000200006702000003010004
+ 0002000000DDOA10008301040003000200211000DDDDOBOB00030000040BOODDF1026702F19BF1
+                                                            Hex-Dump Conversion
+
+                                                    April 30, 1998
+
+The Honorable Lamar Smith
+Chairman
+Subcommittee on Immigration
+Judiciary Committee
+U. S. House of Representatives
+Washington, D.C. 20510
+
+Dear Mr. Chairman:
+
+        Today, your Subcommittee will mark-up H.R. 3736, the "Workforce Improvement and
+Protection Act of 1998" which is intended to address the growing demand for skilled workers in
+the information technology (IT) industry by enacting a temporary increase in the annual cap on
+the number of visas for temporary foreign "specialty" workers under the H-IB program, while
+also effecting reforms to the H -I B program that would help target their usage to industries and
+employers that are actually experiencing skill shortages.
+
+        The Administration believes that the first step in increasing the availability of skilled
+workers must be raising the skills of U.S. workers and helping the labor market work better to
+match employers with U.S. workers. Therefore, substantial additional efforts by industry to
+increase the skill level of U.s. workers and needed improvements in the H-IB visa program are
+necessary prerequisites for the Administration to support any short-term increases in the number
+of visas for temporary foreign workers.
+
+        We are pleased that H.R. 3736 is consistent with one of our primary objectives, insofar as
+it conditions a temporary increase in the H-IB cap on the enactment of meaningful reforms to the
+H-IB visa program. Your bill would help ensure that U.S. workers would not lose their jobs to a
+temporary foreign worker and that qualified U.S. workers would have the opportunity to fill a job
+before a temporary foreign worker is hired. Moreover, your bill modestly expands enforcement
+authority to help prevent employer abuses ofthe H-IB program. These reforms will effectively
+target H-I B visas to industries experiencing skill shortages.
+
+       Unfortunately, H.R. 3736 does not contain any provision for additional training
+opportunities for U.S. workers. Training is a vital component of our strategy to address the
+long-term demand for highly skilled U.S. workers and to enhance the international
+competitiveness of important U.S. industries. An effective training strategy would also work to
+reduce the demand for H -I B visas. Weare also concerned that the increase in the annual
+number of H-I B visas reflected in this bill is too large, although we agree that the increase
+should last for only three years.
+
+      For these reasons, the Administration believes that this legislation would substantially
+improve the current H-IB program and, with the addition of meaningful training provisions and a
+modest reduction in the level of increase in the annual H-IB visa cap, would gamer the
+Administration's support. Modifications to the H-IB program that appropriately protect u.S.
+                                                       Hex·Dump ConvelSion
+
+workers will also reinforce the Administration's strong support for legal immigration. We look
+forward to working with the Congress on these and other specific provisions in the bill.
+
+      The Office of Management and Budget advises that there is no objection to the
+submission of this report from the standpoint of the Administration's program.
+
+
+
+Sincerely,
+
+
+
+
+BRUCE REED                                         GENE B. SPERLING
+Assistant to the President                         Assistant to the President
+for Domestic Policy                                for Economic Policy
+
+
+
+
+cc:    Representative Melvin L. Watt, Ranking Member
+
+

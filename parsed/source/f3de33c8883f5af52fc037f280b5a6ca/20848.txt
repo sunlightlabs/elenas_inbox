@@ -1,0 +1,89 @@
+ RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+CREATOR: Leanne A. Shimabukuro ( CN=Leanne A. Shimabukuro/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME:28-JUL-1998 18:49:03.00
+
+ SUBJECT:   crime meeting agenda
+
+TO: Thomas L. Freedman ( CN=Thomas L. Freedman/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Christa Robinson ( CN=Christa Robinson/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Karen A. Popp ( CN=Karen A. Popp/OU=WHO/O=EOP @ EOP ( WHO]     )
+READ: UNKNOWN
+
+TO: Mary L. Smith ( CN=Mary L. Smith/OU=OPD/O=EOP @ EOP ( OPD ] )
+READ: UNKNOWN
+
+TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+TO: Michelle Crisci ( CN=Michelle Crisci/OU=WHO/O=EOP @ EOP ( WHO ] )
+READ:UNKNOWN
+
+CC: Jose Cerda III    ( CN=Jose Cerda III/OU=OPD/O=EOP @ EOP ( OPD ] )
+READ:UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to conv.ert ARMS_EXT: [ATTACH.D91]MAIL45991841B.226 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043B0040000010A02010000000205000000CFOD0000000200004E7276571F1F6E57E91DC7
+                                                                                   Hex-Dump Conversion
+
+                                    Crime Meeting Agenda
+                                        July 29, 1998
+
+Upcoming Events
+
+       *        8/11 (tentative) Brady event
+                - Brady reg
+                - Brady fee issue
+
+       *        8/22 (tentative) Early Warning Guide Radio address
+
+       *        10/15 WH Conference on School Safety
+                - Release first annual report on school safety
+
+
+Pending Items
+
+       *        School safety
+                - Early September release of COPS/Schools grants and plan
+
+       *        Teen drug testing/driver's licenses pilot
+
+Legislative
+
+       *        Juvenile crime -- September Senate floor action possible
+
+       *        Appropriations
+                - CJS -- Senate drug amendment
+                - Treasury-Postal
+                - Labor/HHS
+
+       *        Drugs
+
+Miscellaneous
+
+       *        GAO -- directive on child safety locks
+
+       *        Other releases, DOJ report
+
+       *        HHS Household Survey
+
+       *        Follow up to Rendell meeting
+
+       *        Chicago VP drug event re-scheduled
+
+

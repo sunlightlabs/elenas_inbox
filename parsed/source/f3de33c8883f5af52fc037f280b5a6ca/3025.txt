@@ -1,0 +1,101 @@
+RECORD TYPE: PRESIDENTIAL      (NOTES MAIL)
+
+CREATOR: Kathleen M. Wallman ( CN;Kathleen M. Wallman/OU;WHO/O;EOP [ WHO]                )
+
+CREATION DATE/TIME:18-JUN-1997 16:48:12.00
+
+SUBJECT:   securities litigation
+
+TO: Bruce R. Lindsey ( CN;Bruce R. Lindsey/OU;WHO/O;EOP @ EOP [ WHO]            )
+READ: UNKNOWN
+
+TO: Jeffrey A. Frankel ( CN;Jeffrey A. Frankel/OU;CEA/O;EOP @ EOP [ CEA]             )
+READ:UNKNOWN
+
+TO: KAGAN_E ( KAGAN E @ Al @ CD @ LNGTWY [ UNKNOWN ] )         (OPD)
+READ:UNKNOWN
+
+TO: Paul R. Carey ( CN;Paul R. Carey/OU;WHO/O;EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+TO: Timothy L. Newell ( CN;Timothy L. Newell/OU;OSTP/O;EOP @ EOP [ OSTP ] )
+READ: UNKNOWN
+
+TO: Ellen S. Seidman ( CN;Ellen S. Seidman/OU;OPD/O;EOP @ EOP [ OPD ]           )
+READ: UNKNOWN
+
+TO: William B. English ( CN;william B. English/OU;CEA/O;EOP @ EOP [ CEA ] )
+READ: UNKNOWN
+
+TO: Daniel C. Tate ( CN;Daniel C. Tate/OU;WHO/O;EOP @ EOP [ WHO]            )
+READ: UNKNOWN
+
+TO: Jennifer D. Dudley ( CN;Jennifer D. Dudley/OU;WHO/O;EOP @ EOP [ WHO]             )
+READ: UNKNOWN
+
+TEXT:
+Here is a version that reflects some input from Paul Carey.  If you have
+comments, please tell me as soon as you can because I will be out on
+Thurs. and Fri.
+
+;;;;;;;;;;;;;;;;;;;; ATTACHMENT   1 ;;;;;;;;;;;;;;;;;;;;
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.Dl]MAIL44161686E.116 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043C5040000010A02010000000205000000290E000000020000A51FAADC4AOAC658B91281
+DII0D2E9B445434B725C17BEF22FC7291D162E59BC24C5EA43C8FDF58DA2DD24B571B713819014
+BE9FOA43328A799FAA90F0022F03CA98DB710A6A140C4F8C380C141917EIIFB9705A9C5C7FID05
+789FE7AAFF046823AOE116BFF4CACBE337656915C3AC66FA80D5B20DCDCED905C784BODD606F4D
+D9710384EFE1231A4ED7CCBCA57FC36DF6D1332EBF64AC541A58B74716C36EICDEC3BA2C34B4EF
+D84D33806510BF406CICAF2832C8F061C678636E6BAE685FOC6EC945DAE9F9B121AB34F9801B16
+553478E937DOOFB3ED227FE6B22CE89B25AD8F41C8FD5BB3259DAI092C847E8DC30FDB6A867572
+lE66A13BC3831C127EACDBE9COD33052C36FB80C8FBA30C840CODCFBB367A216363D4CF30C8B86
+F5F83415821FC145BOC6A47COA61837CA3ACIC73E53DOB50AICF5DF4CA9A7477CFI02882C8EC85
+lCOCD667FA094C9040EDD17B2949CAIF7939957COF61B48EC7DFA534ABDD3DBDCDF046DI0C296B
+863A9B9E2D125BBBDE9992C1730A28D9D75516D4FIA6C03949F2AF0784AIA67B1720647A31926F
+732BB187EE82E71F8531C680E9BF53E6F2658C9AFCFC0075111B949B9380A20A2D3C665CCC2D5C
+B672 7FF5C94B5DD13DD8 962E2 952BE5D03 2 ECABDB6 6 8 95DCAB21AIAOA95F21F9E2 5 7 916D3'08BAO
+                   REGARDING SECURITIES LITIGATION LEGISLATION·
+
+Background
+
+At the urging ofa number of Silicon Valley companies, Congresswoman Anna Eshoo has
+introduced legislation to preempt private securities fraud class actions brought under state law.
+Only "nationally marketed" securities would be covered by this preemption measure.
+
+You likely will be asked whether you have decided whether the Administration will support the
+Eshoo bill. An interagency group has been meeting under the auspices of the NEC and
+Counsel's Office to develop a recommendation to you. The group is reviewing the evidence and
+studies on national uniform standards; there is weight on both sides. Among the recent studies
+is a report from the SEC, which you requested, that concludes that it is premature to consider
+further federal legislation on securities litigation.
+
+The interagency group is considering not only the option of taking a position for or against the
+bill, but also intermediate options, short of supporting the bill, that could stake out a position in
+favor of some preemption to achieve some measure of uniformity among the states in litigation
+standards. But the bill is not moving at the moment; no hearings have been scheduled in the
+House yet and no bill has been introduced in the Senate. Thus, there is no urgency in the sense
+of legislative scheduling to your announcing a position now.
+
+Suggested Talking Point:
+
+         ·        The issue of national uniform standards for securities fraud class actions is an
+                  important issue and we are continuing to look at it carefully as I said we would do
+                  in my letter responding to Congressowman Eshoo. We have benefited from your
+                  thoughtful input in that process. We are not on a specific timetable to complete
+                  the review. We will watch the legislation carefully as the process unfolds.
+
+
+Prepared by Wallman 3/21/97, updated 6117197
+
+
+
+
+                                                                               Management System
+                                                            Automated Reeorcis
+                                                            Hex-Dump Conversion
+
+

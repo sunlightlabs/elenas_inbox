@@ -1,0 +1,363 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Andrea Kane ( CN=Andrea Kane/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME: 5-0CT-1998 20:48:22.00
+
+SUBJECT:   Revised minority caseloads memo
+
+TO: Elena Kagan   CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+TEXT:
+Bruce, I've revised/consolidated the tables as suggested, and made
+corresponding revisions to the narrative surrounding the tables. Our
+intent was for the Analysis section to stand on it's own so that we could
+share it with agencies without sharing the actual memo.  If you think it's
+better for POTUS just to have the narrative in Section I of the memo and
+the tables without duplicative analysis we could do that, then do an
+annotated version of the Analysis for other audiences.   I'm double
+checking whether citizen kids of non-citizen parents are increasing
+unless you know that from another source.  I'll fix page breaks for tables
+again once this is final.
+
+ I'd suggest revising "Changes in welfare caseload composition have
+consistently   mirrored overall demographic changes over the last 25
+years" (see edits in narrative and in the Analysis section). Census shows
+whites have decreased as share of general population by 13% since 1970,
+while blacks have increased 11% and Hispanics have increased 144%.
+Between 1973 and 1997, whites have decreased as share of welfare
+population by 8%, blacks have decreased by 19% and Hispanics have
+increased 77%.   (I'd said "generally mirrored" but even that is kind of a
+stretch, especially for blacks, and I think now that we've adjusted for
+population growth the point is less important.)==================== ATTACHMENT      1
+ATT CREATION TIME/DATE:    0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D15]MAIL435235976.226 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043A1160000010A020100000002050000007A8300000002000065BFC1885342474DF85BAD
+D5DAD91F74DD8B7C6FB735221676CF53E95DD7D3244C67D5062BA12A7343027B7E04977C4710EA
+                                                                         Hex-Dump Conversion
+
+
+
+                                          October 5, 1998
+
+
+MEMORANDUM FOR THE PRESIDENT
+
+FROM:           Bruce Reed
+                Andrea Kane
+
+SUBJECT:        Minority Welfare Caseloads
+
+       You asked us to evaluate recent reports that African-American and Hispanic families are
+leaving welfare more slowly than whites, and to consider what more we could do to ensure all
+welfare recipients are making the successful transition from welfare to work. Here is a brief
+summary of the trends, along with some new ideas we are developing for consideration in your
+FY 2000 budget.
+
+     I. Caseload Trends
+
+       We have worked closely with NEC, CEA, OMB, HHS, and the Census Bureau to
+examine the most recent welfare caseload data (generally through 1997). As detailed in the
+attached tables, the data show:
+
+1.       Most of the changes in the welfare caseload can be attributed to changes in the
+         composition ofthe population as a whole -- specifically, population growth explains
+         nearly two-thirds of the difference in caseload decline between Hispanics and whites and
+         nearly half the difference between blacks and whites.
+
+        Since 1994, the number of welfare cases has indeed dropped more among whites (26
+percent) than among blacks (18 percent) and Hispanics (9 percent). However, when population
+growth is taken into account, the difference narrows dramatically. The rate of welfare
+dependency has dropped sharply for all populations -- by 26 percent among whites, 21 percent
+among blacks, and 20 percent among Hispanics. In other words, minorities are leaving or
+staying off welfare at nearly the same rate as whites, but make up a larger share of the welfare
+population because they make up a larger share of the population as a whole. [See Table 1.]
+
+2.       The difference in caseload decline is even narrower among adults. Since 1994, the adult
+         rate of welfare dependency has declined by 30% among whites, 26% among blacks, and
+         24% among Hispanics.
+
+        Child-only cases -- which are decreasing more slowly, because they are not significantly
+affected by welfare reform efforts to move recipients from welfare to work -- are
+disproportionately minority. (For example, the child-only caseload includes an increasing
+number of citizen children born to illegal immigrants. [check]) [See Table 2.]
+                                                                            Hex-Dump Conversion
+
+
+        Changes iR welfare easelead eemflesitieR ha'.'e geRerally mirrered e ...erall demegraflhie
+ehaRges e\'er the last 25 years. The composition of the welfare caseload has changed gradually
+over time, largely driven by population changes. The composition of the adult caseload has not
+changed significantly since 1994; the most recent national data shows it is now 37 percent white,
+37 percent black, and 21 percent Hispanic. [See Table 3.]
+
+3.       There is encouraging evidence that the employment rates of minority welfare recipients
+         are catching up with the employment rate for whites. Between 1996 and 1998, the
+         percentage of all prior year welfare recipients who were employed in the next year
+         increased by 28%. The increase was highest for Hispanics (49%), followed by blacks
+         (44%) and whites (5%). [See Table 4.]
+
+4.       Recent trends in marriage and teen illegitimacy rates could exacerbate the increasing
+         proportion of Hispanic families on welfare. While the proportion of never-married
+         single mothers is increasing for the entire population, the rate of increase is largest for
+         Hispanic women. Also, the birth rate to unmarried teenagers is increasing for Hispanics
+         while declining for whites and blacks. [See Table 5.]
+
+5.       The real challenge will be breaking the cycle of welfare for long-term recipients, who are
+         disproportionately minority.
+
+        Minorities are more likely than whites to be on welfare in the first place, and more likely
+to end up as long-term recipients once they go on the rolls. Blacks and Hispanics on welfare
+tend to have lower educational levels, marriage rates, and larger families than whites, and are
+more than twice as likely to live in central cities and areas of concentrated poverty. Hispanics
+also have less recent work history than whites or blacks. [See Table 6.]
+
+
+     II. What We Can Do
+
+        We will continue to monitor caseload trends and keep you informed. While initial press
+reports may have overstated disparities so far, these data underscore the importance offocusing
+our efforts on the hardest cases, who are disproportionately minori ty. Many of our existing
+welfare-to-work initiatives already target this population, but we also are developing some new
+proposals for your consideration in next year's budget.
+
+         A. Current Initiatives
+
+        As you know, you have put forward many initiatives to help the hardest-to-serve welfare
+recipients and those living in concentrated areas of poverty. Many of these initiatives were
+implemented 톓n 1998, too late to influence 1994-1997 trends outlined above.
+
+         �      The $3 Billion Welfare-to-Work Fund you fought for in the Balanced Budget Act
+                is designed specifically to help long-term welfare recipients (and non-custodial
+                parents) in high-poverty areas obtain jobs and move up a career ladder. While it
+                                                      Hex-Dump Conversion
+
+                                                                                                  3
+
+               is too early to have demographic data on the individuals served by these funds, the
+               distribution formula and individual eligibility criteria ensure that most of these
+               funds will be spent on minorities. The first of these funds were awarded in
+               January 1998 and are just now starting to provide individual services.
+
+       �       Welfare to Work Transportation Funds enacted in the TEA-21 transportation
+               reauthorization bill will help welfare recipients and low-income workers get to
+             . where the jobs are, often in suburban areas not served by public transportation.
+               The law guarantees $50 million this coming year, and we're urging the
+               appropriators to provide a total of $1 00 million.
+
+       �      Welfare-to-Work Housing Vouchers we've proposed will help families in isolated
+              urban or rural areas move closer to job opportunities. Congress has funded our
+              request for 50,000 vouchers. The population of those who currently receive
+              housing assistance is 38 percent black, 10 percent Hispanic, and 46 percent white.
+
+       �      Community Empowerment Initiatives. The Administration's Community
+              Empowerment initiatives -- empowerment zones, enterprise communities,
+              Brownfields, CDFIs -- will spur economic development and job creation in
+              distressed neighborhoods and help address the geographic isolation faced by
+              minorities on welfare.
+
+       B. New Initiatives
+
+        In preparation for next year's budget, we are developing a number of options to address
+the particular challenges faced by minorities in making the transition from welfare to work:
+
+       �      Increasing Investments in English-Language and Literacy Training. We hope to
+              recommend targeted new investments in two areas that directly affect minority
+              and long-term recipients: learning English and learning to read. This could be
+              done by expanding existing Department of Education adult education programs,
+              or better yet, by dedicating Welfare-to-Work funds for job-related literacy and
+              ESL programs, provided either in the workplace or by community organizations
+              preparing individuals for employment.
+
+       �      Expanding Work-Related Drug Treatment. Since many of those remaining on
+              welfare suffer from drug or alcohol dependencies, we are exploring ways to
+              provide drug treatment for those who agree to go to work.
+
+       �      Targeting Welfare-to-Work Funds to the Toughest Areas. While the current
+              Welfare-to-Work formula favors high-poverty areas, we are going to examine
+              whether the funds could be even more targeted.
+                                                                Hex-Dump Conversion
+                                                                                                                       4
+
+         �        Increasing Work and Child Support Among Nnoncustodial Fathers. We may be
+                  able to attract bipartisan support for an effort to help states increase the
+                  employment and child support payments of noncustodial parents.
+
+
+                                  Minority Caseloads Analysis and Tables
+
+Table 1: Population-Adjusted Change in Rate of Welfare Dependency
+
+Since 1994, the number of welfare cases has dropped more among whites (26 percent) than
+among blacks (I8 percent) and Hispanics (9 percent). However, when population growth is
+taken into account, the difference narrows dramatically. The rate of welfare dependency has
+dropped sharply for all populations -- by 26 percent among whites, 21 percent among blacks, and
+20 percent among Hispanics. Specifically, population growth explains nearly two-thirds of the
+difference in caseload decline between Hispanics and whites and nearly half the difference
+between blacks and whites.
+
+Table l' Change from 1994 to 1997*
+ Race/Ethnicity           Number of Welfare                Population             Rate of Welfare
+                          Cases                            Aged 15-49"*           Dependency (caseload
+                                                                                  adjusted for population)
+
+ White                    -26%                             -0.1%                  -26%
+
+ Black                    -18%                              4.4%                  -21%
+
+ Hispanic                 -9%                              13.0%                  -20%
+
+  .. National data is only available through June 1997. We do not yet have more recent data, or state-specific data,
+that we consider accurate. In July, The New York Times reported more recent data provided by some states, but
+HHS believes that data, particularly for New York and California, may contain significant reporting errors due to
+states implementation of the new T ANF data reporting system.
+
+.... The trends in population aged 15-49 is used here because this is the population group most likely to be a welfare
+head of household, whose race/ethnicity would be counted when tallying the case demographics.
+
+Table 2: Population-Adjusted Adult Rate of Decline
+
+The difference in caseload decline among groups is even narrower for adults. Child-only cases
+are decreasing more slowly than the overall welfare caseload and are disproportionately minority;
+in fact, between 1994 and 1997 they increased (though they declined slightly between 1996 and
+1997). Child-only cases are those in which the parent or adult is not part of the case, e.g., adult
+is not a citizen but the child is; child is being cared for by a relative who is not part of the case.
+Therefore, child-only cases are not significantly affected by welfare to work efforts. After
+adjusting for population growth, the rate of welfare dependency for adults (percent of 15-49 year
+                                                                 Hex-Dump Conversion
+
+                                                                                                           5
+
+old population on welfare) has declined 30% among whites, 26% among blacks, and 24% among
+Hispanics.
+
+                                    r .
+T able 2 P0pu IafAd' ted R aeo fD ecmem Adu lt W eIiiare Dependency: 1994 - 1997*
+                lon- IJUS   t
+                   Rate of decline          Rate of           Rate of decline for     Population-adjuste
+                   for all cases            increase for      adult-headed cases      d rate of welfare
+                                            child-only                                dependency for
+                                            cases                                     adult cases
+
+ White             -26%                     7%                - 30%                   -30%
+ Black             - 18%                    3%                - 23%                   -26%
+ Hispanic          - 9%                     9%                - 15%                   -24%
+*NatlOnal data IS only avaIlable through June 1997.
+
+Table 3: Racial Breakdown of Adult Cases
+
+The composition of the welfare caseload have changed gradually over the past 25 years, driven
+largely by population changes. Despite differing rates of caseload decline since 1994, the
+composition of the adult welfare caseload has remained relatively constant.
+
+Table3' Racial Breakdown of Adult Cases
+ Race/Ethnicity               1994                         1997*
+
+ White                        40%                          37%
+
+ Black                        36%                          37%
+
+ Hispanic                     19%                          21%
+ASIans, Native Amencans, and those desIgnated "Unknown" compnse the rest of the case load.
+*National data is only available through June 1997.
+
+Table 4: Employment Rate of Welfare Recipients
+
+There is encouraging evidence that the employment rates of minority welfare recipients (people
+on welfare in one year who were working the following year) is catching up with the employment
+rate for whites.
+
+T abl e 4 Employment Raeo fW eIiiare ReClplen t s
+                       t                ..
+ Race/Ethnicity               1996                    1998               Percent Change 96-98
+
+ White                        36%                     38 %               5%
+                                                       Hex-Dump Conversion
+
+                                                                                                      6
+
+ Black                    23 %                 33%                44%
+
+ Hispanic                 19 %                 29%                49%
+
+ All Recipients           27%                  34%                28%
+
+
+
+Table 5: Trends in Marriage Rates and Births
+
+The trends in marriage rates and births to unmarried women could exacerbate the increasing
+proportion of Hispanic families on welfare. While the proportion of never-married single
+mothers is increasing for the entire population, the rate of increase is largest for Hispanic women.
+
+
+                                                1992                  1997            % Change
+
+ % of all single mothers who were never        30%                    35%            17%
+ married
+
+ Never-married single mothers by race/ethnicity:
+
+ White                                         17%                    21%            24%
+
+ Black                                         51%                    55%            8%
+
+ Hispanic                                      33%                    42%            27%
+
+Also, the birth rate to unmarried teenagers remains much higher for blacks and Hispanics than
+for whites. While the rate is decreasing for blacks and slightly for whites, it continues to
+increase for Hispanics. For example, between 1991 and 1996, the rate of births to unmarried
+teenagers decreased 18% for blacks and 4% for whites, but increased 3% for Hispanics.
+
+
+Table 6: Characteristics of Minorities on the Caseload
+
+ Minorities on welfare are more likely to have characteristics associated with long-term welfare
+recipiency. Blacks and Hispanics on welfare tend to have lower educational levels, marriage
+rates, and larger families than whites, and are more than twice as likely to live in central cities
+and areas of concentrated poverty. Hispanics also have less recent work history than whites or
+blacks.
+
+Table 6: Characteristics 0 fAFDCI TANF R eClpIents b RaceIE thn텶Clty�
+                                           ..      )y             .
+
+                            TOTAL          WHITE                BLACK              HISPANIC
+
+ % without HS diploma       43%            30%                  43%                64%
+                                                            Hex-Dump Conversion
+                                                                                                             7
+
+ % never married               47%              33%                   69%                   43%
+
+ > 2 children                  29%              20%                   33%                   39%
+
+ Worked during the year        45%              49%                   48%                   33%
+
+ Live in area wi poverty       48%              29%                   67%                   58%
+ rate> 20%
+
+ Live in central city          49%              29%                   68%                   60%
+                                                                                . . of recIpIents m 1997 .
+*These data are from the March 1998 Current Populal1on Survey, showmg charactensl1CS
+                                                                                          . .
+
+
+Minorities are more likely to be long-term welfare recipients. For example, in 1997 20 percent
+of blacks on welfare had been on the rolls for at least five continuous years, compared to 19
+percent for Hispanics and 14 percent for whites (data are for the first nine months of 1997).
+EMAILS RECEIVED
+ARMS - BOX 084 - FOLDER 001
+[10/06/1998 - 10/11/1998]

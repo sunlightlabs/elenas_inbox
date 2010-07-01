@@ -1,0 +1,209 @@
+ RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+ CREATOR: Leslie Bernstein ( CN=Leslie Bernstein/OU=WHO/O=EOP [ WHO 1 )
+
+ CREATION DATE/TIME:12-NOv-1998 19:07:45.00
+
+  SUBJECT:   Revised SOTU Timeline
+
+ TO: Stephanie S. Streett ( CN=Stephanie S. Streett/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Kevin S. Moran ( CN=Kevin S. Moran/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Michael Waldman ( CN=Michael Waldman/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Todd Stern ( CN=Todd Stern/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Gene B. Sperling ( CN=Gene B. Sperling/OU=OPD/O=EOP @ EOP [ OPD 1
+ READ: UNKNOWN
+
+ TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ: UNKNOWN
+
+ TO: Sylvia M. Mathews ( CN=Sylvia M. Mathews/OU=OMB/O=EOP @ EOP [ OMB 1 )
+ READ: UNKNOWN
+
+ TO: Jacob J. Lew ( CN=Jacob J. Lew/OU=OMB/O=EOP @ EOP [ OMB 1 )
+ READ: UNKNOWN
+
+ TO: Sally Katzen ( CN=Sally Katzen/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ: UNKNOWN
+
+ TO: Sidney Blumenthal ( CN=Sidney Blumenthal/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ:UNKNOWN
+
+ TO: Karin Kullman ( CN=Karin Kullman/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Dawn L. Smalls ( CN=Dawn L. Smalls/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Sara M. Latham ( CN=Sara M. Latham/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO:. Karen Tramontano ( CN=Karen Tramontano/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Lawrence J. Stein ( CN=Lawrence J. Stein/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Douglas B. Sosnik ( CN=Douglas B. Sosnik/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Minyon Moore ( CN=Minyon Moore/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ:UNKNOWN
+
+ TO: Ann F. Lewis ( CN=Ann F. Lewis/OU=WHO/O=EOP @ EOP [ WHO 1 )
+
+
+READ: UNKNOWN
+
+TO: Neal Lane ( CN=Neal Lane/OU=OSTP/O=EOP @ EOP [ OSTP 1 )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Paul E. Begala ( CN=Paul E. Begala/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Jonathan H. Adashek ( CN=Jonathan H. Adashek/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Peter A. Weissman ( CN=Peter A. Weissman/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+CC: Cathy R. Mays ( CN=Cathy R. Mays/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+CC: Adrienne C. Erbach ( CN=Adrienne C. Erbach/OU=OMB/O=EOP @ EOP [ OMB 1 )
+READ: UNKNOWN
+
+CC: Sandra L. Via ( CN=Sandra L. Via/OU=OMB/O=EOP @ EOP [ OMB 1 )
+READ:UNKNOWN
+
+CC: Shannon Mason ( CN=Shannon Mason/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+CC: Jonathan E. Smith ( CN=Jonathan E. Smith/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Joshua S. Gottheimer ( CN=Joshua S. Gottheimer/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Jessica L. Gibson ( CN=Jessica L. Gibson/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Dominique L. Cano ( CN=Dominique L. Cano/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Jocelyn A. Bucaro ( CN=Jocelyn A. Bucaro/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Ruby Shamir ( CN=Ruby Shamir/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Betty J. Fountain ( CN=Betty J. Fountain/OU=OSTP/O=EOP @ EOP [ OSTP 1 )
+READ: UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+CC: Tracy Pakulniewicz ( CN=Tracy Pakulniewicz/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D39]MAIL4504l561E.326 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043A7050000010A02010000000205000000B3170000000200OODA6FEB45310A31101A784A
+BC8460D4EE55D4258AOA1F9E18B175D716A1DD302923D9D432FCAB76D5271FOD18F04D7C1E6A55
+
+TO:             Paul Begala
+               Sandy Berger
+               Sidney Blumenthal
+               George Frampton
+               Elena Kagan
+               Sally Katzen
+               Neal Lane
+               Jack Lew
+               Ann Lewis
+               Sylvia Mathews
+               Minyon Moore
+               Mark Penn
+               Bruce Reed
+               Doug Sosnick
+               Gene Sperling
+               Larry Stein
+               Todd Stern
+               Karen Tramontano
+               Melanne Verveer
+               Michael Waldman
+
+CC:            John D. Podesta
+               Stephanie Streett
+
+FROM:          Maria Echaveste
+
+DATE:November 12, 1998
+
+SUBJECT:       State of the Union Timeline
+
+
+
+Attached is the revised timeline for State of the Union preparation.
+
+
+
+
+                                                          Automated Records Management System
+                                                          Hex.·Dump Conversion
+
+November 12       Submit Ideas Memo to POTUS
+
+November 14·      Receive Comments From POTUS
+
+November 24       Meet with POTUS to Discuss Ideas Memo
+
+
+DECEMBER
+
+
+Week of Dec. 6    Meet with POTUS to Discuss Themes
+
+Week of Dec. 20   Submit SOTU Book of Outside Contributions to POTUS
+                  Submit Outline to POTUS
+
+JANUARY
+
+
+January 6         Hold "Thinkers' Dinner"
+                  Complete First Draft
+
+January 13114     Review of SpeechiPreparation
+
+January 16        Preparation
+
+January 17        Preparation
+
+January 18        Preparation
+
+
+January 20        State of the Union Address
+
+
+
+
+                                       Automated Records Management System
+                                       Hex-Dump Conversion
+
+

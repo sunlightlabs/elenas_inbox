@@ -1,0 +1,292 @@
+      RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+      CREATOR: Jeanne Lambrew ( CN=Jeanne Lambrew/OU=OPD/O=EOP [ OPD j   )
+
+      CREATION DATE/TIME: 9-DEC-1997 12:46:39.00
+
+      SUBJECT:   coverage memo
+
+      TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD j   )
+      READ: UNKNOWN
+
+      TEXT:
+      This is the latest draft with Chris's edits. We will get you the cancer
+      re-write shortly.==================== ATTACHMENT  1 ====================
+      ATT CREATION TIME/DATE:    0 00:00:00.00
+
+      TEXT:
+      Unable to convert ARMS_EXT: [ATTACH.D32jMAIL479474240.316 to ASCII,
+       The following is a HEX DUMP:
+
+      FF57504300060000010A020100000002050000000B470000000200001DB41AB6B7F14A6361BD73
+      8EA55ADF42C52DF9724AC216DFE19C588B070EA58F582F133C17B573709F6551754230DF21CC43
+      71D834DB6AD48882C3FD59D7C5D0104B842D21D42DEFB0195511E59088C2CD07AF2559278D1760
+      5BDC45E6EA1E2A7569678CC63B18E61ED6E814403667504C473B262272B3BD868FD9CC5E73890D
+      704EA9F8CDFB6A2D1EBC2DFACDOD39E2A9CDCFB7E5BE624891DBBE88ABBB278EC5F4D8BF6EE411
+      A620AD3390BE6DF483299C8F7E06BBFB59007A43D59E4B4D4C5EA3F7759A2C55783FFE10AOFD2D
+      488B645270DDCA9EE9FAA94EF2A068465D60CF89B6789342E9EF87B98A9882ACF562CCA2E7226B
+      FF29F45289B5C62673A541796D706A6D19FBA9F8761BD423DCCOCCCCB8567BC6B3F1E6842F418B
+      9114AF36014676A1E1FE2B43342CF3F6A5C86A4E2FEDD965A9842CA69B29AEE8635574EA163C45
+      37C60D481E1B222D7EFOEE3C1298C2B0737DOE14B337A7A141BE5FB280FB76BD63D8E420967A01
+      3B6CCA936850169E4AF288B4EB79BAF4BAFFF68A58AE38961A2DAC5EF5D80E9A4299E6FAAD6555
+      FF6CA554A9E1FAEFC3D972D6B10E385F615B2F18E1E14FFBCBAB18BBFC2DE1E5375A103087CB1F .
+      164A74574002CF3DCB2A2FB4A3C1F61639555A4DB9B1ED4E5A48ECD8B8DDA2A8B5737992133179
+      D524F03CE102002000000000000000000000000823010000000B0100QOC0030000005501000000
+      4EOOOOOOCB04000009250100000006000000190500000B3002000000280000001F050000087701
+      000000400000004705000008340100000014000000870500000802010000000F0000009B050000
+      08050100000008000000AA05000000000000000000000000AA050000OOOOOOOOOOOOOOOOOOOOAA
+      05000000000000000000000000AA05000000000000000000000000AA0500000000000000000000
+      0000AA05000000000000000000000000AA05000000000000000000000000AA0500000000000000
+      0000000000AA05000000000000000000000000AA05000000000000000000000000AA0500000000
+      OOOOOOOOOOOOOOOOAA05000000000000000000000000AA05000000000000000000000000AA0500
+      000000000000bOOOOOOOOOAA05000000000000000000000000AA05000000000000000000000000
+      AA05000000000000000000000000AA05000000000000000000000000AA05000000000000000000
+      000000AA05000000000000000000000000AA05000000000000000000000000AA05000000000000
+      000000000000AA0500000B30010000004EOOOOOOB20500000098480050005F004C004A005F0034
+      0050004C0055005300000000000000000000000000000000000000000000000000000000000000
+      0000000000000000000000000000000000000000000057494E53504F4F4COOOOOOOOOOC800C800
+      2C012C012C012C01C800C800300000000000000000000000000000000000000000000000000000
+      000000000000000000000000000000000000000000000000000000000000000000000000000000
+      000000000000000000000000000000000000000000000000000000000000000000000000000000
+      000000000000000000000000000000000000000000000000000000000000000000000000000000
+      00000000000000000000000000000B0100002800C8196810480DOO0011090000005AOOOB010000
+      103600540069006D006500730020004E0065007700200052006FOO6D0061006E00200052006500
+      670075006C00610072000000000000000000010002005802010000000400280000000000000000
+      0000000000000000000000011202002400A1000000A10000000AOO00007AOE010002007BOE0100
+      17007COE010002007DOE010002007EOE010044007FOE0100440080OE01000200810E0100020082
+      OE01004400830E260065816D0784230000000000000000000000000000000008337C0078000002
+      0000830E00000301000400020000000100000004003EOOOOOOOOOO000010000000000000000000
+      0000031587A624002206000053006D0061006C006C00200043006900720063006C0065000000FO
+      2206FOE0300C0000000008070COOEODDOA10008301040003000200211000DDDDOBOB0003000004
+
+                                 DRAFT, CONFIDENTIAL, CLOSE HOLD
+                                          December 9,1997
+
+
+     MEMORANDUM FOR THE PRESIDENT
+                                                                           Automated Records Management System
+     FROM:          BRUCE REED                                             Hex-Dump Conversion
+                    GENE SPERLING
+                    CHRIS JENNINGS
+
+     SUBJECT:       Health Insurance Coverage Initiatives in the FY 1999 Budget
+
+     Overview
+
+             Throughout your Administration, you have worked to enact legislation to expand access
+     to affordable health insurance. Your signing of the Balanced Budget Act included an
+     unprecedented $24 billion investment for state-based children's health insurance programs. This
+     historic initiative will clearly reduce the number of uninsured. However, there are other
+     deserving populations whom we could target in our step-by-step reforms. These include the
+     pre~65 year olds (referenced in the Medicare memo), workers between jobs, and workers in small
+     businesses. In addition, we are working on possible proposals to expand Medicaid coverage to
+     people with AIDS and disabilities through pilot programs. The policy development of these
+     proposals is still underway, so we have not included them here.
+
+              Taken together, these are not large initiatives, summing to around $10 billion over 5
+     years. This is less than half of the health investments enacted as part of the Balanced Budget
+     Act and less 4 percent of the premium assistance proposed in the Health Security Act. Having
+     said this, none of your advisors believe the Medicare and Medicaid savings left after last year's
+     deficit reduction effort are sufficient to fund these initiatives. There may be $0.5 to 1 billion
+     over 5 years in Medicaid savings, but those savings will be difficult to achieve and there may be
+     other claims on them (e.g., child care, benefits to immigrants). It could also be argued that, .
+     given the link between tobacco and health care, any residual revenue from the tobacco settlement
+     or a tax could .be considered for coverage initiatives, particularly those related to children.
+
+             Your advisors uniformly agree that we need to take all actions possible to achieve if not
+     exceed your goal of increasing insurance coverage for 5 million children. A series of proposals
+     are described to help accomplish that goal. There is less agreement on whether we address a
+     new group of uninsured people in this budget. Labor strongly supports the workers between
+     jobs demonstration; of all health initiatives in the budget, it is their highest priority. OMB also
+     supports that demonstration if sufficient funds are available. While HHS believes that this
+     proposal has merit, they are skeptical that it will achieve significant support since it has not in the
+     past three years of trying.                       .
+
+
+
+                                                       1
+A.     CHILDREN'S HEALTH OUTREACH                             Hex-Dump Conversion
+
+       The Children's Health Insurance Program (CHIP) provides funds for coverage of
+millions of working families' uninsured children, a population that previously had trouble
+                                                                                       ;
+
+affording coverage. It also builds upon a strong Medicaid program that this Administration has
+worked so hard to protect. However, important work remains to be done. In particular, we
+need to work with states to enroll the millions of uninsured children in these programs.
+
+        Medicaid eligible children are especially at risk of remaining uninsured. Over three.
+million uninsured children are eligible for Medicaid. Educating families about their options and
+enrolling them in Medicaid has always been a problem, but it has recently become more
+challenging. The number of children covered by Medicaid leveled off in 1995 and, according to
+the Census, dropped by 6 percent in 1996. While some of this decline may be due to the lower
+number of children in poverty, some part may also result from families' misunderstanding of
+their children's continued eligibility for Medicaid regardless of the changes in welfare.
+
+Options to Increase Outreach for Medicaid and the Children's Health Insurance Program
+
+       To address the need for children's health outreach, we propose a series of policy options.
+Together, these initiatives could cost $1 to 2 billion over five years (or more depending on policy
+choices about the enhanced match). Preliminary discussions with NGA and some children's
+advocates suggest they strongly support these efforts.. In addition, the Administration is
+developing partnerships to encourage a complementary range of private outreach activities.
+
+        Enhanced match for outreach. One option for improving state outreach is to provide
+enhanced match to enroll children who are eligible, but not previously enrolled in Medicaid. At
+the end of each year, if a state can document that it has increased its enrollment over its baseline,
+it would receive a increased matching amount per newly covered child or, alternatively, it could
+receive match through an increase in administrative payments. This policy rewards states only if
+they succeed in outreach, rather than just matching activities that mayor may not work.
+Although its costs depend on the amount of the incentive and the ability to administer this system
+efficiently, we could probably constrain costs to $0.5 to 1 billion over five years.
+
+        Moving outreach to schools and child care sites. We could build upon the
+"presumptive eligibility" provision in the Balanced Budget Act to make it easier to enroll
+children in Medicaid and CHIP. TheBBA option allows limited sites (e.g., hospitals) to give
+low-income. children temporary Medicaid coverage on the spot while they are formally enrolled
+in CHIP or Medicaid.· This proposal would broaden those sites to include schools and
+appropriate child care sites, at the states' option. HCFA actuaries preliminarily estimate that this
+would cost $400 million over 5 years. Also, under the BBA, states that use presumptive
+eligibility must pay for its costs out of the CHIP allotment, reducing the amount available for
+other coverage. States have advised us that this is a disincentive to take this new option.
+HCFA actuaries preliminarily estimate that this costs $25 million over 5 years.
+
+
+                                                 2
+                                                             Hex-Dump Conversion
+
+        Accessing 90 percent matching funds for outreach. A third way to increase funding
+for children's health outreach is to increase states' flexibility in using a special Medicaid fund set
+aside in T ANF for outreach for children losing welfare. This $500 million fund is currently
+allocated to states with a 90 percent matching rate for outreach activities to certain children. We
+could expand its use to all children, not just welfare children. HCFA actuaries preliminarily
+estimate that this would cost $100 million over 5 years. N GA sUPl'0rts this change.
+
+        Simplifying enrollment. A simple, accessible enrollment process from beginning to
+end could encourage more families to enroll their children in Medicaid or CHIP. To help create
+such a process, we propose several actions, all of which are low cost initiatives. First, we could
+streamline the application process by simplifying Medicaid eligibility and by encouraging the use
+of simple, mail-in applications. HCFA has already developed a model, single application form
+for both Medicaid and CHIP. We could condition some of the financial incentives, described
+above, on using a single or simple application. Second, we are reviewing the feasibility and
+costs of a nationwide 1-800 number that will link families with their state or local offices. Such
+a number could be placed in public service announcements, on the bottom of school lunch
+program applications, and on children's goods like diaper boxes, for example, allowing families
+easy access to information.
+
+Discussion
+
+       There is unanimous support across agencies for focusing on children's health outreach.
+For HHS and Treasury, it is their first priority in all health initiatives. NECIDPC and OMB
+believe that aggressive outreach will be needed to meet or exceed the Administration's goal of
+covering 5 million uninsured children. Although we believe this policy will receive validation
+by policy experts, children's advocates, and Governors alike, this package of outreach initiatives
+may be a communications challenge so soon after the enactment of the $24 billion base
+children's health program. In addition, OMB is concerned that we recognize that it is unlikely
+that we would enroll all 3 million uninsured children, since there may be some children who are
+impossible to reach.
+
+          One great challenge is the difficulty of finding savings from Medicaid to offset the costs
+ of this initiative. With this in mind, your advisors are considering the tobacco settlement as a
+ financing source. Specifically, we are exploring the advisability of allowing states to retain the
+ Federal share of the tobacco funds with an agreement that they dedicate those funds to high
+ priority Administration iniatives like child care, education and health care. There is no doubt
+ that Governor Chiles would support such an approach if we dedicate the funds to children's
+.health care, not just outreach. We are examining policy options should we pursue this path.
+
+
+
+
+                                                  3
+                                                                      Hex-Dump Conversion
+B.     WORKERS BETWEEN JOBS DEMONSTRATION
+
+        Families who lose health insurance while they are between jobs are a small but important
+group of uninsured Americans. These families pay for health insurance for most of their lives,
+but go through brief periods without coverage when they are temporarily unemployed. If they
+experience a catastrophic illness during this transition, the benefit of their years' worth of
+premium payments is lost. Worse, should a family lose insurance coverage during the period of
+unemployment, they will not be protected by the provisions of the Kassebaum-Kennedy
+legislation once they regain coverage. Coverage at that point could be subject to a new
+pre-existing condition exclusion period.
+
+Limited Demonstration
+
+       . This policy option is a modification of the program that we have carried in our last two
+budgets. It would award grants to several states to provide temporary premium assistance to
+eligible low-income families. States would use this money to partially subsidize families'
+premium payments for up to 6 months. To truly test how best to address this population's
+needs, we would select states using a range of approaches like a COBRA-based subsidy,
+Medicaid, or covering the parents of children covered by CHIP.
+
+        Since it!s a grant program, the costs are a policy choice. To give a 'sense of the coverage
+for the options, last year's $10 billion proposal over four years covered about 3.3 million people
+with incomes below 240 percent of poverty. If we assume the same set of policy parameters, a
+demonstration of $1 billion over 5 years would coverage about 230,000, of $2.5 billion would
+cover about 600,000, and it would take about $3.5 billion to cover about 800,000 people. OMB
+has suggested that we could limit the costs by reducing the eligibility for assistance to people
+below poverty. However, NECIDPC advisors oppose such a limitation because it shifts the
+target away from the middle class families we originally intended to help.
+
+Discussion
+
+        On policy grounds, all of the agencies support this policy. It has been in our last two
+budgets because of its merits. This policy remains Labor's first priority since they view the
+unemployed uninsured as a particularly vulnerable and important group to target. They also
+believe that this is a particularly important policy in the context of the trade debate and worker.
+insecurity issues. OMB would support this initiative if there are sufficient funds. Funding may
+be a problem since there is probably not enough Medicaid savings for this option, especially if
+we pursue children's outreach. HHS is concerned about supporting this policy with Medicare
+savings, believing that Medicare savings should be reinvested for Medicare beneficiaries. HHS
+also feels as though circumstances have not changed to make this policy viable this year when it
+has not been in the past. DPCINEC are concerned about dropping this policy altogether and do
+support a demonstration large enough to viewed as improving coverage. However, if resources
+are limited, we would advocate for the children's outreach initiative before this proposal.
+
+
+                                                 4
+C.     VOLUNTARY PURCHASING COOPERATIVES                             Hex-Dump Conversion
+
+       Workers in small firms are most likely to be uninsured. Over a quarter of workers in
+firms with fewer than 10 employees lack health insurance - almost twice the nationwide
+average. While 88 percent of workers in firms with 250 or more workers are offered health
+insurance, only 41 percent of workers in firms with less than 10 workers are offered coverage.
+This results. in large part from the fact that the small group health insurance market does not
+                                        .
+function as well as the large group market. Studies have shown that administrative costs are
+higher and that small businesses pay more for the same benefits as larger firms.
+
+Grants to States
+
+        Given the disadvantages faced by small firms, the question is: are there policies that can
+make insurance more affordable for small businesses and their employees? In the last two
+budgets, we have included a policy to provide seed money for states to establish voluntary
+purchasing cooperatives. These cooperatives would allow small employers to pool their
+purchasing power to try to negotiate better rates for their employees. This year, we propose both
+the original policy and a variation: a competitive grant approach so that a more limited number of
+states could receive a smaller, but more targeted, pool offunds. The total costs would be $50 to
+$100 million over 5 years.
+
+Discussion
+
+        All agencies remain supportive of this policy and believe it should be included in this
+year's budget. It is importan.t that we have some initiative that illustrates our understanding that
+a major problem of lack of insurance continues to exist in the small employer community. In
+the past, we have been unable .to get this policy passed into law primarily because it has been
+viewed as an altemative to an initiative proposed by Congressman Fawell. His approach would
+make it easier for small businesses to self-insure and in so doing escape all state regulation.
+Governors and consumer groups have consistently opposed the Fawell approach, mostly
+because of the concern that the small group market will only be left with the most risky, most
+expensive groups, while all the low risk groups will move into the self-insured, non-regulated
+market. We have raised similar concerns and have also pointed out that a Fawell-type approach
+would eliminate all of the consumer protections state insurance regulation currently provides.
+Based on our preliminary conversations with Congressman Fawell, it may be that our impasse is
+resolvable since this is his last year as a Member of Congress and there are some compromises
+that seem within reach.
+
+
+
+
+                                                 5
+
+

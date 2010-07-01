@@ -1,0 +1,41 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Sarah A. Bianchi ( CN=Sarah A. Bianchi/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME: 9-0CT-1998 17:20:56.00
+
+SUBJECT:   weekly
+
+TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ:UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D93]MAIL46020348L.226 to ASCII,
+ The following is a HEX DUMP:
+
+FF5750438C040000010A020100000002050000008B09000000020000024B971A6365E218AOB536
+0782347A761165220EFE372687F551637B1971D79946EOA176F07BDAEAE21636D3B184BEE3DD70
+health issues left to be resolved in our appropriations discussions on the Hill. High visibility
+issues related to Medicare include, potential responses to reimbursement issues for home health
+care and skilled nursing facilities, as well as Pennsylvania disproportionate share hospital
+payments. On these issues, we are viewed by supporters as being helpful. Outstanding
+Medicaid and Children's Health Insurance Program (CHIP) issues include a controversial
+Medicaid cost savings proposal and CHIP fixes for Washington, Puerto Rico and Wisconsin.
+Public health issues of interest include organ alIocation, needle exchange, assisted suicide, and
+your race and health initiative. We wilI keep you apprised of final outcomes of these issues
+when they are resolved.
+
+
+
+
+                                    Automated Records Management System
+                                    Hex-Dump Conversion
+
+

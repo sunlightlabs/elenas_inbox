@@ -1,0 +1,318 @@
+           RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+           CREATOR: Michael J. Sorrell ( CN=Michael J. Sorrell/OU=PIR/O=EOP [ PIR 1 )
+
+           CREATION DATE/TIME: 5-DEC-1997 18:43:33.00
+
+           SUBJECT:
+
+           TO: Ananias Blocker III ( CN=Ananias Blocker III/OU=WHO/O=EOP @ EOP [ WHO 1 )
+           READ: UNKNOWN
+
+           TO: Laura K. Capps ( CN=Laura K. Capps/OU=WHO/O=EOP @ EOP [ WHO 1 )
+           READ: UNKNOWN
+
+           TO: Emil E. Parker ( CN=Emil E. parker/OU=OPD/O=EOP @ EOP [ OPD 1 )
+           READ: UNKNOWN
+
+           TO: Laura K. Demeo ( CN=Laura K. Demeo/OU=WHO/O=EOP @ EOP [ WHO 1 )
+           READ: UNKNOWN
+
+           TO: Cheryl D. Mills ( CN=Chery1 D. Mi11s/0U=WHO/O=EOP @ EOP [ WHO 1 )
+           READ: UNKNOWN
+
+           TO: Robert B. Johnson ( CN=Robert B. Johnson/OU=WHO/O=EOP @ EOP [ WHO 1 )
+           READ: UNKNOWN
+
+           TO: Lynn G. Cutler ( CN=Lynn G. Cutler/OU=WHO/O=EOP @ EOP [ WHO 1 )
+           READ: UNKNOWN
+
+           TO: Sidney Blumenthal ( CN=Sidney B1umenthal/OU=WHO/O=EOP @ EOP [ WHO 1 )
+           READ: UNKNOWN
+
+           TO: Beverly J. Barnes ( CN=Beverly J. Barnes/OU=WHO/O=EOP @ EOP [ WHO 1 )
+           READ: UNKNOWN
+
+           TO: Peter Rundlet ( CN=Peter Rundlet/OU=WHO/O=EOP @ EOP [ WHO 1 )
+           READ: UNKNOWN
+
+           TO: Angelique Pirozzi ( CN=Ange1ique Pirozzi/OU=WHO/O=EOP @ EOP [ WHO 1 )
+           READ: UNKNOWN
+
+           TO: Sylvia M. Mathews ( CN=Sylvia M. Mathews/OU=WHO/O=EOP @ EOP [ WHO 1 )
+           READ: UNKNOWN
+
+           TO: Thurgood Marshall Jr ( CN=Thurgood Marshall Jr/OU=WHO/O=EOP @ EOP [ WHO 1 )
+           READ: UNKNOWN
+
+           TO: Susan M. Liss ( CN=Susan M. Liss/O=OVP @ OVP [ UNKNOWN 1 )
+           READ: UNKNOWN
+
+           TO: Ann F. Lewis ( CN=Ann F. Lewis/OU=WHO/O=EOP @ EOP [ WHO 1 )
+           READ: UNKNOWN
+
+           TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+           READ: UNKNOWN
+
+           TO: Mickey Ibarra ( CN=Mickey Ibarra/OU=WHO/O=EOP @ EOP [ WHO 1 )
+           READ: UNKNOWN
+
+           TO: Marjorie Tarmey ( CN=Marjorie Tarmey/OU=WHO/O=EOP   @ EOP   [ WHO 1 )
+
+
+     READ: UNKNOWN
+
+     TO: Andrew J. Mayock ( CN=Andrew J. Mayock/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     TO: Janet Murguia ( CN=Janet Murguia/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     TO: Robert N. Weiner ( CN=Robert N. Weiner/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     TO: Michael waldman ( CN=Michael Waldman/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     TO: Dawn M. Chirwa ( CN=Dawn M. Chirwa/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     TO: Bob J. Nash ( CN=Bob J. Nash/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     TO: Doris o. Matsui (·CN=Doris   o.   Matsui/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     TO: Mona G. Mohib ( CN=Mona G. Mohib/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     TO: Ruby Shamir ( CN=Ruby Shamir/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     TO: Paul E. Begala ( CN=Paul E. Begala/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     TO: Gene B. Sperling ( CN=Gene B. Sperling/OU=OPD/O=EOP @ EOP [ OPD 1 )
+     READ: UNKNOWN
+
+     TO: Nelson Reyneri ( CN=Nelson Reyneri/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     TO: Minyon Moore ( CN=Minyon Moore/OU=WHO/O=EOP @ EOP     [WHO 1 )
+     READ: UNKNOWN
+
+     TO: Elisabeth Steele ( CN=Elisabeth Steele/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     TO: Trooper Sanders ( CN=Trooper Sanders/O=OVP @ OVP [ UNKNOWN 1 )
+     READ: UNKNOWN
+
+     TO: Laura Emmett    CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     TO: Suzanne Dale ( CN=Suzanne Dale/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     TO: edley ( edley @ law.harvard.edu @ INET @ LNGTWY [ UNKNOWN 1 )
+     READ: UNKNOWN
+
+     TO: Maria Echaveste ( CN=Maria Echaveste/OU=WHO/O=EOP @'EOP [WHO 1 )
+     READ: UNKNOWN
+
+     TO: Jon P. Jennings ( CN=Jon P. Jennings/OU=WHO/O=EOP @ EOP [ WHO 1 )
+
+
+READ: UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D97j MAIL42797683U. 316 to ASCII,
+ The following is a HEX DUMP:
+
+FF5750433E050000010A020100000002050000002A2A000000020000BB283E8DAC65FB88C2BB27
+336DBFF9E78A24F502E7C60C37FD3A347862810F3F68122A69538532DE5DE484C8D5CCA14ACAB5
+9666FFDFF45EB7EF107E8A5888B5FE6BC8F489062529DD3092592849CD5FOC9367840C761EE026
+9BOA85C760E4CEFB5F8B188F283294A99F7FB7A8F524CB101FFC724F9252FBFBC1016949E12405
+D91E26E2FBA14EFA40419A8114FOBE5B373016FBE2FF8263B01AFF4CB1AEC2C481E26DD60F4A98
+5CAEC310B9032F705377FB2CA50F4EDOE9A52B1059815390671A269AC20ADC61926153FBFA21F3
+7E88EE381247018C2FF4F3057935F6F9942EC134DOAD81AF1B91B602EF988DFEB443351CA9FADO
+DC024ED25E87893FB3F1B43DBA75A4FC432C3E6B58C1C9DF252BA7EB50FF268EAA3649C1BOC011
+873030A12BCFC06E6F2B1CAF41D8E874D565A4276E21389527A93BFD34E2FCOBC8DB01C5F7A3C3
+3B2A342B2993AOAC7818DFOAC55590CBB103710A7782CD7339FAAFC36F23E3A6F1ECBA3FD5B052
+53E89EED8DAAF6F7167C4091F77A879FFF80B68AA732CF777A52DC0397E9E65518ADBD48AF4BAF
+C574DC4C416884D9339DB2EE7556CCAFE4972450FC5D10B12094CC78886697755DBFADF96F7758
+FDED546C012AAE3D495052EF054FA359B963405206651B17B91E0664A16964C69151FEBB4A024A
+AEAA7F47D202000D00000000000000000000000823010000000B01000OB6020000005511000000
+4EOOOOOOC1030000092501000000060000000F0400000B30020000002800000015040000080501
+000000080000003D04000000550B0001003C000000450400000055040000003200000081040000
+08770100000040000000B304000008340100000014000000F30400000802010000000F00000007
+0500000055010000002800000016050000081D01000000000000003E05000000985C005C005000
+4900520031005C005000520049004E005400450052003300000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000057494E53504F4F4COOOO
+0000002C01F0002C012C012C012C012C01F0003000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+0000000000000000000000000000000000000000005E004F132800C8196810480D000011090000
+005AOOOB010000103600540069006D006500730020004E0065007700200052006F006D0061006E
+00200052006500670075006C006100720000000000000000000100020058020100000004002800
+000000000000000000000000000000000000011202002400A1000000A100000001000400020000
+001BOOF41A5C121A0900000000000000600018110000102400540069006D006500730020004EOO
+65007700000052006F006D0061006E000000000000001BOOF41A5C121A09000011090000006000
+18110000101A00540069006D006500730020004E006500770000000000000000000A0000008701
+010045008801020002008901010045008A01010002008B01020045008C0102005B008D0102005B
+008E01010051008F0101001700900101000200F34C382300000000670075006C00610072000000
+08337C0078000002000090010000032500E41B3214BC0700001641000000600014100000101000
+480065006C0076000000000000000000DDOA10008301040003000200211000DDDDOBOB00030000
+040BOODDF102FEOOF19BF103FEOOF1D41A1F0087010600080058024CDE00005802000058020200
+580200001FOOD480D0171500000B00090001B0040000000001201500DOD3050C0000010003000C
+00D3D304540000400001DC0514003408008COAOOE40C003COF00941100EC13004416009C1800F4
+1A004C1DOOA41FOOFC2100542400AC26000429005C2BOOB42DOOOC3000643200BC3401B0040200
+00009C58025400D3CCD3050C0000010001030COOD3F20CF24D454D4F52414E44554D80464F5280
+54484580505245534944454E54D0041500000B000900019006E001020001201500DOCCF30CF346
+524F4D3AEOllOC0000000060090COOE04A554449544880412E8057494E53544F4ED0041500000B
+000900017008C003040001201500DOCC544852553AE0110COOOOOOO060090COOE04552534B494E
+4580424F574C4553D0041500000B00090001500AA00506000120150ODOE0110C0000000008070C
+00EOE0110C0000000060090COOE053594C564941804D415448455753CCCCD30COE000002005802
+00000EOOD3D2010E00000200DC05B0040EOOD2D304570000430001DC051500DC05003408008COA
+00E40C003COF00941100EC13004416009C1800F41A004C1DOOA41F00FC2100542400AC26000429
+005C2BOOB42DOOOC3000643200BC3401DC05020034089358025700D3D30BOE00000200A8FDOOOO
+OEOOD35355424A4543543AE0110C0000000060090COOE0505245534944454E54F01C04F0538049
+4E4954494154495645804F4E8052414345805745454B4C59805245504F5254802D2DD004150000
+                                                                   Hex-Dump Conversion
+
+
+
+MEMORANDUM FOR THE PRESIDENT
+
+FROM:       JUDITH A. WINSTON
+
+THRU:       ERSKINE BOWLES
+            SYLVIA MATHEWS
+
+SUBJECT:    PRESIDENT'S INITIATIVE ON RACE WEEKLY REPORT-
+            NOVEMBER 24- DECEMBER 5
+
+
+
+
+ADVISORY BOARD ACTIVITIES
+
+     Brown University. On November 24, Angela Oh was the closing speaker for the
+     Asian Pacific American Heritage celebration at Brown University. She spoke to
+     50 students, faculty, and administrators about the Initiative and the role of
+     Asian Pacific Americans in the Initiative. She urged the students to become
+     actively engaged in the Initiative.
+
+     Town Hall Meeting. On December 3, you hosted your first Town Hall Meeting in
+     Akron. Over 5,000 people attended and it aired live on C-Span. In attendance from
+     your Advisory board were Chairman Dr. John Hope Franklin, Angela Oh, Rev. Suzan
+     Johnson Cook, Governor William Winter and Linda Chavez Thompson.
+
+     K-12 School Visits. Visits by each Advisory Board Member to schools in their
+     respective cities are being arranged for the next three weeks. The purpose of these
+     visits is to provide each Advisory Board member with a real experience of race in
+     schools today.
+
+OFFICE OF THE EXECUTIVE DIRECTOR
+
+     Asian American Academics. On November 22, I met with the Director of the
+     UCLA Asian American Studies Center to discuss the Initiative and how best to create
+     partnerships to access the expertise of Asian American academics.
+
+      NAACP Roundtable. I briefed a group of 25 NAACP leaders from across the
+      country who were convened for the purpose of discussing the future of the
+      organization. I recounted the Presidential Town Hall meeting and participated in
+    . dialogue aimed at making the NAACP a more racially inclusive organization.
+
+     OUTREACH
+                                                               Hex-Dump Conversion
+ CEO Roundtable. Secretary Slater moderated a meeting of more than 80 corporate
+ CEOs in Miami. ·Advisory Board Member Bob Thotpas and Deputy Director Mike
+ Wenger organized this event. Republic Industries and its CEO Wayne Huizenga
+ hosted the Roundtable. The next Roundtable will be held in January.
+
+ RESEARCH AND POLICY PLANNING
+
+ Policy. We are continuing to plan and organize the December 17 Advisory
+ Board meeting which will focus on issues of race in public primary/secondary
+ education. We are in the process of drafting a proposed agenda, which will
+ include dialogue with the Board about both the challenges facing
+ primary/secondary education in America as they intersect with race (e.g., urban
+ segregation, insufficient resources in terms of teaching and facilities) and about
+ promising practices in dealing with those challenges. Attached is a proposed
+ agenda for this meeting.
+
+ In preparation for the January Advisory Board meeting on employment issues, we met
+ DOL and DPC representatives to identify topics for discussion. We will follow up
+ the planning task with a larger group meeting .with senior DOL and EEOC officials
+ next week.
+
+ Research. The Policy staff reviewed the Council of Economic Advisors (CEA)
+ chapter on Race as part of the President's Economic Report.
+
+ Promising Practices. On December 3, the working group highlighted another 26
+ examples of promising practices on the PIR web page, which bring the current total to
+ 40. Ten organizations which have been highlighted as promising practice from
+ across the country also participated during the Dec. 3 town hall meeting. The group
+ plans to highlight another ten examples of promising practices by Christmas.
+
+ Data. Staff met with the PIR data working group members and briefed them
+ on CEA's new role in data analysis and coordination of the fact book.
+
+  Fairfax. Staff reviewed and provided commentary on a draft of the Fairfax
+. case study authored by Policy Studies Associates (a contractor). It is scheduled
+  to be unveiled right before the Dec. 17 Advisory Board meeting as a related
+  event.
+
+ COMMUNICATION
+
+ PSA. On Tuesday, December 2, 1997, we unveiled a public service announcement
+ (PSA) that was developed by the Ad Council in consultation with the Leadership
+ Conference on Civil Rights and the White House staff. The PSA targets Young
+ America. The PSA features young people who talk about the values they have in
+                                                                     Hex-Dump Conversion
+
+    common while asking viewers what they would do to help build One America. The
+    PSA also has a web-site listing.
+
+     Watch Parties. Approximately 100 Town Hall Watch Parties were held across the
+     country. Over 20,000 Americans viewed the town hall meeting through these watch
+     parties. There will be a minimum of 54 town meeting sites in sixteen states. We've
+    .asked people to hold their own discussions after listening to the Town Hall Meeting
+     and then fill out a report to the President letting him know their thoughts about the
+     issue of race.
+
+    Bi-Weekly Report. On November 25, The One America on the Move bi-weekly report
+    went out.
+
+    One America Conversations. On November 24, Maria Soto and Tamara Monosoff
+    conducted a One America Conversations at Mount Saint Mary's College in
+    Emmitsburg, MD.
+
+    Blastfax. On November 22, the second America On the Move document, which
+    updates our Initiative accomplishments was faxed to community leaders across the
+    nation.
+
+WORK TEAMS
+
+    YOUTH
+
+    On Friday, November 28, 1997, a letter from the President was mailed to 25,000
+    young leaders asking them to join the President in his efforts to examine the current
+    state of race relations in America. This letter provides a call to action to young
+    America and was targeted to high school senior class presidents, University and
+    College class presidents, and leaders of national and local community organizations.
+
+    On Monday, December 1, 1997, Vice President Gore will host a briefing with youth
+    and youth-oriented media (i.e. MTV, Rolling Stone, Vibe, Essence) where he
+    discussed the importance of having young America involved in this initiative. In
+    addition, we featured a local high school football captain who has organized other
+    high school captains to become involved in the Initiative.
+
+    FEDERAL AGENCY ACTIVITIES
+
+

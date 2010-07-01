@@ -1,0 +1,731 @@
+ RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+ CREATOR: Russell W. Horwitz ( CN=Russell W. Horwitz/OU=OPD/O=EOP [ OPD 1 )
+
+ CREATION DATE/TIME: 14-APR-1997 09:04:18.00
+
+ SUBJECT:   wh
+
+ TO: Robert B. Johnson ( CN=Robert B. Johnson/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Beverly J. Barnes ( CN=Beverly J. Barnes/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Thomas D. Janenda ( CN=Thomas D. Janenda/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Dainel C. Tate ( CN=Dainel C. Tate/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Craig T. Smith ( CN=Craig T. Smith/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Anna M. Gomez ( CN=Anna M. Gomez/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ: UNKNOWN
+
+ TO: Lisa M. Kountoupes ( CN=Lisa M. Kountoupes/OU=OMB/O=EOP @ EOP [ OMB 1 )
+ READ: UNKNOWN
+
+ TO: Michael Waldman ( CN=Michael Waldman/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Daniel K. Tarullo ( CN=Daniel K. Tarullo/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ: UNKNOWN
+
+ TO: Douglas B. Sosnik ( CN=Douglas B. Sosnik/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Joshua Silverman ( CN=Joshua Silverman/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Alice E. Shuffield ( CN=Alice E. Shuffield/OU=OMB/O=EOP @ EOP [ OMB 1 )
+ READ:UNKNOWN
+
+ TO: David Shipley ( CN=David Shipley/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ:UNKNOWN
+
+ TO: Ellen S. Seidman ( CN=Ellen S. Seidman/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ: UNKNOWN
+
+ TO: Stacey L. Rubin ( CN=Stacey L. Rubin/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Dorothy Robyn ( CN=Dorothy Robyn/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ: UNKNOWN
+
+ TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ:UNKNOWN
+
+ TO: Victoria Radd ( CN=Victoria Radd/OU=WHO/O=EOP @ EOP [ WHO 1 )
+
+
+ READ: UNKNOWN
+
+ TO: John Podesta ( CN=John Podesta/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Peter R. Orszag ( CN=Peter R. Orszag/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ: UNKNOWN
+
+TO: Peter O'Keefe ( CN=Peter O'Keefe/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Alison Muscatine ( CN=Alison Muscatine/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Kevin S. Moran ( CN=Kevin S. Moran/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Nancy A. Min ( CN=Nancy A. Min/OU=OMB/O=EOP @ EOP [ OMB 1 )
+READ: UNKNOWN
+
+ TO: April K. Mellody ( CN=April K. Mellody/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+TO: Anne E. McGuire ( CN=Anne E. McGuire/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Cathy R. Mays ( CN=Cathy R. Mays/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Sylvia M. Mathews ( CN=Sylvia M. Mathews/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Gordon Li ( CN=Gordon Li/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Jacob J. Lew ( CN=Jacob J. Lew/OU=OMB/O=EOP @ EOP [ OMB 1 )
+READ:UNKNOWN
+
+TO: Patricia F. Lewis ( CN=Patricia F. Lewis/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: G N. Lattimore ( CN=G N. Lattimore/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Robert D. Kyle ( CN=Robert D. Kyle/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Charles Konigsberg ( CN=Charles Konigsberg/OU=OMB/O=EOP @ EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Angus S. King ( CN=Angus S. King/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Jonathan A. Kaplan ( CN=Jonathan A. Kaplan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Christopher C. Jennings ( CN=Christopher C. Jennings/OU=OPD/O;EOP @ EOP [ OPD 1
+
+
+ READ: UNKNOWN
+
+ TO: Kathryn O. Higgins ( CN=Kathryn O. Higgins/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ REiill:UNKNOWN
+
+ TO: Helen P. Howell ( CN=Helen P. Howell/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Lyn A. Hogan ( CN=Lyn A. Hogan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ: UNKNOWN
+
+ TO: Nancy V. Hernreich ( CN=Nancy V. Hernreich/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Daniel D. Heath ( CN=Daniel D. Heath/OU=OMB/O=EOP @ EOP [ OMB 1 )
+ READ: UNKNOWN
+
+ TO: John P. Hart ( CN=John P. Hart/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Lawrence J. Haas ( CN=Lawrence J. Haas/OU=OMB/O=EOP @ EOP [ OMB 1 )
+ READ:UNKNOWN
+
+ TO: Julia R. Green ( CN=Julia R. Green/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Jason S. Goldberg ( CN=Jason S. Goldberg/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Ben A. Freeland ( CN=Ben A. Freeland/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Karen E. Finney ( CN=Karen E. Finney/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ:UNKNOWN
+
+ TO: John B. Emerson ( CN=John B. Emerson/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ:UNKNOWN
+
+ TO: Nicole Elkon ( CN=Nicole Elkon/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Ann T. Eder ( CN=Ann T. Eder/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Marilyn DiGiacobbe ( CN=Marilyn DiGiacobbe/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Suzanne Dale ( CN=Suzanne Dale/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ:UNKNOWN
+
+TO: Michelle Crisci ( CN=Michelle Crisci/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Brenda B. Costello ( CN=Brenda B. Costello/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Steven A. Cohen ( CN=Steven A. Cohen/OU=WHO/O=EOP [ WHO 1 )
+READ:UNKNOWN
+
+ TO: Michael Cohen ( CN=Michael Cohen/OU=OPD/O=EOP @ EOP [ OPD 1 )
+
+
+ READ: UNKNOWN
+
+ TO: Ann M. Cattalini ( CN=Ann M. Cattalini/OU=WHO/O=EOP @ EOP [ WHO 1
+ READ: UNKNOWN
+
+ TO: Cheryl M. Carter ( CN=Cheryl M. Carter/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Laura K. Capps ( CN=Laura K. Capps/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Rebecca A. Cameron ( CN=Rebecca A. Cameron/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Sandra L. Bublick Max ( CN=Sandra L. Bublick Max/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ:UNKNOWN
+
+ TO: Emily Bromberg ( CN=Emily Bromberg/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Erskine B. Bowles ( CN=Erskine B. Bowles/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ:UNKNOWN
+
+ TO: Sarah A. Bianchi ( CN=Sarah A. Bianchi/OU=OMB/O=EOP @ EOP [ OMB 1 )
+ READ: UNKNOWN
+
+ TO: David S. Beaubaire ( CN=David S. Beaubaire/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Donald A. Baer ( CN=Donald A. Baer/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Kenneth S. Apfel ( CN=Kenneth S. Apfel/OU=OMB/O=EOP @ EOP [ OMB 1 )
+ READ: UNKNOWN
+
+ TO: Brenda M. Anders ( CN=Brenda M. Anders/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Lori L. Anderson ( CN=Lori L. Anderson/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Barbara D. Woolley ( CN=Barbara D. Woolley/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Charles R. Marr ( CN=Charles R. Marr/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ: UNKNOWN
+
+ TO: Sara M. Latham ( CN=Sara M. Latham/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: John O. Sutton ( CN=John   o.   Sutton/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Kathleen M. Wallman ( CN=Kathleen M. Wallman/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Ronda H. Jackson ( CN=Ronda H. Jackson/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Paul J. weinstein Jr.   ( CN=Paul J. Weinstein Jr./OU=OPD/O=EOP @ EOP [ OPD 1 )
+
+
+ READ: UNKNOWN
+
+ TO: Barry J. Toiv ( CN=Barry J. Toiv!OU=WHO!O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Jordan Tamagni (CN=Jordan Tamagni!OU=WHO!O=EOP @ EOP [ UNKNOWN 1 )
+ READ: UNKNOWN
+
+ TO: Stephen B. Silverman ( CN=Stephen B. Silverman!OU=WHO!O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Jake Siewert ( CN=Jake Siewert!OU=OPD!O=EOP @ EOP [ OPD 1 )
+ READ: UNKNOWN
+
+ TO: Robert M. Shireman ( CN=Robert M. Shireman!OU=OPD!O=EOP @ EOP [ OPD 1 )
+ READ: UNKNOWN
+
+ TO: Laura D. Schwartz ( CN=Laura D. Schwartz!OU=WHO!O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Lee A. Satterfield ( CN=Lee A. Satterfield!OU=WHO!O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Steven J. Ronnel ( CN=Steven J. Ronnel!OU=WHO!O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Christa Robinson ( CN=Christa Robinson!OU=OPD!O=EOP @ EOP [ OPD 1 )
+ READ: UNKNOWN
+
+ TO: Franklin D. Raines ( CN=Franklin D. Raines!OU=OMB!O=EOP @ EOP [ OMB 1 )
+ READ: UNKNOWN
+
+ TO: Jonathan Prince ( CN=Jonathan Prince!OU=WHO!O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Kristen E. Panerali ( CN=Kristen E. Panerali!OU=OPD!O=EOP @ EOP [ OPD 1 )
+ READ: UNKNOWN
+
+ TO: Kevin M. O'Keefe ( CN=Kevin M. O'Keefe!OU=WHO!O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Bob J. Nash ( CN=Bob J. Nash!OU=WHO!O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Janet Murguia ( CN=Janet Murguia!OU=WHO!O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Linda L. Moore ( CN=Linda L. Moore!OU=WHO!O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Joseph J. Minarik ( CN=Joseph J. Minarik!OU=OMB!O=EOP @ EOP [ OMB 1 )
+ READ: UNKNOWN
+
+ TO: Kathleen M. McKiernan ( CN=Kathleen M. McKiernan!OU=WHO!O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Michael D. McCurry ( CN=Michael D. McCurry!OU=WHO!O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Doris O. Matsui ( CN=Doris O. Matsui!OU=WHO!O=EOP @ EOP [ WHO
+
+
+ READ: UNKNOWN
+
+ TO: Julie E. Mason ( CN=Julie E. Mason/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Bruce R. Lindsey ( CN=Bruce R. Lindsey/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Peggy A. Lewis ( CN=Peggy A. Lewis/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Ann F. Lewis ( CN=Ann F. Lewis/OU=WHO/O=EOP @ EOP [ WHO 1 ) .
+ READ: UNKNOWN
+
+ TO: Jeanne Lambrew ( CN=Jeanne Lambrew/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ: UNKNOWN
+
+ TO: Karin Kullman ( CN=Karin Kullman/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ:UNKNOWN
+
+ TO: Nicholas B. Kirkhorn ( CN=Nicholas B. Kirkhorn/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ:UNKNOWN
+
+ TO: Timothy J. Keating ( CN=Timothy J. Keating/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ:UNKNOWN
+
+ TO: Thomas A. Kalil ( CN=Thomas A. Kalil/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ: UNKNOWN
+
+ TO: Brian J. Johnson ( CN=Brian J. Johnson/OU=CEQ/O=EOP @ EOP [ CEQ 1 )
+ READ:UNKNOWN
+
+ TO: Peter G. Jacoby ( CN=Peter G. Jacoby/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN .
+
+ TO: Katherine Hubbard ( CN=Katherine Hubbard/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Elwood J. Holstein ( CN=Elwood J. Holstein/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ: UNKNOWN
+
+ TO: John L. Hilley ( CN=John L. Hilley/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: James T. Heimbach ( CN=James T. Heimbach/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ:UNKNOWN
+
+ TO: Cookab V. Hashemi ( CN=Cookab V. Hashemi/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Marcia L. Hale ( CN=Marcia L. Hale/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Melissa Green ( CN=Melissa Green/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ:UNKNOWN
+
+ TO: D. Stephen Goodin ( CN=D. Stephen Goodin/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Mary E. Glynn ( CN=Mary E. Glynn/OU=WHO/O=EOP @ EOP [ WHO 1 )
+
+
+ READ: UNKNOWN
+
+ TO: Diana Fortuna ( CN=Diana Fortuna/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ: UNKNOWN
+
+ TO: Deborah L. Fine ( CN=Deborah L. Fine/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ: UNKNOWN
+
+ TO: Rahm I. Emanuel ( CN=Rahm I. Emanuel/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: James T. Edmonds ( CN=James T. Edmonds/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ:UNKNOWN
+
+ TO: Elizabeth Drye ( CN=Elizabeth Drye/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ: UNKNOWN
+
+ TO: Michael Deich ( CN=Michael Deich/OU=OMB/O=EOP @ EOP [ OMB 1 )
+ READ: UNKNOWN
+
+ TO: Betty W. Currie ( CN=Betty W. Currie/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Dorothy K. Craft ( CN=Dorothy K. Craft/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ: UNKNOWN
+
+ TO: Sabrina Corlette ( CN=Sabrina Corlette/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Barbara Chow ( CN=Barbara Chow/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Holly D. Carver ( CN=Holly D. Carver/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Paul R. Carey ( CN=Paul R. Carey/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Phillip Caplan ( CN=Phillip Caplan/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Dennis K. Burke ( CN=Dennis K. Burke/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ: UNKNOWN
+
+ TO: Susan A. Brophy ( CN=Susan A. Brophy/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Alison E. Bracewell ( CN=Alison E. Bracewell/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Jill M. Blickstein ( CN=Jill M. Blickstein/OU=OMB/O=EOP @ EOP [ OMB 1 )
+ READ:UNKNOWN
+
+ TO: Marsha E. Berry ( CN=Marsha E. Berry/OU=WHO/O=EOP @ EOP [ UNKNOWN 1 )
+ READ:UNKNOWN
+
+ TO: Kris M Balderston ( CN=Kris M Balderston/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ:UNKNOWN
+
+ TO: Eli G. Attie ( CN=Eli G. Attie/OU=WHO/O=EOP @ EOP [ WHO 1 )
+
+
+ READ: UNKNOWN
+
+ TO: John C. Angell ( CN=John C. Angell/OU=WHO/O=EOP @ EOP [ WHO]      )
+ READ: UNKNOWN
+
+ TO: Barry B. Anderson (   CN=Bar~y   B. Anderson/OU=OMB/O=EOP @ EOP [ OMB ] )
+ READ: UNKNOWN
+
+ TO: Pauline M. Abernathy ( CN=Pauline M. Abernathy/OU=OPD/O=EOP @ EOP [ OPD ] )
+ READ: UNKNOWN
+
+ TEXT:
+ Attached are apparel agreement background materials.  Includes one-page
+ summary, one-pager on details of agreement,  two-pager on timeline of "No
+ Sweat" initiative and list of members to partnership.
+
+ ==================== ATTACHMENT   1 ====================
+ ATT CREATION TIME/DATE:   0 00:00:00.00
+
+ TEXT:
+ Unable to convert ARMS_EXT: [ATTACH.D7]MAIL451723302.116 to ASCII,
+  The following is a HEX DUMP:
+
+ FF5750437D090000010A020100000002050000009B5800000002000081FFE735E453DDDEA6E819
+ CA7FC7C7DD16BBF43C753DE064CF494844F68FCACBD41436DEA2D23A4E421A2912D9D6254C82F6
+ 1B2E4867147E5105CDEB4A74D38EA48D743DF26C03045CAC78A5E99BD874D675689EOFD98B95A6
+ 3F375D8EOF83A3F7A4F6C6A60DOD45C4AB54B48FB24E19E9ACC75DO05E4C61C2D5FBCB8C4D5874
+ D80097DDB654895089617AFA6C05EBDCA67C8EB4ED20BE73512CAF1F5F04EC7D4EFD1F478DB8AO
+ 014539C15AEF815BF6D231497594774DF9593C686CF578D9DC12DF4597DB4912690A5C88F080CB
+ A883DD906E7077AOAF531E12835ACD136B5771D9C9D227FOCEBD22C3CA35B9CC588D5BF7551F24
+ 295A9DFE4B232EF86E02FA871FAC6047A92C802661AB612AEE17A4C6903E8BB5077CB5A325E806
+ 5D372EF1006ABOE940C2DE1C81E8057DD4FE346F8DDC58AD5831DF8C3D60A8DOC8C394F11BB04B
+ 40CA415EEE66313DD71D752564E19204F3BE59A4AOCEA238B379026B2F97209EF8A599C487535D
+ F043DFC195CCB92C3A521299A910E7A298FA51CAACDOC7144B03411669D49BE01FCA3A44BBC4F1
+ 75491AE1657DEE1C2A3B41FB9873F6597ED8C04CAE41C97FE75A51DE7B5AC6E8412614EBF9672E
+ D1C2AAE50389B5CF5F82242E8327AOC781AOA8C309CCBBCD07A3A3D5C68AE6A57E8C2BFC5COCOB
+ 149777452902003B00000000000000000000000823010000000B0100003A050000005511000500
+ 4E0000004506000009250100000006000000930600000B30040000006000000099060000005504
+ 00040042000000F9060000087701000000400000003B070000083401000000140000007B070000
+ 0802010000000F0000008F070000004500000100020000009E07000008050100000008000000AO
+ 0700000B7B0200000028000000A80700000B7B0200000060000000D00700000B78010000006000
+ 00003008000000000000000000000000300800000055020001003C000000900800000000000000
+ 000000000090080000000000000000000000009008000000000000000000000000900800000000
+ 000000000000000090080000000000000000000000009008000000000000000000000000900800
+ 000000000000000000000090080000000000000000000000009008000000000000000000000000
+ 900800000000000000000000000090080000000000000000000000009008000000000000000000
+ 000000900800000000000000000000000090080000000000000000000000009008000000000000
+ 0000000000009008000000000000000000000000900800000942010001001DOOOOOOCC08000000
+ 000000000000000000CC08000000000000000000000000CC08000000000000000000000000CC08
+ 000000000000000000000000CC08000000000000000000000000CC080000000000000000000000
+ 00CC08000000000000000000000000CC08000000000000000000000000CC080000000000000000
+ 00000000CC08000000000000000000000000CC08000000000000000000000000CC080000000000
+ 00000000000000CC08000000000000000000000000CC08000000000000000000000000CC080000
+ 00000000000000000000CC08000000000000000000000000CC0800OOOOOOOOOOOOOOOOOOOOOOCC
+ 08000000000000000000000000CC08000000000000000000000000CC0800000000000000000000
+ 0000CC08000000000000000000000000CC08000000000000000000000000CC0800000B3022000C
+ 004EOOOOOOE908000000000000000000000000E908000000000000000000000000E90800000B30
+ 0100000046000000370900000098430061006E006F006E0020004C004200500038004900490049
+ 005200000000000000000000000000000000000000000000000000000000000000000000000000
+ 0000000000000000000057494E53504F4F4COOOOOOOOOOD4019401C80090019001C800D4019401
+                                                             Hex-Dump Conversion
+               PRESIDENT CLINTON ANNOUNCES APPAREL INDUSTRY
+                          PARTNERSHIP AGREEMENT
+                                              April 14, 1997
+
+  TODAY, PRESIDENT CLINTON WELCOMES TO THE WHITE HOUSE THE MEMBERS
+  OF THE APPAREL INDUSTRY PARTNERSHIP TO ANNOUNCE A NEW AGREEMENT.
+  Leaders from the footwear and apparel industry, labor, nongovernmental organizations (NGOs), and
+  consumer groups have found common ground, agreeing to a Code of Conduct and independent
+  monitoring systems that will assure Americans that the clothes and shoes they buy are made under
+  decent and humane working conditions. The Partnership also agreed to recruit others in the industry
+  and to develop an independent association to assure compliance and inform consumers about the Code
+, and which companies comply.
+
+ THIS AGREEMENT FOLLOWS FROM WHITE HOUSE MEETING LAST YEAR. On August
+ 2, 1996, the President and Vice President met with these parties to discuss the problem of sweatshops,
+ consumer concerns, and the need to join together to address these issues. The parties formed a
+ voluntary, industry-driven partnership that proposed to report back to the President its recommendations
+ for action.
+
+ ·      Participants in the Partnership include: Liz Claiborne; Nike; Phillips-Van Heusen; Reebok;
+        L.L. Bean; Patagonia; Tweeds; Nicole Miller; Karen Kane; UNITE; the Retail, Wholesale,
+        Department Store Union; Business for Social Responsibility; the Interfaith Center on Corporate
+        Responsibility; the International Labor Rights Fund; Lawyers Committee for Human Rights; the
+        National Consumers League; and the RFK Memorial Center for Human Rights.
+
+ THE PARTNERSHIP'S AGREEMENT IS THE FIRST OF ITS KIND. The agreement contains
+ the following components:
+
+        A Strong Workplace Code of Conduct that companies will voluntarily adopt and require their
+        contractors to adopt, which, among other things, includes:
+        ·      Prohibitions against child labor, worker abuse or harassment, and discrimination;
+        ·      The recognition of workers' rights of freedom of association and collective bargaining;
+        ·      A minimum or prevailing industry wage, a maximum 60-hour workweek, and a cap on
+               mandatory overtime; and
+        ·      A safe and healthy working environment.
+
+        Independent ·External Monitors to conduct reviews of company policies and practices and to
+        verify that the company is in compliance with its obligations and commitments under the Code
+        of Conduct. Companies will also maintain an internal monitoring system that outlines the
+        obligations each company will undertake to ensure that the Code is enforced in its facilities and
+        its contractors' facilities both domestically and internationally.
+
+        Commitment to Form an Association Over the Next Six Months that will (1) recruit new
+        member companies which also will abide by the Code and implement independent monitoring;
+        (2) develop a reliable, independent means to provide for public confidence that the above
+        obligations are being met; and (3) develop a mechanism or seal of approval informing
+        consumers about which companies abide by the Code and monitoring.
+                                                                              Hex-Dump Conversion
+
+                         DETAILS ON THE APPAREL INDUSTRY
+                             PARTNERSHIP AGREEMENT
+
+
+
+The Apparel Industry Partnership agreement contains the following:
+
+      A Strong Workplace Code of Conduct that individual companies will voluntarily adopt and
+      require their contractors to adopt, which includes:
+
+      ·      The prohibition of employing any persons under the age of 15 (unless permitted by the
+             country of manufacture to be 14);
+      ·      Prohibitions against any worker abuse or harassment and discrimination;
+      ·      The recognition and respect for workers' rights of freedom of association and collective
+             bargaining;
+      ·      The requirement that employers pay at least the minimum or prevailing industry wage,
+             whichever is higher, and provide mandated benefits;
+      ·      The'requirement that workers be provided with a safe and healthy working environment;
+      ·      A cap on mandatory overtime to 12 hours per week and the regular work week of the
+             country (or 48 hours, whichever is less); and requiring a day off in every seven day
+             period; and
+      ·      The requirement that overtime be compensated for at the premium rate required in the
+             country or at least equal to their regular hourly compensation.
+
+      Independent External Monitors who will conduct independent reviews of participating
+      company policies and practices; provide company employees and contractors' employees with
+      secure communication channels to report concerns of noncompliance; audit production records
+      and practices to ensure compliance; conduct employee interviews and site visits; and verify that
+      the company is in compliance with its obligations and commitments under the Code of Conduct.
+
+      An Internai Monitoring System that outlines the obligations each company will undertake to
+      ensure that the Code of Conduct is enforced in its facilities and its contractors' facilities both
+      domestically and internationally.
+
+      A Commitment to Form an Association over the next six months that will:
+
+      ·      Recruit new member companies which also will abide by the Code and implement
+             independent monitoring;
+      ·      Develop a reliable, independent means to provide for public confidence that the
+             above obligations are being met; and
+      ·      Develop a mechanism or seal of approval informing consumers about which companies
+             abide by the Code and monitoring.
+                                                                            Hex-Dump Conversion
+
+                 CHRONOLOGY ON CLINTON ADMINISTRATION'S
+                         "NO SWEAT" INITIATIVE
+
+
+
+Summer 1993       Secretary Reich launches initiative to fight sweatshops.
+
+
+Spring 1994              National Conference on Garment Workers in NYC.
+
+
+Fall 1994                Labor Department hosts Retailer Roundtable in
+                         Washington, DC.
+
+
+August 2,1995            El Monte, CA sweatshop busted for "slavery."
+                         Sec. Reich steps up fight against sweatshops.
+
+
+September 1995           Retailer Summit in NYC on how to improve industry compliance with
+                         workplace standards.
+
+
+December 1995            Secretary Reich announces Trendsetter List -- retailers and manufacturers
+                         working to end sweatshops in the US.
+
+
+May 1996                 First Quarterly Enforcement Report Released by the Labor Department.
+
+
+May 1996                 DOL investigation reveals that Kathy Lee Gifford's
+                         clothing line being made in sweatshops. Gifford
+                         and Sec. Reich join forces to fight abuse.
+
+
+July 1996                Sec. Reich hosts Fashion Industry Forum. Kathy
+                         Lee Gifford, Cheryl Tiegs and 300 fashion industry
+                         representatives -- including retailers, manufacturers,
+                         designers, workers, labor and consumer advocates
+                         -- participate.
+
+
+Summer 1996       Legislation introduced on Capitol Hill to hold manufacturers and retailers liable
+                         for the conditions under which their contractors operate.
+
+
+August 2, 1996           President Clinton brings a diverse group of
+                                                                             Hex-Dump Conversion
+                             industry, labor, and human rights leaders to the
+                             White House to discuss industry conditions. The
+                             Apparel Industry Partnership is formed, and
+                             challenged by the President to take steps to assure
+                             that company products are made in compliance
+                             with acceptable labor standards, and to inform
+                             consumers that the products they buy are not made
+                             under exploitative conditions. The group agrees to
+                             report back in six months.
+
+
+Fall 1996                    Monitoring Workshops for manufacturers and retailers in New York,
+                             Chicago, and Los Angeles.
+
+
+Sept 1996-April1997          The Apparel Industry Partnership meets
+                             regularly with technical assistance from the
+                             Administration.
+
+
+October 1996                 Release of Volume 3 of the international child labor report, "By the Sweat
+                             and Toil of Children" on the impact of Codes of Conduct on child labor
+                             conditions in the apparel industry.
+
+
+December 1996                Department of Labor's "No Sweat" Initiative receives Innovations in
+                             American Government Award from the Ford Foundation and John F.
+                             Kennedy School of Government.
+
+
+January 1997          Clinton Administration has collected more than $10.4 million in back wages for
+                             minimum wage and overtime violations for more than 34,000 garment
+                             workers across the country.
+
+
+February 1997                Labor Department pledges funding to International Labor Organizations'
+                             initiative against child labor in the Pakistani soccer ball industry.
+
+
+March 25, 1997               Three companies added to the Trendsetter List, bringing the total to 34
+                             companies representing over 125 apparel lines and tens of thousands of
+                             retail stores.
+
+
+April 14, 1997               Apparel Industry Partnership presents its agreement and plan of action to
+                             end sweatshops to President Clinton at the White House.
+                                                              Hex·Dump Conversion
+
+              MEMBERS OF THE APPAREL INDUSTRY PARTNERSHIP
+
+
+
+
+Liz Claiborne, Inc.                            Reebok International, Ltd.
+Paul Charron, Chairman and CEO                 Paul Fireman, CEO
+[co-chair]
+
+                                               Retail Wholesale Department Store Union,
+National Consumers League                      AFL-CIO
+Linda Golodner, President                      Lenore Miller, President
+[co-chair]
+
+                                               Robert F. Kennedy Memorial Center for
+Interfaith Center on Corporate                 Human Rights
+Responsibility                                 Sandra Cuneo, Executive Director
+David Schilling, Director
+
+                                               Tweeds, Inc.
+International Labor Rights Fund                Martin Brill, President
+Pharis Harvey, Executive Director
+
+                                               Union of Needletrades, Industrial and Textile
+Kathie Lee Gifford                             Employees (UNITE)
+                                               Jay Mazur
+
+Lawyers Committee for Human Rights
+Michael Posner, Executive Director             Unable to Attend
+
+                                               Business for Social Responsibility
+LL Bean, Inc.                                  Robert Dunn, President and CEO
+Tom Harden, Senior Vice President
+                                               Karen Kane, Inc.
+                                               Lonnie Kane, CEO and President
+NIKE, Inc.
+Philip Knight, Chairman of the Board and CEO   Nicole Miller, Inc.
+                                               Bud Konheim, CEO
+
+Patagonia
+David Olsen, CEO
+
+
+Phillips-Van Heusen
+Bruce Klatsky, CEO
+
+

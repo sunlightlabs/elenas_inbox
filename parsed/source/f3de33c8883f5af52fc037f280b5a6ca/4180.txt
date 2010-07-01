@@ -1,0 +1,148 @@
+RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+CREATOR: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME: 5-SEP-1997 16:14:04.00
+
+SUBJECT:   Can we talk Monday am about the attached child support info?
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ]       )
+READ: UNKNOWN
+
+CC: Diana Fortuna ( CN=Diana Fortuna/OU=OPD/O=EOP @ EOP [ OPD ]       )
+READ: UNKNOWN
+
+CC: Cathy R. Mays (   CN=C~thy   R. Mays/OU=OPD/O=EOP @ EOP [ OPD ]   )
+READ: UNKNOWN
+
+TEXT:
+ I've laid out the issues in the attached -- maybe we can talk Monday
+morning at the team leaders' meeting? The urgency is that Shaw is holding
+a child support hearing on Wednesday (Judge Ross is testifying) and
+Haskins wants to start working with HHS right away on legislation
+providing a new range penalties -- weaker than the current "deny all
+federal child support funding" penalty -- for states who don't meet the
+October 1 computer systems deadline.     Shalala wants to work with the Hill
+to get cover for a weaker, but more likely-to-be-used penalty structure.
+We have to decide how tough we want to be on states.
+==================== ATTACHMENT      1 ====================
+ATT CREATION TIME/DATE:   .0 00: 00: 00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D76]MAIL44209574L.216 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043A20F0000010A02010000000205000000A82E0000000200009A5B51A010BF92EA3E44CE
+1229ACC030027E2ACF40FE53C6BD7B8AB4B715999A679913ED8C41652A5D507D782E86496BD30B
+E9DFF2879B9840257EF7CD5CC16D2934380A09BB9229FA882AE1DF523EOOE50577B5BD9D5D96FF
+03D09AEA62C94FC47F16BDE563E5C5E85540B18432043FCED19B6E67BF349862C6D6920822544A
+1E03079D09EBF37C944793B3086C2A92607A968ABE8C07E5B3FACA87089FC27B050D013BAF5D26
+6B31D634456EEODFB87D36A79419643C59E5575F8B87BA5B07EB6630E3B5D79DDC21D137F4D04D
+OFCCEDB33B103C732BDE3E8E2F8A092E4A46418CF526D45E19AED4E3C03468F827C2AAFF767DD3
+04EBECD413CODB95E3EFF792CEBDBB98D01F3F6C90CFAE15BCEB80AE9F7D675B3B9AA60FOECC5F
+93DD2F63BF3AFOD327B7E4F8E9BBF402FA5E6379B997F532EE6325A09C468477EC2D05782ECC60
+EEFDFE23E23D3AOD86E6B3FC7D68C2C13F62BA776A5351176762E88E2DA78E512552AB4CC17581
+5C727D90586EA3166115839CD051AF516D84CC5C7B182855C6289264034966ECEC41E2358E76EE
+A927DD3C70ADEBF40AOE5E7B78B1AFAC64894408691CD5CEE43770518C680B1B25469088AD5201
+6A105A4BF6DDF6110AAFD50554093ECOFF8B006EFDBOAC8D566438C5E9EB6BD3670B1091C1A613
+123B900B7D0200A100000000000000000000000823010000000B01OOOOCEOA0000005509000000
+4EOOOOOOD90B000009250100000006000000270COOOOOB3002000000280000002DOC0000087701
+00000040000000550C000008340100000014000000950C00000802010000000FOOOOOOA90COOOO
+00660200000002000000B80C000000610100000014000000BAOCOO0008110BOOOOOOC6000000CE
+OC000008050100000008000000940D00000968010000001A0100009CODOOOOOOOOOOOOOOOOOOOO
+00009COD0000000000000000000000009CODOOOOOOOOOOOOOOOOOO0000009CODOOOOOOOOOOOOOO
+00000000009COD0000000000000000000000009CODOOOOOOOOOOOO0000000000009CODOOOOOOOO
+00000000000000009COD0000000000000000000000009CODOOOOOO0000000000000000009CODOO
+00000000000000000000009COD0000000000000000000000009COD000000000000000000000000
+9COD0000000000000000000000009CODOOOOOOOOOOOOOOOOOOOOOO009CODOOOOOOOOOOOOOOOOOO
+                                                                               Automated Records Management System
+                                                                                       Hex-Dump Conversion
+
+                                   Child Support Computer Systems
+
+                                                 Background
+     Nine or more states are expected to fail to meet the 10/1/97 deadline for child support computer
+     systems. The 1988 Family Support Act required states to have "in operation a single, state-wide
+     automated data processing, information, and retrieval system" by 10/1/95; this deadline was
+     extended by two years in the· last Congress.
+
+     The states expected to fail are California, Michigan, Illinois, Pennsylvania, Ohio, Maryland,
+     D.C., Nevada, and Hawaii. Other possibilities include New York, Florida, Texas, Indiana,
+     South Carolina, and New Mexico. We won't actually know on October 1st how many states
+     have failed, because under the law states have until December 31 st to submit to HHS a state plan
+     amendment indicating that their child support system was completed and operating as of October
+     1st. HHS must then conduct certification reviews to assess states compliance.
+
+     Under current law, HHS must disapprove a state's child support plan if it does not meet the
+     computer systems requirement -- thus withholding all federal child support funds from those
+     states. (The federal government pays 66% of administrative child support enforcement costs, and
+     90% for computer systems costs before FY 1997 and 80% up to a total of $400 million for costs
+     thereafter.) In addition, HHS must reduce the TANF grant by between one and five percent.
+     California says it will lose $300 million in federal child support payments and between $37 and
+     $185 million in TANF payments, and state officials have asked for a White House meeting the
+     second week of September to press for legislation to assist them.
+
+     While by law HHS must withhold federal child support payments to non-compliant states, HHS
+     General Counsel believes HHS could establish, via an Action Transmittal, a process whereby
+     HHS would hold this penalty in abeyance on the condition that a state enter into and carry out a
+     corrective action plan. HHS does not have, but would like to have, the authority to impose
+     alternative penalties, i.e., withhold 5 - 10% of a state's federal child support funds. House Ways
+     and Means staff have indicated that they would like to work with the Administration to develop
+     legislation on this issue to be enacted as soon as possible.
+
+                                             Issues to Resolve
+     1.     Are we willing to press the 'nuclear button' and withhold all federal child support funds
+            from states that have not met the computer systems deadline?
+
+     2.     Are we willing through executive action to enter into corrective action plans with states
+            which do not meet the October I st deadline? What penalities and financial incentives
+            should those corrective action plans include?
+
+     3.     Shall we work with Congress on new legislation providing a range of penalties and
+            explicitly authorizing a corrective action plan process?
+
+     4.     Will we support California's proposal to allow a combination of systems linked
+            electronically to count as a single state-wide system?
+                                                                         Options
+
+Initial HHS                      RevisedHHS                       OMB (tentative)                  Alternative                      California
+1. Send warning letter to        1. Send warning letter to        1. Send warning letter to        1. Send warning letter to        1. Enact Legislation allowing
+states threatening loss of all   states threatening loss of all   states threatening loss of all   states threatening loss of all   a combination of systems
+federal child support funds if   federal child support funds if   federal child support funds if   federal child support funds if   linked electronically to count
+systems requirements are not     systems requirements are not     systems requirements are not     systems requirements are not     as a single state-wide system.
+met.                             met.                             met.                             met and witholding of
+                                                                                                   2 percent ofTANF funds per       2. Enact legislation which
+2. Issue "Action Transmittal"    2. Pursue Legislative            2. Pursue Legislative            section 409(a)(8) (states will   deems states approved who
+outlining Corrective Action      Strategy to Develop              Strategy to Develop              be required to provide           have entered into Corrective
+Plan Process.                    Calibrated Penalties.            Calibrated Penalties which       additional funds to make up      Action Plans with HHS.
+                                                                  include financial penalties      the shortfall).
+3. Negotiate Corrective          3. Issue "Action Transmittal"    and incentives as part of
+Action Plans with States.        outlining Corrective Action      Corrective Action Plan (i.e.,    2. Pursue Legislative
+                                 Plan Process (if needed).        lower federal match until        Strategy to Develop
+4. Pursue Legislative                                             progress made on CAP).           Calibrated Penalties which
+Strategy to Develop              4. Negotiate Corrective                                           include fmancial penalties
+Calibrated Penalties.            Action Plans with States.        3. Issue "Action Transmittal"    and incentives as part of
+                                                                  outlining Corrective Action      Corrective Action Plan (i.e.,
+                                                                  Plan Process (if needed).        lower federal match until
+                                                                                                   progress made on CAP).
+                                                                  4. Negotiate Corrective
+                                                                  Action Plans with States --      3. Issue "Action Transmittal"
+                                                                  include fmancial penalties       outlining Corrective Action
+                                                                  and incentives (i.e., lower      Plan Process (if needed).
+                                                                  federal match until progress
+                                                                  made on CAP).                    4. Negotiate Corrective
+                                                                                                   Action Plans with States --
+                                                                                                   include fmancial penalties
+                                                                                                   and incentives (i.e., lower
+                                                                                                   federal match until progress
+                                                                                                   made on CAP).Corrective
+                                                                                                   Action Plans with States --
+                                                                                                   include fmancial penalties
+                                                                                                   and incentives (i.e., lower
+                                                                                                   federal match until progress
+                                                                                                   made on CAP).
+
+

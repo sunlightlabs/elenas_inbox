@@ -1,0 +1,347 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: David Rowe ( CN=David Rowe/OU=OMB/O=EOP [ OMB ] )
+
+CREATION DATE/TIME:27-FEB-1999 14:49:39.00
+
+SUBJECT:   IDEA Regulations memo -- final version
+
+TO: Barry White ( CN=Barry White/OU=OMB/O=EOP@EOP [ OMB ] )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP@EOP [ OPD ] )
+READ:UNKNOWN
+
+TO: wayne Upshaw ( CN=Wayne Upshaw/OU=OMB/O=EOP@EOP [ OMB ] )
+READ: UNKNOWN
+
+TO: Tanya E. Martin ( CN=Tanya E. Martin/OU=OPD/O=EOP@EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Barbara Chow ( CN=Barbara Chow/OU=OMB/O=EOP@EOP [ OMB ] )
+READ: UNKNOWN
+
+CC: Leslie S. Mustain ( CN=Leslie S. Mustain/OU=OMB/O=EOP@EOP [ OMB ] )
+READ: UNKNOWN
+
+David Rowe ( CN=David Rowe/OU=OMB/O=EOP [ OMB ] )
+READ:UNKNOWN
+
+TEXT:
+FYI, attached is the final version of the IDEA Regulations memo.
+
+
+
+Danny Werfel has already forwarded the memo to everyone on his end; I
+presume Rob Nabors has done the same.
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0.00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D43]MAIL47994336K.036 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043BE090000010A02010000000205000000E559000000020000EACD3959CFD34COA1E6582
+FOE9D34COAE7716EEEE43D9083724C70E918A92622C78757FCOBC83481A43DFC49F874C16A23E9
+86BCA1D06661AC0149DC374D88600C50DF52405C84BA154B6A67488147F32ED8C73B80F7D76316
+2546CCEODDFB9E3E34A14A60CC9B1B019FA4COE24906517573196120B15BE413BA870AE69DB733
+038EC04C3820F141724B46880BA46BC74D7322F7EODC830E273EE935A2C9C284DF39A91A43D39F
+8FBBFFC08580C041F058365FCF64CA6A4F32CEFF256095D6EFEB70771C358DOFF6F3FB166E435D
+8C5B04BOE57A2D77B7F2322DFE32259910E53AF1BEC8531BE70B4F04E3304D5560CBFCA12B8DC4
+A42382BBB6E2E1C674040B0203048A4F8B6E4087BEAFA969C9C6A3415FFB8313D38E96B9AF654B
+6B35AFE5676E471FB9A108B1540624702CA857E4EABOE514E5455E1OA4A1EF8E2FF1F8913EB47D
+87AAOFDl197F4BAD9EF4F3A915978EAA7DC932617842CF6E4917B3A8CAADB343FC40156FB72B50
+1F6034C58916AEB7FD9856F9154B35DE463F8BE7EF3BB7322B332E521911EEFD30FE98888D03C1
+D1502339C2A03F51D4C298EDB96270674B6AB68434B98BC477709092C43FC78DC7E97406D63BF9
+313E036143E09F6F1BACDFAD28B887BODB869A7DE23FB2024E41455D6C1570291B5E653C17A323
+5D6EB248120200290000000000000000000000082301000000210100003E040000005503000000
+4E0000005F05000009250100000006000000AD0500000B300200000028000000B3050000087701
+00000040000000DB050000083401000000140000001B0600000802010000000F0000002F060000
+081001000000020000003E060000096D0100000017000000400600000805010000000800000057
+                                                                           Hsx-Oump Conversion
+
+                                        February 27, 1999
+
+
+
+MEMORANDUM FOR THE PRESIDENT
+
+FROM:                          Jacob J. Lew
+                               Bruce Reed
+
+SUBJECT:                       Individuals with Disabilities Education Act Regulation
+
+        OMB has before it for final clearance regulations to implement the 1997 amendments to
+the Individuals with Disabilities Education Act (IDEA). The initial proposed rulemaking in
+1997 generated substantial adverse reaction from the majority in Congress, from schools, and
+from States, primarily centered on the administrative burdens the draft rule would have imposed.
+ The current version is a reflection of a lengthy process of public comment and negotiation with
+Congressional staff and represents substantial compromise from the earlier version. States and
+Congress have also complained about the delay in publication of the final rule. In response to
+State and Congressional concerns over delay in publication, Secretary Riley has publicly
+committed to publication by March 5th.
+
+        We believe the current rule offers a balance between protecting children with disabilities
+and mitigating burden on the States and the schools within the context of a law which all agree is
+highly prescriptive. Involved majority Congressional staff have given preliminary indications
+that they believe this version of the rule is an adequate response to their concerns, but they note
+that some members may still attack the rule as providing insufficient local flexibility. While the
+NGA and its staff did not comment on the proposed rule, there is no guarantee they will support
+the final version; indeed, we would not be surprised if some Governors criticize the rule as overly
+prescriptive. On the other side of the issue, the disability community will be unhappy with some
+ofthe compromises the Department of Education has made since the proposed rule, and would
+object to any further significant changes. This memorandum explains the issues in more detail,
+describes the improvements made to date, and at the end, summarizes the equally contentious
+issue of IDEA funding.
+
+Background
+
+        In 1975, Congress passed the Education for All Handicapped Children Act, which
+guaranteed a "free appropriate public education" for all students with disabilities, and outlined
+the required procedures States and local school districts must follow in implementing their
+Special Education programs. That law, now known as the IDEA, has been amended several
+times since, most recently in 1997.
+                                                                                      Hex-Dump Conversion
+
+        The IDEA Amendments of 1997 were the result of extensive bipartisan negotiation with
+Congress. The reauthorization retained the civil rights component ofthe law that requires States
+to provide all children with disabilities (also referred to as special education students) with a free
+appropriate public education designed to meet their individual needs. This requirement applies
+without regard to the cost of the services or the size of the federal appropriation. The 1997
+amendments added a focus on improving educational outcomes for children with disabilities.
+For instance, they required States to develop educational achievement goals for children with
+disabilities, and to include children with disabilities on State and district-wide assessments.
+
+        IDEA has always been controversial because it imposes prescriptive and costly
+administrative requirements on States. Because of these statutory requirements, States want
+the federal government to pay a larger share of special education costs. In recent years,
+controversy has centered on IDEA's requirements regarding the discipline of special education
+students. States are not required to accept IDEA funding and its related federal mandates, but
+none have seriously threatened to withdraw from participation.
+
+IDEA Regulation Generally
+
+        The regulatory development process for this rule has been lengthy and contentious.
+After publishing the Notice of Proposed Rulemaking (NPRM) in October 1997, the Department
+of Education (ED) received extensive criticism from State lawmakers, school officials, and the
+majority in Congress. State lawmakers and school officials complained that the proposed rule
+was complex and difficult to understand, limited flexibility at the local level, and created overly
+prescriptive and costly requirements. The majority in Congress echoed these concerns, and
+charged that the rules created policies inconsistent with the carefully worked out bipartisan
+agreements that had been struck during the enactment of the IDEA Amendments of 1997.
+
+        In response to these concerns, the Department reviewed the entire rule to find ways to
+ease requirements, and to make the final rule easier to understand. The Department's rewrite of
+the rule involved extensive consultations with the Hill and members of the public, and resulted in
+a significantly different document. 'Nonetheless, the rule remains complex and prescriptive,
+largely (though perhaps not entirely) because the statute itself is of this nature.
+
+        ED hopes to publish the final rule in early March. Both Hill members and school
+officials have put great pressure on the Department to publish the rule as soon as possible.
+Without the rule, schools must implement their special education programs based only on their
+own interpretations of the IDEA statute. The rule will help forestall litigation resulting from
+local disputes over statutory interpretation.
+
+
+
+
+                                                  2
+                                                                                  Hex-Dump ConversIon
+
+
+        The Department believes, and we concur, that the final rule strikes an appropriate balance
+among the interested parties, including the disability community, school officials, State
+lawmakers, and members of Congress in both parties. As always, however, not all the interested
+parties will see things in this way. Some (mostly Republican) members of Congress and State
+officials will view the rule as skewed in favor of the disability community and/or as creating a
+need for additional IDEA funding. Conversely, the disability community will express some
+disappointment about changes made since the NPRM and would vehemently object to further
+retrenchments.
+
+Specific Regulatory Issues
+
+        Criticism of the draft rule focused on three issues: (1) discipline of disabled students who
+are violent or troublesome; (2) placement of disabled students during adjudication of disputes
+over current placement ("pendency"); and (3) services required after graduation. In discussion
+on the rewrite of the final rule, a final issue emerged concerning the inclusion of special
+education students in regular education classrooms. Each issue is discussed below.
+
+Discipline: The IDEA amendments allow school personnel to suspend students with disabilities
+for up to lO school days before the suspension is deemed a "change in placement." The
+amendments further require that when a "change in placement" occurs, the school district must
+convene the student's special education teacher, parent, regular education teacher, and principal
+to: (1) reevaluate the type and extent of educational services the student should receive during
+hislher suspension in order to best allow the student to achieve the goals in their Individualized
+Education Plan (IEP); (2) establish a "behavioral assessment plan" for the student (i.e., a set of
+services and strategies designed to address and improve the student's behavior), if one does not
+already exist; and (3) determine whether the student's behavior is a manifestation of his or her
+disability.
+
+        The statute does not specify whether the 1O-day trigger for a "change in placement" refers
+to 10 consecutive days ~, a suspension of 10 or more days in a row) or 10 cumulative days
+over the course of a school year~, five separate two-day suspensions). Under past practice,
+this language was interpreted to mean that "change in placement" services were not required
+unless the suspension was for 10 consecutive days or there was a "pattern of short-term
+removals." This consecutive interpretation, of course, was favored by most school officials,
+who wish to provide "change of placement" services in only the most extreme cases. Under this
+standard, however, school officials could abuse the "10 consecutive day" trigger by repeatedly
+suspending a student for less than 10 days to circumvent the "change in placement" requirement.
+ Although the "pattern of short term removal" standard was supposed to protect against such
+abuses, ED found that it was rarely invoked and did not provide sufficient protection.
+
+
+
+
+                                                 3
+                                                                                 Hex-Dump Conversion
+
+        In response to these concerns, ED defined" 10 days" in the NPRM as meaning 10
+cumulative days in a school year. Thus, under the NPRM, schools would have to provide
+"change in placement" services after 10 cumulative days of suspension, without regard to the
+"pattern of short term removal" concept. Not surprisingly, school officials and the majority in
+Congress strongly objected to this "cumulative day" definition because it would have triggered
+the expensive "change in placement" services more frequently.
+
+        As a compromise, the final rule requires the full panoply of "change in
+placement"services only after 10 consecutive days or a pattern of removals, but requires a less
+burdensome, streamlined set of services designed to address behavior problems after 10
+cumulative days of suspension. For example, under this streamlined procedure, schools will no
+longer have to determine whether the student's behavior is a manifestation of their disability.
+This compromise results in significant cost savings to schools compared to the NPRM scheme; it
+does, however, impose more costs than under prior practices, because it requires some (albeit
+streamlined) procedures when separate suspensions total more than 10 days. Conversely, the
+compromise provides the disability community with some services in the 10 cumulative day
+case; but the streamlined services are far less extensive than the full services promised in the
+proposed rule and will strike the community as inadequate.
+
+        In addition to these significant changes, the final rule also clarifies the following
+discipline issues which were points of confusion in the proposed rule: (1) school officials can
+suspend disabled children for more than 10 days in a school year; and (2) school officials do not
+need to provide any serv'ices to disabled children during the first 10 days of a suspension.
+
+Pendency: The IDEA statute sets up a hearing process to arbitrate between a parent and a school
+when they disagree over a child's placement (U, whether a child should be moved from a
+special education class to a regular education setting). Until the disagreement is settled, the
+statute requires the child to remain in hislher current placement unless the school and parent
+agree otherwise.
+
+        The contentious provision in the proposed rule would have provided the following: in the
+event that a parent sought to change the child's placement, and the hearing officer agreed with
+the parent, the child is immediately moved to the new placement. However, in the event that a
+school sought to change the child's placement, and the hearing officer agreed with the school, the
+child would remain in the original placement pending further review. Thus, hearing officer
+agreements with parents were to carry more weight than hearing officer agreements with schools.
+ Proponents of this provision argued that it was needed to equalize the balance of power between
+schools and parents in the implementation of special education services for children; opponents
+argued that the asymmetrical system was inconsistent with the statutory language and in fact
+skewed that balance.
+
+
+
+
+                                                4
+                                                                                      Hex-DiJmp Conversion
+
+        As a compromise, the final rule applies this asymmetrical "pendency" provision only if a
+child's case reaches a State (rather than district or county) hearing officer -- a level of review that
+occurs far less frequently. In all other cases, the child would remain in hislher original
+placement pending appeal, regardless of whether the child or the school won the initial decision.
+
+High School Graduation: In the proposed rule, ED required that schools reevaluate all graduating
+students to determine whether additional services should be provided; ED also provided
+non-binding guidance that schools could terminate services only if a student graduated with a
+regular diploma (i.e., not a certificate of attendance). ED included these requirements because
+of the concern that some school districts were "graduating" students with a less-than-regular high
+school diploma in order to stop providing services to them. However, schools do not have to
+provide any services to students once they "age out" of eligibility under state law. The "age-out"
+threshold varies among States -- ranging from age 18 to 21.
+
+        In response to complaints about this policy, the final rule eliminates the reevaluation
+requirement when students graduate with a regular high school diploma. The final rule,
+however, continues to maintain that schools may not terminate services to students who graduate
+with less than a high school diploma.
+
+"Least Restrictive Environment": A fundamental part of the IDEA statute is the belief that
+special education children should be placed, to the maximum extent possible, in the "least
+restrictive environment" -- which means in the general education environment. This
+requirement is designed to provide special education students with an opportunity to socialize
+with regular education students and to strive for the same academic goals as their nondisabled
+peers. At the same time, the statute reflects some understanding that placing some special
+education students in regular classrooms is too disruptive, because it requires teachers to spend a
+disproportionate amount oftime with special education students. The statute requires that: (1)
+whenever appropriate, special education students should be placed with their nondisabled peers;
+(2) schools can remove special education students from general education classrooms ifit is
+found that the student is not making satisfactory educational progress, even with supportive
+special education services.
+
+       To prevent abuse of the second requirement, the Department added to the final rule a
+provision (not in the NPRM) prohibiting schools from removing special education students from
+a general classroom only because teaching the student would require a modification to the
+standard curriculum. Majority Congressional staff initially opposed this change, but appear to
+have dropped their objections; minority staff support the provision.
+
+
+
+
+                                                  5
+                                                                                  Hex-Dump Conversion
+
+Special Education Funding
+
+         Most of the Governors and some members of Congress argue that the federal government
+is failing to live up to its "commitment" to provide States with 40 percent ofthe average per
+pupil expenditure for each disabled student. In fact, however, IDEA makes no such
+commitment; it only limits the maximum grant a State can receive in a year to this 40 percent
+level. The highest percentage ever reached was 12.5 percent in 1979; 1999 funding should
+cover about 11.2 percent.
+
+        Federal funding for special education State Grants (the primary federal special education
+program) has increased by $2.2 billion or 110 percent during this Administration, from $2.1
+billion in FY 1993 to $4.3 billion in FY 1999. These increases are much larger than the increases
+requested by this Administration. Congressional Republicans in recent years have seized on
+IDEA as a defining issue, which enables them to complain about "unfunded mandates" and
+"regulatory burdens" while supporting education funding. We believe this pattern will be
+repeated for FY 2000.
+
+        Whatever amount we might propose for IDEA, the Republicans will always be able to
+offer more, because they do not care about funding our other education and training priorities at
+the levels we seek. In response to Republican claims that we are underfunding IDEA, we have
+argued that many of our other high priority investments substantially aid children with
+disabilities. These children benefit, for example, from the smaller classes in our Class Size
+Reduction initiative, from modem school facilities in our School Modernization Bonds proposal,
+and from our early intervention initiatives such as America Reads and Head Start.
+
+         In the FY 2000 budget, we propose a targeted increase for special education of $116
+million to expand early intervention programs and to help States take advantage of research on
+effective practices, but virtually no increase for the major state grant. The total budget request
+for all parts of IDEA is $5.4 billion, of which $4.3 billion is for the state grant.
+
+       It should also be noted that the IDEA Amendments of 1997 provided that when federal
+funding reached $4.1 billion, an LEA could divert up to 20 percent of the federal funds it
+receives in a year that exceeds the amount it received in the previous year (i.e., 20 percent of their
+annual increase in federal funds) away from special education. Therefore, federal IDEA
+increases do not increase spending on children with disabilities dollar for dollar.
+
+Likely Reactions to Rule
+
+        As noted above, some Governors and members of Congress will criticize the final rule as
+overly prescriptive and/or will argue that it provides yet another reason for more Federal funding.
+Further substantial changes to the rule, however, would generate an equally negative reaction
+from disability advocates (who may already be unhappy about changes from the NPRM).
+Further changes also would require further delay which will generate criticism from all sides.
+
+
+                                                  6
+                                                                               Hex-Dump Conversion
+Recommendation
+
+        We propose to release the final rule early in the week of March 1st unless you wish to
+discuss it further. Secretary Riley would like to announce the rule publicly on or before March
+5th.
+
+
+
+
+                                               7
+
+

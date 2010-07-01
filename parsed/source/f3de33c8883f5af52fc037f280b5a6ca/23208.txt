@@ -1,0 +1,249 @@
+ RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+ CREATOR: Leanne A. Shimabukuro ( CN=Leanne A. Shimabukuro/OU=OPD/O=EOP [ OPD ] )
+
+ CREATION DATE/TIME:17-MAR-1999 10:36:12.00
+
+ SUBJECT:    draft Q/A for review
+
+ TO: Courtney O. Gregoire ( CN=Courtney O. Gregoire/OU=OPD/O=EOP @ EOP [ OPD ] )
+ READ: UNKNOWN
+
+ TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+ READ:UNKNOWN
+
+ TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO ] )
+ READ: UNKNOWN
+
+ CC: Jose Cerda III ( CN=Jose Cerda III/OU=OPD/O=EOP @ EOP [ OPD ] )
+ READ:UNKNOWN
+
+ CC: Paul J. weinstein Jr.   ( CN=Paul J. weinstein Jr./OU=OPD/O=EOP @ EOP [ OPD ] )
+ READ: UNKNOWN
+
+ TEXT:
+ Attached:
+
+ 1.   Gun legislation/lawsuits
+ 2.   Medical marijuana
+ 3.   Police brutality-- from this weekend.
+
+
+ ==================== ATTACHMENT   1 ====================
+ ATT CREATION TIME/DATE:   0 00:00:00.00
+
+ TEXT:
+ Unable to convert ARMS_EXT: [ATTACH.D27]MAIL42263728A.036 to ASCII,
+  The following is a HEX DUMP:
+
+ FF57504370040000010A02010000000205000000940D000000020000C4D7F915E79DBBA9005BOC
+ AD84E4755D8953DC8BBA7810C0697D51A994590E524E3EE7EA9759B820040E2D8COC1FC701678C
+ 43713EF1FEAA2F5503A186BD38953CB90127927CB99AOB205318065675282DEF6B6F8364D61EOC
+ BB1F0218CE987DDD2679DFD12A21DB101FF1298E886A94394A8274283626EC6933E1D437866CDC
+ C8C1EF7D5A25E12BD7247D3EOB15A402F2B7D71CF6532224113DF449B82CE266CF23D8AA6028F7
+ B72C9E15E19EAA041C43A3020BBFB65CF913C795F96D1EA5A617AF51578923BE668BEE416CBDCC
+ 32627022F2A7EB975678369246471D1072E1B9769BB230C35D780154E90551DB13D4EE3190CCOF
+ 590BD68FF011F5FE5C77DBE7E3A9F9931AEBA67F78A4E9BBF3E70CB435A49C1A1182041927FE6A
+ FF39288AD7F2E3F1A89E9704B1CA61BC821595768E2C8B37DF29DC8AB53F09FBEAC1277E0026E6
+ 4DA7B770B2738921554ABD502081E5COCD866CC778C9D38DB5E44151CDA14C3D63219DE47DAA95
+                        Hex-Dump Conversion
+
+                               Legislation on Gun Lawsuits
+                                     March 17, 1999
+
+
+Q:   What is your response to Representative Barr's NRA-supported legislation to block
+     lawsuits that cities have filed against the gun manufacturers? Do you have a
+     position on legislation proposed by Senator Boxer which give cities the right to sue
+     gun manufacturers and distributors? And do you have a position on the bill
+     introduced by Senator Schumer yesterday which would regulate the sale of guns on
+     the Internet?
+
+A:   The Barr legislation is an attempt by the gun lobby to avoid the very serious issues about
+     gun trafficking and gun safety raised by the cities' lawsuits. We are watching these suits
+     closely, and will do all we can to resist efforts that would prevent the cities from
+     presenting their evidence. Similarly, we would be supportive of efforts such as Senator
+     Boxer's that specifically allow cities to put such evidence before the courts.
+
+     While we have not yet had a chance to review the Schumer legislation, the President does
+     have a policy of no background check, no handgun. That is why among our top
+     firearms-related priorities for the year are to extend the Brady waiting period, and to
+     ensure background checks at gun shows. We will review the Schumer legislation with
+     this position in mind.
+
+     At the same time, of course, we will continue to press forward on our own efforts to stop
+     gun trafficking, ban violent juveniles from buying guns, and promote gun safety. We
+     will not -- and we hope individual states and cities will not -- back down to the gun lobby
+     on these issues.
+                      Hex-Dump Conversion
+
+                              Police Integrity Radio Address
+                                  Questions and Answers
+                                      March 13, 1999
+
+
+Q:   What more can you tell us about the policies you are announcing today?
+
+A:   The policies announced today will be contained in the President's 21st Century Policing
+     Initiative, which will soon be sent to the Congress as part of a larger crime bill. They
+     are:
+
+     (1) Integrity and ethics training. Currently, the COPS Office provides about $40
+     million to assist in the training of state and local law enforcement, including $24 million
+     for some 30 Regional Community Policing Institutes (RCPIs). The President's crime
+     bill will provide an increase of $20 million so that all our RCPIs will be able to provide
+     police integrity and ethics training. Currently, only two of the centers specialize in this
+     crucial training.
+
+     (2) Education assistance for police. The President's crime bill will authorize a new
+     $20 million scholarship program for current state and local police officers. This will
+     provide needed assistance to officers already on the force, who are seeking to advance
+     their education and skills. The crime bill also will extend the Police Corps program,
+     Which offers college scholarships in exchange for service in law enforcement.
+
+     (3) Improved minority recruitment. The President's bill will provide a $1 million
+     increase for targeted police recruitment and outreach efforts. Last year, we
+     provided $1 million for innovative recruitment strategies to community
+     organizations in New York, Los Angeles, and Memphis. The grant to New York,
+     for example, involves a partnership between East Brooklyn Congregations and
+     CUNY/John Jay College where they are developing a police magnet high school for
+     youth, as well as evening programs for adults in the largely Hispanic and African
+     American neighborhoods of East Brooklyn, New York.
+
+     (4) More citizen police academies. The President's crime bill will also propose $5
+     million to establish more citizen police academies around the country. In addition to
+     instructing residents on important police procedures, these academies can also help to
+     teach residents problem-solving skills that will help them address their local crime
+     problems. The citizen academies are part of an overall effort within the President's new
+     policing initiative to engage all sectors of the community to come together to fight crime.
+
+     All of the policies announced today are fully funded in our FY 2000 budget.
+
+
+Q:   New York City has hired thousands of officers with COPS funds. As a result,
+     they've put more police on their streets who in turn have engaged in more
+                         Hex-Dump Convcrsion
+
+     aggressive policing tactics. In view of the Diallo shooting, how can you say that
+     your COPS initiative is part of the solution to police brutality and misconduct?
+A:   Many cities have hired hundreds oflaw enforcement officers through COPS and have not
+     had similar problems. And the community policing strategies that this Administration
+     has encouraged have resulted in reduced community complaints against law enforcement
+     officials. For instance, large cities such as San Diego and Boston have significantly
+     increased the size of their police forces through COPS while increasing citizen
+     satisfaction with thepolice. Another good example is in nearby Prince George's County.
+      In P.G. county, they have increased their police force and even, substantially increased
+     traffic and investigative stops, while dramatically decreasing citizen complaints:
+     excessive force complaints are down by half, and officer/citizen contacts that result in
+     citizen injury are down by 70 percent compared to 1995.
+
+
+Q:   The President announced that the Attorney General would be convening a series of
+     meetings with law enforcement and community leaders. Who will be involved in
+     these meetings and what do you expect will come out of these meetings?
+
+A:   The meetings will bring together police chiefs, representatives of rank and file police
+     officers, and experts on police practices, along with civil rights and other community
+     leaders who know the concerns of the community regarding police misconduct. The
+     purpose is to discuss the best practices for preventing misconduct and excessive use of
+     force, develop recommendations for additional actions, and build greater trust between
+     the police and the communities they serve.
+
+
+Q:   The tragic shooting death of Amadou Diallo by members of the New York Police
+     Department has focused the nation's attention on the problem of police brutality. Is the
+     federal government investigating that matter?
+
+A:   The FBI, the U.S. Attorney for the Southern District of New York and the Justice
+     Department's Civil Rights Division have been working closely and actively with the
+     Bronx District Attorney's Office on the investigation. Further questions about the
+     federal government's role in these investigations should be directed to the Justice
+     Department.
+
+
+Q:   Is the Justice Department investigating the entire New York Police Department?
+
+A:   After the incident involving the beating of Abner Louima, the U.S. Attorney for the
+     Eastern District of New York, Zachary Carter, began a preliminary inquiry to determine
+     whether the Justice Department should invoke its pattern or practice authority against the
+     New York Police Department. This inquiry is ongoing, and the Department has had
+     discussions with the United States Attorneys for the Southern and Eastern Districts of
+     New York concerning the appropriate scope of the inquiry in light of the issues raised by
+                                  Automated Records Management System
+                                  Hex-Dump Conversion
+
+          the Diallo shooting.
+
+
+     Q:   What is the Justice Department's pattern or practice authority?
+
+     A:   Under the President's 1994 Crime Act, the Justice Department has the authority to file
+          civil suits against police departments that engage in a pattern of police misconduct. Using
+          that authority, the Department is currently investigating several law enforcement agencies
+          across the country. Those investigations may result in court orders or settlements
+          requiring police departments to change the way they operate -- so the problems of the
+          past are not the problems of the future.
+
+
+     Q:   Is that what the Justice Department is doing with the New Jersey State Police?
+
+     A:   Yes. The Justice Department is actively reviewing the New Jersey State Police to
+          determine whether state troopers have engaged in a pattern or practice of discriminatory
+          traffic stops.
+
+
+     Q:   What can the Justice Department do against individual police officers who engage
+          in misconduct?
+
+     A:   The Justice Department has the authority under criminal law to prosecute law
+          enforcement officers who engage in misconduct, including the use of excessive force. At
+          any given time, the Justice Department investigates several hundred allegations of
+          criminal police misconduct around the country. Since 1993, the Justice Department has
+          criminally prosecuted more than 300 law enforcement officers who have engaged in
+          police misconduct, resulting in over 200 convictions.
+
+                             Automated Records Management Systcllt
+                             Hc;x:-DUlnp COil version
+
+
+                                     Medical Marijuana Study
+                                         March 17, 1999
+
+
+     Q.   Today, the Institute of Medicine (10M) is releasing its study on medical marijuana.
+           Can you tell us what it says and whether you will adopt its recommendations?
+
+     A:   Earlier this morning, 10M released its report on medical marijuana. The ONDCP
+          Director McCaffrey asked for the study in January 1997, and we have been awaiting the
+          report for some time. 10M was asked to conduct a review of the scientific evidence to
+          assess the potential health risks and benefits of marijuana. The report contains six
+          specific recommendations that address:
+
+          �      Continued research into the physiological effects of cannabinoids (marijuana
+                 components);
+
+          �      Clinical trials of cannabinoid drugs for symptom management;
+
+          �      Evaluation of the psychological effects of cannabinoids in clinical trials;
+
+          �      Studies of individual health risks in smoking marijuana;
+
+          �      Clinical trials of marijuana use under limited circumstances for medical purposes;
+                  and
+
+          �      Short-term use of smoked marijuana under strict conditions' for patients with
+                 debilitating symptoms.
+
+          While we will carefully review the findings and recommendations of the report, we
+          would note that the 10M stresses the need for more research into the effects of using
+          marijuana. In particular, 10M emphasized in its report that smoked marijuana is a crude
+          drug delivery system that delivers a significant number of harmful substances, and that
+          research may yield alternative delivery systems of cannabinoids that are safer and more
+          reliable for some conditions.
+
+          More generally, however, our primary focus in this area must be to prevent youth use of
+          marijuana by ensuring that youth know about this drug's dangers. We will continue our
+          youth drug prevention efforts, including the Anti-Drug Media campaign, and continue to
+          send the clear message to kids that drugs are wrong, dangerous, and can kill you.
+
+

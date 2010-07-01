@@ -1,0 +1,109 @@
+ RECORD TYPE: PRESIDENTIAL     (NOTES MAIL)
+
+ CREATOR: Diana Fortuna ( CN=Diana Fortuna/OU=OPD/O=EOP [ OPD ] )
+
+ CREATION DATE/TIME: 5-MAR-1997 15:10:27.00
+
+ SUBJECT:   Draft executive order from appointees
+
+ TO: Angus S. King ( CN=Angus S. King/OU=WHO/O=EOP @ EOP [ WHO]     )
+ READ: UNKNOWN
+
+ TO: William H. White Jr.    ( cN=William H. White Jr./OU=WHO/O=EOP @ EOP [ WHO]   )
+ READ: UNKNOWN
+
+ TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+ READ: UNKNOWN
+
+ TEXT:
+ This is more problematic than I would have predicted. We would need to
+ call in OMB and NEC for advice before we could agree to this.  Also, I'm
+ not familiar with the line we have drawn on affirmative action quotas; the
+ draft calls for a set percentage of the federal work force to be people
+ with disabilities, so we would have to measure this against our policies
+ there.
+
+ Here is a briefing paper on it:
+
+ ==================== ATTACHMENT   1 ====================
+ ATT CREATION TIME/DATE:   0 00:00:00.00
+
+ TEXT:
+ Unable to convert ARMS_EXT: [ATTACH.D83]MAIL48664536L.016 to ASCII,
+  The following is a HEX DUMP:
+
+ FF5750435A040000010A020100000002050000009F11000000020000ECB6F729C377636CF7E7B8
+ 827F76344E27B853B6B769C514DEF62FBE06B50929C031B5320B1AA3753A2E1B41D5E788668DD1
+ D30FDD7C5287D9C3COF2BF07F2A111049DE10D5F3D9747DF1A3D9157E6FDD091D5876DB893FC30
+ 695070B1DF4E14F3CE8C5297D084639528E6514D71FC86D3F8B24FB8E62D61BF7601303FA5E3B1
+ 21E07ABDABBCA14A866683EBD499680DE1FE3B148B55BF72E1C09B7D7A350AB102042ACDC098CB
+ B30BC347A3201A20B73C4F41ABC4ACBCB612B9BCE43359E63C37C08EE6DBEF7BE56F19FEEF378A
+ D6810C5BBDFB9EC15FDFB030628F28AEB8COE46E96COD7B598D89B23FDA7824F22496A9EFA5787
+ 5766E95DEEBE771923923E30A34069E5D449E54EOAC01A295F7F768BCB205B30D61A2CF97E8421
+ FDA93E5F3536314B1FDAB85FBB828DOAA99700A6BE0058D27BC14F6445BF51FB1CF38A5C2D0464
+ F9840C6CB47D52C597B10F627BA9E4AB2993705120A66F7BDF329955ABB76F5A5C758F2DF9D808
+ 392AEA53E78A7D908Dl18F474FA7CE031717996AEC75DEB76239E10D84A9F1A77282CA7C3C531F
+ CAF9F49BD80DD50E5FFC21DOCBC9ADE9224D1AA24994F649AB2E572434791A350DE84A52AA6A20
+ 819155D7329DE3EC881E3320B3DE19FF6E7AC68607D448A744FBB7852DC61C993C80BF49760F4C
+ BEA9060FA102000800000000000000000000000823010000000B01000070020000005501000000
+ 4E0000007B03000009250100000006000000C90300000B300200000028000000CF030000087701
+ 00000040000000F703000008340100000014000000370400000802010000000F0000004B040000
+ 00984C006F00630061006C002000430061006E006F006E0020004C00420050002D003400000000
+ 000000000000000000000000000000000000000000000000000000000000000000000000005749
+ 4E53504F4F4COOOOOOOOOOE0019001C80090019001C800E0019001300000000000000000000000
+ 000000000000000000000000000000000000000000000000000000000000000000000000000000
+ 000000000000000000000000000000000000000000000000000000000000000000000000000000
+ 000000000000000000000000000000000000000000000000000000000000000000000000000000
+ 00000000000000000000000000000000000000000000000000000000005E00770E2800D61EC30F
+ 3908000011090000005AOOOB01008B143600540069006D006500730020004E0065007700200052
+ 006F006D0061006E00200052006500670075006C00610072000000000000000000010002005802
+ 0100000004002800000000000000000000000000000000000000011202002400A1000000A10000
+                                                                            Hex.-Dwnp Conversion
+      Comments on Draft Executive Order on Employment of People with Disabilities
+
+·      Would establish a goal of parity in the employment rate between people with and without
+       people with disabilities by the year 2006, including an interim goal of "a 3 percent annual
+       increase in the employment rate" of people with disabilities.
+
+       It is not clear whether parity is an achievable goal. And the annual improvement
+       expected appears quite ambitious. We should discuss with the NEC.
+
+·      Calls on federal agencies to "eliminate employment barriers to persons with disabilities,
+       such as discrimination and inadequate access to health care .... "
+
+       It is not clear that federal agencies are in a position to accomplish this without vastly
+       increased resources.
+
+·      Sets a target that 11 % of the federal workforce shall be persons with disabilities.
+
+       This must be considered in light of existing policies on targets for federal hiring.
+
+·      Would extend the Department of Defense's Computer/Electronics Accommodations
+       Program ("CAP") to the civilian agencies, with funding for the expansion to be "sought
+       within" DOD budget.
+
+       CAP is an excellent program that provides Defense employees with disabilities with the
+       latest in computer equipment to allow them to do their jobs. The program has a
+       showroom for equipment and serves as a central purchasing point so that federal
+       purchasing power is maximized. Since funding for the program is centralized, individual
+       departments do not have to bear the costs of a very expensive piece of computer
+       equipment for an employee. Last year, the DPC recommended to OMB that we expand
+       CAP to all federal agencies, but the change was not funded in the budget.
+
+·      In an otherwise innocuous section on encouraging small business and micro-enterprise
+       among people with disabilities, the draft refers to using "the full buying power of the
+       Federal government" to put people to work.
+
+       We would have to consider this in the context of current policy on federal purchases.
+
+·      Gives a one-year deadline for Labor and Commerce to develop a monthly measurement
+       of the unemployment rate of people with disabilities.
+
+       We would have to investigate how achievable this suggestion is, and budget implications.
+
+Suggested Talking Point: Thank you for all the hard work you have put into this package. As
+you can imagine, the specific points in the draft raise a number of budget and economic issues
+that we will want to discuss with you. We assume we should work with the President's
+Committee on Employment of People with Disabilities as we pursue these issues further.
+
+

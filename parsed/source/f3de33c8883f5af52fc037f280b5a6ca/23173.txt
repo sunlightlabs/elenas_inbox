@@ -1,0 +1,93 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Barry J. Toiv ( CN=Barry J. Toiv/OU=WHO/O=EOP [ WHO ] )
+
+CREATION DATE/TlME:15-MAR-1999 12:16:45.00
+
+SUBJECT:   today's medicare guidance
+
+TO: Christopher C. Jennings ( CN=Christopher C. Jennings/OU=OPD/O=EOP @ EOP [ OPD ]
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ:UNKNOWN
+
+CC: Elizabeth R. Newman ( CN=Elizabeth R. Newman/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+TEXT:
+I've added a couple q&a from last week's Medicare guidance to what you
+provided today.  pIs take a look, but I don't think it should be a problem.=========
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D75]MAIL40558397Y.036 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043F2040000010A020100000002050000005C2400000002000012DAOCCB43CA69002D0442
+17B37A82BBBD0462782734443C5FC5CF3352258029581EFDFAI0177A4289361B50EC8E272C7DBF
+B628AAIBEB58969C45BA3E1EC5604812D52195D06623466EF050BA3134987D64AOOAC35658C37D
+                                   Hex-DiJmp COilt'e:'Sion ·
+
+Q:   How do you respond to the GAO and CBO's contention that the President's
+          Medicare proposal does not represent real reform?
+
+A:   The President believes that preparing the Medicare program for the next century will
+     require both additional revenue and reforms to make the program more competitive. In
+     his State of the Union, he set out a plan to provide the necessary new funds and proposed
+     working on a bipartisan basis to develop appropriate reforms. The President believed
+     that it was appropriate to await the recommendations of the Commission before
+     proposing specific reforms. When the Commission makes its recommendations, the
+     President will evaluate them and take the steps most likely to bring about agreement both
+     on reforming the program and on giving it new revenues.
+
+Q:   How do you respond to Senator Breaux's contention that the White House should
+     send a signal to its members to support the Commission's recommendation?
+
+A:   The President has confidence in his appointees and he believes they should excersize
+     independent judgement in responding to the various proposals the commission is
+     considering and he will not ask his Commissioners to vote for something they do not
+     believe will strengthen the Medicare program; conversely, he will not ask them to vote
+     against something they believe will help the program.
+
+Q:   What is the President's response to the Patients' Bill of Rights legislation that will
+     be marked up by the Senate Labor Committee this Wednesday?
+
+A:   We have not seen the details of the legislation Senator Jeffords intends to mark up this
+     Wednesday, but all indications are that it will fall far short of what is necessary to meet
+     the needs of patients in a rapidly changing health care system. We understand that it will
+     not cover tens of millions of Americans; that it will not have a standard to prevent HMOs
+     from making arbitrary coverage decisions; and that it will have a wholly inadequate
+     mechanism to enforce patients'. It is our hope that Senator Jeffords and the Committee
+     work toward passing a strong, comprehensive, and bipartisan Patients Bill of Rights that
+     the President can sign.                                                 .
+
+Q.   Some have criticized the President for being "irresponsible" in proposing funding
+     for Medicare without any real structural reforms. Isn't this true?
+
+A.   Absolutely not. Unlike Republicans, he is acknowledging what every Medicare expert
+     knows: you cannot significantly extend the life of the Medicare Trust Fund without
+     additional financing. To get to 2020 by restructuring alone, a real cut in the program's
+     spending would be required, resulting in a growth rate that is 60 percent below private
+     spending growth per person. Reducing benefits is not a solution either: today, the value
+     of Medicare's benefits is about 80 percent below that offered to the typical employee.
+     Thus, some source of new financing is necessary to ensure that Medicare will be
+     financially secure when the baby boom generation begins to retire.
+                                           Hex-Dump COilversion .
+
+              The President has also made it clear that he would prefer to use the surplus for
+              Medicare in the context of broader reforms that include adding a long-overdue
+              prescription drug benefit. To that end, he outlined principles for improving and
+              strengthening Medicare, and hopes that the Commission's recommendations reflect
+              those principles. However, he believes that it would pre-empt and undermine the
+              work of the Medicare Commission for the Administration to weigh in on any specific
+              policy prior to the Commission's report.
+
+         Q    Will the President propose his own plan?
+
+         A,   The President always has that option. He would make that decision based on
+              whether it would enhance or detract from gaining a bipartisan consensus on reforms
+              that would strengthen and improve the program. He has made no decision on this
+              matter at this point.
+
+

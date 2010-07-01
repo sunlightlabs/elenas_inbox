@@ -1,0 +1,131 @@
+RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+CREATOR: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP [ OPD 1 )
+
+CREATION DATE/TIME:12-JAN-1999 11:37:21.00
+
+SUBJECT:    Welfare Announcements
+
+TO: Elena Kagan     CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ:UNKNOWN
+
+CC: Andrea Kane ( CN=Andrea Kane/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TEXT:
+And here's a list of our welfare announcements overall:
+
+(1) Welfare caseloads have fallen below 8 million (down 43% since he took
+office and 35% since he signed the welfare reform bill)
+
+(2) 10,000 companies have joined the Welfare-to-work Partnership,
+
+(3) The federal government has met our goal of hiring 10,000 welfare
+recipients by 2000 (we have to round slightly to get there)
+
+(4) The budget will include $1 billion more in Welfare-to-Work funds and
+to help those welfare recipients still on the rolls who face the greatest
+challenges get jobs and succeed in the work force, with a new emphasis on
+increasing the employment of low income fathers so they can better meet
+their responsibilities to their children.
+
+(5) Announce the availability of $240 million this spring for the third
+round of welfare-to-Work Competitive grants focusing on individuals with
+the greatest challenges (substance abuse, low basic skills/ESL,
+disabilities)
+
+(6) 25,000 more welfare-to-work housing vouchers,
+
+(7)   $150 million for Access to Jobs transportation,
+
+(8) $20 million for Individual Development Accounts,
+
+
+
+
+Andrea Kane
+01/12/99 10:36:01 AM
+Record Type:    Record
+
+
+To:      Bruce N. Reed/OPD/EOP, Elena Kagan/OPD/EOP
+cc:      Cynthia A. Rice/OPD/EOP
+Subject:         Welfare Caseloads
+
+Here's an updated summary of caseload numbers we sent speechwriters for
+SOU (I added a little more detail in the first paragraph for your
+purposes).  I'm faxing the state-by-state numbers and a spread sheet w/
+month by month changes.
+
+
+
+
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D15)MAIL496243213.036 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504314060000010A02010000000205000000EA1C0000000200002910F7D67A7A1D930286B2
+4DF80888F028150367E45A5169FC43D20E2AB7E8C5C6AA4455C34El710BE6679140B9743B2A759
+9246EC91B87EF7E7AA1F4913798B168A73008EA61EFEODF76CC7ED642A661C806E716CC6142DDl
+                                 Hex-Dump Conversion
+
+
+Caseloads Continue Their Record Declines: New caseload data show the welfare rolls have
+fallen below 8 million for the first time since 1969 and have fallen nearly 2 million since last
+year's State of the Union. The welfare rolls have declined by 43 percent since January 1993,
+when they stood at 14.1 million, and by 35 percent since their August 1996. The percentage of
+the U.S. population on welfare is at its lowest in 30 years -- 2.9 percent (in 1968 it was 2.8 ).
+The number of people on welfare is at its lowest in 29 years (in 1969 there were 6.7 million
+people on the rolls). [Note: we're counting years through 1998 since that's when data is
+from -- we could probably add another year if we wanted to count through 1999 since
+that's when we're releasing the data]
+
+                          Number of       Declin    Declin    Declin    President's Statements
+                          people on       e since   e since   e since
+                          welfare         taking    signing   prior
+                          (millions)      office    law       SOU
+                                          (#)       (#)       (#)
+                                          (%)       (%)       (%)
+
+ Oath of Office (1/93)    14.1
+
+ Welfare Bill Signing*    12.2            1.9                           "Today, we are taking an historic
+ (8/96)                                   14%                           chance to make welfare what it was
+                                                                        meant to be: a second chance, not
+                                                                        a way of life."
+
+ 1997 State of Union      11.9            2.2       .3                  "Now each and every one of us has
+ (10/96 data)                             16%       2%                  to fulfill our
+                                                                        responsibility -- indeed, our moral
+                                                                        obligation -- to make sure that
+                                                                        people who now must work, can
+                                                                        work. Now we must act to meet a
+                                                                        new goal: 2 million more people
+                                                                        off the welfare rolls by the year
+                                                                        2000."
+
+ 1998 State of Union     9.8             4.3        2.4       2.1       "Last year, aftcr a rccord four-year
+ (9/97 data)                             31%        20%       18%       decline in welfare rolls, I
+                                                                        challenged our nation to move 2
+                                                                        million more Americans off
+                                                                        welfare by the year 2000. I'm
+                                                                        pleased to report we have also met
+                                                                        that goal, two full years ahead of
+                                                                        schedule. "
+
+ 1999 State of Union     8.0**           6.1        4.3       1.8
+ (9/98 data)                             43%        35%       18%
+* These are the actual caseload numbers for August 1996, whIch were not yet avadable when the PreSIdent
+signed the bill into law. The President's August 1996 statements were based on May 1996 data.
+** The actual figures are just under 8 million (7,986,000).
+
+

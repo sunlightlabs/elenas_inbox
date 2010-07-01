@@ -1,0 +1,123 @@
+     RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+     CREATOR: William R. Kincaid ( CN;william R. Kincaid/OU;OPD/O;EOP [ OPD ] )
+
+     CREATION DATE/TIME: 7-0CT-1997 20:25:00.00
+
+     SUBJECT:   Strategy memo
+
+     TO: Elena Kagan ( CN;Elena Kagan/OU;OPD/O;EOP @ EOP [ OPD ] )
+     READ: UNKNOWN
+
+     CC: Laura Emmett ( CN;Laura Emmett/OU;WHO/O;EOP @ EOP [ WHO]    )
+     READ: UNKNOWN
+
+     CC: Michael Cohen ( CN;Michael Cohen/OU;OPD/O;EOP @ EOP [ OPD ] )
+     READ: UNKNOWN
+
+     TEXT:
+     ;;;;;;;;;;;;;;;;;;;; ATTACHMENT   1 ;;;;;;;;;;;;;;;;;;;;
+     ATT CREATION TIME/DATE:   0 00:00:00.00
+
+     TEXT:
+     Unable to convert ARMS_EXT: [ATTACH.D26]MAIL46735797X.216 to ASCII,
+      The following is a HEX DUMP:
+
+     FF5750435A040000010A020100000002050000003D130000000200003B48FA5C65D2E6E7852BE8
+     44771C8FC5B83B6158FB647FAOE71E53E33DE2EOA573F3CBC89306732CE1B4843053EF448BFFDA
+     6BB7F8ECFA9AD50AOA1DEBF52CD448CA4E492E55F78CDBF7AAA22AA9B49108544A1486E4481C89
+     795C87BAAA8B944E146E1E499D44E5D78F4F4125CC61C9FC9B798025EBB096930E05C7187AD2E8
+     75285CBEBEE1C69906F9FEDD899B1AD7DA6E24DF28C3B5D8908DC4F430B268D3DDF25A8540D289
+     18620A4EC4F70FBC3D81041ECOE6E5D4EC761F9434AB5D1CCE1B5776EC3EE8A10BBAE9D3BCEDF3
+     AECE57F9AE9AE61A541B5F6212D5BCD99EC534B3C01AC11B6521D9AC65F94C810BADC324746B3B
+     09837B67FA57825175719C72B8C98F67F689A574720AFFC7178EEF8733A8E25DAB5E8C496DF465
+     F3EC50A1639AD7CC70303E272120D1EAAE2EE6B1A836A6350963910EFE7A76E88FDAB46EF34234
+     B8B31DEDAA68780C1F459586B04219031CC493F5BE8DD44D85EB4547E96D31644CCF9A931CE8DE
+     092B5FE4BDD3D3CB8C432675815B460EF269062AB1952164BC470AE7F2706F154517F12DAAB6F3
+     B57403C57EAC227FCAOD93EBBB23B2F56F5A6C94CF46142D472E5FE15E476CF1B4AC82E040AA65
+     89321250941F383A1CDC06666CB9AOE16DDE41917D101B1B397C8E40C7278FC8BD2027D4A9F92D
+     1DE12C21A902000800000000000000000000000823010000000B01000070020000005501000000
+     4E0000007B03000009250100000006000000C90300000B300200000028000000CF030000087701
+     00000040000000F703000008340100000014000000370400000802010000000F0000004B040000
+     00984C006F00630061006C002000430061006E006F006E0020004C00420050002D003800200049
+     004900490052000000000000000000000000000000000000000000000000000000000000005749
+     4E53504F4F4COOOOOOOOOOD4019401C80090019001C800D4019401300000000000000000000000
+     000000000000000000000000000000000000000000000000000000000000000000000000000000
+     000000000000000000000000000000000000000000000000000000000000000000000000000000
+     000000000000000000000000000000000000000000000000000000000000000000000000000000
+     OOOOOOOOOOOOOOOOOOOpOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO 00000B0100002800D61EC30F
+     3908000011090000005AOOOB01008B143600540069006D006500730020004E0065007700200052
+     006F006D0061006E00200052006500670075006C00610072000000000000000000010002005802
+     0100000004002800000000000000000000000000000000000000011202002400A1000000A10000
+     000A0000001D01010002001E01010044001F010200020020010300440021010100440022010100
+     170023010100020024010100170025010100020026010100020027BB392300000000D400F41FOO
+     0000000000940108337C007800010200002601000003DDOA10008301040003000200211000DDDD
+     OBOB00030000040BOODDE0110C0000000008070COOEOE0110COOOO000060090COOEOE0110COOOO
+     0000B80BOCOOEOE0110C00000000100EOCOOEOE0110C0000000068100COOEOE0110COOOOOOOOCO
+     120COOEOE0110C0000000018150COOE04F63746F62657280372C8031393937CCCCCCCC4D454D4F
+     52414E44554D80464F5280454C454E41804B4147414ECCCC46726F6D3AE0110C0000000008070C
+     00EOE0110C0000000060090COOE04D696B6580436F68656ED0041500000B00090001380A880506
+     0001201500DOE0110C0000000008070COOEOE0110C000000006009OCOOE042696C6C804B696E63
+
+
+
+MEMORANDUM FOR ELENA KAGAN                                Automated Records Management System
+                                                          Hex-Dump Conversion
+From:          Mike Cohen
+               Bill Kincaid
+
+Subject:       Strategy for Maintaining and Expanding Diversity in Higher Education
+
+Over the past 24 hours we have consulted with Department of Education and NEC staff, and
+have reached out to the higher education community, to determine what additional steps (beyond
+the proposed mentoring and partnerships initiative) the Administration should take to maintain
+and expand diversity in the nation's postsecondary institutions. In the course of these
+consultations we have identified additional persons with whom further discussions would be
+valuable, and who could help us further shape and refine this strategy. For now, here is our
+thinking:
+
+I. Make the case for diversity.
+
+·       Particularly in the context of higher education, the President should speak even more
+        frequently and with greater focus than he does now on the importance of diversity. We
+        should consider devoting a town hall to this topic. Pushing this message will greatly
+        help higher education institutions sustain their individual efforts.
+
+·       Ask the Department of Education to asemble data to more convincingly make the case for
+        the educational value of diversity. The higher ed community remains firmly committed
+        to the importance of diversity, but they could use help bolstering gut instincts with
+        research.
+
+·       ACE is organizing an effort to get the entire higher education community to sign on to a
+        joint statement on the importance of diversity. A Presidential announcement of such a
+        statement could make a strong event.
+
+II. Identify and highlight effective outreach and recruitment efforts.
+
+·       Clearly there are some good examples of outreach and recruitment efforts that are
+        working in specific circumstances. We should identify and highlight these examples in
+        speeches and other forums.
+
+·       The Department of Education should be tasked with working with the higher education
+        community to determine what publications, guidebooks, or meetings (beyond
+        already-scheduled higher education group meetings) could be helpful in this regard.
+       discuss successful initiatives.
+III. Keep the focus off admissions policies per se.
+
+·      Many postsecondary institutions (other than those in the 5th Circuit, or in California,
+       which face different constraints) are quietly reviewing their affirmative action poliCies to
+       ensure that they pass muster under Bakke. Our sense is that they can best accomplish
+       this without high profile attention at the Federal level.
+
+
+
+
+                                                           Automated Records Management System
+                                                           Hex-Dump Conversion
+EMAILS RECEIVED
+ARMS - BOX 067 - FOLDER -003
+
+
+[10/07/1997 -10/08/1997]
+
+

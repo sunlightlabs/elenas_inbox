@@ -1,0 +1,197 @@
+     RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+     CREATOR: Sondra L. Seba ( CN=Sondra L. Seba/OU=WHO/O=EOP [ WHO 1 )
+
+     CREATION DATE/TIME: 1-OCT-1997 19:22:00.00
+
+     SUBJECT:   Women's Office Upcoming Events Grid
+
+     TO: Katharine Button ( CN=Katharine Button/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     TO: Robin Leeds ( CN=Robin Leeds/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     TO: Roberta W. Greene ( CN=Roberta W. Greene/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     TO: Janet Murguia ( CN=Janet Murguia/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     TO: Karen E. Skelton ( CN=Karen E. Skelton/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     TO: Sylvia M. Mathews ( CN=Sylvia M. Mathews/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     TO: Minyon Moore ( CN=Minyon Moore/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     TO: Susan M. Liss ( CN=Susan M. Liss/O=OVP @ OVP [ UNKNOWN 1 )
+     READ: UNKNOWN
+
+     TO: Ellen M. Lovell ( CN=Ellen M. Lovell/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     TO: Marjorie Tarmey ( CN=Marjorie Tarmey/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     TO: Audrey T. Haynes ( CN=Audrey T. Haynes/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     TO: Marsha Scott ( CN=Marsha Scott/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     TO: Tracey E. Thornton ( CN=Tracey E. Thornton/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+     READ: UNKNOWN
+
+     TO: Susan A. Brophy ( CN=Susan A. Brophy/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     TO: Lynn G. Cutler ( CN=Lynn G. Cutler/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     TO: Lucia F. Gilliland ( CN=Lucia F. Gilliland/O=OVP @ OVP [ UNKNOWN 1 )
+     READ: UNKNOWN
+
+     TO: Maria Echaveste ( CN=Maria Echaveste/OU=WHO/O=EOP @ EOP [ WHO 1 )
+
+
+READ: UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D64]MAIL45118737D.216 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504385330000010A020100000002050000008258000000020000757EOOB24C792C0024D989
+CAB99A9D92BF7D039A123FF37A22792C0005B772EBOC58F03D179F68BA360C3E31A3F6750B5053
+A4568E2759C4253B34DEC580259BA49CF12F987E46DCA9FC1963D32623C09937EEF15CB7CB5081
+4F5CEDA723E503A51BA4CD64CD343C6F70FE06004C28CD99C307478CD14A68DFF7451E1C29083B
+14C88427111ED157C257BD220EAF2A47D8E99D4DB48E5197096C6C33346026CB248B4E27EA9F26
+7750A535C49ACAEE5EEOA04AB320EB4B70E8D30B1BDBEDF243AD7DDAEB9B20549700548D8548F3
+DC98EA02244EBD1BEC363FEEOD84C3FB16990D93F07DD46218C28CD14BF04FD54F6A83FE7B11E6
+D713ADB7C270C5443C8756A5DD5E5F2C81E19CAE1AOA8DA50FF8AD4972BFDE85C4E45DA652C46D
+97ECFCE49C4A6DF69D578C33A96571384A2E6DCOA3BE9AD5427A873553DEC8ADED4A37820799BF
+E2BA88AD485B91D959165FB9B1E046ECFB3656DDAAA9BAB833792COOEE2AEFB6371548194E8E20
+F7D74F2DE1AC6BCDDAE47EC88521A7BFD4ABC6C37E8F926754324226FF6E0987A14C2C07F5B2B4
+9E2C667B8A98C65D85EDA061286743FOC5FFB83C3D540FD10A08CC8D7C851292A860C94CC19B85
+41BB463192FA1B4COA094152ACE4AC8E3BC7A545083F7E146D4B3D8B1EE379FF96E14193F4F21D
+E62214B49402006200000000000000000000000B30030000007EOO00005C0700000B3003000000
+78000000DA0700000B30030000006B000000520800000B30030000006BOOOOOOBD0800000B3003
+0000009A000000280900000B30030000007EOOOOOOC20900000B3002000000D1000000400AOOOO
+OB3002000000E4000000110BOOOOOB3003000000A6000000F50BOO000B3002000000F70000009B
+OCOOOOOB30020000000A010000920DOOOOOB30020000001E0100009COEOOOOOB30020000003101
+0000BAOFOOOOOB300200000043010000EB1000000B3002000000560100002E1200000B30030000
+00CF000000841300000B3003000000A4000000531400000B3003000000A4000000F71400000B30
+03000000C30000009B1500000B3003000000BC0000005E1600000B3003000000BB0000001A1700
+000B3003000000D9000000D51700000B3003000000A3000000AE1800000B3003000000A3000000
+511900000055030000003AOOOOOOF4190000092501000000060000002E1A000000552100020042
+000000341AOOOOOB30010000007A000000761AOOOOOB3001000000D9000000F01A000009310200
+000005010000C91BOOOOOB3001000000E4000000CE1C0000090B0200000011000000B21DOOOOOB
+30020000003DOOOOOOC31DOOOOOB300200000046000000001EOOOOOB300200000050000000461E
+000009310200000093000000961EOOOOOB3001000000B7000000291F0000060801000000E00300
+OOE01FOOOOOB3002000000BBOOOOOOC0230000004502000000020000007B2400000B3001000000
+7D0000007D2400000B300100000078000000FA2400000B30010000008D00000072250000094301
+0000001AOOOOOOFF2500000066020000000200000019260000006101000000140000001B260000
+09420A0000002A0000002F2600000942A50000001D00000059260000093101000000B700000076
+260000080201000000100000002D270000086E01000000030200003D2700000B3007000000AOOO
+00004029000008050100000008000000E029000006080100000066000000E82900000877010000
+00400000004E2A0000083401000000140000008E2A00000608010000002DOOOOOOA22AOOOOOB30
+01000000BCOOOOOOCF2AOOOOOB3001000000440000008B2BOOOOOB3001000000D3000000CF2BOO
+000B7B0200000072000000A22COOOOOB7B0200000084000000142D0000096801000000D0050000
+982D000000000000000000000000982DOOOOOOOOOOOOOOOOOOOOOO00982DOOOOOOOOOOOOOOOOOO
+000000982D000000000000000000000000982DOOOOOOOOOOOOOOOO00000000982DOOOOOOOOOOOO
+000000000000982D000000000000000000000000982DOOOOOOOOOO00000000000000982DOOOOOO
+000000000000000000982D000000000000000000000000982DOOOO00000000000000000000982D
+000000000000000000000000982D000000000000000000000000982DOOOOOOOOOOOOOOOOOOOOOO
+00982D000000000000000000000000982DOOOOOOOOOOOOOOOOOOOO0000982DOOOOOOOOOOOOOOOO
+00000000982D000000000000000000000000982DOOOOOOOOOOOOOO0000000000982DOOOOOOOOOO
+00000000000000982D000000000000000000000000982DOOOOOOOO0000000000000000982DOOOO
+00000000000000000000982D000000000000000000000000982DOO000000000000000000000098
+2D000000000000000000000000982DOOOOOOOOOOOOOOOOOOOOOOOO982DOOOOOOOOOOOOOOOOOOOO
+0000982D000000000000000000000000982DOOOOOOOOOOOOOOOOOO000000982DOOOOOOOOOOOOOO
+0000000000982D000000000000000000000000982DOOOOOOOOOOOO000000000000982D00000942
+010000001D00000068330000010000000400560000000000000026000000020000000000000003
+OCFFFF380044006F00630075006D0065006E0074005B0038005DOO000044006F00630075006DOO
+                                                                                                                             ' "
+                                                                                                                      ReX-Dump C            .. ,anagement System
+                                                                                                                                     onverslOn
+
+                                                     UPCOMING WOMEN'S OFFICE EVENTS
+                                                         (FOR INTERNAL USE ONLY)
+   p repare dbS ondra Sba
+             'Y        e                                                                                                      U dated 10/1/97
+                                                                                                                               JP(
+
+
+DATE          TIMES          ROOM            EVENILAITENDEES                                 #PP   SET-UP          SPEAKERS
+Wed. Oct. 1   11:00 am -     Indian Treaty   Women Leaders Meeting with Bill Lee,            TBD   Briefing        Bill Lee; Doris Matsui. (N aney Zirkin is
+CONFIRMED     TBD            Room            Presidential nominee for Asst. AG for Civil                           pulling meeting together)
+                                             Rights
+
+Mon. 10/6     8:30 - 10:00   Indian Treaty   Child Health Day Breakfast sponsored by the     100   10 tables of    FLOTUS ACCEPTED (arriving @ 9:30 am);
+CONFIRMED     am             Room            American Health Foundation                            10              Sec. Shalala (arriving @ 9:00 am); Audrey; Dr.
+                                                                                                                   Ernst Wynder; Maris Segal-Goodis; Marilu
+                                                                                                                   Henner
+
+Mon. 10(7     5:30-7:30 pm   Indian Treaty   Welcoming Reception for Audrey Tayse            200   Standing        VPOTUS ACCEPTED (arrival time TED);
+CONFIRMED                    Room            Haynes co-sponsored by BPW's Foundation               Reception;      FLOTUS ACCEPTED (arriving @ 5:30 or 6:00
+                                             and the Council of Presidents of National             Podium on       pm); Maria; Gail Shaffer; Susan Bianchi Sand;
+                                             Women's Organizations                                 nser            Audrey
+
+
+
+
+Tues. 10(7    3:00-4:00 pm   WHCC            Campaign Finance Refonn Briefing for women      40    Tables in       Audrey; WH point-of-contact
+                             Eisenhower      leaders                                               square
+                             Room                                                                  configuration
+                                                                                                   ; 40 chairs
+                                                                                                   around tables
+
+Wed. 10/10    TBD            TBD             Domestic Violence Awareness Month event         200   Breifing        VPOTUS TENTATIVE; Audrey; Bonnie
+TENTATIVE                                    focusing on prevention of violence in the                             Campbell; Bruce Reed; OPM Director
+                                             workplace, including domestic; Proclamation
+                                             signing; Issuance of guidelines for federal
+                                             agencies' prevention of Violence in the
+                                             workplace
+
+Thurs 10/16   TimeTBD        Gala            Gala Celebration sponsored by The Women in      TBD   On Ellipse      2FLOTUS CONFIRMED (arrival time TED)
+CONFIRMED                    Celebration;    Military Service for America Foundation, Inc.
+
+Fri. 10/17                                                                                                         N/A
+TENTATIVE     1:00-2:00 pm   WHTour          Charter Foundation members of the Women in      200   Meet @ gate     Maria; Audrey; Sec. Gober; Sec's Cohen,
+ CONFIRMED          2:30-4:00 pm:    Issues      Military Service for America Foundation, Inc.      200     Conference.     Albright and Herman to be invited
+                                    Briefing
+                                                                                                                            VPOTUS & 2FLOTUS CONFIRMED (arrival
+ Sat. 10/18         Time TBD        Memorial     Women in the military, families & friends to      30,000   Arlington       time TBD)
+ CONFIRMED                          Dedication   attend the ceremony to dedicate the Women in               Cemetary.
+                                                 Military Service for America Memorial
+                                                                                                                            POTUS & FLOTUS ACCEPTED
+ Sat. 10/18         Noon-1:30 pm    Memorial     Women in the military, families & friends to      30,000   Video
+ CONFIRMED                          Dedication   attend the ceremony to dedicate the Women in               message
+                                                 Military Service for America Memorial
+
+
+ Mon. 10/20         TBD             TBD          The First Lady will be video-taped accepting      200 at   Video           FLOTUS ACCEPTED
+ COFIRMED                                        the 1997 Pink Ribbon Award on behalf of the        next    message
+                                                 President in memory of his mother Virginia         day's
+                                                 Kelley. This video will be shown the next day     lunch
+                                                 at the SelfMagazine Award Luncheon in New
+                                                 York City.
+
+ TBD                TBD             TBD          Breast Cancer Awareness Month event focusing on    200     Radio Address   POTUS &lOR FLaTUS ACCEPTED
+                                                 technological advancements in mammography by               or Briefing
+                                                 NASA and NIH and support by corporate partners
+
+ALL EVENTS ARE TENTATIVE (WORKS IN PROGRESS) UNLESS SPECIFIED AS CONFIRMED. PLEASE CONTACT SONDRA SEBA, 6-7300 FOR ANY QUESTIONS OR CONCERNS.
+(f:\eventsup.cht)
+
+
+

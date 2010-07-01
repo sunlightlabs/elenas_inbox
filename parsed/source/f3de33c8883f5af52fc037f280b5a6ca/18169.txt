@@ -1,0 +1,24 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP [ WHO]     )
+
+CREATION DATE/TIME:16-DEC-1997 18:52:06.00
+
+SUBJECT:   SSA memo
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TEXT:
+Unable to convert ARMS_EXT: [MESSAGE.D46]MAIL434886947.316
+The following is a HEX dump of the file:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D46]MAIL434886948.316 to ASCII,
+ The following is a HEX DUMP:
+
+================== END ATTACHMENT    1 ==================
+
+

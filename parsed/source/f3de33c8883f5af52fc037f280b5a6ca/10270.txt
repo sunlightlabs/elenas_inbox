@@ -1,0 +1,23 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP [ WHO]     )
+
+CREATION DATE/TIME: 4-DEC-1998 18:21:06.00
+
+SUBJECT:   Law School Template
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ:UNKNOWN
+
+TEXT:
+Unable to convert ARMS EXT: [MESSAGE.D84]MAIL48284304Q.326
+The following is a HEX-dump of the file:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D84]MAIL40384304R.326 to ASCII,
+ The following is a HEX DUMP:
+
+================== END ATTACHMENT    1 ==================
+ .,

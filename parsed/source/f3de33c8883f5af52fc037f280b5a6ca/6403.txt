@@ -1,0 +1,131 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Thomas A. Kalil ( CN=Thomas A. Kalil/OU=OPD/O=EOP [ OPD 1 )
+
+CREATION DATE/TIME:23-FEB-1998 20:23:02.00
+
+SUBJECT:   First draft of H1-B memo
+
+TO: Anne H. Lewis ( CN=Anne H. Lewis/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Cecilia E. Rouse ( CN=Cecilia E. Rouse/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Julie A. Fernandes ( CN=Julie A. Fernandes/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Sally Katzen ( CN=Sally Katzen/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TEXT:
+Attached is the first draft of the H1-B memo to the POTUS.
+Please let me know if you have any comments -- and whether
+anyone else needs to look at it.  I tried to keep it short and sweet
+and not elaborate the "pro-con" on raising the cap -- since we
+are not asking for a decision.
+
+I am currently scheduled to meet with ITAA to discuss follow-up
+on the Berkeley conference on Wednesday at 3:15 p.m.
+I scheduled this meeting well before the H1-B flap.
+
+I planned to use this meeting to discuss the next steps on the
+issues raised by the conference (training incumbent workers,
+closer partnerships between industry and higher ed, science and math
+K-12, women and minorities in the IT industry, etc.) and not on the
+H1-B issue.    I will go ahead with this meeting as planned unless
+anyone thinks it is a bad idea -- people are welcome to join
+if interested.==================== ATTACHMENT     1 ====================
+ATT CREATION TIME/DATE:     0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D901MAIL43809345X.026 to ASCII,
+ The following is a HEX DUMP:
+
+FF5750434EOD0000010A02010000000205000000D71D00000002000051A5CB7CAF25E6AF13E6B7
+BFB17909596FBE8C029ABB3143B031E668A74064B2C5A30023D92B23C44A5E5E3DA3D605595641
+4F8C5C352EB2EB40FBED6DBE3DC1B71163BDD6DA16E0159C868ABD7F1B15B73653094F323B409D
+03E919B3B63345E55DAD51E8EA3E648C6684AOC0607CCAC916755EED791BA8C5D182EC8888FF8E
+ID7E3DOE97E8E8560F955BACACCB9B3AD8EOC2CAOCBE8BA896D100EDBAOAA06CAFBl13BF54CB68
+513020CD2D2ECD2BF734057B839320F86D5166000587DB2915F4F4FF280AC6A09E03F59AE4C868
+82785FF104E2AEDE5DB733B03DE432358987915B4D77A2E97CBF3F7A924C717FEC2A9F0183EDOC
+6DA556FC9C675010EDB9DF67F5759D4939AF9DC8EDF8CA216F7B352ABDAD8A22C1B5C559F51BBF
+20151113BDC3DFECE2753558545364E6E2BC1609FODD65A263B13DAAAF8ED2DF61575B6F17294D
+OA89A4B5757D474C4AFBE316D4C6853921EF85FE3C5D5351218FCAA52E6E68A986FE4DA6B82AOC
+0815EA058704AD5169EE36FA642144D58C55BE6C9F6E5918C6D2D55D944879A04A38545E1C802B
+59B1EF8A54F5DA49801B32AEl144B70B57B2F3303E92668E782CE797E1BD9AODC901BD9B73FE95
+8CBEBAD7FA0355DDA13COB2F5D3FB04B166ABC39~F81369161476B5032B4F2B17EF938DBDD44FC
+INFORMATION                                                         Hex-Dump Conversion
+
+                                     Draft February 23, 1998
+
+MEMORANDUM FOR THE PRESIDENT
+
+FROM:          GENE SPERLING, BRUCE REED
+
+RE:            ADMINISTRATION POLICY ON SKILLED TEMPORARY FOREIGN
+               WORKERS
+
+We are providing you with this informational memo on the "HI-B visa" issue because the New
+York Times recently ran a story on the basis of a leaked internal Administration options memo,
+and because this is an important topic to Silicon Valley companies. You will be interacting with
+high-tech CEOs during your California trip later this week, and may get asked about this. A
+suggested Q&A is attached.
+
+Current U.S. law permits 65,000 HI-B visas each year for skilled temporary foreign workers.
+The computer and health care industries are the primary users of the HI-B program. The annual
+65,000 visa cap was met for the first time in FY 1997, and is likely to become a legislative issue
+in this session of Congress. We expect to reach the limit again in Mya or June, several months
+before the end of the current fiscal year.
+
+The information technology (IT) industry, along with Senator Abraham, Representative Zoe
+Lofgren, and other members of Congress, support either the removal of or a significant increase
+in the HI-B cap. Unions, other worker organizations, Senator Kennedy, Congressman Dingell,
+and other members of Congress are likely to oppose any increase.
+
+A DPCINEC working group with representatives from Labor, Commerce, State, and INS has
+started to meet to develop Administration policy on:
+
+I.      Steps we can take to work with industry and institutions of higher education to address
+        the shortage of workers with IT skills;
+
+2.      Reforms of the HI-B program (e.g. a prohibition against laying off U.S. workers to
+        replace them with foreign workers); and
+
+3.      Whether or not to increase the H I-B cap from its current level of 65,000.
+skills of American workers, and not on proposing an increase in the cap at this point. As part of
+an overall package -- industry commitments to upgrade worker skills and reform of the HI-B
+visa system -- the interagency group is willing to consider an increase in the H 1-B cap if it is
+truly necessary. However, we do not think that it makes any tactical sense to start with this as
+our publicly stated position. Furthermore, even a 20,000 to 35,000 increase in the H-IB cap is
+not likely to solve the problem, given the projected growth in demand for workers with IT skills.
+
+Our next step is to meet with high-tech industry executives to develop an "action plan" that
+builds on a series of announcements that the Departments of Commerce, Education and Labor
+made at a January 1998 conference in Berkeley, California.
+
+Q. Mr. President, will your Administration grant more visas to high-skilled foreign
+workers who are in demand by high-tech industries?
+
+We h~ve made no decision on this issue. In reviewing our options, my Administration's first
+priority will be to ensure that American workers have the skills they need to fill these jobs, and
+that they have priority over any foreign workers with similar training. The growing demand for
+workers with high-tech skills shows how critical my agenda for life-long learning is -- HOPE
+scholarships to open the doors of college, tax credits for employer investment in life-long
+learning, and making sure that all of our children are technologically literate.
+
+
+
+
+                                                                Automated Records Management System
+                                                                Hex-Dump Conversion
+
+
+
+
+                                                2
+,.
+

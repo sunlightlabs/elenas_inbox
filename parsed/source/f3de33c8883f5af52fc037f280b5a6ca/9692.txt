@@ -1,0 +1,78 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Jose Cerda III ( CN=Jose Cerda III/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME: 11-0CT-1998 21:57:50.00
+
+SUBJECT:   Brady Language
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Michelle Crisci   ( CN=Michelle Crisci/OU=WHO/O=EOP @ EOP [ WHO]   )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP    [ OPD ] )
+READ: UNKNOWN
+
+CC: Leanne A. Shimabukuro ( CN=Leanne A. Shimabukuro/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ:UNKNOWN
+
+TEXT:
+Bruce/Elena/Rahm:
+
+Per my conversations w/Bruce and Elena today, attached please find the
+Brady languaged you requested.  OMB, DOJ and DPC have all seen it, and can
+live with it -- and, based on my discussion w/Handgun Control, I think
+they'll be fine with it, too.
+
+In short, the language would: (1) prohibit a fee for the next fiscal year;
+(2) allow records to be retained for 3 months; (3) provide for a
+transition period through 6/99; and (4) guarantee that NICS records are
+used only to ensure the integrity of the system.
+
+Jose'
+
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D93]MAIL416986488.226 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504301050000010A020100000002050000005EOD0000000200003DC2C7B9D94COB8F1BC75C
+E15785C6A2A2C9F7BFC8B39C1022B8E112A74600BB27CCF7B8EOE56F8D91D5F46B616C09299ABF
+AAD70DC6D8BOA01AF07B33596C3363474D87C81C199BCBB521F46575E57CE64BD4B181AC790C2E
+
+
+                                 Brady Handgun Insta-Check System
+
+
+
+    "None of the funds appropriated pursuant to· this Act or any other provision of law may be used
+    for (l) the implementation of any tax or fee in connection with the implementation of 18 U.S.c.
+    922(t); (2) any system to implement 18 U.S.C. 922(t) that does not require and re~ult in the
+    destruction, within three months, of any identifYing information submitted by or on behalf of any
+    person who has been determined not to be prohibited from owning a firearm. Implementation of
+    this retention limitation may be phased in over a period not to extend beyond June 30, 1999; at
+    the end of this period all identifying information for non-prohibited individuals that exceeds the
+    three month retention period must be destroyed. This section does not apply to State-operated
+    systems for handgun checks. Provided further, that in implementing the NICS the following
+    provision shall substitute for the requirement imposed on the system in 18 U.S.c. 922(t)(2)(C):
+    "All background check information maintained in the NICS by the FBI submitted by or on behalf
+    of a person which has been determined not to be prohibited from possessing a firearm shall be
+    destroyed by the FBI not later than 90 days after the NICS makes such determination. Such
+    information may be used by the FBI only for the purposes of protecting the privacy, security, and
+    integrity of the NICS and identifYing fraud in the use of the NICS. Such information may be
+    maintained as long as needed to pursue identified cases of misuse of the NICS. A knowing
+    violation of this provision shall be subject to the penalties provided for in 18 U.S.c. 924(a)(5).
+    The Attorney Glneral shall, within 90 days of the effective date hereof, promulgate regulation
+    to implement this provision.""
+
+
+
+
+                                                               Automated Records Management System
+                                                               Hex-DLIIIlp Conversion
+
+

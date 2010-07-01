@@ -1,0 +1,174 @@
+RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+CREATOR: Mary L. Smith ( CN=Mary L. Smith/OU=OPD/O=EOP [ OPD 1 )
+
+CREATION DATE/TIME:27-MAR-1998 12:50:52.00
+
+SUBJECT:   Changes to Daschle Bill on Equal Pay
+
+TO: Amy N. Finkelstein ( CN=Amy N. Finkelstein/OU=CEA/O=EOP @ EOP [ CEA 1 )
+READ:UNKNOWN
+
+TO: Charles M. Brain ( CN=Charles M. Brain/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Cecilia E. Rouse ( CN=Cecilia E. Rouse/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Thomas L. Freedman ( CN=Thomas L. Freedman/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: William P. Marshall ( CN=william P. Marshall/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Rebecca M. Blank ( CN=Rebecca M. Blank/OU=CEA/O=EOP @ EOP [ CEA 1 )
+READ: UNKNOWN
+
+TO: Tracey E. Thornton ( CN=Tracey E. Thornton/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Susan M. Liss   ( CN=Susan M. Liss/O=OVP @ OVP [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Jonathan Orszag ( CN=Jonathan Orszag/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Susan M. Carr ( CN=Susan M. Carr/OU=OMB/O=EOP @ EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Debra J. Bond ( CN=Debra J. Bond/OU=OMB/O=EOP @ EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Sally Katzen ( CN=Sally Katzen/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+CC: Janelle E. Erickson ( CN=Janelle E. Erickson/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Francine P. Obermiller ( CN=Francine P. Obermiller/OU=CEA/O=EOP @ EOP [ CEA 1 )
+READ: UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Jess A. Gupta ( CN=Jess A. Gupta/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TEXT:
+
+
+We met with Daschle's staff yesterday, and they pretty much agreed to the
+changes we proposed.  Attached is a draft of our proposed changes.   The
+changes are essentially the following:
+
+         1.       We are removing the data collection section (Sec. 4),
+and replacing it with a Sense of the Senate to be placed at the end of the
+bill that recognizes the need to collect data. This sense of the Senate
+does not reference any particular agency, form, or method of collecting
+the data.
+         2.       The Department of Justice proposed some new language in
+the Findings (Sec. 2)
+         3.       The Federal Government will be exempt from punitive
+damages.    Under Title VII and other fair employment statutes, punitive
+damages are not available in actions against the United States.
+         4.       Also we need to look into ways to reference funding, if
+at all, in Section 8. Remember that Sec. 5 on training; Sec. 6 on
+Research, Education, and Outreach; and Sec. 7 on the Award are still in
+the bill. There is no proposed language drafted on this yet.     OMB could
+you all provide some input on this.
+
+We are supposed to provide any changes to Daschle's staff by COB today.
+Please get any comments to me this afternoon.  If you do not have a copy
+of the Daschle bill, please let me know and I can get you a copy.
+
+FYI -- The event is tenatively scheduled for 2 p.m. on Thursday, April 2,
+with the Vice President.  ==================== ATTACHMENT 1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D9]MAIL40428458A.026 to ASCII,
+ The following is a HEX DUMP:
+
+FF5750435A050000010A020100000002050000004912000000020000A52EA7B4E48B8F048A4568
+2CEBBE11A8A57CC253E43D5E8C3C7EBC6DD2B6EOD06C55EFE7F21D54738D4B87871A6565337B90
+F8942DFCE6CC~9241BEFA53CD41A4D2544E5F2DA624AFC7C80D261835D6BOEACC9729D66D28B89
+OC7FOC36D187E2539533CAODD9803E3BE3054544594C637F53735FF64A054AFBFDBABC94C5803E
+330153D623A6FC14E2078374E920CBCEC057FOB18F48FB05D965301A592C857E7A2405CFD21D76
+EEE302AOC92393C49AA1D47B2D771D2B1C591926E2AD7EAAA1E5BA9F65F7B22F56484DD21C8DED
+B31475796D09EF56FFEE2AEB1743B1F71DOEBC98D67840F2B5799EC973160D127DF403E26392EO
+B948E23718083EB62F4ACE8E0457EA616EAF5B565ABF6D4E1F056AFB40FF4B0170665431603E89
+68E2B742F4EB4DF8E1A223E54448C6385CF4D7CAOA9CA36C041C96A99COD695D46B23D440669AE
+9F9B4710F22660B1055907CB91E57D7F2F8AD9C909ADOA23A365D9E998324FA1A3B087E316CC88
+D390111B80CC0125B6BEF404622A69AD95467D0889A73905AE853FEC5D7FB93B3C54FDFA7C3818
+917326DE6C2BOE44ECBD23473F667A3BC1633542CA510E9BD2D9BC367F830C4463A8B640A17E27
+5B43CE612BB458CF63EODFC8A2BD845E9C60F2E163069A3C947D35ABDEAAB35A087F4BF83D7C6D
+EFA49D710902000D00000000000000000000000823010000000B010000B6020000005505000000
+4EOOOOOOC1030000092501000000060000000F0400000B30020000002800000015040000087701
+000000400000003D040000083401000000140000007D0400000802010000000F00000091040000
+08050100000008000000A004000000000000000000000000A00400000055020000003COOOOOOA8
+04000000550300000028000000E40400000055010000004EOOOOOOOC05000000984C006F006300
+61006C0020004800500020004C0061007300650072006A00650074002000350000000000000000
+000000000000000000000000000000000000000000000000000000000057494E53504F4F4COOOO
+000000C800C8002C012C012C012C01C800C8003000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+0000000000000000000000000000000000000000000B0100002800D61EC30F3908000011090000
+005AOOOB01008B143600540069006D006500730020004E0065007700200052006F006D0061006E
+00200052006500670075006C006100720000000000000000000100020058020100000004002800
+000000000000000000000000000000000000011202002400A1000000A10000000AOOOOOOB40001
+                                                                                      Hex-Dump Conversion
+
+
+                       Proposed Changes to Daschle's Bill on Pay Equity
+
+Sec. 2. Findings
+
+Para. (2): Revise to read, "Even in the 1990s, women earn significantly lower pay than men
+for work on jobs that require equal skill, effort, and responsibility and that are performed
+under similar working conditions. These pay disparities exist in both the private and
+governmental sectors. In many instances, the pay disparities can only be due to continued
+intentional discrimination or the lingering effects of past discrimination."
+
+Para. (3): Add a subparagraph reading, "in many instances, may deprive workers of equal
+protection on the basis of sex in violation of the Fifth and Fourteenth Amendments"
+
+Para. (4)(B): Add two subparagraphs, "remedying the effects of past discrimination on the
+basis of sex and ensuring that in the future workers are afforded equal protection on the
+basis of sex" and "in the private sector, ensuring equal protection pursuant to Congress'
+power to enforce the Fifth and Fourteenth Amendments"
+
+Para. (5): Revise to read, "With increased information about the provisions added by the
+Equal Pay Act of 1963 and generalized wage data, along with more effective remedies,
+women will
+be better able to recognize and enforce their rights to equal pay for work on jobs that
+require equal skill, effort, and responsibility and that are performed under similar working
+conditions.
+
+Sec. 3. Enhanced Enforcement of Equal Pay Act Requirements
+
+Subsection (3)(a)(I): revise by adding, "; except that the United States shall not be liable
+for punitive damages." after "appropriate"
+
+Section 4 regarding collection of data will be removed from the bill and a Sense of the
+Senate will be added at the end of the bill:
+
+SEC. xxx       SENSE OF SENATE REGARDING INCREASED INFORMATION ON PAY
+               DISP ARITIES
+
+It is the Sense of the Senate that the President should take appropriate steps to increase the
+amount of information available with respect to wage disparities. In so doing, the President, or
+his designees, should consider ways of collecting this data that:
+
+(1) maximize the utility of the information for both the government and the public; while
+
+(2) protecting individuals' privacy and minimizing the burdens on reporting entities.
+
+
+
+
+        Automated Records Management System
+                Hex-Dump Conversion

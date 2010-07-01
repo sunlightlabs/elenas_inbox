@@ -1,0 +1,102 @@
+      RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+      CREATOR: Jose Cerda III ( CN=Jose Cerda III/OU=OPD/O=EOP [ OPD ] )
+
+      CREATION DATE/TIME: 2-JUN-1998 11:05:50.00
+
+      SUBJECT:   Coverdell Cost Estimate Chart
+
+      TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO]     )
+      READ: UNKNOWN
+
+      TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD]   )
+      READ: UNKNOWN
+
+      CC: Leanne A. Shimabukuro ( CN=Leanne A. Shimabukuro/OU=OPD/O=EOP @ EOP [ OPD]    )
+      READ: UNKNOWN
+
+      CC: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP @ EOP [ OPD]    )
+      READ: UNKNOWN
+
+      CC: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ] )
+      READ: UNKNOWN
+
+      TEXT:
+      EK:
+
+      I re-did the chart as we discussed last night.  It's still not perfect,
+      and there are too many unanswered questions -- but this gives us a worse
+      case scenario of costs.  To get in the 2 to 3 billion a year ball park, I
+      added all of the increases in year 1 and carried them forward ($2.124
+      billion a year, plus a one-time technology add-on of $89 million). Also,
+      I can't understand how you include the Drug-Free Borders bill and propose
+      doubling Customs drug budget without completely overlapping or duplicating
+      the costs.
+
+      Finally, I should note that while the Drug-Free Borders bill passed the
+      House w about 350 votes and Treasury wanted to be supportive, there are
+      some hard to swallow labor provisions in the bill (i.e., it allows the
+      Customs Commission to sidestep collective bargaining, if necessary, to
+      ensure that drug interdiction is not compromised) .
+
+      Jose'
+
+      ==================== ATTACHMENT   1 ====================
+      ATT CREATION TIME/DATE:   0 00:00:00.00
+
+      TEXT:
+      Unable to convert ARMS_EXT: [ATTACH.D60]MAIL40207035Y.126 to ASCII,
+       The following is a HEX DUMP:
+
+      FF575043BDOF0000010A02010000000205000000D9250000000200007D2CD1625E4E9636DOA53A
+      B881C895FOC24B8C260873FE85917379D3A1D75A4D95C4D621108D5BFA3D2E11E37E65E8A145BA
+      0158E6ADA7FBFF7FCBFF216D8F829C7BA98616E43A6DF9854679838B8CC8FB70AEBD02158B95D9
+      AB224AE5B6FD42E635452EC5AD227784E25049FDEE4F49F7B8E1F767530BOA5F1038EA36F9A28C
+      005CE4AE690BF5892B56ED66F3F59ABD4C742D200203F87675CBB2CCA09FB58B57B8D3DEBFD87E
+      EOCCBE174E99FF7DD1585DOD016D49B12CFA72994850D96CA7102CA7614380FFDA18B811F4BOD4
+      C7D317B4A136E09C1AA6FE9C750D7D8432B5063CBC119A4CFC53CCDFBF7DBFC1CD559A267E7E1D
+      A2B9AEEE37CB89806B3152E8D07289711BA5BE1D59425A2F907C3DEAFF2EA4EC50F9DF3F838AOO
+      CD73734C4A8AD0343238DCC193EF320BA1430C33E8E8A27195F9E6BE55304A14C40F756504DOEO
+      A4A829162F072B1F2ABAOF75CAF12FBAB9A70BEC8B5BFAF414F5DC716FOEAD508CDB4020CD5514
+                                                     Hex-Dump Conversion
+
+                           CoverdeU-Craig-Abraham Amendment
+                                     Cost Estimate
+
+
+
+          Current   Increase   FY99     FYOO         FYOI         FY02        FY03    TOTAL
+
+Custom    502M      +502       1004     1004          1004        1004        1004    5020M
+s
+
+Coast     401 M     +401       802      802          802          802         802     4010M
+Guard
+
+Defense   468M      +468       936      936          936          936         936     4680M
+
+Drug      1500M     +300       1500     1500          1500        1500        1500    7500M
+Enf.
+Agency
+FBI       825M      +206       1031     1031         1031         1031        1031    5155 M
+Drug
+Enf.
+
+Drug-Fr
+ee
+Borders
+          502M      +182       684      684          684          684         684     3420M
+Doublin
+g         NA        +89        89       0            0            0           0       89M
+Custom
+s
+Agents
+
+Tech.
+
+Other     10M       + 55       65       65           65           65          65      325M
+
+TOTAL     4008M     2213 M     6111 M   6022M        6022M        6022M       6022M   30.199
+                                                                                      Billion
+
+

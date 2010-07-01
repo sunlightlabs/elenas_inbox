@@ -1,0 +1,134 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Michael Cohen ( CN=Michael Cohen/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TlME:16-JAN-1999 13:15:55.00
+
+SUBJECT:   press paper for education leak
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ:UNKNOWN
+
+TEXT:
+Attached is draft press paper for Bruce to use for the leak of the SOTU
+accountability stuff. You should know that the same material is included
+in the SOTU and SOTU Race material on education I have prepared.====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D71]MAIL48233371S.036 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043E0040000010A02010000000205000000C72A000000020000A64E5F5C9BB3D985F57F26
+93E017ED6E708CD5A3D8B8C797356372CODD468E11C5C968A935F19FFE8FBDAOA7522E887821D7
+                                 Hex-Dump Conversion
+
+    PRESIDENT CLINTON'S PLAN TO STRENGTHEN ACCOUNT ABILITY FOR
+                       RESULTS IN EDUCATION
+
+        In his State of the Union Address, President Clinton will announce a package of
+proposals designed to hold students and schools to high academic standards, and to make sure
+that schools, school districts and states fulfill their responsibilities to provide students with a high
+quality education. These proposals will help ensure that in every state and in every' school,
+student achievement increases across the board, and that special attention is paid to help boost
+achievement for our most disadvantaged students. Specifically, the President will announce that
+he will send Congress legislation later this year, to reauthorize the Elementary and Secondary
+Education Act, that will require states and school districts participating in these programs to:
+
+Establish High Standards and Aligned Assessments. The 1994 enactment of the
+Administration's Goals 2000 program marked a sea-change in federal education policy by
+insisting that states set the same high standards for all students and measure student and school
+progress toward reaching the standards. President Clinton's new proposals will continue to hold
+states to this requirement, and begin another sea-change by instituting new measures to hold
+students and schools accountable for meeting the standards.
+
+Issue School Report Cards. States will be required to produce annual report cards, easily
+understood by and widely distributed to parents and the public, for each school, school district
+and the state as a whole. The report cards will include information on student achievement,
+teacher professional qualifications, class size, school safety and other factors that will help
+parents judge the overall performance of the schools. Where appropriate, the report cards will
+show academic achievement of ethnic and racial subgroups, to ensure accountability for helping
+all students to achieve. Thirty-six states currently publish or require local school districts to
+publish school report cards, and five additional states will begin the practice in the next two
+years. However, a recent report by Public Agenda shows that only 31 % of parents had seen these
+report cards, and that parents and taxpayers still have difficulty getting the information they need.
+ President Clinton's proposal will help ensure that parents in every state have access to the
+information they need to determine the quality of their schools and identify areas in which
+improvement is needed.
+
+End Social Promotion. States and school districts would be required to end social promotion --
+the practice of promoting students from grade to grade regardless of whether they mastered
+required material and are academically prepared to do the work at the next level. Students who
+are promoted without regard to their achievement fall even further behind their classmates, arid
+are more likely to lack basic skills upon high school graduation.
+
+To ensure that this requirement helps more students succeed, rather than simply increasing the
+number of students who are held back, states and school districts would be required to show how
+they will help students meet promotion standards on time by (l) implementing strategies to
+diagnose students early and identify and provide extra help to those who need it; (2)
+strengthening learning opportunities in classrooms with clear standards, small classes with
+well-prepared teachers, high quality professional development, and use of proven instructional
+                             Hex-Dump Conversion
+
+practices; (3) providing extended learning time for students who need extra help, including
+after-school and summer school; and (4) developing a serious action plan to give students who
+still do not meet the standards intensive intervention with appropriate instructional strategies,
+rather than simply having them repeat an entire grade.
+
+In 1996 President Clinton challenged every state and school district to adopt policies to end
+social promotion and require students to pass high school graduation exams. Twenty six
+states have high school exit exams, and last year four states adopted policies that linked
+promotion to state tests. A growing number of urban school districts, including Boston,
+Philadelphia, New York City and Washington D.C. are adopting similar policies. In
+Chicago, where they ended the practice of social promotion three years ago, students get
+extra help after school and those who fail end-of-the-year tests attend summer school.
+Citywide math and reading scores have go~e up three years in a row, with the largest gains
+coming from some of the most disadvantaged students. President Clinton's FY 2000 budget
+proposes to triple the funding from $200 million to $600 million for after-school and
+summer school programs that will give students the extra help they need to succeed.
+
+Put Qualified Teachers in the Classroom. According to the National Commission on
+Teaching and America's Future, a growing body of research shows that the knowledge and skills
+teachers bring to the classroom is one of the most important factors in improving student
+achievement. Yet too often states permit individuals who do not meet minimum standards for
+certification begin teaching, and school systems often assign teachers to teach subjects for which
+they lack adequate preparation. Approximately 50,000 teachers are hired by school districts each
+year on "emergency" certificates, which means they do not meet state certification requirements.
+Nearly one quarter of secondary school teachers lack even a minor in their main teaching field,
+and in schools with the highest minority enrollment, students have a less than 50% change of
+having a math or science teacher with a license and degree in the field. Students in schools with
+the highest concentrations of poverty -- those who often need the most help from the best
+teachers -- are most likely to be in classrooms with teachers who are not fully qualified.
+President Clinton's proposal will require states to adopt competency tests for new teachers,
+requiring them to demonstrate subject matter knowledge and teaching expertise. States and
+school districts will also be required to phase out, over five years, the use of teachers with
+emergency certificates and the practice of assigning teachers to subjects for which they lack
+adequate preparation. President Clinton's proposal will also provide resources to help states
+strengthen teacher certification standards, implement competency testing for new teachers,
+provide training to current teachers, and providing incentives to recruit more highly qualified
+teachers.
+
+Turn Around Low Performing Schools. States will be required to identify the schools with
+the lowest achievement levels and the least improvement, and begin to take corrective action to
+tum them around. These corrective actions, based on a careful assessment of each school's
+needs, would include steps such as extensive teacher training, support to improve school
+discipline, and the implementation of proven approaches to school reform. If these actions do
+not result in improved student achievement within 2 years, additional corrective actions must be
+taken, including permitting students to attend other public schools; reconstituting the school,
+                                    Automated Records Management System
+                                    Hex-Dump Conversion
+
+       fairly evaluating the staff and making staff changes as necessary; or closing the school and
+       reopening it as a charter school or with a new staff. Nineteen states currently take similar actions
+       to help improve low performing schools, and experience demonstrates that when these
+       interventions carefully implemented and are accompanied by the resources to support change,
+       schools improve and student achievement increases. The President's FY 2000 budget contains
+       $200 million to help states begin taking these steps immediately.
+
+

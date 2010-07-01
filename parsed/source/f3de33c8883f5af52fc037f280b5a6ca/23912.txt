@@ -1,0 +1,214 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Mary L. Smith ( CN=Mary L. Smith/OU=OPD/O=EOP [ OPD 1 )
+
+CREATION DATE/TIME:21-MAY-1999 12:47:57.00
+
+SUBJECT:   Katzen/Ruff/Maria Meeting on Attorney's fees in federal sector rule -- Pos
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Thomas L. Freedman ( CN=Thomas L. Freedman/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+CC: Laura Emmett ( CN=Laura ErrunettlOU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TEXT:
+This meeting has been postponed until next week.     .' OMB is working on a
+compromise position
+---------------------- Forwarded by Mary L. Smith/OPD/EOP on OS/21/99
+12:46 PM ---------------------------
+
+
+
+
+Mary L. Smith
+OS/21/99 10:51:09 AM
+Record Type:    Record
+
+To:      Elena Kagan/OPD/EOP, Bruce N. Reed/OPD/EOP
+cc:      Laura Emmett/WHO/EOP, Thomas L. Freedman/OPD/EOP
+Subject:         Katzen/Ruff/Maria Meeting on Attorney's fees in federal
+sector rule
+
+
+
+
+sally K. is having a meeting with Chuck Ruff, Josh and Maria today at 2
+p.m. in Chuck's office to discuss whether federal employees should be able
+to receive attorney's fees during the mandatory pre-complaint process when
+they initiate an EEO claim against their agency, as proposed by EEOC's new
+rule. Treasury objects to fees being available at this stage of the
+process even though they are available after a formal complaint has been
+filed.  OMB's staff position is that fees should be available.  Ellen
+Vargyas (EEOC) has told me that she thinks that she will lose a couple of
+the Commissioner's votes if the availability of fees is not left in the
+rule.  If you aren't coming to the meeting, what position would you be
+inclined to take? EEOC prefers fees being available because this process
+is at the most 90 days and if an employee wanted a lawyer (although they
+don't think many will), the lawyer could provide a "reality check" and
+help facilitate an early settlement.    Treasury thinks that lawyers will
+slow down the process.  FYI--the amount of fees government-wide for the
+rest of the administrative process was only about $5 million in FY7.
+Attached is a memo which sets forth the pros and cons.  Let know what you
+think.  Thanks, Mary
+
+
+
+
+==================== ATTACHMENT 1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D62)ARMS23775535T.136 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043340E0000010A02010000000205000000C941000000020000486196502E3AB323E4E94E
+B70B75E86FB16DC82FE79947D2C2520F93BA595854824FC5AD5F24CFD3591299CCA29B8B236802
+BDAADD43E7605A6F14A6F84286EC2BE95EAC995A908CFA6391ACD1209048D7F7B218BB3EA5493E
+                                                                           Hex-Dump Conversion
+                          PRE-COMPLAINT ATTORNEYS FEES
+                          FOR EEOC FEDERAL SECTOR RULE
+
+As you know, the EEOC Federal Sector Rule, which will make the EEO process for federal
+sector employees fairer and more efficient, is almost completed. On Tuesday, May 18, Sally
+Katzen held a meeting with the relevant agencies and was able to resolve almost all of the
+outstanding issues. However, Treasury and Commerce (and several other agencies) raised an
+objection to permitting attorney's fees at the pre-complaint process. Under the current rule,
+attorney's fees are not available for work done at the pre-complaint stage of complaint
+processing, but are available once an employee files a formal complaint with the agency.
+
+Sally has scheduled a meeting for Friday, May 21 at 2 p.m. in Chuck Ruffs office to get your
+views on whether attorney's fees should be available at the pre-complaint stage.
+
+Below are the agency's arguments against attorney's fees at the pre-complaint process and
+EEOC's arguments in favor of permitting fees.
+
+Arguments Against Pre-Complaint Fees
+
+The agencies argue that allowing EEOC to award attorneys fees for pre-complaint activities will
+lead to a significant increase in the incidence of attorney presence at the pre-complaint stage,
+which will in tum have the effect of increasing the backlog of cases and slowing down the
+process. There are several significant points that support this:
+
+       EEOC does not dispute that the effect of the provision will be to increase the presence of
+       attorneys at the pre-complaint stage. The fact that the plaintiffs bar has taken a strong
+       position in favor of this change is further evidence that there will be an increased
+       attorney presence pre-complaint.
+
+       Early resolution of disputes is more likely to occur in the absence of an attorney. This is
+       because the current pre-complaint process is both informal and non-adversarial. The
+       introduction of an attorney formalizes and makes more adversarial the process and thus
+       provides a disincentive for the agency to settle.        .
+
+       (i)     Counseling and ADR have proven to be extremely effective "informal" dispute
+               resolution mechanisms at the pre-complaint stage. The introduction of an
+               attorney would "formalize" the pre-complaint process, requiring for example, the
+               agency to bring their own attorneys into the process. The result would be to
+               reduces the effectiveness of these "informal" mechanisms.
+
+       (ii)   Two benefits of the current informal pre-complaint resolution process are its
+              speed and low cost. Involving attorneys with their added scheduling problems,
+              duty to formalize and forcefully advocate for their clients (on both sides) negates
+              this benefit.
+                                Automated Records Management System
+                                Hex-Dump Conversion
+       (iii)   The presence of attorneys will likely inhibit an open and objective discussion of
+               the parties' concerns, and become a vehicle in which attorneys attempt to gain free
+               discovery.
+
+       Under the current system, agencies have the option to settle with non-monetary solutions
+       (e.g., placing the employee in a different environment). When attorneys are in the
+       process at the pre-complaint stage, then all settlements would have to contain a monetary
+       element in order to appropriately compensate the attorney.
+
+       Agencies currently settle many meritless cases simply because the costs are low and they
+       want to minimize disruption in the workplace, even if unlawful discrimination is not
+       involved. Providing for attorneys fees in the informal process will raise the costs of
+       these settlements and thus send more meritless cases to the Commission.
+
+       Potential disputes over the amount of attorney's fees in the pre-complaint process will
+       complicate settlement negotiations with yet another issue for resolution.
+
+       The NPR initiative, which is just getting underway, will be looking for ways to decrease
+       the backlog. They will seek to identify the causes of the backlog and try to craft solutions.
+        According to Treasury, given that NPR has not started its work with agencies, it would
+       be inappropriate to take regulatory action.
+
+Arguments in Favor of Permitting Fees at the Pre-Complaint Stage
+
+       The pre-complaint process, while informal, is mandatory. It is unfair to disallow fees for
+       work done during a part of the EEO process in which a complainant must participate.
+
+       In response to agency arguments that introducing attorneys into the process at an early
+       stage will impede settlements of cases, EEOC believes that:
+
+               Access to counsel for federal employees is important because it will help them
+               better understand their rights and more effectively assess and structure settlement
+               options. Attorney representation is not something to be avoided.
+
+               There is no data suggesting that early attorney representation thwarts settlements.
+               EEOC's experience suggests that attorney involvement can make settlements
+               more likely since complaining parties will have both a more accurate view of the
+               merits of their claims and more confidence that the settlement process will serve
+               their interests.
+
+      EEOC has an extensive mediation program as part of its private-sector charge processing
+      program. While there is not the same distinction between pre- and post-complaint stages
+      in the private sector, mediation typically takes place early in the process. Attorneys are
+      welcome on behalf of both charging parties and respondents. EEOC's experience is that
+                                  Automated Records Management System
+
+    representatIOn can b e a very pOSItive factor III ach"levlllg settIements III th ese cases.
+                .                Hex:-Dumn Conversion                         .
+
+    There are no similar limitations on the availability of fees in other proceedings involving
+    federal employees. As EEOC pointed out in the preamble to the NPRM, OPM's Back
+    Pay Act regulations provide for the payment of fees in cases resolved during the informal
+    stage of the grievance process. In addition, MSPB's regulations do not contain
+    restrictions on attorney's fees.
+
+    There is no data on the extent of attorney representation at the counseling phase. EEOC
+    believes that representation will be relatively rare since it is not economically attractive
+    for attorneys to take on these cases on a contingent fee basis because, except in a highly
+    unusual case, not nearly enough money is involved. If complaining parties hire attorneys
+    and pay them on an hourly basis, it is likely that fees will be extremely low since most
+    people cannot afford - and do not choose to pay - fees in this fashion.
+
+    In response to arguments that substantial sums will be involved in satisfying the
+    voracious demands of attorneys, EEOC notes that attorneys fees awarded
+    government-wide in the administrative EEO process are low. In FY 97, the most recent
+    year for which EEOC has figures, only $ 4.838 million was paid in fees and costs in
+    connection with all EEO claims at the agency, Al, and EEOC appellate stages. Clearly,
+    most of these fees are for work done at the hearing and appellate levels. Even with an
+    aggressive attorney, it is hard to see how a substantial amount of fees could be incurred at
+    the pre-complaint stage unless the case is unusually complicated. In such a case, EEOC
+    argues that representation would be particularly appropriate. Furthermore, if
+    complainants are demanding exorbitant fees to settle at the pre-complaint stage, agencies
+    are free to simply say no.
+
+    Public comments in support of the proposal for pre-complaint fees included submissions
+    by: the Washington Lawyers' Committee for Civil Rights and Urban Affairs; Federally
+    Employed Women; National Employment Lawyers Association; Metropolitan
+    Washington Employment Lawyers Association; and several private law firms.
+
+            These comments focused on the arguments that fairness requires the payment of
+            fees since the pre-complaint process is mandatory as well as that early attorney
+            intervention can often expedite the early resolution of charges. As a sole
+            practitioner from Texas pointed out, "My experience is that attorney
+            representation in the early stages of the process leads to more timely settlements."
+             A law firm with an extensive practice on behalf of federal employees further
+            explained: "In addition to the legal imperative to pay such fees, there are sound
+            policy reasons to make the change proposed by the Commission. The
+            Commission should encourage, not discourage, Federal employees to seek the
+            advice of counsel before deciding whether or not to file a complaint of
+            discrimination, in preparing such a complaint, and in the ADR process. Attorneys
+            often provide a 'reality check' for employees and often enhance the early and fair
+            resolution of complaints."
+
+

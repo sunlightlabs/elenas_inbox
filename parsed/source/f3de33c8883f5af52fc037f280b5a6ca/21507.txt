@@ -1,0 +1,171 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Barbara Chow ( CN=Barbara Chow/OU=OMB/O=EOP [ OMB 1 )
+
+CREATION DATE/TIME:12-0CT-1998 15:39:22.00
+
+SUBJECT:   Bilingual -- revised
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Janet Murguia ( CN=Janet Murguia/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Maria Echaveste ( CN=Maria Echaveste/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Michael Cohen ( CN=Michael Cohen/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+CC: Wayne Upshaw ( CN=Wayne Upshaw/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+CC: Marjorie Tarmey ( CN=Marjorie Tarmey/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+CC: Sandra Yamin ( CN=Sandra Yamin/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Mindy E. Myers ( CN=Mindy E. Myers/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TEXT:
+This is Barry from Barbara's computer.
+
+
+
+Attached are revised versions of the two "report" options.  Revisions
+reflect Delia Pompa's edits for technical accuracy and sensitivities.
+Also attached is language for demonstrations of various techniques for LEP
+children.  This is a further fallback option if needed.
+
+Delia has reviewed all these and is comfortable with them, should they
+have to be used.==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:    0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D01MAIL459558487.226 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504370040000010A02010000000205000000D60E00000002000050171E27692DA8FDCB3307
+REPORT ON BILINGUAL EDUCATION PRACTICES
+
+Sec. ----. Subpart 2 of Part A oftitle VII of the Elementary and Secondary Education Act of
+1965 is amended by adding at the end thereof a new section 7137 to read as follows:
+
+"Section 7137. SPECIAL REPORT. (a) The Secretary shall carry out a report on education
+practices for limited English proficient children. The report will (1) identify at least 10 highly
+successful projects, including Transitional Bilingual Education Programs, Two-Way Bilingual
+Education Programs, and English immersion programs, funded from any source, to help limited
+English proficient students in high poverty schools attain proficiency in English and high levels
+of academic achievement, and (2) at least 10 less successful such projects. The report shall
+identify the features of each project that made it successful or unsuccessful, and s.hall specify the
+characteristics of the schools and communities in which the programs were conducted, and of the
+children.
+
+(b) The report in paragraph (a) shall be conducted with funds available to carry out section 7132.
+
+(c) The report is to be carried out by a respected, non-partisan organization outside the
+Department of Education, such as the National Academy of Sciences.
+
+Cd) The report is to be submitted by the Secretary to the President and to the Congress not later
+than September 30, 1999, with such interim reports as may be necessary.
+
+(e) The Secretary shall disseminate the findings of the report to State and local education
+agencies.
+
+
+
+
+The Managers note that there are a number of techniques in use to help Limited English
+Proficient children learn English and acquire academic skills rapidly and efficiently. Grantees
+under the Bilingual Education Act should have information on the features of program designs
+that work as well as programs that have not worked, in order to design the best programs to meet
+the needs of their children.
+
+The Act includes language directing the Secretary to develop a report on practices that work and
+those that have not worked, through a non-partisan organization, for use by grantees and to
+inform the Congress' deliberations on reauthorization of Title VII of the Elementary and
+Secondary Education Act in the next Congress ..
+
+
+                                                    Automated Records Management System
+                                                    Hex..DUlJ\P Conversion
+
+Sec. ----. Subpart 2 of Part A oftitle VII of the Elementary and Secondary Education Act of
+1965 is amended by adding at the end thereof a new section 7137 to read as follows:
+
+"Section 7137. SPECIAL REPORT. (a) The Secretary shall carry out a report on successful
+education practices for limited English proficient children. The report will identify at least 10
+highly successful projects, includingTransitional Bilingual Education Programs, Two-Way
+Bilingual Education Programs, and English immersion programs, funded from any source, to
+help limited English proficient students in high poverty schools attain proficiency in English and
+high levels of academic achievement. The report shall identify the features of each project that
+made it successful, and shall specify the characteristics ofthe schools and communities in which
+the programs were conducted, and of the children.
+
+(b) The report in paragraph (a) shall be conducted with funds available to carry out section 7132.
+
+(c) The report is to be carried out by a respected, non-partisan organization outside the
+Department of Education, such as the National Academy of Sciences.
+
+(d) The report is to be submitted by the Secretary to the President and to the Congress not later
+than September 30, 1999, with such interim reports as may be necessary.
+
+(e) The Secretary shall disseminate the findings of the report to State and local education
+agencIes.
+
+
+
+
+The Managers note that there are a number of techniques in use to help Limited English
+Proficient children learn English and acquire academic skills rapidly and efficiently. Grantees
+under the Bilingual Education Act should have information on the features of program designs
+that work well, in order to design the best programs to meet the needs of their children.
+
+The Act includes language directing the Secretary to develop a report on successful practices
+through a non-partisan organization, for use by grantees and to inform the Congress'
+deliberations on reauthorization of Title VII of the Elementary and Secondary Education Act in
+the next Congress ..
+
+
+
+
+                                                       Automated Records Management System
+                                                       Hex-Dump Conversion
+DEMONSTRATIONS OF TECHNIQUES FOR SERVING LIMITED ENGLISH
+PROFICIENT STUDENTS
+
+__ . Subpart 2 ofPart A of Title VII of the Elementary and Secondary Education Act of 1965
+is amended to add a new section at the end thereof, as follows:
+
+       ,,---- . DEMONSTRATIONS OF EFFECTIVE PRACTICES. (a) The Secretary is
+       authorized to conduct up to ten demonstration projects to determine effective approaches
+       to helping limited English.proficient students in high poverty schools learn English and
+       acquire academic skills. The demonstrations shall include examples of at least two types
+       of programs from each of the following methods: Transitional Bilingual Education
+       Programs, Two-Way Bilingual Education Programs, and English Immersion Programs.
+       Each demonstration shall be accompanied by a rigorous evaluation to determine the
+       elements of each demonstration that contributed to the results it achieved for the students
+       in the program.
+
+       (b) The demonstrations authorized in paragraph (a) shall conclude by September 30,
+       2001, and the Secretary shall report to the Congress and the President on the results of the
+       evaluations of the demonstrations by June 30, 2002. The Secretary shall provide such
+       interim reports as may be necessary.
+
+       (c) To carry out the demonstrations and evaluations authorized by this paragraph, there
+       are authorized to be appropriated $10,000,000 for fiscal year 1999, to be available until
+       expended.                          .
+
+
+
+
+                                                      Automated Records Management System
+                                                      Hex-Dump Conversion
+
+

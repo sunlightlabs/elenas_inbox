@@ -1,0 +1,480 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Christopher C. Jennings ( CN=Christopher C. Jennings/OU=OPD/O=EOP [ OPD j     )
+
+CREATION DATE/TIME: 9-DEC-1997 17:00:18.00
+
+SUBJECT:   medicare memo
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD j    )
+READ: UNKNOWN
+
+TO: Russell W. Horwitz ( CN=Russell W. Horwitz/OU=OPD/O=EOP @ EOP [ OPD j   )
+READ: UNKNOWN
+
+Jeanne Lambrew ( CN=Jeanne Lambrew/OU=OPD/O=EOP [ OPD j    )
+READ: UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D77jMAIL43222624G.316 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043AC060000010A02010000000205000000607F0000000200005EB7DBEAC51B2AF1B7DA93
+F6B7A853208E3AE060A7F38ACB782DC7459E54C08A79B5D273FC662CAAD99C7491CEFB04B96545
+OE107E4CB4637D08E93B3E8FBOB3D1A82B6593252646D9E017DF7F65AA5972EAFE2D73C6629DB9
+5459D1BD4DF2B84EB3FC3B3224F5E5569C1602FCADBFCEE5760B6E34DOA4BC29BC5B8B53BE78B7
+B03AOFA306278C071509D25821DFBD4F39E087599613B94D111214155FD3657EAD553D1DD74D2B
+5488B7BC05F9AEC59E783AF06450531DF9F083ED92E14A60A333DAO3D9D92B1B1863EEB9B219DC
+424A40008523FA1BOFC77588069B49B03F62D6A6859D913C4A45E9D56978C8296F19EA080EE4DB
+A8D07744138F91C136960A9340A7F4C16493294B24C029E9FADAFC8477660E7FF6AF09140D83D1
+77349B479EEC41426157A7CD867F42E85357EA7AF75914DCA60649EAECDD89BE59E42B2CE79DD2
+13A71F275A9CBF92EFD1B3A186EF4D716BD51C6DD0212893565845A7A3A05A5851D2ED6B5CD8E7
+573152D364887A4F5D508A87478094FB250C09C77E09EAOC3F139FC38F702C2C63B87C8C03FC1C
+C9002003D211C3968DCFFE4ADD275DA6E83DA5B09F319C76E73F1CA296731E9BB67FD5381BB3E6
+75E86AA15CBF553E1F2F971F9B529A07E461FCDCE08FB62E625BB8CF7FD2C50590B97F950DDAA7
+418CDCE2AC02002000000000000000000000000823010000000B010000C0030000005512000000
+4EOOOOOOCB04000009250100000006000000190500000B3002000000280000001F050000087701
+000000400000004705000008340100000014000000870500000802010000000F0000009B050000
+08050100000008000000AA0500000055100000003COOOOOOB205000006080100000022000000EE
+05000000000000000000000000EE05000000000000000000000000EE0500000055010000004EOO
+000010060000000000000000000000001006000000000000000000000000100600000000000000
+000000000010060000000000000000000000001006000000000000000000000000100600000000
+000000000000000010060000000000000000000000001006000000000000000000000000100600
+000000000000000000000010060000000000000000000000001006000000000000000000000000
+100600000000000000000000000010060000000000000000000000001006000000000000000000
+000000100600000000000000000000000010060000000000000000000000001006000000000000
+000000000000100600000B30010000004E0000005E06000000984800500020004C006100730065
+0072004A0065007400200035000000000000000000000000000000000000000000000000000000
+0000000000000000000000000000000000000000000057494E53504F4F4COOOOOOOOOOC800C800
+2C012C012C012C01C800C800300000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000B0100002800C8196810480DOO0011090000005AOOOB010000
+103600540069006D006500730020004E0065007700200P52006FOO6D0061006E00200052006500
+670075006C0061007200000000000000000001000200580i010000000400280000000000000000
+0000000000000000000000011202002400A1000000A10000000AOO0000CD1D01000200CE1D0100
+                                                                      Hex-Dump Conversion
+
+                                        December 9,1997
+
+
+MEMORANDUM FOR THE PRESIDENT
+
+FROM:                 BRUCE REED
+                      GENE SPERLING
+                      CHRIS JENNINGS
+
+SUBJECT:       Refonns that Prepare Medicare for the Retirement of the Baby Boom Generation
+
+
+        The Balanced Budget Act (BBA) that you enacted took critically necessary steps to
+modernize the Medicare program and prepare it for the twenty-first century. It extended the life
+of the Trust Fund to 2010, invested in preventive benefits, provided more choice of plans for
+beneficiaries, strengthened our ongoing fraud activities, and lowered cost growth to slightly
+below the private sector rate through provider payment refonns and modest beneficiary payment
+increases. However, the BBA's policies were not intended to solve the long-term problems
+posed by the retirement of the baby boom generation.
+
+       The Medicare Commission was established to address the demographic challenges facing
+the program. However, a major policy and political question remains. Is there anything we can
+and should do prior to the March 1999 Commission deadline that could further strengthen the
+program and lay the groundwork for implementation oflikely Commission recommendations?
+
+         The National Economic Council (NEC) and Domestic Policy Council (DPC) have led an
+interagency examination of several targeted policy options. This memo examines options for
+coverage for pre-65 year olds, Medicare coverage of patient care costs associated with clinical
+trials, and a project to increase awareness of private long-term care insurance. Financing
+options to pay for these proposals follow this description.
+
+        Your advisors have differing views on whether to pursue any new proposals while the
+Medicare Commission is active and which proposals to pursue if you choose to do so. OMB
+and to some extent Treasury have concems about a pre-65 option, because it may open the door
+to subsidies for a costly population and have the unintended effect of reducing employer
+coverage. Both OMB and Treasury oppose the clinical cancer trials proposal because it could
+set a precedent for every other disease group asking for the same treatment. In addition,
+altogether, it may well be the case, that the traditional Medicare savings alone will not be
+sufficient to offset the costs of these proposals. As such, a decision to propose a pre-65 policy
+may be feasible only if the decision is made to propose an income-related premium or, much less
+likely, dollars from any residual tobacco tax. It is worth noting that an income-related premium
+would clearly be more politically acceptable to our Democratic base if it were linked to a benefit
+expanSIOn.
+                                                                     Hex-Dump Conversion
+A.     PRE-65 HEALTH INSURANCE OPTIONS
+
+        Although people between 55 and 65 years old are generally more likely to have health
+insurance, they often face greater problems gaining access to affordable health insurance,
+especially when they are sick. Individuals in this age group are at greater risk of having health
+problems, with twice the probability of experiencing heart disease, strokes, and cancer as people
+ages 45 to 54. Yet their access to affordable employer coverage is often lower because of work
+and family transitions. Work transition increase as people approach 65, with many retiring,
+shifting to part-time work or self-employment, as a bridge to retirement. Some of this transition
+is involuntary. Nearly half of people 55 to 65 years old who lose their jobs due to firms
+downsizing or closing do not get re-employed. At the same time, family transitions reduce
+access to employer-based health insurance, as individuals are widowed or divorced, or as their
+spouses become eligible for Medicare and retire.                   .
+
+        As a result, the pre-65 year olds, more than any other age group, rely upon the individual
+health insurance market. Without the advantages of having their costs averaged with younger
+people (as in employer-based insurance), these people often face relatively high premiums and,
+because of the practice of medical underwriting, may be unable to get coverage at any price if
+they have pre-existing medical conditions. While the Kassebaum-Kennedy legislation improved
+access for people with pre-existing conditions, it did not restrict costs.
+
+        These access problems will increase because of to two trends: the decline in retiree health
+coverage and the aging of the baby boom generation. Recently, firms have cut back on offering
+pre-65 retirees health coverage; in 1984, 67 percent oflarge and mid-sized firms offered retiree
+insurance but in 1997, only 37 percent did (although this decline may be slowing). In addition,
+in several small but notable cases (!<.Z., General Motors and Pabst Brewery), retirees' health
+benefits were dropped unilaterally, despite the firm's prior commitment to their retirees. These
+''broken promise" retirees do not have access to COBRA continuation coverage and could have
+difficulty finding affordable individual insurance. An even more important trend is
+demographic. The number of people 55 to 65 years old will increase from 22 to 30 million by
+2005 and to 35 million by 2010, over a 50 percent increase. Assuming current rates of
+uninsurance, this trend could raise the number of uninsured in this age group from 3 million
+today to 4 million by 2005, without even taking into account the decline in retiree health
+coverage.
+
+       The last reason for considering the coverage issues of this age group is the likelihood of
+proposals to raise Medicare eligibility age to 67, consistent with Social Security. The
+experience with covering a pre-65 age group now will teach us valuable lessons if we need to
+develop policy options for the 65 to 67 year olds.
+
+        Policy Questions. Two central questions guide policy decisions in this area: what is the
+target population, and what is the best way to cover these people.
+
+
+
+
+                                                2
+                                                                        Hex-Dutnp Conversion
+
+        Whom to Target_ As with any incremental refonn, targeting is essential to reduce the
+chance that the policy does not unintentionally offset or reduce employer health coverage..
+While this policy will not affect employers' decisions to offer coverage to their current workers,
+it may affect employers' decisions to cover retirees, as well as employees' decisions to retire
+early. At the same time, the current level of employer dropping suggests that a policy for the
+affected people is needed. Although your advisors remain divided on the advisability of
+implementing a new policy in this area, we all agree that any policy protect against substitution
+by limitmg eligibility to a subset of the pre-65 year olds. There are two design approaches to
+achieve this.
+
+       The first approach is to limit eligibility by age. We recommend an age break of 62,
+which is already the most common retirement age. The 6 million people ages 62 to 65,
+compared to people ages 55 to 59, work less (48 percent versus 74 percent), are more likely to
+have fair to poor health (26 versus 20 percent), and are more likely to be uninsured or buy
+individual insurance (28 versus 21 percent). In addition, it is alsothe age at which Social
+Security benefits can be accessed. Within this 6 million, we could limit eligibility to the 2
+million without access to employer or public insurance, and would require that they exhaust
+COBRA coverage before becoming eligible. These steps should reduce the likelihood that the
+policy will lead individuals to retire or drop retiree coverage.
+
+        A second approach is to limit eligibility within a broader age group -~, 55 to 65 year
+olds - to individuals who lack access to employer-based insurance for particular reasons:
+(1) Displaced workers: About 60,000 people ages 55 to 65 lost their employer insurance when
+they became lost their job because a finn closed, downsized, or their position was eliminated.
+(2) Medicare spouses: As many as 420,000 people lost employer-based family coverage when
+their spouses (almost all husbands) turned 65 and retired. This number could grow if employers
+drop retirees' dependent coverage for these spouses as a result of this policy. (3) "Broken
+promise" people: A small but visible and vulnerable group is the pre-65 retirees who lost retiree
+health coverage due to a "broken promise" (ie., when the employer unexpectedly terminates
+coverage).
+
+        How to Provide Coverage. The second question is: what is the best way to increase
+access to affordable insurance? One approach is to extend COBRA continuation coverage for
+longer than 18 months. Currently, COBRA allows workers with insurance in firms with 20 or
+more employees to continue that coverage for 18 months by paying 102 percent of the premium.
+The major problems with extending COBRA are that (1) people in small firms are not eligible,
+(2) businesses will consider the policy an unfunded mandate, and (3) the policy could lead to
+discrimination against hiring older workers. In addition, firms could use this longer COBRA
+mandate as an excuse to not cover any employees. Despite these difficulties, a COBRA
+extension appears to be the best option for the "broken promise" people, since the former
+employer would bear some of the costs of its decision to terminate coverage and COBRA could
+then serve as a "bridge to Medicare" for this population.
+
+
+
+
+                                                3
+                                                                         Hex-Dump Conversion
+        A second option, preferable for most of the target groups, is a Medicare "buy-in."
+Eligible people could buy into Medicare at the age-adjusted Medicare payment rate, plus an
+add-on for the extra risk of participants. Because the actuaries think that most participants will
+be sicker than average, this add-on will be costly. To attract healthier people and make it
+possible for more people to take advantage of the benefit, we could defer payment of the
+additional cost until age 65 by "amortizing" this payment. Under this scheme, Medicare would
+pay part of the premium as a loan up front, with repayment by the beneficiaries with their Part B
+premiums after they turn 65. The HCFA actuaries have estimated that this Medicare "loan" in a
+worse-case scenario would cost $1.1 billion per year assuming participation of no more than
+300,000 people. Because the preliminary estimates assumed that only sick people would
+participate and that all would enroll in one year, and because they did not take into account the
+pay-back from beneficiaries, the official estimates, expected soon, will probably be lower.
+Subsidies would be considerably more costly and your advisors agree that we cannot afford it.
+
+        Option 1. "Broken Promise" People Only. All your advisors recommend a policy
+that employers who break their promise of providing retiree coverage extend COBRA so that
+retirees can buy into their active employer plan at a higher premium as has been done for other
+special COBRA populations until age 65. This option has no cost to the Federal governm~nt.
+
+         Option 2. Medicare Buy-In for Select Groups. The second option is to allow a
+limited group of 55 to 65 year olds to buy into Medicare. If you decide to consider any of the
+Medicare buy-in proposals, OMB favors undertaking only the "Medicare spouses" - primarily
+uninsured women ages 55 to 65 whose husbands are already on Medicare. OMB argues that, if
+the goal is a limited test of a buy-in for the pre-65 year olds, this is a discrete group whose
+eligibility would likely have a smaller effect on the general trend in retiree health coverage or
+retirement. The Department of Labor strongly supports a policy to help displaced workers, in
+line with the broader theme of improving workers' security. In the absence of a buy-in, Labor
+would support a COBRA extension, though this approach would help fewer people. HHS
+supports covering these select groups, but is concerned that the enrollment be sufficient to justify
+the administrative effort. The small size of these groups means that costs will be low.
+
+        Option 3. Medicare Buy-In for 62 to 65 Years Old Plus Selected Groups. The third
+option is to permit eligibility for 62 to 65 year olds plus a group like displaced workers. The
+cost of this option is not yet known but will likely be less than $5 billion over 5 years. HHS and
+NECIDPC think that this is a sufficiently narrow group to limit significantly the effects on retiree
+health coverage or retirement. This group is also more representative of the 65 to 67 year old
+population, giving a better sense of what would happen if Medicare eligibility were postponed to
+67 years old. Although Treasury is concerned that this policy could become an underfinanced
+policy expansion, some concerns would be allayed if the buy-in participants were enrolled only
+in managed care, so that the insurers and not Medicare bore the risk. This approach, however,
+could be politically difficult given the distrust of managed care. OMB thinks that the 62 to 65
+group is not narrow enough and that the "unsubsidized entitlement" (the subsidy is in the
+financing) will not stay that way for long. It is important to note that we are still waiting for
+actuarial analyses, which could alter the reconunendations of your advisors.
+B.      PRIVATE LONG-TERM CARE OPTIONS
+
+                                                 4
+                                                                  Hex-Dump Conversion
+
+         A second idea to improve access to insurance focuses on long-term care. Unlike acute
+care, long-temi care is not primarily financed by private insurance, which pays only 6 percent of
+its costs. Medicaid pays for 38 percent, Medicare pays for 21 percent, and families pay for 28 of
+the costs out of pocket. This large government role may not be sustainable as the baby boom
+generation retires. Today, one in four people over age 85 lives in a nursing home. This could
+increase substantially as the proportion of elderly living to age 90 is projected to increase from 25
+percent to 42 percent by 2050. Thus, it is important to encourage the development of private
+insurance options. The Kassebaum-Kennedy legislation took a step in this direction by
+clarifying that certain long-term care insurance is tax deductible. But because many people
+incorrectly assume Medicare covers all of their long-term care needs and do not know about
+private long-term care insurance, more action is needed. This action could include providing
+information to Medicare beneficiaries about private insurance, funding a demonstration program
+to improve the quality and price of private insurance, or both. None of these options includes a
+new Medicare entitlement or subsidy.
+
+Information on Quality Private Long-Term Care Insurance
+
+        We propose to leverage our role in Medicare to improve the quality of and access to
+private policies. HCFA would work with insurers, state regulators, and other interested parties
+to develop a set of minimum standards for private long-term care policies. If a plan met these
+standards, Medicare would approve its inclusion in the new managed care information system.
+(As a reminder, the BBA included provisions to provide annual information on managed care
+choices to beneficiaries.) This proposal would build upon that system and cost up to $25 million
+in discretionary funds over 5 years ($5 million in FY 1999), distinct from the user fees currently
+authorized for the managed care information system. We also could propose a demonstration
+that would test the feasibility of a partnership between Medicare and private long-term care
+insurance on a limited basis. The cost of a demonstration would depend on its size and policy
+parameters, but could be limited to $100 to 300 million over 5 years.
+
+Discussion
+
+        We believe this proposal has significant potential and is worth further developing. There
+is some concern at HHS that coming to an agreement on a set of standards could be difficult and
+that insurers may argue that our standards drive up the cost of the policies, making them
+unaffordable. HHS also would prefer that any demonstration be funded through the mandatory
+budget. However, these concerns may not be insurmountable, especially since one objective of
+a demonstration could be to investigate high quality private options that are affordable. Finally,
+we are still looking into the feasibility and advisability of using tax incentives to encourage the
+purchase of private long-term care policies and/or the use of IRAs for long-term care financing ..
+
+
+
+
+                                                 5
+
+c.     MEDICARE COVERAGE OF CANCER CLINICAL TRIALSH~l\-Dump Conversion
+
+        Medicare has not traditionally covered patient care costs associated with clinical
+trials. Scientists and advocates believe that we are not making sufficient progress in
+treating cancer, in part because the lack of Medicare coverage limits participation in these
+trials. HHS and DPC have been working on an approach that covers patient care for a
+limited number of these trials. Because of concerns about its cost, OMB and Treasury
+strongly oppose this option.
+
+       Nearly half of all cancer patients are covered by Medicare, yet Medicare does not
+cover patient care costs associated with these trials. This care can often be prohibitively
+expensive for cancer patients and their families, perhaps explaining why only 3 percent of
+all cancer patients participate in trials. Expanding Medicare coverage could increase
+access to trials for the many beneficiaries with cancer. Historically most insurers have
+covered clinical trials for children. As a consequence, nearly 70 percent of children with
+cancer participate in clinical trials. Scientists agree that this participation rate has helped
+improve cancer treatments for children, and some argue that it is one reason for the
+dramatically higher survival rates for children cancer patients.
+
+         This problem has significant implications for research in all cancer areas,
+particularly for those cancers like prostate cancer where scientists still have no good
+answers and where clinical. trials are particularly undersubscribed. According to a former
+National Cancer Institute director, if 10 percent of all cancer patients participated in such
+trials, trials that currently take three to five years would take only one year. Additionally,
+as the nation's largest insurer, Medicare plays a significant role in setting the standard for
+the insurance companies. A commitment from Medicare to cover clinical trials would go a
+long way to encourage private insurance companies to cover these trials.
+
+Proposal
+
+       We have developed a proposal to expand Medicare to cover cancer clinical trials
+conducted at the NCI and trials with comparable peer review. In addition, we would
+require a National Cancer Policy Board to make further coverage recommendations, and
+HHS to assess the incremental costs of such trials compared to conventional
+Medicare-covered therapies. Assuming the true incremental costs are substantially less
+than the actuaries project, as we believe, additional trial coverage as recommended by the·
+Board could occur. The initial coverage would cost $1.7 billion over five years. Senators
+Mack and Rockefeller have developed a more expansive and expensive proposal
+(co-sponsored by 26 Senators), which covers all FDA trials, many of which the experts
+believe do not meet a scientifically-meritorious standard. However, we do believe that
+there may be some middle ground between our proposal and the Senators' proposal that
+could be justifiable on policy grounds but more costly.
+
+
+
+
+                                               6
+                                                                         lkx-Dl.lmp Conversion
+        A possible alternative way to cover clinical cancer trials' patient care costs is to
+dedicate resources from any significant increases that NIH I NCI receive in the upcoming
+budget. NCI could use these increases to simplify and centralize their clinical trials
+system, which has the potential to increase patient access. Although this option may be
+viable, the cancer community has clearly stated its preference for extending Medicare
+coverage. Another possibility is to require drug companies desiring Medicare coverage of
+additional clinical trials to contribute to the part of the patient costs.
+
+ Discussion
+
+         HHS is supportive of this policy and believes that it would not only give Medicare
+  beneficiaries, who represent a significant portion of cancer patients, much-needed choices
+  but would encourage the private industry to cover clinical trials as well. There is no
+  question that this proposal is the highest priority for most of the cancer community as well
+  as many in the women's community who believe it is an essential step to improve breast
+  cancer treatment. However, the advocates have made it clear that they would strongly
+. prefer the more expansive and expensive RockefellerlMack approach. Conversations with
+  the Senators suggest that they would support this proposal as an important rust step; this
+  support will weigh heavily with patient groups and the cancer community.
+
+         OMB and Treasury oppose the Medicare coverage option strongly. They note that
+ it would involve very substantial costs ($1 to 3 billion per year) to provide medical services
+ that are experimental, and ther.efore are unlikely to help the majority of beneficiaries.
+ Once an exception has been made for experimental cancer drugs and therapies, they argue
+ there is no reason that similar support won't be demanded for experimentation with
+ Alzheimer's, Parkinson's, and other maladies. As a result, these costs will grow as other
+ therapies are included. They also believe that Congress would likely expand the proposal
+ beyond coverage ofNCI trials and that this expanded coverage will be very costly (up to $3
+ billion over five years). OMB also believes that rather than Medicare leading the way on
+ clinical trials, drug companies should be the first to contribute to improving access for
+ Medicare beneficiaries.
+
+         While recognizing the OMB and Treasury concerns, the DPCINEC believes that this
+ policy has potential to contribute to important expansions of clinical trials and possible
+ break-throughs in cancer treatment. We believe that we should investigate the possibility of
+ amending the current policy to tap into the drug industry as a financing partner. In addition, we
+ believe that this policy will be even more attractive if we are unable to rmd the resources to
+ double the NIH budget. Although we support the cancer clinical trial policy, if we have
+ limited resources available in Medicare and it comes down to a choice between the pre-65
+ initiative and this one, we would recommend the former.
+
+
+
+
+                                                7
+                                                                       Hex-Dump Conversion
+
+D.     PAYING FOR INITIATIVES: MEDICARE ANTI-FRAUD AND
+       AN INCOME-RELATED PREMIUM
+
+        We assume that the funding for these Medicare initiatives will require Medicare offsets.
+One approach is to use Medicare anti-fraud initiatives. HHS and OMB believe that these offsets
+could total about $2 billion over 5 years. This could fund some, but not all of the initiatives
+described above. To fund a more expansive series of initiatives, you will probably have to
+consider an income-related premium. As you know, Medicare subsidizes 75 percent of the Part
+B premium for all beneficiaries, including the wealthiest. This policy is not only regressive; it
+ignores the fact that higher income beneficiaries actually cost Medicare more than poor
+beneficiaries. But the addition of an income-related premium would constitute a move away
+from the concept of social insurance.
+
+Anti-Fraud Provisions
+
+        In our ongoing efforts to reduce Medicare fraud, we have identified a number of small but
+important policies that could sum to about $2 billion over five years. Several of them address
+problems identified by the HHS Inspector General, such as the overpayment by Medicare for
+certain cancer drugs, highlighted in recent press reports.
+
+Income-Related Premium
+
+       As you know, the Administration has publicly supported an income related premium.
+However, it is not clear whether we should carry through on this support by including it in the
+budget. The Medicare Commission will definitely consider and probably recommend this
+policy. Yet, there remains some Democratic opposition to this policy and some of your advisors
+would counsel not to move unilaterally in this direction. Because this issue is extremely
+controversial, this description is not intended to present recommendations but to begin a
+discussion of the topic.
+
+        Building from our position last summer, the income-related premium would be
+administered by the Treasury Department, not HCFA or the Social Security Administration.
+Eligible people would fill out each year a Medicare Premium Adjustment form (a separate form
+or a line on the 1040 form) and send a check to ''The Medicare Trust Fund." The two open
+questions are: who pay and how much do they pay. The answers to these questions determine
+costs, but the more modest proposals generate about $8 billion over five years.
+
+       Who pays. The income thresholds determine how many people are paying the higher
+amount. We proposed thresholds of $90,000 for singles and $115,000 for couples in the Health
+Security Act. Last summer, the Senate, including most centrist Democrats, passed a policy
+where the extra premium payment began at $50,000 for singles and $65,000 for, couples. During
+the budget debate, we did not state publicly our support for any particular thresholds.
+
+
+
+
+                                               8
+
+                                                                                Automated Records Management System
+                                                                                Hex-Dump Conversion
+                  How much. The amount of the payment for the wealthiest beneficiaries is a second
+          question. In the budget debate, we argued that a 100 percent premium (no subsidy) would cause
+         ,some healthy and wealthy people to opt out of Medicare. However, an analysis by the Treasury
+          Department this fall found that the effects of a 100 percent premium would be small. (About
+          5% of beneficiaries who pay the full premium would drop.) HHS would strongly object to
+          changing our position and supporting an income-related premium that completely phases out the
+          Part B subsidy. If we decide to change our past policy, it might be advisable to have a strategic
+          discussion about the timing of announcing such a change. It could be an important in
+          negotiating the give and take on this issue.
+
+         Discussion
+
+                  The decision to include an income-related premium is a complicated one. On one hand,
+         it is almost certain that this policy will be recommended by the Medicare Commission. At that
+         point, however, we will have less opportunity to direct any of its revenue toward important
+         Medicare reforms like a Medicare buy-in. On the other hand, many Democrats and possibly
+         AARP will oppose the income-related premium as a beneficiary payment jncrease. A possible
+         exception is if it is explicitly linked to a Medicare investment or possibly a pre-65 policy. In
+         addition, Republicans might label it a new tax and use our support for it as an issue during the
+         1998 campaign.
+
+                  Although our discussions are ongoing, the agencies believe that the decision to propose
+         an income-related premium depends on the context. OMB's position ultimately depends upon
+         the entire package of initiatives and savings being offered. OMB considers the income-related
+         premium to be a sound policy option, but believes that it should be considered as a means to
+         offset Medicare Trust Fund insolvency or provide benefit expansions for the currently eligible
+         Medicare population. HHS believes that if an income-related premium is pursued, its savings
+         should be used for Medicare. HHS further notes that Medicare has already contributed $115
+         billion in savings and that we may wish to preserve this option for the Commission
+         recommendations lest we have the Commission with no reasonable options. DPCINEC will
+         prepare for a separate meeting to discuss this issue.
+
+
+
+
+                                                         9
+
+

@@ -1,0 +1,39 @@
+RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+CREATOR: William R. Kincaid ( CN=William R. Kincaid/OU=OPD/O=EOP [ OPD ]   )
+
+CREATION DATE/TIME: 5-NOV-1997 12:43:11.00
+
+SUBJECT:   Drafts
+
+TO: Elena Kagan     CN=Elena Kagan/OU=OPD/O=EOP @ EOP   [ OPD]   )
+READ: UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO]         )
+READ: UNKNOWN
+
+TEXT:
+Unable to convert ARMS_EXT: [MESSAGE.D39]MAIL438584802.316
+The following is a HEX dump of the file:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D39]MAIL438584803.316 to ASCII,
+ The following is a HEX ~UMP:
+
+================== END ATTACHMENT     1 ==================
+
+==================== ATTACHMENT   2 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D39]MAIL448584804.316 to ASCII,
+ The following is a HEX DUMP:
+
+================== END ATTACHMENT     2 ==================
+I....    ~   I.
+
+
+
+

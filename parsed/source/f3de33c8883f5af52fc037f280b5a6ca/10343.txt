@@ -1,0 +1,344 @@
+RECORD TYPE: PRESIDENTIAL     (NOTES MAIL)
+
+CREATOR: Charles R. Marr ( CN=Charles R. Marr/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME: 9-DEC-1998 23:20:43.00
+
+SUBJECT:   draft initiative lists
+
+TO: Wesley P. Warren ( CN=Wesley P. Warren/OU=CEQ/O=EOP @ EOP [ CEQ]        )
+READ: UNKNOWN
+
+TO: Sally Katzen     CN=Sally Katzen/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Sylvia M. Mathews    ( CN=Sylvia M. Mathews/OU=OMB/O=EOP @ EOP tOMB]        )
+READ: UNKNOWN
+
+TO: Robert L. Nabors    ( CN=Robert L. Nabors/OU=OMB/O=EOP @ EOP [ OMB ] )
+READ:UNKNOWN
+
+TO: Kerri A. Jones   ( CN=Kerri A. Jones/OU=OSTP/O=EOP @ EOP [ OSTP ]   )
+READ:UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ:UNKNOWN
+
+TO: Bruce N. Reed (.CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Adrienne C. Erbach ( CN=Adrienne C. Erbach/OU=OMB/O=EOP @ EOP [ OMB ] )
+READ: UNKNOWN
+
+TO: Melissa G. Green ( CN=Melissa G. Green/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TEXT:
+Here are two draft versions of the initiative lists. One is divided by
+agency and the other is divided by category.  Please check, especially the
+agency one, which OMB would like us to focus on, to make sure the
+initiatives are under the right agencies.'
+
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D82]MAIL478085545.326 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043CBIDOOOOOIOA02010000000205000000CF610000000200OOE3830645EFCB4EAF9CDC76
+E84DF6C897678E5A6B3C9F36CD531BC689FFDA20FIB9DIA8E984899BBC24FOE52F22EOCCDE84F2
+
+
+
+
+                               FYOO Discretionary Initiatives
+                           Initiative by Agency                           Amount
+                                                                          ($ million)
+
+DEPARTMENT OF EDUCATION
+
+          Adult Literacy                                                   315-475
+
+          Social Promotion!After School                                         450
+
+          Teacher Quality                  .
+                                                                                250
+
+          Urban and Rural Computing Centers (or HUD or Commerce)            75-100
+
+          Charter Schools and Choice                                            60
+
+          Stay-in-College Initiative                                            100
+
+          Title I Accountability Fund                                           200
+
+          You Can Go to College Campaign .                                  15-20
+
+          Technology for Disabled Americans                                 40-60
+
+          Education Research                                                    50
+
+          SUBTOTAL                                                       1,555-1,765
+
+    DEPARTMENT OF LABOR
+
+          Universal Re-employment                                          350-500
+
+          Youth Employment                                                 150-250
+
+          FMLA and Paid Leave Research Fund                        .            10
+                           .
+
+
+
+          Child Labor Enforcement                                                3
+
+          International Labor Standards                                         40
+
+          Equal Pay (also EEOC)                                                 20
+
+          SUBTOTAL                                                         573-823
+
+    HHS
+
+          Bioterrorism                                                          90
+
+          Superbug                                                              10.
+
+          Long-term Care                                                        215
+
+          Diseases                                                              305
+
+          Rural Emergency Services                                              25
+
+                                                          Automated Records Management System
+                                                          Hex-Dump Conversion
+
+      Tobacco -- FDA Enforcement                                   66
+      Children's Hospitals                                         40
+
+      SUBTOTAL                                                     778
+
+HUD
+      Housing Vouchers                                             145
+      Abandoned Buildings                                          100
+      SUBTOTAL                                                     245
+
+SBA
+
+      Trillion Dollar Roundtable                                   240
+DEPARTMENT OF TREASURY
+
+      Trillion Dollar Roundtable (CDFD                             25
+      Firearms Enforcement                                         25
+      Financial Consumer Bill of Rights                           40-60
+      SUBTOTAL                                                    90-110
+                                           .
+
+DEPARTMENT OF TRANSPORTATION
+
+      Access to Jobs                                               75
+EPA
+                                                   -
+      Coastal Salmon Restoration                                   125
+      Climate Investment Fund                                      250
+      SUBTOTAL                                                     375
+DEPARTMENT OF INTERIOR
+
+      Lands Legacy and Livability                             500-750
+CORPORATION FOR NATIONAL SERVICE                                   172
+
+DEPARTMENT OF STATE                            ,
+
+      Child Labor (AID)                                           20-30
+      Microcredit                                                  10
+
+      SUBTOTAL                                                    30-40
+
+NSF
+                                                   I r..t:~ur05   Manai emem;:,· Sle
+                                                                      gym
+                                          H~x-Dump   Conversion
+     Digital Library for Education                                           10-40
+
+     SUBTOTAL                                                                60-105
+
+DEPARTMENT OF ENERGY
+
+     Global Climate Change -- Research and Technology (also Ag,               165
+     EPA)
+
+     Integrated Science for Ecosystem Challenges                               15
+     SUBTOTAL                                                                 180
+
+VETERANS AFFAIRS
+
+     Smoking Cessation                                                         90
+DEPARTMENT OF JUSTICE
+
+     copsn                                                                    750
+     Redirect Prison Funds to Coerced Abstinence and                          190
+     Alternatives to Incarceration
+
+     Child Support                                                             10
+     Medicare Suit                                                             20
+     Child Welfare Judicial Reform                                             5
+     Abortion Safety                                                           5
+     SUBTOTAL                                                                 980
+
+AGRICULTURE
+
+     Food Safety                                                               75
+DEPARTMENT OF DEFENSE
+
+     Information Technology Initiative                                        100
+     Smoking Cessation                                                         60
+     Medical Research                                                         200
+     SUBTOTAL                                                                 360
+
+TOTAL                                                                  6.4-7.2 billion
+
+
+
+                                                       Automated Records Management System .
+                                                       Hex-Dump Conversion
+                         Initiative                        Amount
+                                                           ($ million)
+
+I.     EDUCATION AND TRAINING
+
+       Adult Literacy                                       315-475
+       Social Promotion!After School                          450
+       Universal Re-employment                              350-500
+       Teacher Quality                                        250
+       Youth Employment                                     150-250
+       Charter Schools and Choice                              60
+       Stay-in-College Initiative                             100
+       Title I Accountability Fund                            200
+       You Can Go to College Campaign                        15-20
+       Education Research                                      50
+
+II.    HEALTH
+
+       Bioterrorism                                            90
+       Superbug                                                10
+       Long-term Care                                         215
+       Diseases                                               305
+       Rural Emergency Services                                25
+       Children's Hospitals                                    40
+       DoD Medical Research                                   200
+                                                                          B
+                                                                          liS
+III.   URBAN, EMPOWERMENT, AND WELFARE                                   en>.
+
+       REFORM                                                             ~
+                                                                          E
+                                                                          Q)
+                                                                          OJ)
+       Trillion Dollar Roundtable                             275         '"
+                                                                          1a     I::
+       Housing Vouchers                                       145
+                                                                         ~
+                                                                         ~ ... 'a
+                                                                            0
+                                                                           <>
+                                                                                ..
+                                                                                >
+                                                                                 0
+
+
+
+                                                                                c:
+       Urban and Rural Computing Centers                     75-100        '" n.
+                                                                         I>:: U
+                                                                                0
+
+
+
+       Child Support                                           10        - .::
+                                                                         "C
+
+                                                                          ''"
+                                                                          0
+                                                                            "
+                                                                          E. 0
+                                                                               8:::J
+
+
+                                                                         :5
+       Abandoned Buildings                                    100        -<     ~
+       Access to Jobs                                          75
+
+
+
+       Coastal Salmon Restoration                            125
+       Lands Legacy and Livability                         500-750
+       Climate Investment Fund                              250
+       Global Climate Change -- Research and Technology      165
+
+V.     NATIONAL SERVICE                                     172
+
+VI.    TECHNOLOGY
+
+       Information Technology Initiative                   150-165
+       Technology for Disabled Americans                    40-60
+       Digital Library for Education                        10-40
+       Integrated Science for Ecosystem Challenges           15
+
+VII.   TOBACCO
+
+       DoDN A Cessation                                      150
+       Public Health (CDC)                                   27
+       FDA Enforcement                                       66
+       Medicare Suit                                         20
+VIII. WOMEN, CHILDREN AND FAMILIES
+       Child Welfare Judicial Reform                         5
+       FMLA and Paid Leave Research Fund                     10
+       Abortion Safety                                       5
+                                                                             fi
+IX.    CRIME
+                                                                       '
+                                                                           £.
+                                                                           ....
+                                                                            ~
+       COPS II                                              750            .,
+                                                                            8
+                                                                            <>0
+                                                                           OJ
+       Firearms Enforcement                                  25
+                                                                       ~           g
+                                                                                  "i.,
+                                                                                    ?1
+       Redirect Prison Funds to Coerced Abstinence and       190      ~
+                                                                      .... 0      >
+                                                                                  t::
+       Alternatives to Incarceration                                       (J
+                                                                           Q)     0
+                                                                      t:r:        U
+
+X.     MISCELLANEOUS                                                  -.
+                                                                       .,
+                                                                      "<:I
+                                                                       OJ
+                                                                       E 0
+                                                                       0
+                                                                          8
+                                                                         =>
+                                                                                  c-
+
+
+                                                                      !5 ><
+       Child Labor, Labor Standards, and Anti-sweatshops   63-83      '< ~
+       Food Safety                                           75
+       Financial Consumer Bill of Rights                   40-60
+       Equal Pay                                             20
+                     II                          II
+
+
+
+
+           Automated Records Management System
+           Hex·Dump Conversion
+
+

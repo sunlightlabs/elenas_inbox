@@ -1,0 +1,121 @@
+    RECORD TYPE: PRESIDENTIAL      (NOTES MAIL)
+
+    CREATOR: June Shih ( CN=June Shih/OU=WHO/O=EOP [ WHO]   )
+
+    CREATION DATE/TIME: 1-0CT-1997 18:25:37.00
+
+    SUBJECT:   food safety draft
+
+    TO: Michelle Crisci ( CN=Michelle Crisci/OU=WHO/O=EOP @ EOP       WHO]   )
+    READ: UNKNOWN
+
+    TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ]   )
+    READ: UNKNOWN
+
+    TEXT:
+    ==================== ATTACHMENT   1 ====================
+    ATT CREATION TIME/DATE:   0 00:00:00.00
+
+    TEXT:
+    Unable to convert ARMS_EXT: [ATTACH.D76]MAIL48055737Q.216 to ASCII,
+     The following is a HEX DUMP:
+
+    FF57504370040000010A02010000000205000000E6130000000200004148CC7A40EDDEB92CA1C1
+    B252314FAEOBEF475B08070CF8D5D4F4547D9139BF296F9330A401B872E17C16A93233B9C95EB5
+    52CE4CCE06AE7D53CC5552C6FEF29B8F0713BD302E78D9743B4400DE51760EA1BBFB4F83473992
+    C29EE06DF529C2C68B248EB1F3166D7395E8ADB5B6727B7113F2051254EFA13C3644C7908354D8
+    E9C3CA947B34F18FB516BD803EDE4416173EA100C492807B9553457D233946E53A604920F6CF71
+    BEFAFA5424629DD80DA24E1336F73A9A368D70D8AAEB730B6FB48703219BC1A40518485C4EAF4E
+    86C2AC52EF2C4C4309EB5154CF415DBD763DB5CDB25E3297237991B970E307C09EC9199ABF272F
+    7EA8DB7259EF3CCB8A4C07EBEC5F8208D6C8EAF03C30D6E1275B41905C3400F880162A39217BC5
+    FCCC2147F51BDCD5138B8BODC8B1A69A262F4609E7857AF4EE3B45446E9F44F1FB0390BEECOE45
+    42D05E3AE4FC6FFE360B044187B7B444837C923CD4F5B99D49936DB224A9FEB7EE10737ABD4547
+    2COD05F77FD50D646C8FDCDA3E9A8D23EBB7CF6C1B833D403502021EDB58704F5092E8C861FE2A
+    DABB27CC969D12BF9FD1A980ADFA4C860B63D96715E51505C14D596B14B556A3E097B6896D8546
+    66A8C4ED281049691E3AB499FC12CD96B37D621FE10999DA12ED9E526596BCEE93BEC87EOCECAD
+    DB06BEFB2502000900000000000000000000000823010000000B0100007E020000005501000000
+    4E0000008903000009250100000006000000D70300000B300200000028000000DD030000087701
+    000000400000000504000008340100000014000000450400000802010000000F00000059040000
+    080501000000080000006804000000985C005C004F0041005F0037005C005C005C0045004F0050
+    005F0043004F004D004D005C003100390033005F00480050003400000000000000000000000000
+    00000000000000000000000057494E53504F4F4COOOOOOOOOOC800C8002C012C012C012C01C800
+    C80030000000000000000000000000000000000000000000000000000000000000000000000000
+    000000000000000000000000000000000000000000000000000000000000000000000000000000
+    000000000000000000000000000000000000000000000000000000000000000000000000000000
+    000000000000000000000000000000000000000000000000000000000000000000000000000000
+    000000005E0037132800C8196810480D000011090000005AOOOB010000103600540069006D0065
+    00730020004E0065007700200052006F006D0061006E00200052006500670075006C0061007200
+    000000000000000001000200580201000000040028000000000000000000000000000000000000
+    00011202002400A1000000A10000000A0000001306010044001406010002001506010045001606
+    010002001706020002001806010045001906020002001A06010045001B06010002001C06010044
+    000797B422000000000000D40074082400D400F41F08337C007800000200001C06000003010004
+    0002000000DDOA10008301040003000200211000DDDDOBOB00030000040BOODD9BD3050C000701
+    0002000COOD3F20CF2505245534944454E548057494C4C49414D804A2E80434C494E544F4ED004
+    1500000B00090001B0040000000001201500D052454D41524B53804F4E80464F4F448053414645
+    545980524547554C4154494F4E53CC4F56414C804F4646494345CC4F43544F42455280322C8031
+    393937F30CF3D0041500000B000900018007D002030001201500DOD30510000601000002260000
+    001000D3CCE0110C0000000008070COOE041748074686580626567696E6E696E67806F66807468
+    69738063656E747572792C806F757280676F7665726E6D656E74806D61646580618066756E6461
+    6D656E74616C8070726F6D69736580746F806F7572CF70656F706C653A80576580636F6D6D6974
+    746564806F757273656C76657380746F806D616B696E6780737572658074686174807468658077
+                                                                         Hex-Dump Conversion
+
+                        PRESIDENT WILLIAM J. CLINTON
+                     REMARKS ON FOOD SAFETY REGULATIONS
+                                 OVAL OFFICE
+                               OCTOBER 2, 1997
+
+       At the beginning of this century, our government made a fundamental promise to our
+people: We committed ourselves to making sure that the world's most bountiful food supply
+would always be the world's safest. And from the day I took office five years ago, I have
+worked very hard not only to honor this promise and but to make our food supply even safer.
+
+         We have put in place new rigorous safety standards for meat, poultry, and seafood
+products, throwing out archaic and ineffective inspection methods that had been left untouched
+for nearly a century. We have begun requiring slaughterhouses to test for deadly E. Coli and
+salmonella bacteria before shipping their products to our stores. We have begun developing
+new safety standards for fruit and vegetable juices. We have brought a host offederal agencies
+together to boost food safety research, education, and food contamination surveillance efforts
+across the country. And in doing so, we are using the world's best science to prevent
+contamination tragedies before they happen, to make sure that our food supply is the safest it can
+be.
+
+        Today, our food supply remains the world's safest. But we know we cannot rest on our
+accomplishments. We must do more. We must make sure that increased trade never
+diminishes the safety of our food. Today, I want to tell you the new steps we are taking to
+ensure that our fruits and vegetables -- including those imported from other countries -- meet the
+highest health and safety standards.
+
+        First, I am asking Congress to give our Food and Drug Administration the power to ban
+the importation of fruits, vegetables and other foods from countries whose food safety
+precautions do not meet American standards. This new law would be very similar to the
+USDA's current policy of keeping meats and poultry from countries with unacceptable food
+safety systems out of our stores. Also, in my next budget, I will provide extra funding to
+strengthen the FDA's international food inspection force.
+
+      With these efforts, we can make sure that no fruits and vegetables cross our
+borders, enter our ports or reach our dinner tables without meeting the same, strict safety
+standards as those grown in America. Our food safety system is the strongest in the
+world. And that's how it's going to stay.
+
+        I am also directing the Secretary of Health and Human Services, the Department of
+Agriculture to work together, in close cooperation with the agricultural community to develop
+rigorous safety standards for growing, processing, shipping and selling fruits and vegetables.
+The standards should address such as aspects as sanitation, worker health, water use, problems in
+the distribution and marketing system, regional and crop variations.
+
+       I am asking Secretaries Shalala and Glickman to report back to me within 90 days with a
+                                                                           Hex-Dump Conversion
+     complete schedule for developing these standards within a year, as well as a comprehensive plan
+     to improve the monitoring of food safety systems abroad, help foreign countries upgrade their
+     safety precautions, and toughen food inspections at the border.
+
+             Being a parents is perhaps the toughest job in the world. Our parents deserve the peace
+     of mind that comes from knowing that the food they set before their children will nourish and
+     strengthen their bodies, not make them sick. With today's new actions, we will help make their
+     jobs that much easier.
+EMAILS RECEIVED
+ARMS - BOX 017 - FOLDER -007
+
+
+[10/02/1997 - 1010511997]

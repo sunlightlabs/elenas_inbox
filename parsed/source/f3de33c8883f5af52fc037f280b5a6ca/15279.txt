@@ -1,0 +1,4397 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Patricia F. Lewis ( CN=Patricia F. Lewis/OU=WHO/O=EOP [ WHO]               )
+
+CREATION DATE/TIME:18-APR-1997 16:54:52.00
+
+SUBJECT:   Transcript
+
+TO: Katharine Button ( CN=Katharine Button/OU=WHO/O=EOP @ EOP [ WHO]            )
+READ: UNKNOWN
+
+TO: Jennifer ,t.. Klein ( CN=Jennifer L. Klein/OU=OPD/O=EOP     @   EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: MCHUGH L    MCHUGH L @ A1 @ CD @ LNGTWY [ EOP ] )   (WHO)
+READ: UNKNOWN
+
+TO: Marsha E. Berry ( CN=Marsha E. Berry/OU=WHO/O=EOP @ EOP [ UNKNOWN]                  )
+READ: UNKNOWN
+
+TO: Pauline M. Abernathy ( CN=Pauline M. Abernathy/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Lori L. Anderson ( CN=Lori L. Anderson/OU=WHO/O=EOP @ EOP [ WHO]            )
+READ: UNKNOWN
+
+TO: Ann F. Walker ( CN=Ann F. Walker/OU=WHO/O=EOP @ EOP [ WHO]          )
+READ: UNKNOWN
+
+TO: Julie E. Mason ( CN=Julie E. Mason/OU=WHO/O=EOP @ EOP [ WHO]            )
+READ: UNKNOWN
+
+TO: Nicole R. Rabner ( CN=Nicole R. Rabner/OU=WHO/O=EOP @ EOP [ WHO]            )
+READ: UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D38]MAIL49001670G.116 to ASCII,
+ The following is a HEX DUMP:
+
+FF5750437C290000010A020100000002050000009EOB0200000200009117F07E811CB39524A325
+E87EEA8085EF073AD51BABF95FOFC2BB96CD91FOF16D3CE1460F9EE7D2D8F53402B05BA4BOA6DA
+5BCAOE67DB49AAFCA3948D5977FE2C3DF7D72B7614A4565AB78BAC68A5A5EA73E01A5086F9E12A
+6B640957912C3C6661F68A4E6B513D067A36D75B605643183021EF68BF45A8FCED882D86A5A9B3
+2D455C94B0912EADOF084A8098922318498095F7A331AA456829FF6879EBCOD14814CED08EF7BB
+23D6FDF8750F2ACF84EA1E6687FD51C32DC12342095FC1A890DF69A79E8BFD5C40223072DD6B9D
+687736523COEE140EOCBE37B6736F145DACEF8B99D9C2CB6059DF7D29894EFDAFDE51AFE83EOED
+8962C958BC17695433BOOODA208B007FDEFD69C5944B90A7F9FAODDFF5F3C5BFF239S31C5BE4F1
+9AB8D5415COC78ESA34161391E831958B4650FA7FC74B9E3D3EB966SOS8442611F9ED1F5C33ES4
+83DAC1824139D1701933546D14A2D2EF1SF8S065E6BB93EB36DE21F53E84F872EFC09331C81D4C
+1BC70F73F66AFBODD58B7DB948381267A20BC4209C7012586D80F60088962A529126204064F67D
+30CEA1E5317AD7931CB875C9705F2S2CF9B244734S6F2FFE29AD2DA33C38E21B1B5ABBDSE167C4
+3B83D029B6A84FBC88667309DFFF697C8FC33AA5F2CD20A2AC9C5613ADC22F10F176AB7FS8COD7
+A302C354FD02003400000000000000000000000B30030000007EOO0000D80400000B3003000000
+             Hex·Dump Conversion
+
+
+
+
+      THE WHITE HOUSE CONFERENCE ON
+EARLY CHILDHOOD DEVELOPMENT AND LEARNING:
+ WHAT NEW RESEARCH ON THE BRAIN TELLS US
+       ABOUT OUR YOUNGEST CHILDREN
+
+
+
+                  Morning Session
+
+
+
+
+                  The East Room
+
+
+
+         Thursday, April 17, 1997
+              10:45 A.M. EDT
+                              Hex·Dump Conversion
+                                                               2
+
+PARTICIPANTS:
+
+THE PRESIDENT
+MRS. CLINTON
+
+DR. DAVID HAMBURG, Carnegie Corporation of New York, New York,
+New York
+
+DR. DONALD COHEN, Yale University, New Haven, Connecticut
+
+DR. CARLA SHATZ, University of California, Berkeley
+
+DR. PATRICIA KUHL, University of Washington, Seattle, Washington
+
+DR. EZRA DAVIDSON, Charles R. Drew University of Medicine and
+Science, Los Angeles, California
+
+DR. T. BERRY BRAZELTON, Harvard Medical School, Cambridge,
+Massachusetts
+
+DR. DEBORAH PHILLIPS, Institute of Medicine, Washington, D.C.
+                       Hex·Dump Conversion
+                                                                              3
+
+                       PRO C E E DIN G S
+
+     MRS. CLINTON:     Please be seated.               Welcome to the White
+
+House and to this very special White House Conference on Early
+
+Childhood Development and Learning.                  We are delighted that you
+
+can join us today not only here in the East Room, but I want
+
+to give a special welcome to the thousands of people who are
+
+joining this conference via satellite from universities,
+
+hospitals and schools around the country.                 There are nearly 100
+
+sites in 37 states.
+
+     Now, at first glance, it may seem odd to hold a conference
+
+here at the White House devoted to talking about baby talk.
+
+But that discussion has never been more important, because
+
+science, as we will hear from the experts who are with us today,
+
+has now confirmed what many parents have instinctively known
+
+all along, that the song a father sings to his child in the
+
+morning, or a story that a mother reads to her child before bed
+
+help lay the foundation for a child's life, and in turn, for
+
+our nation's future.
+
+     So the President has convened this conference with a clear
+
+mission:   to give the leading experts in the field of early
+                         Hex-Dump Conversion
+                                                                       4
+
+childhood development, the scientists and pediatricians, the
+
+researchers and all of the others, the opportunity to explain
+
+their discoveries and to put this invaluable body of knowledge
+
+at the service of America's families.
+
+     But this is not just for America's families.             This
+
+information is crucial for anyone in the position of leaving
+
+an impression on a young child's growing mind - - day-care workers,
+
+teachers, doctors and nurses, television writers and producers,
+
+business leaders, government policy-makers, all of us.
+
+     It is astonishing what we now know about the young brain
+
+and about how children develop.             Just how far we have come is
+
+chronicled in a report being issued today by the Families and
+
+Work Institute, entitled, "Rethinking the Brain."          Fifteen years
+
+ago, we thought that a baby's brain structure was virtually
+
+complete at birth.     Now, we understand that it is a work in
+
+progress, and that everything we do with a child has some kind
+
+of potential physical influence on that rapidly-forming brain.
+
+     A child's earliest experiences, their relationships with
+
+parents and care-givers, the sights and sounds and smells and
+
+feelings they encounter, the challenges they meet determine how
+                       Hex·Dump Conversion
+                                                                        5
+
+their brains are wired.         And that brain shapes itself through
+
+repeated experiences.        The more something is repeated, the
+
+stronger the neuro-circuitry becomes, and those connections,
+
+in turn, can be permanent.          In this way, the seemingly trivial
+
+events of our earliest months that we cannot even later recall
+
+-- hearing a song, getting a hug after falling down, knowing
+
+when to expect a smile -- those are anything but trivial.
+
+     And as we now know, for the first three years of their life,
+
+so much is happening in the baby's brain.            They will learn to
+
+soothe themselves when they're upset, to empathize to get along.
+
+ These experiences can determine whether children will grow up
+
+to be peaceful or violent citizens, focused or undisciplined
+
+workers, attentive or detached parents themselves.
+
+     We now have reached the point of understanding that a child's
+
+mind and a child's body must be nourished.           During the first
+
+part of the 20th century, science built a strong foundation for
+
+the physical health of our children - - clean water and safe food,
+
+vaccines for preventable diseases, a knowledge of nutrition,
+
+a score of other remarkable other lifesaving achievements.         The
+
+last years of this century are yielding similar breakthroughs
+                         Hex·Dump Conversion
+                                                                                6
+
+for the brain.    We are completing the job of primary prevention,
+
+and coming closer to the day when we should be able to ensure
+
+the well-being of children in every domain -- physical, social,
+
+intellectual, and emotional.
+
+      I have very high hopes not only for this conference, but
+
+for what I hope will come from it.                But there are, however, two
+
+things I hope this conference will not do.                    The first is I hope
+
+this information will not burden or overwhelm parents.
+
+Parenting is the hardest job in the world, and the information
+
+we offer today is meant to help parents, not to make them anxious
+
+or imprison them in a set or rules.                     If you forget to read to
+
+your child one night, please, that's okay.                      (Laughter. )
+
+      Think of this conference as a map.                   And like any good map,
+
+it shows you a lot of different ways to get where you need to
+
+go.   Many American parents have been asking for just such a map.
+
+ A new survey, "From Zero to Three," the National Center for
+
+Infants, Toddlers and Families shows a real hunger on the part
+
+of parents for knowledge on how they can play a positive role
+
+in their child's early development.                    And I hope this conference
+
+in one of the ways we answer that call.
+                          Hex-Dump Conversion
+                                                                     7
+
+      The second thing I hope does not happen is to create the
+
+impression that once a child's third birthday rolls around, the
+
+important work is over.       The early years are not the only years.
+
+ The brain is the last organ to become fully mature anatomically.
+
+ Neurological circuitry for many emotions isn't completed until
+
+a child reaches 15.     So there is always room for appropriate
+
+stimulation, loving and nurturing care by adults who are invested
+
+in a child.   There's always something that concerned adults can
+
+do.   And that has special relevance for adoption.        Adoptive
+
+parents can make an enormous difference for a child at any time,
+
+and especially for older children.
+
+      That said, here is what I hope the conference will
+
+accomplish.   I hope it will get across the revolutionary idea
+
+that the activities that are the easiest, cheapest and most fun
+
+to do with your child are also the best for his or her development
+
+-- singing, playing games, reading, story-telling, just talking
+
+and listening.   Some of my best memories are reading to our
+
+daughter, even if I fell asleep in the nine hundredth reading
+
+of "Goodnight, Moon."       But, reading to her when she was young
+
+was a joy for Bill and me, and we think also a joy for her.
+                         Hex-Dump Conversion
+                                                                           8
+
+But we had no idea 15, 16, 17 years ago that what we were doing
+
+was literally turning on the power in her brain, firing up the
+
+connections that would enable her to speak and read at as high
+
+a level as she possibly could reach_
+
+     I hope that the science presented in this conference will
+
+drive home a simple message, one supported in great detail by
+
+a report being issued today by the President's Council of Economic
+
+Advisors_   If we, as a nation, commit ourselves now to modest
+
+investments in the sound development of our children, including
+
+especially our very youngest children, we will lay the groundwork
+
+for an American future with increased prosperity, better health,
+
+fewer social ills and ever greater opportunities for our citizens
+
+to lead fulfilling lives in a strong country in the next century.
+
+     There's a quote I particularly like from the Chilean poet,
+
+Gabriella Mistral, that reminds us, "Many things we need can
+
+wait; the child cannot.        Now is the time his bones are being
+
+formed,
+
+his blood being made, his mind being developed.            To him, we cannot
+
+say, tomorrow.   His name is today."               We have known this
+
+instinctively, even poetically; now we know it scientifically.
+                              Hex·Dump Conversion
+                                                                              9
+
+
+
+
+     And I'm pleased to introduce someone who has been saying
+
+this and practicing it for a long time -- maybe not in poetry,
+
+but certainly in the countless stories and books and songs that
+
+he has shared not only with our daughter, but with our nephews
+
+and, really, any small child who ever crosses his path.               As the
+
+President of the United States and as a father, he has acted
+
+on these beliefs, putting the well-being of children at the very
+
+center of national policy.           So it pleases me greatly to introduce
+
+my fellow reader of "Good Night, Moon," the President, Bill
+
+Clinton.      (Applause. )
+
+     THE PRESIDENT:          Thank you.        Thank you very much.   Thank
+
+you very much, and welcome to the White House.               I was relieved
+
+to hear Hillary say that the brain is the last organ to fully
+
+develop.   It may yet not be too late for me to learn how to walk
+
+down steps.      (Laughter.)       Or maybe I was thinking it was because
+
+I was always hugged when I fell down as a child, I did this
+
+subconsciously on
+
+purpose.      (Laughter. )
+
+     Let me begin by thanking the members of the Cabinet who
+                            Hex·Dump Conversion
+                                                                              10
+
+are here.     I see Secretary Riley and Secretary Glickman.           I thank
+
+Governor Romer and Governor Chiles for being here.                  I think
+
+Governor Miller is coming.            There are many others who are here.
+
+ Congresswoman De Lauro is either here or coming.                  Thank you,
+
+Governor Miller.      I see I was looking to the left there.
+
+(Laughter.)     He's from Nevada -- he just went up five points
+
+in the polls when I said that.                (Laughter. )
+
+     Let me say, first of all, the first time I met Hillary,
+
+she was not only a law student, she was working with the Yale
+
+Child Study Center, and she began my education in these issues.
+
+ And for that, I am profoundly grateful.                  And I thank her for
+
+bringing the scientists, the doctors, the sociologists, the
+
+others whose work is the basis for our discussion today here.
+
+And I, too, want to thank the thousands of others who are joining
+
+us by satellite.
+
+     This unique conference is a part of our constant effort
+
+to give our children the opportunity to make the most of their
+
+God-given potential and to help their parents lead the way, and
+
+to remind everyone in America that this must always be part of
+
+the public's business because we all have a common interest in
+                                 Hex·Dump Conversion .
+                                                                  11
+
+our children's future.
+
+     We have begun the job here over the last four years by making
+
+education our top domestic priority, by passing the Family Leave
+
+act and now trying to expand it and enact a form of flex time
+
+which will give parents more options in how they take their
+
+overtime in payor in time with their children, by the work we
+
+have done to expand the Family and Medical Leave Act and by the
+
+work we've tried to do to give parents more tools with the v-chip
+
+and the television rating system, and the work we are still
+
+carrying on to try to stop the advertising and marketing and
+
+di·stribution of tobacco to our children, and other work we've
+
+done in juvenile justice and trying to keep our kids away from
+
+the dangers of alcohol and drugs.
+
+     All these are designed to help our parents succeed in doing
+
+their most important job.     Now it seems to me maybe the most
+
+important thing we can actually do is to share with every parent
+
+in America the absolutely stunning things we are learning from
+
+new scientific research about how very young children learn and
+
+develop.   In that regard, I'd like to thank Rob Reiner and others
+
+who are committed to distributing this information, and I'd like
+                           Hex·Dump Conversion
+                                                                        12
+
+to thank the media here in our Nation's Capital and throughout
+
+the country for the genuine interest that they have shown in
+
+this conference.
+
+     I think there is an instinctive understanding here that
+
+this is a very, very big issue that embraces all of us as
+
+Americans, and that if we learn our lessons well and if we're
+
+patient in carrying them out, as Hillary said, knowing that there
+
+is no perfect way to raise a child, we are likely to have a very
+
+positive and profound impact on future generations in this
+
+country.   So I want to thank, again, all of you for that.
+
+     Let me say there are some public programs that bear directly
+
+on early childhood development -- the Head Start program, which
+
+we've expanded by 43 percent over the last four years; the WIC
+
+program, which we've expanded by nearly 2 million participants.
+
+ I have to say that I was a little disappointed -- or a lot
+
+disappointed to see a congressional committee yesterday vote
+
+to underfund the WIC program.         I hope that if nothing else happens
+
+out of this conference, the results of the conference will reach
+
+the members of that congressional committee and we can reverse
+
+that before the budget finally comes to my desk.
+                         Hex·Dump Conversion
+                                                                             13
+
+      I would also like to remind all of you that this conference
+
+is literally just a start.           We have to look at the practical
+
+. implications of this research for parents, for care-givers, for
+
+policy-makers, but we also know that we're looking at years and
+
+years of work in order to make the findings of this conference
+
+real and positive in the lives of all of our children.             But this
+
+is a very exciting and enormous undertaking.
+
+      This research has opened a new frontier.            Great exploration
+
+is, of course, not new to this country.                We have gone across
+
+the land, we have gone across the globe, we have gone into the
+
+skies, and now we are going deep into ourselves and into our
+
+children.   In some ways, this may be the most exiting and
+
+important exploration of all.
+
+      I'm proud of the role that federally-funded research has
+
+played in these findings in discovering that the earliest years
+
+of life are critical for developing intellectual, emotional and
+
+social potential.    We all know that every child needs proper
+
+nutrition and access to health care, a safe horne and an
+
+environment i and we know every child needs teaching and touching,
+
+reading and playing, singing and talking.
+                          Hex·Dump Conversion
+                                                                          14
+
+     It is true that Chelsea is about to go off to college, but
+
+Hillary and I have been blessed by having two young nephews now
+
+-- one is about two and one is about three -- and we're learning
+
+things allover again that, I must say, corroborate what the
+
+scientists are telling us.
+
+     We are going to continue to work on this, and I know that
+
+you will help us, too.      Let me just mention two or three things
+
+that we want to work on that we think are important.           We've got
+
+to do a lot more to improve the quality, the availability and
+
+the affordability of child care.             Many experts consi"der our
+
+military's child care system to be the best in our country.
+
+I'm very proud of that, and not surprised.
+
+     The man responsible for administering the Navy's child care
+
+system, Rear Admiral Larry Marsh, is here with us today.             He
+
+leads a system that has high standards, including a high
+
+percentage of accredited centers, a strong enforcement system
+
+with unannounced inspections, parents have a toll-free number
+
+to call and report whatever concerns they may have, training
+
+is mandatory and wages and benefits are good, so, staff tends
+
+to stay on.
+                           Hex-Dump Conversion
+                                                                           15
+
+     I am proud that the military places such importance on
+
+helping the families of the men and women who serve our country
+
+in uniform_   But it's really rather elementary to know that
+
+they're going to do a lot better on the ships, in the skies,
+
+in faraway lands if they're not worried about how their children
+
+are faring while they're at work serving America.
+
+     To extend that kind of quality beyond the military, I am
+
+issuing today an executive memorandum asking the Department of
+
+Defense to share its success.           I want the military to partner
+
+with civilian. child care centers to help them improve quality,
+
+to help them become accredited, to provide training to civilian
+
+child care providers, to share information on how to operate
+
+successfully, and to work with state and local governments to
+
+give on-the-job training and child care to people moving from
+
+welfare to work.
+
+     I think this is especially important.               Let me say in the
+
+welfare reform bill, we put another $4 billion in for child care.
+
+ In addition to that, because the states are getting money for
+
+welfare reform based on the peak case load in             welfar~   in 1994,
+
+and we've reduced the welfare rolls by 2.8 million since then,
+                         Hex·Dump Conversion
+                                                                     16
+
+most states, for a period of time until an extra session comes
+
+along, will have some extra funds that the can put into more
+
+child care.   This gives states the opportunity they have never
+
+had before to train more child care workers, to use funds to
+
+help even more people move from welfare to work and perhaps even
+
+to provide more discounts to low-income workers to make child
+
+care affordable for them.
+
+     This welfare reform effort, if focused on child care, can
+
+train lots of people on welfare to be accredited child care
+
+workers and expand the availability of welfare in most of the
+
+states of the country.      It's not true for every state, because
+
+some of them have had smaller drops in the case load and three
+
+have had no drops.   But, by and large, the welfare reform bill,
+
+because of the way it's structured, gives all of you who care
+
+about child care about a year or two to make strenuous efforts,
+
+state by state, to create a more comprehensive quality system
+
+of child care than we have ever had before.            And I certainly
+
+hope that what we can do here, plus the support of the military,
+
+we'll see dramatic advances in that regard.
+
+     I'd like to thank the people here who have done that work.
+                           Hex-Dump Conversion
+                                                                            17
+
+ And I'd like to say that we are going to hold a second conference,
+
+this one devoted exclusively to the child care issue here at
+
+the White House in Washington this fall_                 And I hope all of you
+
+who care about that will come back.
+
+     The second thing we want to do is to extend health care
+
+coverage to uncovered children.             The budget I have submitted
+
+will extend coverage to as many as 5 million children by the
+
+year 2000 with the children's health initiative in the budget
+
+proposal - - to strengthen Medicaid for poor children and children
+
+with disabilities, to provide coverage for working families
+
+through innovative state programs, to continue health care
+
+coverage for children of workers who are between jobs.                  There
+
+is an enormous amount of interest in this issue in both parties,
+
+I'm happy to say, in the Congress in this session.                And I quite
+
+confident that if we'll all work together, we can get an
+
+impressive expansion in health care coverage for children in
+
+this congressional session.
+
+     I'm pleased that Dr. Jordan Cohen, the President and CEO
+
+of the Association of American Medical Colleges is with us today
+
+to lend his association's strong support to these efforts.               With
+                       Hex·Dump Conversion
+                                                                            18
+
+the support of leaders in medicine, again I say, I am convinced
+
+we'll have a bipartisan consensus that will extend coverage to
+
+millions more uninsured children.
+
+     The third thing we want to do is this:                  Because we know
+
+the great importance of early education, we're going to expand
+
+Early Head Start enrollment by at least one-third next year.
+
+Early Head Start was created in 1994.                It's been a great success
+
+in bringing the nutritional, educational and other services of
+
+Head Start to children aged three and younger and to pregnant
+
+women.   It has been a real success and we need to expand it.
+
+     Today we are requesting new applications for early Head
+
+Start programs to accomplish the expansion.                And to help parents
+
+to teach the very young, we developed a tool kit called, "Ready,
+
+Set, Read," part of our America Reads challenge, designed to
+
+make sure that every child can read independently by the 3rd
+
+grade.   This kit gives tips on activities for young children.
+
+ It's going out to early childhood programs all across the country
+
+along with a hotline number for anyone else who wants the kit.
+
+     The fourth thing we're going to do is to protect the safety
+
+of our children more.       In particular, we have to help young
+                       Hex·Dump Conversion
+                                                                            19
+
+children more who are exposed to abuse and violence.                Let me
+
+tell you, as you might imagine, I get letters all the time from
+
+very young children.      And my staff provides a significant number
+
+of them for me to read.          The Secretary of Education not very
+
+long ago gave me a set of letters from children who were quite
+
+young, a couple of years ago gave me a set of letters from children
+
+who were in the 3rd grade.            But sometimes I get them from
+
+kindergarten children and 1st grade children, talking about what
+
+they want America to look like.                  And it is appalling the
+
+number of letters I get from five- and six-year-olds who simply
+
+want me to make their lives safe; who don't want to worry about
+
+being shot; who don't want anymore violence in their homes; who
+
+want their schools and the streets they walk on to be free of
+
+terror.
+
+     So, today the Department of Justice is establishing a new
+
+initiative called "Safe Start," based on efforts in New Haven,
+
+Connecticut, which you will hear about this afternoon.                The
+
+program will train police officers, prosecutors, probation and
+
+parole officers in child development so that they'll actually
+
+be equipped to handle situations involving young children.             And
+                          Hex·Dump Conversion
+                                                                           20
+
+I believe if we can put this initiative into effect all across
+
+America, it will make our children safer.                And I'm glad we're
+
+announcing it today during Victims of Crime Week. We all know
+
+that it's going to take a partnership across America to help
+
+our children reach their full potential.                But the toughest job
+
+will always belong to our parents -- first teachers, main
+
+nurturers.   Being a parent is a joy and a challenge.               But it's
+
+not a job you can walk away from, take a vacation from, or even
+
+apply for family leave from.           (Laughter.)       The world moves too
+
+fast, and today, parents have more worries than ever.              Work does
+
+compete with family demands, and finding a balance is more
+
+difficult than before.       That's why this must always be part of
+
+the public's business.
+
+     Let me come now to the bottom line.                The more we focus on
+
+early years, the more important they become.              We know that these
+
+investments of time and money will yield us the highest return
+
+in healthier children, stronger families and better communities.
+
+     Now, let me say, finally, I know that none of us who are
+
+in politics, none of us who are just parents, will ever know
+
+as much as the experts we're about to hear from today.              But what
+                           Hex·Dump Conversion
+                                                                            21
+
+they're going to tell us is the most encouraging thing of all,
+
+which is, they have found out that we can all do the job.                  No
+
+matter how young, a child does understand a gentle touch or a
+
+smile or a loving voice.          Babies understand more than we have
+
+understood about them.         Now we can begin to close the gap and
+
+to make sure that all children in this country do have that chance
+
+to live up to the fullest of their God-given potential.
+
+     Again, I thank you all for being here.              I thank our experts,
+
+I thank the First Lady.        And I'd like to ask Dr. David Hamburg
+
+to come up and sit there and take over the program.
+
+     David?
+
+     Thank you.     (Applause. )
+
+     MRS. CLINTON:      I wanted to add to the President's
+
+introduction.     Dr. Hamburg brings to this position a lifetime
+
+of commitment, improving the quality of life of Americans and
+
+people around the world; and in his latest incarnation as the
+
+President of the Carnegie Corporation, has overseen the
+
+production of a series of reports about our children.                And the
+
+one that is most relevant for today is a report called "Starting
+
+Points, " that really was, in many of our eyes, the seminal report
+                         Hex-Dump Conversion
+                                                                   22
+
+on early childhood development, and out of which has sprung much
+
+of the public attention over the past three years to the issues
+
+we're going to discuss today.
+
+     Dr. Hamburg.
+
+     DR. HAMBURG:      Thank you very much, indeed.    I know I speak
+
+for everyone in thanking the President and the First Lady for
+
+outstanding leadership on this vital issue, which is simply the
+
+fundamental building blocks of every human life.         That's what
+
+this is about.     This month is a historic one in the annals of
+
+disease prevention.       Do you remember infantile paralysis, we
+
+used to call it?      In April, 1995 -- in April, the Salk Polio
+
+Vaccine first became available.
+
+     It so happens that the late Jonas Salk was a member of the
+
+task force that prepared Starting Points, and he said, about
+
+that report when it came out, liThe encouraging news in Starting
+
+Points, that there is a way to prevent the crippling of the minds
+
+of infants and children, may be a similar historic opportunity.
+
+ I think today's White House Conference does indeed signify
+
+historic opportunity, the nation coming together on behalf of
+
+all our children, our most precious assets.
+                            Hex·Dump Conversion
+                                                                    23
+
+     Now, the fact is that our nation's infants and toddlers
+
+are in trouble.     Compared with most other established
+
+democracies, the United States has more casualties and more risk
+
+factors, more serious risk factors, than the other democracies.
+
+For example, a higher mortality rate, a higher proportion of
+
+low birth-weight babies, a smaller proportion of toddlers
+
+immunized against childhood diseases, and a much higher rate
+
+of babies born to adolescent mothers.
+
+     Now, if a poor start leaves an enduring legacy of impairment,
+
+then high costs follow.       Now, it's quite true, as the First Lady
+
+just said, it doesn't necessarily follow that bad experiences
+
+in the first few years doom a person for the rest of their
+
+lifespan, but such bad experiences do change the odds in a
+
+negative way.     And, when there is an enduring legacy of
+
+impairment, then it may show up in different systems:      in health,
+
+in education, in justice.          We call them by a lot of different
+
+names:   disease, disability, incompetence, ignorance, hatred,
+
+violence.   But, by whatever name, these outcomes involve severe
+
+economic and social penalties for the entire society.
+
+     During the 1990s, an important consensus has emerged within
+                           Hex-Dump Conversion
+                                                                      24
+
+the scientif ic and professional communi ties, on ways that parents
+
+and others can cooperate in meeting the developmental needs of
+
+very young children.       Our aim at this meeting is to clarify that
+
+scientific and professional consensus as far as we can, and to
+
+make it widely understood throughout country.             The President
+
+referred to Rob Reiner's initiative, which is a major thrust
+
+toward fostering public understanding, which is so vital in a
+
+democracy, and this meeting gives a very big boost to that effort.
+
+     Our report, to which the First Lady referred, Starting
+
+Points, published the three years ago this month, in 1994,
+
+formulated four main approaches to preventing damage to the
+
+youngest children and provided a solid basis for hope, as the
+
+President said.          Those four thrusts were:        first,
+
+preparation for responsible and competent parenthood; second,
+
+health care; third, child care; and fourth, community
+
+mobilization.     You will hear at least samples of each of those
+
+approaches in today' s program, partly this morning, partly this
+
+afternoon.
+
+     Now, when Starting Points was released, we were somewhat
+
+surprised by the extraordinary positive, constructive, extensive
+                        Hex·Dump Conversion                                 25
+
+media attention that focused on the strong evidence from research
+
+on brain and behavior development, indicating the long-term
+
+effects of early experience. Starting Points also noted the wide
+
+gap between scientific research and public knowledge, between
+
+what is known and what we do about that knowledge, what we do
+
+to meet the essential requirements for healthy child development
+
+in the earliest years, so today's meeting is a major step in
+
+filling that dangerous.gap.
+
+     In the morning session, we will first hear from three
+
+distinguished scientists about highlights of basic research in
+
+the biological and behavioral sciences.               These are important
+
+samples of emerging knowledge, only samples.               Because of the
+
+time constraints, we cannot possibly be comprehensive.               This
+
+field is simply flourishing beyond any prior expectation.              But
+
+they will be sufficient to suggest the profound importance of
+
+early development.
+
+     Then we will hear from three highly respected scholars on
+
+professional services.       How can the powerful advances in
+
+fundamental knowledge be put to work for the wellbeing of all
+
+our children and for the strengthening of their families?               I
+                         Hex-Dump Conversion
+                                                                            26
+
+·think the President himself will guide that part of the
+
+discussion.   In essence, that part of the discussion will focus
+
+on a developmental sequence of valuable services that starts
+
+with early prenatal care and goes on to preventive pediatric
+
+care, to parent education, social supports for young families,
+
+high-quality child care and early childhood education which,
+
+as you heard, will be the focus of a conference in the White
+
+House this fall, a vitally significant subject.                A new Rand
+
+cost/benefit study shows that, for every dollar spent on such
+
+early opportunities, many dollars are saved in later years.
+
+     It is important to note, and I want to reinforce what the
+
+President said, that most of the research in this field, and
+
+almost all of the basic research                  the basic research -- has
+
+been supported by the United States Government, primarily by
+
+the National Institutes of Health, and also by the National
+
+Science Foundation.      These institutions are highly respected
+
+throughout the world.       Wherever there is serious interest in
+
+science, or medicine, or public health, the NIH and the NSF are
+
+well known and deeply respected.
+
+     Now, let me briefly introduce the speakers, and I will do
+                           Hex·Dump Conversion
+                                                                                27
+
+them in turn.     To save time, I will do the whole batch together
+
+and then they will speak:           Dr. Donald Cohen is director of the
+
+Yale Child Studies Center and Irving B. Harris Professor of Child
+
+Psychiatry, Pediatrics, and Psychology at the Yale university
+
+School of Medicine in New Haven.               The Center is internationally
+
+recognized for its multidisciplinary research and its clinical
+
+programs, its professional education, its services, and its
+
+advocacy for children and families.                      You also heard that Mrs.
+
+Clinton had one of her very first jobs in that Center.                  Dr. Cohen
+
+is deeply involved in ways of coping with the problems of urban
+
+child development.
+
+     Then, we'll have Dr. Carla Shatz, who received her Ph.D.
+
+in neurobiology at the Harvard Medical School, working with David
+
+Hubel and Tosten Viesel, Nobelists who really opened up this
+
+crucial line of inquiry with respect to the development of the
+
+nervous system.     She is now professor of neurobiology at the
+
+University of California at Berkeley.                     Her ongoing studies of
+
+how the orderly sets of connections present in the adult brain
+
+are actually wired up during development -- these studies have
+
+gained her great respect in the international scientific
+                             Hex·Dump Conversion
+                                                                                28
+
+community.       She is immediate past president of the Society for
+
+Neuroscience, which is the umbrella organization in this field.
+
+ Her research has broad implications for our understanding of
+
+the normal development of the human brain, including learning
+
+and memory, but it also has implications for neurological birth
+
+defects.
+
+     Then, we will hear from Dr. Patricia Kuhl, who is the current
+
+chair of the Speech and Hearing Sciences at the University of
+
+Washington in Seattle.            Her research interests focus on the
+
+development of language and speech and how language information
+
+is stored in the brain.            Her studies have        illu~trated   how
+
+infants   I   early auditory experience plays a critical role in the
+
+acquisition of language in the first year of life.                       This
+
+work has broad implications for the identification of crucial
+
+periods in development and also in respect to bilingual
+
+education.
+
+     Then, we will hear from, in the second half of this session
+
+on professional services, we will hear from Dr. Ezra Davidson,
+
+who is Professor and past Chairman of the Department of Obstetrics
+
+and Gynecology of the Charles Drew University of Medicine and
+                        Hex-Dump Conversion
+                                                                               29
+
+Science in Los Angeles, where he headed, for many years, one
+
+of the largest obstetrical services in the country.                  He was an
+
+early contributor to our understanding of fetal development,
+
+and he has been at the forefront of efforts to improve maternal
+
+and child health.
+
+     Next will come Dr. Barry Brazelton, one of the best-known
+
+child health specialists in the world, a distinguished scholar
+
+and tireless advocate for children.                   One of Dr. Brazleton's
+
+foremost achievements in pediatrics is his behavioral assessment
+
+scale, which is used worldwide to assess neurological responses
+
+of newborns, their emotional wellbeing, and their individual
+
+differences.   He is Clinical Professor of Pediatrics Emeritus
+
+at Harvard Medical School.          His Touchpoints Project at Boston
+
+Children's Hospital formulates curricula for use in outreach
+
+programs across the nation to bring high-risk children into the
+
+preventive primary health care system.
+
+     And, finally, Dr. Deborah Phillips.                 She is a distinguished
+
+child development psychologist.             She is Executive Director of
+
+the Board on Children, Youth, and Families of the National Academy
+
+of Sciences, the National Research Council.
+                          Hex-Dump Conversion
+                                                                       30
+
+     She has done highly illuminating research and analysis on
+
+child care, most recently serving on the group responsible for
+
+the National Institute of Child Health and Human Development
+
+Longitudinal Study of Child Care Outcomes that was reported two
+
+weeks ago at the Society for Research and Child Development_
+
+     So it's a wonderful panel on a sampling of absolutely crucial
+
+topics for the future of our children and, thereby, for the
+
+nation's future.
+
+     Dr. Cohen, please start us off.
+
+
+
+     DR. COHEN:      Thank you very much, Dr. Hamburg_
+
+     Mr. President, Mrs_ Clinton, we are all very grateful,
+
+indeed, for your focusing national attention on children's
+
+development and on the implications of research for the lives
+
+of children and families_
+
+     As you have pointed out, research reveals that babies are
+
+born with remarkable abilities and potential.           Their experiences
+
+during the first years and months of life will either facilitate
+
+this potential or blunt it.              These early experiences have an
+
+during impact on children's behavior and also, as you know, on
+                          Hex·Dump Conversion
+                                                                     31
+
+the maturation of their brains.
+
+     While there is far more to learn about young children,
+
+scientific knowledge already can and should be used to help assure
+
+that children receive the care that will move them forward.
+
+Available knowledge also can help families, teachers, and
+
+clinicians recognize when a child is first starting to have
+
+problems and to provide effective treatment to help move
+
+development back on course.
+
+     Much that science has learned confirms the truths that our
+
+grandparents took for granted -- that babies need devoted care
+
+of adults who love them, protection from harm, a chance to play,
+
+to feel proud of their achievements, and to be comforted when
+
+they are upset.
+
+     Our grandparents also knew that children need to be treated
+
+fairly and provided with moral examples to develop their own
+
+inner sense of values.
+
+     Science has confirmed these beliefs, but we have also
+
+learned some things about the first years of life that would
+
+have surprised our parents.           Researchers have discovered that
+
+the minds of infants are active from the time they are born,
+                             Hex-Dump Conversion
+                                                                     32
+
+and are shaped by experience.
+
+     Infants see and hear and taste, and they try actively to
+
+make sense of these impressions.            They recognize patterns and
+
+are interested in shapes, and they remember what they have heard
+
+and what they have felt.      Babies, in short, are smarter, more
+
+competent, more curious and eager than ever was suspected.
+
+     Most importantly, we have learned that social relations
+
+are central to every aspect of a child's development. Active
+
+and engaged care is essential for children's brain maturation
+
+and for the social, emotional intellectual development.
+
+     Ordinary devoted parents are what makes development go
+
+forward because their care provides the basic ingredients for
+
+brain maturation.   However, it's artificial to distinguish brain
+
+and behavior.   Everything that the baby thinks or feels or does
+
+is the result of brain activity.        In turn, the baby's experiences
+
+actually changes the way the brain works.
+
+     As the child looks at the mobile above his crib or later
+
+as the child and father play blocks and talk about what they're
+
+ding, specific groups of brain cells are activated and
+
+connections between parts of the brain are formed and
+                               Hex-Dump Conversion
+                                                                          33
+
+strengthened_
+
+     A baby comes into the world ready to adapt.               On the first
+
+day of life, a baby can search the room with his eyes, can visually
+
+trace the edges of the triangle, and look intently at his mother's
+
+eyes during a feeding.       During nursing, a baby exercises every
+
+sense, vision, touch, taste, temperature, smell, and organizes
+
+these perceptions as he learns about his mother's appearance
+
+and her style of giving care.
+
+     When parents and other care givers take care of a child,
+
+they're doing a lot more than just feeding or bathing or
+
+comforting.     They're helping the child's brain to develop,
+
+shaping his temperament and teaching the child about the world.
+
+     These social interactions are the building blocks for a
+
+young child's mental and emotional abilities.                When the child
+
+plays with his parents or care givers or listens to them talk
+
+and babbles back, he learns to focus and to concentrate, to
+
+recognize the familiar and to study the unfamiliar, to
+
+communicate and to take pleasure in learning.                These same
+
+processes later allow a first grader to focus on a book, quiet
+
+down, filter out the noise in the classroom and feel good about
+                            Hex·Dump Conversion
+                                                                34
+
+learning to read.
+
+     Children who are provided with warm care and attention
+
+become attached to their parents and then to the one or two or
+
+even three other adults who take care of them on a regular basis.
+
+ They build up an internal emotional portrait of their parents.
+
+ When the parent isn't there, when she's at work or busy with
+
+something else, when the child is upset, the baby remembers the
+
+internal portrait and comforts himself.
+
+     The more securely attached a child is, the more easily she
+
+can cope with new experiences, including out-of-home child care
+
+or recovering from illnesses or brief separations.
+
+     The experiences during the first years of life at home,
+
+in child care, in the community are especially important because
+
+they lay down the patterns for all future development.     A
+
+fortunate child who has been loved and stimulated, talked with,
+
+comforted, given predictable care, will see the world as
+
+basically safe and secure, will feel valued and effective, will
+
+have trust in himself and others and will be able to use his
+
+intellectual potentials to his limits.
+
+     The nation has far too many children who are not so
+                        Hex·Dump Conversion
+                                                                               35
+
+fortunate.   Children who have had difficult experiences in one
+
+area or another are likely to have problems.                   In subsequent
+
+years, there may be opportunities for earlier brain and
+
+behavioral patterns to be reshaped.             A child with low self esteem
+
+from repeated failures and neglect can blossom with a mentor
+
+and an opportunity for success.            An anxious child can be helped
+
+with therapy and emotional support.                   Over-active children can
+
+learn how to calm down in kindergarten and first and second
+
+grades.
+
+     No child's potential for recovery and achievement should
+
+ever be written off, but we can't count on the success of such
+
+renovation when early maladaptive patterns have been too severe
+
+and have gone on for too long.
+
+     There are important lessons from research on early care
+
+and stimulation for the lives of the most vulnerable young
+
+children, such as those who have been abused or neglected or
+
+moved from one foster home to another.
+
+     Mrs. Clinton, your teacher and mine, Sally Province, was
+
+among the very first researchers to show that children who are
+
+deprived of the continuity of individualized, active attention
+                        Hex-Dump Conversion
+                                                                36
+
+and care are at great risk to fail emotionally and physically_
+
+ They're at jeopardy of ever forming secure, stable attachments
+
+and trust in others.
+
+     Dr. Province used these insights to create one of the first
+
+early intervention programs for infants and children.     She
+
+demonstrated that sensitive child care and family support can
+
+lead to long-term gains in children's development.
+
+     We need to make this advanced developmental knowledge and
+
+training and resources available to those providing care and
+
+security for the most vulnerable traumatized children.
+
+     Scientific research also provides important new information
+
+about children from loving and devoted families who are born
+
+with constitutional vulnerabilities such as autistic children.
+
+ These children are unable to communicate or participate in
+
+social relations because of inborn dysfunctions in brain
+
+maturation that no amount of loving, devoted care can really
+
+reverse.   They benefit from education and treatment, but the
+
+ultimate hope lies with the type of behavioral and brain research
+
+that you are encouraging today.
+
+     Scientific research on healthy children and on vulnerable
+                              Hex-Dump Conversion
+                                                                        37
+
+children pass new light on the many factors that go into normal
+
+development and the many ways in which development may become
+
+derailed.   This research helps to define what children and
+
+families need to develop their fullest potential.           We must strive
+
+to meet these needs.
+
+     We thank you, Mr. President, Mrs. Clinton, for your making
+
+the future of children a shared national concern.
+
+     Thank you.
+
+     (Applause. )
+
+     DR. HAMBURG:     Dr. Shatz?
+
+     DR. SHATZ:     Well, I'd first like to echo that thanks for
+
+focusing this day and also future events on the importance of
+
+knowing about child development and brain development.
+
+     Dr. Cohen began his talk by mentioning that the baby is
+
+born ready to go, ready to adapt to the world, and I would like
+
+to talk about what's going on in the brain during those times
+
+and even earlier in development.
+
+     The brain after all is the most incredible computational
+
+machine imaginable and its precision of circuitry really
+
+underlies our abilities to see, to talk to fee and in fact to
+                           Hex.Dump Conversion
+                                                                          38
+
+be human, so a huge question that neuroscientists have spent
+
+the last 25 years addressing is how in the world is this incredible
+
+machine assembled during development.
+
+     I am very happy to say that the last 25 years of research
+
+have yielded a huge amount of new            an~    important insights and
+
+I want to try to fill you in on some of those in the next few
+
+minutes.
+
+     First, I want to talk to you about the magnitude of the
+
+problem.   The brain actually consists of nerve cells and
+
+neuroscientists argue about how many there are but there are
+
+probably something like a trillion nerve cells.             And I know those
+
+of you who are dealing with the budget deficit understand that
+
+number.
+
+     Now, a nerve cell consists, you could think of a nerve cell
+
+kind of like a telephone, but, unlike a phone, it communications
+
+with other nerve cells by a combination of chemical and electrical
+
+signalling.
+
+     Now, like a phone, a nerve cell gets inputs, gets signals
+
+from other cells and it sends signals through a very long fiber
+
+or process called an axon.         And the axon itself connects with
+                            Hex-Dump Conversion
+                                                                  39
+
+maybe up to anywhere from 10 to even 10,000 other nerve cells,
+
+so when you place a phone call, maybe one or maybe even 10,000
+
+other phones will ring.
+
+     Now, that means there's something like over a hundred
+
+trillion connections that the brain has to form during
+
+development and yet the precision of those connections is such
+
+that it's almost as if nothing has been left to chance.
+
+     Now, another amazing problem that the brain has to solve
+
+during development is that none of these connections are there
+
+to start out with.       Nothing is connected to anything else in
+
+the brain.     In fact, the way things work is that individual nerve
+
+cells come from dividing cells that divide like mad, produce
+
+progenitors.     Those cells then have to spin out, they're very
+
+long axons, to reach the appropriate parts of the brain.        So
+
+nothing is connected at first.
+
+     And you could make the analogy that the problem of brain
+
+wiring is kind of like the problem of stringing telephone wires
+
+from one city to another in the brain, from New York to Washington,
+
+D.C., and there are sort of two levels of problem that have to
+
+be solved.
+                        Hex-Dump Conversion
+                                                                       40
+
+     The first is you have to string the trunk lines, so you
+
+have to connect up New York to D _C _ and not to Providence, Rhode
+
+Island_   And what I mean by that is in the brain connections
+
+from the eye have to grow to the visual part of the brain.
+
+Connections from the ear have to grow to the auditory part of
+
+the brain and so on.      All these things have to happen de novo.
+
+     But then the problem of wiring isn't over once that happens.
+
+ The trunk lines are formed and then within the cities the
+
+connections have to go to the right address, so when your
+
+grandmother calls you up in Washington that your phone rings
+
+and the phone at the White House doesn't ring.           So there is this
+
+problem of address selection as well.
+
+     It's not a trivial problem.             The connections from the eye
+
+to the brain, there are about a million connections from each
+
+eye and there are about two million possible phones that each
+
+one of these connections could make in the target.           And yet only
+
+something like 10 or 20 or 100 connections are selected from
+
+this huge subset and that's just in the visual system.
+
+     Now, what I want to talk about is the solution here, how
+
+this works.   Well, one idea is that the brain could be wired
+                         Hex·Dump Conversion
+                                                                  41
+
+like a computer, so, like a computer, take all the component
+
+parts, solder them all together, flip the switch and, voila,
+
+it works.    But, actually, the brain solution is much more
+
+adaptive and elegant than that and the bottom line is the solution
+
+involves starting out by doing the gross wiring of the brain
+
+and then halfway through, before all the wiring is complete,
+
+just flip the switch, and then actually the wiring continues
+
+the process. the functioning of the braining continues the wiring
+
+process.    So the brain is on from early times in development
+
+helping in this wiring process.
+
+       Now, research all the way from flies to mammals have shown
+
+that this wiring occurs, then, in two broad phases.       There's
+
+a basic framework of brain wiring, these would be the trunk lines,
+
+that are laid down through following a strict genetic blueprint
+
+that sets down very clear molecular clues allowing axons to grow
+
+along the right roadways and select the right targets within
+
+the brain, so laying down connections from New York to Washington,
+
+D.C.
+
+       But those connections, when they first form within the
+
+target structure, are not in the adult precision.      In fact, the
+                       Hex-Dump Conversion
+                                                                 42
+
+phones, when you place a phone call in development from New York
+
+to Washington, phones ring allover Washington, so not only your
+
+phone rings, but the White House phone rings, too_
+
+     Then there is a second phase of development in which brain
+
+function is required and it's actually as if the brain is placing
+
+phone calls and using those phone calls to correct the initial
+
+errors that have been formed in the addressing that occurs early
+
+in development.    So the brain is almost running test patterns
+
+on all these connections, phoning home, essentially, to figure
+
+out which are the right phones to ring and which are the wrong
+
+and the incorrect connections are eliminated and the correct
+
+ones are actually strengthened and grow like mad.
+
+     So the baby's brain is actually not just a miniature version
+
+of an adult brain.      It's a dynamic evolving structure that
+
+requires its own function to wire itself in the second phase,
+
+this kind of phoning home.
+
+     Now, I want to give you a famous example of this.     In the
+
+last 20 years or so, many people have looked at vision and
+
+development of visual connections and I want to ask you a question
+
+and see if you can answer this.
+                            \-Iex·Dump Conversion
+                                                                    43
+
+     When your grandmother gets a cataract as an adult, she cannot
+
+see out of that eye, but if she has that cataract for five years
+
+and then a surgeon comes and corrects the optics of the eye and
+
+replaces the lens and the cornea, she has good vision again,
+
+no problem.
+
+     Now, an unfortunate situation is that sometimes children
+
+are born with congenital cataracts and they might not be operated
+
+on for about five years.          So let's say a five-year-old is then
+
+operated.     The optics of the eye are corrected, yet tragically
+
+the child is blind in the eye that has the cataract.
+
+     What's the difference?
+
+     Well, Hubel and Viesel who were Nobel laureates in 1981
+
+set out to make an animal model to answer this question and what
+
+they discovered is that they eye that wasn't used because it
+
+had the cataract actually lost many of its connections with the
+
+brain.   They withered away and that actually accounted for the
+
+blindness in that eye.         So this is a classic example of use it
+
+or lose it.    And Hubel and Viesel could look right in the brain
+
+of the animal models and see that those connections had actually
+
+gone away.
+                             Hex·Dump Conversion
+                                                                            44
+
+     So this idea, then, gave rise to the whole concept of the
+
+importance of early experience in brain wiring and it's still
+
+one of our best examples of how early experience is needed for
+
+the proper wiring of connections and how abnormal experience
+
+can literally lead to a loss of connections in the brain.
+
+     Now, don't worry, grandma was fine because once the
+
+connections are formed, in most cases, they don't go away again.
+
+ So once formed, the connections are there.                And this then means
+
+that there must be early periods of development, windows of
+
+opportunity or critical periods, as scientists call them, during
+
+which time experience is essential for brain wiring.
+
+     Now, because the brain and different parts of the brain
+
+develop at different rates, scientists think that there probably
+
+are different critical periods or different windows for different
+
+parts of the brain, so it's not just as if there is one critical
+
+period for vision.       It's very likely that there are many
+
+different critical periods and you're actually going to hear
+
+about another nice example from Dr. Kuhl in the next talk,
+
+language development.
+
+     Now, you can ask how early do these periods begin?                 Well,
+                         Hex-Dump Conversion
+                                                                         45
+
+we know now that this phoning process is going on even before
+
+birth.   In fact, even before babies can see, their eyes are
+
+running test patterns on their connections in the brain and they
+
+do this, actually, starting out by a kind of automatic,
+
+auto-dialing process.       And then, of course, afterbirth, this
+
+auto-dialing process is superimposed by vision.               Vision takes
+
+over and vision places the phone calls.                So in a way, even in
+
+utero the brain is in training for experience and it's using
+
+its activity in order to help refine connections that are formed.
+
+     So what I've told you, then, is that there is actually a
+
+two-step process to brain wiring and this is actually an extremely
+
+elegant solution.     If after all things were just hard wired,
+
+if everything in the brain were just strictly programmed
+
+genetically by molecules that wired everything up, A to B, C
+
+to D and so on, then of course we wouldn't be nearly as adaptable
+
+as we are as organisms.
+
+     Brain function selects and refines.               The second step is
+
+actually very prolonged in humans.               As I've said, it begins in
+
+utero and it persists all the way through puberty and, actually,
+
+in the spirit of Mrs. Clinton's remarks earlier, I have to just
+                          Hex·Dump Conversion
+                                                                   46
+
+remind you that it doesn't just stop there, in fact, it's going
+
+on right now and I can guarantee you that after today your brain
+
+is going to be different in structure from what it was before.
+
+     Now, this is a risky process, of course, this process of
+
+allowing experience to sculpt connections, but it allows
+
+adaptability.     And just think of one example here and that is
+
+you don't know if you're going to be born in Japan or in the
+
+United States and you don't know which language you're going
+
+to have to learn.       Well, what's elegant about the superb
+
+flexibility is that the brain lays down a basic circuit that's
+
+designed to learn language and then experience essentially makes
+
+decisions about which connections to keep and which ones to
+
+eliminate.   And without this superb flexibility, of course, we
+
+couldn't do anything.         We couldn't learn, remember, change, in
+
+short, we wouldn't have those properties that make us uniquely
+
+human.
+
+     Thank you.
+
+     (Applause. )
+
+     DR. HAMBURG:       Thank you very much indeed.
+
+     Dr. Kuhl?
+                           Hex.Dump Conversion
+                                                                           47
+
+     DR. KUHL:    Thank you.         I also want to thank the President
+
+and Mrs. Clinton for putting the spotlight on infants and children
+
+and their development.
+
+     Today I want to describe a specific instance of how the
+
+brain wires itself up for a specific and complex activity like
+
+language.    We want to talk about what those phone lines that
+
+Carla Shatz described are transmitting.
+
+     Over the past 25 years, we've learned a tremendous amount
+
+about the child's acquisition of language.               We previously
+
+thought that language began when first words appeared, at about
+
+one year of age, and when kids started talking to us.              The new
+
+research shows that this is incorrect in that infants are mapping
+
+the sound structure of language in the first six and 12 months
+
+of life.    There's always something going into the brain mapping
+
+the elementary building blocks of language that infants will
+
+use to communicate with in the next year.
+
+     What I'll tell you today is that by six months of age, infants
+
+are well on their way to cracking the language code.              Let me
+
+unpack this a little bit.
+
+     It takes both nature and nurture or, to say it another way,
+                         Hex-Dump Conversion
+                                                                          48
+
+both biology and culture, to bring this about.             Infants are very
+
+well prepared for the acquisition of language _            At birth, infants
+
+across the world can discriminate all of the sound contrasts
+
+that are used in any language of the world_                I like to refer
+
+to them as citizens of the world_
+
+     As Carla said, they don't know what language they're going
+
+to have to acquire, whether it's Japanese, Spanish, Swedish or
+
+English, they're prepared for any thing_               This is quite a feat
+
+because the acoustic events they have to pay attention to are
+
+very, very minute_     But it's not finished yet_             The fact that
+
+they're citizens of the world doesn't make them a speaker of
+
+a particular language_        The job is yet to be done_
+
+     Infants have to change from their citizen of the world status
+
+to a culture-bound language specialist and, again, the news is
+
+that there is concrete evidence that by 12 months of age infants
+
+are well on their way to mapping the sound structure of their
+
+particular language_       We know this because we've been doing
+
+studies in all parts of the world_              We're observing the results
+
+of nature's experiments_         Nature constructs life such that
+
+babies being reared in these different countries are all
+                         Hex-Dump Conversion
+                                                                        49
+
+listening to a separate language and so we have studied infants
+
+at various phases in their development to see when they diverge
+
+from their citizen of the world beginning to the culture bound
+
+citizens that we all become as adults.
+
+      In studies conducted, for example, in Sweden and in
+
+Stockholm and in Seattle, Washington, we observed that by six
+
+months of age, babies are already focused on the particular
+
+language sounds that their language uses contrastively rather
+
+than the sounds of all languages.            So by six months of age, they
+
+have already moved from the citizen of the world status to their
+
+culture-bound language specialist status.
+
+      For example, by 12 months of age, we've just learned from
+
+studies in Japan, infants who originally at six months in Japan
+
+were able to hear the distinction between Rand L no longer do
+
+so.   They don't respond to the difference between Rand L at
+
+12 months.   This is very good for Japanese because it doesn't
+
+contain those two sounds, just R.           So babies have begun to ignore
+
+the variations that are not critical to their language and pay
+
+attention to just that set of sounds that are critical for
+
+distinguishing words in their particular language.
+                             Hex·Dump Conversion
+                                                                          50
+
+     So what this research is showing is that by six months of
+
+age, infants' perceptual systems have been altered simply by
+
+listening to us speak.
+
+     Now, I don't know when the last time is that those of you
+
+in the audience have looked at a six-monther.              They're very
+
+little babies.   They have yet to produce a single word, they're
+
+yet to understand a single word, and yet the lesson from the
+
+research is that they are listening to us speak and their brains
+
+are busy coding the sound structure of the language they're going
+
+to have to master in order to be able to talk back.
+
+     So if infants are listening to us at this wee age, who are
+
+they listening to?     Well, they're listening to us, to you and
+
+me, to the speakers of their language and culture.             So the
+
+language we produce to infants is vital to them and that puts
+
+some responsibility on us.
+
+     So that brings us to the question what do we know about
+
+the language that we produce when we speak to infants and
+
+children?
+
+     Well, there's plenty of research on what we call parentese,
+
+the kind of language we produce when we talk to infants and
+                           Hex-Dump Conversion
+                                                                              51
+
+children_   We seem to do this unconsciously_                  When you bring
+
+a person into the laboratory who has a child, she comes into
+
+the laboratory, a mother, and she says, "I'm glad I'm here, the
+
+traffic was awful_"     And then she looks at her two-monther and
+
+she says, "Hi_   How are you?"           So we see there that the grammar
+
+is simpler, the vocabulary is simpler, and it has a unique sound_
+
+ The sound of motherese attracts babies _                 It's like an acoustic
+
+hook that pulls their attention to the speaking adult_
+
+     We know from laboratory tests, again, that babies prefer
+
+this kind of signal hands down over any other_                 If you give them
+
+a choice between adult-directed speech like I'm producing now
+
+and infant-directed speech, there is no contest_                   A baby will
+
+do whatever they have to do to turn that signal on_
+
+     The most recent research says that that signal has very
+
+well formed phonetic units ideal for the baby's job of learning
+
+those particular units, so this motherese, this parentese kind
+
+of information, it contains both melody, it has a very good and
+
+enticing sound, and meaning _        It conveys the warmth and attention
+
+we're trying to give to our children, as well as providing a
+
+tutorial on language_
+                          Hex-Dump Conversion
+                                                                          52
+
+     So language development is this intricate interplay between
+
+biology and culture_       Nature and nurture don't compete, they
+
+cooperate _   Biology provides a kind of blueprint _          The blueprint
+
+is that baby's exquisite ability to hear the differences between
+
+all sounds, but then culture jumps in and provides this
+
+information, the input, language information, that the baby's
+
+brain begins to map _    This all occurs in a deeply social context.
+
+     This is where the village comes in that Mrs. Clinton has
+
+written so eloquently about.            Language is a social enterprise,
+
+one that the community of people surrounding the infant have
+
+to help them with.      Young infants learn to communicate by
+
+watching and listening to us.             Again in the laboratory, we can
+
+see that if you expose a very young baby, a 20-week-old infant,
+
+to a face of a person speaking simple sounds, within about a
+
+minute the baby starts to coo back, producing the best instances
+
+of those sounds that they can do.               So this give and take, this
+
+turn-taking, that we do, the communication dance begins very,
+
+very early in infancy.        By 20 weeks, babies know that they get
+
+to have their turn.
+
+     So this early learning, this plasticity as scientists refer
+                           Hex·Dump Conversion
+                                                                                53
+
+to it, makes infants both responsive to the environment and
+
+vulnerable.   Infants' early propensity to learn reminds us that
+
+we have to pay attention to the intactness of their ability to
+
+hear and see and process information.                    It's important to look
+
+at early hearing, early speech and early language abilities to
+
+that we can jump in with intervention strategies if there is
+
+something amiss.    Timing is extremely important.
+
+     Timing is also important in learning a second language.
+
+This propensity to learn means that infants can master a second
+
+language quite easily during their pre-school years.                  It's much
+
+more difficult to learn it at the age that we are.                  The window
+
+for language learning is wide open in early infancy.                 It doesn't
+
+shut for we adults, thank goodness, but it does narrow a bit.
+
+ So if we're going to expose children to second languages, it's
+
+best to do it early.
+
+     Now, one last point, and it's a caveat.                   These findings
+
+on early learning shouldn't put additional pressure on parents.
+
+ Research can't tell us yet how much communicative interaction
+
+it takes to allow this kind of development to occur.                  We don't
+
+know if it's 30 minutes a day or two hours a day of conversation
+                            Hex-Dump Conversion
+                                                                                   54
+
+that's needed to support this kind of learning.
+
+        As researchers, we don't advise parents who are
+
+communicating with their children to try and accelerate the
+
+normal pattern of development.              We don't recommend flash cards
+
+to try to teach words to three-monthers.                      Nature has provided
+
+a perfect fit between the parents' desire to communicate with
+
+the child and the child's ability to soak this information up.
+
+        Parents should take pride in the hard work that they do
+
+to develop their baby's mind.             They should also understand that
+
+while infants are very, very clever, they're not adults, they
+
+have a long way to go and that we participate in this developmental
+
+process.
+
+        Let me sum up wi th an analogy.            When we see a young baby's
+
+physical growth, we're very comforted.                     Seeing the doctor's
+
+scale go up one pound when I had a child made me feel very good.
+
+ We think our child is then healthy.                      Mental growth is more
+
+difficult to see.      One day your child produces his or her first
+
+word or his first sentence and you say,                     "Where did that come
+
+from?     What's going on up there?"             Modern behavioral and brain
+
+science is providing answers to the questions.                     When we speak
+                         Hex·Dump Conversion
+                                                                          55
+
+to our children, something is happening.               We're bringing about
+
+changes in the brain that will allow them to eventually
+
+participate in the communication game.
+
+     Infants are born to learn.            Our role is to be good partners
+
+in this learning process.
+
+     (Applause. )
+
+     THE PRESIDENT:      I'd like to ask one question.        You say that,
+
+as I think all these presentations that we've heard today, lead
+
+a parent to the question that you say there's not exactly an
+
+answer to yet, which is you don't know whether you need a half
+
+an hour or two hours a day of speaking or if two hours a day
+
+makes a lot more difference to a child in the first six months
+
+of life, but do we know that there is at least some minimum
+
+threshold that has to be crossed and do we know, for example,
+
+that there is a big difference between hearing a soothing human
+
+voice in motherese, if you will, and just leaving a child with
+
+a radio going on or a television going on and do we know anything
+
+about what children do with that sort of language if they're
+
+exposed to it for hours a day in those early months?
+
+     DR. KUHL:      Well, first of all, I guess we can say that
+                             Hex-Dump Conversion
+                                                                                   56
+
+without language input, language doesn't develop, so if you look
+
+at deaf children who do not have the advantage of sign language,
+
+they will not learn to map language sounds and produce the
+
+characteristic milestones of language.                       It takes input to build
+
+a language system.
+
+        We don't know how much it takes, however, there's just no
+
+answer to that question, and we can only guess whether or not
+
+language would develop if you hung a tape recorder on the child's
+
+crib and said, well, this is going to do it.                   My guess is, however,
+
+that it wouldn't happen, that a disembodied tape hung on the
+
+side of an infant's crib is not what it's about.
+
+        It is again this social game, this desire to communicate
+
+on both individuals' parts.            And we're learning a little bit
+
+from animal models that in social contexts in which communication
+
+occurs, there are all kinds of changes in hormone levels and
+
+perhaps the biochemistry of learning will eventually tell us
+
+that it's the social context that prompts the kind of neural
+
+machinery and chemistry that's needed to lay these memory tracks
+
+down.
+
+        THE PRESIDENT:   Thank you.
+                             Hex·Dump Conversion
+                                                                           57
+
+     David, should we go on to the next panelist?
+
+     DR. HAMBURG:     Dr. Davidson?
+
+     DR. DAVIDSON:     Well, I too, want to thank the President
+
+and the First Lady for just opening up what is clearly a very
+
+exciting area.
+
+     Just on the basis of what we've heard so far, preparing
+
+to be a parent should be no less important than preparing for
+
+one's life work.     We have long understood that good health and
+
+medical care for women before and during pregnancy had very
+
+important influences on their infants' health.             In view of this
+
+recent remarkable scientific finding about brain development,
+
+all prospective parents, men and women, must become actively
+
+and knowledgeably involved to assure the best possible health
+
+status before and during pregnancy because of its importance
+
+to newborn and early child development ..
+
+     A heal thy mother, a heal thy baby, born into a heal thy family,
+
+offers the best chance for full advantage of this new science
+
+demonstrating how much the young child's brain development
+
+benefits from stimulating and interactive environments.              The
+
+general society should be so infused with this information that
+                         Hex-Dump Conversion
+
+                                                                      58
+
+no child should escape its benefit_
+
+     Formal and informal education should ensure that future
+
+parents, especially girls and women of all ages, understand that
+
+proper personal habits, balanced nutrition and family support
+
+are among the factors that improve pregnancy outcome_
+
+     There is proven value in a specific medical visit and
+
+evaluation when pregnancy is contemplated_             This provides the
+
+opportunity for a complete family and personal history, physical
+
+examination, needed laboratory tests that could            id~ntify
+
+
+conditions that might require special consideration and
+
+counselling.
+
+     For example, medical conditions that might harm the woman
+
+and fetus and lead to a less healthy start could be identified
+
+and corrected.    These could be as obvious as problems of obesity
+
+or conditions that are less obvious and important as high blood
+
+pressure or diabetes and even unrecognized risks such as genetic
+
+condi tions, hazards in the workplace, diets, and even medications
+
+that patients may feel that are not harmful.            Personal habits
+
+such as smoking, drinking, drug abuse could be stopped or reduced.
+
+     While all of these will be addressed as a part of prenatal
+                          Hex-Dump Conversion
+                                                                59
+
+care, often the harmful influences can occur even before
+
+pregnancy is suspected or diagnosed, so this good healthy living
+
+life style is important before pregnancy_
+
+     At the present time, medical care begins with pregnancy
+
+for most patients, since preconception care that I've just
+
+described is relatively a new recommendation and is not often
+
+exercised_
+
+     There is no question that early and comprehensive prenatal
+
+care provides an added assurance that there will be a healthy
+
+mother joyfully interacting with a vigorous newborn that is
+
+responsive_     Such newborns have the best chance of maximal
+
+development _    Mental and physical impairment or disability that
+
+could have been avoided with proper prenatal care may otherwise
+
+greatly increase the difficulty in reaching developmental
+
+potential_
+
+     Risks that should be identified and can be modified with
+
+health promotion or prevention or treatment are rich
+
+opportunities that can be exercised during this prenatal
+
+experience_     Advantages of this care are insufficiently
+
+recognized by many who consider pregnancy to be only a normal
+                          Hex-Dump Conversion
+                                                                           60
+
+condition and not recognize that very harmful and serious changes
+
+can occur without warning_
+
+     Prenatal care not only proves an advantage for mothers and
+
+infants, but over many times has been documented to decrease
+
+overall costs _    Too many women still in this country do not get
+
+adequate prenatal care because of lack of knowledge, motivation,
+
+resources or insurance, and we mus t work to reduce these barriers _
+
+     The time immediately after birth, the postpartum period,
+
+is another critical opportunity to be captured for evaluation
+
+and examination_       A smooth transition from birth to parenting
+
+a newborn at home that provides comfort and reassurance about
+
+the details of newborn care and feeding is enhanced by
+
+professional observation and evaluation_
+
+     As a matter of fact, I am sure that common wisdom
+
+understanding this and the advantages that it offers contributed
+
+to the mass public and professional outcry over postpartum
+
+hospital stays that were cut short for financial and
+
+administrative reasons without this due professional concern_
+
+     Throughout our population, many barriers interfere with
+
+ideal prenatal and perinatal care:               smoking, drinking, substance
+                        Hex-Dump Conversion
+                                                                         61
+
+abuse, poor nutri tion, family violence, stress, lack of knowledge
+
+and inadequate medical care.            And we must remember up to one
+
+in four children in this country is born in poverty.               Special
+
+efforts need to be made also that we are bringing the benefit
+
+of this science and support to these less fortunate members of
+
+the society.
+
+     Importantly, much more emphasis needs to be placed on
+
+planned child bearing to pursue a more orderly and productive
+
+preparation for pregnancy and its care.               Over half of the
+
+pregnancies in this country are unplanned or untimely.               This
+
+is not only a problem as we focus on teenagers, but in numbers
+
+is even a larger problem in the adult population.           Only 15 percent
+
+of this risk is among adolescents.
+
+     It would be an enormous benefit that would have major impact
+
+advantage to newborns if there were a large reduction in this
+
+unplanned pregnancy.       There is no comparison between the
+
+attentive mother eagerly anticipating the birth of a child and
+
+doing everything possible to make sure it is healthy and will
+
+be received in a warm environment compared to a person who has
+
+a much less interest in that pregnancy and does not afford the
+                             Hex-Dump Conversion
+                                                                   62
+
+prospective opportunity for this support and comfort_
+
+     It was clear even before today's findings that it was
+
+necessary to improve the general advantage for newborns to have
+
+this kind of start.       Hopefully, with this kind of new
+
+information, it will be impelling enough that the necessary
+
+social and policy actions can be accomplished.
+
+     I really do appreciate an opportunity, as brief as it is,
+
+to bring this maternity care and obstetrical perspective to these
+
+important issues.
+
+     Thank you.
+
+     (Applause. )
+
+     THE PRESIDENT:       Doctor, what's the best delivery system
+
+we could develop to get this information especially to poor
+
+prospective mothers?
+
+     DR. DAVIDSON:     Well, I think part of that is a medical answer
+
+and part of it is a general support and educational answer that's
+
+even beyond medicine, but clearly, it is important that all women
+
+and families have an opportunity to participate in quality
+
+medical care that provides the springboard for the other
+
+necessary services to be provided because that context allows
+                                     Hex·Dump Conversion
+                                                                                   63
+
+the easy assessment as to whether or not there are other physical,
+
+psychological or other needs that help prepare a parent to engage
+
+in this exciting enterprise with the newborn.
+
+              DR. HAMBURG:      Dr. Brazelton?
+
+              DR. BRAZELTON:       Well, first of all, I want to thank the
+
+President and Mrs. Clinton for every family in this country
+
+because I can guarantee you that all of them are watching today
+
+with the kind of feeling that nobody before has cared.
+
+              When I was on the National Commission for Children with
+
+Jay Rockefeller for two years with many of the people in this
+
+room, we went around this country and were really horrified that
+
+we were one of the least family and child oriented countries
+
+in the world.           How can we have gotten there?              And yet I have
+
+identified in my own work ten stresses that have made parenting
+
+much harder today than when we were raising our own children.
+
+ It   I   S   escalating.       Parents are under more stress every day than
+
+we are meeting.
+
+              Why has a country like ours not met this responsibility
+
+when we know what the outcome is at the other end?
+
+              And I have some biases.             Biases only operate if you are
+                              Hex·Dump Conversion
+                                                                               64
+
+not willing to face them.            If you bring them to the surface,
+
+you can say, hey, I don't want to be dominated by that bias,
+
+I want to act on it.        Ope of them is that we basically feel
+
+families ought to be self-sufficient and if they're not they
+
+ought to pay a price for it, so we don't do anything really
+
+important to help them.         Even welfare reform, we turn the wrong
+
+way.
+
+       We should have looked at what we were going to do with
+
+children before we pushed women out into the workforce.                      It's
+
+so obvious to anybody.
+
+       (Applause. )
+
+       So, you know, we don't do it.               The next one is women ought
+
+to be home with their kids and if they're not, their children
+
+ought to suffer and they're going to suffer.                  You know, we aren't
+
+paying attention to what 70 percent of families are going through
+
+with that bias.
+
+       The third is that we don't like failure and we don't like
+
+diversity.    We have made diversity into a negative in this
+
+melting pot society.        How have we done it?
+
+       When I play with newborns around the world, they bring us
+                          Hex-Dump Conversion
+                                                                       65
+
+a fantastic kind of diversity to our country.           We ought to be
+
+so proud and valuing that so much that we could change that model.
+
+     Well, what I want to do is use that to say to you that I
+
+think what you all entered into your presidency with last year
+
+was wonderful.   When you did the family medical leave bill after
+
+we had worked for 10 years to get it, it seemed like it was failing
+
+because it only affected 5 percent of families, but it had a
+
+spread effect that all of you ought to be aware of.       It certainly
+
+is the one thing in my elderly life that looks good_
+
+     Businesses began to wonder what are we doing to our families
+
+and they are now planning family support systems in many of the
+
+businesses in this country.         And we're working with four major
+
+businesses to set up centers in every business site with not
+
+only quality day care but preventive health care, support systems
+
+if they deserve food stamps and so forth, they get them right
+
+there, they go right into Head Start right there.          These are
+
+community centers and people are beginning to feel a sense of
+
+community again at a time when we've lost that in this country?
+
+ Isn't that exciting?
+
+     The same thing went on, Hillary, with the health care bill.
+                              Hex-Dump Conversion
+                                                                             66
+
+ You may feel like you've lost it, I don't.                  You shook medicine
+
+to its roots.     It's running for cover now and it ought to.                It
+
+has not been successful.
+
+     In pediatrics, which you've asked me to talk about in five
+
+minutes, I can tell you that pediatricians are very
+
+disillusioned.      They know that what they've been doing is not
+
+satisfying anybody, including themselves.                   Middle class people
+
+only get a baby weighed, measured, and immunized.                   That's-not
+
+what they come for.    Lower class women don't come.              Forty percent
+
+of our kids are getting no effective preventive health care.
+
+Aren't immunized.     What country can say that about their
+
+children?
+
+     So we'd better re-look at our health care, as we have that
+
+opportunity.     And I would like to ask you for something today
+
+and I hope all of you in the. front rows are going to respond
+
+to this.    I'd like to see universal coverage at least for all
+
+children and pregnant women.
+
+     (Applause. )
+
+     And it's not costly, it's an investment.                 As William White
+
+had said, will it cost us a lot more?                  Compared to what?   You
+                         Hex-Dump Conversion
+                                                                          67
+
+know, we are paying a terrible price for our lack of attention
+
+to this area later.
+
+     Well, we can't just fall back on universal coverage.                 We
+
+need a special kind of outreach medicine in this country.                 It
+
+not only has to be available, affordable, but it has to be
+
+respectful.    It has to begin to pay attention to what families
+
+want when they come to a doctor.
+
+     When a mother comes into a pediatric office, she comes with
+
+two questions:     How am I doing?            How is my kid doing?   But she
+
+doesn't just want back his height and weight.              That may be very
+
+important, but she wants to know whether that baby is right on
+
+target.
+
+     The Academy of Pediatrics has asked me to help them with
+
+their immuniz?ition program and I said, sure, if you'll do one
+
+thing:    every mother who brings a baby in for an immunization
+
+hopes she's going to get something back from that visit.               When
+
+she walks in the door, have somebody at the door who says, oh,
+
+what a beautiful baby, look at that baby, look at you with those
+
+lidded eyes and look at you look back with those lidded eyes,
+
+aren't you having a great time.                And then you have one other
+                        Hex·Dump Conversion
+                                                                           68
+
+person in the office who hands that baby a toy, if that's age
+
+appropriate, and as the baby grabs for it, they say he's right
+
+on target, isn't that wonderful.              No mother will ever miss
+
+another immunization, I can promise you.              So these are the things
+
+we've got to begin to incorporate in our medical outreach.
+
+     I think we need to change our medical system from a deficit
+
+model which we were all so well trained in in medical school,
+
+look for all the problems, we never miss one, but then say, hey,
+
+what kind of strengths are giving these people the opportunity
+
+to raise five kids in the ghetto with no supports?               And as soon
+
+as you ask a mother that, she sits up, her eyes come alive and
+
+she begins to answer and then she'll tell you things that are
+
+important to her.
+
+     And I would recommend that we change our preventive health
+
+care system from one that welcomes, that reaches out, when they
+
+come in you never look a baby in the face, anybody that looks
+
+a baby in the face gets what they deserve, a screaming baby.
+
+What you do is look just past them and as they pick up on just
+
+what you're looking past, they begin to do something. They've
+
+just learned.
+                             Hex·Dump Conversion
+                                                                           69
+
+     I saw an eight-month-old baby the other day who just learned
+
+to go "phfft".     So I said to the mother, "How is she phfft doing?"
+
+ And the baby sat up straight.              Eight months.   Right in the
+
+middle of stranger awareness.             And I said, "Is she phfft eating
+
+all right?"      By the third "phfft" she reached out for me, a
+
+stranger.     I took her and went "phfft" a fourth time and she
+
+looked up in my face, felt my mouth and went "phfft" back.             And
+
+how long did that take out of the 10 minutes I had for those
+
+patients?
+
+     The other thing you can do is the same thing with mothers.
+
+ As you're working with them, watch their rhythms,use their
+
+non-verbal language and they're right with you.              And I think
+
+we can change our model by touching in on what I call touch points.
+
+ The vulnerable times in a child's development are like a map.
+
+ There are six of these in the first year, three in the second,
+
+two each year after that, when a baby regresses just before they
+
+take a spurt in development and these spurts in development are
+
+going to cost everybody in the family a lot, but these regressions
+
+cost the most if parents don't understand them because they think,
+
+oh, my lord, she's starting to lie, steal, suck her thumb, wet
+                         Hex-Dump Conversion
+                                                                  70
+
+the bed, any of the things kids can do.
+
+     If you're there to touch into the sys tern and say, you know,
+
+regression is a time for reorganization and for learning and
+
+she's just going to take off in such and such a way, a cognitive
+
+way or a motor way.    These parents, the next time they come in,
+
+"Wow, you were right," you have not only empowered the child,
+
+you have empowered the mother and all of these efforts we've
+
+been hearing about, about brain development, ought to be looked
+
+at with that in mind.       Are we just talking about the brain
+
+development in the child or are we talking about the parents'
+
+development, too?      And every time we are rewiring the brain
+
+of the baby, we're rewiring the brain of the parent.
+
+     We have a chance through preventive health care, preventive
+
+education, to give back to parents this feeling I matter, what
+
+I do matters.   And every time they look at their baby and the
+
+baby goes ooh and they go ooh back and every time the baby smiles
+
+and they smile back, that baby is not only - - I'd go a step farther
+
+than you did, Dr. Kuhl, I would say that the reason we talk to
+
+a baby in a special way is they know we're talking to them.
+
+If I hold up a newborn with its head here and its bottom here
+                            Hex-Dump Conversion
+                                                                         71
+
+and say, "Hi, how are you doing?              Come on, you can turn to my
+
+voice."   That newborn stops breathing, the face lights up,
+
+breathing starts up again.          He keeps himself under control so
+
+he won't startle and turns to my voice and arches toward me like,
+
+"There you are_"
+
+     If I get a mother over here and I'm over here and we both
+
+talk, any newborn worth its salt chooses the mother's voice,
+
+turns to her, and I've never done it yet, I was in the nursery
+
+yesterday, that the mother doesn't grab her baby and say, "You
+
+know me already."
+
+     And if we want fathers in there, Bill, what we have to do
+
+is put the father over here, macho types, you know, and get them
+
+to talk and fortunately 80 percent of babies choose their father's
+
+voice instead of mine, and the other 20 I tip their head.
+
+     (Laughter. )
+
+     The father does the same thing that a mother does and grabs
+
+his baby and says, "You know me."          Well, this has worked at Howard
+
+University with unwed African-American fathers, it's worked with
+
+addicted women, it works with anybody who cares.
+
+     Now, if we have a country that still cares and is still
+                        Hex-Dump Conversion
+                                                                 72
+
+hurting because they care so much, can't we capture that energy,
+
+put it to use to do just what we've been talking about in capturing
+
+these pathways, not only in the baby, but in the parents?
+
+     Thank you_
+
+      (Applause. )
+
+     MRS. CLINTON:       Dr. Brazelton, I wanted to follow up on a
+
+couple of things that you said today and that I've heard you
+
+say many times before.
+
+     As I mentioned earlier, the organization Zero to Three has
+
+just completed an extensive nationwide survey of parents of young
+
+children.   They used this survey to try to find out what parents
+
+know and what they don't know about children's development and
+
+we find out from this survey that parents know a lot about what
+
+they should be doing, there are some things they have
+
+misconceptions about, but there is a clear finding from this
+
+poll of parents that they are just hungry for information on
+
+what they can do to enhance their child's development.
+
+     You and I have spoken together many times and we have said
+
+over and over again, in your much more extensive work and my
+
+more limited observation and contact, I have met very few parents,
+                           Hex-Dump Conversion
+                                                                   73
+
+very few, who I thought didn't care about their children, but
+
+I have met many parents who were overwhelmed, stressed out,
+
+anxious, unsure about what it is they were supposed to do.
+
+     What would be the best things that you would want every
+
+parent to know to do to nurture their young children?        If you
+
+could have a face-to-face conversation and look into the eyes
+
+of every young mother and father, what would you want them to
+
+know to do?
+
+     DR. BRAZELTON:        I'd want them to know two things, I'm
+
+afraid.   One is to learn how to follow their. baby's behavior
+
+and when they talk to them watch to see when that baby pays
+
+attention.    If you talk like I was just talking to a full-term
+
+baby to a specially vulnerable baby like a preemie or one who
+
+has been addicted in the uterus, you'd stop that baby from
+
+breathing and they'd turn away from you, spit, up have a BM,
+
+turn blue around the mouth, show you in every system I'm
+
+overloading you.
+
+     On the other hand, if you reduced your voice and said, "Hi,
+
+how are you doing?       Come on, you can turn to my voice," even
+
+these very fragile infants pull it together, turn to your voice,
+                            ~pv-Ol'mp Conversion
+                                                                               74
+
+put four modalities into action in terms of the brain's
+
+development in order to turn to you.
+
+     Now, I think parents need to learn how to watch their baby's
+
+behavior as their language and learn the baby's temperament as
+
+their language and then they'll feel like I know my baby.
+
+     And the other thing I want them to know is the ghosts from
+
+their own nursery and how much those dominate your behavior when
+
+you hit a snag.     If they can look back and say, "I don't need
+
+to do this just because my mother did this to me," in terms of
+
+chi ld abuse, "I can make a choice."                    And then I think they can
+
+make the right choice.
+
+     THE PRESIDENT:        Let me ask you something.               This goes back
+
+to something Dr. Davidson said, too, about the whole perinatal
+
+care network.     If a lot of the parents that are most at risk
+
+of messing this up because of their own difficulties are in fact
+
+already covered by public programs and if in -fact, which basically
+
+underpay the doctors in many ways, wouldn't the most
+
+cost-effective way of dealing with this be to sort of build into
+
+the Medicaid expansion program to treat these things as actual
+
+services that ought to be given to pregnant women?                    Or if women
+
+
+
+
+                     Automated Records Management System
+                             Hex-Dump Conversion
+                        Hex-Dump Conversion
+                                                                          75
+
+don't come in in prenatal care, at least immediately after
+
+childbirth, before they get out of the hospital, at least somebody
+
+goes through some of these things?                And then there's some
+
+understanding that they can come back for this kind of
+
+consultation?
+
+     Shouldn't we try to develop a more systematic way of
+
+imparting all this scientific information and all this kind of
+
+stuff?
+
+     (Applause _)
+
+     And isn't it really rather inexpensive and easy to adapt
+
+the program to this?
+
+     DR. BRAZELTON:      Do you want to answer first?
+
+     DR. DAVIDSON:     Well, I will give one reply.             It has been
+
+suggested to me that this level of interacting with parents or
+
+parent education ought to be in the same category as immunizations
+
+and we ought to be as concerned about this and maybe have bench
+
+points, as immunization is required to get into school.               And
+
+this is for parents across the board, because there is so much
+
+information that they want to know and once they are engaged
+
+there is so much more information that they want to know and
+                          Hex·Dump Conversion
+                                                                            76
+
+it certainly should be built into the situations where the parents
+
+are naturally found.
+
+       DR. BRAZELTON:      Bill, I would say not the way it's set up
+
+now.     AFDC is handed out as a top-down gift to people and with
+
+it goes a kind of derogatory approach that I think is so
+
+destructive.
+
+       If we change the model to a shared model in which we were
+
+looking for relationships in our training, touch points, it takes
+
+us a week to get people who are very dedicated to come around
+                                 ,
+to want to make relationships with other people not at a top-down
+
+level.     And then we try to get them out of the model of just
+
+looking at deficits to looking at positives.                Those are big
+
+steps, but we can do it.             We can train people.
+
+       And if you could get us universal coverage and if we could
+
+retrain people to come out of the old medical model of negative
+
+failures, we could sure do it.               We'd reach everybody in this
+
+country.
+
+       THE PRESIDENT:      When we break, it might be worth having
+
+a conversation with the governors who are here, because we do
+
+have some governors here, but in virtually every state in the
+                         Hex·Dump Conversion
+
+                                                                             77
+
+ country now, I think every state, the Medicaid program covers
+
+people who are above the welfare level.                 There are people on
+
+AFDC and then people who are working poor.                And there will be,
+
+ I believe this anyway, I believe the chances are overwhelming
+
+ that there will be a dramatic expansion of medical coverage to
+
+children who don't have insurance now and we might get all the
+
+way there.   Sometimes a fever overtakes the Congress in a
+
+positive sense and we get things done.                 It's building in the
+
+right direction, anyway.
+
+      But the thing that strikes me about all this, if you go
+
+back to what all the first speakers said, if you go back just
+
+ to begin with Dr. Cohen and you go through what Dr. Shatz said
+
+and certainly what Dr. Kuhl said, there has to be                 the defect
+
+ in America is we hate systems about everything.
+
+      We need a system to have the kind of networking relationships
+
+with parents, hopefully before but at least immediately after
+
+birth, that we don't have and those things are, compared to what
+
+. we're spending money on now, relatively inexpensive if you can
+
+do what you're talking about.
+
+     MRS. CLINTON:      I would like to just add to that.            There
+                        Hex·Dump Conversion
+                                                                     78
+
+are a lot of interesting programs out there.          Some of them have
+
+been highlighted in starting points, I know that Rob is going
+
+to be highlighting some of them in his upcoming special.         I know
+
+many of you have worked in them.
+
+     It's not that we don't know what works.          We do   know what
+
+works.   We know what can help get a parent more engaged.          We
+
+know how to intervene to try to create better conditions for
+
+a non-responsive depressed parent, an over-stressed parent, to
+
+have this kind of interaction with his or her child.           But we
+
+do not have any systematic way to do it and I think what the
+
+President is saying is a very important point because we have
+
+this reaction against systematically helping people, and yet
+
+we systematically pay the costs of not helping people, in a very
+
+sensible preventive way in the first instance.
+
+     I think that it's not only something we should look at from
+
+the point of view of what public programs like Medicaid can or
+
+should do.   There are also great opportunities for HMOs and for
+
+insurers that are serious about cutting costs down the road and
+
+I know that at least one, Kaiser Permanente, is represented here
+
+that is very interested in trying to figure out ways of creating
+                        Hex·Dump Conversion
+                                                                        79
+
+better conditions for prenatal and post-birth relationships
+
+between parents and children.
+
+     And I also think that we can't look at this solely as a
+
+problem of our poorest, most disadvantaged families . . That is
+
+where we have perhaps a greater pool of parents and children
+
+at risk and where the social costs are more obvious, but I think
+
+that the stresses that Dr. Brazelton has talked about and that
+
+he's worked on for so long really affects society across the
+
+board and so it's not just a question of public response, it's
+
+a question also of private response.
+
+     And to that end, I would like to ask Dr. Cohen, because
+
+he referred earlier to Dr. Sally Province whom I had the privilege
+
+of working with and watching work with mothers and infants, and
+
+in the observations that I watched those many years ago, she
+
+was dealing with primarily stay-at'-home mothers, middle income,
+
+upper income mothers, who knew that they had a problem, who knew
+
+because of some referral from a physician or a neighbor or just
+
+what they felt themselves that their child was not thriving the
+
+way that they had hoped their child would.             So they would come
+
+for this intervention and assistance from Dr. Province and then
+                           Hex·Dump Conv0Nlion
+                                                                            80
+
+Dr. Province after observing, it was predominantly, I think,
+
+all that I ever saw were mothers and children, after observing
+
+the parent-child relationship, would then work with that mother
+
+to understand how not to startle the baby, how to read the baby's
+
+temperament, how to be more attuned to her child.
+
+      And, Dr. Cohen, that's much of what the work that you've
+
+done all these years at the Child Studies Center has been aimed
+
+at.   How do we take that knowledge which is there, that trained
+
+people like yourself and Dr. Brazelton and Dr. Hamburg and others
+
+on the panel have, how do we take that and systematically provide
+
+it to parents who want to make these changes so that they are
+
+better able to develop their children?
+
+      DR. COHEN:    Well, thank you.                One important part of the
+
+work in the Child Studies Center this last decade has been to
+
+move the clinical work of Dr. Province out into the community,
+
+so now the clinic that you worked in is represented in every
+
+school in New Haven where psychologists, social workers, child
+
+psychologists are out there in the schools working with teachers,
+
+in preschools working with Head Start teachers.
+
+      In our most recent work, it's been working with police
+                         Hex-Dump Conversion
+                                                                    81
+
+officers and teaching police officers the basic concepts of child
+
+development and how do you work with families and police officers
+
+are out in the community_          They are still making house calls_
+
+     And I think that one of the important parts of our work
+
+is to work with all those other aspects of the community where
+
+families are met, the faith community, pediatricians, primary
+
+care, education, social service agencies, as everyone buys into
+
+the idea of thinking about the first years of life.          And that
+
+will transmit the kind of knowledge we have about parent-child
+
+relationships to the families.
+
+     We shouldn't underestimate how hard the work is because
+
+after you do work with the families and you bring them in, it
+
+is sustained, hard work to make a change, especially when you
+
+have multi-generational difficulties of the sort that you saw
+
+also with Dr. Province.       It means long-term work, work with the
+
+parents, work with their extended community, and work with the
+
+child.   And we have to recognize that as well, that this is not
+
+going to be simple work once we identify the children.
+
+     Thus, when you go out into the community, what you find
+
+is more and more need and that is what we have to recognize as
+                        Hex-Dump Conversion
+                                                                  82
+
+providers, that it won't be a few children, it will be more
+
+children.   Every highway once it's built is filled with cars
+
+and every time you reach out into the community, you find more
+
+parents who want our care.
+
+     Finally, we'll have to find ways of doing this not just
+
+with professionals like Dr. Province and high trained
+
+professionals, but extenders of our clinical care and I think
+
+there, too, the President is quite right in saying can't we create
+
+systems in which there are a range of providers working in a
+
+systematic way, delivering to all children at their
+
+socio-economic class differences what they need.       And it's not
+
+always a highly trained physician, but sometimes it is a highly
+
+trained physician.
+
+     DR. BRAZELTON:      I didn't get your question but absolutely,
+
+for my money, one of the good things about managed care is that
+
+it can provide us multi-disciplinary opportunities.        We could
+
+train the woman on the phone, the woman when you first enter
+
+a doctor's office, somebody to asses the baby so the doctor in
+
+his 10 minutes doesn't have to do that, but he then can use it.
+
+ The second I think you reach out for somebody and offer to become
+                            Hex·Dump Conversion
+                                                                  83
+
+an advocate, they know it and they'll respond to it and you could
+
+bring them in in pregnancy in such a way.
+
+     And then I've found in my own work that modeling is the
+
+quickest way for a parent to learn how to nurture a child.
+
+     DR. HAMBURG:     Well, Dr. Phillips, you're not forgotten,
+
+you're down there on the end, but we remember you're there and
+
+the very important subject you have to address, so, please.
+
+     DR. PHILLIPS:      First, Barry, I want to thank you because
+
+my ll-month-old has perfected that Bronx cheer of yours after
+
+three months of almost constant practice and I'm very glad to
+
+know that's normal development.
+
+     Thank you, Mr. President and Mrs. Clinton, for highlighting
+
+research on child care as part of the evidence that you want
+
+American families to know about in the context of this very
+
+important gathering.       It's not often that we get to sit on the
+
+same panel with neuroscientists, so it's a deep honor.
+
+     Just as the research on the inner workings of the brain
+
+have somewhat ironically directed attention outward to the
+
+importance of the environment, research on child care has
+
+affirmed the centrality and durability of the family in the
+                             Hex-Dump COnVGmion
+                                                                                   84
+
+development of young children_
+
+     We now know, for example, that placing a baby in child care
+
+does not interfere with the development of the mother-infant
+
+attachment relationship or the father-infant attachment
+
+relationship_   These bonds are extremely resilient.                      Today,
+
+however, the vast majority of families are sharing the rearing
+
+of their children with child care providers, starting in the
+
+very first few weeks of life.
+
+     We know from the new national study of infant child care
+
+funded by the National Institute of Child Health and Human
+
+Development that 80 percent of the infants in the United States
+
+experience some regular non-maternal child care during the first
+
+12 months of life.       Most of these babies started child care
+
+before their four-month birthday and most of them are in care
+
+typically for close to 30 hours a week_                       We are talking about
+
+very high dosage, very early exposure to child care for most
+
+U.S. babies_
+
+     As millions of American children are moving into child care,
+
+most of these settings fall short of any standard that any of
+
+us in the room would consider optimal.                       Barely adequate has
+                          Hex·Dump Conversion
+                                                                          85
+
+become the term of art to describe the typical child care
+
+arrangement in this country.              Virtually every study that has
+
+involved actually going inside child care settings and observing
+
+what happens has found that about 15 to 20 percent, about one
+
+to five or six, are in fact dismal and even dangerous and those
+
+are the settings that will let us in to observe them.              Compared
+
+to older children, infants seem to get the poorest quality of
+
+alL
+
+      We also see fabulous child care in all kinds of arrangements,
+
+whether it's from the grandma or a teacher in a child care setting.
+
+      Neuroscience tells us that these suboptimal child care
+
+environments should affect early development.               Child ·care
+
+research confirms that they do.               The quality of the child care
+
+environment significantly affects virtually every domain of
+
+development that we know how to measure, whether it's problem
+
+solving skills or social interactions or attention span or verbal
+
+development, whatever we can measure, you get an effect for
+
+quality of care.
+
+      We've known this for a while now about three and four and
+
+five-year-olds.     What this new study is telling us is that it's
+                      Hex-Dump Conversion
+                                                                             86
+
+also true for infants and toddlers_                 Contrary to persistent
+
+concerns, young children, including babies, can thrive in child
+
+care when it is of good enough quality.
+
+     Now, the key to quality lies with the care giver.                 Good
+
+care giving looks a lot like the good mothering and the good
+
+fathering that you've been hearing about on this panel.            Children
+
+show significantly better" cognitive and language and social and
+
+emotional development when they are cared for by adults who engage
+
+with them in frequent affectionate responsive interactions, who
+
+are attentive and know how to read the baby's signals and the
+
+baby's temperament and know when to turn up the volume on an
+
+interaction because the baby wants more and when to turn down
+
+the volume because the baby is absorbed in something on their
+
+own or is tired and needs to take a nap.
+
+     We have learned that language stimulation in child care
+
+settings is one of the most important facets of that care-giver
+
+child interaction, starting with babies.
+
+     Consider the difference between a baby in a child care
+
+setting who holds up a toy car and says' "cah" and is greeted
+
+by a care giver who knows to get down on her knees, look at the
+                          Hex·Dump Conversion
+                                                                    87
+
+baby's eye level, clap, hug the baby and say, "Yes, you have
+
+a car."     Maybe she even has a book about cars to pullout and
+
+show the baby.   As compared to the baby whose gleeful exclamation
+
+of "cah" is ignored, completely ignored, and frequently ignored.
+
+     These are precisely the kinds of differences that we see
+
+when we go in and look at child care settings.           It's the
+
+difference between high quality and that barely adequate care
+
+that we see all too often.
+
+     Research also tells us that adult-to-child ratios are a
+
+critical ingredient of quality because it's humanly impossible
+
+to offer an infant enough of these kinds of nurturing, stimulating
+
+exchanges when a care giver has to juggle the demands of more
+
+than a few babies, more than six to seven toddlers.          Ask any
+
+parent of twins or ask any parent who has just survived their
+
+two-year-old's birthday party and say to them, "Oh, theY're
+
+coming back in 10 minutes, they've just been out for a play
+
+session."
+
+     We also know that better trained and educated providers
+
+interact more effectively with young children in both home-based,
+
+even those informal care settings, as well as in centers.
+                        Hex-Dump Conversion
+
+                                                                             88
+
+Experience alone does not appear to make a difference.
+
+     Children are also affected by the stability of their care
+
+givers because what we in my discipline euphemistically call
+
+staff turnover or care giver turnover, infants experience as
+
+loss of loved providers and this brings us to the difficult issue
+
+of how little we value and reward the individuals who provide
+
+child care in this country.
+
+     Wages predict turnover.             It's a simple and direct
+
+relationship.   Yet we pay child care workers among the lowest
+
+wages of any workers in this country, including people who guard
+
+our cars in parking lots.
+
+     Parents understand the importance of quality in their
+
+children's child care.        It affects not only their children, but
+
+their performance on the job.           Some parents call it safety, some
+
+parents call it trust, some call it learning opportunities, but
+
+they all care deeply about it and they worry deeply about it.
+
+ They struggle one by one to find child care and then to keep
+
+it, which is sometimes even harder.                   They do their best under
+
+very tough circumstances, constrained by what's available and
+
+convenient and affordable near their homes or their jobs, and
+                          Hex-Dump Conversion
+                                                                             89
+
+constrained by the nature of their work hours and the demands
+
+of their jobs into which their child care have to fit_
+
+     We all share a responsibility for meeting the needs of
+
+America's children for high quality child care.                   Parents need
+
+real choices, starting with the choice about when to start using
+
+child care, which is a matter of family leave policy and I applaud
+
+you, Mr. President, for expanding the range of activities that
+
+that act will now cover.         It will provide parents now with
+
+precisely that time they need to find high quality child care
+
+and the necessary time it takes to look for it.
+
+     I also applaud you, Mr. President, for highlighting the
+
+exemplary efforts and extending the exemplary efforts of the
+
+Department of Defense.        I have been particularly impressed by
+
+their understanding but efforts to enhance training must go hand
+
+in hand with efforts to enhance wages.                  And, as a result, staff
+
+turnover in their child care programs has plummeted.
+
+     The questions this conference raises for child care are
+
+big ones, but unlike some other areas of child policy, we do
+
+know what to do here, as you said, Mrs. Clinton.                   We know how
+
+to provide high quality child care.              The unified efforts of the
+                        Hex-Dump Conversion
+                                                                 90
+
+four branches of the military have proven this, as has Head Start,
+
+as I'm sure will early Head Start, as have the wonderful child
+
+care programs that are available to people who work in the federal
+
+agencies and in the u.S. Congress that I was fortunate enough
+
+to be able to avail myself of who are accredited and who also
+
+offer decent wages to their employees.
+
+     And today we're hearing very compelling evidence about the
+
+high stages involved in decisions either to follow or to ignore
+
+these models and I am delighted to hear that you're going to
+
+keep looking at this issue in the months ahead.
+
+     Thank you.
+
+     (Applause. )
+
+     MRS. CLINTON:      One of the reasons we want to look at this
+
+issue and we will have a conference later this year is because
+
+this is one concern that is shared by Americans no matter where
+
+they live or what their station in life might be.      And I think
+
+we need to clear the air and have a very honest national discussion
+
+about child care, the good, the bad and the ugly, and try to
+
+give parents more guidance about what good child care is and
+
+look for ways of creating real choices for parents because that
+                          Hex-Dump Conversion
+                                                                             91
+
+is what I think we should make available to parents but in reality
+
+many parents have no choices _         They don't have the choice about
+
+whether or not to go back to work, especially if they're a single
+
+parent or if they're a parent in a low income family that needs
+
+two paychecks just to keep body and soul together.               They often
+
+believe that they don't have a choice about the quality because
+
+of the cost of the programs that they are looking at.                And I
+
+think that part of what we have to do with this research that
+
+we now have available to us is to take a hard look about what
+
+real choices are and try to do more to provide them.
+
+     Now, some people argue, Dr. Phillips, that what the research
+
+that we've heard about from Dr. Shatz and Kuhl and Cohen and
+
+others, really tells us is that women with very young children
+
+should not work outside the home period and that all of our
+
+problems would be solved and all of our babies' brains would
+
+be well wired if women just stayed home.                And I think it's
+
+important that we talk about this and not either adopt an
+
+ideological point of view one way or the other about this question
+
+and it seems to me that part of what this conversation about
+
+scientific research should lead us to do is to look for ways
+                             Hex·Oump Conversion
+                                                                     92
+
+to give real choices to women so that women feel that they are
+
+making the choice that is right for them and their family.
+
+     But could you comment on what this research is telling us
+
+and whether it's fair to conclude, as some now argue, that it's
+
+the absolute definitive word on whether or not women should work
+
+outside the home?
+
+     DR. PHILLIPS:      Yes.      I have always been dismayed by how
+
+zero sum the debates are about work versus child care.         All
+
+families in this country do both and both need child care and
+
+also need the freedom to make choices, especially about when
+
+they start child care.         And I would love to see family leave
+
+policies in this country extended to cover more employees, a
+
+longer period of time and to address that thorny issue of wage
+
+replacement.
+
+     Placing a child in child care is one of the most agonizing
+
+and frightening decisions a parent has to make and it's very
+
+important that that parent be comfortable about when they first
+
+enter into that system or non-system that we have now.        But in
+
+fact the research on child care and the research on infant child
+
+care now is extremely reassuring with respect to working parents,
+                             Hex·Dump Conversion
+                                                                    93
+
+mothers and fathers, in a couple of ways.
+
+     First, we know, we find again and again in analyses, that
+
+regardless of when families first start child care, regardless
+
+of how much child care they use, the family remains by far the
+
+most powerful, by far the most powerful, influence on their
+
+children's development.          In many ways, how a child fares is in
+
+the parents' hands, so that's one reassuring message.
+
+     The other message is that if you can place your child in
+
+high quality child care, you can actually supplement what you're
+
+giving them as a parent and that's why the value of making high
+
+quality child care affordable for more families cannot be
+
+undervalued.   Children can thrive when their child care is good
+
+enough and I think people weren't even sure that was possible,
+
+but it's very, very possible.
+
+     MRS. CLINTON:      One of the questions that I'd like to ask
+
+the scientists about kind of arises from that.
+
+     There was an interesting study that I wrote about in my
+
+book and I saw today mentioned in a New York Times article called
+
+"Meaningful Differences" about the amount and kind of verbal
+
+interaction that goes on in a home and the kind of stimulation
+                          Hex·Dump Conversion
+                                                                      94
+
+that occurs.
+
+     And I think one of the issues that we need to address is
+
+how do we make it possible for more parents and those who are
+
+substitute care givers to understand what appropriate
+
+stimulation is, what kinds of activities are going to really
+
+help wire that brain and what might short circuit it, because
+
+I know that I often observe parents in various settings allover
+
+the country, and I'm always interested in what they think an
+
+appropriate way to talk to a child is, and does that make a
+
+difference and, in addition to verbal stimulation, what about
+
+physical stimulation?
+
+     And Dr. Schatz, or Dr. Kuhl, would you comment on that?
+
+     DR. KUHL:   I think we can say that the kind of stimulation
+
+definitely makes a difference.            I mean, obviously, we wouldn't
+
+think that shouting at a child more would improve their
+
+development.
+
+     We think that interaction is extremely important and that
+
+the sort of mood and temperament of the child needs to be taken
+
+into account.
+                           Hex·Dump Conversion
+                                                                            95
+
+     So, if a parent comes in to address a baby and is rushed
+
+and stressed, maybe that interaction isn't ideal, and if a parent
+
+simply decided, "Look, I have to crank up the level a little
+
+bit here, I have to do more of this, I am going to talk to this
+
+baby four hours a day," but talking isn't interactive and doesn't
+
+take into account where the baby is at that moment in time I
+
+don't think we could guarantee that that would do any good at
+
+all and, in fact, we might guess that it would have some negative
+
+consequence ."
+
+      I think Barry was mentioning that one of the things that
+
+you try to train a parent is to understand and read the child,
+
+that the temperament and the tone that mothers and fathers adopt
+
+when they talk to children is this higher pitch and slowed-down
+
+level of communication.
+
+     The slowed-down    lev~l    of communication says, "Go ahead and
+
+take your turn.    I'm addressing you.               It's your turn now."   I
+
+think that's the kind of stimulation that we have to teach parents
+
+how to do.   Some of them have the intuition to do it, not every
+
+single one of them does.         Teen-age mothers don't," always.
+
+     DR. SCHATZ:   Brain research actually has allowed us to begin
+                     Hex·Dump Conversion
+                                                               96
+
+to understand what is going on in the brain when these adequate
+
+interactions occur.
+
+     We know, for instance that this process of strengthening
+
+synaptic connections or weakening synaptic connections can
+
+actually be influenced by the state of arousal or the state of
+
+mind that you're in, and this is both -- you probably know this
+
+from your own experience in terms of, you know, trying to learn
+
+or remember things.
+
+     Obviously, a state of stress makes a difference, and we
+
+know this at the level of these individual synapses and
+
+connections that. I talked about earlier.
+
+     DR. BRAZELTON:      I do think there is a danger in what we
+
+are proposing, of playing into something that is going on in
+
+this country, which is to go after children, to teach them
+
+language, teach them judo, teach them violin, all the rest, at
+
+a time which may not be age-appropriate.
+
+     The first three years maybe ought to be put more into
+
+learning about themselves, learning about their environment,
+
+learning how about discipline, things like that, which may be
+
+more age-locked than learning how to read or learning some of
+                                Hex-Dump Conversion
+                                                                   97
+
+the other things_
+
+       I would be worried about families who took away from this
+
+that they've got to start all these programs early, and push.
+
+       DR. COHEN;   I think it's important to think about the baby's
+
+schedule.    If we think about early child care, it's meeting the
+
+baby when the baby is awake and ready for you, which is so
+
+difficult.    It may not be exactly on the schedule of the parents.
+
+       Quality care of children means being there when they need
+
+you.    Sometimes when they need you - - and we haven't talked much
+
+about it -- is when they're upset and distressed, at moments
+
+of high affect.     There, a lot of important work goes on between
+
+the parents, who are devoted to this child, whose primary
+
+preoccupation is this child, and the child.
+
+       So, when the child is crying or is hungry or has fallen
+
+down or is disappointed, how the parent responds to those highly
+
+charged moments is critical, and it makes an enormous difference
+
+whether it's your child or a child you really love and care about,
+
+or somebody else's child.        It also makes a difference how awake
+
+you are, how stressed you are.
+
+       I think that we need to find ways of allowing parents to
+                     Hex-Dump Conversion
+                                                                     98
+
+be there for their children at such times_         That's one of the
+
+advantages of worksite child care, is to be there not only when
+
+things are going well, but when theY're not going so well, and
+
+the child is sick or upset or is frightened.
+
+     I think these charged moments is something which we need
+
+to think about, too, in our curricula, as we talk with parents,
+
+as we talk with other people who are dealing with children, which
+
+is how do you deal with a child who is having a temper fit, how
+
+do you deal with a child who has just pulled another child's
+
+hair, how do you deal with a child whose hair has just been pulled?
+
+ These issues begin, really, very, very early.
+
+     I was doing a home visit two weeks ago, and there were two
+
+one-year-olds, and one little boy just reached out and just
+
+grabbed this other child's hair and just gave it a big yank,
+
+and the mother screeched, said, "Don't do that."        So the child
+
+then looked at the mother, looked at the little girl, and crawled
+
+away and started to cry.
+
+     The mother then picked the child up and consoled the child,
+
+and then put the child back down on the floor.        The child is
+
+back down on the floor, looks at this little girl, whose hair
+                          Hex-Dump Conversion
+                                                                          99
+
+he just pulled, and he takes his hand and he gives it a
+
+little -- "Don't do that_"             It was like,     "Hand, don't get me
+
+into trouble again_"
+
+     (Laughter. )
+
+     DR. COHEN:     Now, that moment, that highly charged moment --
+
+     MRS. CLINTON:       That's good advice for adults.
+
+     DR. COHEN:     Right.
+
+     (Laughter. )
+
+     DR. COHEN:     That highly charged moment of assertiveness,
+
+of how the parent dealt with the assertiveness, comforted the
+
+child, and the child begins to internalize, what do you do.
+
+A year or two later, he may not have to hold his hand.               He will
+
+know his hand belongs to him.
+
+     That, I think, is really very hard, unless you have
+
+appropriate training in child care, where the staff understands
+
+that this is a moment to learn, there are enough child care
+
+workers, where the parents understand how to deal with
+
+assertiveness and aggression.
+
+     I think they are, especially for very stressed families,
+
+a place to really do a lot of our thinking.
+                       Hex·Dump Conversion
+                                                                   100
+
+     THE PRESIDENT:      I'd like to make just a couple of comments.
+
+ I'm going to ask all of you to help me figure out what we're
+
+supposed to do here.       First, I believe the national government
+
+has a continuing and heavy responsibility to fund this basic
+
+research, to keep pushing the frontiers here.
+
+     There are, as has been acknowledged here, some things we
+
+don't yet know the answers to, and I'm very heartened that the
+
+distinguished head of the NIH, Dr. Harold Barmus, is here, and
+
+the President's Science Advisor, Dr. Gibbons, is here, and I
+
+think it would really matter if we knew how much was enough
+
+interaction - - something you could tell. a busy parent, something
+
+you could tell a parent who maybe was a high school dropout and
+
+felt not very worthy, and you could empower them . . You can empower
+
+them now by telling them that they can do enough, but if you
+
+really -- if you knew a slightly more precise answer it could
+
+really matter to this.      So I think we have a heavy responsibility
+
+there.
+
+     The second thing I'd like to say is I wish you all would
+
+think about these issues we've discussed today where there are
+
+shortcomings in our society and ask yourself, is this primarily
+                        Hex·Dump Conversion
+                                                                  101
+
+a money problem, and if so, what is the federal responsibility
+
+here; or is it -- maybe there's a little money problem, but is
+
+it primarily a question of education and proper networking, in
+
+which case, as Dr. Davidson said to me when we had a personal
+
+moment here, maybe it's something that has to be done community
+
+by community.   But I think it's important to dis aggregate these
+
+problems.
+
+     The third thing I'd like to say to you is that as we think
+
+about -- we were talking about the Navy's child care network
+
+-- we're living in this, as everybody knows, in this really
+
+dynamic time, and I'm trying to figure out all the time what
+
+should I be doing here that will make America better 10 or 20
+
+years from now, and I think about these decisions that we're
+
+trying to harmonize as having basically three major elements.
+
+ There's the sort of the modern social elements of the
+
+technological changes and the global competition and whatever
+
+the social pressures are.         There's the enduring need to have
+
+an appropriate amount of personal responsibility from
+
+indi viduals, without which no society succeeds.      And then there
+
+is the constant need we have that's always being redefined to
+                                              Hex-Dump Convemlon
+                                                                                          102
+
+            have a certain amount of security in our society because we share
+
+             common tasks together_
+
+                     And if you take the United States versus France, for example,
+
+            our unemployment rate is seven points lower than theirs _                That's
+
+             a big deal_          We would be inconsolable if we had a 12 point
+
+            unemployment rate_             And the President of France and I have had
+
+            a lot of wonderful conversations about this and he's tried to
+
+            make his society more flexible and his labor markets less rigid
+
+             to try to get more jobs and lower unemployment_
+
+                     On the other hand, if I suggested that there is no social
+
+            responsibility for a child care network, they would go crazy
+
+            and they would think it was laughable, that it had nothing --
+
+             that they're pretty proud of the fact that they take better care
+
+            of their children than we do _                 And I don't think it has anything
+
+            to do with the difference in our unemployment rate_
+
+                     In other words, I believe that every society today in this
+
+            period of change is trying to identify where do I need to let
+
+            competition and responsibility hold major sway here and get out
+
+            of the way; and where do we need to do these things together_
+
+              And no society has it perfect; no advanced society has a perfect
+
+
+
+
+                                         Automated Records Management Svster-
+Automated Records Management System              Hex-Dump Conversion
+        Hex-Dump Conversion
+                        Hex-Dump Conversion
+                                                                       103
+
+decision.   But I would argue that we pay a terrible price when
+
+we don't take shared responsibility for our children.              And I
+
+think the research here supports that.
+
+     Consider how all the - - consider how I would answer Congress
+
+and the Republicans in Congress if I were to say, well, we've
+
+got a lot of problems in the military budget, so what we're going
+
+to do is to dismantle this system of child care, it's just a
+
+silly little add-on we can't afford; and we're going to let all
+
+these people in the Navy go out and find their child care the
+
+same way Americans do, everybody else does.           It seems a
+
+reasonable thing to do.         And, oh, yes, we do have all these fine
+
+young people who serve in the Navy at what would be very low
+
+salaries compared to the private sector, but that's just tough.
+
+ Why, there would be an uproar, and there ought to be an uproar.
+
+     But if you think about it, the children of people who aren't
+
+in the Navy are just as important to our future as the children
+
+of people who are.
+
+     So I think it would be very helpful to all of you to think
+
+over the next five or 10 years, whenever some problem comes up
+
+you ask yourself, is this something where it ought to be a matter
+                             Hex-Dump Conversion
+                                                                      104
+
+of -- as we build a new society for a new century, something
+
+that we have to do together as a society, or something that we
+
+should just set up the right rules and then let people deal with
+
+individually.
+
+        And that's how I try to think of every issue that comes
+
+to me.    And when I -- was just captivated by what Dr. Shatz said
+
+about the whole way the brain -- my brain is racing, you know
+
+-- what are the implications of this in terms of what parents
+
+have to do and what the rest of us have to do.             And if we ask
+
+and answer those questions right, then this country will be just
+
+fine.
+
+        Thank you.     (Applause. )
+EMAILS RECEIVED
+ARMS - BOX 059 - FOLDER -008
+
+
+[04/18/1997] [2]
+
+

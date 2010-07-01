@@ -1,0 +1,157 @@
+RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+CREATOR: Karin Kullman ( CN=Karin Kullman/OU=OPD/O=EOP [ OPD 1 )
+
+CREATION DATE/TIME:22-MAR-1999 09:49:18.00
+
+SUBJECT:    Patients Bill of Rights on-line petition
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+CC: Devorah R. Adler ( CN=Devorah R. Adler/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TEXT:
+Click "view" on petition box to see petition.    Let me know if you have any
+comments you would like me to pass on.
+
+Thanks!
+---------------------- Forwarded by Karin Kullman/OPD/EOP on 03/22/99
+08:52 AM ---------------------------
+
+
+
+
+JANET MURGUIA
+03/19/99 09:53:00 PM
+Recor\'l Type:  Record
+
+To:      Christopher C. Jennings/OPD/EOP, Loretta M. Ucelli/WHO/EOP, Ann
+F. Lewis/WHO/EOP
+cc:      See the distribution list at the bottom of this message
+Subject:         Patients Bill of Rights on-line petition
+
+Please get any feedback on this to me asap.  Thanks. JM
+---------------------- Forwarded by Janet Murguia/WHO/EOP on 03/19/99
+08:28 PM ---------------------------
+
+
+
+        Laura_Quinn @ dpc.senate.gov (Laura Quinn)
+        03/19/99 06:31:04 PM
+Record Type: Record
+
+To: Janet Murguia/WHO/EOP, ptaylor @ aflcio.org, kgrossing @ aflcio.org
+cc:
+Subject: PBoR on-line petition
+
+
+
+
+      third time the charm -- i hope this gets through
+
+
+      two DRAFT documents attached
+
+      1)   the DRAFT petition graphic that would be put on each group's web
+
+
+      site
+
+      2)     and DRAFT instructions for pasting the graphic onto each site
+
+
+      pIs review internally and send suggestions for changes back this way.
+      pIs do not send to the outside workl yet.
+
+     thanks
+ - petition.jpg
+
+
+
+Instructions for adding a link to the Patients' Bill of Rights Petition to
+your
+web site.
+
+The HTML code for the form (see attached image) that allows individuals to
+add
+their names to the PBOR petition can be obtained here:
+
+XXXX/xxx.html
+
+Simply copy this code into your own HTML, wherever you 'wish the form to
+appear
+on your site. Once in place, visitors to your web site will be able to
+see how
+many people have signed the petition, add their names to the petition, and
+after
+signing they can browse the list of names.
+
+This form contains X images which you will want to copy to your own server
+for
+them to properly load. The images can all be found at http://www ... and
+are
+named:
+
+Imagel.gif
+Image2.gif
+Image3.gif
+
+Place the images into the same directory that you have whichever HTML file
+contains your HTML code for the petition.
+
+There are two other minor changes you need to make to the source code.
+Near the
+bottom of the code, you will find instructions that say 'Enter Your
+Organization
+Name on the Line below.' Be sure to do that.
+
+If you have any questions or need any assistance at all, please do not
+hesitate
+to contact Chris Casey, Jeff Hecker, or Jeremy Dorin at 202/224-1430.
+
+
+Message Copied
+TO: __________~~--~--------------------------------------------
+Charles M. Brain/WHO/EOP
+Lisa M. Kountoupes/WHO/EOP
+Tracey E. Thornton/WHO/EOP
+Sarah A. Bianchi/OVP @ OVP
+Kay Casstevens/OVp @ OVP
+Stacie Spector/WHO/EOP
+Karin Kullman/OPD/EOP
+==================== ATTACHMENT    1 ====================
+ATT CREATION TIME/DATE:    0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D39]ARMS17405509Z.036 to ASCII,
+ The following is a HEX DUMP:
+
+FFD8FFE000104A46494600010201004800480000FFED17A450686F746F73686F7020332E300038
+42494D03E900000000007800030000004800480000000002D80228FFE1FFE202F9024603470528
+03FC00020000004800480000000002D80228000100000064000000010003030300000001270FOO
+010001000000000000000000000000600800190190000000000000000000000000000000000000
+00000000000000000000000000003842494D03ED00000000001000480055000100010048005500
+Hex-Dump Conversion
+
+
+
+
+                                 S1gn  °
+                                        .
+                                                       The Petition Supporting
+                                                      The Pali~lllS' Bm or Rights
+                                      Fintl
+                                      uae:
+                                       Lutrl- - - - - - - - - - - - - -
+                                      u.ae:
+                                      CitJ:rl- - - - - -
+
+                                      Stal·:1 .....        I ~. )
+                                              I Sign the Petition .1 ~
+
+

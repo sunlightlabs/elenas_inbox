@@ -1,0 +1,43 @@
+RECORD TYPE: PRESIDENTIAL     (NOTES MAIL)
+
+CREATOR: Jose Cerda I I I ( CN=Jose Cerda III/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME:20-MAY-1999 12:58:01.00
+
+SUBJECT:   g-show statement
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ:UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+CC: Leanne A. Shimabukuro ( CN=Leanne A. Shimabukuro/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D98]ARMS26633625K.136 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504370040000010A02010000000205000000780700000002000015FF878C7E581D02DD20BE
+76404D76E7FOB3C98CAllF6D15C1CC01B35E3088B813FD2088343C4091AF5D3F2FEEC6D8308075
+701F4CDA2FC8F436F54F5A2346EOAOFOC45AF71D25896172E72999F8DFE15B0276097893B20CBD
+86A7C3CCC775BOD1EA5C289EBFAD7E01712F020C8E16032B88B4ECDE9F813AF2C3B6060A9CEA3D
+                                                                     Hex-Dump Conversion
+                                  Statement of the President
+
+I applaud the Senate for its leadership this morning in voting to close the gun show loophole once
+and for all. In the wake of the recent school shootings, it is profoundly important that all
+Americans come together and do everything they can to protect our children from violence. For
+those of us in government that means enacting common sense laws that reflect the values of the
+American people. By passing measures to help keep guns out of the hands of children and
+criminals, the Senate is living up to this responsibility.
+
+

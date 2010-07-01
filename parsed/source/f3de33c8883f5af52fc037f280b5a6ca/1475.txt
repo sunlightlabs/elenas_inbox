@@ -1,0 +1,156 @@
+  RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+  CREATOR: Elizabeth Drye ( CN=Elizabeth Drye/OU=OPD/O=EOP [ OPD ] )
+
+  CREATION DATE/TIME:24-MAR-1997 10:45:34.00
+
+  SUBJECT:   Radiation press briefing
+
+  TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ] )
+  READ:UNKNOWN
+
+  TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+  READ:UNKNOWN
+
+  TEXT:
+  Attached is a fact sheet for Friday's press briefing.  Elena, I've also
+  left a printed copy on your chair in OEOB.  ==================== ATTACHMENT      1
+  ATT CREATION TIME/DATE:   0 00:00:00.00
+
+  TEXT:
+  Unable to convert ARMS_EXT: [ATTACH.D42]MAIL458783280.016 to ASCII,
+   The following is a HEX DUMP:
+
+  FF5750434F060000010A02010000000205000000C221000000020000FFE59394BE22BEE3414EAB
+  OBBA7874B41C7D951FAD3F67A683691612ACED126DAEC764C9C8671AFFCA0990DCEOAC19FCF2CC
+  D2601E1D3A79D6785D516915890A77A561C3B7F377FE8870FD3D96835689CACDD00513E6E2EOEF
+  D40A215E99276E89AE25858282F73C34CD904A9B48FD86D854B6A66COF2F2C6BCF2CDCBB717D95
+  6A4E2E2A2EF512B17472E417A61C1B9BED8C190433879D6F44B52137E483CB034A5A32598B4A72
+  EAD8353975D5FBBF5CFBF2CE19679532592487585F718D07A6C9DE5A96B5384B4759370A8F5E22
+  9C52A1BDC6535BB3FB242220CDC414AOEAA6069BOB1479B9D2ADB3DC9DCD82045FD207B1E3BOB2
+  80921E8AA2396DD11E5B840B32F59F98924D76D8DFF78BBA67F732892A876A580DBB943A0445AD
+  540F90362013F1C2CB7D13689F2892CAA400393C6D92FCA0912AC5F117AA96C5925745BAF7D7C9
+  67F001D869AAOD8C9CA91A37CD217B44DF180ADDFEFF9317861A029E2BA55E04D4FOE827AF5835
+  5AEDFEEC9BC830E556EB1B9D55621AOADF8AF616678A2F225670DF229BOBF6B38161FA7F4C6F28
+  AA6F80A52020EC2AF13A594966DFE56BA715C67B25FCEF1694BFE33AF36BOE6A5A3B559693E3AF
+  73EOCOE18CB3FF77D7207454317333B44F59718349E6045078C568D224FAF34CDF58BB9247DOEE
+  B637AEDD9A02000D000000000000000000000000550400000042000000B6020000092501000000
+  06000000F80200000B300100000055000000FE0200000055010000003A00000053030000080201
+  000000100000008D030000086E01000000580100009D0300000B300400000065000000F5040000
+  080501000000080000005A050000087701000000400000006205000008340100000014000000A2
+  0500000B7B0200000034000000B60500000B7B0200000065000000EA0500003COOFE1536105807
+  00000139000000600028150000102A0043006F0075007200690065007200200031003200700074
+  000000000000003100300063007000690000000100010058020100000004003EOOOOOOOOOOOOOO
+  1700000000000000000000000100FFFF2400000400004C00610072006700650020004300690072
+  0063006C0065000000F00004FOE030130000000000002E002E000100001300E02900F41A5C121A
+  090000110900000060001811000010220044007500740063006800000000000000730063006100
+  6C00610062006C006500000008337C00780000020000750700000100AB003COOFE153610580700
+  000139000000600028150000102A0043006F007500720069006500720020003100320070007400
+  000000000000310030006300700069000000000000000000000000000000000000000000000000
+  000000000000000000000000000000000000000000000000000000000000000000000000000000
+  00000000000000000000000000000000580258027800FE1536105807000000041140C9001F4A51
+  1103105802402900F41A5C121A0900001109000000600018110000102200440075007400630068
+  000000000000007300630061006C00610062006C00650000006300700069000000000000000000
+  000000000000000000000000000000000000000000000000000000000000000000000000000000
+  00000000000000000000000000000000000000000000000000000000000000580258027400F41A
+  5C121A090000001020508E00273351110310580250010000000400280000003DOOOOOOOOOOOOOO
+  000000000000000001127C942400A1000000A1000000D3050COOOO010000000COOD3D41B1F0080
+  01010008005B02BEDC1F005B02000058020100580200001FOOD4D3011200000400E8FDOOOOOOOO
+  01001200D301000400020000000A0000006C07010076036D07010002006E07020002006F070100
+  0200700702007B037107010002007207010002007307010045007407010002007507020054005A
+                                                                        Hex-Dump Conversion
+                               President Clinton Announces Actions
+                             Responding to the Advisory Committee on
+                                  Human Radiation Experiments
+                                         March 28, 1997
+                                            --DRAFT--
+
+Background
+       In January, 1994, President Clinton established the Advisory Committee on Human
+Radiation Experiments (ACHRE) to examine reports that the government had supported
+unethical human radiation experiments and releases of radiation during the Cold War.  He
+asked ACHRE to uncover the truth, recommend ways to right past wrongs, and suggest ways to
+make sure the government will not repeat past mistakes.
+
+        ACHRE found that the government had conducted several thousand human radiation
+experiments from 1945 to 1975 and that the majority advanced biomedical research. The
+Committee found, however, that some were conducted unethically. For example, scientists
+injected plutonium into 18 patients without their knowledge, and researchers conducted
+experiments on indigent patients and children. ACHRE made 18 recommendations to open the
+public record, protect human subjects of future research, and compensate those wronged by the
+government's actions.
+
+        In October, 1995, the President received the Advisory Committee's report and made it
+clear that the report would "not be left on a shelf to gather dust" He directed his Cabinet to
+"use and build on these recommendations." Over the past year and a half, the Administration
+has acted throughout the government to implement ACHRE's recommendations to improve
+openness in government, strengthen ethics in human subjects research, and compensate
+individuals for the government's mistakes.
+
+Announcement
+·     The Administration released Building Public Trust, outlining its comprehensive response to the
+      President's Advisory Committee on Human Radiation Experiments (ACHRE). The report
+       summarizes actions to address ACHRE's 18 recommendations.
+
+·      The Departments of Energy and Justice announced that the government has settled
+       compensation claims with families of aJJ of the known individuals ACHRE recommended for
+       compensation. ACHRE recommend the government compensate the families of 18
+       subjects of plutonium injection experiments.      The government has settled with all 16
+       families that came forward.
+
+·      President Clinton signed a memorandum to strengthen the rights and protections of people
+       participating in secret, government-supported research. ACHRE recommended that
+       subjects of secret experiments have special protections and information.    Acting on that
+                                                                  Hex-Dwnp Conversion
+
+
+        recommendation, the President directed agencies today to propose new rules for secret
+        research that would require scientists to: obtain informed consent from all potential
+        subjects of secret experiments; disclose the identity of the sponsoring agency to potential
+        subjects; and tell potential subjects that an experiment is classified. The new rules would
+        also establish a more independent review process; require the head of the agency
+        conducting secret human research to approve the project; and require permanent records
+        of secret experiments.      To ensure that secret human research projects are rare, the
+        President also directed federal agencies to report annually on the number of classified
+        human research projects and the number of subjects in each project.
+
+·      The Administration announced proposed amendments to the Radiation Exposure
+        Compensation Act of 1990 to compensate hundreds of uranium miners who would not be
+        compensated under current law. ACHRE found that some deserving miners do not
+        qualify for compensation under the Act. The amendments would establish fairer,
+        science-based criteria for compensation. The Administration will also propose regulatory
+        changes to RECA to facilitate claims processing.
+
+Previous and On-going Actions Described in Building Public Trust Indude:
+
+Actions to Improve Openness in Government.
+·      ACHRE transferred more than 4,000 cubic feet of documents to the National Archives.
+       The Administration has made 300,000 fully searchable pages of documents available on
+       the Internet, and will add an additional 200,000 pages shortly. The Departments of
+       Energy and Defense have published document search guides.
+·      The President signed Executive Order 12958 directing Federal agencies to review and
+       declassify thousands of documents, including documents on radiation experiments.
+·      The CIA's Inspector General reviewed and reported on the CIA's human experiments.
+       The report is on the Internet.
+
+Actions to Protect human subjects in the future.
+·      President Clinton established the National Bioethics Advisory Committee (NBAC) to
+       examine bioethical issues, including human research issues. A subcommittee of NBAC
+       will address certain broad questions raised by ACHRE, including how to strengthen
+       Institutional Review Boards -- the local ethics panels for Federally-sponsored research.
+·      President Clinton directed agencies to develop plans to improve oversight of ethics rules.
+       NBAC will review these plans in the coming months.
+·      Agencies have undertaken nationwide education efforts to raise the profile of ethical
+       considerations, and are funding research to improve our understanding of informed
+       consent.
+
+Actions to Right Past Wrongs.
+·       In October, 1995 President Clinton apologized to all subjects on behalf of the
+                                                              Hex-Dump Conversion
+
+    government; former Energy Secretary O'Leary made apologies in certain individual cases.
+·   The Administration will propose legislation to make veterans treated with nasopharyngeal
+    radiation eligible for health care services under the Veteran's Administration's Ionizing
+    Radiation Program.
+
+

@@ -1,0 +1,125 @@
+  RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+  CREATOR: Julie A. Fernandes ( CN=Julie A. Fernandes/OU=OPD/O=EOP [ .OPD ) )
+
+  CREATION DATE/TIME:16-JUN-1998 17:49:13.00
+
+  SUBJECT:   H2A proposal outline -- for 12 noon meeting tomorrow
+
+  TO: Sally Katzen ( CN=Sally Katzen/OU=OPD/O=EOP @ EOP [ OPD ) )
+  READ: UNKNOWN
+
+  TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ) )
+  READ: UNKNOWN
+
+  CC: Shannon Mason ( CN=Shannon Mason/OU=OPD/O=EOP @ EOP [ OPD ) )
+  READ: UNKNOWN
+
+  CC: Cecilia E. Rouse ( CN=Cecilia E. Rouse/OU=OPD/O=EOP @ EOP [ OPD ) )
+  READ: UNKNOWN
+
+  CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO ) )
+  READ: UNKNOWN
+
+  TEXT:
+  ==================== ATTACHMENT   1 ====================
+  ATT CREATION TIME/DATE:   0 00:00:00.00
+
+  TEXT:
+  Unable to convert ARMS_EXT: [ATTACH.D93)MAIL424666767.126 to ASCII,
+   The following is a HEX DUMP:
+
+  FF57504370040000010A020100000002050000006E1B0000000200006F62B5B9863E38F555A2DD
+  9F8265ABE994F153D787960717395255B6ED8388F5CA3327E06F5793BC283C24FA94D710959367
+                                                                                 Hex-Dump Conversion
+                                    H-2A Reform Proposal
+
+
+This proposal is for a NPRM in four parts. Part I would discuss the steps already taken by DOL
+to streamline the H-2A program. Part II would layout the reforms that are being noticed for
+rulemaking. Part III would preview a proposed rule that is under development and would give a
+firm deadline for noticing that rule. Part IV would mention other areas where we are
+considering reform.
+
+Part I
+Actions accomplished
+(by General Administrative Letter (GAL) directive)
+
+a.     The Labor Department now requires "positive recruitment" of U.S. farm workers only in
+       areas where DOL finds that there are a significant number of qualified workers willing to
+       make themselves available for employment at the time and place needed.
+
+b.     The Labor Department now counts as "available" for employment only those U.S.
+       workers who are identified by name, address and social security number.
+
+c.     The Labor Department has submitted a reprogramming request to Congress that would
+       allow for the provision of automated support for the labor certification process. Such
+       automation could be implemented within six to eight months of the availability of
+       funding.
+
+       This automation would affect both the goal of meeting the existing 7 -day deadline after
+       receipt of initial application to notify employer of deficiencies precluding adjudication of
+       the application and the 20-day deadline -- prior to the employers' "date of need" -- to
+       issue approved certifications.
+
+Part II
+Rulemaking proposals -- Stage 1
+
+a.     Require employers' H-2A labor certification applications to be submitted 45 (rather than
+       60) days prior to the employers' "date of need."
+
+b.     Reduce the deadline for employer-provided housing to be available for inspection from
+       30 to 15 days prior to the employers' "date of need."
+
+c.     Growers will no longer be required to use a registered farm labor contractors (FLCs or
+       "crew leaders") as a source of U.S. workers if the FLC has a demonstrated history of
+       employing illegal or unauthorized workers or of other labor abuses.
+
+d.     Eliminate requirement that certified H-2A employers provide notice ofH-2A workers'
+       departure for the place of employment.
+Part III                                                                         Hex-Dump Conversion
+Rulemaking proposal -- Stage 2
+This notice would set a deadline (120 days?) for noticing a rule that effects this reform. This
+reform would likely require rulemaking by both DOJ and DOL.
+
+a.     INS to delegate H-2A petition approval authority to DOL. Removing the INS
+       adjudication step will result in a two-step (State -- DOL) process, rather than a three-step
+       (State -- INS -- DOL) process. DOL will then provide simultaneous approval ofH-2A
+       certification and petition approval.
+
+Part IV
+Rulemaking proposal -- Stage 3
+This notice would mention the following other reforms as possibilities for future rulemaking.
+
+a.     Allow H-2A program applicant-employers to include a bonding requirement for FLCs
+       they employ. This will help protect employers from risks such as the FLC employing
+       unauthorized workers or failing to perform.
+
+b.     The Wage & Hour division at the Labor Department will have the authority to
+       temporarily debar employers who commit serious labor standards or H-2A program
+       violations from future use of the H-2A program.
+
+c.     INS (or DOL) will issue petition approval (1-797) for replacement of certified H-2A
+       workers upon proof of the worker's repatriation.
+
+d.     Simplify H-2A application and related documentation -- both job order applications and
+       accompanying disclosure documentation -- for ease of integration with America's Job
+       Bank (AJB). This simplification will accommodate electronic filing by
+       employer-applicants and will further ease application information burden on previous
+       program users found in compliance with program requirements.
+                                                                                 Hex-Dump Conversion
+
+                                                Issues
+
+    1.   Does the substance and schedule seem reasonable?
+
+    2.   Will this proposal be effective in staving off congressional efforts to enact new
+         guestworker legislation?
+
+    3.   Labor wants to be able to tell members of Congress that OMB has profuised to expedite
+         their review so that the new regulations will be in place by January or February of 1999
+         (next growing season). What kind of promise can Babor make?
+
+    4.   Should we, as our proposal reflects, preview the reforms that we hope to pursue in a
+         future rulemaking (Part IV)? Or should we wait until we are ready to issue the next
+         NPRM?

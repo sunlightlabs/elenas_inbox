@@ -1,0 +1,221 @@
+     RECORD TYPE: PRESIDENTIAL        (NOTES MAIL)
+
+     CREATOR: Sarah A. Bianchi ( CN;Sarah A. Bianchi/OU;OPD/O;EOP .[ OPD ]               )
+
+     CREATION DATE/TIME: 6-DEC-1997 19:32:43.00
+
+     SUBJECT:   AIDS memo and race and health memo
+
+     TO: Elena Kagan ( CN;Elena Kagan/OU;OPD/O;EOP @ EOP [ OPD ]              )
+     READ: UNKNOWN
+
+     TEXT:
+     Race memo has one new sentence that OMB does not support the grant
+     proposal but rather supports building on existing programs. ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ATT
+     ATT CREATION TIME/DATE:   0 00:00:00.00
+
+     TEXT:
+     Unable to convert ARMS_EXT: [ATTACH.D91]MAIL45960793A.316 to ASCII,
+      The following is a HEX DUMP:
+
+     FF575043FE030000010A02010000000205000000FD170000000200002E9937203F25BD8B2A1FFD
+     B29C4BCB44E1F20379EF4CE9E04DEABD8BB14C9D367F72964AA17DC9DC77C859E9F062D56475E4
+     ACDOB429AAF95CF3569D90296C9B85A49F2B5E009EF049C2E1A85DFEE733E9267C1F5AFE712756
+     BBC4972120908C6248EE08DDC3F6B58934899DDOE033B06D28E0367A6A2D976C62A1560BB3171D
+     56B19C1370DF4B237AE1A7BB283F87883426E32981F2672CCDOCA370211E115F881123ECF792AC
+     7BB9EF9253915CA80A247D9555D468B8BBBA037E8AC6D86C1B44B542246937826AE122453E5C41
+     7299913F470D10B30327DDB8C2751890AB936BBBED26D9379C2219EA3F280DF1913C56D73DOD12
+     4CFF16094807C726ABFDD587926C55C43COA34722D2626AA33E97D59BE7B39A04E99A3CC8E6599
+     886A6EE267460E4710077EBB202200282D38EDB35A23AB17F9BED02F4F3111387E9C17295AE12B
+     A2E28C1CED463755AllDA0295FD44A67FAOE106419A61229E3ACD25630FOB57A0576A2CFA7090D
+     A3E495A66DB3DC4A6631CB8D565D9B8D6027D6157F5121A9C8844D7B488641EOCB281A2EAF1664
+     BCBABC37893D8B7547EOE23C1D8780AB3AF7F2F83AE6CD7D593E0057040428FBAOB7AB1DDD9E7D
+     4AC6CF7E12C9DC551F51EEFBB23B7E08E6A4E98CE191F7522639132A592379A22067F68BB93BF7
+     8CA9ADEC6602000A00000000000000000000000055040000004EOOO0008C020000092501000000
+     06000000DA0200000055020000003COOOOOOE0020000080201000000100000001C0300000B3002
+     000000340000002C03000008050100000008000000600300000877010000004000000068030000
+     08340100000014000000A803000000550100000042000000BC0300002800C8196810480D000011
+     090000005AOOOB010000103600540069006D006500730020004EOO65007700200052006F006DOO
+     61006E00200052006500670075006C00610072000000000000000000010.0010058021BOOF41A5C
+     121A0900001109000000600018110000102400540069006D006500730020004E00650077000000
+     52006F006D0061006E0000000000000008337C0051000002000040010000010001000000040028
+     0000000C0000000000000000000000000000000112A4542400A1000000A1000000D3050C000001
+     0000000COOD301000400020000000A0000003701020045003801020002003901010045003A0101
+     0002003B01010045003C01010002003D01010045003E01020002003F0101004500400101000200
+     D5BA7023000000000000D400B8015400D400F41F1DOOF41A5C121A090000110900000060001811
+     0000102A00540069006D006500730020004E0065007700200052006F006D0061006EOOOOOOOOOO
+     0000540054000000DDOA1000830105000300A454211000DDD3050C0000010000000COOD3DDOBOB
+     00030000040BOODD9BD3050C0000010002000COOD3446563656D626572809C362C9B8031393937
+     CCD3050C0000010000020COOD3CCCC4D454D4F52414E44554D80464F5280544845805052455349
+     44454E54CCCC46524F4D3AE0300C0000000060090COOE042525543458052454544D0041F000015
+     001300016009B00405000102600928236009282302201FOODOE030OC0000000008070COOEOE030
+     1400000000600908072823080728231400E047454E4580535045524C494E47D0041700000DOOOB
+     0002600928236009282302201700DOCC5355424A4543543AE0300CO000000060090COOEOF20CF2
+     4E6577804149445380496E697469617469766580D0041F00001500130001300C80070800010260
+     0928236009282302201FOODOF30CF3CCF20CF24F76657276696577F30CF3D0041500000B000900
+     01100E60090A0001201500DOCCE0110C0000000008070COOE05765806861766580646576656C6F
+     706564B0616EB024313135806D696C6C696F6E80696E697469617469766580666F72B0796F7572
+     B04659B0313939398062756467657480746F80696D70726F7665BO41494453CF74726561746D65
+     6E7480616E64B070726576656E74696F6E8070726F6772616D732E80B054686973B0696E637265
+     617365B0776F756C6480676F80746F80657870616E648070726F6772616D73B074686174B06172
+                                                                    Hex-Dump Conversion
+                                       December 6, 1997
+
+
+MEMORANDUM FOR THE PRESIDENT
+
+FROM:         BRUCE REED
+              GENE SPERLING
+
+SUBJECT:      New AIDS Initiative
+
+Overview
+
+        We have developed an $115 million initiative for your FY 1999 budget to improve AIDS
+treatment and prevention programs. This increase would go to expand programs that are critical
+to preventing and treating this epidemic, including the AIDS Assistance Drugs Programs
+(ADAP) which extends life~saving new treatment therapies to low-income and underserved
+populations. It would focus on three populations: women, minorities (the two populations with
+the fastest growing rate of AIDS), and children.
+
+Background on AIDS Funding
+
+        Since you came into office, you have dramatically improved programs that extend
+treatment and prevention for people with AIDS. You have ensured that Medicaid covers
+protease inhibitors (a significant step for AIDS treatment, as Medicaid provides health coverage
+for half of all people with AIDS). Ryan White Programs have increased by 200 percent since
+FY 1993, funding for research at NIH has increased by 50 percent, and funding for the ADAP
+program has increased 450 percent since 1996.
+
+        However, the AIDS community was extremely critical of the Administration in the last
+budget because we failed to propose major increases in discretionary spending, and the Congress
+far out spent us in this area. Moreover, this spring the Vice President asked the Health Care
+Financing Administration to look into the feasibility of doing a budget neutral Medicaid
+demonstration to extend life saving therapies to Medicaid patients earlier, when treatments are
+thought to be more effective. After much analysis, HCF A concluded that even a modest
+demonstration would be quite costly and could not meet its budget neutrality requirements.
+Nevertheless, the Vice President's request raised expectations in the community, and they are
+disappointed that we will not be able to take such an approach. There is no doubt that the AIDS
+community is watching the Administration's actions closely, particularly with regard to the
+FY 1999 budget, and will push for your continued support for AIDS research and treatment.
+                                                                       Hex-Dump Conversion
+The Proposal
+
+        The AIDS office is recommending, and we agree, that you propose an $115 million
+increase in your FY 1999 budget. (OMB is currently recommending $100 million). This
+funding could be spent in a number of ways. We could break out spending between existing
+discretionary programs that emphasize prevention and treatment. We recommend a substantial
+increase in the ADAP program (around $70 million) as new treatments of this disease are
+increasingly proving effective and have not been extended to many who need them. We would
+also recommend modest increases to cities, states, and community health centers, all of whom are
+overwhelmed by this epidemic as well as the CDC prevention education programs, which could
+specifically focus on improving education for minorities and young people.
+
+       In response to the criticism HHS is receiving with regard to their finding that a budget
+neutral demo is not possible, Nancy-Ann Min DeParle is in the early stages of having HCFA
+determine if it is possible to develop legislative options for a modest Medicaid demonstration to
+expand eligiblity to Medicaid for people with HN earlier in the progression oftheir disease. By
+proposing legislation, this demonstration would not have to be budget neutral. It would be
+capped to a few states (and more likely communities within these states) and would cost $40-$50
+millionover five years (or $8 to $10 million per year). If we develop such an approach, we
+could lower the discretionary dollars to $100 million. It would also send a signal that the
+Administration is willing to consider changing Medicaid to respond to the new treatment needs
+of this epidemic. We would have to find some Medicaid savings to finance that proposal.
+
+       Although the $115 million that we are suggesting falls far short of the unrealistic $400
+million the AIDS advocates are pushing, it is a significant investment with justifyable policy that,
+according to the AIDS office, should be sufficient to help quiet any major criticism from the
+community.
+                                                                       Automated Records Management System
+                                        December 4, 1997               Hex-Dump Conversion
+
+
+MEMORANDUM FOR THE PRESIDENT
+
+FROM:          BRUCE REED
+               GENE SPERLING
+
+SUBJECT:       Race and Health Initiative
+
+Overview
+
+        As a major component of your race initiative, we have developed a proposal that would
+commit the nation to an ambitious goal of seeking to eliminate racial disparities in health care by
+the year 2010. There are severe disparities in a number of critical health areas for
+African-Americans, Hispanics, Native Americans, and Asian Americans. In some cases these
+minority groups suffer from diseases as much as five times as often as whites. To effectively
+reduce these disparities will require a Department-wide effort to find innovative approaches and
+apply them nationally across all health programs. The FY 1999 budget could take a
+two-pronged approach to this issue: (1) expanding our most effectiv<: public health programs and
+directing them to focus specifically on the problem of eliminating these disparities; and (2)
+funding competitive grants to thirty communities and monitoring them closely to improve our
+knowledge on how to close these gaps. New strategies learned through these grants would then
+be applied at a national level.
+
+Racial Disparities in Health Care
+
+        The initiative would focus on the most severe racial disparities in the following health
+areas: infant mortality, cancer, heart disease and stroke, AIDS, immunizations, and diabetes.
+Some of these disparities are quite startling. For example, infant mortality rates are
+2 % higher for Mrican-Americans and 1% times higher for American Indians and many Hispanic
+groups. For cancer, Vietnamese women suffer from cervical cancer at nearly five times the rate
+of whites, while Latinos have two to three times the rate of stomach cancer. African-Americans
+have a 35 percent higher cancer death rate. For example, African-American men under the age
+of 65 get diseases such as prostate cancer and heart disease at nearly twice the rate of whites,
+while Native Americans suffer from diabetes at nearly three times the average rate, while
+African-Americans suffer 70 percent higher rates. Racial and ethnic minorities account for
+25 percent of the population yet make up 54 percent of all AIDS cases. The demographic changes
+that are anticipated over the next decade magnify the importance of addressing some of these
+disparities. As these minority populations with poorer health status are expected to grow, we
+have an <?pportunity to dramatically improve the future of the nation's health if we can find
+effective ways to close these gaps.                                                  .
+
+
+                                                                       Automated Records Management System
+    Validation
+                                                                       Hex-Dump Conversion
+           Proposing the ambitious goal of reducing these dramatic health disparities would receive
+    overwhelming support from the public health community, by groups such as the American Public
+    Health Association, the American Heart Association and the American Cancer Society as well as
+    from minority groups such as the Intercultural Cancer Council, the American Indian Healthcare
+    Association, the National Hispanic Council on Aging, the National Council of Black Churches.
+
+    Proposal
+
+            HHS is proposing to spend $200 million in FY 1999 for this initiative, while OMB is
+    currently recommending $30 million and supports using these dollars to build on existing
+    programs rather than the grant proposal discussed below. We believe that we can develop a
+    strong initiative with $100 million in your FY 1999 budget. This funding would be
+    supplemented by a few other initiatives, such as the proposed increases in AIDS funding, some
+    of which will be targeted specifically to minorities.
+
+    ·      Improving Effective Public Health Approaches to These Problems. We recommend
+           that you propose $70 million to apply some of our most effective public health
+           approaches directly to reducing these disparities. These public health programs have
+           strategies that have proven effective as well as longstanding relationships with the
+           minority health community and other community organizations committed to addressing
+           these problems. Partnering with these organizations, these programs would build on
+           their existing new knowledge and proven public health strategies to focus on how to
+           eliminate these disparities.
+
+    ·      Thirty Community Grants to Develop New Strategies to Eliminate Disparities. To
+           eliminate racial disparities in health care will require developing new approaches to
+           reducing these disparities, as we currently do not have the answers as to how to solve
+           many of these problems. We recommend you propose $30 million to target thirty
+           communities that develop innovative and effective ways to address these disparities.
+           Each community, chosen through a competitive grant process, would develop
+           intensely-focused efforts to address one of the six health areas. HHS would develop a
+           working group that includes outside minority health experts to assist and monitor these
+           communities and apply approaches across all health programs. They would also hold
+           periodic meetings and conferences to educate the public health and minority community
+           about new effective strategies to reduce these disparities.
+
+    ·      Begining Today to Reduce Disparities. To ensure that we begin this initiative
+           immediately, we are identifying ways in which the FY 1998 increases in these areas can
+           be used to begin to address racial disparities. For example, AIDS education and training
+           centers are beginning a new partnership with the Indian Health Service to develop new
+           approaches to educate health providers about training and prevention. Also, the National
+           Cancer Institute will expand efforts to help recruit more Hispanics into clinical trials.
+I...
+
+

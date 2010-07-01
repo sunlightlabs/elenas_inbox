@@ -1,0 +1,24 @@
+RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+CREATOR: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP [ WHO ] )
+
+CREATION DATE/TIME: 4-DEC-1998 16:09:31.00
+
+SUBJECT:   Revised Weekly w/ political reform item 12/4
+
+TO: Elena Kagan     CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TEXT:
+Unable to convert ARMS_EXT: [MESSAGE.D58]MAIL4l319104N.326
+The following is a HEX dump of the file:
+==================== ATTACHMENT   1 ====================
+ATT CREAT10N TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT:.[ATTACH.D58]MAIL433191040.326 to ASCII,
+ The following is a HEX DUMP:
+
+================== END ATTACHMENT     1 ==================
+
+

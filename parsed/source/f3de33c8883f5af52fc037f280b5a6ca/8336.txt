@@ -1,0 +1,28 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Ingrid M. Schroeder ( CN=Ingrid M. Schroeder!OU=OMB!O=EOP [ OMB 1 )
+
+CREATION DATE!TIME:22-JUN-1998 14:34:48.00
+
+SUBJECT:   Comments on Y2K Draft Bill
+
+TO: Lisa M. Brown ( CN=Lisa M. Brown!O=OVP@OVP [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan!OU=OPD!O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Jim Kohlenberger ( CN=Jim Kohlenberger!O=OVP@OVP [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Robert N. Weiner ( CN=Robert N. Weiner!OU=WHO!O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: James J. Jukes ( CN=James J. Jukes!OU=OMB!O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TEXT:
+Unable to convert ARMS_EXT: [MESSAGE.D801MAIL44468637F.126
+The following is a HEX dump of the file:
+
+

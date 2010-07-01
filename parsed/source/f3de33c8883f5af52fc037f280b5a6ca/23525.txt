@@ -1,0 +1,28 @@
+RECORD TYPE: PRESIDENTIAL     (NOTES MAIL)
+
+CREATOR: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP [ OPD 1 )
+
+CREATION DATE/TIME: 8-APR-1999 10:55:17.00
+
+SUBJECT:    Welfare Caseload Maps
+
+TO: Karin Kullman ( CN=Karin Kullman/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Elena Kagan     CN=Elena Kagan/OU=OPD/O=EOP @ EOP [OPD 1 )
+READ: UNKNOWN
+
+TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TEXT:
+HHS is working on 3 color maps showing:
+
+           29 states with reductions of 50% or more
+           17 states between 25-49%
+           4 states 24% and under
+
+

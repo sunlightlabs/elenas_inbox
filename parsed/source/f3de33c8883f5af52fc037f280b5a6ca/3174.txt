@@ -1,0 +1,191 @@
+ RECORD TYPE: PRESIDENTIAL     (NOTES MAIL)
+
+ CREATOR: Elizabeth Drye    ( CN=Elizabeth Drye/OU=OPD/O=EOP [ OPD ]   )
+
+ CREATION DATE/TIME:26-JUN-1997 18:23:13.00
+
+ SUBJECT:   erskine memo -- w/o Kevin's changes
+
+ TO: Elena Kagan      CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ]   )
+ READ:UNKNOWN
+
+ TEXT:
+ ==================== ATTACHMENT   1 ====================
+ ATT CREATION TIME/DATE:   0 00:00:00.00
+
+ TEXT:
+ Unable to convert ARMS_EXT: [ATTACH.D84]MAIL487966672.116 to ASCII,
+  The following is a HEX DUMP:
+
+ FF5750431A050000010A02010000000205000000652D0000000200003560844B65600A709DB8E2
+ D577A1ED55217C6B9E4BFB39F4BF889E310626C15827AA4BAD3A61AAEC61431A90A62F9C29AOOC
+ D7COB39C26B470629533C7661CFAACEB1282CBB58A5AE745827A6AD04744F94B589249B6EOFBED
+ 9E1AA9FD303C8F7CBF42CCB10BDC03lF7F694A026EE3230004725F2EB9B637C1481C7D2C45260A
+ 51C5315F3C48E264C395F2C14949AOE04760EF8D50ABE56EFOD5C1DC27A98784CAOF0417FD5046
+ 438607D09618FA77CAFOA419FC95FA86AFOEAAF4D9A6DFCBE240794D02326F078CC616BBA58141
+ 8C02EF09ll660l6CB3FA4EF5A3BB035C18B372221DOB29DAC600DD41DEBC81134265B391C5518E
+ 55C1C60E5A347754327300ACE8AA9579ADB4447F9837D2CD770CB78D6F3E89D70D079D5A3B5907
+ 5E1EFDA016BEDC182F04CAD7F13BC2A121629CC149B905A9BB18AE301A7549AFC16F3B9A8323D3
+ F64B234E9785B5E9268AA9B5ABD69FD75DEE4E37FE19A4CF8BC1850F4403472E4880D9A9E3A08A
+ 1CA73EB227CF9F5B6FF005CBC7DFA246CF382280819C7248F3817A7790D14D3C6115AA4D2C2026
+ ADOC1B3B3C154148FD163E98564C75CD2C0377FDOF5CEOB5826B9E202B1E585FE667319B053087
+ 3C99BB17DFCBEOAF3A602847B541F157AACODDB7573E92D690CAF553AE20D3E8712CEFC9C2025A
+ 9E8BE4E65102000C00000000000000000000000823010000000BOI0000A802000000550FOOOOOO
+ 4EOOOOOOB303000009250100000006000000010400000B30020000002800000007040000081601
+ 000000320000002F04000008050100000008000000610400000055OE0000004E00000069040000
+ 000000000000000000006904000008770100000040000000B704000008340100000014000000F7
+ 0400000802010000000FOOOOOOOB05000000984C006F00630061006C002000430061006E006FOO
+ 6E0020004C00420050003400000000000000000000000000000000000000000000000000000000
+ 00000000000000000000000000000057494E53504F4F4COOOOOOOO00E0019001C80090019001C8
+ 00E001900130000000000000000000000000000000000000000000000000000000000000000000
+ 000000000000000000000000000000000000000000000000000000000000000000000000000000
+ 000000000000000000000000000000000000000000000000000000000000000000000000000000
+ 000000000000000000000000000000000000000000000000000000000000000000000000000000
+ 000000000000000B0100002800D61EC30F3908000011090000005A000B01008B14360054006900
+ 6D006500730020004E0065007700200052006F006D0061006E00200052006500670075006C0061
+ 007200000000000000000001000200580201000000040028000000000000000000000000000000
+ 000000000l1202002400A1000000A100000043003A005C00500052004F00470053005C00570050
+ 005C005300540041004E0044004100520044002E00570050005400000001000400020000002800
+ C8196810480D000011090000005AOOOB010000103600540069006D006500730020004E00650077
+ 00200052006F006D0061006E00200052006500670075006C006100720000000000000000000AOO
+ 0000D1070B006581D20701004500D30702000200D40701004500D50701000200D60701000200D7
+ 0702000200D80701004500D90701000200DA070D00658107959822000000000000000000000000
+ 0000000008337C00780000020000DA07000003DDOA10008301040003000200211000DDDDOBOBOO
+ 030000040BOODDF102D107F19BF103D107F1F100D107F19BF101D107F1F102D107F1F103D107F1
+ E0401200000000BE11BEl12400EC131200E04A756E658032362C803139393788CCCCCC4D454D4F
+ 52414E44554D80464F5280544845804348494546804F46805354414646CCCC46524F4D3AE0110C
+ 0000000060090COOE042727563658052656564D0041500000B000900014C099C04050001201500
+ DOCC5355424A4543543AE0110C0000000060090COOE0546F626163636F80536574746C656D656E
+ 74805265766965778050726F63657373D0041500000B0009000124OB7406070001201500DOCC54
+ 686973806D656D6F807365747380666F727468807468658070726F636573738077658077696C6C
+
+
+MEMORANDUM FOR THE CHIEF OF STAFF
+
+FROM:         Bruce Reed
+
+SUBJECT:      Tobacco Settlement Review Process
+
+This memo sets forth the process we will use to evaluate the proposed tobacco settlement and to
+present recommendations to the President. Our goal is to prepare a memo for the President by
+late July that defines our public health and public interest objectives; weighs the settlement's
+strengths and weaknesses against those objectives; summarizes the views of the public health
+community, Congress, and other affected parties; and lays out positions the President could take
+on the settlement proposal.
+
+Interagency Review
+
+The review will be carried out by four major workgroups which have already begun to meet:
+
+I.     Regulatory Issues (chaired by Elena Kagan). This group will look at: (a) FDA
+       regulation of product content, including nicotine; (b) FDA regulation of access,
+       advertising, and labeling; and (c) restrictions on environmental tobacco smoke in public
+       buildings and workplace settings. Participating White House offices are DPC, OMB,
+       OVP, NEC, and OSTP. Participating agencies are HHS, DOJ, DOL, GSA, EPA, and
+       Treasury.
+
+II.    Program and Budget Issues (chaired by Chris Jennings). This group will examine
+       proposed uses o(settlement funds, including programs to reduce smoking and expand
+       children's health care coverage. In particular, the group will consider: (a) the use of
+       Medicaid funds for children's health care; (b) education efforts (including grass roots
+       programs); (c) smoking cessation programs; and (d) investments in health research,
+       including nicotine research. White House offices are DPC, OMB, NEC, OVP, and OSTP.
+        Participating agencies are HHS, Treasury, DOL, USDA, Interior, VA, and DOD.
+
+III.   Legal Issues (Chaired by Elena Kagan). This group will review the settlement's
+       provisions on liability, damages, and document disclosure, and will consider
+       constitutional, antitrust, and other legal issues raised by the settlement. White House
+       offices are DPC, OVP, NEC, and Counsel. Participating agencies are DOJ, HHS,
+       Treasury, and Interior.
+
+IV.    Industry Performance and Accountability (chaired by Bruce Reed). This group will
+       analyze economic and international issues. The group will assess: (a) the economics of
+       the industry and the settlement's effects on industry performance, federal revenues,
+       consumers, farmers, etc.; and (b) the set of incentives and penalties in the settlement to
+
+
+                                                          Automated Records Management System
+                                                          Hex-Dump Conversion
+
+
+            reduce tobacco use, especially by children. The group also will consider Administration
+            policy on tobacco-related trade and international issues, which the settlement does not
+            directly address. White House offices are DPC, NEC, CEA, OVP, OMB, OSTP;
+            participating agencies are: HHS, Treasury, DOL, USDA, USTR, State, DOD.
+
+     Public Outreach
+
+     We will work with OPL and HHS on a tightly focused public outreach effort designed to
+     demonstrate that the President is conducting a thoughtful, thorough review focused on the public
+     health. Many groups covering a wide range of interests are affected by the proposed settlement.
+     We will emphasize the President's focus on health by hosting 6-8 highly visible White House
+     meetings with small, select groups of health experts. Working with OPL, we will encourage other
+     interested groups (children'S advocates; women's organizations, farmers) to share their views
+     through written comments and, where appropriate, meetings with agency and White House staff.
+
+     Donna and I will host the White House meetings over the next three weeks. We will convene
+     experts from national health organizations; Koop-Kessler advisory group participants; experts on
+     nicotine addiction; local grass-roots advocates; state and local tobacco control officials; and
+     children's health advocates.
+
+     The first meeting will take place on [Monday, June 30]. We will invite in Dr. Kessler and
+     several members of the Koop-Kessler advisory group, including the American Cancer Society,
+     American Medical Association, and American Heart Association. (Koop is not available.) The
+     committee will not have finished its report, but it can validate the Administration's review
+     process and praise the President for expressing concern earlier this week over the proposal's
+     handling of nicotine regulation. Future meetings will include: Action on Smoking and Health;
+     American Academy of Pediatrics; American Public Health Association; Americans for
+     Nonsmokers' Rights; and National Center for Tobacco-Free Kids, Joe Califano, and leading
+     academics ..
+
+     Congressional Outreach
+
+     If the Administration decides to support some kind of settlement, we will need broad
+     Congressional support. Multiple committees in both the House and Senate would have
+     jurisdiction over legislation enacting an agreement. The goal of our Congressional outreach
+     process will be to strengthen relationships on the issue with key members and to keep the debate
+     bipartisan and balanced. We will consult with the leadership, anti-tobacco advocates, and
+     representatives of tobacco states. Today and tomorrow HHS is making calls to key Republican
+     and Democratic members to seek their input on how best to consult with the Hill in the coming
+     weeks. We are working with Legislative Affairs and HHS on a detailed list of Congressional
+     meetings to begin the week of July 7. There are many critical members, including Senators Lott,
+     Daschle, Hatch, Kennedy, Lautenberg, Ford, and Durbin; and Congressmen Gephardt, Gingrich,
+     Bliley, Waxman, Dingell, Hansen, Meehan, Gordon and others.
+
+     Press Plan
+organizations have assigned entire teams to cover the tobacco settlement. After devoting so
+much coverage to the negotiations, the networks are determined to keep this issue alive. We
+should take advantage of that heightened interest to advance our public health message.
+
+On Friday, Donna and I are prepared to brief the White House press corps on how we will
+conduct this review, who will be involved from within the administration, and what groups and
+outside experts we plan to consult. As noted above, on [Monday] we will meet with David
+Kessler and other members of the Koop-Kessler advisory group to discuss their efforts.
+
+During the week of July 7, while the President is away, Donna and I will conduct the public
+health and Congressional meetings described above. This will give the press something to write
+about, and show that we are running an open process. During the week of July 14, we will
+continue public health and Congressional meetings and bring in two groups of attorneys general
+-- the enthusiasts and the skeptics. The Vice President is willing to hold a public hearing with us
+in mid-July if we need one. (We prefer to leave this question open right now.)
+
+Schedule
+
+We have planned the following schedule. HHS does not believe the review can be completed
+within 30 days, as the President suggested. But we will work as quickly as possible to preserve
+that option and ensure a decision by early August at the latest.
+
+     Week of June 23:      DC convenes work groups and assigns analytic tasks to members.
+                           Donna and Bruce brief press on process and conduct.
+     Week of June 30:      Groups provide preliminary assessments of key issues.
+                           [First outreach meeting.]
+     Week of July 7:       Groups develop options for key issues.
+                           Bruce, Donna and others hold further meetings with public health
+                           groups and begin meetings with members of Congress.
+     Week of July 14:      Principals review workgroup assessments and meet to discuss options.
+                           Possible public hearing with the Vice President.
+     Week of July 21:      Initial meeting with the President.
+     Late July/
+           early August:              Presidential decision and announcement.
+
+

@@ -1,0 +1,208 @@
+ RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+ CREATOR: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP [ OPD 1 )
+
+ CREATION DATE/TIME:20-JAN-1998 16:05:14.00
+
+  SUBJECT:   High performance bonus & child support issues
+
+ TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ: UNKNOWN
+
+ CC: Diana Fortuna ( CN=Diana Fortuna/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ:UNKNOWN
+
+ TEXT:
+ I spoke to Barbara Chow this afternoon, and she is still insisting on a
+ separate measure for earnings gain (not combined with job retention for a
+ "success in the workplace" measure). Thus, we are at loggerheads, and, as
+ Diana has outlined below, after we have moved to try to accomodate their
+ concerns.
+
+ In the meantime, OIRA is suggesting we have an Elena-Olivia-Barbara Chow
+ meeting tomorrow to discuss this -- i.e, see if we can all work this out
+ without having an EOP position. This is a bit dangerous, because OMB and
+ HHS agree here, but it could also move the ball forward.  What do you think
+ ?
+
+ On another matter, Barbara Chow is also holding firm on changing the child
+ support budget language -- as you suggested, I made a pitch for --
+
+ "The Administration will hold a dialogue with the stakeholders of the
+ child support program to look at ways to address these problems, and work
+ with members of Congress to prepare legislation." or work with members of
+ Congress on legislation."
+
+  instead of "in working with members of Congress, will prepare
+ legislation. "
+
+
+ ---------------------- Forwarded by Cynthia A. Rice/OPD/EOP on 01/20/98
+ 04:02 PM ---------------------------
+
+
+
+
+ Diana Fortuna
+ 01/20/98 03:14:27 PM
+ Record Type:    Record
+
+ To:      Cynthia A. Rice/OPD/EOP
+ cc:
+ Subject:         hi perf notes -- as an attachment and attached
+
+ Attached is a straight chronology, followed by an attempt (after the
+ asterisks) to layout an argument: that we've moved to implement the deal
+ we struck with them (they would drop welfare exit if we would drop
+ earnings gain), and they still won't compromise. Charts are slightly hard
+
+
+ to do because most of the time there is no OMB position to measure
+ ourselves against.  But I think the best argument is that we agreed on a
+ trade and that we have delivered on it.  Now we are arguing about
+ window-dressing.
+
+ Chronology:
+
+ HHS Position                      JE                         16%
+                                   JR                         16%
+                                   EG                         16%
+                                   Improv     JE              16%
+                                   Improv     JR              16%
+                                   Improv     EG              16%
+
+ Original DPC Position             JE                         50%
+                                   JR                         25%
+                                   Improv -- JE/JR 25%
+
+ OMB Response:             Desire for earnings gain
+                                   Desire to count only those exiting welfare
+                                   willingness to compromise on #2 if we
+ compromise on #1
+
+ DPC 2nd position:                 JE                         50%
+                                   JR/EG                      25%
+                                   Improv     JE              12.5%
+                                   Improv     JR/EG 12.5%
+
+ OMB Response:             JE                         30%
+                                   JR                         20%
+                                   EG                         20%
+                                   Improv     JE              10%
+                                   Improv     JR              10%
+                                   Improv     EG              10%
+
+ DPC 3rd position:                 JE                         40%
+                                   JR/EG                      40%
+                                   Improv     JE              10%
+                                   Improv     JR/EG 10%
+
+ OMB Response:             No, still want separate measure for JR and EG
+
+ Measure   DPC Original Pos.       DPC Current Pos.           HHS
+ JE        50%     40%     16%
+ JR        25%     20%     16%
+ EG        0%      20%     16%
+ Improv       JE   12.5%   10%     16%
+ Improv       JR   12.5%   5%      16%
+ Improv       EG   0%      5%      16%
+
+ *************
+
+ OMB stated that they would compromise on welfare exit if we compromised on
+ earnings gain.  The following chart shows that we did so, but it is still
+ unacceptable to OMB.
+
+
+ Measure HHS Position    DPC Original Pos.            DPC Current Pos.
+ Earnings Gain   16%     0%      20%
+ Improv -- Earnings Gain 16%     0%      5%
+
+
+ Total Earnings Gain     32%     0%      25%
+
+
+
+
+ ==================== ATTACHMENT   1 ====================
+ ATT CREATION TIME/DATE:   0 00:00:00.00
+
+ TEXT:
+ Unable to convert ARMS_EXT: [ATTACH.D85]MAIL47879591I.026 to ASCII,
+  The following is a HEX DUMP:
+
+ FF575043440B0000010A020100000002050000006B1F00000002000074D2FE360018523A121835
+                                                                              Hex.Dump Conversion
+
+Chronology:
+
+HHS Position                  JE                   16%
+                              JR                   16%
+                              EO                   16%
+                              Improv -- JE         16%
+                              Improv -- JR         16%
+                              Improv -- EO         16%
+
+Original DPC Position         JE                   50%
+                              JR                   25%
+                              Improv -- JEIJR      25%
+
+OMB Response:                 Desire for earnings gain
+                              Desire to count only those exiting welfare
+                              Willingness to compromise on #2 if we compromise on #1
+
+DPC 2nd Position:            JE                    50%
+                             JRJEO                 25%
+                             Improv -- JE          12.5%
+                             Improv -- JRJEO       12.5%
+
+OMB Response:                JE                    30%
+                             JR                    20%
+                             EO                    20%
+                             Improv -- JE          10%
+                             Improv -- JR          10%
+                             Improv -- EO          10%
+
+DPC 3rd Position:            JE                   40%
+                             JRJEO                40%
+                             Improv -- JE         10%
+                             Improv -- JRJEO      10%
+
+OMB Response:                No, still want separate measure for JR and EO
+
+
+ Measure                DPC Original Pos.       DPC Current Pos.        HHS
+
+ JE                     50%                     40%                     16%
+
+ JR                     25%                     20%                     16%
+
+ EO                     0%                      20%                     16%
+
+ Improv -- JE           12.5%                   10%                     16%
+                                                                           Hex-Dump Conversion
+
+ Improv -- JR           12.5%                  5%                      16%
+
+ Improv -- EG           0%                     5%                      16%
+
+*************
+
+OMB stated that they would compromise on welfare exit if we compromised on earnings gain.
+The following chart shows that we did so, but it is still unacceptable to OMB.
+
+
+
+ Measure                HHS Position           DPC Original Pas.       DPC Current Pos.
+
+ Earnings Gain          16%                    0%                      20%
+
+ Irnprov -- Earnings    16%                    0%                      5%
+ Gain
+
+ Total Earnings Gain    32%                    0%                      25%
+
+

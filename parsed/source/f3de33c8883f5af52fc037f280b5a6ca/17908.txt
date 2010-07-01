@@ -1,0 +1,25 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Christopher C. Jennings ( CN=Christopher C. Jennings/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME:25-NOV-1997 11:13:11.00
+
+SUBJECT:   health insert
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO]    )
+READ: UNKNOWN
+
+TEXT:
+Unable to convert ARMS_EXT: [MESSAGE.D76]MAIL442124822.316
+The following is a HEX dump of the file:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D76]MAIL452124823.316 to ASCII,
+ The following is a HEX DUMP:
+
+================== END ATTACHMENT    1 ==================

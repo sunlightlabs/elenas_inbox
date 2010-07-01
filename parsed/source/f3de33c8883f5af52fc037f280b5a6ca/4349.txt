@@ -1,0 +1,134 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Ellen S. Seidman ( CN=Ellen S. Seidman/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME:17-SEP-1997 18:24:15.00
+
+SUBJECT:   Products chart
+
+TO: Tracey E. Thornton ( CN=Tracey E. Thornton/OU=WHO/O=EOP @ EOP [ WHO]   )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Russell W. Horwitz ( CN=Russell W. Horwitz/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Lisa M. Brown ( CN=Lisa M. Brown/O=OVP @ OVP   [ UNKNOWN]   )
+READ: UNKNOWN
+
+TO: Peter G. Jacoby ( CN=Peter G. Jacoby/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+TO: Jennifer D. Dudley ( CN=Jennifer D. Dudley/OU=WHO/O=EOP @ EOP [ WHO]   )
+READ: UNKNOWN
+
+TO: Melissa Green ( CN=Melissa Green/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TEXT:
+Here is my best assessment of where we stand.  I think it will be useful
+for tomorrow's meeting.  Please let me have your comments and ideas.  ellen=========
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D73]MAIL48317695E.216 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043FC090000010A02010000000205000000E11D00000002000080F605F4CBE5C4407735D2
+57AA9108BF6532D36EA3698D8EFBA784DEOD0699B1AD4B5346E64609F8D65905DA61A3764894AO
+211253BDCF15F8D674F44795DB1F7BC7DD8FOA42AAE5079FOOED69545BDC134AFC3A8CC16FE6AO
+OC8EB6CD751117FB3A2F03E66BF9E80E962DCA7B3437F71B904F8D4750A24A3B94626BA35BOOE3
+313246865A4F974225E1A68750117D9F3F31COC2615E7CCA6F6FA7715EBOA5203C4B28EDECC483
+A86184DC3896BAA4580799B745FDB416FD676FEOF4ECC90A56943F35A2D75E3815BA71857DBF9D
+B6E851BEB34886D429EFF6AEEE23B697BE924D95C1B7CFC72BB3FDD8399EB9A38016B263DC7F76
+93FADECC6DF3BE1BD6858BF427882008BC5ADC281224147DC6F610AA78F0212915761FEEF73260
+5C4C7F83D8C289D97EF9EE38B16262697620D32862CE27AFCE16F3411E4810D7090FC3B5C2AA24
+Cl198D8FCEE703ED4C037A39E108E5D8BA4FFEOBC0916A4077BC4499EFE1A6346A3B1F23F93E64
+A089AA19388A6E62D34B09190592E11D537BEE231D449EC27B01D3D4026B571CB964A5711D61BA
+7E3CCCCA71D2E792F7F3353DBD2928345E16C7E4C8405C4042CDBOA991971332FFA794771497F8
+ECD90C7B9BD61B25C4BC1E5ED66BBFA07EDB1B4C1C12B5DA1AE24DE4BF4EBEBOOC90FBAA7D057B
+COFEB6983402002B00000000000000000000000823010000000BOI00005A040000005501000000
+4E0000006505000009250100000006000000B30500000B300200000028000000B9050000006602
+00000002000000E105000000610100000014000000E305000009680100000085030000F7050000
+087701000000400000007C09000008340100000014000000BC0900000802010000000FOOOOOODO
+09000000000000000000000000D009000000000000000000000000D00900000000000000000000
+0000D009000000000000000000000000D009000000000000000000000000D00900000000000000
+0000000000D009000000000000000000000000D009000000000000000000000000D00900000000
+0000000000000000D009000000000000000000000000D009000000000000000000000000D00900
+0000000000000000000000D009000000000000000000000000D009000000000000000000000000
+
+Joint and several
+No change in existing law re joint and    Adopts our position; bill does not contain any provision on this issue
+several liability for non-economic
+damages
+
+Punitive damages
+
+Full two-way preemption on punitive       DOES NOT INCLUDE THIS PROVISION. This is the one issue where it is clear
+damages; i.e., even if a state does not   there is no wiggle room
+currenly allow punitives, it must allow
+them according to federal standards
+
+No caps on punitive damages for big       Bill includes a small business cap only, but the definition of small business is too
+businesses; caps only for very small      generous (25 employees and annual revenues of $1 0 million, which likely would cover
+businesses with judicial override         over 90% of US firms). Staff has indicated informally that if this is the last issue,
+                                          Rockefeller will come most of the way toward our position (10 employ'es and $1
+                                          million). Probably will not be willing to allow judge to override.
+
+Punitive damage standard of "clear and    Adopts "clear and convincing"; uses "conscious, flagrant indifference"
+convincing" evidence of "conscious
+indifference (excluding recklessness)"
+
+Judge to decide on punitives, based on    Not included
+jury advice
+
+Statute of repose
+
+I8-year statute, which plaintiff may      I8-year, with no out
+overcome by clear and convincing
+evidence oflonger useful life
+
+Covers virtually all consumer and         Covers only durable goods in the workplace for which workers comp was available.
+workplace goods                           Dingell wants all goods, which Rockefeller will not support.
+Full two-way preemption                      Fully preemptive for goods covered, although this leaves a shorter statute of repose in
+                                             place in approximately 12 states.
+
+Allow full two-year statute of limitations   Intended to do this but bill is confused. Staff has asked us to draft a fix.
+to operate even if repose interferes
+
+Bio-medical materials
+
+Supplier should be brought back into         Only covers negligent acts. Rockefeller willing to live with anything Senator
+action ifhis negligent or knowing acts       Lieberman agrees to. DOJ/CPSCIFDA team reviewing current alleged compromise
+caused the harm                              House bill
+
+Negligent entrustment
+
+Make certain statute also does not           Staff has indicated they will accept a fix to take care of this.
+override negligence per se for guns
+
+Bankruptcy stay issue
+
+Make certain statute oflimitations is        Included
+tolled when a bankruptcy stay is in effect
+
+Constitutional issues
+
+Ensure that this statute does not            There may be some problems; OLC is working on them, constructively; should be
+needlessly generate a Tenth Amendment        ready early next week.
+case
+
+Add-ons
+
+Kohl limitation on protective orders         Rockefeller will support as a separate bill but will not include in this legislation
+
+ADR for small claims                         Includes a fairly harmless ADR provision, but also includes a provision for offers in
+                                             judgment which is probably better deleted (potential 10th Amendment issue).
+
+Affidavits and sanctions                     Includes a provision that is broader than we indended. They have offered to let us
+                                             redraft; we might want to suggest deletion instead (potential 10th Amendment issue).
+        Hex-Dump Conversion
+
+

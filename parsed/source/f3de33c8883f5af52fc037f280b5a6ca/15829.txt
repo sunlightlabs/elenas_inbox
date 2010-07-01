@@ -1,0 +1,112 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Jose Cerda III ( CN=Jose Cerda III/OU=OPD/O=EOP [ OPD ]       )
+
+CREATION DATE/TIME:10-JUN-1997 16:10:09.00
+
+SUBJECT:   Gun Directive One-Pager/Points
+
+TO: Leanne A. Shimabukuro ( CN=Leanne A. Shimabukuro/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+  TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD]   )
+. READ: UNKNOWN
+
+TO: Christa Robinson ( CN=Christa Robinson/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Michelle Crisci ( CN=Michelle Crisci/OU=WHO/O=EOP @ EOP [ WHO]         )
+READ: UNKNOWN
+
+CC: Jordan Tamagni ( CN=Jordan Tamagni/OU=WHO/O=EOP @ EOP [ UNKNOWN]           )
+READ: UNKNOWN
+
+TEXT:
+To follow:
+event memo (christa)
+one-pager (leanne)
+directive (leanne)
+juvie record (done)
+q's/a's (jose)
+
+JC3==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D78]MAIL494195068.116 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504371050000010A020100000002050000009C1200000002000091EC30089B1E5BE58F2261
+223F9DBC9F084195F60BEOAC984CF7F9A90C31D7BD15F5F76BOB2F99BB1DE9A4FA121B6446266B
+FEC15F3D31331BDBCEB685F651A67B36DC6B628707585E5553E2E47396BC33001D0961E777EE57
+008BBCOE06AA558C3C702F3160CFEFOF58F4E94093FE80DAF0460B8AA8F165026EAADC56DCD93F
+C9D061D77C25289CBCF05E6A6C8FC4BD11CFF283ED06544B65BA5165FDFF9A2FE47FCE5431B48B
+B8E2D3CB8D502233E2D7537878C62224D2E869546C8C0763E1109DOFE90AF182ACC3DE2919BOBC
+8A54D6FC7C42E451BADAOFBF5ED2376CA28B35CDE4F2A0783C88AFC78B717F78BBDFF4FD5470A2
+EBC4561BE6BD5AB7DD1B85CA12E35C41D33E6991B6228771D719865BC17C9A2FE49AAOC23CEEA1
+7069FFE14B50BF7F77F9F01E830B1024BEEOC357806AOCD8091436881B35E632978FD169F99EF6
+1F11C93EA250BA60C52C6A9775D5FCB3FCC6E1A41C669CA166AD5A8D14169DE5D3AB2F063201BB
+89D16C466E05B18320D78C8FF1D9995F9C4EB83AE1BC201582101E9FCFB7A40876B2FBAE9784AE
+B187742A52E1FA9DA8A454B08E9FB503F7796CDA7D0439911DOCA77694D4CA37CF3B22E9097C2E
+F7830185D4FAB3009A4507EB3DEB597672102DB654E9B0555FF9F54264CF72A9B305791F5FF129
+04647AC9AE02000COOOOOOOOOOOOOOOOOOOOOOOB23010000000B010000AB020000005503000000
+4EOOOOOOB303000009250100000006000000010400000B300300000059000000070400000B1601
+00000032000000600400000055030001004C0000009204000008770100000040000000DE040000
+083401000000140000001E0500000802010000000F000000320500000805010000000800000041
+0500000B7B020000002B00000049050000009B4C006F00630061006C0020004800500020003500
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+                                                                    Hex·Dump Conversion
+
+                      JUVENILE HANDGUN DIRECTIVE
+
+
+*   THE PROBLEM: KIDS AND GUNS. The mix of kids and guns is at the heart of
+    our nation's youth violence epidemic. Guns -- and handguns in
+    particular -- have fueled the surge in juvenile murders. Since 1984, the
+    number of kids killing with a gun has quadrupled. And teenage boys
+    today are more likely to die of gun shot wounds than all natural causes
+    combined.      Juvenile crime legislation passed by Congress must address
+    this issue.
+
+*   ADMINISTRATION BILL IS TOUGH ON GUNS.          The Administration bill takes
+    on the issue of kids and guns by: (1) increasing penalties for illegally
+    transferring guns to juveniles; (2) expanding the Brady Law to prohibit
+    violent juveniles from owning guns as adults; and (3) requiring federal gun
+    dealers to provide child safety locks with every gun sold.
+
+*   WE CAN -- AND SHOULD -- DO MORE. Although we need Congress to
+    act, there's more we can -- and should -- do to cut off the easy access to
+    guns for our kids. In most circumstances, existing law (youth Handgun
+    Safety Act) prohibits adults from transferring handguns to juveniles
+    (punishable by up to 5 years imprisonment) -- and kids from possessing
+    them, period (mandatory probation). For almost every gun that gets into
+    a juvenile's hands, an adult had an opportunity -- in fact, the legal
+    responsibility -- to stop that transfer from taking place. We can take
+    action to ensure that gun purchasers know about their legal responsibility
+    and keep guns away from kids.
+
+*   THE PRESIDENT'S DIRECTIVE: PUTTING ADULT GUN PURCHASERS ON NOTICE.
+     Today's directive on juvenile handguns ensures that the Administration
+    and Federal Firearms Licensees (FFLs) that transferring handguns to kids is
+    a felony -- and that every gun purchaser has a /egal obligation to help
+    keep handguns away from our kids. The directive calls for all FFLs to post
+    signs and issue written warnings with each handgun sold that:
+
+          (1) Make clear that it is generally illegal for any adult to transfer a
+          handgun to a minor (under 18), or for that minor to possess a
+          handgun, period;
+
+          (2)Make clear that transferring a handgun to a minor is punishable
+          by up to 5 years imprisonment;
+
+          (3) Warn that handguns are a leading contributor to juvenile
+          violence and fatalities; and
+                                                         Hex-Dump Conversion
+
+         (4) Suggest that safely storing and locking handguns can help
+         ensure compliance with this law.
+
+

@@ -1,0 +1,112 @@
+RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+CREATOR: Eli G. Attie ( CN=Eli G. Attie/OU=WHO/O=EOP [ WHO]     )
+
+CREATION DATE/TIME: 3-MAR-1997 18:26:47.00
+
+SUBJECT:   The latest draft ...
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Sara M. Latham ( CN=Sara M. Latham/OU=WHO/O=EOP @ EOP [ WHO]      )
+READ:UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D50]MAIL43646616C.016 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504370040000010A020100000002050000007C140000000200004FB8818E4B6COEE9F7BC87
+1BC062F4F46ED27F4E604ADB8D3AOAFBC080E3B3223E6DB63B1B7C82E146E565B3E7A7DE30424A
+231716221D545EDEAE40CAB40156D78D67D4DOC03EF7FDE1F78C95D0265451434759901D1·1F9BE
+8508C9B18F5D1799D325996A935C4BA5A400CE2BC44069BBA22CFD947AE53C446CFOE95C1DDEOA
+1DC8S3093E1AC26424F66F52E7431433706D65348D8132D7BA2E561E6EB6577BE3750499E79232
+44F027025AE326F656FC949CD586CD74587088CB9DOA31CB0533D412F9E0779FD2F796F79C9B1E
+EFB8566156DE6F5CE7A93F794EF2A2AFF835D2FCC8096B8525BDB99D1573B3CBCA62ED4DB96E21
+EA94720C5D2A46C632AA6E6DF1AF3FD9087ADCFB1C67A95A179BA854AF8239C1BOB5DBB1D64AB5
+FB7F7205BF2A358C5E026155B2F4AD836D3C41F140E3DAE5A7A333A5FA17F7E42953A7510E7119
+CCE7BEEC6B517D46E28FA33771C8B280A10E9FCE9EDA7878EB59E4CCE52D1B90A4E011B4998F90
+37BC5D1EBA48D15BB232E6BE697B55DBBACAFE2F4CCE2E8812A7A8DA9506A51797FF04B1833A1C
+F3AAFD76FB4FB5BD6A12D2CC2CDD5C49E2BA94769B8A9345DBEF1F57BEF314B36EC0826631C3DE
+87649669C303B02597F4FBB1250562712C12247F89A313DE74884108E283B7A8CFC32F88108D91
+F7CD9C45E902000900000000000000000000000823010000000B0100007E020000005501000000
+4E0000008903000009250100000006000000D70300000B300200000028000000DD030000087701
+000000400000000504000008340100000014000000450400000802010000000F00000059040000
+080501000000080000006804000000984C004F00430041004COOOO000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000057494E53504F4F4COOOOOOOOOOC800C8002C012C012C012C01C800
+C80030000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000B0100002800D61EC30F3908000011090000005AOOOB01008B143600540069006D0065
+00730020004E0065007700200052006F006D0061006E00200052006500670075006C0061007200
+000000000000000001000200580201000000040028000000000000000000000000000000000000
+00011202002400A1000000A10000000AOOOOOOCE0202000200CF0201000200D00202004400D102
+01000200D20202000200D30201000200D40203004900D50202001700D60202001700D702010044
+005A5458210000000000000000000000000000000008337C00780000020000D702000003010004
+0002000000DDOA10008301040003000200211000DDDDOBOB00030000040BOODDD1000E00000200
+5802B0040EOOD1D1010E000002005802B0040EOOD1F20CF29BD305OC0007010002000COOD35052
+45534944454E548057494C4C49414D804A2E80434C494E544F4EDO041500000B00090001580200
+00000001201500D052454D41524B53804F4E8048554D414E80434C4F4E494E47CC547565736461
+792C804D6172636880332C8031393937F30CF3D0041500000B000900013004D801020001201500
+DOD3051000060100·00023B0000001000D3CCE0110C0000000008070COOE0496E80726563656E74
+80646179732C8074686580776F726C64807769746E657373656480746865807375636365737366
+756C80636C6F6E696E67806F6680618073686565708062798053636F7474697368CF7265736561
+7263686572732E80804974806973806180646973636F76657279807468617480636F756C648079
+                              REMARKS ON HUMAN CLONING                     Automated Records Management System
+                                  Tuesday, March 3,1997                    Hex-Dump Conversion
+
+       In recent days, the world witnessed the successful cloning of a sheep by Scottish
+researchers. It is a discovery that could yield enormous benefits -- enabling us to reproduce the
+most productive strains of crops and livestock; holding out the promise of ground breaking
+medical treatments and cures; helping to unlock the greatest secrets of the genetic code.
+
+        But like the splitting of the atom, this is a discovery that carries burdens as well as
+benefits. Today, science often moves faster than our ability to understand its implications.
+That is why we have a responsibility to move slowly and cautiously -- to harness the powerful
+forces of science and technology, so that we can reap the benefits, while avoiding the potential
+dangers.
+
+       This new breakthrough raises the troubling prospect that it might someday be possible to
+clone human beings from our own genetic material. There is much about cloning that we still do
+not know. But this much we do know: any discovery that touches upon human creation is not
+simply a matter of scientific inquiry. It is a matter of morality, decency, and spirituality as well.
+
+        My Qwn deeply-held view is that the prospect of human cloning is morally repugnant. It
+violates our most cherished concepts of faith and humanity. Each human life is unique -- born
+of a miracle that reaches beyond laboratory science. I believe that we must respect this profound
+gift, and resist the temptation to become our own creators.
+
+        At the very least, we need a better understanding of the scope and implications of this
+breakthrough. Last week, I asked our National Bioethics Advisory Commission, headed by
+Princeton University President Harold Shapiro, to conduct a thorough review of the legal and
+ethical issues raised by this new cloning technology, and to recommend possible actions to
+prevent its abuse, reporting back to me in 90 days.
+
+       In the meantime, I am taking steps to prevent the more imminent possibility of human
+cloning. After reviewing the current restrictions on the use of federal funds for research
+involving human embryos, we believe there are loopholes that could allow human cloning if the
+technology were developed. Today, I am issuing a directive that bans the use of any federal
+funds for human cloning. Effective immediately, no federal agency may support, fund, or
+undertake such activity.
+
+        Of course, a great deal of research and activity in this area is supported by private funds.
+That is why I am urging the entire scientific community -- and every foundation, university, and
+industry that supports work in this area -- to heed the federal government's example. I am
+asking for a voluntary moratorium on all efforts to undertake human cloning, until our Bioethics
+Advisory Commission and our entire nation have had a chance to understand and debate the
+profound ethical implications.
+
+        As we gain a fuller understanding of cloning, we must proceed not just with caution, but
+with conscience as well. By insisting that not a single taxpayers' dollar supports human cloning
+ -- and by urging a moratorium on all private efforts to pursue human cloning -- we can ensure
+that as we move forward on this issue, we weigh the concerns of faith and family, and not just of
+laboratory science alone.
+     .
+                                                                        AutOInRted Records Management System
+

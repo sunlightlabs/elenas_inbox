@@ -1,0 +1,227 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP [. WHO ] )
+
+CREATION DATE/TIME:30-APR-1998 18:59:47.00
+
+SUBJECT:   Weekly Report
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D61]MAIL47498691X.126 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043F20F0000010A02010000000205000000ED4F00000002000024BA23469CB30342206DCE
+6FA5C684AB6628E69854E42074C5A9E7A7C52A632FC99BB7469033FB629B428CE759B81815C019
+                                                                                    Hex-Dump Conversion
+
+
+
+                                            May 1, 1998
+
+
+ MEMORANDUM FOR THE PRESIDENT
+
+ FROM:         Bruce Reed
+               Elena Kagan
+
+ RE:           DPC Weekly Report
+
+
+         Tobacco -- Legislative Update: Senator Lott has said he will bring the McCain bill to
+  the Senate on May 18th. On Wednesday, as you know, we had a very positive meeting with Lott
+  and Daschle where we discussed developing an agreed upon manager's amendment as well as an
+  amendment strategy for the floor. We then met separately with Senator McCain on Thursday,
+. and he said that he would urge Lott to appoint Senator Mack to negotiate on behalf of the
+  Republicans. We expect that negotiations could begin as soon as Tuesday.
+
+         The Commerce Committee will shortly release a new version of the McCain bill with
+technical changes. In addition, McCain's staff asked for our assistance in restructuring the bill so
+that it could operate effectively whether or not the industry consents. In response, we plan to
+provide them shortly with proposed revisions that separated out all the provisions
+requiring the consent of participating manufacturers -- as well as the benefits they are
+seeking, such as the liability cap -- into a single stand-alone title. The other titles would
+apply to all manufacturers, whether they consent or not, and include advertising restrictions
+originally included in the FDA rule but not the broader ones that raise constitutional difficulties
+(those would be put in the separate title). ELENA: LA COUNTY OFFICIALS ARE IN
+TOWN NEXT WEEK, SO THIS WOULD BE A GOOD WEEK TO GET THIS IN. I
+HAVE ALREADY HEARD A RUMOR THEY ARE TRYING TO GET A MEETING
+WITH ERSKINE, THOUGH NOTHING IS ON HIS CALENDAR YET. THEY'LL
+PROBABLY ALSO PUSH FOR A VP MEETING.
+
+        Child Support Enforcement -- Progress on Child Support Incentives Legislation:
+Both the House and Senate are moving forward on good legislation to reward states for high
+performance on child support collections, and to ensure that states face tough but reasonable
+penalties if they fail to establish child support enforcement computer systems on time. The
+penalty in current law is so extreme (withholding all TANF and child support funds) that it has
+never been enforced, while the proposed penalties are smaller -- e.g., 4% the first year, 8% the
+second year -- but automatic. We favor the tougher House bill. The Senate bill would allow
+states an extra year to comply without penalty, and let them "earn back" prior penalties once they
+come into compliance. About 15 states are likely to face some penalty.
+                                                                          Hex-Dump Conversion
+
+         The Senate bill was specifically crafted to satisfy members from California. That state
+faces far greater penalties than any other state beyause it is years away from having a functioning
+state-wide system and has continued to rely on county-based systems. However, L.A. County
+remains very unhappy with even the Senate position, and is pushing both Congress and the
+Administration to give it a special exemption from any penalty. L.A. County District Attorney
+Gil Garcetti argues that L.A. County has an excellent county system that has long functioned well
+and was designed with federal involvement under a waiver several years ago. DPC, HHS, and
+OMB hold that such an exemption would allow numerous other counties to make the same
+argument, and that the federal government must hold states accountable for their actions in this
+critical area. (States are not required to pass along penalties to counties.) Hill leaders do not
+generally support an L.A. County exemption, and California members like Matsui and Stark
+oppose it. Sen. Feinstein supports the exemption.
+
+        In addition, we are working with Congress on how to create a standard form for medical
+support orders, in order to make it easier for children to be covered by anon-custodial parent's
+health insurance. Finally, the House bill would exclude aliens who fail to pay child support
+from admission to the U.S. and make them ineligible for visas. We generally support this
+provision, but are working to ensure that it is better targeted so that it does not create a huge
+administrative burden for the INS.
+
+        Health Care -- Prescription Drug Coverage and Medicare: Prescription drug costs
+represents the highest out-of-pocket health care expenditure for three out-of-four elderly.
+Many older Americans "stretch-out" their supply of prescriptions to defray costs; their
+non-compliance with drug regimens frequently results in additional, more expensive health
+care treatments. A number of your Medicare Commissioners, as well as a host of outside
+validators (like Henry Aaron and Bob Reischauer), have indicated their interest in
+exploring options to providing prescription drug coverage for Medicare beneficiaries.
+They note that much of our future medical interventions will be pharmacologically-based
+and, as such, Medicare's current lack of coverage of out-patient drugs is antiquated. In
+response, DPCfNEC is setting up a work group to review policy options and costs. Costs
+will certainly determine the viability of any drug coverage. However, more studies are
+becoming available about the cost-effectiveness of drug coverage. Moreover, since more
+than half of Medicare's managed care plans now offer some type of prescription drug
+benefit, it is not inconceivable to contemplate required prescription drug coverage for at
+least these plans. Such a recommendation could be bolstered by studies that show that,
+notwithstanding the BBA Medicare reforms, most managed care plans remain
+overcompensated relative to the patients they serve. Finally, it may be advisable to raise
+this issue relatively early in the debate to illustrate that the Commission's and our review of
+the long-term challenges facing Medicare are focused on the need for program
+improvements as well as financing.
+
+      Health Care -- Patients' Bill of Rights Update: On Wednesday, Congressman
+Ganske and six other Republicans added their names as cosponsors to the Dingell Patients'
+
+
+                                                2
+                                                                         Hex-Dump Conversion
+
+
+Bill of Rights legislation. In a White House released statement, you praised these members
+for providing "new momentum towards ensuring that a patients bill of rights will become
+the law of the land." Congressman Ganske appreciated your comments and Congressman
+Dingell's office indicated that it has helped place needed pressure on the Republican
+Leadership to move th!s legislation this year. On Friday, we met with the disability
+advocacy community to encourage them to mobilize their effective network to strongly
+push for passage of this bill. They have indicated that they are going to make this a much
+higher priority. (NOTE TO ELENA: THIS IS A MEETING THAT WILL TAKE
+PLACE TOMORROW AND I AM ASSUMING WHAT I BELIEVE THE OUTCOME
+WILL BE.)
+
+           Immigration -- HIB visas: HI B visas are temporary work visas that allow "highly
+  skilled" immigrants (with a BA or equivalent) to work in this country for up to six years. Under
+  current law, the number ofHIB visas is capped at 65,000 per year. Last year, this cap was
+. reached for the first time. The infonnation technology industry strongly supports raising the
+  annual cap to address what they maintain is a shortage of U.S. workers with IT skills. Others,
+  including the Department of Labor, challenge the industry'S conclusions about Ii shortage and are
+  concerned that the current HIB program does nothing to target its useto employers who are
+  experiencing skills shortages. On April 30, 1998, the Administration sent a letter to Congress
+  supporting Representative Lamar Smith's bill, which includes a substantial refonn of the HIB
+  program, ifit is modified to include meaningful training provisions and a more modest increase
+  in the cap. Representative Smith's bill was voted out of committee without amendment. We
+  plan to continue to work with Smith and other Members (both House and Senate) to develop a
+  bill that meets the Administration's objectives.
+
+        Campaign Finance Reform -- Free Broadcast Time: . Nonn Ornstein, co-chair of the
+Advisory Committee on Public Interest Obligations of Digital Television Broadcasters is trying
+to forge a consensus proposal on free broadcast time. There are two main components to this
+proposal: 1) Each broadcast station would be required to provide 5 minutes of free air time per
+night (6:00 pm to 11 :30 pm) over the last 30 days of an election. At least 3 minutes of the free
+time wold be broadcast consecutively. Local stations would decide which candidates have
+access to the free air time .. Stations would also design the fonnat for the air time (commercials,
+interviews, mini-debates). This proposal would be implemented either as an FCC mandate or as
+part of a new "Code of Conduct". To give a voluntary agreement some teeth, the FCC would
+announce that no broadcast licenses would be renewed unless the station could justify why it did
+not meet the conditions of the Code of Conduct (currently the presumption is for automatic
+renewal); 2) Challenge Congress to replace "lowest unit rate cost" with a system that would
+provide one minute of free time for every two minutes purchased. Under Ornstein's proposal,
+the state parties would control the free time, not the candidates.
+
+       While we think that Ornstein's proposal moves the debate in the right direction, we are
+concerned about giving the broadcasters too much control over fonnat and candidate access.
+We believe the Committee and the FCC should develop guidelines for the broadcasters on access
+
+
+                                                 3
+                                                                            Hex-Dump Conversion
+
+and format. We have reservations about challenging Congress to enact the second part of
+Ornstein's plan. While the FCC cannot repeal "lowest unit rate cost" it could require
+broadcasters to provide one free minute of air time for every two minutes purchased. We think
+the Committee should recommend that the FCC institute such a system and challenge Congress
+to repeal "lowest unit rate cost" as a separate issue. Finally, we are concerned with the role of
+state parties in Ornstein's proposal and believe there should be a cap on the amount of free time
+that anyone candidate could accumulate in order to prevent very wealthy candidates from
+abusing the system.
+
+       Education -- D.C. Student Opportunity Scholarship Act (Voucher Bill): The
+House passed legislation (214 to 206) that would set up a D.C. voucher program by providing
+scholarships of $3200 for low-income students to apply toward the cost of a private school
+education. You have promised to veto this legislation when it reaches your desk.
+Congressional leaders have acknowledged that they lack the necessary votes to override a veto.
+
+         Education -- Administration Opposition to Vnz Initiative Announced: The Los
+Angeles Times reported Monday that the administration was opposed to the Unz Initiative to
+eliminate bilingual education in California. The Times reported that the administration is in favor
+of reforms to bilingual education, including a three-year goal for teaching students English.
+Also on Monday, Secretary Riley issued a detailed statement explaining our position on the Unz
+Initiative. Senior staff in IGA, Public Liaison and Political Affairs reported that the reactions of
+state and local leaders was positive both to the message and the timing of the announcement.
+
+        Education -- Charter Schools in California: After two weeks of negotiations among
+Silicon Valley high-tech executives, the California Teachers' Association (CTA), and state
+legislators, a legislative conference committee reached a compromise Wednesday on a legislative
+alternative to a charter school ballot initiative backed by the executives and opposed by the CTA.
+ If enacted, the bill would increase the cap on charter schools in the state from 100 to 250, and
+allow another 100 new schools each subsequent year. The bill would also amend California's
+charter school law to make it easier to start charter schools. Votes were expected Thursday, April
+30 in both houses of the California legislature on the conference agreement. The bill would
+need to be signed into law by Friday, May I in order to keep the initiative off of the ballot.
+
+        Crime -- Assault Weapons: Despite efforts by both Republicans and Democrats on the
+conference committee considering the supplemental appropriations bill, a provision to exempt
+firearms "in transit" from the Administration's decision to ban semiautomatic assault rifles that
+accept large capacity magazines was not included in the final conference report. However,
+Senator Craig expressed his intention to offer a similar amendment during the appropriations
+process.
+
+           Crime -- COPS Initiative: The Department of Justice is preparing to launch a new
+$240 million initiative to hire about 2,000 more police in high-crime and high-need
+neighborhoods. Under this initiative, the Justice Department will select 16 cities (8 small, 8
+
+
+                                                 4
+                                                                           Hex-Dump ConverslOr
+
+
+large) that agree to target crime and drug "hot spots," youth violence problems, or economically
+distressed areas and provide them with 100% grants to hire more police officers. By waiving the
+25% local match, key cities that may not have been able to afford more police officers will be
+able to do so. Mayor Daley of Chicago has pushed the Justice Department to use its waiver
+authority in this targeted manner, and he is interested in announcing this new initiative with the
+Administration. We are working with Rahm to submit a scheduling request for such an event.
+
+
+
+
+                                                5
+
+

@@ -1,0 +1,65 @@
+RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+CREATOR: Cordelia W. Reimers ( CN=Cordelia W. Reimers/OU=CEA/O=EOP [ CEA 1 )
+
+CREATION DATE/TIME:12-MAR-1999 11:59:28.00
+
+ SUBJECT:   pay data from Census
+
+TO: Rebecca M. Blank ( CN=Rebecca M. Blank/OU=CEA/O=EOP @ EOP [ CEA 1 )
+READ:UNKNOWN
+
+TO: lynda.delavina@treas.sprint.com ( lynda.delavina@treas.sprint.com [ UNKNOWN    1 )
+READ: UNKNOWN
+
+TO: Larry R. Matlack ( CN=Larry R. Matlack/OU=OMB/O=EOP @ EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Thomas L. Freedman ( CN=Thomas L. Freedman/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Nora E. Gordon ( CN=Nora E. Gordon/OU=CEA/O=EOP @ EOP [ CEA 1 )
+READ:UNKNOWN
+
+TO: Montgomery-Edward ( Montgomery-Edward @ dol.gov [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Susan M. Carr ( CN=Susan M. Carr/OU=OMB/O=EOP @ EOP [ OMB 1 )
+READ:UNKNOWN
+
+TO: Mary L. Smith ( CN=Mary L. Smith/OU=OPD/O=EOP @ EOP [ OPD     1 )
+READ: UNKNOWN
+
+  TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+. READ: UNKNOWN
+
+CC: Mark.McClellan@MSOI.DO.treas.sprint.com ( Mark.McClellan@MSOI.DO.treas.sprint.co
+READ: UNKNOWN
+
+CC: holzer-harry ( holzer-harry @ dol.gov [ UNKNOWN 1 )
+READ:UNKNOWN
+
+TEXT:
+Harry Holzer has pointed out something very interesting:
+The decennial Census has data that in some ways is even better than the
+proposed EEO-1 could generate, for creating a "profile" of wages by gender
+and race/ethnicity within occupation, industry, and local labor market.
+The Census has hundreds of 3-digit occupations, within 3-digit industry
+and city or metro area, whereas the proposed EEO-1 would have only 15
+occupational categories. The full Census has this information for an
+approximately 15% random sample of all workers in firms of all sizes, and
+the Public Use Microdata Sample (PUMS) has it on 5% of them.
+The Census' disadvantage is that it gets as much as 12 years out of date
+before the next Census data are available, it does not have information on
+firm size (so one can't separate firms with over 100 employees from
+smaller ones), and it is a sample rather than all workers.
+
+This suggests that EEOC could creat "screening" profiles without having
+pay data on the EEO-1s from every firm with over 100 employees.   It could
+collect the pay data from a firm against which a complaint is filed, and
+compare it with the profile from the most recent Census for that
+
+
+occupation, industry, and local labor market area.
+
+

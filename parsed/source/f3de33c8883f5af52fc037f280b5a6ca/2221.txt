@@ -1,0 +1,276 @@
+RECORD TYPE: PRESIDENTIAL     (NOTES MAIL)
+
+CREATOR: Cynthia A. Rice ( CN=CynthiaA. Rice/OU=OPD/O=EOP [ OPD ]      )
+
+CREATION DATE/TIME:13-MAY-1997 15:57:48.00
+
+SUBJECT:   Here is draft EBB memo for B&K to examine--Angus King just asked if it cou
+
+TO: Elena Kagan      CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ:UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ:UNKNOWN
+
+CC: Cathy R. Mays ( CN=Cathy R. Mays/OU=OPD/O=EOP @ EOP    [ OPD ] )
+READ:UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO]       )
+READ: UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D83]MAIL47057523H.116"to ASCII,
+ The following is a HEX DUMP:
+
+FF5750431B070000010A020100000002050000003743000000020000B1326013590123C20E5D39
+02C6D2134373ACC918A1B7EE024BCE4CEOA8C5EB346E7469FA7082F4B4158BA10A0091E97A2C27
+FDA7939130ED23DA4F3B1E5EA9E5676C357C182E7EOOFE26CEA4FF588C7A18A6FC412311F36032
+4E39AEB250CBIF2FCC83DADD69EF89499AE1COD6866DEIB9CECA0487F1CF825776COF02F8DCA82
+E70099D7B6CE9CBEED16B8561637163C69541FB580493A9313AA963C6861264E29B6A71E41D84D
+F2EECDC3F6172FODB6564A8DIA53196533A86D96BF65E70480C8AADA632E5719B87D808F703E86
+33D3827891A3D155083226BC70E8A27D7751424D490D24C11D80D947F16C2F04C37635127A09CE
+666A4887C735CF2385AEFC0763E5ADD8505C1CCFB8DCCSD6F21FDE13EOF2EFA649D97F7ABA3155
+ADFEC5829FE125BEA01ED72DCB406CD3DAEAEFC709E19754227E17D82997E1882092A398A3D228
+7645F160B666C3BC6C38EB021A81137C5701DEAA42C13AEBCE46867D6E141E2266B018A517B6E1
+EB165D48F41AE8106C366351DAB0951349C6D8C2BD19CBOOE3ED5A9EA6E75FE95B06DDE894C428
+A95FE8A68F658240A22476228846F2FDODOEE3725E6689FE8C654B36D4EDD21090344E6AD3BC7A
+1254C13881CE672EA43AD3E488E159FD9157724C5E653ACF17D6649E3C18D162D9F90FF1C977E3
+C1F4653E9E02002000000000000000000000000823010000000B010000C003000000551DOOOOOO
+4EOOOOOOCB04000009250100000006000000190500000B3003000000280000001F050000087701
+000000400000004705000008340100000014000000870500000802010000000F0000009B050000
+0055120000004EOOOOOOAA05000000550A0000003COOOOOOF80500000208010000004D00000034
+0600000B3002000000440000008106000000000000000000000000810600000805010000000800
+0000C506000000000000000000000000C506000000000000000000000000C50600000000000000
+0000000000C506000000000000000000000000C506000000000000000000000000C50600000000
+0000000000000000C506000000000000000000000000C506000000000000000000000000C50600
+0000000000000000000000C506000000000000000000000000C506000000000000000000000000
+C506000000000000000000000000C506000000000000000000000000C506000000000000000000
+000000C506000000000000000000000000C506000000000000000000000000C506000000000000
+000000000000C50600000B301C0000004EOOOOOOCD06000000984C006F00630061006C00200043
+0061006E0061006E0020004C004200500020003800520020004DOO610072006B00200049004900
+4900000000000000000000000000000000000000000057494E53504F4F4COOOOOOOOOOD0019801
+C80090019001C800D0019801300000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000B0100002800FB1ED10E1408000011090000005AOOOB01008B
+
+
+MEMORANDUM FOR THE CHIEF OF STAFF
+
+FROM:          BRUCE REED
+
+SUBJECT:       ADMINISTRATION DECISION ON TEXAS WELFARE PLAN
+
+        Today, HHS provided the state of Texas with written guidance under which the state
+could release a "request for offers" (RFO) for private contractors to operate state-wide system of
+offices where residents would apply for Medicaid, food stamps, welfare, and other public
+assistance. The letter recounts the options HHS and USDA offidals discussed with Texas
+Health and Human Services Commissioner Michael McKinney at their meeting on May 2nd.
+The Texas proposal is known as TIES, the Texas Integrated Enrollment Services project.
+
+       The guidance notes that under current Medicaid and food stamp law:
+
+        ·      The state has broad authority to administer the Temporary Assistance for Needy
+               Families (TANF) program, the block grant created by last year's welfare law, and
+               can use private contractors without limitation there.
+
+        ·      The state can also use private contractors to design and operate information
+               systems, develop and recommend revised eligibility processes, and provide
+               training and assistance in the management of TIES.
+
+        However, the guidance says:
+
+        ·      A non-public employee may not take actions involving discretion or value
+               judgments, including all elements of the benefit eligibility determination process
+               that relate to the evaluation of information provided by an applicant or which
+               bears on the eligibility decision.
+
+        ·      In an integrated enrollment system, most ifnot all activities involving personal
+               contact with an applicant or recipient, including data entry during an interactive
+               discussion with the applicant, have the potential to involve the use of discretion or
+               judgment and must be performed by state merit system employees.
+
+
+
+
+                                               -1-
+
+                                                                      Automated Records Management SystelT'
+                                                                              Hex-Dump Conversion
+                                           5/13/97
+
+
+Talking Points
+
+·      The welfare reform bill passed by the Congress and signed by the President allowed states
+       to privatize their cash assistance programs, but did not change the law for Medicaid or
+       food stamps.
+
+·      The President believes states need flexibility to make welfare what it was meant to be: a
+       second chance, not a way of life, a system that helps people draw a paycheck instead of a
+       welfare check. That's why he signed the welfare reform law last year in the face of much
+       opposition from many in his party.
+
+·      But welfare reform should not jeopardize the national guarantee of basic nutrition and
+       health care for children and families, the disabled, and the elderly.
+
+·      We're concerned that allowing a state to privatize Medicaid and food stamp operations
+       will not be in the best interests of program beneficiaries.
+
+·      Current Medicaid and food stamp law makes clear that eligibility determination must be
+       performed by impartial, merit-based public employees. We are not prepared to provide a
+       state-wide waiver of these basic protections for seniors and families and working people
+       who rely on medical and nutritional assistance.
+
+Q&As
+
+Question:     Haven't you blocked the state from developing an integrated enrollment
+system?
+
+Answer:       No. The state could develop an integrated enrollment system so long as public
+              employees perform the essential eligibility determination functions. The state
+              could issue a "request for offers" seeking private contractors for those functions
+              which the law allows to be privatized -- designing and operating information
+              systems, developing and recommending revised eligibility processes, and
+              providing management training and assistance. The state could also privatize all
+              aspects of the Temporary Assistance for Needy Families program.
+
+Question:     How can you claim that data entry is eligibility determination?
+
+Answer:       Any activity which involves discretion and value judgments can affect the
+              eligibility decision. In an integrated process, the person who asks the applicant
+
+                                              -2-
+
+                                                                   Automated Records Management System
+                                                                           4elC-Dump Conversion
+
+ Question:    Doesn't your guidance contradict the welfare reform law signed by the
+ President
+              which grants states the flexibility to run their own programs?
+
+ Answer:      No. Based on the welfare law that the President signed in August, Texas already
+              has the authority to proceed now with the welfare portion of their proposal.
+              However, Congress and the President retained the laws on Medicaid and food
+              stamps. Our guidance to Texas is consistent with current law.
+
+ Question:    How can you say the President supports state flexibility when he denies
+ Texas'
+              proposal?
+
+ Answer:      The President has a strong record of supporting state flexibility. First, after
+              granting 80 waivers to 43 states to test innovative strategies to move people from
+              welfare to work, he signed the welfare law which allows states to reform welfare
+              without seeking permission from Washington. The President has also granted 13
+              Medicaid waivers to help states make their programs more efficient and effective.
+               The President clearly supports state flexibility; however his first priority is
+              protecting beneficiaries.
+
+  Question:   Texas says it would expand health care to an additional 150,000 needy
+. children
+              with the savings generated from TIES. How could the President oppose
+              that?
+
+ Answer:      Obviously, the President supports expanding health care coverage to uninsured
+              children -- his budget, and the budget agreement he negotiated with Congress,
+              would expand coverage to 5 million more children. But he does not support
+              jeopardizing health and nutritional benefits to seniors, the disabled, and families
+              already on Medicaid in order to expand coverage to additional children.
+
+ Question:    Would the Administration approve a sub-state waiver?
+
+ Answer:      HHS and USDA officials told Texas representatives that they would consider a
+              sub-state project which was time limited and had an evaluation, so we could find
+              out the effects. However, Commissioner McKinney apparently indicated that the
+              state was not interested in such an option.
+
+ Question:    Didn't the President's senior advisers propose another solution -- one that
+ would
+
+
+                                              -3-
+
+                                                                    Automated Records Management SystelT'
+                                                                            Ht'!JC-Dump Conversion
+
+Answer:        The President did ask us to take another look at this issue. His principal
+               interest is what's best for families who rely on Medicaid and Food Stamps, and he
+               wanted to make sure that the decision would be consistent with that interest.
+Question:      Why did it taken the Administration so long to give Texas an answer?
+
+Answer:        The Texas proposal is a very complicated project involving multiple federal
+               programs and agencies. There were a great many legal questions to consider.
+               And we wanted to make sure that the decision we reach was right and would
+               protect families who rely on Medicaid and food stamps.
+
+Question:      Isn't this just a payback to the unions?
+
+Answer:        Obviously, the unions feel strongly about this; so does the state of Texas. We
+met
+               with both during the decision-making process. However, we made our decision
+               based on what we think is best for the program beneficiaries.
+
+Question:      Why do you assume that public employees are better than private ones in
+               protecting the rights of beneficiaries?
+
+Answer:        We are simply following the laws passed by Congress which are designed to let
+               states seek innovative approaches to' improve the efficiency of benefit programs
+               while protectin'g the rights of beneficiaries. Making decisions about the
+               eligibility of needy people for benefits is one of the most fundamental functions of
+               government.
+
+Question:      Doesn't the Medicaid program now allow private contractors to enroll
+individuals?
+
+Answer:        No. Private employees, such as hospital workers, can only gather information
+and
+               forward it to state workers. They cannot evaluate it or make eligibility
+               determinations.
+
+Question:      Would the President support an legislative amendment to allow Texas -- and
+               other states -- proceed?
+
+Answer:        We opposed granting individual state waivers legislatively -- that authority rests in
+               the executive branch. We would also oppose legisJation which would completely
+               privatize or block grant Medicaid or food stamps. We would of course want to
+               see the language before commenting on any particular amendment.
+
+
+                                               - 4-
+
+
+                                                            Automated RecOrds Management Svs1err
+                                                                    Hex-Dump Conversion
+
+
+      Automated Records Management Systerr
+              !.lex-Dump Conversion
+            particular proposals come back?
+
+Answer:     We are letting the state release the RFO. But we thought it was only fair to let the
+            state know what type of contracts we would approve and what type we would not
+            since the exact nature of the TIES system would depend upon the terms of the
+            agreement between Texas and the contractor.
+
+Question:   We understand you're planning to let Wisconsin privatize but not Texas.
+            How is that fair?
+
+Answer:     We have not responded to Wisconsin's request. However, their proposal is very
+            different from Texas' -- it would allow private contractors for food stamps in only
+            a limited number counties, in a time limited demonstration which would be
+            independently evaluated.
+
+
+
+
+                                            -6-
+
+                                                                    Automated Records Manage~ent SystelT'
+                                                                            Hex-Dump Conversion
+
+

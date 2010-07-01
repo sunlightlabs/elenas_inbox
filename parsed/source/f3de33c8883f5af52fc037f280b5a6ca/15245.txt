@@ -1,0 +1,131 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Jake Siewert ( CN=Jake Siewert/OU=OPD/O=EOP [ OPD ) )
+
+CREATION DATE/TIME: 16-APR-1997 12:03:40.00
+
+SUBJECT:   Q & A on SEC Report
+
+TO: Bruce R. Lindsey ( CN=Bruce R. Lindsey/OU=WHO/O=EOP @ EOP [ WHO)    )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ) )
+READ: UNKNOWN
+
+TEXT:
+Guidance for McCurry on SEC Report. Please review and call with any
+changes.
+
+Thanks.
+
+Jake 65316==================== ATTACHMENT     1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D64) MAIL41643450N. 116 to ASCII,
+ The following is a HEX DUMP:
+
+FF5750439A040000010A02010000000205000000891400000002000038D5A5A22932E4CEABC906
+08B134AA25959E56EF4E6B494BE8CFAE4B2106A86B5A43C12DF200FEDDC3B8C4C801A7E88870F5
+4C048EDOF9B1B01EF183646E512415C762E88FD7056DBAOAOD31A9FB451047A5164788235A0645
+64002EFB244F8A9673FCD0979DFB359FD433E98F5C2574C2F2950BFFFDEBAF9A57E03443768260
+9D9B9EF6E3EF97061432ED11BAB893EOCCFF80A06CC06B3B09584AB1B1CED16E8C8ECCC14468A8
+CBOF35311939D68D3B7A9A1BE20B3CC85B06C2F5D4558FEFEEE312A3E3962AA7A01FDC89738EEB
+D8C34E06AB35E771D5CCFB6AF26B73DE8CBBDB829C7E9F37B073A7CC627DFB15D055B439CA8AAC
+555ECF83B9649808278C259C7C78C78CD543BC195F321971B16EB4F8E89D1D7C3C52FC9EE0161C
+C2AF97D11E5B256B37F60A94423D8DA362A2D6A3152EA3048F978EC04E3EAA864003431ADFA24F
+8E2FFB32ACCOC2FA6B2A7BC47AB1581CB665030BF07COB589630C2179917059365CFD08FB6186B
+9C21E10D8555017DED06F70FD8268D2A1D3F64496612FD4B98D1FA88CE5FF31C4F48F8692975BB
+5DC439EA23EF08410523CEF1871B8D7A99AB99FCDBDA4A989FCBFDAAE96589A9A3FF57838D46AO
+B101E72AEABDA4195CAF44138F3F6E3E7A9D5237EE323419BB8AD1F4FED10150673EE5227805F8
+B54CEE1B5002000900000000000000000000000823010000000B0100007E020000005501000000
+4E0000008903000009250100000006000000D70300000B300200000028000000DD030000081601
+000000320000000504000008770100000040000000370400000834010000001400000077040000
+0802010000000F0000008B0400000098430061006E006F006E0020004C00420050002D00380049
+004900490052000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000057494E53504F4F4COOOOOOOOOOD4019401C80090019001C800D401
+940130000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000B0100002800C8196810480D000011090000005AOOOB010000103600540069006D0065
+00730020004E0065007700200052006F006D0061006E00200052006500670075006C0061007200
+000000000000000001000200580201000000040028000000000000000000000000000000000000
+00011202002400A1000000A100000043003A005C00500052004FOO470053005C00570050005COO
+5300540041004E0044004100520044002E0057005000540000000A000000650101005500660101
+004400670103000200680104005B006901040002006A01010045006B01010055006C0101000200
+6D01010002006E01020017005A5C5821000000009728FFFF000001006000B00008337C00780001
+0200006E01000003DDOA10008301040003000200211000DDDDOBOB00030000040BOODDF1006601
+F1E0401200000000DOOBDOOB1900EC131200EOF1016601F1F1026701F1F1036701F1F1026801F1
+F20CF2F1036801F1F1026701F147554944414E4345804F4E80F1036701F1F1006801F1F20CF2F1
+                                                                                      Hex-Dump Conversion
+GUIDANCE ON SEC REPORT ON SECURITIES LITIGATION
+April 16, 1997
+
+
+Background
+
+      The SEC is releasing to the public on Wednesday a report to the President and Congress
+on how last year's securities litigation legislation has played out.
+
+        The report was written at the President's request. He asked for it last year after the
+legislation went into effect over his veto. It examines questions like whether the number of
+federal court suits has gone down and what effect there has been on state court litigation.
+
+       The report's major conclusions are summarized in the attached two pages from the report.
+
+Possible Questions and Answers
+
+Q.     What's your take on the report?
+
+A.·    We just received the report last night, and have only begun to look at it. We're pleased
+       that the SEC has done this work, and look forward to analyzing it, along with the work
+       that has been done by others concerning the impact of the law.         As the SEC report
+       points out, it is still very early in the law's history and firm judgments on its effect are
+       difficult. We're pleased that the SEC report is as broad as it is -- considering not only
+       the impact of the law on litigation, but also its impact on investor protection and
+       information.
+
+Q.     So does this mean that the President was wrong to veto the bilI?
+
+A.     No, it doesn't mean that. The President's veto was based on his concerns about whether
+       the legislation would unfairly raise the bar for injured plaintiffs to get into court. We want
+       to study the report to see what the SEC leamed about how the pleading standards in the
+       bill are operating in practice. The concern is still there; we want to see how it has played
+       out.
+
+Q.     During the campaign, the President told some Silicon ValIey CEOs that he thought that
+       California's Proposition 211 should be preempted if enacted. Some of the CEOs thought
+       that he was gung-ho about this and wanted to do it right away, even if Prop 211 didn't
+       pass. Where does he stand now, and what influence will this report have on his
+       thinking?
+
+A.     When he was in California, the President was speaking against the backdrop of Prop 211,
+       which subsequently was roundly defeated. The SEC tried to answer the question of
+       whether the Act is playing out in a way that requires further legislative action at this time.
+        They concluded that this is not the case. If that case is to be made on the basis of other
+                                Hex-Dump Conversion
+
+data, we certainly would listen, and White House staff, with the help of the agencies will
+do just that.
+                                  Hex-Dump Conversion
+
+Q.    Who's in charge of this issue in the White House?
+
+A.    Counsel's Office and the National Economic Council are coordinating the process.
+
+Q.    Is the SEC involved?
+
+A.    They are involved as technical advisers to our process.
+
+Q.    How soon is the President going to make a decision about whether to support legislation?
+
+A.    We are in the posture of reading, absorbing and analyzing the available information and
+      data to see whether there is a case that something more needs to be done at this time.
+      We are not on a specific timetable to conclude this work.
+
+
+
+Cleared by NEC
+
+

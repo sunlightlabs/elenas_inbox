@@ -1,0 +1,94 @@
+RECORD TYPE: PRESIDENTIAL     (NOTES MAIL)
+
+CREATOR: Diana Fortuna ( CN=Diana Fortuna/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME: 4-JUN-1997 17:45:15.00
+
+ SUBJECT:    Draft paper for tomorrow's FLSA meeting
+
+TO: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ:UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TEXT:
+Here's an agenda for tomorrow.  There's not too much to it.  I put some
+unanswered semi-technical questions at the bottom that you can drop if you
+want to.
+
+ I'll both attach it and reprint it.
+
+OPTIONS
+
+ Exempt from FLSA and/or related labor protection laws (doesnD,t help
+states meet minimum wage)
+
+ Allow states to count other benefits toward the minimum wage:
+
+ Medicaid
+ child care
+ housing
+ transportation
+
+ Weaken work requirements by allowing states to meet more of the work
+requirements through education or training
+
+ Exempt workfare from FICA/EITC, if necessary
+
+ Other options?
+
+
+Related Questions to answer:
+ Does the Ways and Means proposal permit states to count training toward
+the minimum wage only after they have exhausted the other device for
+meeting the minimum wage (counting other benefits)?
+ Does the Ways and Means proposal remove protections for race, gender,
+disability discrimination?
+ How easy is it for states to meet the 30 hour work requirement via
+training?
+==================== ATTACHMENT    1 ====================
+ATT CREATION TIME/DATE:    0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D50]MAIL45893645H.116 to ASCII,
+ The following is a HEX DUMP:
+
+FF5750435A040000010A02010000000205000000330B00000002000025160184440A3171CE03F2
+E98A3B1BC45FE25CE821FA84A72AOA5653CDEAD32568332162A157CB64252396A432283CD63E90
+AE570BE005DDF5D42F4D8FA6CA78917DECB013949721DF4EE4331943E7F2927613E090C90E9573
+908608C998161C727FB3FA46B30E5DCAD23AC3DEF22625DCOE35E6F3AF0008FB98E95A8FD7F910
+
+·      Exempt from FLSA and/or related labor protection laws (doesn't help states meet
+       minimum wage)
+
+·      Allow states to count other benefits toward the minimum wage:
+
+       ·      Medicaid
+       ·      child care
+       ·      housing
+       ·      transportation
+
+·      Weaken workrequirements by allowing states to meet more of the work requirements
+       through education or training
+
+·      Exempt workfare from FICAIEITC, if necessary
+
+·      Other options?
+
+
+Related Questions to answer:
+·      Does the Ways and Means proposal permit states to count training toward the minimum
+       wage only after they have exhausted the other device for meeting the minimum wage
+       (counting other benefits)?
+·      Does the Ways and Means proposal remove protections for race, gender, disability
+       discrimination?
+·      How easy is it for states to meet the 30 hour work requirement via training?
+
+
+
+
+                                             Automated Records Management System
+                                             Hex-Dump Conversion
+
+

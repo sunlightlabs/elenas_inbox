@@ -1,0 +1,88 @@
+RECORD TYPE: PRESIDENTIAL      (NOTES MAIL)
+
+CREATOR: Charles R. Marr ( CN=Charles R. Marr/OU=OPD/O=EOP [ OPD 1 )
+
+CREATION DATE/TIME: 5-MAR-1999 15:49:52.00
+
+SUBJECT:   Davis-Bacon Q & A
+
+TO: Charles M. Brain ( CN=Charles M. Brain/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Jonathan H. Schnur ( CN=Jonathan H. Schnur/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: JON.TALISMAN ( JON.TALISMAN @ MS01.DO.treas.sprint.com @ inet [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Barbara Chow ( CN=Barbara Chow/OU=OMB/O=EOP @ EOP [ OMB 1 )
+READ:UNKNOWN
+
+TO: Karen Tramontano ( CN=Karen Tramontano/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: kcurran ( kcurran @ fenix2.dol-esa.gov @ inet [ UNKNOWN 1 )
+READ:UNKNOWN
+
+TO: Broderick Johnson ( CN=Broderick Johnson/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: David W. Beier ( CN=David W. Beier/O=OVP @ OVP [ UNKNOWN 1 )
+READ:UNKNOWN
+
+TO: Sandra Yamin ( CN=Sandra Yamin/OU=OMB/O=EOP @ EOP [ OMB 1 )
+READ:UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Kristi Kimball   Kristi Kimball @ ed.gov @ inet [ UNKNOWN 1 )
+READ:UNKNOWN
+
+CC: Melissa G. Green ( CN=Melissa G. Green/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ:UNKNOWN
+
+TEXT:
+Representative Goodling, along with 99 other questions, has asked
+Secretary Riley in writing whether Davis-Bacon applies to our school
+construction proposal.
+
+Attached is our current q & a on the issue, which is a basically "we're
+looking at it" non-answer   (Note: I made a minor change to what we gave
+the VP previously      I dropped the "we've been asked to look into it"
+part and left the "we're look at it part")
+
+This is what we'll go with unless folks have serious concerns. If you do,
+let me know and we can do a conference calIon Monday. Thanks.
+
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D20]MAIL43942886G.036 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504332060000010A02010000000205000000700D0000000200OOE2AFE29970AD2A654F45AB
+3BE5194FA70E146305F5F862A228032923CC6EA276239412Bl14A33201CD3El197824F587CC48C
+                                                                                           f.lex-Dump Conversion
+                                  Davis-Bacon and School Construction
+                                             March 5, 1999
+
+     Q:     Would Davis-Bacon apply to the Administration's new school construction proposal?
+
+     A:     First of all, I want to reiterate the Administration is a strong supporter of the application
+            of Davis-Bacon when Federal Government outlays are involved.
+
+     ·      Whether Davis-Bacon should apply to this tax cut proposal is an issue that has come up in
+            the past and we are taking another look at it.
+
+
+     Background:
+     The Administration position has been Davis-Bacon would not apply to our school construction
+     proposal because it is on the tax side of the budget (where Davis-Bacon historically has not been
+     applied) and not on the spending side (where Davis-Bacon does apply). Other similar tax
+     subsidies, such as tax exempt bonds and the Low Income Housing Tax Credit, have not
+     historically been subject to Davis-Bacon
+
+

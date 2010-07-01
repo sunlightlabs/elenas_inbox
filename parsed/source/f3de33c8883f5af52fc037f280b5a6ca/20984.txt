@@ -1,0 +1,87 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME: 6-AUG-1998 12:07:51.00
+
+SUBJECT:   NYT welfare caseloads by race in weekly
+
+TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TEXT:
+It looks like you didn't include our item reo racial/ethnic composition of
+the welfare caseloads in the weekly last week.  Do you want us to wait.
+until we have more definitive answers (we're pulling all the eggheads
+together tomorrow). Here's what we submitted last week.
+
+
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D90]MAIL45950322G.226 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504368050000010A020100000002050000001517000000020000F18A1B76EDC6C63D8FF949
+ ·
+                                                                    Automated Records Management System
+                                                                            Hex-Dump Conversion
+     Weekly Report -- Welfare Reform Team
+     7/30/98
+
+              Welfare Reform -- Minorities on Welfare Reform Caseload: The New York Times
+     report on the increasing share of minorities on the welfare caseloads highlights some important
+     trends and issues that we will explore further. In the meantime, it's helpful to put the
+     information in context.
+
+              First, the racial/ethnic composition of welfare caseloads has been changing gradually
+     over the last 25 years: whites rose from 38 percent in 1973 to a peak of 42 percent in 1983 and
+     have dropped steadily to 35 percent in 1997. The proportion of blacks has generally declined,
+     from 46 percent in 1973 to 37 percent in 1997. As the New York Times points out, the most
+     significant trend is the increase in the Hispanic portion of the caseload, from 13 percent in 1973
+     to 23 percent in 1997. However, this is not too surprising given the rapid increase in the
+     Hispanic population overall. The question is how welfare reform may be affecting these historic
+     trends. National data on the racial/ethnic characteristics of welfare recipients are only available
+     through June 1997, so it is hard to gauge the impact of the past year when welfare reform efforts
+     accelerated so rapidly. Some states have more recent data which they shared with the Times, and
+     which may reveal more significant trends. It is also worth noting that the caseload data only
+     tells who is currently on the rolls; it does not tell the rate at which different groups are entering
+     and exiting.
+
+             Second, the number of white, black and Hispanic families receiving welfare have all
+     dropped since 1994 (when caseloads peaked), but the rate of decline has been greater for whites
+     than blacks, with an even slower decline for Hispanics.
+
+                                       % Change
+     Whites 1.9M      1.4 M       -26%
+     Blacks      1.8M       1.5M       -18%
+     Hispanics   1.0M         .9M           -9%
+
+              Third, the changes are more dramatic than the actual mix of who is left on the caseloads,
+     at least on a national basis. While the story pointed out important trends, the conclusion that the
+     composition of the caseload has changed dramatically seems unwarranted.
+                      94      .      97
+     Whites 37%              35%
+     Blacks           36%            37%
+     Hispanics        20%            23%
+
+             Fourth, there is some encouraging evidence from Census data that the employment rates
+     offormer welfare recipients are increasing even faster for minorities than for whites (although
+     the actual rates and the disparity between groups remains disturbing). Between 1996 and 1997,
+     the percentage of all prior year welfare recipients who were employed in the next year increased
+     by 28%. The increase was highest for blacks (33%), followed by Hispanics (22%) and whites
+     (21%).
+'.                                                                      Hex-Dump Conversion
+
+
+              Finally, there is longstanding evidence that minorities on welfare disproportionately share
+     characteristics that may make it harder to leave the roils: lower education levels, lower marriage
+     rates, larger families, employment and housing discrimination, and isolation from areas with
+     jobs.
+EMAILS RECEIVED
+ARMS - Box 81 - Folder - 007
+[08/06/1998 - 08/07/1998]

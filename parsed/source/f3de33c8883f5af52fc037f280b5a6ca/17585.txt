@@ -1,0 +1,209 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Jose Cerda III ( CN=Jose Cerda III/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME:30-0CT-1997 15:25:56.00
+
+SUBJECT:   Three current versions of directive
+
+TO: Karen A. Popp ( CN=Karen A. Popp/OU=WHO/O=EOP @ EOP [ WHO]   )
+READ: UNKNOWN
+
+TO: Leanne A. Shimabukuro ( CN=Leanne A. Shimabukuro/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD]   )
+READ: UNKNOWN
+
+TEXT:
+In case anybody wants a final look-see at these. jc3
+---------------------- Forwarded by Jose Cerda III/OPD/EOP on 10/30/97
+04:25 PM ---------------------------
+
+
+
+
+Jose Cerda III
+10/30/97 03:24:52 PM
+Record Type:    Record
+
+To:      Phillip Caplan/WHO/EOP
+cc:
+Subject:         Three current versions of directive
+
+
+
+
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D87]MAIL492565202.316 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043B0040000010A02010000000205000000D514000000020000Fi837493A8E838F773192D
+C88861FA5DBAOFF1D8F8E78F6B093F9COE5FOB247994D1F52CD2CB5EE379A4BB84DDD7AAEAA3C6
+56109CE6705512774A714D729C4437E7987904FC09FDA214BDF8274F5986D985DOAAE2B74342D2
+159719F12E91910105D8900745FB231D1867168B6B7C04DDEFDF8BFE56540335056900AEE3B9B4
+77913380E93A811B68CB32428912C36031AECE8248FFAE5AOC5E5A2AD89126E5DAEC2CF5BE1CD3
+F157E83E1FF695693020111D2DE51D1853B99A5795DAE7E2A32174C6D9A33716E2EBEBE7441D21
+67593A33CF789E8EC8B39970AABD194FDF1CD84A7C4C57A665B9B12405B338FEB40B90D8C77D7A
+B017D1FC2DE80DA676C1C851DE9Dl129B6E135488F7E13CB3A06AC02EDF8D07935499F40FOD654
+OC3CBDCOFFB5731E8465D962BDD7714FDD73B3E25E4B0528541057214EC8B24F53C30590246B43
+075FD5DF691DD458D824926DC8CBA7139238BDDC8C673FC949262487CA7EA23633B3048FBOEEAC
+8AD3A2DOFF7651DC9AC44A90C904C483EBF9ACDAC612C94AD3C8000630180FBE80F9BOC826E646
+25B0512EEE24F29DF22260EFE1A8D9B7894674B43F7DA4B6F5656B5208EAODOD61FFE763B26D12
+83094CC9E2EFA2DFCE7923AB599153C59646705E3FBF1ACF427Bl1508B2E64D41F2E37ECB8E109
+6C3976F6CA02000A00000000000000000000000823010000000BOI00008C020000005501000000
+4E0000009703000009250100000006000000E50300000B300200000028000000EB030000081601
+000000320000001304000008770100000040000000450400000834010000001400000085040000
+                                           DRAFT                          He.t.n.._-         ··~ement System
+                                                                               -"-II Conversion
+                                        (l0/17/97 ... 6pm)
+
+MEMORANDUM FOR THE SECRETARY OF THE TREASURY
+
+Subject:      Importation ofUzi and Galil Firearms
+
+The historic Violent Crime Control and Law Enforcement Act of 1994 banned 19 specific assault
+weapons, duplicates of those 19 firearms and certain other semiautomatic weapons possessing
+various military style features. The Administration and Congress worked to ban these deadly
+firearms because -- as the weapon of choice for gangs and drug dealers -- they were being
+recovered at numerous crime scenes and resulting in criminals being better armed than some of
+the nation's law enforcement officers. Last year, in part as a result of the ban on assault
+weapons, fewer police officers were slain in the line of duty than in any year since 1960, and
+fewer law enforcement officer was killed by assault weapons.
+
+In addition to the prohibitions contained in the 1994 ban on assault weapons, the 1968 Gun
+Control Act further restricts the importation of firearms unless they are determined to be
+particularly suitable for or readily adaptable for sporting purposes. To enforce this law, the
+Treasury Department has developed a factoring system to determine whether handguns meet this
+sporting purposes test and are thus importable. The Department also determined that
+semiautomatic assault type rifles do not meet the sporting purposes test and are not importable.
+
+I am now informed that 2 of the 19 assault weapons that were specifically banned from
+importation in 1989, the Galil and the Uzi, have been redesigned in order to circumvent the ban.
+The Galil and Uzi, which are manufactured by Israeli Military Industries, were banned because --
+in their military configurations -- they were found to have no legitimate sporting purpose. It is
+now appropriate to determine whether the redesigned weapons would have legitimate sporting
+purposes in this country and are suitable for continued importation under the provisions of the
+Gun Control Act of 1968~
+
+My Administration has aggressively enforced all applicable laws to keep non-sporting firearms
+and other munitions posing a threat to public safety from entering the country. Therefore, I
+direct you to:
+
+       1)     Take the necessary steps to reexamine and determine whether the sporting
+              purposes test should be modified with respect to the importation of the Galil, Uzi
+              and any other firearms that have been similarly adapted or re-engineered since the
+              1989 ban on the importation of semiautomatic assault rifles or the 1994 ban on
+              semiautomatic assault weapons;
+
+       2)     Effective immediately, suspend action on pending and future applications to
+              import these weapons until this review is complete.
+
+Nothing herein shall be construed to require actions contrary to applicable provisions oflaw.
+                                                                      Hex-Dump Conversion
+
+ MEMORANDUM FOR THE SECRETARY OF THE TREASURY
+
+ Subject:       Importation of Modified Assault Weapons
+
+ The historic Violent Crime Control and Law Enforcement Act of 1994 banned 19 specific assault
+ weapons, duplicates of those 19 firearms and certain other semiautomatic weapons possessing
+ various military style features. The Administration and Congress worked to ban these deadly
+ firearms because -- as the weapon of choice for gangs and drug dealers -- they were being
+ recovered at numerous crime scenes and resulting in criminals being better armed than some of
+ the nation's law enforcement officers. Last year, in part as a result of the ban on assault
+ weapons, fewer police officers were slain in the line of duty than in any year since 1960, and
+ fewer law enforcement officers were killed by assault weapons.
+
+  In addition to the prohibitions contained in the 1994 ban on assault weapons, the 1968 Gun
+. Control Act further restricts the importation of firearms unless they are determined to be
+  particularly suitable for or readily adaptable for sporting purposes. To enforce this law, the
+  Treasury Department has developed a factoring system to determine whether handguns meet this
+  sporting purposes test and are thus importable. The Department also determined that
+  semiautomatic assault type rifles do not meet the sporting purposes test and are not importable.
+
+ I am now informed that 2 of the 19 assault weapons that were specifically banned from
+ importation in 1989, the Galil and the Uzi, have been redesigned in order to circumvent the ban.
+ The Galil and Uzi, which are manufactured by Israel Military Industries, were banned because --
+ in their military configurations -- they were found to have no legitimate sporting purpose. It is
+ now appropriate to determine whether the redesigned weapons would have legitimate sporting
+ purposes in this country and are suitable for continued importation under the provisions of the
+ Gun Control Act of 1968.
+
+ My Administration has aggressively enforced all applicable laws to keep non-sporting firearms
+ and other munitions posing a threat to public safety from entering the country. Therefore, I
+ direct you to:
+
+        1)     Take the necessary steps to reexamine and determine whether the sporting
+               purposes test should be modified with respect to the importation of the Galil, Uzi
+               and any other firearms that have been similarly adapted or re-engineered since the
+               1989 ban on the importation of semiautomatic assault rifles or the 1994 ban on
+               semiautomatic assault weapons;
+
+        2)     Effective immediately, suspend action on pending and future applications to
+               import these weapons until this review is complete.
+
+Nothing herein shall be construed to require actions contrary to applicable provisions oflaw.
+                                                              Hex-n. __ Co       ·   ement SyBte!n
+                                                                  - ....... nVetsion
+
+
+                                        October 31, 1997
+
+
+MEMORANDUM FOR THE SECRETARY OF THE TREASURY
+
+Subject:      Importation of Modified Assault-Type Weapons
+
+The historic Violent Crime Control and Law Enforcement Act of 1994 banned 19 specific assault
+weapons, duplicates of those 19 fireanns and certain other semiautomatic weapons possessing
+various military style features. The Administration and Congress worked to ban these deadly
+fireanns because -- as the weapon of choice for gangs and drug dealers -- they were being
+recovered at numerous crime scenes and resulting in criminals being better anned than some of
+the nation's law enforcement officers. Last year, in part as a result of the ban on assault
+weapons, fewer police officers were slain in the line of duty than in any year since 1960, and
+fewer law enforcement officers were killed by assault weapons.
+
+In addition to the prohibitions contained in the 1994 ban on assault weapons, the 1968 Gun
+Control Act further restricts the importation of fireanns unless they are determined to be
+particularly suitable for or readily adaptable for sporting purposes. To enforce this law, the
+Treasury Department has developed a factoring system to determine whether handguns meet this
+sporting purposes test and are thus importable. The Department also determined that
+semiautomatic assault type rifles do not meet the sporting purposes test and are not importable.
+
+I am now informed that 2 of the 19 assault weapons that were specifically banned from
+importation in 1989, the Galil and the Uzi, have been redesigned in order to circumvent the ban.
+The Galil and Uzi, which are manufactured by Israel Military Industries, were banned because --
+in their military configurations -- they were found to have no legitimate sporting purpose. It is
+now appropriate to determine whether the redesigned weapons would have legitimate sporting
+purposes in this country and are suitable for continued importation under the provisions of the
+Gun Control Act of 1968.
+
+My Administration has aggressively enforced all applicable laws to keep non-sporting fireanns
+and other munitions posing a threat to public safety from entering the country. Therefore, I
+direct you to:
+
+       1)     Take the necessary steps to reexamine and determine whether the sporting
+              purposes test should be modified with respect to the importation of the Galil, Uzi
+              and any other fireanns that have been similarly adapted or re-engineered since the
+              1989 ban on the importation of semiautomatic assault rifles or the 1994 ban on
+              semiautomatic assault weapons;
+               import these weapons until this review is complete; and
+
+       3)      During this review period, closely monitor the continued importation and criminal
+               use of these modified assault-type weapons, and -- if you determine that
+               circumstances warrant additional action -- take any other appropriate action
+               including the suspension of existing permits.
+
+Nothing herein shall be construed to require actions contrary to applicable provisions oflaw.
+
+
+
+
+                                                       Automated Records Management System
+                                                       Hex-Dump Conversion
+
+

@@ -1,0 +1,154 @@
+ RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+ CREATOR: Sarah A. Bianchi ( CN=Sarah A. Bianchi/OU=OMB/O=EOP [ OMB ]   )
+
+ CREATION DATE/TIME:22-JUL-1997 20:00:42.00
+
+ SUBJECT:   immunization fact sheet
+
+ TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @·EOP [ OPD ] )
+ READ: UNKNOWN
+
+ TEXT:
+ ==================== ATTACHMENT   1 ====================
+ ATT CREATION TIME/DATE:   o 00:00:00.00
+ TEXT:
+ Unable to convert ARMS_EXT: [ATTACH.D82]MAIL47582720K.216 to ASCII,
+  The following is a HEX DUMP:
+
+ FF575043ED070000010A020100000002050000009327000000020000ADE37B5A4B09912E05150A
+ 30B27F276D60AC9E72E95DD3CB104378ABE1C3C21939D5BA3DBE922A534E06E5DBDCD5DBE45BOC
+ 15E4BC2FC34125947C358A654A94BD7C83A15AEEAC7F099D984BAAC7C1E4BD03C7CAF3F4C9COOF
+ B2C48269AF76CFB8B7E87CCFBBDAE7DC81E96CB235E3625519E6F6F5494D1A87D67A2E02951BBl
+ C09E8E7269593F8AEED08C020C69E52509314FCB00840E2076D7BE625E81A3BA451D5E48171903
+ 74019B4BB5EC892B4448DE092D08E7EOB44015BB4A7F500840552564DB9AFD4128B8981E694646
+ A10551AF6BFA36B8FA9F5D9D67FF93COD16073DF3E31CF742373355D7286CEBF164143FD7C8DC7
+ 03D3E6ECB495AF14F8BE6BE47D92C25A773D65D178462FCOC002B26B36AD75C3329E820A438954
+ 4B5A860CEFD86A9C30BF4F01F5DBE19518B66BC6F34456D86BEA26AF72F2B6DD1A6AA9014A64FO
+ F9E5E187857C9CE9431F61BE5537CD73F3D93F90C453100F34E71794ECD3D051C6D16546D6B4DF
+ D2B544A6E8AC28585A55C67531F10082C90466C8102A695EF32EDCOE38A9A8AOFC3765B13F5BDO
+ 1EA88A20865AD840E3D6CD59986958AD169995DF3FF4EBF21ABA49254576BAACAF2BB09981B06F
+ 449EC3012EDACF3EDE92BD80C20219F60985C98BF4B5F79497F016CCD3F269DFE797355DB60168
+ 666156AEEC02002000000000000000000000000055030000003AOOO000C0030000092501000000
+ 06000000FA0300000055030000002A00000000040000005502000000420000002A040000080201
+ 000000100000006C0400000B6EOI000000030200007C0400000B3002000000720000007F060000
+ 08050100000008000000FI06000008770100000040000000F90600000834010000001400000039
+ 070000081D01000000000000004D070000060801000000160000004D0700000055010000003COO
+ 000063070000000000000000000000006307000000000000000000000000630700000000000000
+ 000000000063070000000000000000000000006307000000000000000000000000630700000000
+ 000000000000000063070000000000000000000000006307000000000000000000000000630700
+ 000000000000000000000063070000000000000000000000006307000000000000000000000000
+ 630700000000000000000000000063070000000000000000000000006307000000000000000000
+ 000000630700000000000000000000000063070000000000000000000000006307000000000000
+ 000000000000630700000B300A0000004E0000009F0700003COOFE153610580700000139000000
+ 60002815000010220043006F007500720069006500720020004EOO650077000000000000005400
+ 540000000100010058022000F41A5C121A090000110900000060001811000010120052006F006D
+ 0061006E0000000000000000001COOF41A5C121A0900001109000000600018110000102A005400
+ 69006D006500730020004E0065007700200052006F006D0061006E000000000000005400540000
+ 0008337C005A00000200006C0200000100AB003COOFE1536105807000001390000006000281500
+ 0010220043006F007500720069006500720020004E006500770000000000000054005400000000
+ 000000000000000000000000000000000000000000000000000000000000000000000000000000
+ 000000000000000000000000000000000000000000000000000000000000000000000000000000
+ 00000000005B0258027800FE1536105807000000041140C900448F511103105802402000F41A5C
+ 121A090000110900000060001811000010120052006F006D0061006E0000000000000000006500
+ 770000000000000054005400000000000000000000000000000000000000000000000000000000
+ 000000000000000000000000000000000000000000000000000000000000000000000000000000
+ 000000000000000000000000000000000000000058025B025AOOF41A5C121A09000000102050BE
+ 004007511103105B02501COOF41A5C121A090000110900000060001Bl10000102A00540069006D
+ 006500730020004E0065007700200052006F006D0061006EOOOOOO000000005400540000000000
+ 000000000000000000000000000000000000000000000000000000000000000000000000000000
+                                                                               Hex-Dump Conversion
+
+
+                     PRESIDENT AND FIRST LADY ANNOUNCE RECORD
+                            CHILD IMMUNIZATION LEVELS
+
+
+Today, the President and the First Lady announced that childhood immunization rates for 1996 have
+reached an historic high. According to new data from the Centers for Disease Control and
+Prevention (CDC), 90 percent or more of America's toddlers in 1996 received the most critical
+doses of each of the routinely recommended vaccines--surpassing the goal set by the President when
+he launched his Childhood Immunization Initiative (CII) in 1993. The President also announced a
+new child care initiative and a new collaborative to establish registries to help meet our goal to
+further improve our children's immunization rates for the year 2000.
+
+Achieving the President's Goals by Reaching Record Child Immunization Levels. The Childhood
+Immunization Initiative set an ambitious goal of ensuring that at least 90 percent of all toddlers
+received the most critical doses of each of the routinely recommended vaccines. CDC's National
+Immunization Survey, which surveys parents of preschoolers nationwide, reports that the nation has
+met these goals and national infant immunization rates are at an all-time high. CDC reports that:
+
+·      Over 90 percent of two-year olds received the recommended doses of vaccines for
+       diphtheria, tetanus, measles, polio and Hemophilus influenzae, the virus causing a form of
+       meningitis -- exceeding the 1996 goal of reaching at least 90 percent, for these most critical
+       doses.
+
+·      The increases since 1992 have been substantial. For diphtheria and tetanus, immunization
+       rates for toddlers increased from 83 in 1992 to. 95 in 1996; polio rates increased from 72
+       to 91 ; measle rates, (usually delivered in a vaccine that also protects against mumps and
+       rubella), rates increased from 83 to 91 ; and Hemophilus influenzae type B rates increased
+       from 28 to 92 .
+
+·      Most children now receive the Hepatitis B Vaccine, which was not even recommended for
+       infants until in 1991. Eighty-two percent of two-year-olds received Hepatitis B vaccine,
+       surpassing the 1996 goal of 70 percent.
+
+Childhood Immunization Initiative Has Helped Rates Reach Unprecedented Highs. In response to
+disturbing gaps in the immunization rates for young children in America, President Clinton
+launched the ClI shortly after taking office in 1993. The ClI addresses five areas: .
+(1) improving the quality and quantity of vaccine delivery service; (2) reducing vaccine costs for
+families; (3) increasing community participation, education and partnerships; (4) improving systems
+for monitoring diseases and vaccination; and (5) improving vaccines. This national initiative
+coordinates efforts at all levels of government, in the private business community, and among
+volunteer organizations to protect children from disease through sustained, routine immunization.
+                                                                                 Hex-Dump Conversion
+
+
+
+Other Clinton Administration Efforts to Increase Childhood Immunization Rates: In addition to the
+CII, the Clinton Administration has taken other steps to increase child immunization, such as: (1)
+granting welfare reform waivers to 17 states to allow them to require parents to immunize their
+children appropriately as a condition of receiving assistance; (2) permitting states to develop
+individual responsibility plans as part of the welfare bill for welfare recipients to require them to
+immunize their children; (3) forming partnerships between state and local immunization programs
+and WIC to encourage parents receiving WIC nutrition benefits to immunize their children; (4)
+awarding CDC funds to four state education agencies to deliver immunization services to
+preschool-aged children in elementary school-based health centers; (5) creating a joint HUD,
+HHS and AmeriCorps pilot program in four cities -- Chicago, Kansas City, Philadelphia and Little
+Rock -- to boost immunization rates among children living in public housing; and (6) forging a
+partnership with AmeriCorps to provide volunteers to do a wide range of immunization outreach
+activities.
+
+Taking the Next Step to Increase Child Immunization Rates: Meeting More Ambitious Goals by 2000.
+While child immunization rates are at an all-time high, ahnost 1 million children under age 2 are
+missing one or more recommended shots. Therefore, the President and the First Lady mark the
+milestone of 1996's unprecedented child immunization rates with firm resolve to continue efforts to
+raise these rates even further. More than 78 percent of two-year olds in the United States received
+their full series of shots as recommended up from 55 percent in 1992. This is an historic high.
+By the year 2000, the President hopes that at least 90 percent of two-year olds receive the full series
+of vaccines.
+
+New Initiatives to HeJp Reach Our Next Goal. Today, the President and the First Lady announced
+new actions to expand on the Administration's comprehensive strategy to ensure that even more
+children receive the necessary vaccinations.
+
+       Ensuring that Children in Child Care Settings Are Properly Immunized: Today,
+       President Clinton proposed new child care regulations which will help children in child
+       care receive the immunizations they need on time. The new rule requires that aU
+       children in federaUy subsidized child care be immunized according to state public
+       health agency standards. This regulation will particularly reach those children in
+       child care arrangements that are legal but exempt from state licensing requirements,
+       such as home-based care.
+
+       Establishing Integrated State and Community-Based Immunization Registries:
+              Immunization registries are crucial in helping parents and doctors maintain
+       up-to-date             information on the immunization status of their patients and children
+       and ensure that proper         vaccines are given on schedule. Today, the President directed
+       the Secretary of Health and Human Services to convene a meeting -- with federal, state
+       and local government officials,        health care providers and organizations, vaccine
+
+     manufacturers, information system            specialists, and civic leaders -- to identify and
+     address the technical and policy issues      involved in establishing state or
+     community-based registries capable of transfering information between each other.
+
+

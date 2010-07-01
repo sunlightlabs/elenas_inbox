@@ -1,0 +1,53 @@
+RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+CREATOR: Sarah A. Bianchi ( CN=Sarah A. Bianchi/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME:23-MAR-1998 17:58:32.00
+
+SUBJECT:   needles q&a
+
+TO: Paul J. weinstein Jr.   ( CN=Paul J. Weinstein Jr./OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D55]MAIL409827186.026 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504370040000010A02010000000205000000810B000000020000182D35225AD58A4B28148B
+631BAAA37B29A7DOC0278BCE3698E6B047D4E7282636601B3673A80CEEEC20CA080197430E4111
+                                                                                   Automated Records Management System
+                                                                                           Hex-Dump Conversion
+
+
+          Q:   What is your current position on needle exchange?
+
+          A:   Before authorizing the release of any Federal funds for needle exchange programs, the
+               law requires the HHS Secretary to make two determinations: First is determining that
+               needle exchange programs are effective in preventing HIV; and the second is finding that
+               needle exchange programs do not increase drug use. Last year, Secretary Shalala
+               released a report that concluded that needle exchange programs have proved effective at
+               reducing HIV. HHS is still in the process of determining whether or not they increase
+               drug use.
+
+
+          Q:   What is your reaction to the fact that your Drug Czar and your AIDS Czar hold
+               opposing views on this issue? How will you resolve these tensions in your
+               Administration?
+
+          A:   Clearly both General McCaffery and Sandy Thurman have strong feelings on these issues.
+                They do, however, both share the goal of reducing the incidence of HIV and reducing the
+               incidence of drug use. We will work carefully with them and others within the
+               Administration to develop a process that reduces the incidence of HIV without increasing
+               drug use.
+
+

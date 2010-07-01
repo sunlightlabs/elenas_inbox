@@ -1,0 +1,110 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Sarah A. Bianchi ( CN=Sarah A. Bianchi/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME:25-JUN-1998 12:05:10.00
+
+SUBJECT:   Q&A on patients' bill of rights
+
+TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO]    )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.DO]MAIL45290667B.126 to ASCII,
+ The following is a HEX DUMP:
+
+ FF575043C8040000010A020100000002050000009A14000000020000806DF8ABB9F8D50BCB24EC
+ 1DC5491CAAD95B8DODDA78A09F7BB8336D51C223333FC6B50D5B94016DD1B3AC6EOAOE8794DB01
+ 53EE544A5699C890FBD9D6DC2355D0527FD57F48546F425FOAB941D7AE209BE50EE3D6055AB262
+ 59E3B5E30825C9498F01C96F96BB509246CF19006DB896CDFOCB717F5E570D401F23690A4CEE6A
+ 17DFEBE98514CFA7C6152D40DE3F31292FEF23435865FBEE3E642499EB813336F8AAFAAA489832
+ 96C2E1D15D806406C9A39BCB6574496A99427FFF8288A43778FOEO1E881E4742052A0771EF6C60
+ 82BD13929C68ED5CFB21300B0733405A6C5557D975C7AD5B03C616E84858C99A1AC2655FBC6BB4
+ 80EA05D7D3F50E2F38327689EE082CA06849E05B9559ECE8B52B77A031FA50B95638F18A57E517
+ 58673BF4CFFOB6F4F15E6258E8309272AD44A3B1126DC3F2936B7E24921A5A104CF3E018C15AAC
+ 7208A41845338EE84F62AECD33AB4110EB6D91ABB6333DF01FDD3916674535FF50D4C5D2AA4195
+ 12DF33F9196FDF21F832AEDF73A2CBBFOB5876A2BEEF47E82C46D809292269CA624756C49BC346
+ 3449EC6CD12AA68134A763F5563632494A30F7EBC11D2AB5484F29D1OAEBF26D86FD93DDC891C5
+ 99869F94080BFF48D5B5BF5F9E072E2F3BE1B4CA1FBD9CBEAC0808CD3DB6F89B23C892E18F8462
+ EEAED9041602000B00000000000000000000000823010000000B0100009A020000005502000000
+ 4EOOOOOOA503000009250100000006000000F30300000B300200000028000000F9030000087701
+ 000000400000002104000008340100000014000000610400000802010000000F00000075040000
+ 080501000000080000008404000000000000000000000000840400000055010000003C0000008C
+ 04000000985C005C004F0041005F0037005C005C005C004FOOSOOO44005C003200310036005FOO
+ 410000000000000000000000000000000000000000000000000000000000000000000000000000
+ 0057494E53504F4F4COOOOOOOOOOC800C8002C012C012C012C01C800C800300000000000000000
+ 000000000000000000000000000000000000000000000000000000000000000000000000000000
+ 000000000000000000000000000000000000000000000000000000000000000000000000000000
+ 000000000000000000000000000000000000000000000000000000000000000000000000000000
+ 00000000000000000000000000000000000000000000000000000000000000005E004F132800C8
+ 196810480D000011090000005AOOOB010000103600540069006DOO6500730020004E0065007700
+ 200052006F006D0061006E00200052006500670075006C00610072000000000000000000010002
+ 0058020100000004002800000000000000000000000000000000000000011202002400A1000000
+ A10000000A0000002901020002002A01010045002B01020002002C01010045002D01020002002E
+ 01010045002F01010002003001010045003101010045003201350065815655D624000000000000
+ 000000007F000000000008337C00780000020000320100000301000400020000001BOOF41A5C12
+ 1A0900000000000000600018110000102400540069006D006500730020004E0065007700000052
+'006F006D0061006EOOOOOOOOOOOOOODDOA10008301040003000200211000DDDDOBOB0003000004
+ OBOODDF1023201F19BF1033201F1F1003201F19BF1013201F1F1023201F1F1033201F1F20CF251
+ 3AE0300C0000000008070COOE057686174806973807468658041646D696E697374726174696F6E
+F01C04F07380726573706F6E736580746F80746a6580706174~9656E7473F01C04F08062696C6C
+806F66807269676874738070726F706F73616CD0011500000B00090001B0040000000001201500
+D0756E7665696C65648062798074686580F1003201F19CF1013201F1486F757365805265707562
+6C6963616E73F1003201F19BF1013201F1F1023201F1F1033201F1807965737465726461793F80
+                                                                   Hex-Dump Conversion
+
+Q:     What is the Administration's response to the patients' bill of rights proposal
+       unveiled by the House Republicans yesterday?
+
+A:     President Clinton has repeatedly called on this Congress to pass a patients' bill ofrights --
+       so crucial medical decisions are made by doctors, not accountants. We welcome the fact
+       that the House Republicans have finally entered this debate by announcing their intention
+       to introduce long-overdue legislation on this issue. Their announcement explicitly
+       affirms the President's longstanding position that Federal legislation is needed.
+
+       However, the Republican proposal clearly does not provide all the protections that
+       Americans need and deserve. For example, it does not guarantee patients access to the
+       specialists they need, such as heart specialists or oncologists. It does not ensure
+       continuity of care -- so that vulnerable patients do not have their care changed abruptly if
+       their provider is dropped from a health plan. It does not include strong remedies for
+       people who are seriously injured or who die because a health care plan wrongly denied
+       them care.
+
+       In addition, the Republican proposal includes poison pill provisions, such as multiple
+       employer welfare arrangements (MEWAs) and arbitrary caps on medical malpractice
+       awards that supersede state laws. These provisions are apparently designed to stall the
+       progress on a patients' bill of rights.
+
+       Without important protections and with added poison pills, the Republicans' patients' bill
+       of rights is nothing more than a bill of goods. However, we remain committed to
+       working together to pass a strong, bipartisan bill before this Congress adjourns.
+
+
+Background: Important patient protections that are not included in the Republicans' patients'
+bill of rights and poison pill provisions, include:
+
+       Access to specialists. Again and again we have heard about cancer patients who
+       are denied access to an oncologist or patients who have died prematurely because
+       they never saw a heart specialist until it was too late. Assuring access to needed
+       specialists is absolutely essential to providing millions of Americans essential care
+       and much-needed peace of mind.
+
+       Continuity of care protections. This assures some of the most vulnerable patients --
+       such as pregnant women or the chronicaUy ill -- that their care will not change
+       abruptly if their provider is unexpectedly dropped from a health plan.
+
+       A strong, workable enforcement provision that is essential to ensure that these
+       protections are real. A right is simply not a right without a remedy.
+
+       Poison pill provisions, including malpractice caps and multiple employer welfare
+       associations, that appear to be designed to stall this important legislation.
+        Hex-Dump Conversion
+
+

@@ -1,0 +1,274 @@
+ RECORD TYPE: PRESIDENTIAL          (NOTES MAIL)
+
+ CREATOR: Michael Cohen ( CN=Michael Cohen/OU=OPD/O=EOP                  [ OPD ]   )
+
+ CREATION DATE/TIME:20-0CT-1997 13:55:34.00
+
+ SUBJECT:    possible test compromises
+
+ TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD]                    )
+ READ: UNKNOWN
+
+ TO: Mike_Smith       Mike Smith @ ed.gov @ inet [ UNKNOWN]               )
+ READ: UNKNOWN
+
+ TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ]                       )
+ READ: UNKNOWN
+
+ TEXT:
+ Attached is a memo that captures what we discussed on Friday, and extends
+ it some.  Let me know what you think.   Bruce is working with John Hilley
+ to set up a meeting with David Hoppy on Lott's staff to float our ideas.============
+ ATT CREATION TIME/DATE:   0 00:00:00.00
+
+ TEXT:
+ Unable to convert ARMS_EXT: [ATTACH.D40]MAIL498625295.216 to ASCII,
+  The following is a HEX DUMP:
+
+ FF575043E1050000010A020100000002050000005E4F0000000200009C54519EFC0039A9D46AF9
+ 48E33053E875A9A6D96E29F5856B101E708723F08B9231A97433493DC5FED9CBEE76C4673F406E
+ D12 515 9C3.8 94C4 573 5D24 8 62 5E2BEF2113 67D8 98 8 0 3DEA6 7 2 8 0 231F2F7ED91B8 8 3 F7 8 OFCCD71EF
+ 4DEFD1F5F1DCD65C4EF683B64B76D378DA490F1ABD9878998B2064A2FBA6FEAB1B566646950FC5
+ 749BB4ED795B8DF5C9D5CD61CBE1FC884F29B557F31C962678F2D28AD08806D8A063A24078CCF3
+ 303813AF03950E1A3B98EF64A564B642354D766BCBB5730349D725DBEB290DF44B197FB7FOF7AD
+ 3CA47C8110763320E43C3C666505F695E8CD39715A3D5F502CCCF65F8BFBCD6A173848585C1F23
+ OAF9BF44EOE6D03483035EE50985A59F7EBE54C9889A40F2886EF8B8AACE41CA94AA4BOD5ECE29
+ 9BD452EOC40017590294345E7B48B68060D21F769962751384E488EDOCE1649D43907AB2758EE4
+ B81A2CC6C12382B5DEC747E8233D267EOE8E4F77B37A7A004B7A45AAOC3A7E9CD4058CF675FOFB
+ 772CBFEE1E775C5AB41F27F7DFCDD312DEA175F716D7E7D22683E4AAB1043F80B817BFA822CA4D
+ 7CDE853352B773EE34888DEDD6DAF2E222ED9D9033470AA1860BEB72E38D5A9FA34985D78E4FE5
+ DE2ED82BDF6EDB422FE9D294301682DC8E6AABE9D38DB8175581E654EE80D297B8E720AE34EFCE
+ 235CC3E72A02002000000000000000000000000055010000003AOO0000C0030000092501000000
+ 06000000FA0300000802010000001000000000040000086E01000000AD000000100400000B3002
+ 00000034000000BD040000081D0100000000000000F10400000055010000004EOOOOOOF1040000
+ 087701000000400000003F050000083401000000140000007F050000000000000000000000007F
+ 050000000000000000000000007F050000000000000000000000007F0500000000000000000000
+ 00007F050000000000000000000000007F050000000000000000000000007F0500000000000000
+ 00000000007F050000000000000000000000007F050000000000000000000000007F0500000000
+ 00000000000000007F050000000000000000000000007F050000000000000000000000007F0500
+ 00000000000000000000007F050000000000000000000000007F05000000000000000000000000
+ 7F050000000000000000000000007F050000000000000000000000007F05000000000000000000
+ 0000007F050000000000000000000000007F050000000000000000000000007F05000000000000
+ 0000000000007F0500000B301F0000004E000000930500003COOFE153610580700000139000000
+ 60002815000010220043006F007500720069006500720020003100300063007000690000000000
+ 0000000001000100580200337C007800000200009A0000000100ABO03COOFE1536105807000001
+ 3900000060002815000010220043006F0075007200690065007200200031003000630070006900
+ 000000000000000000000000000000000000000000000000000000000000000000000000000000
+ 000000000000000000000000000000000000000000000000000000000000000000000000000000
+ 00000000000000000000000000005802F4017800FE1536105807000000041140C9009338C5113B
+ 00580240010000000400280000000COOOOOOOOOOOOOOOOOOOOOOOO0000000112A4542400A10000
+ 00A1000000D3050C0000010000000COOD32800D61EC30F3908000011090000005AOOOB01008B14
+                                                                   Hex-Dump Conversion
+                                        October 18, 1997
+
+
+
+
+MEMORANDUM FOR BRUCE REED
+                ELENA KAGAN
+                MIKE SMITH
+
+FROM:                  MIKE COHEN
+
+SUBJECT:               NATIONAL TEST COMPROMISES
+
+The purpose of this memo is to summarize Friday's discussion about possible compromises on
+the national test, to place the options we considered in a broader context, and to raise several
+additional issues.
+
+I.      Provisions already likely to be part of the fmal package
+There are two key provisions already in the Senate-or House-passed bills that will almost
+certainly be part of the final testing provisions.
+
+·      NAGB in control of tests: It is virtually impossible to imagine any compromise that
+       won't retain this provision. However, there are several issues that are likely to come up
+       before this is finalized.
+
+        Finn and Ravitch now regret their proposal to eliminate the testing experts on NAGB, and
+        to add mayors (who they view as unduly subject to local, parochial pressures). I believe
+        I've read that Goodling has said that the testing experts should remain on NAGB. While
+        these are not major issues, I would recommend that we agree to add back some or all of
+        the testing experts, and that we hold on to the slots for mayors; we have talked about
+        using one of them for a Hispanic mayor.
+
+        AFT has raised more general concerns about NAGB's technical capacity and access to
+        technical expertise. They want to make sure that NAGB can continue to rely on NCES
+        staff for support. We need to make sure that the current provisions don't preclude this (I
+        don't believe they do), and check with Mark Musick (NAGB's chair) about NAGB's
+        views on this. In addition, within the past few weeks we have requested an additional
+        $600K-$1 million for NAGB in FY 98, so that it can handle its new responsibilities. I
+        need to check on the status of this request.
+
+
+·       National Academy of Science evaluation of 1998 pilot test: Both the House and Senate
+        bills have somewhat different provisions that require the National Academy of Sciences
+        to conduct an evaluation of the pilot test and report to Congress before next year's
+        appropriations decisions are made. The Education Department had already been
+                                                                            Hex-Dump Conversion
+       planning to contract with NAS for an evaluation, and we supported these provisions.
+       The timeline for the reports is very tight, and there will be very little time between the
+       March pilot test and the dates for providing the report.
+
+
+II.    Possible Additional Compromises
+Below are four compromise proposals that DPC and ED think we can offer and work from. We
+would put them on the table one at a time, essentially in the order listed below, and use as few of
+them as needed.                               .
+
+·      Linking state and/or commercial tests to the national test: NAGB would work with
+       interested states and school districts, on a voluntary basis, to determine if the reading and
+       math tests used by the state or local district could be statistically linked to the national test
+       (or to NAEP???). If so, this would enable the state or district to administer its own
+       test--instead of the national test developed by NAGB--and report the results in terms of
+       national standards and achievement levels. NAGB would be given the authority to
+       determine the criteria tests must meet in order for results to be reported in terms of
+       national standards, and would therefore be able to determine if a state could use its own
+       test as an appropriate substitute for the national test.
+
+       At its best, this approach essentially creates a system of national content and performance
+       standards in reading and math and an anchor test which is either administered to all
+       students in a jurisdiction, or which becomes the benchmark against which other tests are
+       calibrated. This approach therefore contemplates that more than one test that could be
+       used to measure student performance against the standards, though it does not presume
+       that therefore any and every 4th grade reading and 8th grade math test could be
+       meaningfully linked to the national standards.
+
+       We still have several issues to sort out under this option. First, how would this approach
+       actually work, and how will we describe NAGB's authority to carry out its responsibilities
+       here (do we provide general language that authorizes linking studies and requires NAGB
+       to figure out, by a date certain, a plan for doing carrying out this approach, or do we need
+       to spell out how this would work in some detail in the legislation itself? Second, do we.
+       treat states, local school districts and commercial publishers all on the same footing?
+       Can all of them "bring their test to NAGB"? Third--how do we pay for this work to get
+       done? How much additional are we likely to need, and will we need additional funds in
+       FY 98 or later? Should the federal government pay the total cost Of linking a test to the
+       national test, or should it require some kind of cost-sharing?
+
+·       Consider 1999 as a Field Test year rather than the first year of full scale implementation:
+        Instead of implementing the tests in the Spring of 1999, we would treat 1999 as a field
+       test, to try out the procedures for publicizing, preparing students for, administering and
+       reporting the results of the national test. Unlike the Spring 1998 pilot test which
+       involves a national sample of students, this field test would involve the administration of
+       the test to every student in a participating jurisdiction. We should also fund an evaluation
+       of the field test.                                               Hex-Dump Conversion
+
+       From the public's point of view, the field test is an opportunity to get the "kinks" out of
+       the system before full scale implementation. From our point of view, it is a recognition
+       that state and local participation is not likely to skyrocket over the next 18 months. It
+       could also be an incredible marketing opportunity for us. We could work closely with a
+       finite set of jurisdications to help them mobilize significant efforts to prepare kids for the
+       tests, and demonstrate the value of the materials we will develop and the resources we
+       will provide, such as information for parents, reading tutors, teacher training materials,
+       etc. This would enable us to show that the tests are, as the President has said, " ... about
+       lifting people up, not putting them down."
+
+       There are a couple of issues we still need to address here. First, I believe we should still
+       ask Congress to appropriate funds for the field test (perhaps capped at some figure). If
+       so, we may want to authorize that in whatever compromise is ultimately fashioned. (If we
+       are able to do this, I think we should also seriously consider Obey's proposal for making
+       the administration of the tests an allowable use of Chapter II funds for subsequent years;
+       while the formula isn't great, taking Obey's proposal for 2000 and beyond would provide
+       specific authorization for implementation, and would take care oflong term funding for
+       implementation as effectively as anything else we are likely to get.)
+
+       Second, we need to check with the states and districts that have already signed up an see
+       how such a move would affect their decision. I doubt it would have a serious impact in
+       most cases (especially if we continued to fund the 1999 administration), but I want to find
+       out if I'm wrong before we go too far down this road.
+
+
+·      Rt;port to Congress on Field Test: We could be required to submit a full report on the
+       field test to Congress by a fixed deadline, after the Spring 1999 field test but before
+       implementation in 2000. While we would agree to do no more than report our findings
+       to Congress, there is implicit in the reporting requirement that, particularly if there are
+       problems uncovered in the field test, then Congress could act to ban additional
+       implementations.
+
+·      Cap oarticipation in the 1999 Field Test: If necessary, we could limit participation in the
+       Field Test phase, perhaps to jurisdictions with no more than 50% of the kids.
+
+
+I believe we could live with all of these provisions, although both the linking option and the field
+test options increase the odds that the tests never get off the ground, either because the substitutes
+are easier and less costly to use, or because the timeline is pushed back too far into the future.
+Certainly taken together, these provisions would mean that the particulars of the testing
+initiative--the fact that the test items will be released to the public, the procedures for reporting
+test results, the material provided leading up to the test to encourage and help students, schools
+and parents to prepare for the tests--more than the idea.ofnational standards and tests, will need
+                                                                       Hex-Dump Conversion
+to operate well enough to capture the attention and strong interest of parents, educators and
+policymakers. From that perspective, the field test may be a good thing, because it will provide a
+deliberately limited but highly visible opportunity to demonstrate to the nation the value of the
+tests to those who participate. We can work with states and districts to make this a success for
+them and for us.
+
+In addition, if we combine the already-required NAS report to Congress after the pilot test with
+our proposed additional report after the field test, we can make a pretty strong argument that we
+are giving Congress a number of additional opportunities to be involved in this initiative, to
+make mid-course corrections it determines are needed based on the reports, and to end the
+program if it wishes to. Consequently, we could argue more effectively that there should be no
+need for a specific Congressional authorization before we proceed with implementation.
+
+III.   Implications for Discussions with the Hispanic and Black Caucuses
+
+Several of the options above may have implications for the issues"raised by the civil rights groups
+and the caucuses.
+
+·      Testing LEP kids: Our approach to testing LEP kids has been to explore the feasibility
+       of encouraging commercial publishers to link existing reading comprehension tests in
+       Spanish and other languages to the national test. Our proposal for linking existing tests
+       to the national tests more generally makes it easier to advance this option. Ideally, the
+       statutory language we draft about the linking studies would not preclude tests in other
+       languages, though I'm still inclined to try and avoid language that would explicitly permit
+       it.
+
+       We would still need to work out administration and reporting issues with interested
+       districts. It occurs to me that, if we went down this road, it might well turn out to be
+       easier for cities that wanted to give a linked Spanish-language reading comprehension test
+       to give the English version of that test (presumably also linked to the national test) rather
+       than the national test.
+
+·      High stakes testing: We have already indicated to the civil rights groups that we would
+       have no problem making clear that the national test was not validated for high stakes
+       purposes, and describing what kind of validation studies would need to be conducted at
+       the local or state level in order for the test to be used for high stakes purposes.
+
+       Our Field Test proposal would make it relatively easy for us to prohibit the use ofthe test
+       for high stakes purposes at least until 2000--not all that the civil rights groups want, but a
+       step in their direction.
+
+       At the same time, the proposal for linking other tests to the national test could make it
+       more likely that some tests that are part of this national testing system could be used for
+       high stakes purposes, on the assumption that state and local tests are more likely to be
+       validated for high stakes purposes. I presume that if a state or district wanted to require
+                                                                            t~efi-PlJll1p   Conversion
+            that kids meet the NAEP achievement level in order to be promoted, the state or district
+            would have to be able to demonstrate the validity of that cut point for that particular use.
+
+            I would anticipate that the civil rights groups would want us to prohibit high stakes
+            testing for any test that is linked to national standards. This would be a huge mistake.
+
+     ·      RIWorting Requirements: The civil rights groups want us to use the Title 1 reporting
+            requirements for the national test. State and local tests linked to the national test are
+            likely to be the tests used for Title 1 purposes, and therefore will already have to meet
+            these requirements. This solves some fraction of the civil rights groups concern, though
+            not the major one. It isn't clear to me if these new circumstances would make it any
+            easier for NAGB to require that the national tests be reported in a manner consistent with
+            the Title 1 requirements, or more appropriate for us to advocate such a move.
+
+     ·      Accommodations: I need some help on this one. Ifwe are going to link state and local
+            tests to the national test, would there need to be any specific comparability in the types of
+            accommodations between the tests? Would the same answer hold true for
+            inclusion/exclusion criteria for LEP kids and kids with disabilities?
+
+      Finally, we might want to think about how we could design and conduct the field test so that we
+      demonstrate and learn some things about how the tests can best be used to help low income and
+      minority kids boost their achievement. This might involve several components, including, off
+      the top of my head: (1) a component of the evaluation design that looks specifically at the impact
+      of the testing on low income and minority students; (2) special help to participating jurisdictions
+      on the most effective use of federal resources; (3) in partnership with business, community and
+      other groups, a serious America Reads-like effort to mobilize out-of-school resources to help
+    . kids prepare for the tests, including, for example, the intensive efforts that OBEMLA is planning
+      for a number of urban communities with a focus on LEP kids and their families.
+
+

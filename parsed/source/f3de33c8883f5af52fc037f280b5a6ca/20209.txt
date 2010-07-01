@@ -1,0 +1,108 @@
+     RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+     CREATOR: Mary L. Smith ( CN=Mary L. Smith/OU=OPD/O=EOP    OPD ] )
+
+     CREATION DATE/TIME: 9-JUN-1998 14:51:26.00
+
+     SUBJECT:   just one small change to one-pager
+
+     TO: Audrey T. Haynes ( CN=Audrey T. Haynes/OU=WHO/O=EOP @ EOP [ WHO ] )
+     READ: UNKNOWN
+
+     TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+     READ: UNKNOWN
+
+     CC: Robin Leeds ( CN=Robin Leeds/OU=WHO/O=EOP @ EOP [ WHO]   )
+     READ: UNKNOWN
+
+     CC: Jonathan Orszag ( CN=Jonathan Orszag/OU=OPD/O=EOP @ EOP [ OPD ] )
+     READ: UNKNOWN
+
+     CC: Tho~as L. Freedman ( CN=Thomas L. Freedman/OU=OPD/O=EOP @ EOP [ OPD ] )
+     READ: UNKNOWN
+
+     CC: Melissa G. Green ( CN=Melissa G. Green/OU=OPD/O=EOP @ EOP [ OPD ] )
+     READ: UNKNOWN
+
+     TEXT:
+     Just changed in the second to last bullet about women's labor force
+     participation from 75 to 60.  ==================== ATTACHMENT   1 ==================
+     ATT CREATION TIME/DATE:   0 00:00:00.00
+
+     TEXT:
+     Unable to convert ARMS_EXT: [ATTACH.D28]MAIL497304067.126 to ASCII,
+      The following is a HEX DUMP:
+
+     FF575043EFOF0000010A020100000002050000001725000000020000169DD61AC3BC081BADE838
+     1B93EBA48C396FD100270BB7C856D524E3A80C3656CB15216C915A2ED6F30BD779CD1D09198C36
+
+                                                                                   Automated Records Management System
+                                                                                           Hex-Dump Conversion
+
+                        THE PRESIDENT CALLS FOR PASSAGE OF EQUAL PAY
+                              LEGISLA nON AND RELEASES COUNCIL
+                        OF ECONOMIC ADVISERS' REPORT ON THE WAGE GAP
+                                          June 10, 1998
+
+
+          Today the President will commemorate the thirty-fifth anniversary of President Kennedy's
+          signing of the Equal Pay Act and will urge passage of legislation to strengthen the laws that
+          prohibit wage discrimination against women. In addition, the President will release a Council of
+          Economic Advisers' (CEA) report on the gender wage gap, and announce a Department of Labor
+          report that provides a historical perspective of the wage gap. The President will be joined by Dr.
+          Dorothy Height, President Emeritus ofthe National Council of Negro Women, who was at the
+          signing ceremony of the Equal Pay Act in 1963.
+
+          Legislation to Improve Enforcement of Wage Discrimination Laws. The President will call
+          on Congress to pass legislation, introduced by Senator Daschle and Congresswoman DeLauro, to
+          strengthen laws prohibiting wage discrimination. The highlights of this legislation include:
+
+          ·      Increased Penalties for the Equal Pay Act (EPA). The legislation adds full compensatory
+                 and punitive damages as remedies, in addition to the liquidated damages and back pay
+                 awards currently available under the EPA. This proposal would put gender-based wage
+                 discrimination on equal footing with wage discrimination based on race or ethnicity, for
+                 which uncapped compensatory and punitive damages are already available.
+
+          ·      Non-retaliation provision. The bill would prohibit employers from punishing employees
+                 for sharing salary information with their co-workers. Currently, employers are free to
+                 take action against employees who share wage information. Without the ability to learn
+                 about wage disparities, it is difficult for women to evaluate whether there is wage
+                 discrimination.
+
+          ·      Training, Research, and Pay Equity Award. The Daschle-DeLauro bill provides for
+                 increased training for Equal Employment Opportunity Commission employees on matters
+                 involving the discrimination of wages; research on discrimination in the payment of
+                 wages; and the establishment of the "The National Award for Pay Equity in the
+                 Workplace," which will recognize and promote the achievements of employers that
+                 have made strides to eliminate pay disparities.
+
+          CEA Report on the Wage Gap. The President will announce a report by the CEA that shows
+          that a significant gap between the wages of women and men remains today although it has
+          narrowed substantially since the signing of the Equal Pay Act.
+
+          ·      Gender Pay Gap Has Closed. In 1963, the year that the Equal Pay Act was signed,
+                 women earned 58 cents for every dollar men earned. Today women earn about 75 cents
+                 for every dollar men earn, a 29 percent increase over the 1963 levels.
+                                                                                     Hex-Dump Conversion
+    ·      But Discrimination Still Exists. Despite these gains, there continues to be evidence of .
+           labor market discrimination and a significant gap between men's and women's wages,
+           even after accounting for factors such as educational attainment, work experience, and
+           occupational choice.
+
+    Department of Labor Report Provides a Historical Perspective on the Wage Gap. The
+    President also will announce a Department of Labor report that provides a thirty-five year
+    perspective on the wage gap. This report focuses on three periods since the signing of the Equal
+    Pay Act -- 1960-1975, 1975-1985, and 1985-1997 -- and highlights the increased participation of
+    women in the labor force, the changing occupations of women, and the emergence of more
+    women-owned businesses.
+
+    ·      Women's Labor Force Participation Has Increased. Women's labor force participation
+           rate rose from 37.7 percent in 1960 to almost 60 percent in 1997.
+
+    ·      Increased Contributions by Women to Family Income. Between 1995 and 1996 alone,
+           the number of families with two working parents increased by nearly half a million,
+           making equal pay even more of a family issue. In these years, both parents were
+           employed in 63.9 percent of married-couple families with children 18 and younger, while
+           28.2 percent ofthese families had an employed father and homemaker mother.
+
+

@@ -1,0 +1,96 @@
+RECORD TYPE: PRESIDENTIAL      (NOTES MAIL)
+
+CREATOR: Diana Fortuna ( CN=Diana Fortuna/OU=OPD/O=EOP [ OPD ) ).
+
+CREATION DATE/TIME: 28-MAR-1997 17:58:49.00
+
+SUBJECT:   Add-on for weekly
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ) )
+READ: UNKNOWN
+
+CC: Cynthia A. Rice ( CN=cynthia A. Rice/OU=OPD/O=EOP @ EOP [ OPD ) )
+READ:UNKNOWN
+
+TEXT:
+Here is an item for the weekly on the bucket, in case you want it.
+
+Sorry about this, but the college/work requirement item is really too
+complex for the weekly, I think -- and I will get you a draft of a memo by
+Monday morning.
+
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D53)MAIL43674668G.016 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504370040000010A02010000000205000000500F000000020000EE6981BEBA03AC4628E5D4
+7681832F10B05BE1C9BFF5E77257D64117D209AB34D4CFE3642033C53FE2C7B796FC036190F402
+F6E4552038BBCC35B78DC4D5F5B9950BF60D1C203CEDA9AA04B7AE94FDD57622F0207D6B7FB42E
+8ACA05795D3C737E44C9D5529B4B3B22FE094708B4BFAACD34AC1D235965C6A783FAA8C9A954C4
+E0380312B1E1B0230FOD509F117B0318531F2415C62CD09940443DBD2633D7AF07EDFFA8B9D7B6
+AC54043D097D4C799B072C814D2E4E795EF708EB6B58B5561A24E7AEB6890D24ED07E674633825
+F194C5134F9E621AF030B60A532CCE80D2D5454A3B4BB95998CAB2F5F8E021B48A1263D7C3CD1F
+AF9E25EF6C4F9FA03EAD2BF4726ACA111C87486E24420CDC136040720B077D6B43DE366ECA9DA2
+99DOD4F95DDF07DA3DF1912C63A6BDD9D5B384F2242B8B59FBC65B7F52FOOE8652C62FOA3C9B87
+C02A49AC8FBBF9F8056341339624B83BD40B32CAC3CD6DF4226EDFEDC1761D43965F39A9D32DA5
+4F2DA81FD278D385448DFC35CEE33D348FBEEOF54B935B08E681B194892E7600ACA976BCE4F51D
+DAEBFBC3CF865E0268FBEDOE3690FOB936A85928FE24AC8D1E3ABCF22EEOOEF93CCOA009240A51
+7A6D051E54CA99AE6CF05C6F06ED16B755C51C05DBC7DEF88EBBAO773A1FCFC502CC1E3A05EA5D
+5A3F2B9C1E02000900000000000000000000000823010000000B0100007E020000005501000000
+4E0000008903000009250100000006000000D70300000B300200000028000000DD030000087701
+000000400000000504000008340100000014000000450400000802010000000F00000059040000
+080501000000080000006804000000984C006F00630061006C002000430061006E006F006E0020
+004C00420050002D00340000000000000000000000000000000000000000000000000000000000
+00000000000000000000000057494E53504F4F4COOOOOOOOOOE0019001C80090019001C800E001
+900130000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000005E006FOE2800D61EC30F3908000011090000005AOOOB01008B143600540069006D0065
+00730020004E0065007700200052006F006D0061006E00200052006500670075006C0061007200
+000000000000000001000200580201000000040028000000000000000000000000000000000000
+00011202002400A1000000A10000000A0000002902010002002A02010049002B02030002002C02
+010045002D02010002002E02020045002F02010002003002010049003102010002003202030065
+8168654C22000000006C0065000000E0301300000008337C007800000200003202000003010004
+0002000000DDOA10008301040003000200211000DDDDOBOB00030000040BOODDF1023202F19BF1
+033202F154686973806973737565806D6179806E6F7480626580746F74616C6C7980726970652C
+8062757480686572658069748069738028616E64806974F01C04FO73806C6F6E6780616E648063
+                                                            Automated Records Management System
+                                                                    Hex-DiJmp Conversion
+
+    This issue may not be totally ripe, but here it is (and it's long and confusing, I know):
+
+    Preserving Medicaid Coverage for Legal Immigrants Losing SSI -- We have been exploring how
+    to preserve Medicaid coverage for legal immigrants who lose SSI. The welfare law requires SSI
+    cut-offs for most legal immigrants in July and August. For Medicaid, the welfare law allows
+    states to decide whether to continue coverage for legal immigrants. It is heartening to note that,
+    to date, no states have opted to drop legal immigrants from Medicaid.
+
+    Nevertheless, a problem remains because SSI automatically entitles you to Medicaid in most
+    states. A person losing SSI may qualify for Medicaid through another route -- as a pregnant
+    woman, very poor with children, medically needy -- or may not, depending on the individual and
+    the features of that state's Medicaid program. Texas and Florida are particularly hard pressed on
+    this issue: Texas has no medically needy program, while Florida's is very "bare bones." Either
+    state could remedy the problem by getting the state legislature to add a new Medicaid state
+    option, but they are reluctant to do so because it would be difficult to pass such a measure or to
+    limit it to legal immigrants.
+
+    We have come to an agreement on a partial solution: HHS will issue a change in its definition
+    of a medically needy program that will preserve Medicaid for 31,000 people in seven states. In
+    addition, HHS will issue a regulation to delay for one year the date when people lose coverage,
+    so that H.HS has time to ensure that its interpretation of the law is correct. This would preserve
+    coverage for 160,000 people for one year. (You should know that advocacy groups are arguing
+    for a complete solution, but HHS is convinced that this is not legally permissible.)
+
+    The cost of both items is $1.4 billion over five years. Virtually all of this cost is already in our
+    budget, as part of our legislative proposal to preserve SSI and Medicaid for disabled legal
+    immigrants. We plan to announce this in mid-April. OMB argues that our announcement
+    should be low-profile because they fear we will face criticism on budget and policy grounds.
+    Finally, you should know that this announcement could dilute some of the momentum for our
+    legal immigrant "fix" package, because we will have solved (for one year) one of the most
+    sensational situations -- people being evicted from nursing homes.
+
+

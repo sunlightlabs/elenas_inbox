@@ -1,0 +1,145 @@
+     RECORD TYPE: PRESIDENTIAL     (NOTES MAIL)
+
+     CREATOR: Julie A. Fernandes ( CN=Julie A. Fernandes/OU=OPD/O=EOP [ OPD ] )
+
+     CREATION DATE/TIME:24-FEB-199B 16:12:51.00
+
+     SUBJECT:   HIB memo
+
+     TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+     READ: UNKNOWN
+
+     CC: Laura Emmett      CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO ]   )
+     READ:UNKNOWN
+
+     TEXT:
+     Elena,
+
+     Here is a draft of the HI-B memo.     It incorporates NEC (including Sally)
+     and my comments.
+
+     Julie
+
+     ==================== ATTACHMENT   1 ====================
+     ATT CREATION TIME/DATE:   0 00:00:00.00
+
+     TEXT:
+     Unable to convert ARMS_EXT: [ATTACH.D47] MAIL46755745N. 026 to ASCII,
+      The following is a HEX DUMP:
+
+      FF5750434CODOOOOOI0A0201000000020500000014220000000200004CD2D6B653659C309B3B97
+      3FF549ACICCOC62F31CEE2810941AACF12AOF65BOB6F9402316F18FF479744D430F22BB177AFF6
+      3C4098BE7E17D560FE9555221021EA33DB16AD66AD5BBOE35619376A5B49F5ABCEF5765DA76253
+      AF1512F670FC9B5C397593F70BD95F077A2ACIE03D59D8C55BF5BBCE4C5907A2FOF20E35DFII0C
+      6486BOBB2373951B5F8369BA9A7ABE14EOB961F9C61E9FOA49E605D312E8732ED514A4EAC7B370
+      09FAF3439EB696A9BB664FF647C52657EFC5667C4BBDAIDFABF7DAB12B7237601276E774FB6C13
+      67A23DEBIA90E47F86ACIB4BD2CEBFDIEOC06E39919E42537223C670BE85355C7195C3A6F5B3BA
+      85320BEDC9DFB9E2CIBE5DA751FAD5DOOE6DA4B62B31A5747C47C4076AAAC3E6D4FD23B3E66901
+      5BFEB969F2BD13A2B2FC6630A95288424FABEA2977AF269DBD2B93AOCB7DB54D3EAB4FD1376D2B
+      907E07537E7E823A67819BCD768CCC991060B86BBC3D290723AB0449BBB3907A6F07BC913BF17E
+      77F45443624812FB2E66COODBF6225A3591EE771265800BEDB5FB79BB35C604555FAAIE4A24F4E
+      5CF3A22B9EB5BF359FB6FB4F61DA621BA393B897AI0CA39B3F96A5D199D62BA7D9DIEEC2AAED63
+      651A057B7700B6E7C15BC6CC3D64BFF4654E24CA6B716B63665B64F2621D960463C35E116EFDIO
+      CB9A2C9A6D0200AI00000000000000000000000B23010000000BOI0000CEOA0000005502000000
+      4EOOOOOOD90B000009250100000006000000270COOOOOB3002000000280000002DOCOOOOOB7701
+      00000040000000550COOOOOB340100000014000000950COOOOOB02010000000FOOOOOOA90COOOO
+      0055010000004COOOOOOBBOCOOOOOB050100000008000000040DOO000000000000000000000004
+      OD000000000000000000000000040DOOOOOOOOOOOOOOOOOOOOOOOO040DOOOOOOOOOOOOOOOOOOOO
+      0000040D000000000000000000000000040DOOOOOOOOOOOOOOOOOO000000040DOOOOOOOOOOOOOO
+      0000000000040D000000000000000000000000040DOOOOOOOOOOOO000000000000040DOOOOOOOO
+      0000000000000000040D000000000000000000000000040DOOOOOO000000000000000000040DOO
+     .0000000000000000000000040D000000000000000000000000040DOOOOOOOOOOOOOOOOOOOOOOOO
+      040D000000000000000000000000040DOOOOOOOOOOOOOOOOOOOOOO00040DOOOOOOOOOOOOOOOOOO
+      000000040DOOOOOOOOOOOOOOOOOOOOOOD0040DOOOOOOOOOOOOOOOO00000000040DOOOOOOOOOOOO
+      000000000000040D000000000000000000000000040DOOOOOOOOOO00000000000000040DOOOOOO
+      000000000000000000040D000000000000000000000000040DOOOOOOOOOOOOOOOOOOOOOOOOO~OD
+      000000000000000000000000040D00000000000000000000000004ODOOOOOOOOOOOOOOOOOOOOOO
+      00040D000000000000000000000000040DOOOOOOOOOOOOOOOOOOOO0000040DOOOOOOOOOOOOOOOO
+      00000000040D000000000000000000000000040DOOOOOOOOOOOOOO0000000000040DOOOOOOOOOO
+      00000000000000040D000000000000000000000000040DOOOOOOOO0000000000000000040DOOOO
+      00000000000000000000040D000000000000000000000000040DOO000000000000000000000004
+
+
+
+
+                                                                Automated Records Management System
+                                                                Hex-Dump Conversion
+
+     INFORMATION
+
+                                          Draft February 24, 1998
+
+     MEMORANDUM FOR THE PRESIDENT
+
+     FROM:          GENE SPERLING, BRUCE REED
+
+     RE:            ADMINISTRATION POLICY ON SKILLED TEMPORARY FOREIGN
+                    WORKERS
+
+     We are providing you with this informational memo on the "HI-B visa" issue because the New
+     York Times recently ran a story on the basis of a leaked internal Administration options memo,
+     and because this is an important topic to Silicon Valley companies. During your trip to
+     California later this week, you will be interacting with high-tech CEOs and may get asked about
+     this. A suggested Q&A is attached.
+
+     Current U.S. law permits 65,000 HI-B visas each year for skilled (BA or equivalent) temporary
+     foreign workers. The computer and health care industries are the primary users of the HI-B
+     program. The annual 65,000 visa cap was met for the first time in FY 1997. This year, we
+     expect to reach the limit in Mayor June -- several months before the end of the current fiscal
+     year. Accordingly, the cap is likely to become a legislative issue in this session of Congress.
+
+     The information technology (IT) industry, along with Senator Abraham, Representative Zoe
+     Lofgren, and other members of Congress, support either the removal of or a significant increase
+     in the HI-B cap. Unions, other worker organizations, Senator Kennedy, Congressman Dingell,
+     and other members of Congress are likely to oppose any increase.
+
+     A DPCINEC working group with representatives from Labor, Commerce, State, and INS has
+     started to meet to develop Administration policy on:
+
+     1.      Steps we can take to work with industry and institutions of higher education to address
+             the shortage of workers with IT skills;
+
+     2.      Reforms of the H 1-B program (e.g., a prohibition against laying off U.S. workers to
+             replace them with foreign workers); and
+
+     3.      Whether or not to increase the HI-B cap from its current level of 65,000.
+                                                           Hex-Dump Conversion
+
+
+We have tentatively decided that in addressing shortages of workers within the IT industry, we
+should focus on increased training, education and recruitment of American workers -- not on an
+increase in the cap for temporary foreign workers. We intend to initiate a partnership with the
+IT industry to make this happen. We have, in at least one similar context, used such a
+partnership to effectively address perceived labor shortages. We successfully addressed
+concerns about the shortage of shipbuilder workers in Louisiana by bringing together industry,
+labor, and state and local elected officials. Through this partnership, it was ultimately
+determined that the temporary shortage that existed within this industry was 1,000 workers,
+rather than the 10,000 originally claimed.
+
+The interagency group is willing to consider, if necessary, an increase in the HI-B cap as part of
+_an overall package that includes industry commitments to training, education and recruitment and
+reform of the HI-B visa program. However, we do not recommend starting our discussion with
+the cap increase on the table. Moreover, any increase in the HI-B cap (even a 20,000 to 35,000
+increase) is not likely to address either the short or long term problem ofIT worker shortages,
+given the projected growth in demand for workers with IT skills.
+
+Our next step is to meet with high-tech industry executives to develop an "action plan" that
+builds on a series of announcements that the Departments of Commerce, Education and Labor
+made at a January 1998 conference in Berkeley, California.
+
+Q. Mr. President, will your Administration grant more visas to high-skilled foreign
+workers who are in demand by high-tech industries?
+
+We have made no decision on this issue. In reviewing our options, my Administration's first
+priority will be to ensure that American workers have the skills they need to fill these jobs, and
+that they have priority over any foreign workers with similar training. The growing demand for
+workers with high-tech skills shows how critical my agenda for life-long learning is -- HOPE
+scholarships to open the doors of college, tax credits for employer investment in life-long
+learning, and making sure that all of our children are technologically literate.
+
+
+
+
+                                                2
+"
+

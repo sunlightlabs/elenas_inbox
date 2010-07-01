@@ -1,0 +1,217 @@
+      RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+      CREATOR: Leanne A. Shimabukuro ( CN=Leanne A. Shimabukuro/OU=OPD/O=EOP [ OPD ] )
+
+      CREATION DATE/TIME: 8-JUN-1999 13:35:06.00
+
+      SUBJECT:   executive order
+
+      TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+      READ: UNKNOWN
+
+      CC: Jose Cerda III ( CN=Jose Cerda III/OU=OPD/O=EOP @ EOP [ OPD ] )
+      READ: UNKNOWN
+
+      TEXT:
+      DOJ comments -- from both Ricki and Richard Jerome.  Still waiting on
+      Brian Jackson and Treasury.  I bolded their changes and deleted "simply",
+      per your suggestion.
+
+
+
+      ==================== ATTACHMENT   1 ====================
+      ATT CREATION TIME/DATE:   0 00:00:00.00
+
+      TEXT:
+      Unable to convert ARMS_EXT: [ATTACH.D20]ARMS26909256M.136 to ASCII,
+       The following is a HEX DUMP:
+
+      FF57504324070000010A020100000002050000000C280000000200003159FC285FD22199D1398D
+      17A9A4BDAF242F6AADD60EAA32AEE10DF199966D59341926BE7BE1A9AB6623089E87425F7613B4
+      BB0847A85C72078BFFE39F7DBBCAB2AB08B9EOAOE91FF136A24C8DDFCA75D1923CA622C5ECCDBD
+      162BFBE43758F7B1ACAE4676CEFDC42B31787EB86201CB2AA73D1D13311789D0004FB9EECE4FF1
+      E2C6A8210F1036F244DAF436D5B2E6A81086A141DE107D56ACEEAC3DEFA849408142BC7BAEA6E6
+      B5C6C5431A715361F1F80788A6F338D6EE784C357279AE06999FCOF12954BBA6A51EAA026431E4
+      6482FE16601D1E2DF4D82C2AE4C39C2EA08386408DE4B6314E4D2E9E1BA690FF279C86E7E159A1
+      161A6936E9D6A556211EFE47831516CF571B96114734B34719E6F32AD2A42A6472546E2ACDAD8B
+      A8778DOF5F525CC40E55A02D25849363D062EEF820D14BE9079737E9D253CB6462E21ED8700DD1
+      66DF9E5E977F37A76BBF3032724DEDDEE54FOF7ED65449272200822DC9A0894597A9B5275B05A4
+      4E64EE903CC79E89A7C1D7ADBDFB6F3E02A4FDF5E065BFBA81842EA18348FC69B3COA4FB8AB998
+      32DDEDF5FA6499B3251AC4DB5F3157EC165236B3AFFBB70E22AD53F89F19BD0763F4E337932F72
+      2705E8EE11BD59D7FB7655133CF08E1C2D0078B9EE248A23CF175C91D14D8367019491BB9D6336
+      C5C8CAC4FC02001600000000000000000000000055040000003AOO000034030000092501000000
+      060000006E0300000B30010000009A00000074030000080201000000100000000E040000086E01
+      000000AD0000001E0400000B30030000004COOOOOOCB0400000805010000000800000017050000
+      087701000000400000001F050000083401000000140000005F0500000810010000000200000073
+      050000096D01000000170000007505"00000608010000002DOOOOO08C050000081103000000C600
+      0000B90500000B3001000000670000007F060000081D0100000000000000E60600000000000000
+      0000000000E606000000000000000000000000E606000000000000000000000000E60600000000
+                              DRAFT           Hex-Dump Conversion
+                               6/7/99
+
+
+                     Executive Order No.   *****
+         Fairness in Law Enforcement:   Collection of Data
+
+We all must work together to build the trust of all Americans in
+law enforcement. We have great confidence in our federal law
+enforcement officers and know that they strive to uphold the best
+principles of law enforcement in our democratic society.
+
+Stopping citizens on the basis of their race is not effective law
+enforcement policy, and it is inconsistent with our commitment to
+equal protection under the law for all persons. To begin addressing
+the problem of racial profiling, it is essential to collect more
+data at all levels of law enforcement to better define the scope
+of the problem. Tracking the race, ethnicity, and gender of those
+who are stopped or searched by law enforcement will help to determine
+where and whether problems exist, and guide the development of
+appropriate solutions.
+
+WHEREAS the principles on which our Government is based require the
+fair administration of law enforcement activities throughout the
+Federal establishment, without discrimination because of race,
+ethnicity, or gender; and
+
+WHEREAS traffic stops, searches, and examinations of persons entering
+the jurisdiction of the United States from other countries are vital
+to federal law enforcement and to maintaining the integrity of our
+borders;
+
+WHEREAS the systematic collection of statistics and information
+regarding federal law enforcement activities can increase the
+fairness of our law enforcement practices;
+
+NOW, THEREFORE, by the authority vested in me as President by the
+Constitution and laws of the United States of America, including
+[specific statutes provided by WH/OMB], it is hereby ordered as
+follows:
+
+
+Section 1.   Data Collection Field Tests
+
+a.  The head of any department listed in subsection (b) shall be
+responsible for designing and implementing a system to collect and
+report statistics consistent with the provisions of this section
+for law enforcement activities in his or her department.
+                                                  Hex-Dump Conversion
+
+b.   The departments covered by subsection (a) are:
+      (l)the Department of Justice,
+      (2)the Department of the Treasury,
+      (3)the Department of Transportation,
+      (4)the Department of the Interior, and
+      (5) any other department so designated by the President.
+
+c. Within 120 days of the date of this order, each Secretary in
+subsection (b) (2)-(5) shall develop, in consultation with the
+Attorney General, a proposal for a system ot data collection for
+his or her department and an implementation plan for a field test
+of that system.   The proposal shall include all elements for the
+system field test, including the law enforcement agency components,
+sites, data sets, training, and other methods and procedures to be
+included in the field testing.
+
+d. The data collected shall, to the extent practicable, be
+sufficiently detailed to permit an analysis of actions relevant to
+the activities of the included law enforcement agencies by race,
+ethnicy, or gender.   Such actions may include traffic stops,
+pedestrian stops, a more extensive inspection or interview than that
+customarily conducted with entrants to the United States, requests
+for consent to search, or warrantless searches.
+
+
+Section 2.  Implementation and Reporting
+a.  Each agency subject to this order shall begin the field test
+of their data collection system within 60 days of finalizing the
+components, sites, and data elements to be included pursuant to
+subsection (1) (c) .
+
+b.  Report to the President on Policies and Practices.     Within 90
+days of the date of this executive order, each department in
+subsection l(b) shall provide a report to the President on its
+training programs, policies, and practices regarding the use of race,
+ethnicity and gender in its law enforcement activities, along with
+recommendations for improving those programs, policies and
+practices.
+
+c. Six Month Reports.
+      (1) Each agency in subsection (b) (2) - (5) shall report a summary
+of the statistics and information collected during the first six
+months of its field test to the Attorney General within 90 days of
+the end of the first six month period. The report shall include
+a summary of any civilian complaints received alleging bias based
+on the race, ethnici ty or gender of the complainint in law enforcement
+activities, the agency's process for investigating and resolving
+such complaints, and the outcomes of any such investigations.
+                                               Hex-Dump Conversion
+
+      (2) Within 90 days of receiving    the reports required by
+subsection (a), the Attorney General    shall report to the President
+on the implementation and results of     the field tests conducted by
+the Department of Justice and of the     other agencies.
+
+c. One Year Report.
+      (1) Each agency in subsection (b) (2)-(5) shall provide an
+evaluation of its field test, including a summary of the statistics
+and information collected during the first year and the costs of
+the field testing to the Attorney General within 90 days of the end
+of the first year period.  The report shall include an implementation
+plan for extending the system to other components and locations in
+his or her agency.  The report shall include a summary of any civilian
+complaints of racial, ethnic, or gender bias in law enforcement
+activities, of the agency's process for investigating and resolving
+such complaints, and of the outcomes of any such investigations.
+
+      (2) Within 90 days of receiving the first year reports, the
+Attorney General shall report to the President on the implementation
+and results of the data collection field tests. The report shall
+include recommendations on the implementation plans submitted by
+the departments covered by subsection (b) and recommendations on
+initiating field tests in other departments.    The report also shall
+include recommendations on methods to improve the fair administration
+of law enforcement activities and to identify and prevent bias and
+stereotyping based on race, ethnicity, or gender.
+
+
+Section 3.   Privacy and Confidentiality
+
+Data acquired pursuant to this order shall be used only for research
+or statistical purposes and may not contain any information that
+may reveal the identity of any individual.
+
+Section 4.   General Provisions
+
+ a. Costs. Unless otherwise provided by law, Federal agencies shall
+assume the financial costs of complying with this order.
+
+ b. General. Federal agencies shall implement this order consistent
+with, and to the extent permitted by, existing law.
+
+ c. Judicial Review. This order is intended only to improve the
+internal management of the executive branch and is not intended to,
+nor does it create any right, benefit, or trust responsibility,
+substantive or procedural, enforceable at law or equity by a party
+against the United States, its agencies, its officers, or any person.
+This order shall not be construed to create any right to judicial
+
+                                  3
+
+
+
+    review involving the compliance or noncompliance of the United
+    States, its agencies, its officers, or any other person with this
+    order.
+
+
+
+
+                                                Automated Records Management System
+                                                Hex-Dump Conversion
+
+
+
+
+                                   4
+
+

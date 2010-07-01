@@ -1,0 +1,32 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Julie A. Fernandes ( CN=Julie A. Fernandes/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME: 7-DEC-1997 16:00:45.00
+
+SUBJECT:   mini update
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO]    )
+READ: UNKNOWN
+
+TEXT:
+Unable to convert ARMS_EXT: [MESSAGE.D76]MAIL403385042.316
+The following is a HEX dump of the file:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D76]MAIL403385043.316 to ASCII,
+ The following is a HEX DUMP:
+
+================== END ATTACHMENT    1 ==================
+
+
+
+
+                             )
+
+

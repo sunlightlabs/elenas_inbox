@@ -1,0 +1,52 @@
+ RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Mary L. Smith ( CN;Mary L. Smith/OU;OPD/O;EOP [ OPD ] )
+
+ CREATION DATE/TIME:23-APR-1998 14:30:40.00
+
+ SUBJECT:   Weekly Item on Announcement to improve safety of fresh juices
+
+TO: Thomas L. Freedman ( CN;Thomas L. Freedman/OU;OPD/O;EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN;Elena Kagan/OU;OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU;WHO/O=EOP @ EOP [ WHO ] )
+READ:UNKNOWN
+
+TEXT:
+Here is a draft weekly item on the new FDA rules to improve the safety of
+fresh fruit and vegetable JUlces. Mary =;================== ATTACHMENT        1 =======
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D89]MAIL425046217.126 to ASCII,
+ The following is a HEX DUMP:
+
+FF5750437E040000010A020100000002050000003DOD0000000200002F40148B08CCE862660217
+A609685C7A1D3B9C6F241C5A8E904E2295404962040F8FE4F1324E32E081189B9943374DD7A36A
+                                                                                     Hex-Dump Conversion
+
+
+Administration Announced New Rules To Improve Safety of Juice. On Sunday, we leaked
+the announcement of two proposed regulations by the Food and Drug Administration (FDA) to
+improve the safety of fruit and vegetable juices. The first regulation would require that all fruit
+and vegetable juice processors implement a Hazard Analysis and Critical Control Point
+(HACCP) system which will ensure that processors take extra steps to reduce the numbers of
+microorganisms that may be in their products. Retailers of packaged juice, as well as processors
+who sell less than 40,000 gallons of fresh juice per year, would be exempt from this requirement.
+ The second proposed rule would require any packaged untreated juice to be labeled with a
+warning statement advising consumers of the potential risks of juice that has not been processed
+to eliminate dangerous bacteria. This requirement will apply to retail and other processors who
+package untreated juice for consumption off-site --such as grocery stores that squeeze and bottle
+juice for home use. But retail sellers of juice for consumption on-site --such as restaurants and
+children's lemonade stands --will be exempt from this labeling requirement. Although 98
+percent of juice sold in the United States is pasteurized, the FDA estimates that there are up to
+48,000 juice-related illnesses per year. In 1996, one sixteen-month-old girl died, and at least 66
+others were sickened in the western United States and Canada from drinking untreated Odwalla
+brand apple juice. The Administration received three days of positive press on this
+announcement, including coverage on ABC News, CNN, every major newspaper, and a lead
+story on CBS News on Tuesday.
+
+

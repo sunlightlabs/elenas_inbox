@@ -1,0 +1,384 @@
+  RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+  CREATOR: Stuart M. Schear ( CN=Stuart M. Schear/OU=WHO/O=EOP [ WHO 1 )
+
+  CREATION DATE/TIME: 4-JUN-1997 17:47:05.00
+
+  SUBJECT:   WEEKEND TV OUTLOOK
+
+  TO: Brian J. Johnson ( CN=Brian J. Johnson/OU=CEQ/O=EOP @ EOP [ CEQ 1 )
+  READ: UNKNOWN
+
+  TO: ECHAVESTE M     ECHAVESTE M @ A1 @ CD @ LNGTWY [ UNKNOWN 1 ) (WHO)
+  READ: UNKNOWN
+
+  TO: FALK_D ( FALK D @ A1 @ CD @ LNGTWY [ UNKNOWN 1 )   (WHO)
+  READ: UNKNOWN
+
+  TO: Ora Theard ( CN=Ora Theard/OU=WHO/O=EOP @ EOP [ WHO 1 )
+  READ: UNKNOWN
+
+  TO: Evan Ryan ( CN=Evan Ryan/OU=WHO/O=EOP @ EOP [ WHO 1 )
+  READ: UNKNOWN
+
+  TO: Roger V. Salazar ( CN=Roger V. Salazar/O=OVP @ OVP [ UNKNOWN 1 )
+  READ: UNKNOWN
+
+  TO: Megan C. Moloney     CN=Megan C. Moloney/OU=WHO/O=EOP @ EOP [ WHO 1 )
+  READ:UNKNOWN
+
+  TO: Laura S. Marcus     CN=Laura S. Marcus/OU=WHO/O=EOP @ EOP [ WHO 1 )
+  READ: UNKNOWN
+
+  TO: Christopher J. Lavery ( CN=Christopher J. Lavery/OU=WHO/O=EOP @ EOP [ WHO 1 )
+  READ:UNKNOWN
+
+  TO: Cynthia M. Jasso-Rotunno ( CN=Cynthia M. Jasso-Rotunno/OU=WHO/O=EOP @ EOP [ WHO
+  READ:UNKNOWN
+
+  TO: Todd Stern ( CN=Todd Stern/OU=WHO/O=EOP @ EOP [ WHO 1 )
+  READ:UNKNOWN
+
+  TO: Beverly J. Barnes ( CN=Beverly J. Barnes/OU=WHO/O=EOP @ EOP [ WHO 1 )
+  READ:UNKNOWN
+
+  TO: Sara M. Latham ( CN=Sara M. Latham/OU=WHO/O=EOP @ EOP [ WHO 1 )
+  READ: UNKNOWN
+
+  TO: GREEN MG     GREEN MG @ A1 @ CD @ LNGTWY [ UNKNOWN 1 ) (OPD)
+  READ: UNKNOWN
+
+  TO: MCHUGH L     MCHUGH L @ A1 @ CD @ LNGTWY [ UNKNOWN 1 ) (WHO)
+  READ:UNKNOWN
+
+  TO: KAGAN_E ( KAGAN E @ A1 @ CD @ LNGTWY [ UNKNOWN 1 )   (OPD)
+  READ: UNKNOWN
+
+  TO: JENNINGS C     JENNINGS C @ A1 @ CD @ LNGTWY [ UNKNOWN 1 ) (WHO)
+  READ:UNKNOWN
+
+  TO: BURKE D     BURKE D @ A1 @ CD @ LNGTWY [ UNKNOWN 1 ) (OPD)
+
+
+  READ: UNKNOWN
+
+  TO: GOLDBERG JS     GOLDBERG JS @ Al @ CD @ LNGTWY [ UNKNOWN 1 )   (WHO)
+  READ: UNKNOWN
+
+  TO: Julia M. Payne ( CN=Julia M. Payne/O=OVP @ OVP [ UNKNOWN 1 )
+  READ: UNKNOWN
+
+  TO: Ron Klain ( CN=Ron Klain/O=OVP @ OVP [ UNKNOWN 1 )
+  READ: UNKNOWN
+
+  TO: Sally J. Aman ( CN=Sally J. Aman/O=OVP @ OVP [ UNKNOWN 1 )
+  READ: UNKNOWN
+
+  TO: Peter G. Umhofer ( CN=Peter G. Umhofer/OU=CEQ/O=EOP @ EOP [ CEQ 1 )
+  READ:UNKNOWN
+
+  TO: Barry J. Toiv ( CN=Barry J. Toiv/OU=WHO/O=EOP @ EOP [ WHO 1 )
+  READ:UNKNOWN
+
+  TO: Darby E. Stott ( CN=Darby E. Stott/OU=WHO/O=EOP @ EOP [ WHO 1 )
+  READ:UNKNOWN
+
+  TO: Wendy Smith ( CN=Wendy Smith/OU=WHO/O=EOP @ EOP [ WHO 1 )
+  READ: UNKNOWN
+
+  TO: Stuart M. Schear ( CN=Stuart M. Schear/OU=WHO/O=EOP @ EOP [ WHO 1 )
+  READ: UNKNOWN
+
+  TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD 1 )
+  READ: UNKNOWN
+
+  TO: Karen A. POpp ( CN=Karen A. Popp/OU=WHO/O=EOP @ EOP [ WHO 1 )
+  READ: UNKNOWN
+
+  TO: Kevin S. Moran ( CN=Kevin S. Moran/OU=WHO/O=EOP @ EOP [ WHO 1 )
+  READ:UNKNOWN
+
+  TO: Anne E. McGuire ( CN=Anne E. McGuire/OU=WHO/O=EOP @ EOP [ WHO 1 )
+  READ: UNKNOWN
+
+  TO: Sylvia M. Mathews ( CN=Sylvia M. Mathews/OU=WHO/O=EOP @ EOP [ WHO 1 )
+  READ:UNKNOWN
+
+  TO: Gordon Li ( CN=Gordon Li/OU=WHO/O=EOP @ EOP [ WHO 1 )
+  READ: UNKNOWN
+
+  TO: G N. Lattimore ( CN=G N. Lattimore/OU=WHO/O=EOP @ EOP [ WHO 1 )
+  READ: UNKNOWN
+
+  TO: Angus S. King ( CN=Angus S. King/OU=WHO/O=EOP @ EOP [ WHO 1 )
+  READ: UNKNOWN
+
+  TO: Mary A. Dixon ( CN=Mary A. Dixon/OU=WHO/O=EOP @ EOP [ WHO 1 )
+  READ:UNKNOWN
+
+  TO: Kathryn o. Higgins ( CN=Kathryn O. Higgins/OU=WHO/O=EOP @ EOP [ WHO 1 )
+  READ: UNKNOWN
+
+  TO: Lawrence J. Haas ( CN=Lawrence J. Haas/OU=OMB/O=EOP @ EOP [ OMB 1 )
+
+
+READ: UNKNOWN
+
+TO: Julia R. Green ( CN=Julia R. Green/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Mary E. Glynn ( CN=Mary E. Glynn/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Karen E. Finney ( CN=Karen E. Finney/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Rahm I. Emanuel ( CN=Rahm I. Emanuel/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Michelle Crisci ( CN=Michelle Crisci/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Marsha E. Berry ( CN=Marsha E. Berry/OU=WHO/O=EOP @ EOP [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Donald A. Baer ( CN=Donald A. Baer/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Lori L. Anderson ( CN=Lori L. Anderson/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: TARMEY M    TARMEY M @ Al @ CD @ LNGTWY [ UNKNOWN 1 )   (WHO)
+READ: UNKNOWN
+
+TO: SMITH B2    SMITH B2 @ Al @ CD @ LNGTWY [ UNKNOWN 1 )   (WHO)
+READ: UNKNOWN
+
+TO: Thomas D. Janenda ( CN=Thomas D. Janenda/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Charles F. Ruff   ( CN=Charles F. Ruff/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Jessica B. Vogelson ( CN=Jessica B. Vogelson/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Jonathan Murchinson ( CN=Jonathan Murchinson/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Joseph P. Lockhart ( CN=Joseph P. Lockhart/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Craig T. Smith ( CN=Craig T. Smith/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Odetta S. Walker ( CN=Odetta S. Walker/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Kathleen M. Wallman ( CN=Kathleen M. Wallman/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Ann F. Lewis ( CN=Ann F. Lewis/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Brenda M. Anders ( CN=Brenda M. Anders/OU=WHO/O=EOP @ EOP [ WHO 1 )
+
+
+READ: UNKNOWN
+
+TO: MAPLE_D ( MAPLE D @ Al @ CD @ LNGTWY [ UNKNOWN 1 ) (DON)
+READ: UNKNOWN
+
+TO: REED_B ( REED B @ Al @ CD @ LNGTWY [ UNKNOWN 1 )        (OPD)
+READ:UNKNOWN
+
+TO: MAYS_C ( MAYS C @ Al @ CD @ LNGTWY [ UNKNOWN 1 )        (OPD)
+READ: UNKNOWN
+
+TO: JOLIN_M ( JOLIN M @ Al @ CD @ LNGTWY [ UNKNOWN 1 ) (WHO)
+READ: UNKNOWN
+
+TO: HAAS_L ( HAAS L @ Al @ CD @ LNGTWY [ UNKNOWN 1 )        (OMB)
+READ: UNKNOWN
+
+TO: JOHNSON DT    JOHNSON DT @ Al @ CD @ LNGTWY [ UNKNOWN 1 )       (NSC)
+READ: UNKNOWN
+
+TO: Virginia M. Terzano ( CN=Virginia M. Terzano/O=OVP @ OVP [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Heidi Kukis     CN=Heidi Kukis/O=OVP @ OVP [ UNKNOWN 1 )
+READ:UNKNOWN
+
+TO: Joseph W. Cerrell ( CN=Joseph W. Cerrell/O=OVP @ OVP [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Dag Vega ( CN=Dag Vega/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: June G. Turner ( CN=June G. Turner /OU=WHO/O.=EOP   @   EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Terri J. Tingen ( CN=Terri J. Tingen/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Douglas B. Sosnik ( CN=Douglas B. Sosnik/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Laura D. Schwartz ( CN=Laura D. Schwartz/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Steven J. Ronnel ( CN=Steven J. Ronnel/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Victoria Radd ( cN=Victoria Radd/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: John Podesta ( CN=John Podesta/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Cheryl D. Mills ( CN=Cheryl D. Mills/OU=WHO/O=EOP @ EOP [ WHO 1
+READ: UNKNOWN
+
+TO: April K. Mellody ( CN=April K. Mellody/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Julie E. Mason ( CN=Julie E. Mason/OU=WHO/O=EOP @ EOP [ WHO 1 )
+
+
+READ: UNKNOWN
+
+TO: Patricia F. Lewis ( CN=Patricia F. Lewis/OU=WHO/O=EOP @ EOP [ WHO]            )
+READ: UNKNOWN
+
+TO: Karin Kullman ( CN=Karin Kullman/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: John L. Hilley ( CN=John L. Hilley/OU=WHO/O=EOP @ EOP [ WHO]      )
+READ: UNKNOWN
+
+TO: Nancy V. Hernreich ( CN=Nancy V. Hernreich/OU=WHO/O=EOP @ EOP [ WHO]              )
+READ:UNKNOWN
+
+TO: John A. Gribben ( CN=John A. Gribben/OU=OMB/O=EOP @ EOP [ OMB ] )
+READ:UNKNOWN
+
+TO: Adam W. Goldberg ( CN=Adam W. Goldberg/OU=WHO/O=EOP @ EOP [ WHO]          )
+READ: UNKNOWN
+
+TO: Jeremy M. Gaines ( CN=Jeremy M. Gaines/OU=WHO/O=EOP @ EOP [ WHO]          )
+READ: UNKNOWN
+
+TO: Paul K. Engskov ( CN=Paul K. Engskov/OU=WHO/O=EOP @ EOP [ WHO]        )
+READ: UNKNOWN
+
+TO: Lanny J. Davis ( CN=Lanny J. Davis/OU=WHO/O=EOP @ EOP [ WHO]      )
+READ: UNKNOWN
+
+TO: Sandra L. Bublick Max ( CN=Sandra L. Bublick Max/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: David S. Beaubaire ( CN=David S. Beaubaire/OU=WHO/O=EOP @ EOP [ WHO]              )
+READ: UNKNOWN
+
+TO: Eli G. Attie ( CN=Eli G. Attie/OU=WHO/O=EOP @ EOP [ WHO]    )
+READ: UNKNOWN
+
+TO: Michael D. McCurry ( CN=Michael D. McCurry/OU=WHO/O=EOP @ EOP [ WHO]              )
+READ: UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D77]MAIL48604645B.116 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043FF030000010A0201000000020500000023110000000200002E14FE2B4F3358924A87EF
+7A40E90CF1AA30C9E2199102FADEA5813BC1E32C276A59F1B679F29DDF557910E2BEEAC1D9CF1C
+C042E8B5FE687230E71FE552059D87DAB1D3442695FA658ECE74BF58708BAFD88F464A26048312
+F1423E2721EC58306D76ADA13DOF76732BEEEE180D56D2411A34AE455A23A407F2200125AC3F81
+9EA4AD102BD49A62616AFB891F2563C7CF95D90FB7759682F944822lE24334D19F1FEA3120A018
+F42E3622602EOA76F44834270946BD57F83B6E8AB7A8FDF32647A874D01El0EC6C6D1558F507B8
+5139D8A5EE865BA33CA93C37FD378535EB7060CECE69CB12011316D3A853D921F9A7AD1E42B553
+831CD3D69AC7507C73ED5315A889CD088A4E16C92BB0949A28F500EA517952EBEA046931B835CO
+
+MEMORANDUM TO MIKE MCCURRY AND DON BAER
+FROM          STUART SCHEAR
+SUBJECT       WEEKEND TELEVISION OUTLOOK
+COMMENT       CNN HAS FREEH. OTHER WEEKEND SHOWS ARE UNCERTAIN OF
+              TOPICS
+
+
+FRIDAY JUNE 6
+
+WASHINGTON WEEK IN REVIEW
+
+TOpic             TBD
+Guest             TBD
+
+SATURDAY JUNE 7
+
+EVANS & NOVAK (CNN)
+
+Topic             Democratic Party Politics
+Guest             Rep. Dick Gephardt
+
+INSIDE POLITICS WEEKEND (CNN)
+
+Topic             Congressional Politics
+ Guest            TBD
+
+
+SUNDAY JUNE 8
+
+FOX NEWS SUNDAY (FOX)
+
+Topic             Economy
+Guest             Request for Secy. Rubin
+
+TOpic             Death Penalty
+Guest             Request for Gov. Keating
+Guest             TBD
+
+Roundtable        Brit Hume & others TBD
+
+
+FACE THE NATION (CBS)
+
+
+                                       Automated Records Management System
+                                       Hex-Dump Conversion
+Guest             TBD
+Comment           Cloning is possible topic.
+
+
+
+
+MEET (NBC)
+
+Topic             TBD
+Guest             TBD
+
+Roundtable        TBD
+Comment
+
+THIS WEEK (ABC)
+
+Topic             TBD
+Guest             TBD
+
+Roundtable        TBD
+
+LATE EDITION (CNN)
+
+TOpic             FBI Issues
+Guest             Louis Freeh, FBI Director
+
+Roundtable        TBD
+
+

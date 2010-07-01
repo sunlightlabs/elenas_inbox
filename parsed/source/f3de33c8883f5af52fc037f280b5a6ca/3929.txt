@@ -1,0 +1,178 @@
+  RECORD TYPE: PRESIDENTIAL     (NOTES MAIL)
+
+  CREATOR: William R. Kincaid ( cN=william R. Kincaid/OU=OPD/O=EOP [ OPD 1 )
+
+  CREATION DATE/TIME:II-AUG-1997 14:37:34.00
+
+  SUBJECT:   Summary of Johnston County, N.C. Testing Case
+
+  TO: Elena Kagan      CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+  READ: UNKNOWN
+
+  TEXT:
+  For tomorrow's meeting from OCR at ED
+  ---------------------- Forwarded by William R. Kincaid/OPD/EOP on 08/11/97
+  02:21 PM ---------------------------
+
+
+
+          Kelly_Saunders @ ed.gov
+          08/11/97 01:30:00 PM
+  Record Type: Record
+
+  To: William R. Kincaid
+  cc:
+  Subject: Summary of Johnston County, N.C. Testing Case
+
+       Here's more info.     I'll see you tomorrow.
+
+
+                                    Forward Header
+
+  Subject: Summary of Johnston County, N.C. Testing Case
+  Author:  Lilian Dorka
+  Date:    8/11/97 11:43 AM
+
+
+             This is from Roger Mills in Atlanta, about the North
+             Carolina testing case.
+                                    Howie
+             SUMMARY OF JOHNSTON COUNTY, N.C. TESTING CASE
+
+             I.    What are the tests involved?
+
+             They are state-wide tests of the North Carolina Department
+             of Public Instruction. There are two series.   One is called
+             "End-of-Grade Tests, Reading Comprehension and Mathematics."
+             The other is "End-of-Course Tests, Algebra I, Biology,
+             Economic, Legal & Political Systems, English I, U.S.
+             History. "
+
+             II.    How are they implemented?
+
+             The Johnson County Board of Education Policy Code 842,
+             "Student Accountability for Academic Achievement," adopted
+             June 18, 1996, provides in part:
+
+             "Students in grades 3-8 who score at an Achievement Level of
+             less than III during the end of year administration of the
+             End-of-Grade tests in reading or math will be retained."
+
+
+           "Students enrolled in high school courses with state
+           required End-of-Course mUltiple choice tests who meet all
+           other requirements for receiving course credit, will receive
+           credit only if they achieve a grade of 70 or better on the
+           End-of-Course test as determined by the state's scoring
+           program. "
+
+           "Exceptional children enrolled in high school courses will
+           be held to the same standards as all other students who are
+           enrolled for diploma course credit."
+
+           "Limited English Porficiency (LEP) students enrolled in high
+           school courses will be held to the same standards as all
+           other students who are enrolled for diploma course credit."
+
+
+           III. What is wrong with the application of this policy to
+           students?
+
+           Plaintiffs' expert, Richard Jaeger, Director of the Center
+           for Educational Research and Evaluation of the University of
+           North Carolina at Greensboro, states in an affidavit:
+
+           1. There is no evidence the End-of-Grade Tests validly
+           predict the ability of students to succeed the following
+           school grade. The district improperly makes promotion
+           decisions on the basis of a single test score.
+
+           2. The policy's implementation has a statistically
+           significant adverse impact upon minority students. While
+           about 72% of the county's white students pass End-of-Grade
+           tests, only about 44% of its Hispanics and only about 40% of
+           black students do. A similar adverse impact results from
+           administration of the End-of-Course tests.
+
+           3. The procedures used to comput the cut off scores were
+           not documented.
+
+           4. While the State estimated reliability using internal
+           consistency, the use made of the test by the county requires
+           alternate forms of reliability.  Using an alternate form, he
+           estimates that for 1 out of 3 students, the difference
+           between the student's observed test score and his true test
+           score is at least one standard error of measurement. The
+           tests should not be used to retain individual students.
+
+           5. When students are retained, they do not succeed,
+           compounding the problem.
+
+
+           IV.   what is the legal basis for challenging the action?
+
+           A. Title VI
+           The practice violates the regulation implementing Title VI
+           at 34 C:F.R. Section 100.3(b) (2) [criteria or methods of
+           administration having a discriminatory effect] because
+           neither the test content nor the cut off scores have
+           been validated for individual assessment and because less
+           discriminatory alternatives exist for deciding promotion.
+
+
+                 B. Due Process Clause {Substantive}
+                 Use of the test score in determining promotion is not
+                 rationally related to any legitimate or substantial
+                 governmental interest, including the board's purpose of
+                 "insuring student success." The use of the test score as
+                 the sole criterion is arbitrary and unreasonable in
+                 violation of the due process clause of the Fourt.eenth
+                 Amendment.
+
+                 C. Due Process Clause {Procedural}
+                 State law gives students a property interest in promotion
+                 when course performance is satisfactory, and while studnets
+                 have complied with these requirements, they have been
+                 dentied this property interest without adequate notice, or
+                 adequate review procedure, and with a waiver process that is
+                 arbitrarily administered.
+
+                 D. Equal Protection Clause
+                 Students are classified by test score alone, making
+                 distinctions {pass/retain} that have no rational basis and
+                 are unrelated to any legitimate or substantial governmental
+                 interest.
+
+                 E. Section 504
+                 Students with disabilities are not provided reasonable
+                 modifications when the tests are administered.
+
+
+                                                                  --Roger
+
+
+
+       ==================== ATTACHMENT   1 ====================
+       ATT CREATION TIME/DATE:   0 00:00:00.00
+
+       TEXT:
+       RFC-822-headers:
+       Received: from conversion.pmdf.eop.gov by PMDF.EOP.GOV {PMDF V5.0-4 #6879}
+         id <0IIMBD52APWG004T3D@PMDF.EOP.GOV> for kincaid_w®al.eop.gov; Mon,
+         11 Aug 1997 13:40:42 -0400 {EDT}
+       Received: from storm.eop.gov {storm.eop.gov}
+         by PMDF.EOP.GOV {PMDF V5.0-4 #6879} id <0IIMBD4ZVWWG004XGI@PMDF.EOP.GOV> for
+       . kincaid_w@al.eop.gov; Mon, 11 Aug 1997 13:40:38 -0400 {EDT}
+       Received: from vader.ed.gov {[165.224.216.253]}
+         by STORM.EOP.GOV {PMDF V5.1-7 #6879}
+         with ESMTP id <0IIMBD4TV3V6001RXU@STORM.EOP.GOV> for kincaid_W®al.eop.gov;
+         Mon, 11 Aug 1997 13:40:36 -0400 {EDT}
+       Received: from smtpgwyl.ed.gov {smtpgwyl.ed.gov [165.224.216.37]}
+         by vader.ed.gov {8.8.5/8.8.4} with SMTP id NAAI0651 for
+         <kincaid_W®al.eop.gov>; Mon, 11 Aug 1997 13:38:25 -0400 {EDT}
+       Received: from ccMail by smtpgwyl.ed.gov
+         {IMA Internet Exchange 2.11 Enterprise} id 00007037; Mon,
+         11 Aug 1997 13:40:36 -0400
+       ================== END ATTACHMENT 1 ==================
+
+

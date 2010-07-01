@@ -1,0 +1,137 @@
+RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+CREATOR: Essence P. Washington ( CN=Essence P. Washington/OU=OPD/O=EOP [ OPD 1 )
+
+CREATION DATE/TIME:22-SEP-1998 15:17:31.00
+
+SUBJECT:   weekly crime meeting
+
+TO: Rhonda Melton ( CN=Rhonda Melton/O=OVP @ OVP [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Mona G. Mohib ( CN=Mona G. Mohib/OU=WHO/O=EOP @ EOP     [ WHO 1 )
+READ: UNKNOWN
+
+TO: Audrey Choi ( CN=Audrey Choi/O=OVP @ OVP [UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Fred DuVal ( CN=Fred Duval/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Lisa M. Brown ( CN=Lisa M. Brown/O=OVP @ OVP [ UNKNOWN 1 )
+READ:UNKNOWN
+
+TO: BEIER_D ( BEIER D @ Al @ CD @ VAXGTWY [ UNKNOWN 1 )     (VPO)
+READ:UNKNOWN
+
+TO: BACHMAN R     BACHMAN R @ Al @ .CD @ LNGTWY [ UNKNOWN 1 )   (WHO)
+READ: UNKNOWN
+
+TO: BLANCHARD C     BLANCHARD C @ Al @ CD @ LNGTWY [ UNKNOWN 1 )     (DON)
+READ:UNKNOWN
+
+TO: HYLAND K    HYLAND K @ Al @ CD @ LNGTWY [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Jennifer Brown ( CN=Jennifer Brown/OU=ONDCP/O=EOP @ EOP [ ONDCP 1 )
+READ: UNKNOWN
+
+TO: Leanne A. Shimabukuro ( CN=Leanne A. Shimabukuro/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Neera Tanden ( CN=Neera Tanden/OU=WHO/O=EOP @ EOP    [ WHO 1 )
+READ: UNKNOWN
+
+TO: Mary L. Smith ( CN=Mary L. Smith/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Anne E. McGuire ( CN=Anne E. McGuire/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: David J. Haun ( CN=David J. Haun/OU=OMB/O=EOP @ EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Thomas D. Janenda ( CN=Thomas D. Janenda/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Michelle Crisci ( CN=Michelle Crisci/OU=WHO/O=EOP @ EOP [ WHO 1 )
+
+
+READ: UNKNOWN
+
+TO: James Boden ( CN=James Boden/OU=OMB/O=EOP @ EOP [ OMB       1 )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPO/O=EOP @ EOP [ OPO 1 )
+READ: UNKNOWN
+
+TO: Lynn G. Cutler ( CN=Lynn G. Cutler/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Janelle E. Erickson ( CN=Janelle E. Erickson/OU=WHO/O=EOP @ EOP           [ WHO 1 )
+READ: UNKNOWN
+
+TO: Leslie Bernstein ( CN=Leslie Bernstein/OU=WHO/O=EOP @ EOP           [ WHO 1 )
+READ: UNKNOWN
+
+TO: Emory L. Mayfield ( CN=Emory L. Mayfield/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Jon P. Jennings ( CN=Jon P. Jennings/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: LEHANE C     LEHANE C @ Al @ CO @ VAXGTWY [ UNKNOWN 1 )     (VPO)
+READ: UNKNOWN
+
+TO: GALLEGOS S     GALLEGOS S @ Al @ CO @ LNGTWY [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: NELSON J     NELSON J @ Al @ CO @ LNGTWY [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: SANDER T     SANDER T @ Al @ CO @ LNGTWY [ UNKNOWN    1 ) (VPO)
+READ: UNKNOWN
+
+TO: Tracey E. Thornton ( CN=Tracey E. Thornton/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Rahm I. Emanuel ( CN=Rahm I. Emanuel/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Christine A. Stanek ( CN=Christine A. Stanek/OU=WHO/O=EOP @ EOP           [ WHO 1 )
+READ: UNKNOWN
+
+TO: Christa Robinson ( CN=Christa Robinson/OU=OPO/O=EOP @ EOP [ OPO 1 )
+READ: UNKNOWN
+
+TO: Karen A. Popp ( CN=Karen A. Popp/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Cathy R. Mays ( CN=Cathy R. Mays/OU=OPO/O=EOP @ EOP [ OPO 1 )
+READ:UNKNOWN
+
+TO: Peter G. Jacoby ( CN.=Peter G. Jacoby /OU=WHO/O=EOP   @   EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Thomas L. Freedman ( CN=Thomas L. Freedman/OU=OPO/O=EOP @ EOP [ OPO 1 )
+READ: UNKNOWN
+
+TO: Teresa L. Collins   ( CN=Teresa L. Collins/OU=OMB/O=EOP @ EOP [ OMB 1 )
+·
+
+    READ:UNKNOWN
+
+    TO: Jose Cerda III ( CN=Jose Cerda III/OU=OPD/O=EOP @ EOP [ OPD ] )
+    READ:UNKNOWN
+
+    TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO]   )
+    READ: UNKNOWN
+
+    TEXT:
+    Unable to convert ARMS EXT: [MESSAGE.D29]MAIL443l4l56H.226
+    The following is a HEX-dump of the file:
+ .{.
+

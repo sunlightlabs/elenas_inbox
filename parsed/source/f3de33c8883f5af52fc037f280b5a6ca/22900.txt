@@ -1,0 +1,187 @@
+     RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+     CREATOR: Mary L. Smith ( CN=Mary L. Smith/OU=OPD/O=EOP [ OPD ] )
+
+     CREATION DATE/TIME:25-FEB-1999 10:49:35.00
+
+     SUBJECT:   Draft announcement and Q&A on child safety seat rule
+
+     TO: Karin Kullman ( CN=Karin Kullman/OU=OPD/O=EOP @ EOP [ OPD ]
+     READ: UNKNOWN
+
+     TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+     READ: UNKNOWN
+
+     CC: Thomas L. Freedman ( CN=Thomas L. Freedman/OU=OPD/O=EOP @ EOP [ OPD ] )
+     READ:UNKNOWN
+
+     CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO ] )
+     READ: UNKNOWN
+
+     TEXT:
+     Here is a draft announcement and a draft Q&A on the child safety seat
+     rule.  please review them.   Thanks, Mary ==================== ATTACHMENT      1 =======
+     ATT CREATION TIME/DATE:    0 00:00:00.00
+
+     TEXT:
+     Unable to convert ARMS_EXT: [ATTACH.D25]MAIL46081606Z.036 to ASCII,
+      The following is a HEX DUMP:
+
+     FF5750430A040000010A020100000002050000001D19000000020000A8099B7BF1DCFA279F1CB9
+     0163F6336E576DACBOC0132A20017F7B65BD8488FED408995292D8CDAE33C1D35DD73EOC3C46BB
+     EB351481AEAF29CC9EF537860430D40BD1A3BC8384461C499877CC2F3C950C638F4E73BB12F241
+     C2E4C042FF48043CA30D03DC29D6202809E4B5519F44COFEBACC63CB848DA644E1183CE7084BD
+
+                                    Automated ReconIs Management System
+                                            Hex.Qump Conversion
+
+                                        Child Restraint Q&As
+                                               2124/99
+
+    Q:   What did the President announce today?
+
+    A:   The President announced a final rule to require a new universal wayJor installing child
+         safety seats in cars and light trucks. Currently, parents use the vehicle seat belts to install
+         child seats. There are a variety of models of child seats and they require different
+         methods for installation. Parents have found attaching child safety seats using the
+         vehicle's seat belts often is cumbersome and difficult. In the future, each new child seat
+         will have three attachments (one top tether and two at its base). New cars and light
+         trucks will be equipped with standard anchors in the back seat designed specifically to
+         link to the child seat attachments. Each system will consist of a ready-to-use, visible
+         and accessible upper anchorage to which the child seat tether hardware will attach. The
+         vehicle seat will have two one-inch long bars spaced a foot apart and positioned where
+         the vehicle seat cushion and seat back meet to which the child seat lower hardware will
+         attach.
+
+    Q:   How many lives will this rule save?       How many injuries will this rule prevent?
+
+    A:   Annually, motor vehicle crashes result in 600 child fatalities and 70,000 injuries for
+         children less than five years old. Even though child safety seats are very effective in
+         reducing death and injury, their effectiveness is substantially reduced due to incorrect use
+         and occasional incompatibility with the vehicle seat and belt systems. This rule is
+         expected to prevent as many as 50 child deaths and 20,000 injuries each year.
+
+    Q:   When will this rule take effect for cars and light trucks? For child seats?
+
+    A:   For vehicles, eighty percent of new cars will be equipped with the top tether attachment
+         points starting September 1, 1999. All new vehicles (cars and light trucks) will be
+         equipped with the top tether attachment points by September 1, 2000. The lower
+         anchorages are phased in over 3 years, covering 20% of vehicles beginning September 1,
+         2000,50% of vehicles by September 1, 2001, and all vehicles after September 1, 2002.
+
+         For the child seats, starting September 1, 1999, all new child seats will be equipped with
+         an upper tether. All new child seats will be equipped with the two lower attachments by
+         September 1, 2002. New child seats will also remain installable with regular vehicle seat
+         belts to assure compatibility with older vehicles and aircraft.
+
+
+    Q.   How effective are child safety seats?
+
+    A.   According to the National Highway Traffic Safety Administration (NHTSA), when
+
+
+                                                    1
+     toddlers by over half.
+                                     Automated Records Management System
+                                           Hex-Dump Conversion
+Q:   How much will child seats increase in price as a result of this rule? How much will
+     vehicle prices increase?
+
+A:   According to NHTSA, the additional amount that consumers will have to spend on a new
+     child seat will be as low as $15. Typically, child safety seats range in price from $50 to
+     $100. The vehicle additional cost is estimated at between $3 and $7.
+
+
+Q:   What previous efforts has the Administration taken to address this problem?
+                                                                                     -
+A:   On October 13, 1993, the Federal vehicle occupant protection standard was amended to
+     require, effective September 1, 1995, that vehicle seat belts on new passenger vehicles be
+     lockable to tightly secure child seats.
+
+     In February 1995, the Department of Transportation set up a Blue Ribbon Panel of
+     experts to recommend ways to install and use child safety seats. In May 1995, the Panel
+     recommended the evaluation and development of a universal system to attach child safety
+     seats.
+
+     In February 1997, the President announced the proposed rule regarding child safety seats
+     in his weekly radio address. Today's announcement reflects comments the Department
+     of Transportation received in order to improve the safety and provide one universal
+     method of installing the child seats.
+
+
+Q:   How does this differ from what the Administration proposed earlier?
+
+A:   The Notice of Proposed Rulemaking (NPRM), announced by the President on February
+     15, 1997, proposed that every vehicle and child safety seat be equipped with either
+     dedicated "mini-seat belts" solely for installing child safety seats, or two fixed rigid
+     one-inch bars in the vehicle's back seat to which a child seat would attach with a variety
+     of types of connectors. The final rule requires solely the latter approach. People
+     commenting on the NPRM overwhelmingly favored having the government deciding on
+     one attachment system. The final rule and NPRM are similar as to the requirements for
+     vehicle to accommodate an upper tether attachment for the child seat.
+
+
+
+
+                                              2
+                                           Hex-Dump Conversion
+
+                     PRESIDENT CLINTON ANNOUNCES NEW RULE
+                   TO IMPROVE SAFETY OF CHILDREN IN VEHICLES
+                                  February 27, 1998
+
+In his radio address today, President Clinton will announce a major step to protect our traveling
+children -- a new rule requiring a single standardized system for installing child safety seats in
+cars and light trucks. Under the rule, each new child seat will have three attachments -- one on
+top and two at the base. All new cars and light trucks will required to be equipped with standard
+anchors in the back seat designed specifically to link to the child seat attachments. The rule is
+expected to prevent as many as fifty child deaths and 20,000 injuries each year.
+
+New Rule Makes Installation Easier and Will Save Lives
+Currently, installing a child safety seat is complicated by the fact that there are over a hundred
+models of child seats requiring many different methods for installation in over 900 models of
+passenger cars now on the road. Moreover, not all models of car seats fit in all models of
+vehicles. Even when child seats do fit, the current method uses the vehicle seat belts to install
+child seats, which is often a cumbersome process because seat belt designs are built for adult
+protection not child seat installation. According to the National Highway Traffic Safety
+Administration, over 70 percent of children strapped into safety seats are at risk because those
+seats are improperly installed.
+
+How the New System Works
+For the child safety seats, there will be three attachments, a tether on top and two at the base.
+For
+vehicles, new standard anchors will be installed in the back seat which are designed to link to the
+new child seat attachments. Typically, vehicles will be required to install 2 systems in the rear
+seat so that two child seats can be anchored. Each system will consist of a ready-to-use, visible
+and accessible upper anchorage to which the child seat tether hardware will attach. The vehicle
+seat will have two one-inch long bars spaced a foot apart and positioned where the vehicle seat
+cushion and seat back meet to which the child seat lower hardware will attach.
+
+Effective Date of Rule for Vehicles and Child Seats
+For vehicles, eighty percent of new cars will be equipped with the top tether attachment points
+starting September 1, 1999. All new vehicles (cars and light trucks) will be equipped with the
+top tether attachment points by September 1, 2000. The lower anchorages are phased in over 3
+years, covering 20% of vehicles beginning September 1,2000,50% of vehicles by September 1,
+2001, and all vehicles after September 1,2002.
+
+For the child seats, starting September 1, 1999, all new child seats will be equipped with an
+upper tether. All new child seats will be equipped with the two lower attachments by September
+1, 2002. New child seats will also remain install able with regular vehicle seat belts to assure
+compatibility with older vehicles and aircraft.
+
+Builds on the President's Efforts to Protect Children in Vehicles
+This step is one of a series of actions by President Clinton to promote safety for children on the
+
+
+                                         Automated Records Management System
+                                                Hex-Dump Conversion
+
+        road. Two years ago, on February 15, 1997, the President announced the proposed rule regarding
+        child safety seats in his weekly radio address. Today's announcement reflects comments the
+        Department of Transportation received in order to improve the safety and provide one universal
+        method of installing the child seats. On November 19, 1998, the Administration announced a
+        Blue Ribbon Passenger Safety Panel that will recommend strategies to increase the use of booster
+        seats for children 4 to 8 years and the use of seat belts for children 8 to 16 years. This group of
+        children typically is currently not covered by state child seat use laws.
+
+

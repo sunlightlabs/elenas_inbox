@@ -1,0 +1,165 @@
+RECORD TYPE:   PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Christa Robinson ( CN=Christa Robinson/OU=OPD/O=EOP [ OPD ]   )
+
+CREATION DATE/TIME: 5-JAN-1998 19:49:26.00
+
+SUBJECT:   Draft Briefing
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ]   )
+READ: UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D2]MAIL481127400.026 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043C4250000010A02010000000205000000D7400000000200007166230957CA88BCOBF9BE
+C3B256D9A4A76DFB44A54F045AEB1A8FAB246826EB18F72D934C4844BC88DB49E82BOD0526ABF1
+C98896FFE88D827FOB45CC4AFDE465CC2CEA065C12A400AB31E48F613CE6415451A8AD965CC841
+CD83D524A3687827EC4743F2D3CC5F84BDD4B973B835B81ACC944F53EDD9792F243212A9AA8CD7
+88A727198857CE5C29B6988CC485778DOBOC6AC6908DDC7D464A5993E005EEC427DE1909027651
+AEA1BA3F6B4C3D39230F7405724FA4A254AC4766ED1D896F51DCC9309A23A9C39FFCA49A048450
+8C69A97842E85365EE1441766E2C7ADFA9DAAD467EB9378CE3F95A18781617AC7B3B5E61217815
+5DEA58C7A16D77B189232E12229BA5E987FE9CED16F823C243879EE942B35790A236F8BF2E938F
+5E9E53B86B49F3092F8E027E82E894390B18711FD1A2E3C392B132DDBA59DDC6AC76686632D114
+9BF81849FCF9DA952505492AA37AF8737FCA51DB98683E4B15403CC291C7F82C5B30B35B6501E8
+4A5ABAC3A97B588714C913C4DFC258C019F63AD09236D0637E34446F92F23DAA9B5DD3FA605C13
+5BEOD148FFF4BB592B9BE562A6924E2077867AB9B0131CF92EBCDED439A037E6C6D7E15D62C7E8
+D2D3980CEF46A79248A4C227988327104389C232D9F8F755961496CDC0408A9B21D6B27F81D64B
+D163FD4C3802003600000000000000000000000B30030000007EOO0000F40400000B3003000000
+78000000720500000B30030000006BOOOOOOEA0500000B30030000006B000000550600000B3003
+0000009AOOOOOOC00600000B30030000007E0000005A0700000B3002000000D1000000D8070000
+OB3002000000E4000000A90800000B3003000000A60000008D0900000B3002000000F700000033
+OAOOOOOB30020000000A0100002AOBOOOOOB30020000001E010000340COOOOOB30020000003101
+0000520DOOOOOB300200000043010000830EOOOOOB300200000056010000C60FOOOOOB30030000
+OOCF0000001C1100000B3003000000A4000000EB1100000B3003000000A40000008F1200000B30
+03000000C3000000331300000B3003000000BCOOOOOOF61300000B3003000000BBOOOOOOB21400
+OOOB3003000000D90000006D1500000B3003000000A3000000461600000B3003000000A3000000
+E9160000005502000000420000008C17000009250100000006000000CE1700000B30010000007A
+OOOOOOD41700000B30010000007A0000004E1800000B3001000000D9000000C818000009310~00
+000005010000A11900000B3001000000E4000000A61A0000090B02000000110000008A1BOOOOOB
+30020000003D0000009B1BOOOOOB300200000046000000D81BOOOOOB3002000000500000001E1C
+0000093102000000930000006E1COOOOOB3001000000B7000000011D0000060801000000A20300
+OOB81DOOOOOB30020000004F0000005A21000000450200000002000000A92100000B3001000000
+7DOOOOOOAB2100000B3001000000780000002822000000550100000042000000A0220000093101
+OOOOOOB7000000E22200000802010000001000000099230000086E0100000058010000A9230000
+OB300300000034000000012500000942030000001D000000352500000805010000000800000052
+250000087701000000400000005A250000083401000000140000009A2500000000000000000000
+00009A25000006080100000016000000AE25000001000000040056000000000000002600000002
+00000000000000030CFFFF380044006F00630075006D0065006EOO74005B0038005D0000004400
+6F00630075006D0065006E00740020005300740079006C0065000000E030130000000008072EOO
+2E000108071300EOE038130000000060092E002E000160091300EOCC0001000000040056000000
+000000001900000006000000030000000304FFFF380044006F00630075006D0065006E0074005B
+0034005D00000044006F00630075006D0065006E00740020005300740079006C0065000000E011
+136000000008072E002E000108071300EOF20CF2F208F22EF308F38080F30CF301000000040056
+00000000000000130000000200000000000000030CFFFF380044006F00630075006D0065006EOO
+74005B0036005D00000044006F00630075006D0065006E00740020005300740079006C00650000
+
+
+                               MEDICARE ANNOUNCEMENT
+
+                                     DATE:January 6, 1998
+                                     TIME:       11:15 am - 12:00 pm
+                                     LOCATION: Roosevelt Room
+                                     FROM:       Bruce Reed
+                                                 Gene Sperling
+
+L     PURPOSE:
+
+      To announce your proposal to enable Americans under 65 years old to obtain Medicare
+      benefits.
+
+II.   BACKGROUND:
+
+      Americans ages 55 to 65 are one of the most difficult to insure populations. They have
+      less access to employer-based health insurance and they are twice as likely to have health
+      problems -- making insurance unaffordable and, in many cases, putting them at risk of
+      losing their coverage altogether. Many lose their insurance coverage because their spouse
+      becomes eligible for Medicare, or they lose their jobs due to company downsizing or
+      plant closings, and still others lose insurance when their retiree health coverage is dropped
+      unexpectedly. These older Americans are often left to buy into the individual insurance
+      market, which can be prohibitively expensive, particularly if a person has a preexisting
+      condition. The number of Americans facing these problems will increase dramatically as
+      the baby boomers approach age 65.
+
+      You will be proposing new measures to allow Americans under age 65 to buy into the
+      Medicare Program. The new participants in the Medicare Program would pay higher
+      premiums in order to finance the proposal, however, to implement the policy would cost
+      approximately $2 billion over 5 years. These costs mostly represent Medicare's "loan" to
+      the 62 to 65 population which is paid back over time. To temporarily offset this loan,
+      the budget will include a series of new Medicare anti-fraud and waste proposals.
+
+      To address this problem, your proposal will provide greater access to health coverage by:
+
+
+
+                                                   Automated Records Management System
+                                                   Hex-Dump Conversion
+      PROGRAM, by paying a premium. The premium would be fixed at an affordable cost
+      of about $300 per month -- based on the average cost of insuring Americans this age
+      range. These premiums will be particularly affordable to people with some type of
+      health problem, whose preexisting conditions make individual insurance extremely
+      expensIve.
+
+      To offset these additional costs, participants would pay an additional monthly payment of
+      about $50 added to their regular premium when they enter Medicare at 65. This two
+      part "payment plan" enables these older Americans to buy into Medicare at an affordable
+      premium, while ensuring they do not burden the Medicare program over the long run.
+
+      PROVIDING DISPLACED WORKERS OVER 55 ACCESS TO MEDICARE.
+      Older Americans who have been involuntarily displaced from jobs and lost their health
+      care coverage as a result would be able to buy into the Medicare Program.
+
+      Older Americans have a harder time finding new employment if they are laid off. Only 52
+      percent of such workers are reemployed compared to over 70 percent of younger
+      workers. Moreover, nearly half of those unemployed, displaced workers who had health
+      insurance remained uninsured.
+
+      GIVING ACCESS TO EMPLOYER-BASED HEALTH COVERAGE FOR AMERICANS
+      OVER 55 WHOSE COMPANIES RENEGED ON THEIR COMMITMENT TO
+      PROVIDE RETIREE HEALTH BENEFITS. This proposal allows these retirees to buy
+      into their former employers' health plan through age 65 by extending the availability of
+      COBRA coverage to these families.
+
+      In recent years, the number of companies offering retiree benefits has declined: in 1993,
+      only about half of full-time' workers in medium to large firms had access to retiree health
+      insurance, compared to 75 percent in 1985. Some companies have ended coverage for
+      future retirees, but some workers have undergone the unfortunate experience of having
+      their companies unexpectedly drop their health care coverage after they have retired.
+      This policy provides much needed access to affordable health care for these retirees and
+      their dependents whose health care coverage is eliminated after they have retired.
+
+IlL   PARTICIPANTS:
+
+      Briefing Participants:
+      Bruce Reed
+      Gene Sperling
+      Paul Begala
+      Chris Jennings
+      Eli Attie
+      Michael Waldman
+      The Vice President
+      Ruth Kain, Missouri woman who was covered under her husband's retirement health
+      benefits, but lost it once he turned 65 years old and was eligible for Medicare. The only
+      private insurance she could afford did not cover her pre-existing heart condition and she
+      has since had a $14,000 heart operation.                                    .
+
+IV.   SEQUENCE OF EVENTS:
+
+      - The Vice President will make remarks.
+      - Ruth Kain will make remarks.
+      - You will make remarks.
+
+V.    PRESS COVERAGE:
+
+      Pool Press.
+
+VI.   REMARKS:
+
+      Prepared by Speechwriting.
+
+

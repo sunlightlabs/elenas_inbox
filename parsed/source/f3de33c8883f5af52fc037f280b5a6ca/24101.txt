@@ -1,0 +1,907 @@
+      RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+      CREATOR: Ellen S. Seidman ( CN=Ellen S. Seidman/OU=OPD/O=EOP [ OPD ]         )
+
+      CREATION DATE/TIME: 2-JUL-1997 15:55:00.00
+
+      SUBJECT:   Products memo
+
+      TO: Jennifer D. Dudley ( CN=Jennifer D. Dudley/OU=WHO/O=EOP @ EOP [ WHO]             )
+      READ: UNKNOWN
+
+      TO: Michael Deich ( CN=Michael Deich/OU=OMB/O=EOP @ EOP [ OMB']      )
+      READ: UNKNOWN
+
+      TO: Tracey E. Thornton ( CN=Tracey E. Thornton/OU=WHO/O=EOP @ EOP [ WHO]             )
+      READ: UNKNOWN
+
+      TO: Timothy J. Brennan ( CN=Timothy J. Brennan/OU=CEA/O=EOP @ EOP [ CEA]             )
+      READ: UNKNOWN
+
+      TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+      READ: UNKNOWN
+
+      TO: William P. Marshall ( CN=william P. Marshall/OU=WHO/O=EOP @ EOP [ WHO]               )
+      READ: UNKNOWN
+
+      TO: Steven D. Aitken ( CN=Steven D. Aitken/OU=OMB/O=EOP @ EOP [ OMB ]            )
+      READ: UNKNOWN
+
+      TO: Peter G. Jacoby ( CN=Peter G. Jacoby/OU=WHO/O=EOP @ EOP [ WHO ]      )
+      READ: UNKNOWN
+
+      TO: Lisa M. Brown ( CN=Lisa M. Brown/O=OVP @ OVP [ UNKNOWN]      )
+      READ: UNKNOWN
+
+      TEXT:
+      These are the cover memo for the products memo and the memo itself.
+      Melissa (Gene's assistant) is sending the memo directly to the
+      addressees.  PLEASE NOTE THE TIGHT TIMEFRAME.  I'd really appreciate your
+      continued help in moving this along. You've all been great so far.
+      Thanks so much.
+
+      Ellen==================== ATTACHMENT    1 ====================
+      ATT CREATION TIME/DATE:   0 00:00:00.00
+
+      TEXT:
+      Unable to convert ARMS_EXT: [ATTACH.D47]MAIL46338528Y.116 to ASCII,
+       The following is a HEX DUMP:
+
+      FF5750439A040000010A0201000000020500000049130000000200007BBA36A3EBA9E1041127EF
+      FE68EB1B646AC1F4E939085E73145AC9650D4FCAE8577918C3D2595CE6D2AFC1DD81E1CA4F1A9F
+      EA664B741FE6A3E0241B9AEDF10FBD9C81974499E8DAAD4587CFDFF236E059FD61CDECBB70A95A
+      418FCE444E713EOC84CE9D1DF1CA2D653D4D8CCB976AB3BD133813F1FEB016FAD96DA49C70A08B
+      ODDl12824DADF5BB0684ABF4C3A8321D3F677D2E1CF6F26BB25A385E9090382E1DC540407F2616
+      A36E21454EA525EB2D6A31EC8433149BF1F48DOCC2E1914592E81279D31B03B1F2B71503C13542
+      7AFEF09CA4EFOCEBFD3DB069821DF53E90152206382BA06E1A8E53FF729A598DA70710AB138423
+      OAE71D5D99C7E3443820E879ABC8E19152C5EF89208488EB2C563DFB8B00772743123927782899
+      C6C3B67EA01B5648BF29C407B6558401D4AODB8E39B363B5F763F4CF3B593EE6567E3909DCA157
+      28DDE53B70D9368B67409ABE15120E049F4E9EC19BFC9FF1EEDB656705054DB487DFF77208C169
+      942462E783C604191D85FB94686A8626BE30AA122E4EC9555B4DEFFBF52C18DOC477F483FF6CE9
+
+
+
+
+                                                  July 2,1997
+
+MEMORANDUM FOR                    SECRETARY RUBIN
+                                                                            Automated Records Management System
+                                                                                    Hex-Dump Conversion
+                                  SECRETARY DALEY
+                                  SECRETARY SHALALA
+                                  ADMINISTRATOR ALVAREZ
+                                  DIRECTOR RAINES
+                                  CHAIR YELLEN
+                                  CHAIR BROWN
+                                  DEPUTY SECRETARY SUMMERS
+                                  JOHN DWYER
+                                  JOHN HILLEY
+                                  CHARLES RUFF
+                                  BRUCE LINDSEY
+                                  BRUCE REED
+                                  ELENA KAGAN
+                                  ERSKINE BOWLES
+                                  JOHN PODESTA
+                                  SYLVIA MATTHEWS
+                                  RONKLAIN
+                                  CHARLES BURSON
+
+FROM:                             GENE SPERLING
+
+SUBJECT:                          Draft product liability memo
+
+Attached is a draft memo to the President on federal product liability law, based on our discussions last week.
+We ask two things: (i) your comments, edits and thoughts; and (ii) your choice among the three
+recommendations set out.
+
+Ideally, we would like your response by noon tomorrow, July 3. Please forward comments to Ellen
+Seidman of my staff, who can be reached at 456-5359 or by fax at 456-1605. We apologize for the short
+timeframe, but we are attempting to get this memo in to the President before he leaves Washington tomorrow
+evening. Even noon is going to be hard; we hope the memo is sufficiently reflective of our discussions that
+turning it around in time is feasible. Please call me if you have any serious problems with this time frame.
+
+Thank you all for your help, and for that of your staffs, in getting through this process.
+
+cc:
+Andrew Pincus                                      Michael Deich
+Jeffrey Hunker                                     Steve Aitken
+Fran Allegra                                       Tim Brennan
+Donald Remy                                        Tracey Thornton
+Tom McGivern                                       Peter Jacoby
+Ed Murphy                                          Bill Marshall
+Ron Matzner                                        Lisa Brown
+Pam Gilbert
+
+
+
+                             Automa~ Recorda Management System
+                                     H~mp Conversion
+
+                                                                       Draft:March 2,2010 (1 :16PM)
+
+SUBJECT:                         Product liability legislation
+
+I. ACTION FORCING EVENT: On May 1, on a strict party line vote, the Senate Commerce
+Committee reported out S.648, Senator Gorton's revision of the product liability bill you vetoed
+last year. Senator Rockefeller not only voted against S.648, but has made it very clear that he
+will not join until your concerns are satisfied, and Senator Gorton understands that without
+Senator Rockefeller's support, the bill cannot pass. On the other hand, Senator Lott has been
+pushing to bring the bill to the floor, leading Senator Rockefeller (together with Mr. Dingell) to
+press us to negotiate changes in the bill to meet your concern. Senator Lott may well want to
+move soon after the July 4 recess. Meanwhile, Senator Breaux is urging us to work with him on
+an alternative to the Gorton bill.
+
+II. BACKGROUND: The 104th Congress passed product liability reform law -- a part of the
+Contract with America -- by a vote of259 to 158 in the House and 59 to 40 in the Senate. The
+bill would have partially preempted state law as to both standards of liability for sellers and
+manufacturers of products that cause bodily harm and measures and allocation of damages. On
+May 2, 1996, you vetoed the bill, citing eight issues:
+
+      ·   Interference with state prerogatives in tort law
+      ·   One-way preemption, where pro-consumer state laws were preempted, but laws that
+          limited consumer rights were not
+      ·   The cap on punitive damages, particularly in light of the Statement of Managers, which
+          virtually directed judges not to use the "additur" provision included in the bill under
+          which caps could be superseded
+      ·   Several -- not joint -- liability for non-economic damages
+      ·   A too-short (15 years), too-broad (all products) statute of repose
+      ·   Preemption of state negligent entrustment statutes, which make sellers of dangerous
+          goods (e.g., firearms and liquor) responsible for certain actions of the buyers
+      ·   Failure to toll the statute of limitations during the period of a stay issued by a bankruptcy
+          court
+      ·   Application of the limits on liability of biomedical materials suppliers to negligent
+          suppliers
+
+The House failed to override your veto by a vote of258 to 163 to override. The House having
+failed to override, the Senate never took a vote.
+
+III. CURRENT CONGRESSIONAL ACTIVITY
+
+      A. S.648
+                     Hex-Dump Conversion           .
+                                                       -2-               Draft:March 2,2010 (1 :16PM)
+
+S.648 fixes the bankruptcy tolling problem, and makes an honest -- although not complete --
+attempt to respond to the negligent entrustment issue. Moreover, it lengthens the statute of
+repose to 18 years, and establishes two-way preemption for the statute of repose, so that shorter
+state statutes would be lengthened (all state statutes that are set in years are shorter than 18
+years). The bill does not respond to the two major problems you cited -- the cap on punitives
+and several liability for non-economic damages -- nor does it change the biomedical materials
+provision.
+
+    B. Senator Rockefeller and Mr. Dingell
+
+Senator Rockefeller and Mr. Dingell are clearly looking for guidance on how to resolve the
+remaining issues (punitive damages, several liability for non-economic damages, statute of
+repose and biomedical materials) to meet both the concerns and fact patterns in your veto
+message. They have said they will engage in negotiations with us (clearly they do not expect to
+be able to accept our initial proposal) to develop legislation that will pass and will not be vetoed.
+ Senator Rockefeller, in particular, has said he has no interest in another veto.
+
+    C. Senator Breaux
+
+Senator Breaux would like to deal with this issue in an entirely different way. He has developed
+a bill focused far more on reducing frivolous lawsuits and less on substantive product liability
+standards. Senator Breauxls bill would include a statute of repose that is more flexible than that
+in S.648, would establish uniform federal standards for punitives damages but no cap, and would
+do nothing to change state law concerning joint and several liability for non-economic damages. 1
+ His bill would also set stricter pleading standards for federal and state court product liability
+actions, restrict multi-state product liability class actions, enact a very weak form of alternative
+dispute resolution, and require a study by the Attorney General of the product liability system. It
+is unclear how far Senator Breaux can get in moving support off the Gorton bill without the
+Administration's support for his approach.
+
+    D. Consumer groups and other advocates
+
+Consumer groups and others are strongly opposed to any legislation in this area, and have stated
+that they view you as "the last bastion against tort deform." The American Bar Association has
+written you in opposition to any federal legislation primarily on federalism grounds, but also
+raising concerns that overlaying partial tort law preemption on the legal systems of fifty states
+will cause more confusion and uncertainty, not less.
+
+III. MAJOR ISSUES PRESENTED:
+
+
+       1 As discussed below, many states, including California, already have several liability for
+non-economic damages.
+                    AlitoiMtM fteeo!Os Manage,!,ent System
+                            Hex.t)\lmp Conversion
+                                                    -3-                 Draft:March 2,2010 (1:16PM)
+
+Over the past eight weeks, we have jointly run an interagency process to consider whether there
+might be ways to alter S.648 to respond to the concerns in your veto message in a manner that
+could be acceptable to at least Democratic proponents of the legislation. Participants in the
+process included: OVP, NEC, DPC, OMB, CEA, White House Counsel, White House
+Legislative Affairs, Justice, Treasury, Commerce, and SBA and the Consumer Product Safety
+Commission as an advisor. FDA is participating in the discussion of biomedical materials. The
+working group surveyed the law in all the states on the critical issues of punitive damages, joint
+and several liability and statute of repose, and developed a number of alternatives in each area
+that we believe could move the bill.closer (and in some cases, all the way) to your goals but may
+have a chance of not being rejected out of hand byproponents.z Two meetings of the NEC
+principals were held, on June 24 and 26.
+
+A. Whether there should be federal legislation in this area at all
+
+The arguments of the business community in favor of national legislation rest on three
+propositions:
+   · Concern about product liability litigation, and particularly concern about disproportionate
+       awards for non-economic damages and punitive damages, is sapping American
+       productivity by misdirecting management time and energy and capital and by putting an
+       excessive -- and frequently non-insurable tax -- on innovation.
+   · In a national economy, subjecting products and manufacturers to 50 different liability
+       regimes is not only inefficient but also -- because of the opportunities for forum shopping
+       by plaintiffs, particularly in class actions, unfair.
+   · Manufacturers are the deep pocket focus ofliability suits that are in fact generated by the
+       activities of those who repair and service products; making manufacturer liability more
+       limited an predictable -- as occurred when the 18-year statute of repose was instituted for
+       aircraft -- will put the burden of care of those most responsible for and able to accomplish
+       it.
+
+Consumer groups, as well as lawyers (the ABA as well as ATLA), argue against the need for
+federal legislation based on:
+    · The lack of any explosion of product liability suits, and in particular, excessive punitive
+        damage awards that survive judicial remittitur, suggesting there's no problem to be fixed.
+    · The fact that all recent proposals in this area would cut back on traditional principles of
+        tort law that benefit plaintiffs, suggesting that what the manufacturers want is not
+        uniformity but a tilt in their direction
+    · The traditional role of the states in tort law, combined with the fact that all existing
+        proposals would only partially preempt state tort law, leading to even more
+
+
+         2 Based on discussions with the Center for Violence Policy, we have also crafted a more complete
+fix to the negligent entrustment provision. We believe there will be no problem getting the proponents to
+adopt this.
+                                     Hex.Dump Conversion
+                                                    -4-                       Draft:March 2,2010 (1 :16PM)
+
+          non-unifonnity and uncertainty as this law is overlaid on, e.g., state medical malpractice
+          law.
+      ·   Whatever limitations are initially included in federal product liability legislation will be
+          vulnerable to cutbacks in future Congresses; the time to stop erosion is before it starts
+B. One-way or two-way preemption
+
+One of the most contentious issues that runs through the legislation is whether federal standards
+should preempt all state laws ("two-way preemption") or whether they should function solely as
+a floor, with states free to establish more defendant-friendly standards ("one-way preemption").
+For example, if the federal statute of repose were 18 years, two-way preemption would both
+lengthen shorter statutes and impose the 18-year limitation in states that have no statute of
+repose; one-way preemption would only lengthen shorter statutes. Similarly, if the federal
+government were to enact standards for awarding punitive damages, two-way preemption would
+both tighten the standard in states that, for example, allow punitives to be awarded for reckless
+behavior and require states that do not allow punitives at all to allow them according to the
+federal standards. One-way preemption would only tighten standards in some states, leaving
+others free to bar punitives entirely.
+
+The bill you vetoed last year was almost entirely one-way preemptive. In your veto message you
+said, "As a rule, this bill displaces State law only when that law is more favorable to consumers;
+it defers to State law when that law is more helpful to manufacturers and sellers. I cannot
+accept, absent compelling reasons, such a one-way street of federalism. As noted above, S.648
+is two-way preemptive as to the statute of repose (as well as with respect to the general standards
+of manufacturer and seller liability and the statute of limitations) but retains one-way preemption
+on punitive damages. 3
+
+While one of the arguments manufacturers and sellers make in favor of national legislation is the
+desire to create unifonn federal standards, which would support uniform two-way preemption, on
+the two issues where they have made serious headway in the states -- limitations on punitive
+damages and imposition of several liability -- they are far more interested in a federal floor than
+in unifonnity. We have been told, for example, that establishing the right to punitive damages
+in states where it does not exist, or limiting several liability for non-economic damages where
+state law has established it, would be totally unacceptable.
+
+Consumer groups argue in favor of two-way preemption, ostensibly on the ground that the only
+good reason for federal standards is uniformity. However, many of these same groups regularly
+argue that federal environmental and consumer protection standards should function only as a
+floor, allowing states to impose more rigorous rules. It is conceivable that the consumer
+argument for two-way preemption is more an effort to highlight the inconsistency in the
+
+       3 In fonn, S.648 is two-way preemptive on several liability for non-economic damages.
+However, since it imposes the least plaintiff-friendly rule possible (totally several liability), it is effectively
+one-way preemptive.
+                             Hex-Dump Conversion
+                                                -5-                 Draft:March 2, 2010 (1:16PM)
+
+manufacturers' position -- and perhaps to raise an insurmountable barrier to legislation -- than a
+finnly held constitutional principle.
+                         Hex-Dump Conversion
+                                                 -6-               ESDraft:March 2, 20 10 (I :16PM)
+
+c.   Several liability for non-economic damages
+
+Over the last several years, tort refonTI at the state level has essentially done away with the
+traditional rule of no comparative fault and full joint and several liability. (Only Alabama,
+Maryland, North Carolina and Virginia retain this combination.) Nine states4 have full joint and
+several liability, but include comparative fault, thereby reducing the defendants' joint
+responsibility by the measure of the plaintiffs responsibility. Thirteen states 5 have pure several
+liability, for both economic and non-economic damages, and 24 states have various hybrid fOnTIs.
+
+Both last year's vetoed bill and S.648 limit a defendant's responsibility for non-economic
+damages "in direct proportion to the percentage of responsibility of the defendant for the harm to
+the claimant." The trier offact is required to assign this percentage taking into account the
+responsibility of all persons responsible, including those not before the court, such as settling
+defendants.
+
+In vetoing last year's bill with respect to this issue, you cited the provision's general effect of
+preventing "many persons from receiving full compensation for injury," noting in particular the
+problems created by insolvent defendants. You also cited the particular impact of a several rule
+for non-economic damages as unfairly discriminating against "the most vulnerable members of
+our society." You said, "Noneconomic damages are as real and as important to victims as
+economic damages."
+
+Manufacturers assert that the problem with joint liability for non-economic damages is that such
+damages -- unlike economic damages -- are totally unpredictable and subject to the whim of the
+jury, thereby making any assessment of the risk, or the purchase of insurance against the risk,
+virtually impossible. They are particularly concerned about the potential for a large award
+against the only solvent defendant in a case in which that defendant is only marginally at fault.
+Opponents make the argument that non-economic damages are as real and as important --
+particularly to the poor, the young and the old -- as economic damages, and should not be treated
+differently. Some also contend that the different state standards represent the innovation and
+experimentation that is the role of the states, and this should not be preempted.
+
+D. Punitive damages
+
+
+
+
+        4 Arkansas, Delaware, Maine, Massachusetts, Michigan, Pennsylvania, Rhode Island, South
+Carolina and West Virginia
+
+       5 Alaska, Arizona, Colorado, Illinois, Indiana, Kansas, Kentucky, North Dakota, Tennessee, Utah,
+Vennont and Wyoming
+                        Hex-Dump Conversion
+                                                        -7-            ESDraft:March 2, 20 I 0 (I: 16PM)
+
+The process of awarding punitive damages and the amount of such damages have been the
+subject of some of the most intense controversy. Both last year's vetoed bill and S.648 cap
+punitive damages -- at the greater of two times compensatories (including non-economic
+damages) or $250,000 for most companies and the lesser of these two amounts for individuals
+and small businesses. Upon consideration of a list of eight factors 6, a judge could award
+damages in excess of the large business cap (but not the small business cap), up to the amount
+awarded by the jury, which would not be informed of the cap.? The "additur" provision
+explicitly constitutes one-way preemption -- it does not permit additur where state law otherwise
+limits punitive damages.
+
+The bills would also: (i) establish a uniform federal standard of proof of "clear and convincing";
+(ii) establish a uniform standard for award that conduct "carried out with conscious, flagrant
+indifference to the rights or safety of others was the proximate cause" of the harm; and (iii)
+authorize any party to request that punitive damages be considered in a separate proceeding
+(generally so that evidence of the defendant's financial condition would not be allowed into
+evidence during the liability and compensatory damages phase ofthe trial). While these rules are
+meant to apply in all states that have punitive damages, they would not apply in states where
+punitive damages are prohibited by law. 8
+
+In vetoing last year's bill, you stated that you "oppose arbitrary ceilings on punitive damages,
+because they endanger the safety of the public. Capping punitive damages undermines their very
+
+         6 The factors are: "(i) the extent to which the defendant acted with actual malice; (ii) the
+likelihood that serious harm would arise from the conduct of the defendant; (iii) the degree of the
+awareness of the defendant of that likelihood; (iv) the profitability of the misconduct to the defendant; (v)
+the duration of the misconduct and any concurrent or subsequent concealment of the conduct by the
+defendant; (vi) the attitude and conduct of the defendant upon the discovery of the misconduct and
+whether the misconduct has terminated; (vii) the financial condition of the defendant; (viii) the cumulative
+deterrent effect of other losses, damages, and punishment suffered by the defendant as a result of the
+misconduct, reducing the amount of punitive damages on the basis of the economic impact and severity of
+all measures to which the defendant has been or may be subjected ... "
+
+         ? The judge would be required to hold a separate proceeding on awarding an additional amount,
+consider each of the items, and state the court's reasons for an award above the cap in findings of fact and
+conclusions of law. A separate finding on each factor is not explicitly required. The conference report
+on last year's bill, of course, virtually directed judges not to use this authority.
+
+        8   In seven states punitive damages are generally forbidden; in 16 others, they are capped in one
+way or another. Twenty-seven states allow unlimited punitive damages in product liability cases. Most
+states that allow punitive damages have adopted the "clear and convincing" evidentiary standard. While
+the liability standards are less uniform, only a few states allow the award of punitive damages for reckless
+behavior without some other aggravating factor. We have not found any state that requires that the
+conduct leading to the punitive damages be the "proximate cause" of the plaintiff's harm, although the
+words "cause" and "result" are used. Bifurcated trials -- at least on the issue of the defendant's financial
+condition -- are allowed or required in 15 states.
+                     Automated Records Management System
+                             Hex-Dump Conversion
+                                                  -8-                ESDraft:March 2, 2010 (I :16PM)
+
+purpose, which is to punish and thereby deter egregious misconduct. " You noted that the
+additur provision might have mitigated this concern,. but the Statement of Managers virtually
+directing it not be used made it ineffective in that respect.
+
+Manufacturers assert that unpredictable and unjustifiably large punitive damage awards have
+driven them out of markets and irp,pinged on innovations. Consumer advocates assert that only
+potentially unlimited punitive damages can deter harmful misconduct by large companies.
+Surveys suggest that neither the award ofpunitives nor the amount is skyrocketing in products
+cases. 9
+
+E. Statute of repose
+
+At its starkest, a statute of repose bars litigation after a product has been in service a specified
+period of time. Twenty-two states and the District of Columbia currently have statutes of repose
+for product liability; 17 of the states and the District restrict lawsuits after a specified number of
+years (ranging from 5 to 15) and the remainder use some variation of ''useful life" as the bar. In
+1994, you signed legislation establishing a preemptive 18-year statute of repose for general
+aviation.
+
+The bill you vetoed last year included a preemptive IS-year statute of repose for all products.
+The statute would, however, only have preempted states without any statute of repose, or with a
+statute longer than IS years. Shorter state statutes would have remained effective. Your veto
+message referenced the length of the statute, the fact that it was broadly inclusive (you cited
+handguns), and the fact that the preemption was only one way. The Senate bill from the 104th
+Congress had covered only durable goods in the workplace and had an 18-year one-way
+preemptive statute.
+
+S. 648, as reported out of the Senate Commerce Committee on a voice vote, includes a fully
+(two-way) preemptive 18-year statute of repose, covering all products except: (i) motor vehicles,
+vessels, aircraft and trains used to transport passengers for hire; (ii) products that cause toxic
+harm; and (iii) products with express written warranties that exceed 18 years.
+
+Manufacturers assert that a firm, and broad, statute of repose is necessary not only to provide
+them some certainty, but also to put the risk of injury from long-lived products on those most
+able to prevent it -- owners, up graders and servicers. They argue that the 18-year statute of
+repose for general aviation you signed in 1994 has not only increased the willingness of
+manufacturers to produce the aircraft, but has made owners and servicers far more careful,
+
+
+
+         9 A recently-released Rand study has found an increase in the number and amount of punitive
+damage awards in financial fraud cases, such as cases involving insurance or fmancial products
+misrepresentation. This does not appear to extend to cases involving products as defined in the bill, which
+is limited to physical goods.
+                            Hex-Dump Conversion
+                                                   -9-               Draft:March 2, 20 10 (I: 16PM)
+
+because they understand the deep pocket of the manufacturers will not be available to bail them
+out.
+
+Consumers, on the other hand, argue that injuries from long-lived products -- including those that
+have not been altered or do not need service -- are common, and often the manufacturer should
+have foreseen and prevented the problem that caused the injury. They argue it is particularly
+important that those injured by long-lived consumer goods (such as camping equipment and
+cedar chests) not be barred from court completely by a strict statute of repose. Workers, they
+note, at least can collect worker's compensation for injuries caused by long-lived defective
+goods in the workplace.
+
+IV. ALTERNATIVES
+
+Working from the alternatives developed by the working group in each of the three major areas
+identified, your advisors concluded that the choice.of alternatives really depends on another
+decision, whether the Administration should:
+    · take the position that state law developments and the lack of strong evidence of major
+        problems in this area that are caused by lack of national standards leads us to conclude no
+        federal legislation is appropriate at this time;
+    · put forward a series of proposals that are fully consistent with both your veto statement
+        and the principle of promoting national uniformity, even if such proposals have little or
+        no chance ofleading to'a bill that can be enacted; or
+    · put forward a series of proposals that product liability legislation proponents will regard
+        as an acceptable place to start negotiations and that can, albeit with some difficulty, be
+        squared with your veto message.
+
+Some of your economic advisors believe the business community may be correct in asserting that
+the current tort liability system, and in particular the issues raised in this legislation, over-deter
+businesses in their development and production of innovative products. In our discussions with
+the business community, we have asked them to provide empirical evidence that innovation has
+been stymied by litigation in general or the issues that particularly concern us: punitive damages
+and several liability for non-economic damages. Unfortunately, empirical evidence is not
+available, and the anecdotes relate to pharmaceuticals or related products, and often to the issues
+raised by mass tort claims for economic compensatory damages, not non-economic damages or
+punitive damages ..
+
+As your advisors looked into the issue, we came to the following conclusions:
+   · While logically there might be some impact on manufacturing innovation and
+      productivity from the tort system,
+       · there is no empirical evidence
+       · all the anecdotal evidence is from one sector -- pharmaceuticals, including vaccines --
+          but the legislative proposals are far broader
+       · there is no explosion of either litigation or punitive damages
+                           Hex-Dump ConversIon
+                                                 -10-                  Draft:March 2,2010 (1: 16PM)
+
+       · the economy is booming and productivity is rising
+   ·   Over the past several years ~- indeed, even since the start of the 104th Congress -- the
+       states have made major moves toward making the tort system more defendant-friendly,
+       ranging from the virtual abandonment of traditional principles of joint and several
+       liability to the imposition of caps on punitive damages
+   ·   If federal legislation is not to lead to uniform national standards, there is little justification
+       for it; there is little or no justification for one-way preemption
+   ·   Overlaying'limited product liability preemption on the tort law and civil procedure of 50
+       states will likely increase confusion and uncertainty, not decrease it
+   ·   Recent Supreme Court decisions, including the Brady bill decision, may call into question
+       the constitutionality of federal legislation that attempts to mandate changes in state law
+       and judicial procedure
+
+Thus, while there continues to be sentiment among your economic advisors for "doing
+something" to improve the tort system, it is mild and tempered by the recognition that current
+proposals may do as much harm as good. Your legal advisors do not believe the current
+proposals should be supported. Both groups of advisors feel strongly that if there is to be any
+federal legislation, it should establish uniform national standards, and should -- in the areas
+explicitly covered -- completely preempt the field. There is no justification for one-way
+preemption in this area.
+
+This position can be manifest in two ways: taking a strong against any legislation, or developing
+an Administration bill that is consistent with both the veto statement and the current state of the
+law, even ifthat bill cannot be reconciled with the prime tenets of the Gorton bill.
+
+A. Oppose federal product liability legislation at this time
+
+-=-__:--_____--,--__--:---,----,-_----:-_[, names of advisors] recommend that you take a
+firm and overt stance against any federal product liability legislation at this time. Recent
+changes in state law as well as in federal constitutional law, combined with the lack of t:vidence
+of serious widespread problems suggest that the burden of showing why traditional state
+prerogatives in this area should be overruled and state law overlaid with potentially incompatible
+federal law has not been met. Iflegislation is needed in the area of pharmaceuticals (including
+vaccines), then it should be pursued on a targeted basis, taking advantage of -- and protecting--
+the strong federal regulatory system for drugs.
+
+B. Develop an Administration bill we can support, consistent with both the veto statement
+and the current state of the law
+
+The hallmarks of this option are: (i) full two-way preemption, such that states with currently
+more defendant-friendly laws would be brought to a uniform national level as well as states
+whose laws are currently more pro-plaintiff; (ii) consistency with your veto message in all
+                           Hex.Dump Conversion
+                                                  -11-                Draft:March 2, 2010 (1:16PM)
+
+respects; and (iii) inclusion of items that were not part of either the vetoed bill or S.648 that can
+enhance the effectiveness of the legal system for injured plaintiffs.
+
+This option does not include any provision on joint and several liability for non-economic
+damages. Since part of the focus of your veto message was on the unfairness of distinguishing
+between economic and non-economic damages, no provision that deals only with non-economic
+damages can be fully consistent with the veto message. Moreover, we have reason to believe
+some proponents oflegislation would be willing to put forward an alternative without any change
+in joint and several liability. However, we also know the business community regards this as an
+important issue but, given current trends in state law toward several liability, they will be
+extremely unlikely to accept two-way preemption in this area. Appendix A contains alternative
+formulations of joint and several liability for non-economic damages that were developed by the
+working group, together with pros and cons.
+
+This option would consist of the following:
+   Punitive damages - Advisory jury opinion with judicial determination and a breach able
+   cap for small businesses, two-way preemption
+   · The jury would render a solely advisory opinion on punitive damages
+   · The actual determination of punitive damages would be made by the judge
+   · The judge would be required to consider the factors in S.648, and would be required to
+       explain why the judge's award differs (either higher or lower) from the jury's advice
+   · The judge could allocate a portion of punitive damages to the state rather than to the
+       plaintiff
+   · Cap punitive damages at the lesser of twice compensatories or $250,000 for firms that
+       have 10 or fewer employees and annual revenues of $1 million or less. The jury would
+       not be told of the cap, and the judge could award damages in excess of the cap only upon
+       a specific finding that damages in excess of the capped amount were not only needed "to
+       punish or deter," but also that the financial impact of the higher award had on the
+       defendant and its employees had been explicitly considered by the judge.
+   · Couple this with procedural changes to set the evidentiary standard at "clear and
+       convincing evidence," the substantive standard at "willful and wanton" (excluding
+       recklessness), and to require bifurcation of the damages determination if requested by any
+       party
+   Pros
+   · Is analogous to criminal law, by keeping the jury involved but placing the decision on
+       what is essentially a punishment in the hands of the person most experienced in deciding
+       such issues, the judge
+   · Since historically, punitive damage awards that seem unjustified have stemmed from jury
+       decisions, may increase rationality in the system
+   · Provides some protection for truly small businesses, responding to one ofthe complaints
+       about the capriciousness ofpunitives
+                   Hex-Dump Conversion
+                                             -12 -               Draft:March 2, 2010 (1:16PM)
+
+·  Since businesses of the size described are rarely hit with significant punitive damages,
+   since in most states the defendant's financial condition is already taken into
+   consideration, there may be little practical negative effect.
+· Allows the Administration to agree with some sort of cap
+· By adopting the S.648 factors, may be seen as a good faith offer
+Cons
+· Agreeing to any cap at all breaks through a clear line we established last year of "no caps
+   on punitives"; it may be very difficult to hold the line against expansion of this cap, either
+   to larger businesses, or by limiting the judge's discretion
+· Any proposal that limits punitive damages in any way may be seen as tipping our hand --
+   or limiting our options -- with respect to the tobacco settlement
+· Takes away from the jury what has been regarded as a traditional jury function
+· While judges may determine punitive damages in many states in cases where they are the
+   trier of fact, only Connecticut and Kansas provide for initial judicial determination (in
+   contrast to appellate review or remittitur) where a jury has sat
+· Unlikely to solve concerns of either proponents or opponents of caps; consumer groups
+   and lawyers have not favored judicial determination
+· May raise difficult Seventh Amendment issues ("no fact tried by a jury shall be otherwise
+   reexamined in any court of the United States than according to the rules of common law")
+· Making it fully two-way preemptive, thus forcing some states to allow punitive damages
+   that do not currently do so, is likely to be regarded as both unacceptable and
+   inflammatory by the business community
+
+Statute of repose
+· Two-way preemption of state law (as in S.648)
+· 18 year statute of repose (as in S.648)
+· Which a plaintiff may overcome by clear and convincing evidence that the product had a
+    longer useful safe life (not included in S.648, and responsive to the victim of the
+    hay-baler accident cited in the veto message and to accidents involving products clearly
+    intended to be longer-lived, such as elevators and most firearms)
+· Covering only durable goods in the workplace (narrower than S.648, retaining plaintiff
+    rights concerning consumer goods in states without any statute of repose and responding
+    to your concern about handguns)
+· With further exceptions for toxic substances, vehicles used in transportation for hire, and
+    express warranties (as in S.648)
+· And with a provision that extends the statute to allow full benefit of the two-year statute
+    oflimitations after injury or discovery of harm in, for example, year 17 (not in S.648, but
+    not expected to be a problem)
+Pros
+· By building on S.648, demonstrates good faith to proponents of that legislation
+· Two-way preemption is responsive to principles of veto message, and also lengthens
+    statute in the 22 states that have them
+                         Hex-Dump Conversion
+                                                -13-               Draft:March 2, 2010 (1: 16PM)
+
+   ·   Number of years is longer than in any current state statute
+   ·   Rebuttable presumption protects workers injured by products clearly intended to be
+       longer-lived
+   ·   Bright line number of years, combined with clear and convincing standard, means
+       manufacturers will be free from arguments about whether something was intended to
+       have a useful life slightly longer than 18 years
+   ·   By restricting statute to durable goods in the workplace, consumers in states without
+       statutes of repose retain their access to court for injuries from long-lived or
+       intermittently-used consumer goods such as cedar chests and camping and baby products
+   ·   Until late last year, all formulations of this statute had been limited to durable goods in
+       the workplace, in part because those injured in such accident will at least have received
+       some compensation through workers compensation
+   ·   Expands on an already-existing federal liability scheme -- workers compensation
+   ·   Exceptions protect access to court in latent defect cases
+       Cons
+   ·   Opponents of product liability reform will oppose any statute of repose as limiting
+       plaintiffs' rights in states without such statutes
+   ·   Combination of two-way preemption and bright line (even with rebuttable presumption
+       and limitation only to durable goods in the workplace), will restrict the access of some
+       injured parties to court
+   ·   Proponents of S.648 may regard rebuttable presumption and limitation to durable goods
+       in the workplace as unacceptable limitations, particularly given that they extended the
+       statute from 15 to 18 years and made preemption two-way in response to the veto
+       message
+
+In addition to these proposals, we recommend that option 1 include items plaintiffs believe could
+make a real difference in their ability to recover, as well as provisions in the Breaux draft:
+    · Provision for alternative dispute resolution for small claims that both defendants and
+        plaintiffs would find appealing
+    · Limitations on the use of protective orders where disclosure of the information is relevant
+        to the public health or safety unless disclosure is clearly outweighed by a substantial
+        interest in maintaining the confidentiality of the records
+    · Stricter pleading requirements and limitations on multi-state class actions where parties
+        allege different types of damages
+    · A requirement for a study of the product liability system by the Attorney General
+The first of these items might -- depending on how it is drafted -- gain the support of both
+plaintiffs (who cannot find lawyers to take small claims through the traditional legal system for a
+contingency fee) and defendants. The second (based on a bill that has been introduced by
+Senator Kohl) would be strongly supported by consumer groups and -- in light of the tobacco
+revelations probably could generate strong public support -- but would certainly be opposed by
+defendants and perhaps even by the plaintiff bar. The third and fourth provisions are from the
+Breaux draft. The class action may not be giving up much from the plaintiffs' perspective given
+the Supreme Court's recent decision overturning the asbestos settlement.
+                     Hex-Dump Conversion         _ 14 _               Draft:March 2, 2010 (1 : 16PM)
+
+
+This option is recommended by _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ ,[names of advisors]
+
+c.   Make a proposal that has a viable chance of starting negotiations with proponents
+
+As described in the specific pros and cons below, the items in this option cannot be completely
+squared with your veto statement. On the other hand, they represent real movement toward
+responding to your objections. However, it is critical to recognize that once these options are
+on the table, negotiations may take them even farther afield, and lead to a negative
+dynamic in which bill supporters think they've come "most of the way" toward your
+position and assert that refusal to support their bill amounts to "moving the goalposts."
+The danger with this option rests far less in its particular parameters than in the slippery slope it
+sends us down.
+Again, no provision on several liability for non-economic damages is included, based on
+indications some proponents may be willing to move without such a provision. Appendix A
+contains options developed by the working group, of which only Proposal2B is likely to be
+acceptable at all to the business community.
+
+This option would consist of:
+   Punitive damages - Cap with easier breakthrough, one-way preemption
+   · Cap punitive damages at the greater of $250,000 or twice compensatories (the lesser of
+       the two for small businesses)
+   · Do not tell the jury of the cap
+   · Allow the judge to award punitive damages above the cap (for both small and large
+       businesses) without an additional proceeding and on a simple finding that the capped
+       amount is "insufficient to punish or deter," the standard in 8.648, with no consideration
+       of specified factors
+   · Insist that there be no legislative history suggesting this authority is to be used any more
+       sparingly than implied by the statutory standard
+   · Couple this with procedural changes to set the evidentiary standard at "clear and
+       convincing evidence," the substantive standard at "willful and wanton" (excluding
+       recklessness), and to require bifurcation of the damages detennination if requested by any
+       party
+   · This would be two-way preemptive, except with respect to states that do not allow
+       punitives in products cases at all
+   Pros
+   · Closest to both 8.648 and earlier versions of bill, and thus likely to be most easily
+       regarded as acceptable by proponents
+   · Particularly given that there are few punitive damage awards in excess of the cap and that
+       judges now have remittitur authority, this would likely have little practical impact on
+       actual awards
+   · The procedural changes may produce more unifonnity across the country
+                       Hex-Dump Conversion
+                                                  -15 -              Draft:March 2,2010 (1 :I6PM)
+
+   ·  Making the additur provision two-way preemptive is a real improvement for plaintiffs
+      compared to S.648
+   Cons
+   · This looks like a cap on punitive damages, which you said you opposed; "no caps on
+      punitives" has been used as a shorthand description ofthe Administration's firmest
+      position
+   · It may actually be a cap with judges reluctant to award punitives
+   · Holding the line on the legislative history can be very difficult, particularly if the statute
+      is acceptable in.all other respects
+
+   Statute of repose
+   The proposal would be the same as under option 1, which we believe will be regarded as a
+   good faith offer to negotiate.
+
+The primary dangers with this strategy are the likelihood that opponents will not believe even the
+initial positions are consistent with the veto statement, and that it will be relatively easy for the
+other side to make what look like cosmetic changes that may in fact be quite significant. For
+example, deleting the plaintiff s option to breach the 18-year statute of repose by a clear and
+convincing showing that the useful safe life was intended to be longer -- a likely demand of the
+manufacturing community -- would look minor, but in fact would work a major change in that it
+completely shut the courtroom door on plaintiffs in the many states with no statute of repose.
+
+This option is recommended by _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ [names of advisors]
+
+V. DECISIONS:
+
+           Let's take the offensive against any federal product liability legislation
+
+           Propose option B to Senator Rockefeller, understanding he will not regard it as a
+           serious offer.
+
+                       Discuss the offer with Senator Breaux before making it public, and make
+                       common cause with him ifhe's interested
+
+                       Make the offer public to head off claims by bill proponents that we did not
+                       have anything to offer
+
+           Propose option C to Senator Rockefeller, making explicit that this is a best and final
+           offer and any further movement will result in a veto
+
+           Propose option C to Senator Rockefeller, being prepared to negotiate
+
+           None of the options is good. We need to talk.
+                         Hex-Dump Conversion
+                                                    -16-                    Draft:March 2,2010 (1:16PM)
+
+                                        APPENDIX A
+               Options on Joint and Several Liability for Non-Economic Damages·
+
+The fonnulations described below reduce the negative impact of imposing several liability for
+non-economic damages. However, any fonnulation that does not guarantee the plaintiff 100%
+of non-economic damages (where there is any solvent and available defendant) is discriminatory
+against non-economic damages in those states that retain joint liability for economic damages.
+Assuming you do not want to put several liability for economic damages into play, you should be
+aware that all of the options described -- except pure reallocation -- have this flaw.
+
+Infonned by various state law provisions concerning joint and several liability, your advisors
+considered fonnulations for federal preemption involving the following concepts:
+    · Several liability with reallocation among remaining defendants (and plaintiff if the
+       plaintiff is at fault) in the event the amount allocated to any defendant is uncollectible
+       (thus guaranteeing plaintiffs 100% recovery for the portion of the damage not their fault,
+       but sparing low-fault, deep-pocket defendants the need to sue for contribution)
+    · Setting a level of fault below which only several liability will apply (thus responding to
+       the concerns oflow-fault deep-pocket defendants)
+    · Setting a threshold offault below which several liability will apply, but with a multiplier
+       (thereby guaranteeing the plaintiff some recovery where only the low-fault defendants are
+       solvent)
+    · Guaranteeing the plaintiff a specified percentage of recovery of non-economic damages
+    · The extent to which plaintiff fault will be taken into account to reduce recovery for
+       non-economic damages
+    · Special rules for small businesses, particularly as to responsibility for more than their
+       share of damages
+    · Two-way preemption, which would be meaningful if federal law were less pro-plaintiff
+       than some state laws
+
+Working on the assumption that you wished us to develop proposals that include several liability
+for non-economic damages -- so as to be able to convince those favoring product liability of our
+good faith, but that are least restrictive of the rights ofplaintjffs, your advisors developed the
+following alternative fonnulations relating only to non-economic damages:
+
+   Proposall- ReaUocation lO
+   · Joint and several if the plaintiff is fault-free
+
+
+
+
+       10   This is based on the statute currently in effect in Missouri.
+                       Hex-Dump Conversion
+                                                     -17 -                   D~aft:March    2, 2010 (1: 16PM)
+
+    ·  If the plaintiff is at all at fault, liability is several, but if the plaintiff cannot collect from
+       one or more defendant after a specified period of time I I , the plaintiff can petition the
+       court for reallocation of damages not attributable to the plaintiff among the remaining
+       defendants, but no defendant less at fault than the plaintiff may be charged with more
+       than twice his proportionate share of damages
+    · This would be two-way preemptive
+    Pros
+    · Preserves balance between faultless plaintiff and defendant with any fault in favor of the
+       plaintiff
+    · Is generally consistent -- or at least not less pro-plaintiff -- with the laws of most states l2
+    · Where plaintiff is at fault, less culpable defendants -- even if they are deep pockets -- will
+       have their damages limited
+    · Of all the potential limitations, is most likely to retain 100% recovery for non-economic
+       damages
+    · By retaining joint and several liability in many situations, should encourage settlement
+    Cons
+    · May be viewed as excessively pro-plaintiff, and thus not a good-faith offer, particularly if
+       it is two-way, thus increasing defendants' responsibility in states, such as California, with
+       several liability for non-economic damages
+    · May limit plaintiff s recovery where plaintiff is at fault and there are multiple defendants
+    · Requires fact-finders in (the 13) states that currently do not have comparative fault or
+       several liability to assign degrees of responsibility
+    · Shifts from defendants to plaintiffs the responsibility for collecting from each defendant,
+       potentially adding to delay in recovering and increased expense
+    · As among defendants, it is unclear why the extent ofthe plaintiffs responsibility should
+       have an impact on defendants' responsibility to pay the judgment
+
+    Proposal 2A - Guaranteed recovery, two-way preemption
+    · Joint and several liability of any defendant is than 30% at fault (taking into account the
+       fault of the plaintiff and settling defendants)
+    · If any defendant is less than 30% at fault, that defendant's responsibility would be limited
+       to a maximum oftwice the defendant's proportionate share of non-economic damages
+       except where a greater multiplier was needed to ensure the plaintiff recovery of at least
+       50% of the assessed non-economic damages.
+
+
+          11 In Missouri it is 30 days, which may be too short to actually encourage the plaintiff to try to
+collect; in Connecticut it is one year, which may be too long.
+
+        12   Only plaintiffs with some degree of fault in the four states that retain traditional no comparative
+fault/joint and several liability would be significantly disadvantaged; plaintiffs in the nine states with
+comparative fault and joint and several liability could be somewhat disadvantaged. Plaintiffs in states
+with any further restrictions would likely benefit.
+                   Automated Records Management System
+                           Hex.()ump Conversion
+                                                     -18 -              Draft:March 2, 2010 (1: 16PM)
+
+
+       Proposal2B - Guaranteed recovery, one-way preemption
+       · Joint and several liability of any defendant is than 10% at fault (taking into account the
+          fault of the plaintiff and settling defendants)
+       · If any defendant is less than 10% at fault, that defendant's responsibility would be limited
+          to a maximum of twice the defendant's proportionate share of non-economic damages
+          except where a greater multiplier was needed to ensure the plaintiff recovery of at least
+          60% of the assessed non-economic damages.
+       Pros
+       · Should be seen by proponents of limitation as a good-faith offer, with real limits
+       · Preserves joint and several liability for defendants with significant degree of fault
+       · Ensures that no low-fault defendant will have to pay more than 50% (or 60%, if one-way)
+          of total non-economic damages, and that in most cases they will be limited to their
+          proportionate share
+       · Although it limits responsibility oflow-fault defendants, it guarantees that plaintiff will
+          collect substantial portion of assessed non-economic damages (if there are any solvent
+          and available defendants)
+       · The two-way preemption version would increase plaintiff's guaranteed level of recovery
+          in states with several liability for non-economic damages (such as California and Illinois),
+          and thus might be considered an acceptable tradeoff for limitation on guaranteed recovery
+          in other states
+       Cons
+       · Setting the guaranteed recovery level at 50% or 60% (or, in fact, any level lower than
+          100%) may be viewed as non-responsive to both the objections in the veto statement--
+          not full recovery, and discrimination against non-economic damages
+       · Will require fact-finders in the 13 states that don't have both comparative negligence and
+          several liability to make additional determinations
+       · Defendants who view themselves as likely to be low-fault deep pockets will object that
+          their potential for payment of non-economic damages is so high that they cannot take
+          limitations into account in either settlement discussions or purchase of insurance
+       · Small degrees of differentiation of fault -- e.g., between 9% and 11 % -- could have major
+          repercussions on responsibility to pay damages
+
+    Your advisors recommend that proposal 1 be the first one we explore with proponents of product
+    liability. It is by far the most consistent with the veto statement. If, however, it is rejected out
+    of hand by product liability proponents, and you believe it is essential that we continue to
+    negotiate, we would recommend Proposal 2A, which includes two-way preemption. We should
+    make it very clear that if forced to one-way preemption, we would only accept a proposal with a
+    significantly higher level of guaranteed recovery for the plaintiff (e.g., 60%), and a significantly
+    lower threshold offor imposition of several liability (e.g., 10%).
+
+    Areas where we believe some negotiation could be possible include:
+             Automated Records Management System
+                     Hex·Dump Conversion
+                                                   -19 -            Draft:March 2, 201 0 (1: 16PM)
+
+     ·   Some decrease in the minimum level of recovery for two-way preemption (we would
+         put an absolute floor at 50% for one-way preemption and 40% for two-way preemption)
+     ·   Some increase in the threshold for imposition of joint and several liability (we would put
+         an absolute ceiling of 35% for two-way preemption and 15% for one-way preemption)
+
+

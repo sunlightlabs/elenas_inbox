@@ -1,0 +1,103 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Clara J. Shin ( CN=Clara J. Shin/OU=WHO/O=EOP [ WHO ] )
+
+CREATION DATE/TIME:17-SEP-1998 10:00:10.00
+
+SUBJECT:
+
+TO: Sandra Yamin ( CN=Sandra Yamin/OU=OMB/O=EOP @ EOP [ OMB ] )
+READ: UNKNOWN
+
+TO: Laura Enunett   CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+TO: Barbara Chow    CN=Barbara Chow/OU=OMB/O=EOP @ EOP [ OMB ] )
+READ:UNKNOWN
+
+TO: Michael Deich ( CN=Michael Deich/OU=OMB/O=EOP @ EOP [ OMB ] )
+READ: UNKNOWN
+
+TO: Julie A. Fernandes ( CN=Julie A. Fernandes/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Adrienne C. Erbach ( CN=Adrienne C. Erbach/OU=OMB/O=EOP @ EOP [ OMB ] )
+READ: UNKNOWN
+
+TO: Peter G. Jacoby ( CN=Peter G. Jacoby/OU=WHO/O=EOP @ EOP [ WHO]   )
+READ:UNKNOWN
+
+TO: Janet L. Graves ( CN=Janet L. Graves/OU=OMB/O=EOP @ EOP [ OMB ] )
+READ: UNKNOWN
+
+TO: BUSBY_S ( BUSBY_S @ Al @ CD @ VAXGTWY [ UNKNOWN ] )   (NSC)
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+CC: Leslie Bernstein ( CN=Leslie Bernstein/OU=WHO/O=EOP @ EOP [ WHO]     )
+READ: UNKNOWN
+
+TEXT:
+As promised, the agenda for this afternoon's inunigration meeting.   I've
+incorporated everyone's requests for agenda items.    please let me know if
+I've missed anything.   See you this afternoon.==================== ATTACHMENT     1--
+ATT CREATION TIME/DATE:    0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D8]MAIL48176495X.226 to ASCII,
+ The following is a HEX DUMP:
+
+FF5750435CODOOOOOI0A020100000002050000007920000000020000735ACB74DEA78EOOB42E95
+
+                                            Immigration Working Group
+                                               September 17, 1998
+
+
+
+    I.        HIB Visas
+              ·     Legislative update
+
+    2.        H2A Agricultural Guestworker Program
+              ·     Legislative update
+
+    3.        Section 377
+              ·       DOJ update
+
+    4.        Haitians
+              ·        Legislative update
+
+    5.        Benefits
+              A.      Public Charge
+                       ·      DOJupdate
+                       ·      INS update re: legal memo of policy options
+                       ·      OMB update
+              B.·     San Diego
+                       ·      J. Fernandes update on USDA's conversations with San Diego County
+                      ·       OMB briefmg re: San Diego County's list proposal
+              C.      VAW AlBattered Immigrant Women
+                       ·      INS update re: source of misinformation
+              D.      Non-qualified Noncitizen Immigrants
+                      ·       OMB update re: Shaw Bill
+
+     6.       Liberians
+              ·        NSC update
+              ·        DOJIINS update re: 9/9 meeting
+
+         7.   INS Reform
+              ·      Legislative update
+
+     8.       Naturalization
+              ·       OMB update
+
+     9.       Amnesty for Salvadorans, Guatemalans, and Hondurans
+               ·    NSC update
+
+
+
+
+                                                               A~mated Records Manllgement System
+                                                               Hex-Dump Conversion
+
+

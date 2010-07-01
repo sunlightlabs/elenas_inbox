@@ -1,0 +1,254 @@
+ RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+ CREATOR: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP [ OPD 1
+
+ CREATION DATE/TIME:20-JAN-1998 16:05:14.00
+
+ SUBJECT:   High performance bonus & child support issues
+
+ TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1
+ READ: UNKNOWN
+
+ CC: Diana Fortuna ( CN=Diana Fortuna/OU=OPD/O=EOP @ EOP    [ OPD 1 )
+ READ: UNKNOWN
+
+ TEXT:
+ I spoke to Barbara Chow this afternoon, and she is still insisting on a
+ separate measure for earnings gain (not combined with job retention for a
+ "success in the workplace" measure).  Thus, we are at loggerheads, and, as
+ Diana has outlined below, after we have moved to try to accomodate their
+ concerns.
+
+ In the meantime, OIRA is suggesting we have an Elena-Olivia-Barbara Chow
+ meeting tomorrow to discuss this -- i.e, see if we can all work this out
+ without having an EOP position.  This is a bit dangerous, because OMB and
+ HHS agree here, but it could also move the ball forward.  What do you think
+ ?
+
+ On another matter, Barbara Chow is also holding firm on changing the child
+ support budget language -- as you suggested, I made a pitch for --
+
+ "The Administration will hold a dialogue with the stakeholders of the
+ child support program to look at ways to address these problems, and work
+ with members of Congress to prepare legislation." or work with members of
+ Congress on legislation."
+
+  instead of "in working with members of Congress, will prepare
+ legislation."
+
+
+ ---------------------- Forwarded by Cynthia A. Rice/OPD/EOP on 01/20/98
+ 04:02 PM ---------------------------
+
+
+
+
+ Diana Fortuna
+ 01/20/98 03:14:27 PM
+ Record Type:    Record
+
+ To:      Cynthia A. Rice/OPD/EOP
+ cc:
+ Subject:         hi perf notes -- as an attachment and attached
+
+ Attached is a straight chronology, followed by an attempt (after the
+ asterisks) to layout an argument: that we've moved to implement .the deal
+ we struck with them (they would drop welfare exit if we would drop
+ earnings gain), and they still won't compromise.  Charts are slightly hard
+
+
+ to do because most of the time there is no OMB position to measure
+ ourselves against.  But I think the best argument is that we agreed on a
+ trade and that we have delivered on it.  Now we are arguing about
+ window-dressing.
+
+ Chronology:
+
+ HHS position                      JE                        16%
+                                  .JR                        16%
+                                   EG                        16%
+                                   Improv     JE             16%
+                                   Improv     JR             16%
+                                   Improv     EG             16%
+
+ Original DPC Position             JE                        50%
+                                   JR                        25%
+                                   Improv -- JE/JR 25%
+
+ OMB Response:             Desire for earnings gain
+                                   Desire to count only those exiting welfare
+                                   willingness to compromise on #2 if we
+ compromise on #1
+
+ DPC 2nd position:                 JE                        50%
+                                   JR/EG                     25%
+                                   Improv     JE             12.5%
+                                   Improv     JR/EG 12.5%
+
+ OMB Response:·            JE                        30%
+                                   JR                        20%
+                                   EG                        20%
+                                   Improv     JE             10%
+                                   Improv     JR             10%
+                                   Improv     EG             10%
+
+ DPC 3rd position:                JE                         40%
+                                  JR/EG                      40%
+                                  Improv      JE             10%
+                                  Improv      JR/EG 10%
+
+ OMB Response:             No, still want separate measure for JR and EG
+
+ Measure   DPC Original Pos.      DPC Current Pos.           HHS
+ JE        50%     40%     16%
+ JR        25%     20%     16%
+ EG        0%      20%     16%
+ Improv       JE   12.5%   10%     16%
+ Improv       JR   12.5%   5%      16%
+ Improv       EG   0%      5%      16%
+
+ *************
+
+ OMB stated that they would compromise on welfare exit if we compromised on
+ earnings gain. The following chart shows that we did so, but it is still
+ unacceptable to OMB.
+
+
+ Measure HHS Position    DPC Original Pos.           DPC Current Pos.
+ Earnings Gain   16%     0%      20%
+ Improv -- Earnings Gain 16%     0%      5%
+
+
+ Total Earnings Gain        32%      O%-      25%-
+
+
+
+
+ ==================== ATTACHMENT   1 ====================
+ ATT CREATION TIME/DATE:   0 00:00:00.00
+
+ TEXT:
+ Unable to convert ARMS_EXT: [ATTACH.D85]MAIL47879591I.026 to ASCII,
+  The following is a HEX DUMP:
+
+ FF575043440B'0000010A020100000002050000006B1F00000002000074D2FE360018523A121835
+ 2D2A2B0191F8E5E24BC2512716FED89C680910200F348B80011F2C55C101EF64F7D506157A48BO
+ 3AC2531E1CF670A6930AB655E6D0830D1954Bl150E3C8AB38E266F4807CCC997A28A8EDAD17EB1
+ AF09E02CE59A2CE02EB5305AA1FD3C1D908E61D548COBC5DBDFE0326D9915BD5E67EA6891B72D7
+ 127F3F4A5BCDC7480125CFC1BF94060BBBBA5C094DD5DD8CCAOEC9D2222A988CB0900E76FOOD3D
+ FB31A 79618822 85D6B·OBOO 3 567B4C1B906DFA1BF96 3 5 7DFA3 8D5D2A1 7DBF1A9A5FA4BF8F7CBB5 7
+ 729EC4CB4233BC60B27CEA68D14AAC734FA3ED8962B8B2687A6CD14647DE8DA9B068BEC7CA20EE
+ 7B51BA75AACABCD01603A55C9BDBF9700809DBED846247D081062AA9706EC3DFE5935A5817DACC
+ 10A87E186E1F07FF9E4504F809EF863C92440A28C3EE16438013C54A4F36889C1391Bl17F8FCCA
+ A221A445D8COE37B45070B624497800CEAA7DB5611A3BA651663A7DD9BD70891ED259607CB39B8
+ E538FFAF35DD5BCB169C4DD2CB3AFFE5CC6E2AFD1DOD308EAC4D72EAA5EB45769F31CE6576E002
+ F1393A3D88CD88FA192A5FFDE522ABFA1BOA756D96F5F7D9670D21160A53C9EB19828757B64DF1
+ 96B2EOCD522F2B6A2EFB45721321A0159D243822AOFD87C647EC4EAFE7B5F204DE4962E163FA24
+ 7456D5B91002002B00000000000000000000000823010000000B0100005A040000005501000000
+ 4E0000006505000009250100000006000000B30500000B300200000028000000B9050000081D01
+ 00000000000000E105000000660200000002000000E105000000610100000014000000E3050000
+ 08770100000040000000F705000008340100000014000000370600000802010000000F0000004B
+ 060000006602000000020000005A060000006101000000140000005C060000096801000000FF02
+ 000070060000096801000000B80100006F090000000000000000000000006F0900000000000000
+ 00000000006F090000000000000000000000006F090000000000000000000000006F0900000000
+ 00000000000000006F090000000000000000000000006F090000000000000000000000006F0900
+ 00000000000000000000006F090000000000000000000000006F09000000000000000000000000
+ 6F090000000000000000000000006F090000000000000000000000006F09000000000000000000
+ 0000006F090000000000000000000000006F090000000000000000000000006F09000000000000
+ 0000000000006F090000000000000000000000006F090000000000000000000000006F09000000
+ 0000000000000000006F090000000000000000000000006F090000000000000000000000006F09
+ 0000000000000000000000006F090000000000000000000000006F090000000000000000000000
+ 006F090000000000000000000000006F090000000000000000000000006F090000000000000000
+ 000000006F0900000942030000001D000000270B00000098480050002D004C004A002D00350000
+ 000000000000000000000000000000000000000000000000000000000000000000000000000000
+ 000000000000000000000000000000000000000057494E53504F4F4COOOOOOOOOOC800C8002C01
+ 2C012C012C01C800C8003000000000000000000000000000000000000000000000000000000000
+ 000000000000000000000000000000000000000000000000000000000000000000000000000000
+ 000000000000000000000000000000000000000000000000000000000000000000000000000000
+ 000000000000000000000000000000000000000000000000000000000000000000000000000000
+ 0000000000000000000000005EOOC71B2800D61EC30F3908000011090000005AOOOB01008B1436.
+ 00540069006D006500730020004E0065007700200052006F006DOO61006E002000520065006700
+ 75006C006100720000000000000000000100020058020100000004002800000000000000000000
+ 000000000000000000011202002400A1000000A1000000D4001400 0000540041q042004C004500
+ 2000410000000AOOOOOOCE0001000200CF0001000200D0000400Al02D10002000200D200010045
+ 00D30001000200D40001000200D50001000200D60001000200D70001005500DC59272400000000
+ 00000000000000000000000008337C00780001020000D700000003D40014000000540041004200
+ 4C004500200042000000010006001D000100060000000000130011000504000000000001000600
+ 000001001300110005040000000000010006000000020013001100050400000000000100060000
+ 000300130011000504000000000001000600010000001300110005040000000000010006000100
+ 01001E001508030800000000000000E03F0504000000000001000600010002001E001508030800
+
+HHS Position                 JE                    16%
+                             JR                    16%
+                             EO                    16%
+                             Improv -- JE          16%
+                             Improv -- JR          16%
+                             Improv -- EO          16%
+
+Original DPC Position        JE                   50%
+                             JR                   25%
+                             Improv -- JE/JR      25%
+
+OMB Response:                Desire for earnings gain
+                             Desire to count only those exiting welfare
+                             Willingness to compromise on #2 if we compromise on #1
+
+DPC 2nd Position:            JE                   50%
+                             JRlEO                25%
+                             Improv -- JE         12.5%
+                             Improv -- JRlEO      12.5%
+
+OMB Response:                JE                   30%
+                             JR                   20%
+                             EO                   20%
+                             Improv -- JE         10%
+                             Improv -- JR         10%
+                             Improv -- EO         10%
+
+DPC 3rd Position:            JE                   40%
+                             JRlEO                40%
+                             Improv -- JE         10%
+                             Improv -- JRlEO      10%
+
+OMB Response:                No, still want separate measure for JR and EO
+
+
+ Measure                DPC Original Pos.       DPC Current Pos.        HHS
+
+ JE                     50%                     40%                     16%
+
+ JR                     25%                     20%                     16%
+
+ EO                     0%                      20%                     16%
+
+ Improv -- JE           12.5%                   10%                     16%
+
+
+                                                              Automated Records Management System
+                                                              Hex-Dump Conversion
+
+
+
+     Improv -- JR           12.5%                  5%                     16%
+
+     Improv -- EG           0%                     5%                     16%
+
+    *************
+
+    OMB stated that they would compromise on welfare exit if we compromised on earnings gain.
+    The following chart shows that we did so, but it is still unacceptable to OMB.
+
+
+
+     Measure                HHS Position           DPC Original Pos.      DPC Current Pos.
+     Earnings Gain          16%                    0%                     20%
+
+     Improv -- Earnings     16%                    0%                     5%
+     Gain
+
+     Total Earnings Gain    32%                    0%                     25%
+
+

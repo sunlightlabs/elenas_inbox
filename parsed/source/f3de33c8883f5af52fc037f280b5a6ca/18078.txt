@@ -1,0 +1,28 @@
+RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+CREATOR: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME:10-DEC-1997 15:05:21.00
+
+SUBJECT:   Welfare to Work Competitive Grants-- pls review
+
+TO: Elena Kagan     CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD]    )
+READ: UNKNOWN
+
+CC: Diana Fortuna ( CN=Diana Fortuna/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+CC: Emily Bromberg ( CN=Emily Bromberg/OU=WHO/O=EOP @ EOP [ WHO]      )
+READ: UNKNOWN
+
+CC: Andrea Kane ( CN=Andrea Kane/OU=OPD/O=EOP @ EOP [ OPD]    )
+READ: UNKNOWN
+
+TEXT:
+Unable to convert ARMS_EXT: [MESSAGE.D84]MAIL474355347.316
+The following is a HEX dump of the file:
+
+

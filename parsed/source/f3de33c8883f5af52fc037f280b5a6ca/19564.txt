@@ -1,0 +1,52 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Mary L. Smith ( CN=Mary L. Smith/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TlME:23-APR-1998 20:03:23.00
+
+SUBJECT:   draft q&a on mad cow disease study
+
+TO: Thomas L. Freedman ( CN=Thomas L. Freedman/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO]    )
+READ: UNKNOWN
+
+TEXT:
+Here is a draft q&a from Tom and I on the cooperative agreement that USDA
+will announce tomorrow to study mad cow disease.  This is from USDA's
+release which USDA is also sending directly to Barry Toiv. Mary    =================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D29]MAIL41984821M.126 to ASCII,
+ The following is a HEX DUMP:
+
+FF5750430A050000010A0201000000020500000052110000000200008AB2E1E31817AB6A2836C2
+5F96DE3549CCE4E1CAEAC1C73A80432AAC548FE6BB606EA7EFF9A859539EAE32195C3DFOOF3156
+                                                                              Hex-Dump Conversion
+
+Q. What did USDA announce today with regard to bovine spongiform encephalopathy
+(BSE)?
+
+
+A.      The United States Department of Agriculture announced it has entered into a cooperative
+agreement with Harvard University's School of Public Health to begin an analysis and evaluation
+of the Department's current measures to prevent bovine spongiform encephalopathy (BSE). The
+two-year study will review current scientific information, assess the ways that BSE could
+potentially enter the United States, and identify any additional measures that could be taken to
+protect human and animal health.
+
+        Initiating this study is the latest step in a ten-year record of aggressive measures USDA
+has taken to prevent the entry ofBSE into the United States. In coordination with other
+government agencies, the USDA BSE Working Group has been regularly reviewing the available
+science and implementing appropriate regulatory measures to prevent SSE. These measures
+include the 1989 ban of cattle and cattle products from countries where BSE has been reported,
+as well as an active inspection, testing, and education program.
+
+       No cases ofBSE have been diagnosed in the United States.
+
+

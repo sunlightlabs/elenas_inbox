@@ -1,0 +1,212 @@
+RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+CREATOR: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME:10-DEC-1998 13:52:57.00
+
+SUBJECT:   Revised memo on profits from Gruber
+
+TO: Elena Kagan     CN=Elena Kagan/OU=OPD/O=EOP @ EOP [OPD ] )
+READ:UNKNOWN
+
+TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO]     )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TEXT:
+I am sharing this and the ,related spreadsheet with Treasury and OMB.
+
+==================~= ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D88]MAIL476593640.326 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043810C0000010A02010000000205000000864100000002000062A7AC3047485461D1D853
+88516EADFOE419B7C572186B9EB28226AA29926CD451BCA0871FBE19OE8B33DODEF6D2661AD4BF
+5410872F349A18B3F2C4507A98FD48E626921BDOOCC32COC30C1EED9D413A05D3CB1670C973D47
+530BF7608350FB55C3951848B1895F83156A92B1C5C9235F5D191F8F67DBD80800F268E8673D84
+
+From: Jon Gruber
+
+Re:    Noodling Around on Excess Profits
+
+Cynthia -
+
+Here is a spreadsheet which presents some preliminary calculations on excess profits. There is
+clearly some refining that can be done, but the results are striking. Here is a quick overview of
+what I've done here. I'm happy to talk more to provide further details:
+
+
+
+·      I first increase the price of cigarettes by the set of price increases announced over the past
+       15 months by the tobacco industry - 26 cents in a series of steps before the latest 45 cent
+       increase. Following Gary Black's analysis, I do not count 6 cents of the price increase
+       because this is standard annual price increase. So, on net, the industry is raising prices
+       65 cents more than they otherwise would because of the settlement.
+
+·      For simplification, I call this 20 cents in 1998 and 45 cents in 1999, even though a bit of
+       the 1998 increase came in 1997 and the 45 cent increase came at the end of 1998.
+
+·      This calculation therefore assumes that prices will continue to increase to offset inflation
+       - that is, the base price has just risen 65 cents, and will continue to rise thereafter to stay
+       constant in real terms. This is consistent with history - if anything, cigarette prices have
+       been rising in real terms.
+
+·      This calculation also ignores any reaction of state taxes or retail margins. Increases in
+       either could lead to further volume declines, which would feed back to the ultimate
+       calculations through foregone profits. But this should be small.
+
+Volumes
+
+·      I use the standard Treasury model estimates of the price elasticity - a semi-log model with
+       a price elasticity of -0.45 - to get the reduction in cig demand from this price increase.
+
+Payments
+
+·      Payments under the AG settlement, both fixed and volume adjusted, are clearly laid out in
+       the settlement documents. I layout each type of payment. For each, I report whether
+       the payment is volume adjusted (V A) and adjusted for the four pre-existing settlements
+       (NS).
+
+               But one key issue is timing. I assign settlement payments to the year in which
+                                                          Automated Records Management System
+                                                           Hex-Dump Conversion
+              them to the previous year, treating them like tax payments. From an economic
+              perspective, his approach makes more sense. But, from the perspective of
+              actually measuring the profits of the industry over a given year, my approach is
+              correct - they won't actually make the payments until April 15 the next year.
+              This is clearly something that deserves more thought.
+
+·      Following Gary Black, I incorporate 500 million/year in lawyers fees. This is actually
+       uncertain - it will be the result of arbitration. Gary Black tells me that the industry is
+       actually saying this will be more like $1 billion/year.
+
+·      Payments under the four existing state settlements are less clear. Gary Black (in his
+       November 24 report) reports total payments under the four state settlements, but doesn't
+       divide this into volume adjusted vs. fixed. I've made a fairly arbitrary split, by assuming
+       that after 1998 the volume adjusted payments are $1.36 billion each year, and the fixed
+       part is the difference between this and his total. Clearly, this needs some refinement.
+
+·      The volume adjustment factor is just based on declines in volumes from baseline. The
+       pre-existing states factor comes directly from the settlement. Using these, I come up
+       with total payments due from the industry.
+
+Foregone Profits
+
+·      An important component of costs is the fact that profits fall as prices rise and sales fall. I
+       incoporate this at existing industry margins of 33 cents per pack.
+
+Net Profit Impact
+
+·      I then compute total incremental revenues, using the price increases discussed above.
+       Subtracting payments from this, I get net profit impacts.
+
+·      There is a loss in the first year, as the price increase for 1998 (before the 45 cent rise of
+       last month) is not elJough to make the fixed payments due this year. But there are gains
+       in every other year.
+
+·      The gains in 1999 are particularly large, because the volume adjusted payments are small,
+       and there is a dip down in fixed payments. I estimate that in 1999 the industry will make
+       over $9 billion in excess profits from this price increase.
+
+              Once again, the year-year assessment of profits is very sensitive to how you time
+              the payments relative to inflows.
+
+·      The gains then get smaller, but remain quite large; they are about $3 billion per year in
+       the out years
+
+
+                                                          Automated Records Management System
+                                                          Hex-Dwnp Conversion
+       are huge in either case. I find that over 25 years the industry makes over $80 billion in
+       excess profits, with a present discounted value of around $34 billion.
+
+Profit/pack
+
+·      I then go through an alternative calculation as a check on my results, by doing things on a
+       per pack basis.
+
+·      I first add up total volume adjusted and total fixed payments separately. I then convert to
+       a total payment per pack, adjusting the first type of payment, and not the second, for
+       declines in packs.
+
+·      I compare this to the price increase, and, after adjusting for foregone profits on a per-pack
+       basis, come up with net profit per pack .
+
+·      Multiplying by number of packs, I get a very similar result to the earlier calculations.
+
+Excess Profits Adjustment
+
+·      Exhibit E of the settlement, which describes the volume adjustment, has a provision that
+       this adjustment shall be reduced by 25% of any increase in operating income of the
+       industry from its base value. I don't know if such a provision exists in the four state
+       settlements - for now I assume that it does not.
+
+·      It is unclear how well this can be enforced (see discussion below). But I do some
+       calculations as well which assumes that it is perfectly enforced, so that I reduce the
+       amount of the AG volume adjustment by 25% of the net profit increase.
+
+·      These calculations are shown in the remaining columns of the spreadsheet. I first
+       measure 25% of profits, and then compare that to the dollar amount of the volume
+       adjustment. I reduce the volume adjustment by 25% of profits, if positive, but I don't
+       reduce the volume adjustment below zero.
+
+·      This adjustment lowers net profits significantly, but they are still huge - over $26 billion
+       in net present value over 25 years.
+
+Phillip Morris
+
+       One reason why these profits are so large is the pricing dynamic in the industry: Phillip
+       Morris sets the price and others follow. But, Phillip Morris is doing significantly worse
+       under this settlement than are the other players in the market, for two reasons:
+
+                 They pay a disproportionate share of fixed costs (68%, as opposed to only 42% of
+                 volume adjusted costs)
+
+                                                                 Automated Records Management System
+                                                                 Hex-Dump Conversion
+
+
+
+
+                          They have a higher existing profit/pack, so declines in sales are more costly in
+                          dollar terms
+                  The second spreadsheet goes through analogous calculations for PM, and finds that they
+                  do indeed do worse - they get significantly less than 42% of the net profits from this price.
+                  increase. Nevertheless, over the long run, they still make significant profits, of at least
+                  $6.4 billion in net present value.
+
+            Comparisons with Gary Black
+
+            ·     Gary Black's November 24th report has similar calculations .. He also finds significant
+                  excess profits, of about 20 cents per pack. But there are a few differences worth noting.
+
+            ·     First, as emphasized above, is a timing difference. Black treats all payments due early in
+                  year t+ 1 as being effective in year t. This means that he has the industry losing money
+                  in 97, making money in 98, and making some money in 99, but not as much as I do. In
+                  the long run, this is not a significant issue. But over the first few years-this timing issue
+                  does matter. If! were you I would consult with Tax Policy about the right way to treat
+                  this.
+
+            ·     Black also has money for both lawyers fees and payoffs to farmers. For lawyers, he and I
+                  both assume $500 million, although he has this growing to $750 million in 1999; but the
+                  bill says a cap of $500 million .. For farmers, he is putting in $500 million based on his
+                  political judgement that the industry will payoff farmers to buy off any Southern
+                  Congressmen who want federal legislation to help farmers.
+
+
+
+
+                                                                            Automated Records Management System
+                                                                            Hex-Dump Conversion
+EMAILS RECEIVED
+ARMS - BOX 041 - FOLDER -009
+
+
+[12/11/1998 - 1211411998]
+
+

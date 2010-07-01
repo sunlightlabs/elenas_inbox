@@ -1,0 +1,107 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Leanne A. Shimabukuro ( CN=Leanne A. Shimabukuro/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME:22-FEB-1999 12:27:38.00
+
+SUBJECT:   ycgii
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO]    )
+READ:UNKNOWN
+
+CC: Jose Cerda III ( CN=Jose Cerda III/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ:UNKNOWN
+
+TEXT:
+I bolded the new part.  Please note   that the NYT story (and possibly
+others) are erroneously citing some   of the straw purchaser numbers for
+juveniles. The numbers/percentages    relate to investigations, not the
+number of guns, and are part of the   performance report released last week,
+not the YCGII report.
+
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D78]MAIL419352650.036 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043B0040000010A020100000002050000009010000000020000FA482F5388FD9859587071
+OE34320F95C791FC4CC59B31FA342D3994E02D98923094F47C9DF6CB3E65A1FC13CF37012BD2AB
+ODC894A50F892694BB532A51653D12BS3FFF8F4EFD6538EED6C86295EBBBA60CA0175B3A5254B7
+D5596E7F81A4968E28DAA669D8435CA1DE50CB592099D3944923B3C6955CA73A6B7FDODE4B96E4
+EDB6C29B6AC6464018C2A3B37762FC71165AAC19A5F1A8FC3A6F2621400AE16AEAFA3905BF35DC
+ACC59A8397F53074996E32CEFD081F70EB29FOC183E56D51F929A6F372668CE1C4F569A5D097AO
+E8FE66BBDC9706B1A5DF9EA435CAD773BE7C92249CE31C10E4902142C77091E32D2145AECOC260
+EED15B3CE56865AD41D950C951BBFE567B08811E753B84CBCA46BE51F02FB36AC25E3B2953303B
+8F4B6564A01DABFB3A032E42D87138271E3E542910C6F1CE1A7229DFD54BE047A331C675CAA4D2
+F34E7FF9F822E11FF493CC71EA395FCD2CECFA8BD9DOF14D3D85313F566D085169EAC3756C8B23
+CDB235D5F1E09918A20F317FCC047795A4A52ED8AE112DF20E0343D56ADAD5DB2357F589304D01
+OB94603854E34025AB518D006ED6AD8FCCF4099E808B51919DEE197E09599E496517A9E5603962
+A9222308CAB70D9963F649CDA03574A2391E468F95C392755D07144367415C55AC2E70616F8138
+748025F6C502000A00000000000000000000000823010000000B0100008C020000005501000000
+4E0000009703000009250100000006000000E50300000B300200000028000000EB030000081601
+000000320000001304000008770100000040000000450400000834010000001400000085040000
+0802010000000F0000009904000008050100000008000000A804000000986C006F00630061006C
+0020006C00610073006500720020006A0065007400200035000000000000000000000000000000
+000000000000000000000000000000000000000000000000000057494E53504F4F4COOOOOOOOOO
+C800C8002C012C012C012C01C800C8003000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+0000000000000000000000000000000000000B0100002800C8196810480D000011090000005AOO
+OB010000103600540069006D006500730020004E0065007700200052006F006D0061006E002000
+52006500670075006C006100720000000000000000000100020058020100000004002800000000
+000000000000000000000000000000011202002400A1000000A100000043003A005C0050005200
+4F00470053005C00570050005C005300540041004E0044004100520044002E0057005000540000
+000A000000640102000200650101004500660101000200670102005B0068010800658169010100
+                                                                         Hex-Dump Conversion
+
+                                          Gun Tracing
+                                       Question and Answer
+                                        February 22, 1999
+
+
+    Q:   Over the weekend, the Treasury Department released a report on its gun tracing
+         efforts. What were the major findings of the report?
+
+    A:   Yesterday, the Treasury Department released its second major report on President
+         Clinton's Youth Crime Gun Interdiction Initiative (YCGII) in place in 27 cities across the
+         nation. Among the report's major findings were:
+
+         ·      Over 25 percent of guns recovered by law enforcement in the 27 cities are moving
+                rapidly from retail sale to point of recovery by law enforcement. This short "time
+                to crime" suggests that these guns were likely to have been illegally trafficked.
+
+         ·      Over half (51 percent) of the guns used in crimes by juveniles and youths ages
+                18-24 were acquired by intermediaries such as straw purchasers acting on behalf
+                of the real buyer.
+
+         ·      Over .11 percent of guns used in crime were possessed by juveniles (age 17 and
+                under), and over 32 percent were possessed by youths ages 18-24.
+
+         ·      Semi-automatic pistols were predominant among crime guns in each of the 27
+                cities, and constitute over half (52 percent) of all trace requests.
+
+         ·      Over one-third of traffickers involved in illegal trafficking investigations had prior
+                felony convictions.
+
+         The 27 cities included in the YCGII report are: Atlanta, Baltimore, Birmingham, Boston,
+         Bridgeport (CT), Chicago, Cincinnati, Cleveland, Detroit, Gary, Houston, Inglewood
+         (CA), Jersey City, Los Angeles, Memphis, Miami, Milwaukee, Minneapolis, New York,
+         Philadelphia, Richmond (V A), Salinas (CA), San Antonio, St. Louis, Seattle, Tucson, and
+         Washington, DC.
+
+         In addition, a performance report released by the Treasury Department on YCGII
+         last week, showed that of ATF's 648 illegal trafficking investigations involving youth
+         and juveniles -- 51 percent involved straw purchasers or straw purchaser trafficking
+         rings.
+
+         The President's FY 2000 budget includes an additional $11.2 million for YCGlI for more
+          tracing and new ATF agents to bolster trafficking investigations-- bringing the total
+         funding for this initiative to $45.2 million.
+
+

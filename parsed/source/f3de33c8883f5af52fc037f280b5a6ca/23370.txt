@@ -1,0 +1,363 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP [ WHO)     )
+
+CREATION DATE/TIME:26-MAR-1999 12:59:25.00
+
+SUBJECT:   Revised Weekly Report
+
+TO: Elena Kagan   CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ) )
+READ: UNKNOWN
+
+TEXT:
+ includes new tobacco from Cynthia, children and families from Nicole and
+Detroit schools from Tanya==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D41)MAIL49234779W.036 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043F6100000010A020100000002050000008F850000000200007FD9FBBA2968A8493BA781
+A4BB69966F437DC349F93914BB44D7F72123B2521FB4FE11D01EE49CB14057B3DF87035D6AD645
+2BF70E6366051C6CD1F6A61F1D1EE22D6B2C451EBE272696C5B4C5073E1A1BC4E5702CFOA8777D
+B4E6360D1985FC141BD30CA36C1280B3272C7C868192FF4DD5E4C6E153C9EOB12429244CD63C05
+28FC3CD35B4587442C486A498B2E6E85095F711CDA03C5C8842E6729F1FAODBOBA06F3C18FE050
+
+
+
+                                                                      l.ulornalcd Records Management System
+                                                                      I ICh'D"mp conversion
+
+
+
+
+                                               March 27, 1999
+
+     MEMORANDUM FOR THE PRESIDENT
+
+     FROM:                      Bruce Reed
+                                Elena Kagan
+
+     SUBJECT:                   DPC Weekly Report
+
+             Health Care -- Update on our organ donation effort:. We have just received a
+     report that there has been a significant but still inadequate increase in organ donation rates (a
+     six percent increase as opposed to one percent over the past two years) as a result of the
+     Administration's recently implemented regulation to increase organ donations. We believe
+     this success will be augmented as public attention to this increases, as the number of public
+     figures -- including retired NFL football star Walter Payton -- have developed conditions that
+     require organ transplants. There is great interest in the organ donation advocacy community
+     for you to highlight this problem sometime in the next three weeks. You could announce a
+     $5 million grant program and some major private sector commitments from AFL-CIO, the
+     UAW, Aetna Health Plans, and Kaiser Permanente at such an event to coincide with National
+     Organ and Tissue Donor Awareness Week.
+
+              Health Care -- Actions to prevent the inappropriate use of physical restraints in
+     institutional settings: On Thursday, Senators Lieberman and Dodd announced their plan to
+     introduce the Freedom From Restraint Act of 1999, which prohibits hospitals and mental
+     health facilities participating in the Medicare and Medicaid program from imposing physical
+     restraints except upon the written order of a physician and only when necessary to ensure the
+     physical safety of the patient or of other patients. (In 1987, legislation was enacted to prevent
+     inappropriate physical and chemical restraints in nursing homes.) This legislation was
+     inspired by a series of cases in Connecticut during October of 1998 in which several mentally
+     ill children residing in psychiatric institutions died after being inappropriately restrained by
+     facility staff. However, we have received reports of similar abuses nationwide. In addition
+     to indicating your initial support for this legislative effort, we have directed HHS to expedite a
+     regulation that administratively extends these protections to acute care, psychiatric,
+     rehabilitation, long term care, and children's hospitals participating in the Medicare program,
+     program and intermediate care facilities for the mentally retarded, and institutions of mental
+     disease participating in the Medicaid program. The only facilities we believe require explicit
+     new statutory authority are hospices and residential care facilities for children. If there is
+     interest, we may want to have you highlight this regulation when it becomes final later this
+     summer.
+                                                        Hex-Dump Conversion
+                                                                                                    2
+
+        Health Care -- Update on Medicare: Despite the failure of Republicans to attract
+any Democrats beyond Senators Breaux and Kerrey to their Medicare amendment (criticizing
+your surplus policy and supporting the Breaux-Thomas proposal), it is clear that Senator
+Daschle and the moderate Democrats need and strongly desire an alternative Medicare plan.
+In contrast, the House Democrats have little or no appetite for a serious Medicare reform
+proposal. Our meeting with the House Democratic leadership on Wednesday made it clear
+that they view any policy that could be defined as reform with grave suspicion. The
+challenge of developing a politically viable policy is to balance the need for credible reform
+with the equally challenging need to not totally alienate our Democratic base. Interestingly,
+both proponents and opponents of reform are increasingly wary of placing traditional provider
+cuts on the table. As the Medicare trustees report will no doubt show when it is unveiled
+next Tuesday, projected Medicare spending has significantly declined and incoming revenues
+have significantly increased. These trends will no doubt significantly push out the solvency
+date of the Medicare program and will also decrease any appetite for traditional provider
+reductions as Congress will be responsive to provider complaints that they have already made
+a major contribution to the health of the trust fund. The inability to attract much support for
+provider savings will make it difficult to find offsetting savings to pay for a prescription drug
+benefit, thus placing event greater pressure to look towards the surplus to make a significant
+contribution towards the cost of any such benefit. Immediately following the release of the
+trustees report, NEC / DPC will request the actuary to do a series of cost estimates for
+Medicare policy reform options that we are contemplating for your review. We anticipate
+that in the interim we will work with Senator Daschle and his moderate Democrats. to
+determine their definition of serious and acceptable reforms.
+
+       Children and Families -- Child Care: With the strong leadership of Senator
+Dodd, the Senate passed an amendment to its budget resolution increasing mandatory
+funding for the child care block grant by $5 billion over five years, off-set by a reduction
+in the tax cut. This action is a significant demonstration of bipartisan support for
+boosting funding for child care subsidies, which your budget does by $7.5 billion over
+five years. The amendment also includes a non-binding provision stating that any child
+care tax relief for child care (i.e. expansion of the CDCTC), must benefit all working
+families (i.e. by making the credit refundable) and assist stay-at-home parents who care
+for an infant. After a motion to table the amendment was defeated, it won by voice
+vote. The twelve Republicans voting with the Democrats were Senators Abraham,
+Campbell, Chafee, Collins, Dewine, Frist, Hatch, Jeffords, Roberts, Snowe, Specter, and
+Warner.
+
+        Education -- Ed-Flex. Both the Senate and House have now appointed conferees to
+work out differences in the two bills. This week, 205 members of the House --
+overwhelmingly Democrats -- voted in favor of a motion to direct conferees to eliminate the
+Jeffords-Lott class size provision that would allow local districts to spend already
+appropriated class size funding for special education. The Senate Democrats have 31 of the
+34 signatures they are seeking on a letter recommending a veto of the Ed-Flex bill if the
+                                                          h<:x-Dump Conversion
+                                                                                                    3
+
+Jeffords-Lott provision is not dropped. OMB is preparing a letter from Jack Lew to the
+conferees to convey that your senior advisors would recommend a veto if the class size
+provision remains in the bill ~d to reiterate support for strengthened accountability to ensure
+that waivers lead to increased student achievement. Secretary Riley will also send a letter to
+the conferees echoing those concerns and providing additional detailed comments about the
+House and Senate bills.
+        Education -- Charter schools and desegregation: An op-ed by Clint Bolick in the
+Wall Street Journal this week attacked Bill Lann Lee for "waging a war" against charter
+schools through Justice Department civil rights investigations into a few proposed charter
+schools in Louisiana communities under desegregation orders. The editorial criticized Justice
+Department efforts to either block the creation of charter schools or require additional steps to
+create diverse student populations, and suggested that pro-charter school Democrats shouldn't
+support Lee's nomination. The Justice Department has conducted a number of investigations
+to ensure that charter schools comply with existing desegregation orders or consent decrees.
+
+This week, we discussed and rejected sending an immediate White House response to Bolick's
+op-ed -- mostly because of a belief that this could hurt rather than help Lee's confirmation, and
+to some extent because we are still reviewing how to handle and communicate the
+Administration's civil rights enforcement policy for charter schools. At an Education
+Department conference last week, it became clear that there is some concern among the
+charter school community that rigid enforcement of desegregation orders could block the
+creation of charter schools in predominantly minority neighborhoods that might reverse
+desegregation efforts by leading minority parents to take their children out of more integrated
+schools. There are also concerns that desegregation orders could be used by recalcitrant
+school districts to block the creation of charter schools. Meanwhile, the Justice Department
+and Education Department Office of Civil Rights are concerned that some charter schools
+could indeed reverse desegregation efforts, and the Education Department has developed draft
+guidance to be disseminated nationally on these issues. DPC, WH Counsel's office, Justice
+and Education Departments will meet next week to discuss this guidance, and the issues
+raised in it.
+
+        Education -- Mayoral control of Detroit Schools. The Michigan legislature has
+passed a bill that gives Detroit Mayor Dennis Archer 30 days to appoint a reform board to
+oversee the Detroit schools. The seven member board will be comprised of six Detroit
+residents appointed by the Mayor and the State Superintendent who will hold the seventh spot
+as Gov Engler's appointment. None of the current school board members can be appointed to
+the reform board. Once the board is in place for five years, Detroit residents will be allowed
+to vote on whether to retain the reform board. The proposal was highly controversial. It
+exacerbated racial tensions and was viewed by many as an attempt by a white governor and
+white legislature to oust a school board elected by a city that is 75 percent black. Earlier
+versions of the proposal would have had the entire reform board appointed by Engler or
+replaced the school board with a monitor appointed by Engler. Both Engler and Archer
+                                                            Hex-Dump Conversion
+                                                                                                   4
+
+favored the proposal that eventually passed giving control over the refonn board to Archer.
+The present school board will be retained as an unpaid advisory board.
+
+        Tobacco -- Medicaid Recoupment: As you know, the Senate supplemental
+appropriations bill contains Senator Hutchison's bill to waive federal claims to tobacco
+settlement funds without a commitment from the states to spend the federal share to
+prevent youth smoking, protect tobacco fanners, improve public health, or assist children.
+The House bill contains no such provision. Legislative affairs tells us that the House
+leadership is intent on keeping controversial riders out of the supplemental bill and that may
+help us eliminate the tobacco provision from the bill, but as you know the provision has
+strong support from the states. We had conversations with both Governor Carper and his·
+staff this week who told us that given the Senate's overwhelming rejection of Specter's
+alternative, the best they could sell to other governors would be "sense of the Congress" type
+language that the tobacco settlement funds should be used for health, children, and tobacco
+farmers with a report to Congress in a couple of years on how the funds were spent.
+Carper's staff noted that a veto threat over this particular provision would strengthen our hand
+(this provision was one of many cited in the Senate SAP saying senior advisers recommend a
+veto of the bill). Public health advocates are going to use this two week recess to have
+constituents meet with appropriations conferees and .other key players in their districts and
+urge the provision be dropped. The advocates urge us to be more public in our support of an
+alternative, and to try to get the state Attorneys General to do so as well. In the meantime,
+Rep. Waxman, Dingell, Rangel and John Lewis introduced a bill in the House this week that
+is similar to Senator Specter's amendment but has an even stronger federal role. The
+Waxman bill requires states to spend 25 percent of tobacco settlement funds on tobacco
+control and fanners and 25 percent on other health activities, as did Specter's, but it also
+requires a portion of the tobacco prevention funds to go to a federal fund for a national
+education campaign and efforts directly at minority tobacco use (rather than have all such
+funds be spent by the states). The bill would also direct USDA to enact regulations to put in
+place purchase guarantees for tobacco product manufacturers to ensure they continue to
+purchase domestically grown tobacco.
+
+        Tobacco -- Florida Teen Smoking: Cigarette smoking in Florida declined in every
+grade since the state began its anti-smoking campaign last year, according to a study released
+this week. The state-sponsored survey found cigarette use declined 19 percent among middle
+school students and 8 percent among high schoolers. Florida spent $71 million of its tobacco
+settlement dollars on this campaign last year (about 13 percent of the total), a third on a
+counteradvertising campaign and the rest on community and school based programs. Nine
+out of ten youth surveyed were aware of the edgy advertising campaign, dubbed the "truth"
+campaign by teens who helped develop it (the CDC has made many of these ads available to
+other states who want to air them). There's currently a big fight in Tallahassee over the
+program's funding levels for next year -- while the Governor's budget contained $61.5
+million, the Republican House appropriated no funds and the Democratic Senate included $50
+million.
+                                                               Hex-Dump Conversion                 5
+
+
+        Workforce Investment Act Rule: In early April, the Department of Labor will
+publish an interim final rule to implement the Workforce Investment Act (WIA) you signed
+last August to reform the nation's job training system. The rule provides guidance to states
+and communities to help implement key provisions of the law including the development of a
+network of comprehensive One-Stop Career Centers that provide a single point of entry to a
+wide range of employment services for job seekers and employers. When the program is
+fully implemented, DOL expects that there will be at least 2,500 such One-Stop centers.
+Currently there are about 1,000 state and local variations of one-stops, but none of them are as
+comprehensive as. what is envisioned under WIA. The rule will also implement Individual
+Training Accounts to provide individuals with access to quality job training of their choice.
+Consistent with the goal of consolidating and streamlining job training programs, the new
+regulation is approximately half the length of the old rule it replaces. DOL has coordinated
+with other federal agencies in developing this rule, and has consulted broadly with state and
+local government, key Congressional committees, and other stakeholders. While states have
+until July 2000 to fully implement the Act, a handful of states are expected to file their state
+plans shortly. We will work with DOL to identify any potential announcements.
+
+        Welfare Reform -- Economist article: We thought you might like to see the
+attached Economist article highlighting the Welfare to Work Partnership's success and
+chronicling how welfare reform "has worked better than anyone dared hope." The article
+notes that there are challenges ahead -- particularly in large cities where caseloads are falling
+more slowly -- and mentions some of your welfare to work budget initiatives.
+
+NOTE TO Elena: Unfortunately, the picture accompanying the actual Economist article is not
+as upbeat as the article (shows a woman and her kids who appear to be living in one small
+room). We can either send this, or use the Lexus version without the picture. We've
+provided both so you can choose.
+
+        Welfare Reform -- Urban Caseloads: You sent us a note saying we should do more
+to strengthen welfare to work efforts in cities with slower case10ad declines. We wanted to
+report on two efforts now underway. The Department of Labor just launched a two-year
+technical assistance initiative to help 10 large cities (Boston, Houston, Detroit, Philadelphia,
+Chicago, Los Angeles, New York, Seattle, New Orleans, and Minneapolis) develop strategies
+to move hard-to-employ welfare recipients into good jobs, with an emphasis on job retention
+and advancement and ensuring close coordination between the welfare and workforce
+systems. Teams from these cities are meeting together for the first time next week. The
+Welfare to Work Partnership has a targeted effort in 30 cities with high poverty rates and large
+concentrations of welfare recipients, including Atlanta, Baltimore, Chicago, Los Angeles,
+Miami, New Orleans, New York, Philadelphia, and Washington, D.C. In August, the
+Partnership is holding a major convention in Chicago for delegations from these cities; this
+could be a good opportunity to mark the third anniversary of the welfare law and Eli Segal
+hopes you will participate.
+                                                             Hex-Dump Conversion                      6
+
+
+       You also asked whether the slower rate of caseload decline in some cities is related to
+unemployment. In general, those cities with slower rates of caseload decline did have higher
+unemployment rates. For example, El Paso, Los Angeles, New York, and Philadelphia had
+the slowest caseload declines and three of the four had central city unemployment rates above
+7% in August 1998 when the caseload decline was measured (Philadelphia's rate of5.9% was
+also well above the national average of 4.5%). However, Baltimore and Cleveland had high
+unemployment, but also had somewhat greater caseload declines.
+
+        Welfare -- Food Assistance: You asked what we could do to ensure that families
+obtain food assistance, in light of reports that more working families are seeking help from
+private food banks. We are working to address these issues on two fronts: first to ensure
+states follow the food stamp law and provide assistance to all eligible individuals who seek
+assistance; and second, to develop and implement new initiatives to make the food stamp
+program more accessible to working families.
+
+        We have taken numerous steps in recent months to ensure states follow the food stamp
+law. USDA has launched investigations of state and local practices, including an inquiry in
+New York City which found local welfare offices were not allowing individuals to apply for
+food stamps on their first visit to the office. (USDA has issued a formal warning and will
+impose penalties if these practices are not changed. Meanwhile, a U.s. District Court judge
+has issued an injunction and has required the city to provide a corrective action plan, which
+remains sealed.) At the same time, USDA issued formal guidelines to every state reminding
+them of their obligations to ensure that applicants are aware of their right to file an application
+for food stamps, process applications in a timely manner, and continue food stamp benefits
+when T ANF benefits are denied or terminated.
+
+        In addition to these enforcement actions, we are working with USDA and others to
+develop and implement efforts to make food stamps more available to eligible families.
+Historically, individuals with earned income who are eligible for food stamps have been about
+half as likely to obtain them as individuals receiving cash assistance. There are several
+possible reasons for this. First, individuals with earnings are eligible for far less in food
+stamps and they may decide the amount is not worth it. For example, the monthly food
+stamp allotment for a family of three with a $300 weekly income and $500 monthly rent is
+$40. When the same family reaches weekly earnings of $342, the household is no longer
+eligible. Second, families need to follow somewhat cumbersome procedures to report their
+earnings to the food stamp office and it is often difficult for working families to get to this
+office during open hours.
+
+        We are currently working with USDA and OMB to devise administrative proposals to
+help address these and other potential barriers and we will provide you with an analysis of our
+options soon. While some of the options under consideration can be implemented through
+regulation, they may cost several hundred million dollars. In order to ensure we maintain our
+                                                           h"kDump Conversion
+                                                                                                   7
+
+commitment to saving the surplus, we must enact other regulations saving a comparable
+amount -- a requirement OMB imposes on an agency-by-agency basis (e.g., USDA savings
+must pay for new USDA costs). These regulatory offsets could be difficult to obtain.
+
+        In addition to possible administrative actions, we will be working to enact the
+proposals in this year's budget to increase funds for food stamp outreach (the budget contains
+$3.5 million to provide a 50 percent federal match for activities including media campaigns
+and distributing informational materials at various community locations such as shelters,
+senior centers, and churches) and to provide $60 million for eligibility for an additional
+15,000 legal immigrants who become elderly after their pre-1996 arrival. (The Agricultural
+Research Act restored benefits to those elderly as of 1996, as well as children, people with
+disabilities, and refugees.)
+
+       Drunk Driving -- .08 BAC studies: The Department of Transportation is planning
+to release three studies next week on the effects of lowering the illegal blood alcohol
+concentration (BAC) from .10% to .08%. Two of the three studies show that .08 BAC laws
+have a deterrent effect on drinking and driving, particularly in conjunction with other drunk
+driving laws and programs such as administrative license revocation (where police
+immediately suspend the driver's license of a driver arrested for DWI). Thethird study which
+looked at .08 BAC in a single state (NC) found no statistically significant impact of the law in
+drunk driving crashes.
+
+
+       (1) Nationwide study: This study looked at the effects of illegal per se BAC laws (.08
+       BAC and .10 BAC) and administrative license revocation (ALR) laws in all 50 states
+       over a 16-year period. The study estimated that .08 BAC laws resulted in 275 fewer
+       fatalities in the 16 states with .08 BAC laws in effect in 1997, and estimates that an
+       additional 590 lives could have been saved in 1997 if all 50 states had .08 laws.
+
+       (2) Eleven-state study: This multi-state study analyzed the impact of .08 BAC and
+       ALR laws and found that .08 BAC laws were associated with significant reductions in
+       alcohol-related fatalities in five of the 11 states studied (VT, KS, NC, FL, NM). Two
+       other states (V A, CA) registered reductions following the adoption of both .08 BAC
+       and ALR laws. The remaining four states (UT, OR, ME, NH) experienced slight
+       decreases or increases in their alcohol-related fatalities that were not considered
+       statistically significant.
+
+       (3) North Carolina study: This study found little separate effect of a .08 BAC law in
+       North Carolina even though the state recorded a modest reduction alcohol-related
+       deaths during the study period. North Carolina has an aggressive enforcement
+       program, with the .08 law just one of the steps they have taken to help decrease in
+       drunk driving deaths. The finding of this study conflicts with the II-state study cited
+                                                            Hex.-Dumn c.      .. ana",cment System
+                                                                   t"  onverslOn
+                                                                                                     8
+
+       above, which indicates a positive impact of the .08 BAC law in the state in reducing
+       alcohol-related deaths.
+
+        The three independent studies were commissioned by the National Highway
+Transportation Safety Administration (NHTSA). On a related note, the GAO is preparing to
+release in June a review of a number of .08 BAC studies, including the three listed here. The
+GAO report was required under the omnibus transportation bill signed last year. The GAO
+review will criticize the methodologies used in earlier NHTSA studies, but generally confirm
+the soundness of the new studies. The GAO will conclude that .08 BAC laws can be
+effective in reducing alcohol-related deaths in combination with other laws, particularly ALR.
+ However, the alcohol industry is likely to use the GAO report to discredit the previous DOT
+studies on .08 and the need for a national .08 standard.
+
+

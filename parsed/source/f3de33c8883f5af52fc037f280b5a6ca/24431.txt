@@ -1,0 +1,247 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Lisa M. Jones ( CN=Lisa M. Jones/OU=OMB/O=EOP [ OMB 1 )
+
+CREATION DATE/TIME: 9-FEB-1999 14:09:48.00
+
+SUBJECT:   Headsup Memo
+
+TO: Barbara Chow ( CN=Barbara Chow/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ:UNKNOWN
+
+TO: Janet L. Yellen ( CN=Janet L. Yellen/OU=CEA/O=EOP@EOP [ CEA 1 )
+READ: UNKNOWN
+
+TO: Barry J. Toiv ( CN=Barry J. Toiv/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ : UNKNOWN
+
+TO: Paul E. Begala ( CN=Paul E. Begala/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Minyon Moore ( CN=Minyon Moore/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Ann F. Lewis (,CN=Ann F. Lewis/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Ron Klain ( CN=Ron Klain/O=OVP@OVP [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Douglas B. Sosnik ( CN=Douglas B. Sosnik/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Mickey Ibarra ( CN=Mickey Ibarra/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Michael Waldman ( CN=Michael Waldman/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Gene B. Sperling ( CN=Gene B. Sperling/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Mary E. Cahill ( CN=Mary E. Cahill/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Sally Katzen ( CN=Sally Katzen/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Thurgood Marshall Jr ( CN=Thurgood Marshall Jr/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Lawrence J. Stein ( CN=Lawrence J. Stein/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Maria Echaveste ( CN=Maria Echaveste/OU=WHO/O=EOP@EOP [ WHO 1 )
+
+
+READ: UNKNOWN
+
+TEXT:
+The memo below was signed on February 9 by Sylvia Mathews and Don
+Arbuckle.
+
+MEMORANDUM FOR JOHN PODESTA
+
+THROUGH:                        Sylvia Mathews
+
+FROM:                   Don Arbuckle
+
+SUBJECT:                        SSA Substantial Gainful Activity Proposed
+Regulation
+
+
+        Later this week (Thursday or Friday), the Vice President is
+planning to announce an increase in the Social Security Administration's
+Substantial Gainful Activity (SGA) guidelines.  SGA guidelines indicate
+the amount a disabled individual can earn and still be eligible for
+Supplemental Security Income (SSI) or Disability Insurance (DI) benefits.
+SSA is planning to publish a proposed rule in time for the event, which
+would raise the SGA level from $500 to $700 per month.
+
+           The increased SGA level will be strongly favored by disability
+groups.     We do not anticipate any opposition.
+
+        There are several good reasons to increase the SGA level at this
+time.  The SGA level has not been updated since 1990. The proposed
+increase will roughly account for the increase in wage growth since 1990.
+The increase in SGA is a way to encourage work among people with
+disabilities.
+
+        SSA estimates that this change will affect 42,000 people and will
+cost $1.2 billion over five years (SSI, DI, Medicaid, and Medicare).  SSA
+is planning for the change to take effect June 1, 1999. The increase has
+been included in the President's Budget and will be paid for through
+increasing the number of eligibility redeterminations of recipients and
+through a change in the regulations.
+
+        OMB has been working with the DPC and NEC on this issue.     Please
+let us know if you have any questions or comments.
+
+cc:        Maria Echaveste
+           Doug Sosnik
+           Larry Stein
+           Ron Klain
+           Thurgood Marshall, Jr.
+           Ann Lewis
+           Sally Katzen
+           Minyon Moore
+           Mary Beth Cahill
+           Bruce Reed
+           Gene Sperling
+           Paul Begala
+           Elena Kagan
+           Barry Toiv
+           Michael Waldman
+           Janet Yellen
+           Mickey Ibarra
+
+
+              Barbara Chow
+
+
+      ====================. ATTACHMENT   1 ====================
+      ATT CREATION TIME/DATE:    o 00:00:00.00
+      TEXT:
+      Unable to convert ARMS_EXT: [ATTACH.D15]MAIL46842614S.036 to ASCII,
+       The following is a HEX DUMP:
+
+      FF575043E8040000010A020100000002050000001D100000000200009FFDE90BDE1B8D9C30FDC4
+      OBBD89D3A3A7D4191C4EAFA51F4B46AD62B60ED09A50F601145F24953AC250E5AC99C27593DBF3
+      CCE901D81DF2A36BF45D78FOEC67276E668D3BD7CA8912312E1D531288860341DFE7C9B7740871
+      B5095A7D35AD6A724F988C3EE12C1F7598CE12CB1F5C89E92B5DD9552A275COCC5DD378C20C94A
+      346D5401399A1D1F013E2727841BDC8C1D761AB10E14E267CA2305C9A45C7D16524FCDFD46F032
+      F762568B99CB5E45D9D6FC3A246B812476604FCBA389363F9590C3768B03E8551F35C49F27B749
+      BBE80AC90304B1D5FF512F90E209BFE4D96EBA8ACC85035C9D3F5F4B653BD619C292F4C1B7C2B6
+      7E71AD939253C422DB96B3E9277E08EF5A3ABA5E6CA204EB29BB698C7C95A189B8E3F337290ECB
+      B219EAA6B5F03E144FFD96FE992FAA09FOB73FOA1DB309F90A9BB96EOB7DDC96113A71FOAECCE5
+      10CBA43FEAB03B6B5C1B406CF36A70E8CA4362C9A3A9356F553E18FC311264FDF490D2BF7CFACC
+      C2DD7A719AF33F1EF41BF8FCB63062E58CCA9F45EF1F99751BDA17FAB4236FB7FD4D1D0489A03D
+      E30B47735300B7EFB693D9D0102C63DC36B307C7ECD36AB2A8263A2A82ECEE479A75FE844CODFO
+      F4D3707E71094F96D7CEBB4D09E3AEE42611F9F5576BBEF82D21B72C6C49BED5BC98FE2AF3EB3F
+      96BE549B5C02000B00000000000000000000000823010000000B0100009A020000005501000000
+      4EOOOOOOA503000009250100000006000000F30300000B300200000084000000F9030000080501
+      000000080000007D040000000000000000000000007D040000000000000000000000007D040000
+      OB770100000040000000B504000008340100000014000000C50400000B02010000000FOOOOOOD9
+      04000000985C005C004F004D0042002D00500053002D00320038002D00320039005COO.33003500
+      300042000000000000000000000000000000000000000000000000000000000000000000000000
+      0057494E53504F4F4COOOOOOOOOOC800CB002C012C012C012C01C800C800300000000000000000
+      000000000000000000000000000000000000000000000000000000000000000000000000000000
+      000000000000000000000000000000000000000000000000000000000000000000000000000000
+      000000000000000000000000000000000000000000000000000000000000000000000000000000
+      00000000000000000000000000000000000000000000000000000000000000000B0100002800C8
+      1968104BOD000011090000005AOOOB010000103600540069006DOO6500730020004E0065007700
+      200052006F006D0061006E00200052006500670075006C00610072000000000000000000010002
+      005802010000000400280000005COOOOOOOOOOOOOOOOOOOOOOOOOO00000112F4C42400AIOOOOOO
+      A1000000D3050COOOOOIOOOOOOOCOOD3D1060C0000010001000COOD1DI033700B00100001600DD
+      460100005B020600005B020000000000000064CB000100005B0206000058020000000000000064
+      EC003700D1DI020DOOOOOI00010I050DOOD101000400020000000A0000007C00010002007D0002
+      007B037EOOOI0002007F0002007B03800001000200810002007B03820001000200830002007B03
+      840001000200B50002007B0398912C260000000000000000000000000000000008337C00780000
+      0200008500000003DDOA1000830104000300F4C4211000DDD3050C0000010000000COOD3D1060C
+      0000010001000COOD1D10337008001000016007CDF010000580206000058020000000000000064
+      F000000000000000000000000000000000000064C8003700D1D102ODOOOOOIOOOI00050DOOD1DD
+      OBOB00030000040BOODDD3042A0000160001B00406002C0100580282580200990C00100E965802
+      01B004020000009C58022AOOD3EOIIOC0000000008070COOEOE011OC00000000990COCOOEOE011
+      OC00000000100EOCOOEOE0110C0000000068100COOE080F1027COOFIBOFI037COOF1F1027EOOFl
+      BOF1037EOOF1F1028000F180FI038000F1F1028200F180FI038200FIF1028400F180F1038400Fl
+      BOF1007DOOF1F1027BOOF14665627275617279F1037BOOF1FI017D00F1FI007FOOF1F1027DOOFl
+      4665627275617279FI037DOOFIF1017FOOF1F1008100F1F1027FOOF14665627275617279F1037F
+      00FIF1018100F1F1008300F1FI028100F14665627275617279FI038100F1F1018300FIF1008500
+      FIFI028300F14665627275617279F1038300F1F1018500F1FI028500F14665627275617279F103
+      B500F180392C8031393939CCCCE0110C0000000008070COOEOE011OC00000000990COCOOEOE011
+      OCOOOOOOOOIOOEOCOOEOE0110C0000000068100COOE0808080BOCCCCCCCCCC4D454D4F52414E44
+      554D9B80464F52804A4F484E809C504F44455354419BCCCC5448524F5547483AE0110COOOOOOOO
+      990COCOOE09C53796C766961804D6174686577739BD0041500000B00090001200D700809000120
+      1500DOCC46524F4D3AEOI10C00000000990COCOOE0446F6E809C41726275636B6C659BD0041500
+      000B00090001000F500AOB0001201500DOCC5355424A4543543A8080E0110C00000000990COCOO
+      E0535341805375627374616E7469616C804761696E66756C8041637469766974798050726F706F
+                                                                     Automated Records Management System
+                                                                             Hex-Dump Conversion
+
+
+
+
+MEMORANDUM FOR JOHN PODESTA
+
+THROUGH:                Sylvia Mathews
+
+FROM:                   Don Arbuckle
+
+SUBJECT:                SSA Substantial Gainful Activity Proposed Regulation
+
+
+       Later this week (Thursday or Friday), the Vice President is planning to announce an
+increase in the Social Security Administration's Substantial Gainful Activity (SGA) guidelines.
+SGA guidelines indicate the amount a disabled individual can earn and still be eligible for
+Supplemental Security Income (SSI) or Disability Insurance (DI) benefits. SSA is planning to
+publish a proposed rule in time for the event, which would raise the SGA level from $500 to
+$700 per month.
+
+        The increased SGA level will be strongly favored by disability groups.       We do not
+anticipate any opposition.
+
+        There are several good reasons to increase the SGA level at this time. The SGA level
+has not been updated since 1990. The proposed increase will roughly account for the increase in
+wage growth since 1990. The increase in SGA is a way to encourage work among people with
+disabilities.
+        SSA estimates that this change will affect 42,000 people and will cost $1.2 billion over
+five years (SSI, DI, Medicaid, and Medicare). SSA is planning for the change to take effect June
+1, 1999. The increase has been included in the President's Budget and will be paid for through
+increasing the number of eligibility redeterminations of recipients and through a change in the
+regulations.
+
+       OMB has been working with the DPC and NEe on this issue. Please let us know if you
+have any questions or comments.
+
+cc:    Maria Echaveste
+       Doug Sosnik
+       Larry Stein
+       Ron Klain
+       Thurgood Marshall, Jr.
+       Ann Lewis
+Minyon Moore       AutlJms/aa Records Management System
+                            Hex·Dump Conversion
+
+Mary Beth Cahill
+Bruce Reed
+Gene Sperling
+Paul Begala
+Elena Kagan
+Barry Toiv
+Michael Waldman
+Janet Yellen
+Mickey Ibarra
+Barbara Chow
+EMAILS RECEIVED
+ARMS - BOX 099 - FOLDER -011
+
+
+[02/26/1999-03/15/1999 ]
+
+

@@ -1,0 +1,128 @@
+RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+CREATOR: Sarah A. Bianchi ( CN=Sarah A. Bianchi/OU=OPD/O=EOP [ OPD ]   )
+
+CREATION DATE/TIME:29-APR-1998 09:41:20.00
+
+SUBJECT:   needle exchange q&As
+
+TO: Laura Emmett    ( CN=Laura Emmett/OU=WHO/O=EOP'@ EOP [ WHO]   )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D28]MAIL46776381T.126 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043E8040000010A02010000000205000000D122000000020000F7E7B6BDBDBCE85633577C
+D87C4F367A9585CC8FC72466773638510430AAC167516DEC03F06D48EF12CFB80132ACAA83AD4A
+8CFD3F571F3976614F08210DF849DC4E47876426CC71B63EF924CCDDCDCAD4B83CDEBCAB38478C
+05BD7ED4D559506F20A7A78C1EB37F5ECFF0296FD46CAB1B2D5A320800E3E06E8A62846ECE77E6
+71F2A36E55BOEC8D475BAAE4DCD815C56COC1FD02C37E6B24C9914408D57527040BBC767164B03
+167ED057366287FE5E3C9BBCEEBOABFDADAC607117847EEAF494FB6E6D9EOC89616874720A786C
+8692A5413FF32B3356CF31824E485EC61F139939086B03964B7BFA7BB82E76789931AD1D01A44B
+34F5956678AB14AE8607B4F049437E5D642EA82BOBC421F25BA51E1C3EBFAE690C1653FF6377EE
+7734A716F5CDCD73527B136DC5CE4165946700CD0613E9D95DF264ABFDD00653B5500A8AF95F51
+91602AF15CA3ABF10CAF299FF6B33E9AF9D2DE2B737CED82FF021751C5921AD721BOC7C60CD19D
+AAEEA52703AEDC8062D5A2D98F20605FOE3A397599FOC851482316CFC5C7965BFCD4D6F619707E
+4742EDFBBBEE6EOD69E445D3093954AFA7FDCEB3404B779F8B5620AF1841B60DC085138CAF3EF1
+80871AD315C9AFBD25AOEE862C32B5CB794DD9F2D6D7E3723F3907238F63AE54DEDCB1244CA287
+969570E4FE02000E00000000000000000000000823010000000BOI0000C4020000005503000000
+4EOOOOOOCF030000092501000000060000001D0400000B30020000002800000023040000087701
+000000400000004B040000083401000000140000008B0400000802010000000F0000009F040000
+08050100000008000000AE04000000000000000000000000AE040000OOOOOOOOOOOOOOOOOOOOAE
+04000000000000000000000000AE04000000000000000000000000AE0400000055020000003200
+0000B604000000985C005C004F0041005F003700SC005C005C004F00500044005C003200310036
+005F00410000000000000000000000000000000000000000000000000000000000000000000000
+0000000057494E53504F4F4COOOOOOOOOOC800C8002C012C012COI2C01C800C800300000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000B010000
+2800C8196810480D000011090000005AOOOB010000103600540069006D006500730020004E0065
+007700200052006F006D0061006E00200052006500670075006COO610072000000000000000000
+0100020058020100000004002800000000000000000000000000000000000000011202002400A1
+000000A10000000AOOOOOOD30701004500D40702000200D50701004500D60701000200D7070COO
+1700D80701005500D90703005500DA0702001700DB070D005500DC071B00658132969C24000000
+00DC0158005C01F41F7800000208337C00780000020000DC0700000301000400020000001BOOF4
+lA5C121A0900001109000000600018110000101A00540069006DOO6500730020004E0065007700
+0000000000000000DDOA10008301040003000200211000DDDDOBOB00030000040BOODDF102DC07
+F19BFI03DC07F1F100DC07F19BFIOIDC07F1F102DC07F1F103DC07F1D3050C0007010002000COO
+D3F20CF24E6565646C658045786368616E67658051264173F30CF3D0041500000B00090001B004
+0000000001201500DOF20CF2417072696C8032392C8031393938F3OCF3D0041500000B00090001
+A005F000010001201500DOD305100006010000023B0000001000D3F20CF2CCF30CF3CCF20CF251
+3AE0300C0000000008070COOE05768617480697380796F757280706F736974696F6E806F6E8074
+                                                         Hex-Dump Conversion
+
+                                  Needle Exchange Q&As
+                                      April 29, 1998
+
+
+Q:   What is your position on the Solomon Amendment to prohibit any Federal funding
+     for needle exchange programs?
+
+A:   The Administration strongly opposes this legislation because it is unnecessary and
+     unwarranted. We believe that this legislation serves only to further politicize this issue.
+     As such, we believe that Congress should focus on those issues that immediately impact
+     the health and well being ofthe nation: youth smoking, quality shortcomings, and
+     Americans ages 55 to 65 that have been failed by the insurance market.
+
+
+Q:   If you believe that needle exchange is an issue that should be decided at the local
+     level why does the Secretary need any authority to authorize Federal funding?
+
+A:   It has been the longstanding position of Congress to give the Secretary of Health and
+     Human Services the authority for to determine the scientific and public health merits for a
+     wide range of public health activities. We believe is unwarranted and unnecessary to take
+     away the Secretary's authority and that this legislation is being pursued for purely
+     political -- not policy -- reasons.
+
+
+Q:   If the science concludes that needle exchange programs reduce the transmission of
+     DIV and do not increase drug use, why aren't you releasing federal funds for needle
+     exchange programs?
+
+A:   We have always said that communities should make their own decisions on this issue,
+     based on their own circumstances and using the best available scientific information.
+     Releasing federal funding for needle exchange would have inappropriately shifted the
+     focus away from communities -- where these decisions should be made -- to the national
+     level. That could have severely undermined or threatened local programs that are
+     currently in place, and hindered additional communities from deciding to put these
+     programs into place. At the same time, such federal action could send an inappropriate
+     message about the acceptability of drug use -- a message that is not sent when an
+     individual community decides, on the basis of its unique circumstances, that a particular,
+     carefully designed needle exchange program advances public health interests. For these
+     reasons, the Administration concluded that it should simply give the scientific guidance
+     that is necessary for communities to make their own decisions, rather than federalize the
+     needle exchange issue.
+                                                   Hex-Dump Conversion
+Background:
+
+              Congress gave the Secretary of Health and Human Services the responsibility to
+              make two determinations: whether the scientific research findings conclude that
+              needle exchange programs reduce HIV transmission and whether they increase
+              drug use. In 1997, the Secretary made a determination that needle exchange
+              programs do reduce the transmission ofHIV. Last week, the Secretary held a
+              meeting with her senior scientific advisors, including Nobel Laureate and head of
+              the National Institutes of Health, Dr. Harold Varmus. These scientists agreed
+              that
+              the science-based standards have been met with regard to drug use as well.
+
+Q:   Wasn't the decision not to federally fund needle exchange programs based on
+     political considerations?
+
+A:   The decision was based on a belief that communities should decide for themselves
+     whether to adopt needle exchange programs, based on their own local circumstances and
+     the best scientific evidence possible. We did fear that federalizing needle exchange
+     would imperil such local decision making, by igniting a congressional battle on the
+     subject. ,To that extent, the Administration's decision took into account political
+     realities. But first and foremost, the decision resulted from a commitment to real,
+     locally-based decision making on this subject.
+
+

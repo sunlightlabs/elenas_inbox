@@ -1,0 +1,263 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP [ WHO]       )
+
+CREATION DATE/TIME:30-APR-1998 18:59:47.00
+
+SUBJECT:   Weekly Report
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD]    )
+READ: UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D61]MAIL47498691X.126 to ASCII,
+ The following is a HEX DUMP:
+
+ FF575043F20F0000010A02010000000205000000ED4F00000002000024BA23469CB30342206DCE
+ 6FA5C684AB6628E69854E42074C5A9E7A7C52A632FC99BB7469033FB629B428CE759B81815C019
+ 819E7A7B2DC79387C29BODBAB4400698D368C487ED2E9D4E182AA62F5E77DAABE466095C6E497D
+ 11D9F562750223C5EDB07CF710D0421CBF4B39C84D3129EAAF486F5EFC3B90E43534A258697F15
+ 3BOF73708C2DBD564E30B722EFB47A017BF6E60C96BEE82DF77FAO83E133BD88429D9491D91EA5
+ BE4823027442E15D568F7A2B8A87CBEE6197B8B3E426DB449F216699E9CA7FCDOF7B060DD1BEDE
+ B12B3A148086D69C7794CB008B15FD6A686AOBF371B1E82974CA9F8019BC5BB3B22E718E26391F
+ 506DFA7A0782EOA014C4D26C0607F82E4BF45D81E9414430ED5A5839B73C049728704406E7B36C
+ 9BC6B17387907F63C2132C19A2067B770C97B1F807EDD9840060675B07247A40715111CBA4AD8C
+ 453725533D9F4B286A801698D530FF241AFBOE0624B9EC51A353EB7F877ACl1148BCOA2EE5E745
+ 2CCB8EB61B30DF6EB7F71B705ACDA20FCAC3FD8D35EFBEF4B285B8FB48305985AE3F52723C82E8
+ 1FE8F7725BOF62A10F793C4C0158B05492D9611622E3CA057871EA5BBE22DF6EE1210ADBDABAF7
+ A3FA10F250F3C08C84F25CAECA79955F2F302696FDE632CB21564959C40D6FA408BB67659D0694
+ EFOB3B1DOD0200A400000000000000000000000823010000000B010000F80A000000550COOOOOO
+ 4E000000030C000009250100000006000000510COOOOOB300300000028000000570C0000080501
+ 000000080000007FOC0000000000000000000000007FOC00000055020000003C000000870COOOO
+ 00000000000000000000870C00000055010000004EOOOOOOC30COO000877010000004000000011
+ OD000008340100000014000000510D00000802010000000FOOOOOO650DOOOOOB30010000006COO
+ 0000740D00000055050000004EOOOOOOEOOD00000055010000004E0000002EOE00000055010000
+'004E0000007COEOOOOOB300100000044000000CAOE00000608010000002DOOOOOOOEOF00000055
+ 010000004E0000003BOF0000000000000000000000003BOFOOOOOO0000000000000000003BOFOO
+ 00000000000000000000003BOF0000000000000000000000003BOF000000000000000000000000
+ 3BOF0000000000000000000000003BOFOOOOOOOOOOOOOOOOOOOOOO003BOFOOOOOOOOOOOOOOOOOO
+ 0000003BOF0000000000000000000000003BOFOOOOOOOOOOOOOOOO000000003BOFOOOOOOOOOOOO
+  0000000000003BOFOOOOOOOOOOOOOOOOOOOOO'0003BOFOOOOOOOOO0000000000000003BOFOOOOOO
+  0000000000000000003BOF0000000000000000000000003BOFOOOO000000000000000000003BOF
+ 0000000000000000000000003BOF0000000000000000000000003BOFOOOOOOOOOOOOOOOOOOOOOO
+ 003BOF0000000000000000000000003BOFOOOOOOOOOOOOOOOOOOOO00003BOFOOOOOOOOOOOOOOOO
+ 000000003BOF00000942010000001D000000890FOOOOOOOOOOOOOO0000000000890FOOOOOOOOOO
+  00000000000000890F000000000000000000000000890FOOOOOOOO0000000000000000890FOOOO
+ 00000000000000000000890F000000000000000000000000890FOO000000000000000000000089
+ OF000000000000000000000000890FOOOOOOOOOOOOOOOOOOOOOOOO890FOOOOOOOOOOOOOOOOOOOO
+ 0000890F000000000000000000000000890FOOOOOOOOOOOOOOOOOO000000890FOOOOOOOOOOOOOO
+  0000000000890F000000000000000000000000890FOOOOOOOOOOOO000000000000890FOOOOOOOO
+  0000000000000000890F000000000000000000000000890FOOOOOO000000000000000000890FOO
+ 0000000000000000000000890F000000000000000000000000890F000000000000000000000000
+ 890F000000000000000000000000890FOOOOOOOOOOOOOOOOOOOOOO00890FOOOOOOOOOOOOOOOOOO
+  000000890F000000000000000000000000890FOOOOOOOOOOOOOOOO00000000890FOOOOOOOOOOOO
+  000000000000890F000000000000000000000000890FOOOOOOOOOO00000000000000890FOOOOOO
+ 000000000000000000890F000000000000000000000000890FOOOO00000000000000000000890F
+  000000000000000000000000890F00000000000000000000000089OFOOOOOOOOOOOOOOOOOOOOOO
+                                                          Hex-Dump Conversion
+
+                                           May 1, 1998
+
+
+MEMORANDUM FOR THE PRESIDENT
+
+FROM:          Bruce Reed
+               Elena Kagan
+
+RE:            DPC Weekly Report
+
+
+       Tobacco -- Legislative Update: Senator Lott has said he will bring the McCain bill to
+the Senate on May 18th. On Wednesday, as you know, we had a very positive meeting with Lott
+and Daschle where we discussed developing an agreed upon manager's amendment as well as an
+amendment strategy for the floor. We then met separately with Senator McCain on Thursday,
+and he said that he would urge Lott to appoint Senator Mack to negotiate on behalf of the
+Republicans. We expect that negotiations could begin as soon as Tuesday.
+
+         The Commerce Committee will shortly release a new version of the McCain bill with
+technical changes. In addition, McCain's staff asked for our assistance in restructuring the bill so
+that it could operate effectively whether or not the industry consents. In response, we plan to
+provide them shortly with proposed revisions that separated out all the provisions
+requiring the consent of participating manufacturers -- as well as the benefits they are
+seeking, such as the liability cap -- into a single stand-alone title. The other titles would
+apply to all manufacturers, whether they consent or not, and include advertising restrictions
+originally included in the FDA rule but not the broader ones that raise constitutional difficulties
+(those would be put in the separate title). ELENA: LA COUNTY OFFICIALS ARE IN
+TOWN NEXT WEEK, SO THIS WOULD BE A GOOD WEEK TO GET THIS IN. I
+HAVE ALREADY HEARD A RUMOR THEY ARE TRYING TO GET A MEETING
+WITH ERSKINE, THOUGH NOTHING IS ON HIS CALENDAR YET. THEY'LL
+PROBABLY ALSO PUSH FOR A VP MEETING.
+
+        Child Support Enforcement -- Progress on Child Support Incentives Legislation:
+Both the House and Senate are moving forward on good legislation to reward states for high
+performance on child support collections, and to ensure that states face tough but reasonable
+penalties if they fail to establish child support enforcement computer systems on time. The
+penalty in current law is so extreme (withholding all TANF and child support funds) that it has
+never been enforced, while the proposed penalties are smaller -- e.g., 4% the first year, 8% the
+second year -- but automatic. We favor the tougher House bill. The Senate bill would allow
+states an extra year to comply without penalty, and let them "earn back" prior penalties once they
+come into compliance. About 15 states are likely to face some penalty.
+                                                        Hex-Dump Conversion
+
+         The Senate bill was specifically crafted to satisfy members from California. That state
+faces far greater penalties than any other state because it is years away from having a functioning
+state-wide system and has continued to rely on county-based systems. However, L.A. County
+remains very unhappy with even the Senate position, and is pushing both Congress and the
+Administration to give it a special exemption from any penalty. L.A. County District Attorney
+Gil Garcetti argues that L.A. County has an excellent county system that has long functioned well
+and was designed with federal involvement under a waiver several years ago. DPC, HHS, and
+OMB hold that such an exemption would allow numerous other counties to make the same
+argument, and that the federal government must hold states accountable for their actions in this
+critical area. (States are not required to pass along penalties to counties.) Hill leaders do not
+generally support an L.A. County exemption, and California members like Matsui and Stark
+oppose it. Sen. Feinstein supports the exemption.
+
+        In addition, we are working with Congress on how to create a standard form for medical
+support orders, in order to make it easier for children to be covered by a non-custodial parent's
+health insurance. Finally, the House bill would exclude aliens who fail to pay child support
+from admission to the U.S. and make them ineligible for visas. We generally support this
+provision, but are working to ensure that it is better targeted so that it does not create a huge
+administrative burden for the INS.
+
+        Health Care -- Prescription Drug Coverage and Medicare: Prescription drug costs
+represents the highest out-of-pocket health care expenditure for three out-of-four elderly.
+Many older Americans "stretch-out" their supply of prescriptions to defray costs; their
+non-compliance with drug regimens frequently results in additional, more expensive Jtealth
+care treatments. A number of your Medicare Commissioners, as well as a host of outside
+validators (like Henry Aaron and Bob Reischauer), have indicated their interest in
+exploring options to providing prescription drug coverage for Medicare beneficiaries.
+They note that much of our future medical interventions will be pharmacologically-based
+and, as such, Medicare's current lack of coverage of out-patient drugs is antiquated. In
+response, DPCINEC is setting up a work group to review policy options and costs. Costs
+will certainly determine the viability of any drug coverage. However, more studies are
+becoming available about the cost-effectiveness of drug coverage. Moreover, since more
+than half of Medicare's managed care plans now offer some type of prescription drug
+benefit, it is not inconceivable to contemplate required prescription drug coverage for at
+least these plans. Such a recommendation could be bolstered by studies that show that,
+notwithstanding the BBA Medicare reforms, most managed care plans remain
+overcompensated relative to the patients they serve. Finally, it may be advisable to raise
+this issue relatively early in the debate to illustrate that the Commission's and our review of
+the long-term challenges facing Medicare are focused on the need for program
+improvements as well as fmancing.
+
+      Health Care -- Patients' Bill of Rights Update: On Wednesday, Congressman
+Ganske and six other Republicans added their names as cosponsors to the Dingell Patients'
+
+
+                                                2
+                                                    Hex·Dump Conversion
+
+Bill of Rights legislation. In a White House released statement, you praised these members
+for providing "new momentum towards ensuring that a patients bill of rights will become
+the law of the land." Congressman Ganske appreciated your comments and Congressman
+Dingell's office indicated that it has helped place needed pressure on the Republican
+Leadership to move this legislation this year. On Friday, we met with the disability
+advocacy community to encourage them to mobilize their effective network to strongly
+push for passage of this bill. They have indicated that they are going to make this a much
+higher priority. (NOTE TO ELENA: THIS IS A MEETING THAT WILL TAKE
+PLACE TOMORROW AND I AM ASSUMING WHAT I BELIEVE THE OUTCOME
+WILL BE .)
+
+         Immigration -- HIB visas: HlB visas are temporary work visas that allow "highly
+skilled" immigrants (with a BA or equivalent) to work in this country for up to six years. Under
+current law, the number ofHIB visas is capped at 65,000 per year. Last year, this cap was
+reached for the first time. The information technology industry strongly supports raising the
+annual cap to address what they maintain is a shortage of U.s. workers with IT skills. Others,
+including the Department of Labor, challenge the industry's conclusions about a shortage and are
+concerned that the current HIB program does nothing to target its use to employers who are
+experiencing skills shortages. On April 30, 1998, the Administration sent a letter to Congress
+supporting Representative Lamar Smith's bill, which includes a substantial reform of the HIB
+program, if it is modified to include meaningful training provisions and a more modest increase
+in the cap. Representative Smith's bill was voted out of committee without amendment. We
+plan to continue to work with Smith and other Members (both House and Senate) to develop a
+bill that meets the Administration's objectives.
+
+        Campaign Finance Reform -- Free Broadcast Time: Norm Ornstein, co·chair of the
+Advisory Committee on Public Interest Obligations of Digital Television Broadcasters is trying
+to forge a consensus proposal on free broadcast time. There are two main components to this
+proposal: 1) Each broadcast station would be required to provide 5 minutes of free air time per
+night (6:00 pm to 11 :30 pm) over the last 30 days of an election. At least 3 minutes of the free
+time wold be broadcast consecutively. Local stations would decide which candidates have
+access to the free air time. Stations would also design the format for the air time (commercials,
+interviews, mini-debates). This proposal would be implemented either as an FCC mandate or as
+part of a new "Code of Conduct". To give a voluntary agreement some teeth, the FCC would
+announce that no broadcast licenses would be renewed unless the station could justify why it did
+not meet the conditions of the Code of Conduct (currently the presumption is for automatic
+renewal); 2) Challenge Congress to replace "lowest unit rate cost" with a system that would
+provide one minute of free time for every two minutes purchased. Under Ornstein's proposal,
+the state parties would control the free time, not the candidates.
+
+       While we think that Ornstein's proposal moves the debate in the right direction, we are
+concerned about giving the broadcasters too much control over format and candidate access.
+We believe the Committee and the FCC should develop guidelines for the broadcasters on access
+
+
+                                               3
+                                              Hex-Dump Conversion
+and format. We have reservations about challenging Congress to enact the second part of
+Ornstein's plan. While the FCC cannot repeal "lowest unit rate cost" it could require
+broadcasters to provide one free minute of air time for every two minutes purchased. We think
+the Committee should recommend that the FCC institute such a system and challenge Congress
+to repeal "lowest unit rate cost" as a separate issue. Finally, we are concerned with the role of
+state parties in Ornstein's proposal and believe there should be a cap on the amount of free time
+that anyone candidate could accumulate in order to prevent very wealthy candidates from
+abusing the system.
+
+       Education -- D.C. Student Opportunity Scholarship Act (Voucher Bill): The
+House passed legislation (214 to 206) that would set up a D.C. voucher program by providing
+scholarships of $3200 for low-income students to apply toward the cost of a private school
+education. You have promised to veto this legislation when it reaches your desk.
+Congressional leaders have acknowledged that they lack the necessary votes to override a veto.
+
+         Education -- Administration Opposition to Unz Initiative Announced: The Los
+Angeles Times reported Monday that the administration was opposed to the Unz Initiative to
+eliminate bilingual education in California. The Times reported that the administration is in favor
+of reforms to bilingual education, including a three-year goal for teaching students English.
+Also on Monday, Secretary Riley issued a detailed statement explaining our position on the Unz
+Initiative. Senior staffin IGA, Public Liaison and Political Affairs reported that the reactions of
+state and local leaders was positive both to the message and the timing of the announcement.
+
+        Education -- Charter Schools in California: After two weeks of negotiations among
+Silicon Valley high-tech executives, the CalifornIa Teachers' Association (CTA), and state
+legislators, a legislative conference committee reached a compromise Wednesday on a legislative
+alternative to a charter school ballot initiative backed by the executives and opposed by the CTA.
+ If enacted, the bill would increase the cap on charter schools in the state from 100 to 250, and
+allow another 100 new schools each subsequent year. The bill would also amend California's
+charter school law to make it easier to start charter schools. Votes were expected Thursday, April
+30 in both houses of the California legislature on the conference agreement. The bill would
+need to be signed into law by Friday, May 1 in order to keep the initiative off of the ballot.
+
+        Crime -- Assault Weapons: Despite efforts by both Republicans and Democrats on the
+conference committee considering the supplemental appropriations bill, a provision to exempt
+firearms "in transit" from the Administration's decision to ban semiautomatic assault rifles that
+accept large capacity magazines was not included in the final conference report. However,
+Senator Craig expressed his intention to offer a similar amendment during the appropriations
+process.
+
+           Crime -- COPS Initiative: The Department of Justice is preparing to launch a new
+$240 million initiative to hire about 2,000 more police in high-crime and high-need
+neighborhoods. Under this initiative, the Justice Department will select 16 cities (8 small, 8
+
+
+                                                 4
+                                               Hex-Dump Conversion
+large) that agree to target crime and drug "hot spots," youth violence problems, or economically
+distressed areas and provide them with 100% grants to hire more police officers. By waiving the
+25% local match, key cities that may not have been able to afford more police officers will be
+able to do so. Mayor Daley of Chicago has pushed the Justice Department to use its waiver
+authority in this targeted manner, and he is interested in announcing this new initiative with the
+Administration. Weare working with Rahm to submit a scheduling request for such an event.
+
+
+
+
+                                                5
+~-   .    '   ~.
+
+
+
+

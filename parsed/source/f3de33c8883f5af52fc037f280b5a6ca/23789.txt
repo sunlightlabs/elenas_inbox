@@ -1,0 +1,406 @@
+ RECORD TYPE: PRESIDENTIAL      (NOTES MAIL)
+
+ CREATOR: Jose Cerda III ( CN=Jose Cerda III/OU=OPD/O=EOP [ OPD 1 )
+
+ CREATION DATE/TIME:ll-MAY-1999 23:08:34.00
+
+ SUBJECT:   sorry ... typo in quote ... it's late ... jc3
+
+ TO: Christopher C. Jennings ( CN=Christopher C. Jennings/OU=OPD/O=EOP @ EOP [ OPD 1
+ READ: UNKNOWN
+
+ TO: Mary L. Smith ( CN=Mary L. Smith/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ:UNKNOWN
+
+ TO: Irene Bueno ( CN=Irene Bueno/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ: UNKNOWN
+
+ TO: Karin Kullman     CN=Karin Kullman/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ: UNKNOWN
+
+ TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ:UNKNOWN
+
+ TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Deborah Akel ( CN=Deborah Akel/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ:UNKNOWN
+
+ TO: Alejandro G. Cabrera ( CN=Alejandro G. Cabrera/O=OVP @ OVP [ UNKNOWN 1 )
+ READ: UNKNOWN
+
+ TO: Mark D. Neschis ( CN=Mark D. Neschis/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Richard L. Siewert ( CN=Richard L. Siewert/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Megan C. Moloney ( CN=Megan C. Moloney/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Melissa G. Green ( CN=Melissa G. Green/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ: UNKNOWN
+
+ TO: Sarah E. Gegenheimer ( CN=Sarah E. Gegenheimer/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Julia M. Payne ( CN=Julia M. Payne/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Linda Ricci   ( CN=Linda Ricci/OU=OMB/O=EOP @ EOP [ OMB 1 )
+ READ: UNKNOWN
+
+ TO: Beverly J. Barnes ( CN=Beverly J. Barnes/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Nanda Chitre ( CN=Nanda Chitre/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Joseph P. Lockhart ( CN=Joseph P. Lockhart/OU=WHO/O=EOP @ EOP [ WHO 1 )
+
+
+ READ: UNKNOWN
+
+ TO: Devorah R. Adler ( CN=Devorah R. Adler/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ:UNKNOWN
+
+ TO: Thomas L. Freedman ( CN=Thomas L. Freedman/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ: UNKNOWN
+
+ TO: Leanne A. Shimabukuro ( CN=Leanne A. Shimabukuro/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ:UNKNOWN
+
+ TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ: UNKNOWN
+
+ TO: Cathy R. Mays   ( CN=Cathy R. Mays/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ: UNKNOWN
+
+ TO: David Vandivier ( CN=David Vandivier/OU=OMB/O=EOP @ EOP [ OMB 1 )
+ READ: UNKNOWN
+
+ TO: Melissa B. Ratcliff ( CN=Melissa B. Ratcliff/O=OVP @ OVP [ UNKNOWN 1 )
+ READ: UNKNOWN
+
+ TO: Erica S. Lepping ( CN=Erica S. Lepping/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Julianne B. Corbett ( CN=Julianne B. Corbett/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Heather M. Riley ( CN=Heather M. Riley/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Julie B. Goldberg ( CN=Julie B. Goldberg/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Jason H. Schechter ( CN=Jason H. Schechter/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ:UNKNOWN
+
+ TO: Dag Vega ( CN=Dag Vega/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Ruby Shamir ( CN=Ruby Shamir/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ: UNKNOWN
+
+ TO: Elizabeth R. Newman ( CN=Elizabeth R. Newman/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Jennifer M. Palmieri ( CN=Jennifer M. Palmieri/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Barry J. Toiv ( CN=Barry J. Toiv/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ:UNj<NOWN
+
+ TEXT:
+ ==================== ATTACHMENT   1 ====================
+ ATT CREATION TIME/DATE:   0 00:00:00.00
+
+ TEXT:
+ Unable to convert ARMS_EXT: [ATTACH.D301ARMS28236354U.136 to ASCII,
+  The following is a HEX DUMP:
+
+
+
+FF575043FC060000010A020100000002050000008E7700000002000045F71A2BD47E7B733C2A56
+E540FDE5E733091D872BE4BEB289749A2F5A95D7FD5B15F294FA03DD57751969A4AD87CAA8B894
+3ED48D3099A9AC64D41FF2B88680A9AFAE298AAC6A037733D2E30BED03E8CB5EFA04D84B5E8D20
+                                              May 12, 1999                        Automated Records ManagementSvstem
+                                                                                          Hex-Dump Conversion .
+                "I want to put 100,000 police on the street working with young people,
+                keeping bad things from happening, making the streets safe, driving the
+                crime rate down, making neighborhoods, even poor neighborhoods, places of
+                peace and serenity again. "
+                                                                              Governor Bill
+                Clinton, July 9, 1992
+
+Today, President Clinton will announce that his COPS program has achieved an important
+milestone by helping communities to fund the hiring or redeployment of 100,000 police officers
+across the nation. Additionally, he will propose new legislation -- The 21st Century Law
+Enforcement and Public Safety Act -- that builds on the successful 1994 Crime Act, which has
+helped to cut the crime rate dramatically across the nation. This new legislation will renew the
+Justice Department's COPS program and include new provisions to reduce juvenile and drug
+crime, protect crime victims, and combat international crime and terrorism.
+
+·     Helping fund 100,000 community-oriented police. President Clinton will announce grants
+      of more than $95 million for 526 communities to hire approximately 1,500 new police officers.
+       With these new grants, the Community Oriented Policing Services (COPS) office will have
+      provided 11,300 cities with $5.9 billion to help hire and redeploy more than 100,000 police
+      officers across the country -- fulfilling the President's 1992 pledge to do so. More than half of
+      these officers are already patrolling America's streets.
+
+·     Building on what works. The President also will propose new legislation -- The 21st Law
+      Enforcement and Public Safety Act -- that builds on the successful programs enacted as part of
+      the 1994 Crime Act. The President's new legislation will:
+
+      (1) Keep our commitment to law enforcement by renewing the COPS program and providing
+      funds to hire or redeploy between 30,000 and 50,000 more police, giving police the high-tech
+      tools they need to do their job, and hiring more local prosecutors to target local crime problems.
+
+      (2) Punish and prevent youth crime and violence by giving prosecutors new tools to punish
+      the most violent juveniles and curb witness intimidation by gang members; promoting swift
+      and certain punishment for all juvenile offenders; and working to prevent at-risk youth from.
+      committing serious crimes in the first place.
+
+      (3) Break the cycle of drugs and crime by expanding drug courts, helping states and localities
+      implement "zero tolerance" drug supervision programs that test, treat, and punish all drug
+      offenders, and putting into place tough provisions on money laundering to help staunch the
+      flow of illegal drug profits.
+
+      (4) Protect all crime victims by enhancing penalties for child abusers who kill and adults who
+      commit violent crimes in the presence of a child; providing new authorities for federal law
+      enforcement to protect older Americans from illegal telemarketing, nursing home neglect and
+      abuse, retirement rip-offs, and health care fraud; and by keeping up the fight against domestic
+      violence.
+
+      (5) Combat international crime and terrorism by prohibiting certain possession and unsafe
+      handling of biological agents and toxins, and making it more difficult for these agents to fall
+      into the hands of terrorists.
+                 KEEPING OUR COMMITMENT TO LAW ENFORCEMENT
+                                                                Hex-Dump Con~e:-sioil
+
+·   Renewing the COPS program. The President's 21st Century Law Enforcement and Public
+    Safety Act extends the COPS program and proposes spending $1.3 billion annually to help
+    communities continue to hire, redeploy, and retain police officers. It also will give law
+    enforcement officers access to the latest crime-fighting technologies, and target funds to engage
+    the entire community in the fight against crime. Specifically, the bill will provide:
+
+           - $600 million for more police on the street.        These funds would be used primarily to
+           hire and redeploy between 30,000 and 50,000 more law enforcement officers over five
+           years, with an effort to target new police officers to crime "hot spots." A portion of the
+           funds also would be used to help economically-distressed communities absorb the
+           long-term costs of their new police hires, and to fund programs to train, educate, and
+           recruit police officers -- including efforts to train police officers in ethics and integrity
+           and to promote minority recruitment.
+
+           - $350 million for crime-fighting technologies.       These funds would be used to help
+           state and local enforcement agencies gain access to new technologies that will allow
+           them to communicate more effectively, solve more crimes, and conduct comprehensive
+           crime analysis. For instance, these funds could be used to: use computers and wireless
+           communications to send data and images from a police department in one jurisdiction to
+           a patrol car in the next; improve the state of the nation's overburdened and underfunded
+           crime labs and make high-end laboratory technologies -- such as DNA analysis -- more
+           widely available; and expand the use of crime mapping and other technologies that
+           improve law enforcement's ability to analyze, predict, and respond to local crime trends
+           and problems.
+
+           - $200 million for community prosecutors and neighborhood district attorneys.
+           As police and community residents have joined forces to fight crime on a proactive
+           basis, communities also have turned to local prosecutors to playa more active role in
+           community crime-fighting efforts. These funds will help communities hire more
+           prosecutors to target neighborhood crime problems.
+
+           - $125 million for community-wide crime prevention.          The President's new
+           legislation specifically provides funds to engage the entire community in preventing and
+           fighting crime. These funds could be used to: work with local school officials in
+           adopting community-wide plans to prevent school violence; involve faith-based and
+           other values-based organizations in juvenile crime prevention efforts; and establish
+           citizens' police academies that teach neighborhood residents problem-solving skills.
+
+·   Supporting Law Enforcement. The President's new crime legislation also will extend
+    federal grants to help police departments purchase bullet-proof vests for their police officers
+    and allow communities to use a portion of COPS funds to help current police officers pay for a
+    college education or graduate school.
+
+
+
+          PUNISHING AND PREVENTING YOUTH CRIME AND VIOLENCE
+                                                                   Hex-Dump COfiverstOn
+·   Cracking down on gangs and violent youth. The 21 st Century Law Enforcement and
+    Public Safety Act incorporates key provisions of the Anti-Gang and Youth Violence Strategy
+    announced by the President in 1997. It provides new tools to help federal prosecutors go after
+    gang criminals and violent youth. Specifically, the bill will:
+
+           -- Give prosecutors the discretion to decide whether to try the most serious violent
+           juveniles as adults, allowing prosecutors to treat appropriately the older and more
+           serious offenders who may not be ade'quately punished in the juvenile justice system;
+
+           -- Expand law enforcement access to federal juvenile records by requiring that
+           federal juvenile records involving gun offenses or other adult-type felonies be sent to
+           the FBI and made available to all law enforcement officers in the same manner as adult
+           records;
+
+           -- Make it easier to prosecute gang members and other violent criminals who
+           attempt to intimidate or retaliate against witnesses; and
+
+           -- Authorize judges to hold gang members without bail pending trial if there is
+           probable cause to believe they have been involved in criminal activity.
+
+·   Provide swift, certain, and proportionate punishments for juvenile offenders. The
+    President's legislation also authorizes new funds for states and localities to ensure swift,
+    certain, and proportionate punishments whenever juvenile offenders violate the law -- sending
+    the message that there are clear and certain consequences for breaking the rules. These grants
+    could be used to fund:
+
+           - Graduated sanctions that hold youthful offenders accountable for every offense, and
+           that escalate in intensity for repeat offenses;
+
+           - Teen courts or peer juries to promote zero-tolerance policies for misdemeanor
+           offenses such as truancy, vandalism, and underage alcohol and tobacco use; and
+
+           - Restitution or victim mediation, which requires young offenders and their family
+           members to meet face-to-face with the victims of their crimes and agree upon
+           appropriate reparations, including restitution or community service.
+
+·   Prevent serious juvenile crime in the first place. The President's bill authorizes $95 million
+    for comprehensive community-based prevention to target at-risk youth, including:
+
+           - Mentoring and after school programs to provide positive role models and
+           responsible adult supervision for young people; and
+
+           - Anti-truancy initiatives to keep kids in school and off the streets, where they are
+           more likely to become victims or perpetrators of crime.
+                   BREAKING THE CYCLE OF DRUGS AND CRIME
+
+
+·   Enforcing "zero tolerance" drug supervision.      In 1997, more than three-quarters of the
+                                                                       Hex-Dump COiiversion .
+    nation's prisoners reported past drug use, and one in six committed their crimes so they could
+    purchase drugs. The 21st Century Law Enforcement and Public Safety Act addresses this
+    problem by establishing a new $100 million initiative to help states and localities
+    systematically test, treat, and sanction drug-involved probationers, prisoners, and parolees.
+    The bill also reauthorizes the successful drug court initiative established in the 1994 Crime Act,
+    and extends funding to provide intensive, long-term drug treatment to state prisoners with
+    serious drug problems.
+
+·   Enhancing drug penalties and enforcement. The President's bill contains targeted penalty
+    increases for using kids to sell drugs and selling drugs on or near school property. It also grants
+    the Attorney General emergency authority to temporarily reschedule certain controlled
+    substances, on a temporary basis.
+
+·   Helping states fight drugs and crime. The President's bill extends the Violent Offender
+    Incarcerationtrruth-in-Sentencing (VOIffIS) prison grant program, while giving states
+    additional flexibility to free up additional prison beds by seeking authorization to use up to 25
+    percent of previously awarded grant funds to implement graduated sanctions programs for
+    non-violent offenders. Graduated sanction programs hold offenders accountable for every
+    offense they commit, while escalating in intensity with repeat offenses. The bill also
+    reauthorizes the Byrne block grant program, which funds statewide anti-drug plans and
+    multi-jurisdictional drug enforcement task forces.
+
+·   Cracking down on drug money laundering. Money laundering is a global problem, often
+    involving international financial institutions and the smuggling of currency across borders. To
+    continue the Administration's fight against international money laundering and drug crime, the
+    President's bill will:
+
+           -- Help stop the flow of cash drug proceeds by making it a federal crime to smuggle
+           "bulk cash" (more than $10,000 in currency) out of the United States, and by cracking
+           down on money transmitters who knowingly accept criminal proceeds from abroad or
+           who fail to report large cash transactions;
+
+           ·· Hold foreign banks that violate our laws accountable by allowing federal courts to
+           exercise jurisdiction over them;
+
+           ·· Thwart black market transactions by requiring persons who use drug proceeds to
+           prove they didn't know the money came from unlawful activity; and
+
+           ·· Seize more illegal drug profits by doing more to confiscate the assets of criminals
+           and encouraging more cooperation from foreign governments.
+                                                                                    Hex-DiJmp COllveiSion
+
+·   Establishing a new safety net for seniors. Falling violent and property crime rates mean our
+    nation's seniors are safer, but these citizens remain threatened by telemarketing scams,
+    retirement rip-offs, and abuse and neglect by caretakers. To help protect seniors from these
+    crimes and punish the criminals who prey on elderly Americans, the President's bill will:
+
+           - Shut down fraudulent telemarketers by granting the Attorney General new authority
+           to block and terminate telephone service to illegal telemarketers;
+
+           - Protect nursing home residents from abuse and neglect by giving federal
+           prosecutors new tools to halt and punish nursing home operators who repeatedly abuse
+           and neglect the residents in their care;
+
+           - Fight health care fraud and abuse by making it easier for the Justice Department to
+           prosecute and punish illegal kickback schemes -- and harder for criminals to stick
+           Medicare with the bills by declaring bankruptcy; and
+
+           - Safeguard retirement and pension plans by making it a federal crime to defraud
+           employee pension benefit or retirement funds and increasing penalties for retirement
+           plan managers who take bribes.
+
+·   Protecting children exposed to violence. Each year millions of children and adolescents are
+    victims of violent crime, and millions more witness serious violence or abuse. These children
+    are more likely to go on to commit violent crimes themselves. The President's bill will make
+    it easier for federal prosecutors to charge child abusers who kill with first degree murder, and to
+    bolster the prosecution of adults who commit violent crimes in front of children.
+
+·   Continuing the fight against domestic violence. The historic Violence Against Women Act
+    (VAWA) helped to strengthen law enforcement's response to violent crime committed against
+    women. It helped promote comprehensive law enforcement strategies, encouraged pro-arrest
+    policies for domestic violence crimes, and provided emergency shelter to women and children
+    fleeing abusive situations. The President's bill extends these successful programs and also:
+
+           - Targets the illegal trafficking of women and children by giving federal prosecutors
+           new tools to bring trafficking cases and increasing penalties for persons who transport
+           women and children to the United States and coerce them to work in sweatshops and
+           other forced labor; and
+
+             Protects battered immigrant women and children by enabling them to file their
+           own petitions for lawful status, without having to rely on abusive spouses.
+                                                                                   Hex-Dump Conversion .
+              COMBATING TERRORISM AND INTERNATIONAL CRIME
+
+
+·   Keeping biological weapons out of the hands of terrorists. Biological weapons pose a
+    serious threat to the United States, particularly in the hands of terrorists or disaffected groups.
+    The President's bill will help keep dangerous biological agents and toxins out of the wrong
+    hands by:
+
+           - Barring unauthorized possession and transfer of harmful biological agents;
+
+           - Holding accountable persons who knowingly disregard public health and safety
+           when handling deadly toxins;
+
+            - Making it a crime to perpetrate a hoax involving biological agents; and
+
+           - Prohibiting violent felons and fugitives from possessing dangerous biological
+           agents.
+
+·   Implementing the President's International Crime Control Strategy. The President's bill
+    includes key provisions from the International Crime Control Act he introduced last year,
+    including measures to:
+
+           - Create a new federal criminal penalty for port-running, an evasion tactic
+           employed by contraband smugglers to pass through ports without stopping -- putting
+           law enforcement and civilians at great risk;
+
+            - Strengthen our ability to intercept drug smuggling vessels by making it a criminal
+            offense for failing to "heave to" a vessel at the direction of a Coast Guard or other
+            federal law enforcement official seeking to board that vessel;
+
+            · Protect Americans abroad by strengthening our authority to investigate and
+            prosecute organized crime groups who commit crimes against Americans abroad;
+
+            · Respond to emerging international crime problems by enhancing enforcement tools
+            to combat international arms trafficking and requiring additional "end-use" verification
+            of certain precursor chemicals used to manufacture illegal drugs; and
+
+            · Deny safe haven for international fugitives by excluding drug traffickers who
+            attempt to enter the United States to avoid prosecution in another country.
+EMAILS RECEIVED
+ARMS - BOX 095 - FOLDER -001
+
+
+[05/12/1999-05/15/1999 ]
+
+

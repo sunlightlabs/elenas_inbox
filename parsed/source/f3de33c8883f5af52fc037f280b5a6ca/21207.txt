@@ -1,0 +1,134 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Lisa M. Jones ( CN=Lisa M. Jones/OU=OMB/O=EOP [ OMB 1 )
+
+CREATION DATE/TIME: 14-SEP-1998 11:19:58.00
+
+SUBJECT:   Heads-up Memo
+
+TO: Mickey Ibarra ( CN=Mickey Ibarra/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Michael Waldman ( CN=Michael Waldman/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Gene B. Sperling ( CN=Gene B. Sperling/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Minyon Moore ( CN=Minyon Moore/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Ann F. Lewis ( CN=Ann F. Lewis/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Ron Klain ( CN=Ron Klain/O=OVP@OVP [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Rahm I. Emanuel ( CN=Rahm I. Emanuel/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Daniel N. Mendelson ( CN=Daniel N. Mendelson/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Janet L. Yellen ( CN=Janet L. Yellen/OU=CEA/O=EOP@EOP [ CEA 1 )
+READ: UNKNOWN
+
+TO: Barry J. Toiv ( CN=Barry J. Toiv/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: John Podesta ( CN=John Podesta/OU=WHO!O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Sally Katzen ( CN=Sally Katzen!OU=OPD!O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Thurgood Marshall Jr ( CN=Thurgood Marshall Jr!OU=WHO!O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Lawrence J. Stein ( CN=Lawrence J. Stein/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Maria Echaveste ( CN=Maria Echaveste/OU=WHO!O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TEXT:
+
+
+The attached memo was signed on Friday, September 4th.
+==================== ATTACHMENT 1 ====================
+AT~ CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D90)MAIL452175652.226 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504370040000010A020100000002050000002DII0000000200003C27A0877E4CFBE5D86ACO
+
+THROUGH:                  Jack Lew
+
+FROM:                     Donald R. Arbuckle
+
+SUBJECT:                  Heads up on HHS Proposed Rule on Medicaid Managed Care
+
+
+        HHS is preparing to submit a proposed rule which substantially alters the Medicaid
+managed care program, implementing key provisions in the Balanced Budget Act (BBA) of
+1997. The rule streamlines the administration of the program for States, adds patient
+protections and creates a number of new quality-related requirements on managed care
+organizations (MCOs). The rule is complicated because it was developed working with three,
+often differing constituencies: beneficiaries (advocates), States and MCOs. Chris Jennings
+(DPC) is organizing an event on the 17th around the rule. HHS is hoping to submit the rule to
+OMB
+early next week but is struggling to gain closure on a number of issues.
+
+       Relying on both the BBA and the Patient Bill of Rights, the rule establishes new
+beneficiary protections in areas such as quality assurance, grievance rights and coverage of
+emergency services. The rule eliminates the waiver process, leaving States free to mandate
+enrollment of beneficiaries into managed care (with the exception of vulnerable populations,
+such as the disabled) and other impediments to managed care such as the enrollment composition
+requirement. As required by law, the rule also creates a quality assessment and performance
+improvement program to monitor and evaluate the quality ofMCO service provided.
+
+        Although HHS has done fairly extensive outreach to affected constituencies, it is unclear
+how patient advocates; States, and the managed care industry will react. Patient advocates will
+be pleased with the adoption ofthe patient and consumer rights provisions. States, although
+happy to avoid waivers, have expressed concern over the remaining conditions and limitations on
+them. The MCOs may find the quality assessment provisions somewhat burdensome, but have
+indicated that they are pleased that these provisions are consistent with the Medicare Plus Choice
+regulations promulgated earlier this year.
+
+
+
+
+                                                 Automated Records Management System
+                                                 Hex-Dump Conversion
+      Rahm Emanuel
+      Larry Stein
+      Ron Klain
+      Thurgood MarshaIl, Jr.
+      Ann Lewis
+      SaIly Katzen
+      Minyon Moore
+      John Podesta
+      Bruce Reed
+      Gene Sperling
+      Elena Kagan
+      Barry Toiv
+      Michael Waldman
+      Janet YeIlen
+      Mickey Ibarra
+      Danny Mendelson
+
+
+
+
+                               Automated Records Management System
+                               Hex.-Dump Conversion
+
+

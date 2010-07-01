@@ -1,0 +1,347 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP [ OPD ) 0)
+
+CREATION DATE/TIME:25-JUN-1998 17:23:49.00
+
+SUBJECT:   Here's what I propose we send to answer Erskine's questions
+
+TO: Cynthia Dai1ard   CN=Cynthia Dai1ard/OU=OPD/O=EOP @ EOP [ OPD ) )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ) )
+READ:UNKNOWN
+
+TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO ) )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ) )
+READ: UNKNOWN
+
+TEXT:
+This summarizes OMB and Treasury's analyses, and includes an updated side
+by side.  I will fax to Laura the original memos from Gotbaum and Gruber
+should you need them.
+
+Remember, Erskine's note also asked about "what we would need to do to
+change Hatch. "
+You may wish to write a cover memo to discuss that, or to send this and
+send a cover memo later.   ==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D96)MAIL49244867B.126 to ASCII,
+ The following is a HEX DUMP:
+
+FF5750434C460100010A020100000002050000006E94010000020000AE9AF6F4EB7FE6D7F9DD75
+F49B9ADCF411E972AB8FODFA14DAB4057BA98F08CF051B09A065034FFB0144FC8C98AAD433A408
+                                                                                           Hex-Dump Conversion
+                                       Review of Hatch Analysis
+
+OMB and the Treasury Dept. disagree with the Hatch's analysis as shown in the table below:
+
+                                               Hatch Estimate                   OMBrrreasury Estimate
+                                          (25 year cost, real 1999$)          (25 year cost, real 1999$)
+
+    McCain Base Payment                          $574 billion                        $408 billion
+
+    McCain Lookback Surcharges�                  $132 billion                         $59 billion
+
+    Total McCain                                 $706 billion                        $467 billion
+
+    Hatch Base Payment                           $408 billion                        $291 billion
+
+    Hatch Lookback Surcharges                    $204 billion                         $80 billion
+
+    Hatch Total                                  $612 billion                        $371 billion
+
+
+
+� These figures are for the lookback surcharges before the Durbin amendment. With the Durbin amendment, Hatch
+thinks the surcharges raise $236 billion and Treasury thinks they raise $94 billion.
+
+The Hatch analysis overstates the gross payments manufacturers will make by:
+
+�         Confusing real and nominal payments in their comparisons. For example, the equivalent
+          of the proposed settlement's $368 billion and Hatch's $408 billion is $516 billion for
+          McCain, not $574.
+
+�         Ignoring the effects of the volume adjustment and the price cap agreed to by McCain,
+          which would reduce the 25-year payments from $516 billion (in 1999 dollars) to $408
+          billion.
+
+�         Ignoring the fact that net receipts available to the government will be reduced by lost
+          income and excise taxes and other offsets. As a result, it overstates the funds that will be
+          available under the HatchlFeinstein proposal.
+
+With the volume adjustments, OMB believes that Congressional scorekeepers would estimate the
+25-year gross payments as $267 billion for the proposed settlement (64 cents per pack) $291
+billion for Hatch (66 cents per pack) and $408 billion for McCain ($1.10 per pack).
+
+There are several problems with Hatch's analysis oflookback surcharges. The most significant
+is that it assumes that the companies will pay the maximum lookback surcharge and that they
+will do so every year. Both we and CBO/JCT think that is extremely unlikely.
+
+Also attached is a more detailed financial comparison prepared by OMB staff of the Hatch,
+McCain, and proposed settlement (excluding lookback surcharges), as well as a side-be-side
+summarizing the policy provisions of the three proposals.
+                                                                                                                                 Hex-Dump Conversion
+
+                               Comparison ofthe S. 1415, the AG/Company Proposal, and Hatch-Feinstein
+                                                              S-year totals in billions nominal $, except where noted
+
+                                                          5   141~                        agl~Qmei!D~ p[QQQ쬮 l                                  ttol,hlFR1nslgl!]
+                                                                                 Min Civil Judgments  Max Civil Judgments             Min eMI Judgments       Max Civil Judgments
+                                                      %              $                %        $            %            $              %         $             %          $
+
+Estimated Net Receipts                                                   59                        40                        40                       46                       46
+Uses
+
+   Judgments                                           0%                 0           0%            0       33%              13          0%            0       36%             17
+
+   States                                            40%                 24           66%          27       44%              18        42%            19       27%             12
+
+   Public Health                                     22%                 13           25%          10       17%               7        21%            10       13%              6
+
+   Research/NIH                                      22%                 13           9%            4         6%              2        20%             9       13%              6
+
+  Farmers                                            16%                  9           0%            0         0%              0         17%            8       11%              5
+
+  Tax Cuts                                             0%                Q            0%           Q          0%              Q          0%           Q          0%             Q
+
+                                                   100%                  59      100%              40     100%               40       100%            46      100%             46
+
+Gross Payments (Billions 99$, 25 yrs)                                408                       267                        267                      291                      291
+         % Chango from 5.1415                                                                  -35%                                               -29%
+
+Add'l Cost/Pack in 2003 ( 99$)                                  $1.10                       $0.64                     $0.64                     $0.66                   $0.66
+         % Chango from 5. 1415                                                                -42%                                                -40%
+
+Assumptions
+  Receipts are based on OMB's estimate of likely CBO/JeT sCOring
+  Judgment payments limited to 1/3 of total and are paid first (AG/Company. Hatch).
+
+  5.1415:
+  Exdudes Gramm, Coverdell, Lugar, and Veterans amendments
+  Assumes price caps rising to $1.10 per pack.
+
+  AGfTobacco.Company:
+  Spending percentage based on Center on B&PP estimates
+
+  Hatch/Feinstein:
+  $46 billion Is spending for the first 5 years; the 25-year stream is $408 billion
+  $5.5 billion liability cap per year with a liability payment credit
+  Spending for farmers assumes higher payments In the first five years for Lugar.
+  In the maximum liability case, the amount of the liability credit is Included In net revenues, gross payments, and cost per pack.
+                                                                  June 25, 1998
+
+
+
+                                McCain                                   Hatch                                  Settlement
+
+Total Payments over 25 Years*   $408 billion (after volume               $291 billion after volume adjustment   $267 billion after volume adjustment
+(real 99$)                      adjustment). Payments continue           (Originally reported as $428.5         ($368.5 billion if no drop in
+                                after 25th year.                         billion, and $408 in bill, but these   consumption). Payments continue
+                                                                         exclude volume adjustment). 25         after 25th year.
+                                                                         years only.
+
+Net Available Receipts*         $59 billion (excludes Gramm,             $47 billion                            $40 billion
+(nominal $ over 5 years).       Coverdell, Lugar and Veterans
+                                amendments)
+
+Price Increase*                 $1.1 0 per pack                          66 cents per pack                      64 cents per pack
+
+Lookback Surcharges:
+    Industry                    $40 million for the first five           Years 1-5: $100 million for each       $80 million for each percentage point
+                                percentage points by which the           percentage point missed for the        by which the industry misses the
+                                industry misses the youth smoking        first five points missed, $200         youth smoking reduction target.
+                                reduction target, and $120 million for   million for each percentage point      Penalties are capped at $2 billion
+                                each point missed thereafter.            missed (for 6-10 points missed),       annually.
+                                Penalties are capped at $2 billion.      $300 million for each percentage
+                                (Durbin amendment).                      point missed (for 11 or more points
+                                                                         missed). Surcharges are capped at
+                                                                         $5 billion per year.
+
+                                                                         After year 5: $250 million for each
+                                                                         percentage point missed for the
+                                                                         first five points missed; $500
+                                                                         million for each percentage point
+                                                                         missed for 6 points missed or
+                                                                         above. Surcharges are capped at
+                                                                         $10 billion per year.
+
+                                                                         The proposal's so-called
+                                                                         "double-counting adjustment" means
+                                                                         that the actual surcharges imposed
+
+
+                                                                                                                                                        3
+                                                                  are in most years substantially below
+                                                                  the amounts per percentage point
+                                                                  presented (e.g., the effective charge is
+                                                                  about $140 million per point not
+                                                                  $500 million).
+
+                                                                  Companies may have these
+                                                                  surcharges abated if they acted in
+                                                                  good faith and complied with the law.
+
+Lookback Surcharges:      $80 million per percentage point for    None.                                      None.
+   Company Specific .     the first 5 percentage points, and
+                          $240 million per percentage point
+                          thereafter. This figure represents
+                          approximately 2.5 times the forgone
+                          profits for the first five percentage
+                          points, and about 7.5 times the
+                          forgone profits for the next 19
+                          percentage points. Penalties are
+                          capped at $5 billion. (Durbin
+                          amendment).
+
+Youth Smoking Reduction   Re4uce youth smoking by 67% over        Reduce youth smoking by 60% over           Reduce youth smoking by 60% over
+Targets                   10 years.                               10 years.                                  10 years.
+
+Full FDA Authority        Provides full authority in a separate   Provides authority in a separate title     Provides full authority in the device
+                          title.                                  with significant limitations. Bill         title. (However, FDA could not ban
+                                                                  contains many procedural hurdles and       nicotine for 12 years and procedural
+                                                                  other barriers that would constrain        hurdles such as formal rulemaking
+                                                                  FDA's ability to 'regulate tobacco         requirements would hinder FDA
+                                                                  products: congressional approval is        activity to modify tobacco products).
+                                                                  required if FDA wants to reduce
+                                                                  nicotine levels to zero or ban a
+                                                                  tobacco product; FDA could not
+                                                                  require manufacturers to modify
+                                                                  products' to make them safer; FDA
+                                                                  would not have premarket approval
+                                                                  authority for new or unconventional
+
+
+
+                                                                                                                                                     4
+                                                                  products.
+
+Advertising and Access   Codifies advertising and access          Repeals advertising restrictions in       Codifies advertising and access
+Provisions               provisions in the FDA rule and adds      1996 Rule, but includes them in the       provisions in the FDA rule and adds
+                         additional restrictions through a        consent protocol along with the           additional restrictions.
+                         consent protocol.                        additional restrictions contained in
+                                                                  the settlement. (Because they are
+                                                                  contained only in the protocol, they
+                                                                  'Yill apply only to manufacturers, but
+                                                                  not to distributors or retailers). The
+                                                                  bill reaffirms the youth access
+                                                                  restrictions, but denies the FDA the
+                                                                  authority to modify them Denies
+                                                                  FDA the authority to impose civil
+                                                                  monetary penalties for retailer
+                                                                  violations of access restrictions;
+                                                                  provides only for injunctive relief and
+                                                                  crimina] penalties.
+
+Protections of Tobacco   Includes Sen. Ford's LEAF Act            Ends the tobacco program along the        None.
+Farmers                  which continues a price support          lines of the Lugar bill, but over a
+                         program and includes compensation        longer period of time. Provides
+                         (buyout option) for producers ($2.1      $17.35 billion over 7 years ($18.6
+                         billion per year for 10 years; $28.5     over 25 years) to compensate farmers
+                         billion over 25 years). Also contains    and fund economic development
+                         a competing proposal by Senator          programs.
+                         Lugar to end the tobacco program
+                         ($18 billion over 3 years for buyout).
+
+Public Health            $13B over 5 years (22%) before           $6-$10B over 5.                           $7-10B over 5.
+                         taking into account Granun and
+                         Coverdell and VetS amendments
+                         (even with these amendments,
+                         probably funding is probably higher
+                         than Hatch, although due to
+                         Coverdell, anti-drug uses compete
+                         with public health.)
+
+Research                 $13B over 5 years (22%) before           $6-$9B over 5.                            $2-$4B over 5.
+
+
+                                                                                                                                                  5
+                               taking into account Gramm and
+                               Coverdell and Vets amendments
+                               (even with these amendments,
+                               probably funding is probably higher
+                               than Hatch). Mostly NIH, but
+                               includes CDC/AHCPR.
+
+State Funds                    $248 over 5 before taking into            $13-$198 over 5. Forty percent of a      $18-$278 over 5.
+                               account Gramm and Coverdell and           state's funds are completely             Umestricted.
+                               Vets amendments (even with these          umestricted. The other sixty percent
+                               amendments, probably funding is           is effectively umestricted, although
+                               probably higher than Hatch). 50%          states must submit a plan showing
+                               restricted to menu of child care and      how they will spend these funds on
+                               other uses.                               cessation and anti-smoking activities.
+
+Environmental Tobacco          Includes provisions to protect against    Includes provisions to protect against   Includes provisions to protect against
+Smoke Provision                environmental tobacco smoke; allows       environmental tobacco smoke. There       environmental tobacco smoke.
+                               states to opt out only if they have       is no Federal enforcement                Exempts the hospitality industry (e.g.,
+                               state laws that are equally protective.   mechanism, only state enforcement.       bars, restaurants).
+                               Enforcement is by OSHA and civil          The bill exempts bars, but not
+                               actions. Exempts the hospitality          restaurants.
+                               industry (e.g., bars, restaurants).
+
+Liability Protections for
+Industry:
+   1. Liability Cap            None (Gregg amendment struck the          $5.5 billion per year.                   $5 billion per year.
+                               $8 billion cap).
+
+  2. Bar on Class Actions      None.                                     Yes.                                     Yes.
+
+  3. Bar on Punitive Damages   None.                                     Yes.                                     Yes.
+
+  4. Credit Against Base       No.                                       Yes. 80% credit (could be 36% of         Yes. 80% credit.
+ Payments                                                                all uses).
+
+
+Antitrust Exemption            No                                        Yes -- limited.                          Yes.
+
+Anti-drug Provisions           At their option, states could use their   None.                                    None.
+
+
+                                                                                                                                                            6
+
+
+
+                         McCain                                   Hatch                                    Settlement
+                         restricted funds for Substance Abuse
+                         Treatment and Prevention programs
+                         and Safe and Drug Free Schools;
+                         authorizes a number of drug
+                         programs that will compete with
+                         public health funding for
+                         counteradvertising, smoking
+                         cessation, licensing and enforcement
+                         (Coverdell amendment).
+
+Cap on Attorneys' Fees   Set by court, but cannot exceed:         Arbitration panel to determine           None.
+                         $4000 per hour for actions filed         attorneys' fees; total fees subject to
+                         before 12/31194, $2000 per hour for      cap of 5% of industry payments.
+                         actions filed between 12/31/94 and       Fees to be paid by manufacturers
+                         4/1/97, $1000 per hour for actions       outside of the payments required
+                         filed between 4/1/97 and 6/15/98, and    under the bill.
+          -              $500 for actions filed after 6/15/98.
+
+Tax Cut                  Gramm amendment would provide            None.                                    None.
+                         tax relief to married couples earning
+                         less than $50,000, and a health
+                         insurance tax cut for the
+                         self-employed. Cost: $16 billion
+                         over 4 years, $30 billion over
+                         following 5 years, and one-third of
+                         tobacco trust fund revenues (plus
+                         other non-tobacco funds) thereafter.
+                         (If youth smoking targets are met and
+                         youth smoking declines by 67% over
+                         the next decade, the tax cut can use a
+                         larger share of the tobacco trust fund
+                         dollars.)
+
+
+
+
+                                                                                                                        7
+
+

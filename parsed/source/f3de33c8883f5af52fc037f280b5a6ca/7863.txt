@@ -1,0 +1,199 @@
+RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+CREATOR:   "SCHOLZK%DOM13.DOP07" <KARL.SCHOLZ@ms01.do.treas.sprint.com> { "SCHOLZK%DOM
+
+CREATION DATE/TIME:28-MAY-1998 15:19:40.00
+
+SUBJECT:   Gramm variants
+
+TO: Joshua Gotbaum { CN=Joshua Gotbaum/OU=OMB/O=EOP [ OMB
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP [ OPD]    )
+READ: UNKNOWN
+
+TO: Bruce N. Reed { CN=Bruce N. Reed/OU=OPD/O=EOP [ OPD ]
+READ: UNKNOWN
+
+TEXT:
+Date: . OS/28/1998 03: 01 pm    (Thursday)
+From:    Karl Scholz
+To:   EX.MAIL. "Joshua_Gotbaum@omb.eop.gov",
+      ex. mail. "Bruce_N ._Reed@opd.eop.gov",
+      ",x.mail."Elena_Kagan@opd.eop.gov"
+Subject:    Gramm variants
+
+Here are the Gramm variants discussed in Erskine's office yesterday.
+ - att1.unk==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D36]MAIL454133155.126 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504308070000010A02010000000205000000E12C0000000200005BA3809D455C07D1E8F9E7
+AD818F2A37F1E2A870F199206A548E8902ACAA5DBC2F3EAF9CF02894A7543A868844F305C56A89
+D3D5EAF73867D9971DB6B4237EB0181326704C519E25B91FCB5073559E56CB20B1D3A42D8A7279
+A799817DE243B338AOFB303B60F4C87571F17A62CF33A806485C8DA1E14ACF7AF2E2F12675E1FO
+35A126D4D8A93B3COA940E50CFEOC43FOB6787C1AC7210511D499D262205199A64F90522CBB541
+B6168D0088D328589C8A4DAB1BD45C86865871D91CC9254CAEFA566351831DAAEF52B51B6AF834
+5AFE8C8288C079BA42E3AA38F4CC5D50670D9279EB31C47074FEC847FC2D7276AE9A09E572A8A4
+CBFB3E96C9771C6E199A08F8C996A1AFFB9A2A225FC7A865FA02F8B8B800879B9AA705618221A5
+4C6D6B628DD76D878E013358BCFEAC7C4DOC884CE72B97BFEB1AC34E3233272D66A6DCA655D7A7
+ED100D49EE5300AE9B9F618CAE89E62AE09DDEFFB1CB2B979BC19C19E23DCE6388EF414BB2F95C
+1C84E7C7248210144C8BBF3C02F60A8672319258A6027695D20COBC2D4CFD3B1F8C8EF50CE0849
+76FFOE49F1FFF8FC176488C5C3C3B5D642C7B1229C62FF4122F8A670C2E9B377DE4D20E83C580E
+784A4A52CBC2D3257066959B39E2AB087882EBAAB903CD4845A4B1602A82988E3D7F33B9150F91
+2011F73FF502002100000000000000000000000823010000000B010000CE030000005507000000
+4EOOOOOOD904000009250100000006000000270500000B3003000000280000002D050000080501
+0000000800000055050000087701000000040000005D0500000834010000001400000061050000
+0802010000000F00000075050000084E010000000200000084050000085E010000000C00000086
+0500000810010000000200000092050000096D0100000017000000940500000805010000004EOO
+0000AB05000000000000000000000000AB0500000B30010000006COO0000F90500000B30010000
+00440000006506000000000000000000000000650600000000000000000000000065060000084D
+0100000004000000A90600000055060000003EOOOOOOAD06000000000000000000000000AD0600
+0000000000000000000000AD06000000000000000000000000AD06000000000000000000000000
+AD06000000000000000000000000AD06000000000000000000000000AD06000000000000000000
+000000AD06000000000000000000000000AD06000000000000000000000000AD06000000000000
+000000000000AD06000000000000000000000000AD0600000942010000001DOOOOOOEB06000000
+984800500020004C0061007300650072004A006500740020003400000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000485050
+                                                    Hex-Dump Conversion
+                            Senator Gramm's Marriage Penalty Proposal
+
+Proposal
+
+The proposal would give a deduction of $3,450 (in 1999) to married couples filing a joint return
+who have combined incomes below $50,000. (This $3,450 deduction is the difference between
+the sum of the standard deductions for a single filer and a head of household filer and the
+standard deduction for a joint filer.) The deduction would be available to all such couples,
+whether or not they itemized deductions (i.e., the deduction would be "above-the-line"). Since
+couples in this income range are in the 15 percent bracket, the deduction is worth $518 as long as
+they have sufficient tax liability. The deduction also reduces income for purposes of the
+phaseout of the Earned Income Tax Credit (EITC), so couples with incomes in the phaseout
+range of the EITC will get a larger credit.
+
+Example.   For a couple with two children and $30,000 of wage income, taxes would decline by
+$1,244. The decline is larger than $518 because this couple would receive a larger EITC. For
+couples with income above approximately $32,000 (and below $50,000), the tax cut would
+normally be $518.
+
+Pros
+       o   Gives a tax cut to 20.1 million filers which is quite progressive, since only couples with
+           income below $50,000 would benefit.
+
+    o      Would extend the EITC to additional low-income working families, and increase the
+           EITC for many current recipients.
+
+Cons
+
+    o      Would cost $46.4 billion through 2003, and approximately $10.5 billion per year after
+           2003. This would crowd out much of the proposed expenditures in the tobacco bill.
+
+    o      The proposal has little to do with marriage penalties (other than the fact that it is giving a
+           significant tax cut only to married taxpayers).
+
+               For example, a one-earner childless couple with $50,000 of income already has a
+               marriage bonus of over $3,000; the proposal would simply increase this bonus.
+               The marriage penalty for a childless two-earner couple, each with $25,000 of
+               income, is only about $200; the proposal would more than eliminate this penalty.
+
+               Only about 40 percent of the revenue loss would actually reduce marriage penalties.
+
+    o      The provision would create a "cliff," whereby couples with $50,000 of income would get
+           a tax cut of$518 while a couple with $1 more of income would get nothing. This
+           creates large disincentives to earn income or large incentives to misreport income for
+           taxpayers with incomes above the cliff.
+                                                   Hex-Dump Conversion
+
+                     Alternative to Gramm Marriage Penalty Proposal:
+                                A "Mini-Gramm" Proposal
+
+Proposal
+
+The cost of the Gramm proposal could be substantially reduced by basing the deduction on the
+difference between the sum of the standard deductions for two single filers' and the standard
+deduction for a joint filer (this would make the deduction $1,450 in 1999). The deduction could
+also be phased in, 25 percent in 1999, 70 percent in 2000, and 100 percent beginning in 2001.
+In addition, the cliff would be removed by phasing out the deduction by $0.10 for each $1.00 of
+income above $50,000. The $50,000 income limit would be indexed after 1999, as in the
+Gramm proposal, but using a $1,000 round down rule (rather than the $5,000 round down rule in
+the Gramm proposal).
+
+In 1999 the deduction would be 25% x $1,450 = $362.50, which would have a tax value at 15
+percent of $54. When fully phased in, the deduction (at the 1999 level of $1 ,450) would have
+a tax value of $218.
+
+Example. Using the fully phased in value of the deduction at 1999 levels, for a couple with two
+children and $30,000 of wage income, taxes would decline by $523. The decline is larger than
+$218 because this couple would receive a larger EITC. For couples with income above
+approximately $32,000 (and below $50,000), the tax cut would normally be $218. Couples
+with incomes between $50,000 and $64,500 (where the phaseout of the deduction would end)
+would receive some tax cut.
+
+Advantages Relative to the Gramm Proposal
+
+    o   The cost ofthis "Mini-Gramm" proposal would be $19.3 billion through 2003 and
+        approximately $5.7 billion per year after 2003, about half the cost ofthe full Gramm
+        proposal.
+
+    o   This proposal would provide a tax cut to more couples (27.3 million versus 20.1
+        million), because of the phaseout of the deduction above $50,000 of income.
+
+
+Disadvantages Reiative to the Gramm Proposal
+
+    o   Most of the revenue loss would still go to marriage bonuses.
+
+    o   This proposal is less progressive than the full Gramm proposal, although nearly all of the
+        tax cut, over 83 percent, would still go to couples with incomes below $50,000.
+                                                     Hex-Dump Conversion
+
+                      Alternative to Gramm Marriage Penalty Proposal:
+           Increase Standard Deduction for Joint Filers to Double the Single Amount
+
+Proposal
+
+The standard deduction for joint filers would be increased to double the amount for single filers
+(this increase would be $1,450 in 1999). The increase in the standard deduction would also
+reduce income for purposes of the phaseout of the EITe. The increase would be phased in, 25
+percent in 1999, 50 percent in 2000, 75 percent in 2001 and 100 percent beginning in 2002.
+
+In 1999 the increase in the standard deduction for joint filers would be 25% x $1,450 = $362.50,
+which would have a tax value for couples in the 15 percent bracket of $54 and $102 for couples
+in the 28 percent bracket. When fully phased in, the increase in the standard deduction (at the
+19991evel of$I,450) would have a tax value of$218 for couples in the 15 percent bracket, and
+$406 for couples in the 28 percent bracket.
+
+Example.     Using the fully phased in value of the increase in the standard deduction at 1999
+levels, for a couple with two children who use the standard deduction and have $30,000 of
+wage income, taxes would decline by $523. The decline is larger than $218 because this couple
+would receive a larger EITe. Couples who itemize deductions with incomes below roughly
+$32,000 would have modest tax reductions because of the change in the EITe phaseout.
+
+Advantages Relative to the Gramm Proposal
+
+    o   The cost of this proposal would be $20.0 billion through 2003 and approximately $6.8
+        billion per year after 2003.
+
+    o   The proposal would simplify filing, reducing the number of filers who itemize
+        deductions by 3.1 million (from 39.2 million to 36.1 million). (These counts, and
+        those given below, are based on fully phased in levels of the increase in the standard
+        deduction in 1999.)
+
+              The Gramm proposal would make tax returns and filing somewhat more complex.
+
+    o   This proposal is more efficiently targeted at reducing marriage penalties than the Gramm
+        proposal, with more than 50 percent of the revenue loss directly reducing marriage
+        penalties (the corresponding figure for the Gramm proposal is 40 percent).
+
+    o   More couples (26.1 million versus 20.1 million) would receive a tax cut under this
+        proposal than under the Gramm proposal.
+
+Disadvantages Relative to the Gramm Proposal
+
+    o   The proposal is less progressive than the full Gramm proposal, with 62 percent of the
+        benefits would go to couples with incomes below $50,000, and over 95 percent would
+        go to couples with incomes below $100,000.
+
+

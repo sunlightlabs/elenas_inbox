@@ -1,0 +1,154 @@
+      RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+      CREATOR: Rebecca M. Blank ( CN:Rebecca M. Blank/OU:CEA/O:EOP [ CEA)    )
+
+      CREATION DATE/TIME: 18-JUN-1998 11:54:17.00
+
+      SUBJECT:   Poverty measurement
+
+      TO: Elena Kagan     CN:Elena Kagan/OU:OPD/O=EOP @ EOP [ OPD ) )
+      READ: UNKNOWN
+
+      TO: Barbara Chow ( CN:Barbara Chow/OU:OMB/O=EOP @ EOP [ OMB ) )
+      READ: UNKNOWN
+
+      TO: Katherine K. Wallman ( CN:Katherine K. wallman/OU=OMB/O=EOP @ EOP [ OMB ) )
+      READ: UNKNOWN
+
+      TO: Sally Katzen ( CN=Sally Katzen/OU:OPD/O:EOP @ EOP [ OPD)      )
+      READ: UNKNOWN
+
+      TO: Joseph J. Minarik ( CN:Joseph J. Minarik/OU=OMB/O:EOP @ EOP [ OMB ) )
+      READ: UNKNOWN
+
+      CC: Andrea Kane ( CN:Andrea Kane/OU=OPD/O=EOP @ EOP [ OPD ) )
+      READ: UNKNOWN
+
+      CC: Paul Bugg ( CN=Paul Bugg/OU:OMB/O:EOP @ EOP [ OMB )   )
+      READ: UNKNOWN
+
+      CC: Cecilia E. Rouse ( CN:Cecilia E. Rouse/OU:OPD/O:EOP @ EOP [ OPD)       )
+      READ: UNKNOWN
+
+      TEXT:
+      Attached is a memo that tries to communicate a few points that I think are
+      key as we move into simulating program effects of alternative poverty
+      measures.  The memo also makes some recommendations for the first set of
+      simulations that OMB might want to produce.=::====::====:::==== ATTACHMENT       1
+      ATT CREATION TIME/DATE:   0 00:00:00.00
+
+      TEXT:
+      Unable to convert ARMS_EXT: [ATTACH.D24)MAIL480492965.126 to ASCII,
+       The following is a HEX DUMP:
+
+      FF575043940400000l0A02010000000205000000E7200000000200006100370F70114FD5B1880D
+      EBB102A52EE6C8ACFE6230E3E19CA6F7EE74826F3D62F696C01C92AE7DEC0025880D120BC3C145
+      8804974C171B596938448BBEC5C5D6E3C34A4CA9DC41F88B64922FA025C74EB32C1B33696D6E2A
+      OE5796F94F55815C900A6E6C7C8AE490AF459F424FE70A95DD662C5345F89D454E109C8C8578F1
+      5E9F7A5AF7121D389B0271E4420F94009F43462AA3E434784EF6A446EEFOD42EE66ED189EEBEAO
+      BDA2AF62C92853C1B9C35481A49001F36DCA6D256849E1E6E285El61361E766F237EE28AA46D95
+      2096BFCEFCE08496ADBADFAEA2DB56782E82A838S20BC6S9C4F1D3SDFC1A190915182D13E143E2
+      253F0768F2E2BB37D20AFD8E13410382E6CB781SC1E44771FF35FCCOFDE8008CEA766A03BD869D
+      D680E1A649595S07364BAE5S0D18940C8429DC1924F4E8E21COASOA7AF21C9SC26E8BE6477SS09
+      4B99EC630639D78FOC79643C23A71S8C7C25CE9ED088B1ASC02BAB21A50CA67S90639416SBDF3B
+      8BD4FD6F3B1726D55AA70A72676948ES339836FD3A6172418409DCE2BB49694B55BA8A1DBF2C09
+      971BD80SS432FC5343SD6SC75724F6F2FB6C9BSC2C418EC611381B6DCBAFB7A4BFF80F8A017A8E
+      D18F2FBEB89186DOE071D41A29ADF6782C403F40CC9C36BB3BC10892343B761FA066A2F72BSECC
+      050D09B93B02000A00000000000000000000000823010000000BOl00008C02000000SS01000000
+      4E00000097030000092S0100000006000000ES0300000B300200000028000000EB030000087701
+      000000400000001304000008340100000014000000530400000802010000000F00000067040000
+      0805010000000800000076040000060801000000160000007E04000000984C006F00630061006C
+June 18, 1998                                                            fiI ecorr/s M.
+                                                                            eX-Dump Canagement S
+                                                                                      onversion ij'stem
+TO:             Poverty Measurement Working Group
+
+FROM:           Rebecca Blank
+
+Because I thought there were still some misunderstandings in our meeting last Tuesday, I want to
+provide a little background information and make a suggestion about how OMB should proceed
+as it puts together some simulations of program effects.
+
+Let me start with two comments that I believe might need clarifying:
+
+(1) The primary way in which changes in the poverty measurement will affect program spending
+is through changes in the Guidelines, the simplified poverty thresholds published by HHS. In
+fact, most programs (and ALL the big programs) that are tied in any way to poverty measurement
+are tied to the Guidelines. Since the Guidelines are NOT the same as the poverty thresholds
+used by Census to calculate the actual poverty rate, but are tabulated by HHS and include a
+variety of changes to those thresholds, it is impossible to simulate the program effects of a
+change in poverty measurement without making some assumptions about what sort of Guidelines
+HHS would issue under an alternative measure ofpoverty.
+
+(2) There is no consistency across programs in how family income and eligibility is calculated.
+In fact, it's quite amazing how very inconsistent even quite similar programs are. Programs
+have dealt with the fact that they care about different income levels and concepts in part by using
+different multiples of the poverty guidelines as part of their eligibility determination -- some
+programs use 100%, some use 135%, some use 185%, etc. This means that conceptually it
+really doesn't matter what the guidelines are because programs can always use whatever multiple
+they find most convenient. Of course, in the real world, programs have specifically enacted
+legislation that commits them to (say) setting the upper level of eligibility at households whose
+countable income for that specific program is below 135% of the Guidelines. These specific
+program rules are hard to change in the short run.
+
+However, most programs use a measure offamily income that is much closer to "cash income"
+than to the 'full income" measure proposed by the NRC for an improved measure ofpoverty.
+
+(3) Programs are currently designed to use the existing Guidelines which assume family income
+is defined as cash income. This suggests that at least one simulation we want to do is the
+following "What are the program effects of a change in the poverty measure, if we translate the
+alternative poverty thresholds (based on full income) into poverty thresholds that are closer to the
+cash income concept utilized by the programs and use this "cash equivalent threshold" to
+establish the Guidelines?" This essentially means recalculating the alternative thresholds to
+"back out" the concepts not included in cash income. Specifically, one would take the
+alternative thresholds (designed to be compared to "full income") and add back in average child
+care and work expenses, MOOP, and taxes and subtract off average in-kind benefits. This gives
+you the cash-equivalent threshold implied by the alternative threshold.
+                                                                         Hex-Dump Conversion
+
+Now comes a key point that I felt wasn't understood in Tuesday's meeting: One of the Pros of
+utilizing a benchmarked poverty rate is that the cash equivalent value of the alternative
+thresholds under benchmarking must of necessity be very close to the current Guidelines. This
+is because of the way benchmarking works -- the thresholds are the residual calculation once you
+use a specific definition of family income and set an aggregate poverty rate. Essentially, the
+thresholds under benchmarking are the poverty line that, given a definition of "full income",
+results in the current poverty rate. If! were to ask "what is the cash equivalent to those
+thresholds that provides the same poverty rate?" this must result in an answer very closer to the
+current Guidelines since the current poverty line is a cash income threshold that results in the
+current poverty rate. There's no funny business here. It must be true mathematically that, if we
+say "We want the cash equivalent threshold implied by the alternative thresholds being used in
+our new measure of poverty" and if those thresholds are coming from a benchmarked alternative
+measure, then the cash equivalent thresholds will be very close to current poverty lines.
+
+This suggests there are probably four program simulations that OMB wants to focus on:
+
+1. Take the thresholds that result from a benchmarked alternative poverty measure and assume
+they are blindly turned into Guidelines and calculate the program effects absent any other
+program changes.
+
+2. Take the thresholds that result from a benchmarked alternative poverty measure and assume
+they are translated into their cash equivalent values and these cash equivalent values are used to
+set the Guidelines (i.e., we try to produce Guidelines that reflect current program needs.)
+
+3. Take the thresholds that result from a non-benchmarked alternative poverty measure (i.e., the
+18% poverty rate calculated as the NRC alternative, or something close to it) and assume they are
+blindly turned into Guidelines and calculate the program effects absent any other program
+changes.
+
+4. Take the thresholds that result from a non-benchmarked alternative poverty measure and
+assume they are translated into their cash equivalent values and these cash equivalent values are
+used to set the Guidelines (i.e., we try to produce Guidelines that reflect current program needs.)
+
+Final note: Both procedures 2 and 3 are going to result in new Guidelines very close to the
+current Guidelines and hence lead to quite small program changes, even in the absence of any
+change in program rules or regulations. (This is true for procedure 3 only because -- quite by
+accident -- the "full-income' thresholds that result from the alternative NRC poverty calculation
+are very close to the current poverty line.) I think procedure 2 is much more defensible than
+procedure 3, but leaving arguments over the merit aside this does suggest that there are quite
+feasible calculations that are very conceptually defensible and that will result in only small
+program changes and may require no adjustments to the program rules. Without prejudging at
+all what our future recommendations might be, this is an important piece of information.
+
+(All of this ignores changes in the composition of the poor that will result in changes in the
+distribution of benefits across groups regardless of how the Guidelines are defined -- This is
+obviously also a very important issue, but separable from the Guidelines issue discussed above.)

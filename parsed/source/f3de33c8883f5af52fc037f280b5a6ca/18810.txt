@@ -1,0 +1,29 @@
+RECORD TYPE: PRESIDENTIAL     (NOTES MAIL)
+
+CREATOR: virginia N. Rustique ( CN=Virginia N. Rustique/OU=WHO/O=EOP [ WHO 1 )
+
+CREATION DATE/TIME: 2-MAR-1998 19:01:47.00
+
+SUBJECT:     hill meetings
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Cathy R. Mays ( CN=Cathy R. Mays/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TEXT:
+larry wants to schedule the following (in this order):
+
+mccain
+chafee
+hatch
+bliley
+
+elena:     is there a list off of which we should be working?

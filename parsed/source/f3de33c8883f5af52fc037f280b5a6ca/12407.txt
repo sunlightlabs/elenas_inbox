@@ -1,0 +1,144 @@
+               RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)                                      Hex-Dump Conversion
+
+               CREATOR: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP        OPD ] )
+
+               CREATION DATE/TIME:28-APR-1999 14:43:57.00
+
+               SUBJECT:   Rept w/Teen Birth data incl tobacco use during pregnancy
+
+               TO: J. Eric Gould ( CN=J. Eric Gould/OU=OPD/O=EOP @ EOP [ OPD ] )
+               READ:UNKNOWN
+
+               TO: Elena Kagan     CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+               READ: UNKNOWN
+
+               TO: Laura Emmett    CN=Laura Emmett/OU=WHO/O=EOP @ EOP   [ WHO]    )
+               READ:UNKNOWN
+
+               TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ] )
+               READ:UNKNOWN
+
+               TEXT:
+               FYI: The report that contains the teen birth data being announced by the
+               VP also includes all sorts of other data on births (prenatal care,
+               c-sections, multiple births, etc) including tobacco use during pregnancy.
+
+               Like the report released a year ago, this report shows smoking during
+               pregnancy is down overall but up among teens. We are not planning to
+               highlight the trend is mentioned at the end of the HHS press release.
+
+
+
+
+               Andrea Kane
+               04/28/99 11:15:09 AM
+               Record Type:    Record
+
+               To:      See the distribution list at the bottom of this message
+               cc:
+               Subject:         Teen Birth Trends
+
+               Here's a chart summarizing key trends related to teen births, teen
+               pregnancy, and out-of-wedlock births. Should come in handy for
+               briefing/background for the First Lady's drop-by at the reception for
+               National Campaign to Prevent Teen Pregnancy honorees this afternoon and
+               the VP's roundtable tomorrow.
+
+
+               Bruce, this should also clarify question you had about AGI data (teen
+               births, pregnancies, and abortions are all down). HHS Q&A says:
+
+               Q5:     Is this [reduction in teen births] an improvement because there
+               are more abortions?
+
+               A5:     No. Birth and abortion rates among teenagers have both
+               declined,
+               reflecting the overall decline in the teen pregnancy rate. In fact,            the
+
+
+abortion rate has dropped more than the birth rate. From 1991 to 1996, the
+abortion rate for teenagers dropped 22 percent, while the teen birth rate
+fell 12 percent.
+
+
+
+
+Message Sent
+TO: __________~--~-------------------------------------------------
+Bruce N. Reed/OPD/EOP
+Elena Kagan/OPD/EOP
+Cynthia A. Rice/OPD/EOP
+Nicole R. Rabner/WHO/EOP
+Sarah A. Bianchi/OVP @ OVP
+
+
+
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D29]ARMS28115243K.136 to ASCII,
+ The following is a HEX DUMP:
+
+FF5750432AOD0000010A02010000000205000000F629000000020000575772BDB43CCDD408D9B6
+9FDCB5A2817026A891024FE2EAE533B6F66C7AD42B8163438D7407AOB0740DBD1406A6E894AOAD
+7607051E5D1011A5D3D76DA84272A230FB211F62BCOB289CF566246427422ECFOBE04C9BB75C6F
+D8D476B4484D49D8C617617E704D893602F38C35696EF04EE777265BE906CA643E7BAC4C6D7309
+E30970193A5A02623649FC6454C97176306D198D9EEBE941E82F6DBECD5C2826AC36AE8553ABB6
+6AOE3BC8C63BAB94E3E32D3EE7FOF575B27AF4C630B861C365D5A46B62483F7F4B77F5E3B5E9CC
+                                                                                            Hex-Dump Conversion
+                                  Birth Rate Trends 4/28/99 (for internal use)
+
+                                      1991           1996        1997       % change       % change
+                                                                            1991 - 1997    1996-1997
+
+    Teen birth rate (births per       62.1           54.4        52.3       -16%           -4%
+    1,000 women 15 - 19)
+
+    Number of teen births             519,577        491,577     483,220    -7%            - 2%
+
+    Birth rate to unmarried           45.2   1/      44.8        44.0       -3%            -2%
+    women (births per 1,000
+    unmarried women 15 - 44)
+                                             2
+    Birth rate to unmarried teens     44.8    /      42.9        42.2       -6%            -2%
+    (births per 1,000 unmarried
+    women 15 - 19)
+11 Birth rate for unmamed women 15- 44 peaked at 46.9 ill 1994 and fell 6% from 1994 to 1997.
+2/ Birth rate for unmarried teens 15 - 19 peaked at 46.4 in 1994 and fell 9% from 1994 to 1997.
+
+·         Births to teens (19 and under) accounted for 13 percent of all births in 1997.
+
+·         The percent of all births that were to unmarried women stabilized at 32.4% in 1997--
+          unchanged from 1996. The percent of all teen births that were out-of-wedlock continued to
+          rise, reaching 78% in 1997.
+
+                                             Teen Pregnancy Trends
+
+
+                                     1991         1995         1996        % change       % change
+                                                                           1991 - 1995    1995-1996
+
+    HHS/NCHS teen pregnancy          116.5        102.7        98.7 (not   - 12%          - 4% (not
+    rates 3/                                                   released)                  released)
+    AGI teen pregnancy rates 3/      115.8        101.1        97.3        - 13%          -4%
+
+3/ NCHS estimates are based on NCHS teen birth figures and fetal loss estimates and the private Alan
+Guttmacher Institute's (AGI) abortion data. The AGI's estimates are based on NCHS's teen birth
+figures and AGI's own estimate of abortions and fetal losses.
+
+                                              Teen Abortion Trends
+
+
+                                    1991          1995         1996        % change       % change
+                                                                           1991 - 1995    1995-1996
+
+    AGI teen abortion rate          37.6          30.0         29.2        -22%           -3%
+    (per 1,000 women 15 -
+,.
+I .                 Automated Records Management System
+                            Hex-Dump Conversion
+
+          1   19)
+
+

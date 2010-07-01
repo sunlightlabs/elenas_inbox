@@ -1,0 +1,54 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Diana Fortuna ( CN=Diana Fortuna/OU=OPD/O=EOP [ OPD 1
+
+CREATION DATE/TIME: 11-FEB-1998 17:43:10.00
+
+SUBJECT:   CEA redid our minimum wage/ workfare analysis
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD
+READ: UNKNOWN
+
+CC: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP @ EOP [ OPD 1
+READ: UNKNOWN
+
+TEXT:
+FYI, you should know that CEA asked me for the backup to the analysis I
+did last week on the number of states that would have trouble funding
+workfare programs under various minimum wage increase scenarios, and then
+they redid the analysis.   I don't know what they plan to do with it.
+Their version comes up worse than mine did.
+
+I had simply updated the HHS analysis we have been using for months, but
+CEA went behind it and made more pessimistic food stamp assumptions.
+Also, they calculated the size of the problem for both 20 and 30 hours of
+work a week.  You'll recall that we used 20 hours because, even though the
+work requirement grows from 20 to 30 hours over time, states can use "job
+training directly related to employment" for the hours over 20, and we
+made the somewhat aggressive assumption that they would do so to the maximu
+m extent.
+
+Here's the difference between my analysis and theirs (they only did
+families of 3):
+
+States with Problems -- 20 hrs a week     My
+Analysis                         CEA Analysis
+Current Minimum Wage                      No
+states                   1 state
+50 cent increase ($5.65)                        1
+state                            2 states
+$1 increase ($6.15)                       2
+states                           7 states
+$2 increase ($7.15)                       9
+states                           13
+states
+For 30 hours of work a week, the numbers are pretty bad (I didn't do this
+calculation) :
+
+States with Problems -- 30 hours a week
+Current Minimum Wage                    24 states
+50 cent increase ($5.65)                        37 states
+$1 increase ($6.15)                     42 states
+$2 increase ($7.15)                     50 states
+
+

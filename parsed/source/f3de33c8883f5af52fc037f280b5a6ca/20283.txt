@@ -1,0 +1,51 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Leanne A. Shimabukuro ( CN=Leanne A. Shimabukuro/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME:12-JUN-1998 17:06:06.00
+
+SUBJECT:   One more Q&A
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO
+READ: UNKNOWN
+
+TEXT:
+As requested.   Thanks.
+
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D92]MAIL49725756I.126 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043B0040000010A020100000002050Q00009EOB00000002000075A40EDEOB23AA78EEAD5C
+99C9A1031666C26F839878A6CEB7E23F698936C4AE5217DOOCDE95BD2E3AE4BEB492BDC752EF03
+                                                                                   Hex-Dump Conversion
+
+
+Q.   How is the early warning guide different from the annual report on school safety
+     that you've already announced?
+
+A.   The early warning guide will be specifically tailored to help school officials and teachers
+     identify the signs of troubled youth and provide recommendations on how to intervene
+     before violence occurs. It will contain well-established research about the various
+     signals troubled youth send before they engage in violent or aggressive behavior. The
+     Attorney General and the Secretary will consult with a wide variety of experts on the
+     guide, with the National Association of School Psychologists actively involved in the
+     process.
+
+     The annual report on school safety is a much broader document than the early warning
+     guide. The report will be released at the beginning of every school year for principals,
+     parents, and local officials to address their school crime problems. The annual report on
+     school safety will include: an analysis of all existing national school crime data and an
+     overview of state and local crime reporting; examples of schools and strategies that are
+     successfully reducing school violence, drug use, and class disruption; actions that
+     parents can take locally to combat school crime, including a local safety checklist; and a
+     description of resources available to schools and communities to help create safe,
+     disciplined, and drug-free schools.
+
+

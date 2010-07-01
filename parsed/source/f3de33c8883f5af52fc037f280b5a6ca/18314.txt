@@ -1,0 +1,73 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Leanne A. Shimabukuro ( CN=Leanne A. Shimabukuro/OU=OPD/O=EOP [ OPD ) )
+
+CREATION DATE/TIME: 7-JAN-1998 19:56:13.00
+
+SUBJECT:   crime meeting agenda
+
+TO: Mary L. Smith ( CN=Mary L. Smith/OU=OPD/O=EOP @ EOP [ OPD ) )
+READ: UNKNOWN
+
+TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO ) )
+READ: UNKNOWN
+
+TO: Rajiv Y. Mody ( CN=Rajiv Y. Mody/OU=WHO/O=EOP @ EOP [ WHO ) )
+READ: UNKNOWN
+
+TO: Thomas L. Freedman ( CN=Thomas L. Freedman/OU=OPD/O=EOP @ EOP [ OPD ) )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ) )
+READ:UNKNOWN
+
+TO: Michelle Crisci ( CN=Michelle Crisci/Ou=WHO/O=EOP @ EOP [ WHO ) )
+READ: UNKNOWN
+
+CC: Jose Cerda III ( CN=Jose Cerda III/OU=OPD/O=EOP @ EOP [ OPD ) )
+READ: UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D24)MAIL45942760M.026 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043B0040000010A020100000002050000002DOC000000020000420629CD54A228EA3C6177
+                                        January 8, 1998
+
+
+Prison Drug Testing/Coerced Abstinence Directive
+
+        * Directive in clearance process.
+        * CASAlCalifano study released today.
+
+Brady
+
+        * Arkansas: proposed date of resolution January 22.
+
+Sex Offenders
+
+        * Update from Justice on lifetime probation options.
+
+Outstanding Events/Issues
+
+        * Update from Justice on legislative issues.
+        * Update from ONDCP on release of anti-drug media ads.
+        * AG Minnesota crime speech
+        * Juvenile Brady-- follow up from Justice on any useful data or anecdotes.
+        * Reminder: meeting on 100,000 cops next Wednesday.
+
+Treasury Update on Assault Weapons
+
+
+Miscellaneous/ Pending Items
+
+        * Any other pending events/releases--DOJ Reports
+        * NIl Studies-- Gang study released in mid-late February.
+        * Cop Killer Bullets study                             Automated Records Management System
+                                                               Hex-Dwup Conversion
+
+

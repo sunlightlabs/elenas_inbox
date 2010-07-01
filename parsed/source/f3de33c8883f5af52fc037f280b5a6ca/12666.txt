@@ -1,0 +1,54 @@
+       RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+       CREATOR: Jose Cerda III ( CN=Jose Cerda III/OU=OPD/O=EOP [ OPD ] )
+
+       CREATION DATE/TIME: 18-MAY-1999 17:22:06.00
+
+       SUBJECT:   Statement -- Take One
+
+       TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+       READ:UNKNOWN
+
+       TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ] )
+       READ: UNKNOWN .
+
+       CC: Leanne A. Shimabukuro ( CN=Leanne A. Shimabukuro/OU=OPD/O=EOP @ EOP [ OPD ] )
+       READ:UNKNOWN
+
+       CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO]    )
+       READ:UNKNOWN
+
+       TEXT:
+       ==================== ATTACHMENT   1 ====================
+       ATT CREATION TIME/DATE:   0 00:00:00.00
+
+       TEXT:
+       Unable to convert ARMS_EXT: [ATTACH.D23]ARMS253467050.136 to ASCII,
+        The following is a HEX DUMP:
+
+       FF57504370040000010A02010000000205000000E008000000020000928EF596565A6213D8FB62
+       F3D8B1F69D3511D80E4083E91D0855C7183030E72AB025621EFC6CDFB613CE9D8CCC7A44B91035
+       2AD7F66CD61DFF8763AF99604B4DD8E3052A2E8E7E9447E7F7D8FA87F12D25B7FEA8266B40254A
+       6660B5EF386356EE31A1001CC2A2D5833FC2820CCFE1DDE1D5BC82364BD40780E3FCECD16ADA65
+       E915BF1F543F7E0470A8DF87167799D45FE7CB85B07BDBF08F02FO24AD5EOB5D6347246D5A5351
+       5914DFE81D423CFA9DD3A3752517B9B7C622226177211DBl194546FE25C02CF23A454152050DEE
+       A23E36FB912A105082555F0921BE28991EE5D98BF5ADAAC265FFB7AOBC52116EE12BDF16E3718C
+       B4D18112F37D163632A45C34D389F71662345E69AAFA39081006BFO5D955B097C5B715772856FA
+       83DCAF482E1AAAEA0624B12D263A97CF49DC6EE75C250FF89EOF89B7279224CA0171749077CE41
+       COB8A07C030D93A844C250EF3DF861D6A4AOOB6DEAD00742FC2DFFDF7B3A95C7F007596F1AEF05
+       1FBD2DB67D53947F93A7F3D6FC9043B238DFEOFEBDIC15F87AIF076745382BBC2EC35A543885A2
+       44BD2B46E27C930DA28EF7918194EF99A994EE33F7BA38B8CF792A74C58E079E5C7ECE504675B9
+                                                                                 Hex-Dump Conversion
+
+                                    Statement of the President
+
+           I want to commend the Senate for reversing its position of last year and voting
+  overwhelmingly today to require that child safety locks be provided with every gun sold. This
+  was a common sense yet courageous vote by the Senate that is sure to prevent tragic shootings
+. and gun-related accidents in the future. I also want to thank Speaker Hastert for coming out in
+  support of our proposals to close the gun show loophole and to raise the age of handgun
+  ownership to 21 years of age. The Senate should likewise put progress over politics and give
+  their strong backing to these reasonable measures to keep guns out of the hands of kids and
+  criminals.
+
+

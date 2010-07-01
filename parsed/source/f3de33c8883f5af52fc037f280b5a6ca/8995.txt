@@ -1,0 +1,168 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Thomas L. Freedman ( CN=Thomas L. Freedman/OU=OPD/O=EOP [ OPD 1 )
+
+CREATION DATE/TIME: 11-AUG-1998 10:10:24.00
+
+SUBJECT:   Food Safety
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP   [ OPD 1 )
+READ: UNKNOWN
+
+TO: Mary L. Smith ( CN=Mary L. Smith/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ:UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO 1
+READ:UNKNOWN
+
+TEXT:
+  Attached is the draft EO for a food safety council. We've received
+comment from OMB, USDA, OSTP. The major issues are: including the vision
+statement, sunsetting the council, and the scope of the budget that gets
+submitted by the council.  Changes from the original draft are in bold,
+and I've briefly summarized the changes below. O'hara at HHS called Monday
+after returning from vacation and said he would like to submit as well.
+
+We've discussed trying to have this ready for the 8- 19/20 when NAS comes
+out. The other big issue we need to resolve is whether the VP wants to be
+the third co-chair.    (I think he preserves his ability to intervene
+selectively by not being on the council.)
+
+
+1.  Introduction: We added the "vision statement" as preamble. USDA, NPR
+(Jean), and EPA all mentioned that they would like to do this
+independantly as a FR notice with hearings on the vision statement topic.
+I think we should either combine it into the EO or wait and do this at
+some other later time.
+
+Also, OSTP suggested this science-based language in the introduction.
+
+2. Sections I(a) (b): we added a third joint chair (TBD) , and put EPA and
+OMB on the council. Also a provision suggested by OSTP to provide staff
+as necessary.
+
+3. Section 2, Purpose: OSTP suggested making it less a review of NAS and
+more towards developing a long-range plan taking into consideration the
+NAS report. We added preparing an annual budget as one of the purposes.
+
+4. section 3: OSTP suggested a deadline for developing the food safety
+plan. I've added space for a due date.
+
+ section (c):  OSTP wanted the council to "establish" the research
+institute, we changed it back to "oversee" as it already is supposed to
+being established under previous presidential action. we did add their
+lanaguage about working with NSTC
+
+5.   section 4: USDA wanted the section to include states.
+
+
+6.   Section 5: There was a general request for a sunset in this
+section.  I didn't add it because i felt that the council should go out of
+business when it recommended a better coordinating mechanism -- but that
+in the absence of a better way, we shouldn't mandate its demise.   =================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D49]MAIL43967552C.226 to ASCII,
+ The following is a HEX DUMP:
+
+FF5750432C050000010A0201000000020500000051210000000200002DB7C418CD1B5D3924453A
+31A1C53CB7F91493C42AFD68AAA3F7CAD5ADOD4F61E27A631F2C98EC41EDAD1FDC90D97603B9AE
+A67F936F5367C5623391529EFDEA909E31775F4BC5A0075BEBC1F989AE9115865ABBCBA2764651
+13489973C1A95635D9E6E015F68A393C494A6E91AC1ACCFFB025284E86B9C138COB93BCB67307A
+
+                       PRESIDENT'S COUNCIL ON FOOD SAFETY
+
+
+                                     Draft 8/10/98, 5 pm
+
+Introduction
+
+        Recently, representatives of the several federal agencies who work on food safety
+issues met and drafted a statement expressing a vision of what our nation's food safety
+system should accomplish. While we have already made great progress towards making
+our nation's food safer, this positive statement sets out goals to improve our food and our
+regulatory system still more. Specifically, it sets out the following vision of what the future
+should hold: "Consumers can be confident that food is safe, healthy, and affordable. We
+work within a seamless food safety system that uses farm to table preventive strategies and
+integrated research, surveillance, inspection, and enforcement. We are vigilant to new and
+emergent threats and consider the needs of vulnerable populations. We use science and
+risk-based approaches along with public-partnerships. Food is safe because everyone
+understands and accepts their responsibilities." In order to help translate this vision into
+reality, I hereby issue the following Executive Order.
+
+By the authority vested in me as President by the Constitution and the laws of the United
+States of America, and in order to improve the safety of the food supply through
+science-based regulation and well coordinated inspection, enforcement, research and
+education programs, it is hereby ordered as follows:
+
+Section 1. Establishment of President's Council on Food Safety.
+
+(a)     There is established the President's Council on Food Safety (Council). The Council
+shall comprise the Secretary of Agriculture, the Secretary of Health and Human Services, the
+Assistant to the President for Domestic Policy, the Senior Policy Advisor for the Vice President,
+the Assistant to the President for Science and Technology, the Administrator of the
+Environmental Protection Agency, and the Director of the Office of Management and
+Budget. The Council shall consult with other Federal agencies, State and local
+government agencies as well as with consumer and producer groups, as appropriate.
+
+(b)     The Secretaries of Agriculture, Health and Human Services, and the XXX shall serve as
+Joint Chairs of the Council. In consultation with other Council members, the Joint Chairs .
+shall designate a council coordinator and provide staff with assistance from other members
+of the Council and as authorized by law provide necessary additional staff and
+administrative support. Council members may designate senior executive branch officials as
+their representatives.
+
+Section 2. Purpose.
+                                                                      Automated Records Management System
+                                                                              Hex-Dump Conversion
+activities taking into consideration the findings and recommendations of the NAS report
+"Ensuring Safe Food from Production to Consumption" and other input from the public
+on how to improve the effectiveness of the current food safety system. The Council shall
+make recommendations to the President on how to advance Federal efforts to implement a
+science-based comprehensive strategy to improve the safety of the food supply and to enhance
+coordination among Federal agencies, State and local governments, and the private sector. The
+Council shall oversee the presentation of an annual unified food safety budget proposal
+that will be submitted to the Office of Management and Budget
+
+Section 3. Specific Activities and Functions.
+
+(a)    The Council shall in X months develop a comprehensive Federal food safety plan
+that contains specific recommendations on needed changes. Specifically, the plan should
+identify changes in existing programs, administrative policies, and laws that must be
+enacted to achieve a seamless and science-based food safety system from farm to table.
+The planning process should consider both short and long-term issues including new and
+emerging threats and the special needs of vulnerable populations such as children and the
+elderly.
+
+(b)      The Council shall annually develop a food safety budget that sustains and strengthens
+existing capacities, eliminates duplication, and ensures the most effective use of resources for
+improving food safety, including developing a unified budget for the President's Food Safety
+Initiative and such other food safety issues as the Council determines appropriate.
+
+©      The Council shall oversee the Joint Institute of Food Safety Research (JIFSR) and
+in consultation with the National Science and Technology Council and through JIFSR shall
+establish mechanisms to direct Federal research efforts toward the highest priority food
+safety needs in regulation and food production, processing, and distribution.
+
+Section 4. Cooperation.
+
+       All actions taken by the Council shall, as appropriate, further partnerships and
+cooperation with states and other public and private sector efforts wherever such partnerships
+and cooperation are possible and wold further improve the safety of the food supply.
+
+Section 5. General Provisions.
+
+       This order does not create any right or benefit, substantive or procedural, enforceable at
+law by a party against the United States, its agencies, its officers or any person.
+
+
+
+
+                                                                    Automated Records Management System
+                                                                            Hex-Dump Conversion
+
+

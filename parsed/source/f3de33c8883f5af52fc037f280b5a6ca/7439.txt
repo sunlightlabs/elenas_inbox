@@ -1,0 +1,605 @@
+RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+CREATOR: Kate P. Donovan ( CN=Kate P. Donovan/OU=OMB/O=EOP [ OMB 1 )
+
+CREATION DATE/TIME: 4-MAY-1998 20:00:26.00
+
+SUBJECT:   OMB Legislative Report - May 4, 1998
+
+TO: Robert D. Kyle ( CN=Robert D. Kyle/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Dianne M. Wells ( CN=Dianne M. Wells/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Daniel N. Mendelson ( CN=Daniel N. Mendelson/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: RUDMAN_M@A1@CD@VAXGTWY    RUDMAN M@A1@CD@VAXGTWY [ UNKNOWN 1 )   (NSC)
+READ: UNKNOWN
+
+TO: Janelle E. Erickson ( CN=Janelle E. Erickson/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Judy Jablow ( CN=Judy Jablow/OU=CEQ/O=EOP@EOP [ CEQ 1 )
+READ: UNKNOWN
+
+TO: Roger S. Ballentine ( CN=Roger S. Ballentine/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Lawrence J. Haas ( CN=Lawrence J. Haas/O=OVP@OVP [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: David A. Bernell ( CN=David A. Bernell/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Jonathan H. Adashek ( CN=Jonathan H. Adashek/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Suzanne Dale ( CN=Suzanne Dale/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Barbara Chow ( CN=Barbara Chow/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Theodore Wartell ( CN=Theodore Wartell/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Peter D. Greenberger ( CN=Peter D. Greenberger/OU=WHO/O=EOP@EOP [ WHO 1
+READ: UNKNOWN
+
+TO: Jonathan Orszag ( CN=Jonathan Orszag/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Dario J. Gomez ( CN=Dario J. Gomez/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Allan E. Brown ( CN=Allan E. Brown/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Ann F. Lewis ( CN=Ann F. Lewis/OU=WHO/O=EOP@EOP [ WHO 1 )
+
+
+READ: UNKNOWN
+
+TO: Wayne Upshaw ( CN=Wayne Upshaw/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Robin J. Bachman ( CN=Robin J. Bachman/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Jason S. Goldberg ( CN=Jason S. Goldberg/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: ,Gene B. Sperling ( CN=Gene B. Sperling/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Robert Donnelly ( CN=Robert Donnelly/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP@EOP   [ OPD 1 )
+READ: UNKNOWN
+
+TO: Kevin S. Moran ( CN=Kevin S. Moran/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Paul J. weinstein Jr.   ( CN=Paul J. Weinstein Jr./OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: M. Jill Gibbons ( CN=M. Jill Gibbons/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Jennifer Ferguson ( CN=Jennifer Ferguson/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Kenneth L. Schwartz ( CN=Kenneth L. Schwartz/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Melissa N. Benton ( CN=Melissa N. Benton/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Michael Deich ( CN=Michael Deich/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN ,
+
+TO: Mathew C. Blum ( CN=Mathew C. Blum/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Rhodia D. Ewell ( CN=Rhodia D. Ewell/OU=OMB/O=EOP@EOP [ OMB 1
+READ: UNKNOWN
+
+TO: Charles R. Marr ( CN=Charles R. Marr/OU=OPD/O=EOP@EOP [ OPD 1
+READ: UNKNOWN
+
+TO: Michael W. Williams ( CN=Michael W. Williams/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Jill M. Pizzuto ( CN=Jill M. Pizzuto/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Edward M. Rea ( CN=Edward M. Rea/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Harry G. Meyers ( CN=Harry G. Meyers/OU=OMB/O=EOP@EOP [ OMB 1 )
+
+
+READ: UNKNOWN
+
+TO: David J. Haun ( CN=David J. Haun/OU=OMB/O=EOP@EOP    [ OMB 1 )
+READ: UNKNOWN
+
+TO: Louisa Koch ( CN=Louisa Koch/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Robert M. Shireman ( CN=Robert M. Shireman/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Keith J. Fontenot ( CN=Keith J. Fontenot/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Bruce K. Sasser ( CN=Bruce K. Sasser/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: David H. Morrison (·CN=David H. Morrison/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Eugene M. Ebner ( CN=Eugene M. Ebner/OU=OMB/O=EOP@EOP [ OMB 1
+READ: UNKNOWN
+
+TO: Russell W. Horwitz ( CN=Russell W. Horwitz/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: HOGAN L@Al      HOGAN L@Al @ CD @ LNGTWY [ UNKNOWN 1 )   (OPD)
+READ: UNKNOWN
+
+TO: Mary Jo Siclari ( CN=Mary Jo Siclari/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Julie E. Mason ( CN=Julie E. Mason/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: ABRAMSON K@Al     ABRAMSON K@Al @ CD @ LNGTWY [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Kate P. Donovan ( CN=Kate P. Donovan/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Peter G. Jacoby ( CN=Peter G. Jacoby/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Mark A. Weatherly ( CN=Mark A. Weatherly/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: John A. Gribben ( CN=John A. Gribben/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Janet E. Irwin ( CN=Janet E. Irwin/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Melinda D. Haskins ( CN=Melinda D. Haskins/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Alphonse J. Maldon ( CN=Alphonse J. Maldon/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Phillip Caplan ( CN=Phillip Caplan/OU=WHO/O=EOP@EOP [ WHO 1 )
+
+
+READ: UNKNOWN
+
+TO: Shelley N. Fidler ( CN=Shelley N. Fidler/OU=CEQ/O=EOP@EOP [ CEQ 1 )
+READ: UNKNOWN
+
+TO: Mickey Ibarra ( CN=Mickey Ibarra/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Sylvia M. Mathews ( CN=Sylvia M. Mathews/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: WALKER A@Al      WALKERA@Al @ CD @ LNGTWY [ UNKNOWN 1 )   (WHO)
+READ: UNKNOWN
+
+TO: WEINSTEIN_D@Al     WEINSTEIN D@Al @ CD @ LNGTWY [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: E. Holly Fitter ( CN=E. Holly Fitter/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Constance J. Bowers ( CN=Constance J. Bowers/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Jeffrey A. Weinberg ( CN=Jeffrey A. Weinberg/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: HOLSTEIN E@Al     HOLSTEIN E@Al @ CD @ LNGTWY [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: James J. Jukes ( CN=James J. Jukes/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Elisa Millsap ( CN=Elisa Millsap/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Charles Konigsberg ( CN=Charles Konigsberg/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Bruce D. Long ( CN=Bruce D. Long/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Ellen J. Balis ( CN=Ellen J. Balis/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Robert E. Barker ( CN=Robert E. Barker/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Philip A. DuSault ( CN=Philip A. DuSault/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Ronald M. Cogswell ( CN=Ronald M. Cogswell/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Alan B. Rhinesmith ( CN=Alan B. Rhinesmith/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Jill M. Blickstein ( CN=Jill M. Blickstein/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Joseph J. Minarik ( CN=Joseph J. Minarik/OU=OMB/O=EOP@EOP [ OMB 1 )
+
+
+READ: UNKNOWN
+
+TO: T J. Glauthier ( CN;T J. Glauthier/OU;OMB/O;EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Charles E. Kieffer ( CN;Charles E. Kieffer/OU;OMB/O;EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Chandler G. Spaulding ( CN;Chandler G. Spaulding/OU;WHO/O;EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+  TO: Gina C. Mooers ( CN;Gina C. Mooers/OU;OMB/O;EOP@EOP [ OMB 1 )
+. READ: UNKNOWN
+
+TO: victoria Wassmer ( CN;Victoria Wassmer/OU;OMB/O;EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Michael L. Goad ( CN;Michael L. Goad/OU;OMB/O;EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Martha Foley ( CN;Martha Foley/OU;WHO/O;EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Linda Ricci ( CN;Linda Ricci/OU;OMB/O;EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Ronald L. Silberman ( CN;Ronald L. Silberman/OU;OMB/O;EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Sally Katzen ( CN;Sally Katzen/OU;OPD/O;EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Lisa B. Fairhall ( CN;Lisa B. Fairhall/OU;OMB/O;EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Anna M. Briatico ( CN;Anna M. Briatico/OU;OMB/O;EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Donald R. Arbuckle ( CN;Donald R. Arbuckle/OU;OMB/O;EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Wendy A. Taylor ( CN;Wendy A. Taylor/OU;OMB/O;EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO; Peter A. Weissman ( CN;Peter A. Weissman/OU;OPD/O;EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: BENDICK G@Al@CD@LNGTWY    BENDICK~G@Al@CD@LNGTWY   [ UNKNOWN 1 )   (NSC)
+READ: UNKNOWN
+
+TO: Jessica L. Gibson ( CN;Jessica L. Gibson/OU;WHO/O;EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Stephen G. Elmore ( CN;Stephen G. Elmore/OU;OMB/O;EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Sandra Yamin ( CN;Sandra Yamin/OU;OMB/O;EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Ruby Shamir ( CN;Ruby Shamir/OU;WHO/O;EOP@EOP [ WHO 1 )
+
+
+READ: UNKNOWN
+
+TO: Sean E. O'Connor ( CN=Sean E. O'Connor/OU=OMB/O=EOP@EOP [ OMB 1 ),
+READ: UNKNOWN
+
+TO: Eric R. Anderson ( CN=Eric R. Anderson/O=OVP@OVP [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Wesley P. Warren ( CN=Wesley P. Warren/OU=CEQ/O=EOP@EOP [ CEQ 1 )
+READ: UNKNOWN
+
+TO: Nancy E. Schwartz ( CN=Nancy E. Schwartz/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Maryanne B. Green ( CN=Maryanne B. Green/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Barry White ( CN=Barry White/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Ronald E. Jones ( CN=Ronald E. Jones/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Rosemary Evans ( CN=Rosemary Evans/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Ronald K. Peterson ( CN=Ronald K. Peterson/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Carol Thompson-Cole ( CN=Carol Thompson-Cole/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Janie L. Jeffers ( CN=Janie L. Jeffers/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Steven L. Schooner ( CN=Steven L. Schooner/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Laura S. Marcus ( CN=Laura S. Marcus/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Kathryn B. Stack ( CN=Kathryn B. Stack/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Jake Siewert ( CN=Jake Siewert/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Patricia E. Romani ( CN=Patricia E. Romani/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Andrew M. Schoenbach ( CN=Andrew M. Schoenbach/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Edward A. Brigham ( CN=Edward A. Brigham/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Francis S. Redburn ( CN=Francis S. Redburn/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: David E. Tornquist ( CN=David E. Tornquist/OU=OMB/O=EOP@EOP [ OMB 1 )
+
+
+READ: UNKNOWN
+
+TO: Richard J. Turman ( CN=Richard J. Turman/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Larry R. Matlack ( CN=Larry R. Matlack/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Gary L. Bennethum ( CN=Gary L. Bennethum/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Rodney G. Bent ( CN=Rodney G. Bent/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Steven D. Aitken ( CN=Steven D. Aitken/OU=OMB/O=EOP@E [ OMB 1 )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Toni S. Hustead ( CN=Toni S. Hustead/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Barry J. Toiv ( CN=Barry J. Toiv/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Brian A. Barreto ( CN=Brian A. Barreto/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Justine F. Rodriguez ( CN=Justine F. Rodriguez/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: OLIVER A@Al      OLIVER A@Al @ CD @ LNGTWY [ UNKNOWN 1 )   (OMB)
+READ: UNKNOWN
+
+TO: LEVIN P@Al    LEVIN P@Al @ CD @ LNGTWY [ UNKNOWN 1 )
+READ:UNKNOWN
+
+TO: Richard A. Mertens ( CN=Richard A. Mertens/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: MCKIERNAN_K@Al      MCKIERNAN K@Al @ CD @ LNGTWY [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: James B. Kazel ( CN=James B. Kazel/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Robert S. Fairweather ( CN=Robert S. Fairweather/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Robert J. Nassif ( CN=Robert J. Nassif/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Anita Chellaraj    ( CN=Anita Chellaraj/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Janet Himler ( CN=Janet Himler/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Douglas B. Sosnik ( CN=Douglas B. Sosnik/OU=WHO/O=EOP@EOP [ WHO 1 )
+
+
+READ: UNKNOWN
+
+TO: John podesta (    CN~John   Podesta/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Todd Stern ( CN=Todd Stern/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Philip R. Dame ( CN=Philip R. Dame/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Annette E. Rooney ( CN=Annette E. Rooney/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Robert J. Pellicci ( CN=Robert J. Pellicci/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ:UNKNOWN
+
+TO: BROWN JA@Al      BROWN JA@Al @ CD @ LNGTWY [ UNKNOWN 1 )   (OMB)
+READ: UNKNOWN
+
+TO: Ingrid M. Schroeder ( CN=Ingrid M. Schroeder/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Janet R. Forsgren ( CN=Janet R. Forsgren/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: James C. Murr ( CN=James C. Murr/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Bruce W. McConnell ( CN=Bruce W. McConnell/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Lisa M. Kountoupes ( CN=Lisa M. Kountoupes/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO; Alicia K. Kolaian ( CN=Alicia K. Kolaian/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ; UNKNOWN
+
+TO: Susanne D. Lind ( CN=Susanne D. Lind/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ; UNKNOWN
+
+TO: Richard P. Emery Jr.    ( CN=Richard P. Emery Jr./OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO; Barry T. Clendenin ( CN=Barry T. Clendenin/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ; UNKNOWN
+
+TO: Kathleen Peroff ( CN=Kathleen Peroff/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ:UNKNOWN
+
+TO; Janet L. Graves ( CN=Janet L. Graves/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ; UNKNOWN
+
+TO: William A. Halter ( CN=William A. Halter/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ; UNKNOWN
+
+TO: Joshua Gotbaum ( CN=Joshua Gotbaum/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO; Robert G. Damus ( CN=Robert G. Damus/OU=OMB/O=EOP@EOP [ OMB 1 )"
+
+
+READ: UNKNOWN
+
+TO: Jacob J. Lew ( CN=Jacob J. Lew/OU=OMB/O=EOP@EOP [ OMB ] )
+READ: UNKNOWN
+
+TEXT:
+TO:                DIRECTOR FRANK RAINES
+                   DEPUTY DIRECTOR JACK LEW
+                   DEP. DIRECTOR FOR MANAGEMENT ED DESEVE
+                   EXECUTIVE ASSOCIATE DIRECTOR JOSH GOTBAUM
+
+FROM:      OMB LEGISLATIVE AFFAIRS
+
+DATE:      MAY 4, 1998
+
+SUBJECT:           LEGISLATIVE REPORT
+
+
+CONGRESS -- TODAY (5/4):
+SENATE:
+Began consideration of H.R. 2676 - IRS Reform Bill
+        [SAP pending: Administration supports passage, with modifications
+        and has serious concerns about costs]
+
+HOUSE:
+Pro forma session
+
+CONGRESS - TOMORROW (5/5):
+SENATE:
+Convene at 9:30am for morning business.  The Senate will recess from
+12:30pm - 2:15pm for the weekly policy conferences.
+
+Continue consideration of H.R. 2676 - IRS Reform Bill (ManagersO,
+amendment expected to be offered)
+        [SAP pending: Administration supports passage, with modifications
+        and has serious concerns about costs]
+
+At 4:30pm, resume consideration of S. 1186 - the workforce Investment
+partnership Act of 1998 (vote on final passage expected Tuesday at 5:30pm).
+[SAP sent, 4/30: Administration supports passage but has concerns;
+strongly opposes Schoo1-to-Work Opportunities Act amendment]
+
+HOUSE:
+Convene at 12:30pm for morning hour and 2:00pm for legislative business.
+No recorded votes are expected before 5:00pm.
+
+
+Consider the following items on the Suspensions calendar:
+o H.R. 567 - Madrid Protocol Implementation Act
+         [SAP sent, 5/4: Admin. supports]
+o H.Res. 372 - Expressing the Sense of the House of Representatives that
+Marijuana is a Dangerous and Addictive Drug and Should not be Legalized
+for Medicinal Use. [No SAP]
+o H.Res. 267 - Expressing the Senate of the House of Representatives that
+the Citizens of the United States must Remain Committee to Combat the
+Distribution, Sale, and Use of Illegal Drugs by the Nation's Youth [No SAP]
+o H.Con.Res. 220 - Regarding American Victims of Terrorism
+         [No SAP]
+
+Continue consideration of H.R. 6 - Higher Education Amendments of 1998
+  ·
+(vote on the revised Riggs amendment likely Wednesday; Riley letter on
+revised Riggs amendment pending)
+        [SAP sent, 4/28 & Riley letter sent, 4/28: Senior advisers veto
+                threat]
+
+CONGRESS - THIS WEEK
+
+SENATE:
+Wednesday, May 6 and the Balance of the Week
+Continue consideration of H.R. 2676 - IRS Reform Bill
+        [SAP pending: Administration supports passage, with modifications]
+
+HOUSE:
+Wednesday, May 6 and the Balance of the Week:
+Convene at 10:00am for legislative business.
+
+Complete action on H.R. 6 - Higher Education Amendments of 1998 (vote on
+the revised Riggs amendment likely Wednesday; Riley letter on revised
+Riggs amendment pending)
+         [SAP sent, 4/28 & Riley letter sent, 4/28: Senior advisers veto
+                 threat]
+
+H.R. 1872 - Communications Satellite Competition and Privatization Act of
+1997 (Subject to a rule)        [No SAP]
+
+H.R. 10 - Financial Services Competition Act of 1997 (Subject to a rule)
+         [SAP under discussion]
+
+H.R. 3694 - Intelligence Authorization Act for FY 1999 (Subject to a rule)
+(may drop off of the calendar if Banking falls apart)
+         [SAP under discussion: Administration supports]
+
+CONGRESS ,- LONG-RANGE SCHEDULE
+SENATE:
+On the tentative May schedule is nuclear waste storage legislation; the
+DOD authorization bill; tobacco legislation; a series of high-tech bills
+including slamming, Internet pornography, Internet gambling, & Internet
+tax bill (likely the week of May 11); and the Caribbean Basin Initiative
+enhancements.
+
+HOUSE:
+ On the tentative House schedule is an ISTEA conference report (Raines
+letter sent 4/30), legislation on religious persecution, Internet
+taxation, Internet gambling, securities litigation reform, bankruptcy
+reform, preventing crimes against children, and the FY99 budget
+resolution.  Campaign finance is also possible May 15.
+
+

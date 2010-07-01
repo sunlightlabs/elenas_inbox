@@ -1,0 +1,167 @@
+ RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+ CREATOR: Elizabeth Drye ( CN=Elizabeth Drye/OU=OPD/O=EOP [ OPD ]   )
+
+ CREATION DATE/TIME: 8-JUN-1997 08:10:18.00
+
+ SUBJECT:   New version
+
+ TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+ READ: UNKNOWN
+
+ TEXT:
+ ==================== ATTACHMENT   1 ====================
+ ATT CREATION TIME/DATE:   0 00:00:00.00
+
+ TEXT:
+ Unable to convert ARMS_EXT: [ATTACH.D24]MAIL400692856.116 to ASCII,
+  The following is a HEX DUMP:
+
+ FF57504370040000010A02010000000205000000F922000000020000FBBD3B94ADD29A4E8C3F22
+ EE8F5784E2BF1D36C0884063FD97FDOEF524AF7BE099849C903B267C5075BA4AB8F5A6C929AF45
+ D46AE26FE038DFE5C005147289E2F7BFC710188CD874C54FB9227EBDD64549817FA821295575F1
+ D4BOAC3D2C5ABF98648D6B34259C83330BE62D77E2C9FA3DA712CE7A14D38BF34E93E9CF4C2392
+ E19C46D9CF5607E6A28A1294CF786A09ACAEBE3D03A5B6A8D7DFEF761C49BD734F87429648C32C
+ AEOA02E1A79215069E701621711D4F14A3AC5AA2657759282DC18F7E6AC77D5BEA3C6174E7CD4E
+ 94A2BF2494D21A6FCA384D9COD20A6459B14F6DOFB5F50FD5495AED6029012B46A3421CA275955
+ 188D28719422BCB7326F2DA35C18DB3FD4B85142A5B4BCB52F470F5B802DBFCAE871ECE247F3CB
+ C9241130A248979B1E59FBDB94020CF952F68D7D5504F702AF233583E67A5F073D1BEDB323ED80
+ 33FAD1AD98D674117156B4A1FD28357E8621E8C4F9EFCDB456C6BFA4FFOD2189E32D9107995CC2
+ 5C9B26E0389D20B676635DOD4EAOA2124DF3664D6A42C8457FOE069BDA91798759BFD2499F459F
+ 3C910F39F3EB72ACEFE13DA1CF641C562A739EC00821053D420FC14DCC12BBD78C11D7C86EB8BC
+ 77425149696A17B2D891FBBFD276B5BOC3689C378B1011BB01F3DBCEC1A9F0714E8EA537F32001
+ BC8CC547B502000900000000000000000000000823010000000B0100007E020000005501000000
+ 4E0000008903000009250100000006000000D70300000B300200000028000000DD030000087701
+ 000000400000000504000008340100000014000000450400000802010000000F00000059040000
+ 080501000000080000006804000000984C006F00630061006C002000430061006E006F006E0020
+ 004C00420050003400000000000000000000000000000000000000000000000000000000000000
+ 00000000000000000000000057494E53504F4F4COOOOOOOOOOE0019001C80090019001C800E001
+ 900130000000000000000000000000000000000000000000000000000000000000000000000000
+ 000000000000000000000000000000000000000000000000000000000000000000000000000000
+ 000000000000000000000000000000000000000000000000000000000000000000000000000000
+ 000000000000000000000000000000000000000000000000000000000000000000000000000000
+ 000000000B0100002800D61EC30F3908000011090000005AOOOB01008B143600540069006D0065
+ 00730020004E0065007700200052006F006D0061006E00200052006500670075006C0061007200
+ 000000000000000001000200580201000000040028000000000000000000000000000000000000
+ 00011202002400A1000000A10000000A0000002EOD010002002FOD04000200300D01004500310D
+ 01000200320D01000200330D01007B03340D02000200350D01004500360D01000200370D010045
+ 00079598220000000000000000000000000000000008337C00780000020000370D000003010004
+ 0002000000DDOA10008301040003000200211000DDDDOBOB00030000040BOODDF102F70CF19BF1
+ 03F70CF1E0401200000000F011FOl12400EC131200E04A756E6580382C803139393788CCCC4D45
+ 4D4F52414E44554D80464F528054484580505245534944454E54CCCC46524F4D3AE0110COOOOOO
+ 0060090COOEOE0110COOOOOOOOB80BOCOOEOE0110C00000000100EOCOOE04A61636B8047696262
+ 6F6E73D0041500000B000900016008B003040001201500DOE0110C0000000008070COOEOE0110C
+ 0000000060090COOEOE0110COOOOOOOOB80BOCOOEOE0110COOOOOO00100EOCOOE0417373697374
+ 616E7480746F8074686580507265736964656E7480666F7280536369656E636580616E64805465
+ 63686E6F6C6F6779CCCCE0110C0000000008070COOEOE0110COOOO000060090COOEOE0110COOOO
+ 0000B80BOCOOEOE0110C00000000100EOCOOE0456C656E61804B6167616ECCE0110COOOOOOOOQ8
+ 070COOEOE0110C0000000060090COOEOE0110COOOOOOOOB80BOCOOEOE0110C00000000100EOCOO
+ E044657075747980417373697374616E7480746F8074686580507265736964656E7480666F7280
+ 446F6D657374696380506F6C696379CCCC5355424A4543543AE011OC0000000060090COOEOE011
+                                                                                Hex-Dump Conversion
+
+                                           June 8,1997
+
+MEMORANDUM FOR THE PRESIDENT
+
+FROM:                         Jack Gibbons
+                              Assistant to the President for Science and Technology
+
+                              Elena Kagan
+                              Deputy Assistant to the President for Domestic Policy
+
+SUBJECT:                      Cloning Policy Decisions
+
+This memo summarizes the National Bioethics Advisory Commission (NBAC) cloning report
+and the cloning legislation you will announce Monday. It also discusses three decisions about
+the legislation we would like you to focus on: (1) whether to prohibit the production of embryos
+(as well as human beings) through cloning; and (2) whether to sunset the prohibition on cloning
+after 5 years; (3) and whether to use NBAC's precise definition of cloning in the legislation.
+
+NBAC's Findings and Recommendations
+
+In its final report NBAC states that it is morally unacceptable for anyone to attempt to create a
+child using the technology that created Dolly the sheep (so-called somatic cell nuclear transfer
+technology). NBAC also concludes that the cloning of DNA, cells, and tissues (which do not
+involve the creation of entire human beings), and the cloning of animals, are scientifically
+important and not ethically problematic. NBAC calls for:
+
+       Carefully-worded legislation that prohibits somatic cell nuclear transfer to create a child
+       (without impeding important cloning research on DNA, cells, and animals), sunsets in 3-5
+       years, and provides for further review by an advisory body prior to the sunset date;
+       Continuing your moratorium on the use of federal funds for cloning human beings;
+       calling on all scientists and clinicians to adhere to the voluntary moratorium; and
+       working with other countries to enforce common aspects of cloning restrictions.
+
+Proposed Legislation
+
+The legislation you will announce tomorrow::
+
+       Prohibits the use of somatic cell nuclear transfer with the intent of introducing the product
+       into a woman's womb or in any other way creating a human being;
+       Gives the Attorney General authority to seek injunctive relief, impose civil fines up to
+       $250,000 or twice the profit from a violation of the Act (whichever is greater), and seize
+       property used in violating the Act;
+       Sunsets the prohibition on cloning 5 years from the date of enactment; and
+       Directs the National Bioethics Advisory Commission to report to you prior to the sunset
+       date on the advisability of continuing the prohibition.
+                                                                               Hex-Dump Conversion
+
+Key Legislative Issues
+
+1. Embryo Research
+
+NBAC's proposed legislation -- and your draft bill -- would not ban the creation of cloned
+embryos for research purposes. NBAC simply did not evaluate the ethics of this activity.
+NBAC declined to speak to the issue because a 1994 NIH panel has already evaluated embryo
+research ethics, and because using somatic cell nuclear transfer to create embryos for research
+does not pose distinct ethical questions. Consequently, the Commission focused its attention on
+the use of such techniques for the purpose of creating an embryo which would then be implanted
+in a woman's uterus and brought to term. The unique and distinctive ethical issues raised by the
+use of somatic cell nuclear transfe.r to create children relate to, for example, serious safety
+concerns, individuality, family integrity, and treating children as objects.
+
+You have already acted to restrict embryo research. In 1994 you banned the use of NIH funds to
+create embryos for research purposes (the NIH panel had recommended permitting the funding of
+certain limited research on embryos in the first 14 days after fertilization), and Congress has
+similarly prohibited the use of HHS funds. But privately-funded embryo research is not
+restricted.
+
+The right-to-life community has already criticized NBAC for not recommending a ban on
+creating cloned embryos. Still, we recommend against your prohibiting this activity in the
+legislation you announce Monday. There is no moral rationale for treating embryos created
+through cloning differently from embryos developed through other means (e.g. in vitro
+fertilization). Prohibiting the creation of embryos for research using private funds could halt
+important research on infertility and possibly other medical conditions and would be strongly .
+opposed by the scientific and fertility communities. In short, it is a controversial step that
+merits further consideration. Therefore, we suggest you limit the scope of the legislation to the
+issue the Commission addressed. If asked about your position on embryo research, you could
+note that it is an important but separate question and reiterate your position that no federal funds
+should be used to create embryos for research purposes.
+
+2.     Sunset Provision
+
+NBAC states strongly that any legislative prohibition on cloning include a sunset clause to ensure
+that Congress review the issue after a specified period of time. Commissioners who oppose
+cloning primarily because of safety concerns insisted on a time-limited ban because time may
+mitigate such concerns.
+
+You may be criticized for proposing a sunset provision, however, since this approach appears to
+conflict with the position that cloning is inherently morally wrong. But some who share this
+view support a time-limited ban because (I) there has been so little time to fully consider the
+moral issues and it is possible their position may evolve; (2) the sunset provision provides a
+strong incentive for Congress and the Administration to renew the national debate on cloning
+within several years, ensuring continued attention to the ethical questions; and (3) there is a high
+                                                                                 Hex-Dump Conversion
+probability that Congress will simply get the legislative language wrong the first time around, .
+given our limited understanding of the science, the difficulty of defining terms, and the vagaries
+of the legislative process.
+
+As an alternative to propsing a sunset provision, you could propose legislation that provides for
+review by NBAC in 4 ~ years but does not sunset the ban. This approach would shift the burden
+of proof to those who want to lift the ban, since Congress would have to act affirmatively to
+affect change. [Jack Gibbons],Harold Varmus, and the scientific and biotechnology communities
+oppose this modification to your draft legislation. The Vice President prefers this modified
+approach.
+
+

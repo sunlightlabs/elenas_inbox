@@ -1,0 +1,187 @@
+     RECORD TYPE: PRESIDENTIAL     (NOTES MAIL)
+
+     CREATOR: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP [ OPD ] )
+
+     CREATION DATE/TIME: 3-DEC-1997 18:02:19.00
+
+     SUBJECT:   Materials   forTomorrow'~   9:00 am meeting with Governor Thompson
+
+     TO: Christopher C. Jennings ( CN=Christopher C. Jennings/OU=OPD/O=EOP @ EOP [ OPD ]
+     READ: UNKNOWN
+
+     TO: Cathy R. Mays ( CN=Cathy R. Mays/OU=OPD/O=EOP@ EOP [ OPD ] )
+     READ: UNKNOWN
+
+     TO: Andrea Kane ( CN=Andrea Kane/OU=OPD/O=EOP @ EOP [ OPD ] )
+     READ: UNKNOWN
+
+     TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ]
+     READ: UNKNOWN
+
+     TO: Jeanne Lambrew ( CN=Jeanne Lambrew/OU=OPD/O=EOP @ EOP [ OPD ] )
+     READ: UNKNOWN
+
+     TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO]       )
+     READ: UNKNOWN
+
+     TO: Diana Fortuna ( CN=Diana Fortuna/OU=OPD/O=EOP @ EOP [ OPD.]        )
+     READ: UNKNOWN
+
+     TO: Emily Bromberg ( CN=Emily Bromberg/OU=WHO/O=EOP @ EOP [ WHO]           )
+     READ: UNKNOWN
+
+     TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ] )
+     READ: UNKNOWN
+
+     TEXT:
+       Here are three one-pagers for tomorrow's meeting with Governor
+     Thompson.
+                     1) Summary of recent Administration responses to W-2
+     waiver requests
+                     2) Summary of Wisconsin's new Children's Health Waiver
+     Proposal
+                     3) Summary of Wisconsin Works welfare reform program
+
+                     Thanks to Andrea, Diana and Jeanne for your help.
+
+     Bruce, you already have the additional attachments on Wisconsin Works (I
+     dropped them off last night) -- let me know if you need copies again.===============
+     ATT CREATION TIME/DATE:   0 00:00:00.00
+
+     TEXT:
+     Unable to convert ARMS_EXT: [ATTACH.D17]MAIL448866633.316 to ASCII,
+      The following is a HEX DUMP:
+
+     FF575043BF110000010A02010000000205000000483300000002000085D196F3C888621AF2BE39
+     6DD77C3401DA49AF37647F559D314BAF19558EEB3957EB22A2E615A4FAE1BCC3D7BDCEBCE1437F
+     85802030685A5EFF5842BAAACC9A57A422CF5FB40C2CFF7105EOD6993B3198F65127C36D2BOE6D
+     7BB38F6E504898E715A370BA61C6C9E4A3FB98CDOF843333DOF5384A2CA803E8C175DEDFODAFB9
+     3FB26591C74DOE9171B9F62D2C78F48BOFOOFD57D3EEBC42D2008E2FC6F4752B245C3BD496B450
+     1225499D8692968CEB23C801EAC515EE13205E4339419AD841B7397F629B418BCC32D5D4F65D06
+                                                                      Hex-Dump Conversion
+                           Recent Adminstration Actions
+                     regarding Wisconsin W-2 Waiver Requests
+
+
+
+
+DATE           ISSUE           ACTION
+
+Summer/        Food Stamps     USDA approved most of the Food Stamp waivers the state
+Fall 1996                      requested for W -2_
+
+Summer/        Welfare         HHS approved Wisconsin's W-2 TANF plan; waiver was
+Fall 1996                      no longer needed (see attached summary)_
+
+Summer/        Medicaid        HHS denied Wisconsin's W-2 Medicaid waiver proposal,
+Fall 1996      Block Grant     because, as the President stated in a 12/13 letter to the
+                               state, "it violated my Administration's commitment to
+                               maintaining a federal guarantee of health care for
+                               low-income individuals."
+
+May 1997       Food Stamp      USDA responded to the Wisconsin Department of
+               Privatization   Workforce Development saying the state's Food Stamp
+                               privatization waiver request submitted in May 1996
+                               "remains under review.... privatization has far-reaching
+                               impacts and requires an earnest review and evaluation."
+
+June 1997      Medicaid        HCFA's regional office wrote to the state saying the
+               Privatization   state's proposal was likely not approvable "because it
+                               seems to allow non-public employees to perform activities
+                               in the eligibility determination process that are not
+                               authorized by the statute or outstationing regulation" and
+                               requesting more information.
+September      Children's      The state submitted a concept paper to HCFA regarding an
+1997           Health &        integrated 1115 waiver of provisions of both Medicaid the
+               Medicaid        new children's health program (see attached summary).
+October-Dece   Children'S      HCFA has had several conference calls with state officials
+mber 1997      Health &        since early November and is planning another conference
+               Medicaid        call with the state during the week of 12/8.
+                                                                                Hex-Dump Conversion
+
+                       Wisconsin's Medicaid and Children's Health Waiver
+
+
+  Wisconsin has indicated its strong interest in getting an 1115 waiver to the Children'S Health
+  Insurance Program (CHIP). On September 30, they sent a "concept paper" to HCF A on their
+  ideas and have subsequently sent a set of bullets describing more details of their proposal.
+  HCFA staff have had informal contact with the State Medicaid Director, Peggy Bartel. HCFA is
+. planning a conference call with state officials next week.
+
+
+ Summary of "BadgerCare" -
+
+ ·        Combination of CHIP and Medicaid 1115: Proposes to have a single program for
+          families up to .185 percent of poverty and people transitioning from welfare to work
+
+ ·        CHIP funding: The state would get the enhanced matching rate and draw down from its
+          allotment for all children plus adults up to 133 percent of poverty (if there is enough in
+          the state's allotment). Medicaid would fund adults above 133 percent of poverty.
+
+ ·        Benefits: Medicaid
+
+ ·        Cost sharing: Families above 143 percent of poverty would pay premiums equal to 3.5
+          percent of family income.
+
+
+ Issues
+
+ ·        Administration's general concern about 1115 waivers for Title XXI: Nancy Arm Min
+          said back in September that we are reluctant to consider 1115 waivers until we have more
+          experience with the program. We are right now preparing a memo to the President on
+          whether we should formalize this position.
+
+ ·        Specific issues that require waivers:
+
+                 Enhanced matching rate / Title XXI funds for parents, not just kids
+
+                 Coverage of children who hav,e partial insurance or access to insurance
+
+                 Use of premium revenues as the state contribution
+
+                 Cost sharing below the income level specified in legislation (143% v 150%)
+
+                 Privatization of eligibility determination: There are no rules against privatization
+                 in CHIP but there are in Medicaid. The state wants to allow eligibility
+                 determination by non-governmental agencies.
+                                                                              Hex-Dump Conversion
+
+
+
+                           Background on Wisconsin Works (W-2)
+
+
+The Wisconsin Works welfare reform program, also known as W -2, contains these key elements:
+
+Everyone works: Effective 9/1/97, W-2 replaced welfare in Wisconsin. Everyone must do some
+kind of work, and cash is based on participation in work. There is no entitlement to assistance,
+but there is "a place for everyone who is willing to work to their ability." The program is
+available to all parents with minor parents, low assets and low income.
+
+Self-Sufficiency Ladder: W-2 includes four kinds of work ranging from unsubsidized
+employment to W-2 Transitions depending on someone's ability (see attachment). It might be
+interesting to ask about the relative priority and utilization of these four activities.
+
+New role for staff: Wisconsin has replaced eligibility workers and case managers with "financial
+and employment planners" who focus on self-sufficiency and responsibility. The FEPs are
+available to help people once they've entered unsubsidized employment.
+
+Investment in support services and retention: Wisconsin has invested heavily in support services
+to help people transition from welfare to work and to help families maintain employment.
+Governor Thompson has been very vocal about the importance of investing in child care. All low
+income. families below 165% of poverty are eligible for child care subsidies on a sliding fee
+basis, regardless of whether they have been on welfare. W -2 agencies may provide
+post-employment services including job coaches, training, education, and transportation to help
+someone succeed on the job.
+
+One-Stop Job Centers: These are the single point of entry for employers and job seekers--W-2
+participants as well as others. The state has entered into a contract with a W -2 agency for each
+county, with the exception of Milwaukee which has 5 contractors (see attached). In most places,
+the county is the W-2 agency; in Milwaukee, the W-2 contractors include private for profit and
+non-profit entities.
+
+Eamed Income Credit: W~sconsin is a strong advocate of the EIC, including the Advance EIC
+option (where employees get a portion of their EIC in each paycheck). The state is also one of
+four to have a refundable state EIC.
+
+

@@ -1,0 +1,436 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Michael J. Sorrell ( CN=Michael J. Sorrell/OU=PIR/O=EOP [ PIR 1 )
+
+CREATION DATE/TIME:14-NOV-1997 15:19:27.00
+
+SUBJECT:
+
+TO: Allanias Blocker III ( CN=Ananias Blocker III/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Laura K. Capps ( CN=Laura K. capps/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Emil E. Parker ( CN=Emil E. Parker/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Laura K. Demeo ( CN=Laura K. Demeo/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Cheryl D. Mills ( CN=Cheryl D. Mills/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Robert B. Johnson ( CN=Robert B. Johnson/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Lynn G. Cutler ( CN=Lynn G. Cutler/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Sidney Blumenthal ( CN=Sidney Blumenthal/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Beverly J. Barnes ( CN=Beverly J. Barnes/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Peter Rundlet ( CN=Peter Rundlet/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Angelique Pirozzi ( CN=Angelique Pirozzi/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Sylvia M. Mathews ( CN=Sylvia M. Mathews/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Thurgood Marshall Jr ( CN=Thurgood Marshall Jr/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Susan M. Liss ( CN=Susan M. Liss/O=OVP @ OVP [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Ann F. Lewis ( CN=Ann F. Lewis/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Mickey Ibarra ( CN=Mickey Ibarra/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Marjorie Tarmey ( CN=Marjorie Tarmey/OU=WHO/O=EOP @ EOP [ WHO 1 )
+
+
+READ: UNKNOWN
+
+TO: Andrew J. Mayock ( CN=Andrew J. MayockjOU=WHOjO=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Janet Murguia ( CN=Janet MurguiajOU=WHOjO=EOP @ EOP   [ WHO 1 )
+READ: UNKNOWN
+
+TO: Robert N. Weiner ( CN=Robert N. WeinerjOU=WHOjO=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Michael Waldman ( CN=Michael WaldmanjOU=WHOjO=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Dawn M. Chirwa ( CN=Dawn M. ChirwajOU=WHOjO=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Bob J. Nash ( CN=Bob J. NashjOU=WHOjO=EOP @ EOP [ WHO 1)
+READ: UNKNOWN
+
+TO: Doris O. Matsui ( CN=Doris O. MatsuijOU=WHOjO=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Mona G. Mohib    CN=Mona G. MohibjOU=WHOjO=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Ruby Shamir     CN=Ruby ShamirjOU=WHOjO=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Paul E. Begala ( CN=Paul E. BegalajOU=WHOjO=EOP @ EOP     WHO 1 )
+READ: UNKNOWN
+
+TO: Gene B. Sperling ( CN=Gene B. SperlingjOU=OPDjO=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Nelson Reyneri ( CN=Nelson ReynerijOU=WHOjO=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Minyon Moore ( CN=Minyon MoorejOU=WHOjO=EOP @ EOP   [ WHO 1 )
+READ: UNKNOWN
+
+TO: Elisabeth Steele ( CN=Elisabeth SteelejOU=WHOjO=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Trooper Sanders ( CN=Trooper SandersjO=Ovp @ OVP [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Laura Emmett ( CN=Laura EmmettjOU=WHOjO=EOP @ EOP   [ WHO 1 )
+READ: UNKNOWN
+
+TO: Suzanne Dale ( CN=Suzanne DalejOU=WHOjO=EOP @ EOP   [ WHO 1 )
+READ: UNKNOWN
+
+TO: edley ( edley @ law.harvard.edu @ INET @ LNGTWY [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Maria Echaveste ( CN=Maria EchavestejOU=WHOjO=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Jon P. Jennings ( CN=Jon P. JenningsjOU=WHOjO=EOP @ EOP [ WHO 1 )
+
+
+READ: UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D31]MAIL499285712.316 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043AOOB0000010A0201000000020500000092540000000200002ECD3B59960294B5B155E4
+03149C36C5F8DOB0024D5A9CFE2CA3EBA999A17C207FC44F40E343B2479A3BE27AC4477B643449
+BB9C1788CF8539532031B1053A23177CDEDB3B52C019835E16B6F1F803B9A5FC77E7CCFDC7EA90
+6AD80365A2971050D97FF34821FB8AE5783124B602642A1B3145D08F7534F93A32148593DAOE56
+3E5BF73DA1B5E12EEED99AA9D940B34CB16D9C6EB6366645D412D1450B180A15F92FEDOC1DA09E
+F050668409B2D42F06EC8COCE1DB1ACC5C2D34853716D48B01281EC14C81AE1D5C36593E3F39F3
+3069898A8FOCF355B7091E227EODFEDBA4FC234E182F1143C7CCA370271DDD1BEFC6F33A08B6B9
+C4E6CB98A7C2A7074FOBA77CB3106CC1285CC634C12A3B1FDC18B5396A8AB2C7352D00863881AA
+5864E499BD221200C25C0362AD199A71829946BOA278929C6031A30C35363C70269096A3AD96E7
+1EF866644841C6C016F82EBC4711DA)C2FOB3C38B1CC13C5F2F362A2AC012A467E002COF8DA603
+6376F2D22D3783DAOF64963806EOE27E8B1CD780DC8349107C7D3B84A52A4F6813161B27B16E8A
+OE35C6CA1FD587EFOE6FF207AADA5275E07ABF12EE80402590C6F53AB6C2007530A08~482E8730
+51EE679F530A041287FE648917B4189982E1D5BOC9E62F0234F50C751E6BEE5B3359532E31D84A
+C3AOA6AB2402002100000000000000000000000823010000000B010000CE030000005518000600
+4EOOOOOOD904000009250100000006000000270500000B30070000003D0000002D050000087701
+000000400000006A05000008340100000014000000AA0500000802010000000FOOOOOOBE050000
+08050100000008000000CD05000002080300000044000000D50500000B30060000005900000019
+06000000650400000001000000720600000B300100000055000000730600000608010000001600
+0000C80600000B7B020000003DOOOOOODE060000081D01000000000000001B0700000B7B020000
+003D0000001B0700000055010000004E0000005807000000550BOO05003COOOOOOA60700000208
+0100000044000000E2070000020801000000E800000026080000005501000100320000000E0900
+00000000000000000000000E090000000000000000000000000E0900000055010000004EOOOOOO
+4009000000000000000000000000400900000B7B020000003DOOOO008E09000002080100000044
+000000CB0900000B7B020000003DOOOOOOOFOA0000020801000000B80000004COA000000550100
+00004E000000040B000000000000000000000000040B00000055010000004E000000520BOOOOOO
+985C005C0050004900520031005C005000520049004E0054004500520033000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000057494E
+53504F4F4C00000000002C01F0002C012C012C012C012C01F00030000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000B0100002800C819681048
+OD000011090000005AOOOB010000103600540069006D006500730020004E006500770020005200
+6F006D0061006E00200052006500670075006C0061007200000000000000000001000200580201
+000000040028000000150000000000000000000000000000000112924A2400A1000000A1000000
+D6021500800109000100030000000000FFFF1500D60A0000005A23030017005B23060017005C23
+040017005D23020002005E2302005B005F23010017006023020017006123030017006223010051
+00632301005100F34C38230000000000000000000000000000000008337C007800000200006323
+000003010004000200000001000A0000003AOOOOOODDOA10008301OA00030035D5291000DDDDOB
+OB00030000040BOODDD41B1F00800102000800F401AD670100F401000058020200580200001FOO
+D40100000004002800000031000000000000000000000000000000013335D52400A9000000A900
+OOOODDOA1000830104000300924A211000DDD6021500800109000100030000000000FFFF1500D6
+DDOBOC0003010000040COODD000100000004003EOOOOOOOOOOOOOO170000000000000000000000
+0100FFFF2400000400004C006100720067006500200043006900720063006C0065000000F00004
+FOE030130000000000002E002E000100001300E001000AOOOOOOOC000000D1000C00000200B004
+OCOOD101000000040028000000150000000000000000000000000000000112924A2400A1000000
+A1000000D6021500800113000100030000000000FFFF1500D60100000004002800000015000000
+0000000000000000000000000112924A2400A1000000A1000000D6021500800114000100030000
+000000FFFF1500D62800E21978102DOD000011090000005AOOOB010000103600540069006D0065
+00730020004E0065007700200052006F006D0061006E00200052006500670075006C0061007200
+                                                                  Hex·Dump Conversion
+
+
+
+
+MEMORANDUM FOR THE PRESIDENT
+
+FROM:         JUDITH A. WINSTON
+
+THRU:        . ERSKINE BOWLES
+               SYLVIA MATHEWS
+
+SUBJECT:      PRESIDENT'S INITIATIVE ON RACE WEEKLY REPORT--
+              NOVEMBER 8 - 14
+
+
+
+ADVISORY BOARD ACTIVITIES
+
+        Smithson Bicentennial Medal of Honor. Secretary Alexis Herman presented Dr.
+        Franklin with the James Smithson Bicentennial Medal of Honor on November 12 in
+        recognition of his outstanding contributions as an historian of American life. This
+        presentation was made in conjunction with a Smithsonian program in which Dr.
+        Franklin and his son discussed the recent autobiography of Dr. Franklin's father,
+        Buck Colbert Franklin.
+
+        Consortium on Financing Higher Education. On November 13, Dr. Franklin
+        participated in the annual meeting of the Consortium on Financing Higher
+        Education. He discussed the issues surrounding colleges in the wake of the
+        Hopwood decision and other affirmative action related matters.
+
+        Fox TV Report. Also on November 13, Dr. Franklin appeared on Fox-TV's
+        "O'Reilly Report". The interview focused on Dr. Franklin's new book and his role
+        as the Chairman of your Advisory Board.
+
+        Hate Crimes Conference. Angela Oh gave the opening address at the Los Angeles
+        satellite site of the conference to approximately 35 people. In her address, she
+        stressed the importance of addressing the serious problem of hate crimes as a
+        necessary step in developing improved race relations. [need to get update on Gov.
+        Winter's participation from Mike W.]
+                                                                      Hex-Dump Conversion '
+
+    California Women's Law Center. On November 14, Angela Oh was the Keynote
+    Speaker at the California Women's Law Center Annual Luncheon. She urged the
+    women's community to become actively engaged in the Initiative.
+
+    University of California at Irvine. Angela Oh gave the Keynote address to
+    approximately 400 people at U.C. Irvine's Symposium on Race on November 15.
+    She spoke about how the Advisory Board will focus on education and about how the
+    higher education community can contribute to the Initiative.
+
+
+OFFICE OF THE EXECUTIVE DIRECTOR
+
+    Southern Regional Council. On November 8, I spoke to approximately 60 people at
+    the Southern Regional Council's Annual Meeting about the importance of adapting to the
+    changing issues of race as we approach the 21 st Millennium. In conjunction with my
+    speech, the Atlanta Constitution-Journal featured the Initiative in a full-page story and I
+    taped an interview which will air on CNN.
+
+    Hate Crimes Conference. I attended the conference and co-chaired a breakout
+    group on Hate Crimes on Campus with David Longanecker, Assistant Secretary for
+    Post-Secondary Education. My staff is currently involved in ensuring that there is
+    appropriate follow-up to the conference.
+
+    Education Organizations. On November 13, we met with representatives from 10
+    organizations concerned about education issues, including the National Education
+    Association, American Federation of Teachers, and Council of the Great City
+    Schools. I discussed how the Initiative affects urban schools. We exchanged ideas
+    about how urban educators can help to promote the goals of the Initiative.
+
+    American University. I addressed an audience of 100 students, faculty,
+    administrators, and employers at a reception at American University celebrating its
+    expanded Externship Program on November 12. I urged the education community
+    to encourage students to incorporate examining the significance of race into their
+    studies.
+
+    OUTREACH
+
+    We have submitted a tentative schedule of Advisory Board activities for December
+    through June to Dr. Franklin and Sylvia Mathews, for their review. Once they have
+    completed their review, we will forward it to the rest of the Advisory Board.
+
+    National Multicultural Institute. On November 10, we met with Liz Sallett, President
+    of the National Multicultural Institute, and several of the diversity trainers affiliated with
+    the Institute. We discussed the most constructive ways to conduct dialogues, town hall
+
+                                              2
+                                                                    Hex-Dump Conversion
+meetings, and opportunities to coalition build. They have offered to assist us in the
+training of facilitators, the preparing of materials, and planning formats for town hall
+meetings and dialogues.
+
+National Voices Coalition. We met with representatives of the National Voices
+Coalition and the Inter-Ethnic Affairs Institute, November 12, to discuss specific ways in
+which we can work together. We have agreed to co-sponsor activities in selected cities
+across the country.
+
+National League of Cities. On November 12, we met with the director of the National
+League of Cities. The League agreed that they would publish articles about Initiative
+activities, assist us in working with the mayors to set up events in various communities,
+and explore how to utilize the resources of the State Municipal Leagues.
+
+AAC&UINational Urban League. On November 14, we met with Carol Schneider of
+the AAC&U and Lisa Malone of the National Urban League to discuss the optimal way to
+spark campus dialogues.
+
+RESEARCH AND POLICY PLANNING
+
+Condensed Fact Book. The fact book is currently being reviewed by White House staff
+and staff of other agencies.
+
+Policy. We have been working with the Board and others to develop the message for the
+November 19 meeting of the Advisory Board and to identifY a list of participants for the
+meeting. The meeting will focus on the value of diversity in higher education. [The
+meeting will feature three panels: The first panel will present perspectives on the
+value of diversity in higher education and will feature a prominent university
+president, a business leader, and a student leader. The second panel will present
+research on what works on campus to promote the benefits of diversity and will feature
+a faculty researcher, a prominent president of a minority serving institution, and a
+faculty member who is in charge of campus diversity programs. The third panel will
+discuss the many methods used to promote inclusion and diversity in higher education
+including affirmative action, outreach, recruitment, pipeline programs, and TRIO
+programs and will feature experts and practitioners on such programs. There will
+also be a discussion near the end of the meeting concerning continuing discrimination
+and the need for civil rights enforcement funding.} OUT???
+
+Promising Practices. The November 6 website featured 14 examples of promising
+practices. The working group is currently identifYing and evaluating additional examples
+for dissemination through the web. Our goal is to have 26 more examples on the website
+by December 3. As part of the December town hall meeting, we have proposed a plan
+to highlight 5-10 of these promising practices in a breakout room. We met with the
+National Conference to discuss program identification and evaluation strategies.
+
+                                          3
+                                                                     Hex·Dump Conversion
+
+       Data. We are continuing to meet with CEA to plan the resource book. We are
+       preparing data fact sheets on higher education issues for the November 19 Advisory
+       Board meeting. The data working group is continuing with the plan to provide a
+       three-ring binder to the Advisory Board on other data indicators and demographic
+       information in mid-December.
+
+       Essays. We met on November 11 with several Washington, D.C. area scholars
+       about developing a series of essays on race.
+
+       One America Talks. We have assisted the White House Staff in designing questions
+       and dialogue kits for the One America Talks project.
+
+
+       COMMUNICATIONS
+
+       Public Outreach. The focus of the past week has been centered on the planning of the
+       next Advisory Board Meeting on November 19, at the University of Maryland, College
+       Park. We are in the process of developing a comprehensive press plan to develop media
+       interest.
+
+       Our team has continued to meet with several White House Offices to coordinate the
+       Presidential Town Hall Meeting in December 3.
+
+       On November 7, we met with Carol Stem-LaRosa and Lucille Gionet of A World of
+       Difference Institute (Anti-Defamation League), Iris Burnett of USA Network, and Nell
+       Merlino, a consultant for the national office of the YWCA. We met to discuss a possible
+       partnership with PIR, the Nation of Voices Coalition, YWCA, and the USA Network on a
+       TV event in April based on anti-discrimination and tolerance.
+
+At a November 12 meeting, the Ad Council submitted to the White House-Initiative
+communications staff a revised creative strategy outlining the vision and message of a PSA
+focused on youth, as well as a proposed production schedule to meet the December 2 deadline.
+The White House-Initiative communications group found the creative strategy acceptable and
+authorized Leadership Conference Education Fund (LCEF) and the Ad Council to proceed.
+
+Policy and Dissemination. On November 12, the final draft of the PIR brochure was sent to the
+printer.
+
+WORK TEAMS
+
+       YOUTH OUTREACH
+       On Friday, November 7, members of the Youth Task force addressed approximately 50
+
+                                              4
+                                                                           Hex-Dump Conve:sion
+    members of the Congressional Black Caucus Staffers and the Congressional Hispanic
+    Caucus Staffers organizations. The purpose of this meeting was to engage and enlist
+    their organizations and their members in the Youth Initiative. We received commitments
+    to forward promising practices and to lobby their members on our behalf.
+
+    CABINET AFFAIRS / FEDERAL AGENCY
+
+     Approximately 40 senior agency staff will be coming to the NEOB for a briefing/training
+    on the at the tables'-like initiative. These folks will be the first round of participants to
+    go out over the Thanksgiving holiday and host roundtable discussions on race.
+
+    COMMUNICATIONSIPRESS
+
+
+
+    PROMISING PRACTICES
+
+
+
+    RECRUITING LEADERS/OUTREACH
+
+
+
+    DIALOGUE IN COMMUNITIES
+
+
+
+    ADVISORY BOARD
+
+
+
+FEDERAL AGENCY ACTIVITIES
+
+    Department of Justice
+
+
+
+    Department of Interior
+
+
+    United States Department of Agriculture
+
+
+
+
+                                             5
+
+
+
+     Department of Labor
+                                                   Automated Records Management System
+                                                           Hex-DiJmp Conversion
+
+     Department of Housing and Urban Development
+
+     Department of Transportation
+
+
+     Department of Energy
+
+
+
+     Department of Education
+
+
+
+
+                                      6
+
+

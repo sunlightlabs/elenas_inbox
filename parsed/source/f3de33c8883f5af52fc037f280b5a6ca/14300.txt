@@ -1,0 +1,48 @@
+ RECORD TYPE: PRESIDENTIAL   (EXTERNAL MAIL)
+
+ CREATOR: Paul_A._Leonard@hud.gov@INET@EOPMRX
+
+ CREATION DATE/TIME:30-0CT-1996 13:58:00.00
+
+ SUBJECT: Means Tested Benefits
+
+ TO: kagan_e                               ( kagan_e@A1@CD )    (WHO)
+ READ:30-0CT-1996 13:59:11.46
+
+ TO: benami __ ja1.eop.gov_at_Internet     ( benami __ ja1.eop.gov_at_Internet@hud.gov@I
+ READ: NOT READ
+
+. TO: ben-ami_j                            ( ben-ami_j@A1@CD )
+  READ: NOT READ
+
+ TO: 'benami_j                             ( benami_j@A1@CD )    (WHO)
+ READ:30-0CT-1996 17:19:06.14
+
+ TEXT:
+            Any news on the determination of this definition?    Any
+            sense of the timeline.
+
+           As you know, this is a big issue for HUD and so far, our
+           program people have been waiting for clarification before
+           sending out guidance.
+ ==================== ATTACHMENT 1 ====================
+ ATT CREATION TIME/DATE:30-0CT-1996 13:58:00.00
+
+ ATT BODYPART TYPE:D
+
+ TEXT:
+ RFC-822-headers:
+ Received: from storm.eop.gov (storm.eop.gov)
+  by PMDF.EOP.GOV (PMDF V5.0-4 #6879) id <01IB98PM18YOOOB9ME@PMDF.EOP.GOV>; Wed,
+  30 Oct 1996 13:58:26 -0400 (EDT)
+ Received: from hud.gov (hudgate.hud.gov) by STORM.EOP.GOV (PMDF V5.0-7 #6879)
+  id <01IB9AORNRRM000080@STORM.EOP.GOV>; Wed, 30 Oct 1996 14:55:01 -0700 (MST)
+ Received: by hud.gov (4.1/SMI-4.1) id AA25384; Wed,
+  30 Oct 1996 14:00:21 -0500 (EST)
+ Received: from hudsmtphq.hud.gov(170.97.1.9) by hudgate via smap (V1.0mjr)
+  id sma025357; Wed Oct 30 14:00:17 1996
+ Received: from ccMail by hudsmtphq.hud.gov (SMTPLINK V2.11.01)
+  id AA846718876; Wed, 30 Oct 1996 13:48:13 -0500 (EST)
+ ================== END ATTACHMENT 1 ==================
+
+

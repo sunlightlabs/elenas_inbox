@@ -1,0 +1,31 @@
+RECORD TYPE: PRESIDENTIAL   {NOTES MAIL}
+
+CREATOR: Jose Cerda III { CN=Jose Cerda III/OU=OPD/O=EOP [ OPD ] }
+
+CREATION DATE/TIME: 14-JUN-1999 18:04:34.00
+
+SUBJECT:   Sure would've been nice to know this was in the hopper ... jc3
+
+TO: Elena Kagan { CN=Elena Kagan/OU=OPD/O=EOP@EOP [ OPD ]
+READ:UNKNOWN
+
+TO: Leanne A. Shimabukuro { CN=Leanne A. Shimabukuro/OU=OPD/O=EOP@EOP [ OPD ] }
+READ:UNKNOWN
+
+TO: Bruce N. Reed { CN=Bruce N. Reed/OU=OPD/O=EOP@EOP [ OPD ] }
+READ: UNKNOWN
+
+CC: Broderick Johnson { CN=Broderick Johnson/OU=WHO/O=EOP@EOP [ WHO]        }
+READ:UNKNOWN
+
+CC: Paul D. Glastris { CN=Paul D. Glastris/OU=WHO/O=EOP@EOP [ WHO]     }
+READ:UNKNOWN
+
+CC: Janet Murguia { CN=Janet Murguia/OU=WHO/O=EOP@EOP [ WHO]    }
+READ: UNKNOWN
+
+TEXT:
+Unable to convert ARMS EXT: [MESSAGE.D65]ARMS29531727Q.136
+The following is a HEX-dump of the file:
+
+

@@ -1,0 +1,210 @@
+RECORD TYPE: PRESIDENTIAL      (NOTES MAIL)
+
+CREATOR: Linda Ricci   ( CN=Linda Ricci/OU=OMB/O=EOP [ OMB 1 )
+
+CREATION DATE/TIME: 1-FEB-1999 00:00:51.00
+
+SUBJECT:   2 pager: Framework for 2000 budget
+
+TO: Jessica L. Gibson ( CN=Jessica L. Gibson/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Ellen M. Lovell ( CN=Ellen M. Lovell/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Minyon Moore ( CN=Minyon Moore/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Neal Lane ( CN=Neal Lane/OU=OSTP/O=EOP@EOP [ OSTP 1 )
+READ: UNKNOWN
+
+TO: Todd Stern   C CN=Todd   Stern/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Lynn G. Cutler ( CN=Lynn G. Cutler/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Lawrence J. Stein ( CN=Lawrence J. Stein/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Sally Katzen ( CN=Sally Katzen/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Robert B. Johnson ( CN=Robert B. Johnson/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: George T. Frampton ( CN=George T. Frampton/OU=CEQ/O=EOP@EOP [ CEQ 1 )
+READ: UNKNOWN
+
+TO: Maria Echaveste ( CN=Maria Echaveste/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Christopher S. Lehane ( CN=Christopher S. Lehane/O=OvP@OVP [ UNKNOWN 1 )
+READ:UNKNOWN
+
+TEXT:
+Here's some background from OMB on the framework for the Year 2000 Budget,
+which may be helpful in your briefings.
+
+
+
+
+In addtion, there are joint NEC/OMB documents that include the highlights
+of the budget. They will be distributed on Monday.   ==================== ATTACHMENT
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D55]MAIL41808623X.036 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504330060000010A020100000002050000006421000000020000612947395B434DAF8ED40F
+3286AC7417498C16BE2F823C32E6F18EA2A5A940CC6D5F03AOB061D7F2AFB20B47EC6B3AA3F511
+FA002329B45EAFOC5AFC59C76DB09AC9F1AB93A6EF9BEC1A3DC9D192DOE6C493138114FBE052F2
+59E2FD6A7BDF3ACA19C4A2F848BAC639348CF488F36388F076C8CE587122EFBF4FFE82290E803B
+A8FF06FFE7B2D5FE2ED64189E7259D8818288D17EABF4B23CBE96BA11D1A63129F6141E58F451D
+F018A69B058D2BA5466D72538E9599343D58E4997D192F70E16AC764F7D9318822A450C5ED9C8F
+37A30711C53F439AC7F31F3133768BCB415942F3377807F19653387E5974FBA0447EE6CA73E094
+966F624E3DFE75F91A11026E46D9D1CBA5942179799769573C68FOB103B45A4079239D8FDF4F30
+71393BEBDC3B27DFE1BC00983C4E4BF4FD2F091DB118CCFBD2CDB479A500D31B2E1903130E2B07
+56DC1DE84F3BA67734A3330D44C0388F6F9B3C75C5AE37ABOE39ECB7FD10ACDA6F66B41ADEE9F7
+427A906831A478DA35ACE794BDA48CD5DFB73BF43BCD465F049897DA7A49E4FAE906B692B9DBE7
+D6C285DB29EOOB7D5BA32A023A595AC240EA02D7AD06AB2CC3CB01706982D4A5C6C8C62B705845
+7F8AF979E247C52E94CB9933C424BD3C9F2COC2D3536D47D4B3FA3DCA4334001F75E599BAF840A
+ABC686FE8902002000000000000000000000000823010000000B010000C0030000005508000000
+4EOOOOOOCB04000009250100000006000000190500000B3002000000280000001F050000005503
+0000003C0000004705000000550200000032000000830500000877010000000AOOOOOOB5050000
+08340100000014000000BF0500000802010000000FOOOOOOD305000000000000000000000000D3
+05000000000000000000000000D305000000000000000000000000D30500000000000000000000
+0000D305000000000000000000000000D305000000000000000000000000D30500000000000000
+0000000000D305000000000000000000000000D305000000000000000000000000D30500000000
+0000000000000000D305000000000000000000000000D305000000000000000000000000D30500
+0000000000000000000000D305000000000000000000000000D305000000000000000000000000
+D305000000000000000000000000D305000000000000000000000000D305000000000000000000
+000000D305000000000000000000000000D305000000000000000000000000D305000000000000
+000000000000D30500000B30100000004EOOOOOOE205000000985C005C004F004D0042002D0050
+0053002D00340034005C0032003500330041000000000000000000000000000000000000000000
+0000000000000000000000000000000000000000000057494E53504F4F4C00000000002C01FOOO
+2C012C012C012C012C01F000300000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000005E0087102800C8196810480DOO0011090000005AOOOB010000
+103600540069006D006500730020004E0065007700200052006FOO6D0061006E00200052006500
+670075006C00610072000000000000000000010002005802010000000400280000000000000000
+0000000000000000000000011202002400A1000000A10000001BOOF41A5C121A09000000000000
+00600018110000102400540069006D006500730020004E0065007700000052006F006D0061006E
+000000000000003200E41B3214BC0700001041000000600014100000101A00470069006C006COO
+2000530061006E0073000000000000000000010000000100010013008C7E3D2600000000EOE2E3
+C3E7C7EBE9C9E8EAED08337C0078000102000001000000030100000004003E0000000000000010
+0000000000000000000000031D87A624002206000053006D0061006C006C002000430069007200
+63006C0065000000F02206FOE0300C0000000008070COOEODDOAI0008301040003000200211000
+DDDDOBOB00030000040BOODDFI020100F1F20CF2D41B1F00870102000800BC0294B10200BC0200
+0058020200580200001FOOD454616C6B696E6780506F696E74733AD0041500000B00090001B004
+0000000001201500D0805468658046756E64616D656E74616C73806F6680F30CF380EOI10COOOO
+0000100EOCOOEOF20CF2507265736964656E7480436C696E746F6EF01C04F07380465980323030
+30804275646765743AD0041500000B00090001C6051601010001201500DOD3050COOOOOI000200
+OCOOD3E0110C0040000008070COOEOE0110C0040000060090COOEOE0110C00400000B80BOCOOEO
+F208F2496E76657374696E6780696E8074686580467574757265807768696C65804D61696E7461
+696E696E678046697363616C804469736369706C696E6580D0041500000B00090001DC062C0202
+0001201500DOF30CF3F308F3D3050C0000010000020COOD3E0300C0000000008070COOEOE0110C
+0000000060090COOEOF208F2F20CF2D0041700000DOOOB0002080728230807282302201700DOF3
+08F3D41B230086010200080058023CDD000058020200BC020200BC0294B1230000002300D4CC41
+8052657475726E80746F8046697363616C80537472656E6774683ACCCCF30CF3F02206FOE0300C
+0000000008070COOE054686580323030308062756467657480616E746963697061746573807468
+6580746869726480636F6E73656375746976658062756467657480737572706C75738084848074
+                                                     Hex-Dump Conversion
+
+Talking Points:
+ The Fundamentals of          President Clinton's FY 2000 Budget:
+         Investing in the Future while Maintaining Fiscal Discipline
+
+
+A Return to Fiscal Strength:
+
+·      The 2000 budget anticipates the third consecutive budget surplus -- the first time we have
+       seen back-to-back-to-back surpluses in half a century.
+
+·      Our remarkable fiscal and economic strength -- a balanced budget and unprecedented
+       economic prosperity, including unemployment and inflation at a three decade low and
+       homeownership at a record high -- is not an accident.
+
+·     The President began this virtuous cycle with his 1993 economic plan, founded on
+      reducing the deficit, making strategic investments in the Ainerican people, and engaging
+      in the international economy. In 1992, the budget deficit stood at a record $290 billion.
+      Now we have achieved balance and can anticipate surpluses for decades to come.
+
+Balancing Strategic Investments for the Future with Fiscal Discipline:
+
+·      The President's 2000 budget adopts the same framework that has lead to our fiscal and
+       economic success. It advances strategic investments and maintains fiscal discipline.
+
+·      The 2000 budget, with its many important priorities and initiatives in education and
+       training, research, the environment, health, childcare and other programs for families,
+       economic development, law enforcement, foreign policy and defense -- is fully paid for. It
+       complies with budget rules that have served as tools to help enforce fiscal discipline; it
+       meets the discretionary caps on spending and the pay-as-you-go budget rules.
+
+·      Our challenge as we move forward to the next century is to maintain the same fiscal
+       discipline that led to this budgetary and economic success, while continuing strategic
+       investments in the American people that will strengthen our nation for the future, and
+       benefit the next generation.
+
+·      As the President suggested in his State of the Union address two weeks ago, this is
+       defining moment that will greatly determine the character of our country at the end of the
+       21 sf century. We can build on this strong fiscal foundation, or we can sweep it away.
+
+Use the Surplus to Save Social Security First:
+
+·      We must save Social Security First. The President has already committed 62 per cent of
+       our projected budget surplus for the next 15 years -- enough to extend Social Security's
+       solvency to 2055. He is calling for a bipartisan process for additional reforms to extend
+                                                      Hex-Dump Conversion
+
+      solvency through 2075.
+
+
+
+·     After we achieve Social Security refonn, the budget makes further commitments of the
+      surplus for strategic investment priorities to strengthen the nation for the future.
+
+·     The President proposes to dedicate 15 percent of the surplus to the Medicare trust fund,
+      whose financial security is threatened even sooner than Social Security. In 1997, the
+      President and the Congress worked together to make Medicare financially sound through
+      2010. The President's 2000 budget would extend that lifetime ten years further, to 2020.
+       The commitment ofthe surplus will help a bipartisan effort - including the current
+      Medicare Commission -        go even farther. The President wants to consider, as a part of
+      this refonn process, expanding Medicare coverage to include prescription drugs.
+
+·     The President also proposes using 12 percent of the surplus to finance his new Universal
+      Savings Accounts - "USAs." He believes that the USA is the right kind oftax cut --
+      fiscally responsible, targeted toward for the future, and helping the many American
+      families who have the most difficulty saving for their retirement. This proposal includes
+      seed money for Federal contributions, plus additional funds for matching contributions
+      for individual workers who invest their own funds. The matching contributions will
+      provide a larger percentage inducement for low-wage workers.
+
+·     The budget proposes that the remaining 11 percent of the surplus be dedicated to other
+      important priorities - including education, National security, and health care. The
+      President's budget is a sound, disciplined way to provide the resources needed for these
+      priorities.
+
+·     We must use this opportunity to fix Social Security and then proceed to address
+      Medicare, USA accounts, and our pressing investment priorities.
+
+Rise to the Moment:
+
+·     The 2000 budget is a model for the new era of surplus. It maintains fiscal discipline,
+      strategic investment, and uses the surplus to save Social Security First. As the President
+      said in the State of the Union, "With our budget surplus growing, our economy
+      expanding, our confidence rising, now is the moment for this generation to meet our
+      historic responsibility to the 21st Century. Let's get to work."
+
+

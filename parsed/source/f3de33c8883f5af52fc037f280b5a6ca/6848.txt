@@ -1,0 +1,178 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP [ OPD 1 )
+
+CREATION DATE/TIME:29-MAR-1998 15:36:52.00
+
+SUBJECT:   Draft Q&As
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D01MAIL42396578V.026 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043DFOE0000010A02010000000205000000A330000000020000739DA929D2D078731AC256
+3CCOl177515BIB57C99B98D5D2463B2F80FOA07F771D9426E590DED80671BBC985627D8F9FD3EA
+E778CC5C2EE2D41B274E302B6872568EOE5C8A397E71EF5EAC6809FAA143C10E8E594DBDCA6D02
+346130EA67779FE708CC6DBEF7706AF6930FD29D66C48445E9A615F33E4D9635F363AA45CC53EE
+17B607D5EC256784C09D71462AD37ADB79D8E6A7591COFA8A992988E635242084D246E7916D959
+3E6D74DID52CAEEOOEF898D64B3FDD1B6D351896937BAC566ACC70426F588EAB9181CC49797A8D
+E8F8F480D09AA8DB89BCFCC9AFFED666DED65D7A3E9DF9BAE167363E929BDD277F16237F9E64DD
+7EDEB60A4AD10CC48AEB6A850B3106BB75D0001BA195167A252A057CD6B28A8EBBF509C6E94F44
+CD4E6AEFD98883849CDB9703C107D7BOl15469D98324D329023D1F110726FF993E91EF66097365
+FC24D9010D3015D2COOC796AB4A9CCE5C25C97D8BDA3D9838A3289AA2DIFE6CAC5FC554B24ECEE
+601D5ED3DF7BB4BF47FE629F3BADB3B798640EE18A65DD5A5D994198A05FE572F2AC6127CC66E2
+38054D931EF204A4EEB611367E69B85C6BCA6944101CD07B916D36B4A58C678025FAC505AIA970
+6F62CE7BF25FBID34C680C2C4EBF619E99AE2BAF1492A8EC1780BB1ABFB7BBCD98586BAA373882
+989014760B0200AF00000000000000000000000823010000000BOI0000920B0000005505000000
+4E0000009DOC000009250100000006000000EBOCOOOOOB300300000028000000F10C0000087701
+00000040000000190D000008340100000014000000590D00000802010000000F0000006DODOOOO
+080501000000080000007COD00000055030000004E000000840DOO0002080100000049000000D2
+OD00000055010000003COOOOOOIBOEOOOOOB300200000044000000570EOOOOOOOOOOOOOOOOOOOO
+0000570E000000000000000000000000570EOOOOOOOOOOOOOOOOOO000000570EOOOOOOOOOOOOOO
+0000000000570E000000000000000000000000570EOOOOOOOOOOOO000000000000570EOOOOOOOO
+0000000000000000570E000000000000000000000000570EOOOOOO000000000000000000570EOO
+0000000000000000000000570E000000000000000000000000570E000000000000000000000000
+570E000000000000000000000000570EOOOOOOOOOOOOOOOOOOOOOO00570EOOOOOOOOOOOOOOOOOO
+000000570E000000000000000000000000570EOOOOOOOOOOOOOOOO00000000570EOOOOOOOOOOOO
+000000000000570E000000000000000000000000570EOOOOOOOOOO00000000000000570EOOOOOO
+000000000000000000570E000000000000000000000000570EOOOO00000000000000000000570E
+000000000000000000000000570E00000000000000000000000057OEOOOOOOOOOOOOOOOOOOOOOO
+00570E000000000000000000000000570EOOOOOOOOOOOOOOOOOOOO0000570EOOOOOOOOOOOOOOOO
+00000000570E000000000000000000000000570EOOOOOOOOOOOOOO0000000000570EOOOOOOOOOO
+00000000000000570E000000000000000000000000570EOOOOOOOO0000000000000000570EOOOO
+00000000000000000000570E000000000000000000000000570EOO000000000000000000000057
+OE000000000000000000000000570EOOOOOOOOOOOOOOOOOOOOOOOO570EOOOOOOOOOOOOOOOOOOOO
+0000570E000000000000000000000000570EOOOOOOOOOOOOOOOOOO000000570EOOOOOOOOOOOOOO
+0000000000570E000000000000000000000000570EOOOOOOOOOOOO000000000000570EOOOOOOOO
+0000000000000000570E000000000000000000000000570EOOOOOO000000000000000000570EOO
+0000000000000000000000570E000000000000000000000000570E000000000000000000000000
+570E000000000000000000000000570EOOOOOOOOOOOOOOOOOOOOOO00570EOOOOOOOOOOOOOOOOOO
+000000570E000000000000000000000000570EOOOOOOOOOOOOOOOO00000000570EOOOOOOOOOOOO
+000000000000570E000000000000000000000000570EOOOOOOOOOO00000000000000570EOOOOOO
+000000000000000000570E000000000000000000000000570EOOOO00000000000000000000570E
+000000000000000000000000570E00000000000000000000000057OEOOOOOOOOOOOOOOOOOOOOOO
+                                         Tobacco Q&As
+                                         March 30, 1998
+                                                                          Automated Records Management System
+                                                                                  Hex-Dump Conversion
+
+Q:     What is Erskine Bowles going to say in his speech today?
+
+A:      He will say that protecting our children from the threat of tobacco is at the top of the
+        President's agenda, and this administration is fully committed to working with the
+        bipartisan leadership in Congress to achieve this goal. He will praise Senator McCain's
+        leadership in drafting a bipartisan tobacco bill, which is expected to be released today.
+        While we need to review the bill in detail, Mr. Bowles will say that based on what we
+        have heard, we expect to see room for significant improvement in the McCain bill.
+        Perhaps most important, we want to impose stronger penalties on companies that
+        continue to sell cigarettes to our children. And we are disappointed that the McCain bill
+        doesn't try to comprehensively address the question of how best to use tobacco revenues
+      . to protect public health and help our children.
+
+Q:     So is the Administration supporting or opposing the McCain bill?
+
+A:.    We see room for significant improvement in the McCain bill, but believe it is a very
+       strong foundation for further action. We believe the bill will make significant inroads on
+       youth smoking by increasing the price of a pack of cigarettes substantially -- by $1.10
+       within five years -- and restricting both the advertising aimed at young people and their
+       access to tobacco products. And we believe the bill will give the FDA the full authority
+       it needs to regulate tobacco products and will protect farmers and farming communities.
+       We look forward to working with Senator McCain and others in the Commerce
+       Committee and the full Senate to strengthen this bill by imposing stronger penalties on
+       companies that continue to sell cigarettes to our children and to ensure that tobacco
+       revenues protect public health and help our children.
+
+Q:     Does this mean that the Administration prefers the Conrad, Fazio, and
+       Chafee-Harkin-Graham bills?
+
+A:      The President has indicated his support for the Conrad, Fazio, and
+        Chafee-Harkin-Graham bills. Each of these bills meet the President's call for a bill
+        which: 1) Raises the price of cigarettes by up to $1.50 a pack over the next ten years and
+        imposes tough penalties on companies that continue to sell to kids; 2) Expressly confirms
+        the FDA authority to regulate tobacco products; 3) Gets tobacco companies out of the
+        business of marketing to children; 4) Furthers public health research and goals; and 5)
+        Protects tobacco farmers and their communities. The Conrad and Fazio bills better
+      . match the Administration's budget priorities. But the President is heartened by the
+        bipartisan nature of the Chafee-Harkin bill, because he knows that such support is critical
+        to enacting legislation this year.
+                                                                        Hex-Dump Conversion
+
+Q:   Are you saying that the McCain bill does not meet the President's five principles?
+
+A:   By not including strong company-specific penalties and not adequately funding public
+     health research and goals, Senator McCain's bill has room for significant improvement.
+
+Q:   What is your view of the liability protections for the tobacco industry contained in
+     Senator McCain's legislation?
+
+A:   As we have said on many occasions, we would prefer comprehensive tobacco legislation
+     without liability limits, but in the context oflegislation that meets all of the President's
+     principles and dramatically reduces youth smoking, reasonable limits on liability will not
+     be a dealbreaker. Right now, we're going to focus on the aspects of the McCain
+     legislation that we think fall short of what the President has demanded: particularly, on
+     the penalties in the bill to reduce youth smoking. Until we get those right, we won't
+     consider liability protections.
+
+     We do understand that that the McCain bill has a very interesting idea about trying to tum
+     liability protections into a public health tool. As we understand it, the McCain bill
+     would in some respects make liability protections contingent on a company's efforts to
+     reduce youth smoking. That proposal has to be looked at in much greater detail -- we
+     would have to ensure that the threat of losing liability protections is real, and not just a
+     pretense
+     -- but we believe it is worth serious consideration.
+
+Q:   You say the Administration needs stronger penalties on companies that continue to
+     sell to our children. What do you mean by that?
+
+A:   We believe it is· critically important that legislation provide strong financial incentives for
+     every tobacco company to significantly reduce youth smoking. Last September, the
+     President called for legislation to set targets to cut teen smoking by 30% in 5 years, 50%
+     in 7 years, and 60% in 10 years. We believe the Congress should include financial
+     penalties on companies that fail to meet these targets based on how far they are from
+     reaching them. For example, a company could be required to pay a one cent per pack.
+     surcharge for every percentage point by which it misses the targets, meaning a company
+     missing the targets by 10 percentage points would pay a 10 cents per pack surcharge and a
+     company missing by 30 percentage points would pay a 30 cents per pack surcharge.
+
+Q:   Does the Administration support the farmers component to the McCain bill?
+
+A:   As we have said, we have not yet been able to review the' bill in detail, but we are pleased
+     that Senators Ford, Robb, Hollings, and Frist have agreed upon a package which provides
+     broad-based protection for farmers and farming communities. This proposal is clearly a
+     promising effort to craft a bipartisan consensus which protects farmers and their
+
+
+                                               2
+
+
+                                                                        Automated Records Management System
+                                                                                Hex-Dump Conversion
+     communities, and we will be examining it closely.
+Q:   You also express concerns about Senator McCain's bill not directing tobacco
+     revenues toward efforts to improve the public health and help children. What's
+     missing from the McCain bill?
+
+A:   We do not yet know whether Senator McCain's bill includes any public health spending,
+     The President strongly believes that tobacco revenues should go toward protecting public
+     health and assisting children. His budget provides for funds for anti-smoking programs
+     that will help us meet the goals of reducing youth smoking rates and for a dramatic
+     expansion of health-related research to help us cure smoking-related disease. Finally, in
+     recognition of the states' role in bringing suit against tobacco companies, the President's
+     budget provides for a substantial amount of money to revert to the states. Some of this
+     money can be used for any purpose. Other funds must be used on state-administered
+     programs to assist children (specifically, for child care, Medicaid child outreach, and
+     class size reduction).
+
+
+
+
+                                              3
+
+

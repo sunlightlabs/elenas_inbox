@@ -1,0 +1,167 @@
+RECORD TYPE: PRESIDENTIAL      (NOTES MAIL)
+
+CREATOR: Thomas L. Freedman ( CN=Thomas L. Freedman/OU=OPD/O=EOP [ OPD ]   )
+
+CREATION DATE/TIME:12-DEC-1997 16:49:39.00
+
+SUBJECT:   Tobacco Farmer Summary
+
+TO: Elena Kagan       CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ]   ).
+READ: UNKNOWN
+
+TO: Mary L. Smith ( CN=Mary L. Smith/OU=OPD/O=EOP @ EOP     [ OPD ]    )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP     [ OPD ] )
+READ: UNKNOWN
+
+TEXT:
+Here is a quick summary of the tobacco farmers bills.==================== ATTACHMENT
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D83]MAIL46321654Y.316 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504370040000010A02010000000205000000EE20000000020000053203812COOC68BCF4477
+74E76C811E02889AOOE4DACA63A2EB6A052540F4A80330A485B34A57D6F165C6298DC57E8361F9
+B4F3248796C45AF0243B9370DD8BC70951588BEB1C6206D85D4D1465848FFB2F2A7D6AFF57CF4A
+OE81B83990E08243D6ABD0075BBDF5F17CA36740AF30F257EE54443BE030D9184B73275354B723
+68480C8067D0275939AB52631FF54EB41CA35EC29D42D41EC9DDB9C58BCE3D52541603A817C6DA
+0184088BAF52CC8FBFOC066FEBC876E1BF1355574FF1C8F1684BE04B14DE0744A1688B9FEBF87E
+B2F2680FEBE3B12565FF5FDF6AAAF24D294F09C1A7D049A18A53114FA190244A93989657D950DD
+72DAC712B463007256F9619106B711917747F92D52FA48D94145CDF5AOBEA02D4E03CC9FCAF7DB
+90AB3430D6EAOABF7D7E9C2BOF8856AC283140EE8FBOEFFD6A96AOAB8E161E3D09F4A08DBECCCE
+OD90DB8295A48DABF97BB043FC08118B25CE81D4A982324F170A97BA776277D09183F21ADA5F5B
+8D899F23DD69561EF4E30E092772CF18E37620A66B28A1C82A81C3AAEC34A4E6B39BB75648FE89
+A4E5277FAFE91CE343D58F7B6C13C97E965F9D74373DF17DACA715DDOBD32C4AA84FAC51AE8B55
+A7AD364FFC78B280EC3A847F5952AFDA566EE9826A480DB6464A90C31739B4299A61CFEEE9AFOF
+75A5CFC25302000900000000000000000000000823010000000B0100007E020000005501000000
+4E0000008903000009250100000006000000D70300000B300200000028000000DD030000087701
+000000400000000504000008340100000014000000450400000802010000000F00000059040000
+080501000000080000006804000000984800500020004C0061007300650072004A006500740020
+00340020002D0020004C006F00630061006COOOOOOOOOOOOOOOOOO000000000000000000000000
+00000000000000000000000057494E53504F4F4COOOOOOOOOOC800C8002C012C012C012C01C800
+C80030000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000090000000000000000000000000000000000000000000000000000
+000000005E008FOE2800D61EC30F3908000011090000005AOOOBOl008B143600540069006D0065
+00730020004E0065007700200052006F006D0061006E00200052006500670075006C0061007200
+000000000000000001000200580201000000040028000000000000000000000000000000000000
+00011202002400A1000000A10000000A0000004E0202007B034F02020002005002010045005102
+0100020052020100020053020100450054020100020055020100020056020100440057025C0065
+81099F6D230000000000000000000000000000000008337C007800000200005702000003010004
+0002000000DDOA10008301040003000200211000DDDDOBOB00030000040BOODDF1025702F19BF1
+035702F1F1005702F19BF1015702F1F1025702F1F1035702F1F20CF2544F3AE0110C0000000008
+070COOEOE0110C0000000060090COOE0425255434580524545442C80454C454E41804B4147414E
+D0041500000B00090001B0040000000001201500DOCC46524F4D3AE0110C0000000060090COOEO
+544F4D8046524545444D414E2C804D41525980534D495448D00415OOOOOB000900018806D80102
+0001201500DOCC52453AE0110C0000000008070COOEOE0110COOOOO00060090COOEOF1005702F1
+                                                                                         Management System
+                                                                        Hex-Dump Conversion
+TO:            BRUCE REED, ELENA KAGAN
+
+FROM:          TOM FREEDMAN, MARY SMITH
+
+RE:            SUMMARY OF FORD, LUGAR, AND ROBB TOBACCO FARMER
+       BILLS
+
+DATE:          DECEMBER 12, 1997
+---,--                         ,-""'-------------------------------
+        The bills most basic difference is over whether there should be a tobacco buyout and a
+continuation of the quota program. Ford does not have a buyout but compensates farmers for
+loss of value in their quota. Lugar provides for a buyout, moving towards the freedom to farm
+model of the 1996 farm bill. Robb phases out the quota system, but sets up in its place a
+quasi-private licensing system to regulate production quantities.
+
+        USDA is putting together a detailed side by side together, with some historical numbers
+on the tobacco program. This note compares cost, quota buyout structures, and transitional
+costs.
+
+I.     FORD
+
+       A.      Cost: $28.5 billion. Included as part of the $368.5 billion.
+
+               * Payments for lost tobacco quota capped at $1.6 billion per year.
+
+               * Administrative costs of program, including crop insurance, paid for from fund.
+               Limited to $100 million annually.
+
+               * Tobacco Community Development: $300-350 million annually. ' Half the
+               money to states for direct compensation proportionate to county share of tobacco
+               income, half to state generally.                                 '
+
+               * Farmer Opportunity Grants: $1.4 billion total for higher education fund for
+               farmers and dependants.
+
+               *Tobacco Worker Transition Fund: $500 million worker retraining program.
+
+
+       B.      Quota Buyout? No.
+
+       C.      Payments for Lost Tobacco Quota: Sets a baseline based on the quota for
+               1994-1996. Quota holders get $4 a pound per year for every pound below
+               baseline. Payments subject to lifetime limit of$8 a pound times the farmer's
+               baseline quota. Farmers who lease would be paid at a rate of$2 a pound below
+                                                                        , iex-Dump Conversion
+
+
+            baseline. The lessee has a lifetime limit of one-half the baseline time the $8 per
+            pound.· Tenant fanners receive half the payment going to the lesee.
+
+     D.     Future Changes to Program
+            USDA can approve referendums in each state, enforces penalties against
+            companies that don't meet purchase intentions. Payments for lost quota would.be
+            accelerated and paid in full upon termination of the program or in the case of a
+            greater than 50% cut in quota for three consecutive years.
+
+II. LUGAR
+
+     A.     Cost: Approximately $15 billion. Added on top of $368.5 billion.
+
+            * Cost of buyout and transition payments.
+            * Economic Assistance Program costing $300 million ($100 million for 3 years--
+            block granted to states).
+
+
+     B.     Quota Buyout: Yes. Quota program ends in 1999. Quota owners receive $8
+            for every pound they own, either in lump sum or over three years. (There was
+            roughly 1.5 billion pounds of tobacco quota last year.)
+
+            Price support program is phased out over three years. (1999 price supports decline
+            by 25%, 10% more in 2000 and 2001.
+
+            Payments for transition for those who don't own quota payments are at 40 cents
+            per pound over three consecutive years that they lease, rent or cash-rent or
+            crop-share.
+
+III. ROBB BILL
+
+     A.     Total Cost:
+            * $12 billion buy-out.
+            * $250 million for economic diversification.
+            * "Transition" costs.
+     B.     Buyout?Yes. Five installments at $1.60 a pound based on a three-year average
+            of their basic quota. Money can be put in tax-deferred plan .
+
+    . C.    New Tobacco Program:
+            Private licensing arrangement phased in to replace quota system. System will be
+            run by Tobacco Production Control Corporation. Board consists of 21 people
+            from industry and government. Justification is that there is no free market in
+            tobacco, four companies dominate it. Also public policy goal to have high prices.
+                                                                 Hex-Dump Conversion
+      Licenses would have no cost but could be obtained only by actual producers.
+     Rights cannot be sold or leased. Suggests that the cost of operation will drop by
+     40 cents a pound.
+
+D.   Economic Development Fund: $250 million annually for economic
+     diversification in tobacco-dependant communities. Generally given to counties.
+
+E.   Transition: A minimum income protection system during the five-year buy-out
+     period. Protection added in the event tobacco quota falls by more than 10% from
+     1997 levels. Tobacco producers would then be eligible for a $1 per pound
+     payment for lost quota from their 1997 level.
+~,)
+
+

@@ -1,0 +1,156 @@
+RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+CREATOR: Ronald E. Jones ( CN=Ronald E. Jones/OU=OMB/O=EOP [ OMB 1 )
+
+CREATION DATE/TIME: 19-MAY-1998 12:00:35.00
+
+SUBJECT:   Current (Noon) Bankruptcy SAP
+
+TO: Mark D. Menchik ( CN=Mark D. Menchik/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Toni S. Hustead ( CN=Toni S. Hustead/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Joshua H. Raymond ( CN=Joshua H. Raymond/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Melinda D. Haskins ( CN=Melinda D. Haskins/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: John S. Radzikowski ( CN=John S. Radzikowski/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Pamula L. Simms ( CN=Pamula L. Simms/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Thomas P. Stack ( CN=Thomas P. Stack/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Mark A. Weatherly ( CN=Mark A. WeatherlyIOU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Alice Veenstra ( CN=Alice Veenstra/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Lisa M. Kountoupes   ( CN=Lisa M. Kountoupes/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ:UNKNOWN
+
+T,O: Diana Fortuna ( CN=Diana Fortuna/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Joseph J. Minarik ( CN=Joseph J. Minarik/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Sarah Rosen ( CN=Sarah Rosen/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Sylvia M. Mathews ( CN=Sylvia M. Mathews/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Audrey T. Haynes ( CN=Audrey T. Haynes/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Rebecca M. Blank ( CN=Rebecca M. Blank/OU=CEA/O=EOP@EOP [ CEA 1 )
+READ: UNKNOWN
+
+TO: Roger S. Ballentine ( CN=Roger S. Ballentine/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Janet E. Irwin ( CN=Janet E. Irwin/OU=OMB/O=EOP@EOP [ OMB 1 )
+
+
+READ: UNKNOWN
+
+TO: Gary L. Bennethum ( CN=Gary L. Bennethum/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Larry R. Matlack ( CN=Larry R. Matlack/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Edwin Lau ( CN=Edwin Lau/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Francis S. Redburn ( CN=Francis S. Redburn/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Ellen J. Balis ( CN=Ellen J. Balis/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Wayne Upshaw ( CN=Wayne Upshaw/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ:UNKNOWN
+
+TO: Courtney B. Timberlake ( CN=Courtney B. Timberlake/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: David J. Haun ( CN=David J. Haun/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Emil E. Parker ( CN=Emil E. Parker/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Janet Himler ( CN=Janet Himler/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Christopher D. Carroll    ( CN=Christopher D. Carroll/OU=CEA/O=EOP@EOP [ CEA 1 )
+READ: UNKNOWN
+
+TO: Paul E. Begala ( CN=Paul E. Begala/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Paul J. Weinstein Jr.    ( CN=Paul J. Weinstein Jr./OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Maria Echaveste ( CN=Maria Echaveste/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Peter G. Jacoby ( CN=Peter G. Jacoby/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: James C. Murr ( CN=James C. Murr/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+CC: James J. Jukes ( CN=James J. Jukes/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TEXT:
+DRAFT --- NOT FOR RELEASE
+May 19, 1998
+                                                         (House)
+
+
+
+
+H.R. 3150 - Bankruptcy Reform Act of 1998
+(Gekas (R) Pennsylvania and 75 cosponsors)
+
+The Administration supports bankruptcy reform that requires responsibility
+of debtors who have the ability to repay a portion of their debts and
+prevents abuse of the bankruptcy system.  However, the Administration
+[strongly?] opposes H.R. 3150 One provision of the bill would establish a
+rigid and arbitrary means test to determine whether a debtor could file
+for bankruptcy under Chapter 7 or would be required to file under Chapter
+13 rules.  Bankruptcy courts should have greater discretion to consider
+the specific circumstances that brought a debtor to bankruptcy.
+
+H.R. 3150 also would make nondischargeable certain credit card debt.   The
+Bankruptcy Code generally makes nondischargeable debts only where there is
+an overriding public purpose, as with debts for child support and alimony
+payments, educational loans, tax obligations, or debts incurred by fraud.
+These credit card debts do not rise to that level of public priority, nor
+has there been sufficient finding that current protections against fraud
+and debt incurred prior to bankruptcy are ineffective. Moreover, by
+making these credit card debts nondischargeable, the bill puts them in
+competition with pa·yments to a former spouse or custodial parent after the
+debtor leaves bankruptcy, which would diminish the ability of debtors to
+fulfill their. family obligations. Amendments made during the Judiciary
+Committee mark-up do not effectively eliminate this problem.
+
+The Administration looks forward to working with the Congress on a
+balanced package of reforms that addresses these concerns and requires
+responsibility on the part of both debtors and creditors.
+
+

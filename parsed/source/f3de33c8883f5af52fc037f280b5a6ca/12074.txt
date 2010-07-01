@@ -1,0 +1,59 @@
+ RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+ CREATOR: Sarah A. Bianchi ( CN=Sarah A. Bianchi/O=OvP [ UNKNOWN]      )
+
+ CREATION DATE/TIME: 1-APR-1999 10:40:27.00
+
+ SUBJECT:   OASIS qas
+
+ TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO]    )
+ READ:UNKNOWN
+
+ TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+ READ: UNKNOWN
+
+ TEXT:
+ ==================== ATTACHMENT   1 ====================
+ ATT CREATION TIME/DATE:   0 00:00:00.00
+
+ TEXT:
+ Unable to convert ARMS_EXT: [ATTACH.D19]MAIL487157309.136 to ASCII,
+  The following is a HEX DUMP:
+
+ FF575043BA040000010A02010000000205000000940C000000020000695B5239C2C86BFCB29858
+ F6FB5D8814BOC8E3DFBCE1870C60BAE45971CC6BBA851EDBOD636E6D5C3BC6B9CODA89BE4DB04E
+ F4FOFC5192D06C73C768F3411925058E743824AE7F005E87073FBOBF109D2997ESOA4EB9AC1BC6
+ 12D47F1FDCB66779232613D48C5AF81E9DF109E22E9B126BBOCD75F3F13D90C57S6ADD3BDDEAA4
+ CSAC83E48E739DSFI06EEEAA5E2EAF3956BDB79C171ED882F1CD16E1152C2EA2CS881177BBDBEE
+ 209128C837AD203S01F2B8E8F94948942E7E599DBEE7EF6C99B793D08A465F9B69067FOEBF5E69
+ EIE3B8FC8BCFF8B951B29A37C5E5C4860CDC035B8845900842A769ADAB7D3CFF06F7234D8BD36E
+ COC51F7F49941E9006632361EFD7EEE191F3003B5BB38DF94C813E02B2135E7FIF49B4ECF954D5
+ 791E7B86B97A694F645E787FEBA3AFIF2DC033E523E27C12248AEA2FE2E662141AOCD1984C2689
+ 03A517F701496A25A129453A85EAF9D342F3FC062EAA8427CF59B3F5BBA50DD047C6CA64542ADO
+                                                                              Hex·Dump Conversion
+
+Q:   Why did the Vice President ask that the Health Care Financing Administration
+     (HCFA) to review its proposals to implement OASIS?
+
+A:   The President, the Vice President, and the Secretary are extremely committed to
+     assuring that patients have strong privacy protections. The Vice President and
+     others were concerned that the plans for OASIS did not adequately protect patient
+     privacy.
+
+     At the request of the Vice President, HCFA has agreed to do a comprehensive
+     review of the privacy issues related to the new proposal to collect data on home
+     health patients -- to assure that home health care achieves the necessary balance
+     between preservation of privacy and the statutorily required provisions to improve
+     the quality of care provided to beneficiaries receiving home health care services, and
+     to ensure that providers are paid fairly.
+
+     The agency is now planning to explore new ways to protect patient privacy in this
+     area, such as speeding up the encryption of data and eliminating the use of
+     identifiable data for non-Medicare and non-Medicaid patients.
+
+     The Administration a strong commitment to ensure the confidentiality of medical
+     records, and demand that states and providers carefully safeguard confidential
+     information. We are proud of our record in this area and will continue to work
+     diligently to protect patient privacy.
+
+

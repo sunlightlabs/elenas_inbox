@@ -1,0 +1,345 @@
+RECORD TYPE: PRESIDENTIAL     (NOTES MAIL)
+
+CREATOR: Todd A. Summers    ( CN=Todd A. Summers/OU=OPD/O=EOP [ OPD 1 )
+
+CREATION DATE/TIME:13-NOV-1998 15:46:52.00
+
+SUBJECT:   Upcoming Meeting of the President's Advisory Council on HIV/AIDS
+
+TO: Barry J. Toiv ( CN=Barry J. Toiv/OU=WHO!O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Minyon Moore    ( CN=Minyon Moore/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: David W. Beier ( CN=David W. Beier/O=OVP @ OVP [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Christopher C. Jennings ( CN=Christopher C. Jennings/OU=OPD/O=EOP @ EOP [ OPD 1
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO    1 )
+READ: UNKNOWN
+
+CC: Richard Socarides ( CN=Richard Socarides/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+CC: Sarah A. Bianchi ( CN=Sarah A. Bianchi/OU=OPD/O=EOP @ EOP [ OPD       1 )
+READ:UNKNOWN
+
+CC: Sandra Thurman ( CN=Sandra Thurman/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TEXT:
+Beginning next Monday, the President's Advisory Council on HIV/AIDS will
+be having its regular meeting in Washington.  They are addressing a broad
+range of issues, and have requested the participation of a number of
+government officials.
+
+We are not anticipating that their deliberations will provoke any
+significant press response; however, the meetings are open to the public
+so there is always an element of unpredictability.  Of course, we will let
+you know immediately if any press activity is expected.
+
+Part of their discussions will focus on their upcoming meeting with the
+POTUS, scheduled for December 18th. We have asked that they work
+carefully to identify those issues to which they expect the President to
+respond, as well as the Council members presenting those issues.
+
+Here is a quick summary of government officials (in no particular order)
+and the issues to be discussed:
+
+GOVERNMENT OFFICIAL      ISSUES COVERED
+Sandra Thurman, Director
+Office of National AIDS Policy Overview of Adminstration's HIV/AIDS
+
+
+activities over the last three months.
+Todd Summers, Deputy Director
+Office of National AIDS Policy Incarcerated populations, treatment access,
+and youth
+Dr. Jeff Koplan
+Centers for Disease Control and Prevention        Outline of his priorities as new
+director, goals with respect to HIV/AIDS prevention, and activities to
+improve oversight of prevention spending
+Dr. David Satcher
+The Surgeon General     HIV/AIDS in racial/ethnic populations, including
+implementation of the AIDS initiative recently announced by the President
+Dr. Helene Gayle, Director
+Center for HIV/STD/TB Prevention
+Centers for Disease Control and Prevention        HIV prevention
+Dr. Marsha Martin, Special Assistant to the Secretary
+Dept. of Health and Human Services       needle exchange issues and treatment
+access
+David Beier, Domestic Policy Director
+Office of the Vice President     treatment access
+Kathy King, Chief of Staff
+Health Care Financing Administration     treatment access issues (Medicaid
+expansion, state waivers)
+
+Please let me know if you have any questions or comments.   Attached is the
+file for the detailed agenda for this meeting.
+
+==================== ATTACHMENT 1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D20]MAIL40281571T.326 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504393110000010A020100000002050000007C5300000002000000242A9AFC04C5299AEDC2
+D15B681A96FEB7D9E6CBF582632AC81C3E775C1382D85DDFA374ACBF7A3D3BBC8DD32A6C040561
+3D675E5FF54CEF5332BC41DC9992E3447FOCOD8440B8983D897F254DA10A12D35C9455ECF68060
+718AD33A83393E450E145B572D1D3F52F48C97E42F992CA81D1EBC4658B68BF79ED26CAC95986F
+79D522B23193478E8D794EFABD88D016476B21D01674DDE6D4795C31A847C8A46BB37B37438E76
+5F7B5C43270082F5C8C17B020EA06B508617225238DDC88BFOF072E4DA2F2B19DC2449E1F64261
+67C25CE36A883694F07BA6E85BA9COC15E99E35D2AB41326824BEFO35D874FE26464235F62AOED
+457816E7B5EOOIC66159511AB1E967559F2FOFB43606F261F1CCBD1DB58801FA67A6087A36553C
+FD1FC3C40A6D052A8F657ACAAB4197EE9C2F657909112518558081698BF500583AF2B270C5872A
+9F398320CBl157FOE3545903826FE4EC4834A775E9DCC27328D0556F4DE9494F8E819C3FFF8FD2
+6D5392F28779C5BE4E425El13DA24ADCA2E40F3D667B3E06715DA8DFB87854CE6313DA9F23E9B5
+F14FOD740FC83992D66F02129F0862C12849EAEDE5FE06D202176191005F7EE2CF9D5D448E678A
+D53BF1860D312AOl13C58DA84C237267EF41F3790B22851E371F89D7D162F20BC650821A5BCOOE
+6A63B7609802006000000000000000000000000823010000000B01000040070000092501000000
+060000004B08000008050100000008000000510800000B30060000008400000059080000087701
+00000040000000DD080000083401000000140000001D0900000802010000000F00000031090000
+0055010000004E000000400900000B3001000000A00000008E090000006602000000020000002E
+OA000008100100000002000000300A0000096DOI00000017000000320A0000081201000000A202
+0000490A000009680100000006000000EBOCOOOOOB3001000000AC000000F10C00000061010000
+00140000009DOD0000000000000000000000009DODOOOOOB3001000000AOOOOOOOB10DOOOOOOOO
+0000000000000000B10DOOOOOOOOOOOOOOOOOOOOOOOOB10DOOOOOO000000000000000000B10DOO
+0000000000000000000000B10DOOOOOOOOOOOOOOOOOOOOOOOOB10D000000000000000000000000
+BIODOOOOOOOOOOOOOOOOOOOOOOOOB10DOOOOOOOOOOOOOOOOOOOOOO00B10DOOOOOOOOOOOOOOOOOO
+000000B10DOOOOOOOOOOOOOOOOOOOOOOOOB10DOOOOOOOOOOOOOOOO00000000B10DOOOOOOOOOOOO
+000000000000BIODOOOOOOOOOOOOOOOOOOOOOOOOB10DOOOOOOOOOO00000000000000B10DOOOOOO
+000000000000000000B10DOOOOOOOOOOOOOOOOOOOOOOOOB10DOOOO00000000000000000000B10D
+000000000000000000000000B10DOOOOOOOOOOOOOOOOOOOOOOOOBIODOOOOOOOOOOOOOOOOOOOOOO
+                              Eleventh Meeting
+
+                                      November 16-19, 1998
+                                                                  Automated Records Management System
+                                        The Madison Hotel         Hex-Dump Conversion
+                                         Washington, DC
+
+
+                                        DRAFT AGENDA
+
+Monday, November 16
+
+9:00 a.m.    Welcome                                                              Mount Vernon A & B
+                  R. Scott Hitt, M.D., Chair
+                     Update of Interim Activities
+                     Overview of Strategic PlanIWorkplans
+
+10:30 a.m.   Office of National AIDS Policy Update
+                    Sandra Thurman, Director
+
+12:00 noon   LUNCH (on your own)
+
+2:00 p.m.    Subcommittee Meetings:
+
+             Appropriations Subcommittee                                                Drawing Room #1
+               Subcommittee Discussion ofFY 1999 and FY 2000 Budget
+
+             International Issues Subcommittee                                          Drawing Room #2
+                Update on the "U.S. International Response to HIV/AIDS"
+                   by the U.S. Department of State
+                Invited: Nancy Carter-Foster and David Wagner, U.S.
+                             Department of State
+
+             Racial Ethnic Populations Subcommittee                                      Mount Vernon C
+               National Minority HIV Plan
+               Invited: Matthew Murguia, OMH (2:00 p.m.)
+
+                Subcommittee Preparation for Presentation by
+                  Dr. David Satcher (3:00 p.m.)
+
+                CDC's People of Color Initiatives
+                Invited: Dr. Helene Gayle, CDC
+                   (Note: Prevention Subcommittee meeting on Tuesday,
+                   November 17, at 3:15 p.m.)
+
+Monday, November 16   (continued)
+
+4:00 p.m.    Prevention Subcommittee                                                    Drawing Room #1
+                Update on Needle Exchange Issues
+                Invited: Marsha Martin, Ph.D., HHS (4:00 p.rn.)
+
+                Subcommittee Preparation for Full Council Presentation by
+                   Dr. Jeff Koplan, CDC, and Discussion with
+                  Dr. Helene Gayle, CDC (5:00 p.m.)
+                                                             Hex-Dump Conversion
+             Services Subcommittee                                                    Drawing Room #3
+                "Housing as an Access to Health Care Issue" Presentation
+                Invited: Angela A. Aidala, Ph.D., and Joyce Moon Howard,
+                            Dr.Ph., M.H., Columbia University School of
+                            Public Health; and Robert Sember, M.A.,
+                            Columbia University School ofPubIic Health
+                            (4:00 p.m.)
+
+                "Massachusetts' State Medicaid Waiver Planning Process"
+                   Presentation
+                Invited: Robert Greenwald, Boston AIDS Action
+                             Committee (5:00 p.m.); Annette Hanson, M.D.,
+                             MA Division of Medical Assistance; and
+                             Jeanne McGuire, MA State AIDS Director
+
+
+6:00p.m.     ADJOURN
+
+
+
+Tuesdav. November 17
+9:00 a.m.    Full Council Presentation "Disparities in HIV/AIDS Health             Mount Vernon A & B
+                Programs for American Indians, Alaskan Natives and Native
+                Hawaiians"
+                Invited: Paul Bouey, Ph.D., National Native American
+                             AIDS Prevention Center, and Daniel C.
+                             Simpson, Indian Health Service
+
+10:15 a.m.   BREAK
+10:30 a.m.   Full Council Presentation "Update on the HIV/AIDS Racial and
+                Ethnic Disparities in Health"
+                Invited: Dr. David Satcher
+
+12:00 noon   LUNCH (on your own)
+
+2:00p.m.     Full Council Presentation "Focus for the Centers for Disease
+                Control imd Prevention"
+                Invited: Jeffrey Koplan, M.D., M.P.H., CDC
+
+3:00 p.m.    BREAK
+Tuesday, November 17   (continued)
+
+3:15 p.m.    Subcommittee Meetings:
+
+             Prevention Subcommittee                                                   Mount Vernon C
+                Discussion on HIVI AIDS Prevention Issues
+                Invited: Helene Gayle, M.D., CDC
+
+             Services Subcommittee                                                    Drawing Room #1
+                Update and Discussion on Ryan White CARE Act
+                   Reauthorization
+                Invited: Terje Anderson, Chair, HRSA AIDS Advisory
+                            Committee; David Harvey and Miguelina
+                            Maldonado, Co-Chairs, National Organizations
+                            Responding to AIDS; John Palenicek, HRSA;
+                                                                      Hex-Dump Conversion
+
+                                  and Daphne Long Rankin, National Association
+                                  of AIDS Education Training Centers
+
+                      Update on HRSAlTitle N Programs and Focus on Youth
+                      Invited: Wayne Saucedo, HRSA
+
+                   Research Subcommittee                                                 Drawing Room #3
+     5:00 p.m.     Appropriations Subcommittee                                           Drawing Room #1
+
+                   International Issues Subcommittee                                     Drawing Room #3
+                   Racial Ethnic Populations Subcommittee                                   Mount Vernon C
+                      HN / AIDS Data Policy
+                      Invited: Dr. Olivia Carter-Pokras, OMH
+
+     6:00 p.rn.    ADJOURN
+
+
+
+     Wednesday, November 18
+     9:00 a.m.     Subcommittee Meetings:
+
+                   Appropriations Subcommittee                                           Drawing Room #2
+
+                   International Issues Subcommittee                                     Drawing Room #1
+
+                   Racial Ethnic Populations Subcommittee                                   Mount Vernon C
+                     Update on Healthy People 200012010
+                     Invited: Deborah Maiese, HHS
+
+                   Prisons Subcommittee                                                  Drawing Room #3
+                     OverviewlBriefing of Prison Site Visit Agenda and National
+                        Prisons Meeting
+                     Invited: Todd Summers, ONAP
+
+     10:30 a.rn.   Prevention Subcommittee                                                  Mount Vernon C
+                     Review and Update Subcommittee Workplan
+
+     Wednesdav. November 18    (continued)
+                   Services Subcommittee                                                 Drawing Room #1
+                     "Future Leadership on Access to Care and Treatment Issues"
+                        Presentation
+                     Invited: David Beier, Chief Domestic Policy Advisor to the
+                                  Vice President, Vice President's Office;
+                                  Kathy King, Health Care Financing
+                                  Administration; Marsha Martin, Ph.D., HHS;
+                                  Steve Schondelmeyer, Ph.D., University of
+                                  Minnesota; and Todd Summers, Deputy
+                                  Director, Office of National AIDS Policy,
+                                  Member of the White House Access to Care and
+                                  Treatment Group Task Force
+
+                   Research Subcommittee                                                 Drawing Room #3
+                     Update and Discussion on Microbicide Development
+                       Recommendations
+
+     12:00 noon    LUNCH (on your own)
+
+     2:00p.m.     Prevention Subcommittee                                                Mount Vernon C
+
+                  Services Subcommittee                                                 Drawing Room #1
+                     Subcommittee Discussion ofHIV Cost Services and
+                       Utilization Study (HCSUS)
+
+                     Subcommittee Discussion of Transition to Co-Chair Model
+                       for Subcommittee and Division of Responsibilities
+
+                     Review and Update Subcommittee Workplan
+
+                  Research Subcommittee                                                 Drawing Room #3
+                     Update and Discussion on Microbicide Development
+                        Recommendations
+                     Invited: Penelope J. Hitchcock, D.V.M., Chief of Sexually
+                                 Transmitted Diseases Branch, NIAID, NIH; and
+                                 Zeda Rosenberg, Ph.D., Senior Health
+                                 Specialist, Division of AIDS, NIAID, NIH
+
+                     Review and Update Subcommittee Workplan
+
+     4:00p.m.     Appropriations Subcommittee                                           Drawing Room #1
+
+                  International Issues Subcommittee                                     Drawing Room #3
+                     Subcommittee Discussion Regarding Full Council
+                       Presentations
+
+                     Review and Update Subcommittee Workplan
+
+     Wednesday: November 18   (continued)
+
+                  Racial Ethnic Populations Subcommittee                                 Mount Vernon C
+                     Subcommittee Discussion Regarding Full Council
+                       Presentations
+
+                     Review and Update Subcommittee Workplan
+
+     6:00 p.m.    ADJOURN
+
+
+
+     Thursday, November 19
+
+     9:00 a.m.    Subcommittee Reports                                               Mount Vernon A & B
+
+     12:00 noon   ADJOURN
+
+
+
+
+                                                           Automated Records Management System
+                                                           Hex-Dump Conversion
+
+

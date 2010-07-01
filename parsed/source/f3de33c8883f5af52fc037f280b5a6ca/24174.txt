@@ -1,0 +1,193 @@
+    RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+    CREATOR: Lawrence J. Haas ( CN=Lawrence J. Haas/OU=OMB/O=EOP [ OMB 1 )
+
+    CREATION DATE/TIME: 19-NOV-1997 18:03:20.00
+
+    SUBJECT:   Line-item veto briefing
+
+    TO: Karen E. Skelton ( CN=Karen E. Skelton/OU=WHO/O=EOP@EOP [ WHO 1 )
+    READ: UNKNOWN
+
+    TO: Craig T. Smith ( CN=Craig T. Smith/OU=WHO/O=EOP@EOP [ WHO 1 )
+    READ: UNKNOWN
+
+    TO: John H. Gibbons ( CN=John H. Gibbons/OU=OSTP/O=EOP@EOP [ OSTP 1 )
+    READ: UNKNOWN
+
+    TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP@EOP [ OPD 1 )
+    READ: UNKNOWN
+
+    TO: Thurgood Marshall Jr ,( CN=Thurgood Marshall Jr/OU=WHO/O=EOP@EOP [ WHO 1 )
+    READ: UNKNOWN
+
+    TO: FOLEY M@A1@CD@LNGTWY    FOLEY M@A1@CD@LNGTWY [ UNKNOWN 1 )     (WHO)
+    READ: UNKNOWN
+
+    TO: Doris O. Matsui ( CN=Doris O. Matsui/OU=WHO/O=EOP@EOP [ WHO 1 )
+    READ: UNKNOWN
+
+    TO: Maria Echaveste ( CN=Maria Echaveste/OU=WHO/O=EOP@EOP [ WHO 1 )
+    READ: UNKNOWN
+
+    TO: Emily Bromberg ( CN=Emily Bromberg/OU=WHO/O=EOP@EOP [ WHO 1 )
+    READ: UNKNOWN
+
+    TO: Mickey Ibarra ( CN=Mickey Ibarra/OU=WHO/O=EOP@EOP [ WHO 1 )
+    READ: UNKNOWN
+
+      TO: Ann F. Lewis ( CN=Ann F. Lewis/OU=WHO/O=EOP@EOP [ WHO 1 )
+    , READ: UNKNOWN
+
+    TO: Michele Jolin ( CN=Michele Jolin/OU=CEA/O=EOP@EOP [ CEA 1 )
+    READ: UNKNOWN
+
+    TO: Ron Klain ( CN=Ron Klain/O=OVp@OVP [ UNKNOWN 1 )
+    READ: UNKNOWN
+
+    TO: Barry J. Toiv ( CN=Barry J. Toiv/OU=WHO/O=EOP@EOP [ WHO 1 )
+    READ: UNKNOWN
+
+    TO: Gene B. Sperling ( CN=Gene B. Sperling/OU=OPD/O=EOP@EOP [ OPD 1 )
+    READ: UNKNOWN
+
+    TO: Rahm I. Emanuel ( CN=Rahm I. Emanuel/OU=WHO/O=EOP@EOP [ WHO 1 )
+    READ: UNKNOWN
+
+    TO: Sylvia M. Mathews ( CN=Sylvia M. Mathews/OU=WHO/O=EOP@EOP [ WHO 1 )
+    READ: UNKNOWN
+
+    TO: Minyon Moore ( CN=Minyon Moore/OU=WHO/O=EOP@EOP    [ WHO 1 )
+
+
+READ: UNKNOWN
+
+TO: Jonathan Foster ( CN=Jonathan Foster/OU=OSTP/O=EOP@EOP [ OSTP 1 )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Stephen B. Silverman ( CN=Stephen B. Silverman/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Barbara Chow ( CN=Barbara Chow/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: John L. Hilley ( CN=John L. Hilley/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Robert B. Johnson ( CN=Robert B. Johnson/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: LynnG. Cutler ( CN=Lynn G. Cutler/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Fred DuVal ( CN=Fred DuVal/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Sidney Blumenthal ( CN=Sidney Blumenthal/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Michael Waldman ( CN=Michael Waldman/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Janet L. Yellen ( CN=Janet L. Yellen/OU=CEA/O=EOP@EOP ["CEA 1 )
+READ: UNKNOWN
+
+TO: Joseph P. Lockhart ( CN=Joseph P. Lockhart/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Michael D. McCurry ( CN=Michael D. MCCurry/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Paul E. Begala ( CN=Paul E. Begala/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Robert S. Bell ( CN=Robert S. Bell/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: John Podesta ( CN=John Podesta/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Susanne Bachtel ( CN=Susanne Bachtel/OU=OSTP/O=EOP@EOP [ OSTP 1 )
+READ: UNKNOWN
+
+cc: Marjorie Tarmey ( CN=Marjorie Tarmey/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+"CC: David S. Beaubaire ( CN=David S. Beaubaire/OU=WHO/O=EOP@EOP [ WHO 1 )
+ READ: UNKNOWN
+
+CC: Kris M Balderston ( CN=Kris M Balderston/OU=WHO/O=EOP@EOP [ WHO 1 )
+
+
+READ: UNKNOWN
+
+CC: Elisa Millsap ( CN=Elisa Millsap/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Kevin S. Moran ( CN=Kevin S. Moran/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Jordan Tamagni ( CN=Jordan Tamagni/OU=WHO/O=EOP@EOP [ UNKNOWN 1 )
+READ: UNKNOWN
+
+CC: Elizabeth R. Newman ( CN=Elizabeth R. Newman/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Russell W. Horwitz ( CN=Russell W. Horwitz/OU=OPD/O=EOP@EOP [ OPD 1
+READ: UNKNOWN
+
+CC: June G. Turner ( CN=June G. Turner/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+CC: Carole A. Parmelee ( CN=Carole A. Parmelee/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Elisabeth Steele ( CN=Elisabeth Steele/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Angelique Pirozzi ( CN=Angelique Pirozzi/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Anne E. McGuire ( CN=Anne E. McGuire/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Stacey L. Rubin ( CN=Stacey L. Rubin/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Suzanne Dale ( CN=Suzanne Dale/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Laura K. Capps ( CN=Laura K. Capps/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Debbie B Bengtson ( CN=Debbie B Bengtson/O=OVP@OVP [ UNKNOWN 1 )
+READ: UNKNOWN
+
+CC: Lori L. Anderson ( CN=Lori L. Anderson/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Michelle Crisci ( CN=Michelle Crisci/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Sara M. Latham ( CN=Sara M. Latham/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Jason S. Goldberg ( CN=Jason S. Goldberg/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TEXT:
+OMB will brief the senior White House staff on Thursday, November 20, at
+9:30 a.m. in the Roosevelt Room, about line-item veto announcements for
+that day on the Interior and Agriculture appropriations bills. As per our
+     ARMS Email System
+      ,                                                                      Page 4 of4
+
+
+     established process, White House offices will need to work with White
+     House legislative affairs on the question of when you can inform your
+     constituencies about the President's decisions.
+
+

@@ -1,0 +1,586 @@
+               RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+               CREATOR: Sandra Yamin ( CN=Sandra Yamin/OU=OMB/O=EOP [ OMB 1 )
+
+               CREATION DATE/TIME:29-JUN-1999 18:51:43.00
+
+               SUBJECT:   URGENT -- FINAL CLEARANCE -- Draft Senate Floor SAP -- S 1234 Foreign Ops
+
+               TO: Karen Tramontano ( CN=Karen Tramontano/OU=WHO/O=EOP@EOP [ WHO 1 )
+               READ:UNKNOWN
+
+               TO: Steve Ricchetti   ( CN=Steve Ricchetti/OU=WHO/O=EOP@EOP [ WHO 1 )
+               READ: UNKNOWN
+
+               TO: George T. Frampton ( CN=George T. Frampton/OU=CEQ/O=EOP@EOP [ CEQ 1 )
+               READ: UNKNOWN
+
+               TO: Maria Echaveste ( CN=Maria Echaveste/OU=WHO/O=EOP@EOP [ WHO 1 )
+               READ:UNKNOWN
+
+               TO: Todd Stern ( CN=Todd Stern/OU=WHO/O=EOP@EOP [ WHO 1 )
+               READ:UNKNOWN
+
+               TO: Wesley P. Warren ( CN=Wesley P. Warren/OU=CEQ/O=EOP@EOP [ CEQ 1 )
+               READ:UNKNOWN
+
+               TO: Ron Klain ( CN=Ron Klain/O=OVP@OVP [ UNKNOWN 1 )
+               READ:UNKNOWN
+
+               TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP@EOP [ OPD 1 )
+               READ: UNKNOWN
+
+               TO: Gene B. Sperling ( CN=Gene B. Sperling/OU=OPD/O=EOP@EOP [ OPD 1 )
+               READ:UNKNOWN
+
+               TO: Lynn G. Cutler ( CN=Lynn G. Cutler/OU=WHO/O=EOP@EOP [ WHO 1 )
+               READ:UNKNOWN
+
+               TO: Ann F. Lewis   ( CN=Ann F. Lewis/OU=WHO/O=EOP@EOP [ WHO 1 )
+               READ:UNKNOWN
+
+               TO: Miles M. Lackey ( CN=Miles M. Lackey/OU=NSC/O=EOP@EOP [ NSC 1 )
+               READ:UNKNOWN
+
+               TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP@EOP [ OPD 1 )
+               READ: UNKNOWN
+
+               TO: Michelle Peterson ( CN=Michelle peterson/OU=WHO/O=EOP@EOP [ WHO 1 )
+               READ:UNKNOWN
+
+               TO: Jeffrey M. Smith ( CN=Jeffrey M. Smith/OU=OSTP/O=EOP@EOP [ OSTP 1 )
+               READ:UNKNOWN
+
+               TO: Joshua Gotbaum ( CN=Joshua Gotbaum/OU=OMB/O=EOP@EOP [ OMB 1 )
+               READ:UNKNOWN
+
+               TO: Martha Foley ( CN=Martha Foley/OU=WHO/O=EOP@EOP [ WHO 1 )
+               READ:UNKNOWN
+
+               TO: Sally Katzen ( CN=Sally Katzen/OU=OPD/O=EOP@EOP [ OPD 1 )
+
+
+READ: UNKNOWN
+
+TO: John Podesta ( CN=John Podesta/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+CC: Wendy E. Gray ( CN=Wendy.E. Gray/OU=NSC/O=EOP@EOP    [ NSC 1 )
+READ:UNKNOWN
+
+CC: courtney O. Gregoire ( CN=Courtney O. Gregoire/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+CC: James J. Jukes   ( CN=James J. Jukes/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ:UNKNOWN
+
+CC: Sandra Yamin ( CN=Sandra Yamin/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ:UNKNOWN
+
+CC: William G. Dauster ( CN=william G. Dauster/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+CC: Dawn L. Smalls ( CN=Dawn L. Smalls/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Linda Ricci   ( CN=Linda Ricci/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+CC: Rebecca L. Walldorff    ( CN=Rebecca L. Walldorff/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Robert L. Nabors   ( CN=Robert L. Nabors/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+CC: Paul J. Weinstein Jr.   ( CN=Paul J. weinstein Jr./OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+CC: Lisa Zweig ( CN=Lisa Zweig/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+CC: Shannon Mason ( CN=Shannon Mason/OU=OPD/O=EOP@EOP    [ OPD 1 )
+READ: UNKNOWN
+
+CC: Mindy E. Myers   ( CN=Mindy E. Myers/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+CC: Scott R. Hynes   ( CN=Scott R. Hynes/O=OVP@OVP [ UNKNOWN 1 )
+READ:UNKNOWN
+
+CC: Michele Ballantyne ( CN=Michele Ballantyne/OU=WHO/O=EOP@EOP [ UNKNOWN 1 )
+READ: UNKNOWN
+
+CC: Mara E. Rudman ( CN=Mara E. Rudman/OU=NSC/O=EOP@EOP [ UNKNOWN 1 )
+READ: UNKNOWN
+
+CC: Adrienne C. Erbach ( CN=Adrienne C. Erbach/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+CC: Carolyn T. WU ( CN=Carolyn T. Wu/OU=WHO/O=EOP@EOP    [ WHO 1 )
+READ:UNKNOWN
+
+CC: Leslie Bernstein ( CN=Leslie Bernstein/OU=WHO/O=EOP@EOP [ WHO 1 )
+,
+
+
+READ:UNKNOWN
+
+cc: Lisa M. Kountoupes   ( CN=Lisa M. Kountoupes/OU=WHO/O=EOP@EOP [ WHO)   )
+READ:UNKNOWN
+
+CC: Mark J. Tavlarides ( CN=Mark J. Tavlarides/OU=NSC/O=EOP@EOP [ NSC ) )
+READ: UNKNOWN
+
+CC: Victoria A. Wachino ( cN=Victoria A. Wachino/OU=OMB/O=EOP@EOP [ OMB ) )
+READ: UNKNOWN
+
+CC: Peter A. Weissman ( CN=Peter A. Weissman/OU=OPD/O=EOP@EOP [ OPD ) )
+READ: UNKNOWN
+
+CC: Judy Jablow ( CN=Judy Jablow/OU=CEQ/O=EOP@EOP [ CEQ)   )
+READ:UNKNOWN
+
+CC: Elizabeth Gore ( CN=Elizabeth Gore/OU=OMB/O=EOP@EOP [ OMB ) )
+READ: UNKNOWN
+
+CC: Melissa G. Green ( CN=Melissa G. Green/OU=OPD/O=EOP@EOP [ OPD ) )
+READ: UNKNOWN
+
+CC: Charles E. Kieffer ( CN=Charles E. Kieffer/OU=OMB/O=EOP@EOP [ OMB ) )
+READ: UNKNOWN
+
+TEXT:
+Attached for your sign-off is the final draft Senate floor SAP for S. 1234
+-- Foreign Ops, Export Financing, and Related Programs Appropriations
+Bill, FYOO. This bill has just been scheduled for Senate floor
+consideration on Wed., June 30 at 9:30AM.   Our aim is to transmit this· SAP
+tonight.   Due to the tight time constraints, we are seeking concurrent
+clearance.    Appreciate your sign-off no later than 7:40PM today.   Thank
+you!
+
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D35)ARMS226743780.136 to ASCII,
+ The following is a HEX DUMP:
+
+FF5750430COD0000010A020100000002050000004E7F000000020000415B983E647ACC3BF01927
+4C7B29FEA44094A40E0665CCA259B1799197F8A80DOD6D007DD5E40290392D217EE7E9AE9A7A4A
+960838FCOF2D79C666D16B4A2EDD18ED213F68B9A08DD8A239F0950079BC82CEA33F4191D87D9D
+83B502945183ACB41BE65A60F8C20FAE3CBA1E2C10B8FB2C369EE761FAB928F53922BDB66A75A5
+DD7F55C51F43B715CFC266F7C2E7FE9E7399B68D2ADE79FB2F95558B4196739862A263CDEE02El
+B0622AODCA3FBOF20FFB804CC1BC4C02420D40DAC6D63EF8CE4095BC1A18D28BD7280A298A68Dl
+809DF24D62AB7D383161D989A6C42F23762FE84D82297DD9C37507A2403A373C8B1B6326D3FB90
+2E39C3DAA5B5E7F997C303E615848412D173904136F7C9B25B064B5F638928BA3D464AE33E8288
+ACD2EB28D1F927DD606AED43730B271B275F93395B72C949E80E12659FB582711F770F6E455D65
+                                                                                      June , 1999
+                                                                                      (Senate Floor)
+
+
+
+
+      S.1234 -- FOREIGN OPERATIONS, EXPORT FINANCING, AND RELATED
+                              PROGRAMS APPROPRIATION BILL, FY 2000
+
+                   Sponsors: (Stevens (S), Alaska; McConnell (S), Kentucky)
+
+
+       This Statement of Administration Policy provides the Administration's views on the
+Foreign Operations, Export Financing, and Related Programs Appropriations Bill, FY 2000, as
+reported by the Senate Appropriations Committee. As the Senate considers the
+Committee-reported bill, your consideration of the Administration's views would be appreciated.
+
+
+        The Administration appreciates the Committee's efforts to accommodate some of the
+Administration's priorities within its 302(b) allocation. However, the inadequacy of the 302(b)
+allocation has forced the Committee to make choices that are simply unacceptable.
+
+       The allocation of discretionary resources available to the Senate under the Congressional
+Budget Resolution is simply inadequate to make the necessary investments that our citizens need
+and expect. The President's FY 2000 Budget proposes levels of discretionary spending that
+meet such needs while conforming to the Bipartisan Budget Agreement by making savings
+proposals in mandatory and other programs available to help finance this spending. Congress
+has approved, and the President has signed into law, nearly $29 billion of such offsets in
+appropriations legislation since 1995. The Administration urges the Congress to consider such
+proposals.
+
+         This legislation is a critical element of America's national security budget. As a result of
+the inadequate 302(b) allocation for Foreign Operations, the Committee bill is more than $1.9
+billion, or 13 percent, below the program level requested by the President, which would result in
+the severe under-funding of a number of crucial programs. A bill funded at this level would be
+grossly inadequate to maintain America's leadership around the world. It inevitably would
+require severe reductions from previously enacted levels for programs managed by the
+Departments of State and Treasury, the Agency for International Development, and other
+agencies.
+
+       The bill provides neither the $500 million requested by the President to support the Wye
+River Agreement, nor any ofthe $800 million requested as an FY 1999 supplemental
+appropriation. It also would significantly increase our arrears to various multilateral
+
+                                                                     Automated Records Managemen: :'J' ler;.
+                                                                      Hex-Dump Conversion
+undermining our leadership in these institutions. The Committee's decision not to fund the
+Expanded Threat Reduction Initiative undermines our ability to reduce the proliferation threat
+and continue the elimination of weapons of mass destruction (WMD). The cut in funding for
+debt reduction programs would preclude our leadership in reducing debt of the poorest countries.
+ Given current tensions on the Korean peninsula and the 37,000 U.S. troops stationed there, the
+reduction for the Korean Peninsula Energy Development Organization (KEDO) is ill-advised.
+
+         Moreover, the bill contains substantial earmarks and objectionable restrictions on
+language which, when combined with the reduced funding level, would seriously limit the
+President's flexibility to conduct an effective foreign policy. Various provisions concerning
+Kosovo, in the context of difficult and fluid circumstances on the ground, are particularly
+ill-advised. For example, the earmark to train and equip a security force in Kosovo would
+reduce the Administration's flexibility and, given current intra-Kosovar rivalries, could threaten
+the lives of American military and civilian peacekeepers. The designation of Serbia as a
+terrorist state would have the unintended consequence of cutting off aid to Front Line and other
+states, even ifthey provide only humanitarian assistance to the Former Republic of Yugoslavia.
+The total prohibition on assistance to Russia pending certification that Russia is not assisting
+Iran's development of nuclear and ballistic missile technologies would complicate our efforts to
+achieve those very goals and would undermine other vital American interests in ensuring
+constructive relations with a more stable Russia.
+
+        If the Congress were to enact a bill that does not resolve the significant funding and
+language problems in the current Committee bill, as discussed in this Statement of Administration
+Position and its attachment, the President's senior advisers would have no choice but to
+recommend that he veto the bill.
+
+       Detailed comments on the Senate Committee-reported bill are provided in the attachment.
+
+
+Attachment
+
+
+
+
+                                                                  Automated Records Management System
+                                                 2
+                                                                  Hex-Dump Conversion
+
+
+                             ADDITIONAL CONCERNS
+          S. 1234 FOREIGN OPERATIONS, EXPORT FINANCING, AND RELATED
+                                 PROGRAMS APPROPRIATIONS BILL. FY 2000
+
+            (AS REPORTED BY THE SENATE APPROPRIATIONS COMMmEE)
+
+
+         For the following accounts, the Administration urges the Senate to restore funding to the
+levels in the President's FY 2000 request.
+
+       Multilateral Development Banks. The reduction of $444 million, or 32 percent, by the
+       Committee to the President's request for the Multilateral Development Banks would
+       unravel the progress made in the FY 1998 and 1999 appropriations towards meeting the
+       past-due obligations of the United States to these institutions and in meeting our
+       continued obligations to them at the much-reduced level that has been negotiated over
+       recent years. In particular, the lack of any funding whatsoever for the African
+       Development Fund and the drastic cuts in the requests for the Global Environment
+       Facility and the Asian Development Fund would call into question the willingness of
+       other donors to continue their support for these critical institutions at the very point when
+       their support for environmental and economic development is most needed.
+
+       Southeast Europe and Kosovo. The Administration appreciates the increase in Support
+       for Eastern Europe Democracy (SEED) funding in recognition of U.S. security interests
+       in restoring and sustaining stability in Southeast Europe. However, we strongly oppose
+       the earmarks of the SEED account, earmarks that, if enacted, would eviscerate the
+       President's flexibility in meeting any unanticipated economic stabilization needs in this
+       war-ravaged region. In addition, the funding limitations on Bosnia would only increase
+       the risk that the peace we have worked to establish in that country could begin to unravel
+       just as the Kosovo conflict shows signs of abatement.
+
+       With regard to Kosovo, the Administration is strongly opposed to language which,
+       coupled with the language contained in the Committee report, could be interpreted as
+       aimed at training and equipping the Kosovo Liberation Army (KLA), a policy
+       prescription diametrically at odds with the recent agreement by the KLA to disarm under
+       NATO supervision. If adopted, we believe this provision could threaten the lives of
+       American military and civilian peacekeepers and humanitarian care providers, particularly
+       in view of current intra-Kosovar rivalries.
+
+       The Administration also strongly opposes the designation of the Government of Serbia as
+
+
+                                                                   Automated Records Management System
+                                                                   Hex-Dump Conversion
+egregious, the actions taken by officials of that Government against the Kosovar people .
+do not constitute "international terrorism" as that term is used in U.S. terrorism
+legislation. The provision contains neither a waiver, nor an authority to "de-designate"
+and would impinge on the authority of the Secretary of State. Moreover, the bill's
+designation of Serbia as a state sponsor of international terrorism could have the
+unintended consequence of imposing sanctions on Front Line States and other countries
+that, whether because humanitarian or other concerns, provide assistance of any kind to
+the Government of the Federal Republic of Yugoslavia. This could further destabilize an
+already war-torn region and make more difficult the task of assuring stability in the
+broader region.
+
+Sec. 567 -- Restrictions on Assistance to Countries Providing Sanctuary to Indicted War
+Criminals. While the Administration appreciates the Committee's desire to speed the
+apprehension and trial of war criminals, the Administration opposes any provision that
+would increase restrictions in current law on former Yugoslav entities harboring war
+criminals as too restrictive, unnecessary, too burdensome in implementation, and
+jeopardizing successful Dayton implementation.
+
+Assistance to the Newly Independent States (NIS). The Committee bill would reduce the
+President's request for assistance to the NIS by 24 percent, and over half of the $780
+million that is provided would be earmarked for three countries in the region. This
+would leave little in funding for reforming countries such as Moldova, or to fund the
+vitally important Expanded Threat Reduction Initiative. The reduction in the Committee
+bill would also reduce funding for programs that the Senate has supported aimed at
+fostering grass root support for reform in the region, including micro-lending and
+exchange programs. Such cuts would undermine our efforts to help the countries of the
+region to become integrated into the global economy and play constructive roles in global
+affairs. They equally would make it more difficult to press for further market reforms
+and to support democratic forces across the region.
+
+The Administration strongly opposes conditioning all assistance to Russia on a
+certification that Russia is not assisting the Government of Iran's development of nuclear
+and ballistic missile technologies. This would complicate our efforts to achieve those
+very goals and would undermine other vital American interests in ensuring constructive
+relations with a more stable Russia.
+
+Expanded Threat Reduction Initiative (ETRI). The Committee provides no support for
+proposed increases for this critical national security initiative. We have made dramatic
+strides in securing nuclear materials and important progress in strengthening export
+controls in these countries. The primary objective of the Expanded Threat Reduction
+Initiative is to further reduce international security threats by expanding and accelerating
+U.S. and international assistance activities in Russia and the other NIS to address high
+
+                                          2
+                                                              Automated Records Management System
+                                                              Hex-Dump Conversion
+Western Europe and Japan. The costs of having to defend against weapons of mass
+destruction (WMD) proliferation are enormous. At a fraction of such costs, the
+international community can join together to reduce the proliferation threat through ETRI.
+
+Korean Peninsula Energy Development Organization (KEDO). The Administration
+strongly objects to the bill's provisions concerning KEDO. The cut of $15 million, or 20
+percent, in funding for KEDO could prevent the United States from fulfilling its
+commitments under the Agreed Framework to provide heavy fuel oil to North Korea and
+could damage our nonproliferation policy on the Korean Peninsula. Restrictions on
+funding relating to North Korean missile exports and "nuclear capability" would also
+jeopardize our ability to meet our commitments on the peninsula. Stopping North
+Korea's ballistic missile and nuclear programs, including its exports, are a priority goal of
+the Administration and a key focus of Secretary Perry's review of U.S. policy, but any
+failure by the United States to uphold the Agreed Framework risks giving North Korea an
+excuse to develop both ballistic missiles and nuclear weapons. In addition, the
+requirement for a 45-day delay in Presidential certification would seriously undermine
+our ability to maintain the funding schedule for KEDO. Finally, we strongly oppose the
+prohibition on use of Economic Support Fund (ESF) funds for KEDO, which would
+unduly restrict the President's flexibility to deal with unexpected foreign policy
+developments.
+
+Wye River and Middle Eastern Assistance. The Committee bill fails to provide any of
+the $500 million requested by the President for FY 2000 to support the Wye River
+Agreement, nor does it provide any of the $800 million requested as an FY 1999
+supplemental appropriation, with budget authority offsets, for this purpose. Given the
+renewed dedication of all sides to the peace process, this complete lack of funding would
+undercut the U.S. Government's efforts to support this historic opportunity to strengthen
+the peace process and move toward a permanent agreement.
+
+The Administration continues to welcome the efforts of the Committee to ramp down
+traditional levels of assistance to countries in the Middle East. However, the
+Administration is disappointed both at the Committee's failure to accept our specific
+proposal for a gradual reduction in aid to Israel and Egypt and with the Committee's
+decision not to incorporate the provision of an Interest Bearing Account for a portion of
+Egypt's Foreign Military Financing (FMF). The Administration will work with the
+Congress on the scoring implication of this proposal.
+
+Economic Support Fund (ESF). The reduction of almost $200 million to the President's
+request for non-Wye River ESF would effectively remove any discretion that the
+President has to respond to a host of threats around the world. These cuts would force
+the reduction or elimination of programs intended to increase political stability and
+democratization in Africa; support democracy efforts in Guatemala, Peru, and Ecuador;
+sustain implementation of the Belfast Good Friday Accord; bolster democratic reform and
+
+                                                             Automated Records Management System
+                                         3                   Hex-Dump Conversion
+East.
+
+Debt Reduction. The cut of almost two-thirds to the President's request for debt
+reduction programs, from $120 million to $43 million, would cripple our ability to fund
+the bipartisan debt for environment program that was enacted by the Congress last year
+and would damage our ability to contribute to the Trust Fund for the Highly Indebted
+Poor Countries, which is an essential component of current debt reduction programs as
+well as of the historic debt initiative agreed to in Cologne. This initiative has received
+broad support from governments, multilateral institutions, religious groups, and
+individuals worldwide.
+
+Peacekeeoing Ooerations. The Committee's $50 million, or 38 percent, cut to the
+President's request for voluntary peacekeeping operations would decrease funds available
+for Organization for Security and Cooperation in Europe (OSCE) missions in Bosnia and
+Croatia, significantly reduce assistance for the African Crisis Response Initiative, and
+eliminate funding for Haiti. In doing so, such a substantial reduction would also raise
+international concern that the United States may not support its fair share of the
+international police force that will help to implement the Kosovo peace settlement, for
+which new resources will be needed.
+
+International Narcotics and Crime. The cut of$80 million, or 27 percent, to the
+President's request for International Narcotics and Crime programs would significantly
+impact programs designed to implement the National Drug Control Strategy, including
+alternative development efforts in Columbia, Peru, and Bolivia, and would reduce our
+support for the U.N. Drug Control Program and other important multilateral
+anti-narcotics efforts. A cut of this magnitude would also significantly undercut the
+Administration's programs in support of the President's new International Crime Control
+Strategy, which was released in May 1998.
+
+Nonproliferation, Anti-terrorism, Demining, and Related Programs. The Committee has
+cut these programs by $56 million, or 24 percent, from the President's request. In
+addition to the reduction for KEDO discussed separately, the request for export control
+assistance would be cut by two-thirds (from $15 million to $5 million). This would
+greatly slow our efforts to assist the NIS and other regions to develop tighter controls to
+prevent nuclear smuggling.
+
+Peace Corps. The Administration is very concerned by the Committee's $50 million, or
+19 percent, reduction to the President's request for the Peace Corps. This reduction,
+which would cut funding by over $20 million from the FY 1999 enacted level, would
+require the Peace Corps to reduce the current level of volunteers by over 1,000. It would
+also prevent implementation of the bipartisan initiative to field 10,000 volunteers in the
+new century. This Administration goal was enacted into law in 1985 as "the policy of
+the United States and the purpose of the Peace Corps," and was confirmed in this year's
+Peace Corps reauthorization (which was approved by the Senate by unanimous consent).
+
+
+                                         4                Automated Records Management System
+                                                          Hex-Dump Conversion
+the Committee's support for a number of the Administration's development initiatives.
+In particular, the Committee's support for the "School Works" program will provide
+important resources for the fight against child labor.
+
+However, the Committee bill and accompanying Senate Committee Report contain an
+unprecedented number of earmarks, directives and recommendations for funding, with
+over 30 earmarks in bi11language and over 60 directives or recommendations in report
+language. When combined with the degree of specificity for funding -- in some cases
+down to the project type and appointed grant recipient -- these produce an unmatched and
+unwarranted level of micro-management.
+
+The Administration appreciates the increase over FY 1999 in funding for USAID' s
+operating expenses. However, the reduction of almost $13 million from the request,
+coupled with the higher-than-anticipated costs of improving security at overseas posts,
+would force USAID to reduce its permanent staff by even more positions than already
+planned. P.L. 105-277, the FY 1999 Omnibus Consolidated and Emergency
+Supplemental Appropriations Act mandated the transfer of the security function to
+USAID from its Inspector General.
+
+Although sufficient disaster assistance resources have been provided for Kosovo through
+supplemental appropriations, the 20-percent reduction to the Administration's FY 2000
+disaster assistance request would limit USAID's ability to meet humanitarian needs in
+other parts of the world, particularly in Africa. It would also threaten USAID's ability to
+provide assistance to the victims of nuclear, chemical, or biological disasters abroad, and
+would limit the ability of Office of Transition Initiatives to provide needed assistance to
+countries that are making the transition from conflict situations.
+
+The Administration is disappointed that the Committee has not approved transfer
+authority for the Development Credit Authority. USAID's recent implementation of a
+credit management out-sourcing contract and other credit management improvements
+justifies continued funding of this innovative new credit mechanism.
+
+The Administration is concerned that its request for reinstatement of the Development
+Fund for Africa (DF A) is not included in the bill. Funding provided under the DF A
+affords needed stability to respond to development opportunities in Africa, as well as to
+complex crises on a fragile continent, and maintains our strong commitment to an Africa
+in transition.
+
+Finally, we are concerned that the Committee has not approved the requested authority
+for USAID to create a Working Capital Fund similar to those already available to the
+Department of State and other agencies. We hope to work with the Senate to give
+USAID the means to capture the costs of becoming a service provider to other agencies
+under the ICASS system and, therefore, encourage competition among agencies to
+
+                                                                Automated Records Management System
+                                         5
+                                                                Hex-Dump Conversion
+
+
+
+
+     provide the lowest-cost and most efficient services.
+
+     Migration and Refugee Assistance (MRA). The Committee's $50 million reduction to
+     the President's request for MRA would require a reduction in annual refugee admissions
+     to the United States of up to 10,000. A reduction ofthis magnitude also would eliminate
+     resources for an initiative to address programming shortfalls in Africa and South Asia
+     necessary to provide life-saving, minimum international standards of assistance in key
+     sectors (including nutrition, shelter, medicine, sanitation, and protection). Such
+     reductions in assistance to refugees in Africa and elsewhere at the very time huge
+     resources are going into Kosovo would create serious political and equity issues.
+
+     Export and Investment Financing. The Administration appreciates the Committee's
+     effort to support the President's export initiative by increasing funding for the
+     Export-Import Bank, especially the administrative budget, which is essential to the
+     Bank's efforts to increase small business exports. We urge the Senate, as this bill
+     progresses, to increase the Bank's credit subsidy budget to the President's requested level
+     to enable U.S. exporters to continue to export to the developing world during the ongoing
+     economic downturn.
+
+     The Administration is very concerned about the reduction in funding for the Trade and
+     Development Agency (TDA) below both the President's request and the FY 1999 enacted
+     level. The request for TDA is an integral part of the President's export initiative, and the
+     Committee bill would significantly reduce TDA's ability to fund feasibility studies that
+     help U.S. exporters take advantage of potential market opportunities.
+
+     Likewise, the Administration is very concerned about the reduction in administrative
+     expenses for the Overseas Private Investment Corporation. This $3.5 million reduction
+     below the request, or $1 million below the FY 1999 enacted level, could threaten the
+     agency's capability to operate in a financially responsible and prudent manner, and runs
+     counter to efforts to mobilize U.S. private sector support for key foreign policy priorities.
+
+     The Administration believes the Senate provision mandating OPIC to establish an
+     investment fund is inappropriate because it would eliminate OPIC's discretion to
+     determine whether such a fund is financially viable.
+
+     African Development and Inter-American Foundations. The Administration strongly
+     objects to the suspension of funding for the Inter-America Foundation. It is
+     inappropriate to suspend funding for an entire agency as the result of the alleged
+     improprieties of individual staff members.
+
+     The Administration appreciates the Committee's efforts to support the African
+     Development Foundation (ADF). However, the Committee's funding level of$12.5
+     million still falls short of the amount necessary for the ADF to continue its important
+
+
+                                               6
+                                                                     Automated Records Management System
+                                                                     Hex-Dump Conversion
+
+
+
+
+     work of supporting Africans at the grassroots level, including micro-credit and trade and
+     investment programs. The Committee has previously acknowledged the ADF's
+     improvements in private sector outreach, as well as the Foundation's streamlining of
+     operations.
+     International Organizations & Programs. The Administration opposes the $22 million
+     cut in the request for lO&P's. Further, while we strongly support the programs
+     earmarked by the Committee, the Administration must retain its flexibility in funding
+     these programs, consistent with an overall assessment of the national interest.
+
+     Treasury International Affairs Technical Assistance. The Administration is concerned
+     that the Committee provided only $l.5 million ofthe $8.5 million request for the
+     Department of the Treasury's International Affairs Technical Assistance program. lfthe
+     International Financial Institution and International Monetary Fund Advisory Committees
+     requested in this account are fully funded at $1.5 million, no funding will be available for
+     the technical assistance that the Department plans to provide to Ministries of Finance and
+     Central Banks that are attempting to implement fiscal and financial reforms in Africa,
+     Asia and Latin America. Similarly, if technical assistance is funded at last year's level of
+     $1.5 miJIion, no funding would be available to implement the mandated Advisory
+     Committees.
+
+     Silk Road Strategy Act. The Administration strongly supports passage of the Silk Road
+     Strategy Act, which may be added to the bill as an amendment. We appreciate the
+     Committee's continued efforts to reduce restrictions in section 907 of the FREEDOM
+     Support Act. This Administration, like its predecessors, has opposed section 907 and
+     called for its repeal. Section 907 damages U.S. national interests by undermining the
+     United States' neutrality in seeking to promote a settlement in the Nagorno-Karabakh
+     dispute; by restricting our ability to provide assistance that would encourage economic
+     and broad legal reforms in Azerbaijan; and, by limiting our efforts to advance an
+     east-west energy transport corridor. While the Silk Road Strategy Act does not provide
+     for the full repeal of Section 907 that the Administration has sought, it would allow the
+     President to waive these restrictions ifhe determined that they were not in the national
+     interest of the United States.
+
+
+
+
+                                              7
+                                                                      Automated Records Management System
+                                                                      Hex-Dump Conversion

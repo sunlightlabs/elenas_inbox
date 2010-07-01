@@ -1,0 +1,252 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP [ OPD]     )
+
+CREATION DATE/TIME:13-MAR-1997 15:48:21.00
+
+SUBJECT:   Draft memo to POTUS (FLSA and privatization)
+
+TO: Diana Fortuna ( CN=Diana Fortuna/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TEXT:
+I have put the draft, which includes mine and Diana's combined efforts, on
+both your chairs.  Attached is the word perfect document.
+
+I will be in a mandatory ethics briefing until 5:00 but back after that.
+
+
+
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D65]MAIL45307517S.016 to ASCII,
+ The following is a HEX DUMP:
+
+FF5750431FOB0000010A0201000000020500000025490000000200003AA4CAOF23F2994031F298
+7926332F6434104FCAE1A2F26FEB99AAC2D668DBC32CA6110C97542F7301C2C71A7AD4FBCFA18B
+FAF1CE1F84B8ECC75BD3DB63CC29D7CF79AC4853636DE52B6D7623079ACC01BEA25F636BOE6145
+9D48314FC0629D19A99697929E52C837CBDE011F5E4A54CD38C603CFD3EOD7247A3EC2FA2D136D
+EFF1795AD721F729EF8DE3D0136D2F769E6A4AFDDEC8E83787C14E7B09644D6DD973CDEE65B8AA
+C78184634853D2CE3C1312C4525AAC640036E83FAFD92A4987BFA8D16DFF7D9F7EB6518FDEAA84
+FEOD8C021A1971A6793D12346B601FOA79107EEC16730CFBF4087EC53305033604AD31031A5633
+9C1539D524CB676D224AB09A7C6B6C483AAA272CEA31E3838B04D6D33OBB13CC28F772AAF70F77
+971058A17CDEB8D294F09D424805DOF47F1F1B30A1936FBF6E4385118A9EED6095FEE2847EFEE4
+6152AA21E7DB7AD4458B72B3F80E2500B7E135639EA19AB43FD8532B9B2DIE63DD5CF12DCFD05D
+94F242605CI05946508829FA6893DF48ABDOF378FED6BDBC8640C3EDA0548102B1C567A1DB1B82
+E7B9C3DEE77528BD4E2E19A4E2A7A7662D28C438F187EDCF601CF775B790FD1832B253895A30D8
+EEED38E390068BF89700643FBF348D1E76BEDD2F3567047089BOFDAECCA05C317C7EF51F289F44
+8D194FB18302004700000000000000000000000823010000000B010000E2050000005513000000
+4EOOOOOOED060000092501000000060000003B0700000B30040000002800000041070000081601
+0000003200000069070000080501000000080000009B0700000055100000003COOOOOOA3070000
+0055040000003AOOOOOODF0700000B300200000044000000190BOO000B7701000000400000005D
+080000083401000000140000009D0800000802010000000FOOOOOOB10B00000208010000004900
+0000C008000002080100000073000000090900000B3003000000440000007C0900000000000000
+00000000007C090000020B0000010049000000C009000000000000000000000000C00900000000
+0000000000000000C009000000000000000000000000C009000000000000000000000000C00900
+0000000000000000000000C009000000000000000000000000C009000000000000000000000000
+C009000000000000000000000000C009000000000000000000000000C009000000000000000000
+000000C009000000000000000000000000C009000000000000000000000000C009000000000000
+000000000000C00900000B300A0000004E000000090AOOOOOOOOOO00000000000000090AOOOOOO
+000000000000000000090A000000000000000000000000090AOOOO00000000000000000000090A
+000000000000000000000000090A00000000000000000000000009OAOOOOOOOOOOOOOOOOOOOOOO
+00090A000000000000000000000000090AOOOOOOOOOOOOOOOOOOOO0000090AOOOOOOOOOOOOOOOO
+00000000090A000000000000000000000000090AOOOOOOOOOOOOOO0000000000090AOOOOOOOOOO
+00000000000000090A000000000000000000000000090AOOOOOOOO0000000000000000090AOOOO
+00000000000000000000090A000000000000000000000000090AOO000000000000000000000009
+                                                                        Hex-Dump Conversion
+
+
+
+
+                                      DRAFT 3:30 3/13
+                                       March 14, 1997
+
+MEMORANDUM FOR THE PRESIDENT
+
+FROM:         BRUCE REED [AND OTHERS?]
+
+SUBJECT:      GUIDANCE TO STATES REGARDING TWO WELFARE REFORM ISSUES
+
+        States are currently seeking guidance on two welfare reform issues: whether they can
+privatize certain administrative functions of the Food Stamp and Medicaid programs, and
+whether worker protection laws -- particularly the minimum wage (Fair Labor Standards Act) --
+apply to work programs under the new welfare law.
+
+Privatizing Food Stamp and Medicaid Administration
+
+       The new welfare law explicitly allows states to contract with private entities to
+administer Temporary Assistance to Needy Families (TANF). Now, Texas wants to
+contract out not only T ANF but Food Stamps and Medicaid as well and Wisconsin wants to
+do so for T ANF and Food Stamps. Federal approval for these requests will establish a
+policy for other states as well.
+
+        The states that want to privatize believe that a competitive contracting process will
+result in greater program efficiencies while protecting recipients. (Private contractors
+determining eligibility for Medicaid and Food Stamps would have to follow federal
+eligibility rules, since those programs remain federally guaranteed individual entitlements.)
+ Organized labor is concerned that privatizing government functions will displace state
+and local government workers (with a resulting loss of union membership). They also
+charge that it will undermine quality and beneficiary rights to due process and
+confidentiality. They fear that private firms will have an incentive to "cut comers" if they
+determine eligibility for benefits.
+
+       We all believe that allowing some privatization makes sense -- the question is how
+much. Below, after some additional background information, we outline options for your
+consideration.
+
+Background
+        Federal agencies and the state of Texas have been negotiating since June 1996 over
+the state's proposal to privatize the administration of TANF, Medicaid, Food Stamps, and
+certain other federally-funded nutrition programs. The state legislature passed the plan
+with bipartisan support, with endorsements from Lt. Gov. Bob Bullock and Comptroller
+John Sharp. Under the Texas plan, private contractors would conduct the interview and
+eligibility determination process, and the state would certify the final determinations. The
+                                                                    Melt-Dump Conversion
+
+                                                                                                     2
+
+State also would retain control over the appeals and quality control processes. An
+estimated 15,000 state jobs would be eliminated or transferred to the private sector. The
+state would require bidders to comment on whether they plan to hire displaced government
+workers.
+         Texas state officials are.becoming increasingly impatient with HHS and USDA for
+not yet having ruled on their proposal. In a recent letter to HHS, state officials threatened
+to proceed with the project without Federal approval. State officials also point out that
+they have pledged to reinvest the savings from their plan in additional health and human
+services programs, and that these savings could provide health coverage for 150,000 Texas
+children. Rep. Charlie Stenholm, one of the Administration's strongest welfare reform
+allies, complained about the delay to Frank Raines in a February 24th letter, saying the
+state of Texas is "willing to make accommodations to address administration concerns."
+Secretary Shalala has promised Texas an answer within the next week or two.
+
+        If the Administration does not allow private contracting for Food Stamps and
+Medicaid, then states may drop plans to contract out TANF, since having separate
+eligibility systems creates administrative difficulties. For example, it would require some
+individuals to go to one location to apply for T ANF and another to apply for Food Stamps
+and Medicaid. Having a one-stop eligibility center would mean it would have to run by
+the government.
+
+Options for Consideration
+       We agree that certain functions should continue to be performed by government
+employees -- appeals, due process, and the certification of eligibility itself. The Texas proposal
+does reserve these functions for government. We are also in agreement that we should grant
+Texas at least a partial waiver, allowing them to privatize certain back office functions.
+[Question: is this right? what part of their waiver request does Ken want to grant?]
+
+        Option 1 -- Insist that state employees retain control over the eligibility interview. OMB
+recommends requiring that workers who conduct eligibility interviews continue to be
+government employees. This position is closer to the spirit of existing law and policy, which
+requires public employees to perform all these functions (unless we grant a waiver). It reflects
+an effort to identify functions that are inherently governmental in nature, because they require the
+use of discretion to spend government funds. The interview is a key part of that determination.
+We do not know how this position would affect the number of public jobs lost.
+
+        Option 2 -- Allow Texas to Proceed. [Question: Does DPC disagree with any part of
+the Texas proposal?] DPC recommends approval of the entire proposal. Given the strong
+bipartisan support for the Texas proposal, it is not credible for the Federal government to assert
+that we are uniquely capable of identifying and defending the best interests of clients. Governor
+Bush will complain loudly that we are denying their request simply to protect union jobs while
+costing the state taxpayers money. Furthermore, there is no evidence that the unions' concerns
+about quality and erosion of clients' rights are valid, and it should be possible to construct the
+contract so that firms don't have a financial incentive to deny benefits to clients.
+                                                                      Nelt-_ Con~loo
+
+                                                                                                3
+
+Application of Labor Laws
+
+       As states begin to redesign their work programs to meet the increasing work
+participation rates in the new welfare law, a critical question for both the labor movement
+and the states is whether worker protection laws -- particularly the minimum wage law
+(Fair Labor Standards Act) -- protect welfare recipients who take part in workfare or
+subsidized employment programs. For the Administration, there are questions of both
+law (do we believe the law requires such worker protections to apply?) and of policy (do we'
+want these protections to apply?).
+
+Background
+       A review conducted by the White House and relevant agencies has concluded that
+current law requires the payment of at least the minimum wage to most people in workfare
+and wage supplementation programs. On this reading, participants in such programs
+usually would count as "employees" under the Act, thus qualifying for minimum wage
+protection. (A few might count as "trainees," not entitled to the minimum wage, under
+normal labor law principles that apply in other circumstances as well.) In addition, the
+interagency group believes OSHA, unemployment insurance, and anti-discrimination laws
+will apply to welfare workers in the same way they do for other workers. The Treasury
+Department has not yet decided whether monies paid to these welfare recipients will be
+subject to FICA and other taxes, and we unfortunately do not believe the IRS will rule for
+several weeks.
+
+        Legally, the interagency group believes no other interpretation is possible, since the
+new welfare reform law -- unlike past reform statutes -- is silent on the issue. Therefore
+the existing labor laws must apply to the extent that welfare recipients meet the established
+definition of "employee." Previous welfare reform laws exempted work programs from
+certain worker protection laws. The 1988 Family Support Act, for example, required
+states to pay the minimum wage for work programs but explicitly said that they need not
+confer employee status to such workers. States did not need to pay more than the usual
+grant amount for individuals in workfare because the law required individuals to work
+only as many hours as their grant, divided by the minimum wage, would dictate, and it did
+not allow states to subsidize private jobs by more than the usual grant amount.
+
+Administration Position
+        Thus, we believe that current law requires the application of worker protections to
+welfare-to-work programs. Bruce has given the AFL private assurances that the
+Administration will adopt this basic position, and the Vice President dropped some strong
+hints to the same effect at the recent AFL meeting. Many governors will be very unhappy
+with this result and they may implore the Congress to enact certain exceptions. Thus, the
+Administration is likely to be faced with the policy question of whether we would oppose
+any worker protection exemptions for weIfare-to-work programs.
+
+        We should expect the announcement of Administration policy to provoke strong
+criticism from the states. On March 3rd, Governor Whitman wrote to the President
+                                                                      Automated Records Management System
+                                                                      ·Meit~Qoo~
+
+                                                                                                    4
+
+    saying that applying minimum wage laws to workfare participants would "end welfare
+    reform as we know it" by placing states in the position of either failing to meet the law's
+    work requirements or incurring large new costs. Even The New York Times editorial
+    board, in discussing union plans to organize workfare participants, has opined that "what
+    they are doing does not amount to a job" -- a view consistent with what many States and
+    members of Congress believe. (Many expect welfare workers to be eligible to unionize.
+    Recent newspaper articles have suggested that some unions will undertake large-scale
+    organizing efforts targeting welfare recipients, and we probably should expect some of
+    these efforts to succeed.)
+
+            The states are only partly right that the minimum wage will increase their costs.
+    Requiring the minimum wage will not make it more expensive for states to help welfare
+    recipients find un subsidized private sector jobs, nor will it make it more expensive for
+    states to subsidize private sector jobs. But the minimum wage will increase the costs for
+    some states to run public sector workfare programs; Here's why:
+
+           ·   In many states, the current cash welfare benefit will fall short of a minimum
+               wage salary for 20 hours a week of work. As the work requirement in the law
+               increases to 25 and then to 30 hours, and as the minimum wage also increases,
+               more and more states will discover that their welfare grants are insufficient.
+
+           ·   Some of these states will be helped by the fact they can use food stamps as
+               payment for workfare for everyone but families with children under age six.
+               (Current law allows food stamps to be used to subsidize private sector jobs for
+               any food stamp recipient; however, only parents with children at least age six
+               can be required to work in exchange for their food stamp benefits in a workfare
+               program. Only time-limited waivers have been granted in the past).
+
+           ·   Allowing states to count the value of other benefits -- child care, housing, or
+               transportation -- toward the minimum wage would remove this problem, but
+               this proposal raises a number of legal and policy questions that make it difficult
+               (though not impossible) to pursue.
+
+            Even if both T ANF and food stamp benefits are counted toward the minimum wage,
+    a number of Southern states will immediately come up short. As the minimum wage
+    increases and the work requirements become more severe, other states will join them over
+    time. This expense will encourage state efforts to find private sector jobs for welfare
+    recipients -- a policy we believe is justifiable. But it will make it more difficult for some
+    states to use public sector jobs as a last resort to help meet the work rates, thus making
+    many low-income Southern states susceptible to financial penalties.
+
+

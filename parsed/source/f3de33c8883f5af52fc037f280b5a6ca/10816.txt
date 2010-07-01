@@ -1,0 +1,29 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Karin Kullman ( CN=Karin Kullman/OU=WHO/O=EOP [ WHO 1 )
+
+CREATION OATE/TIME:20-JAN-1999 19:20:16.00
+
+SUBJECT:   Specialty Press Request
+
+T~: Elena Kagan ( CN=Elena Kagan/OU=OPO/O=EOP @ EOP [ OPO 1 )
+READ:UNKNOWN
+
+TO: Michael Cohen ( CN=Michael Cohen/OU=OPO/O=EOP @ EOP [ OPO 1 )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPO 1 )
+READ: UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TEXT:
+The Press Office has requested that we make someone available to talk
+through our initiatives that will be announced tomorrow on a conference
+call with journalists from education publications.  I assume we would want
+Mike to do this.
+
+Can we make someone available and should it be Mike?
+
+

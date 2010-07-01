@@ -1,0 +1,470 @@
+RECORD TYPE: PRESIDENTIAL      (NOTES MAIL)
+
+CREATOR: Michael Cohen ( CN=Michael Cohen/OU=OPD/O=EOP [ OPD )          )
+
+CREATION DATE/TIME:14-MAR-1998 15:42:02.00
+
+SUBJECT:   Education strategy memo
+
+TO: Melissa G. Green ( CN=Melissa G. Green/OU=OPD/O=EOP @ EOP           [ OPD )   )
+READ:UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD)          )
+READ:UNKNOWN
+
+TEXT:
+Attached is a revised version of the memo.  I will be around for a while.
+and can make sure that changes that Elena and Gene want are coordinated.============
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D90)MAIL427075279.026 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504323060000010A020100000002050000009D7A000000020000AC301E65699CC93EFOD449
+6AD3DFD75 OA8EE54 6EO 99972 OCO 7 4B.22ADFC3 OBB4 3DC7CBE2DFOF9FB44D63 02 9B2DB9153C8231C
+7622BA86226EE4E44C6E113594FBBCODFD95F913C0858394BBCC3AB48303B9BE64D7582AF538DF
+C8C319BEBB44CDOF4ADA7942DD11476F6E80B3A5A1AAECC9BB109A6655FB35F549AB055CD03319
+C507D5E8D9034508214BA2098C4DDOOBBD8585F213C72F43832371F24D34C52A9121857BA7F270
+D1618CEFBDC7A17629863277D8EF6C7E2348DB51532324D6ED50327078AOEBD7C3B7DEOB83900E
+D2CAF8275EF78BF017D76B34CFDDC5D1160B249BCE6D41F9B91F8E21DA832C6A2865818DFD7F34
+AB4CC928A95AB44C32D59220BD7E1E66AF86AB89F2AOF14DD509EC7F8A60C7F94A77B3529FCD18
+EC4572D3EA9A5322007DC2CECF9AE67DF2BC7A63F7B05A410051BCAFF30COC1A2C1A7E5A66062B
+F6C623F14751AEED83AD53603E5451C2C7D08A75C46FDB2ACOF1356BODEE119408A2BC04EF911B
+FAD08F510C2F94D8957EOB10D45C7F7B9F4B01FFB35876405C330B5F167COD29DB7007CCOA1220
+OBFB8040D7030A6702810A4BA88A7446A4813EEFC2E9E89F431D49986827B34283CCOD44FEBAEA
+3BAOBFE9939C6EFCD42ED4C75D64C2552DFC25716CADBA0094F43AOF9690B5411AA946E7FAAD8F
+64F93D501502001100000000000000000000000055010000003AOO0000EE020000092501000000
+06000000280300000B3010000000550000002E0300000055020000004E00000083030000080201
+00000010000000D1030000086E01000000ADOOOOOOE10300000B3002000000340000008E040000
+08050100000008000000C20400000055060000004EOOOOOOCA0400000877010000004000000018
+05000008340100000014000000580500000608010000002DOOOOOO6C050000081D010000000000
+0000990500000055010000003C0000009905000000000000000000000000990500000055090000
+004EOOOOOOD50500003COOFE15361058070000013900000060002815000010220043006F007500
+720069006500720020003100300063007000690000000000000000000100010058020100000004
+003E000000000000001700000000000000000000000100FFFF24002206000053006D0061006COO
+6C00200043006900720063006C0065000000F02206FOE030130000000008072E002E0001080713
+00E02800D61EC30F3908000001390000005AOOOB01008B143600540069006D006500730020004E
+0065007700200052006F006D0061006E00200052006500670075006C0061007200000000000000
+000008337C007800000200000B0500000100AB003COOFE15361058070000013900000060002815
+000010220043006F00750072006900650072002000310030006300700069000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+0000000000005802F4017800FE1536105807000000041140C9009338C5113B0058024001000000
+0400280000000C0000000000000000000000000000000112A4542400A1000000A1000000D3050C
+0000010000000COOD301000400020000002800D61EC30F3908000011090000005AOOOB01008B14
+3600540069006D006500730020004E0065007700200052006F006D0061006E0020005200650067
+0075006C006100720000000000000000000A000000020501004500030502000200040501004500
+0505020002000605010045000705020002000805010045000905010002000A05050017000B0505
+0045000AA86A240000000000000000000000000000000001000AOOO00023000000D10323008001
+000016004F03010000580206FFFF0000000000000000006400002300D11BOOF41A5C121A090000
+
+
+MEMORANDUM FOR THE PRESIDENT
+
+FROM:                 BRUCE REED                                 Automated Records Management System
+                      GENE SPERLING                              Hex-Dump Conversion
+                      MIKE COHEN
+                      BOB SHIREMAN
+
+SUBJECT:              Education Strategy
+
+
+        You have proposed a popular, comprehensive education agenda to expand opportunity,
+strengthen quality, and help prepare students, especially the most disadvantaged, to reach tough
+academic standards and to enter college. These proposals build on your efforts since 1993 to
+raise standards, strengthen accountability and expand flexibility, expand public school choice,
+and improve the quality of schools by providing them with better prepared teachers and
+up-to-date technology.
+
+        Some of your proposals, such as America Reads and the expansion of the 21 st Century
+Schools program, stand a good chance of enactment. However, many, including class size
+reduction, school modernization, and national tests, face a steep challenge in Congress, where the
+majority's education priorities are expanding education IRAs, creating school vouchers, folding
+existing programs into block grants, and doing relatively little else. In addition, we will face a
+tough battle to fund you education priorities in the appropriations bill, because the Republicans
+will advance different spending priorities within education, and because likely Congressional
+increases in highway spending will squeeze the funds available to the education account overall.
+
+       In order to overcome Republican opposition and enact significant portions of your
+education agenda, we propose a four-part strategy:
+
+       (1) Build momentum by pressing for the proposals that are most likely to pass .
+
+       . (2) Make it costly for Republicans to oppose your new education initiatives -- school
+modernization, education opportunity zones, class size -- by getting Democrats to bring them up
+every time Republicans try to move a key piece of their education agenda (vouchers, Coverdell,
+etc.)
+
+       (3) Pursue a multi-pronged approach to national standards and tests.
+
+
+
+                                                1
+                                                               Hex-Dump Conversion
+
+       (4) Conduct a national education campaign to keep your entire education agenda visible
+and use the bully pulpit to promote education reform.
+
+
+I. Building momentum by pressing for the proposals that are most likely to pass with
+bipartisan support.
+       Several pieces of education legislation reflecting your priorities stand good to excellent
+chances of enactment with bipartisan support. Three ofthese (America Reads, G.!. Bill, and the
+Higher Education Act) have July I deadlines for enacting necessary authorizations or changes.
+
+         A. America Reads. The House has already passed its version, known as the Reading
+Excellence Act, which provides funds to States to improve reading efforts in needy local schools
+through teacher training (in research-based methods), tutoring, and family literacy. Sen. Jeffords
+has pledged to move a similar piece of legislation in the Senate, though no action is yet
+scheduled. We are working to meet a July I deadline imposed by the FY 1998 Appropriations
+bill for triggering $210 million advance-appropriated for these purposes (for FY 99), and believe
+the deadline can be met if we push. The House bill has some problems but ultimately would be
+acceptable, and we expect that the Senate bill will be an improvement.
+
+        B. Charter Schools. Last session the House passed H.R. 2616 by a strong bipartisan
+vote (367-57). This bill, introduced by Reps: Riggs and Roemer and endorsed by you would
+modify the existing federal Charter Schools Program by (1) steering more federal charter school
+funding to states that provide charter schools with the maximum flexibility and strongest
+accountability for results, and to states that have not reached a cap on the number of charter
+schools permitted by that state's charter schools law, and (2) encouraging states to direct an
+appropriate level of other federal education resources that pass through states to charter schools.
+Sen. Lieberman and Sen. Coats have proposed similar legislation in the Senate, and the Senate
+Labor Committee has scheduled a hearing for March 31. The prospects are good for enacting a
+charter schools bill this year, though Sen. Kennedy is not eager to move a charter schools bill,
+and controversial issues (e.g., whether to steer federal funds to states that allow entities other
+than state or local school boards to authorize and oversee charter schools) still need to be
+resolved.
+
+         C. Reauthorization of the Higher Education Act (including your mentoring and
+teacher recruitment proposals, and the student loan interest rate fix). Both the House and
+Senate Committees are scheduled to take up the Higher Education Act in the next few weeks,
+aiming for floor action by May and a conference in June. In addition to reauthorizing the main
+student aid programs, this bill would include your mentoring and teacher recruitment proposals.
+It also needs to include a change in the new student loan interest rate scheduled to go into effect
+on July 1. (There is a chance that the Congress will separate out this most pressing component
+of the bill. If that happens, the pressure to move the overall bill will subside considerably, and
+the chances of having a comprehensive higher education bill to sign before Congress adjourns
+will be significantly reduced.)
+
+
+                                                 2
+                                                              Hex-Dump Conversion
+
+         D. Job TrainingNocational Education. The House passed both ajob training
+consolidation bill and a Vocational Education reauthorization bill last year. The Senate has
+combined the two, and may act as soon as next week on that package. While there are many
+issues that need to be addressed in conference, we are optimistic that a bill can be finalized by
+July 1, the deadline for authorizing the Opportunity Areas for Out-of-School Youth program in
+order to receive advance-appropriations of $250 million.
+
+        E. After-School Initiative. Your proposed expansion of the 21 st Century Community'
+Learning Center Program is quite popular and stands a decent chance ofgaining the necessary
+support in the appropriations process, depending upon how much is available for education
+spending overall. While there is some additional work to ensure that Sen. Jeffords, who authored
+the program initially, remains supportive, our primary effort for this initiative should be to ensure
+that your continued association with it as it proceeds through the appropriations process
+
+        F. Technology Initiatives. Your FY99 budget includes over $750 million in
+investments on educational technology -- with a new emphasis on technology training for
+teachers. Although we do not yet know what the Congressional response will be to the
+new initiatives -- we expect that the Congress will continue to support the Technology
+Literacy Challenge Fund. We should also expect some continuing controversy over the
+"e-rate" -- the FCC's discounts to connect schools and libraries to the Internet. The
+educational technology issue also gives us an opportunity to work closely with the private
+sector -- and to leverage federal funds. So we can expect victories in this area, and should
+make sure that we get appropriate credit and use that momentum.
+
+II. Picking Key Fights to Highlight Your Initiatives.
+
+       There are three issues that provide excellent opportunities to highlight your agenda and
+contrast it favorably with Republican proposals. These are also issues where you can unite
+Democrats and, if necessary, gain leverage with a veto threat and, in the Senate, a filibuster.
+
+         A. School Modernization: A cloture vote on Coverdell's education IRAs is expected on
+Tuesday. In consultation with Secretary Riley, Sen. Daschle has agreed to bring your school
+construction proposal to the floor as a substitute, setting up a battle between school construction
+and IRAs. On the substitute, we expect to be able to hold almost all Democrats (with exception
+of Lieberman and Torricelli), and there is a chance of gaining some Republical1 support as well.
+The education groups are working to mobilize grass roots support in favor of the construction
+initiative. While the odds are against winning this battle in the short run, defining the issue
+visibly at the outset will enable you to keep hammering away at this throughout the spring and
+summer.
+
+       B. Education Opportunity Zones: We are working with Rep. Clay to finish education
+opportunity zones legislation, and should schedule an event to announce it next month. Voucher
+
+                                                 3
+                                                               Hex-Dump Conversion
+
+advocates are on their strongest rhetorical ground when they conjure up the image of a failing
+urban school and use this image to suggest that public education is failing more broadly, and
+argue that vouchers are needed to help save a few kids from a broken public education system.
+Your Education Opportunity Zones initiative squarely addresses the real problems highlighted by
+voucher advocates, but in a way that strengthens public schools and endeavors to help all
+students, not just a few. It is based on the premise that we can and must fix failing school
+systems and schools rather than abandoning them. It proposes to accomplish this with
+investments in accountability measures such as ending social promotions, intervening in failing
+schools, rewarding outstanding teachers and removing incompetent ones. If Congressional
+Republicans attempt to move a voucher proposal this year, this proposal is our best defense. In
+the meantime, you can repeat your call for sweeping, Chicago-style reforms. One opportunity
+will be to announce the first grant awards from the new Comprehensive School Reform program
+(inculded in last year's appropriations bill by Reps. Obey and Porter), which provides funds for
+implementing proven schoolwide reforms such as those developed by the New American
+Schools Development Corporation.
+
+         C. Class Size Reduction: The most popular element of your education agenda -- class
+size -- is worth a separate, concerted rollout. We believe that next month you should speak to
+the legislature in Delaware, where Governor Carper has proposed major class size reductions and
+an end to social promotions. The Education Department is developing a series of reports and
+other tools for you to announce (e.g., a summary of class size research, a white paper
+documenting how smaller classes can led to better classroom practices, and state-by-state figures
+on how many new teachers can be hired under your proposal). The elementary and secondary
+education groups are able and eager to mobilize grass roots support. We may also have a chance
+to press this issue during the budget resolution debate, much of which will concern whether
+tobacco revenues can be used for child care and class size.
+
+        The fate of these three initiatives is likely to be determined at the end of the session, as
+work on tobacco legislation and tax and appropriations bills are hopefully completed. It is very
+unlikely that Republicans will give you victories on class size, school construction or opportunity
+zones unless they also get comparable victories on Coverdell or vouchers. While you will most
+likely have the greatest leverage to make deals at the end of the ses~ion, you may well have to
+decide at that time whether you would be willing to strike deals that give both you and the
+Republicans significant parts of your respective education agendas.
+
+III.  National standards and tests
+        We face a touch challenge again in Congress this year. We fully expect Goodling to use
+the reauthorization of the National Assessment of Education Progress later this year to
+specifically prohibit national testing, and to keep RepUblicans pretty well united with him on this
+issue. While we were able to keep Black and Hispanic Caucus members with us on a clearly
+political vote on the tests earlier this year, we cannot count on their support in the future unless
+their concerns about the tests are addressed substantively. Further, while we will have our
+greatest leverage once again in the appropriations process, we expect that it will be at least as
+
+
+                                                 4
+                                                                  Hex-Dump Conversion
+
+difficult as last year to secure funding. To increase our odds of winning this battle, we are
+pursuing a number of steps to broaden our support. These include:
+
+         Use NAGB and ACHIEVE to change the political dynamics around the tests. Last
+year's appropriations agreement placed NAGB in charge of the tests. Since then, we have
+appointed Diane Ravitch and Gov. Engler to the panel, in an effort to bolster Republican support.
+ NAGB has now taken complete hold of test development, and has made a series of policy
+decisions that should make the testing program less vulnerable to criticism from the right.
+While Goodling remains almost as hostile to NAGB's efforts as he was to the Education
+Department's, early indications are that NAGB is making positive inroads among other
+RepUblicans. We have encouraged NAGB to continue to keep members of Congress of both
+parties infonned of its work, and Ravitch in particular to make the case to opinion leaders that
+the test development is on the right track.
+
+       Lou Gerstner and Achieve are prepared to playa more active role in supporting national
+standards and tests, in the context of Achieve's recently launched effort to help states compare
+individual student perfonnance across states to each other and to common standards. Achieve's
+work parallels a provision in last year's appropriation's agreement, which called on the National
+Academy of Sciences to study how existing state tests could be used to compare students to
+national standards. We are working to set up an opportunity, such as a conference call with
+Achieve's Board of Directors or a one-on-one meeting with Gerstner, in which you can enlist
+Achieve's support. We expect that Achieve would be willing to advocate for Congressional
+support for a national test and for state efforts to align state tests to the NAEP standards.
+
+       We could also work quietly with Achieve to explore a way for it to take over the work of
+deVeloping the tests, if it appeared that we could not sustain the necessary Congressional support
+forNAGB.
+
+       Encourage Democrats to propose specific authorization for national tests. Goodling
+has argued that we need specific Congressional authorization before national tests can be
+developed or administered. (As you recall,we have always maintained that we did not need new
+authorization, and we're using the same authority that Bush and Alexander used in proposing
+voluntary tests in 1991.) We expect Goodling to take up reauthorization of the National
+Assessment of Education Progress later this spring, and to include a specific prohibition on
+national tests in that bill.
+
+        To counter this, we are working with George Miller in the House, and Kennedy and
+Bingaman in the Senate, to propose their own legislation to authorize national testing, to be
+considered as part of the reauthorization of the National Assessment of Education Progress. We
+would work with them on the details of the bill, but make sure the legislation was seen as theirs
+rather than ours. This would leave them free to cut whatever deals were needed in each body to
+build support for the legislation, and not require us to own whatever they came up with. It
+
+
+
+                                                 5
+                                                            Hex-Dump Conversion
+
+would also leave us free to continue to argue that we already have sufficient authorization to
+proceed with test development, and to fight the testing battle on the appropriations bill.
+
+         In the House, our first priority must be to hold Democrats together, in order to have a
+chance of peeling any Republicans away from Goodling. This will be difficult, because there is
+little support for testing from significant portions of the Black and Hispanic caucuses under any
+circumstances. To have a chance of holding the caucuses, Miller would almost definitely have to
+craft a proposal that includes a Spanish-language version of the reading test, a prohibition on use
+of the tests for high stakes purposes, protections against test bias, and detailed requirements for
+how the test results would be reported. The provisions that will unite Democrats are least likely
+to appeal to Republicans, so the more likely result is partisan polarization. Nonetheless, that,
+may leave us better positioned than before to conduct a high profile fight with Republican
+opponents of the testing.
+
+        The situation in the Senate remains more favorable than the House. There the task for
+Kennedy and Bingaman will be to craft a proposal that can hold as much Republican support as
+possible. While it is too early to determine the shape of such a proposal, last year's experience
+suggests that steps to strengthen NAGB and further guarantee its independence will be necessary.
+ The Achieve recommendations are likely to playa role in shaping a Senate bill as well.
+
+       The chances that this approach will lead to authorization bills that pass both houses is
+remote at best. However, these steps are necess~ry to hold and expand our support in both
+houses, to defend against efforts by Goodling and Ashcroft to ban further work on the test, and to
+remove Goodling's basis for drawing support on the procedural grounds that testing should not
+proceed without Congressional involvement.
+
+        Pursue an appropriations strategy to enable work to continue on test development.
+The most important Congressional action regarding national tests will come in the appropriations
+bill, where we must fight to ward off any proposals to prohibit further work and to retain funding
+to enable continued development work. The steps outlined above will better position us for a
+replay of last year's battle, by better holding Democrats in the House and by taking away
+Goodling's charge that the authorizing committees have been cut out of the process.
+Nonetheless, it is likely that you will also have to threaten to veto any appropriations bill that
+ends funding for the test. This could pose a tough dilemma for the Republicans one month
+before the election.
+
+
+IV. Conducting a National Education Campaign.
+
+        A. Campaign for Education Initiatives. Because this could prove to be a
+worse-than-do-nothing Congress on education, it is worth a separate discussion on how to
+transform America's schools without help from Washington. The TIMSS roundtable on
+Monday is an opportunity to begin that discussion. We believe the bully pulpit can be effective,
+
+
+                                                 6
+                                                          Hex-Dump Conversion
+
+and a high-profile effort targeted at urban school districts might make a real difference, but the
+last two decades suggest it will be very difficult. Nevertheless, our legislative agenda and the
+standards movement can only benefit from a vigorous national campaign for education reform.
+The campaign should consist of events and actions in support of specific legislative proposals,
+events that promote your comprehensive education package, and events that promote state, local
+and business action for education reform regardless of Congressional action.
+
+       Specific events we are planning include:
+
+·      The upcoming meeting with leaders from business, education and state and local·
+       government to focus public attention on the TIMSS results.
+
+·      An address to a state legislature to promote your overall education package with an
+       emphasis on class size reduction. The Education Department is working on a White
+       Paper on the benefits of class size reductions that could be released at this speech.
+
+·      A visit to an urban school district that illustrates key aspects of your Education
+       Opportunity Zones proposal, such as ending social promotions, intervening in failing
+       schools, removing incompetent teachers or rewarding teachers who achieve certification
+       from the National Board of Professional Teaching Standards. This could be timed to
+       accompany the transmittal or introduction of legislation, or the release of an Education
+       Department report on turning around failing schools.
+
+·      An event with CEO's and governors on the ACHIEVE Board of Directors in support of
+       national standards and tests.
+
+·      An event with teachers and CEOs that would demonstrate your commitment to
+       technology training for teachers, in the same way that NetDay dramatized the importance
+       of connecting schools to the Internet. The event could highlight (a) companies that are
+       forming partnerships with teachers colleges to train all new teachers; and (b) states that
+       have made a commitment to include "technological literacy" as part of the teacher
+       certification process.                                              .
+
+·      An event that showcases the benefits of educational technology in key areas such as (a)
+       increasing communication between parent and teachers; (b) improving performance in
+       key subjects such as math, science, and reading; and (c) providing parents with an easy to
+       understand "report card" of how their local school is doing relative to other schools.
+
+·      An event that is timed to the availability of funding for the Technology Literacy
+       Challenge Fund, the "e-rate," or significant donations from the private sector.
+
+·      A meeting with mayors during a U.S. Conference of Mayors Conference on Public
+       Schools, to be held in May.
+
+                                                  7
+                                                           Hex-Dump Conversion
+
+
+·   Following up on your Hispanic investments, you could speaking lit a conference on
+    School Dropouts, sponsored by Brookings or another think-tank or foundation.
+
+·   A roundtable discussion with business and education leaders about "making performance
+    count" for students, by supporting a growing nationwide effort by employers to examine
+    high school transcripts and other indicators of academic performance in the hiring
+    process.
+
+·   A commencement address at a public high school, or charter school, to underscore your
+    efforts to strengthen public education.
+
+·   A White House Conference on Strengthening Public Schools, to kick offback-to-school
+    events in the Fall.
+
+·   The release of reports on school violence from the Education and Justice Departments
+
+·   Vice Presidential involvement in a series of forums and a Fall symposium on
+    modernizing schools.
+
+·   The release of a report on Saving for College (to highlight our Higher Education Act
+    proposal to stop punishing savings through the student aid formula).
+
+·     Depending on the the recommendations in a report to be released next Wednesday by the
+      National Academy of Sciences on "Preventing Readirig Difficulties in Young Children,"
+      consider making a comment in order to reinforce the need for our reading initiative, class
+    . size reduction, and perhaps other efforts.
+
+·    Announce 1,000 colleges participating in the America Reads Work-Study challenge (we
+     will reach that number in a month or so).
+
+·    Possible signing ceremonies before July Ion: G.I. Bill for American Workers, reducing
+     student loan interest rate, America Reads, and Charter Schools.
+             ,                      .
+·    Visit a college that has made a dramatic commitment to the America Reads effort (such
+     as NYU, with more than 600 tutors).
+
+·    Highlight bipartisan support for High Hopes, perhaps as soon as next week when the
+     proposal may get Committee support.
+
+·    Visit model High Hopes-type early intervention program, and/or attend announcement of
+     new partnerships created in response to your challenge.
+
+
+                                              8
+                                                             Hex-Dump Conversion
+
+        Over the longer term, we could begin planning an event to mark the 10 year anniversary
+of Charlottesville National Education Summit (September 1999) or the establishment of the
+National Education Goals (February 2000). Governors, business leaders and many in the
+education community are beginning to anticipate these anniversaries and think about how best to
+use them to provide additional impetus for education reform. In light of your personal
+leadership at the Charlottesville Summit and in the subsequent establishment of the Goals, it
+would be natural for you to lead the effort to look back on what has been accomplished and to
+lead the way to define the work ahead.
+
+         B. Campaign on Higher Education. In addition to campaigning for our education
+initiatives, we will be ready to kick-off our "Campaign on Higher Education" sometime in the
+next 4-6 weeks. This year-long campaign -- which will include events, roundtables, and
+dissemination of easy-to-read information packets -- will inform every American that college is
+now affordable.
+
+       The focus will be on three key groups: (1) high school/college students who benefit today
+from the historic expansion in college aid; (2) middle and junior high school students and their
+parents so that we help put them on track for college; and (3) those working adults who need
+additional skills, but do not know about the availability of aid to go back to school.
+
+       For our kick-off of the campaign, the Department of Education is finalizing a pamplet
+promoting the affordability of college. This pamplet will be sent to every high-school and
+middle-school in the country and we will ask every school to photo copy it so that every student
+receives the information directly. In addition to this pamplet, we are working with the
+Department of Education on a series ofPSAs on college affordability, an interactive Web site,
+and other ways of disseminating what we've done to make college more affordable.
+
+
+
+
+                                                9
+
+

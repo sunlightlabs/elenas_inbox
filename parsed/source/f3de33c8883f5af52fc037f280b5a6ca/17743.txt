@@ -1,0 +1,42 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Mary L. Smith ( CN=Mary L. Smith/OU=OPD/O=EOP [ OPD]       )
+
+CREATION DATE/TIME: 9-NOV-1997 20:33:38.00
+
+SUBJECT:   Announcements for Hate Crimes Conference
+
+TO: Richard Socarides    CN=Richard Socarides/OU=WHO/O=EOP @ EOP [ WHO ]            )
+READ: UNKNOWN
+
+TO: Jordan Tamagni ( CN=Jordan Tamagni/OU=WHO/O=EOP @ EOP [ UNKNOWN]            )
+READ: UNKNOWN
+
+TO: Barry J. Toiv ( CN=Barry J. Toiv/OU=WHO/O=EOP @ EOP [ WHO]          )
+READ: UNKNOWN
+
+TO: Thomas L. Freedman ( CN=Thomas L. Freedman/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Estela Mendoza ( CN=Estela Mendoza/OU=WHO/O=EOP @ EOP [ WHO]            )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO]    )
+READ: UNKNOWN
+
+TEXT:
+Unable to convert ARMS_EXT: [MESSAGE.D66]MAIL437947217.316
+The following is a HEX dump of the file:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D66]MAIL447947218.316 to ASCII,
+ The following is a HEX DUMP:
+
+================== END ATTACHMENT
+
+

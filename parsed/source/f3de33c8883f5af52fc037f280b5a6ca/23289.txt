@@ -1,0 +1,306 @@
+ RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+ CREATOR: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP [ OPD ] )
+
+ CREATION DATE/TIME:22-MAR-1999 18:43:50.00
+
+ SUBJECT:   Food Stamp caseloads
+
+ TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+ READ: UNKNOWN
+
+ TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO ] )
+ READ: UNKNOWN
+
+ TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ] )
+ READ: UNKNOWN
+
+ CC: J. Eric Gould ( CN=J. Eric Gould/OU=OPD/O=EOP @ EOP [ OPD ] )
+ READ: UNKNOWN
+
+ TEXT:
+ Here's the data and analysis we've pulled together so far.   What do you
+ think?
+
+ We are getting USDA and CEA to do more analysis on these trends and to
+ develop more detailed policy options.   Some policies we can do through
+ regulation, but we will need "savers" enacted elsewhere in USDA to pay for
+ them, so I'm reaching out to the Ag folks to see what's available.  ================
+ ATT CREATION TIME/DATE:   0 00:00:00.00
+
+ TEXT:
+ Unable to convert ARMS_EXT: [ATTACH.D47]MAIL47190129J.036 to ASCII,
+  The following is a HEX DUMP:
+
+ FF5750432D130000010A02010000000205000000C4730000000200007767C9BD781EE993244821
+ 8D34B5E2CF373AB5DB05E3846F70C2728788F7850AA71EBC41479E75800623450DB9F898F50011
+ 2A56B3C5ABBCA9B95B141DE1897E73COFOBCB04528F02ABFCC75BDCC4D10851B6EFAF16964ABDB
+ 991E5A2CD3A097601EC8A66720E2A3201D98241D41E2B8160B67DFFAE8EA526B377C48C6DB91EC
+                                            Hex-Dump Conversion
+
+                                                                               3/21/99 DRAFT
+                   What is Causing Caseload Reductions in the Food Stamp Program?
+
+    In November 1998, the Food Stamp Program served 18.6 million people. The number of people
+    receiving food stamps fell by over 9 million people, a drop of one third, since March 1994. Part
+    of this drop is due to the strength of the economy and the success of welfare reform. Part of the
+    drop is due to new restrictions on the participation of certain legal immigrants and able-bodied
+    unemployed adults without dependents. However, other factors may also be at work. Between
+    1995 and 1997, food stamp participation fell five times as fast as poverty, suggesting that many
+    poor families have left the program despite their continuing eligibility. While the program is
+    available to households with gross incomes of up to 130 percent of poverty, 91 percent of
+    program participants have income below the poverty level.
+
+    1. Who is Leaving the Food Stamp Program?
+
+    As shown in the table below, the largest percentage declines in food stamp receipt were in the
+    two groups whose eligibility for benefits was curtailed by the 1996 law, legal immigrants and
+    childless unemployed adults, which declined by 54 and 44 percent respectively. However,
+    because these groups make up only a small percent of the overall food stamp caseload, their
+    decline was only responsible for 20 percent of the overall caseload decline from 1994 to 1997.
+    (1997 is the most recent year for which we have food stamp caseload data by subgroup, although
+    we have overall data for 1998 as shown below.)
+
+    The bulk of the caseload changes comes from AFDC/TANF recipients, who make up
+    approximately 43 percent of the food stamp caseload. Between 1994-1997, this group
+    experienced a 27 percent decrease in participation, which caused 60 percent of the entire
+    caseload reduction between 1994-1997.
+
+ Subgroup          Participants     Participants     Participation    Percent         Subgroup as     Subgroup as     Percent of
+                   in 1994           in 1997         Change           Change in       Percent of      Percent of      Decline
+                   (thousands)      (thousands)      1994-1997        Participation   1994 caseload   1997 caseload   from Subgroup
+                                                     (thousands)                                                      1994-1997
+
+ Legal             1,537            706              -831             -54%            6%              3.4%            14%
+ Permanent
+ Resident Aliens
+
+ Childless         1,148            648              -500             -43.5%          4%              3.1%            8.4%
+ Unemployed
+ Adults
+
+ AFDCffANF         13,052           9,442           -3,610            -27.6%          48%             43%             60.8%
+ ReCipients
+
+ All Other         11,697            10,707          -990             -8.5%           43%             49%             16.7%
+ Participants
+
+ Total             27,434           21,503           -5,931           -21.6%          100%            100%            100%
+ Participants
+July-September Food Stamp Program QualIty Control Data for 1994 and 1997
+                                  Hex-Dump Conversion
+
+
+2. How does the AFDClT ANF caseload decline compare to that in food stamps?
+
+CHANGE IN WELFARE I FOOD STAMP CASELOADS
+                   .
+
+                  Change in            Percent Change in   Change in       Percent Change
+                  AFDc/TANF            AFDC/TANF           Food Stamp      in Food Stamps
+                  Participation                            Participation
+
+ 1994 -1997       2,853,000            -20%                5,931,000       -21%
+
+ 1994 -1998       6,321,000            -44%                9,282,516       -33%
+
+
+Historically, food stamp caseloads are usually about twice as high as AFDC/TANF caseloads,
+reflecting the broader eligibility rules for food stamps. AFDC caseloads, which were largely
+flat from the mid-1970s through 1990, rose 27 percent between 1990 and 1994. But, between
+1994 and mid-1998 they fell by 40 percent. In September, 1998, they were at their lowest since
+1969.
+
+Food stamp caseloads follow a similar trend. Participation peaked at 22 million during the
+1983 recession and then fell steadily with a stronger economy until 1988. From 1988 to 1994,
+participation increased by 9.5 million, a 52 percent increase. From 1994 to 1998, food stamp
+participation fell by 9.2 million, a 33 percent decrease.
+
+3. How much of the decline can be attributed to the economy?
+
+The relationship between the economy and food stamp participation has been fairly strong over
+the last twenty years. Even when forecasters have not been able to predict AFDC caseloads
+accurately on the basis on economic factors, there are still corresponding patterns of rise and fall
+in unemployment and the food stamp caseload. But even though economic factors are
+important, they are not the entire story. There have been periods where food stamp caseload
+trends varied significantly from unemployment rates.
+
+The unemployment rate has fallen from 6.6 percent in 1994 to 4.4 percent in 1999. Previously
+developed models of the relationship between the economy and food stamp participation
+indicate that economic trends since 1994 could account for anywhere from 28 to 45 percent of
+the change in food stamp participation.
+
+4. How are specific food stamp eligibility changes affecting the food stamp caseload?
+
+At least 20 percent of the decline between 1994-1997 came from two subgroups directly
+affected by PRWORA. Participation oflegal immigrants declined 54 percent between
+1994-1997, although most legal immigrants remained eligible through mid-1997, and reflected
+14 percent ofthe entire caseload's decline. Changes in BBA and last year's Agricultural
+Research Act may have an effect on these numbers as certain groups of legal immigrants
+become eligible for food stamps. The group of childless unemployed adults without
+dependents made up 8 percent of the decline in the entire food stamp caseload, as the subgroup
+
+                                                    -2-
+                                      Hex-Dump Conversion
+
+registered a 44 percent decline between 1994-1997. Most able-bodied, nonworking childless
+adults are limited to three months of food stamp benefits in any 36-month period.
+
+While the declines from these two subgroups total 22 percent of the entire caseload reductions
+between 1994-1997, some of these declines, as with other popUlations, are likely to be due to
+improvements in the economy. A 28 to 45 percent decline could mean that 6 to 10 percent of
+the 22 percent would be due to the economy.
+
+5. What effect do other welfare reform changes have on the food stamp caseload?
+
+Historically, the Food Stamp Program has been closely coordi~ated in local offices with cash
+assistance programs and the vast majority of the AFDC/TANF recipients were also receiving
+food stamps. In fact, as shown in the table below, individuals receiving cash assistance have
+historically been almost twice as likely to receive food stamps than families with earnings who
+were eligible for food stamps.
+
+  PERCENTAGE OF ELIGffiLE INDIVIDUALS
+. PARTICIPATING IN THE FOOD STAMP PROGRAM
+            Household with earnings                45.8
+                                                    %
+
+        Households with children                   85.8
+                                                    %
+
+               Single parents with                 96.S
+              children/no earnings                  0/0
+
+
+              Single parents with                  59%
+               earnings/children
+
+        Households with earnings                   55.2
+             and children                           %
+SIPP,1994
+
+
+Thus, one reason for declines in food stamp participation may be that million of individuals
+moved from cash assistance, where they were nearly certain to receive food stamps, to the
+workforce, where they are half as likely to receive assistance even though still eligible. In that
+case, we may want to focus our efforts on ensuring the food stamp program does a better job of
+serving working families. Recent studies of people leaving the welfare rolls show that between
+45 and 65 percent are receiving food stamps once they leave the welfare rolls.
+
+
+
+
+                                                   -3-
+                                Hex-Dump Conversion
+
+
+SUMMARY OF RECENT RESEARCH ON WELFARE LEAVERS
+                   Study                                      Percent of Leavers
+                                                         Receiving Food Stamps
+
+                  Delaware
+                    1198                                          65%
+
+                  Indiana
+                    1997                                         38%
+                   11198                                   52% (after Year 1)
+                                                           40% (after Year 2)
+
+                    Iowa
+                   1993-5                                        66%
+                    1999                                         59%
+
+               South Carolina
+                    1997                                         66%
+
+
+                Washington
+                    1199                                         45%
+
+                 Wisconsin
+                   1199                                          49%
+
+
+6. What might all this information tell us?
+
+Combining the information we have on caseload changes, the estimated economic effects on
+caseloads, and the take-up rates of individuals based on earnings we are able to explain 78
+percent ofthe caseload reductions from 1994-1997. Of the 3.6 million individuals who left the
+food stamp rolls, 1.6 million or 45 percent could be attributed to economic influences. Of the
+2.9 million who left TANF during this period, only 59 percent are expected to continue
+receiving food stamps if historical trends continue, meaning 1.2 million may not received food
+stamps although they may be eligible. Combining the economic effect on the case10ad and what
+we know about the likelihood of participation for individuals based on earnings, we can account
+for 2.8 million of the actual 3.6 million decrease. However, because those who left TANF may
+have done so because of opportunities created by the growing economy, it may not be fair to add
+these two effects together. We have USDA and CEA examining this and related questions.
+
+7. What factors contribute to nonparticipation?
+
+Reasons why working families are less likely to receive food stamps include:
+
+�      Insufficient or incorrect information about the program. Working-poor families
+       with children often do not know about their eligibility for food stamps given that many
+       such families are not eligible for cash assistance. Lack of accurate program information
+       is also prevalent among illiterate and non-English speaking individuals.
+
+                                              -4-
+                                  Hex-Dump Conversion
+
+�      Problems of Program access and administrative difficulties with the application
+       process. Historically, participation rates are often lower among rural and elderly
+       populations because of physical access and transportation barriers. However, recent
+       reports, similar to the illegal NYC access situation, have created questions whether
+       wide-spread diversion or discouragement offood stamp participation is taking place on a
+       broader level. Moreover, working families need to follow somewhat cumbersome
+       procedures to report their eaming to the food stamp office and it is often difficult for
+       individuals who are working to get to the office during open hours.
+
+�      Small size of the benefit or lack of desire for benefits. As an individual's or
+       household's income rises the potential food stamp benefit declines. At some point,
+       eligible individuals may decide the small amount of the benefit is worth less than the
+       cost of applying. For example, the monthly food stamp allotment for a family of three
+       with $300 weekly income and $500 monthly rent is $40. Other people forgo benefits
+       regardless ofthe amount because of the stigma associated with receiving or using Food
+       Stamps. The increasing use of EBT could decrease this stigma in the future as the
+       transaction will be similar to credit card use ..
+
+8. Possible proposals
+
+Possible proposals for making food stamps work better for working families include:
+
+�      Car Ownership. States realize that to successfully seek and retain ajob, in most areas
+       of the country people must now own a reliable vehicle. The majority of state T ANF
+       programs allow ownership of one car without regard to value, or have a vehicle value
+       limit in line with reasonable local used car values. However, the Food Stamp Program .
+       imposes a car value limit of $4,650 once a recipient is no longer receiving T ANF
+       assistance. In some instances, families who leave TANF yet need to continue food
+       stamp participation often find that their car now prevents them from being eligible for
+       food톝tamps.
+
+�      Reporting and Verifying Information. Because of the flexibility they have to shape
+       their T ANF programs, many states have simplified much of the eligibility and reporting
+       process. They have reduced reporting requirements and made definitions of income
+       simpler. But food stamp polices require in-person recertification interviews as often as
+       every three months. Food stamp rules also require reporting of nearly every change in
+       wage amounts, which often fluctuate substantially over short periods. We are
+       discussing USDA a proposal to administratively allow six-month certification periods as
+       opposed to three -month certification periods and allow working families to submit a
+       complete report every three months but not require the families to report routine changes
+       between quarterly reports.
+
+
+
+                                              -5-
+                                  Hex-Dump Conversion
+
+�   Error Rates. Under the Food Stamp program, states must meet certain payment
+    accuracy rates in order to avoid penalties. These rates require the family to predict
+    extremely accurately future earnings which is difficult for hourly employees. The result
+    is that as individuals on T ANF move into jobs, state error rates increase, providing states
+    with disincentives to serve these families. Weare discussing another proposal with
+    USDA to administratively raise the tolerance for excluding small dollar errors from
+    $5.00 to $10.00. Only those overissuances to eligible households which exceed the
+    $10.00 tolerance figure would be reported and coded in the completion of quality control
+    reviews.
+
+

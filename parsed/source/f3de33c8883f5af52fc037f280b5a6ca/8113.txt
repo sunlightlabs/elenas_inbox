@@ -1,0 +1,266 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Edward W. Correia ( CN=Edward W. Correia/OU=WHO/O=EOP [ WHO 1 )
+
+CREATION DATE/TIME:10-JUN-1998 10:16:56.00
+
+SUBJECT:   Benchmarking Summary
+
+TO: Leeprice ( Leeprice @ doc.gov @ inet   [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Peter Rundlet ( CN=Peter Rundlet/OU=WHO/O=EOP @ EOP [. WHO 1 )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Dawn M. Chirwa ( CN=Dawn M. Chirwa/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Lisa M. Brown ( CN=Lisa M. Brown/O=OVP @ OVP [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Tracey E. Thornton ( CN=Tracey E. Thornton/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Maria Echaveste ( CN=Maria Echaveste/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Nancy.E.McFadden ( Nancy.E.McFadden @ ost.dot.gov @ inet    [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Richard.Hayes ( Richard.Hayes @ sba.gov @ inet [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Steven L. Schooner ( CN=Steven L. Schooner/OU=OMB/O=EOP @ EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Sally Katzen ( CN=Sally Katzen/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Robert N. Weiner ( CN=Robert N. Weiner/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Charles M. Brain ( CN=Charles M. Brain/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Ann F. Lewis ( CN=Ann F. Lewis/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Sylvia M. Mathews ( CN=Sylvia M. Mathews/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TEXT:
+        Here i's a revised version of the benchmarking summary, which
+reflects many helpful comments. Please let me know if additional revisions
+are needed.
+
+
+;;;;;;;;;;;;;;;;;;;; ATTACHMENT   1 ;;;;;;;;;;;;;;;;;;;;
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D77]MAIL465617066.126 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504370040000010A02010000000205000000C72E0000000200005BFE6B7FOAF88FA78A3747
+B6A5E1C06D5C34A19C7190C6FBD76BE6861CD9EC86643688B08F2FDE52654334FE5C5ACD41C34A
+9543CD09BE5926362949204243244D3B60AF768C1F54F451DE96F4D188F9913030CCAEl1551F73
+BAE930D371AOFE6D13704F15AB21E08530721DAB644BB86DD0209BB32CB4DDAAA077BAC4A4A864
+F9E421ECOA448398D38COF9CCCE20D39C2698D0009B4F32A2C01533D532F19CDOFCAFBC2A79AAA
+336F4F06E2CD4939A43981078EOD9CC5427A79FOFD966F4B5084FB80A2E211FCB12BF7906E63DO
+84794D2360BCB337D8E945C270093903296C3B959464E5FOCD9E26F9B21ACF52C182545572679F
+29C887693DEA3CF5111CA313DA7B86EDDDCB9C8FFE31EAF611842E9C4CB2934B9AF20E1CFD337B
+OECOA960B6AC89FF692BBAFEDBB23E42C27782AC759BE60108ACAE5AA6B5E6511F73186955C802
+7033B96E958B29A7ADC40A25E363FCDF99121F3CD067F6A136BEB7D345844BA41494428CBB3160
+7BCOF6B24D68E970A24845037C25629CC9EFC7B22D521704D619700078E4EOFE9803AA252AE2A4
+1D46FF7F65C470BEC1C10D84794DCCF4A7B97412FA74B82FCDDE1B7161063E576D729FODA53633
+E43D525C8AAC124C4B262D94A77208F09008581379E187F51E95290BF9EC9DD5AD3CC3A0758551
+8B5EFE8B8902000900000000000000000000000823010000000B0100007E020000005501000000
+4E0000008903000009250100000006000000D70300000B300200000028000000DD030000087701
+000000400000000504000008340100000014000000450400000802010000000F00000059040000
+080501000000080000006804000000985C005C004F0041005F0038005C005C005C005700450053
+0054005F00570049004E0047005C003400300030005F0041005FOO480050003400000000000000
+00000000000000000000000057494E53504F4F4COOOOOOOOOOC800C8002C012C012C012C01C800
+C80030000000000000000000000POOOOOOOOOOOOOOOOOOOOOOOOOO000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000B0100002800C8196810480D000011090000005AOOOBOI0000103600540069006D0065
+00730020004E0065007700200052006F006D0061006E00200052006500670075006C0061007200
+000000000000000001000200580201000000040028000000000000000000000000000000000000
+00011202002400A1000000A10000000A0000007209010044007309010002007409020002007509
+010045007609010002007709010044007809020044007909440065817A09010002007B09010044
+009B7DC4220000000000000000000000000000000000337C007800000200007B09000003010004
+0002000000DDOA10008301040003000200211000DDDDOBOB00030000040BOODDF1027909F19BF1
+037909F1F1007909F19BF1017909F1F1027909F1F1037909F1F20CF2D3050C0007010002000COO
+D3D10337008001000016004CDC010000580206000058020000000000000064FOOOOOOOOOOOOOOO
+000000000000000000000064C8003700D1544845805052494345804556414C554154494F4E8041
+444A5553544D454E548050524F4752414DF30CF3D0041500000BOO090001B00400000000012015
+00DOD305100006010000023E0000001000D3CCE0110C0000000008070COOE041806B657980636F
+6D706F6E656E74806F668074686580436C696E746F6E8061646D696E697374726174696F6EF01C
+04F073807265666F726D806F6680746865806665646572616C80676F7665726E6D656E74F01C04
+F073CF70726F637572656D656E7480F1007909F19CF1017909F170726F6772616D73F1007909F1
+9BF1017909F1F1027909F1F1037909F180697380697473806E6577807072696365806576616C75
+6174696F6E8061646A7573746D656E748070726F6772616D2E80F1007909F19CF1017909F1436F
+6E677265737380617574686F72697A656480616C6CCF6665646572616C806167656E6369657380
+746F8075736580746869738070726F6772616DF1007909F19BF1017909F1F1027909F1F1037909
+F180696E80313939348061738070617274806F6680746865804665646572616C80416371756973
+6974696F6E8053747265616D6C696E696E67804163742ECF546865806669727374807068617365
+806F66807468658070726F6772616D2C807768696368806973806265696E6780696D706C656D65
+6E746564807468726F7567688061807265766973696F6E806F6680746865804665646572616CCF
+4163717569736974696F6E80526567756C6174696F6E2C80676F657380696E746F806566666563
+74806F6E805F5F5F5F5F5F5F5F2ECCCCE0110C0000000008070COOE0556E646572807468697380
+6E65778070726F6772616D2C80F1007909F19CF1017909F1736D616C6CF1007909F19BF1017909
+F1F1027909F1F1037909F180646973616476616E746167656480627573696E65737365738028FO
+2004F0534442F01C04F073F01F04F0298062696464696E67806F6ECF636F6D7065746974697665
+6C798061776172646564806665646572616C80636F6E747261637473806D6179807175616C6966
+7980666F728061807072696365806576616C756174696F6E80637265646974806F668075708074
+                                                                           Hex-Dump Conversion'
+
+                  THE PRICE EVALUATION ADJUSTMENT PROGRAM
+
+        A key component of the Clinton administration's reform of the federal government's
+procurement programs is its new price evaluation adjustment program. Congress authorized all
+federal agencies to use this program in 1994 as part of the Federal Acquisition Streamlining Act.
+The first phase of the program, which is being implemented through a revision of the Federal
+Acquisition Regulation, goes into effect on _ _ __
+
+        Under this new program, small disadvantaged businesses ("SDB's") bidding on
+competitively awarded federal contracts may qualify for a price evaluation credit of up to 10%.
+Credits will be available only to businesses that have been certified as SDB's by the Small
+Business Administration. These credits help level the playing field for minority groups who have
+encountered discrimination in their efforts to compete. Although they may receive these credits,
+SDB's must compete with all other businesses to win federal contracts. Price evaluation credits
+are not set-asides. They do not assure that any firm, or group of firms, will win a contract.Only if
+price credits fail to remedy discrimination can agencies consider the use of set-asides in awarding
+contracts to SDB's.
+
+         In order to ensure that the use ofthese credits is fair and meets legal requirements, they
+will be available only in industries in which minority-owned firms continue to suffer the effects
+of discrimination. "Benchmarking" provides a methodology for identifying these industries by
+comparing the actual federal procurement market share of minority-owned businesses with the
+federal procurement market share that would be expected in the absence of discrimination.
+Credits will be available only in industries where the actual federal procurement market share
+(''utilization'') falls short of the expected federal procurement market share ("capacity").
+
+Constitutional Requirements
+
+        The administration developed this benchmarking methodology to ensure that federal
+procurement complies with the Supreme Court's decision in Adarand Constructors, Inc. v. Pena.
+In Adarand, the Court held that it is constitutional to provide targeted assistance to
+minority-owned businesses as long as two requirements are met. The first is that the assistance
+must serve a "compelling interest." This requirement is satisfied if there has been discrimination
+that has harmed minority business owners in the particular industry where assistance is to be
+provided. The second requirement is that the remedy is "narrowly tailored," that is, any
+assistance targeted to members of a certain race or ethnic group must be necessary to remedy
+discrimination and must be carefully designed to address its effects .
+
+      . A, Compelling Interest
+
+       Based on an extensive review of evidence, the Department of Justice has established that
+discrimination has harmed minority businesses. In addition to commissioning an analysis of
+dozens of studies of industries throughout the country, DOJ also reviewed a long history of
+
+
+                                                 1
+                                                                                 Hex-Dump Conversion
+
+Congressional findings of discrimination. Congress relied on these findings in enacting
+affirmative action and other remedial legislation. For example, there is substantial evidence that
+minority-owned businesses have been prevented from obtaining access to capital, from
+participating in trade associations, and from gaining enough experience to become bonded. Most
+of the present effects of discrimination stem from discrimination in the private sector, not in the
+public sector. These limitations have erected substantia) barriers to minority-owned firms and
+have hampered their ability to win contracts. Consistent with Congress's long-standing
+determinations, the government has a compelling interest in providing targeted assistance to
+minority-owned businesses.
+
+       B. Narrow Tailoring
+
+        The use of benchmarks helps satisfy the Supreme Court's "narrow tailoring" requirement
+by providing a means for determining whether the effects of discrimination still burden small
+minority-owned businesses in a particular market. Credits will be available only in those markets
+where it is still necessary to offset the effects of discrimination. Based on FY 1996 data, the
+Department of Commerce estimates that industries representing about 74% of federal contract
+dollars awarded to SDB's will be eligible for price credits. The capacity and utilization of
+minority-owned businesses in 70 two digit SIC code groups and nine Census divisions for each
+of the three construction two digit SIC code groups were determined by analyzing data
+representing the firms in the United States that bid on federal contracts or participated in the 8(a)
+programs administered by the Small Business Administration. This group of firms represents
+those that were prepared to perform federal contracts in FY 1996.
+
+        The "utilization" ofSDB's is simply a measure of the total dollar value of the federal
+contracts awarded to them in FY 1996. Calculating the "capacity" of these firms is more
+complex. In order to estimate capacity, the benchmarks take into account various characteristics
+of firms that bear directly on the value of contracts that they receive, including the age and size of
+the firm. This approach allows Commerce Department statisticians to estimate the value of
+contracts an SDB would be expected to receive if its success in winning federal contracts equaled
+that of all other firms in the industry of equal age and size. An outside panel of statisticians and
+economists reviewed this methodology and concluded that it was the best approach possible.
+
+ The Scope of the Program
+
+        Three agencies, the Department of Defense, NASA, and the Coast Guard have had
+authorization to offer credits since FY 1994. Under the rule announced today, all agencies will be
+required to implement the price evaluation credit program. Currently, data are available to allow
+application of the program to SDB prime contractors. The availability of credits will be extended
+to SDB subcontractors on November I, 1998. Sometime during the next year, the Small Business
+Administration will also use benchmarks in administering the 8(a) program. Benchmarks will
+provide guidance to program administrators, for example, in determining the number and type of
+firms that will participate in the program and in deciding what contracts will be authorized under
+
+
+                                                  2
+                                                                            Hex-Dump Conversion
+
+
+the program. The federal benchmarks will not apply to the Department of Transportation's
+program for Disadvantaged Business Enterprises, which is administered by grantees, such as
+state and local governments.
+
+The Advantages of Benchmarking
+
+       The benchmarking/price evaluation adjustment program offers several advantages in
+designing government affirmative action programs to assist SDB's.
+
+        Constitutionality -- The program responds to the core concerns about
+procurement-related affirmative action programs expressed by the Supreme Court. The Court has
+made clear that government may remedy discrimination by the government itself or by the
+private sector. However, the Court has also indicated that any affirmative action program should
+be designed to address the actual effects of past discrimination. Benchmarking provides a means
+for carefully targeting our efforts to remedy those effects.
+
+        Flexibility -- Benchmarks are not quotas. The price evaluation adjustment program
+includes a series of provisions designed to target assistance carefully, to ensure flexibility and to
+maintain vigorous competition. Price credits will not be available in all industries, only those
+where there is evidence of remaining effects of discrimination. Price credits will be available
+only when the government has concluded that race-neutral efforts are inadequate to address past
+discrimination. Even in cases when utilization falls short of capacity in a major industry
+grouping, the relevant agencies retain discretion to adjust or eliminate the credit under some
+circumstances.
+
+       Preserving Competition -- Price and evaluation adjustments are not set-asides. No firm
+or group of firms is guaranteed any contract. These credits provide a small boost for
+minority-owned firms when there has been a record of past discrimination. However, these firms
+must compete with all other firms for contracts. Only if the use of these credits fail to remedy
+discrimination are set-asides an option. As a result, government can make good faith efforts to
+remedy prior discrimination, while preserving the incentives for firms to compete vigorously for
+taxpayer dollars.
+
+        Periodic Review -- Federal procurement data will be reviewed periodically to ensure that
+price credits are available only in those industries where the effects of discrimination persist.
+
+Industries Where Credits are Available
+
+        Benchmarking estimates are based on two digit SIC code groups. With the exception of
+construction, for which regional benchmarks have been developed, the estimates are for the
+nation as a whole. Based on these benchmarks, the Department of Commerce has identified the
+industries in which credits will be available. A table showing these industries appears in the
+Federal Register of June _ , 1998.
+
+
+                                                  3
+
+

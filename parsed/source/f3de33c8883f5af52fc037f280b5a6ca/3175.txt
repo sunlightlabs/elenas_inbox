@@ -1,0 +1,182 @@
+ RECORD TYPE: PRESIDENTIAL       (NOTES MAIL)
+
+ CREATOR: Elizabeth Drye ( CN=Elizabeth Drye/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME:26-JUN-1997 13:45:00.00
+
+ SUBJECT:   Redraft of Erskine memo
+
+ TO: Elena Kagan        CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+ READ:UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+CC: Jerold R. Mande ( CN=Jerold R. Mande/OU=OSTP/O=EOP @ EOP [ OSTP]   )
+READ: UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D64]MAIL461205673.116 to ASCII,
+ The following is a HEX DUMP:
+
+FF5750431A050000010A02010000000205000000E82A000000020000EOC2913EOF66F8141DA881
+367F05D8BAA2F359D54A67DCEDDAEF444D83E88947B6043E05ADE9264AE29ADE77A11CE654A25F
+8C7C5292E1FD22AC7B38908COD20D49F2B5FCAFOC25F75673AD549E6E0671111281D5245A9B2DC
+3A4EC547D44816AB14A08AB667763FD008274854CC447EEDE02ECB5D33D69A594CA5B32BE1A216
+7B765EFDE658363B2C095D90072EDD98E4C76DD8AC39461C6E52AOAFF57F5BB440CAC7610A1356
+842CB2FE5F105C540DC37A8E49076BB6CEB2DFD44B4DE662C449F878CC42081BOFOE2D88024BF6
+EOA40B35D83508D7CA2D9EDOE48DE41DBD27E5ABA4DFAOD413A17C7DFEBEC83D49782DAAD421BA
+37D84C9758D5442E5CFE04EOF6DB2D49DCD6164874806C11CB3A5440867FF888DBE7BF517EC908
+73BC3BC08149A17F57274B86478B17911181067F1224202B689D5545C2EDED3F5672430CB07A4D
+EF75DEOE58C994B1F4EF992BFAE1BC2DCE1A78AOCBC74C47ABBCB8C1B9A695A925785E3E2DD171
+D442BE56971A13D82912E44987570E57E13A83B45CA90D67400CFE9D896458A25DD7771AB006DB
+AD8650B6B42947C50488F8A7091240AAF0325008C6AEOF09430E3D832DFFFCF4A7033EDB359CEC
+A26560E37184791591561436D2D16949D8A91FDB6El164E88828F270142F6556567D93DA05D395
+23998F2D6802000C00000000000000000000000823010000000B010000A802000000550EOOOOOO
+4EOOOOOOB303000009250100000006000000010400000B30020000002800000007040000081601
+000000320000002F04000008050100000008000000610400000055OD0000004E00000069040000
+000000000000000000006904000008770100000040000000B704000008340100000014000000F7
+0400000802010000000FOOOOOOOB05000000984C006F00630061006C002000430061006E006FOO
+6E0020004C00420050003400000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000057494E53504F4F4COOOOOOOO00E0019001C80090019001C8
+00E001900130000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000B0100002800D61EC30F3908000011090000005A000B01008B14360054006900
+6D006500730020004E0065007700200052006F006D0061006E00200052006500670075006C0061
+007200000000000000000001000200580201000000040028000000000000000000000000000000
+00000000011202002400A1000000A100000043003A005C00500052004F00470053005C00570050
+005C005300540041004E0044004100520044002E00570050005400000001000400020000002800
+C8196810480D000011090000005AOOOB010000103600540069006D006500730020004E00650077
+00200052006F006D0061006E00200052006500670075006C006100720000000000000000000AOO
+00005F060100450060060100020061060100450062060100500063060100450064060100020065
+060100658166060100728267060100450068060600658107959822000000000000000000000000
+0000000008337C007800000200006806000003DDOA10008301040003000200211000DDDDOBOBOO
+030000040BOODDF1026806F19BF1036806F1F1006806F1F1026506F19BF1036506F1F1016806F1
+
+
+MEMORANDUM FOR THE CHIEF OF STAFF
+
+FROM:          Bruce Reed
+
+SUBJECT:       Tobacco Settlement Review Process
+
+This memo sets forth the process we will use to review and evaluate the proposed tobacco
+settlement with relevant agencies, to seek input from the public health community, Congress, and
+others, and to present recommendations to the President. Our goal is to prepare a memo for the
+President by late July that: defines our public health and public interest objectives for a global
+settlement; weighs the settlement's strengths and weaknesses against those objectives and
+proposes possible modifications; summarizes the views of the public health community,
+Congress, and other affected parties; and lays out positions the President could take on the
+settlement proposal.
+
+Interagency Review
+
+The review will be carried out by four major workgroups:
+
+I.     Regulatory Issues (Chaired by Elena Kagan). Subgroups will look at: (a) FDA
+       regulation' of product content; (b) FDA regulation of access, advertising and labeling;
+       and (c) restrictions on environmental tobacco smoke in public buildings and workplace
+       settings. Participating White House offices are DPC, OMB, OVP, NEC, OSTP.
+       Participating agencies are HHS, DOJ, DOL, GSA, EPA, Treasury.
+
+II.    Program and Budget Issues (Chaired by Chris Jennings). This group will examine
+       programs to reduce smoking, expand children's health care coverage, and other proposed
+       uses of settlement funds. Subgroups will consider: (a) Medicaid funds / children's health
+       care; (b) education efforts (including grass roots programs); (c) smoking cessation
+       programs; and (d) investments in health research, including nicotine research. White
+       House offices are DPC, OMB, NEC, OVP, OSTP. Participating agencies are HHS,
+       Treasury, DOL, USDA, Interior, V A, and DOD.
+
+III.   Legal Issues (Chaired by Elena Kagan). This group will consider a number of legal
+       issues, including liability, litigation, document disclosure, and antitrust questions. White
+       House offices are DPC, OVP, NEC, Counsel. Participating agencies are DOJ, HHS,
+       Treasury, Interior.
+
+IV.    Industry Performance and Accountability (chaired by Bruce Reed). This group will
+       analyze economic and international issues. Subgroups will assess: (a) the economics of
+       the industry and the settlement's effects on, industry performance, federal revenues,
+       consumers, farmers, etc.; (b) the incentives and penalties industry would face if children's
+                                                         Automated Records Managomollt ~tQm
+                                                         Hex-Dump Conversion
+       international issues, and the settlement's international implications. White House offices
+       are DPC, NEC, CEA, OVP, OMB, OSTP; participating agencies are: HHS, Treasury,
+       DOL, USDA, USTR, State, DOD.
+
+Public Outreach
+
+We will work with OPL and HHS to run a tightly focused public outreach effort designed to
+demonstrate the President is conducting a thoughtful, thorough review focused on the public
+health. Many groups covering a wide range of interests are affected by the proposed settlement.
+We will narrow our task -- and reinforce the President's focus on public health -- by hosting 6-8
+highly visible White House meetings with small, select groups of health experts. We will
+encourage others to share their views through written comments and, where appropriate,
+meetings with agency staff.
+
+Donna and I will host the White House meetings over the next three weeks. We will convene
+leading thinkers on tobacco, including: experts from national health organizations;
+Koop-Kessler advisory group participants; experts on nicotine addiction; local grass-roots
+advocates; state and local tobacco control officials; and children's health advocates.
+
+The first meeting will be on Friday. We will invite in Dr. Kessler and several members of the
+Koop-Kessler advisory group, including the American Cancer Society, American Medical
+Association and the American Lung Association (Koop is not available). The committee will
+not have finished its report, but will be able to validate the careful, thorough review the
+Administration is conducting, and praise the President for expressing concern over the proposal's
+handling of nicotine regulation.
+
+Congressional Outreach
+-- this is a placeholder based on my conversation with Rich this morning. Rich is seeing ifhe
+can put off Lautenberg meeting until week after next--
+
+If the President chooses to promote a settlement, he will need strong and broad Congressional
+support. Multiple committees in both the House and Senate would have jurisdiction over
+legislation enacting an agreement. The goal of our Congressional outreach process will be to
+strengthen relationships on the issue with key members, keeping the debate bipartisan. Today
+and tomorrow HHS is making calls to key Republican and Democratic members to let seek their
+input on how best to consult with the Hill in the coming weeks. We expect to conduct meetings
+with members the week of July 7, and will have a more detailed Congressional outreach plan by
+mid-week next week.                                    .
+
+Press Plan
+
+This issue is certain to attract considerable press attention throughout our review. Major news
+organizations have assigned entire teams to cover the tobacco settlement. After devoting so
+much coverage to the negotiations, the networks are determined to keep this issue alive. We
+
+On Friday, Donna and I are prepared to brief the White House press corps on how we will
+conduct this review, who will be involved from within the administration, and what groups and
+outside experts we plan to consult. As noted above, on Friday we will also invite David Kessler
+and other members of the Koop-Kessler advisory group to discuss their efforts to develop an
+expanded blueprint on tobacco control.
+
+The week of July 7, while the President is away, Donna and I will conduct the public health and
+Congressional meetings described above. This will give the press something to write about, and
+show that we're running an open process. The week of July 14, we will continue public health
+and Congressional meetings and bring in two groups of attorneys general -- the enthusiasts and
+the skeptics. The Vice President is willing to hold a public hearing with us in mid-July [Bruce --
+let's talk about this -- there are downsides].
+
+Schedule
+
+We have planned the following schedule. HHS does not believe the review can be completed
+within 30 days, as the President suggested. We will work as quickly as possible to preserve that
+option but ensure a decision by early August at the latest.
+
+     Week of June 23: Work groups convened; subgroups assigned analytic tasks.
+                    June 27:          First outreach meeting and press briefing on process.
+     Week of June 30: Subgroups provide preliminary assessments; define remaining issues.
+     Week of July 7:      Subgroups develop options for 0titstanding issues and synthesize work.
+                          Continue White House meetings with public health groups.
+                          Begin meetings with members of Congress.
+     Week of July 14:     Principals review workgroup assessments and meet to firm up options.
+                          Possible public hearing with VP
+     Week of July 21:     Initial meeting with the President
+     late July/early Aug: Presidential decision
+
+

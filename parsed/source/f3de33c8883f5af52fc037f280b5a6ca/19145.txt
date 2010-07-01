@@ -1,0 +1,57 @@
+RECORD TYPE: PRESIDENTIAL      (NOTES MAIL)
+
+CREATOR: Paul J. weinstein Jr.     ( CN=Paul J. weinstein Jr./OU=OPD/O=EOP [ OPD 1 )
+
+CREATION DATE/TIME:24-MAR-1998 17:16:14.00
+
+SUBJECT:   Mail 2 Disk Space
+
+TO: Thomas L. Freedman ( CN=Thomas L. Freedman/OU=OPD/O=EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Diana Fortuna ( CN=Diana Fortuna/OU=OPD/O=EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Leanne A. Shimabukuro ( CN=Leanne A. Shimabukuro/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TEXT:
+You all unfortunately are a big e-mail problem.   Please be religious about
+deleting your send and incoming e-mails.  Laura, I know you are keeping
+copies of all attached documents, but please review your sent e-mails for
+deletions.
+---------------------- Forwarded by Paul J. Weinstein Jr./OPD/EOP on
+03/24/98 05:14 PM ---------------------------
+
+
+
+
+Ashley L. Raines
+03/24/98 04:53:14 PM
+Record Type:     Record
+
+TO:      Paul J. Weinstein Jr./OPD/EOP
+cc:
+Subject:         Mail 2 Disk Space
+
+We are running out of free disk space on Mail 2 again.  Here are the DPC
+staff with the largest amount of disk space on the server:
+
+Laura Emmett - #24 on the server
+Diana Fortuna - #48
+Elena Kagan - #63
+Bruce Reed - #66
+Leanne Shimabukuro - #95
+Tom Freedman - #111
+
+please have these staff and other DPC staff delete as many messages as
+possible so the server doesn't crash again.  Thanks!!

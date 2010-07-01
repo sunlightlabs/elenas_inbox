@@ -1,0 +1,289 @@
+ RECORD TYPE: PRESIDENTIAL       (NOTES MAIL)
+
+ CREATOR: JulieA. Fernandes       ( CN=Julie A. Fernandes/OU=OPD/O=EOP [ OPD 1 )
+
+ CREATION DATE/TIME: 7-0CT-1998 20:31:41.00
+
+ SUBJECT:   H2A -- recruitment
+
+ TO: Sally Katzen ( CN=Sally Katzen/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ: UNKNOWN
+
+ TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ: UNKNOWN
+
+ CC: Shannon Mason ( CN=Shannon Mason/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ: UNKNOWN
+
+ CC: Cecilia E. Rouse      ( CN=Cecilia E. Rouse/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ: UNKNOWN
+
+ CC: Laura Emmett      ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TEXT:
+ AgNet
+ At today's H-2A meeting, we went over the AgNet proposal that was
+ developed by OMB. The proposal is attached.
+
+ The group agreed that AgNet should be presented as a tool to help
+ formalize the recruitment process for growers. The key differences
+ between this proposal and the Wyden-Graham registry are: (1) this would
+ not replace the growers's postitive recruitment requirements; (2) it would
+ not serve as a verification system (to verify authorization to work); and
+ (3) it requires active seaching on the system by growers for workers and
+ allows workers a way to search for growers; under the registry system, the
+ govt. had the responsibility to match workers to growers on the system.
+
+ This system could be up and running in about a month, but would take
+ longer to perfect.  If we proposed this, we would likely want it to be
+ evaluated after five years, to determine if it useful to growers and
+ workers. USDA and DOL agreed that growers could be required to
+ participate in AgNet in order to participate in the H-2A program.  The
+ success of the program rests heavily on getting the participation of large
+ numbers of growers and workers.
+
+ verification Issue
+ Though all agree that the AgNet system could prove very helpful for
+ growers and workers, it does not solve the fundamental issue of how to
+ better determine if workers are authorized to work. The America's Job
+ Bank folks oppose the sytem being used, in part, to feed a verification
+ system. They see AJB· (and the proposed AgNet) as an information sharing
+ network -- not as an enforcement tool of the government. No other checks
+ of this kind are done on those who post for jobs.  In fact, the AJB folks
+ have argued that the less this looks like the government, the more likely
+ we will get large numbers of participants.  In addition, it may be
+ problematic to require verification for workers who participate in AgNet,
+ but not for workers who participate in other parts of America's Job Bank.
+
+ The INS does operate employment verification pilots that could be modified
+ to effectively verify farmworkers.  However, Ceci and I (and OMB) continue
+
+
+to believe that the responsibility for verifying workers should remain
+with the grower. Thus, a grower that finds workers through AgNet would
+have the same responsibility to do an I-9 check as he/she has with workers
+recruited by other means.  If the grower wants additional assurances that
+his/her workforce is legal, the grower can participate in the INS's em
+ployment verification pilot program.
+
+Growers don't want to participate in the employment verification pilot
+program b/c if they know their workforce is illegal, they are liable for
+sanctions (there is an intent standard for liability in IRCA).  If they
+find out their workforce is illegal and don't want to be sanctioned, they
+have to use the H2A program, which they characterize as too difficult
+(either b/c it is burdensome or b/c it is costly) .
+
+Thus, the real issue with verification comes back to cost.
+
+
+==================== ATTACHMENT 1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D92]MAIL46373718C.226 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504393100000010A02010000000205000000554200000002000004A23C6C443A6A44EBA10B
+63C3B960399BD63D4A913CFDOCF83EB359DA33ED085997424B652BD56959D6A369B765DC0078D4
+306824CB02BAB3C570BE60F462FAB3BD4B64D690CB5B8050ED95AAEECB679B7956ACFAOFB5796C
+4AA4FOBCEBOEB7EE1F9CAE4203ABF161640E9F61B701581738626428AF8FDOC42AB68B11799C8C
+B9EE1312B148B2A2F6284D997BE1C7D36ACEAA04165C2B7B1DC50E6E63D1DF342093FC9F7345E8
+97489BAOB1505C246768840AF163BAD5CB6D5222D704723C7D1CBOF38E54240BB23CF51AD06991
+C7913DE5BCE65DA5EA4972C5F249DF12C9AA57440FB3AA29B620E72F7F44B2FBFCA74A9C7B534E
+7F5B9AEAE910FC5069DOFCEB97DBD14F0745B59FCBF601D30C99A326CFD7610D476F60F9B57972
+F7EE99D210C6922C90A5F924AF2DC2304BF973669EBD950A3A95E20326EEFF9CE65CBOE2146A2B
+DC4796DB31DB4CA51"05901CBBBEOF38F6COD697CFBE46F2C58C3EBEE99005AF60536CF2AOE5564
+CFE57D06062B339924039A541F67ACOA35AFE979509C78A7623C94C63D43537D45FCB50E1CB911
+7E7A3E11E4DCD9D406915E72120B3593C2CE5A4262C41BEB02A81939ED29BC5D3C36E3122413DF
+9B4EDD4A8FA638E312E78B5AB3674B341D4BBCOC94B7CB5BB50AFD22D36021472309A313B40598
+9D6960912C02004BOOOOOOOOOOOOOOOOOOOOOOOB23010000000B0100001A06000000550BOOOOOO
+4E0000002507000009250100000006000000730700000B300400000028000000790700000B7701
+00000040000000A10700000B340100000014000000E10700000802010000000FOOOOOOF5070000
+020801000000D3000000040BOOOOOB30040000006COOOOOOD70800000B30030000004400000043
+090000020B01000000D3000000870900000B05010000000BOOOOOO5AOA0000020800000100D300
+0000620AOOOOOB1102000000C6000000350BOOOOOB1101000000C6000000FBOBOOOOOB11010000
+00C6000000CI0COOOOOB1101000000C6000000870DOOOOOB1101000000C60000004DOEOOOOOOOO
+00000000000000004DOE0000000000000000000000004DOEOOOOOO0000000000000000004DOEOO
+00000000000000000000004DOE0000000000000000000000004DOE000000000000000000000000
+4DOE0000000000000000000000004DOEOOOOOOOOOOOOOOOOOOOOOO004DOEOOOOOOOOOOOOOOOOOO
+0000004DOE0000000000000000000000004DOEOOOOOOOOOOOOOOOO000000004DOEOOOOOOOOOOOO
+0000000000004DOE0000000000000000000000004DOEOOOOOOOOOO000000000000004DOEOOOOOO
+0000000000000000004DOE0000000000000000000000004DOEOOOO000000000000000000004DOE
+0000000000000000000000004DOE0000000000000000000000004DOEOOOOOB3002000000440000
+00130F000000000000000000000000130FOOOOOOOOOOOOOOOOOOOO0000130FOOOOOOOOOOOOOOOO
+00000000130F00000942010000001D000000570FOOOOOOOOOOOOOO0000000000570FOOOOOOOOOO
+00000000000000570F000000000000000000000000570FOOOOOOOO0000000000000000570FOOOO
+00000000000000000000570F000000000000000000000000570FOO000000000000000000000057
+OF000000000000000000000000570FOOOOOOOOOOOOOOOOOOOOOOOO570FOOOOOOOOOOOOOOOOOOOO
+0000570F000000000000000000000000570FOOOOOOOOOOOOOOOOOO000000570FOOOOOOOOOOOOOO
+0000000000570F000000000000000000000000570FOOOOOOOOOOOO000000000000570FOOOOOOOO
+0000000000000000570F000000000000000000000000570FOOOOOO000000000000000000570FOO
+0000000000000000000000570F000000000000000000000000570F00000944020000002BOOOOOO
+                                                                                            10/6/98
+
+
+                               RECRUITMENT PROPOSAL
+             "AMERICA'S AGRICULTURAL LABOR NETWORK (AGNET)"
+
+
+Problem -- Federal government recruitment assistance.
+
+Growers are required under the H-2A program to conduct positive recruitment efforts prior to
+applying for foreign workers. One aspect of this requirement is to post the job opportunity with
+the local Employment Service office.
+
+Unfortunately, less than 2% of agricultural job placements are through the local Employment
+Service office. Between June 1995 and July 1996, about 190,000 migrant and seasonal farm
+workers sought employment through the U.S. Employment Service State offices and only about
+65,000 were actually placed in agricultural jobs. This method of placement has become
+increasingly ineffective for this industry which has become more reliant on using private sector
+intermediary labor brokers -- farm labor contractors. The Federal government should re-target
+its resources to more effectively aid growers and workers in finding labor and employment.
+
+Proposal-- America's Agricultural Labor Network (AgNet).
+
+The majority of farm workers find employment through a kinship/friendship network. One
+problem with this method is that it spawns and reinforces illegal migration to the U.S.; another is
+that it is highly inefficient in a geographically diffuse labor market. Workers spend time trying
+to locate employment when they could be earning money. The Federal government could serve
+as an information broker by developing a system that allows growers to find workers and workers
+to find employment opportunities that meet their needs (e.g., location, duration, type of crop,
+etc.). This would benefit growers and workers by having an efficient alternative mechanism to
+match workers with employment opportunities.
+
+Model -- America's Job Bank.
+
+America's Job Bank (AJB) is a partnership between the U.S. Department of Labor and the
+state-operated public Employment Service. AJB links these state offices electronically through
+an Internet web site. There is no charge to employers or job seekers to use this service.
+
+·      For job seekers, AJB provides a nationwide listing of job opportunities and allows them
+       to file a resume that enables employers to find them.
+
+·     For employers, AJB provides a quick way to list job openings, national exposure, and an
+      easily accessible applicant pool.
+Approximately 900,000 jobs are listed in AlB on an average day. 1 It takes about 72 hours to
+
+                                                1
+                                                                Automated Records Management System
+                                                                Hex-Dump Conversion
+ coming year as the software is updated.
+
+ America's Agricultural Labor Network (AgNet).
+
+ What is AgNet? America's Agricultural Labor Network (AgNet) would be an infonnation
+ system devoted to the agriculture industry which would contain job opportunities and worker
+ resumes. AgNet would be based on AJB, but would be a separate web site. The two sites
+ would be linked so basic infonnation in AgNet is automatically placed in AIR
+
+ The State Employment Service would serve a similar function, as in AJB, to scan listings for
+ obvious problems prior to posting on the Internet. This provides some basic quality control.
+ However, this is not a process for verifying an applicant's immigration status.
+
+  What information will be available in AgNet? The job listing would provide the conditions of
+  employment including location, crop, duration of employment, wages, skills requested, and
+. whether housing and/or transportation is provided. In addition, it would include information on
+  how to contact the employer and the required worker disclosures. The worker resumes would
+  include, among other things, qualifications, desired location and crop, and infonnation on how to
+  be contacted. The contact and hiring arrangement is between the grower, or FLC, and the
+  worker, not the government. Examples from AIB are attached. The specific infonnation
+  included in the system would be modified to reflect the agriculture industry.
+
+ The system must meet the challenges of helping workers gain access to it and connecting
+ English-speaking growers with many Spanish-speaking workers. The system will initially be in
+ English but to address this concern will eventually be designed in Spanish as well.
+
+ Who can use it? This system would be accessible to the public generally including growers,
+ workers, farm labor contractors, community based organizations2 (CBOs), and unions.
+ Browsing the system is anonymous. CBOs could serve as a point of contact for workers or
+ growers. The system could be designed to have "counselorlbroker accounts" to allow an
+ organization to search for jobs for multiple workers or list jobs for multiple growers. Such a
+ design change would likely not be available until later in 1999.
+
+ How will workers and growers gain access to the system? Given this is a low-wage industry,
+ gaining access to AgNet will be a challenge. Some places that may be able to provide access
+ include local libraries, CBOs, unions, State Employment Service offices, and U.S. Department of
+
+        1 Very few of these listings are for agricultural jobs, with only 479 such listings
+ nationwide on October 5, 1998.
+
+         2 Community based organizations include churches, farm labor organizations, and
+ agricultural grower organizations.
+
+
+                                                  2
+                                                               Automated Records Management System
+                                                               Hex-Dump Conversion
+
+What are the benefits of AgNet? AgNet would be a free service provided to workers and
+growers. Ideally, workers would be able to plan their entire employment cycle using this
+system. For example, the worker could line-up jobs from Florida up to New York. This would
+provide more control and stability for the worker.
+
+Growers would benefit by gaining access to a two-sided recruitment system. Now, growers file
+requests for workers with the Employment Service and wait for referrals -- a one-sided system.
+Under this system, growers would be able to search for, identify, and contact qualified, available
+workers in addition to listing their job openings. Also, the grower would gain exposure to a
+national audience of workers. With electronic posting, the grower would have complete control
+ofhislher job po stings and would be expected to suspend them once hislher jobs had been filled.
+
+Who will own AgNet? AgNet will be owned and operated by a partnership. The partnership
+will consist of farm worker and grower organizations, supported by the U.S. Department of
+Labor and U.S. Department of Agriculture. The partnership will determine the final design of
+the system. Due to the time it would take to establish a partnership, initial implementation of
+the system will be through the current AJB partnership between the State Employment Service
+and the U.S. Department of Labor.
+
+How will growers and workers learn about the system? The critical link to the success of this
+system is buy-in by the farm worker and grower organizations. Given most workers find jobs
+through word of mouth, the partnership will have to conduct extensive outreach. In addition to
+fliers and newspaper ads, public service announcements on Spanish radio could serve as a good
+median. The Federal government could also conduct outreach efforts through its programs
+including the U.S. Department of Agriculture extension offices.
+
+How long will it take to set up AgNet? The system could be activated in approximately one
+month after initial design modifications are made. It will take additional time to implement
+further design changes, requested by the partnership, that reflect this industry's needs. The goal
+would be to have xx,OOO job opportunities in AgNet by the end of January, 1999.
+
+Who will pay for AgNet? The Federal government will provide this service through a grant to
+the partnership. Initial funding will be provided to the State Employment Service until the
+partnership is formed. Given the software for the labor network has already been developed, it
+will cost a minimal amount of money to activate this system. Additional customizing of the
+system (e.g., Spanish language version or adding the "counselorlbroker" features) will cost a
+relatively small amount of money. There will be a separate cost for training and outreach to the
+various CBOs and unions.
+
+Preliminary estimates:
+
+
+                                                             Automated Records Management System
+                                                3            Hex-Dump Conversion
+
+
+
+         Year 1:       $       25,000 (annual system costs)
+                       $      150,000 (design changes)
+                       $            ??? (training and outreach)   *
+         Year 2:       $       25,000 (annual system costs)
+
+                       $      100,000 (additional design changes)
+                       $            ??? (training and outreach) *
+
+         Year 3:       $       25,000 (annual system costs)
+    and out-years      $            ??? (national outreach)
+
+*    This funding level would provide:
+
+         --grants to CBOs and unions for equipment and advertising;
+         --funds for computer related training of CBOs and unions; and,
+         --national outreach to workers and growers.
+
+
+
+
+                                                                  Automated Records Management System
+                                                                  Hex-Dump Conversion
+
+

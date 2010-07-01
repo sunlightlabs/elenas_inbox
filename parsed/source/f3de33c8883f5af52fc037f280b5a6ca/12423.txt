@@ -1,0 +1,95 @@
+RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+CREATOR: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP [ OPD 1 )
+
+CREATION DATE/TIME:29-APR-1999 11:55:04.00
+
+SUBJECT:   Final POTUS tobacco statement
+
+TO: Devorah R. Adler ( CN=Devorah R. Adler/OU=OPD/O=EOP @ EOP [ OPD 1
+READ:UNKNOWN
+
+TO: Christopher C. Jennings ( CN=Christopher C. Jennings!OU=OPD!O=EOP @ EOP [ OPD J
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Sarah A. Bianchi ( CN=Sarah A. Bianchi/O=OVP @ OVP [ UNKNOWN J )
+READ:UNKNOWN
+
+TO: Jeanne Lambrew ( CN=Jeanne Lambrew/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+CC: J. Eric Gould   CN=J. Eric Gould/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TEXT:
+The campaign will hand it out at their 2:00 press conference and we'll
+simultaneously release it here.
+
+ THE WHITE HOUSE
+
+Office of the Press Secretary
+
+
+For Immediate Release
+April 29, 1999
+
+
+STATEMENT BY THE PRESIDENT
+
+I am disappointed that so few states are devoting tobacco settlement funds
+to reducing youth smoking, as shown by the new report from the Campaign
+for Tobacco Free Kids and the American Heart Association.  This new report
+underscores why I strongly oppose any legislation waiving the federal
+governmentD,s claim to tobacco settlement funds without a commitment from
+the states to fund youth tobacco prevention efforts.   In the absence of
+such a commitment, states wonD,t have to spend a single penny of the $246
+billion tobacco settlement to reduce youth smoking. We must act now:
+every day, 3,000 children become regular smokers and 1,000 will have their
+lives cut short as result.
+
+###==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+
+
+    TEXT:
+    Unable to convert ARMS_EXT: [ATTACH.D70)ARMS25283743I.136 to ASCII,
+     The following is a HEX DUMP:
+
+    FF57504388040000010A02010000000205000000080A0000000200OOA182529CCDIA690DOC8036
+    4F0604BB6CD8781128A3374582C5D5ADB611FE85136415F2C574DF2800250D14DF6EB9853CADOE
+    CF7513F2BA18DA63EA303393CF20B1289DEDD290CABD99B9B7144C826E45EEBIE24FEFEID3BC2E
+    6579D6730687DC5842DDE671CFB9A8BD7CD4381D7BC350AE24B9BOIlFD908C4FC0402FF42E6F88
+    3F87B15457146159B8BOBEDAA57CE13FBEB7E82DB46FF563063DC4B9D72DEEBB209FC08COIECD4
+    71063AB4A70553FD168DBOAIFEE52C55B6E41A70C5C20817DOD90126C76DAAD60E31294436C938
+                                                                       Hex·Dump Conversion
+                                  THE WHITE HOUSE
+
+                               Office of the Press Secretary
+
+
+For Immediate Release                                            April 29, 1999
+
+
+                          STATEMENT BY THE PRESIDENT
+
+       I am disappointed that so few states are devoting tobacco settlement funds to
+reducing youth smoking, as shown by the new report from the Campaign for Tobacco Free
+Kids and the American Heart Association. This new report underscores why I strongly
+oppose any legislation waiving the federal government's claim to tobacco settlement funds
+without a commitment from the states to fund youth tobacco prevention efforts. In the
+absence of such a commitment, states won't have to spend a single penny of the $246 billion
+tobacco settlement to reduce youth smoking. We must act now: every day, 3,000 children
+become regu~ar smokers and 1,000 will have their lives cut short as result.
+
+                                               ###
+,,'

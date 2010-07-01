@@ -1,0 +1,154 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Mary L. Smith ( CN=Mary L. Smith/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME: 5-AUG-1997 11:59:34.00
+
+SUBJECT:   homeowner's insurance for family child care providers
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+CC: Thomas L. Freedman ( CN=Thomas L. Freedman/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+CC: Jennifer L. Klein ( CN=Jennifer L. Klein/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+CC: Nicole R. Rabner ( CN=Nicole R. Rabner/OU=WHO/O=EOP @ EOP [ WHO]   )
+READ: UNKNOWN
+
+CC: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TEXT:
+This is the issue you asked about regarding the recent crisis in Florida
+where .insurance providers were threatening to cancel homeowner's insurance
+for those persons who provide child care in their homes.   It seems that
+this problem has arisen in other states as well with several states
+passing legislation to deal with this problem.   Let me know if you need
+anything else. Mary==================== ATTACHMENT     1 ====================
+ATT CREATION TIME/DATE:    0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D47]MAIL477664614.216 to ASCII,
+ The following is a HEX DUMP:
+
+FF5750436B060000010A02010000000205000000DB1B000000020000E18719F683355EE8FE3F3A
+8E301A4D9B56C5FBE38D470A6CEDFBA8CAD54ADA2CD269D9AF7ABBOBFC83C9EF9565072A237F9A
+3853EF1F3DC18AD936FE2204CD847B715D42BD286AD5DF1FA5C91563C438A98CBB8871EB7F807D
+1469ADE8995D48315D84D9229D4CF054C8C3C5514AAOE56328918441547CDEE7DDFF1415D51BB2
+30E24DC2512289AB07CF55F4BA42F41C2BB2665D4CF91AFD2A3A8B4AD675C53CEF7C20A3ACOA90
+OD613BBE6190BCC9A4A7763AAB1BA7AOBFA54C5C495EFFB06CFC01C6B1026DE1728E813C1CD5D2
+EC3C4C3CDE52E449893EOCA2BB61BD8C4E708COF38E8B050BEF290573C193411B2FOCE80000A99
+36413F9C40EAB9D790E6DCA148F4AA9357BB73D935636D12145AE3BDl3B5735474A8967793596A
+1EC34815ACC2A4D9EDCEBE7A1E4508BA4DF9C6572B41F592E86A02F46E0074D1BC3065DBDC2CB4
+185D1882B9DBDB6B31B904EC3B30E62AF1BC8B4D25DDCDF6AC476BCA77D7B7EBC53204EAF850C2
+B67B098BE8605FCF96D22696FE2EBDBFD91843459BOBBDC8A58058C4426835402460976DC3E6B3
+C3A1A1DOF9EC95038084ED5003883174699D2694838828A9628747FEBA242843528BC594F95550
+680F2E5FC8E595BBC99D9110E2F48B8B56A3DFF83EEADE419COBBD82549E470074ED8F14EAE815
+5948C45FE402002B00000000000000000000000823010000000B0100005A040000005501000000
+4E0000006505000009250100000006000000B30500000B300200000028000000B9050000087701
+00000040000000E105000008340100000014000000210600000802010000000F00000035060000
+004501000000020000004406000008050100000008000000460600000000000000000000000046
+060000000000000000000000004606000000000000000000000000460600000000000000000000
+000046060000000000000000000000004606000000000000000000000000460600000000000000
+000000000046060000000000000000000000004606000000000000000000000000460600000000
+000000000000000046060000000000000000000000004606000000000000000000000000460600
+000000000000000000000046060000000000000000000000004606000000000000000000000000
+460600000000000000000000000046060000000000000000000000004606000000000000000000
+000000460600000000000000000000000046060000000000000000000000004606000000000000
+                                                                                  Hex-Dump Conversion
+                                    MEMORANDUM
+
+TO:           BRUCE REED, ELENA KAGAN
+
+FROM:         TOM FREEDMAN, MARY L. SMITH
+
+RE:           INSURANCE FOR HOME CHILD CARE PROVIDERS
+
+DATE:         JUL Y 29, 1997
+
+SUMMARY
+
+       Recently, there was a problem in Florida with insurance companies canceling
+homeowner's insurance policies for persons who provided child care in their homes. This
+problem reached crisis levels in Florida because the state's insurance company, known as the
+Joint Underwriting Association, which is a last-chance insurer for many persons, was planning
+on denying coverage to people providing day care in their homes. Apparently, this is a
+widespread problem that often does not rise to the surface for several reasons, including the
+following:
+
+        (1)  Many insurers simply don't know that their policyholders provide child care in
+their homes;
+        (2)  Insurance coverage only affects those who provide child care to a certain
+minimum number of children, usually above 3 to 5 children; and
+        (3)  Many child care providers are able to locate insurance from a few insurers.
+
+HOW THIS AFFECTS OTHER AREAS
+
+·      Welfare. Home child care facilities are often the main solution for welfare moms who
+       are about to enter the workforce under the new welfare law. For instance, Larry
+       Pintacuda, chief of child-care services for the Florida Department of Children and
+       Families, believes that the insurance companies' restrictions on the number of children
+       would seriously jeopardize Florida's welfare-reform efforts to solve a shortage of infant,
+      .evening and weekend care. Pintacuda believes that thousands of poor children will be
+       without affordable day care if the state can't expand the number of neighborhood-based
+       child care homes.
+
+·      Mortgages. Even if home child care providers obtain separate business liability
+       insurance, their homeowner's insurance still might be canceled. Many mortgage
+       companies require homeowner's policies.
+
+
+
+
+                                                1
+                                                             Hex-Dump Conversion
+SOME STATES THAT HAVE TAKEN ACTIONS
+
+·   California. California passed legislation that an insurance company can't cancel a
+    person's homeowner's insurance simply because that person provides home child care
+    servIces.
+
+·   Florida. A few weeks ago, a crisis developed because the state's insurance company,
+    the Joint Underwriting Association, was threatening to deny homeowner's coverage to
+    those persons providing child care services in their homes to more than three children.
+    Solution: Florida is in the process of negotiating that policies would be issued only to
+    registered and licensed family child-care homes. There are about 7,600 licensed and
+    registered family child-care homes in Florida, but state law does not require them to carry
+    liability insurance.
+
+·   Minnesota. Minnesota passed legislation that immunizes insurance companies from
+    liability under a homeowner's policy to those persons operating child care facilities out of
+    the home. The insurance company's liability, if at all, would stem from a separate
+    business insurance rider.
+
+·   Oregon. Oregon passed legislation that prohibits insurers from canceling or refusing to
+    issue or renew homeowner's or renters' liability insurance or fire insurance solely
+    because the policy holder is a family day care provider.
+
+·   Washington. Washington passed legislation intended to remedy the problem of the
+    unavailability of liability insurance for day care providers by requiring all insurers
+    authorized to write commercial or professional liability insurance to be members of a
+    joint underwriting association created to provide liability insurance for day care
+    providers.
+
+BACKGROUND
+
+·   Business liability insurance costs approximately $300-$500.
+
+·   In many states, such as Minnesota, there are only one or two insurance companies that
+                                                                              will provide
+                                                                              the type of
+                                                                              coverage
+                                                                              needed by
+                                                                              home day care
+                                                                              facilities.
+
+
+
+
+                                             2
+
+

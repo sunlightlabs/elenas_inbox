@@ -1,0 +1,46 @@
+RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+CREATOR: Jose Cerda III ( CN=Jose Cerda III/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME:21-AUG-1998 12:49:10.00
+
+SUBJECT:   draft statement
+
+TO: Leanne A. Shimabukuro ( CN=Leanne A. Shimabukuro/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TEXT:
+EK:
+
+Sorry so late ... in meetings all morning ... jc3
+
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D72]MAIL470745235.226 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043B0040000010A02010000000205000000DCOA000000020000C40266EBF5EA78A3683D53
+137B01EC2DBDD9C3CE2BCAB35CA2BF045AA76DE15C464095944A47F663909A458322FEOAD540B3
+OA53C88FBDD8D28F83E5DD7955B122FA17F6FC40F5D01AC8689D831344C31471A60E9DA165A138
+04E6EDE47261E16E073FFC30CFC1D4A6CCA9A9EEE1F57B195BBA4DFF612A77C8C04601B9E5A30B
+
+Today's 1997 National Household Survey on Drug Abuse shows that while overall drug use has
+not increased, teen drug use remains a serious and growing problem. That is why last month, I
+launched a five-year, $2 billionYouth Anti-Drug Media Campaign -- to use the full force of the
+media to make sure that our children get the message that drugs are dangerous, wrong, and can
+kill you. But the media campaign, as well as our national drug strategy, depends on all of us --
+parents, teachers, coaches and clergy -- to take responsibility and talk to our children about the
+dangers of drugs. That is the best way we can help keep all of our nation's children drug-free.
+
+
+
+
+                                                            Automated Records Management System
+                                                            Hex-Dump Conversion
+
+

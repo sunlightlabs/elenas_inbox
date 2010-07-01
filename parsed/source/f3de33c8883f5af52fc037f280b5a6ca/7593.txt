@@ -1,0 +1,246 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Mary L. Smith ( CN=Mary L. Smith/OU=OPD/O=EOP [ OPD 1 )
+
+CREATION DATE/TIME: 12-MAY-1998 19:12:26.00
+
+SUBJECT:   Draft Privacy Executive Memorandum
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP   [ OPD 1 )
+READ: UNKNOWN
+
+CC: Thomas L. Freedman ( CN=Thomas L. Freedman/OU=OPD/O=EOP @ EOP [ OPD 1
+READ: UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TEXT:
+Below is a draft privacy executive memo that the VP plans on announcing on
+Thursday.  The memo basically directs the agencies to do what they are
+already supposed to be doing pursuant to the Privacy Act. More
+specifically, the memo (1) establishes a policy on privacy throughout the
+federal government; (2) has agencies review their use of the Privacy Act
+procedures, particularly the "routine use" exemption which allows the
+information to be disseminated; and (3)   provides for OMB to do a report
+on privacy within the federal government.
+---------------------- Forwarded by Mary L. Smith/OPD/EOP on 05/12/98
+06:31 PM ---------------------------
+
+
+
+
+Thomas L. Freedman
+05/12/98 06:15:30 PM
+Record Type:    Record
+
+To:      Mary L. Smith/OPD/EOP
+cc:
+Subject:         Draft Privacy Executive Memorandum
+
+
+---------------------- Forwarded by Thomas L. Freedman/OPD/EOP on 05/12/98
+06:17 PM --------------------~------
+
+
+
+Thomas A. Kalil
+05/12/98 02:35:05 PM
+Record Type:    Record
+
+To:      Thomas L. Freedman/OPD/EOP, Mickey Ibarra/WHO/EOP, Phillip
+Caplan/WHO/EOP, John podesta/WHO/EOP
+cc:
+Subject:         Draft privacy Executive Memorandum
+
+This still has to be circulated to the agencies -- but since we are
+trying to get this signed tomorrow - I thought people shold'take a
+
+
+look at it today.
+
+---------------------- Forwarded by Thomas A. Kalil/OPD/EOP on 05/12/98
+02:35 PM ---------------------------
+
+
+Maya A. Bernstein
+05/12/98 01:04:49 PM
+Record Type:    Record
+
+To:      Thomas A. Kalil/OPD/EOP
+cc:
+Subject:         Draft Privacy Memo
+
+Here's a copy of the draft memo which Mac will send out for clearance as
+soon as he can.
+You can share this with other folks in the EOP who need to look at it, but
+please do not transmit it elsewhere.
+
+
+
+
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D52]MAIL47052023H.126 to ASCII,
+ The following is a HEX DUMP:
+
+FF5750438A050000010A02010000000205000000AD2100000002000OF62CE0234476F38ED35214
+90566BF299032B32C859FE74C43BD73B16DDA54A57FB246258912FIFF13FFC3B5A775C73B52AF7
+0084DE26232592BFD58CDB24DCBC5C68E8E3B2D3DCC3924C61F5503E6A07D7650B3242FD14F5DF
+4A38776FA52D5DB8FE964220D954F7D405CA4DDB6FDOA829E69EB6D72AD108FB51EE71F24DD136
+814EB2CDDD3E869F9506E5494B04E10B5F687272C862664127E3AC63244E527BEAB834729A720F
+F0385480EE700AE72B6B160F8C2ED973C3D7F7BB8FACB101722573AAAE4C5AC16010B81B04FOA8
+47E9COBD843EAF05B96480BCBF9A27CEC469088CAA50BC61EBB5F12FF326EE34C82E8D7B1A19CO
+CED7B6DCFAD9BF2DOOE58A95E9B9F7851C024FFF6C03965D7C5F01073865E73C656A2911B1F99F
+OEBEABD53B8FOB8D64C2277CA161DOA25F191D38C2DBC34357A01CCC6A8F634D8683F2547B5618
+827882D3EF56E186979346778CFF9DE6EE5399F30949373D8F63864C18CA61DDE03CD4BA8711A8
+F71CDC04F5DD219FD407C34C635CAC332C6E8FF8EAA48BCA4C22B4F77755A187922C7E6240E7A5
+5F3347D8054A13A74B4DD36238F9756602910CA7FOBC7A3EFC6179F95126106004B2588D494E74
+B60C72EOC15CB97DB8FOACB87F8F1AFDC26BA2575F8B4FD7931B04BFA5451985F71F46A677EBE8
+D7C15C12960200100000000000000000000000084D0100000004000000E0020000005502000000
+3EOOOOOOE402000008020100000010000000220300000823010000000B01000032030000005501
+0000004E0000003D040000092501000000060000008B0400000B30020000002800000091040000
+084E0100000002000000B90400000055010000004EOOOOOOBB0400000805010000000800000009
+050000085E010000000C00000011050000087701000000400000001D0500000834010000001400
+00005D0500000810010000000200000071050000096D010000001700000073050000010000001B
+00F41A5C121A0900001109000000600018110000102600540069006D0065007300~0004E006500
+7700200052006F006D0061006EOOOOOOOOOOOOOOOOOOOE337C00500001020000C8000000010000
+985C005C004F004D0042002D00500053002D00320035002D00320036005C003100300032003300
+                                                        Hex-Dump Conversion
+
+MEMORANDUM FOR THE HEADS OF EXECUTIVE DEPARTMENTS AND
+AGENCIES
+
+SUBJECT:        Privacy
+
+        Privacy is a cherished American value, closely linked to our concepts of personal
+freedom and well-being. At the same time, fundamental principles like the First
+Amendment, perhaps the most important hallmark of American democracy, protect the
+free flow of information in our society.
+
+        The government's collection of appropriate information about its activities and
+about the activities of its citizens is necessary to allow it to carry out its diverse missions
+mandated by the Constitution. Long mindful of the potential for misuse of Federal
+records on individuals, the United States has adopted a comprehensive approach to
+limiting the government's collection, use. and disclosure of personal information. Among
+the protections afforded information is the Privacy Act of 1974 and the Principles for
+Providing and Using Personal Information, published in 1995.
+
+         Increased computerization of Federal records permits this data to be used and
+analyzed in new ways that could diminish individual privacy in the absence of data
+protection safeguards. As development and implementation of new information
+technologies creates new possibilities for the management of personal information, it is
+appropriate to reexamine the Federal Government's contribution to accommodating the
+interests of a democratic society in the free flow of information and personal privacy.
+
+       Accordingly, I hereby direct executive agency heads, as follows:
+
+Section 1.   Policy.
+
+       It shall be the policy of the executive branch that agencies shall:
+
+                (a) ensure that new information technologies enhance, and do not erode,
+                the protections of the Privacy Act of 1974, the Computer Matching and
+                Privacy Protection Act of 1988, the Paperwork Reduction Act, and all
+                other statutes relating to agency use, collection and disclosure of personal
+                information;
+
+                          (1) As used in this order, "agency" and "agencies" shall be defined
+                          in accordance with the definition set forth in 5 U.s.c. 552(f);
+
+                (b) assure that personal information contained in Privacy Act systems of
+                records be handled in full compliance with fair information practices as set
+                                                          Hex-Dump Conversion
+
+              out in Section (e) of the Privacy Act ofl974;
+
+              (c) assure that all personally identifiable information not covered by the
+              Privacy Act be handled in a manner consistent with the Principles for
+              Providing and Using Personal Information (Privacy Principles) to the
+              extent permitted by law;
+
+              (d) evaluate new legislation and legislative proposals involving collection,
+              use and disclosure of personal information by the Federal government for
+              consistency with the Privacy Act ofl974.
+
+              (e) evaluate new legislation and legislative proposals involving the
+              collection, use and disclosure of personal information by any entity, public
+              or private, for consistency with the Privacy Principles.
+
+
+Section 2. Responsibilities of Agency Heads.
+
+       All agency heads shall:
+
+       (a) within 30 days, designate a senior official within the agency to assume primary
+       responsibility for privacy policy;
+
+       (b) within one year of the date of this directive, conduct a thorough review of its
+       Privacy Act systems of records in accordance with instructions to be issued.
+       Agencies shall, in particular:
+
+              (1) review systems of records notices for accuracy and completeness,
+              paying special attention to changes in technology, function, and
+              organization that may have made the notices out-of-date, including its
+              routine use disclosures under 5 U.S.C. 552a(b)(3) to ensure they continue
+              to be necessary and compatible with the purpose for which the information
+              was collected;
+
+              (2) identify any systems of records that may not have been described in a
+              published notice, paying special attention to Internet and other electronic
+              communications activities that may involve the collection, use or
+              disclosure of personal information;
+
+       (c) where appropriate, promptly publish notice in the Federal Register to add or
+       amend any systems of records, in accordance with the procedures in OMB
+       Circular A-l30, Appendix I;
+
+       (d) conduct a review of agency practices regarding collection or disclosure of
+                                         Automated Records Management System
+                                                 Hex-Dump Conversion
+
+           personal information between the agency and State, local, and tribal governments
+           in accordance with instructions to be issued by OMB;
+
+           (e) within one year of the date ofthis directive report to the Office of Management
+           and Budget on the results of the foregoing reviews in accordance with instructions
+           to be issued by OMB.
+
+
+    Section 3. Responsibilities of the Office of Management and Budget.
+
+           The Director of the Office of Management and Budget shall:
+
+           (a) within <x days>, issue instructions to heads of agencies on conducting and
+           reporting on the reviews required by Section 2;
+
+           (b) after considering the agency reports required by Section 2 of this directive,
+           issue a summary of the results of the agency reports;
+
+           (c) issue guidance on agency disclosure of personal information via the routine
+           use exception to the Privacy Act (5 U.S.C. 552a(b)(3)), including sharing of data
+           by agencies with State, local and tribal governments.
+
+
+    Section 4.   Judicial Review.
+
+           This Executive order is intended only to improve the internal management of the
+           executive branch and does not create any right or benefit, substantive or
+           procedural, enforceable at law or equity by a party against the United States, its
+           agencies, or instrumentalities, its officer or employees, or any other person.
+
+
+    William J. Clinton
+
+
+
+
+    THE WHITE HOUSE
+    May 14,1998
+
+

@@ -1,0 +1,381 @@
+RECORD TYPE: PRESIDENTIAL      (NOTES MAIL)
+
+CREATOR: Melissa G. Green ( CN=Melissa G. Green/OU=OPD/O=EOP [ OPD I          )
+
+CREATION DATE/TIME: 6-MAY-1999 18:11:20.00
+
+SUBJECT:   ignore that email
+
+TO: JOrszag@doc.gov    JOrszag@doc.gov @ inet [ UNKNOWN I )
+READ: UNKNOWN
+
+TO: Brian A. Barreto ( CN=Brian A. Barreto/OU=OPD/O=EOP@EOP [ OPD I       )
+READ: UNKNOWN
+
+TO: Barry J. Toiv ( CN=Barry J. Toiv/OU=WHO/O=EOP@EOP [ WHO I )
+READ: UNKNOWN
+
+TO: Barbara Chow ( CN=Barbara Chow/OU=OMB/O=EOP@EOP [ OMB I )
+READ:UNKNOWN
+
+TO: John A. Gribben ( CN=John A. Gribben/OU=WHO/O=EOP@EOP [ WHO I     )
+READ: UNKNOWN
+
+TO: Stacie Spector ( CN=Stacie Spector/OU=WHO/O=EOP@EOP [ WHO I )
+READ: UNKNOWN
+
+TO: Mark D. Neschis   ( CN=Mark D. Neschis/OU=WHO/O=EOP@EOP [ WHO I   )
+READ: UNKNOWN
+
+TO: Noa A. Meyer ( CN=Noa A. Meyer/OU=WHO/O=EOP@EOP [ WHO I )
+READ:UNKNOWN
+
+TO: Marsha E. Berry ( CN=Marsha E. Berry/OU=WHO/O=EOP@EOP [ WHO I     )
+READ: UNKNOWN
+
+TO: Andrei H. Cherny ( CN=Andrei H. Cherny/O=OVP@OVP [ UNKNOWN I )
+READ: UNKNOWN
+
+TO: Neera Tanden ( CN=Neera Tanden/OU=WHO/O=EOP@EOP [ WHO I )
+READ: UNKNOWN
+
+TO: Michael V. Terrell ( CN=Michael V. Terrell/OU=CEQ/O=EOP@EOP [ CEQ I           )
+READ:UNKNOWN
+
+TO: Robin J. Bachman ( CN=Robin J. Bachman/OU=WHO/O=EOP@EOP [ WHO I )
+READ: UNKNOWN
+
+TO: Leanne A. Shimabukuro ( CN=Leanne A. Shimabukuro/OU=OPD/O=EOP@EOP [ OPD I            )
+READ:UNKNOWN
+
+TO: Elizabeth R. Newman ( CN=Elizabeth R. Newman/OU=WHO/O=EOP@EOP [ WHO I )
+READ:UNKNOWN
+
+TO: Mickey Ibarra ( CN=Mickey Ibarra/OU=WHO/O=EOP@EOP [ WHO I )
+READ:UNKNOWN
+
+TO: Christopher S. Forbes   ( CN=Christopher S. Forbes/OU=ONDCP/O=EOP@EOP [ ONDCP I           )
+READ: UNKNOWN
+
+TO: Gayle E. smith ( CN=Gayle E. Smith/OU=NSC/O=EOP@EOP [ NSC I   )
+
+
+READ:UNKNOWN
+
+TO: Lynn G. Cutler
+READ: UNKNOWN
+
+TO: William H. White Jr.    ( cN=william H. White Jr./OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Barbara D. Woolley ( CN=Barbara D. Woolley/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Charles R. Marr ( CN=Charles R. Marr/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Sara M. Latham ( CN=Sara M. Latham/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Lisa M. Kountoupes    ( CN=Lisa M. Kountoupes/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Michael Waldman ( CN=Michael Waldman/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Jordan Tamagni    ( CN=Jordan Tamagni/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Ronald L. Silberman ( CN=Ronald L. Silberman/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ:UNKNOWN
+
+TO: Laura D. Schwartz ( CN=Laura D. Schwartz/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Helen P. Robinson ( CN=Helen P. Robinson/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Ashley L. Raines ( CN=Ashley L. Raines/OU=OA/O=EOP@EOP [ OA 1 )
+READ: UNKNOWN
+
+TO: Kelley L. O'Dell (   CN~Kelley   L. O'Dell/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Alison Muscatine ( CN=Alison Muscatine/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Linda L. Moore ( CN=Linda L. Moore/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Anne E. McGuire ( CN=Anne E. McGuire/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Cathy R. Mays    ( CN=Cathy R. Mays/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Douglas R. Matties   ( CN=Douglas R. Matties/OU=OA/O=EOP@EOP [ OA 1 )
+READ:UNKNOWN
+
+TO: Bruce R. Lindsey ( CN=Bruce R. Lindsey/OU=WHO/O=EOP@EOP [ WHO 1 )
+
+
+READ: UNKNOWN
+
+TO: Ann F. Lewis ( CN=Ann F. Lewis/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Robert D. Kyle ( CN=Robert D. Kyle/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ:UNKNOWN
+
+TO: Charles Konigsberg ( CN=Charles Konigsberg/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Thomas A. Kalil    ( CN=Thomas A. Kalil/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Christopher C. Jennings ( CN=Christopher C. Jennings/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Nancy V. Hernreich ( CN=Nancy V. Hernreich/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Goldberg_Jason@gsb.Stanford.EDU@INET@LNGTWY     Goldberg_Jason@gsb.Stanford.EDU@IN
+READ:UNKNOWN
+
+TO: Brenda D. Emanuel ( CN=Brenda D. Emanuel/OU=OA/O=EOP@EOP [ OA 1 )
+READ:UNKNOWN
+
+TO: Karen S. Dooley ( CN=Karen S. Dooley/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ:UNKNOWN
+
+TO: MCrisci@arnellgroup.com ( MCrisci@arnellgroup.com @ inet [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Cheryl M. Carter ( CN=Cheryl M. Carter/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Phillip Caplan ( CN=Phillip Caplan/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Kris M Balderston ( CN=Kris M Balderston/OU=WHO/O=EOP@EOP [ WHO      1 )
+READ: UNKNOWN
+
+TO: Brenda M. Anders    ( CN=Brenda M. Anders/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Richard M. Samans ( CN=Richard M. Samans/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Elaine M. Mitsler ( CN=Elaine M. Mitsler/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Lori Hendricks    ( CN=Lori Hendricks/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Ronald Minsk ( CN=Ronald Minsk/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Jeff B. Liebman ( CN=Jeff B. Liebman/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Natasha F. Bilimoria ( CN=Natasha F. Bilimoria/OU=OPD/O=EOP@EOP [ OPD 1 )
+
+
+READ: UNKNOWN
+
+TO: William G. Dauster ( CN=william G. Dauster/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Peter A. Weissman ( CN=Peter A. Weissman/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Malcolm R. Lee ( CN=Malcolm R. Lee/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Richard L. Siewert ( CN=Richard L. Siewert/OU=wHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Sonyia Matthews ( CN=Sonyia Matthews/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Sarah Rosen Wartell "( CN=Sarah Rosen Wartell/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Ruby Shamir ( CN=Ruby Shamir/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Karen Tramontano ( CN=Karen Tramontano/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Sidney Blumenthal ( CN=Sidney Blumenthal/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Joshua Gotbaum ( CN=Joshua Gotbaum/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: William A. Halter ( cN=william A. Halter/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Laura A. Graham ( CN=Laura A. Graham/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Julie Basile ( CN=Julie Basile/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ:UNKNOWN
+
+TO: Robert S. Weiner ( CN=Robert S. Weiner/OU=ONDCP/O=EOP@EOP [ ONDCP 1 )
+READ: UNKNOWN
+
+TO: Dennis L. Stout ( CN=Dennis L. Stout/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ:UNKNOWN
+
+TO: David J. Sherman ( CN=David J. Sherman/OU=NSC/O=EOP@EOP [ NSC 1 )
+READ:UNKNOWN
+
+TO: Doris Parker ( CN=Doris Parker/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Virginia N. Rustique ( CN=Virginia N. Rustique/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Virginia M. Terzano ( CN=Virginia M. Terzano/O=OVP@OVP [ UNKNOWN 1 )
+
+
+READ:UNKNOWN
+
+TO: Mary K. Shilton ( CN=Mary K. Shilton/OU=ONDCP/O=EOP@EOP [ ONDCP 1 )
+READ:UNKNOWN
+
+TO: Minyon Moore ( CN=Minyon Moore/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Lisa J. Levin ( CN=Lisa J. Levin/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Aviva Steinberg ( CN=Aviva Steinberg/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Robert B. Johnson ( CN=Robert B. Johnson/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Beverly J. Barnes ( CN=Beverly J. Barnes/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Thomas D. Janenda ( CN=Thomas D. Janenda/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Brian D. Smith ( CN=Brian D. Smith/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Paul J. Weinstein Jr.   ( CN=Paul J. Weinstein Jr./OU=OPD/O=EOP@EOP [ OPD 1 )
+READ:u:NKNOWN
+
+TO: Douglas B. Sosnik ( CN=Douglas B. Sosnik/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Dorothy Robyn ( CN=Dorothy Robyn/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: John Podesta ( CN=John Podesta/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Bob J. Nash ( CN=Bob J. Nash/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Janet Murguia ( CN=Janet Murguia/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Joseph J. Minarik ( CN=Joseph J. Minarik/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Sylvia M. Mathews   ( CN=Sylvia M. Mathews/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ:UNKNOWN
+
+TO: Julie E. Mason ( CN=Julie E. Mason/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Jacob J. Lew ( CN=Jacob J. Lew/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Jeanne Lambrew ( CN=Jeanne Lambrew/OU=OPD/O=EOP@EOP [ OPD 1 )
+
+
+READ: UNKNOWN
+
+TO: Karin Kullman ( CN=Karin Kullman/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Jonathan A. Kaplan ( CN=Jonathan A. Kaplan/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Eli P. Joseph      CN=Eli P. Joseph/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Daniel D. Heath ( CN=Daniel D. Heath/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Thomas L. Freedman ( CN=Thomas L. Freedman/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Michael Deich ( CN=Michael Deich/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Betty W. Currie ( CN=Betty W. Currie/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Brenda B. Costello ( CN=Brenda B. Costello/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Robert L. Civiak ( CN=Robert L. Civiak/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ:UNKNOWN
+
+TO: Ian Bowles ( CN=Ian Bowles/OU=CEQ/O=EOP@EOP [ CEQ 1 )
+READ: UNKNOWN
+
+TO: Richard B. Bavier ( CN=Richard B. Bavier/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ:UNKNOWN
+
+TO: Robert F. Wescott ( CN=Robert F. Wescott/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Lael Brainard ( CN=Lael Brainard/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: D Holly Hammonds    ( CN=D Holly Hammonds/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Bruce McNamer ( CN=Bruce McNamer/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Carl Haacke ( CN=Carl Haacke/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Shannon Mason ( CN=Shannon Mason/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Sharon H. Yuan ( CN=Sharon H. Yuan/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Sally Katzen ( CN=Sally Katzen/OU=OPD/O=EOP@EOP [ OPD    1 )
+
+
+READ: UNKNOWN
+
+TO: Gay L. Joshlyn    CN=Gay L. Joshlyn/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+TEXT:
+that was premature.   expect another one soon
+
+

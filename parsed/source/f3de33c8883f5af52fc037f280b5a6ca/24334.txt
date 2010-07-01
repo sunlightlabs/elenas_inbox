@@ -1,0 +1,428 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+ CREATOR: Sarah Rosen ( CN=Sarah RosenjOU=OPDjO=EOP [ OPD 1 )
+
+ CREATION DATEjTIME:17-JUN-1998 12:16:34.00
+
+SUBJECT:   Bankrupty Memo for Review by Principals
+
+ TO: Sean P. Maloney ( CN=Sean P, MaloneyjOU=WHOjO=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Rahm I. Emanuel ( CN=Rahm I. EmanueljOU=WHOjO=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: John Podesta ( CN=John PodestajOU=WHOjO=EOP @ EOP [ WHO 1
+ READ: UNKNOWN
+
+ TO: Diana Fortuna ( CN=Diana FortunajOU=OPDjO=EOP @ EOP [ OPD 1 )
+ READ: UNKNOWN
+
+ TO: Laura Emmett ( CN=Laura EmmettjOU=WHOjO=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Roger S. Ballentine ( CN=Roger S. BallentinejOU=WHOjO=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Christopher D. Carroll ( CN=Christopher D. CarrolljOU=CEAjO=EOP @ EOP [ CEA 1 )
+ READ: UNKNOWN
+
+ TO: Janet L. Yellen ( CN=Janet L. YellenjOU=CEAjO=EOP @ EOP [ CEA 1 )
+ READ: UNKNOWN
+
+ TO: Edward A. Brigham ( CN=Edward A. BrighamjOU=OMBjO=EOP @ EOP [OMB 1 )
+ READ: UNKNOWN
+
+ TO: Joseph J. Minarik ( CN=Joseph J. MinarikjOU=OMBjO=EOP @ EOP [ OMB 1 )
+ READ: UNKNOWN
+
+ TO: Maria Echaveste ( CN=Maria EchavestejOU=WHOjO=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Sylvia M. Mathews ( CN=Sylvia M. MathewsjOU=WHOjO=EOP @ EOP [ WHO J )
+ READ: UNKNOWN
+
+ TO: Michelle Crisci ( CN=Michelle CriscijOU=WHOjO=EOP @ EOP [ WHO J )
+ READ: UNKNOWN
+
+ TO: Dawn L. Smalls ( CN=Dawn L. SmallsjOU=WHOjO=EOP @ EOP [ WHO J )
+ READ: UNKNOWN
+
+ TO: June G. Turner ( CN=June G. TurnerjOU=WHOjO=EOP @ EOP [ WHO J )
+ READ: UNKNOWN
+
+ TO: Elena Kagan ( CN=Elena KaganjOU=OPDjO=EOP @ EOP [ OPD J )
+ READ: UNKNOWN
+
+ TO: Jessica L. Gibson ( CN=Jessica L. GibsonjOU=WHOjO=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Lawrence J. Stein ( CN=Lawrence J. SteinjOU=WHOjO=EOP @ EOP [ WHO J )
+
+
+READ: UNKNOWN
+
+TO: Rebecca M. Blank ( CN=Rebecca M. Blank/OU=CEA/O=EOP @ EOP [ CEA]      )
+READ: UNKNOWN
+
+TO: Jill M. Blickstein ( CN=Jill M. Blickstein/OU=OMB/O=EOP @ EOP [ OMB ] )
+READ: UNKNOWN
+
+TO: Alice Veenstra ( CN=Alice Veenstra/OU=OMB/O=EOP @ EOP [ OMB ] )
+READ: UNKNOWN
+
+TO: Marjorie Tarmey ( CN=Marjorie Tarmey/OU=WHO/O=EOP @ EOP [ WHO]    )
+READ: UNKNOWN
+
+TO: Robert N. Weiner ( CN=Robert N. Weiner/OU=WHO/O=EOP @ EOP [ WHO]      )
+READ: UNKNOWN
+
+CC: Melissa G. Green ( CN=Melissa G. Green/OU=OPD/O=EOP @ EOP   [ OPD ]   )
+READ: UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D16]MAIL428372861.126 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504370040000010A020100000002050000005852000000020000254600D25FB854B7512FOC
+A651346190254600D2B6D32257C55DF5C2EBEEAAD.8317453A0034A1E51Bl14FA27D403A3B06C42
+E1C89A9B6DFCOFC03C8A5B45FA70A13BFOEBOA43BEBE92FA5FOD95BAAECAA2AB37A1E76DBD9F83
+OEB558D3D9ADAFD8CF908E7354869C43CD27D9F503D9EA5584C6B923DB89125BFCBD379A2EBD52
+156369ABE4FDC02700FC6DBD15692958C5986AF3C13538EA8C37E285307EC665FCA5827D343E30
+E7A7E12998FC452D5EE4298DB4079CD02C04F896BD41D8DAA078D504C26C1DE273A185413F9F5F
+8DCEE8BC02880CF22D3FC65301832977A6B690D106A4EAA57C718A1C5E7E4CCD914551D0958DAA
+OD3E7BFBDA196783087A92E43EC870CF724474A97597D70D6DFC44055FC101AEB1322F170F9898
+E77A1BB7C92FAF3A75A3A33693D59963032AB7BD2B45F8ECCOEABBB9EA09F658BD64E82BOD49A9
+32B98538CFBA1A6459F24D3B9BE0561D37EB14A5D42E954AF6D8EA9D37EE8A292C13ADB42AF367
+OBD224923817E3888F550722E903FACl18FEF9A64376979C8414217B881AD8091C481C2CC4929D
+6747FCEB77C03CF35296817B2A8948812E5D3FA80D833F4DA5F2B74C2D7B1031D9F87A9COAEF96
+043520249D2287E78BD3AA9D07D7C59F31E6EEE38F297AE99348F5EA818A6F72879B8A230D10A4
+8FF47865AD02000900000000000000000000000823010000000B0100007E020000005501000000
+4E0000008903000009250100000006000000D70300000B300200000028000000DD030000087701
+000000400000000504000008340100000014000000450400000802010000000F00000059040000
+080501000000080000006804000000984800500020003400200028004C006F00630061006C0029
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000057494E53504F4F4COOOOOOOOOOC800C8002C012C012C012C01C800
+C80030000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000B0100002800C8196810480D000011090000005AOOOB010000103600540069006D0065
+00730020004E0065007700200052006F006D0061006E00200052006500670075006C0061007200
+000000000000000001000200580201000000040028000000000000000000000000000000000000
+00011202002400A1000000A10000000A0000005COD010002005DOD010044005EOD010044005FOD
+01001700600D01000200610D01001700620D01005500630D01004400640D01004400650D010002
+00C3BEC9240000000000000000000000000000D40008337C00780000020000650D000003010004
+0002000000DDOA10008301040003000200211000DDDDOBOB00030000040BOODD9BD10337008001
+000016000CB6010000580206000058020000000000000064FOOOOO000000000000000000000000
+0000000064C8003700D1D1020D0000010001000AODOOD1CCF20CF2CCCCCCCCCCE0401200000000
+
+
+
+
+                                                                Automated Records Management Systerr
+                                                                        Hex.Dump Conversion .
+
+
+
+
+                                         June _, 1998 -- Draft
+
+
+
+
+    MEMORANDUM TO THE PRESIDENT
+
+    FROM:          GENE SPERLING
+                   SALLY KATZEN
+
+    RE:            BANKRUPTCY REFORM LEGISLATION
+
+    Last week, the House passed, by a veto-proof majority, a bankruptcy bill that your administration
+    said it "strongly opposes." A better, but still flawed, bill (voted out of committee 16-2) may be
+    taken up by the Senate before the July 4th recess or soon thereafter. Both bills were changed
+    recently to address concerns that"you, the First Lady, and others have raised about their impact on
+    debtors' capacity to pay child support and alimony, although some problems still rernain.
+
+    After an NEC interagency review, your advisors have reached a consensus that some bankruptcy
+    reform is important. These bills contain many provisions that are beneficial, including a cap on
+    state homestead exemptions, debtor education pilots, penalties for unjustified creditor activities,
+    measures to discourage bad-faith repeat filings, and provisions to improve data collection and
+    audit procedures. However, certain controversial provisions of the current bills need significant
+    changes to satisfy our objectives and concerns. We propose'to advance quickly an
+    Administration proposal in hopes of influencing the Senate bill on the floor and giving the
+    Administration greater leverage in conference. The proposal would address three issues: (1)
+    limitations on access to Chapter 7; (2) new nondischargeable debts and their impact on child
+    support and alimony payments; and (3) new provisions to protect against coercive creditor
+    behavior and to require more responsibility from creditors in extending credit. The group also
+    has identified alternatives to parts of this proposal on which we could compromise, if necessary.
+
+    1:     BACKGROUND
+
+    Rising Consumer Bankruptcies: Despite what Goldman Sachs recently called "the best
+    economy ever," personal bankruptcies have continued to rise sharply, from roughly 800,000 in
+    1994 to nearly 1.4 million in 1997. Recent figures for the first quarter of 1998 showed another
+    20 percent increase over 1997's pace.
+
+    Disputed Causes: There is much dispute about the cause of this increase, but little definitive
+                                                  Automated Records Management Systerr
+                                                          Hex텱ump Conversion
+
+     evidence. Creditors assert that lawyer advertising, reduced social stigma, and increased
+     information about the financial advantages of bankruptcy have encouraged an increasing number
+     of consumers to walk away from debts they could pay back. Consumer advocates argue that
+     lenders have irresponsibly extended too much credit to families who are ill-prepared to handle it,
+     and that most bankruptcies happen when unexpected events push such a family over the financial
+     edge; indeed, rising bankruptcy rates track closely rising levels of unsecured debt, although
+     causation cannot be proven.
+
+     Potential/or Abuse: Under current rules, some debtors with high incomes walk away from
+     their debts entirely, even when they have the capacity to repay at least a portion of those debts;
+     other debtors file repeatedly without any intention of completing bankruptcy, for the purpose of
+     delaying bona fide collection activities; and generous state exemptions (including unlimited
+     homestead exemptions in eight states and exemptions for items like race horses and silver spoons
+     in Virginia) prompt some to shift assets to exempt categories prior to a bankruptcy filing to avoid
+     making payment to any unsecured creditors. Consumer advocates argue that these cases are not
+     the norm and should not prompt limits on those who genuinely need bankruptcy's fresh start.
+
+     Consumer Impact: Regardless of who is to blame, higher levels of debt charge-offs appear to
+     raise the cost of credit for everyone. One industry study suggests that bankruptcies cost every
+     American household between $300-400 per year. Higher credit costs disproportionately fall on
+     lower-income families, since they are more likely to carry a balance on their card. While in the
+     past credit card interest rates did not always rise and fall with market rates, the industry is now
+     more competitive, so that reduced bankruptcies are likely to translate to lower interest rates and
+     increased access to credit for those who pay their bills.
+
+     Legislative Momentum: The popularity of these bills can be explained by the system's
+     vulnerability to abuse and the apparent consumer costs, as well as an extremely effective and
+     well-financed industry campaign and legislators' fears of being labeled protectors of deadbeats.
+
+     II.    LIMITATIONS ON ACCESS TO CHAPTER 7 BANKRUPTCY
+
+     Current Law: Today, there is little limit on debtor's access to Chapter 7's full and immediate
+     discharge of debt (usually with no payments to unsecured creditors); however, in some circuits,
+     courts find, on their own motion, that it is "substantial abuse" for a debtor with the ability to
+     repay 20% of their unsecured debts over three years, after taking account of all necessary
+     expenses, to go through Chapter 7 rather than a Chapter 13 repayment plan,
+
+     House and Senate Bills: Both bills would require those with the capacity to repay a portion of
+     their debt to do so under a Chapter 13 plan. We opposed the House bill because it determines
+     access to Chapter 7 under a rigid "means test" that does not take into account the unique
+     circumstances of individual debtors. The Senate approach is more flexible, building on the.
+     abuse test in use in some circuits. The Senate bill would authorize a bankruptcy judge to apply
+     this test to any debtor with income above the median and, for the first time, allow creditors to file
+
+
+                                                      2
+                                                         Hex-Dump Conversion
+
+the motion seeking a detennination of abuse. Creditors would have to pay debtors' attorneys
+fees if their filings were not 'substantially justified' or were brought to coerce a debtor to waive a
+right.
+
+Administration proposal: We propose a variation on the Senate bill whereby the bankruptcy
+court would have discretion to determine whether or not a debtor's use of Chapter 7 is
+abuse; however, there would be a presumption of abuse if a debtor has an income above
+the median and the capacity to repay either at least 30% of her debts or some specified
+amount (such as $5000) over three years. (No debtor would be denied access to Chapter 7
+unless she had the ability to repay a minimum of $50 a month in unsecured, nonpriority debt.
+Any lesser amount is too small to merit the Chapter 13 administrative costs or to risk the chance
+that the creditor was pursuing the motion to coerce the debtor to forgo another bankruptcy right.)
+  We also would provide that, if a debtor moved more than $50,000 from nonexempt to exempt
+assets within one year of the filing, she would be subject to a presumption of abuse, regardless of
+income. In determining a debtor's capacity to repay, we propose to explicitly exclude luxuries
+(e.g., expensive cars or boats) from necessary expenses.
+
+These presumptive guidelines could be overcome if the court determined, e.g., that the debtor
+faced unusual but necessary expenses or could not be expected to maintain reliably her current
+level of income. Such presumptive guidelines have proven to be highly effective in promoting
+uniformity and fairness in establishing child support award amounts. Since the average debtor
+under Chapter 13 repays 20% of her debts and has income below the national median, those who
+meet this higher threshold are the most likely to succeed under a repayment plan.
+
+III.   NONDISCHARGEABLE DEBT AND ITS IMPACT ON CHILD SUPPORT AND
+       ALIMONY
+
+The Bankruptcy Code makes debts nondischargeable only where there is an overriding public
+purpose, as with child support, alimony, educational loans, tax obligations, or debts incurred by
+fraud. The House and Senate bills have provisions that would broaden the categories of
+nondischargeable credit card debt, although the largest new category has been dropped and the
+two remaining categories narrowed. These provisions raise two questions: (I) Do the
+additional debts made nondischargeable by these bills rise to the same level of public priority as
+other nondischargeable debts? and (2) What impact does the protection of new categories of debt
+have on the ability of the debtor, post-bankruptcy, to repay existing categories of
+nondischargeable debt (e.g., child support and alimony, educational loans, and taxes)? They
+also force us to recognize that consumers use credit cards today for many purposes that were
+inconceivable only a few years ago (e.g., groceries or paying student loans). This
+Administration envisions -- and, in fact, encourages -- greater use of electronic commerce.
+
+        Debts incurred to pay other non dischargeable debts.
+
+Current law: If a debtor uses a credit card to pay federal taxes, the credit card debt is
+
+
+                                                  3
+                                      Hex-Dump Conversion
+nondischargeable.
+House and Senate bills: Both make a debt incurred to pay any nondischargeable debt
+nondischargeable, although the Senate effectively eliminates the provision if the debtor is a
+single parent or owes child support and/or alimony.
+
+Administration Proposal: We propose that the current law remain unchanged; however, if a
+debtor paid a nondischargeable debt with a credit card, it would be a factor in determining
+whether the debtor's use of Chapter 7 was abuse.
+
+       Debts incurred in the period immediately before bankruptcy.
+
+Current Law: Debts for luxuries over $1000 owed to a single creditor within 60 days of
+bankruptcy are nondischargeable. There is some evidence that this provision and other
+anti-fraud provisions do not prevent some debtors from running up debt knowing that a discharge
+is likely.
+
+House and Senate Bills: Both would make all debts incurred within 90 days of bankruptcy for
+luxuries be presumptively nondischargeable. In addition, they would make presumptively
+nondischargeable debt above ($250 in the House; $400 in the Senate) per credit card for
+necessaries during the same period.
+
+Administration Proposal: We propose to agree to make debt for luxuries within 90 days of
+bankruptcy presumptively nondischargeable; however, a cap of $250 or $400 on necessary
+expenses incurred prior to bankruptcy is inappropriate. One can easily imagine a family, in
+the months prior to bankruptcy, paying for rent, school clothes, and even groceries on their credit
+card. Courts can easily compare current spending patterns to prior spending and determine
+whether charges are truly for necessary expenses.
+
+       Child Support and Alimony Considerations
+
+We should note that the current bills have seven different new provisions designed to either
+mitigate the impact of the additional nondischargeable debt on payment of child support and
+alimony or to give child support and alimony additional protections in and after bankruptcy.
+Some experts we have consulted argue that the benefits provided by these additional provisions
+outweigh any modest harm to child support and alimony payments that remains from the
+nondischargeability provisions. On the other hand, the women's groups continue their
+opposition to these bills. Moreover, these provisions, which focus only on child support and
+alimony, do not address our policy concern that new nondischargeable debt will now compete
+with other types of existing nondischargeable debts, such as educational loans. For these
+reasons, the Administration proposals described above would allow only one small category of
+new nondischargeable debt (luxuries purchased 90 days before bankruptcy) where there is a
+policy argument against allowing run-up prior to bankruptcy; for the remaining categories, we
+would leave current law or address the problem a different way.
+
+
+                                                  4
+                                                        Hex-Dump Conversion
+
+
+IV.    ADDITIONAL CONSUMER PROTECTIONS AGAINST PREDATORY
+       CREDITOR PRACTICES
+
+Your advisors are particularly concerned about the unequal bargaining power of the creditor and
+debtor and how the changes in bankruptcy rules could further shift the balance and create
+opportunities for coercion and consumer harm. To address this concern, and to ensure
+legislation requires responsibility of both debtor and creditor, we propose new consumer
+protections.
+
+       Reaffirmations of Unsecured Debt
+
+Although debtors in Chapter 7 have a right to have their unsecured debts discharged, some
+debtors reaffirm one or more debts. While there may be some circumstances in which it is in the
+debtor's best interest to do so (e.g.; as a condition of obtaining a line of credit needed for a small
+business), those cases are few. The risk is real, however, that debtors are pressured into
+reaffirming their debts by aggressive creditors. After Sears recently paid large penalties for such
+practices, another Bankruptcy Judge (Fenning) said she scrutinized her court records and found
+evidence of widespread coercive reaffirmations. Since debts reaffirmed survive bankruptcy,
+they compete with child support and alimony in a post-bankruptcy world. Eliminating coercive
+reaffirmations also would help to reduce the current level of competition child support and
+alimony payments face.
+
+Current Law: Disclosures are required and the court must determine that a reaffirmation does
+not impose an undue hardship on the debtor or a dependant and is in the debtor's best interest;
+however, an affirmation ofthe debtor's attorney to that effect suffices.
+
+House and Senate Bills: No related provisions.
+
+Administration Proposal: We propose to require the court itselfto find that there was a
+compelling reason for the debtor to reaffirm a debt, without reliance on counsel affidavits. We
+also propose to bar reaffirmation of debts that add attorneys' fees and costs to the debt, to
+increase penalties on attempts to enforce invalid reaffirmations, and to clarify on that the
+automatic stay bars threats to file abuse motions and solicitations of reaffirmations.
+
+       Credit Card Minimum Payment Disclosure
+
+We also believe that some signal should be sent to creditors about lending practices that entice
+debtors to get further and further into debt.
+
+Current Law: Most debtors believe that by making the minimum payment on their credit card
+they are slowing working off their debt. However, depending upon the interest rate, they may be
+
+
+                                                  5
+                                                      Hex-Dump Conversion
+
+
+falling further and further behind. Creditors are increasingly offering minimum payment plans
+that amortize debt over decades, if at all.
+
+House and Senate bills: No related provisions.
+
+Administration Proposal: We propose a process for subordinating debt if the creditor did not
+disclose clearly to the debtor the time period over which the debt would amortize at the minimum
+payment level. The subordinated debt would only be paid, in a Chapter 13 plan or a Chapter 7
+liquidation, after all other unsecured, nonpriority debt. It most cases, this will mean it will never
+be repaid.
+
+       Other Non-Bankruptcy Steps to Improve Consumer Credit Practices
+
+We also are exploring whether there are other non-bankruptcy steps we can take to clamp down
+on predatory lender practices and better help consumers to understand their own borrowing. We
+have consensus on a proposal that requires all lenders to disclose the time period over which debt
+is amortized by minimum payments. This proposal, and others under review, fall under the
+jurisdiction of other committees. Thus, it is not feasible to insist that Congress include these
+proposals in the bankruptcy bill at this time. However, we might unveil these proposals in
+connection with a campaign to educate consumers about the use of credit, using the bully pulpit
+the way we have done to encourage retirement savings.
+
+V.     ADVISORS' RECOMMENDATIONS
+
+All your advisors recommend we proceed as described, including CoS, NEC, Counsel, OPL,
+OLA, OMB, CEA, DPC, First Lady, DoJ, Treasury, Commerce, and Education.
+
+�      The NEC believes that requiring greater responsibility of both creditors and debtors is the
+       best way to address the ''unclean hands" of some of the legislation's proponents.
+�      Treasury and CEA emphasize that needs-based reform will decrease the cost of, and
+       increase access to, credit for those debtors who do pay their bills by limiting opportunistic
+       bankruptcy among those higher income debtors who do not.
+�      DoJ supports the plan and stresses that other provisions of these bills, like the cap on state
+       homestead exemptions, measures to discourage bad faith repeat filings, and provisions to
+       improve data collection and audit procedures, are important reforms.
+�      OPL believes that, while consumer advocates oppose any bill, reforms limiting access to
+       Chapter 7 and stemming coercive reaffirmations appear valid. OPL wants to see us fight
+       for aspects of our proposal that protect against any impact on child support (before or
+       after bankruptcy) of new nondischargeable credit card debt.
+�      The First Lady's Office strongly supports advancing proposals that achieve more
+       balanced reform by calling for responsibility on the part of the creditor as well as the
+       debtor, and recommends that we continue to focus on the child support issue to ensure
+       that protections in this area are as strong as possible.
+
+
+                                                  6
+                                                    Hex-Dump Conversion
+
+�     OLA stresses the popularity of bankruptcy refonn and advises that we advance proposals
+      that have a realistic prospect of inclusion, or we may find ourselves faced with
+      overwhelmingly popular legislation that fails to satisfy our announced concerns.
+VI.   DECISION
+
+_ _ PROCEED AS DESCRIBED
+
+      LET'S DISCUSS
+
+
+
+
+                                            7
+
+

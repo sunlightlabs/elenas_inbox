@@ -1,0 +1,220 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Ellen S. Seidman ( CN=Ellen S. Seidman/OU=OPD/O=EOP [ OPD 1 )
+
+CREATION DATE/TIME:18-JUN-1997 08:23:39.00
+
+SUBJECT:   Principals meeting
+
+TO: Cristian J. Santesteban ( CN=Cristian J. Santesteban/OU=CEA/O=EOP @ EOP [ CEA 1
+READ: UNKNOWN
+
+TO: Ingrid M. Schroeder ( CN=Ingrid M. Schroeder/OU=OMB/O=EOP @ EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: William P. Marshall ( cN=william P. Marshall/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Timothy J. Brennan ( CN=Timothy J. Brennan/OU=CEA/O=EOP @ EOP [ CEA 1 )
+READ: UNKNOWN
+
+TO: Peter G. Jacoby ( CN=Peter G. Jacoby/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Charles W. Burson ( CN=Charles W. Burson/O=OVP @ OVP [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Jeff Bromme ( Jeff Bromme   @   301-504-0121   @   fax. [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: John Dwyer ( John Dwyer @ 514-0238 @ fax [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Fran Allegra ( Fran Allegra @ 514-1724 @ fax [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Tom McGivern ( Tom McGivern @ 622-1188 @ fax [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Donald Remy ( Donald Remy @ 514-8071 @ fax [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: John E. Thompson ( CN=John E. Thompson/OU=OMB/O=EOP @ EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Ellen S. Seidman   CN=Ellen S. Seidman/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Bruce R. Lindsey   CN=Bruce R. Lindsey/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Steven D. Aitken ( CN=Steven D. Aitken/OU=OMB/O=EOP @ EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Tracey E. Thornton ( CN=Tracey E. Thornton/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Lisa M. Brown ( CN=Lisa M. Brown/O=OVP @ OVP [ UNKNOWN 1 )
+
+
+READ: UNKNOWN
+
+TO: John Spotila ( John Spotila @ 205-6096 @ fax [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Jeffrey Hunker ( Jeffrey Hunker @ 482-4636 @ fax [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Pam Gilbert ( Pam Gilbert @ 301-504-0121 @ fax [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Ron Matzner ( Ron Matzner @ 205-6846 @ fax [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Ed Murphy ( Ed Murphy @ 622-1294 @ fax [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Andrew Pincus ( Andrew Pincus @ 482-0042 @ fax [ UNKNOWN 1 )
+READ: UNKNOWN
+
+CC: Melissa Green ( CN=Melissa Green/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+CC: Jennifer D. Dudley ( CN=Jennifer D. Dudley/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TEXT:
+As you've all probably figured out, it won't be today. Probably next
+Tuesday aft or Wednesday. Melissa will be calling around to your
+principals' schedulers.
+
+What follows should be a revised version of the options.   ellen
+
+
+Joint and several
+        Proposal 1 - Reallocation
+        00       Joint and several if the plaintiff is fault-free
+        00       If the plaintiff is at all at fault, liability is
+several, but if the plaintiff cannot collect from one or more defendant
+after a specified period of time          In Missouri it is 30 days, which may be
+too short to actually encourage the plaintiff to try to collect; in
+Connecticut it is one year, which may be too long., the plaintiff can
+petition the court for reallocation of damages not attributable to the
+plaintiff among the remaining defendants, but no defendant less at fault
+than the plaintiff may be charged with more than twice his proportionate
+share of damages
+        00       This would be two-way preemptive
+
+        Proposal 2A - Guaranteed recovery, two-way preemption
+        00      Joint and several liability of any defendant is than 30%
+at fault (taking into account the fault of the plaintiff and settling
+defendants)
+        00      If any defendant is less than 30% at fault, that
+defendantO,s responsibility would be limited to a maximum of twice the
+defendantO,s proportionate share of non-economic damages except where a
+greater multiplier was needed to ensure the plaintiff recovery of at least
+50% of the assessed non-economic damages.
+
+        Proposal 2B - Guaranteed recovery, one-way preemption
+        00      Joint and several liability of any defendant is than 10%
+
+
+at fault (taking into account the fault of the plaintiff and settling
+defendants)
+        00      If any defendant is less than 10% at fault, that
+defendanto,s responsibility would be limited to a maximum of twice the
+defendanto,s proportionate share of non-economic damages except where a
+greater multiplier was needed to ensure the plaintiff recovery of at least
+60% of the assessed non-economic damages.
+
+Punitives
+        Proposal 1 - Procedural changes, coupled with a breachable cap for small
+businesses
+        00      Support the provisions in S.648 providing for uniform
+federal standards of clear and convincing evidence and the right to
+request bifurcation.
+        00      Support a uniform federal liability standard for
+punitive damages that would not include recklessness, but (i) would not
+require that the conduct that is the subject of the punitive damages is
+the o&proximate cause08 of the plaintiff D,s harm and (ii) would explicitly
+permit circumstantial evidence of intent or malice.
+        00      Cap punitive damages at the lesser of twice
+compensatories or $250,000 for firms that have 10 or fewer employees and
+annual revenues of $1 million or less. The jury would not be told of the
+cap, and the judge could award damages in excess of the cap (but only up
+to the amount awarded by the jury) upon a finding that the capped amount
+was o&insufficient to punish or deter.08
+        00      This would be two-way preemption, except that it would
+not require states that currently do not allow punitive damages in
+products cases to allow such awards
+
+        Proposal 2 - Allocation of punitive damages between plaintiff and state
+        00      Authorize the jury to impose punitive damages without
+any cap on large businesses; small business punitives would be capped as
+in Proposal 1
+        00      Vest the plaintiff in a 25% share of the total punitive
+damages, which amount will be assumed to include attorneyo,s fees (i.e.,
+no additional attorneyo,s fees will be payable out of the punitive award)
+        00      The remainder of the award would be payable to the state
+whose substantive law applies to the determination of punitive damages.
+        00      States would be forbidden to intervene in the
+proceedings at any stage.
+        00      Combine this with the procedural reforms outlined in
+Proposal 1
+        00      This would be two-way preemptive except (i) it would not
+require states that do not allow punitive damages in products cases to
+allow such awards and (ii) states would explicitly be allowed to opt out
+of the allocation to the state, in which case prior state law with respect
+to caps and allocation would apply
+
+        Proposal 3 - Advisory jury opinion with judicial determination
+        00       The jury would render a solely advisory opinion on
+punitive damages
+        00       The actual determination of punitive damages would be
+made by the judge
+        00       The judge would be required to consider the factors in
+S.648, and would be required to explain why the judgeD,s award differs
+(either higher or lower) from the juryo,s advice
+        00       Combine with procedural changes from proposal 1
+
+        Proposal 4 - Cap with easier breakthrough
+        00      Cap punitive damages at the greater of $250,000 or twice
+
+
+compensatories (the lesser of the two for small businesses)
+        DO      Do not tell the jury of the cap
+        DO      Allow the judge to award punitive damages above the cap
+(for both small and large businesses) without an additional proceeding and
+on a simple finding that the capped amount is D&insufficient to punish or
+deter,DB the standard in S,648, with no consideration of specified factors
+        DO      Insist that there be no legislative history suggesting
+this authority is to be used any more sparingly than implied by the
+statutory standard
+        DO      Couple this with the procedural changes described in
+proposal 1
+        DO      This would be two-way preemptive, except with respect to
+states that do not allow punitives in products cases at all
+
+8tatute of repose
+        DO       Two-way preemption of state law (as in 8.648)
+        DO       18 year statute of repose (as in 8.648)
+        DO       Which a plaintiff may overcome by clear and convincing
+evidence that the product had a longer useful safe life (not included in
+8.648, and responsive to the victim of the hay-baler accident cited in the
+veto message and to accidents involving products cl.early intended to be
+longer-lived, such as elevators and most firearms)
+        DO       Covering only durable goods in the workplace (narrower
+than 8.648, retaining plaintiff rights concerning consumer goods in states
+without any statute of repose and responding to your concern about
+handguns)
+        DO       With further exceptions for toxic substances, vehicles
+used in transportation for hire, and express warranties (as in 8.648)
+        DO       And with a provision that extends the statute to allow
+full benefit of the two-year statute of limitations after injury or
+discovery of harm in, for example, year 17 (not in 8.648, but not expected
+to be a problem)
+
+

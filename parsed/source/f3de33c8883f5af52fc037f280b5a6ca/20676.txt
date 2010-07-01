@@ -1,0 +1,721 @@
+RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+CREATOR: Mary L. Smith ( CN=Mary L. Smith/OU=OPD/O=EOP [ OPD 1 )
+
+CREATION DATE/TIME: 17-JUL-1998 08:55:23.00
+
+SUBJECT:    Privacy options paper
+
+TO: Elena Kagan    CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ:UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+CC: Cathy R. Mays ( CN=Cathy R. Mays/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+CC: Thomas L. Freedman ( CN=Thomas L. Freedman/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TEXT:
+Below is the privacy options paper for the principals meeting on Monday,
+July 20 at 11 am in the Roosevelt Room
+---------------------- Forwarded by Mary L. Smith/OPD/EOP on 07/17/98
+08:55 AM ---------------------------
+
+
+
+
+Thomas A. Kalil
+07/16/98 10:11:14 AM
+Record Type:    Record
+
+To:      See the distribution list at the bottom of this message
+cc:
+Subject:         Privacy options paper
+
+
+
+Principals meeting is Monday at 11:00 in the Roosevelt Room.
+
+I wil+ be out today and Friday -- but am pagable
+1-800-SKYPAGE pin # 2168029
+
+Thanks! .
+
+
+
+
+Message Sent
+To: _________________________________________________________________
+David W. Beier/OVP @ OVP
+Thomas L. Freedman/OPD/EOP
+Mary L. Smith/OPD/EOP
+Jim Kohlenberger/OVP @ OVP
+Ira C. Magaziner/OPD/EOP
+Bruce W. McConnell/OMB/EOP
+
+
+Robert N. Weiner/WHO/EOP
+
+
+==================== ATTACHMENT 1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D4]MAIL466671006.226 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043DA1000000l0A02010000000205000000E8C4000000020000177646CEC006A4477CD6Al
+502668AF9ABD44C32B3345D3A9D2DA88C789914E2BB04A4CCEDFADDA28F07780E015615918149B
+14740EBCF3FF623BFBBC361B83FB349028D47194E326A93C2CE66DlBD820BB285874F5C99631F4
+6BA6FCD42DDF526454915C39A4333A185D541129110AD7FFF5A67E6DABA43CBCCF10CB6A66A6EA
+
+TO:        Sally Katzen
+
+FROM:      Andrew Pincus
+
+DATE:July 16,1998
+
+RE:       Privacy - Legislative and Other Proposals
+
+
+        This memorandum outlines a series of Administration proposals for enhancing privacy
+protection by acting in the following areas:
+
+Federal Privacy Coordination Responsibility
+On-Line Collection of Information Generally (Commercial Marketing)
+On-Line Collection of Information from Children
+Government Information
+Medical Records
+Financial Records
+Profiling
+Identity Theft/Theft of Personal Information
+Protection of New Categories of Personal Information
+Public Education
+
+These initiatives would follow-up on those announced by the Vice President on May 14, 1998 in
+his speech at New York University.
+
+
+
+
+                                                  Automated Records Management System
+                                                  Hex-Dump Conversion
+
+    Concerns about privacy are shared across agencies. Some privacy activities are undertaken
+by many; others by no one. Early in the Administration, the President's Information
+Infrastructure Task Force (IITF) solicited and received public comments on whether there should
+be an entity within the executive branch to serve as a focal point for public and private sector
+privacy issues. The IITF reached no conclusion. This proposal concludes that work and
+responds in part to the July 1997 Presidential direction to develop recommendations as to the
+appropriate role of government in privacy.
+
+Proposal
+
+    The President could assign coordination responsibility of privacy issues to the Administrator
+of the Office ofInformation and Regulatory Affairs (OIRA) ofOMB. This assignment would
+strengthen the ability of the Administration to develop and implement effective privacy policy.
+
+    OMB recognizes that many agencies have expertise and responsibility for privacy in various
+areas, however, additional focus on privacy across the executive branch would be useful. This
+increased focus would be accomplished by the performance of four functions by OMB:
+
+   Coordination - Assure that agencies address emerging privacy issues in their programs and
+   policies, and promote greater consistency of Administration positions and policies.
+
+   Advice - Drawing on agency expertise, provide advice on privacy policy questions to
+   government agencies and the private sector.
+
+   Representation - Explain and promote the Administration's privacy policy domestically and
+   internationally.
+
+   Consumer Information - Increase public awareness of privacy issues and the rights and
+   responsibilities of consumers, industry, and government. Use the "bully pulpit" to
+   encourage best practices and criticize bad actors.
+
+     Rather than create a new privacy office or entity, it is more appropriate to assign these
+functions to the Administrator ofOIRA. Privacy concerns must usually be balanced with
+competing values, such as prosecution of criminals, identifying "deadbeat" parents, free speech,
+and the economic and commercial benefits that come from the free flow of information. OMB
+is the traditional coordinator of policy, regulatory and organizational issues, while OIRA is
+already responsible for other information policy matters and has expertise and authority in
+privacy under the Privacy Act. OIRA, therefore, is a logical place to assign the new
+responsibilities. To be an effective coordinator, additional resources would be required,
+however, minimal resources are necessary since the proposed role is primarily coordination, not
+operations.
+
+
+                                                2           Automated Records Management System
+                                                            Hex-Dump Conversion
+
+    Protection of privacy in the online environment was addressed in the Framework/or Global
+Electronic Commerce released by the President on July 1, 1997. In that document, the
+Administration reaffirmed the importance of "assur[ing] personal privacy in the networked
+environment" and endorsed the Privacy Principles adopted in June 1995. The Administration
+"support[ ed] private sector efforts now underway to implement meaningful, consumer-friendly,
+self-regulatory privacy regimes." It cautioned that "[i]fprivacy concerns are not addressed by
+industry through self-regulation and technology, the Administration will face increasing pressure
+to playa more direct role in safeguarding consumer choice regarding privacy online."
+
+    In the year since the issuance of the Framework, the privacy issue has garnered significant
+public attention. The Administration has undertaken broad outreach efforts to urge industry to
+take up the challenge of self-regulation. Numerous media stories have addressed the threat to
+privacy in the online environment. And the Federal Trade Commission's net survey
+demonstrated that -- as of March 1998 -- online enterprises were devoting insufficient attention
+to privacy concerns.
+
+    At the same time, there has been significant progress on industry self-regulation. On June
+22, 1998 a group of 50 businesses and trade associations announced the formation of the Online
+Privacy Alliance. The Alliance adopted well-received guidelines for fair information practices
+applicable across a range of industries, including the marketing industry. The Direct Marketing
+Association, which represents over 3700 direct marketers, has endorsed the Alliance guidelines,
+and committed to require DMA members to comply with the guidelines as a condition of
+membership in the association.              .
+
+    The Alliance guidelines require members to adopt and implement a policy for protecting the
+privacy of individually igentifiable information. An organization's privacy policy must be easy
+to find and understand and must state clearly what information is being collected; the use of that
+information; possible third party distribution of that information; the choices available to an
+individual regarding collection, use and distribution of the collected information, as well as the
+consequences, if any, of an individual's refusal to provide information. The policy should also
+include a clear statement of the organization's accountability mechanism and information about
+how to contact the organization if a problem or complaint arises. At a minimum, individuals
+should be given the opportunity to opt out of uses that are unrelated to the purpose for which the
+information was collected. The Alliance guidelines also require data collectors to take
+appropriate steps to ensure the security, reliability and accuracy of personally identifiable
+information.
+
+    The Direct Marketing Association has imposed additional requirements specific to marketing
+activities. These include a mandatory participation in the "Telephone Preference Service" and
+the "Mail Preference Service" through which consumers can have their names placed on a
+national "do not solicit" list.
+
+
+                                                3            Automated Records Management System
+                                                             Hex-Dump Conversion
+ element of its privacy protection program -- within the next ten days. Based on our
+ understanding of the likely ingredients of the enforcement approach, we believe the Alliance plan
+ will satisfy the Administration's privacy principles. The Alliance's membership constitutes
+ between 80 and 90 percent of online traffic.
+
+     In addition, the Council of Better Business Bureaus (CBBB) announced on June 22, 1998,
+ that it will develop and implement a major privacy program through its subsidiary, BBBOnLine.
+ According to the CBBB press release, the online privacy program will feature: privacy
+ standard-setting, verification, monitoring and review, consumer dispute resolution, compliance
+ "seal", and educational components. The program is expected to "go live" in the fourth quarter
+ of 1998.
+
+     TRUSTe is a not-for-profit organization based in the Silicon Val1ey. The TRUSTe program
+ provides notice by Web sites of their information practices, verification and oversight of the
+ claims made in the site's notice, and consumer recourse through which consumer complaints wil1
+ be resolved. TRUSTe has been criticized for its failure to require adherence to fair information
+ practices -- any practice is permitted, as long as it is disclosed. On June 24, 1998, however,
+ TRUSTe announced that it would require al1 new and renewing licensees to adhere to the privacy
+ guidelines announced by the Online Privacy Alliance.
+
+ Proposal
+
+    The Administration should commend the members of the Online Privacy Alliance and other
+groups for the progress on self-regulation. We should, however, make clear that substantial
+chal1enges lie ahead. First, the privacy protections promised by these organizations must be
+redeemed -- these new organizations must become functioning entities. Second, the private
+sector must work to expand membership in self-regulatory organizations so that privacy
+protection becomes ubiquitous in the online environment. Obviously the Administration will
+also play an important role in this effort. We should repeat the caveat in the Framework that the
+absence of continued real progress will cause the Administration to reexamine whether
+government must take a more direct role in privacy protection.
+
+
+                            ON-LINE INFORMATION ABOUT CHILDREN
+
+      The solicitation of information from children presents a unique problem. Unlike adults,
+  children generally lack the ability to provide legal1y binding consent and may not be cognitively
+  capable of understanding the consequences of giving out personally identifiable information
+  online. Many companies presently collect information from children for a variety of reasons --
+. to contact a child to verify that they may have won a prize, to monitor children in chat rooms, for
+  statistical purposes or for direct marketing purposes.
+
+
+
+                                                  4          Automated Records Management System
+                                                             Hex-Dump ConvGion
+Online, which surveyed 1,400 Web sites. Eighty-nine percent of children's sites surveyed
+collect personal information from children. Although 54% of children's sites provide some
+form of disclosure of their information practices, the Commission found that few sites take any
+steps to provide for meaningful parental involvement in the process. They found that only 23%
+of sites even direct children to seek parental permission before providing personal information.
+Only 7% of the sites said they would notify parents of their information practices, and less than
+10 % provide for parental control over the collection and/or use of information from children.
+The Commission recommended that Congress adopt legislation protecting children's privacy
+online.
+
+    Best Practices Model- Online Privacy Alliance
+
+    On June 22, 1998 the Online Privacy Alliance issued specific guidelines for the protection of
+children's' privacy online.
+
+    Alliance members that operate sites directed at children under 13 have agreed (1) not to
+collect online contact information from a child under 13 without prior parental consent or direct
+parental notification of the nature and intended use of this information, including an option for
+the parent to prevent the use ofthe information and participation in the activity; (2) to assure that
+information collected will only be used to directly respond to the child's request and will not be
+used to recontact the child for other purposes without prior parental consent; (3) not to collect
+individually identifiable offline contact information from children under 13 without prior
+parental consent; (4) not to distribute to third parties any personally identifiable information
+collected from a child under 13 without prior parental consent; (5) not to give children under 13
+the ability to post or otherwise distribute individually identifiable contact information without
+prior parental consent - sites directed to children under 13 must take best efforts to prohibit a
+child from posting contact information; and (6) not to entice a child under 13 by the prospect of a
+special game, prize or otheractivity, to divulge more information than is needed to participate in
+that acti vi ty.
+
+Proposal
+
+    The Administration already has endorsed the FTC's call for legislation with respect to
+protection of children's privacy in the online environment. The Administration should specify
+that this legislation should set forth the fair information practices applicable to the collection of
+information from children and grant the FTC authority to promulgate rules to implement these
+standards. The grant of authority to the FTC could include a safe harbor provision -- data
+collectors that belong to a self-regulatory organization that contains standards for collection of
+data from children acceptable to the FTC would be presumed to be in compliance with the
+statutory requirement and would not be subject to direct enforcement action by the FTC.
+
+
+
+
+                                                           Automated Records Management System
+                                                  5
+                                                           Hex.Dwnp Convoraion
+
+    Public records are a rich store of personal information. Federal, state and local governments
+require individuals to provide various types of information and are usually required to make such
+records available for public inspection. Public records include, but are not limited to real
+property records, marriage and divorce records, birth and death certificates, driving records,
+driver's licences, vehicle titles and registrations, civil and criminal court records, parole records,
+postal service change-of-address records, voter registration records, bankruptcy and lien records,
+incorporation records, worker's compensation claims, political contributions records, firearm
+permits, occupational and recreational licenses, filings pursuant to the Uniform Commercial
+Code and filings with the Securities and Exchange Commission.
+
+    These public records contain extensive and detailed information (e.g., race, gender, Social
+Security numbers, addresses, dates of birth, marriage, and divorce.) Social Security numbers,
+for example, are available from the records. kept by dozens of government entities, such as motor
+vehicle bureaus -- many driver's license records make the individual's SSN, as well as their
+name, address, height, weight, eye color, gender, and date of birth available in one place. Dates
+of birth may be available from birth certificate and voter registration records, and land records
+typically include dates of sales, prices, size of mortgage amounts, and the property address and
+description, as well as the seller's and purchaser's names.
+
+    The U.S. Privacy Act, 5 U.S.C. Section 552a (1988) protects individuals from
+non-consensual government disclosure of confidential information. The Memorandum for Heads
+of Executive Departments and Agencies, signed by the President on May 14, 1998, directs
+agency heads to take specific action to assure that use of new information technologies sustain
+privacy protections provided by applicable statutes and that the information is handled in full
+compliance with the Privacy Act.
+
+    While the U.S. Privacy Act restricts the disclosure of personal information collected and
+maintained by the Federal government, many States do not have analogous privacy laws. Not
+only is the protection of information collected and maintained by State governments governed by
+an uneven patchwork oflaws, but State freedom of information and public record laws, enacted
+before powerful information technology made collection and dissemination of information easy
+and efficient, allow many States to sell personal information. State records are the source of
+much of the personal information that, when disseminated, generates the greatest concern about
+privacy protection.
+
+    Issues around the collection, sharing and sale of personal information gathered by States are
+complicated by requirements under Federal law that States collect and provide certain
+information to the Federal government. These laws include transfer of information for tax
+purposes, to locate parents delinquent in their child support payments, and to determine food
+stamp and welfare eligibility.
+
+
+                                                            Automated Records Management §r~tgm
+                                                  6
+                                                            Hex-Dump Conversion
+significant federalism questions. For example, two states have successfully challenged the
+Drivers Privacy Protection Act on federalism grounds.
+
+   The Administration has already begun to address the issue of sharing of data by Federal
+agencies with State, local, and tribal governments in the President's Memorandum to Heads of
+Executive Departments and Agencies, signed on May 14, 1998.
+
+Proposal
+
+    The Administration should create a Federal-State Task Force to initiate a "privacy dialogue"
+to analyze the privacy of personal information collected by governments. The dialogue could
+include a study of the State laws that require the collection of personal information and the
+Federal laws that require States to collect personal information and consider the desirability of:
+
+    1. State enactment of laws similar to the Privacy Act.
+
+   2. Extension ofthe Privacy Act protections to Social Security numbers collected by State
+      governments.
+
+   3. Re-evaluation of the meaning of "public records" in light of new technology.
+
+   4. A requirement that States redact Social Security numbers and other personally
+      identifiable information from documents before they are placed in the public domain.
+
+   5. An Executive Memorandum to State attorneys general reiterating obligations imposed by
+      §7 of the Privacy Act with regard to the protections afforded the collection of Social
+      Security numbers and the requisite notice requirements.
+
+
+
+
+                          MEDICAL RECORDs/HEAL TO INFORMATION
+
+   The confidentiality ofheaIth information is a matter of widespread national concern, and the
+protection of this information has been a priority of the Administration. On September 11,
+1997, Secretary of HeaIth and Human Services Donna Shalala recommended that Congress enact
+Federal legislation to protect the confidentiality ofheaIth information by imposing duties on
+those who hold such information and by providing rights to the subjects of the information. She
+proposed that the Federal law provide a floor of protection, and that States be permitted to, in
+addition, provide stronger protections.
+
+
+
+
+                                                7            Automated Records Management System
+                                                             Hex-Dump Conversion
+those who get information from those entities would have to permit patients to see their own
+records, to keep records of disclosures and let patients know who has seen their records, and to
+permit patients to file proposals for correction of erroneous records. All entities collecting or
+maintaining information would have to advise patients clearly of their confidentiality practices
+and of the patients' rights.
+
+    Disclosures would be limited to those authorized by the patient, or those specifically
+permitted in the legislation, including disclosures for important public purposes, such as
+treatment and payment, research, public health, oversight of the health care system, and use in
+law enforcement or other legal proceedings if permitted by other law. There would be strict
+limitations on further disclosure in many of these instances. Within an organization,
+information could be used only for purposes reasonably related to the purposes for which it was
+gathered, and all disclosures would have to be limited to the minimum necessary to accomplish
+the purpose of the disclosure.
+
+    Entities receiving information pursuant to patient authorization would have to give patients a
+statement of their intended use of the information, and would be civilly liable for uses in
+violation of that statement.
+
+   There would be civil and criminal sanctions for violations, such as improper disclosure and
+obtaining information under false pretenses.
+
+    Congress is now considering the recommendations.
+
+Legislative Proposal
+
+    HHS will provide additional proposals for Executive action in the area of medical
+recordslhealth information.
+
+                                    FINANCIAL INFORMATION
+
+
+    The recent increase in cross-industry corporate mergers raise important privacy concerns with
+regard to the treatment of consumer information shared by affiliated companies. Such mergers
+may allow detailed and sometimes sensitive information about consumers, including medical and
+financial data, to be shared among newly related companies with relatively few restrictions. In
+the case of the recent merger of Citicorp and Travelers, for example, consumers might not
+anticipate that providing information for insurance underwriting purposes to one entity might
+later be used by the financial institution that is or becomes an affiliate.
+
+    Each of the nations' largest 25 banks has a securities affiliate, and banks of all sizes sell
+insurance. Affiliate information sharing already includes not only sharing of information for
+
+
+
+                                                 8
+                                                            Automated Records Management System
+                                                            Hex-Dump Conversion
+for a new platinum card) but also for security purposes (e.g., tracking a credit card holder's
+spending pattems in order to detect immediately any unusual activity that might indicate fraud or
+theft) and increasingly for risk-management purposes (e.g., a customer's record of payment on a
+credit card apparently is quite useful in determining whether that customer is a good risk for auto
+insurance). Such practices can be expected to continue, as the lines between various types of
+financial services firms continue to blur and the firms continue to merge.
+
+    The Fair Credit Reporting Act (FCRA) governs activities of agencies that furnish consumer
+information to consumer reporting agencies and credit or "consumer" reports to third parties.
+The FCRA defines a consumer reporting agency as a person or entity that regularly assembles or
+evaluates consumer credit information or other information on consumers for the purpose of
+furnishing consumer reports to third parties to be used as a factor in establishing the consumer's
+eligibility for credit, insurance, employment purposes, etc.
+
+    Companies that share consumer information with their affiliates are not subject generally to
+the controls of the FCRA. This exemption was created in the 1996 Amendments to the FCRA.
+The FTC raised concerns about exempting consumer information shared by affiliates from the
+protections of the FCRA. The banking industry was strongly opposed to extending the FCRA
+protections to consumer information shared by affiliates. In the end, affiliate sharing was
+permitted, but customers were granted an explicit right to opt out of affiliate information sharing
+of personal information other than "experience" or "transactional" information (which may be
+shared not only with affiliates but also third parties). For example, a customer can prevent
+personal information contained in an account application from being shared.
+
+    The 1996 Amendments to the FCRA also contains an odd provision prohibiting the banking
+agencies from examining for compliance with the Act; rather, they must await a complaint or
+other indication of trouble. The banking regulatory agencies also are prevented from issuing
+regulations under the Act, but the Federal Reserve may promulgate "interpretative" opinions in
+consultation with the other agencies. These provisions were included in 1996 because of
+banking industry concerns about regulatory burden, as part of the compromise that moved the bill
+forward. Banks see the prohibition on compliance examinations as putting them on the same
+footing as everyone else covered by the FCRA.
+
+    The OCC, which regulates national banks, has announced its intention to review the
+disclosure practices of national banks under the FCRA to ensure that the opt-out option is made
+evident to consumers. The Federal Reserve expects to issue an interpretation of the 1996
+Amendments some time this summer that would clarify for all banks what information may be
+shared with affiliates and how specific and prominent each opt-out notice must be. Treasury has
+met with the Fed, FDIC and OTS to encourage joint action in this area, and they appeared
+receptive.
+
+
+
+
+                                                           Automated Records Management System
+                                                 9
+                                                           Hex-Dump Conversion
+
+    a. The Administration could publicly prod action by national banks to make the opt-out
+options and notices evident to consumers.
+
+    b. The Administration could seek legislation repealing the exemption in the FCRA for
+affiliate data sharing by financial services firms, or scaling it back -- e.g., permitting information
+sharing for marketing purposes but not other purposes. (Sharing of the most sensitive type of
+information -- medical information -- is already addressed above.) For example, businesses
+could share consumer information among affiliates in connection with a credit card marketing
+campaign, but consumer information provided for insurance underwriting purposes to one entity
+could not be used by another entity to deny a person a loan without implicating the protections of
+the FCRA. This proposal may appease the banking industry, which uses the information mainly
+for marketing purposes, while still protecting the consumers. The FTC probably would support
+such action.
+
+Note: Action in this area must be taken cautiously. The 1996 Amendments were the product of
+an intense. multi-year debate. Revisiting the affiliate sharing issue would most likely be
+strongly opposed by the banking industry and may be a sensitive issue on the Hill.
+
+    c. Authorize the appropriate agency to write enforceable rules in this area. Alternatively,
+give this authority to each of the appropriate agencies to be exercised jointly.
+
+    Study Proposals
+
+    a. As more databases are available directly to companies, and companies themselves share
+information directly, there is some concern that the FCRA may become outdated and obsolete.
+Companies, for example, will no longer purchase credit reports from a central bureau, but rather
+will obtain information directly from the individual sources and create their own internal credit
+reports. In the absence of traditional credit reporting agencies, the protections of the FCRA
+would evaporate. The Administration could undertake a study to determine whether the FCRA
+contains the protections needed in the electronic age.
+
+    b. The Administration could review whether the regulatory review process for mergers
+should include a consumer protection analysis. For example, in addition to Justice Department
+review of a proposed commercial merger, the regulating agency could review the proposed
+merger to determine whether the merger negatively affects consumers' privacy.
+
+
+
+
+                                                 10            Automated Records Management System
+                                                               Hex-Dump Conversion
+
+    Commercial "profilers" build dossiers about individuals by aggregating infonnation from a
+variety of database sources, including public and non-public records. Individual reference
+services, sometimes called look-up services, represent a sub-set of the profiling industry. These
+services provide infonnation that assists users in identifying individuals, locating individuals,
+and verifying identities.
+
+    Although profiling plainly has legitimate purposes, the public also has legitimate concerns
+about the compilation of -- and access to -- dossiers that may contain a great deal of personal
+infonnation about a given individual.
+
+    Best Practices Model- Individual Reference Services Group
+
+    On December 17, 1997, a group of 14 Individual Reference Services (the Individual
+Reference Services Group, IRSG) entered into a agreement on privacy practices which was
+submitted to the Federal Trade Commission. The IRSG program is based on compliance with
+certain principles, including notice, disclosure, choice, security, and public education. IRSG
+members agreed to acquire personal infonnation only from reputable sources, to exclude
+marketing infonnation as a source, to take reasonable steps to assure that data collected is
+accurate, complete and timely for the purpose for which it will be used, to correct non-public
+records when appropriate, and to limit distribution of non-public infonnation to subscribers with
+appropriate intended uses.
+
+    The IRSG committed to implement a rigorous enforcement compliance method. The
+enforcement program has two prongs. First, signatories' practices are subject to review by a
+"reasonably qualified independent professional service." On the basis of established criteria, that
+entity detennines whether a signatory is in compliance with IRSG principles. The results of the
+annual review are made public. Second, signatories who are infonnation suppliers may not sell
+infonnation to look-up services that do not comply with the IRSG principles.
+
+    The IRSG members agreed to provide individuals with access to infonnation contained in
+services and products that specifically identify them, unless the infonnation comes from a public
+record, in which case the companies will provide the individuals with guidance on how they can
+obtain the infonnation from the original source. The FTC strongly disagreed with the limitation
+on the access provisions of the IRSG practices, and the Commission and IRSG agreed to allow
+18 months before revisiting the access issue. On the basis of the IRSG program and the
+commitment to review access issues, the FTC advised the Congress that legislation on individual
+reference services was premature.
+
+
+
+
+                                                11           Automated Records Management System
+                                                             Hex-Dump Conversion
+
+    The IRSG agreement is a good start, but it only covers one category of business involving the
+compilation of personal information -- traditional "look up" services like those offered by
+Lexis-Nexis. Other types of entities purchase information from one or more sources to create
+profiles. For example, some companies are in the business of compiling profiles and reselling
+them to industry users. Private investigation firms sell identifying and background information
+collected from public records, interviews, and other investigatory sources. Public records
+resellers sell public record information like driving and criminal records. List brokers like
+Metromail gather information in the aggregate from marketing transactions and rent the
+information typically used for marketing purposes.
+
+     The Administration should announce an effort, in conjunction with the FTC, to encourage
+these other types of entities to adopt self-regulatory principles analogous to those adopted by the
+IRSG and tailored to their line of business. (Private sector entities that create profiles based on
+information they collect themselves would be covered by the online privacy self-regulatory
+initiative discussed above.) The Adminstration could point out that addressing this issue is
+important to give individuals the security they need to do business in both the off-line and the
+on-line environment and that, as with online privacy generally, if the private sector fails to
+address the issue, the Administration will have to consider whether more direct government
+intervention is appropriate.
+
+
+                                         IDENTITY THEFT
+
+    The term Aidentity tbeft@ generally refers to the fraudulent use of another person's identity
+to facilitate the commission of a crime, such as credit card fraud. The criminal gathers
+information about a person and then uses the information to adopt the identity of a victim. The
+Secret Services reports that this type of offense is growing rapidly, and the victims have been the
+focus of intense media and Congressional interest.
+
+    Under existing law, identity theft offenses are clearly punishable to the extent that they
+include identification documents (i.e., forged or stolen documents) and an intent to defraud the
+United States. In other cases, however, there may be gaps in federal or state law that would
+permit or provide only minimal punishment for the practice.
+
+    Thus, it would be helpful to change the law to recognize the potential harm that could be
+done by offenders who commit identity theft with means of identification, and to address other
+problems that have emerged as a result of a dramatic increase in cases of identity theft. At the
+same time, legislation to criminalize identity theft must be carefully crafted to avoid problems
+that could arise from the federalization of a large new class of crimes.
+
+
+
+
+                                                12         Automated Records Management System
+                                                           Hex-DumP Conversion
+Deterrence Act of 1997. After raising initial concerns about the breadth of the bill, the
+Departments of Treasury and Justice worked with Kyl to produce a more narrowly focused bill.
+
+    Legislative Proposal
+
+      a. Assuming that the Kyl bill meets remaining Adminstration concerns, the Administration
+  could endorse the Kyl bill, and work publicly with Senator Kyl and the banking industry (which
+. strongly supports the bill) to see it enacted.
+
+    b. Merchants require check-writers to provide proper identification, which often includes a
+driver's license or other identification card with a social security number. Usually a merchant
+will record the identifying number onto the check to provide proof of the verification activity.
+This simple action can create a ream of problems. As a result of this activity, a person's check,
+which contains a person's name, address, and bank account number, now also contains the
+individual's social security number. By linking these pieces of personal information together on
+a single check a merchant has made this customer an even better target for identity theft.
+
+    The Administration could seek legislation that makes it illegal to record social security
+numbers on a check that is being approved for a purchase. This would mirror a law that was
+passed several years ago that prohibited the recording of a credit card number onto a check when
+the credit card was used as a piece of identification. Such legislation would neither make it
+illegal for a merchant to ask for the identification, nor indicate that such a check occurred. The
+law would merely prohibit writing the actual social security number on the check. Note,
+however, that modem "telecheck" technology permits merchants to ensure that a personal check
+is good without a Social Security number.
+
+
+                               THEFT OF PERSONAL INFORMATION
+
+    Recent media reports and Chairman Leach have highlighted a problem related to identity
+theft, where an offender obtains information illegally but then uses it for a legal purpose -- e.g.,
+pretends to be a customer in order to trick confidential information out of a bank, and then sells
+that information to a private investigator, perhaps in a divorce case involving the customer.
+
+Option
+
+   Chairman Leach will be floating a bill this week to address this problem, and will hold
+hearings on July 28 in the Banking Committee. At this point, we do not know what the bill will
+contain, though his staff has promised to provide Treasury a copy as soon as it clears Legislative
+Counsel. If the bill is acceptable, the Administration could support the bill, and package the
+support with the Kyl "identity theft" bill.
+
+
+                                                              Automated Records Management System
+                                                 13
+                                                              Hex-Dump Conversion
+
+    The use of Social Security number by the private sector in connection with a variety of
+transactions allows profilers, marketers and others to combine discrete bits ofinfonnation to
+create a portrait of an individual. These portraits have legitimate uses -- law enforcement, credit
+assessments, debt collection, etc. -- and we therefore must tread cautiously to avoid upsetting an
+infonnation structure that is fairly well established. The FTC recently indicated to Congress that
+the use of a unique identifier like Social Security numbers may contribute significantly to the
+accuracy of these portraits. In addition, the FTC indicated that "the cat may be out of the bag"
+with respect to private sector use of social security numbers.
+
+    Section 7 of the Privacy Act makes it unlawful for any Federal, State or local government
+agency to deny to any individual any right, benefit, or privilege provided by law because of such
+individual's refusal to disclose his social security account number. The Act provides an
+exception that pennits Federal, State or local governments to request disclosure of an
+individual's social security number. In such cases, the Act requires notice of whether the
+disclosure is mandatory or voluntary, by what statutory or other authority such number is
+solicited, and what uses will be made of it.
+
+    It seems unlikely that anything can be done with respect to limiting the use of social security
+numbers by the private sector -- they have become ubiquitous and any limitation could have
+significant economic implication. On the other hand, as technology provides new means of
+identification, such as biometrics, it is important to consider how to give individuals more
+control over these new categories of identifying infonnation.
+
+Proposal
+
+    The Administration could undertake a study (with or without public announcement) to
+detennine whether any steps are necessary to allow individuals to exercise more control over the
+infonnation that is relevant to new identification technologies.
+
+
+                                       PUBLIC EDUCATION
+
+    The U.S. approach to privacy focuses on choice - individuals should have the choice to
+protect or disclose most personal infonnation. Many Americans are unaware of how their
+personal infonnation is used, and they do not understand how to protect themselves or exercise
+their ability to choose. Likewise, many businesses are unaware of consumer concerns about
+privacy and have not thought through their infonnation handling practices in light of this
+concern.
+
+
+
+
+                                                14            Automated Records Management System
+                                                              Hex-Dump Conversion
+
+    The Administration could identify private sector partners to develop ,an advertising campaign
+to inform individuals about how to exercise choice with respect to the collection and
+dissemination of their personally identifiable information. Such a campaign could include all
+advertising mediums - radio, television, print, and electronic.
+
+
+
+
+                                               15            Automated Records Management System
+                                                             Hex-Dump Conversion
+EMAILS RECEIVED
+ARMS - BOX 080 - FOLDER 1004
+
+
+[07/17/1998]
+
+

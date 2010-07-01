@@ -1,0 +1,125 @@
+RECORD TYPE: PRESIDENTIAL      (NOTES MAIL)
+
+CREATOR: Sarah A. Bianchi ( CN=Sarah A. Bianchi/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME:17-FEB-1998 18:32:18.00
+
+SUBJECT:   kids announcement
+
+TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO]    )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D31]MAIL43699774R.026 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043D40B0000010A020100000002050000006F2D000000020000F569656A4E89995C14074D
+                                                                          Automated Records Management System
+                                                                                  Hex-Dump Conversion
+
+       PRESIDENT CLINTON ANNOUNCES A SERIES OF NEW EFFORTS TO ENROLL
+             UNINSURED CHILDREN IN HEALTH INSURANCE PROGRAMS
+                              February 18, 1998
+
+    Today, the President announced the first major state expansions under the recently enacted
+    Children's Health Insurance Program (CHIP) and released findings that indicate that many States
+    will soon follow_ He also unveiled an unprecedented set of public/private initiatives designed to
+    enroll the millions of uninsured children who are eligible but not enrolled in Medicaid and other.
+    state-based children's health programs. These initiatives have been designed in partnership with
+    Governors, health care providers, children's health advocates, foundations, businesses and many
+    others who are committed to providing health care coverage for the nation's uninsured children.
+
+    Over 10 million children in America are uninsured. Nearly 90 percent of these children have
+    parents who work, but do not have access to or cannot afford health insurance. Over 3 million of
+    these uninsured children are already eligible for Medicaid. However, many families are not aware
+    that their children are eligible for Medicaid, and others have difficultly filling out the application.
+    Similar problems could undermine the new Children's Health Insurance Program's goal to enroll
+    millions of uninsured children. With these challenges in mind, the President:
+
+       ANNOUNCED THAT COLORADO AND SOUTH CAROLINA HAVE JOINED
+       ALABAMA AS THE FIRST COVERAGE EXPANSIONS UNDER THE NEW CHIP
+       PROGRAM. Today, the President announced that Colorado and South Carolina join Alabama
+       as the first states to come into the children's health program. In late January, Alabama received
+       approval to expand its Medicaid program to children ages 14 to 18 up to 100 percent of poverty.
+        South Carolina will expand its Medicaid program to provide coverage to all children up to 150
+       percent ofpoverty. And, Colorado builds upon its current non-Medicaid program to cover
+       children up to 185 percent of poverty. The President also highlighted the fact that many more
+       States are well on their way to expanding coverage to more uninsured children. Currently, 14
+       states have already submitted their plans to HHS for approval, and another 18 States have active
+       working groups or task forces to design plans to address the needs of uninsured children in their
+       states.
+
+       RELEASED A NEW PRESIDENTIAL DIRECTIVE TO LAUNCH A
+       GOVERNMENT-WIDE EFFORT TO ENROLL UNINSURED CHILDREN.                                     In an
+       executive memorandum to seven Federal agencies with jurisdiction over children's programs-
+       the Departments of Agriculture, Interior, Education, HHS, HUD, Labor, and Treasury and the
+       Social Security Administration -- the President directed the establishment of a multi-agency
+       effort to enroll uninsured children. These agencies run programs such as WIC, Food Stamps,
+       Head Start, and public housing that target many of the same children who are uninsured and
+       eligible for coverage. The memorandum instructs these agencies: (l) to identify all their
+       employees and grantees who might come into contact with these children and ensure that these
+       individuals are aware of the health insurance programs available to children; (2) to develop an
+       intensive children's outreach initiative, such as distributing information, coordinating toll-free
+       numbers, and simplifying and coordinating application forms; and (3) to report back in 90 days
+       on their plan to help enroll uninsured children.
+                                                                             rlex-Dump Conversion
+ HIGHLIGHTED BUDGET PROPOSALS THAT PROVIDE MEDICAID
+ ENROLLMENT INCENTIVES TO STATES. The President's FY 1999 budget invests
+.$900 million over 5 years in children's health outreach policies, including encouraging states to
+ use schools and child care centers to enroll children in Medicaid. The budget provides states
+ with the option of automatically enrolling children in Medicaid even before having received all
+ of the complicated eligibility and enrollment forms (a provision known as "presumptive
+ eligibility"). It also expands the use of a Federally-financed administrative fund, allowing it to
+ underwrite the costs for all uninsured children - not just the limited population allowed under
+ current law.
+
+ANNOUNCED A HISTORIC PRIVATE SECTOR COMMITMENT TO PROVIDE
+OUTREACH. To complement the public outreach effort, the President announced
+unprecedented new contributions from the private sector to help ensure that all children who are
+eligible for health insurance receive it, including:
+
+    A new toll-free number that directs families around the nation to their state enrollment
+    centers. The President announced that Bell Atlantic will establish and operate a toll-free
+    number to help states enroll uninsured children. The number, that will be put in place
+    during the upcoming months, will be used by the nation's Governors to help millions of
+    families around the nation by directing them automatically to their local state Medicaid
+    enrollment agency.
+
+    Over $23 million in commitments from private foundations across the country. The
+    Robert Wood Johnson Foundation will spend $13 million over the next 3 years to fund
+    innovative state-local coalitions to design and conduct outreach initiatives, simplify
+    enrollment processes, and coordinate existing coverage programs. The Kaiser Family
+    Foundation will spend up to $10 million over the next 5 years on studies to help understand
+    why eligible children do not enroll in existing programs and how best to provide insurance
+    coverage for these children. America's Promise, with support from the Robert Wood
+    Johnson Foundation and the American Academy of Pediatrics, will mobilize the corporation
+    such as SmithKline Beecham and Sheering Plough, and local communities nationwide in
+    children's health outreach efforts.
+
+    New initiatives from corporate and advocacy organizations America to reach out to
+    uninsured children. Pampers has volunteered to include a letter in its child birth
+    education packages, given to 90 percent of first-time mothers, giving families information
+    about available health insurance options. Chain drug stores across the country will provide
+    information about the new Bell Atlantic toll-free number to their customers. The National
+    Education Association is launching an unprecedented effort to educate teachers on how they
+    can inform children and their families about health insurance, through national newsletters,
+    conferences, and special training sessions. The American Hospital Association's Campaign
+    for Coverage will increase its nationwide initiative to engage hospitals in helping uninsured
+    Americans, including children.
+
+ISSUED A CHALLENGE ACROSS AMERICA TO FIND NEW WAYS TO REACH
+OUT TO UNINSURED CHILDREN. The President challenged every physician, nurse,
+health care provider, business, school, parent, grandparent, and community across the nation, to
+                                                                        Hex-Dump Conversion
+find new ways to reach out to ensure that uninsured children eligible for health insurance are
+enrolled in Medicaid or CHIP. This national commitment should not stop until every eligible
+child across the country is enrolled in one of the existing health care programs.
+
+

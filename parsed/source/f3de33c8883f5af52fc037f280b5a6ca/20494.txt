@@ -1,0 +1,216 @@
+ RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+ CREATOR: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP [ OPD ] )
+
+ CREATION DATE/TIME:24-JUN-1998 17:22:10.00
+
+ SUBJECT:   Talking points for a Rubin call to Bible
+
+ TO: Cynthia Dailard ( CN=Cynthia Dailard/OU=OPD/O=EOP @ EOP [ OPD ] )
+ READ: UNKNOWN
+
+ TO: Elena Kagan ( CN=Elena   Kagan/OU=OPD/O~EOP   @ EOP [ OPD ] )
+ READ:UNKNOWN
+
+ TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO ] )
+ READ: UNKNOWN
+
+ TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ] )
+ READ: UNKNOWN
+
+ TEXT:
+ Treasury prepared these talking points for a Rubin return call to Bible.
+ I think they're fine -- please let me know by tomorrow morning if you want
+ to review them (otherwise I'll give Gruber the go ahead.)
+
+ The talking points reiterate our publicly stated position on price
+ estimates, in response to a June 11th fax Geoffrey Bible sent Rubin of two
+ "independent" analyses of the Treasury analysis of McCain (sent to
+ Hatch).  ==================== ATTACHMENT   1 ====================
+ ATT CREATION TIME/DATE:   0 00:00:00.00
+
+ TEXT:
+ Unable tq convert ARMS_EXT: [ATTACH.D6]MAIL495891674.126 to ASCII,
+  The following is a HEX DUMP:
+
+ FF575043870D0000010A020100000002050000000D4800000002000048B1246CCBOF92C16AEEE3
+ 256C34A9D9B3B47AA3CF3186E9BOE2B90C20C510C3882COB9272E5A451F2FE9A33C978A17A15E1
+                                                                                     Hex-Dump Conversion
+
+                                                                     June 23, 1998
+
+MEMORANDUM TO:                SECRETARY RUBIN.
+
+FROM:                         JONATHAN GRUBER
+
+RE:                          . Call to Geoffrey Bible
+
+Action Forcing Event
+
+Phillip Morris CEO Geoffrey Bible sent you a letter containing two critiques of the
+Administration's analysis of S.141S, the McCain bill. The analysis to which he refers was
+provided to the Senate Judiciary Committee on May 11, in response to a request from Chairman
+Hatch to Deputy Secretary Summers. In your return call, you reiterate the broad position that we
+presented in that analysis, while recognizing the uncertainties that underlie the study of this
+difficult topic.
+
+Background
+
+At his testimony before the Senate Judiciary Committee on April 30, Deputy Secretary Summers
+was directly challenged by Chairman Hatch to justify in detail the Administration's conclusions
+that the McCain bill would raise the price of cigarettes by $1.10 per pack (in real terms) in 2003.
+
+·      Tax Policy and Economic Policy worked together to produce this analysis over the next
+       10 days, and it is attached as Tab C
+
+·      Subsequent to our analysis, the Joint Tax Committee issued an analysis which found that
+       the price of cigarettes would actually rise by $1.68 (constant 1998 dollars) in 2003. This
+       difference was largely based on different assumptions about the baseline quantity of
+       cigarettes consumed, the amount of smuggling that would arise from this legislation, the
+       response of state taxes to this federally mandated price increase, and retail and wholesale
+       mark-ups.
+
+·      In the wake of this news, the McCain bill was augmented by adding a "volume
+       adjustment" which would lower the government receipts as cigarette volumes declined, to
+       guarantee that the price would not rise by more than $1.10 in 2003.
+
+The letter that you received (attached as Tab B) contains two "independent" re-analyses of the
+letter that was sent to the Judiciary Committee.
+
+·      The letters contain a large amount of sharp rhetoric, but the cover note from Mr. Bible
+       asks you to ignore this and focus on the analysis.
+                                                                 Hex-Dump Conversion
+
+·      Their analysis is fundamentally flawed or confused in some areas, and in others areas
+       differ from Administration analysis because of honest scientific uncertainty. On some
+       topics where there is some uncertainty, the administration has staked out a clear position.
+
+·      An example of the fundamental flaws in the analysis is the consideration of youth
+       smoking. There is a clear scientific consensus that youth smoking is highly responsive to
+       price, but this is ignored by both reviewers.
+
+·      An example of a confused point is the first reviewer's criticism of the Treasury price
+       analysis. He argues that the analysis assumes the price elasticity falls as price rises,
+       when the opposite is true. The price differences he attributes to differences in behavioral
+       assumptions are actually due to his confusion between real and nominal prices.
+
+·      An example of the honest uncertainty is analyses of how the price responsiveness of
+       smoking will change as the price rises by a large amount.
+
+·      An example of the last category is smuggling. There is some legitimate uncertainty
+       about the impact of the McCain bill on smuggling. But we believe strongly, and have
+       stated repeatedly in testimony, that smuggling will not be a significant problem given the
+       impressive new enforcement regime that we are putting into place.        .
+
+I attach as Tab A talking points for your call to Mr. Bible.
+
+Recommendation
+
+That you call Mr. Bible, relying on the attached talking points.
+
+       Yes                     No                     Let's Discuss
+                                                                                 Hex-Dump Conversion
+                           Talking Points for Call to Geoffrey Bible
+
+·      Measuring the effect of comprehensive tobacco legislation on the price of cigarettes in the
+       U.S. is an analytically difficult task that incorporates a large number of uncertainties. It
+       is impossible to measure the effect of such legislation without making a number of
+       assumptions and projections about an environment that is without historical parallel in the
+       U.S.
+
+·      These types of scientific uncertainties lead to a number of the disagreements that your
+       reviewers had with our analysis. On questions such as whether smokers are more or less
+       responsive to small versus large price changes, there is no clear right answer. But in
+       every such case we chose an assumption which was completely consistent with the extant
+       scientific literature.
+
+·      In other important areas, we disagree quite strongly with your reviewers. Two such areas
+       are the responsiveness of youth smoking to price, and the extent of smuggling that will
+       arise from a comprehensive tobacco settlement such as the McCain bill.
+
+·      On the former, there is a clear scientific consensus that youths are very responsive to the
+       price of cigarettes. This is confirmed by international evidence from Canada during the
+       1980s, where the price of cigarettes rose by 90% and youth smoking fell in half. Indeed,
+       it is confirmed by analysis contained in internal documents from Phillip Morris and the
+       other tobacco companies.
+
+·      On the latter, we believe quite strongly that the creation of a sound regulatory system -
+       one that will close the distribution chain for tobacco products - will ensure that the
+       diversion and smuggling of tobacco can be effectively controlled and will not defeat the
+       purposes of comprehensive tobacco legislation.
+
+·      Thus, while we recognize the uncertainty that underlies this exercise, we stand by our
+       analysis, and we would apply the same basic methodology to analyzing future bills on this
+       topic that emerge from the Congress.
+
+·      We hope that we can work with you in trying to pass comprehensive tobacco legislation
+       this year.
+
+Background - Specific Topics
+
+Volume Adjustment: In the wake of an unfavorable score of the price per pack effects of the
+McCain bill by JCT, the bill was augmented by adding a "volume adjustment" which would
+lower the government receipts as cigarette volumes declined, to guarantee that the cost per pack
+to the manufacturer would not rise by more than $1.10 ( 1998 dollars) in 2003. This volume
+adjustment takes as its base 80% of 1997 volumes, which is criticized by Mr. Bible.
+
+But the reason for this is quite simple: the payment stream included in the McCain bill already
+                                                                     Hex-Dump Conversion
+
+had an "implicit" volume adjustment built in, which had the payments decline over time to
+reflect the fact that we expected a fall in volume. The 80% adjustment was simply picked so
+that, given our assumptions on volume decline, we would guarantee cost per pack increase of
+$1.10 real. This is indeed the cost per pack increase "score" provided by JCT on the revised
+bill.
+
+The key point is that with this volume adjustment, the manufacturer per pack cost
+increment due to the base payments in the bill is guaranteed to be no greater than $1.10
+real. This seems to be misunderstood by both the reviewers and by Bible.
+
+The Evolution of Price Responsiveness: Contrary to the statement by the first reviewer, our
+model assumes that the price responsiveness of smokers rises as the price rises. But because the
+model is slightly non-linear, it takes larger and larger absolute price increases to generate the
+same quantity reduction. It is in this sense that the model is consistent with the intuition that as
+the price rises, the market is composed of more and more committed smokers. Our model,
+moreover, is consistent with several influential empirical studies. The criticism of it offered by
+the first reviewer is without empirical or theoretical basis._
+
+Smuggling: The regulatory regime we envision has three essential elements. First, all entities in
+the distribution chain for tobacco products - manufacturers, wholesalers, exporters, importers,
+distributors and retailers - should be required to hold a license or a permit. Licensing of
+retailers could be done at the state level. Licenses would be issued based on certain clearly
+specified criteria and could be revoked or suspended for certain specified violations. Those
+conducting business without a license would be subject to penalties. Licensed entities should
+only be authorized to sell tobacco products to other licensed entities. Second, legislation should
+require the marking, branding and identification of packages of tobacco products intended for
+domestic distribution and for export so that they may not be diverted or smuggled in
+circumvention of the legitimate channels of distribution. Third, any regulatory proposal should
+include penalty and administrative provisions that will allow for effective, efficient and uniform
+enforcement of controls over distribution.
+
+         With the necessary regulatory provisions in place to deal with potential smuggling, we
+assume there will not be an increase in smuggling for several reasons. First, the Aciosed@
+distribution scheme would limit drastically smugglers' ability to enter products into a legitimate
+distribution channel. Potential black marketeers will not be able to move products through
+legitimate wholesalers or distributors. Nor will they be able to sell products to retail consumers
+at the local convenience stores or other licensed retail outlets. Instead, without a way to place
+contraband products in the market legally, smugglers would have to sell cigarettes outside
+channels of legitimate distribution. This would be a risky proposition and one we do not
+believe will represent a significant problem. Second, U.S. cigarette manufacturers would have
+great incentives not to become complicit in any smuggling operation, as they would encounter
+enormous legal risks (such as the possibility of losing their license or, as the McCain bill
+provides, losing their cap on liability risk) and public opprobrium. Indeed, it is hard to imagine
+that large scale smuggling could occur without the manufacturers' knowledge. Third, the U.S.
+·                                                                      Hex-Dump Conversion
+
+    Customs Service has the expertise and the experience to deal with imported contraband products
+    and has already made a substantial investment in the currently planned introduction of
+    non-intrusive inspection systems and other equipment needed to detect smuggling of contraband.
+     The organic nature of tobacco and the distinctive shape of cigarettes makes them readily
+    detectable by equipment that Customs currently has in place.
+
+    Pass-Through to Price: The second reviewer disputes our assumption that these payments will be
+    passed-through to prices. But this assumption is supported by a large empirical literature, and is
+    commonly employed in outside analyses of this legislation, including those by CBO and JCT.
+
+

@@ -1,0 +1,59 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Sarah A. Bianchi ( CN=Sarah A. Bianchi/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME:21-0CT-1998 12:13:41.00
+
+SUBJECT:   FDA statement
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO]    )
+READ:UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D39]MAIL442531495.226 to ASCII,
+ The following is a HEX DUMP:
+
+FF5750433A050000010A02010000000205000000590E0000000200000COB8F17269A475350F309
+15F5FBC9FAODCB7EE4E74953395446A6457ABDECD08AA7408A3C9ED20067CBOD6BEB778131940A
+6E38161828E4B21D95318A651D50A8ACD02444D6CAD78C8590EDD63B6E62D1E2C42FD1AECE646F
+6A55B27AD80A5AFB8EF734F43FDAA7958477EEBA72584431EOE5E4EBE3C6735161161AF9AOCBB4
+396B5D3390910C3DAOD9F3B98D9E9C4837B4FF931C12873DF8D8CE4E27Cl12CBl14F973D6D17DB
+AFCD1C8ACA3F41C7AB7627C526AC5477E050F773E2153E6F3347EOE752B82047641F346790F150
+
+     STATEMENT BY THE PRESIDENT ON CONFIRMATION OF DR. JANE E. HENNEY
+          AS COMMISSIONER OF THE FOOD AND DRUG ADMINISTRATION
+                              October 21,1998
+
+     I am extremely pleased that today the Senate, with strong bipartisan support, overwhelmingly
+     voted to confirm Dr. Jane E. Henney to be the next Commissioner of the Food and Drug
+     Administration. As the first woman and first oncologist to be confirmed as FDA Commissioner.
+     I am confident that Dr. Henney will live up to the trust the Senate has placed in her.
+
+     The nation now has an FDA Commissioner who is committed to assuring that Americans have
+     safe food, safe and effective drugs and medical devices, and improved public health. Dr. Henney
+     has blazed many trails and no one is more qualified to lead the FDA. She has served four
+     Presidents and helped guide some of America's finest academic health centers. Her expertise in
+     science and technology and lifelong dedication to individual patients will enable her to strike the
+     important balance between the need for timely approval of prescription drugs and medical
+     devices, while maintaining safety and quality.
+
+     I commend the Democrats and Republicans who worked to give Dr. 'Henney a full and fair
+     hearing and help expedite this confirmation. I also want to thank representatives of consumers
+     physicians, nurses, and many within the industry for their steadfast and strong support for Dr.
+     Henney. Their combined leadership made a vital contribution toward assuring we have the
+     right person to lead FDA into the 21st century.
+
+
+
+
+                                                                   Automated Records Management System
+                                                                   Hex-Dump Conversion
+
+

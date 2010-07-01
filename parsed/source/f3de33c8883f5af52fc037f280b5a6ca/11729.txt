@@ -1,0 +1,114 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Cordelia W. Reimers ( CN=Cordelia W. Reimers/OU=CEA/O=EOP [ CEA I    )
+
+CREATION DATE/TIME: 15-MAR-1999 15:36:22.00
+
+SUBJECT:   focusing pay data collection
+
+TO: Rebecca M. Blank ( CN=Rebecca M. Blank/OU=CEA/O=EOP @ EOP [ CEA I   )
+READ:UNKNOWN
+
+TO: holzer-harry ( holzer-harry @ dol.gov [ UNKNOWN I )
+READ: UNKNOWN
+
+TO: Mark.McClellan@MSOl.DO.treas.sprint.com ( Mark.McClellan@MSOl.DO.treas.sprint.co
+READ: UNKNOWN
+
+TO: Larry R. Matlack ( CN=Larry R. Matlack/OU=OMB/O=EOP @ EOP [ OMB I   )
+READ:UNKNOWN
+
+TO: Thomas L. Freedman ( CN=Thomas L. Freedman/OU=OPD/O=EOP @ EOP [ OPD I )
+READ:UNKNOWN
+
+TO: Nora E. Gordon ( CN=Nora E. Gordon/OU=CEA/O=EOP @ EOP [ CEA I
+READ: UNKNOWN
+
+TO: Montgomery-Edward ( Montgomery-Edward @ dol.gov [ UNKNOWN I )
+READ: UNKNOWN
+
+TO: lynda.delavina@treas.sprint.com ( lynda.delavina@treas.sprint.com [ UNKNOWN I
+READ:UNKNOWN
+
+TO: Susan M. Carr ( CN=Susan M. Carr/OU=OMB/O=EOP @ EOP [ OMB I   )
+READ:UNKNOWN
+
+TO: Mary L. Smith ( CN=Mary L. Smith/OU=OPD/O=EOP @ EOP [ OPD I   )
+READ:UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD I )
+READ:UNKNOWN
+
+TEXT:
+Attached is a proposal by CEA to use Census data to focus collection of
+pay data on problematic industries.
+
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D6BlMAIL450756970.036 to ASCII,
+ The following is a HEX DUMP:
+
+FF5750435A040000010A02010000000205000000A71100000002000051BOCF076476523B39AD2D
+74CBB575A576AAB32ED3C033ABD23BA6DAE1953BEEE72D39E49DD30ED1371BE6BFC11F57BD630D
+A1E95B75DE416AA9066EODBFB39D736B523363731116221DB1C5A2F1A9D223B6DD1FA7A42B7D4F
+10DF95920BOD7DABF3096556AF4CBD4535502C3D6D300FD3791A4B3E775B1EC2A2C409A762BOA6
+52CFOAA927B4BC5E75A03943DBBEBFE2EC53C2CA37997D91CEEA7457754F2B61C56C4756EB7CF5
+E3B7B5E9DCF6B5EB3F3E33B9237A6EBB71E937AB5241CF723590CC9F779403542BB6F95D4603DF
+OD05ECB09BB41F26AE6B72B0276724290EC691B254BC45022AF973DFC03032FCOC7B9B59B4EBB2
+B44B6E7E6AAB6CE46333BEA71A4BB2D1513A91C6DBB037C315EA53C9B9C7EBD100496E4B223CD7
+                          Hex-Dump Conversion
+
+CEA Proposal to use Census data to focus collection of pay data on problematic industries:
+
+Collection of pay data from all firms in the EEO-l universe, or even half of all Federal
+contractors (which would be 30% of the EEO-l universe), would be very expensive. It would
+be better to target any additional data collection where existing data indicate that there may be a
+problem. The value of the data could be enhanced and the collection cost reduced by targeting
+on the top 10% of industries that have problematic gender pay differentials, as indicated by the
+microdata from the decennial Census.
+
+The 1990 Census Public Use Microdata Sample (PUMS) data file could be used as described
+below, to create profiles of gender differences in wages by narrowly defined occupation,
+industry, and labor market area, adjusted for differences in educational attainment and age.
+Then those industries that have unusually large gender differences in wages within occupation
+and area could be identified, and firms in those industries could be required to submit pay data on
+a revised EEO-l, 6012, or other form.
+
+The Census PUMS data, while somewhat dated, are still useful for preliminary screening to
+identify those industries that warrant closer scrutiny. Gender wage differentials within
+industries do not change very rapidly over time. In some ways, the Census is more useful for
+identifying suspicious gender gaps than the proposed revised EEO-l form would be, because it
+identifies hundreds of detailed (3-digit) occupations and includes workers' education and age. It
+contains data on a 5% random sample of individuals (about 5 million workers) and is publicly
+available for anyone to use.
+
+For each individual the 1990 Census PUMS file includes:
+        annual earnings, weeks worked, and hours worked per week -- from which average hourly
+                earnings can be calculated
+        3-digit occupation
+        3-digit industry
+        residence (state, metro area, city)
+        place of work (state, metro area, city)
+        gender
+        race, Hispanic origin group, birthplace, date of immigration, ancestry
+        educational attainment
+        age
+        and other demographic characteristics
+There is no information on firm size, actual work experience, or fringe benefits. Despite the
+lack of firm-level data, however, the Census data are still useful for identifying problematic
+industries.
+
+There is considerable doubt about the usefulness of any pay data that would be collected on the
+proposed revised EEO-l, because the few (15?) broad occupational categories would cover many
+different job titles at different skill levels and rates of pay, and because the data would lack
+information on workers' qualifications, experience, fringe benefits, and working conditions.
+This information is essential to determining whether pay differences may be the result of illegal
+                           Automated Records Management System.
+                           Hex-Dump Conversion
+
+    discrimination. However, if any such additional data are to be collected, the use of Census data
+    as described above would focus the collection more cost-effectively.
+
+

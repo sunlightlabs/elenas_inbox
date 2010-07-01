@@ -1,0 +1,47 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Cathy R. Mays ( CN=Cathy R. Mays/OU=OPD/O=EOP [ OPD 1 )
+
+CREATION DATE/TIME: 6-MAY-1999 11:00:12.00
+
+SUBJECT:   Meeting Today -- Violence Summit
+
+TO: Jeffrey A. She sol ( CN=Jeffrey A. Shesol/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: L B. Hittle ( CN=L B. Hittle/OU=ONDCP/O=EOP@EOP [ ONDCP 1 )
+READ: UNKNOWN
+
+TO: Thomas L. Freedman ( CN=Thomas L. Freedman/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Neera Tanden ( CN=Neera Tanden/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Loretta M. Ucelli ( CN=Loretta M. Ucelli/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Karin Kullman ( CN=Karin Kullman/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Jose Cerda III ( CN=Jose Cerda III/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Richard Socarides ( CN=Richard Socarides/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+CC: Justin Coleman ( CN=Justin Coleman/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+TEXT:
+Bruce is having a meeting today at 6:00 p.m. in his office.  This is a
+discussion of deliverables for Monday's violence strategy session.  See
+you at 6:00 p.m.
+
+

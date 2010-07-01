@@ -1,0 +1,49 @@
+     RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+     CREATOR: Sarah A. Bianchi ( CN=Sarah A. Bianchi/OU=OPD/O=EOP [ OPD ] )
+
+     CREATION DATE/TIME: 6-NOV-1998 18:59:18.00
+
+     SUBJECT:   privacy insert
+
+     TO: Elena Kagan     CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+     READ:UNKNOWN
+
+     CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO]
+     READ:UNKNOWN
+
+     TEXT:
+     ==================== ATTACHMENT   1 ====================
+     ATT CREATION TIME/DATE:   0 00:00:00.00
+
+     TEXT:
+     Unable to convert ARMS_EXT: [ATTACH.D19]MAIL48210011Q.326 to ASCII,
+      The following is a HEX DUMP:
+
+     FF57504370040000010A02010000000205000000880A000000020000717840D8870E1B27EAF2EA
+     6C8B7E45669121ACBA318F14F73B04545B861DD046090E4C05A030ADC1FF7A82175E987F79D197
+     7A7COD9B9333B9526143448C853A4F2E26147F76AE77EE22FEDE9D556EC7EF4021849C04382491
+     83D5D4CCFA832CAB22002D022C34A6C450E2C6A958A7FEE543720DAD764CC11D3D19F3BC6CE7AA
+     50E961BF2A74BF896D489A674D60F8DE757A1442E466EB25140FEAB2A61BA89AF4236EB4F09D97
+     73B3884E8565757686348DF1B741EEB63C93AA5B9599676CC9876AEFB88859BC29ED3FBB95998B
+In the rapidly changing health care system that relies increasingly on technology and third party
+payors, Americans are extremely concerned that their medical records will not be kept
+confidential. In fact, a recent study showed that 75 percent of Americans are concerned that
+computerized medical records will have a negative effect on the privacy of their medical records.
+ Highly publicized media accounts have only fueled these fears. For example, until recently at a
+Boston-based HMO, every single clinical employee could tap into patients' medical records, and
+in another well publicized case, a local newspaper published the information about a
+Congressional candidate's attempted suicide. Over a year ago, the Administration released a
+report outlining important new protections to assure medical records are kept confidential.
+These protections include: assuring that personal health information is used only for appropriate
+purposes; requiring those who do keep medical records to guard them safely and not
+inappropriately give them out; assuring that individuals can review and modify their own medical
+records; and severely punishing those who violate these rules and an individual's privacy.
+
+
+
+
+                                                         Automated Records Management System
+                                                         Hex-Dump Conversion
+'-   ·
+

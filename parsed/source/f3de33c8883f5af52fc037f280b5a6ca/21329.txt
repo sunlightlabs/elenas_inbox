@@ -1,0 +1,140 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Lisa M. Jones ( CN=Lisa M. Jones/OU=OMB/O=EOP [ OMB 1 )
+
+CREATION DATE/TIME:24-SEP-1998 10:28:32.00
+
+SUBJECT:   OTAG SIP Call Heads Up Memo
+
+TO: Mickey Ibarra ( CN=Mickey Ibarra/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Michael Waldman ( CN=Michael Waldman/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Gene B. Sperling ( CN=Gene B. Sperling/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Minyon Moore ( CN=Minyon Moore/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Ann F. Lewis ( CN=Ann F. Lewis/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Ron Klain ( CN=Ron Klain/O=OVP@OVP [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Rahm I. Emanuel ( CN=Rahm I. Emanuel/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: T J. Glauthier ( CN=T J. Glauthier/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Janet L. Yellen ( CN=Janet L. Yellen/OU=CEA/O=EOP@EOP [ CEA 1 )
+READ:UNKNOWN
+
+TO: Barry J. Toiv ( CN=Barry J. Toiv/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: John Podesta ( CN=John Podesta/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Sally Katzen ( CN=Sally Katzen/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Thurgood Marshall Jr ( CN=Thurgood Marshall Jr/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Lawrence J. Stein ( CN=Lawrence J. Stein/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Maria Echaveste ( CN=Maria Echaveste/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Alan S. Polasky ( CN=Alan S. Polasky/OU=CEA/O=EOP@EOP [ CEA 1 )
+
+
+READ: UNKNOWN
+
+CC: Frances Sharples ( CN=Frances Sharples/OU=OSTP/O=EOP@EOP [ OSTP ] )
+READ: UNKNOWN
+
+CC: Linda Lance ( CN=Linda Lance/OU=CEQ/O=EOP@EOP [ CEQ]   )
+READ: UNKNOWN
+
+TEXT:
+The attached document went out last night (September 23, 1998).
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D32]MAIL42577566J.226 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043CC040000010A02010000000205000000CE14000000020000D984366B49DE74C63EA912
+905EA58858B44C8403514D8275DE174C5127108FECE1B778A15D3A6848A627E198676A1C14039A
+                                                                        Hex-Dump Conversion
+
+
+
+
+MEMORANDUM FOR ERSKINE BOWLES
+
+THROUGH:                  Jack Lew
+
+FROM:                     Don Arbuckle
+
+SUBJECT:                   Heads Up Memo --EPA's OTAG SIP Call
+
+
+        On Thursday, EPA will announce its final rule for the Ozone Transport Assessment
+Group (OTAG) State Implementation Plan (SIP) Call. The rule will address the interstate
+transport of pollutants associated with elevated ozone levels in many of the nation's major cities.
+ This initiative was identified as a key next step in the President's memo ofJuly 16, 1997 to EPA
+on the implementation of the revised ambient air quality standard for ozone.
+
+         The OTAG SIP Call will require 22 eastern States and the District of Columbia to prepare
+ State Implementation Plans to obtain substantial additional reductions in NO x emissions in order
+to meet EPA-specified State NO x budgets. EP A has structured this regulatory initiative to focus
+on reductions in the NO x emissions from fossil-fired --especially coal-fired-- electric utility
+plants. EP A estimates the rule will impose costs of roughly $1.7 billion per year; electric
+utilities would incur costs of $1.4 billion per year. EP A reports estimated benefits for the rule
+ranging from one billion to four billion dollars per year. We completed our review Tuesday
+evening and the Administrator plans to sign the package (and make a press announcement)
+Thursday afternoon.
+
+        This is a controversial rulemaking. EP A is using for the first time its authority under
+Clean Air Act Section 110 to require States to control emissions that "significantly contribute" to
+nonattainment problems in downwind States. Because of the importance of this rule, we expect
+that some of the Midwestern and Southern States (&&, West Virginia, North and South Carolina,
+Kentucky) and electric utilities operating in these areas will criticize the rule and challenge it in
+Court. We understand that EPA has been reaching out to the Midwestern and Southern
+governors and utilities over the last several weeks. They believe that they have succeeded in
+tempering the response to the final rule. Some States (Georgia, Tennessee) will support the final
+rule whiie other States in this area will remain neutral. The Northeast States strongly support
+the rule.
+cc:   Maria Echaveste          Hex-Dump Conversion
+      Rahm Emanuel
+      Larry Stein
+      Ron Klain
+      Thurgood Marshall, Jr.
+      Ann Lewis
+      Sally Katzen
+      Minyan Moore
+      John Podesta
+      Bruce Reed
+      Gene Sperling
+      Elena Kagan
+      Barry Toiv
+      Michael Waldman
+      Janet Yellen
+      Mickey Ibarra
+      T. J. Glauthier
+
+

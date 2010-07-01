@@ -1,0 +1,32 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Jose Cerda III ( CN=Jose Cerda III/OU=OPD/O=EOP [ OPD 1 )
+
+CREATION DATE/TIME: 11-MAY-1999 18:12:31.00
+
+SUBJECT:   bad news
+
+TO: Leanne A. Shimabukuro ( CN=Leanne A. Shimabukuro/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Loretta M. Ucelli ( CN=Loretta M. Ucelli/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Barry J. Toiv ( CN=Barry J. Toiv/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Jennifer M. Palmieri ( CN=Jennifer M. Palmieri/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Jordan Tamagni ( CN=Jordan Tamagni/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TEXT:
+DOJ says FBI decided not to do the new crime stats after all.     They'll now
+be released Friday, embargoed until Sunday night ... like usual ... sorry
+guys .. jc3
+
+

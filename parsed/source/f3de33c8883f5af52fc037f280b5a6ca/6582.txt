@@ -1,0 +1,383 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Marjorie A. Black ( CN=Marjorie A. Black/OU=PIR/O=EOP [ PIR 1 )
+
+CREATION DATE/TIME: 6-MAR-1998 19:28:41.00
+
+SUBJECT:   Weekly Report To The President
+
+TO: Edley ( Edley @ law.harvard.edu @ inet [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Ananias Blocker III ( CN=Ananias Blocker III/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Laura K. Capps ( CN=Laura K. Capps/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Emil E. Parker ( CN=Emil E. Parker/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Laura K. Demeo ( CN=Laura K. Demeo/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Cheryl D. Mills ( CN=Cheryl D. Mills/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Robert B. Johnson ( CN=Robert B. Johnson/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Lynn G. Cutler ( CN=Lynn G. Cutler/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Sidney Blumenthal ( CN=Sidney Blumenthal/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Beverly J. Barnes ( CN=Beverly J. Barnes/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Peter Rundlet ( CN=Peter Rundlet/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Angelique Pirozzi ( CN=Angelique Pirozzi/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Sylvia .M. Mathews ( CN=Sylvia M. Mathews/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Thurgood Marshall Jr ( CN=Thurgood Marshall Jr/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Susan M. Liss ( CN=Susan M. Liss/O=OVP @ OVP [ UNKNOWN 1
+READ: UNKNOWN
+
+TO: Ann F. Lewis ( CN=Ann F. Lewis/OU=WHO/O=EOP @ EOP [ WHO 1
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP@ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Mickey Ibarra ( CN=Mickey Ibarra/OU=WHO/O=EOP @·EOP [ WHO 1 )
+
+
+READ: UNKNOWN
+
+TO: Maria Echaveste ( CN=Maria Echaveste/OU=WHO/O=EOP @ EOP [ WHO 1 ~
+READ·: UNKNOWN
+
+TO: Jon P. Jennings ( CN=Jon P. Jennings/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Janet Murguia   CN=Janet Murguia/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Robert N .. Weiner ( CN=Robert N. Weiner/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Michael Waldman (CN=Michael Waldman/OU=WHO/O=EOP @ EOP [ WHO 1 ).
+READ: UNKNOWN
+
+TO: Dawn M. Chirwa ( CN=Dawn M. Chirwa/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Bob J. Nash ( CN=Bob J. Nash/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Doris o. Matsui ( CN=Doris O. Matsui/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Mona G. Mohib ( CN=Mona G. Mohib/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Ruby Shamir ( CN=Ruby Shamir/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Paul E. Begala ( CN=Paul E. Begala/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Gene B. Sperling ( CN=Gene B. Sperling/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Nelson Reyneri ( CN=Nelson Reyneri/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Minyan Moore ( CN=Minyon Moore/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Elisabeth Steele ( CN=Elisabeth Steele/OU=WHO/O=EOP @EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Trooper Sanders ( CN=Trooper Sanders/O=OVP @ OVP [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Suzanne Dale ( CN=Suzanne Dale/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Marjorie Tarmey ( CN=Marjorie Tarmey/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Andrew J. Mayock ( CN=Andrew J. Mayock/OU=WHO/O=EOP @ EOP [ WHO 1 )
+
+
+READ: UNKNOWN
+
+TO: Julie A. Fernandes ( CN=Julie A. Fernandes/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TEXT:
+==================== ATTACHMENT  .1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D64]MAIL47225746A.026 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043C35B0200010A0201000000020500000080910200000200004536BDAEC5F0492848ABOC
+DE5FFFF08AFAF9C71928178E35E73CD7558B3COE07A038235A774015810DD6A06F495BBOCOCCA9
+BE69327E1B7DBE2BCCF7C13A58F094BD8B8C17D053D7C48DE037C4524AE2BD8FBOD103920517AA
+98850F4F065B96AODEB96368372A48330FF9CC906DCBAC7B854F46087CBA9077F1C1E83EE8DOBD
+CEC35B2CC7F2CA5781D58E1621BBC38658E54F5FAEDDOB4E89BE04F8B75E58ACB6E220BF46EF12
+69B37A8A1C6F7550867C19C19BB22AAA6D1B61B7563C3141564CC203E78BA9F34A7D6568D53DCF
+8F5EB86EFE10F0927942D5818CFD4F9D693A13178EBB3089F4C7D8F53FDB644020E6C4DC898603
+41E175277EDBC25F64044B7CE26E27D1EBFAB19A2DOE7777A181E2C4CD5CD80637963FF1634584
+7712B46DA223605120E3D384C3B27E5DE12E6ED519A038852638B1A915C631002441E8CB9DA5C2
+88B8FB68D1D1E8CF8AE5D8BBOC07E3DEC954D8E79C31F2F6B79B7B1E44B26D79A1B5FE472EC133
+F28ADD35A181C4EB4CC928E24EDCD2609F212AA77C2DEE009D9A23EFE387E6AFFA08DOB1A507ED
+AFF75CE6C88976429B6233E57B32E8F90CF90137670A1DBB63CFB68895301B063A94977C69659C
+FE9A123AB961862ADD2A6669686D7868BBD887190B059AA32B54B7272494F7AC6EED448FAE9180
+4B7CF67FBB0200BC01000000000000000000000823010000000B010000481A0000005502000000
+4E000000531B000009250100000006000000A11BOOOOOB300900000028000000A71B0000087701
+00000040000000CF1B0000083401000000140000000F1C00000802010000000F000000231COOOO
+00451900000002000000321C000008050100000008000000341COO00005503000000400000003C
+1C0000081601000000360000007C1COOOOOB30010000004EOOOOOOB21C00000805010000000800
+0000001DOOOOOB3001000000E6000000081DOOOOOB300600000044000000EE1D00000811020000
+00C6000000321EOOOOOB300400000044000000F81E00000055060000004E0000003C1F00000055
+040000004A0000008A1F00000055040000004COOOOOOD41FOOOOOO550400000034000000202000
+000B3001000000C2000000542000000B3003000000D7000000162100000B3003000000C1000000
+ED2100000B3003000000BAOOOOOOAE2200000B3003000000B9000000682300000B3003000000A2
+000000212400000B3003000000A2000000C32400000B3003000000A2000000652500000B300300
+0000A2000000072600000B3003000000CDOOOOOOA92600000B3003000000980000007627000009
+42010000002DOOOOOOOE2800000B3003000000A40000003B280000OB300300000079000000DF28
+00000B30030000006B000000582900000B30030000006BOOOOOOC32900000B30030000007EOOOO
+002E2AOOOOOB30030000007EOOOOOOAC2AOOOOOB30010000009BOO00002A2B0000094403000000
+2BOOOOOOC52B000009421D0000001DOOOOOOF02B00000942010000001DOOOOOOOD2COOOOOB3002
+000000430000002A2C00000941250000004D0000006D2COOOOOB3001000000AEOOOOOOBA2COOOO
+OB300600000043000000682DOOOOOB30010000006COOOOOOAB2DOOO00B30010000008800000017
+2EOOOOOB3001000000440000009F2EOOOOOB300100000088000000E32EOOOOOB30010000008800
+00006B2FOOOOOB300100000088000000F32FOOOOOB3001000000880000007B3000000B30010000
+0088000000033100000B3001000000C20000008B3100000942010000002A0000004D3200000B30
+020000008A000000773200000B3001000000CA000000013300000B3001000000A8000000CB3300
+000B3002000000B5000000733400000B3002000000C8000000283500000B3002000000DBOOOOOO
+F03500000B3002000000EEOOOOOOCB3600000B300200000001010000B93700000B300200000014
+010000BA3800000B300200000027010000CE3900000B3002000000C1000000F53AOOOOOB300200
+0000D4000000B63BOOOOOB3002000000E70000008A3COOOOOB3002000000FA000000713DOOOOOB
+30020000000D0100006B3EOOOOOB300200000046000000783FOOOOOB300200000046000000BE3F
+00000B300200000046000000044000000B30010000007A0000004A4000000B3001000000D90000
+00C4400000093102000000050100009D4100000B3001000000E4000000A2420000090B02000000
+11000000864300000B30020000003D000000974300000B300200000046000000D44300000B3002
+000000500000001A440000093102000000930000006A4400000B3001000000B7000000FD440000
+OB300300000043000000B44500000B30010000007DOOOOOOF74500000B30010000007800000074
+4600000B30010000008DOOOOOOEC4600000B30010000004DOOOOOO794700000B30010000008201
+0000C64700000B3001000000D0000000484900000B3001000000B5010000184AOOOOOB30010000
+                                                        Hex-Dump Conversion
+
+MEMORANDUM FOR THE PRESIDENT
+
+FROM:       JUDITH A. WINSTON
+
+THROUGH            ERSKINE BOWLES
+                   SYLVIA MATHEWS
+
+SUBJECT            PRESIDENT'S INITIATIVE ON RACE WEEKLY REPORT
+                   FEBRUARY 28 - MARCH 6
+
+DATE:       MARCH 6,1998
+
+
+ADVISORY BOARD ACTIVITIES
+
+     Asian Pacific Americans in Higher Education. On March 1, Angela Oh gave
+     the keynote address at their annual conference. She spoke about the
+     importance of the involvement of the higher education community in the
+     Initiative.
+
+     French-American Foundation. On March 4, Angela Oh and other Los Angeles
+     community leaders hosted a discussion on tolerance and cooperation among
+     racial groups in the Los Angeles area with a delegation of French civic
+     educators.
+
+     University of Mississippi. On March 16 -17, the University of Mississippi will
+     sponsor a series of events for members of the Advisory Board, including a public
+     forum. The University is an important venue for a Race Initiative event because
+     of its role in the integration of higher education - - as a result of James
+     Meredith's effort to enroll there, it is analogous to the role of Little Rock Central
+     High School in public school integration. Governor Winter, Rev. Johnson Cook,
+     and Bob Thomas will participate in the public forum. Press coverage for this
+     event has been quite extensive and positive.
+
+OFFICE OF THE EXECUTIVE DIRECTOR
+
+     Educational Testing Service.      On March 3, we met with Educational Testing
+
+                                           1
+ President for Public Leadership. They provided us with a description of
+ research they are undertaking to create alternative measures of merit and
+ redifine the role of testing in college admissions and affirmative action programs.
+ WH staff from the Counsel's office, National Economic Council, Domestic Policy
+ Council, and the Office of Public Liaison joined us for this meeting.
+
+  Research Advisory Group. On March 5, we met with representatives from
+  cabinet departments and agencies which committed to support the National
+  Academy of Sciences (NAS) race research effort. It is an effort to summarize
+  existing research relating to race. In this meeting, we discussed topics for the
+. research summaries. We also asked representatives to suggest names of
+  researchers and authors who could be commissioned by the NAS to write these
+  papers.
+
+ "How To" Manuals. A manual on how to conduct dialogues on race is due to
+ go to publication shortly. An initial printing of 10,000 easily reproducible
+ 40-page manuals is contemplated. Initial distribution will be for the Campus
+ Week of Dialogue from April 6-9, and the Statewide Days of Dialogue on April
+ 30, as well as for public officials, youth, corporate leaders, and religious leaders.
+
+  March Advisory Board Meeting. We are continuing to draft the agenda for the
+  March Advisory Board meeting. It will occur on March 23-24 in Denver,
+  Colorado, and will focus on race and stereotypes. We are working with Advisory
+  Board members, consultants, and other experts to identify key questions for
+. discussion, likely panelists, and other appropriate meeting participants.
+
+ Campus Week of Dialogue. The letter from Secretary Riley and Dr. Franklin
+ was sent to 3,500 college and university presidents across the nation this week.
+ The letter invites them to participate in our Campus Week of Dialogue which will
+ occur April 6-9. Also, we met with over 30 higher education organizations and
+ they agreed to contact their members and encourage them to participate in the
+ Campus Week of Dialogue. We are already beginning to receive responses
+ from colleges that they will be participating in this event.
+
+ Religious Leaders Forums. The first Religious Leaders Forum will be held in
+ New Orleans on April 15. The second forum will occur in Louisville, Kentucky,
+ but a date has not yet been determined.
+
+ Corporate Leaders Forum. The forum in St. Louis, Missouri, will now likely
+ occur in late April to accommodate Secretary Slater's schedule. Efforts are
+ being made, as well, to schedule a forum in New York to be hosted by Secretary
+ Rubin.
+
+
+
+                                       2             Automated Records Management System
+                                                     Hex-Dump Conversion
+
+     DEPARTMENT OF JUSTICE
+
+          Hate Crimes Conference. Approximately 250 attendees, including
+          representatives of 90 United States Attorneys' offices, law enforcement
+          officials from 50 states, 40 FBI agents, and 20 ATF agents, attended the
+          Hate Crimes seminar in Washington, D.C. Attendees heard from the
+          Attorney General, Acting Assistant Attorney General for Civil Rights,
+          President and CEO of the NAACP Kweisi Mfume, and DOJ Hate Crimes
+          Coordinator Castello, among others. The Attorney General asked all
+          U.S. Attorneys to form a district Hate Crimes Working Group which would
+          include federal, state, and local law enforcement and community-based
+          groups.
+
+          Japanese-Americans. On February 27, Bill Lee, Acting Assistant
+          Attorney General for the Civil Rights Division, traveled to Los Angeles to
+          meet with Japanese Americans. He announced that Japanese
+          Americans who were fired from railroad jobs during WWII would be
+          eligible for redress payments.
+
+          American Indians Conference. On February 26, the Attorney General
+          addressed the National Congress of American Indians, where she touted
+          the Administration's proposed increased budget funding for Indian
+          Country.
+
+     DEPARTMENT OF INTERIOR
+
+          Alaska Indian Country Decision. In a unanimous decision, the U.S.
+          Supreme Court ruled that lands conveyed under the Alaska Native Claims
+          Settlement Act (ANCSA) do not constitute Indian Country. Passed in
+          1971, ANCSA settled aboriginal land claims in AK by conveying 44 million
+          acres of land and approximately $1 billion to Alaska Native corporations.
+          The Supreme Court held that ANCSA ended federal supervision over
+          Indian affairs. Accordingly, tribes in AK will not be able, under current
+          law, to exercise governmental powers over ANCSA lands such as taxing,
+          tribal court jurisdiction and environmental regulation. The reaction to the
+          Supreme Court's decision has been diverse. Tribal government
+          representatives have expressed great disappointment, but have also
+          stated that they do not expect much to change on the ground. The AK
+          Congressional delegation has applauded the decision, but has also noted
+
+                                        3
+                                                       Automated Records Management System
+                                                       Hex-Dump Conversion
+
+
+         that the case has underscored problems in rural AK that need to be
+         addressed. The Governor has created a Rural Alaska Governance and
+         Empowerment Commission to review AK's relationship with and
+         responsibility to rural AK.
+
+    UNITED STATES DEPARTMENT OF AGRICULTURE
+
+         Civil Rights. On March 2, Secretary Glickman spoke to an all-employee
+         gathering at USDA to give an update on civil rights, including USDA's
+         accomplishments and challenges. Secretary Glickman said that USDA .
+         "has come a long way" in the last year, and that the civil rights efforts of
+         the past year would "continue without interruption."
+
+    DEPARTMENT OF LABOR
+
+
+         NAACP Image Award. On March 5, Secretary Herman was honored in
+         a national broadcast of the NAACP Image Awards which aired March 5 on
+         Fox Television in a gala honoring African American artists, writers, and
+         public figures. Secretary Herman received the President's Award for her
+         lifetime achievements and public service.
+
+    DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT
+
+         Congressional Black Caucus. On March 4, Secretary Cuomo attended
+         the Congressional Black Caucus' weekly luncheon to discuss HUD's FY
+         '99 budget priorities. The luncheon allowed members of the caucus to
+         engage in an informal dialogue with the Secretary on HUD initiatives and
+         budget.
+
+    DEPARTMENT OF TRANSPORTATION
+
+         Racial Awareness Initiative. Approximately 500 enthusiastic
+         participants listened to a discussion of federal, state, and local issues of
+         concern for the survival of our African-American communities. Secretary
+         Slater participated in this event and his remarks focused on the Welfare to
+         Work Initiative, the Race Initiative, and the importance of education in the
+         survival of our children in the 21st century.
+
+    OFFICE OF PERSONNEL MANAGEMENT
+
+         Race Discussions. On March 4, Director Lachance taught classes and
+         visited the University of Southern California and California State
+         University, Los Angeles. At both campuses she amplified the SOTU,
+         budget and reinvention themes, as well as diversity in the federal
+
+                                       4                 Automated Records Management System
+                                                         Hex-Dump Conversion
+
+
+     workforce and the Administration's success in creating a workforce that
+     reflects the nation's diversity.
+
+     Conversations That Bring Us Together. On March 4, Director
+                             Lachance held a roundtable discussion at the
+                             Congregational Church of Christian Fellowship
+                             in Los Angeles, CA.
+
+
+
+
+                                                      Automated Records }'f::magement System
+                                  5                   He.x.Dump Conversion
+
+

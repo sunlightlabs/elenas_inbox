@@ -1,0 +1,106 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Dennis K. Burke ( CN=Dennis K. Burke/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME:29-APR-1997 08:43:26.00
+
+SUBJECT:   latest version of draft POTUS statement on Sentencing Commission
+
+TO: Laura Emmett    CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+TO: Leanne A. Shimabukuro    CN=Leanne A. Shimabukuro/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D43]MAIL49651381X.116 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504370040000010A02010000000205000000471100000002000027A79230814D98FEAEB039
+6688CCB911FIF076BOBBE053E3EF9B58FE844B862C251B27CDA28344D5B67D580D41296AF7B64C
+88A426BA5CC7E58333737587295255F7E57F59AIB3DB15B50E56400373B4856101D6467DEEBF7A
+8B632095A44F5B23B7C3F61F743CE391390D7D2573F238384DF7E4F3490490D44D415745BA5461
+12A79F4E5016FFD76BAE2D94CD6C15513ACF92045D7668BIB51B55C2D7700619075EB45F4CB81C
+1148E228BF127A4AFF2CEB3CF3FF6329DIID18C4BOBAF65E84955F2B296E5D13B676176C30774E
+BAFEDC344F296E9200602E70CEC83CA6CCE2C2FD5F2CF03B63B911B4D9F8F80F469372082078C6
+179C67854E23BOCC8151F338280E17F98FD14EEFDC2046DCD2074BB280D50B69A8CC9013DC57E9
+0096F1B7D2C7716680E9B5A3B4E842B37A5EFB55ED1FA5288EEE6C225FB5E49ED4AFDB75COF570
+599C44C0098DF13C582EC213D21381E67470504F84A9B618F6F90A682E889C7D1091E7C5E373B9
+B70FCF497270D3FF8A69B76E8ACAE4EFF6D7C698879B11B9560462OF848A6EBOEBD09F5AB048EA
+009FE97A9CAA730DA6F6BDAD7440B9E635A78A245A793951D33857D283D96C5783F2536F9AC153
+A3C2FA06FDE34E97DF8244CE6F3COFE4E54EAA03C7B2F7D2800B14DF7F2A31A1FC3FFE1FEB4DOE
+052BFA174502000900000000000000000000000823010000000B0100007E020000005501000000
+4E0000008903000009250100000006000000D70300000B300200000028000000DD030000087701
+000000400000000504000008340100000014000000450400000802010000000F00000059040000
+080501000000080000006804000000984C006F00630061006C0020004800500020004C00610073
+00650072006A006500740020003500000000000000000000000000000000000000000000000000
+00000000000000000000000057494E53504F4F4COOOOOOOOOOC800C8002C012C012C012C01C800
+C80030000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000BOI00002800D61EC30F3908000011090000005AOOOB01008B143600540069006D0065
+00730020004E0065007700200052006F006D0061006E00200052006500670075006C0061007200
+000000000000000001000200580201000000040028000000000000000000000000000000000000
+00011202002400A1000000A10000000A0000004704010048004804010002004904010002004A04
+140065814B04010045004C04010002004D04010045004E04010002004F04010045005004010002
+005696532200000000000000000000D400DC09F80708337C007800000200005004000003010004
+0002000000DDOA10008301040003000200211000DDDDOBOB00030000040BOODDFI024A04F19BF1
+034A04F1F1004A04F19BFI014A04F1F1024A04FIF1034A04F1E0401200000000910D910DIDOOEC
+131200EOF20CF253544154454D454E548042598054484580505245534944454E54F30CF388D004
+1500000B00090001B0040000000001201500DOCCCCE0110COOOOOO0008070COOE04980636F6D6D
+656E64807468658053656E74656E63696E6780436F6D6D697373696F6E80666F72806D6F76696E
+6780666F72776172648077697468807265636F6D6D656E646174696F6E7380746FCF436F6E6772
+                             STATEMENT BY THE PRESIDENT                             Hex-Dump Conversion
+
+
+       I commend the Sentencing Commission for moving forward with recommendations to
+Congress to reduce the disparity between crack and powder cocaine penalties. My
+Administration will give them very serious consideration. I have asked Director McCaffrey and
+Attorney General Reno to review the recommendations and to report back to me in 45 days. I
+look forward to working with the Congress on this issue.
+
+       In October 1995, I signed legislation disapproving the Sentencing Commission's
+recommendation to equalize penalties for crack and powder cocaine distribution by dramatically
+reducing the penalties for crack. I believe it was the wrong approach then, and would be the
+wrong approach now.
+
+        Current law creates a substantial disparity between sentences for crack and powder
+cocaine. I have stated before that some adjustment to this penalty structure is warranted as a
+matter of sound criminal justice policy. Federal prosecutors should target mid- and high-level
+drug traffickers, rather than low-level drug offenders. An adjustment to the penalty scheme will
+help ensure this allocation of resources and make our federal efforts in fighting drugs more
+effective. [At the same time, an adjustment will reduce the disparate racial impact of the current
+sentencing scheme.] That is why the legislation I signed directed the Sentencing Commission to
+undertake additional review of these issues and to report back with new recommendations.
+
+        The sentencing laws must continue to reflect that crack cocaine is a more harmful form of
+cocaine. The Sentencing Commission's new recommendations do so. Trafficking in crack, and
+the violence it fosters, has a devastating impact on communities across America, especially
+inner-city communities. Any change in penalties must ensure that more dangerous offenders
+receive tougher sentences.
+
+       I am also pleased that the Sentencing Commission has increased penalties for
+methamphetamine offenses pursuant to the legislation which I signed into law last year. This
+law asked the Commission to toughen penalties on this emerging drug to prevent the kind of
+epidemic we saw in the 1980's with cocaine use. We will carefully study these new penalties.
+
+        My Administration has fought to stop drug abuse and its destructive consequences.
+Overall, drug use in the United States has fallen dramatically -- by half in 15 years. And cocaine
+use has dramatically decreased since the high point in 1985 -- the number of current cocaine
+users is down by 74% over the last decade. While these are encouraging figures, I am fully
+committed to doing more to keep bringing drug use down - - particularly among our children.
+
+
+DRAFT
+4/29/97
+8:40 am
+
+

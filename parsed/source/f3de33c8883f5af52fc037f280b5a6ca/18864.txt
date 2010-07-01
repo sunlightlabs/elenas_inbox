@@ -1,0 +1,76 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME: 5-MAR-1998 10:26:54.00
+
+SUBJECT:   Revised tobacco list
+
+TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+TO: Mary L. Smith ( CN=Mary L. Smith/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Cathy R. Mays ( CN=Cathy R. Mays/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Peter G. Jacoby ( CN=Peter G. Jacoby/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+TO: Thomas L. Freedman ( CN=Thomas L. Freedman/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D82]MAIL430593363.026 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043800B0000010A0201000000020500000066230000000200007ADB49120911F65F34D35E
+                                                     March 2-6th
+                                                                                                             3/5
+DAY                      GROUP                           LOCATION              ADMIN ATTENDEES (IF
+                                                                               OUTSIDE MTG)
+
+Thursday   10:30         Sen. Mack                        517 Hart             Bowles, Reed, Stein
+
+           11:00         Documents                        211
+
+           II :30        ReI>' Waxman                     2204 Rayburn         Bowles, Reed, Stein
+
+           2:00          Sen. Domenici                    328 Hart             Bowles, Reed, Stein
+
+           2:00          House/Senate Dem                 H-201 Capitol        Emanuel, Rice, Jacoby,
+                         Communications Staff                                  Tarplin, Skolfield
+
+           2:45          Weekly Coordinating Meeting      211
+
+           3:34          Sen. McCain                      241 Russell          Bowles, Reed, Stein
+
+           4:30          Ivan/Hollings                    558 Dirksen          Reed, Tarplin
+
+Friday     9:00          DOJmtg                           5132 Main Justice    Kagan, Rice
+
+           10:00         Leg Conference Call              456-6799 code 7298   Reed, Stein/Jacoby, Kagan,
+                                                                               Rice, TarplinlBurke, Gruber
+
+
+
+           1:30 (tent)   Sen. Conrad and Dem task         TBD                  Bowles, Reed, Stein
+                         force
+
+           3:00          Marketing! Legal Strategy
+                         Meeting
+
+           4:00          International Issues             472
+
+

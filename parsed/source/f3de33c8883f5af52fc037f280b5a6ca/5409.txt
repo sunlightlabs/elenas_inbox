@@ -1,0 +1,94 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: cynthia A. Rice ( CN=cynthia A. Rice/OU=OPD/O=EOP [ OPD 1 )
+
+CREATION DATE/TIME: 2-DEC-1997 15:59:14.00
+
+SUBJECT:   CEA uncovered report{ng errors in latest caseload numbers
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+CC: Andrea Kane ( CN=Andrea Kane/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+CC: Diana Fortuna ( CN=Diana Fortuna/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TEXT:
+Sandy Korenman of CEA uncovered some state reporting errors in the July
+caseload numbers.
+California reported too many families on TANF for July (the number of
+recipients was right) -- although we didn't release state-by-state numbers
+for families, this California error made the overall number of families
+reported for July too high and thus understated the decline in number of
+families on TANF.
+
+Also due to reporting errors, the number of recipients in Colorado was
+actually higher than we reported and NJ was lower (see below). We're
+still getting the details.  I doubt these changes affect the overall
+number -- i.e., down over 3.8 million since 1993, 1.9 million. since last
+August -- since we were "over" 40,000-50,000 on each.  In fact, given that
+NJ's caseload is four times that of Colorado's (253,700 vs. 60,056) and we
+over-reported NJ and underreported CO, the corrections may result in a
+slightly larger decline in caseloads than we reported.
+
+---------------------- Forwarded by Cynthia A. Rice/OPD/EOP on 12/02/97
+03:16 PM --------~------------------
+
+
+
+
+Sanders D. Korenman
+12/02/97 02:04:39 PM
+Record Type:    Record
+
+To:      Rebecca M. Blank/CEA/EOP, cynthia A. Rice/OPD/EOP, Diana
+Fortuna/OPD/EO.P, Maria J. Hanratty/CEA/EOP
+cc:
+Subject:         errors in latest caseload numbers
+
+
+To follow up on my earlier message:
+I spoke with Howard Rolston today about the strange difference in the
+chages in the number of families vs. number of recipients in the latest
+numbers. As expected, the source is reporting errors.     Howard doesn't
+have the final analysis, but the story is something l~ke the following.
+California's number.s for families are incorrect due to the reporting of
+
+
+all families rather than those getting $10 or more in benefits. The
+number of recipients is correct. There were also problems with NJ and CO.
+NJ's problems relate to de-linking Medicaid and TANF.   I believe as a
+result CO's recipiency decline is overstated and NJ's is understated.
+
+
+                                                      )
+
+Sandy's earlier message said:
+
+There are couple of odd things you mayor may not be aware of in the July
+welfare 'numbers on ACF's page. I spoke with Howard Rolston about them this
+morning, who is looking into them .
+
+The decline in the number of recipients from June to July is about
+240,000, which is in line with recent months, and indicates no slowing in
+the caseload reduction ... in fact, a constant monthly decline indicates
+acceleration in the rate of decline since the base is falling.    But the
+reduction in the number of families between June and July is too low to
+support the recipient decline ... only about 40,000.   This would mean the
+average family size of families leaving is 6, compared to the overall
+average size of just under 3. While it is theoretically possible for this
+to be "real" (for example, states may be motivated to move two-parent
+families off TANF due to work requirements), it more likely reflects an
+error of some sort.
+
+ The other issue is that some of the column headings in tables on the ACF
+ web page are incorrect ... for example, the same numbers appear under
+ columns headed "April 97" and "July 9,7" in different tables. These
+'mistakes are pretty easy to figure out, however.
+
+

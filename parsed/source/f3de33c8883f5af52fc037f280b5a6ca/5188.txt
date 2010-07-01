@@ -1,0 +1,107 @@
+     RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+     CREATOR: Michael Cohen ( CN=Michael Cohen/OU=OPD/O=EOP [ OPD ]       )
+
+     CREATION DATE/TIME: 5-NOV-1997 16:51:33.00
+
+     SUBJECT:   Draft testing report language
+
+     TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ]      )
+     READ: UNKNOWN
+
+     TO: Br.uce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP   @   EOP [ OPD ] )
+     READ: UNKNOWN
+
+     TEXT:
+     Attached is a first cut at report language explaining the essence of what
+     we've agreed to, trying to make it acceptable to Goodling. I'm still
+     working on language for the caucuses.   What do you think?==================== ATTACH
+     ATT CREATION TIME/DATE:   o 00:00:00.00
+
+     TEXT:
+     Unable to convert ARMS_EXT: [ATTACH.D9]MAIL48982680E.316 to ASCII,
+      The following is a HEX DUMP:
+
+     FF57504312040000010A020100000002050000009511000000020000F275E984E44DED038A83CE
+     21359DFFE975BFDA9B55E2DDEA23C2861A3FOFFD30C4CF448C2779561976F5D57A1CAB8186AC70
+     3A913889DA8D190128C21523E85C6858COEB8526CBE81AD0569045F61704830B99EFECB63A874C
+     8709FBF7969A93708687B96ED02EFD63ECBC8DA086C5F2611982AC5F28DCF5F74729DA38F3B5F9
+     9582864B97462DC13A4895A4808F43B11A88B316461DCOEOODA84D4A7210B50745DF5E80E24FCE
+     55D5DB9F9B827AE964E4EB143616291B34A676D1956CB2F9277D68DADF7F525ADOEA4C3361E365
+     1613CC4389FE07FFAC4C7FF88920559A8CBE07236BC054D93C7025D126A669B5FE60D941227221
+     095D95E29C9AF69423977D648EA33FDFBF8CB5F9157EAB2E83F83A8CB4C2CE5AE964BBE8316585
+     5665970F544B569F23D53F8EOOCD9CCEC97FCCAF86BFOE50ACDOA1BD708DE9D97F97B6847FC503
+     BADBB9C519736740DD90A778E7516121AEOF0048020E7290BE451B32A57478F4761B3E4D837101
+     752F1D2F05CCF06EF8642330AD2614ADC7C39012D6A30D39378F2E5ADA8FFEBAC00186785A148E
+     BC44D17C8CDF1B8CCA6C5FBFAEACE0477C980568527D0033BD1B001466CEFF242F09F62A6CD5BD
+     6B6FB291CEBB524A33305ADCA1AB753E71189DFFE658AC02C2B01COD845CF4BFCC144EC40BD97A
+     BA59B3106E02000700000000000000000000000823010000000B01000062020000005501000000
+     4E0000006D03000009250100000006000000BB0300000877010000002EOOOOOOC1030000083401
+     00000014000000EF0300000802010000000F0000000304000000984800500020004C0061007300
+     650072004A006500740020003400200050006C007500730020002D0020004C006F00630061006C
+     000000000000000000000000000000000000000000000057494E53504F4F4COOOOOOOaOOC800C8
+     002C012C012C012C01C800C8003000000000000000000000000000000000000000000000000000
+     000000000000000000000000000000000000000000000000000000000000000000000000000000
+     000000000000000000000000000000000000000000000000000000000000000000000000000000
+     000000000000000000000000000000000000000000000000000000000000000000000000000000
+     0000000000000000000000000000005E004F132800D61EC30F3908000011090000005AOOOB0100
+     8B143600540069006D006500730020004E0065007700200052006F006D0061006E002000520065
+     00670075006C006100720000000000000000000100020058020700000001000100130002000200
+     020003000100450004000200020005000100450006000A000200070009000200F95B5B23000000
+     003801F41F6A00030002006B0008337C007800010200000700000003F1020100F1447261667480
+     4D616E6167657273805265706F7274CC4E6174696F6E616C8054657374696E67CCCCCCE0110COO
+     00000008070COOE04D616E61676572738028476F6F646C696E673F3F3F2980616E648074686580
+     41646D696E697374726174696F6E806167726565807468617480697480697380696D706F727461
+     6E7480746F806861766580686967682CCF766F6C756E74617279806E6174696F6E616C80737461
+     6E646172647380696E8074686580626173696380736B696C6C73806F668072656164696E678061
+     6E64806D6174682C80616E6480746F806D6561737572658077686574686572CF73747564656E74
+     7380617265806D656574696E67807468657365807374616E64617264732C80616E6480746F8070
+     726F76696465807468617480696E666F726D6174696F6E80746F8073747564656E74732C807061
+     72656E747380616E64CF74656163686572732E2E80805468658041646D696E697374726174696F
+National Testing                                                     Automated Records Management System
+                                                                     Hex-Dump Conversion
+
+        Managers (Goodling???) and the Administration agree that it is important to have high,
+voluntary national standards in the basic skills of reading and math, and to measure whether
+                                                                                                           )
+students are meeting these standards, and to provide that information to students, parents and
+teachers.. The Administration has proposed voluntary national tests in order to measure student
+achievement related to national standards. However, every state already administers a number
+oftests, and many are concerned that an additional, national, test would be an unnecessary
+burden ..
+
+         To address this concern, the National Academy of Sciences will be commissioned to
+conduct a study of the feasibility of equating existing state and commercially available tests with
+each other and with the National Assessment of Educational Progress. The purpose of this study
+is to determine whether it will be possible to use existing tests administered by states and local
+school districts, to compare individual student performance with existing, challenging national
+content and performance standards. The purpose is also to determine if the same tests can be
+used to compare the performance of students in different states and communities, on different
+tests, to each other. The NAS shall report the results of this study to (          ) no later than
+June 30, 1997.
+
+        The NAS will conduct this study in consultation with the National Governors'
+Association (NGA), the National Conference of State Legislatures (NCSL), NAGB, the
+Congress and the White House. While the NAS study is being conducted, NAGB will oversee
+the development of voluntary national tests in 4th grade reading and 8th grade math, which will
+be based on the same content and performance standards as are used for NAEP, and which are
+linked to NAEP to the maximum extent possible. However, no pilot testing of items for the
+national test may be conducted until the NAS report is delivered as scheduled on June 30, 1997.
+
+        The Administration and the Congress (House Committee???) will work together to
+incorporate the findings from the NAS study into the reauthorization ofNAEP and NAGB. The
+Administration agrees that, where it is feasible and practical to validly and reliably equate test
+scores and link performance levels on State assessments and commercially available standardized
+tests with the National Assessment of Education Progress, than these tests are a suitable
+substitute for its proposed national test. To the extent that NAS study demonstrates ways in
+which existing tests can be equated with each other and with NAEP, or ways in which existing
+tests can be modified in order to facilitate such equating, the Administration and (the House
+Committee?) intend to work together to implement these recommendations through the
+reauthorization ofNAEP.
+
+       [Do we want/need to say something about Goodling's point that the committee will give
+President opportunity to have our testing proposal considered during the NAEP reauthorization?}
+
+       [I'm working on Hispanic and Black Caucus langauge possibly to be added]
+
+

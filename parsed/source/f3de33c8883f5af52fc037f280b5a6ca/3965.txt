@@ -1,0 +1,176 @@
+  RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+  CREATOR: Mary L. Smith ( CN=Mary L. Smith/OU=OPD/O=EOP [ OPD ] )
+
+  CREATION DATE/TIME:12-AUG-1997 15:29:31.00
+
+  SUBJECT:   Tentative agenda for Hopwood meeting
+
+  TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+  READ: UNKNOWN
+
+  CC: Tanya E. Martin ( CN=Tanya E. Martin/OU=OPD/O=EOP @ EOP [ OPD ]   )
+  READ: UNKNOWN
+
+  CC: William R. Kincaid ( cN=william R. Kincaid/OU=OPD/O=EOP @ EOP [ OPD ] )
+  READ: UNKNOWN
+
+  TEXT:
+  Elena, Here is a possible agenda for the Hopwood meeting. Let me know if
+  you have comments, revisions, etc.  Mary==================== ATTACHMENT  1 ========
+  ATT CREATION TIME/DATE:   0 00:00:00.00
+
+  TEXT:
+  Unable to convert ARMS_EXT: [ATTACH.D26]MAIL405665324.216 to ASCII,
+   The following is a HEX DUMP:
+
+  FF575043660E0000010A020100000002050000004E5C0000000200003D54F5A96A7FFA038DCA66
+  36032EBFBOOFF9BD5018B91FF004B1952138814E4B270249EB87DC2DA7B01F1659E96B65B8ECEE
+  6ECBOD160AC1099E5E2D4216DEBCDC6A72D41B4D7AD440F5E83B694C2DF1DA42E21C871CDB90D3
+  07267DAB879EC1512A6FE9B9501085823E025A9DED457CAEFC61C5B5BE6282A24D194E79E30D4B
+  29833109DCD5828EEB6A6222782596B8C41CFB964BE163FD70EBCDODA9DE840FE35D74348C8561
+  21AA4B3DE95666B51251FEC4374FEAC3C2487998FOA7763C73E69B63EOOB69D3AC8F2C31CB0827
+  39F4E5FB24D4AE28E20311158CCBEF1D1AFD78BA58086ED10B9FD1F37D8236D845FE45D21BEA25
+  828E03931E59274202D8BF2B24A333AFE106COEDF46CAOACB878C70910F7FE5D1CD36B22DCFFE5
+  8501FB6AE87FC9EB146F709135D96F1404AB5016CCC70D6638413B149DDD7823A6424EOC2A5C1F
+  13A811B4A02EOA23B7B63BEF4BB6BD81AAF5B1DD4C256BBOCDADC4CF686DD2BE4988CDFD1301D2
+  E873CD1FEFDD8AD7E254750907B2525BE1A7D25C5AFF5445402B90C282FF5A628654B6982AC4EA
+  40493C844FBF94EFDE5577B33FD9290828980169348A30036DCBOB0955CA30CF078AC3A7105C66
+  06A82A4BB41B14DAAE82973053C905EC3847C7B5C60BED450EC7BF5F4462189A1EA9AOD7556662
+  AA0883EE7D0200A100000000000000000000000823010000000B010000CEOA0000005501000000
+  4EOOOOOOD90B000009250100000006000000270COOOOOB3002000000280000002DOC0000087701
+  00000040000000550C000008340100000014000000950C00000802010000000FOOOOOOA90COOOO
+  00450100000002000000B80COOOOOB050100000008000000BAOCOO00081103000000C6000000C2
+  OCOOOOOOOOOOOOOOOOOOOOOOOOC20COOOOOOOOOOOOOOOOOOOOOOOOC20COOOOOOOOOOOOOOOOOOOO
+  0000C20COOOOOOOOOOOOOOOOOOOOOOOOC20COOOOOOOOOOOOOOOOOO000000C20COOOOOOOOOOOOOO
+  0000000000C20COOOOOOOOOOOOOOOOOOOOOOOOC20COOOOOOOOOOOO000000000000C20COOOOOOOO
+  0000000000000000C20COOOOOOOOOOOOOOOOOOOOOOOOC20COOOOOO000000000000000000C20COO
+  0000000000000000000000C20COOOOOOOOOOOOOOOOOOOOOOOOC20C000000000000000000000000
+  C20COOOOOOOOOOOOOOOOOOOOOOOOC20COOOOOOOOOOOOOOOOOOOOOO00C20COOOOOOOOOOOOOOOOOO
+  000000C20COOOOOOOOOOOOOOOOOOOOOOOOC20COOOOOOOOOOOOOOOO00000000C20COOOOOOOOOOOO
+  000000000000C20COOOOOB30010003004E000000880DOOOOOOOOOO00000000000000880DOOOOOO
+  000000000000000000880D000000000000000000000000880DOOOO00000000000000000000880D
+  000000000000000000000000880D00000000000000000000000088ODOOOOOOOOOOOOOOOOOOOOOO
+  00880D000000000000000000000000880DOOOOOOOOOOOOOOOOOOOO0000880DOOOOOOOOOOOOOOOO
+  00000000880D00000942020000001DOOOOOOD60DOOOOOOOOOOOOOO0000000000D60DOOOOOOOOOO
+  00000000000000D60DOOOOOOOOOOOOOOOOOOOOOOOOD60DOOOOOOOO0000000000000000D60DOOOO
+  00000000000000000000D60DOOOOOOOOOOOOOOOOOOOOOOOOD60DOO0000000000000000000000D6
+  ODOOOOOOOOOOOOOOOOOOOOOOOOD60DOOOOOOOOOOOOOOOOOOOOOOOOD60DOOOOOOOOOOOOOOOOOOOO
+  0000D60DOOOOOOOOOOOOOOOOOOOOOOOOD60DOOOOOOOOOOOOOOOOOO000000D60DOOOOOOOOOOOOOO
+  0000000000D60DOOOOOOOOOOOOOOOOOOOOOOOOD60DOOOOOOOOOOOO000000000000D60DOOOOOOOO
+                                                                   Hex-Dump Conversion
+                                          AGENDA
+
+                               MINORITY ENROLLMENT
+                           IN HIGHER EDUCATION MEETING
+
+                                      AUGUST 13, 1997
+
+
+SUMMARY
+
+         The Administration is investigating options to ensure diversity in higher education in
+light of some of the effects of the Hopwood decision and the University of California Board of
+Regents' decision to exclude race as a factor in admissions. Two approaches to the problem are
+being pursued simultaneously: (1) litigation to reverse the decision and/or law and (2) policy
+initiatives to improve diversity in higher education. This meeting is not concemed with the
+litigation strategy, but rather with some possible policy initiatives that could be implemented
+both long-term and short-term.
+
+
+I.     ACTIONS BEING TAKEN IN CALIFORNIA AND TEXAS
+
+       A.     CALIFORNIA
+
+       ·      Forming "school-centered partnerships" among each UC campus and public
+              schools chosen for their poor academic performance, to establish standards and to
+              improve student achievement.
+
+       ·      Expanding academic outreach programs for K-12 students.
+
+       ·      Creating an "information outreach" program to help students and their families
+              prepare for college.
+
+       ·      Alternative admissions strategies. A June 24, 1997 article in the Sacramento
+              Bee set out how each ofUC's nine campuses will "experiment" with different
+              admissions policies in an effort to achieve diversity. UC-Davis: in filling 40% of
+              the places in its 1998 freshman class, UC-Davis will give weight to factors other
+              than grades and test scores such as extracurricular leadership experience;
+              attendance at a high school that is economically disadvantaged and has a
+              historically low level ofUC attendance; residence in the three counties closest to
+              the university; military service; and marked academic improvement in the 11 th
+              grade. The new policy is only triggered, however, by students who meet UC
+              minimum eligibility requirements of a combined 1000 on the SAT and a high
+              school grade-point average of2.82 in designated college preparatory courses.
+
+                                               1
+                                                               Hex-Dump Conversion
+
+           UCLA: will give an advantage to applicants from disadvantaged urban and rural
+           neighborhoods. UC Irvine: will look at an applicant's entire profile, not just
+           grades and scores, including personal essays and extracurricular activities. UC
+           San Diego: will look at "special circumstances and personal challenges" which
+           could include whether an applicant is trying to become the first in his or her
+           family to attend college.
+
+      ·    A July 9, 1997 Education Daily article says that the UC Task Force's $60 million
+           dollar plan to increase minority enrollment at UC would make training and
+           retaining teachers in disadvantaged schools a priority. The Task Force estimates
+           the total cost of professional development at $18.5 million annually or about
+           $370,00 at each of 450 schools --the disadvantaged high schools, plus 400
+           "feeder" elementary and middle schools. On July 17, 1997, a Board of Regents
+           committee approved the plan to double UC's annual spending on outreach
+           efforts--which seek to increase minority enrollment without using affirmative
+           action--from $60 million to $120 million. The $60-million additional cost
+           projection for the program includes $27.2 million for school outreach efforts,
+           $17.9 million for expanding academic programs that target black and Latino
+           students but are open to all, and $7.9 million for contacting students, families and
+           schools about UC admissions requirements.
+
+      B.   TEXAS
+
+      ·    The Texas legislature passed a bill that automatically admits the top 10% of all
+           Texas high schools students to the state's university system.
+
+           ·        Ethnic Recruitment Program in which Texas residents may apply for
+                    grants up to $1,000. Applicants must have a2.75 GPA and 900 SATs. The
+                    awards may be used at any school in which their minority group
+                  . constitutes less than 40% of total enrollment. [The Big Book of Minority
+                    Opportunities]
+
+
+II.   POSSIBLE FUTURE ACTIONS THAT CAN BE TAKEN ACROSS THE
+      COUNTRY
+
+A.    PRE-KINDERGARTEN
+
+      ·    Revamp HeadStart to become more focused on school readiness and reading
+           skills.
+
+
+
+
+                                             2
+                                                                 Hex-Dump Conversion
+
+
+B.   KINDERGARTEN THROUGH GRADE 8
+
+
+     ·   Teacher Recruitment and Preparation initiative proposed under Title V of HEA.
+
+
+c.   HIGH SCHOOL
+
+
+D.   ACCESS OPPORTUNITIES
+
+
+POSSIBLE TIME TABLE
+
+
+
+
+                                        3
+
+

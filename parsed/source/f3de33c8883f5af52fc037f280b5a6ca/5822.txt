@@ -1,0 +1,85 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Steven M. Mertens ( CN=Steven M. Mertens/OU=OMB/O=EOP [ OMB ] )
+
+CREATION DATE/TIME:31-DEC-1997 13:59:03.00
+                                                                               I
+SUBJECT:   Revised INS Organizational Write-up for FY 99    ~udget
+
+
+TO: Julie A. Fernandes ( CN=Julie A. Fernandes/OU=OPD/O=EOP@EOP [ OPD ]    )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP@EOP [ OPD ] )
+READ: UNKNOWN
+
+CC: Kenneth L. Schwartz ( CN=Kenneth L. Schwartz/OU=OMB/O=EOP@EOP [ OMB ]          )
+READ: UNKNOWN
+
+CC: David J. Haun ( CN=David J. Haun/OU=OMB/O=EOP@EOP [ OMB ]        )
+READ: UNKNOWN
+
+CC: Michael Deich ( CN=Michae1 Deich/OU=OMB/O=EOP@EOP [ OMB ] )
+READ: UNKNOWN
+
+TEXT:
+Elena/Julie: Here is the revised draft of INS' organizational structure
+in the immigration chapter of the President's Budget.  The write up
+reflects comments and revisions received from DPC, NSC and OMB -- and
+builds off the INS draft submitted on 12/23. We believe that this draft
+also reflect the discussion and agreement reached at the 12/22 meeting
+with Commissioner Meissner. We have not shared this revised draft outside
+the EXOP. With your concurrence on this draft, we would appreciate you
+sharing this with INS to gain their agreement so we can finalize language
+for the budget chapter.
+
+As I relayed to Julie, Michael believes the reference to the CIR in the
+first paragraph is useful. The CIR is the catalyst for the
+Administration's current restructuring effort and by prominently
+mentioning them we give some show of legitimacy to the CIR (which they are
+seeking from the Administration) and this minor stroking may help build
+CIR staff support for our proposed reorganization when it goes to the Hill.
+
+Any questions/assistance, please let me know (54935).      Thanks.
+
+
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D72]MAIL40780546S.316 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504370040000010A02010000000205000000D40B0000000200002E33B19F52142CB9C1DAFA
+71AC9CF36F3609644E7A8CAC5DEED734B771AOED1AD29DB19F732D4B18F25F9B3590965305D373
+5E8B66E2EB69344B60FF89C2A928F4E429EFCF66D8DCB25AD1B49F281E1FFF708DB878FEB3ABD7
+FB88A09105D97B936EE9DFC4642D1C42816E17CF4BOFF8934A3EFDE04C46FEAABDC9447F452DCC
+9F8B68EBOC1540E6676704685DF9E25981998520F91C8FA3DDDOC718A34749BD73A2DDCFB7FFF8
+8F568FFC64DE40AC5CBOA1FBOBD410E698E154F5E1E400C34D9C582350A99A5FEFFBC9D1DC1530
+284021E6FE3A3E2CF7A69C6397D56C560D65B8B9F9E81568D06DED36FA16BC8DE31333B2C1F443
+3E596C4767D83B0283DOBC03619C55EE363ECC01A1F8D51523845C9904A2719B31089628CDEF6E
+5AEF76FBC11A5E991A8FC9B5D76DCB3831600BFD2466A97BA4687CA71587D11ECB275CD6C7CA40
+ major changes in how the Federal Government sets and implements immigration policy. In
+ particular, it urged a separation of the enforcement and benefit functions currently carried out by
+ the INS.
+
+  The Administration has studied various proposals for refonn, including the CIR
+. recommendations, and has developed a plan to enhance immigration law enforcement and
+  improve the delivery of immigration services and benefits. The plan aims to separate INS'
+  enforcement and service operations in the field and through headquarters but keep the agency
+  intact. This programmatic division will improve efficiency and effectiveness, while
+  strengthening accountability, lines of authority, and leadership. To support these structural
+  changes, the INS will also implement management and administrative improvements. The
+  Administration's plan will also enhance coordination among Federal agencies involved in
+  immigration and establish greater accountability within each agency. These refonns within the
+  INS and across the government will support and sustain the progress made by the Administration
+  over the last five years to enforce our immigration laws and fulfill the Nation's commitment to
+  its immigration heritage.
+
+
+
+
+                             Automated Records Management System
+                                     HeX-Dump Conversion
+
+

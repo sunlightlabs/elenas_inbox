@@ -1,0 +1,57 @@
+                 RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+               . CREATOR: Julie A. Fernandes ( CN=Julie A. Fernandes/OU=OPD/O=EOP [ OPD ] )
+
+                 CREATION DATE/TIME:30-DEC-1998 11:12:31.00
+
+                 SUBJECT:   additional q&a
+
+                 TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+                 READ:UNKNOWN
+
+                 CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO]    )
+                 READ: UNKNOWN
+
+                 TEXT:
+                 ==================== ATTACHMENT   1 ====================
+                 ATT CREATION TIME/DATE:   0 00:00:00.00
+
+                 TEXT:
+                 Unable to convert ARMS_EXT: [ATTACH.D38]MAIL45894536T.326 to ASCII,
+                  The following is a HEX DUMP:
+
+                 FF57504370040000010A02010000000205000000EB090000000200006EB392E9B95FBC384E35B6
+                 E5AB9E6910513F1Cl1702C1E2733834310B1EE3155E13EFFEOA1615BB35BDD9EFDEAAOFEA74C3F
+                 E71508CA9760A5464F6384A3AA81D443B4992533409C19EC69941576CF52D50DA8AB7C47D24373
+                 DE1F3DOF428F663AD41811179894B89E14E39E9AA1FEFB3178AEAD4211EC7CA789CCFBF42F66B5
+                 BE47BOC55FCCC80701F17EAE85548D40AD17725255B46CC3C4F24C7FDDA43166AEE4B2090DAAFE
+                 CA176F1C889BAE6B7DEOFF955CC41DF167378752234D76F1DF8CDA357F8FBCCB6A750C24674A87
+                 F8DE9D4C55A7AFAA3465BC9BEF7DEBFEDC9C8506EC38BFD29255273D828219D7A2FE1339012A88
+                 D02D2FC41FCA0701DC7D03E1DEA072EC378F2F16C1262939EFC132BCFF92BD4CD91D8FAAC1A3F1
+                 5E878F30FEE1DBFCE3E7555FE299043E71F40774B1COF9921B4ECC5F882717924CE8FE11E1E4E5
+                 DOA076249E952F16F808143BDF9D47ADA50F82C692CD9D02137E4F893D1C2787CF45C062C471AD
+"
+
+
+
+               Q:   What is today's announcement with regard to Central America?
+
+               A:   Last November, in the wake of the devastation caused by Hurricane Mitch in much of
+                    Central America, the Attorney General temporarily stayed the removal of nationals in the
+                    U.S. from Honduras, Nicaragua, EI Salvador, and Guatemala. This stay is set to expire
+                    on January 7, 1999.
+
+                    After consultation with the Department of State, the Attorney General has decided to
+                    designate Honduras and Nicaragua for Temporary Protected Status (TPS) for a p'eriod of
+                    18 months. This action will permit nationals from Honduras and Nicaragua to remain in
+                    the U.S. and receive work authorization during this period. The Attorney General has
+                    also decided to extend the stay of removals ofE! Salvadorans and Guatemalans for 60
+                    days.
+
+
+
+
+                                                                      Automated RecordS Management System
+                                                                      Hex-Dump Conversion
+
+

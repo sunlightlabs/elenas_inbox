@@ -1,0 +1,40 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Beverly J. Barnes ( CN=Beverly J. Barnes/OU=WHO/O=EOP [ WHO]    )
+
+CREATION DATE/TIME:18-NOV-1997 10:53:34.00
+
+SUBJECT:   Peter Baker and Jodi Enda
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Judith A. Winston ( CN=Judith A. Winston/OU=PIR/O=EOP @ EOP [ PIR]       )
+READ: UNKNOWN
+
+TO: Ann F. Lewis ( CN=Ann F. Lewis/OU=WHO/O=EOP @ EOP [ WHO]     )
+READ: UNKNOWN
+
+TO: Claire Gonzales ( CN=Claire Gonzales/OU=PIR/O=EOP @ EOP [ PIR ] )
+READ: UNKNOWN
+
+TO: Maria Echaveste ( CN=Maria Echaveste/OU=WHO/O=EOP @ EOP [ WHO]   )
+READ: UNKNOWN
+
+TO: Sylvia M. Mathews ( CN=Sylvia M. Mathews/OU=WHO/O=EOP @ EOP [ WHO]       )
+READ:UNKNOWN
+
+CC: Amy W. Tobe ( CN=Amy W. Tobe/OU=WHO/O=EOP @ EOP [ WHO]   )
+READ: UNKNOWN
+
+CC: Michael D. McCurry ( CN=Michael D. McCurry/OU=WHO/O=EOP @ EOP [ WHO]         )
+READ: UNKNOWN
+
+CC: Joseph P. Lockhart ( CN=Joseph P. Lockhart/OU=WHO/O=EOP @ EOP [ WHO]         )
+READ: UNKNOWN
+
+TEXT:
+Unable to convert ARMS_EXT: [MESSAGE.D79]MAIL422804125.316
+The following is a HEX dump of the file:
+
+

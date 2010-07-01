@@ -1,0 +1,150 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Laura Emmett ( CN=Laura Emmett/Ou=WHO/O=EOP [ WHO]     )
+
+CREATION DATE/TIME:13-MAR-1998 16:54:35.00
+
+SUBJECT:
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D66]MAIL412026170.026 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043A60E0000010A02010000000205000000D51E000000020000FB8D9A8155E6036EB121F3
+48AFDD8AOC50265CA3F67C96EDEBED8C6E8FEF12BD3A8216BC501E75DD311A9786E5E9A55CC4B9
+AFE286A2FEF535DC84ACE404E58A6D45089A640FD7C567AA255139540AB73F110DDE5ED23C38E2
+7F1834A13AOE50C6125B2B10A1BC15B8FOEOA6CAD9F20FA9B021B056EC11076BAE0635F5336FC1
+E656E158FAB962F4C063DB8AA6DBA43FF4041B11AD265920B77D4CBBO3231134A4822245BA0978
+80C30A1699AFE79E4B4DAF13942D9A7F200BF54A26D5C24EACB31687A49D8562384BF37AC43BEO
+4D1EF4BF482976DE5C4D71E7D9441CEED48D340D94A2895614CCAAO6438512F2CAFB8B5E7B6358
+C843709580CD1EOC6A277F07435C7CCD7B4D472081EA77DEC9CD92AB8FC57B4COA13B1BECD0533
+0133B9A29E962721447C3FE41E6A3E73CCAA20FEAC268DF65F91695B8E57F1870CB9F93F776CC8
+815B6D05CA4C349F8B89F8E80B152E944E2EDE2B460579CD0063FDEDD41EC28C0450COOB6B3174
+lD1C4882C8BDA0722E7269AFE7744D391FA7EE29AB5039331BF1F96E1872B974DB1C25A3492A90
+7231AE7CA3093E58D1B03C76C772D2F9F33C90EE6CEE239439120EEDB1031CC87F689FBE03232E
+CA19D76520AA6B867D1C92621E279F60EAD268F33AB137973DD3144F87126215ACAODAE939BEBO
+6C6E02E24A0200AF00000000000000000000000823010000000B010000920B000000550C000100
+4E0000009DOC000009250100000006000000EBOCOOOOOB300200000028000000F10C0000005508
+0000004E000000190D000000550300010042000000670D000008770100000040000000A90DOOOO
+08340100000014000000E90D00000802010000000FOOOOOOFDODOO00080501000000080000000C
+OEOOOOOOOOOOOOOOOOOOOOOOOOOCOEOOOOOOOOOOOOOOOOOOOOOOOOOCOEOOOOOOOOOOOOOOOOOOOO
+OOOOOCOEOOOOOOOOOOOOOOOOOOOOOOOOOCOEOOOOOOOOOOOOOOOOOOOOOOOOOCOEOOOOOOOOOOOOOO
+OOOOOOOOOOOCOEOOOOOOOOOOOOOOOOOOOOOOOOOCOEOOOOOOOOOOOOOOOOOOOOOOOOOCOEOOOOOOOO
+OOOOOOOOOOOOOOOOOCOEOOOOOOOOOOOOOOOOOOOOOOOOOCOEOOOOOOOOOOOOOOOOOOOOOOOOOCOEOO
+OOOOOOOOOOOOOOOOOOOOOOOCOEOOOOOOOOOOOOOOOOOOOOOOOOOCOE000000000000000000000000
+OCOEOOOOOOOOOOOOOOOOOOOOOOOOOCOEOOOOOOOOOOOOOOOOOOOOOOOOOCOEOOOOOOOOOOOOOOOOOO
+OOOOOOOCOEOOOOOOOOOOOOOOOOOOOOOOOOOCOEOOOOOOOOOOOOOOOOOOOOOOOOOCOEOOOOOOOOOOOO
+OOOOOOOOOOOOOCOEOOOOOB30090000004E000000140EOOOOOOOOOO00000000000000140EOOOOOO
+000000000000000000140E000000000000000000000000140EOOOO00000000000000000000140E
+000000000000000000000000140E00000000000000000000000014OEOOOOOOOOOOOOOOOOOOOOOO
+00140E000000000000000000000000140EOOOOOOOOOOOOOOOOOOOO0000140EOOOOOOOOOOOOOOOO
+00000000140E000000000000000000000000140EOOOOOOOOOOOOOO0000000000140EOOOOOOOOOO
+00000000000000140E000000000000000000000000140EOOOOOOOO0000000000000000140EOOOO
+00000000000000000000140E000000000000000000000000140EOO000000000000000000000014
+OE000000000000000000000000140EOOOOOOOOOOOOOOOOOOOOOOOO140EOOOOOOOOOOOOOOOOOOOO
+0000140E000000000000000000000000140EOOOOOOOOOOOOOOOOOO000000140EOOOOOOOOOOOOOO
+0000000000140E000000000000000000000000140EOOOOOOOOOOOO000000000000140EOOOOOOOO
+0000000000000000140E000000000000000000000000140EOOOOOO000000000000000000140EOO
+0000000000000000000000140E000000000000000000000000140E000000000000000000000000
+140E000000000000000000000000140EOOOOOOOOOOOOOOOOOOOOOO00140EOOOOOOOOOOOOOOOOOO
+000000140E000000000000000000000000140EOOOOOOOOOOOOOOOO00000000140EOOOOOOOOOOOO
+000000000000140E000000000000000000000000140EOOOOOOOOOO00000000000000140EOOOOOO
+000000000000000000140E000000000000000000000000140EOOOO00000000000000000000140E
+000000000000000000000000140E00000000000000000000000014OEOOOOOOOOOOOOOOOOOOOOOO
+                                                                      Hex-Dump Conversion
+
+
+MEMORANDUM FOR THE CHIEF OF STAFF
+
+FROM:                   Bruce Reed
+
+SUBJECT:                Meeting with Senator McCain
+
+        As you know, Senator McCain is leading an effort -- blessed by Trent Lott -- to report a
+comprehensive bill out of the Commerce Committee. McCain is talking extensively with
+Senators Breaux, Wyden, and Hollings, as well as with Republicans on the Committee. McCain
+is currently working off a draft bill that has significant weaknesses, especially with regard to
+price and FDA jurisdiction. There is little doubt, however, that McCain would like our support
+and that he is listening carefully to our concerns. We met with his staff on Friday to review a
+number of issues.
+
+Talking Points
+
+       ·         The President wants comprehensive, bipartisan legislation this year. Every day
+                 we delay, 3,000 kids become regular smokers and 1,000 of them will die
+                 prematurely from this addiction.
+
+       ·         The President has made his priorities clear. To gain his support, a bill must:
+
+                 ~      Raise the price of cigarettes by up to $1.50 a pack over the next ten years
+                        and imposes tough penalties on companies that continue to sell to kids;
+
+                 ~      Expressly confirm the FDA authority to regulate tobacco products;
+
+                 ~      Get tobacco companies out of the business of marketing to children;
+
+                 ~      Further public health research and goals;
+
+                 ~      Protect tobacco farmers and their communities.
+
+       ·         We want to work with you to ensure that the Commerce Committee reports out a
+                 bill that the President can support.
+                                                                 Hex-Dump Conversion        .·
+
+
+MEMORANDUM FOR THE CHIEF OF STAFF
+
+FROM:                   Bruce Reed
+
+SUBJECT:                Meeting with Representative Deborah Pryce
+
+        As you know, most of the legislative activity on tobacco so far has taken place in the
+Senate. The House remains inactive. Bliley has held some hearings and may try to draft
+legislation, but prospects for a Bliley-Waxman collaboration now seem slight. The House
+Republican leadership is interested in tobacco revenue to pay for tax cuts, but has done nothing
+to spur legislative action.
+
+        Speaker Gingrich has appointed Representative Deborah Pryce as his leadership team's
+point person on tobacco. A key goal of the meeting should be to persuade her that the
+President does not want to play politics with this issue, and that he is serious about enacting
+bipartisan, comprehensive tobacco legislation this year.
+
+Talking Points
+
+        ·        The President wants comprehensive, bipartisan legislation this year. Every day
+                 we delay, 3,000 kids become regular smokers and 1,000 of them will die
+                 prematurely from this addiction.
+
+        ·        The President has made his priorities clear. He has called on Congress to enact
+                 comprehensive, bipartisan legislation that:
+
+                 ~      Raises the price of cigarettes by up to $1.50 a pack over the next ten years
+                        and imposes tough penalties on companies that continue to sell to kids;
+
+                 ~      Expressly confirms the FDA authority to regulate tobacco products;
+
+                 ~      Gets tobacco companies out of the business of marketing to children;
+
+                 ~      Furthers public health research and goals;
+
+                 ~      Protects tobacco farmers and their communities:
+
+        ·        We want to work together with the Republican leadership in both the House and
+
+
+
+
+     Senate to enact a bipartisan bill this year.
+
+
+                                                    Automated Records Management System
+                                                    Hex-Dump Conversion
+
+

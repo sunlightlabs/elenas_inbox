@@ -1,0 +1,500 @@
+ RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+ CREATOR: Richard Socarides ( CN=Richard Socarides/OU=WHO/O=EOP [ WHO 1 )
+
+ CREATION DATE/TIME: 8-JAN-1998 08:30:36.00
+
+ SUBJECT:    Mtg for WH Staff on Phoenix Race Board Meeting Friday at 2pm 472 OEOB
+
+ TO: Virginia Apuzzo ( CN=Virginia Apuzzo/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Jonathan Murchinson ( CN=Jonathan Murchinson/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ:UNKNOWN
+
+ TO: Michele Cavataio ( CN=Michele Cavataio/OU=PIR/O=EOP @ EOP [ PIR 1 )
+ READ: UNKNOWN
+
+ TO: Tamara Monosoff ( CN=Tamara Monosoff/OU=PIR/O=EOP @.EOP [ PIR 1 )
+ READ: UNKNOWN
+
+ TO: Michael J. Sorrell ( CN=Michael J. Sorrell/OU=PIR/O=EOP @ EOP [ PIR 1 )
+ READ:UNKNOWN
+
+ TO: Richard Socarides ( CN=Richard Socarides/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ:UNKNOWN
+
+ TO: Chandler G. Spaulding ( CN=Chandler G. Spaulding/OU=PIR/O=EOP @ EOP [ PIR 1 )
+ READ:UNKNOWN
+
+ TO: Christine A. Stanek ( CN=Christine A.-Stanek/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Maritza Rivera ( CN=Maritza Rivera/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Audrey M. Hutchinson ( CN=Audrey M'. Hutchinson/OU=PIR/O=EOP @ EOP [ PIR 1 )
+ READ: UNKNOWN
+
+ TO: Julie A. Fernandes ( CN=Julie A. Fernandes/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ: UNKNOWN
+
+ TO: Tanya E. Martin ( CN=Tanya E. Martin/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ: UNKNOWN
+
+ TO: Nicholas R. Baldick ( CN=Nicholas R. Baldick/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Noa A. Meyer ( CN=Noa A. Meyer/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Maureen T. Shea ( CN=Maureen T. Shea/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ:UNKNOWN
+
+ TO: Stacie Spector ( CN=Stacie Spector/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Virginia M. Terzano ( CN=Virginia M. Terzano/O=OVP @ OVP [ UNKNOWN 1 )
+ READ: UNKNOWN
+
+ TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO 1 )
+'.
+
+      READ: UNKNOWN
+
+      TO: Trooper Sanders ( CN=Trooper Sanders/O=Ovp @ OVP [ UNKNOWN 1 )
+      READ:UNKNOWN
+
+      TO: William H. White Jr.     ( CN=William H. White Jr./OU=WHO/O=EOP @ EOP [.WHO 1 )
+      READ: UNKNOWN
+
+      TO: Sondra L. Seba ( CN=Sondra L. Seba/OU=WHO/O=EOP @ EOP [ WHO 1 )
+      READ ,UNKNOWN
+
+      TO: Deborah B. Mohile ( CN=Deborah B. Mohile/OU=WHO/O=EOP @ EOP [ WHO 1 )
+      READ: UNKNOWN
+
+      TO: Cheryl M. Carter ( CN=Cheryl M. Carter/OU=WHO/O=EOP @ EOP [ WHO 1 )
+      READ: UNKNOWN
+
+      TO: Jose Cerda III ( CN=Jose Cerda III/OU=OPD/O=EOP @ EOP [ OPD 1 )
+      READ:UNKNOWN
+
+      TO: Richard L. Hayes ( CN=Richard L. Hayes/OU=WHO/O=EOP @ EOP [ WHO 1 )
+      READ: UNKNOWN
+
+      TO: Dawn M. Chirwa ( CN=Dawn M. Chirwa/OU=WHO/O=EOP @ EOP [ WHO 1 )
+      READ: UNKNOWN
+
+      TO: Peter Rundlet     ( CN=Peter Rundlet/OU=WHO/O=EOP @ EOP [ WHO 1 )
+      READ:UNKNOWN
+
+      TO: Audrey T. Haynes ( CN=Audrey T. Haynes/OU=WHO/O=EOP @ EOP [ WHO 1 )
+      READ:UNKNOWN
+
+      TO: Elisa Millsap ( CN=Elisa Millsap/OU=WHO/O=EOP @ EOP [ WHO 1 )
+      READ:UNKNOWN
+
+      TO: Susan M. Liss     ( CN=Susan M. Liss/O=OVP @ OVP [ UNKNOWN 1 )
+      READ: UNKNOWN
+
+      TO: Maria Echaveste ( CN=Maria Echaveste/OU=WHO/O=EOP @ EOP [ WHO 1 )
+      READ:UNKNOWN
+
+      TO: Marsha Scott ( CN=Marsha Scott/OU=WHO/O=EOP @ EOP [ WHO 1 )
+      READ: UNKNOWN
+
+      TO: Thomas L. Freedman ( CN=Thomas L. Freedman/OU=OPD/O=EOP @ EOP [ OPD 1 )
+      READ:UNKNOWN
+
+      TO: Lin Liu ( CN=Lin Liu/OU=PIR/O=EOP @ EOP [ PIR 1 )
+      READ: UNKNOWN
+
+      TO: Judith A. Winston ( CN=Judith A. Winston/OU=PIR/O=EOP @ EOP [ PIR 1 )
+      READ: UNKNOWN
+
+      TO: Toby Donenfeld ( CN=Toby Donenfeld/O=OVP @ OVP [ UNKNOWN 1 )
+      READ: UNKNOWN
+
+      TO: Kyle M. Baker ( CN=Kyle M. Baker/OU=WHO/O=EOP @ EOP [ WHO 1 )
+      READ: UNKNOWN
+
+      TO: Phillip Caplan      CN=Phillip Caplan/OU=WHO/O=EOP @ EOP [ WHO 1 )
+"
+
+     READ:UNKNOWN
+
+     TO: Barry J. Toiv ( CN=Barry J. Toiv/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ:UNKNOWN
+
+     TO: Michael D. McCurry ( CN=Michael D. MCCurry/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     TO: Bob J. Nash ( CN=Bob J. Nash/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ:UNKNOWN
+
+     TO: Minyon Moore ( CN=Minyon Moore/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     TO: Raymond E. Donnelly III ( CN=Raymond E. Donnelly III/OU=WHO/O=EOP @ EOP [ WHO 1
+     READ: UNKNOWN
+
+     TO: Tracey E. Thornton ( CN=Tracey E. Thornton/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     TO: Lynn G. Cutler ( CN=Lynn G. Cutler/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     TO: Mickey Ibarra ( CN=Mickey Ibarra/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     TO: Michael Waldman ( CN=Michael Waldman/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     TO: Ann F. Lewis ( CN=Ann F. Lewis/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     TO: Stephen B. Silverman ( CN=Stephen B. Silverman/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ:UNKNOWN
+
+     TO: Beverly J. Barnes ( CN=Beverly J. Barnes/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ:UNKNOWN
+
+     TO: Paul E. Begala ( CN=Paul E. Begala/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     TO: Douglas B. Sosnik ( CN=Douglas B. Sosnik/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ:UNKNOWN
+
+     TO: Amy W. Tobe ( CN=Amy W. Tobe/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     TO: John M. Goering ( CN=John M. Goering/OU=PIR/O=EOP @ EOP [ PIR 1 )
+     READ:UNKNOWN
+
+     TO: Grace A. Garcia ( CN=Grace A. Garcia/OU=PIR/O=EOP @ EOP [ PIR 1 )
+     READ: UNKNOWN
+
+     TO: Janet Murguia ( CN=Janet Murguia/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     TO: Brenda Toineeta ( CN=Brenda Toineeta/OU=PIR/O=EOP @ EOP [ PIR 1 )
+     READ: UNKNOWN
+
+     TO: Claire Gonzales ( CN=Claire Gonzales/OU=PIR/O=EOP @ EOP [ PIR 1 )
+",
+
+      READ: UNKNOWN
+
+      TO: Tania I. Lopez ( CN=Tania I. Lopez/OU=WHO/O=EOP @ EOP [ WHO 1 )
+      READ: UNKNOWN
+
+      TO: Robert Wexler ( CN=Robert Wexler/OU=PIR/O=EOP @ EOP [ PIR 1 )
+      READ: UNKNOWN
+
+      TO: Miriam H. Vogel ( CN=Miriam H. Vogel/OU=WHO/O=EOP @ EOP [ WHO 1 )
+      READ: UNKNOWN
+
+      TO: William R. Kincaid ( CN=william R. Kincaid/OU=OPD/O=EOP @ EOP [ OPD 1 )
+      READ: UNKNOWN
+
+      TO: John L. Hilley ( CN=John L. Hilley/OU=WHO/O=EOP @ EOP [ WHO 1 )
+      READ: UNKNOWN
+
+      TO: Neera Tanden ( CN=Neera Tanden/OU=WHO/O=EOP @ EOP [ WHO 1 )
+      READ: UNKNOWN
+
+      TO: William P. Marshall ( cN=William P. Marshall/OU=WHO/O=EOP @ EOP [ WHO 1 )
+      READ: UNKNOWN
+
+      TO: Miguel M. Bustos ( CN=Miguel M. Bustos/O=OVP @ OVP [ UNKNOWN 1 )
+      READ: UNKNOWN
+
+      TO: Lorraine A. Voles ( CN=Lorraine A. Voles/O=OVP @ OVP [ UNKNOWN 1 )
+      READ:UNKNOWN
+
+      TO: Christian M. Grantham ( CN=Christian M. Grantham/OU=WHO/O=EOP @ EOP [ WHO 1 )
+      READ: UNKNOWN
+
+      TO: Laura D. Schwartz ( CN=Laura D. Schwartz/OU=WHO/O=EOP @ EOP [ WHO 1 )
+      READ:UNKNOWN
+
+      TO: Ilia V. Velez ( CN=Ilia V. Velez/OU=WHO/O=EOP @ EOP [ WHO 1 )
+      READ:UNKNOWN
+
+      TO: Jena V. Roscoe ( CN=Jena V. Roscoe/OU=WHO/O=EOP @ EOP [ WHO 1 )
+      READ:UNKNOWN
+
+      TO: Robin Leeds ( CN=Robin Leeds/OU=WHO/O=EOP @ EOP [ WHO 1 )
+      READ: UNKNOWN
+
+      TO: Robert B. Johnson ( CN=Robert B. Johnson/OU=WHO/O=EOP @ EOP [ WHO 1 )
+      READ: UNKNOWN
+
+      TO: Robert N. Weiner ( CN=Robert N. Weiner/OU=WHO/O=EOP @ EOP [ WHO 1 )
+      READ: UNKNOWN
+
+      TO: Doris o. Matsui ( CN=Doris O. Matsui/OU=WHO/O=EOP @ EOP [ WHO 1 )
+      READ:UNKNOWN
+
+      TO: Cheryl D. Mills ( CN=Cheryl D. Mills/OU=WHO/O=EOP @ EOP [ WHO 1 )
+      READ: UNKNOWN
+
+      TO: Estela Mendoza ( CN=Estela Mendoza/OU=WHO/O=EOP @ EOP [ WHO 1 )
+      READ: UNKNOWN
+
+      TO: Jon P. Jennings ( CN=Jon P. Jennings/OU=WHO/O=EOP @ EOP [ WHO 1 )
+\
+
+
+     READ: UNKNOWN
+
+    TO: Steven W. Adamske ( CN;Steven W. Adamske/O;OVP @ OVP [ UNKNOWN 1 )
+    READ: UNKNOWN
+
+    TO: Marjorie Tarmey ( CN;Marjorie Tarmey/OU;WHO/O;EOP @ EOP [ WHO 1 )
+    READ: UNKNOWN
+
+    TO: Mary L. Smith ( CN;Mary L. Smith/OU;OPD/O;EOP @ EOP [ OPD 1 )
+    READ:UNKNOWN
+
+    TO: Elena Kagan ( CN;Elena Kagan/OU;OPD/O;EOP @ EOP [ OPD 1 )
+    READ:UNKNOWN
+
+    TO: Michael Wenger ( CN;Michael Wenger/OU;PIR/O;EOP @ EOP [ PIR 1 )
+    READ: UNKNOWN
+
+     TO: Ansley Jones ( CN;Ansley Jones/O;OVP @ OVP [ UNKNOWN 1 )
+     READ: UNKNOWN
+
+     TO: Donald H. Gips ( CN;Donald H. Gips/O;OVP @ OVP [ UNKNOWN 1 )
+     READ: UNKNOWN
+
+    TO: Sean P. Maloney ( CN;Sean P. Maloney/OU;WHO/O;EOP @ EOP [ WHO 1 )
+    READ: UNKNOWN
+
+     TO: Jennifer M. Palmieri ( CN;Jennifer M. Palmieri/OU;WHO/O;EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     TO: Joseph P. Lockhart ( CN;Joseph P. Lockhart/OU;WHO/O;EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     TO: Laura K. Demeo ( CN;Laura K. Demeo/OU;WHO/O;EOP @ EOP [ WHO 1 )
+     READ:UNKNOWN
+
+     TO: Karen E. Skelton ( CN;Karen E. Skelton/OU;WHO/O;EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     TO: Craig T. Smith ( CN;Craig T. Smith/OU;WHO/O;EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     TO: Peter G. Jacoby ( CN;Peter G. Jacoby/OU;WHO/O;EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     TO: Jeffrey A. Forbes ( CN;Jeffrey A. Forbes/OU;WHO/O;EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     TO: Fred DuVal ( CN;Fred DuVal/OU;WHO/O;EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     TO: Katharine Button ( CN;Katharine Button/OU;WHO/O;EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     TO: Ann F. Walker ( CN;Ann F. Walker/OU;WHO/O;EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     TO: Thurgood Marshall Jr ( CN;Thurgood Marshall Jr/OU;WHO/O;EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     TO: Andrew J. Mayock ( CN;Andrew J. Mayock/OU;WHO/O;EOP @ EOP [ WHO 1 )
+
+
+READ: UNKNOWN
+
+TO: June G. Turner ( CN=June G. Turner/OU=WHO/O=EOP @ EOP [ WHO)      )
+READ: UNKNOWN
+
+TO: Sidney Blumenthal ( CN=Sidney Blumenthal/OU=WHO/O=EOP @ EOP [ WHO)    )
+READ: UNKNOWN
+
+TO: Sylvia M. Mathews ( CN=Sylvia M. Mathews/OU=WHO/O=EOP @ EOP [ WHO)    )
+READ: UNKNOWN
+
+TEXT:
+---------------------- Forwarded by Richard Socarides/WHO/EOP on 01/08/98
+08:27 AM ---------------------------
+
+
+Richard Socarides     01/08/98 08:12:17 AM
+
+Record Type:     Record
+
+To:      Richard Socarides/WHO/EOP
+cc:
+Subject:         Mtg for WH Staff on Phoenix Race Board Meeting Friday at 2pm 472
+OEOB
+
+We will have a updated briefing for WH staff on the Phoenix Race Board
+meeting (set for Tuesday and Wednesday of next week) on Friday, 1/9 at
+2pm, Room 472 OEOB.
+
+Here is an updated agenda and list of panelists for the main panel on
+wednesday morning:
+
+
+
+
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   o 00:00:00.00
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D46)MAIL438903704.026 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043DC080000010A020100000002050000007E21000000020000513734A2E31E918D4E9FAO
+OACB03091802FCB7129534BDCB8DF5D5031182E8C694E2CF052C6338AED19A94CB3CE9FE79485A
+DF10DODB1A037F812F26A788D740FFB5200969FC6BF26ADFF38335B63F5149A82B2E3C4B9B993E
+59AAE630C5688867501EA5A18692DB4C6DA8E163D4A60B2807694F3B12FOC729F4B27B68BAEBF2
+OB5744580FD4A3594036B469ACEF4E008207A77EDC4B71BD25978F714BB2E6E8F7AFD8551B3A97
+9308580B65B8982059A1369E2BF74E2D6FE306720A5B98C24864328E22FB8161EE5E11E91E0547
+9E78E6674C325AA3C9F4FC9E20748D8003BB9646FC6B49E3ACDEE9DC8EAFCA8BF5841E2358AE7E
+59EF534C1A20CFF990569D273DEA6F947FBE181F01D18A1336436C4D1C86B8658D11D356C354CB
+9D473D4BCC1E75C6FCADEACCEOD3AA1AD35DOED4A2150D4BCCD82E9BF4ABD96DADD1A36D837E12
+AE32D3552403623596E51E4B10C1574EF66E98149C5D1366D35A42454169076C03B07280BCD474
+3A03679F089F14A5EA60B4CC4F228A1F4F300A82748EDA3863E8DD21C9294B3756AD8D3F95BB4E
+501098D221F99100DFEBB2FE7162COB8F735CEE81D61FC85485131C831A694AC232B461312D8BO
+00CODC647F268FFF649BFC7A3F9119D2584CCBD8E9DC2AF7495B7B13C5D436A1E90F4E4C6FF519
+FEA87F4FC102002B00000000000000000000000823010000000B0100005A04000000552BOOOOOO
+4E0000006505000009250100000006000000B30500000B300600000067000000B9050000087701
+                                       Agenda
+                         President's Advisory Board On Race
+                            Phoenix, January 13-14, 1998
+
+Theme: Race in the Workplace
+
+The purpose of this meeting is to examine whether there is economic opportunity for all
+Americans. We will explore why, despite gains, significant disparities still exist among races
+and the extent to which these disparities are due to racial discrimination or other factors.
+Further, we will examine whether there is a need for continued responses to address these
+issues and identifY some promising practices to reduce disparities.
+
+Key Questions:
+
+·   Is there economic opportunity for all Americans and has this situation changed?
+
+·   Are there continuing disparities in employment opportunities? What are the main causes
+    of these disparities? Does discrimination continue to effect employment opportunities for
+    minorities?
+
+·. What governmental and non-governmental programs and policies are most effective in
+   addressing the causes of labor market disparities? How much more needs to be done to
+   reduce and eliminate disparities?
+
+Day 1:
+
+II am - 4:00pm
+Asboard members arrive, they visit local, workplace Promising Practices.
+
+5:00pm - 7:00pm
+There will be a meeting with regional leaders of American Indian tribes to hear their concerns.
+
+
+Day 2:
+9am - 9:05am
+Welcome and review of agenda by Chairman Franklin.
+
+9:05am - 9:10am
+Welcoming remarks from local officials; Mayor.
+
+9: I 0-9:20am. Secretary of Labor Alexis Herman: Overview: introduces and sets tone for the
+day.
+
+9:20am - 9:45am
+Dr. Janet Yellen (Chair ofthe Council of Economic Advisors) Provides overview oflabor
+market issues and race
+
+9:45am-II :45am
+This round table discussion will bring together national experts to discuss whether there is
+equal economic opportunity for all Americans, the existence of discrimination and how it
+manifests itself, the challenges of building and maintaining a diverse work force, the causes of
+continued disparities, and possible programs and policies to address them. It could include a
+
+                                                                  Automated Records Management System
+                                                                  Hex-DurnP Conversion
+
+
+
+
+     discussion of fears of "reverse discrimination" and whether programs designed to eliminate
+     disparities should continue. (Panelists include: Professor Paul Ong, UCLA; Ms. Claudia Withers,
+     Fair Employment Council of DC; Professor Glen Loury, Boston University; Professor Harry
+     Holzer, Michigan State University; Dr. James Smith, Rand Corporation; and Dean Jose
+     Roberto Juarez, St. Mary's Law School, San Antonio. This session will conclude with 45
+     minutes of q&a.
+     Moderator: TBD
+
+     12pm - 12:30pm: Initial Press Availability
+
+     12:30-1 :30pm: Lunch
+
+      1:30pm - 3:30pm
+    . Corporate and Labor Forum
+      The afternoon round table discussion will involve corporate and labor leaders and will be
+      moderated by U.S. Labor Secretary, Alexis Herman. The discussion will focus on the
+      benefits of racial diversity in the workplace, ways in which to successfully achieve such
+      diversity, and the challenges faced in doing so. A key objective of this session is to engage
+      business and employee leaders in adapting successful efforts to their own particular situations.
+      (In addition to invited corporate leaders, possible panelists include: an employee and
+      management representative from the private sector, and a representative from the Chamber
+      of Commerce.) This session will conclude with 45 minutes of q&a from the audience.
+
+     3:30 - 4pm
+     Possible press availability
+
+     4:15 - 5:30pm
+     The day will conclude with a community forum in which Board members listen and learn of
+     the r~ce concerns in the Phoenix area.
+Opportunity.
+
+Experts:
+
+·     1. Claudia Withers, Executive Director of the Fair EmploymentCouncii of Washington:
+      will discuss testing evidence; attorney;
+
+·     2. Dr. Harry Holzer, Michigan State, economist who has done recent major surveys of
+      employers;
+
+·     3. Ms. Lorenda Sanchez, California Indian Manpower Coalition; American Indian
+      program administrator and expert on Native American employment and unemployment
+      issues (not yet accepted);                                     .
+
+·     4. Dean Jose Roberto Juarez, Professor of Law, St. Mary's Law School, San Antonio;
+      (accepted);
+
+·     5. Professor Paul Ong: Urban Planner at UCLA; analyst of affirmative action and
+      employment issues among Asians;
+
+·     6. Dr. James Smith, Rand, economist and analyst of employment and race issues;
+
+·     7. Dr. Glenn Loury, Boston University; economist
+
+·     8. Moderator: either Michael Grant or Jose Cardenas (not yet invited)
+
+Advisory BoardlPIR members:
+
+      9.   Dr. J. Hope Franklin, Chair
+
+       10. Ms. Linda Chavez-Thompson
+
+      11. Rev. Suzan Johnson Cook
+
+       12. Ms. Angela Oh
+
+       13. Mr. Robert Thomas
+
+       14. Governor William Winter
+
+       15. Ms. Judith Winston, Executive Director, PIR
+
+       16. Secretary of Labor Alexis Herman
+
+

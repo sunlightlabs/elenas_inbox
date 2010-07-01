@@ -1,0 +1,46 @@
+ RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+ CREATOR: Cathy R. Mays   ( CN=Cathy R. Mays/OU=OPD/O=EOP [ OPD I       )
+
+ CREATION DATE/TIME:12-JAN-1999 14:38:50.00
+
+ SUBJECT:   Another Education Meeting
+
+ TO: David L. Stevenson ( CN=David L. Stevenson/OU=OSTP/O=EOP @ EOP [ OSTP I     )
+ READ: UNKNOWN
+
+ TO: Barbara Chow ( CN=Barbara Chow/OU=OMB/O=EOP @ EOP [ OMB I      )
+ READ: UNKNOWN
+
+ TO: Michael Cohen ( CN=Michael Cohen/OU=OPD/O=EOP @ EOP [ OPD I )
+ READ:UNKNOWN
+
+ TO: Broderick Johnson ( CN=Broderick Johnson/OU=WHO/O=EOP @ EOP [ WHO I )
+ READ : UNKNOWN
+
+ TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD I   )
+ READ:UNKNOWN
+
+ TO: Shirley S. Sagawa ( CN=Shirley S. Sagawa/OU=WHO/O=EOP @ EOP [ WHO I )
+ READ: UNKNOWN
+
+ CC: Mindy E. Myers ( CN=Mindy E. Myers/OU=WHO/O=EOP @ EOP [ WHO I          )
+ READ: UNKNOWN
+
+ CC: Chantell S. Long ( CN=Chantell S. Long/OU=OPD/O=EOP @ EOP [ OPD I )
+ READ: UNKNOWN
+
+ CC: Sandra Yamin ( CN=Sandra Yamin/OU=OMB/O=EOP @ EOP [ OMB I )
+ READ:UNKNOWN
+
+ CC: MaryEllen C. McGuire ( CN=MaryEllen C. McGuire/OU=WHO/O=EOP @ EOP [ WHO I )
+ READ:UNKNOWN
+
+ CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO I )
+ READ:UNKNOWN
+
+ TEXT:
+ The education group will meet again tomorrow, January 13, at 9:30 a.m. in
+ Bruce Reed's office. See you then.
+
+

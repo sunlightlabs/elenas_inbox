@@ -1,0 +1,45 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Thomas L. Freedman ( CN=Thomas L. Freedman/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME: 3-DEC-1998 16:23:19.00
+
+SUBJECT:   Farm Safety Net - Final version
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ:UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ:UNKNOWN
+
+TEXT:
+Unable to convert ARMS_EXT: [MESSAGE.D8l]MAIL4239l783K.326
+The following is a HEX dump of the file:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D81]MAIL43391783L.326 to ASCII,
+ The following is a HEX DUMP:
+
+================== END ATTACHMENT    1 ==================
+
+==================== ATTACHMENT   2 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D81]MAIL46391783M.326 to ASCII,
+ The following is a HEX DUMP:
+
+================== END ATTACHMENT    2 ==================
+
+==================== ATTACHMENT   3 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D81]MAIL47391783N.326 to ASCII,
+ The following is a HEX DUMP:
+
+===============-=== END ATTACHMENT   3 ==================
+
+

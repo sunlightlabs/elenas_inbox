@@ -1,0 +1,249 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Barbara Chow ( CN=Barbara Chow/OU=OMB/O=EOP [ OMB ] )
+
+CREATION DATE/TIME:20-MAY-1999 10:38:02.00
+
+SUBJECT:   UI/Family Medical Leave
+
+TO: Nicole R. Rabner ( CN=Nicole R. Rabner/OU=WHO/O=EOP@EOP [ WHO ] )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP@EOP [ OPD ] )
+READ: UNKNOWN
+
+TEXT:
+I wanted you to have a copy of a memo I sent to Jack last night regarding
+UI and FMLA. OMB does not have a formal position on this yet but as I
+indicated to you, my preference is for Option 3 for the reasons set forth
+in this memo.
+
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D4]ARMS266094258.136 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043A70D0000010A02010000000205000000B4610000000200OOF3A414F99208FE86066B15
+MEMORANDUM FOR THE DIRECTOR                                 Hex-Dump Conversion
+
+FROM:                     Barbara Chow
+
+SUBJECT:                  UI and Paid Family and Medical Leave
+
+
+We have spoken briefly about the idea of using the unemployment insurance (UI) system to pay
+Family and Medical Leave Act (FMLA) benefits.         DPC is now pushing for a decision on this
+issue due to the President's upcoming speech at Grambling University on Monday. Below is
+the background on this issue as well as the policy, operational, budgetary and regulatory
+questions regarding this proposal.
+
+Background on Paid Parental Leave and State UI Proposals.
+
+The idea of paid parental leave was discussed the last two years as a possible budget initiative,
+but did not make it through the process in either year.   As it was developed in 1997, the
+Administration's paid parental leave proposal would have provided eligible new parents $200 a
+week in paid leave, funded by the Federal government, for up to six weeks. Eligibility was
+based on income and time in the workforce. This initiative would have used the UI system .ill..
+deliver the leave payments, but would not have used UI funds !2..P.l!Y for these benefits. The
+policy goal was to offer persons who cannot afford to take leave after the birth or adoption of a
+child an option to stay at home, versus child care. It was estimated to cost $1 billion annually.
+
+DOL raised the issue again recently because of interest by the Hill, specifically Sen. Kennedy, in
+the Administration's position on paid parental leave. Four states have introduced legislation
+that would allow use of UI trust funds to pay individuals some form of family and medical leave
+(Vermont, Massachusetts, Maryland, and Washington). DOL has opposed this proposed use in
+the past because the individuals receiving the benefit are not available for work -- a fundamental
+requirement of the UI program known as the" availability test." Federal law does not contain an
+explicit requirement that UI claimants be available for work, and DOL has relied for many years
+on the legislative history of the UI program to enforce its availability interpretation.
+
+Absent a change in its long-standing interpretation, DOL would declare any State law using UI
+trust funds for family and medical leave to be "out of conformity" with Federal requirements.
+
+DPC is currently running a policy process to determine if States should have the flexibility to
+use UI funds for paid family and medical leave. The options for implementing this policy are
+laid out later in this memo (see DPC Options).
+
+Policy Questions
+
+What is the size of the problem that we are trying to address with this policy? The data on the
+need for or use of paid parental leave are scant and were collected very soon after FMLA was
+passed. We do not have data on recent experience. I understand that a survey conducted by
+                                                             Hex-Dump Conversion
+
+the Commission on Family and Medical Leave found that 3.4 percent of respondents did not take
+unpaid leave when needed. Of those 64 percent (or 2 percent of the overall sample) cited
+affordability as the main reason they did not take advantage of unpaid leave when they needed it.
+ Of the respondents who stated they did not take unpaid leave for birth or adoption of a child,
+100 percent (0.2 percent of the overall sample) cited affordability as the main reason.   By
+offering paid leave, the Administration could try to address this problem. It is also important to
+note that while the policy under consideration may be characterized as a paid parental leave
+proposal, only 17% of those who took FMLA covered leave did so for maternity leave ..
+
+Is there a substitution effect? If States implement this proposal, employers may decide to offset
+their costs by decreasing current benefits such as annual leave, paid parental leave, or even
+lowering wages. In addition, employers may lobby States to modify their state workers
+compensation programs to only allow for maternity disability after the UI benefit is exhausted.
+At one of the meetings, CEA raised the possibility that this policy could result in increasing
+hiring discrimination against women in the child bearing years.
+
+What are the implications for the UI program? The UI system is designed to pay benefits only
+to workers who lose a job through no fault of their own and who continue to be unemployed
+because no other work is available. The major concern of DOL is that a change in the
+Department's long-standing position on availability -- because it is not in Federal law -- would
+create a "slippery slope" for other aspects of the UI program. States might decide to pay
+benefits to other people not available for work because of vacations, sick leave, sabbaticals, or
+retirement. In addition, DOL believes that employers may push to turn UI into a mean-tested
+program to reduce costs. DOL also fears that any attempt to create limited State flexibility in
+using UI funds for family and medical leave will end up eliminating any DOL control over State
+UI programs except for provisions explicitly in Federalla.w.
+
+Will this be seen as circumventing the legislative process in order to expand FMLA coverage?
+The Administration has tried to lower the current 50 employee threshold for coverage under
+FMLA to 25. Administration support for paid leave may undercut support for expansion of
+unpaid leave under FMLA. Given UI covers all employers regardless of size, with limited
+exceptions, employees not currently covered by FMLA could receive paid leave benefits.
+
+Operational Ouestions.
+
+The following questions must be addressed in designing a program for paid family and medical
+leave. These questions can be left to individual States to answer as they design their own family
+and medical leave programs or they can be addressed through Federal policy guidance or model
+legislation. However, if we decided to issue guidance or regulations, it is unclear whether we
+have the legal authority to compel States to follow these guidelines.
+
+Should this benefit be universal or targeted to lower income persons?     UI is a non-means
+tested program - it is insurance against wage loss when involuntarily unemployed regardless of
+current family income or assets. The FMLA proposals discussed in 1997 and 1998 would have
+limited the benefit to those with incomes below a certain amount - as initially discussed the limit
+                                                                 Hex-Dump Conversion
+
+was a family income of $50,000, then it was $36,000. An income test could be interpreted as
+the first step to welfarizing UI. This may be preferable from a policy perspective, but is
+inconsistent with UI policy.
+
+What should the length of benefits be? Currently, FMLA provides job-protected unpaid leave
+for 12 weeks. UI benefits are available for up to 26 weeks. The State proposals we have seen
+would have chosen the shorter duration but there is no particular reason to adopt that duration.
+
+What type of leave will be covered? The Administration's budget initiatives were focused on
+paid parental leave. Some ofthe State proposals (including Massachusetts) cover all family and
+medical leave under State law, which is much broader than parental leave - including leave for
+the person's own health or to care for a sick parent or child. Of those who took FMLA covered
+leave in 1995, 60 percent did so due to personal illness. UI coverage for intermittent leave may
+be very difficult to administer and enforce.
+
+Should the individual be required to exhaust current leave options first prior to seeking UI
+benefits? Currently, most employees receive annual and sick leave from their employers.
+FMLA does not require the individual to exhaust other avenues prior to taking advantage of
+unpaid leave. Any requirement that individuals use all of the leave available to them for this
+purpose prior to seeking the UI benefit would be difficult to track and enforce.
+
+Budgetary and Regulatory Questions.
+
+What would the proposed program cost the Federal Government? The options under
+consideration are designed to permit interested States to provide paid family and medical leave;
+there will be no Federal mandate. Because there will be no Federal legislation, there will be no
+legislative PAYGO requirements. The intended effect of these options is to increase spending
+from the Unemployment Trust Fund, which is on budget. But State UI taxes will increase over
+time in response to the higher benefit outlays, so over the longer term paid family and medical
+leave will be deficit neutral. Weare trying estimate the effects of this policy on a year by year
+basis but the estimate will be very soft and difficult to construct.
+
+Only rough estimates of potential program costs are available. Ifpaid family and medical leave
+were implemented in every State with the current Federal thresholds, DOL estimates that the
+costs would be $2-$9 billion a year, compared with current UI benefits of $23 billion a year.
+The low end assumes no behavioral changes; the high end assumes behavioral changes by
+workers and employers, including shifts from currently paid leave to the new program. For the
+Massachusetts proposal, which covered all family and medical leave for all sizes of firms for 12
+weeks, three independent estimates concluded costs would be about $200 million a year,
+compared with current UI benefit payments of$750 million in that State. We would anticipate
+that over time States would increase taxes, so over the years the program would be deficit
+neutral.
+
+Would this be subject to Congressional review under the Small Business Regulatory Enforcement
+Fairness Act (SBREFA)? Yes. If DOL issued either a program letter or a proposed regulation,
+it would be subject to Congressional review.          Hex-Dump Conversion
+
+DPC Options.
+
+ DPC is currently developing three options. All are pennissive, not mandates, and would rely
+on State legislation to change State UI laws.
+
+1. Instruct DOL to Issue New Program Guidance (interpretative rule).
+
+Pros:                 Guarantees a specific policy outcome.
+
+                      Could be done quickly and does not require public comment.
+
+                      Could include Federal parameters on the structure of the program.
+
+
+Cons:                        Compromises DOL's "availability" standard.
+
+                      More susceptible to legal challenge and therefore could be easily
+                      overturned.
+
+                      Subject to Congressional review under SBREF A and would likely be
+                      categorized as "major."
+
+                      More susceptible to future policy changes.
+
+                      Could provoke an appropriations rider or other legislative action.
+
+2. Instruct DOL to Issue New Regulations.
+
+Pros:                 Creates a sounder legal basis and is less susceptible to legal challenge.
+
+                      Provides for public comment.
+
+                      Offers time for "fine tuning" Federal guidance on the parameters ofUI
+                      coverage offamily and medical leave.
+
+                      Less susceptible to future policy changes.
+
+
+Cons:                        Compromises DOL's "availability" standard.
+
+                      Could result in changes to the policy based on public comment.
+
+                      Regulations require more time - delays State adoption of program and
+                                                                   Hex-Dump Conversion
+                            allows opposition to mobilize.
+
+                            Subject to Congressional review under SBREFA and would likely be
+                            categorized as "major."
+
+                            Could provoke an appropriations rider or other legislative action.
+
+     3. Instruct DOL to Produce Model State Legislation for Separate UI-FMLA Fund. States could
+     create a separate State tax to fund parental leave (that would not be part of the UI trust fund) and
+     could reduce their State UI taxes to make this new program revenue-neutral for employers.
+     Several States have already established separate taxes for training or for employment security
+     administration. DOL could use the UI system to administer this new program.
+
+     Pros:                  Achieves States objective of providing paid leave.
+
+                            Provides assistance to States without compromising DOL's "availability"
+                            standard.
+
+                            Easier because no Federal administrative actions are necessary.
+
+                            Designing model legislation could be done relatively quickly.
+
+
+     Cons:                          Appears less pro-active.
+
+                            Less responsive to State initiatives in this area.
+
+                            Less attractive to States due to the requirement of a new tax.
+
+     Recommendation. I recommend Option 3. By supporting this option, the Administration can
+     show its strong support for paid parentalleave without compromising the fundamental
+     requirements of the UI program. In addition, other alternatives should be explored sl,lch as
+     creation of a new tax credit, use of State temporary disability programs, or creation of a Federal
+     program of paid parental leave like the 1997 proposal.
+
+

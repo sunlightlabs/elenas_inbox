@@ -1,0 +1,391 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Michael Cohen ( CN=Michael Cohen/OU=OPD/O=EOP [ OPD 1 )
+
+CREATION DATE/TIME: 5-DEC-1997 19:46:29.00
+
+SUBJECT:   FINAL VERSION OF CLASS SIZE MEMO
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N.   Reed/OU~OPD/O=EOP @   EOP [ OPD 1 )
+READ: UNKNOWN
+
+TEXT:
+Here it is.  Zones to follow shortly.==================== ATTACHMENT    1 ===========
+ATT CREATION TIME/DATE:    0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D85lMAIL43251783M.316 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043D40F0000010A020100000002050000009A42000000020000B51321BC8E19EA7EEOD7B9
+6988A50AA6A8406445FC225B3A364233EB4C22D337F5CCFOB9102B4DFB90A5570941404A622B5D
+2DEDEB6A75A35D98BDEA5A9A8BE54504255DDCOA8F3195F4A554EAF91F9BF77791FC175468C23A
+D77E937D6C2FE501E482927FA153F4EA8EB408D1964383C326ABB1C8F10BDCDAC96E10C2D7CF9C
+546BFFB5DCDBDA71F6F26E55EA757C5EF141A8D6034F2403E96388E18F2D73A76ECOEBBDC353DO
+F3F1DC7F56A7648E6FBC2299483BB45A2AOC412C7F9535672A6BF8OB9A47B887B8F3AEEC8C6A4C
+DB544F7F4EC32F4C2EDOE9AAAB73781C63E241AB6993A22B5A3137BE17458BE9D3B1D1E9A1A58D
+74A7464B55D66D415E57601DC96ADA1089F3B8AD4ED9BDFF254A773D53C7842AF4BC5F64822940
+9D8A4903D7FB2C46F4A102A45BF08CF1BAFABE0326DE199BB423E93A4FAEDD9713F86C63758B69
+4BOOCDC7E0541466E9658F772449242B2B8367499008BF2DD349F21ABAE1C327F4EOAB683CC15C
+9CB8694981BD34080F66FCEF3553796DB7CF2F00745A89549994008C374FA5B266A690266E6DE7
+F91AOE9C8858AE7562F2EBC182623EBFD52C5454E8BCD23104C351C83584F1204DDA3547680080
+F3F15F578E901068EOEE980C2829282378DF7931B9F5C186408B05953DEB35EAF677CF93DE60C1
+86EOB389C70200A600000000000000000000000055010000004EOO0000140B0000092501000000
+06000000620BOOOOOB300100000055000000680B000008020100000010000000BDOBOOOOOB3002
+00000034000000CDOB000008050100000008000000010C000008770100000040000000090COOOO
+08340100000014000000490C0000006600000100020000005DOCOO00006100000100140000005F
+OC000000660300020002000000730C000000610100020014000000750C00000968010000006FOl
+0000890C00000968010000006F010000F80DOOOOOOOOOOOOOOOOOO000000F80DOOOOOOOOOOOOOO
+0000000000F80DOOOOOOOOOOOOOOOOOOOOOOOOF80DOOOOOOOOOOOO000000000000F80DOOOOOOOO
+0000000000000000F80DOOOOOOOOOOOOOOOOOOOOOOOOF80DOOOOOO000000000000000000F80DOO
+0000000000000000000000F80DOOOOOOOOOOOOOOOOOOOOOOOOF80D000000000000000000000000
+F80DOOOOOOOOOOOOOOOOOOOOOOOOF80DOOOOOOOOOOOOOOOOOOOOOO00F80DOOOOOOOOOOOOOOOOOO
+000000F80DOOOOOOOOOOOOOOOOOOOOOOOOF80DOOOOOOOOOOOOOOOO00000000F80DOOOOOOOOOOOO
+000000000000F80DOOOOOOOOOOOOOOOOOOOOOOOOF80DOOOOOOOOOO00000000000000F80DOOOOOO
+000000000000000000F80DOOOOOOOOOOOOOOOOOOOOOOOOF80DOOOO00000000000000000000F80D
+000000000000000000000000F80DOOOOOOOOOOOOOOOOOOOOOOOOF8ODOOOOOOOOOOOOOOOOOOOOOO
+00F80DOOOOOOOOOOOOOOOOOOOOOOOOF80DOOOOOOOOOOOOOOOOOOOO0000F80DOOOOOOOOOOOOOOOO
+00000000F80D0000094201000l001D000000670FOOOOOOOOOOOOOO0000000000670FOOOOOOOOOO
+00000000000000670F000000000000000000000000670FOOOOOOOO0000,000000000000670FOOOO
+00000000000000000000670F000000000000000000000000670FOO000000000000000000000067
+OF000000000000000000000000670FOOOOOOOOOOOOOOOOOOOOOOOO670FOOOOOOOOOOOOOOOOOOOO
+0000670F000000000000000000000000670FOOOOOOOOOOOOOOOOOO000000670FOOOOOOOOOOOOOO
+0000000000670F000000000000000000000000670FOOOOOOOOOOOO000000000000670FOOOOOOOO
+0000000000000000670F000000000000000000000000670FOOOOOO000000000000000000670FOO
+0000000000000000000000670F000000000000000000000000670F000000000000000000000000
+670F000000000000000000000000670FOOOOOOOOOOOOOOOOOOOOOO00670FOOOOOOOOOOOOOOOOOO
+000000670F000000000000000000000000670FOOOOOOOOOOOOOOOO00000000670FOOOOOOOOOOOO
+                                                                      Hex-Dump Conversion
+MEMORANDUM FOR THE PRESIDENT
+
+FROM:          BRUCE REED
+               MIKE COHEN    .
+SUBJECT:       Proposed Class Size Reduction Initiative
+
+       We are proposing for consideration in the FY 1999 Budget a $9.2 billion, 5-year initiative
+to improve early reading by reducing class size in grades 1 and 2 from a national average of 22.5,
+to a maximum of 18, and by taking the steps necessary to ensure that all teachers in those grades
+have the knowledge and skills necessary to teach reading effectively in small classes.
+
+        Reducing class size has long been an important goal for parents and teachers throughout
+the country. While there are conflicting findings in the research on the impact of lower class
+size, two major, well controlled experiments undertaken in the 1980's in Tennessee and Indiana
+showed that reducing class size in the early grades to between 15-18 students has a significant
+effect on student achievement. While all students benefit from smaller classes, the effects are
+largest for the most disadvantaged -- low-income and minority students in inner cities.
+
+        A number of other states are now launching their own class-size reduction initiatives.
+(Class size was also a linchpin of Tony Blair's agenda for New Labour in his recent campaign.)
+A national effort to reduce class size, led by you and structured as a partnership between the
+federal government and state and local governments, would help spread this effort nationally. It
+also would provide a concrete way to demonstrate your commitment to help all students meet
+challenging national standards.
+
+        Large-scale reductions in class size raise significant issues, especially involving teacher
+quality. For example, California's new initiative to reduce class size to 20 in the primary grades
+has exacerbated the shortage of fully qualified teachers and, particularly in urban districts, has
+resulted in increased hiring of noncertified teachers. It has also increased the need for
+professional development for the existing teaching force,in order to help teachers take full
+advantage of smaller classes. And many schools have been limited in their ability to reduce
+class size because of space limitations in already overcrowded facilities.
+
+        Notwithstanding these challenges, the benefits of significant reductions in class size are
+clear. In the first year of implementation, many teachers report that smaller classes enable them
+to pay greater attention to individual students, to assign and help them with more challenging
+work, to communicate more often with parents, and to have less disruptive classes. Many
+parents echo these reports, and support for public schools appears to be on the rise throughout the
+state. And many schools and districts are finding ways of meeting the challenges of teacher
+quality and facilities. They have found effective ways of training new and experienced teachers.
+ Schools have been willing to purchase portable classrooms or make other changes in how they
+use facilities in order to make room for smaller classes.
+
+
+                                                1
+                                                                    Hex-Dump Conversion
+
+The proposal described below is designed to help states and districts take advantage of the
+opportunities afforded by reductions in class size and to respond effectively to the challenges.
+We assume it will be coupled with a robust school construction proposal, which the NEe and
+Treasury are designing.
+
+Purpose
+
+        The purpose of this initiative is to reduce class size and provide quality teachers in the
+early grades, so that all students leam to read independently and well by the end of the 3rd grade.
+ Specifically, this initiative will help states and local communities hire an additional 89,000
+teachers over 5 years in order to reduce class size in grades 1 & 2 from a nationwide average of
+22.5, to a maximum of 18. At the same time, it will help states and school districts recruit and
+prepare new teachers and upgrade the skills of existing teachers in the early grades so they have
+the skills necessary to teach reading effectively in small classes.
+
+Funding Stream
+
+        The initiative would provide states and local communities with $9.2 billion over 5 years.
+Funding in the first year ($615 million in FY99) would cover the costs of hiring an additional
+17,800 teachers, and a similar number would be hired in each succeeding year. Funds would be
+distributed to states on a formula basis, taking into account the number of additional teachers
+each state would need to reach the class size target, as well as salary differences among the states,
+and poverty levels. Within this framework, we are also exploring ways to provide funds directly
+to the largest urban areas, as we did in last year's school construction initiative. Funds would
+pay for hiring additional teachers, as well as for steps to improve teacher quality, such as
+improved pre-service training to enhance the supply of qualified new teachers, professional
+development, or incentives for qualified teachers to teach in underserved areas. The federal
+government would cover 80% of the costs, with state and local communities providing matching
+funds for the rest.
+
+
+State and Local Plans
+
+         States would be required to work with local school districts to develop a statewide plan
+for class size reduction. The plan would include a timetable for phasing in class size reduction,
+strategies for ensuring that every classroom had a qualified teacher and for addressing school
+facility needs, and a plan for financing the state and local share of the costs. In developing their
+plans, states and school districts would be encouraged to look first at how they could reduce class
+size by making better use of existing staff and resources, including by reassigning certified staff
+who are not in classroom teaching positions to the classroom, and by using Title 1 and other
+federal funds to reduce class size rather than continue programs that pull students out of the
+regular classroom in order to receive extra help.
+
+
+
+                                                 2
+                                                                       Hex-Dump Conversion
+        States and districts would be given considerable flexibility in designing these plans.
+They would be permitted to carry over federal funds from one year to the next, enabling
+jurisdictions with the need to invest in preparing and training teachers at the front end of the
+process, and scale up class size reductions in later years. In cases where the lack of facilities or
+qualified teachers made it virtually impossible to meet the class-size reduction target,
+jurisdictions would be able to propose alternative approaches--such as Reading Recovery or
+Success for All--to provide intensive, high quality reading instruction in the early grades.
+
+
+Quality Teachers
+
+        State and local plans would be required to address teacher quality in a number of ways.
+States and local districts would have to show:
+
+I) how they will work with institutions of higher education and others to recruit and adequately
+prepare the increased numbers ofteachers;
+2) how they will ensure the new teachers get high quality, sustained professional development
+focused on effective teaching in small groups, on language acquisition, and on effective reading
+instruction;
+3) how they will recruit and hire new teachers without increasing the percentage of uncertified
+teachers already in the classroom--thereby placing a floor on the quality of teachers to be hired;
+and,
+4) how they would put in place performance-based teacher certification requirements -- teacher
+testing for new teachers in the primary grades-- so that new teachers would be required to
+demonstrate the knowledge and skills necessary to teach reading effectively in small classroom
+settings ..
+
+        We are also considering a requirement that states and districts demonstrate that they have
+effective ways of identifying low-performing teachers, giving them help and, if necessary,
+quickly and fairly removing them from the classroom.
+
+       While states and districts will be given great flexibility in how to address these issues, the
+Education Department will launch a major effort to disseminate information about best practices
+and proven approaches to improving teacher quality and reading achievement. States and
+school districts would use funds from this initiative, as well as state and local funds and funds
+from other federal programs, including Title 1, America Reads, the Eisenhower Professional
+Development program, and Chapter 2, to fund the teacher quality component of the initiative.
+
+Facilities
+
+       This initiative will place added burdens on existing facilities, and many school districts
+will have difficulty finding adequate space for smaller classes. While states and local
+communities continue to have the primary responsibility for addressing this issue, it will be
+
+
+                                                 3
+                                                                            Hex-Dump Conversion
+
+    especially important for the Administration to propose a school construction initiative along with
+    this proposal, and continue to press the Congress to enact it. In addition, as indicated above, this
+    initiative will provide schools with the flexibility to adopt other proven approaches for providing
+    intensive instruction in small groups in order to teach young children to read.
+
+    Accountability for Results
+
+             Local school districts will be required to evaluate the impact of their class size reduction
+    initiative on reading achievement, and make midcourse corrections as needed. If, after 3-4 years
+    a district cannot show significant gains in reading achievement, it would not receive continued
+    funding under this initiative. This provision will provide a strong incentive for all school
+    districts to make the most effective use of the all of their resources, and in particular, to use
+    proven practices to improve the quality of teaching through this initiative. In addition, the;:
+    Education Department will conduct a national evaluation of this initiative, to identify
+    implementation problems that need to be addressed and to learn about the most effective
+    practices.
+
+    Budget Options
+
+             If the cost of this proposal needs to be scaled back, we can reduce the overall cost by
+    setting an objective of reducing the average class size to 18 (rather than a maximum of 18)
+    while setting a class size ceiling of 20, or by reducing the federal share of the initiative to 70%
+    rather than 80%. Alternatively, it could be phased in over a longer period, such as 7 years.
+    The chart below shows the total 5-year cost of these options.
+
+
+                                      80% Federal Share                 70% Federal Share
+
+     Class size ceiling of 18         $9.2 Billion                      $8.0 Billion
+
+     Class size average of 18,        $7.7 Billion                      $6.7 Billion
+     ceiling of 20
+
+     Class size average of 18,        $5.5 Billion (for 5 years)        $4.75 Billion (for 5 years)
+     ceiling of 20; 7 year scale up
+
+
+
+
+                                                     4
+
+
+     RECORD TYPE ;"PRESIDENTIAL    (NOTES MAIL)
+
+     CREATOR: Paul J. weinstein Jr.    ( CN=Paul J. weinstein Jr./OU=OPD/O=EOP [ OPD ) )
+
+     CREATION DATE/TIME: 5-DEC-1997 19:42:15.00
+
+     SUBJECT:   Final LIHTC Memo
+
+     TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP [ OPO)     )
+     READ: UNKNOWN
+
+     CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP [ WHO ) )
+     READ: UNKNOWN
+
+     CC: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP [ OPD ) )
+     READ: UNKNOWN
+
+     CC: Jose Cerda III ( CN=Jose Cerda III/OU=OPO/O=EOP [ OPD ) )
+     READ: UNKNOWN
+
+     cc: Jonathan Orszag ( CN=Jonathan Orszag/OU=OPD/O=EOP @ EOP [ OPD ) )
+     READ: UNKNOWN
+
+     CC: Emil E. Parker ( CN=Emil E. Parker/OU=OPO/O=EOP @ EOP [ OPD ) )
+     READ: UNKNOWN
+
+     CC: Russell W. Horwitz ( CN=Russell W. Horwitz/OU=OPD/O=EOP @ EOP [ OPD ) )
+     READ: UNKNOWN
+
+     Jonathan A. Kaplan ( CN=Jonathan A. Kaplan/OU=OPD/O=EOP [ OPD ) )
+     READ: UNKNOWN
+
+     TEXT:
+     This is it. Treasury has given us some more finalized numbers. HUD has
+     reviewed and supports expanding the credit. OMB has seen but isn't taking
+     a position. While Tax Policy at Treasury has some reservations (as they
+     always do), Treasury itself has not taken a position. They are divided.
+     Michael Barr supports the expanding the credit.
+
+     ==================== ATTACHMENT   1 ====================
+     ATT CREATION TIME/DATE:   0 00:00:00.00
+
+     TEXT:
+     Unable to convert ARMS_EXT: [ATTACH.D74)MAIL48941783X.316 to ASCII,
+      The following is a HEX DUMP:
+
+     FF5750438E050000010A02010000000205000000DB1C000000020000495550DE8EF108COB03C8B
+     23A3319655EB861C04C15F8108E03D47E23B26457AEOB545ABF1E2F69D295F10EE9204594A2961
+     961A031ED30E618B2993FAE07E4EBE03A15DCA83E8E98B1654297E1OB889CBAA05D6828E5C59BB
+     518B35D53D222C31E93141B7F447AB2F722498EFOD2A290267ABBB46AA805F5540A5ACB45E4E9F
+     F82706CBA1E3B5EE4D98D6831BC508B63729745BCED5D25C79E9BD160E8B8CC853A8AE99DEC15F
+     34BD8481F1AD85413D06804564B7FEB82DEB3F9EBF929C91599F42521007905A8C9AC2454C83C7
+     B9A2EDE1E7F857B204FDF2742COF3FDA74F5FA4D3B4CF34A61A5CFOABB2710123658984B657FF6
+     B14EC8FD18283E569B5709332550994A2DA70EB85D5C9C3ABCA45BO9FE6BB8988D46AEB817B31A
+     7647B64FB631636350952AD2C6DEEOA8DC2C65B1CD3436BB5B71654698C29C2886625B73E581CB
+     lA4C44DDOAOA64C6E08D34A8CA8FAFEF20E2EC737D7F2A78C41D22A9934A81C30421E295759DDA
+     90C4520D2AAC49F1E9D21DC943FE781E645250EC5E63B954AE820A70F19FE42CBF016493449614
+     588D4AEE049FC2FD5F3EOE71FC7F3B25FEA4A3F9D005344D98FDC60196CA962CCFF4F6460D31A4
+     ID278B573FF84722E3B1DA2033D7A77E2BD3FB078522463220A5A9D464036EBE9B74EE1CAB93FB
+     BA705429BF02000E00000000000000000000000823010000000B010000C4020000005505000000
+                                                                                Hex-Dump Conversion
+
+
+
+
+                                               December 5, 1997
+
+
+     MEMORANDUM FOR THE PRESIDENT
+
+     FROM:                  BRUCE REED
+                            GENE SPERLING
+
+     SUBJECT:               Expanding the Low-Income Housing Tax Credit (LIHTC)
+
+     Overview
+
+             This memorandum details· several options to increase the cap on the LlHTC and to
+     potentially index it to the rate of inflation in future years. This initiative, along with proposals to
+     raise the number of incremental vouchers, expand homeownership, and strengthen the Fair
+     Lending Law would build on the housing successes of your first four years.
+
+     Affordable Housing and the Low-Income Housing Tax Credit
+
+              Enacted as part of the Tax Reform Act of 1986, and made permanent by you in 1993,
+     the LlHTC offers corporate and individual investors a credit against their federal income taxes
+     based on the cost of acquiring, rehabilitating, or constructing low-income housing. The tax
+     credit is a major federal resource for affordable housing, producing 90,000-100,000 low-income
+     rental units per year.
+
+             However, because the amount of the LlHTC that can be allocated each year is capped
+     relative to the population, its ability to serve its public policy mission is being eroded by
+     inflation. The amount of the LIHTC that states may allocate each year is $1.25 times the state's
+     population. Since 1986, the purchasing power of the LlHTC has eroded by about 45%; if the
+     cap had been indexed in 1986, the current credit would be more than $1.75 per capita.
+
+             After several years of attacks from conservative Republicans to repeal the credit on the
+     grounds that it is a form of "corporate welfare" and your repeated vetos of efforts to sunset the
+     LIHTC, the credit currently enjoys bipartisan support in Congress and across the nation among
+     state and local officials. Senators D'Amato and Graham have introduced legislation (S. 1252)
+     that would provide for a significant increase in the annual volume cap. Groups such as the
+     Local Initiatives Support Corporation (LISC) are strong supporters of this legislation.
+
+     Options
+
+     1. Index LIHTC for Inflation -- Cost: $175 Million Over Five Years -- An inexpensive option
+     would be to change the LlHTC statute and index the LIHTC to the Consumer Price Index. This
+     would insure that the credit does not experience any additional future decline in value from
+     inflation. However, this proposal would not make up any of the lost value of the credit since
+     1986. This would cost roughly $175 million over five years.
+                                                                        Hex-Dump Conversion
+2. Raise the LIHTC Cap -- Cost: $359 Million to $600 Million Over Five Years -- This is a
+moderate-cost approach that would partially offset the real loss of the credit value since 1986.
+For $359 million over five years, we could increase the credit from its current value of $1.25 to
+$1.37 per capita. A more expensive, but still moderate approach, would be to increase the credit
+to $1.50 per capita. which would cost approximately $600 million over five years according to
+preliminary Treasury estimates. We could also add indexation to one of these increases, but this
+would increase the costs. Tax Policy at Treasury notes that indexation would raise the cap
+substantially in the outyears which would recreate the inefficiency problems the program suffered
+through several years ago.
+
+3. Support S. 1252 {D'Amato-Graham) -- Cost: $1.6 Billion Over Five Years -- This proposal
+would increase the annual volume cap of the LIHTC to $1.75 per capita and index it for future
+years. This proposal would cost $1.6 billion over five years.
+
+Recommendation
+
+         Tax Policy at Treasury raises several concerns with any raise in the cap on the LIHTC
+(e.g., there are more efficient ways to increase low-income housing than using the tax code and
+having tight caps increases the efficiency of the program since projects must compete vigorously
+for the credit). While their argument has some merit, the LIHTC has proven to be an
+increasingly efficient tool and remains the only politically feasible option available to help build
+more affordable housing for people with low incomes. Moreover, LISC, Enterprise Foundation,
+and the other community development groups view the LIHTC as yours, since you were the one
+who permanently extended it. If Congress acts this year to increase the cap -- which is likely --
+and we do not have a proposal on the table, you may lose the LIHTC as one of your lasting
+legacies.
+
+        The DPC and NEC recommend that you chose option 2. Option 2 would provide a
+modest increase in the LIHTC, while ensuring that the efficiency effects from relatively tight
+caps remain. The DPC and NEC believe that option 1 -- while ensuring that the credit is no
+longer eroded by inflation -- is too small and Tax Policy believes that as the caps are increased
+over time, the efficiency of the program would decrease. Option 3 -- at a cost of$1.6 billion--
+may not feasible in the current constraints of the budget.
+
+

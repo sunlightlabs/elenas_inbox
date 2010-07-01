@@ -1,0 +1,76 @@
+       RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+       CREATOR: Leanne A. Shimabukuro ( CN=Leanne A. Shimabukuro/OU=OPD/O=EOP [ OPD ] )
+
+       CREATION DATE/TIME: 8-JAN-1999 16:03:49.00
+
+       SUBJECT:   draft statement
+
+       TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO]    )
+       READ:UNKNOWN
+
+       TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+       READ:UNKNOWN
+
+       CC: Jose Cerda III ( CN=Jose Cerda III/OU=OPD/O=EOP @ EOP [ OPD ] )
+       READ:UNKNOWN
+
+      TEXT:
+      I'm still waiting to hear back from Justice folks to see if they have any
+      additional information on the shooting so I've kept it pretty general.
+      According to wire stories, there were two students shot -- one was slain
+      and the other is seriously wounded.   Since its been reported that this
+      appears to be a murder-suicide or double suicide between a boyfriend and
+      girlfriend, the shooting could be of a very different nature than the
+      Jonesboro and Paducah incidents.  I've spoken with Jose', and while he is
+      fine with the text, he isn't too sure that we should necessarily draw more
+      attention to this incident.
+
+       Let me know if you're planning to go forward with the statement.
+
+       Thanks,
+       Leanne
+
+
+      ==================== ATTACHMENT   1 ====================
+      ATT CREATION TIME/DATE:   0 00:00:00.00
+
+      TEXT:
+      Unable to convert ARMS_EXT: [ATTACH.D2]MAIL40992390F.036 to ASCII,
+       The following is a HEX DUMP:
+
+      FF575043FA040000010A02010000000205000000480A000000020000125AFE28A3DA4B7F3EC47F
+      4C644710AE1FOACA8DE41294EB76F6F43231B83176AFA86637A2EBD2031051C8BDC53C28D17326
+      9CFE367E808CDCBEEB1BDOC469C732926F1C95F924DA7FE98AC648A8A3F038B1C170BAD663716B
+      DDA8A84BF90688A25F5D48312C13F681B44F08B546CDF85EDC10C578F1379BA5EEBCAC54191CEE
+      295D51DD68C70BOOA8CC2A514DD2FDBE3BEC9E39132C2D4ADC5BFB58D2B488Fl14B51FA75B21B9
+      5365C4BFF125E9D7678E709B054DBBF8CAC50BB547D01521E08243777F61541C4D59033045634D
+      3BA16BF38285D296B10A89EFA59EB3FEOC2523A4866C21AED3AEB7FADC131D8C336C280807BC3F
+      E876E60062B1F9F0668E6B37349CFEACB7306C08C6CCE4FB4F231F8028A3D971C86B5B00357E01
+      F8A9E013B311E1A251B051FED26AB9BED1D44EA213C6F82508CA8B2OD38949CD1B333B7963AOA5
+      9D0993E1111AE1CD4269B04BD6E65FF77EB73B97C4F3DCE418A0357773C198B9C6A86B2004B61A
+      C109A3F0756F84E5DAE79756E24883B94763190B2BDB2434DF027736044C9089CB373080581343
+      EE243B518007E99176586FE8730106F576E822EEAODAEF2B1CD109A804F2D3007E6AD8FA5379CO
+      2158B1A94CDA4CFE0712F366A96FA44DA654B5AEOOCAE7E09B4E287CA69C3CD821064CBAAA86EF
+      D18A17FE6402000B00000000000000000000000823010000000BOI00009A020000005503000000
+       4EOOOOOOA50300000925010~000006000000F30300000B300200000028000000F9030000081601
+       000000320000002104000008770100000040000000530400000834010000001400000093040000
+       0802010000000FOOOOOOA704000008050100000008000000B60400000055020000003COOOOOOBE
+       04000000986C006F00630061006C0020006C00610073006500720020006A006500740020003500
+       000000000000000000000000000000000000000000000000000000000000000000000000000000
+                                                                          Hex-Dump Conversion
+DRAFT
+                           STATEMENT BY THE PRESIDENT
+
+
+I was saddened to hear of the tragic shooting involving two high school students this
+morning in Carrollton, Georgia. My Department of Education has reached out to the
+State of Georgia to offer its assistance to the community regarding this traumatic incident.
+While many of the facts surrounding this tragedy are still unanswered, we must redouble
+our efforts to ensure that our children are safe from violence, and that guns remain out of
+our schools and out of the hands of young people. Hillary and I extend our thoughts and
+prayers to the parents and the entire community of Carrollton during this difficult time.
+','   .
+
+
+

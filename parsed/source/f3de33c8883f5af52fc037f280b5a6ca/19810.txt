@@ -1,0 +1,73 @@
+RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+CREATOR: Christopher C. Jennings ( CN=Christopher C. Jennings/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME: 8-MAY-1998 09:10:35.00
+
+SUBJECT:   weekly inserts
+
+TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+TO: Paul J. weinstein Jr.   ( CN=Paul J. weinstein Jr./OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TEXT:
+I took a crack at doing an update on the PSO abortion issue.    Thought you
+might want to get something in on this.
+
+cj ==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D94]MAIL40043572U.126 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504306050000010A020100000002050000005211000000020000767D4BOB5948D4C4E86906
+7867D67FCAD7A3404AC02D35638CCBE77B6F17DDOB26A3D123C073A7DB6B748503F606A2BFCFB3
+
+
+
+
+                                                                                             Automated Records Management System
+                                                                                                     Hex-Dump Conversion
+
+
+              Medicare and Abortion Coverage.       Recently; a provider sponsored organization (PSO), which is
+              a member of the Cath<Jlic Health Association (CHA), was informed by a Health Care Financing
+              Administration (HCFA) regional office that it could not participate in Medicare unless it agreed
+              to provide abortion services for Medicare beneficiaries. Although a little known fact, Medicare
+              does provide reimbursement for those limited occasions when a disabled Medicare beneficiary is
+              pregnant and seeks an abortion. The CHA requested that we attempt to find an exception for
+              PSOs that object to providing the service on religious/moral grounds.        Senator Nickles is also
+              placing great pressure on HHS to develop a formal position. Already he is reportedly drafting
+              legislation that would apply the Hyde Amendment to Medicare if we conclude that Hyde does
+              not have the statutory reach to apply to Medicare. (HHS initial review has concluded that Hyde
+              does not apply, but we are having White House lawyers review this analysis.) Even if Hyde
+              does not apply, we do believe we may have found a way to respond to CHA's request.
+              Specifically, PSOs that have "conscience clause" policies could be exempt from providing
+              abortion services; beneficiaries in these plans could go to a physician that billed Medicare directly
+              for the service.· Unfortunately, Senator Nickles is not likely to accept this option, even if CHA
+              does. He clearly sees this as an extremely attractive election year issue. Ironically, however,
+              since the Hyde amendment has a rape or incest exception, our approach -- which would not
+              require that these PSOs reimburse for any abortion -- is more responsive to and consistent with
+              the CHA position. We have a working group from DPC, Council's office, OMB, and HHS
+              reviewing legal, policy and strategic options. We plan on sending you an options memo on this
+              issue shortly.
+
+              Genetic Discrimination Update. Senator Jeffords, Chairman of the Senate Labor and Human
+              Resources Committee, has indicated his intention to produce a bipartisan bill -- likely with
+              Senator Dodd -- that prohibits insurers from accessing and inappropriately utilizing
+              genetic coding information. Since last year, you have been calling on the Congress pass
+              legislation to bar both insurers and employers to use genetic information in a discriminatory
+              fashion. The Senator's announcement was as surprising as it is welcome; we will be sending
+              Administration witnesses to testify at the Labor Committee's hearing on this subject within the
+              next two weeks. While it will take work, we believe this Committee activity has every real
+              chance of making a significant contribution toward passing this bill either as a free standing
+              measure, a part of a patients bill of rights bill, or as part of a broader medical records/privacy
+              initiative. We will keep you apprised of developments.
+
+

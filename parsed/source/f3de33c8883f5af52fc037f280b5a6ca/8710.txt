@@ -1,0 +1,28 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Andrea Kane ( CN=Andrea Kane/OU=OPD/O=EOP [ OPD    J   )
+
+CREATION DATE/TIME:24-JUL-1998 20:21:58.00
+
+SUBJECT:   good news from Urban Institute studies
+
+TO: Diana Fortuna    CN=Diana Fortuna/OU=OPD/O=EOP [ OPD I )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD I )
+READ:UNKNOWN
+
+TO: Emil E. Parker ( CN=Emil E. Parker/OU=OPD/O=EOP @ EOP [ OPD J )
+READ: UNKNOWN
+
+TO: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP @ EOP [ OPD I )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD I )
+READ: UNKNOWN
+
+TEXT:
+Unable to convert ARMS EXT: [MESSAGE.D9]MAIL453597017.226
+The following is a HEX-dump of the file:
+
+

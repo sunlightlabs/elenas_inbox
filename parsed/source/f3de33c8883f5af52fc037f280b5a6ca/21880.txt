@@ -1,0 +1,126 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Sarah A. Bianchi ( CN=Sarah A. Bianchi/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME: 7-DEC-1998 01:11:25.00
+
+SUBJECT:     fraud paper
+
+TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ:UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D39]MAIL42976704C.326 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043AE070000010A020100000002050000002737000000020000852C846EA1C47F6CD30518
+4B47C6013C2683E8E627EEBB799DD9F828C6COC31EFCBD21FAE8B741F5B349381AF44BB5084E02
+       UPCOMING BUDGET AND ANNOUNCES NEW EXECUTIVE ACTIONS TO FIGHT ABUSE
+                                   December 7, 1998
+
+Today, President Clinton announced new additional steps to fight waste, fraud and abuse in the Medicare program,
+building on the Administration's longstanding efforts in this area. The President unveiled an anti-fraud abuse, and
+waste legislative package that will save Medicare over $2 billion. He also announced new steps to crack down on
+fraud, including new efforts to make Medicare contractors more accountable. Today in an event with the
+Administrator of the Health Care Financing Administration (HCF A), the HHS Inspector General, Senator Tom
+Harkin, and the Older Women's League, the President:
+
+ANNOUNCED NEW LEGISLATIVE PACKAGE THAT WILL SAVE MEDICARE OVER $2 BILLION BY
+COMBATING FRAUD, WASTE, AND ABUSE. President Clinton will send Congress a comprehensive
+legislative package to fight waste, fraud and abuse in the Medicare program as part of his FY2000 budget proposal.
+Many of these proposals have been recommended to Congress before and are consistent with recommendations made
+by the HHS Office of the Inspector General (orG) in recent reports. These new proposals, which will give HCF A
+more tools to root out fraud, abuse, and waste in Medicare, include:
+
+·      Eliminating Wasteful Excessive Medicare Reimbursement for Drugs. A recent report by the OIG
+       confirmed that under current law Medicare pays hundreds of millions of dollars more for 22 of the most
+       common and costly drugs than would be paid if market prices were used. For more than one-third of these
+       drugs, Medicare paid more than double the actual average wholesale prices, and in one case paid as high as ten
+       times the amount. This proposal would eliminate the mark-up for many drugs by basing Medicare's payment
+       on the provider's actual acquisition cost of the drug, the same policy Department of Veteran Affairs uses to
+       pay fair prices for its drugs.
+
+·      Ending Overpayments for Epogen, a drug used to treat anemia related to chronic renal failure. An orG
+       report found that the current EPO reimbursement rate of $1 0 per 1,000 units exceeds the current cost of the
+       drug by approximately 10 percent. The Administration's proposal reduces Medicare reimbursement to reflect
+       current market prices.
+
+·      Preventing Abuse of Medicare's Partial Hospitalization Benefit. A recent OIG report found that
+       providers are abusing Medicare by billing for services that were never given or provided to many fewer
+       patients than were billed for. One of the most abused benefits is group therapy. This proposal would better
+       ensure that Medicare only reimburses for necessary services.
+
+·      Ensuring Medicare Does Not Pay for Claims Owed by Private Insurers. Private insurers of working
+       Medicare beneficiaries are required under law to be the primary payor of health claims. However, Medicare
+       and the taxpayers that support the program are being ripped off by private insurers who do not pay the claims
+       they are responsible for. These proposals ensure that private payors pay first by requiring insurers to report
+       the Medicare beneficiaries they insure to HCFA. This proposal would also provide the authority to recoup
+       twice the amount owed by insurers who purposely let Medicare pay claims they owe and impose fines for
+       those who fail to report legal settlements where Medicare should have been reimbursed.
+
+·      Empowering Medicare to Purchase Cost Effective High Quality Health Care. Using centers of
+       excellence has enabled Medicare to take advantage of the widely used private sector insurance practices of
+       contracting out with institutions that have a track record of providing exceptionally high quality care at a
+       reasonable price. Under current law, however, Medicare can only do this under a limited demonstration
+       authority. As a result, hundreds of millions of dollars have been wasted for potentially lower quality care. This
+       proposal authorizes Medicare to expand its centers of excellence authority to all urban areas, which have
+       multiple providers competing against each other on cost and qX~IA~ated Records Management System
+                                                                      Hex-Dump Conversion
+       the authority it needs to terminate poorly performing contractors expeditiously. It also cannot adequately
+       expand the pool of companies eligible to process and pay claims and therefore is dependent on a limited
+       number of carriers, making it difficult to eliminate bad apples. The proposal would also give HCFA new
+       flexibility to aggressively oversee general contractor performance, including important program
+       integrity related functions, such as provider enrollment and overpayment collection.
+
+TOOK NEW ACTIONS TO HELP ASSURE MEDICARE CONTRACTORS FIGHT FRAUD, WASTE AND
+ABUSE. Today, the President is also unveiling new efforts to assure contractors are cracking down on fraud and
+abuse. These include:
+
+·      Awarding First Contracts This Spring That Allow New Fraud Surveillance Units to Perform Payment
+       Safeguard Activities. OIG reports have show that one-fourth of the fraud units have identified no cases to
+       the OIG and nearly two-thirds have referred less than three cases. The Administration fought to include the
+       Medicare Integrity Program (MIP) in the Health Insurance Portability and Accountability Act of 1996
+       (HIPAA) that gave Medicare new authority to competitively contract with new, specialized fraud, waste, and
+       abuse surveillance units or "fraud fighters" that are better equipped to conduct medical review, educate
+       providers, and audit cost reports, activities that are vital to the detection of fraud, waste, and abuse.
+       Previously by law Medicare could only hire insurers, who may have conflicts of interest, to do this work.
+       This spring, the first fraud surveillance units will begin their efforts.
+
+·      Implementing the Competitive Bidding Demonstration for Durable Medical Equipment. The OIG
+       recently found that Medicare rates for hospital beds are substantially higher than rates paid by other payers.
+       HCF A will begin a competitive bidding demonstration this spring using market forces to decrease Medicare
+       payment for hospital beds and other durable medical equipment, thereby lowering program costs.
+
+·      Requiring Contractors to Report Fraud Complaints to the Inspector General Right Away. Currently,
+       many contractors hold back cases of suspected fraud because the dollar amounts seem low before reporting
+       them to the Inspector General when, in fact, they may add up to significant dollars or show patterns of fraud.
+       This month, HCF A will send program memorandums to every contractor requiring them to immediately refer
+       suspicious fraudulent providers to OIG for review to ensure that fraud is identified and addressed
+       expeditiously.
+
+·      Announcing That A New Comprehensive Plan to Fight Fraud and Abuse Will Be Completed By Early
+       Next Year. To improve efforts to cut down on fraud and abuse, HCFA will release a new
+       Comprehensive Plan for Program Integrity early next year. This report includes important new
+       strategies to promote appropriate reimbursement of legitimate providers for covered, reasonable, and
+       necessary services provided to eligible beneficiaries. This comprehensive plan outlines a strategy to
+       promote better safeguards in Medicare and Medicaid by implementing improved management tools and
+       targeting key benefit areas for routine audit.
+
+BUILDING ON LONGSTANDING COMMITMENT TO FIGHTING FRAUD, WASTE, AND ABUSE. The
+new steps the President took today build on the Administration's longstanding commitment to crack down on fraud
+and abuse through the Department of Health and Human Services, the Department of Justice and the FBI. Since
+1993, the Administration's efforts have saved taxpayers more than $20 billion and health care fraud convictions have
+increased by more than 240 percent. The Administration has assigned more federal prosecutors and FBI agents to
+fight health care fraud than ever before. HIP AA created --for the first time ever -- a stable funding source to fight
+fraud and abuse and in FY1997 alone -- the first full year of improved fraud and abuse funding under HIP AA -- nearly
+$1 billion was returned to the Medicare Trust Fund. The Administration also fought for an array of new weapons in
+the Balanced Budget Act of 1997 to keep scam artists and fly-by-night providers out of Medicare and Medicaid.
+
+

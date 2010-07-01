@@ -1,0 +1,147 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Irene Bueno ( CN=Irene Bueno/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME: 12-MAY-1999 15:53:23.00
+
+SUBJECT:   H2A Accomplisments document
+
+TO: Maria Echaveste ( CN=Maria Echaveste/OU=WHO/O=EOP @ EOP [ WHO]    )
+READ:UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+CC: Marjorie Tarmey ( CN=Marjorie Tarmey/OU=WHO/O=EOP @ EOP [ WHO]    )
+READ: UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO]    )
+READ:UNKNOWN
+
+TEXT:
+Attached for your review is a draft of the H2A accomplishments document
+that OMB drafted in consultation with DPC and Labor. NEC and WH Leg
+Affairs are also reviewing this document.
+
+Please let me know if you have any questions or comments.
+
+Thanks.
+
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D89]ARMS20381364S.136 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043D6110000010A02010000000205000000333B000000020000833C3C107CCF47B617BD56
+615B08BF4229DB1C97DC5E87EC210DCABCF667EA96F20C26AFDOA7B531814C0534F71845021461
+810C3C9187F3A65394EF2A69489EB5AOF37DF67745F3CC55EE03D7BF16686EB5F350820B907D87
+605ED9FOD45CF82355AE08E71BBFB3CF5F47A31B8E21E1D1820E1EBC7BCD5F49F39128F776ED43
+3085B30F37AOEFD25ED1D4EF2B04E2DCC611B2247B5AA28618883AOAC77C88E8135B3BB78A9057
+94C21CAF8B6396E98B6FDDA6B8987DCECD7EBB2631DD7B4B643F4300138F10BAE2843531ED8001
+76DC9817B23EB33DEE506E411004E6AC5EE3BD9A5687D930E1BOFF123DC14B1DBEF66CCB1C7413
+47B5C7DF33C14CF88C891E2AOCF57B9A952E9F316544238588E3312EC59BB82F5022E9B392AC7B
+A16E787E5BCED754E3E6291AAF61E94A5D24886AFAD45D481DEC16B5254589FF74981144647371
+E79F981008BC82A08EA6A3CC6954106F6BF27686FBE97A81619134073EB5C44A80C007B08FODA1
+8EAI09F7A40699B693A83896ABA9A895B5DC31DD070EB2701CC873BE73172007FE61F2C421B3B8
+'.                                                                                  Hex-Dump Conversion
+
+                            Administration Progress on H-2A Reform
+                                              May 12, 1999
+
+     Farm workers are among the poorest and most vulnerable in our society. A verage annual
+     earnings of farm worker families are only about $6,500 and farm workers are employed on
+     average only about 26 weeks per year.
+
+     The H-2A "guest worker" program admits temporary nonimmigrant agricultural workers to
+     provide farmers with an adequate supply of laborers during the peak periods in the growing
+     season. There is no cap on the number ofH-2A visas granted annually. Currently, there are l.6
+     million hand-harvest farm workers in the U.S. of which it is estimated that approximately
+     600,000 are undocumented, 1 million are legal (citizens or authorized resident labor), and 35,000
+     are in the H-2A program.
+
+     Emplover Obligations
+
+     Under the current program, in order to hire H-2A workers, an employer must demonstrate
+     to the Department of Labor (DOL) that:
+
+            (a) there are not sufficient U.S. workers able, willing, qualified and available to
+            perform the services; and,
+
+            (b) there will be no adverse effect on the wages and working conditions of
+            similarly-employed U.S. workers.
+
+     To meet these criteria, employers are required to:
+
+            ../     pay workers the higher of the minimum wage, locally prevailing wage, or an
+                    "adverse effect wage rate" (AEWR), determined by the average wage paid to
+                    non-managerial agricultural workers in the state;
+            ../     provide free housing to workers coming from outside the commuting area;
+            ../     reimburse workers' inbound transportation if they complete half the
+                    contract, outbound also if they complete the contract; and,
+            ../     guarantee 3/4 of the hours of the contract the grower offers; and,
+            ../     hire any qualified U.S. worker who applies during the first half of the work
+                    contract.
+
+     Administration Principles on Reform
+
+     The H-2A program has been heavily criticized by the GAO, DOL's IG, and the Hill primarily
+     due to the administrative burdens placed on growers and its failure to adequately protect workers.
+      As a result, Congress has proposed many different bills to restructure the H-2A program.
+
+     The Administration has acknowledged problems with the program and is working
+     administratively (through administrative actions and the regulatory process) to reengineer and
+     streamline the H-2A program to ease adjudication burdens while maintaining strong worker
+     protections. The Administration does not believe that legislation is necessary or appropriate at
+     this time.
+                                                                                      Hex-Dump Conversion
+
+The Administration's guiding principles in reforming the H-2A program' are designed to create a
+system:
+
+       ./     with procedures that are simple and the least burdensome for growers;
+       ./     which assures an adequate labor supply for growers in a predictable and timely manner;
+       ./     that provides a clear and meaningful first preference for U.S. farm workers and that
+              diminishes the reliance on foreign workers;
+       ./     which avoids the transfer of costs and risks from businesses to low wage workers;
+       ./     that encourages longer periods of employment for legal U.S. workers; and,
+       ./     which assures decent wages and working conditions for domestic and foreign farm
+              workers, and that normal market forces work to improve wages, benefits, and working
+              conditions.
+
+The Administration is committed to improving the H-2A program to assure growers of an adequate,
+predictable labor supply while protecting U.S. farm workers who are among the poorest and most
+vulnerable in our society.
+
+FY 2000 Budget Initiative
+
+       The President's pending Budget requests $10 million to fund America's Agricultural Labor
+       Network ("AgNet") that would benefit growers and workers by having an efficient alternative
+       mechanism to match workers with employment opportunities. AgNet would serve as an
+       information broker through an electronic system that allows both growers to find workers and
+       workers to find employment opportunities that meet their needs (e.g., location, duration, type of
+       crop, etc.).
+
+H-2A Regulatory Reform
+
+       DOL will soon publish a final regulation that will complete an earlier proposal to:
+
+       -reduce the length of time that employers must file an H-2A application from 60 to 45 days
+       before the date when employees are needed;
+
+       -reduce the deadline for when employer-provided housing must be available for inspection
+       before the date of need; and,
+
+       -modify the requirement that certified H-2A employers provide notice of the exact date on
+       which"H-2A employees have departed for the place of employment.
+
+       INS will soon issue a final regulation that will complete an earlier proposal to delegate H-2A
+       petitioning authority to DOL. This proposed change would significantly reduce the burden to
+       growers when filing for H-2A workers by removing an entire step from the current process.
+
+       DOL has also made additional administrative changes to the H-2A program such as
+       modifications to the positive recruitment requirement. DOL intends to consistently meet the
+       existing 20 day deadline to issue approved certifications for growers.
+
+

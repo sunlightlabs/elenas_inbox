@@ -1,0 +1,48 @@
+ RECORD TYPE: PRESIDENTIAL     (NOTES MAIL)
+
+ CREATOR: Christopher C. Jennings ( CN=Christopher C. Jennings/OU=OPD/O=EOP [ OPD ] )
+
+ CREATION DATE/TIME:20-NOV-1998 19:27:32.00
+
+ SUBJECT:   i   just did it. Oh well, your call.
+
+ TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO ] )
+ READ: UNKNOWN
+
+ TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+ READ: UNKNOWN
+
+ TEXT:
+ Here you go.==================== ATTACHMENT       1 ====================
+ ATT CREATION TIME/DATE:   0 00:00:00.00
+
+ TEXT:
+ Unable to convert ARMS_EXT: [ATTACH.D21]MAIL479351521.326 to ASCII,
+  The following is a HEX DUMP:
+
+ FF575043B2040000010A02010000000205000000AAOF00000002000OAOC829F99D13A70F13F85B
+Governor Cellucci, and the Department were unsuccessful at encouraging all participating
+Medicare HMOs to offer a comprehensive drug benefit by this past Tuesday, the HMOs
+chose to restructure and reduce their drug benefits to avoid adverse selection from the
+sickest of beneficiaries. As a result, while they will still offer drug benefits, they will no
+longer have comprehensive benefits that provide for open-ended coverage. Instead, they
+will offer extremely limited benefits with maximum pay-out provisions of between $300 to
+$800. The plans, particularly the one that ended up being the one hold-out to not joining
+the others who were willing to provide comprehensive coverage IF aU plans did, are taking
+a public relations beating. However, for the short-term, they have obviously concluded
+the financial risks of providing better drug benefits (particularly in an environment when
+drug utilization trends are increasing at unprecedented levels) far outweigh any public
+perception problems. In the meantime, Senator Kennedy's office still holds out hope that
+they will be able to induce the companies to offer some additional wrap-around options to
+their enrollees, perhaps grandfathering just those elderly beneficiaries who had become
+dependent on the better benefits prior to this year's changes. We are providing Senator
+Kennedy's office with technical assistance and they remain appreciative of our role on this
+issue.
+
+
+
+
+                                             Automated Records Management System
+                                             Hex-Dump Conversion
+
+

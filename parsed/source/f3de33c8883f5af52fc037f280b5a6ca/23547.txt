@@ -1,0 +1,203 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Barbara Chow ( CN=Barbara Chow/OU=OMB/O=EOP [ OMB ] )
+
+CREATION DATE/TIME:12-APR-1999 13:54:04.00
+
+SUBJECT:   Analysis of ED-Flex Targeting & Accountability
+
+TO: Broderick Johnson ( CN=Broderick Johnson/OU=WHO/O=EOP@EOP [ WHO ] )
+READ:UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP@EOP [ OPD ] )
+READ: UNKNOWN
+
+CC: Leslie S. Mustain ( CN=Leslie S. Mustain/OU=OMB/O=EOP@EOP [ OMB ] )
+READ: UNKNOWN
+
+TEXT:
+Below is an analysis that Leslie prepared describing in some depth the
+ED-flex targeting and accountability provisions in the House and Senate
+bills as well as the House offer. The Administration position is
+reflected in the Ed flex letter now circulating for clearance this
+afternoon.
+---------------------- Forwarded by Barbara Chow/OMB/EOP on 04/12/99 12:41
+PM ---------------------------
+
+
+
+
+Leslie S. Mustain
+04/08/99 01:48:36 PM
+Record Type:    Record
+
+To:      Barbara Chow/OMB/EOP@EOP
+cc:      Barry White/OMB/EOP@EOP, Wayne Upshaw/OMB/EOP@EOP, Iratha H.
+Waters/OMB/EOP@EOP
+subject:         Analysis of ED-Flex Targeting & Accountability
+
+In response to your request, attached is an analysis of the Targeting and
+Accountability prOV1Slons in the House and Senate versions of the proposed
+ED-Flex legislation.  Please let me know if you need additional
+information, a different format, etc.
+
+
+
+
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D68]MAIL48500851D.136 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043F40B0000010A02010000000205000000C43D000000020000A3D165103F2EB281F20C22
+A7D91D6A67507125753B29900E42390BD008259B6FAB4D59F6D55EFFBB51BCD1266725D9265CBE
+87AF34F1638A3416F92D129E5EAD37620AF48156E5F0267CCFD87E133ECD7B9D9FD2F09B6A7331
+4AB3D8EF09157B1FC9F6800CE8CA94C789EF4B34C44E280E59F36021A7646CE33F9EB8ED1D32BA
+B3EA986FC7E614CE34D1FA1731CFF33DBD80321DFAA8030A379042BBDE7A03414D7AF5CADOD698
+                                                                     Automated Records Management System
+                                                                     Hex-Dump Conversion
+
+             ANAL YSIS OF ED-FLEX BILL -- TARGETING AND ACCOUNT ABILITY
+                                     PROVISIONS
+
+      Targeting Provisions in ED-Flex Proposed Bills
+
+       House and Senate Provisions: The House bill would permit waivers "to allow schools to
+       participate in part A of title I...if the percentage of children from low-income families in the
+     . attendance area of such school or who actually attend such school is within 5 percentage points
+       of the lowest percentage of such children for any school in the local educational agency that
+       meets the requirements of section 1113 of the Act." The Senate bill expressly prohibits waivers
+       relating to "serving eligible school attendance areas in rank order under section 1113(a)(3) of the
+       [ESEA]."
+
+      Analysis:
+
+             Section 1113(a)(3) of the ESEA currently states that if, in allocating Title I-Part A funds,
+             there are insufficient funds to serve all eligible school attendance areas, an LEA must
+             annually rank the eligible schools in which the concentration of children from low-income
+             families exceeds 75 percent from highest to lowest according to the percentage of children
+             froll) low-income families. Then the LEAs must serve eligible schools in rank order.
+
+             Current ED-Flex authority is silent on granting waivers regarding Title I eligibility and
+             ED has approved waivers of the rank-order requirements for eligibility in the past.
+
+             The Senate provision explicitly prohibits any waivers of the Title I rank-order
+             requirements. Title I eligibility must remain targeted on high poverty schools.
+
+               The effect of the proposed House provision is to allow waivers to permit additional
+             schools to be eligible for Title I funds if they are marginally below the necessary poverty
+             level. Although this would make some additional schools eligible for Title I funds, and
+             thus is not as targeted as the Senate provision or the actual Title I statute, it is acceptable
+             because it is better than current law and still targets on high-poverty schools (they have to
+             be within 5 of the lowest poverty level).
+
+             Because current ED-Flex authority is silent on this issue, both of these new provisions are
+             more restrictive than current law. The Senate version would forbid any waivers affecting
+             Title I eligibility and the House version would at least minimize the damage a waiver
+             could do to Title I targeting, keeping Title I funds focused on high-poverty schools.
+
+      Administration's Position: Support both of these provisions.Both of them target Title I funds on
+      high-poverty schools more directly than our current waiver authority.
+                                                                          \lI omated Records Management System
+                                                                         Hex-Dump Conversion
+
+
+
+     Accountability Provisions in ED-Flex Proposed Bills
+
+     House and Senate Provisions:
+
+     State Eligibility:  The House bill requires the State to have already "developed and
+     implemented content standards and interim assessments and made substantial progress ... toward
+     developing and implementing performance standards and final aligned assessments, and toward
+     having local educational agencies in the State produce [school performance] profiles."     The
+     House bill refers to disaggregation of data only by reference, not as an explicit requirement.
+     The Senate bill requires only "substantial progress ... toward developing and implementing the
+     standards and assessments, and toward having local educational agencies in the State produce the
+     profiles." The Senate bill would require the State to have implemented the requirements in
+     section 1111(b) of the ESEA relating to the disaggregation of data.
+
+     The House bill requires an eligible State to hold LEAs and schools accountable for meeting the
+     educational goals described in their local applications for a waiver.    The Senate bill requires
+     States to hold LEAs and schools accountable for meeting educational goals in the abstract and
+     "for engaging in the technical assistance and corrective actions consistent with section 1116 of the
+     [ESEA], for the local educational agencies and schools that do not make adequate yearly
+     progress."
+
+     AnaJysis: Both bills make eligibility turn on the extent of implementation of Title I
+     accountability systems, and both bills offer an alternative to States of either essentially complete or
+     partial implementation:
+
+             Under the essentially complete option, the Senate version is somewhat stronger because it
+             explicitly requires the State to have implemented the requirements in section 1111 (b)
+             relating to the disaggregation of data whereas the House version does not specifically
+             mention disaggregation of data, but does reference it.
+
+             With respect to the partial implementation alternative, the House bill appears to be the
+             more rigorous since it requires States to have implemented content standards and interim
+             assessments and made substantial progress toward developing and implementing the next
+             steps of performance standards, assessments and school performance profiles. The
+             Senate version only requires substantial progress be made in all of these areas.
+
+             With respect to holding LEAs and schools accountable for meeting educational goals, the
+             House version is more rigorous in that it requires that the specific goals in the waiver
+             application be met.
+
+     Overall, the House accountability provisions for State eligibility are stronger.
+                                                                   Hex-Dwnp Conversion
+Administration's Position. We prefer the more rigorous requirements in the House version as
+they apply to implementation of standards and assessments under Title I of the ESEA and for
+holding LEAs and schools accountable for meeting educational goals.
+
+State Applicadon. The House bill requires the State's ED-Flex plan to include a "description of
+specific educational objectives the State intends to meet under [the] plan" and a description of
+how the State "will measure the progress of local educational agencies in meeting [those] specific
+goals."       The Senate bill instead requires the State to include in its flexibility plan a description
+of how the plan is "consistent with and will assist in implementing the State comprehensive
+reform plan" and if a State doesn't have such a plan, "a description of how the educational
+flexibility plan is coordinated with activities described in section llll(b) of the [ESEA]." The
+Senate bill also requires a description of how the SEA will evaluate the performance of students
+in LEAs and schools affected by waivers "consistent with the requirements of title I of the
+[ESEA]."
+
+Analysis:    Both bills have pretty rigorous application standards:
+
+        The Senate version requires the State applications to reference State comprehensive plans
+        or Section llll(b) of ESEA (Title I standards and assessments).
+
+        The House bill, but not the Senate, requires States to describe specific educational
+        objectives in their applications. Although it does not make reference to the State
+        comprehensive plan, the requirement that the applications specify the specific objectives
+        does have merit in that it would facilitate monitoring and accountability by the State and
+        others such as the Federal government and interest groups.
+
+        The House version appears more focused on local requirements and specifically on
+        progress. It requires States to measure local progress by using the local applicants'
+        objectives, as defined by the section of the bill requiring local applicants to set specific and
+        measurable goals for schools and groups of students affected by waivers. The Senate
+        version requires States to evaluate the performance of local applicants and students
+        affected by waivers in general, not defined by local applications.
+
+Administration Position: We prefer the Senate version that requires the State applications to
+reference State comprehensive plans and have made reference to that in our letter. [We prefer the
+House version of the latter provision that requires a focus on local progress rather than just on
+performance, but we are silent on that in the letter. The House Majority Staff Offer indicates
+that the House version will be the one supported.]
+
+Renewal ofED Flex Status.   To determine whether a State's ED Flex status under the new law
+should be extended, the House bill would require the Secretary to determine whether the SEA
+                                                               Hex-Dump Conversion
+
+has made "measurable" progress toward achieving the objectives described in the application and
+whether the SEA can demonstrate that its LEAs and schools have made "measurable" progress in
+achieving the results describe in the application. The Senate bill would require that the Secretary
+review generally the progress (absent the word "measurable") of the SEA, LEA, or school
+towards meeting the goals set in the applications.
+Analysis: The House version is more rigorous and it requires measurable progress.
+
+Administration Position.  We support the House version and want the words "measurable
+progress" to remain in the provision.
+
+

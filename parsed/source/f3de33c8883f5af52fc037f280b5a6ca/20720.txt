@@ -1,0 +1,400 @@
+RECORD TYPE: PRESIDENTIAL     (NOTES MAIL)
+
+CREATOR: Kate P. Donovan ( CN=Kate P. Donovan/OU=OMB/O=EOP [ OMB 1 )
+
+CREATION DATE/TIME:20-JUL-1998 21:04:23.00
+
+SUBJECT:   URGENT: Interior FY99 Appropriations SAP
+
+TO: G. E. DeSeve ( CN=G. E. DeSeve/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Jeffrey M. Smith ( CN=Jeffrey M. Smith/OU=OSTP/O=EOP@EOP [ OSTP 1 )
+READ: UNKNOWN
+
+TO: Wesley P. Warren ( CN=Wesley P. Warren/OU=CEQ/O=EOP@EOP [ CEQ 1 )
+READ: UNKNOWN
+
+TO: Lisa M. Kountoupes ( CN=Lisa M. Kountoupes/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: William P. Marshall ( CN=William P. Marshall/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Martha Foley      CN=Martha Foley/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Sally Katzen      CN=Sally Katzen/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: John Podesta ( CN=John Podesta/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: RUDMAN_M@A1@CD@VAXGTWY      RUDMAN_M@A1@CD@VAXGTWY [ UNKNOWN 1 ) (NSC)
+READ:UNKNOWN
+
+TO: Todd Stern ( CN=Todd Stern/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Kerri A. Jones ( CN=Kerri A. Jones/OU=OSTP/O=EOP@EOP [ OSTP 1 )
+READ: UNKNOWN
+
+TO: Kathleen A. McGinty ( CN=Kathleen A. McGinty/OU=CEQ/O=EOP@EOP [ CEQ 1 )
+READ: UNKNOWN
+
+TO: Joshua Gotbaum ( CN=Joshua Gotbaum/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Ron Klain ( CN=Ron Klain/O=OVP@OVP [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Gene B. Sperling ( CN=Gene B. Sperling/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Rahm I. Emanuel ( CN=Rahm I. Emanuel/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+CC: Rosemary Evans ( CN=Rosemary Evans/OU=OMB/O=EOP@EOP [ OMB 1 )
+
+
+READ: UNKNOWN
+
+CC: Adrienne C. Erbach ( CN=Adrienne C. Erbach/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ:UNKNOWN
+
+CC: Peter A. Weissman ( CN=Peter A. Weissman/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+CC: Judy Jablow ( CN=Judy Jablow/OU=CEQ/O=EOP@EOP [ CEQ 1 )
+READ:UNKNOWN
+
+CC: Charles R. Marr ( CN=Charles R. Marr/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+CC: Lisa Zweig ( CN=Lisa Zweig/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+CC: Charles Konigsberg ( CN=Charles Konigsberg/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+CC: Shannon Mason ( CN=Shannon Mason/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+CC: Michelle Crisci ( CN=Michelle Crisci/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Jessica L. Gibson ( CN=Jessica L. Gibson/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: FARRAR_J@Al@CD@VAXGTWY     FARRAR_J@Al@CD@VAXGTWY [ UNKNOWN 1 )   (NSC)
+READ: UNKNOWN
+
+CC: Victoria A. Wachino ( CN=Victoria A. Wachino/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+CC: Robert L. Nabors   ( CN=Robert L. Nabors/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+CC: Paul J. weinstein Jr.    ( CN=Paul J. weinstein Jr./OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+CC: Emil E. Parker ( CN=Emil E. Parker/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+CC: Jill M. Blickstein ( CN=Jill M. Blickstein/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+CC: Elizabeth Gore ( CN=Elizabeth Gore/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+CC: Jonathan H. Adashek ( CN=Jonathan H. Adashek/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Laura.Emmett ( CN=Laura Emmett/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Melissa G. Green ( CN=Melissa G. Green/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+CC: Kevin S. Moran ( CN=Kevin S. Moran/OU=WHO/O=EOP@EOP [ WHO 1 )
+
+
+READ: UNKNOWN
+
+TEXT:
+Below is the draft House Floor SAP for the Interior FY99 Appropriations
+bill. The House is expected to take up the bill around lOam Tuesday
+morning. Therefore, we need your comments/clearance no later than 9:30am
+Tuesday. Thanks.
+
+H.R. 4193 -- DEPARTMENT OF THE INTERIOR
+  AND RELATED AGENCIES APPROPRIATIONS BILL, FY 1999
+(Sponsors: Livingston (R), Louisiana; Regula (R), Ohio)
+
+
+        This Statement of Administration Policy provides the
+Administration's views on H.R. 4193, the Department of the Interior and
+Related Agencies Appropriations Bill, FY 1999. Your consideration of the
+Administration's views would be appreciated.
+
+         The Administration urges the House to pass a clean bill that does
+not attempt to roll back environmental protections and circumvent the
+proper public process by attaching riders to appropriation bills.
+Regrettably, the Committee bill under-funds priority programs and includes
+damaging riders, such as the provision concerning the Interior Columbia
+Basin Ecosystem Management Project.   In addition, it is our understanding
+that, if adopted, the rule for consideration of the bill will permit a
+single Member to strike all funding for the National Endowment for the
+Arts.   Based on these concerns, if the Committee bill, as modified by the
+rule and associated motion, were presented to the President, the
+PresidentD,s senior advisers would recommend that he veto the bill.
+
+        The Administration appreciates efforts by the Committee to
+accommodate certain of the President's priorities within the 302(b}
+allocation such as funding for national park operations. However, the
+allocation is simply insufficient to make the necessary investments in
+programs funded by this bill. As a result, a variety of critical programs
+are under-funded.  The only way to achieve the appropriate investment
+level is to offset discretionary spending by using savings in other
+areas.  The President's FY 1999 Budget proposes levels of discretionary
+spending for FY 1999 that conform to the Bipartisan Budget Agreement by
+making savings in mandatory and other programs available to help finance
+this spending.  In the Transportation Equity Act, Congress -- on a broad,
+bipartisan basis -- took similar action in approving funding for surface
+transportation programs together with mandatory offsets. The
+Administration urges the Congress to consider such mandatory proposals for
+other priority discretionary programs.
+
+        Below is a discussion of our specific concerns with the Committee
+bill. We look forward to working with the House to resolve these concerns
+as the bill moves forward.
+
+Departments of the Interior and Agriculture
+
+        The Administration appreciates the Committee's funding of
+maintenance programs, particularly those for health and safety, in
+Interior's land management agencies.  However, the Administration strongly
+objects to inadequate funding provided by the Committee for high priority
+programs within the Department of the Interior and the Department of
+Agriculture, including Committee actions that would:
+
+  reduce by more than half the $270 million requested from the Land and
+
+
+Water Conservation Fund to protect our national parks, forests, refuges,
+and public lands, with Everglades land acquisition funds cut by 75
+percent. This drastic reduction in funding would prevent the
+Administration from making significant land acquisitions such as
+Cumberland Island National Seashore in Georgia and West Eugene Wetland in
+Oregon;
+
+ provide no funding for the Millennium program protecting artifacts of our
+National heritage (see discussion below);
+
+ deny most of the requested $128 million increase for Interior and the
+Forest Service to implement the Clean Water Action Plan;
+
+ fail to provide the requested $15 million for the Disaster Information
+Network providing enhanced data to protect Americans;
+
+ deny $29 million of the $36 million increase requested for the Endangered
+Species funding, including landowner incentive grants;
+
+ fail to provide requested increases for the Bureau of Indian Affairs
+education operations and construction, the Indian Country law enforcement
+initiative, and the land consolidation' pilot project and other trust
+system reforms;
+
+ provide little or no funding elsewhere in California for hazardous fuels
+reduction due to excessive funds made available to the "Quincy Library
+Group," in California;
+
+ make significant reductions to the Forest Service's Wildlife and
+Fisheries Management, Rangeland Management, and Watershed Improvement
+programs, which would limit rangeland vegetative restoration and limit
+watershed improvements with approximately 12,250 fewer watershed acres
+protected or restored; and,
+
+ eliminate the Forest Service's Stewardship Incentive Program and
+significantly reduce its Forest Legacy Program.  Both of these programs
+support local communities and private landowners and effectively leverage
+Federal funds.
+
+        Forest Service General Administration. The rule would shift $67 million
+from General Administration to wildland fire suppression. This is
+unnecessary since the Committee mark is at the request level and a $250
+million contingency is available for use if necessary.   Such a transfer
+would deprive individual national forests of important on-the-ground
+natural resource management capability, delay needed Forest Service
+computer system and financial accountability improvements, and unwisely
+eliminate key agency leadership positions.
+
+        Priority Land Acquisition Funding. The Administration objects to the
+Committee's continued inaction on the promised congressional release of
+the $362 million appropriated from the Land and Water Conservation Fund in
+FY 1998. As requested by Congress, the Administration has submitted a 1
+ist of proposed land acquisitions.  In response, the Committee has not
+only held back the FY 1998 Title V funding but, also has funded some items
+on the Administration's list with FY 1999 funding, resulting in critical
+acquisitions planned for both years being delayed and unfunded.
+
+        Millennium Program. The Administration strongly urges the House to
+proviqe funding in FY 1999 for the "Millennium Program to Save America's
+Treasures." The Committee has failed to provide any funding for this
+
+
+important effort. The President's budget requests $50 million to increase
+the Historic Preservation Fund to make a special effort to preserve our
+history and culture as we enter the new millennium. This program is
+designed to leverage Federal, State, and private funding to have the
+greatest collective impact on our rapidly deteriorating national
+treasures.
+
+        Purchaser Road Credit Program. The Administration fully supports the
+Committee's decision to eliminate the Purchaser Road credit program. The
+Committee bill includes a provision that would ensure that the value of
+road construction by purchasers continues to be included in calculations
+for the Payments to States.  To permit increased certainty and better
+local planning more directly, we urge the House to adopt the
+Administration's proposal to provide a high, fixed level of payments to
+States.
+
+        Timber Sales. The Administration objects to the increase of $12 million
+over the request for timber sales in order to produce 3.6 billion board
+feet, 200 million board feet over the budget estimate.
+
+Language Provisions
+
+         The Administration strongly objects to certain language in the
+Committee bill, including provisions that would:
+
+ unwisely terminate the Interior Columbia Basin Ecosystem Management
+Project in six Northwest States, forcing individual amendments to 74 land
+management plans;
+
+ remove 75 acres in Florida from the coastal barrier protection system,
+providing taxpayer subsidies for private development of environmentally
+fragile barrier islands;
+
+ prevent the BIA and the Indian Health Service from entering into any new
+or expanded self-determination "Section 638" contracts or self-governance
+compacts with tribes, contrary to our government-to-government policy;
+
+ prohibit improvements -- even planning or design of improvements -- to
+Pennsylvania Avenue in front of the White House;
+
+ transfer the jurisdiction over the valued Land Between The Lakes National
+Recreation Area from the Tennessee Valley Authority, where it has been
+successfully managed for over sixty years, to the U.S. Forest Service, a
+disruptive change that would involve additional transition costs without
+improving service; and,
+
+ impose an excessive, strictly defined, road easement across the Chugach
+National Forest in Alaska, thereby preventing the Government from making
+modifications to protect the environment while authorizing environmentally
+damaging management practices and undermining an ongoing discussion to
+determine the most appropriate road corridor based on a 1982 agreement.
+
+Indian Health Service (Department of Health and Human Services)
+
+        The Administration is concerned that the Committee has not
+included a $10 million increase requested for prevention and treatment of
+alcohol/substance abuse and breast/cervical cancer, which is part of an
+HHS-wide effort to reduce health disparities in minority populations. The
+Administration intends to work with the Congress to fund these important
+initiatives within funds available for the Indian Health Service. The
+
+
+Administration is also concerned that the Committee has included
+authorizing language, without hearings or tribal consultation, that would
+require contract support costs to be distributed to tribes and tribal
+organizations on a pro-rata (proportional) basis.
+
+Department of Energy
+
+         The Administration strongly objects to the House's severe
+reduction to the Department of Energy's Energy Conservation program.
+While the Committee mark appears to be $18 million higher than the FY 1998
+enacted level ($630 million vs. $612 million), it includes $43 million for
+a program that previously has been funded in the Fossil Energy R&D
+account.   The House's funding for the programs traditionally included in
+the Energy Conservation Account is $587 million, a cut of $25 million from
+the FY 1998 level and a reduction of $222 million from the President's
+request of $809 million. Within this reduction, particularly severe
+damage is done to the Partnership for a New Generation of vehicles (PNGV),
+for which the Committee mark is $14 million (roughly 10 percent) less than
+the current appropriation and $45 million below the request.
+
+        These cuts would eliminate all of the Administration's requested
+increase in Energy Conservation for development of technologies to improve
+industrial, transportation, and building efficiencies and to reduce carbon
+emissions. The inclusion of several special-interest earmarks in the
+Committee Report also would reduce the President's ability to gain maximum
+benefit from the available funds.  The inclusion of the $43 million in the
+Energy Conservation account to fund a utility-scale turbine program that
+would continue to be managed by the Fossil Energy program is an
+inefficient management practice that would dilute accountability and
+should be avoided.
+
+        The Committee mark eliminates all of the funding requested for the
+Energy Information Administration to work on carbon emissions accounting
+and analysis ($2.5 million), and eliminates all of the requested increase
+in Fossil Energy R&D for high-priority carbon sequestration research ($10
+million). The President's budget also requested $36 million for payment
+to the State of California for the Retired Teachers System, which is not
+included in the Committee mark.  The Administration prefers that this
+payment be appropriated consistent with P.L. 104-106.
+
+        The Administration would like to work with the Congress to restore
+funding to these important Department of Energy programs as the bill moves
+through the process.
+
+National Foundation on the Arts and Humanities
+
+        The Administration appreciates the Full Committee's restoration of
+funding for the National Endowment for the Arts (NEA).  The Administration
+strongly objects to striking NEA funding and strongly supports the
+amendment to restore such funding.  We urge the House to provide funding
+for NEA and NEH at the President's requested level of $136 million each
+and for the Institute for Museum and Library Services at the requested
+level of $26 million.
+
+Smithsonian Institution
+
+        The Committee's $397 million overall funding level for the
+Smithsonian, which is $22 million less than the Administration's request,
+would prevent the Institution from addressing current pressing needs.  The
+Administration is concerned with the lack of support for the Smithsonian's
+
+
+National Museum of the American Indian. The Administration encourages the
+Committee to provide the $16 million request for the construction of the
+Museum on the Mall, as well as the full $11 million requested for the
+programs and operations of the Cultural Resources Center.  In addition,
+the Administration urges that the $3 million request for digitization of
+Smithsonian exhibits be restored.
+
+John F. Kennedy Center for the Performing Arts
+
+        The Administration urges the House to provide the full $33 million
+requested for the Kennedy Center.  In particular, we ask that the
+Committee provide the full construction request of $20 million, which is
+also included in the Administration's pending authorization bill.
+
+Holocaust Museum
+
+        The Administration urges the House to provide the full $32.6
+million requested for the Holocaust Museum.
+
+Infringement on Executive Authority
+
+        There are several provisions in the Committee bill that purport to
+require congressional approval before Executive Branch execution of
+aspects of the bill. The Administration will interpret such provisions to
+require notification only, since any other interpretation would contradict
+the Supreme Court ruling in INS vs. Chadha.
+
+

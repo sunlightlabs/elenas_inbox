@@ -1,0 +1,165 @@
+RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+CREATOR: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME: 3-FEB-1999 09:17:51.00
+
+SUBJECT:   Options and Issues for Noon Tobacco Meeting
+
+TO: Elena Kagan     CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO]      )
+READ:UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ:UNKNOWN
+
+CC: J. Eric Gould ( CN=J. Eric Gould/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ:UNKNOWN
+
+TEXT:
+We thought you might find this useful for the noon meeting==================== ATTAC
+ATT CREATION TIME/DATE: · 0 00: 00: 00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D32]MAIL47086163S.036 to ASCII,
+ The following is a HEX DUMP:
+
+FF5750439FOE0000010A02010000000205000000153A0000000200000712C9FDE587975AFOl189
+13243CDD5D1621D5FC89F945D8C042AD5A665D2910F75B38482592A6Dl1375B24C057C2B4153C4
+169AC721347ED2752383265B15D2FC2D42340A249974A8951B5F05ACE8615F3E717538E1661BAB
+91EADF60AB06BAFBF361D5B7D5774C76C09EB9F3615A12585E8090E8OBC129F60B6A900769255A
+6BD07276A863417BED091A028F5CD91481797DB7A51612532BA404E199565C5E999FA84A209120
+497BD067FD3E5FC39395697CCFCBF050D59EA7FD09D1F96CB33E704F5AOECB067FE7867A196EAO
+A594CBBD6C11045BBDF8FOF88BB364595C5E1709CFFA9ACOA20D05D73B53D2D36054590F37D634
+OBD56E327DEBCDC91AF7D778CE480C1051B6922B2D3BDFDDFD9FF71F890D9A34E06F73DE08E43E
+F3E638D5548D148B368C29DD914DF578E64173468D3AC8288A38FO7479BBDBAA6C88758DOBFE2B
+81FEl1397340D35474DAD37843ABBB7EE7E2CA98617335F83FAC6328DA08C77CB4FA23F1EE505C
+347AA962768373BBBB5014D7064823CE9EB2203E2A041900E975425OB164E28DC498533A5ED6B2
+60A21159663292D2700DBE8AA3996C12DBCBF9B484919DA17B84338AD0077F379B55541FCA1731
+782FAF6EC904F12FB696849F8B1634806E61A7D737DBB50B74EA22C7DA1AD534CD8D4531D4EA09
+48BD60BCB30200B30000000000000000000'0000823010000000BO10000CAOB0000005507000000
+4EOOOOOOD50C000009250100000006000000230DOOOOOB300200000028000000290D0000087701
+00000040000000510D000008340100000014000000910D00000802010000000FOOOOOOA50DOOOO
+09680100000006000000B40D000008050100000008000000BAODOO0009680100000006000000C2
+ODOOOOOOOOOOOOOOOOOOOOOOOOC20D000000660200000002000000C80D00000061010000001400
+0000CAOD000000660200000002000000DEODOOOOOOOOOOOOOOOOOO000000DEOD00000061010000
+0014000000EOODOOOOOOOOOOOOOOOOOOOOOOOOEOODOOOOOOOOOOOOOOOOOOOOOOOOEOODOOOOOOOO
+OOOOOOOOOOOOOOOOEOODOOOOOOOOOOOOOOOOOOOOOOOOEOODOOOOOOOOOOOOOOOOOOOOOOOOEOODOO
+OOOOOOOOOOOOOOOOOOOOOOEOODOOOOOOOOOOOOOOOOOOOOOOOOEOOD000000000000000000000000
+EOODOOOOOOOOOOOOOOOOOOOOOOOOEOODOOOOOOOOOOOOOOOOOOOOOOOOEOODOOOOOOOOOOOOOOOOOO
+OOOOOOEOODOOOOOOOOOOOOOOOOOOOOOOOOEOODOOOOOOOOOOOOOOOOOOOOOOOOEOODOOOOOOOOOOOO
+000000000000EOODOOOOOB30250000004EOOOOOOF40DOOOOOOOOOO00000000000000F40DOOOOOO
+000000000000000000F40DOOOOOOOOOOOOOOOOOOOOOOOOF40DOOOO00000000000000000000F40D
+000000000000000000000000F40DOOOOOOOOOOOOOOOOOOOOOOOOF4ODOOOOOOOOOOOOOOOOOOOOOO
+00F40DOOOOOOOOOOOOOOOOOOOOOOOOF40DOOOOOOOOOOOOOOOOOOOO0000F40DOOOOOOOOOOOOOOOO
+00000000F40D00000942030000001D000000420EOOOOOOOOOOOOOO0000000000420EOOOOOOOOOO
+00000000000000420E000000000000000000000000420EOOOOOOOO0000000000000000420EOOOO
+00000000000000000000420E000000000000000000000000420EOO000000000000000000000042
+OE000000000000000000000000420EOOOOOOOOOOOOOOOOOOOOOOOO420EOOOOOOOOOOOOOOOOOOOO
+                                         Hex-Dump ConvGision
+                               TOBACCO MENU OPTIONS
+
+I. Issues
+
+       ·       MENU. What programs should be included on a menu and what percentage
+               should be allocated between tobacco / kids?
+
+       ·       STRUCTURE. How should these menu items be defined?
+
+       ·       OFFSETS. How should the $2.9 billion federal share be offset?
+
+II. Menu
+
+Possible proposals include:
+
+·      50% Tobacco / 50% Kids. State a broad position allowing latitude in future negotiations
+       (Tobacco could include prevention and enforcement as well as farmers; kids could
+       include: child care, health (CHIP) and child welfare.)
+
+·      Tobacco Control/Farmers / Kids. A broad menu of three items. Non-tobacco
+       growing states would not have to spend on farmers.
+
+·      Fixed Percentage on Tobacco Control with Menu of other Items. Additional items
+       could include:
+
+              Tobacco farmers
+              Maternal and Child Health Bureau's Title V program
+              Child Care and Development Block Grant
+              Child Welfare Programs (Title IV-B)
+              SAMHSA grant programs
+              Safe and Drug Free Schools program
+              CHIP matching funds
+
+Menu Requirements. (1) Funds from the grants may not be used as state match for Federal
+programs (except CHIP); (2) there will be a MOE on a program-specific basis; and (3) federal
+spending will be netted for amounts spent on federal programs (possible OMB proposal).
+
+III. Structure
+
+Tobacco Control Programs. To be determined is the level of specificity to these programs and
+whether farmer assistance is included or is separate to ensure that dedicated monies assist
+farmers. Tobacco control programs could be described in broad terms, such as:
+
+       1. Activities for tobacco use prevention and control including community based
+       programs similar to programs currently funded by the NIH and assistance to local
+       governmental entities to conduct appropriate anti-tobacco activities; and
+                                              flex-Dump ConvG,sion
+         2. Counter-marketing programs designed to discourage the use of tobacco products by
+         individuals, to encourage those who use such products to quit, and to educate the public
+         about the hazards of exposure to environmental tobacco smoke implemented through
+         contracts or grants to eligible entities.
+
+Or, a more specific menu similar to McCain, which includes:
+
+         ·        A media based counter advertising campaign to discourage the use of tobacco
+                  products;
+         ·        State, community and school-based education and prevention programs to
+                  discourage the use of tobacco products;
+         ·        Evidence-based tobacco use cessation programs, consistent with the most recent
+                  tobacco use cessation guidelines issued by the Agency for Health Care Policy
+                  Research or are approved as safe and effective for tobacco use cessation by the
+                  FDA; and
+         ·        Activities to enforce youth access restrictions in order to reduce the sale and
+                  distribution of tobacco products to individuals under 18 years of age.
+
+Assistance to Farmers. Legislation could allow states to direct funds to assist tobacco farmers
+through:
+
+         ·        Farmer State Trusts. States could make additional contributions to the Phase II
+                  State Trusts recently agreed to by the industry and governors of tobacco growing
+                  states. The 11 tobacco growing states will establish separate state trusts with $5
+                  billion in industry payments; or
+         ·        Authority to USDA. States could fund a program authorized in legislation, to be
+                  designed by the Secretary of USDA, to assist tobacco farmers.
+
+IV. Estimates and Offsets
+
+The Administration's budget assumes that Medicaid costs were the basis for the states' recovery,
+whereas CBO assumed that only half of the state settlement funds were attributable to Medicaid.
+Moreover, CBO assumed that there is a 25 percent probability that HCFA will successfully
+retrieve the funds from the states, while the Administration's budget assumes full recovery. As
+a result ofCBO's estimate, any bill that would waive HCFA's ability to recoup the Federal share
+in exchange for a commitment by the States to use the Federal share to support shared state and
+national priorities would require a $2.9 billion pay-for.
+
+
+OMB: Estimated Effects of Recoupment Policy (in billions)
+ FY            2000         2001          2002           2003           2004             2001-2004
+
+                            4.6           4.7            4.8            4.8              18.9
+
+
+CBO 1/98 Baseline: Estimated Effects of Recoupment Policy (in billions)
+ FY            2000         2001          2002           2003           2004             2001-2004
+
+                            .68           .74            .76            .79              2.9
+
+1. Requiring the states to pay $2.9 billion to the federal treasury; or
+2. Requiring the states to accept $2.9 billion less in federal block grants; or
+3. Increase the excise tax on tobacco products to cover the lost federal share
+(HHS is checking whether an excise tax triggers offset provisions contained
+in the state settlement).
+
+

@@ -1,0 +1,248 @@
+RECORD TYPE: PRESIDENrIAL     (NOTES MAIL)
+
+CREATOR: Thomas L. Freedman ( CN=Thomas L. Freedman/OU=OPD/O=EOP [ OPD ]
+
+CREATION DATE/TIME:31-MAR-1998 11:47:50.00
+
+SUBJECT:   OMB/Commerce draft Privacy entity memo
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ]
+READ:UNKNOWN
+
+TO: Christopher C. Jen,nings ( CN=Christopher C. Jennings/OU=OPD/O=EOP @ EOP [ OPD ]
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+CC: Mary L. Smith ( CN=Mary L. Smith/OU=OPD/O=EOP @ EOP    [ OPD ] )
+READ: UNKNOWN
+      ,
+CC: Laura Emmett    ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO]
+READ: UNKNOWN
+
+CC: Sarah A. Bianchi   ( CN=Sarah A. Bianchi/OU=OPD/O=EOP @ EOP [ OPD ]
+READ: UNKNOWN
+
+TEXT:
+
+
+   We've had preliminary meetings with the
+NEC/Commerce/Treasury/OMB/Commerce working group on privacy. The issues
+were broken down into: evaluating creation of a privacy entity in the
+federal government, creating a consumer bill of rights, specific initia
+tives on medical records and genetic privacy, internet commerce, medical
+records, genetic privacy, creating privacy principles, and E.U.-US trade
+issues.
+
+The attached is a draft memo by OMB and Commerce on evaluating creation of
+a governmental privacy entity which is being pushed by Sally. The memo
+will go out to career agency types for comment from Commerce/OMB.
+
+The memo lists 7 possible functions of the proposed entity and gives a
+recommendation.  As you can see, the blander functions -- such as
+representing the US in trade matters and coordinating governmental policy
+    are the ones the agencies have had an easier time agreeing to.   I
+think it needs to be beefed up so that the entity is created with some
+explicit goal (even though it is not regulatory) that includes helping to
+ensure privacy, and we've asked Treasury to report back on consumer bill
+of right principles and their evaluation of the pending legislation in the
+area to see if they would support any of it.
+
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D11]MAIL43287498G.026 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043BE040000010A0201000000020500000080370000000200006E8960F4202CF3D3B5DCA7
+6B8COD3AA85CCA150F046367389CB7F1BEAEC75F5D2EA317DF279FCF6E715609B515B8677385EB
+                                       o
+                                                                       Hex-Dump Conversion
+Attachment to Memorandum to Privacy Contacts
+REPRESENT ATIONAL FUNCTION
+
+What is the Representational function? In performing the representational function, a federal
+entity would explain and promote the U.S. government position on privacy policy domestically
+and internationally, advancing the Administration's privacy message, and providing coherence to
+Administration testimony and public positions.
+
+For what areas is there now a representational function for privacy? The Commerce
+Department has taken the lead in representing the federal government position on privacy to
+private industry and the commercial sector generally. Until it was disbanded in 1997, the Office
+of the Assistant to the President for Consumer Affairs fulfilled this role with respect to
+consumers and consumer advocacy groups. The Office of Management and Budget is
+responsible for giving Federal agencies guidance on implementation of the Federal Privacy Act.
+Each of these offices has represented the government's position in testimony before Congress
+relevant to its constituent sector. A number of government offices represent the U.S. position on
+privacy before our international trading, including NTIAfDOC, ITAlDOC, OMB, the Office of
+Policy Development in the White House, and the State Department, although Commerce is most
+active in this role.
+
+What were the group's thoughts on the Representation function? Participants agreed that
+presentation of Administration views on privacy-related policy matters to industry, to members
+of the public, to Congress, and to our international trading partners should be better coordinated
+arid enhanced.
+
+ADVISORY FUNCTION
+
+What is the Advisory function? The advisory role is one in which experts are available to
+respond to privacy policy questions raised by government agencies (e.g.; when considering
+legislation or drafting regulations) and by private sector entities (e.g., when developing personnel
+practices or new information products).
+
+For what areas is there now an advisory role? The OMB provides guidance to federal
+agencies as to how to implement their responsibilities under the Privacy Act, resolves disputes
+among agencies about data sharing in its traditional neutral mediating role, and responds to
+inquiries from the Congress about federal privacy policy when appropriate. The Department of
+Commerce is working with the private sector (commercial and public interest representatives) to
+develop effective self-regulation for privacy protection pursuant to the President's directive of
+July I, 1997. In conducting their particular regulatory roles, other federal agencies (e.g. HHS)
+may occasionally provide privacy policy advice to their constituents on request.
+
+What were the group's thoughts on the Advisory function? There seemed to be agreement
+that an available body of expertise is useful, and tentative agreement that an advisory function
+might be better coordinated and enhanced.
+COORDINATION FUNCTION
+                                                                         Hex-Dump Conversion
+
+
+What is the Coordination function? A federal privacy entity could apprise appropriate
+government agencies of emerging privacy issues and ensure that these issues are addressed. It
+could also ensure that the views of appropriate agencies are represented on privacy policy issues,
+both domestically and internationally.
+
+For what areas is. there now a coordination role being carried out? OMB coordinates
+Administration positions on legislation, testimony, and reports submitted to Congress.
+Otherwise, coordination is ad hoc and sporadic.
+
+What were the group's thoughts on the Coordination function?
+There was agreement that coordination is an essential function that should be significantly
+enhanced.
+
+REGULATORY!ENFORCEMENT FUNCTION
+
+What is the regulatory function? The regulatory function involves the creation and
+administration of legally enforceable regimes of fair information practices including the use of
+some combination of inspection, registration, reporting, civil or criminal action, adjudication, and
+penalties.
+
+For what sectors is there now a regulatory regime for privacy? No omnibus law regulates
+private sector use of information. However, certain kinds of information are subject to
+sector-specific law. The Federal government's management of records about individuals is
+governed by the Privacy Act; the Office of Management and Budget oversees its implementation.
+ Consumer credit information is substantially regulated by the Fair Credit Reporting Act with
+enforcement authority resting in the Federal Trade Commission. The banking and financial
+sector is governed in part by the Right to Financial Privacy Act. Enforcement is by private right
+of action. Student records maintained by recipients of federal funding are governed by the
+Family Educational Rights and Privacy Act (Buckley Amendment, FERP A). While the
+Department of Education does not directly regulate student records, it does advise educational
+institutions about their obligations under FERP A. The Electronic Communications Privacy
+Act as well as other wiretap statutes, governs records transmitted electronically, by telephone,
+electnmic, or wireless communication. The Federal Communication Commission has regulatory
+authority over private telephonic communications, and to the extent that these laws create
+criminal penalties, the law enforcement community is responsible for their implementation.
+There is no comprehensive national legal framework for the protection of medical records in the
+hands of private care providers, insurance companies, pharmacies, or manufacturers of devices or
+drugs, although such a framework was proposed by the Secretary of HHS on behalf of the
+Administration in 1997.
+
+What were the group's thoughts on the Regulatory function? There was general agreement
+in the group that, consistent with the President's memorandum of July 1, 1997, a sectoral
+approach continues to be appropriate, and a comprehensive regulatory role across all sectors
+would be inappropriate.
+                                                                            Hex-Dump Conversion
+
+OMBUDSMAN FUNCTION
+
+What is the Ombudsman Role? This role involves providing case-by-case assistance to
+consumers or businesses in resolving in response to their particular problems or complaints. An
+ombudsman could act on behalf of aggrieved parties whose privacy has been unfairly or
+unreasonably compromised, press individual cases, and help individuals navigate the
+bureaucracy, either directly or by referral to an appropriate party. It could advise parties on how
+to resolve their disputes, or serve as decision-maker in dispute resolution.
+
+For what sectors is there an Ombudsman now? In the federal governrnent, some agencies
+have offices that assist citizens, and occasionally citizens seek help from OMB, but no single
+agency has authority or resources to pursue individual cases. Although individual companies
+may provide ombudsmen, in general the commercial sector does not provide an administrative
+avenue of redress for aggrieved parties.
+
+What were the group's thoughts on the Ombudsman function? There was general
+agreement that such a function, while commendable, would swamp the resources of any office
+that took it on in a centralized way. There was some discussion as to whether it would be
+appropriate for each agency to create its own Office of Consumer Affairs to assist its
+constituencies.
+
+CONSUMER ADVOCACY FUNCTION
+
+What is the Consumer Advocacy function? This role involves monitoring privacy policies that
+affect consumers and promoting improvements through public appearances, media presence,
+writing to organizations about whom complaints are received, and involvement in litigation,
+either on behalf of groups that have been harmed or as amicus curiae.
+
+Is there any Consumer Advocacy activity now? Within the Federal governrnent, each agency
+handles its own privacy policy issues, sometimes with the assistance of OMB. Some agencies
+have even created a formal Privacy Advocate, such as at HHS and IRS. Since the Office of
+Consumer Affairs was disbanded in 1997, there is no federal office whose mission is to advocate
+the interests of consumers in the private sector. Private sector not-for-profit privacy advocacy
+organizations promote the cause of consumer privacy rights in the federal governrnent, private
+industry, and overseas.
+
+What were the group's thoughts on the Consumer Advocacy function? Participants
+disagreed as to whether a consumer-oriented privacy advocate would be useful. Some thought it
+would be viewed unfavorably by the business community and therefore counterproductive; others
+thought it would enhance credibility for good actors, in a manner similar to the Better Business
+Bureau.
+
+EDUCATION FUNCTION
+What is the Education function? The entity could provide privacy information (including
+                                                                               Hex-Dump Conversion
+
+
+       model practices and "rights and responsibilities") to citizens, industry, and government. With
+       respect to business, the entity could publicize new techniques and technologies to promote
+       privacy as an enhanced customer service. This function would encourage consumers to learn
+       about their rights in, and responsibilities for, their information. The entity could conduct or fund
+       research to support this role .
+
+      . What types of privacy education are going on now? In the federal sector, a variety of
+        entities-OMB, Justice, USDA grad school, and each agency individually-works to ensure the
+        training of agency officials who carry out the dictates of the Privacy Act or privacy-related
+        statutes. The Congressional subcommittees with responsibility for privacy publish a consumers
+        guide to the Privacy Act, and the FTC has begun more activity in the area of private sector    .
+        consumer issues. Since the Office of Consumer Affairs was disbanded, however, little
+        privacy-related education is carried out by the federal government. Some private sector public
+        interest groups have initiated activities in this area.
+
+       What were the group's thoughts on the Education function? There seemed to be no strong
+       feelings about this role-neither objection nor a sense of urgency. This is an area that may merit
+       further discussion given the importance of educated consumers in creating a "market" for
+       pnvacy.
+
+       EY ALUATION FUNCTION
+
+       What is the Evaluation function? This function would be a policy advocacy role (as
+       contrasted with a consumer advocacy or ombudsman role) to give opinions, promote good ideas
+       and practices, and scrutinize less good ones. The function would include providing technical
+       and policy assistance at the early stages of new ideas, products, technologies, or services either
+       upon request from a government or private sector organization, or independently. A government
+       imprimatur on the basis of this evaluation could provide an indication of industry good actors.
+
+       Is there any Evaluation being carried out now? Where federal government programs are
+       concerned, OMB has the authority to review new or revised systems of records (which are also
+       published for public comment in the Federal Register), oversee new technology development and
+       purchase, and promote best practices. Depending on the program's size and visibility, OMB
+       takes a more or less active role. Regulated entities may receive such input from the regulating
+       entities, but no federal agency comprehensively evaluates private sector or overseas activities.
+       Private sector industry and advocacy groups are significantly increasing their activities in this
+       area.
+
+       What were the group's thoughts on the Evaluation function? The participants agreed such a
+       role would be controversial and disagreed whether it would be productive. Although issuing
+       opinions about private sector products and services might promote good privacy practices in
+       industry, such a function could also evolve into a quasi-regulatory standards-setting role or be
+       viewed as "picking winners and losers."
+
+

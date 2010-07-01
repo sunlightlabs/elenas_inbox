@@ -1,0 +1,172 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Cynthia A. Rice ( CN;Cynthia A. Rice/OU;OPD/O=EOP [ OPD ) }
+
+CREATION DATE/TIME: 11-DEC-1998 15:41:17.00
+
+SUBJECT:   3:15 version of chart plus revised budget tables
+
+TO: Cathy R. Mays ( CN;Cathy R. Mays/OU;OPD/O;EOP @ EOP [ OPD ) }
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN;Elena Kagan/OU;OPD/O;EOP @ EOP [ OPD )}
+READ: UNKNOWN
+
+TO: Laura Emmett ( CN;Laura Emmett/OU=WHO/O;EOP @ EOP [ WHO ) }
+READ:UNKNOWN
+
+TO: Bruce N. Reed ( CN;Bruce N. Reed/OU;OPD/O;EOP @ EOP [ OPD ) }
+READ: UNKNOWN
+
+TEXT:
+3:15 version of chart
+ Tables showing two spending versions
+                option 2 shown first trims non-defense adds ons to $150
+million
+                      ;=;;==;;;;=;;;=;;;;; ATTACHMENT
+ATT CREATION TIME/DATE:    o 00:00:00.00
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D25)MAIL44405484W.326 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504368100000010A0201000000020500000028360000000200004D5C19AEC7F79F4ED5F7DC
+8ED908D486A9F199440A1EEOC8CA470183B66870953028467BB9C2616488BAF0449EOF52350C44
+OFA3BED28684773A5C80D56A2BFE0485CD2C4E2B9AD839B3170E95CEE8CD7342EDB7637AFD4A15
+FE923609A93ED5ACE0437C27AD30B851D590316B7FC1F7D5D8D0620A9498BD4AC081B566D9CD20
+
+                                                 Tobacco Tax Options
+                                                  (revenue in billions)
+
+
+                                          FY          FY           FY         FY          FY          FY          Five·
+                                          1999        2000         2001       2002        2003        2004        Year
+                                          lO/1/98-    10/1/99-     10/1/00-    10/1/01-   10/1/02-    10/1/03-    10/1/99-
+                                          9/30/99     9/30/00      9/30/01     9/30/02    9/30/03     9/30/04     9/30/04
+
+      50 cent increase,                   0           4.5          6.2         6.2        6.4         6.7         30.0
+      Option A
+      (effective 111100)
+
+      50 cent increase,                   0           6.0          6.2         6.2        6.4         6.7         31.5
+      Option B
+      (effective lO/1/99)
+
+      Accelerate current law              0           1.1          .7          .2         0           0           2.0
+      increase, Option 1
+      (15 cent increase 10/1/99)
+
+      Accelerate current law              .6          .9           .7          .2         0           0           2.4
+      increase, Option 2
+      (10 cent increase 6/1/99 with
+      another 5 cent increase 1/1/00)
+
+      Recoupment                          0           1.1          1.7         1.9        2           2           8.6 *
+      Outlays (BA is $2/yr)
+
+      Recoupment                          0           0            1.1         1.7        1.9         2           6.6*
+      (Delay until FY 2001)
+     *Subtotals don't add to totals due to roundmg.
+
+     Under current law , the tax will increase 10 cents on 1/1/00 and another 5 cents on 1/1/02
+                                          1/1/99          6/1/99         1011199     111100      111/01          1/1/02
+
+      Current law increase                0               0              0           10          10              15
+
+      Accelerate: Option 1                0               0              15          15          15              15
+
+      Accelerate: Option 2                0               10             10          15          15              15
+     12/11/983: 15pm
+
+
+
+
+                                                                   Automated Records ~lanagement System
+                                                                   Hex-Dump Conversion
+
+
+
+
+                                       DRAFf: TOBACCO
+                               USES OF FUNDS FOR FY 2000 BUDGET
+                                         (Dollars in Billions)
+     Option 2
+
+     DISCRETIONARY Request                 OMB             Agency                  WH
+          COMMENTS
+                                             Passback            Appeal               Priorities
+
+                            FY 2000        FY 2000        FY 2000            FY 2000
+     Tobacco
+
+       CDC                  .243           .074          +.154            +.047            Increases CDC
+                                                                                           anti-tobacco
+                                                                                           programs by
+                                                                                           nearly
+                                                                                           two-thirds
+                                                                                           (63%)
+
+       FDA                  .184           .034          +.050            +.034            Doubles FDA
+
+      SAMHSA Survey         .004             0           +.004            +.004·           Needed for
+                                                                                           brand specific
+                                                                                           survey
+
+      Smoking Cessation
+        Non-Defense                                                       +.045            Half of that
+                                                                                           proposed in '99
+
+         Defense                                                          +.060            Could be
+                                                                                           funded within
+                                                                                           DOD budget
+
+      Medicare lawsuit                                                    +.020            DOJ & HHS
+
+      Total                                       .108                             +.210
+      Total Non-Defense                    .108                           +.150
+
+
+
+
+     Automated Records Management System
+     Hex-Dwnp Conversion
+                                                                1ted Records Management System
+                                                         riex-Dump Conversion
+
+
+                                    DRAFT: TOBACCO
+                            USES OF FUNDS FOR FY 2000 BUDGET
+                                      (DolJars in BiIJions)
+    Option 1
+
+    DISCRETIONARY Request           OMB                Agency                  WH
+         COMMENTS
+                                      Passback                Appeal              Priorities
+
+                         FY 2000    FY 2000           FY 2000             FY 2000
+
+    Tobacco
+
+      CDC                .243        .074           +.154              +.026
+
+      FDA                .184        .034           +.050              +.066
+
+     SAMHSA Survey       .004         o             +.004              +.004
+
+     Smoking Cessation
+        Non~Defense                                                    +.090            FY'99
+                                                                                        Proposed level
+
+        Defense                                                        +.060
+
+     Medicare lawsuit                                                  +.020
+
+     Total                                  .108                               ·+.266
+     Total Non-Defense              .108                               +.206
+
+
+
+
+                                                   Automated Records Management System
+                                                   Hex-Dump Conversion
+
+

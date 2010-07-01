@@ -1,0 +1,158 @@
+     RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+     CREATOR: Jennifer M. Palmieri ( CN=Jennifer M. Palmieri/OU=WHO/O=EOP [ WHO 1 )
+
+     CREATION DATE/TIME:26-JAN-l999 20:48:47.00
+
+     SUBJECT:   Latest Coordinated Press Plan for this week is attached
+
+     TO: Julie E. Mason ( CN=Julie E. Mason/OU=WHO/O=EOP @ EOP [ WHO 1
+     READ: UNKNOWN
+
+     TO: Patricia M. Ewing ( CN=Patricia M. Ewing/O=OVP @ OVP [ UNKNOWN 1 )
+     READ: UNKNOWN
+
+     TO: Marjorie Tarmey ( CN=Marjorie Tarmey/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ:UNKNOWN
+
+     TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+     READ: UNKNOWN
+
+     TO: Victoria L. Valentine ( CN=Victoria L. Valentine/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     TO: Amy Weiss ( CN=Amy Weiss/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     TO: Sarah E. Gegenheimer ( CN=Sarah E. Gegenheimer/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ:UNKNOWN
+
+     TO: Julie B. Goldberg ( CN=Julie B. Goldberg/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     TO: Jennifer M. Palmieri ( CN=Jennifer M. Palmieri/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     TO: Jason H. Schechter ( CN=Jason H. Schechter/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     TO: Beverly J. Barnes ( CN=Beverly J. Barnes/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     TO: Nanda Chitre ( CN=Nanda Chitre/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     TO: CROWLEY_P   CROWLEY_P @ Al@CD@LNGTWY [ UNKNOWN 1 )    (NSC)
+     READ: UNKNOWN
+
+     TO: Julia M. Payne ( CN=Julia M. Payne/OU=WHO/O=EOP @ EOP [ WHO 1
+     READ:UNKNOWN
+
+     TO: WOZNIAK_N   WOZNIAK_N @ Al@CD@LNGTWY [ UNKNOWN 1 ) (NSC)
+     READ: UNKNOWN
+
+     TO: Brenda M. Anders   ( CN=Brenda M. Anders/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     TO: Dag Vega ( CN=Dag Vega/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     TO: Marsha E. Berry ( CN=Marsha E. Berry/OU=WHO/O=EOP @ EOP [ WHO 1 )
+
+
+    READ:UNKNOWN
+
+    TO: Christopher S. Lehane ( CN=Christopher S. Lehane/O=OVP @ OVP [ UNKNOWN 1 )
+    READ: UNKNOWN
+
+    TO: Dominique L. Cano ( CN=Dominique L. Cano/OU=WHO/O=EOP @ EOP [ WHO 1 )
+    READ: UNKNOWN
+
+    TO: Sara M. Latham ( CN=Sara M. Latham/OU=WHO/O=EOP @ EOP [ WHO 1 )
+    READ: UNKNOWN
+
+    TO: Jake Siewert ( CN=Jake Siewert/OU=OPD/O=EOP @ EOP [ OPD 1 )
+    READ: UNKNOWN
+
+    TO: Susanna B. McGuire ( CN=Susanna B. McGuire/OU=WHO/O=EOP @ EOP [ WHO 1 )
+    READ: UNKNOWN
+
+    TO: Heather M. Riley ( CN=Heather M. Riley/OU=WHO/O=EOP @ EOP [ WHO 1 )
+    READ: UNKNOWN
+
+    TO: Roger V. Salazar ( CN=Roger V. Salazar/OU=WHO/O=EOP @ EOP [ WHO 1 )
+    READ:UNKNOWN
+
+    TO: David C. Leavy ( CN=David C. Leavy/OU=NSC/O=EOP @ EOP [ NSC 1 )
+    READ: UNKNOWN
+
+    TO: Dorinda A. Salcido ( CN=Dorinda A. Salcido/OU=WHO/O=EOP @ EOP [ WHO 1 )
+    READ: UNKNOWN
+
+    TO: Mark A. Kitchens ( CN=Mark A. Kitchens/OU=WHO/O=EOP @ EOP [ WHO 1 )
+    READ:UNKNOWN
+
+    TO: James M. Teague ( CN=James M. Teague/OU=WHO/O=EOP @ EOP [ WHO 1 )
+    READ: UNKNOWN
+
+    TO: Mark D. Neschis ( CN=Mark D. Neschis/OU=WHO/O=EOP @ EOP [ WHO 1 )
+    READ:UNKNOWN
+
+    TO: Julianne B. Corbett ( CN=Julianne B. Corbett/OU=WHO/O=EOP @ EOP [ WHO 1 )
+    READ: UNKNOWN
+
+    TO: Elizabeth R. Newman ( CN=Elizabeth R. Newman/OU=WHO/O=EOP @ EOP [ WHO 1 )
+    READ: UNKNOWN
+
+    TO: Megan C. Moloney ( CN=Megan C. Moloney/OU=WHO/O=EOP @ EOP [ WHO 1 )
+    READ: UNKNOWN
+
+    TO: Anne M. Edwards ( CN=Anne M. Edwards/OU=WHO/O=EOP @ EOP [ WHO 1 )
+    READ: UNKNOWN
+
+    TO: Barry J. Toiv ( CN=Barry J. Toiv/OU=WHO/O=EOP @ EOP [ WHO 1 )
+    READ: UNKNOWN
+
+    TEXT:
+    ==================== ATTACHMENT   1 ====================
+    ATT CREATION TIME/DATE:   0 00:00:00.00
+
+    TEXT:
+    Unable to convert ARMS_EXT: [ATTACH.D371MAIL40340672N.036 to ASCII,
+     The following is a HEX DUMP:
+
+
+
+    FF5750435A040000010A02010000000205000000F608000000020POOD7FCE7E16A6148505A279B
+    lAC26FA7C5F2CAAC7C5EED13B8E462574743C3EF09AF9C956EDC87CA71BFEEE729C4EA443202Al
+    7BB91291Dl1282C7042C01F2D7B3AD789861700B36DB2C34A708FOC7FE070C52B156B84D1B5Fll
+    17F3FB109B39FEE60DF1E8F57706679271257E5043C822BDF8B7D75CA1DFBB8E4A5506C4243258
+    4BDAD88AA9E56007F9BD2E8ACOBE6489F929D97028EF75720B3A829146A22BB207E8B99EC56342
+           '
+
+
+
+
+                                                            Automated Records Management System
+               PRESS WEEK AHEAD JANUARY 23-29               Hex-Dump Conversion
+
+               Wednesday, January 26
+
+                            POTUS Social SecuritylMedciare Event (no advance)
+                            POTUSNP Salmon Restoration Conference Call (no advance)
+
+               Thursday, January 27
+
+                            Advance Workforce Development Initiative (Adult Literacy?) (Siewert) (T)
+                            Advance HRC Asthma announcement to USA Today (Kagan) (T)
+
+               Friday, January 28
+
+                            Advance Urban Agenda to Knight-Ridder, NY Daily News (Siewert) (T)
+
+               Saturday, January 29
+
+                            EEOC Radio Address
+                            DPC budget options TBD
+
+

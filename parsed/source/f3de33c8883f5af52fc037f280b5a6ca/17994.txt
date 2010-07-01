@@ -1,0 +1,51 @@
+RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+CREATOR: Paul J. weinstein Jr.   ( CN=Paul J. Weinstein Jr./OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME: 4-DEC-l997 11:50:52.00
+
+SUBJECT:   Final Final Housing Voucher Memo
+
+TO: Cathy R. Mays ( CN=Cathy R. Mays/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Andrea Kane ( CN=Andrea Kane/OU=OPD/O=EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Jose Cerda III ( CN=Jose Cerda III/OU=OPD/O=EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Laura Emmett   ( CN=Laura Emmett/OU=WHO/O=EOP [ WHO]     )
+READ: UNKNOWN
+
+TO: Michael Deich ( CN=Michael Deich/OU=OMB/O=EOP @ EOP [ OMB ] )
+READ: UNKNOWN
+
+TO: Emil E. Parker ( CN=Emil E. Parker/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Jonathan Orszag ( CN=Jonathan Orszag/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Russell W. Horwitz ( CN=Russell W.      Horwitz/OU=OPD/O=~OP @   EOP [ OPD ] )
+READ: UNKNOWN
+
+TEXT:
+Unable to convert ARMS_EXT: [MESSAGE.D8]MAIL435654735.316
+The following is a HEX dump of the file:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D8]MAIL445654736.316 to ASCII,
+ The following is a HEX DUMP:
+
+================== END ATTACHMENT     1 ==================
+
+

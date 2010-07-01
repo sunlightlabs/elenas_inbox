@@ -1,0 +1,260 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Julie A. Fernandes ( CN=Julie A. Fernandes/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME: 3-AUG-1998 13:15:56.00
+
+SUBJECT:   POTUS talking points
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD I )
+READ:UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO]    )
+READ: UNKNOWN
+
+TEXT:
+Elena,
+Attached is a draft of the briefing materials for the POTUS's meeting
+tomorrow with the Hispanic Caucus.  I checked w/Maria reo NACARA.  She
+agrees that the President should not express support for legislation that
+includes amnesty for the Hondurans. Also, I need to coordinate with OMB
+on the naturalization backlog plan -- to finalize where we are.
+
+
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D35]MAIL42674581J.226 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504398070000010A020100000002050000004B4F000000020000DF7B67B3FAA9BA291EC393
+75D2FC71CFE899D30B6AOAA7B23DC5227F62DOD3EED3A34BB48C6AEO750D2393FD1D61DC6D705A
+E0656A5370A45C398AC42C468F7B7989C68C781BECE5DOFD92FEAFF532EDD483FOE6E4DA4A9A90
+84465CB162067694B8A27CD65F71009E63137AOD2486FB89BC43D201CB8AF6C8BDD8BEF31E01B8
+OE735F551E69C5BBC958COD541BA95CB42BE7C43A6C9986E4B26D39DE722E65AEAA547EBC04F75
+BD2878D284D8ADD86E81E36667E906B717E2F5263C6F426BEEC70EA484B593C2F29118EA69249A
+D74178B510CCBC26C3B8B09C236F7BF55B18FB90A5F7BE94CB1EOECFC9DC051B17AOODC647C703
+7CE79CB65F95785CC1D30974AD13E8CCC2E5D31217DBAB719E8EB7745C8E99ACE42CE8D263C310
+6EF367A381AA6EE76AFF3F218FE8B80173470BBD8D40B4393727676BC5B4EC82BB07AC11081E54
+661DA993A389947BEE4DD5A7281EB8DF51C2EDECOA3917C59C53A52DFE1DEAA08BF9A77154D8FA
+950262FD4AB3CC720CAD6DA078CC477BC12D62015COBD3BDE69B03AEB18F1AA94675F8A5FFC8EE
+F044362E33440FCD0804C12793AA51907B8F218845ADC3ACDIA4E9905465945D075FF9675CF7F1
+39887AF27DF85D1ED97E1C04A89F7DC7AD86248C51E37BCF249C57108B4180FADA09B82E919BC7
+AC4ACF8BAB02002900000000000000000000000823010000000B0100003E04000000551AOOOOOO
+4E0000004905000009250100000006000000970500000B3002000000280000009D05000000550A
+                                        August 3,1998                   Hex-Dump Conversion
+
+Background
+
+The Administration has developed a plan to make federal immigration activities more effective
+by separating enforcement and service operations within INS -- from headquarters to the field --
+while preserving the necessary integrating functions for supporting and coordinating both
+operations. Congressman Reyes developed an alternative proposal that was introduced by Rep.
+Rogers last week. This bill would create an agency within the DOJ that would handle all
+immigration enforcement; however, the Rogers bill does not address either reforms to the
+services operation or overall immigration policy coordination. Our legislation was recently
+transmitted to the Hill and was introduced by Senator Kennedy and Representatives Watt and
+Berman on Thursday, July 30th.
+
+We -- along with the House Democratic leadership (including Rep. Becerras) -- have been trying
+to persuade Rep. Reyes to work with the Administration on a proposal that meets all of our goals.
+
+Talking Points
+
+·      The focus of the Administration's reform effort is to untangle the INS's overlapping and
+       frequently confusing organizational structure and replace it with two clear organizational
+       chains of command -- one to provide immigration-related services and the other to
+       accomplish its enforcement mission. This separation will result in an INS organization
+       with better accountability and improved efficiency that allows each operation to focus on
+       the unique management, knowledge, skills, and abilities of its function. The most
+       dramatic feature of our reform plan is the elimination of the district system and the
+       creation of local offices that are focused either on services or enforcement.
+
+·      We believe that the Commission on Immigration Reform (CIR) recommendation to
+       disband the INS and reallocate its primary responsibilities to the Department of Justice
+       (DOJ) and the Departments of State and Labor would only compound the current
+       problems with the nation's immigration system. To be most effective, all immigration
+       policy and management should remain within one agency at the Justice Department.
+
+·      The Administration did consider Congressman Reyes's proposal to pull enforcement
+       operations out of INS into Main Justice. Consistent with Congressman Reyes's
+       recommendation, our plan consolidates all enforcement operations to create a single point
+       of responsibility and accountability. However, because of the variety of ways in which
+       service officials depend on data collected by enforcement officers, and vice versa, to
+       ensure the integrity and effectiveness of both functions -- as when, for example, a service
+       officer discovers that a person has overstayed their visa and become an illegal alien -- we
+       decided that both operations would work best when housed within a single entity.
+                                        August 3, 1998        Automated Records Management System
+                                                                         Hex-Dump Conversion
+Background
+
+The hnmigration Control and Refonn Act of 1986 (IRCA) legalized the immigration status of
+certain aliens who had been unlawfully present in the United States since before January 1982.
+IRCA provided for a one-year application period for this benefit, ending in May 1988. The
+INS's implementation ofthe legalization program was challenged on the ground that the INS
+dissuaded some individuals from applying within the requisite time period. Despite a 1993
+Supreme Court decision severely limiting the class ofthose potentially hanned by INS's action,
+much class action litigation continued.
+
+Section 377 of the 1996 hnmigration Act brought this litigation to an end by removing federal
+court jurisdiction from cases where the claimant didn't actually file a legalization application
+within the specified period, or couldn't show that they attempted to file during the time period
+(by presenting a completed application and application fee) and were turned away. This
+provision was supported by the Administration because the Department of Justice believes that if
+an individual either did not file during the window period or cannot demonstrate that they
+attempted to file but were deterred, they are not entitled to relief under IRCA.
+
+Many immigration advocates are concerned that hundreds of thousands of individuals who have
+resided legally in this country for years will become deportable in the near future as a result of
+this provision. Many of these individuals claim to have been in the United States since before
+January 1,1982, and few would be able to secure any other fonn of relief from deportation (the
+standard for "cancellation of removal" under the 1996 Immigration Act is much stricter than the
+equivalent "suspension of deportation" standard that existed prior).
+
+Talking Point
+
+·      The Justice Department supported the enactment of Section 377 in an effort to bring an
+       end to lengthy litigation covering individuals without bona fide claims to legalization.
+       However, I have asked my staff to look into this further and welcome your thoughts on
+       this matter.
+                                       August 3, 1998             Automated Records Management System
+                                                                          Hex-Dump Conversion
+Background
+
+The Nicaraguan Adjustment and Central American Relief Act (NACARA), enacted during the
+last session of Congress, authorized the more lenient (pre-I 996 Act) rules for suspension of
+deportation to apply to pending cases of Guatemalans and Salvadorans, but provided amnesty
+(automatic "green cards") for Nicaraguans and Cubans. The Hispanic Caucus and many
+Central American advocates have urged the Administration to implement NACARA in a way
+that would achieve "parity" between all Central American groups affected by the legislation. In
+addition, since last fall, Congressmen Gutierrez and Becerra have advocated strongly for amnesty
+for Salvadorans and Guatemalans (equivalent to that received by the Nicaraguans and Cubans).
+Also, Congressman Gutierrez has introduced a bill that would give amnesty to Salvadorans,
+Guatemalans, Haitians and Hondurans. We have consistently taken the position that Hondurans
+are not similarly situated to the Central American groups covered by NACARA, and thus have
+opposed special relief for this group.
+
+Talking Points
+
+·      I share your concern about the disparities in treatment in NACARA. As I indicated in
+       my signing statement, we are seeking to minimize these disparities in the implementation
+       process.
+
+·      In this regard, the Attorney General has authorized a new administrative procedure for
+       adjudicating the cases of Salvadorans, Guatemalans, and Eastern Europeans covered by
+       NACARA. This procedure will empower INS asylum officers to decide the suspension
+       claims of these individuals (in addition to the review currently available by immigration
+       judges). This modified procedure will be less adversarial than immigration court and
+       will thus lessen the need for representation by an attorney, thus reducing the cost.
+
+·      Also, the INS will issue a regulation that codifies existing case law on adjudication of the
+       "extreme hardship" standard to ensure that there is fair and consistent interpretation of the
+       case law as it applies to this class of applicants.
+
+·      We expect that these changes will result in a generous approval rate.
+
+·      I am generally supportive of efforts to achieve parity among similarly situated groups --
+       however, I would have to review any proposed legislation before deciding whether to
+       support it.
+                                      August 3,1998
+                                                                     Automated Records Management System
+Background                                                                   Hex-Dump Conversion
+
+Many immigration advocates have expressed serious concerns over the naturalization
+backlog and INS' proposed immigration service fee increases -- primarily for
+naturalization. The dramatic increase in naturalization applications (from 540,000 in FY
+1994 to almost 1.6 million in FY 1997), along with a greater focus on the integrity rather
+than the speed of the naturalization process, has resulted in an increase in the number of
+pending applications. As of the end of May 1998, nearly 1.9 million applications were
+pending. Currently, most applicants are experiencing a wait of 18-24 months.
+
+Talking Points
+
+·     I agree that the growing backlog is unacceptable. My Administration is committed to
+      both management refonns and providing the resources necessary to reduce waiting times.
+      In the past year, the INS has implemented several refonns to the naturalization process
+      that are designed to expedite processing, while maintaining integrity. We recognize,
+      however, that INS's efforts to date represent just the first steps in a long road -- enonnous
+      challenges lie ahead, and we are committed to meeting those challenges expeditiously.
+
+·     As you may be aware, my 1999 budget proposed reducing the average waiting time
+      for applications to 10 to 12 months by the end of 1999 and 6 to 8 months by the end
+      of 2000. It was based on INS' projections showing an average of 1.6 million new
+      applications in FY 1999. The INS now estimates that it will receive 46% fewer
+      applications than prior estimates. Fewer applications are a double-edged sword:
+      while INS staff must process fewer new applications, INS also loses fee revenues.
+
+·     In light of the new INS projections, we have developed a new plan to meet the
+      backlog reduction targets outlined in the Budget. The plan provides a package of
+      management reforms, process improvements, and additional resources that together
+      will reduce the backlog and improve customer service.
+
+·     Under the new plan, INS will:
+
+      a.     implement management improvements by establishing a new Deputy Executive
+             Associate Commissioner for Immigration Services who will focus exclusively on
+             benefits service delivery with a mandate to reduce the naturalization backlog,
+             continue reengineering of adjudications processes, and improve customer service.
+
+      b.     establish backlog reduction teams comprised of adjudicators dedicated to
+             naturalization application processing. The teams will be concentrated in the five
+             cities that represent 65% of the backlog -- Los Angeles, San Francisco, New York,
+             Miami, and Chicago.
+                                                          Hex-Dump Conversion
+
+c.   implement reengineering improvements (recommended by Price Waterhouse
+     Coopers) including implementing a comprehensive national phone center,
+     consolidating medical waiver and complete file review at service centers, and
+     implementing the Guide to Naturalization ensuring standard procedures
+     across the agency.
+
+d.   receive an additional $148 million in FY 1999 dedicated to reduce the
+     backlog;
+
+e.   implement the immigration services fee increases, including a fee waiver
+     policy, in October, 1998, to better reflect the true cost of naturalization.
+                                                                        Hex-Dump Conversion
+
+              State & local law enforcement performing immigration functions
+
+Background
+
+The 1996 Immigration Act pennits the Attorney General to delegate certain immigration
+functions to state or local law enforcement officers. The immigrant advocacy community is very
+concerned about this level of cooperation between the INS and local law enforcement. They
+fear that this delegation will lead to violations of civil and constitutional rights on the part of
+insufficiently trained and perhaps wrongly motivated local police. Advocates are also concerned
+that this delegation will make immigrants fearful of cooperation with local police departments on
+other law enforcement matters.
+
+Last year, the Attorney General agreed to conduct a one-year pilot project to implement this
+provision in Salt Lake City, Utah. After negotiations among the Department of Justice
+(including INS, the Civil Rights Division and the Community Relations Service) and the local
+police department. local police and community representatives, an MOU was prepared and is
+ready to be executed by the INS and the local mayor, pending city council approval. A
+companion MOU between INS and Salt Lake County is being negotiated, and is tentatively
+scheduled for signature on the same day.
+
+The Salt Lake City MOU allows a small group of selected, trained, and supervised police officers
+to conduct immigration-related questioning and arrests after a lawful arrest has been made on
+state criminal grounds or repeat municipal offenses. After the pilot is completed and evaluated,
+the INS will propose a plan for full implementation ofthis provision and publish this plan in the
+Federal Register for comment.
+
+Talking points
+
+·      The Department ofJustice is taking careful steps to implement this provision of the 1996
+       Act.
+
+·      As in other areas, we want to promote the use of tools that assist local law enforcement in
+       doing their jobs effectively, while maintaining vigilance in protecting people's civil
+       rights.
+
+·      The Attorney General will initiate a pilot project to implement this provision in Salt Lake
+       City. The development of this pilot was done in conjunction with the local police
+       department, community advocates and civil rights groups. We hope that the pilot will
+       assist us in identifying how best to implement this provision, consistent with protecting
+       the civil rights of those affected.
+
+·      I welcome your input throughout this process.

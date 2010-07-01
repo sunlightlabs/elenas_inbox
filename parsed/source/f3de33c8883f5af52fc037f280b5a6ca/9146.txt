@@ -1,0 +1,349 @@
+RECORD TYPE: PRESIDENTIAL     (NOTES MAIL)
+
+CREATOR: Cecilia E. Rouse ( CN=Cecilia E. Rouse/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME:26-AUG-1998 17:58:04.00
+
+SUBJECT:   H-1B memo for VP
+
+TO: Julie A. Fernandes ( CN=Julie A. Fernandes/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ:UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ:UNKNOWN
+
+TO: Sally Katzen ( CN=Sally Katzen/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ:UNKNOWN
+
+TO: Gene B. Sperling ( CN=Gene B. Sperling/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ:UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP   [ WHO ] )
+READ: UNKNOWN
+
+CC: Shannon Mason ( CN=Shannon Mason/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+CC: Melissa G. Green ( CN=Melissa G. Green/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ:UNKNOWN
+
+TEXT:
+Here's a copy of the version of the memo that I sent to the VP's office.
+
+-- Ceci
+
+
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D62]MAIL45016873W.226 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043BA040000010A02010000000205000000F954000000020000A98C384DE2E78B4C9033DA
+597F775954497D26E2F6651A925A75449DB7EOF6295CAE544C92741F6C1DB2C1505EOD03CCD376
+632BFD67F1B02D21BF4ACAF44777E19C5B09118156E5A846A6EDODC872773895FF3FE6BEIBC197
+
+DRAFT MEMORANDUM FOR THE VICE-PRESIDENT
+
+FROM:         GENE SPERLING                                          Automated Records Management System
+              BRUCE REED
+              CECILIA ROUSE                                          Hex-Dump Conversion
+
+SUBJECT:       STATUS OF H-IB LEGISLATION
+
+Background
+
+         H-IB visas are temporary work visas that allow "highly skilled" immigrants (with a BA
+or equivalent) to work in this country for up to six years. Under current law, the number of
+H-IB visas is capped at 65,000 per year. During the last fiscal year, this cap was reached for the
+first time. This fiscal year the cap was reached in early May; as a result, no more visas can be
+issued until October I. The information technology (IT) industry strongly supports raising the
+annual cap to address what it maintains is a shortage of U.S. workers with IT skills. Others,
+including the Department of Labor and organized labor, challenge the industry's conclusions
+about a shortage and are concerned that the current H-I B program does not target its use to
+employers who are experiencing skills shortages.
+
+        Until last month there were two legislative vehicles for increasing the cap on the number
+ofH-lB visas. On May 18, the Senate passed (78-20) an industry-backed bill sponsored by
+Senator Abraham (R-MI) that increases the cap on HI-B visas for three years and includes an
+authorization for additional scholarships. This bill does not, however, require companies to
+recruit or retain U.S. workers prior to hiring H-IB visa holders. In the House, late last spring,
+the Judiciary Committee approved (23-7) a bill sponsored by Representative Lamar Smith
+(R-TX). The Smith bill also increases the cap for three years but differs sharply from the
+Abraham bill by including meaningful protections for U.S. workers. The Smith bill, however,
+failed to include any training component for U.S. workers.
+
+        Soon after the House committee vote, House Majority Leader Armey told Rep. Smith that
+he would not bring Smith's bill to the House floor unless Rep. Smith worked out a compromise
+with Sen. Abraham that pleased the high tech business community. Consequently, in mid-July
+Rep. Smith and Sen. Abraham produced a compromise bill (the Abraham/Smith proposal) which
+includes weak and limited protections for U.S. workers and a small training provision. In part
+due to a senior advisors veto threat, the compromise measure failed to gain sufficient support in
+the House prior to the August recess and Republican leaders decided to postpone House floor
+consideration until September.
+
+Administration Position
+
+      We agree that it may be necessary in the short-term to increase the number of visas for
+temporary foreign workers, but this must only be done in conjunction with additional efforts to
+employers) and meaningful reforms to the H-IB program to protect U.S. workers. This is
+because it has been a core Clinton/Gore priority that the most important way to widen the
+availability of skilled workers must be to improve the skills of U.S. workers. We are also
+committed to ensuring that employers seek U.S. workers first. The reforms to the H-IB
+program that we have advocated would help target usage of the H-IB program to employers
+facing genuine skills shortages by requiring employers to attest to having attempted to recruit
+U.S. workers before applying for an H-IB worker and to having not laid off a U.S. worker in
+order to hire an H-lB worker.
+
+        Despite our efforts to work with members of the business community and Congress to
+craft a bill consistent with our principles, and in the face of our strong opposition, the Senate
+passed the bill sponsored by Senator Abraham that did not include either a recruitment or a no
+lay-off attestation and that weakened existing enforcement authority of the Department of Labor.
+ In contrast, the Administration stated in a letter to Rep. Hyde that it would support Rep. Lamar
+Smith's bill, because it included meaningful reforms to the H-IB program, ifit were modified to
+include a significant training provision.
+
+         While we met with both Sen. Abraham and Rep. Smith independently on several
+occasions early this summer, they finalized their compromise proposal without incorporating
+most of our suggestions. The Abraham/Smith proposal is better than the Abraham bill because
+it includes a small application fee to fund training and requires firms that have a high percentage
+ofH-IB workers (typically "job shops" that contract workers to other firms) to attest to having
+attempted to recruit U.S. workers before hiring an H-IB worker and to having not laid off a U.S.
+worker in order to hire an H-IB worker. Unfortunately, the reforms are too weak to adequately
+protect U.S. workers (largely because far too many employers would be exempt from both
+attestations) and the bill, as structured, would not generate sufficient funds for increased training
+opportunities for U.S. workers.
+
+        We received a copy ofthe final Abraham/Smith proposal less than 24 hours prior to when
+we were told it was to be introduced on the House floor. Given the problems with the proposal
+and the lack of opportunity to negotiate further, we made a statement to the press that if the
+proposal were presented to the President his senior advisors would recommend that he veto it.
+In an effort to show our willingness to continue to work to improve the bill, that same day we put
+forth a list of proposed changes (see attached) and made clear that if the proposal were modified
+consistent with these changes, we would support it. This list included significant compromises
+on our part: ~,(1) we would agree to apply the recruitment attestation only to firms that have
+a high percentage ofH-IB workers (this would exempt companies such as Microsoft, Intel, and
+HP from this attestation); and (2) we would agree that the H-I B reforms sunset with the increase
+in the cap. These compromises have generated some opposition from organized labor and their
+Congressional supporters.
+
+        Since releasing our list of proposed changes, we have been engaged in serious discussions
+with members of Congress (including Sen. Abraham and Rep. Lofgren), and representatives from
+the business community (such as Jerry Jasinowski ofNAM and Wade Randlett of Technet) and
+
+                                                                     Automated Records Management System
+                                                                     Hex-Dump Conversion
+more substantial training provision and stronger protections for U.S. workers. In these
+discussions, we have shown flexibility on the exact structure of a provision to protect u.S.
+workers from being laid-off and replaced with H-lB workers, but we continue to push for a
+meaningful provision that would protect all U.S. workers. We are hopeful that a compromise
+can be reached before the end of the Congressional session.
+
+Industry's Position
+
+        The business community has generally not opposed the Administration's requirement that
+any H-IB legislation must include a significant training provision. It has, however, argued that
+the reforms would generate unnecessary and intrusive federal regulations. As a result, the
+community supports the Abraham/Smith proposal because it increases the cap on the number of
+visas for five years and would exempt a large percentage of companies from the worker
+protections.
+
+        In addition, while some within the business community described our list of changes to
+the Abraham/Smith proposal as "good faith and reasonable," others accused us of "raising the
+bar" on what needs to be included in an acceptable bill and of attempting to block efforts to
+increase the cap. In fact, our position has not changed: in order for the President to sign a bill
+that increases the cap, it must also contain both a significant training provision and meaningful
+reform to the H-IB program. The Abraham/Smith proposal does not meet that standard.
+
+Organized Labor's Position
+
+        Organized labor does not oppose an increase in the cap, as long as this increase is
+accompanied by strong worker protections and a meaningful training provision. Thus, it
+opposes the Abraham bill in the Senate and generally supports the Smith bill in the House (if it
+were modified to include a training provision). Organized labor opposes the Abraham/Smith
+proposal because the worker protections would only apply to a small number of companies, the
+training component is relatively small, and the H-IB reforms would sunset with the increase in
+the cap. Not surprisingly, its main concerns with our list of changes to the Abraham/Smith
+proposal are that (I) we would agree to apply the recruitment attestation only to firms that have a
+high percentage ofH-IB workers (the concern is that this would exempt an unknown, and
+potentially large, number of firms from this worker protection); and (2) we would agree that the
+H-IB reforms sunset with the increase in the cap.
+
+
+
+
+                                                                   Automated Records Management System
+                                                                   Hex-Dump Conversion
+                                    August 26,1998
+
+
+�   We support attempts to increase the number ofH-lB visas as part of a larger package that
+    includes both additional training for U.S. workers and meaningful reform of the H-IB
+    program that both protects U.S. workers and respects the good faith business judgments of
+    employers.
+
+�   We want to pass a bill to increase the cap. At the same time, our goal is to help ensure
+    that qualified U.S. workers have the opportunity to fill a job before a temporary foreign
+    worker is hired and that U.S. workers not lose their jobs to temporary foreign workers.
+    A substantial training component would help U.S. workers obtain the skills needed to fill
+    these jobs and the kinds of reforms that we have advocated (like those included in the
+    Smith bill) would effectively target H-IB visas to industries experiencing skill shortages.
+
+�   We agree that the reforms should be targeted at companies that are dependent on H-IB
+    workers (primarily the 'job shops"), but we also believe that all U.S. workers should have
+    some additional level of protection against being laid-off so that the employer can hire an
+    H-IB worker. We believe that these reforms should not be overly intrusive for
+    employers.
+
+�   Although the agreement reached by the Republicans last month includes a training
+    provision and limited protections for U.S. workers, it falls short in several respects. The
+    training provision would not generate sufficient funds and the protections included some
+    big loopholes that would make it difficult to tackle abuses in the program.
+
+�   We have laid out specific suggestions for ways to improve the Abraham/Smith proposal
+    that, if made, would cause us to give this proposal our full support. We have had a series
+    of discussions with the bill's sponsors in an attempt to reach an agreement. Our
+    suggested changes generally increase the funding for training and strengthen the
+    protections for U.S. workers in an attempt to achieve a reasonable, balanced bill that both
+    protects U.S. workers and respects the good faith business judgments of employers.
+
+
+
+
+                                                                    Automated Records Management System
+                                                                    Hex-Dump Conversion
+                                   August 26,1998
+
+
+Q:   Why has the Administration not embraced the Republican compromise on H-1B
+     legislation?
+
+A:   Although the Republican agreement includes a training provision and limited protections
+     for U.S. workers, it fell short in several respects. The training provision would not
+     generate sufficient funds and the protections included some big loopholes that would
+     have made it difficult to tackle abuses in the program.
+
+
+Q:   Some Republicans and hi-tech executives claim that the Administration keeps
+     moving the bar on what it would consider an acceptable bill. What has been going
+     on?
+
+A:   Our position on this issue is unchanged: For the President to sign a bill that increases the
+     cap on H-IB visas, it must contain both a significant training component and meaningful
+     reform to the H-IB program to ensure that American companies do not lay-off U.S.
+     workers and replace them with foreign workers.
+
+     The Republican agreement that was unveiled last month fell short in several respects. It
+     watered down the training provisions and created some big loopholes that would have
+     made it difficult to tackle abuses in the program.
+
+     We have laid out a very specific path to how to get our support on the legislation and
+     have had a series of discussions with the bill's sponsors in an attempt to reach an
+     agreement. Our suggested changes generally increase the funding for training and
+     strengthen the protections for U.S. workers in an attempt to achieve a reasonable,
+     balanced bill that both protects U.S. workers and respects the good faith business
+     judgments of employers.
+
+
+Q:   Would the President veto the Abraham/Smith compromise?
+
+A:   If the Congress passes the Abraham/Smith proposal in its current form, the President's
+     senior advisors will recommend that he veto it. While the President is willing to sign a
+     bill that raises the cap on H-IB visas, he also wants to make sure that we protect and
+     provide training for U.S. workers. We want to work with the Congress to develop a
+     balanced bill that addresses the growing demand for highly skilled workers.
+
+
+
+                                                                Automated Records Management System
+                                                                Hex-Dump Conversion
+Proposed Administration Revisions to H.R. 3736 (the July 29, 1998 version):
+
+1.    Require either a $500 fee for each position for which an application is filed or a $1,000
+      fee for each nonimmigrant. Fee to fund training provided under JTPA Title IV. In
+      addition, a small portion of these revenues should fund the administration of the H -1 B
+      visa program, including the cost of arbitration.
+
+2.    Define H-IB-dependent employers as:
+
+      a.     For employers with fewer than 51 workers, that at least 20% of their workforce is
+             H-IB; and
+
+      b.     For employers with more than 50 workers, that at least 10% of their workforce is
+             H-IB.
+
+3.    The recruitment and no lay-off attestations apply to: (I) H-IB dependent employers; and
+      (2) any employer who, within the previous 5 years, has been found to have willfully
+      violated its obligations under this law.
+
+4.    H-IB dependent employers attest they will not place an H-IB worker with another
+      employer, under certain employment circumstances, where the other employer has
+      displaced or intends to displace a U.S. worker (as defined in paragraph (4)) during the
+      period beginning 90 days before and ending 90 days after the date the placement would
+      begin.
+
+5.    DOL would have the authority to investigate compliance either: (1) pursuant to a
+      complaint by an aggrieved party; or (2) based on other credible evidence indicating
+      possible violations.
+
+6.    Establish an arbitration process for disputes involving the laying-off of any U.S. worker
+      who was replaced by an H-lB worker, even of a non-H-IB dependent employer. This
+      arbitration process would be largely similar to that laid out in H.R. 3736 except that it
+      would be administered by the Secretary of Labor. The arbitrator must base his or her
+      decision on a "preponderance ofthe evidence."
+
+7.    Reference in the bill to "administrative remedies" includes the authority to require back
+      pay, the hiring of an individual, or reinstatement.
+
+8.    There must be appropriate sanctions for violations of "whistleblower" protections.
+
+9.    Close loopholes in the attestations:
+
+      a.     Strike the provision that "[n]othing in the [recruitment attestation] shall be
+             construed to prohibit an employer from using selection standards normal or
+
+
+                                                                    Automated Records Management System
+                                                                    Hex-Dump Conversion
+
+
+
+
+                        customary to the type of job involved."
+
+                 b.     Clarify that job contractors can be sanctioned for placing an H-IB worker with an
+                        employer who subsequently lays off a U.S. worker within the 90 days following
+                        placement.
+
+                 c.     Do not exempt H-IB workers with at least a master's degree or the equivalent
+                        from calculations ofthe total number ofH-IB employees.
+
+                 d.     Define lay-offbased on termination for "cause or voluntary termination," but
+                        exclude cases where there has been an offer of continuing employment.
+
+           10.   Consolidate the LCA approval and petition processes within DOL, rather than within
+                 INS.
+
+           11.   Broaden the definition ofD.S. workers to include aliens authorized to be employed by
+                 this act or by the Attorney General.
+
+           12.   Include a provision that prohibits unconscionable contracts.
+
+           13.   Include a "no benching" requirement that an H-IB nonimmigrant in "non-productive
+                 status" for reasons such as training, lack of license, lack of assigned work, or other such
+                 reason (not including when the employee is unavailable for work) be paid for a 40 hour
+                 week or a prorated portion of a 40 hour week during such time.
+
+           14.   Increase the annual cap on H-lB visas to 95,000 in FY 1998, 105,000 in FY 1999, and
+                 115,000 in FY 2000. After FY 2000, the visa cap shall return to 65,000.
+
+           15.   Eliminate the 7500 cap on the number of non-physician health care workers admitted
+                 under the H-IB program to make the bill consistent with our obligations under the GATS
+                 agreement.
+
+
+
+
+                                                                         Automated Records Management System
+                                                                         Hex-Dump Conversion

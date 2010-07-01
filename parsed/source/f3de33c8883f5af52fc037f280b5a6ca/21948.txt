@@ -1,0 +1,72 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Leanne A. Shimabukuro ( CN=Leanne A. Shimabukuro/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME: 14-DEC-1998 12:05:45.00
+
+SUBJECT:   agenda for 3:00pm meeting -- revised
+
+TO: Charles A. Blanchard ( CN=Charles A. Blanchard/OU=ONDCP/O=EOP @ EOP [ ONDCP ] )
+READ: UNKNOWN
+
+TO: Cathy R. Mays ( CN=Cathy R. Mays/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: David J. Haun ( CN=David J. Haun/OU=OMB/O=EOP @ EOP [ OMB ] )
+READ: UNKNOWN
+
+CC: Michael Deich ( CN=Michael Deich/OU=OMB/O=EOP @ EOP [ OMB ] )
+READ: UNKNOWN
+
+CC: Jose Cerda III ( CN=Jose Cerda III/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D89]MAIL439517942.326 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504336050000010A02010000000205000000600E0000000200009489DD1D8D267F569FF052
+                                       December 14, 1998, 3:00pm
+
+
+I.     Update on FY 2000 budget and new initiatives
+
+          -- COPS IIJCrime Bill II
+          -- Reports
+          -- Legislative decisions
+          -- Outreach to groups
+
+II.    Events/announcements
+
+          --   Monitoring the Future release (12/18)
+          --   Guidelines on prison drug testing/treatment
+          --   Recommendations on gun shows (117)
+          --   YCGII Report (2/9)
+
+          Other:
+          -- Timing/guidelines for community prosecution grants
+          -- Timing/guidelines for COPS/school safety earmark
+          -- Timing/announcement for announcement of Exile earmark
+
+III.    Miscellany
+
+          -- Impact of OMB guidance for CJS appropriations -- how will funds be allocated?
+          -- DOJ proposed directive requiring firearms to be stamped -- not etched.
+               Pending reports to be released:
+                       COPS shutdown report due (12/23)
+                       National Crime Victimization Survey (12/31)
+
+

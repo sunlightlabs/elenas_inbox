@@ -1,0 +1,24 @@
+RECORD TYPE: PRESIDENTIAL     {NOTES MAIL}
+
+CREATOR: Thomas L. Freedman { CN=Thomas L. Freedman/OU=OPD/O=EOP [ OPD 1 }
+
+CREATION DATE/TIME:14-0CT-1997 20:13:22.00
+
+SUBJECT:   EEOC appointment
+
+TO: Elena Kagan { CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 }
+READ: UNKNOWN
+
+CC: Laura Emmett { CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO 1 }
+READ: UNKNOWN
+
+CC: Mary L. Smith ( CN=Mary L. Smith/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TEXT:
+The EEOC opening caused by the Chairman's resignation is a great
+opportunity if we can get a high-profile, high-quality person.   It could
+fit in nicely with our other announcements centered on reform. We should
+give coming up with a list of good names some thought, yes?
+
+

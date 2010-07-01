@@ -1,0 +1,297 @@
+ RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+ CREATOR: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP [ WHO]     )
+
+ CREATION DATE/TIME:12-JUN-1998 11:37:36.00
+
+ SUBJECT:   Complete Weekly Report 6/12 - Paul has reviewed
+
+ TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+ READ: UNKNOWN
+
+ TEXT:
+ ==================== ATTACHMENT   1 ====================
+ ATT CREATION TIME/DATE:   0 00:00:00.00
+
+ TEXT:
+ Unable to convert ARMS_EXT: [ATTACH.D52]MAIL43955456Y.126 to ASCII,
+  The following is a HEX DUMP:
+
+ FF575043ECOE0000010A02010000000205000000775A0000000200005BE4E51EFE98EF9F8D324D
+ 1B21A54F1BEC9842AB54FA7E75184CF53FACABEA5AE1E5601DA2BA008AB065AEB2F9B90ED44C1D
+ 28CA262C1B4BADCB6E65BC8442B828A77B9672DAF7EEEB5A4COl1404CBDBE399A8E192F04FCAB7
+ 86869AE8F5463726B5D917622A29825554E340C58B67CE7E35BBBA35D51A72537B249C239E8EF4
+ 84B269C2598F71EB78289F09A10EOFDAF19B6075681DD298D758E171ECODC4C972ABC9090ECF67
+ 55FOBD23DDCA55F85A94ED7B11E321CBE5937728719A384FOD26C9CFCE066E3C0179F7619DOC1C
+ 9BODD13EC1421054751C9C88AB0559B29F831DCEEF23CECOA521E317AAA84DEBOC9C46F96643A2
+ EADAE1BDF16869EOE2308CC334573B5FBEE2431E36C61053CCBB7030F2EAEFB267BA0401B37C53
+ 204BF9E7589C86FECDCE1672CE88AE469115E40BFFCB32BA38C4B3402CB7947932BB05463030BF
+ 3A9E1FB208EACE46344162DEB17BDOD4595E5810DD8041A449CDOD13602BABDFBAF96CE128D31D
+ C9FODE178FC91EF60CB9324B981856E93CFA9EEB1C44FB1862A07D4B9D8AC7267FBB44B3D0372C
+ 8A7237134ED2C13BA198DDEE7CB12C093C67AFA288F13E31El127C18F1E33506B93383AFFF7841
+ E2E1F227D02553BD686C7CDFA2BC3E1F4EOE7EC5A9A89AD0583C70B5353BE7E5B88FF7929FB14D
+ 6620AC4D8F0200A400000000000000000000000823010000000B010000F80A0000005514000000
+ 4E000000030C000009250100000006000000510COOOOOB300300000028000000570C0000080501
+ 000000080000007FOC0000081D0100000000000000870C000000550300000032000000870COOOO
+ 00000000000000000000870C000000000000000000000000870COO0008770100000040000000B9
+ OC000008340100000014000000F90C00000802010000000FOOOOOOODODOOOOOB30010000006COO
+ 00001COD00000055040000004E000000880DOOOOOOOOOOOOOOOOOO000000880DOOOOOOOOOOOOOO
+ 0000000000880DOOOOOB300100000044000000D60D00000608010000002D0000001AOE00000055
+ OC0000003C000000470E000000000000000000000000470EOOOOOO000000000000000000470EOO
+ 0000000000000000000000470E000000000000000000000000470E000000000000000000000000
+ 470E000000000000000000000000470EOOOOOOOOOOOOOOOOOOOOOO00470EOOOOOOOOOOOOOOOOOO
+ 000000470E000000000000000000000000470EOOOOOOOOOOOOOOOO00000000470EOOOOOOOOOOOO
+ 000000000000470E000000000000000000000000470EOOOOOOOOOO00000000000000470EOOOOOO
+ 000000000000000000470E000000000000000000000000470EOOOO00000000000000000000470E
+ 000000000000000000000000470E00000000000000000000000047OEOOOOOOOOOOOOOOOOOOOOOO
+ 00470E000000000000000000000000470EOOOOOOOOOOOOOOOOOOOO0000470EOOOOOOOOOOOOOOOO
+ 00000000470E00000942010000001D000000830EOOOOOOOOOOOOOO0000000000830EOOOOOOOOOO
+ 00000000000000830E000000000000000000000000830EOOOOOOOO0000000000000000830EOOOO
+ 00000000000000000000830E000000000000000000000000830EOO000000000000000000000083
+ OE000000000000000000000000830EOOOOOOOOOOOOOOOOOOOOOOOO830EOOOOOOOOOOOOOOOOOOOO
+ 0000830E000000000000000000000000830EOOOOOOOOOOOOOOOOOO000000830EOOOOOOOOOOOOOO
+ 0000000000830E000000000000000000000000830EOOOOOOOOOOOO000000000000830EOOOOOOOO
+ 0000000000000000830E000000000000000000000000830EOOOOOO000000000000000000830EOO
+ 0000000000000000000000830E000000000000000000000000830E000000000000000000000000
+ 830E000000000000000000000000830EOOOOOOOOOOOOOOOOOOOOOO00830EOOOOOOOOOOOOOOOOOO
+ 000000830EOOOOOOOP0000000000000000830EOOOOOOOOOOOOOOOO00000000830EOOOOOOOOOOOO
+ 000000000000830E000000000000000000000000830EOOOOOOOOOO00000000000000830EOOOOOO
+ 000000000000000000830E000000000000000000000000830EOOOO00000000000000000000830E
+ 000000000000000000000000830E00000000000000000000000083OEOOOOOOOOOOOOOOOOOOOOOO
+                                                                           Hex-Dump Conversion
+
+
+
+                                            June 11, 1998
+
+
+MEMORANDUM FOR THE PRESIDENT
+
+FROM:           Bruce Reed
+                Elena Kagan
+
+RE:             DPC Weekly Report
+
+
+        Tobacco -- Senate Update: The Senate passed two amendments to the McCain bill this
+week. The first, approved by a 52-46 vote, is a Craig-Coverdell amendment which authorizes
+about $2 billion per year for anti-drug efforts, creating another competitor for the diminishing
+pool of public health dollars. The amendment also includes a permanent prohibition on the use
+of federal monies for needle exchange and a program to allow education vouchers to students
+who have been the victims of school violence. A Democratic alternative to the Craig-Coverdell
+amendment, which spent less money and did not contain the permanent needle exchange ban or
+voucher provision, was defeated by a vote of 53-45.                     .
+
+        The Senate also passed by a vote of 50-48 the Gramm tax-cut amendment. The Gramm
+amendment costs $16 billion over the first four years, an additional $30 billion in the next five
+years, and one-third of the funding under the bill after that. The amendment provides all couples
+with annual incomes below $50,000 a new tax deduction of$825 this year, rising to $3,300 in
+2008, and would provide full deductibility of health insurance for the self-employed. The
+Senate rejected a less costly substitute offered by Senator Daschle by a vote of 55-43.
+
+         As a result of these votes, key groups have expressed concern over the diminishing
+dollars available for other purposes under the legislation. The Governors have drafted a letter
+objecting to the state financing section of the bill because the funding level has dropped below
+the $196.5 billion over 25 years originally contained in the bill to settle state suits (the same level
+ contained in the June 20, 1997 settlement agreement with the Attorneys General). Public
+health groups such as the Campaign for Tobacco Free Kids, the American Cancer Society, and
+the American Heart Association, are concerned that funding will not be available for public
+health programs. Secretary Shalala, Erskine, and we met with them on Friday and explained that
+the bill would not move through the Senate without funding for tax cuts and anti-drug provisions,
+and have urged them to work hard over the next few days to achieve final passage.
+
+        Key amendments are still expected on hot-button issues such as attorneys fees, resolving
+the disputed proposal on farmers, as well as two Republican substitute bills. Weare hopeful
+that the Senate will move on to final passage by the end of the week.
+                                                                        Hex-Dump Ccnversion
+
+      On Monday, you will be speaking to 200 high school Presidential scholars in the East
+Room, where you will have an opportunity to urge swift passage of the tobacco legislation.
+
+        Education -- National Testing: There are several new reports which support our
+efforts on national testing. First, GAO has confirmed in a letter to Goodling and Ashcroft,
+that the Education Department already has sufficient authority to develop and conduct
+national tests, and does not require additional Congressional authorization. Second, on
+June 12 the National Academy of Sciences (NAS) will release an interim report on the
+Goodling-proposed study, required by the·compromise legislation last fall, examining the
+feasibility of statistically linking scores from existing commercial and state tests to each
+other and to NAEP. The NAS has concluded that it is not technically feasible to compare
+student scores across different tests to each other or to the NAEP standards. This
+conclusion completely undermines Goodling's argument that existing tests could be used to
+accomplish the purpose of the national test. While both of these reports bolster the case
+for our testing initiative, they are not likely to dampen Goodling and Ashcroft's opposition.
+ Earlier this week, they received assurances from Gingrich and Lott that an anti-testing
+rider would be ~dded again to the Labor-HHS-Education Appropriations bill.
+
+        Crime -- Kids and Guns in Schools: On June 18, the National Parents' Resource
+Institute for Drug Education (PRIDE) will release their annual survey on teen drug use and
+violence for the 1997-98 school year. Over 154,000 students grades 6-12 were interviewed for
+the survey. While we have not yet seen the data on illicit drug use by teens, PRIDE has shared
+some of their findings with us on school violence. One key finding is that the percentage of
+students who reported carrying a gun to school decreased by over a third since the 1994-94
+school year -- from 6% to 3.8% (3.8% represents nearly 1 million students). However,ofthose
+students who brought a gun to school, almost half did so 6 or more times; over half threatened to
+harm a teacher; and nearly two-thirds threatened to harm another student. Moreover, monthly
+drug use was very high for students carrying guns: 30% used cocaine; 32% used stimulants such
+as methamphetamine; and 31 % used hallucinogens. In addition, the survey reaffirms the
+effectiveness of involving kids in after school programs and school activities. Students who did
+not bring guns to school were 53% more likely to be involved in after school programs and 34%
+more likely to be active in school activities such as band and sports than gun-carrying students.
+
+       Child Care -- House Legislation: On June 9, The First Lady and Secretary Shalala
+joined House Democrats as they unveiled a comprehensive child care bill that includes all
+the pieces of your child care initiative, as well as other proposals, such as a stay-at-home
+tax credit. The over $20 billion package will be sponsored by more than 100
+Representatives. The proposal does not specify funding sources.
+
+       Health Care -- Patients' Bill of Rights: On Wednesday, Larry Stein, Chuck Brain,
+and Chris Jennings met with Congressman Dingell to discuss the patients' bill of rights.
+He informed us that he wants to work closely with the Administration should any serious
+discussions commence between Congressman Norwood and himself to develop a unified bill
+
+
+                                                2
+                                                                    Hex-Dump Conversion
+to be the vehicle for a discharge position. For the moment, Mr. DingeU believes (and Mr.
+Norwood and we agree) that he should stay strong on his state-court liability enforcement
+provisions and take the position that a "right is not a right without a remedy." The
+patients' bill of rights advocates should be able to maintain their strong position on
+enforcement as long as CBO does not come out with a high estimate of the costs associated
+with this provision, which could be reported as early as next week. CBO staff are now
+informally advising us that they are getting more pressure on these costs estimates than
+was the case during the worst days of the Health Security Act. They are also telling us
+that the Republican leadership is insisting on reviewing their estimates before they are
+released.
+
+        Health Care -- Vice President's Announcement of the Quality Forum: Next
+Wednesday, the Vice President is scheduled to unveil a planning committee to establish "a
+quality forum", a private sector entity designed to develop a plan to ensure the widespread
+availability of comparative information to hold health plans more accountable in providing
+high quality care. The "forum" was included in the fmal recommendations of the Quality
+Commission and you asked the Vice President to launch this process. In conjunction with
+this announcement, we are releasing a report that highlights the many shortcomings of the
+current system. For example, one study estimates that preventable errors in hospital care leads
+to 180,000 needless deaths each year, and 23 percent of tympanostomy tube insertions for
+children with ear infections were found to be inappropriate. Developing consistent
+information has great potential to improve health outcomes, increase confidence in the
+health care system, and save costs. We will cast this as the next logical step beyond the
+patients' bill of rights to improve and monitor rapid changes in the health care delivery
+system.
+
+       Health Care -- FDA Commissioner: Should the tobacco legislation be adopted by
+the Senate early next week, we hope to announce the nomination of the new FDA
+commissioner --Jane Henney. Preliminary, informal calls have elicited neither major
+objections nor overwhelming support for this nomination. While Henney should be
+confirmed on her merits, this confirmation may be a challenge, particularly if
+Republicans portray her as a Kennedy choice and a David Kessler protegee. . One positive
+development is that Senator Domenici has agreed to accompany her on courtesy visits to
+Republican members of the Senate Labor Committee.
+
+        Health Care -- False Claims Act and Fraud and Abuse: Senator Bond and Senator
+Hollings are including in appropriations legislation language to water down the False
+Claims Act (FCA). It would, for example, prevent the government from pursuing a false
+claims' act case against any provider that insitituted a fraud prevention training program
+even if the senior management ignored the billing rules that were recommended by the
+program. Their action is in response to the hospital industry's criticisms that the Justice
+Department has enforced this Act far too aggressively. While there are some legitimate
+concerns related to enforcement, the Department is addressing these concerns through
+
+
+                                              3
+                                                                          Hex-Dump Conversion
+
+administrative actions. OMB, HHS, and DPC feel strongly that undermining the
+enforcement provisions of the FCA would be extremely counterproductive to our
+anti-fraud enforcement activities. We recently authorized a Justice Department letter
+recommending a Presidential veto, which received strong support from a Washington Post
+editorial. This may be an issue that we should push back extremely hard on to illustrate
+our strong commitment to fight fraud and abuse, the issue that most
+American's--particularly seniors--believe is one of the primary contributors to an
+escalation of health care costs.
+
+        HousinglWelfare Reform -- Welfare-to-Work Housing Vouchers: On Tuesday, the
+Senate VA, HUD Appropriations Subcommittee provided $40 million for new incremental
+"self-sufficiency" housing vouchers targeted for people moving from welfare-to-work. The
+demonstration program would provide grants to seven sites -- New York City, Los Angeles,
+Cleveland, Miami-Dade, Anchorage, Charlotte, and Prince George's County. While providing
+substantially less vouchers than the Administration's request -- 7,000 instead of 50,000 -- this is
+a small but important victory for the initiative. We are hopeful that the House Subcommittee
+will fund more vouchers in the Senate, since Chairman Lewis has indicated some interest in this
+program.
+
+        Welfare Reform -- Portland Shows Strong Evaluation Results: HHS is preparing to
+release an evaluation of Portland, Oregon's welfare reform program showing impacts on
+employment, earnings, and reduced welfare expenditures that are among the strongest for
+a large-scale mandatory program, comparable to those of the Riverside program. After
+two years, participants had 35 percent higher earnings, 11 percent higher employment
+levels, and received 17 percent lower welfare payments. than those in the control group.
+These gains were sustained for two years and are expected to persist into the third year.
+Even in this high quality program, 41 percent of the participants were receiving welfare
+after two years although this compares favorably with 53 percent for the control group.
+The study, by MDRC, tracked over 5,500 recipients from 1993 through mid-1996 and is
+part of HHS' seven site national evaluation of welfare-to-work strategies that began under
+the JOBS program.
+
+       Portland's program had a strong employment focus, with a particular emphasis on
+job quality. Compared to some other programs that emphasize taking any job, Portland
+participants were encouraged to look for and take "good jobs" -- full time, paying above
+the minimum wage, with benefits and potential for advancement. Follow-up results show
+that participants were more likely to be working in full-time jobs, at higher earnings and
+with employer-provided health benefits than those in the control group. While the
+program emphasized job search and job placement, a significant number of participants
+also participated in short-term education and training. The program had strong positive
+impacts both for those with few barriers to employment and'those considered "harder to
+place". Participation in the program was required, and 21 percent of participants were
+sanctioned for failure to comply (in the mid-range of sanction rates in other programs).
+
+
+                                                 4
+                                                                        Hex-Dump Conversion
+
+Families with children older than one were required to participate (compared to age 6 in
+the Riverside demonstration) and staff emphasized child care arrangements in their case
+management. Not surprisingly, the program had higher child care usage and costs than
+other programs, but this did not result in higher total program costs.
+
+       Welfare Reform -- New Jersey Family Cap Study: Secretary Shalala has sent you.a
+memo on the New Jersey family cap policy, providing helpful background information
+regarding the Rutgers University evaluation that received considerable press attention last
+week. The press reports focused on evaluation rmdings that the family cap policy resulted
+in a "small but non-trivial" effect on abortion rates (an additional 240 abortions per year
+over what would be expected based on population trends in NJ). Both the state and HHS
+have pointed out serious methodological concerns with the Rutgers study and believe it is
+too early to draw conclusions about the family cap policy's impact on abortions. The
+report will be revised, but it is likely that researchers and interest groups of various kinds
+will continue to debate the implications of future research rmdings and of the policy itself.
+
+         New Jersey was the first state to receive a waiver, under the previous
+Administration, to implement a family cap policy. We granted waivers to 14 more states
+to test the policy. The federal welfare reform law left it up to states to decide whether to
+implement a family cap, and a total of 22 states have now adopted such a policy.
+
+         Welfare Reform -- Assisting the Disabled Return to Work: Last week, the House
+passed a bill sponsored by Reps. Bunning and Kennelly to implement an Administration
+initiative to move people on the SSDI and SSI rolls into the workforce by using a "pay for
+performance" approach. Currently, SSDI and SSI beneficiaries get rehabilitation services
+through state vocational rehabilitation agencies, which are reimbursed for their costs and
+have a mixed record of success. Under this bill, SSDI and SSI beneficiaries could choose their
+own public or private rehabilitation providers. Providers who successfully assist beneficiaries in
+leaving the rolls' and returning to work would be paid a percentage of the disability benefits
+saved. These payments would continue only as long as the person remained off the rolls, up to
+a maximum of five years. Because providers would be rewarded for results rather than for their
+costs, this should encourage providers to have a continuing interest in their clients' long term
+success.
+
+       The bill's fate in the Senate is uncertain. Senators Jeffords and Kennedy don't
+want to move it unless it is paired with their legislation to extend Medicare and Medicaid
+benefits to those leaving SSDI or SSI. We have a number of problems with their initial
+proposal, including its complexity, its partial Medicaid benefit package, its cost to the
+Medicare trust fund, and its overall cost of $1 billion per year, and are working to develop
+alternatives to the Jeffords-Kennedy approach.
+
+
+
+
+                                                5
+
+

@@ -1,0 +1,371 @@
+RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+CREATOR: Sandra Yamin ( CN=Sandra Yamin/oU=OMB/O=EOP [ OMB 1 )
+
+CREATION DATE/TIME:10-JUN-1999 13:23:47.00
+
+SUBJECT:   URGENT 1:50PM DEADLINE -- FINAL Draft Letter on Commerce/Justice/State App
+
+TO: Karen Tramontano ( CN=Karen Tramontano/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Steve Ricchetti ( CN=Steve Ricchetti/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: George T. Frampton ( CN=George T. Frampton/OU=CEQ/O=EOP@EOP [ CEQ 1 )
+READ:UNKNOWN
+
+TO: Maria Echaveste ( CN=Maria Echaveste/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Todd Stern ( CN=Todd Stern/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Wesley P. Warren ( CN=Wesley P. Warren/OU=CEQ/O=EOP@EOP [ CEQ 1 )
+READ:UNKNOWN
+
+TO: Ron Klain ( CN=Ron Klain/O=OVP@OVP [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Gene B. Sperling ( CN=Gene B. Sperling/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Lynn G. Cutler ( CN=Lynn G. Cutler/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Ann F. Lewis   ( CN=Ann F. Lewis/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Miles M. Lackey ( CN=Miles M. Lackey/OU=NSC/O=EOP@EOP [ NSC 1 )
+READ:UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Michelle Peterson ( CN=Michelle Peterson/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Jeffrey M. Smith ( CN=Jeffrey M. Smith/OU=OSTP/O=EOP@EOP [ OSTP 1 )
+READ:UNKNOWN
+
+TO: Joshua Gotbaum ( CN=Joshua Gotbaum/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ:UNKNOWN
+
+TO: Martha Foley ( CN=Martha Foley/OU=WHO/O=EOP@EOP [ WHO 1 .)
+READ:UNKNOWN
+
+TO: Sally Katzen ( CN=Sally Katzen/OU=OPD/O=EOP@EOP [ OPD 1 )
+
+
+READ: UNKNOWN
+
+TO: John Podesta ( CN=John podesta/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Wendy E. Gray ( CN=Wendy E. Gray/OU=NSC/O=EOP@EOP [ NSC 1 )
+READ: UNKNOWN
+
+CC: Courtney O. Gregoire ( CN=Courtney O. Gregoire/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+CC: James J. Jukes ( CN=James J. Jukes/OU=OMB/O=EOP@EOP [ OMB 1
+READ:UNKNOWN
+
+CC: Sandra Yamin ( CN=Sandra Yamin/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+CC: William G. Dauster ( cN=william G. Dauster/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ:UNKNOWN
+
+CC: Dawn L. Smalls ( CN=Dawn L. Smalls/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Linda Ricci ( CN=Linda Ricci/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ:UNKNOWN
+
+CC: Rebecca L. Walldorff    ( CN=Rebecca L. Walldorff/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+CC: Robert L. Nabors   ( CN=Robert L. Nabors/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ:UNKNOWN
+
+CC: Paul J. weinstein Jr.   ( CN=Paul J. Weinstein Jr./OU=OPD/O=EOP@EOP [ OPD 1 )
+READ:UNKNOWN
+
+CC: Lisa Zweig ( CN=Lisa Zweig/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ:UNKNOWN
+
+CC: Shannon Mason ( CN=Shannon Mason/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+CC: Mindy E. Myers   ( CN=Mindy E. Myers/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+CC: Daniel B. Shapiro ( CN=Daniel B. Shapiro/OU=NSC/O=EOP@EOP [ NSC 1 )
+READ: UNKNOWN
+
+CC: Michele Ballantyne ( CN=Michele Ballantyne/OU=WHO/O=EOP@EOP [ UNKNOWN 1 )
+READ:UNKNOWN
+
+CC: Mara E. Rudman ( CN=Mara E. Rudman/OU=NSC/O=EOP@EOP [ UNKNOWN 1 )
+READ: UNKNOWN
+
+CC: Adrienne C. Erbach ( CN=Adrienne C. Erbach/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+CC: Carolyn T. Wu ( CN=Carolyn T. Wu/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+CC: Leslie Bernstein ( CN=Leslie Bernstein/OU=WHO/O=EOP@EOP [ WHO 1 )
+
+
+READ: UNKNOWN
+
+CC: Lisa M. Kountoupes ( CN=Lisa M. Kountoupes/OU=WHO/O=EOP@EOP [ WHO]    )
+READ:UNKNOWN
+
+CC: Mark J. Tavlarides ( CN=Mark J. Tavlarides/OU=NSC/O=EOP@EOP [ NSC ] )
+READ:UNKNOWN
+
+CC: Victoria A. Wachino ( CN=Victoria A. Wachino/OU=OMB/O=EOP@EOP [ OMB ] )
+READ:UNKNOWN
+
+CC: Peter A. Weissman ( CN=Peter A. Weissman/OU=OPD/O=EOP@EOP [ OPD ] )
+READ:UNKNOWN
+
+CC: Judy Jablow ( CN=Judy Jablow/OU=CEQ/O=EOP@EOP [ CEQ]   )
+READ:UNKNOWN
+
+CC: Elizabeth Gore ( CN=Elizabeth Gore/OU=OMB/O=EOP@EOP [ OMB ] )
+READ: UNKNOWN
+
+CC: Melissa G. Green ( CN=Melissa G. Green/OU=OPD/O=EOP@EOP [ OPD ] )
+READ: UNKNOWN
+
+CC: Charles E. Kieffer ( CN=Charles E. Kieffer/OU=OMB/O=EOP@EOP [ OMB ] )
+READ:UNKNOWN
+
+TEXT:
+Attached for your sign-off is a final draft letter on the
+Commerce/Justice/State Appropriations Bill, FYOO.   Full committee mark-up
+is scheduled for 3:00PM TODAY.  Appreciate your sign-off and comments no
+later than 1:50PM. Our apologies for the tight turnaround.   Thank you
+
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D67]ARMS205366860.136 to ASCII,
+ The following is a HEX DUMP:
+
+FF5750439AOC0000010A02010000000205000000FC390000000200003BA8009A3B3FC4E597C381
+A6F75836FA8D6F307E487A1847077CCE1FDB5DD502AF5C2F9271346D2BC1C4DE6F943EA642E1DO
+132CCF82EF18DDE408B6BB32F30A7FA3E8AOB256AOE130990FD744C3F684C8DEDC26C4DE5F329D
+336B7553A9F13944FDOD3BF592B3C8A12CAC82C2CA3A384896B14B1A4D68138DB71F5B3895D790
+Chairman
+Committee of Appropriations
+United States Senate
+Washington, D.C. 20510
+
+Dear Mr. Chairman:
+
+         The purpose of this letter is to provide the Administration's views on the Commerce,
+Justice, and State, the Judiciary, and Related Agencies Appropriations Bill, FY 2000, as
+approved by the Senate Subcommittee. As the Committee develops its version of the bill, your
+consideration of the Administration's views would be appreciated. These views are based on
+incomplete information and are, therefore, necessarily prelimi':lary.
+
+        The Administration appreciates the Subcommittee's efforts to accommodate some of the
+Administration's priorities within its 302(b) allocation. However, the inadequacy of the 302(b)
+allocation has forced the Subcommittee to make choices that are simply unacceptable.
+
+         The President's FY 2000 Budget proposes levels of discretionary spending that meet
+important national needs while conforming to the Bipartisan Budget Agreement by making
+savings proposals in mandatory and other programs available to help finance vital spending
+needs. Congress has approved and the President has signed into law nearly $29 billion of such
+offsets in appropriations legislation since 1995. The Administration urges the Congress to
+consider such proposals as the FY 2000 appropriations process moves forward. Such action will
+be critical in the development of this bill, as it must accommodate additional requests for two
+vital activities - the decennial census and embassy security - that were transmitted to the
+Congresf>, fully offset, on June 8, 1999. We look forward to working with the Committee to
+ensure that funding is provided for programs included in that budget amendment package as the
+bill moves forward. In addition, we urge the Committee to keep the bill free of extraneous
+provisions.
+
+        [While information on the bill is not complete, if a bill that did not address the
+concerns below were presented to the President, the President's senior advisers would
+recommend that he veto the bill.) The Administration strongly urges the Committee to
+address the following issues:
+
+
+                                                             Automated Records Management System
+                                                             Hex-Dump Conversion
+
+        21 5t Century Policing Initiative/Community Oriented Policing Services. The
+Administration strongly opposes the Subcommittee's decision not to fund the 21 5t Century
+Policing Initiative, the logical successor to the highly-effective Community Oriented Policing
+Services program. Congress should not terminate this highly-effective program. We urge the
+restoration of funding for the 21st Century Policing Initiative, which will enable local police
+Departments to hire up to 50,000 additional community police officers.
+
+        Federal Law Enforcement Funding. The Administration is concerned that while the
+Subcommittee bill purports to fund several new initiatives, it fails t~ even provide funding to
+support the FBI, DEA, INS, and U.S. Attorneys at current services levels in FY 2000. If these
+levels and the earmarks identified in the bill were enacted, reductions in current staffing levels
+would be required.
+
+         Brady Handgun National Instant Check System. The Administration is concerned that
+the bill does not include the requested fee to fund the cost of the Brady Handgun National Instant
+Check System (NICS), nor does it provide sufficient funding to the FBI to continue operation of
+the NICS system to perform these necessary checks. The Administration urges the Committee
+to approve the requested fee.
+
+       State Criminal Alien Assistance. The Administration is disappointed with the
+Subcommittee's decision to substantially reduce funding for the State Criminal Alien Assistance
+program.
+
+Department of Commerce
+
+         Decennial Census. On June 8, 1999, the President requested $1.7 billion in additional
+funding for implementation ofthe decennial census. This funding will support the increased
+activities made necessary by the January 25, 1999, U.S. Supreme Court ruling. The funds
+requested in the amendment primarily address the additional workload associated with a
+non-sampling census for purposes of congressional apportionment, including additional staff,
+equipment, office space, and information technology needs. Although proceeding with a
+non-sampling census for purposes of congressional apportionment will increase our costs
+substantially, it unfortunately will produce less accurate results than the sampling method
+proposed by the Census Bureau.
+
+       National Oceanic and Atmospheric Administration. We are disappointed that the
+Subcommittee mark does not provide the $60 million needed to implement the 1999 Pacific
+Salmon Agreement, as requested in the Administration's recently-submitted budget amendment.
+We also urge full funding of the President's Lands Legacy initiative. In addition, we urge the
+Committee to fully fund the request for the Global Learning and Observations to Benefit the
+Environment (GLOBE) program. The Subcommittee bill would freeze the program at $2.5
+
+
+                                                                 Automated Records Management System
+                                                                 Hex-Dump Conversion
+million for new education and outreach activities at Historically Black Colleges and Universities.
+ This funding would have a dramatic impact on creating a pipeline of marine biology students at
+these institutions.
+
+         Economic Development Administration. The Subcommittee mark reduces the Economic
+Development Administration (EDA) by $165 million, over 40 percent below both the request and
+the FY 1999 enacted level. This funding level would mean a significant reduction in EDA's
+ability to create jobs and expand economic opportunity in hundreds of distressed communities
+around the country.
+
+        Critical Infrastructure Protection. The Subcommittee mark does not include the funds
+necessary to protect our Nation's critical infrastructure. We urge the Committee to fully fund
+the $7.3 million requested for NTIA and NIST.
+
+
+Legal Services Corporation
+
+        The Administration urges the Committee to increase the mark for the Legal Services
+Corporation (LSC) from a freeze at the FY 1999 enacted level, $300 million, to the requested
+level of $340 million. Funding LSC at the requested level will help to ensure equal access to the
+judicial system.
+
+International Affairs Programs
+
+        The Administration is deeply concerned about the Subcommittee's severe reductions to
+the request for Department of State accounts that fund diplomatic and consular activities, as well
+as contributions to international organizations and peacekeeping. Reductions of eight percent to
+the request for ongoing diplomatic and consular operations would impair the ability of the
+Department to support American interests and provide services to the public by forcing severe
+reductions to personnel, operations, and investment that would ,undermine US. leadership in
+world affairs.
+
+         The Administration appreciates funding provided to continue enhanced embassy security
+operations, but the Subcommittee's mark does not meet the President's request for an accelerated
+construction program of new, secure embassy facilities and does not provide the requested
+advance appropriations necessary to support a multi-year capital improvement program. The
+Subcommittee bill significantly underfunds the annual assessed contributions to international
+organizations and peacekeeping and only partially funds our requirement to pay off US.
+arrearages. These funding levels would increase arrears, further inhibit chances for reforms we
+are all seeking, and seriously constrain the ability of the United States to address foreign policy
+interests through the mechanism of UN. peacekeeping. Most troubling, based on limited
+information, the Subcommittee mark does not appear to include the $107 million arrears credit
+that the Senate Foreign Relations Committee specifically directed to be included as part of the
+bipartisan arrears package. The Administration considers this credit a key element of our U.N.
+arrears agreement.
+                                                                   Automated Records Management System
+                                                                   Hex-Dump Conversion
+Endowment for Democracy.
+
+Small Business Administration
+
+        The Administration is disappointed that the Subcommittee mark does not include funding
+for the new markets initiatives to invest in rural and urban areas -- $82 million for New Markets
+Technical Assistance, 7(a) small loans, and the New Markets Venture Capital initiative. In
+addition, we are concerned that the Subcommittee has not provided the $233 million in
+contingent emergency funding requested for disaster loans. This funding will ensure SBA that
+can meet the projected demand for the program.
+
+        The Administration will provide additional views on the bill as information becomes
+available. We look forward to working with the Committee to address our mutual concerns.
+
+
+                                            Sincerely,
+
+
+
+                                            Jacob 1. Lew
+                                            Director
+
+                     Identical Letter Sent to The Honorable Ted Stevens,
+                  The Honorable Robert C. Byrd, The Honorable Judd Gregg,
+                            and The Honorable Ernest F. Hollings
+
+
+
+
+                                                           Automated Records Management System
+                                                           Hex-Dump Conversion
+Committee on Appropriations
+United States Senate
+Washington, D.C. 20510
+
+Dear Senator Byrd:
+
+
+
+
+                               Automated Records Management System
+                               Hex-Dump Conversion
+Chainnan
+Subcommittee on Commerce, Justice,
+ State, and Judiciary Appropriations
+Committee on Appropriations
+United States Senate
+Washington, D:C. 20510
+
+Dear Mr. Chainnan:
+
+
+
+
+                                       Automated Records Management System
+                                       Hex-Dump Conversion
+Subcommittee on Commerce, Justice,
+ State, and Judiciary Appropriations
+Committee on Appropriations
+United States Senate
+Washington, D.C. 20510
+
+Dear Senator Hollings:
+
+
+
+
+                                       Automated Records Management System
+                                       Hex-Dump Conversion
+._'   .b
+
+
+

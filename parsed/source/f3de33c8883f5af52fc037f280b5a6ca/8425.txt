@@ -1,0 +1,489 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP [ OPD]     )
+
+CREATION DATE/TIME:25-JUN-1998 17:23:49.00
+
+SUBJECT:   Here's what I propose we send to answer Erskine's questions
+
+TO: Cynthia Dailard   CN=Cynthia Dailard/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO]    )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP    OPD ] )
+READ: UNKNOWN
+
+TEXT:
+This summarizes OMB and Treasury's analyses, and includes an updated side
+by side.  I will fax to Laura the original memos from Gotbaum and Gruber
+should you need them.
+
+Remember, Erskine's note also asked about "what we would need to do to
+change Hatch."
+You may wish to write a cover memo to discuss that, or to send this and
+send a cover memo later.   ==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D96]MAIL49244867B.126 to ASCII,
+ The following is a HEX DUMP:
+
+FF5750434C460100010A020100000002050000006E94010000020000AE9AF6F4EB7FE6D7F9DD75
+F49B9ADCF411E972AB8FODFA14DAB4057BA98F08CF051B09A065034FFB0144FC8C98AAD433A408
+F6CB31529711A2D5704DC7F13DE13809FC71A62D8A58D96B4CADADF36D3F689C5918BOOA8ED196
+A438754816BD6528C7B716130E7568202182043C7AB8F3D3BB2EEDFBBOC35EC2DA3F5F7413CDCA
+88C86348A8248AC52129BC1618CF90A858E64B01FDF40E47DB06B22DIE25D47275AE15900049C8
+162AA08DD05CBC777F40E64A706B65292CBD4902EF4F621503B450D768FBDE20152BF302153AD6
+E47A59BAF8F50BC7F68DDAD5AB227BEA28D9F974E43COEA244DE712FlCF652D981F9FB38E7C2BD
+14E984056D41C1FE4493E78E92D9BDCBB9633A06F3814B2051E51690861927DE02029F21B6395F
+185FA6CD31F21F06E0065383C7D840ABA149170FC7C4724C6D92A24EA140514C38BCBFDC15C9FO
+C3FD9134CE25E2D152FA66A89E44BCCE4DF8B75DF94A5AED33D62B28C8FADCF4CCA22E4E1B133C
+14C53D9C5E5683DA2587B4BC4BD7E70E9106B5340B55D80B9BOB2279D14653D06F08EF78F5948A
+C671BBC6D40E9BAEODB1D4931655D9C66ED826230CABC661FDE4B6538FB874D330447413A10A44
+B582B850B9F982F92536279AE199F17D3007BF41E9C458ECAC1CBE1492EFA33BF8E2DDCE393834
+98DB16095402004100000000000000000000000823010000000B0100008E050000005555000000
+4E0000009906000009250100000006000000E70600000B300800000028000000ED060000087701
+000000400000001507000008340100000014000000550700000802010000000F00000069070000
+081102000000C600000078070000081101000000C60000003E080000081101000000C600000004
+090000081101000000C6000000CA090000081101000000C6000000900A00000140010000001600
+0000560B0000006F010000007C4F00006COB000000700100000053DBOOOOE85A00000066020000
+00020000003B360100006101000000140000003D36010008050100000008000000513601000B30
+010000006COOOOOO~93601000B300100000044000000C53601000B300300000044000000093701
+000B3004000000440000004D3701000B300100000044000000913701000B300100000044000000
+D53701000B30010000005B00000019380100096801000000810100007438010000660200000002
+000000F539010002080100000069000000F739010000610100000014000000603A010002080100
+000078000000743A01000B300A0000004EOOOOOOEC3A0100020800000100690000003A3BOIOOOO
+                                                                              Hex-Olll1lp Conversion
+                                       Review of Hatch Analysis
+
+OMB and the Treasury Dept. disagree with the Hatch's analysis as shown in the table below:
+
+                                               Hatch Estimate                   OMBITreasury Estimate
+                                          (25 year cost, real 1999$)          (25 year cost, real 1999$)
+
+    McCain Base Payment                          $574 billion                        $408 billion
+
+    McCain Lookback Surcharges·                  $132 billion                         $59 billion
+
+    Total McCain                                 $ 706 billion                       $467 billion
+
+    Hatch Base Payment                           $408 billion                        $291 billion
+
+    Hatch Lookback Surcharges                    $204 billion                         $80 billion
+
+    Hatch Total                                  $612 billion                        $371 billion
+
+
+
+· These figures are for the lookback surcharges before the Durbin amendment. With the Durbin amendment, Hatch
+thinks the surcharges raise $236 billion and Treasury thinks they raise $94 billion.
+
+The Hatch analysis overstates the gross payments manufacturers will make by:
+
+·         Confusing real and nominal payments in their comparisons. For example, the equivalent
+          of the proposed settlement's $368 billion and Hatch's $408 billion is $516 billion for
+          McCain, not $574.
+
+·         Ignoring the effects of the volume adjustment and the price cap agreed to by McCain,
+          which would reduce the 25-year payments from $516 billion (in 1999 dollars) to $408
+          billion.
+
+·         Ignoring the fact that net receipts available to the government will be reduced by lost
+          income and excise taxes and other offsets. As a result, it overstates the funds that will be
+          available under the HatchlFeinstein proposal.
+
+With the volume adjustments, OMB believes that Congressional scorekeepers would estimate the
+25-year gross payments as $267 billion for the proposed settlement (64 cents per pack) $291
+billion for Hatch (66 cents per pack) and $408 billion for McCain ($1.10 per pack).
+
+There are several problems with Hatch's analysis oflookback surcharges. The most significant
+is that it assumes that the companies will pay the maximum lookback surcharge and that they
+will do so every year. Both we and CBO/JCT think that is extremely unlikely.
+
+Also attached is a more detailed financial comparison prepared by OMB staff of the Hatch,
+McCain, and proposed settlement (excluding lookback surcharges), as well as a side-be-side
+summarizing the policy provisions of the three proposals.
+                                                                                                                                      ,cX-Dllmp Conversion
+
+                               Comparison ofthe S. 1415, the AG/Company Proposal, and Hatch-Feinstein
+                                                             5-year totals in billions nominal $, except where noted
+
+                                                         Ii 1415                          AGl~2mgaD:i    E!mo2lil l                                  Jji!l~blE!it!n!i1!itID
+                                                                                Min CMI Judgments        Max CMI Judgments              Min Civil Judgments          Max Civil Judgments
+                                                     %             $                  %       $             %            $                %           $                 %         $
+
+Estimated Net Receipts                                                  59                        40                         40                           46                          46
+Uses
+
+   Judgments                                           0%                0            0%          ·0        33%              13             0%             0            36%           17
+
+   States                                            40%                24            66%         27       44%               18           42%             19            27%           12
+
+   Public Health                                     22%                13            25%         10        17%               7           21%             10            13%            6
+
+   Research/NIH                                      22%                13            9%           4         6%               2           20%              9            13%            6
+
+   Farmers                                           16%                 9            0%           0         0%               0           17%              8            11%            5
+
+   Tax Cuts                                            0%               Q.            0%           Q.        0%               Q.           0%             Q.              0%           Q.
+
+                                                   100%                 59       100%             40      100%               40         100%              46          100%            46
+
+Gross Payments (Billions 99$, 25 yrs)                              408                        267                         267                          291                         291
+         % Chango from S. 1415                                                                -35%                                                    ·29%
+
+
+Add'i Cost/Pack in 2003 ( 99$)                                 $1.10                        $0.64                    $0.64                         $0.66                       $0.66
+         % Chango from S. 1415                                                                -42%                                                    ·40%
+
+Assumptions
+  Receipts are based on OMS's estimate of likely CeO/JeT scoring
+  Judgment payments limited to 113 of total and are paid first (AG/Company, Hatch).
+
+  5.1415:
+  Exdudes Gramm. Coverdell. lugar. and Veterans amendments
+  Assumes price caps rising to $1.10 per pack
+
+  AGfTobacco Company:
+  Spending percentage based on Center on e&pp estimates
+
+  HatchlFeinsteln;
+  $46 billion Is spending for the first 5 years: the 25-year stream Is $408 billion
+  $5.5 billion liability cap per year with a liability payment credit
+  Spending for farmers assumes higher payments in the first five years for Lugar.
+  In the maximum liability case, the amount of the liability credit is InCluded in net revenues, gross payments. and cost per pack.
+                                                                  June 25, 1998
+
+
+
+                                McCain                                   Hatch                                  Settlement
+
+Total Payments over 25 Years*   $408 billion (after volume               $291 billion after volume adjustment   $267 billion after volume adjustment
+(real 99$)                      adjustment). Payments continue           (Originally reported as $428.5         ($368.5 billion if no drop in
+                                after 25th year.                         billion, and $408 in bill, but these   consumption). Payments continue
+                                                                         exclude volume adjustment). 25         after 25th year.
+                                                                         years only.
+
+Net Available Receipts*         $59 billion (excludes Gramm,             $47 billion                            $40 billion
+(nominal $ over 5 years).       Coverdell, Lugar and Veterans
+                                amendments)
+
+Price Increase·                 $1.1 0 per pack                          66 cents per pack                      64 cents per pack
+                                -                                                                                                     -
+Lookback Surcharges:
+    Industry                    $40 million for the first five           Years 1-5: $100 million for each       $80 million for each percentage point
+                                percentage points by which the           percentage point missed for the        by which the industry misses the
+                                industry misses the youth smoking        first five points missed, $200         youth smoking reduction target.
+                                reduction target, and $120 million for   million for each percentage point      Penalties are capped at $2 billion
+                                each point missed thereafter.            missed (for 6-10 points missed),       annually.
+                                Penalties are capped at $2 billion.      $300 million for each percentage
+                                (Durbin amendment).                      point missed (for 11 or more points
+                                                                         missed). Surcharges are capped at
+                                                                         $5 billion per year.                                                               ::c   :>
+                                                                                                                                                            '"
+                                                                                                                                                            ~,    S.
+                                                                                                                                                                  0
+                                                                         After year 5: $250 million for each                                                t:l ;3
+                                                                                                                                                            c ~
+                                                                         percentage point missed for the                                                    ;3 (1)
+                                                                                                                                                                  0-
+                                                                                                                                                            '0
+                                                                         first five points missed; $500                                                     n     :;.l
+                                                                                                                                                            0     n>
+                                                                         million for each percentage point                                                  ::>   (")
+                                                                                                                                                                  0
+                                                                                                                                                            <:    ~
+                                                                         missed for 6 points missed or                                                      (1)
+                                                                                                                                                            ;;1   f,7
+                                                                         above. Surcharges are capped at                                                    o·
+                                                                                                                                                            ::>
+                                                                                                                                                                  '<"
+                                                                                                                                                                  ~
+
+
+
+
+                                                                                                                                                                  ~
+                                                                         $10 billion per year.
+
+                                                                         The proposal's so-called                                                                 '"
+                                                                                                                                                                  S(1)
+
+                                                                         "double-counting adjustment" means                                                        a  Vl
+                                                                         that the actual surcharges imposed                                                       '<
+                                                                                                                                                                      ~
+                                                                                                                                                                      (1)
+                                                                                                                                                                      ;3
+                                                                                                                                                        3
+                                                                  are in most years substantially below
+                                                                  the amounts per percentage point
+                                                                  presented (e.g., the effective charge is
+                                                                  about $140 million per point not
+                                                                  $500 million).
+
+                                                                  Companies may have these
+                                                                  surcharges abated if they acted in
+                                                                  good faith and complied with the law.
+
+Lookback Surcharges:      $80 million per percentage point for    None.                                      None.
+   Company Specific       the first 5 percentage points, and
+                          $240 million per percentage point
+                          thereafter. This figure represents
+                          approximately 2.5 times the forgone
+                          profits for the first five percentage
+                          points, and about 7.5 times the
+                          forgone profits for the next 19
+                          percentage points. Penalties are
+                          capped at $5 billion. (Durbin
+                          amendment).
+
+Youth Smoking Reduction   Reduce youth smoking by 67% over        Reduce youth smoking by 60% over           Reduce youth smoking by 60% over
+Targets                   10 years.                               10 years.                                  10 years.
+
+Full FDA Authority        Provides full authority in a separate   Provides authority in a separate title     Provides full authority in the device        ~       ;J>
+                                                                                                                                                                  c
+                          title.                                  with significant limitations. Bill         title. (However, FDA could not ban           6       0
+                                                                  contains many procedural hurdles and
+                                                                  other barriers that would constrain
+                                                                                                             nicotine for 12 years and procedural
+                                                                                                             hurdles such as formal rulemaking
+                                                                                                                                                          13 c..
+                                                                                                                                                         '0
+                                                                                                                                                         ()
+                                                                                                                                                             '"
+                                                                                                                                                             <>  -3
+
+                                                                                                                                                                 :;>::l
+                                                                  FDA's ability to regulate tobacco          requirements would hinder FDA               0       <>
+                                                                                                                                                         :::>    ()
+
+                                                                  products: congressional approval is        activity to modifY tobacco products).       <:
+                                                                                                                                                         <>      ...
+                                                                                                                                                                 0
+
+                                                                  required if FDA wants to reduce                                                        VI     fit-
+                                                                                                                                                         o·     ~
+                                                                  nicotine levels to zero or ban a                                                       :::>
+                                                                                                                                                                §
+                                                                  tobacco product; FDA could not                                                                ~
+                                                                  require manufacturers to modify                                                               <>
+                                                                                                                                                                3
+                                                                  products to make them safer; FDA
+                                                                  would not have premarket approval
+                                                                  authority for new or unconventional
+                                                                                                                                                                -
+                                                                                                                                                                <>
+                                                                                                                                                                :::>
+                                                                                                                                                                en
+                                                                                                                                                                '<
+                                                                                                                                                                g
+                                                                                                                                                                3
+
+                                                                                                                                                     4
+                                                                  products.
+
+Advertising and Access   Codifies advertising and access          Repeals advertising restrictions in       Codifies advertising and access
+Provisions               provisions in the FDA rule and adds      1996 Rule, but includes them in the       provisions in the FDA rule and adds
+                         additional restrictions through a        consent protocol along with the           additional restrictions.
+                         consent protocol.                        additional restrictions contained in
+                                                                  the settlement. (8ecause they are
+                                                                  contained only in the protocol, they
+                                                                  will apply only to manufacturers, but
+                                                                  not to distributors or retailers). The
+                                                                  bili reafflnns the youth access
+                                                                  restrictions, but denies the FDA the
+                                                                  authority to modify them. Denies
+                                                                  FDA the authority to impose civil
+                                                                  monetary penalties for retailer
+                                                                  violations of access restrictions;
+                                                                  provides only for injunctive relief and
+                                                                  criminal penalties.
+
+Protections of Tobacco   Includes Sen. Ford's LEAF Act            Ends the tobacco program along the        None.
+Farmers                  which continues a price support          lines of the Lugar bill, but over a
+                         program and includes compensation .      longer period of time. Provides
+                         (buyout option) for producers ($2.1      $17.35 billion over 7 years ($18.6
+                         billion per year for 10 years; $28.5.    over 25 years) to compensate fanners
+                         billion over 25 years). Also contains    and fund economic development
+                         a competing proposal by Senator          programs.                                                                           ..,..   );.
+                                                                                                                                                      (;"'    c
+                         Lugar to end the tobacco program                                                                                             X       8"
+                         ($18 billion over 3 years for buyout).                                                                                       6
+                                                                                                                                                      c::
+                                                                                                                                                              3
+                                                                                                                                                              ;:>.
+                                                                                                                                                      3       '"
+                                                                                                                                                              a.
+                         $138 over 5 years (22%) before           $6-$108 over 5.                           $7-108 over 5.                            '0
+Public Health
+                                                                                                                                                      .n      ';<l
+                         taking into account Gramm and                                                                                                 0
+                                                                                                                                                      ::l     '"
+                                                                                                                                                              n
+                         Coverdell and Vets amendments                                                                                                <:
+                                                                                                                                                      '"
+                                                                                                                                                              ...
+                                                                                                                                                              0
+
+                                                                                                                                                      !!l.    ~
+                         (even with these amendments,                                                                                                 0       '<"'
+                                                                                                                                                              ~
+                                                                                                                                                      ;:I
+                         probably funding is probably higher                                                                                                  ~
+                         than Hatch, although due to                                                                                                          ~
+                         Coverdell, anti-drug uses compete                                                                                                    '"
+                                                                                                                                                              3
+                         with public health.)                                                                                                                 '"
+                                                                                                                                                              ....
+                                                                                                                                                              ::l
+                                                                                                                                                               en
+                                                                                                                                                              '<
+Research                 $138 over 5 years (22%) before           $6-$98 over 5.                            $2-$48 over 5.                                     ~
+                                                                                                                                                               S
+                                                                                                                                                  5
+                               taking into account Gramm and
+                               Coverdell and Vets amendments                                                      .
+
+                               (even with these amendments,
+                               probably funding is probably higher
+                               than Hatch). Mostly NIH, but
+                               includes CDC/AHCPR.
+
+State Funds                    $24B over 5 before taking into            $13-$19B over 5. Forty percent of a          $18-$27B over 5.
+                               account Gramm and Coverdell and           state's funds are completely                 Umestricted.
+                               Vets amendments (even with these          umestricted. The other sixty percent
+                               amendments, probably funding is           is effectively umestricted, although
+                               probably higher than Hatch). 50%          states must submit a plan showing
+                               restricted to menu of child care and      how they will spend these funds on
+                               other uses.                               cessation and anti-smoking activities.
+
+Environmental Tobacco          Includes provisions to protect against    Includes provisions to protect against       Includes provisions to protect against
+Smoke Provision                environmental tobacco smoke; allows       environmental tobacco smoke. There           environmental tobacco smoke.
+                               states to opt out only if they have       is no Federal enforcement                    Exempts the hospitality industry (e.g.,
+                               state laws that are equally protective.   mechanism, only state enforcement.           bars, restaurants).
+                               Enforcement is by OSHA and civil          The bill exempts bars, but not
+                               actions. Exempts the hospitality          restaurants.
+                               industry (e.g., bars, restaurants).
+
+Liability Protections for
+Industry:
+                                                                                                                                                                    :r:: c:
+                                                                                                                                                                         >-
+   I. Liability Cap            None (Gregg amendment struck the
+                               $8 billion cap).
+                                                                         $5.5 billion per year.                       $5 billion per year.                          <1l
+                                                                                                                                                                    ;.:
+                                                                                                                                                                     ,
+                                                                                                                                                                    t:l 3
+                                                                                                                                                                    c: !!!.
+                                                                                                                                                                           -
+                                                                                                                                                                           0
+
+
+                                                                                                                                                                    3
+                                                                                                                                                                    "0
+                                                                                                                                                                           Cl>
+                                                                                                                                                                           0..
+  2. Bar on Class Actions      None.                                     Yes.                                         Yes.                                           (')
+                                                                                                                                                                     0     ~
+  3. Bar on Punitive Damages   None.                                     Yes.                                         Yes.
+                                                                                                                                                                    :::>
+                                                                                                                                                                    <
+                                                                                                                                                                    <1l
+                                                                                                                                                                           8
+                                                                                                                                                                           ....
+                                                                                                                                                                    ;;!    f;}
+                                                                                                                                                                    o·
+                                                                                                                                                                    :::>
+                                                                                                                                                                            '<'
+  4. Credit Against Base       No.                                       Yes. 80% credit (could be 36% of             Yes. 80% credit.                                     1f
+ Payments                                                                all uses).                                                                                         '"
+                                                                                                                                                                           OQ
+                                                                                                                                                                            <1l
+                                                                                                                                                                            3
+                                                                                                                                                                            -
+                                                                                                                                                                            (1)
+                                                                                                                                                                            :::>
+Antitrust Exemption            No                                        Yes -- limited.                              Yes.
+                                        .
+                                                                                                                                                                            '"
+                                                                                                                                                                           '<
+                                                                                                                                                                            ~
+                                                                                                                                                                            (1)
+Anti-drug Provisions           At their option, states could use their   None.                                        None.                                                 3
+
+
+                                                                                                                                                                6
+                             restricted funds for Substance Abuse
+                             Treatment and Prevention programs
+                             and Safe and Drug Free Schools;
+                             authorizes a number of drug
+                             programs that will compete with
+                             public health funding for
+                             counteradvertising, smoking
+                             cessation, licensing and enforcement
+                             (Coverdell amendment).
+
+Cap on Attorneys' Fees       Set by court, but cannot exceed:         Arbitration panel to determine           None.
+                             $4000 per hour for actions filed         attorneys' fees; total fees subject to
+                             before 12/31/94, $2000 per hour for      cap of 5% of industry payments.
+                             actions filed between 12/31/94 and       Fees to be paid by manufacturers
+                             4/1/97, $1000 per hour for actions       outside of the payments required
+                             filed between 4/1/97 and 6/15/98, and    under the bill.
+                         -
+                             $500 for actions filed after 6/15/98.
+
+Tax Cut                      Gramm amendment would provide            None.                                    None.
+                             tax relief to married couples earning
+                             less than $50,000, and a health
+                             insurance tax cut for the
+                             self-employed. Cost: $16 billion
+                             over 4 years, $30 billion over
+                             following 5 years, and one-third of
+                             tobacco trust fund revenues (plus                                                                         >
+                             other non-tobacco funds) thereafter.                                                                ~     ~
+                                                                                                                                 ,
+                                                                                                                                :><
+                                                                                                                                       0
+                             (If youth smoking targets are met and                                                              t:l    3
+                                                                                                                                c::    !!l.
+                             youth smoking declines by 67% over                                                                 3
+                             the next decade, the tax cut can use a
+                                                                                                                                "d
+                                                                                                                                 ()
+                                                                                                                                       '"
+                                                                                                                                       0..
+                                                                                                                                       ;;>;I
+                             larger share of the tobacco trust fund
+                                                                                                                                0
+                                                                                                                                ::>   0
+                                                                                                                                       '"
+                                                                                                                                       0
+                                                                                                                                <:     ....
+                             dollars.)                                                                                          '"
+                                                                                                                                i!). ~
+                                                                                                                                0
+                                                                                                                                ::>   ...,
+                                                                                                                                      ''''
+                                                                                                                                      ~
+                                                                                                                                      '"
+                                                                                                                                      (JQ
+
+                                                                                                                                      '"
+                                                                                                                                      3
+                                                                                                                                      '"
+                                                                                                                                      ;:t
+                                                                                                                                      C/J
+                                                                                                                                      '<
+                                                                                                                                      ~
+                                                                                                                                      '"
+                                                                                                                                      3
+
+                                                                                                                            7
+
+

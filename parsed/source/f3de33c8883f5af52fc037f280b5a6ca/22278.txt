@@ -1,0 +1,652 @@
+ RECORD TYPE: PRESIDENTIAL   (EXTERNAL MAIL)
+
+ CREATOR: Jason H. Schechter@EOP@LNGTWY@EOPMRX
+
+ CREATION DATE/TIME:14-JAN-1999 12:54:00.00
+
+ SUBJECT: Text of a Letter: Chemical Weapons Report
+
+ TO: l=US                                  ( 1=US@2=WESTERN UNION@5=ATT.COM@*ELN\62955
+ READ:NOT READ
+
+ TO: BARBUSCHAK_K                          ( BARBUSCHAK_K@A1@CD )        (OA)
+ READ:NOT READ
+
+ TO: INFOMGT                               ( INFOMGT@A1@CD)      (SYS)
+ READ:NOT READ
+
+ TO: JOHNSON_WC                            ( JOHNSON_WC@A1@CD )      (OA)
+ READ:NOT READ
+
+  TO: SULLIVAN_M                               SULLIVAN_M@A1@CD )    (WHO)
+. READ: NOT READ
+
+ TO: SUNTUM_M                                  SUNTUM_M@A1@CD)     (WHO)
+ READ:14-JAN-1999 14:13:28.08
+
+ TO: WOZNIAK_N                                 WOZNIAK_N@A1@CD )    (NSC)
+ READ:14-JAN-1999 15:57:38.97
+
+ TO: GRAY_W                                    GRAY_W@A1@CD ) (NSC)
+ READ:NOT READ
+
+ TO: NAPLAN_S                                  NAPLAN_S@A1@CD)     (NSC)
+ READ:NOT READ
+
+ TO: WEINER_R                                  WEINER_R@A1@CD)     (DON)
+ READ: NOT READ
+
+ TO: GRIBBEN_J                             ( GRIBBEN_J@A1@CD )      (WHO)
+ READ:NOT READ
+
+ TO: RILEY_R                                   RILEY_R@A1@CD )   (OA)
+ READ:NOT READ
+
+ TO: tnewell                               ( tnewell@ostp.eop.gov@INET )
+ READ:NOT READ
+
+ TO: HEMMIG_M                              ( HEMMIG_M@A1@CD )      (WHO)
+ READ:NOT READ
+
+ TO: RUNDLET_P                             ( RUNDLET_P@A1@CD )      (WHO)
+ READ:NOT READ
+
+ TO: BUDIG_N                                   BUDIG_N@A1@CD)    (NSC)
+ READ:NOT READ
+
+ TO: meg lynn                              ( meglynn@usia.gov@INET )
+ READ:NOT READ
+
+ TO: Christine A. Stanek                   ( Christine A. Stanek@EOP@LNGTWY@EOPMRX )
+
+
+READ: NOT READ
+
+TO: Lori E. Abrams             ( Lori E. Abrams@EOP@LNGTWY@EOPMRX )
+READ: NOT READ
+
+TO: Anne M. Edwards            ( Anne M. Edwards@EOP@LNGTWY@EOPMRX )
+READ:NOT READ
+
+TO: David E. Kalbaugh          ( David E. Kalbaugh@EOP@LNGTWY@EOPMRX )
+READ:NOT READ
+
+TO: Julie E. Mason             ( Julie E. Mason@EOP@LNGTWY@EOPMRX )
+READ:NOT READ
+
+TO: Elisa Millsap              ( Elisa Millsap@EOP@LNGTWY@EOPMRX)
+READ:NOT READ
+
+TO: Cheryl D. Mills            ( Cheryl D. Mills@EOP@LNGTWY@EOPMRX )
+READ:NOT READ
+
+TO: G. Timothy Saunders        ( G. Timothy Saunders@EOP@LNGTWY@EOPMRX )
+READ:NOT READ
+
+TO: Laura D. Schwartz          ( Laura D.   Schwartz@EOP@LNGTWY@EOPMRX )
+READ:NOT READ
+
+TO: Douglas B. Sosnik          ( Douglas B. Sosnik@EOP@LNGTWY@EOPMRX )
+READ:NOT READ
+
+TO: Todd Stern                 ( Todd Stern@EOP@LNGTWY@EOPMRX )
+READ:NOT READ
+
+TO: Barry J. Toiv              ( Barry J. Toiv@EOP@LNGTWY@EOPMRX )
+READ:NOT READ
+
+TO: Michael Waldman            ( Michael Waldman@EOP@LNGTWY@EOPMRX )
+READ:NOT READ
+
+TO: Dorian V. Weaver           ( Dorian V. Weaver@EOP@LNGTWY@EOPMRX )
+READ:NOT READ
+
+TO: Catherine T. Kitchen       ( Catherine T. Kitchen@EOP@LNGTWY@EOPMRX )
+READ:NOT READ
+
+TO: Brenda M. Anders           ( Brenda M. Anders@EOP@LNGTWY@EOPMRX )
+READ:NOT READ
+
+TO: Richard Socarides          ( Richard Socarides@EOP@LNGTWY@EOPMRX )
+READ:NOT READ
+
+TO: Dag Vega                   ( Dag Vega@EOP@LNGTWY@EOPMRX )
+READ:NOT READ
+
+TO: Barbara D. Woolley         ( Barbara D. woolley@EOP@LNGTWY@EOPMRX )
+READ:NOT READ
+
+TO: Jake Siewert               ( Jake Siewert@EOP@LNGTWY@EOPMRX )
+READ:NOT READ
+
+TO: Cynthia M. Jasso-Rotunno   ( Cynthia M. Jasso-Rotunno@EOP@LNGTWY@EOPMR
+
+
+ READ:NOT READ
+
+ TO: Sara M. Latham          ( Sara M. Latham@EOP@LNGTWY@EOPMRX )
+ READ:NOT READ
+
+ TO: Andrew J. Mayock        ( Andrew J. Mayock@EOP@LNGTWY@EOPMRX )
+ READ:NOT READ
+
+ TO: Beverly J. Barnes       ( Beverly J. Barnes@EOP@LNGTWY@EOPMRX )
+ READ:NOT READ
+
+ TO: Megan C. Moloney        ( Megan C. Moloney@EOP@LNGTWY@EOPMRX )
+ READ:NOT READ
+
+ TO: Laura S. Marcus         ( Laura S. Marcus@EOP@LNGTWY@EOPMRX )
+ READ:NOT READ
+
+ TO: Virginia N. Rustique    ( Virginia N. Rustique@EOP@LNGTWY@EOPMRX )
+ READ:NOT READ
+
+ TO: Thomas D. Janenda       ( Thomas D. Janenda@EOP@LNGTWY@EOPMRX )
+ READ:NOT READ
+
+ TO: Brian D. Smith          ( Brian D. Smith@EOP@LNGTWY@EOPMRX )
+ READ:NOT READ
+
+ TO: Leanne A. Shimabukuro   ( Leanne A. Shimabukuro@EOP@LNGTWY@EOPMRX )
+ READ:NOT READ
+
+ TO: Kim B. Widdess          ( Kim B. Widdess@EOP@LNGTWY@EOPMRX )
+ READ:NOT READ
+
+ TO: 62955104                ( 62955104@eln.attmail.com@inet@LNGTWY@EOPM
+ READ:NOT READ
+
+ TO: backup                  ( backup@wilson.ai.mit.edu@inet@LNGTWY@EOPM
+ READ:NOT READ
+
+ TO: newsdesk                ( newsdesk@usnewswire.com@inet@LNGTWY@EOPMR
+ READ:NOT READ
+
+ TO: usia01                  ( usia01@access.digex.com@inet@LNGTWY@EOPMR
+ READ:NOT READ
+
+ TO: usnwire                 ( usnwire@access.digex.com@inet@LNGTWY@EOPM
+ READ:NOT READ
+
+ TO: Elizabeth R. Newman     ( Elizabeth R. Newman@EOP@LNGTWY@EOPMRX )
+ READ:NOT READ
+
+ TO: Jordan Tamagni          ( Jordan Tamagni@EOP@LNGTWY@EOPMRX )
+ READ:NOT READ
+
+ TO: Kevin S. Moran          ( Kevin S. Moran@EOP@LNGTWY@EOPMRX )
+ READ:NOT READ
+
+ TO: Ashley L. Raines        ( Ashley L. Raines@EOP@LNGTWY@EOPMRX )
+ READ:NOT READ
+
+ TO: Peter A. Weissman       ( Peter A. weissman@EOP@LNGTWY@EOPMRX )
+
+
+ READ:NOT READ
+
+TO: Douglas J. Band            ( Douglas J. Band@EOP@LNGTWY@EOPMRX )
+READ:NOT READ
+
+TO: Edwin R. Thomas III        ( Edwin R. Thomas III@EOP@LNGTWY@EOPMRX )
+READ:NOT READ
+
+TO: Sherman A. Williams        ( Sherman A. Williams@EOP@LNGTWY@EOPMRX )
+READ:NOT READ
+
+TO: William W. McCathran       ( William W. McCathran@EOP@LNGTWY@EOPMRX )
+READ:NOT READ
+
+TO: Julia M. Payne             ( Julia M. Payne@EOP@LNGTWY@EOPMRX
+READ:NOT READ
+
+TO: Robin J. Bachman           ( Robin J. Bachman@EOP@LNGTWY@EOPMRX
+READ:NOT READ
+
+TO: Ruby Shamir                ( Ruby Shamir@EOP@LNGTWY@EOPMRX )
+READ:NOT READ
+
+TO: Nicole R. Rabner           ( Nicole R. Rabner@EOP@LNGTWY@EOPMRX )
+READ:NOT READ
+
+ TO: June Shih                 ( June Shih@EOP@LNGTWY@EOPMRX )
+ READ:NOT READ
+
+TO: Elisabeth Steele           ( Elisabeth Steele@EOP@LNGTWY@EOPMRX )
+READ:NOT READ
+
+TO: Brooks E. Scoville         ( Brooks E. Scoville@EOP@LNGTWY@EOPMRX )
+READ:NOT READ
+
+TO: Neera Tanden               ( Neera Tanden@EOP@LNGTWY@EOPMRX )
+READ:NOT READ
+
+TO: Reuben L. Musgrave Jr.     ( Reuben L. Musgrave Jr.@EOP@LNGTWY@EOPMRX
+READ:NOT READ
+
+TO: Kyle M. Baker              ( Kyle M. Baker@EOP@LNGTWY@EOPMRX )
+READ:NOT READ
+
+TO: Diane Ikemiyashiro         ( Diane Ikemiyashiro@EOP@LNGTWY@EOPMRX )
+READ:NOT READ
+
+TO: Sarah S. Knight            ( Sarah S. Knight@EOP@LNGTWY@EOPMRX )
+READ: NOT READ
+
+TO: Tracy F. Sisser            ( Tracy F. Sisser@EOP@LNGTWY@EOPMRX )
+READ:NOT READ
+
+TO: Woyneab M. Wondwossen      ( Woyneab M. Wondwossen@EOP@LNGTWY@EOPMRX )
+READ:NOT READ
+
+TO: Jeannetta P. Allen         ( Jeannetta P. Allen@EOP@LNGTWY@EOPMRX )
+READ:NOT READ
+
+TO: Judithanne V. Scourfield   ( Judithanne   v.   Scourfield@EOP@LNGTWY@EOPMR
+
+
+ READ:NOT READ
+
+TO: Patrick E. Briggs      ( Patrick E. Briggs@EOP@LNGTWY@EOPMRX )
+READ:NOT READ
+
+ TO: Debra S. Wood         ( Debra S. Wood@EOP@LNGTWY@EOPMRX )
+ READ:NOT READ
+
+ TO: Daniel W. Burkhardt   ( Daniel W. Burkhardt@EOP@LNGTWY@EOPMRX )
+ READ:NOT READ
+
+ TO: Maureen A. Hudson     ( Maureen A. Hudson@EOP@LNGTWY@EOPMRX
+ READ:NOT READ
+
+ TO: Lana Dickey           ( Lana Dickey@EOP@LNGTWY@EOPMRX
+ READ:NOT READ
+
+TO: Carmen B. Fowler       ( Carmen B. Fowler@EOP@LNGTWY@EOPMRX )
+READ:NOT READ
+
+ TO: Jonathan Orszag       ( Jonathan Orszag@EOP@LNGTWY@EOPMRX )
+ READ:NOT READ
+
+TO: Lynn G. Cutler         ( Lynn G. Cutler@EOP@LNGTWY@EOPMRX )
+READ: NOT READ
+
+ TO: Julianne B. Corbett   ( Julianne B. Corbett@EOP@LNGTWY@EOPMRX )
+ READ:NOT READ
+
+TO: Walker F. Bass         ( Walker F. Bass@EOP@LNGTWY@EOPMRX )
+READ:NOT READ
+
+TO: Virginia Apuzzo        ( Virginia Apuzzo@EOP@LNGTWY@EOPMRX )
+READ:NOT READ
+
+TO: Glen M. Weiner         ( Glen M. Weiner@EOP@LNGTWY@EOPMRX )
+READ:NOT READ
+
+TO: Michael V. Terrell     ( Michael V. Terrell@EOP@LNGTWY@EOPMRX )
+READ:NOT READ
+
+TO: Elliot J. Diringer     ( Elliot J. Diringer@EOP@LNGTWY@EOPMRX )
+READ:NOT READ
+
+TO: Nanda Chitre           ( Nanda Chitre@EOP@LNGTWY@EOPMRX )
+READ:NOT READ
+
+TO: Julie_green            ( Julie_green@ed.gov@inet@LNGTWY@EOPMRX )
+READ:NOT READ
+
+TO: Amy Weiss              ( Amy Weiss@EOP@LNGTWY@EOPMRX )
+READ:NOT READ
+
+TO: Melissa M. Murray      ( Melissa M. Murray@EOP@LNGTWY@EOPMRX )
+READ: NOT READ
+
+TO: David S. Beaubaire     ( David S. Beaubaire@EOP@LNGTWY@EOPMRX )
+READ:NOT READ
+
+TO: Lisa J. Levin          ( Lisa J. Levin@EOP@LNGTWY@EOPMRX )
+
+
+ READ:NOT READ
+
+ TO: Phillip Caplan          ( Phillip Caplan@EOP@LNGTWY@EOPMRX )
+ READ:NOT READ
+
+ TO: Katharine Button        ( Katharine Button@EOP@LNGTWY@EOPMRX )
+ READ:NOT READ
+
+ TO: Douglas R. Matties      ( Douglas R. Matties@EOP@LNGTWY@EOPMRX )
+ READ:NOT READ
+
+ TO: Eli G. Attie            ( Eli G. Attie@OVP@LNGTWY@EOPMRX )
+ READ:NOT READ
+
+ TO: wh-outbox-distr         ( wh-outbox-distr@pub.pub.whitehouse.gov@in
+ READ:NOT READ
+
+ TO: Sean P. Maloney         ( Sean P. Maloney@EOP@LNGTWY@EOPMRX )
+ READ:NOT READ
+
+ TO: Marsha Scott            ( Marsha Scott@EOP@LNGTWY@EOPMRX )
+ READ:NOT READ
+
+ TO: Gino J. Del Sesto       ( Gino J. Del Sesto@EOP@LNGTWY@EOPMRX )
+ READ:NOT READ
+
+ TO: Jessica L, Gibson       ( Jessica L. Gibson@EOP@LNGTWY@EOPMRX )
+ READ:NOT READ
+
+ TO: Jodi R. Sakol           ( Jodi R. Sakol@OVP@LNGTWY@EOPMRX )
+ READ:NOT READ
+
+ TO: Linda Ricci             ( Linda Ricci@EOP@LNGTWY@EOPMRX )
+ READ:NOT READ
+
+ TO: Mark D, Neschis         ( Mark D. Neschis@EOP@LNGTWY@EOPMRX )
+ READ:NOT READ
+
+ TO: Jeffrey A, Shesol       ( Jeffrey A.Shesol@EOP@LNGTWY@EOPMRX )
+ READ: NOT READ
+
+ TO: Heather M. Riley        ( Heather M. Riley@EOP@LNGTWY@EOPMRX )
+ READ:NOT READ
+
+ TO: Christa Robinson        ( Christa Robinson@EOP@LNGTWY@EOPMRX )
+ READ:NOT READ
+
+ TO: Jonathan E. Smith       ( Jonathan E. Smith@EOP@LNGTWY@EOPMRX )
+ READ:NOT READ
+
+ TO: 'McGavock D. Reed       ( McGavock D. Reed@EOP@LNGTWY@EOPMRX )
+ READ:NOT READ
+
+ TO: Chandler G. Spaulding   ( Chandler G. Spaulding@EOP@LNGTWY@EOPMRX )
+ READ:NOT READ
+
+ TO: Janelle E. Erickson     ( Janelle E. Erickson@EOP@LNGTWY@EOPMRX)
+ READ: NOT READ
+
+ TO: Delia A. Cohen          ( Delia A. Cohen@EOP@LNGTWY@EOPMRX )
+
+
+ READ: NOT READ
+
+ TO: Emory L. Mayfield      ( Emory L. Mayfield@EOP@LNGTWY@EOPMRX )
+ READ:NOT READ
+
+ TO: Maureen T. Shea        ( Maureen T.   Shea@EOP@LNGTWY@EOPMRX )
+ READ:NOT READ
+
+ TO: Fred DuVal             ( Fred DuVal@EOP@LNGTWY@EOPMRX )
+ READ:NOT READ
+
+ TO: Pubs_Backup            ( Pubs_Backup@VAXGTWY@LNGTWY@EOPMRX )
+ READ:NOT READ
+
+ TO: William C. Haymes      ( William C. Haymes@EOP@LNGTWY@EOPMRX )
+ READ:NOT READ
+
+ TO: Jason H. Schechter     ( Jason H. Schechter@EOP@LNGTWY@EOPMRX )
+ READ:NOT READ
+
+ TO: cmbeach                ( cmbeach@email.msn.com@inet@LNGTWY@EOPMRX
+ READ: NOT READ
+
+ TO: Sheyda Jahanbani       ( Sheyda Jahanbani@EOP@LNGTWY@EOPMRX )
+ READ:NOT READ
+
+ TO: Marty J. Hoffmann      ( Marty J. Hoffmann@EOP@LNGTWY@EOPMRX )
+ READ:NOT READ
+
+ TO: Dorinda A. Salcido     ( Dorinda A. Salcido@EOP@LNGTWY@EOPMRX )
+ READ:NpT READ
+
+ TO: dmilbank               ( dmilbank@tnr.com@LNGTWY@EOPMRX )
+ READ:NOT READ
+
+ TO: Julie B. Goldberg      ( Julie B. Goldberg@EOP@LNGTWY@EOPMRX )
+ READ:NOT READ
+
+ TO: Sarah E. Gegenheimer   ( Sarah E. Gegenheimer@EOP@LNGTWY@EOPMRX )
+ READ:NOT READ
+
+TO: Roger V. Salazar        ( Roger V.   Salazar@EOP@LNGTWY@EOPMRX )
+READ:NOT READ
+
+TO: kyle.mckinnon           ( kyle.mckinnon@kcrw.org@LNGTWY@EOPMRX )
+READ:NOT READ
+
+ TO: Thomas M. Rosshirt     ( Thomas M. Rosshirt@OVP@LNGTWY@EOPMRX )
+ READ:NOT READ
+
+TO: Minyon Moore            ( Minyon Moore@EOP@LNGTWY@EOPMRX )
+READ:NOT READ
+
+TO: Charles M. Brain        ( Charles M. Brain@EOP@LNGTWY@EOPMRX
+READ:NOT READ
+
+TO: Daria J. Gomez          ( Dario J. Gomez@EOP@LNGTWY@EOPMRX
+READ:NOT READ.
+
+TO: carolyn T' Wu           ( Carolyn T. Wu@EOP@LNGTWY@EOPMRX )
+
+
+ READ:NOT READ
+
+ TO: Gregory B. Craig     ( Gregory B. Craig@EOP@LNGTWY@EOPMRX )
+ READ:NOT READ
+
+ TO: Edward F. Hughes     ( Edward F. Hughes@EOP@LNGTWY@EOPMRX )
+ READ: NOT READ
+
+ TO: Christopher Ferris   ( Christopher Ferris@EOP@LNGTWY@EOPMRX )
+ READ:NOT READ
+
+ TO: Rajiv Y. Mody        ( Rajiv Y. Mody@EOP@LNGTWY@EOPMRX )
+ READ:NOT READ
+
+ TO: Robin Leeds          ( Robin Leeds@EOP@LNGTWY@EOPMRX )
+ READ: NOT READ
+
+ TO: Deborah B. Mohile    ( Deborah B. Mohile@EOP@LNGTWY@EOPMRX )
+ READ:NOT READ
+
+ TO: Sondra L. Seba       ( Sondra ·L. Seba@EOP@LNGTWY@EOPMRX )
+ READ:NOT READ
+
+ TO: Tania I. Lopez       ( Tania I. Lopez@EOP@LNGTWY@EOPMRX )
+ READ:NOT READ
+
+ TO: Maritza Rivera       ( Maritza Rivera@EOP@LNGTWY@EOPMRX )
+ READ:NOT READ
+
+ TO: Ilia V. Velez        ( Ilia V. Velez@EOP@LNGTWY@EOPMRX )
+ READ:NOT READ
+
+ TO: Victoria A. Lynch    ( Victoria A. Lynch@EOP@LNGTWY@EOPMRX )
+ READ:NOT READ
+
+ TO: Jena V. Roscoe       ( Jena V. Roscoe@EOP@LNGTWY@EOPMRX )
+ READ:NOT READ
+
+ TO: Cheryl M. Carter     ( Cheryl M. Carter@EOP@LNGTWY@EOPMRX )
+ READ:NOT READ
+
+ TO: Jocelyn A. Bucaro    ( Jocelyn A. Bucaro@EOP@LNGTWY@EOPMRX )
+ READ:NOT READ
+
+ TO: Kelley L. O'Dell     ( Kelley L. O'Dell@EOP@LNGTWY@EOPMRX )
+ READ:NOT READ
+
+ TO: Jonathan M. Young     Jonathan M. Young@EOP@LNGTWY@EOPMRX )
+ READ:NOT READ
+
+ TO: Jackson T. Dunn      ( Jackson T. Dunn@EOP@LNGTWY@EOPMRX )
+ READ:NOT READ
+
+ TO: Robert B. Johnson    ( Robert B. Johnson@EOP@LNGTWY@EOPMRX )
+ READ:NOT READ
+
+ TO: Jon P. Jennings      ( Jon P. Jennings@EOP@LNGTWY@EOPMRX )
+ READ:NOT READ
+
+ TO: Charles H. Cole      ( Charles H. Cole@EOP@LNGTWY@EOPMRX )
+
+
+ READ:NOT READ
+
+ TO: drosen                 ( drosen@newsweek.com@LNGTWY@EOPMRX )
+ READ:NOT READ
+
+TO: Jennifer Ferguson       ( Jennifer Ferguson@EOP@LNGTWY@EOPMRX )
+READ:NOT READ
+
+TO: Maya Seiden             ( Maya Seiden@EOP@LNGTWY@EOPMRX )
+READ:NOT READ
+
+TO: Joshua S. Gottheimer    ( Joshua S. Gottheimer@EOP@LNGTWY@EOPMRX )
+READ:NOT READ
+
+TO: Carrie A. Street        ( Carrie A. Street@EOP@LNGTWY@EOPMRX )
+READ:NOT READ
+
+TO: mhall                   ( mhall@usatoday.com@LNGTWY@EOPMRX )
+READ:NOT READ
+
+TO: spage                   ( spage@usatoday.com@LNGTWY@EOPMRX )
+READ:NOT READ
+
+TO: bnichols                ( bnichols@usatoday.com@LNGTWY@EOPMRX )
+READ:NOT READ
+
+TO: Paul D. Glastris        ( Paul D. Glastris@EOP@LNGTWY@EOPMRX )
+READ:NOT READ
+
+TO: Maria E. So to          ( Maria E. Soto@EOP@LNGTWY@EOPMRX )
+READ:NOT READ
+
+TO: Alejandro G. Cabrera    ( Alejandro G. Cabrera@OVP@LNGTWY@EOPMRX )
+READ:NOT READ
+
+TO: Christopher K. Scully   ( Christopher K. Scully@EOP@LNGTWY@EOPMRX )
+READ: NOT READ
+
+TO: JOHN.LONGBRAKE          ( JOHN.LONGBRAKE@MS01.DO.treas.sprint.com@L
+READ:NOT READ
+
+TO: kara.gerhardt           ( kara.gerhardt@ost.dot.gov@LNGTWY@EOPMRX )
+READ:NOT READ
+
+TO: Mindy E. Myers          ( Mindy E. Myers@EOP@LNGTWY@EOPMRX )
+READ:NOT READ
+
+TO: Larry.mcquillan         ( Larry.mcquillan@reuters.com@LNGTWY@EOPMRX
+READ:NOT READ
+
+TO: Deborin                 ( Deborin@aol.com@LNGTWY@EOPMRX )
+READ:NOT READ
+
+TO: Jonathan A. Kaplan      ( Jonathan A. Kaplan@EOP@LNGTWY@EOPMRX )
+READ:NOT READ
+
+TO: Karen Tramontano        ( Karen Tramontano@EOP@LNGTWY@EOPMRX )
+READ:NOT READ
+
+TO: Skye S. Philbrick       ( Skye S. Philbrick@EOP@LNGTWY@EOPMRX )
+
+
+ READ:NOT READ
+
+TO: Toby C. Graff              ( Toby C. Graff@EOP@LNGTWY@EOPMRX )
+READ:NOT READ
+
+TO: Samuel o. Spencer          ( Samuel O. Spencer@EOP@LNGTWY@EOPMRX )
+READ:NOT READ
+
+ TO: Caroline R. Fredrickson   ( Caroline R. Fredrickson@EOP@LNGTWY@EOPMRX
+ READ:NOT READ
+
+TO: Matthew J. Bianco          ( Matthew J. Bianco@EOP@LNGTWY@EOPMRX )
+READ:NOT READ
+
+TO: Nancy.mathis               ( Nancy.mathis@chron.com@LNGTWY@EOPMRX )
+READ:NOT READ
+
+TO: Matt Gobush                ( Matt Gobush@EOP@LNGTWY@EOPMRX )
+READ:NOT READ
+
+ TO: James.gerstenzang         ( James.gerstenzang@latimes.com@LNGTWY@EOPM
+ READ:NOT READ
+
+TO: IGCP                       ( IGCP@usia.gov@LNGTWY@EOPMRX )
+READ:NOT READ
+
+ TO: Evan Ryan                 ( Evan Ryan@EOP@LNGTWY@EOPMRX )
+ READ:NOT READ
+
+ TO: rsimoncol                 ( rsimoncol@aol.com@LNGTWY@EOPMRX )
+ READ:NOT READ
+
+ TO: Brian S. Mason            ( Brian S. Mason@EOP@LNGTWY@EOPMRX )
+ READ:NOT READ
+
+ TO: Stacie Spector            ( Stacie Spector@EOP@LNGTWY@EOPMRX )
+ READ:NOT READ
+
+ TO: Joseph C. Fanaroff        ( Joseph C. Fanaroff@EOP@LNGTWY@EOPMRX )
+ READ:NOT READ
+
+ TO: Matthew w. Pitcher        ( Matthew W. Pitcher@EOP@LNGTWY@EOPMRX )
+ READ:NOT READ
+
+ TO: David R. Goodfriend       ( David R. Goodfriend@EOP@LNGTWY@EOPMRX )
+ READ:NOT READ
+
+ TO: photo                     ( photo@upi.com@LNGTWY@EOPMRX )
+ READ:NOT READ
+
+ TO: kenneth. prewitt          ( kenneth.prewitt@ccMail.census.gov@LNGTWY@
+ READ:NOT READ
+
+ TO: Eli P. Joseph             ( Eli P. Joseph@EOP@LNGTWY@EOPMRX )
+ READ:NOT READ
+
+ TO: Jeffrey M. Smith          ( Jeffrey M. Smith@EOP@LNGTWY@EOPMRX )
+ READ:NOT READ
+
+ TO: David Y. Stevens          ( David Y. Stevens@EOP@LNGTWY@EOPMRX )
+
+
+      READ:NOT READ
+
+      TO: Neal Sharma                         ( Neal Sharma@EOP@LNGTWY@EOPMRX )
+      READ:NOT READ
+
+      TO: *@krwashington.com>@LNGTWY@EOPMRX
+      READ: NOT READ
+
+      TO: Jeffrey L. Farrow                   ( Jeffrey L. Farrow@EOP@LNGTWY@EOPMRX )
+      READ:NOT READ
+
+      TO: marhast                             ( marhast@aol.com@inet@LNGTWY@EOPMRX )
+      READ:NOT READ
+
+      TO: cafernandez                         ( cafernandez@efeamerica.com@inet@LNGTWY@EO
+      READ: NOT READ
+
+      TO: mpena                               ( mpena@efeamerica.com@inet@LNGTWY@EOPMRX )
+      READ:NOT READ
+
+      TO: gsalomon                            ( gsalomon@herald.com@inet@LNGTWY@EOPMRX )
+      READ:NOT READ
+
+      TO: mgarcia                             ( mgarcia@pacifica.org@inet@LNGTWY@EOPMRX )
+      READ:NOT READ
+
+      TO: info                                ( info@elsoldetexas.com@inet@LNGTWY@EOPMRX
+      READ:NOT READ
+
+      TO: durph                               ( durph@aol.com@inet@
+
+

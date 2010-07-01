@@ -1,0 +1,352 @@
+                RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+                CREATOR: Sandra Yamin ( CN=Sandra YaminjOU=OMBjO=EOP [ OMB 1 )
+
+                CREATION DATEjTIME:11-JUN-1999 12:49:17.00
+
+                 SUBJECT:   FINAL CLEARANCE -- Draft SAP -- S. 1186 EnergyjWater Approprations, FYOO
+
+                TO: Karen Tramontano ( CN=Karen TramontanojOU=WHOjO=EOP@EOP [ WHO 1 )
+                READ:UNKNOWN
+
+                TO: Steve Ricchetti ( CN=Steve RicchettijOU=WHOjO=EOP@EOP [ WHO 1 )
+                READ: UNKNOWN
+
+                TO: George T. Frampton ( CN=George T. FramptonjOU=CEQjO=EOP@EOP [ CEQ 1 )
+                READ: UNKNOWN
+
+                TO: Maria Echaveste ( CN=Maria EchavestejOU=WHOjO=EOP@EOP [ WHO 1 )
+                READ: UNKNOWN
+
+                TO: Todd Stern ( CN=Todd SternjOU=WHOjO=EOP@EOP [ WHO 1 )
+                READ: UNKNOWN
+
+                TO: Wesley P. Warren ( CN=Wesley P. WarrenjOU=CEQjO=EOP@EOP [ CEQ 1 )
+                READ:UNKNOWN
+
+                TO: Ron Klain ( CN=Ron KlainjO=Ovp@OVP [ UNKNOWN 1 )
+                READ:UNKNOWN
+
+                TO: Elena Kagan ( CN=Elena KaganjOU=OPDjO=EOP@EOP [ OPD 1 )
+                READ:UNKNOWN
+
+                TO: Gene B. Sperling ( CN=Gene B. SperlingjOU=OPDjO=EOP@EOP [ OPD 1 )
+                READ:UNKNOWN
+
+                TO: Lynn G. Cutler ( CN=Lynn G. CutlerjOU=WHOjO=EOP@EOP [ WHO 1 )
+                READ: UNKNOWN
+
+                TO: Ann F. Lewis ( CN=Ann F. LewisjOU=WHOjO=EOP@EOP [ WHO 1 )
+                READ:UNKNOWN
+
+                TO: Miles M. Lackey ( CN=Miles M. LackeyjOU=NSCjO=EOP@EOP [ NSC,l   )
+                READ:UNKNOWN
+
+                TO: Bruce N. Reed ( CN=Bruce N. ReedjOU=OPDjO=EOP@EOP [ OPD 1 )
+                READ:UNKNOWN
+
+                TO: Michelle Peterson ( CN=Michelle'PetersonjOU=WHojO=EOP@EOP [ WHO     1 )
+                READ: UNKNOWN
+
+                TO: Jeffrey M. Smith ( CN=Jeffrey M. SmithjOU=OSTPjO=EOP@EOP [ OSTP 1 )
+                READ: UNKNOWN
+
+                TO: Joshua Gotbaum ( CN=Joshua GotbaumjOU=OMBjO=EOP@EOP [ OMB 1 )
+                READ:UNKNOWN
+
+                TO: Martha Foley ( CN=Martha FoleyjOU=WHOjO=EOP@EOP [ WHO 1 )
+                READ: UNKNOWN
+
+                TO: Sally Katzen ( CN=Sally KatzenjOU=OPDjO=EOP@EOP [ OPD 1 )
+
+
+READ: UNKNOWN
+
+TO: John Podesta ( CN=John Podesta/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Wendy E. Gray ( CN=Wendy E. Gray/OU=NSC/O=EOP@EOP [ NSC 1 )
+READ:UNKNOWN
+
+CC: Courtney    o.   Gregoire ( CN=Courtney   o.   Gregoire/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ:UNKNOWN
+
+CC: James J. Jukes ( CN=James J. Jukes/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+CC: Sandra Yamin ( CN=Sandra Yamin/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ:UNKNOWN
+
+CC: William G. Dauster ( CN=william G. Dauster/OU=OPD/O=EOP@EOP [ OPD          1 )
+READ: UNKNOWN
+
+CC: Dawn L. Smalls ( CN=Dawn L. Smalls/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Linda Ricci      ( CN=Linda Ricci/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ:UNKNOWN
+
+CC: Rebecca L. Walldorff ( CN=Rebecca L. Walldorff/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+CC: Robert L. Nabors      ( CN=Robert L. Nabors/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+CC: Paul J. weinstein Jr.      ( CN=Paul J. Weinstein Jr./OU=OPD/O=EOP@EOP [ OPD 1 )
+READ:UNKNOWN
+
+CC: Lisa Zweig ( CN=Lisa Zweig/OU=OMB/O=EOP@EOP [ OMB          J )
+READ: UNKNOWN
+
+CC: Shannon Mason ( CN=Shannon Mason/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ:UNKNOWN
+
+CC: Mindy E. Myers      ( CN=Mindy E. Myers/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+CC: Michele Ballantyne ( CN=Michele Ballantyne/OU=WHO/O=EOP@EOP [ UNKNOWN 1 )
+READ: UNKNOWN
+
+CC: Mara E. Rudman ( CN=Mara E. Rudman/OU=NSC/O=EOP@EOP [ UNKNOWN 1 )
+READ:UNKNOWN
+
+CC: Adrienne C. Erbach ( CN=Adrienne C. Erbach/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+CC: Carolyn T. Wu ( CN=Carolyn T. Wu/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+CC: Leslie Bernstein ( CN=Leslie Bernstein/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+CC: Lisa M. Kountoupes      ( CN=Lisa M. Kountoupes/OU=WHO/O=EOP@EOP [ WHO 1 )
+
+
+READ: UNKNOWN
+
+CC: Mark J. Tavlarides ( CN=Mark J. Tavlarides/OU=NSC/O=EOP@EOP [ NSC 1 )
+READ: UNKNOWN
+
+CC: Victoria A. wachino ( CN=Victoria A. Wachino/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ:UNKNOWN
+
+CC: Peter A. Weissman ( CN=Peter A. Weissman/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+CC: Judy Jablow ( CN=Judy Jablow/OU=CEQ/O=EOP@EOP [ CEQ 1 )
+READ: UNKNOWN
+
+CC: Elizabeth Gore ( CN=Elizabeth Gore/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+CC: Melissa G. Green ( CN=Melissa G. Green/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+CC: Charles E. Kieffer ( CN=Charles E. Kieffer/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TEXT:
+Attached below for your review and sign-off is a final draft SAP for S.
+1186 -- Energy/Water Development Appropriations Bill, FYOO.   S. 1186 is
+scheduled for Senate floor consideration on Monday, June 14. We would
+appreciate your comments and sign-off by 3:00PM' Today. Thank you!
+
+
+Draft 6/11 12:45PM
+
+June     , 1999
+
+(Senate Floor)
+
+
+
+
+S. 1186 -- ENERGY AND WATER DEVELOPMENT
+APPROPRIATIONS BILL, FY 2000
+(Sponsors:  Stevens (R), Alaska; Domenici (R), New Mexico)
+
+
+        This Statement of Administration Policy provides the
+Administration's views on S. 1186, the Energy and Water Development
+Appropriations Bill, FY 2000, as reported by the Senate Appropriations
+Committee.   Your consideration of the Administration's views would be
+appreciated.
+
+        The allocation of discretionary resources available to the Senate
+under the Congressional Budget Resolution is simply inadequate to make the
+necessary investments that our citizens need and expect.  The President~,s
+FY 2000 Budget proposes levels of discretionary spending that meet such
+needs while conforming to the Bipartisan Budget Agreement by making
+savings proposals in mandatory and other programs available to help
+finance this spending.  Congress has approved and the President has signed
+into law nearly $29 billion of such offsets in appropriations legislation
+since 1995. The Administration urges the Congress to consider such
+
+
+proposals.
+
+        The Administration appreciates efforts by the Senate
+Appropriations Committee to accommodate certain of the President's
+priorities within the 302(b) allocation. However, the Senate bill is
+nearly $200 million below the program level requested by the President and
+includes significant reductions in a number of high priority programs.
+These concerns are discussed below.
+
+Department of Energy
+
+        The Administration is concerned with the large shift in the
+Committee bill from key domestic priorities of the Department of Energy
+(DOE) to fund Atomic Energy Defense Activities. The bill provides $267
+million less than the President's request for DOE's domestic programs and
+adds $261 million to the President's request for defense activities ($619
+million more than the FY 1999 enacted level, excluding a one-time
+emergency supplemental appropriation). The bill would significantly
+reduce vital programs in energy research and other activities to fund
+unrequested enhancements to nuclear weapons and other defense activities
+and are also not related to counterintelligence and security concerns.
+
+
+
+
+Specific cuts include:
+
+DO      ab      Solar and Renewable Energy. The Administration
+strongly opposes the $98 million reduction from the President's request
+for research and development (R&D) in solar and renewable resources
+technologies (including the use of $6 million of carryover balances, thus
+reducing the total appropriation). The Committee mark would severely
+cripple both Administration efforts to accelerate the introduction of
+critical renewable energy technologies as well as important R&D efforts to
+make these clean energy sources more affordable.
+
+DO      abEnvironmental Management. The Administration opposes the $40
+million reduction to the Uranium Enrichment Decontamination and
+Decommissioning Fund. At the Committee-recommended funding levels, the
+Department would be unable to meet requirements for activities at Oak
+Ridge, as well as ongoing cleanup activities at Portsmouth, Ohio, and
+Paducah, Kentucky, uranium enrichment facilities.
+
+DO      abScience. The Administration opposes the $27 million reduction
+to the request for construction of the Spallation Neutron Source (SNS).
+We continue to believe that the FY 2000 request represents the optimum
+funding level. As the funding level decreases, the risk of project cost
+increases and delays rises.  Construction of the SNS must be completed in
+a timely manner to enable our best scientists to explore critical problems
+in fundamental science and applications for our materials and
+biotechnology industries.
+
+Further, the Administration opposes the lack of funding in the bill for
+the Information Technology Initiative for the 21st Century and for the
+Next Generation Internet Initiative. Both of these initiatives would
+propel revolutionary breakthroughs in information technology and
+scientific computing in the United States.
+
+In addition, the Administration regrets that the Committee has not
+
+
+restored the funding required to complete the final phase of activities at
+the Bates Laboratory at the Massachusetts Institute of Technology.
+
+00      abDepartmental Administration. The Administration opposes the
+reductions in Departmental Administration programs.  The redu~tions would
+impair implementation of Secretarial management initiatives now underway
+to restructure field management, reorganize security functions, enforce
+reductions in contractor travel and other overhead costs, and improve
+construction management.
+
+
+
+
+00      abYucca Mountain. The Administration opposes the reduction of
+$54 million from the request for the civilian radioactive waste program.
+This reduction would threaten planned scientific, engineering, and design
+work essential to finalizing the Yucca Mountain repository design.  This
+work is necessary to guide DOE's FY 2001 site suitability determination
+for Yucca Mountain.  Reductions in funding for this work would jeopardize
+DOE's ability to meet its FY 2002 license application milestone if the
+site is found to be suitable. The proposed reduction would also reduce
+the Departmento,s ability to provide a remedy for its 1998 waste acceptance
+obligations, which are currently in litigation.
+
+Power Marketing Administration
+
+        The Administration is disappointed that the Committee has not
+accepted the Administration's proposal to revise the financing of the
+Power Marketing Administration's Purchase Power and Wheeling programs.
+The Administration would like to continue to work with the Senate to
+restructure the funding mechanism for these programs.
+
+Stockpile Stewardship
+
+        The Administration believes it is premature for the bill to
+include provisions for a realignment of the facilities and missions of the
+Departmento,s National Laboratories and facilities in support of the
+Stockpile Stewardship program. The Department has begun initial studies
+of possible realignments and will work with Congress as soon as the
+Administration has completed its analysis. No major action can be taken
+to implement such a plan until appropriate studies are completed,
+including revisions to the Programmatic Environmental Impact Statement on
+Stockpile Stewardship and Management.
+
+Army Corps of Engineers
+
+        The Administration strongly objects to a provision in the
+Regulatory Program appropriation that would short-circuit the review
+process for wetlands jurisdictional determinations by making the review of
+these initial decisions appealable to the Federal courts prior to a final
+permit decision. Although the Administration supports the creation of an
+administrative review process for these determinations, the bill would
+generate unnecessary and premature litigation, set back efforts to ensure
+a fair and amicable resolution of potential disputes, and undermine the
+ability of citizens and communities to participate on an equal footing in
+the permit process.
+.   ,
+
+
+
+
+                The Administration is concerned that the $145 million reduction to
+        the President's request (not including rescissions) for the Army Corps of
+        Engineers would result in significant delays for certain critical
+        construction projects. Of particular concern are reductions from the
+        request to the Columbia River Fish Mitigation project, from $100 million
+        to $70 million; the Everglades (FL) project, from $110 million to $92
+        million; and, the Kill Van Kull and Newark Bay Channel (NY, NJ) project,
+        from $60 million to $40 million.  In addition, the Administration opposes
+        the bill's prohibitions against studying drawdown of John Day and McNary
+        dams.  These prohibitions could hamper the objective analysis necessary to
+        formulate Columbia and Snake River salmon recovery plans.
+
+                We also urge Congress to enact the AdministrationD,s Harbor
+        Services Fund proposal, which would provide a stable source of funding for
+        port and harbor activities and free up funds for priority projects and
+        programs.  If the Administration's Harbor Services Fund proposal is not
+        adopted, then we urge Congress to fund port and harbor operation and
+        maintenance activities from the existing Harbor Maintenance Trust Fund
+        with the user revenues collected specifically for that purpose, rather
+        than from the general fund as proposed by the Committee.
+
+        Bureau of Reclamation
+
+                The Committee proposal to reduce the Bureau of Reclamation budget
+        by $95 million, or 11 percent, would significantly affect the BureauD,s
+        ability to continue to operate its water supply projects throughout the
+        West while complying with relevant Federal laws. The Administration urges
+        the Senate to restore these funds.
+
+                In particular, we urge the Senate to fully fund the $95 million
+        request for the CALFED Bay-Delta program.   The Committee's $45 million
+        reduction and accompanying funding restrictions would delay Federal and
+        State efforts to restore this important ecosystem.
+
+            In addition, we urge the Senate to enact the Administration's
+    proposal to convert the Central Valley Project Restoration Fund from a
+    current discretionary to a permanent account. This will allow the Bureau
+    of Reclamation to operate the program efficiently and ensure that all the
+    authorized collections from project beneficiaries are used to mitigate
+    project impacts, as intended by the Central Valley Project Improvement
+    Act.
+
+        *******
+
+

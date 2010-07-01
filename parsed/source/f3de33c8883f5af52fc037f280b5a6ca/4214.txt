@@ -1,0 +1,239 @@
+RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+CREATOR: Jerold R. Mande ( CN=Jerold R. Mande/OU=OSTP/O=EOP [ OSTP 1
+
+CREATION DATE/TIME: 9-SEP-1997 12:55:13.00
+
+SUBJECT:   Re: New lookback scenerios
+
+TO: Elena Kagan     CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TEXT:
+Here are the latest penalties scenerios that you requested.
+---------------------- Forwarded by. Jerold R. Mande/OSTP/EOP on 09/09/97
+12:53 PM ---------------------------
+
+
+
+
+Patrick G. Locke
+09/09/97 12:48:11 PM
+Record Type:     Record
+
+To:      Jerold R. Mande/OSTP/EOP
+cc:      joseph j. minarik/omb/eop, Hugh T. Connelly/OMB/EOP, Susanne D.
+Lind/OMB/EOP
+Subject:         Re: New lookback scenerios
+
+Here are the new scenarios you asked for.  All the scenarios assume that
+the BBA excise tax credit is repealed.  For each of the three teen
+surcharge variants, I have run one version where teen consumption responds
+only to the deal's price increases, and a second version where the deal's
+nonprice provisions cause a 30% reduction in teen smoking on top of the
+price effect.
+
+Note that with tier 1 of the surcharge specified as nondeductible, there
+is now an increase in corporate income taxes in all the scenarios. The
+assumption is that in addition to passing through the surcharge, the
+companies tack on a further price increase that allows them to pay taxes
+on the surcharge payments and preserve the same profits as they would
+otherwise have booked.
+
+I have not done any modeling of the "brand by brand" concept for the
+surcharge. Without more data on differential marketing to teens across
+firms, I have no way to model this right now.
+
+Because the excise tax increases in tier 2 of the youth surcharge are
+buried in the spreadsheet files, I'm showing them in the table below.
+With a 30% nonprice effect, tier 2 of the surcharge doesn't kick in until
+year 10. Otherwise, you get fairly hefty excise taxes starting in year 5.
+
+                                                 Year 5    Year 7   Year 10
+
+Noncumulative excise tax above 5/10/15
+       Price effects only                         21       31       35
+       30% nonprice effect                             o        o
+5
+
+
+
+Cumulative excise tax above 5/10/15
+        Price effects only                       21       52       83
+        30% nonprice effect                           o        o
+5
+
+Noncumulative excise tax above 10/10/10
+       Price effects only                        16       32       40
+       30% nonprice effect                            o        o   10
+
+Here are the files for the noncumulative excise tax above 5/10/15
+percentage points.  The first file (tobac13.wk4) is price effects only;
+the second file (tobac13n.wk4) has the 30% nonprice effect.
+
+
+
+Here are the files for the cumulative excise tax above 5/10/15 percentage
+points.
+
+
+
+Here are the files for the noncumulative excise tax above 10/10/10
+percentage points.
+
+
+
+
+==================== ATTACHMENT 1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D69]MAIL41603515S.216 to ASCII,
+ The following is a HEX DUMP:
+
+00001A000210040000000000C80005FEC5002000010AOOOOOOOOOOOOOOOOlF0008000000013000
+0033001F0008000001013004001DOOIF0008000002013004002200IF0008000003013004002200
+IF00080000040130040022001F00080000050130040022001F00080000060130040030001F0008
+0000070130040023001F00080000080130040023001F00080000090130040023001F000800000A
+0130040023001F000800000B0130040023001F000800000C013004001DOOIF000800000D013004
+OOlDOOIF000800000E013000001DOOIF0008000100013000004COOIF0008000101013004003AOO
+IF0008000102013004003AOOlF0008000103013004003AOOlF0008000104013004003AOOIF0008
+OOOl05013004003AOOIF0008000106013004003AOOIF0008000107013004003AOOIF0008000108
+013004003AOOIF0008000109013004003AOOIF000800010A013004003AOOIF000800010B013004
+003AOOIF000800010C013004003AOOIF000800010D013000003AOOIF000800010E013000003AOO
+IF000800020001300000B8001F000800020101300300B8001F000800020201300300B8001F0008
+00020301300300B8001F000800020401300300BDOOIF000800020501300300BDOOIF0008000206
+01300300BDOOIF000800020701300300BDOOIF0008000208013003OOBDOOIF0008000209013003
+OOBDOOIF000800020A01300300BDOOIF000800020B01300300BDOOIF000800020C01300300BDOO
+IF000800020D01300300BDOOIF000800020E01300300BDOOIF000800020F01300300B8001F0008
+00021001300300B8001F000800021101300300B8001F000800021201300300B8001F0008000213
+01300300BBOOIFOOOB00021401300300BBOOIFOOOB000215013003OOBBOOIFOOOB000216013003
+OOB8001FOOOB00021701300300B8001FOOOB00021801300300BBOOIF000800021901300300B800
+IF000800021A01300300B8001F000800021B01300300B8001F000800021C01300300B8001F0008
+00021D01300300B8001F000800021E01300300B5001F000800021F013do3007BOOIF0008000220
+013000007BOOIFOOOB000221013003007BOOIFOOOB000300013000007BOOIF0008000301013003
+003FOOIFOOOB000302013003003FOOIF0008000303013003003FOOIF0008000304013003007BOO
+IFOOOB0003050130030078001F0008000306013003007BOOIF0008000307013003007AOOIF0008
+000308013003007AOOIF0008000309013003007BOOIF000800030A013003007BOOIF000800030B
+013003007BOOIF000800030C013003007BOOIF000800030D013003007BOOIF000800030E013000
+007BOOIF000800030F0130030070001F0008000310013003007000IF0008000311013003007000
+
+
+
+      Clinton Presidential Records
+    Automated Records Management
+            System [EMAIL]
+    This is not a presidential record. This is used as an
+ administrative marker by the William J. Clinton Presidential
+                        Librarv Staff.
+
+
+
+Hex Dump file is not in a recognizable format, has been incorrectly
+                      decoded or is damaged.
+
+
+
+
+Attachment Number: [AITACH.D69]MAIIA1603515S.216
+
+
+
+      Clinton Presidential Records
+    Automated Records Management
+            System [EMAIL]
+    This is not a presidential record. This is used as an
+ administrative marker by the William J. Clinton Presidential
+                        Librarv Staff.
+
+
+
+Hex Dump file is not in a recognizable format, has been incorrectly
+                      decoded or is damaged.
+
+
+
+
+Attachment Number: [ATTACH.D69]MAIL42803S1ST.216
+
+
+
+      Clinton Presidential Records
+    Automated Records Management
+            System [EMAIL]
+    This is not a presidential record. This is used as an
+ administrative marker by the William J. Clinton Presidential
+                        Librarv Staff.
+
+
+
+Hex Dump file is not in a recognizable format, has been incorrectly
+                      decoded or is damaged.
+
+
+
+
+Attachment Number: [ATTACH.D69]MAIL43013515U.216
+
+
+
+      Clinton Presidential Records
+    Automated Records Management
+            System [EMAIL]
+     This is not a presidential record. This is used as an
+ administrative marker by the William J. Clinton Presidential
+                         Librarv Staff.
+
+
+
+Hex Dump file is not in a recognizable format, has been incorrectly
+                      decoded or is damaged.
+
+
+
+
+Attachment Number: [ATIACH.D69]MAIL44213515V.216
+
+
+
+      Clinton Presidential Records
+    Automated Records Management
+            System [EMAIL]
+    This is not a presidential record. This is used as an
+ administrative marker by the William J. Clinton Presidential
+                        Librarv Staff.
+
+
+
+Hex Dump file is not in a recognizable format, has been incorrectly
+                      decoded or is damaged.
+
+
+
+
+Attachment Number: [ATTACH.D69]MAlLA3413515W.216
+                                                                 FOIA Number:     Kagan opd9
+
+
+
+                      Clinton Presidential Records
+                    Automated Records Management
+                            System [EMAIL]
+                    This is not a presidential record. This is used as an
+                 administrative marker by the William J. Clinton Presidential
+                                        Librarv Staff.
+
+
+
+                Hex Dump file is not in a recognizable format, has been incorrectly
+                                      decoded or is damaged.
+
+
+
+
+                Attachment Number: [ATIACH.D69]MAIL43613S1SX.216
+
+

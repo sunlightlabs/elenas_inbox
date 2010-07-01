@@ -1,0 +1,250 @@
+ RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+ CREATOR: Peter R. Orszag ( CN=Peter R. Orszag/OU=OPD/O=EOP [ OPD ] )
+
+ CREATION DATE/TIME:28-JUL-1997 18:17:10.00
+
+ SUBJECT:   Draft piece on incentives
+
+ TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+ READ: UNKNOWN
+
+ TO: Elizabeth Drye ( CN=Elizabeth Drye/OU=OPD/O=EOP @ EOP [ OPD ] )
+ READ: UNKNOWN
+
+ TEXT:
+ This draft builds on CEA's initial piece, reflects our discussion from
+ last week, and includes comments from CEA and Treasury.  CEA may have some
+ more comments tomorrow morning, but I wanted to share what we had at this
+ point.
+
+ One obvious weakness is that there are many questions we can't answer: how
+ much R&D remains to be done, for example.
+
+ Let me know if this is helpful, or if you want it fleshed out more ...
+
+ Thanks,
+ Peter==================== ATTACHMENT    1 ====================
+ ATT CREATION TIME/DATE:   0 00:00:00.00
+
+ TEXT:
+ Unable to convert ARMS_EXT: [ATTACH.D67]MAIL49846680U.216 to ASCII,
+  The following is a HEX DUMP:
+
+ FFS7S043240D0000010A0201000000020S0000009C4100000002000031FFF8CDF26SC74A84BD8S
+ A680A88C9233462ED4BD17CFEE38CC169S409D8BS6BF7B708810EE6A2D2D0064D33CS9B2077EEB
+ D26D01S4487C9CAF109024498829B2BC22800S29D871FD02S926D34FA2FD6A22897F13B32E2404
+ 881F493271B64A1403ED6AABD7946A8CAC9670289F91D26906SE7E6DABC881ABA3C1BA77BE0942
+ CSDF62DOED6181BF82F6E4SB78D3B8EOEOB811609S6CA7E174B4F8A2COA36DBF02884FAFSE132E
+ 7E6S6D9443AC7EE7E313BAC28DS9ECD76S87ESBS01553FECB22C819CB846FFA490A6AAA4EA714C
+ 92C1575B5B347D32EDFFF790A5CDE79A8209D63DE078057435164C719DE626E6C59614A73BA7B4
+ 6C3077C9298BB10DBAFADB3E85BS785681541CAEF69173398663E8FAE5269FCE29D1B888539091
+ 7EA814E3C819C2704E3A46A735FBl189D8C4050C939E8E4A6FCC93EEF493EB583E92E75A3F05A2
+ ACB94D4B81FB99662C4743A896849E17795F202D51902D9729C400AF7085F11SB98032C5D23E8B
+ S0473C4EBB46D73FFDFEB470S9BF52S0875AFC2D67F60ACODBDC4D148DAFSDCD3FOF3CB61D001S
+ 6ED1EA9C922C7287EC29A986B34B6EOAFBAF5DCFD5669E930CC5FB41841466DDD2E98FC210A997
+ A9D9DC23CC4B4B65E852SE5C48BEA89522252BD75419E73E3C49C341DC39102CE003D6995D3F69
+ 9D8E4B14ED02002B00000000000000000000000823010000000B010000SA040000020801000000
+ 4F010000650S000009250100000006000000B40600000B300300000028000000BA060000087701
+ 00000040000000E206000008340100000014000000220700000802010000000F00000036070000
+ 0810010000000200000045070000096D010000001700000047070000081103000000C60000005E
+ 0700000B30010000006500000024080000080501000000080000008908000000S5080000004EOO
+ 0000910800000208010000009F010000DF0800000B30040000006C0000007EOAOOOOOB30030000
+ 0044000000EAOA00000208000001004F0100002EOBOOOOOOS5020000004E0000007DOCOOOOOOOO
+ 00000000000000007DOCOOOOOOSS030000003COOOOOOCBOCOOOOOOOOOOOOOOOOOOOOOOOOCBOCOO
+ OOOOOOOOOOOOOOOOOOOOOOCBOCOOOOOOOOOOOOOOOOOOOOOOOOCBOC000000000000000000000000
+ CBOCOOOOOOOOOOOOOOOOOOOOOOOOCBOCOOOOOOOOOOOOOOOOOOOOOOOOCBOCOOOOOOOOOOOOOOOOOO
+ OOOOOOCBOCOOOOOOOOOOOOOOOOOOOOOOOOCBOCOOOOOOOOOOOOOOOOOOOOOOOOCBOCOOOOOOOOOOOO
+ OOOOOOOOOOOOCBOCOOOOOOOOOOOOOOOOOOOOOOOOCBOCOOOOOOOOOOOOOOOOOOOOOOOOCBOCOOOOOO
+ OOOOOOOOOOOOOOOOOOCBOCOOOOOOOOOOOOOOOOOOOOOOOOCBOCOOOOOOOOOOOOOOOOOOOOOOOOCBOC
+ OOOOOOOOOOOOOOOOOOOOOOOOCBOCOOOOOOOOOOOOOOOOOOOOOOOOCBOCOOOOOOOOOOOOOOOOOOOOOO
+                                                               Hex-Dump ConversIon
+
+    The Tobacco Settlement and Incentives to Develop Reduced-Risk Tobacco Products
+                                     July 28, 1997
+
+I. Background
+
+        In the past, the tobacco industry has not developed many innovative, safer products -- in
+large measure because to develop and promote safer products would have been to acknowledge
+the harm done by existing products. But some innovations, like filters and reduced-tar
+cigarettes, do appear to have followed the release of adverse health news about smoking. In the
+current environment, in which are companies admitting that their products are harmful and
+consumer awareness of smoking's risks is heightened, individual companies may be more likely
+to view the development of safer products as a profitable endeavor.
+
+       The Settlement includes provisions intended to speed the introduction of safer products.
+According to the Settlement, the goal of these provisions "is to guarantee that a mechanism exists
+to ensure that products which appear to hold out the hope of reducing risk are actually tested and
+made available in the marketplace and not held back." The types of innovations expected to be
+introduced include the removal oftoxic constituents from cigarettes, a reduction in the nicotine
+content in cigarettes, and alternative delivery devices for nicotine that remain attractive to
+consumers.
+
+II. Provisions ofthe Settlement
+
+       Provisions relating to reduced risk products are in Title I, Section E, Part 4 ofthe
+Settlement. Manufacturers will be required to:
+
+·      Notify FDA of any technology that they develop or acquire and that reduces the risk from
+       tobacco products, and
+
+·      For a "commercially reasonable" fee, cross license all such technology to those
+       companies also covered by the same obligations. Procedural protections will be built in
+       to resolve license fee disputes.
+
+       Other provisions include:
+
+·      If the technology is in early development stages, manufacturers will be provided
+       confidentiality during the development process.
+
+·      The FDA will have the authority to mandate the introduction ofless hazardous products
+       that are technologically feasible by requiring the manufacturer who owns the technology
+       to introduce the product or to license the technology to another producer. If no
+       manufacturer or licensee brings such products to market in a reasonable time frame set by
+       FDA, the U.S. Public Health Service may produce the product, either itself or through a
+
+
+                                                 1
+                                                                                    .     Hex-Dump Conversion
+
+         licensing arrangement.
+
+III. The economic tradeoff between dissemination and incentives for R&D
+
+         One concern with these provisions is that they effectively eliminate the patent system for
+tobacco products. Economists have long struggled with the optimal design of a patent system.
+Ifnew innovation occurred spontaneously -- without the need to invest in R&D -- society's
+interest would be best served by requiring immediate, full disclosure and licensing of new
+products and technologies without fee. But innovation generally does require investment -- and
+full disclosure coupled with free adoption by other firms provides little or no incentive for such
+investment to be undertaken. The patent system therefore grants a property right to the inventor
+"to exclude others from making, using or selling the invention."· The fundamental tradeoff in
+the patent system -- inherent in designing the length and comprehensiveness of the patent
+protection -- is to balance the need to encourage R&D with the desire to disseminate new
+discoveries as quickly as possible.
+
+IV. The Settlement and incentives
+
+        The Settlement's provisions, especially the cross-licensing requirement, are at one
+extreme of possible patent systems. They ensure rapid dissemination of new discoveries, but
+provide little incentive for firms to invest further in the processes that could lead to such
+discoveries. A crucial question to answer is how much of the total possible R&D has been
+undertaken, and how much remains to be done. In the area of removing toxins from
+cigarettes, much - though not aU ~ is apparently already technologicaUy feasible. Some
+analysts believe that current knowledge would also aUow a reduction of the nicotine
+content in commerciaUy viable cigarettes within a relatively short period (e.g., 6 months);
+others believe that such products are a decade away. A critical question for FDA and
+others to answer is how much research remains to be undertaken, and in what specific areas.
+
+        To the extent that most of the relevant R&D has already been undertaken, the incentive
+problems are not significant. Eriforcing full and even free cross-licensing of extant R&D may
+not pose the same incentive problems as enforcing cross-licensing offuture R&D. Two
+potential dangers with cross-licensing existing R&D are (1) it may damage the government's
+credibility that such a requirement will not be repeated in the future, thus reducing incentives for
+future R&D; and (2) it may be difficult to derme an "existing" innovation (how would a
+prototype be classified, where the bulk of the costs are bringing it to market?). Despite
+these potential problems, it may be useful to draw a distinction between cross-licensing of
+existing R&D and future R&D.
+        Another important incentive question is to what extent the firms will be allowed to
+
+           · Patents are granted for a term of 17 years (14 years for design patents), which may be extended only by a
+special act of Congress (except for certain pharmaceutical patents). After expiration of the term, the patentee loses
+rights to the invention.
+
+
+                                                          2
+                                                                                                Hex-Dump Conversion
+
+
+ market their innovations_ The FDA and others raise legitimate concerns about allowing
+ marketing of "safer" tobacco products: by providing a government imprimatur of reduced health
+ risks, allowing such advertising may induce more smoking (either by non-smokers or by those
+ who had intended to reduce their smoking levels). So even if each cigarette is "safer," the public
+ health risk may be expanded because of the increase in total smoking relative to the baseline. To
+ the extent that advertising ofsafer products is not allowed, however, firms will have little interest
+ in developing such products.
+
+          One possibility -- which may not be technically feasible -- would be to allow firms to
+  publish "health hazard ratings_" For example, cigarette packages could carry health hazard
+  ratings of 90, 95, or 100 depending on the risks profile of the product. 2 It seems unlikely that a
+  product carrying a health hazard rating of "90" would be much more attractive to a non-smoker
+  than one carrying a rating of"100." Such a system could provide firms with some incentives to
+  develop safer products -- because extant smokers would pay attention to the health hazard rating
+  -- while minimizing the potential for perverse results. The system would also facilitate a
+. CAFE-like regulation that cigarette sales by each individual producer could have a mean health
+  hazard rating of no more than some level.
+
+ v. Options
+
+         The above discussion suggests several possible options:
+
+1. Maintain current provisions_ The current provisions provide limited incentives for
+innovation, but strong incentives for diffusion. This solution is acceptable if we believe that
+most of the knowledge about developing safer products already exists -- and there is therefore
+more to be gained from disseminating what is known than from trying to develop new knowledge
+and new products and technology.
+
+2. Require full (and perhaps free) cross-licensing ofexisting knowledge but not future
+discoveries. As noted above, this option would efficiently diffuse the existing stock of
+knowledge without affecting firms' incentives for future investments in R&D. Future R&D
+efforts could be governed by the regular patent system, or one of the options below_ One
+important detail in such a system would be the delineation of existing R&D from future R&D.
+
+3. Grant patents for a limited period. The Settlement effectively eliminates the patent period.
+An intermediate position, which would provide more balance between incentives and
+dissemination, would shorten the patent period from 17 years to perhaps a few years. At the end
+of the patent period, other firms would have free access to the knowledge.
+4. Grant patents for a limited period and then have the tobacco fund buyout the patent holder
+(could be combined with #2). One solution to the tradeoff between dissemination and incentives
+
+          2 Given the difficulty of distinguishing real health benefits, the scale should only include a few discrete
+levels -- perhaps 90, 95, and 100 -- instead of being continuous.
+
+
+                                                           3
+                                                                                 Hex-Dump Conversion
+
+
+     is to have. the government buyout the patent holder and then license the knowledge to other
+     producers (perhaps for a nominal fee). For example, we could grant a 2-year patent for tobacco
+     products. At the end of the 2-year period, the tobacco fund would compensate the patent holder
+     for some multiple (e.g., 3) of profits from the patent over that period -- a proxy for the present
+     value of the profits from the patent itself. The patent will then expire, and the knowledge could
+     be distributed to other firms for free or for a nominal fee, ensuring relatively rapid dissemination.
+      This structure would maintain incentives for future R&D, encourage patent holders to market
+     their innovations aggressively during the patent period, and ensure dissemination after the end of
+     the patent period.
+
+     5. Eliminate cross-licensing requirements. Eliminating the cross-licensing provisions would
+     allow companies to profit from innovation as they would in any other industry, thus encouraging
+     future R&D. Concerns about strategic withholding of innovations and the related lack of
+     diffusion could be alleviated by the settlement's provision allowing the FDA to set performance
+     standards. In that way, a minimum level of safety could be set for the entire industry and
+     adjusted as major innovations occurred.
+
+     VI. Summary of key points and questions
+
+     ·      Innovation generally requires investment -- and full disclosure coupled with free adoption
+            by other firms provides little or no incentive for such investment to be undertaken.
+
+     ·      Enforcing full and even free cross-licensing of extant R&D may not pose the same
+            incentive problems as enforcing cross-licensing of future R&D. But the government's
+            credibility may suffer, and it may be difficult to define "existing" R&D.
+
+     ·      To the extent that the FDA does not allow advertising of safer products, firms will have
+            little interest in developing such products. To counter the potential risk to public health
+            from allowing advertising of "safer" cigarettes, one possibility -- which may not be
+            technically feasible -- would be to allow firms to publish "health hazard ratings."
+
+     ·      The cross-licensing requirements embodied in the Settlement are at one extreme of
+            possible patent systems. Modifications could include limiting cross-licensing to existing
+            R&D, allowing a shorter-than-usual but non-zero patent period, or simply eliminating the
+            cross-licensing requirements and relying on FDA regulations to encourage dissemination.
+
+
+
+
+                                                      4
+
+

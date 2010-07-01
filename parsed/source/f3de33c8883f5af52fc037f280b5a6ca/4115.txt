@@ -1,0 +1,171 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP [ OPD ) )
+
+CREATION DATE/TIME:26-AUG-1997 20:03:43.00
+
+SUBJECT:   Daily Report Item for Wednesday
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD)    )
+READ: UNKNOWN
+
+CC: Diana Fortuna ( CN=Diana Fortuna/OU=OPD/O=EOP @ EOP [ OPD ) )
+READ: UNKNOWN
+
+CC: Elisabeth Stock ( CN=Elisabeth Stock/O=OVP @ OVP [ UNKNOWN)       )
+READ: UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO)      )
+READ: UNKNOWN
+
+Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP [ OPD ) )
+                                                                          /
+READ: UNKNOWN
+
+TEXT:
+
+Stories are very likely to appear in Thursday's papers of a new MORC study
+of Minnesota's welfare to work program. Attached above is a daily item I
+think should go in the Wednesday report -- the findings are interesting,
+and MORC studies always make news, particularly on slow news days.
+Elizabeth Stock drafted this using the MORC press release, executive
+summary, and a memo Olivia and Pat Ruggles sent to Secretary Shalala.
+Elizabeth's in the office Wednesday if you have questions (6-7871); Diana,
+I've also left copies of the materials for you. Attached below are some
+q&as describing the report.
+
+
+
+
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.DS8)MAIL40364283H.216 to ASCII,
+ The following is a HEX DUMP:
+
+FFS7S043160S0000010A0201000000020S000000980E0000000200001F638E3B910A94AC8317ED
+8E2FFOCFS8F01AAA0984D82CF2S04SE6CA086229E74E79673S04E16ACS74SASE807DS4E33EE34C
+131EBC6D86694F33A67817FE7B66E8B310671F2BFACEEC9BCD8FA2329D9CEC3FC868SEBB74D3EE
+Cynthia RicelElizabeth Stock                          Hex-Dump Conversion
+8/27/97
+
+
+        On Thursday, the Manpower Demonstration Research .Corporation (MDRC) will
+release a study showing Minnesota's Family Investment Program (MFIP) has both
+increased employment and reduced poverty among long-term welfare recipients. This
+welfare reform program was one of the first to provide both rmancial incentives to work
+and mandatory participation in employment-related activities. This combination appears
+to be a winning one: the program increased employment from 38 to 52 percent and reduced
+poverty from 60 to 44 percent over an 18 month period. However, because participants were
+able to eam more and still receive benefits, MFIP increased the duration of welfare receipt for
+some participants, and increased welfare spending by 8 percent
+
+       Past studies have shown that mandatory employment-focused programs have often
+increased employment but not reduced poverty in the short run, while programs that let families
+keep more of their welfare benefits while working made families financially better offbut did not
+produce big increases in employment MFIP, by combining work requirements with incentives,
+has succeeded on both fronts. Minnesota, which started MFIP as a 7 county demonstration
+project under the Bush Administration and expanded it to 8 counties under a 1996 Clinton
+Administration waiver, has now adopted a modified version of the program statewide
+underTANF.
+                  Manpower Demonstration Research Corporation Study
+                   on Minnesota Family Investment Program (MFIP)
+                                       8/26/97
+
+
+        On Thursday, the Manpower Demonstration Research Corporation (MDRC) will
+release a study showing Minnesota's Family Investment Program (MFIP) has both
+increased employment and reduced poverty among long-term welfare recipients. This
+welfare reform program was one of the first to provide both {"mancial incentives to work
+and mandatory participation in employment-related activities. This combination appears
+to be a winning one: the program increased employment from 38 to 52 percent and reduced
+poverty from 60 to 44 percent over an 18 month period. However, because participants were
+able to eam more and still receive benefits, MFIP increased the duration of welfare receipt for
+some participants, and increased welfare spending by 8 percent.
+
+       Past studies have shown that mandatory employment-focused programs have often
+increased employment but not reduced poverty in the short run, while programs that let families
+keep more of their welfare benefits while working made families financially better offbut did not
+produce big increases in employment. MFIP, by combining work requirements with incentives,
+has succeeded on both fronts. Minnesota, which started MFIP as a 7 county demonstration
+project under the Bush Administration and expanded it to 8 counties under a 1996 Clinton
+Administration waiver, has now adopted a modified version of the program statewide
+under TANF.
+
+
+
+                                                         Automated Records Management System
+                                                         Hex-Dump Conversion
+                Manpower Demonstration Research Corporation Study
+                 on Minnesota Family Investment Program (MFIP) A
+                                                                 utomated Records M
+                                                               HeX-D               ·anagement System
+                                                                     ump Conversion
+
+Question:   What are the principal attributes of the MFIP program?
+
+Answer:     There are three principal attributes of the MFIP program. First, MFIP
+            provides recipients with enhanced f"mancial incentives to encourage work.
+            Recipients continue to receive some MFIP benefits until their income is 40
+            percent above the poverty line. Second, MFIP requires long-term recipients
+            to participate in mandatory employment and training services. This
+            requirement is for single parents who have received welfare for 24 of the past
+            36 months and who are working fewer than 30 hours per week. Third,
+            MFIP consolidates AFDC, Food Stamps, and the State's Family General
+            Assistance into one cash grant.
+
+Question:   What are the principal findings of the MDRC study on MFIP?
+
+Answer:     MFIP has produced some of the largest employment effects for long-term
+            recipients that MDRC has seen in a welfare-to-work program, and has
+            helped a proportion of families leave poverty. At the end of the IS-month
+            follow-up period, MFIP increased employment by almost 40 percent: 52
+            percent of these recipients were working compared with 38 percent of their
+            counterparts in the traditional AFDC program. MFIP also reduced poverty
+            by more than 25 percent: 44 percent of the MFIP families had income below
+            the poverty line, compared with 60 percent of the families in AFDC.
+
+Question:   How long has MFIP been operational and which agency is responsible for
+            running it?
+
+Answer:     The Minnesota Department of Human Services has been operating the MFIP
+            since April 1994, under waivers granted under the Bush Administration and
+            expanded under the Clinton Administration.
+
+Question:   Where does MFIP operate?
+
+Answer:     MFIP has been operating in the three urban counties of Hennepin (which
+            includes Minneapolis), Anoka, and Dakota, and the four rural counties of
+            Mille Lacs, Morrison, Sherburne, and Todd: In May 1996, HHS approved a
+            waiver to expand MFIP to Ramsey County. The Ramsey county program
+            was not part of the MDRC study, however.
+
+Answer:     Yes, Minnesota has adopted a modified version ofMFIP as its statewide
+            policy under T ANF. Minnesota will reduce the income level at which
+            working recipients become ineligible for welfare from 40 percent to 20
+            percent above the poverty line. This change should reduce the short-run
+            costs of implementing the MFIP model statewide and reduce the duration of
+            welfare receipt for some participants.
+
+Question:   Was Minnesota able to achieve these results without an increase in welfare
+            spending?
+
+Answer:     No. MFIP increased welfare spending over the 18-month period by 8
+            percent, and increased the duration of welfare receipt for some participants,
+            because working r~cipients were able to earn more and still be eligible for
+            MFIP benefits. The Minnesota Department of Human Services is willing to
+            make this investment because it believes that it will help families achieve
+            permanent self-sufficiency.
+
+Question:   Will MDRC continue to study the MFIP program?
+
+Answer:     Yes. MDRC will produce a fmal MFIP evaluation report in 1999. This
+            fmal report will examine the program's longer-term impacts, including child
+            outcomes as well as fmancial measures.
+
+
+                                                         Automated Records Management System
+                                                         Hex-Dump Conversion
+
+

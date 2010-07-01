@@ -1,0 +1,160 @@
+RECORD TYPE: PRESIDENTIAL           (NOTES MAIL)
+
+CREATOR: Thomas L. Freedman ( CN;Thomas L. Freedman/OU;OPD/O;EOP [ OPD ] )
+
+CREATION DATE/TIME: 6-DEC-1998 12:59:18.00
+
+SUBJECT:     Food safety
+
+TO: Bruce N. Reed ( CN;Bruce N. Reed/OU;OPD/O;EOP @ EOP [ OPD ] )
+READ:UNKNOWN
+
+TO: Christopher C. Jennings ( CN=Christopher C. Jennings/OU=OPD/O=EOP @ EOP [ OPD ]
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN;Elena Kagan/OU;OPD/O;EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+CC: Mary L. Smith ( CN;Mary L. Smith/OU;OPD/O;EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+CC: Laura Emmett ( CN;Laura Emmett/OU;WHO/O;EOP @ EOP                   [ WHO]   )
+READ: UNKNOWN
+
+TEXT:
+I'm forwarding you the FDA one pager Bill Schultz has put together on what
+specifically they are saying the food dollars would do.
+---------------------- Forwarded by Thomas L. Freedman/OPD/EOP on 12/06/98
+12:56 PM ---------------------------
+
+
+
+        whubbard @ bangate.fda.gov
+        12/04/98 03:51:00 PM
+Record Type: Record
+
+To: Thomas L. Freedman
+cc:
+Subj ect : .... no subj ect ...
+
+Did you get this?        I'll ask my secretary to send it as well.
+
+
+
+= ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ATTACHMENT   1 ;;;;;;;;;;;;;;;;;;=;
+ATT CREATION TIME/DATE:                      0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D62]MAIL45487604Z.326 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504370040000010A02010000000205000000E6150000000200003COF18F8C62C877AC79821
+9108113E2E3B9844658D41286F42E3C873EA2C54ACF52FDE5FD4DE308B2575992A5EBCFB515001
+5D3EA80B90BOBF611B84765CB4EA896157E4F2DFF63C30CBEFFBFBO042D9A90EF6AA3825341B8C
+4C61D70EE3889CDB927DB7B8FB24EDC904934F130522D1EF2C46915A3DDF5BOFAA94COB67711E2
+                              (If funds are appropriated)
+
+INSPECTIONS
+
+o    Establish a nationally integrated food safety system with Federal, state, and local
+             authorities.
+
+    .-      For the first time in decades, FDA will ensure that every high risk food
+                    manufacturer in the United States is inspected at least once a year.
+
+            For other food finns, inspections willbe twice as often as today (from once every
+                   8 years to once every 4 years).'
+
+            For the first time ever, state and Federal inspection results will be shared, via an
+            electronic connection, that will reduce overlapping efforts and greatly enhance the
+            ability ofthose authorities to improve public health
+
+o    FDA will have an enhanced international food safety program, which will include
+     evaluations of other countries' food safety systems and provision' of technical assistance
+     to foreign countries who import to this country (thereby contiiming the shift to ensuring
+     that foods are safely produced before they arrive at our shores).
+
+RESEARCH
+
+o   . FDA will be able to ensure the applicability and effectiveness of the new preventive
+      control techniques used to ensure the safety of seafood, juices, eggs, fresh produce and
+      other foods.
+
+o    New detection tests will be developed for such dangerous contaminants as Salmonella in
+     eggs and Cyclosopora in fresh produce, and test methods for E. coli 0157:H7 in foods in
+     which it cannot now be detected.
+
+OUTBREAK RESPONSE
+
+o    With its increased surveillance, CDC expects an increase of 40% of foodbome illness
+     from E. coli 0157:H7 and salmonella, and 10% for all foodbome illness. Funding is
+     needed so that FDA will have the laboratory and staff capability to respond rapidly to
+     those outbreaks when they occur--to track down their source and prevent further danger.
+
+o    CDC's new PulseNet contaminant tracing system will be connected to FDA's
+     laboratories, thus enabling FDA to use this state-of-the-art disease detection system to
+     control foodborne illness at the source.
+
+
+                                                            Automated Records t,·ianagement System
+                                                            Hex"Dump Conversion
+
+o   CDC estimates that one-third of foodbome illness comes from retail establishments. A
+    majority of states will adopt FDA's model food code that raises the standards for safer
+    handling of food in restaurants, nursing homes, hospitals, and grocery stores. If funding is
+    available, FDA can provide the necessary training and education to state and local
+    inspectors (as well as industry) to implement those new standards.
+
+EDUCATION
+
+o   Targeted resources are needed so that the most vulnerable (e.g., elderly, very young, and
+    pregnant women) will be taught how they should and can avoid contaminated food. The
+    result will be that their behavior will begin to change so that the most severe illnesses and
+    deaths can be prevented.
+
+RISK ASSESSMENT
+
+o   New information will become available about how much of a contaminant must be in a
+    food to make people sick (such as Listeria) and how certain contaminants (such as
+    Salmonella) can best be controlled.
+
+
+
+
+                                                             Automated Records Management System
+                                                             Hex-Dump Conversion
+
+
+  ATT CREATION TIME/DATE:   o   00:00:00.00
+
+  TEXT:
+  RFC-822-headers:
+  Received: from conversio~.pmdf.eop.gov by PMDF.EOP.GOV (PMDF VS.1-9 #29131)
+   id <01J4Y1M2UV4W0098C4@PMDF.EOP.GOV> for freedman_t@a1.eop.gov; Fri,
+   4 Dec 1998 15:52:23 EST
+  Received: from Storm.EOP.GOV by PMDF.EOP.GOV (PMDF VS.1-9 #29131)
+   with ESMTP id <01J4Y1LYLCIOOOSTIA@PMDF.EOP.GOV> for freedman_t@a1.eop.gov;
+   Fri, 04 Dec 1998 15:52:18 -0500 (EST)
+  Received: from defender.fda.gov ([198.77.181.2])
+   by STORM.EOP.GOV (PMDF VS.1-12 #29131)
+   with SMTP id <01J4Y1LONOGUOOOWEX@STORM.EOP.GOV> for freedman_t@a1.eop.gov;
+   Fri, 04 Dec 1998 15:52:03 -0500 (EST)
+  Received: from bangate.fda.gov by defender.fda.gov via smtpd
+   (for [198.137.241.51]) with SMTP; Fri, 04 Dec 1998 20:51:36 +0000 (UT)
+  Received: by bangate.fda.gov with VINES-ISMTP; Fri, 04 Dec 1998 15:51:55 -0500
+
+  X-Incognito-SN: 1269
+  Errors-to: whubbard@bangate.fda.gov
+  X-Incognito-Version: 4.25.281
+  X-Priority: 3 (Normal)
+
+
+
+
+                                              Automated Records Management System
+                                              Hex-Dump Conversion
+ t·
+
+
+
+

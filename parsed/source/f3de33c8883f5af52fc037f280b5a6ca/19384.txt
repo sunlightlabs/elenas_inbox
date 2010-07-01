@@ -1,0 +1,276 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Thomas L. Freedman ( CN=Thomas L. Freedman/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME: 7-APR-1998 12:05:23.00
+
+SUBJECT:   draft privacy paper
+
+TO: Christopher C. Jennings ( CN=Christopher C. Jennings/OU=OPD/O=EOP @ EOP [ OPD ]
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+CC: Sarah A. Bianchi ( CN=Sarah A. Bianchi/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO]    )
+READ: UNKNOWN
+
+CC: Mary L. Smith ( CN=Mary L. Smith/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TEXT:
+Here is Kalil's draft paper.  He is adding a third policy option on
+legislation the Administration could endorse but is waiting on paper from
+the agencies.  He says the meeting is set for 1 pm tomorrow in 180.=================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D15]MAIL426274697.026 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043E90COOO.0010A02010000000205000000A9550000000200000E473D47EF98481597A744
+DEC68B61120B78BAOA2D45A1D1535A9F01866664ADFB21FD208339770C645B5D5B2D803063E087
+                                                                                     Hex-Dump Conversion
+
+
+                                         Draft April 6, 1998
+
+MEMORANDUM FOR NECIDPC DEPUTIES
+
+FROM:
+
+RE:    PRIVACY IN THE INFORMATION AGE
+
+I. What's the problem?
+
+        In recent years, Americans have become increasingly concerned about their privacy. In a
+recent Louis Harris poll, eight out often Americans surveyed agreed that "consumers have lost
+all control over how personal information about them is circulated and used by companies."
+
+        Clearly, new technologies have made it easier to create, manipulate, store, transmit, and
+link digital personally identifiable information. People may disclose personal information
+about themselves as they travel, fill a prescription at the drug store, visit a Web site, call a 1-800
+number, send an e-mail, use a credit card, or purchase groceries using a discount card.
+Information about these individual transactions may be bought and sold - and companies are now
+assembling giant "data warehouses" that contain electronic dossiers on the needs, lifestyles, and
+spending habits of millions of Americans.
+
+       Concerns about the loss of privacy are not just hypothetical:
+
+·      Early this year, the Navy began discharge proceedings against a sailor (McVeigh) on the
+       basis of personal information he disclosed on America Online. The Navy investigator
+       was able to get AOL to disclose information that linked Mr. McVeigh's screen name to his
+       real identity.
+
+·      The drug store CVS and Giant Food recently admitted that they were disclosing patient
+       prescription records to a direct mail and pharmaceutical company to track customers who
+       don't refill prescriptions.
+
+·      Beverly Dennis, a women in Massillion, Ohio, received a 12-page letter containing an
+       intimately threatening sexual fantasy from a stranger who knew her birthday, the names
+       of her favorite magazines, the fact that she was divorced, and the kind of soap she used in
+       the shower. The letter was written by a convicted rapist serving time in a Texas state
+       prison, who had been entering information for Metromail, a direct marketing firm with
+       detailed databases on more than 90 percent of American households. Dennis' suit
+       disclosed that Metromail had 900 pieces of information on her going back to 1987,
+       including not only her income, marital status, hobbies, ailments, but whether she had
+        deodorizers, sleeping aids, and hemorrhoid remedies.
+
+       Privacy concerns often have to be balanced against other competing values - such as
+prevention of crime, prosecution of criminals, cracking down on "deadbeat dads," free
+expression, and an investigatory press. For example:
+
+·      When information is true and obtained lawfully, the Supreme Court has repeatedly ruled
+       that the state may not restrict its publication without showing a narrowly tailored and
+       compelling governmental interest.
+
+·      Although the widespread adoption of strong encryption would increase privacy, the U.S.
+       has maintained export controls against unbreakable encryption because of national
+       security and law enforcement concerns.
+
+·      There are significant commercial advantages that flow from the collection of personally
+       identifiable information. As privacy expert Fred Cate put it, "Instant credit, better
+       targeted mass mailings, lower insurance rates, faster service when ordering merchandise
+       by telephone, special recognition for frequent travelers, and countless other benefits come
+       only at the expense of some degree of privacy."
+
+II. What is the current U.S. legal regime?
+
+        The U.S. has no comprehensive privacy law. Instead, the United States has a series of
+laws that often cover a specific industry or economic sector, or a specific use of some class of
+data. Many of these laws are significantly qualified by exemptions. Current statutes cover
+areas such as: the federal government's collection of personal information; "matching" of
+computerized federal records; consumer credit reports; driver's records; interception and
+disclosure of electronic communications; video tape rentals and sales; telecommunications
+services; and educational records.
+
+       Critics of the U.S. approach believe that it results in a "patchwork of uneven,
+inconsistent, and often irrational privacy protection ... information about a person's video rentals
+receives considerable statutory protection; information about medical condition and treatment
+does not." Defenders believe that a sectoral approach makes sense because it is difficult to
+develop a "one size fits all" policy -- given the different risks involved in the disclosure of
+personal information and the different interests that need to be balanced.
+
+III. What is current Administration policy?
+
+Privacy principles
+
+       In 1995, the Administration, as part of its "National Information Infrastructure" initiative,
+
+
+                                                  2
+are designed to apply to the collection and use of information by both government and industry,
+and draw on existing international fair information practices such as the OECD guidelines.
+
+         The Privacy Principles call on those who gather and use personal information to
+recognize and respect the privacy interest that individuals have in personal information by (1)
+assessing the impact on privacy in deciding whether to obtain or use personal information; and,
+(2) obtaining and keeping only information that could be reasonably expected to support current
+or planned activities. Data gatherers should use the information only for those current or planned
+activities or for compatible purposes.
+
+        Because individuals need to be able to make informed decisions about providing personal
+information, the organizations that collect information should disclose: (1) why they are
+collecting the information; (2) for what purposes they expect to use the information; (3) what
+steps will be taken to protect the confidentiality, quality and integrity of information collected;
+(4) the consequences of providing or withholding information; and (5) any rights of redress that
+are available to individuals for wrongful or inaccurate disclosure of their information.
+
+       In July 1997, the President released the Administration's "Framework for Global
+Electronic Commerce." The Framework stated that the "private efforts of industry working in
+cooperation with consumer groups are preferable to government regulation, but if effective
+privacy protection cannot be provided in this way, we will reevaluate this policy." The
+Secretary of Commerce must report to the President in July 1998 on the progress that has been
+made on industry self-regulation to protect privacy.
+
+Medical records
+
+       It is not the Administration's position that industry self-regulation is adequate in all
+instances. On September 1997, HHS Secretary Shalala called for federal legislation on medical
+records consistent with the following principles:
+
+·      A prohibition on the disclosure of patient-identifiable information except
+       as authorized by the patient or as explicitly permitted by the legislation (exceptions for
+       public health, research, law enforcement, and oversight of the health care system).
+
+·      Provide consumers with significant new rights to be informed about how their health
+       information will be used and who has seen that information.
+
+·      Punishment for those who misuse personal health information and redress for
+       people who are harmed by its misuse.
+
+
+IV. What is the U.S.-EU dimension of the privacy issue?
+
+
+                                                 3
+privacy. The EU has adopted a Directive on Data Protection, which becomes effective in
+October 1998. One provision of the Directive prohibits transfer of personal information to other
+countries that lack "adequate" protection of privacy. If the EU were to rule that the U.S. does
+not provide "adequate protection" of privacy - it could significantly reduce the flow of data
+between the U.S. and Europe and disrupt trade and the operations of U.S. firms doing business in
+Europe.
+
+       The EU Directive is different from the U.S. approach because it:
+
+·      Covers all sectors and is extraordinarily broad;
+
+·      Requires that anyone that is processing personal data register with national authorities
+       before beginning any data processing; and
+
+·      Requires member states to establish an independent public authority that can wield
+       investigatory powers, hear complaints, order the cessation of data processing activities,
+       block the transfer of data to third parties, and impose penalties.
+
+         Some analysts believe that the EU Directive is so broad that it will make routine behavior
+illegal (e.g. a salesperson who enters names on a laptop without someone's unambigious consent
+and leaves the country) -- and that the EU can not possibly enforce the letter of the law.
+
+       It is not yet clear whether the EU would regard a U.S. industry-led initiative to strengthen
+privacy protection as "adequate."
+
+V. What are some potential options to strengthen the privacy of Americans?
+
+
+Option A. Define what effective industry self-regulation is -- promote efforts by the private
+sector to achieve effective self-regulation.
+
+        The Commerce Department has developed a set of criteria for judging whether or not a
+self-regulatory regime is effective that it plans to publish in the Federal Register for comment.
+These criteria include support for the key fair information principles discussed above, and
+enforcement mechanisms, including:
+
+·      Consumer recourse for resolution of disputes.
+
+·      Verification that the assertions businesses make about their privacy practices are true and
+       that privacy practices have been implemented as represented.
+·      Consequences. For self-regulation to be effective, failure to comply with fair information
+       practices should have consequences (e.g. cancellation of the right to use a certifying seal
+
+
+                                                 4
+       disqualification from membership in an industry trade association, liability for fraud).
+
+         A coalition of U.S. businesses, lead by IBM, proposes to create a self-regulatory umbrella
+group to promote compliance with fair information practices on the Internet that the Commerce
+Department believes is consistent with its principles. The group intends to "preview" the
+initiative in May (at the DOC privacy event), with a commitment to begin operations in
+September, 1998. At this point, the composition of the alliance has not gellcd. We understand
+that AT&T, EDS, Hewlett-Packard, and a number of other businesses are in discussion with
+IBM.
+
+       A longer description of the private sector initiative is attached.
+
+Option B. Establish a "privacy entity" within the federal government.
+
+       One criticism of the U.S. privacy policy is that there is no part ofthe government that has
+privacy as its primary mission. A privacy entity within the federal government could have a
+number of functions, including:
+
+·      Representational: Explain and promote the U.S. government position on privacy policy
+       domestically and internationally.
+
+·      Advisory: Provide technical assistance to privacy policy questions raised by government
+       agencies and by private sector entities.
+
+·      Coordination: Apprise appropriate government agencies of emerging privacy issues and
+       ensure that these issues are addressed
+
+·      Regulatory/enforcement: Create and administer legally enforceable regimes of fair
+       information practices including the use of some combination of inspection, registration,
+       reporting, civil or criminal action, adjudication, and penalties. [Note that this would be
+       inconsistent with Administration policy to date.]
+
+·      Ombudsman: Case-by-case assistance to consumers or businesses in resolving in
+       response to their particular problems or complaints.
+
+·      Education: Provide privacy information (including model practices and "rights and
+       responsibilities") to citizens, industry, and government.
+
+·      Consumer Advocacy: Monitor privacy policies that affect consumers and promoting
+       improvements through public appearances, media presence, writing to organizations
+       about whom complaints are received, and involvement in litigation.
+
+
+
+                                                  5
+
+
+
+    ·      Evaluation: A policy advocacy role (as contrasted with a consumer advocacy or
+           ombudsman role) to give opinions, promote good ideas and practices, and scrutinize less
+           good ones.
+
+           After deciding what functions the "privacy entity" would carry out -- the Administration
+    would have to decide where to put it. A longer discussion of the proposed functions of a
+    "privacy entity" is attached.
+
+
+
+
+                                                    6
+
+

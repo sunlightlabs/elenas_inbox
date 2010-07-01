@@ -1,0 +1,81 @@
+       RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+       CREATOR: Leanne A. Shimabukuro ( CN=Leanne A. Shimabukuro/OU=OPD/O=EOP [ OPD 1 )
+
+       CREATION DATE/TIME:24-JUN-1998 12:17:43.00
+
+       SUBJECT:   tomorrow's crime meeting agenda
+
+       TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO 1 )
+       READ: UNKNOWN
+
+       TO: Franklin A. Cruz ( CN=Franklin A. Cruz/OU=WHO/O=EOP @ EOP [ WHO 1 )
+       READ: UNKNOWN
+
+       TO: Karen A. Popp ( CN=Karen A. Popp/OU=WHO/O=EOP @ EOP [ WHO 1
+       READ: UNKNOWN
+
+       TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+       READ:UNKNOWN
+
+       TO: Michelle Crisci ( CN=Michelle Crisci/OU=WHO/O=EOP @ EOP [ WHO 1 )
+       READ:UNKNOWN
+
+       CC: Jose Cerda III ( CN=Jose Cerda III/OU=OPD/O=EOP @ EOP [ OPD 1 )
+       READ: UNKNOWN
+
+       TEXT:
+       ==================== ATTACHMENT   1 ====================
+       ATT CREATION TIME/DATE:   0 00:00:00.00
+
+       TEXT:
+       Unable to convert ARMS_EXT: [ATTACH.D201MAIL47512157L.126 to ASCII,
+        The following is a HEX DUMP:
+
+       FF575043B0040000010A02010000000205000000290C0000000200OOBD7F02851C8083FF2A6887
+       FE7280FA6E21640E660939860427293597FA1A3369067C66DE45D7OA6576064AD89D27A38E1BCD
+                                                                               Automated Records Management Svster;'
+                                                                                       Hex-Dump Conversion .
+                                         Crime Meeting Agenda
+                                             June 25, 1998
+
+     Upcoming Events
+
+            *        7/9 Anti-drug media campaign national roll out, Atlanta
+
+            *        Separate Drug Courts event -- DUF/ADAM arrestee data release
+
+            *        6/26 Riley speech on school violence; 6/25 McCaffrey release of Pulse Check
+
+     Pending Items
+
+            *        School safety
+
+            *        7/28 Drug Strike Force VP announcement, Chicago
+
+            *        Youth handgun signs -- ready
+
+            *        Meth COPS grants-- school COPS grants
+
+            *        Faith-based anti-gang grants
+
+            *        Teen drug testing/driver's licenses pilot
+
+     Legislative
+
+            *        Juvenile crime
+
+            *        Appropriations
+                     - CJS
+                     - Treasury-Postal
+                     - Labor/HHS
+
+            *        Drugs
+
+     Miscellaneous
+
+            *        Other releases, DOJ reports, upcoming Supreme ct. decisionslbriefs
+
+            *        Law enforcement groups
+
+

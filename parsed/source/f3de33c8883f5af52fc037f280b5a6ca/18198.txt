@@ -1,0 +1,20 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Diana Fortuna ( CN;Diana Fortuna/OU;OPD/O;EOP [ OPD ] )
+
+CREATION DATE/TIME:17-DEC-1997 21:56:44.00
+
+SUBJECT:   Presidential memorandum on employees volunteering
+
+TO: Elena Kagan ( CN;Elena Kagan/OU;OPD/O;EOP @ EOP [ OPD ]
+READ: UNKNOWN
+
+TO: Laura Emmett ( CN;Laura Emmett/OU;WHO/O;EOP @ EOP [ WHO]   )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN;Bruce N. Reed/OU;OPD/O;EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TEXT:
+Unable to convert ARMS_EXT: [MESSAGE.D46]MAIL457597057.316
+The following is a HEX dump of the file:

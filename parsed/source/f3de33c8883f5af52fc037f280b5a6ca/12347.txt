@@ -1,0 +1,56 @@
+RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+CREATOR: Shannon Mason ( CN=Shannon Mason/OU=OPD/O=EOP [ OPD I       )
+
+CREATION DATE/TIME:22-APR-1999 12:30:12.00
+
+SUBJECT:   Conference Call
+
+TO: Brian V. Kennedy ( CN=Brian V. Kennedy/OU=OPD/O=EOP@EOP [ OPD I )
+READ:UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP@EOP   [ OPD I )
+READ: UNKNOWN
+
+TO: Charles M. Brain ( CN=Charles M. Brain/OU=WHO/O=EOP@EOP [ WHO I )
+READ:UNKNOWN
+
+TO: Karen Tramontano ( CN=Karen Tramontano/OU=WHO/O=EOP@EOP [ WHO I          )
+READ: UNKNOWN
+
+TO: Larry R. Matlack ( CN=Larry R. Matlack/OU=OMB/O=EOP@EOP [ OMB I          )
+READ:UNKNOWN
+
+TO: William G. Dauster ( CN=william G. Dauster/OU=OPD/O=EOP@EOP [ OPD I              )
+READ:UNKNOWN
+
+TO: Broderick Johnson ( CN=Broderick Johnson/OU=WHO/O=EOP@EOP [ WHO I            )
+READ:UNKNOWN
+
+TO: Barbara Chow ( CN=Barbara Chow/OU=OMB/O=EOP@EOP [ OMB I )
+READ: UNKNOWN
+
+TO: David Beier ( David Beier @ 456-6231 @ FAX [ UNKNOWN I )
+READ:UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP@EOP [ WHO I )
+READ:UNKNOWN
+
+CC: Carolyn T. Wu ( CN=Carolyn T. Wu/OU=WHO/O=EOP@EOP [ WHO I    )
+READ: UNKNOWN
+
+CC: Iratha H. Waters ( CN=Iratha H. Waters/OU=OMBjO=EOP@EOP [ OMB I          )
+READ: UNKNOWN
+
+CC: Dario J. Gomez   ( CN=Dario J. Gomez/OU=WHO/O=EOP@EOP [ WHO I        )
+READ: UNKNOWN
+
+CC: Rhonda Melton ( CN=Rhonda Melton/O=OVP@OVP [ UNKNOWN I )
+READ: UNKNOWN
+
+TEXT:
+A continuation of the Dav.is Bacon conference call will take place today
+(4/22) at 4:30.  The numbers to dial are 6-6755, 6-6766, or 6-6777, code
+5485.   Thanks.
+
+

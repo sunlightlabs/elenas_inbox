@@ -1,0 +1,216 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Paul J. weinstein Jr.   ( CN=Paul J. weinstein Jr./OU=OPD/O=EOP [ OPD 1 )
+
+CREATION DATE/TIME:15-MAY-1997 10:48:15.00
+
+SUBJECT:   Most Recent Staff/Issues List
+
+TO: Jose Cerda III ( CN=Jose Cerda III/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Stephen C. Warnath ( CN=Stephen C. Warnath/OU=OPD/O=EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Alice E. Shuffield ( Alice E. Shuffield @ EOP @ LNGTWY [ OMB 1 )
+READ: UNKNOWN
+
+TO: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Nicole R. Rabner ( CN=Nicole R. Rabner/OU=WHO/O=EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Cathy R. Mays ( CN=Cathy R. Mays/OU=OPD/O=EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Jeanne Lambrew ( CN=Jeanne Lambrew/OU=OPD/O=EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: William R. Kincaid ( CN=william R. Kincaid/OU=OPD/O=EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Christopher C. Jennings ( CN=Christopher C. Jennings/OU=OPD/O=EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Eric P. Goosby ( CN=Eric P. Goosby/OU=OPD/O=EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Tom Freedman ( Tom Freedman [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Diana Fortuna ( CN=Diana Fortuna/OU=OPD/O=EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Leanne A. Shimabukuro ( Leanne A. Shimabukuro @ EOP @ LNGTWY [ OPD 1 )
+READ: UNKNOWN
+
+TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Elizabeth Drye ( CN=Elizabeth Drye/OU=OPD/O=EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Michael Cohen ( CN=Michael Cohen/OU=OPD/O=EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Sarah A. Bianchi ( CN=Sarah A.   Bianchi/OU=OMB/O~EOP   [ OMB 1 )
+
+
+READ: UNKNOWN
+
+TO: Jonathan Prince ( CN=Jonathan Prince/OU=WHO/O=EOP @ EOP [ WHO]      )
+READ: UNKNOWN
+
+TO: Christa Robinson ( Christa Robinson @ EOP @ LNGTWY [ OPD ] )
+READ: UNKNOWN
+
+TO: MAZUR_M ( MAZUR M @ Al @ CD @ LNGTWY [ EOP ] )    (WHO)
+READ: UNKNOWN
+
+TO: Jennifer L. Klein ( CN=Jennifer L. Klein/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Cathy R. Mays ( Cathy R. Mays @ EOP @ LNGTWY [ OPD ]      )
+READ: UNKNOWN
+
+TO: Elisabeth Stock ( CN=Elisabeth Stock/O=OVP @ OVP [ UNKNOWN]     )
+READ: UNKNOWN
+
+CC: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP [ OPD ] )
+READ: UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D14] MAIL418614430. 116 to ASCII,
+ The following is a HEX DUMP:
+
+FF5750435A040000010A020100000002050000008E27000000020000B00270EEEOD57B9CDBOA2A
+BAAACEB237E48DIDDOB1795ED95C0514BED90EFABBOEF642717B09842996E341C5EB1343572617
+C4088A6EE9D43ABC879364EC3COF879C176DDBBF8D97E559D68BE8FC4B74F296DF401EE765B336
+3D294483054FIBA91BE08AF824F2B91ED98804B230BDED8628D568379DBF3442C9CE6747D1484B
+40741B618FAB2ED635E907B2EBE6BF74DCOA216COCAOC3D76C6F4CEF3D256EC9A27F2B273BB900
+B36A5847CF884CDE4EA38FEB7E5BBDE407BFA23645724B3F7AOEA7244D6CEACOBOD314E30DF645
+9DDCBAB853641C6AIA17CF68AOD2F3565BDC95453COE219D4735C9A9E83FC79FB3B05AF02C62C9
+25A9B097DF857CC6A21E04C08605B5D6772EE6B924973912C9AF30F49238B18325C951931C3627
+EF76CCAFF535715909FE05AOOAEE3F03F255DCEID326F3D099D7A72CE3A67600734DIBD6796378
+AA0436C9AD31EC841CEE4717B8BA18CD16CE78141BDDABEA4C217DF2CABD188F768COE93B4A467
+F7F261C095DB8C7034E15?B948CD6B87A39F81155EABA8DD05E6C8F123DDOC6AD2D3DC421AB4D6
+2A416A342F45859D3E77B249EEFOABFE12FEIB930357304D612C3A27593196C371015AF54877E6
+536FD8BD451783138C12F9380ED5ED68ECCC7335F49F7980FI05B65DBFF7A4462B3F0052B32BF7
+919587861402000800000000000000000000000823010000000BOI000070020000005507000000
+4E0000007B03000009250100000006000000C90300000B300200000028000000CF030000087701
+00000040000000F703000008340100000014000000370400000802010000000F0000004B040000
+0098430061006E006F006E0020004C00420050002D003400200050006C00750073000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000005749
+4E53504F4F4COOOOOOOOOOE0019001C80090019001C800E0019001300000000006000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000BOI00002800D61EC30F
+3908000011090000005AOOOBOI008B143600540069006D006500730020004E0065007700200052
+006F006D006l006E00200052006500670075006C00610072000000000000000000010002005802
+0100000004002800000000000000000000000000000000000000011202002400AI000000AI0000
+000A00000030000100020031000100450032000200020033000100450034000100450035000100
+0200360001005000370001000200380001000200390001005000C491922200000000B4007000A8
+007COOA8007C0008337C007800000200003900000003DDOAI0008301040003000200211000DDDD
+
+
+                               Domestic Policy Council StafflIssue List
+
+
+Issue Area                    Staffer                  Phone              Fax              Room Number
+
+AIDS                          Sandy Thurman            632-1090           632-1096         750 17th Street
+
+Adoption                      Jen Klein                6-2599             6-2878           WW2FL
+                              Nicole Rabner            6-7263             6-2878           WW2FL
+
+Agriculture/                  Carl Whillock            720-2406           720-9286         1400 Independ-
+  Rural Development                                                                        ence Ave., SW,
+                                                                                           Room 216
+                                                                                   Administration
+                                                                                           Building
+
+Budget                        Cynthia Rice             6-2846             6-7431           212ROEOB
+
+Choice                        Elena Kagan              6-5584             6-2878          WW2FL
+
+Children & Families           Jen Klein                6-2599             6-2878          WW2FL
+                              Nicole Rabner            6-7263             6-2878          WW2FL
+
+Civil Rights                  Elena Kagan             6-5584              6-2878          WW2FL
+
+Communications!               Christa Robinson        6-5165              6-7431          2070EOB
+SchedulinglEvents
+
+Consumer Issues               Elizabeth Drye          6-5573              6-7431          2100EOB
+
+Crime                         Jose Cerda              6-5568              6-7028          224ROEOB
+                              Leanne Shimabukuro      6-5574              6-7028          224LOEOB
+
+Community Empowerment!        Jose Cerda              6-5568              6-7028          224ROEOB
+Housing                       Leanne Shimabukuro      6-5574              6-7028          224LOEOB
+
+Disabilities                  Diana Fortuna           6-5570              6-7431          212LOEOB
+
+Drugs                         Jose Cerda              6-5568              6-7028          224ROEOB
+                              Leanne Shimabukuro      6-5574              6-7028          224LOEOB
+
+Education & Training          Mike Cohen              6-5575              6-5581          218LOEOB
+                              Bill Kincaid            6-2857              6-7028          2200EOB
+
+Environment                   Paul Weinstein          6-5577              6-5581          2140EOB
+
+Health Care                   Chris Jennings          6-5560              6-5557          216ROEOB
+                              Jeanne Lambrew          6-5377              6-7431          2090EOB
+                              Sarah Bianchi           6-5585              6-5557          2160EOB
+
+Immigration                   Jose Cerda              6-5568              6-7028          224ROEOB
+                              Leanne Shimabukuro      6-5574              6-7028          224LOEOB
+
+
+
+
+                         Automated Records Management System
+                         Hex-Dump Conversion
+
+National Service               Diana Fortuna          6-5570   6-7431   212LOEOB
+
+Policy Planning                Tom Freedman           6-6597   6-7431   213 OEOB
+                               Mark Mazur             5-5147   5-6853   3180EOB
+                               Mary Smith             6-2216   6-7431   213 Y, OEOB
+
+Political/Government           Paul Weinstein         6-5577   6-5581   2140EOB
+Reform
+
+Product Liability              Elena Kagan            6-5584   6-2878   WW2FL
+                               Paul Weinstein         6-5577   6-5581   2140EOB
+
+Public Health                  Elizabeth Drye         6-5573   6-7431   2100EOB
+
+FDA Reform                     Chris Jennings         6-5560   6-5557   216ROEOB
+                               Jeanne Lambrew         6-5377   6-7431   2090EOB
+                               Sarah Bianchi          6-5585   6-5557   2160EOB
+
+Tax Issues                     Mark Mazur             5-5147   5-6853   3180EOB
+
+Tobacco                        Elizabeth Drye         6-5573   6-7431   2100EOB
+
+Welfare Reform                 Cynthia Rice           6-2846   6-7431   212ROEOB
+                               Diana Fortuna          6-5570   6-7431   212LOEOB
+                               Liz Stock              6-7871   6-7431   217LOEOB
+
+
+
+
+                       Automated Records Management System
+                       Hex-Dump Conversion
+
+

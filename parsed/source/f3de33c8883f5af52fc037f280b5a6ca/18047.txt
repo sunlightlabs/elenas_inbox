@@ -1,0 +1,81 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Jason S. Goldberg ( CN=Jason S. Goldberg/OU=WHO!O=EOP [ WHO 1 )
+
+CREATION DATE/TIME: 8-DEC-1997 10:15:00.00
+
+SUBJECT:   URGENT - TIME CHANGE -- POTUS State of the Union Mtg NOW
+
+TO: Miriam H. Vogel { CN=Miriam H. vogel!OU=WHO/O=EOP @ EOP [ WHO 1
+READ: UNKNOWN
+
+TO: Michael Waldman ( CN=Michael Waldman!OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Laura Emmett ( CN=Laura Emmett!OU=WHO!O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Jill M. Blickstein ( CN=Jill M. Blickstein!OU=OMB/O=EOP @ EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Marjorie Tarmey ( CN=Marjorie Tarmey!OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Peter A. Weissman ( CN=Peter A. Weissman/OU=OPD!O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: June G. Turner ( CN=June G. Turner!OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Ruby Shamir ( CN=Ruby Shamir!OU=WHO!O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Michelle Crisci ( CN=Michelle Crisci!OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Eleanor S. Parker ( CN=Eleanor S. Parker!OU=WHO!O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Janet L. Graves ( CN=Janet L. Graves/OU=OMB!O=EOP @ EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Laura K. Capps ( CN=Laura K. Capps!OU=WHO!O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Antony J. Blinken ( CN=Antony J. Blinken!OU=NSC!O=EOP @ EOP [ NSC 1 )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan!OU=OPD!O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Cathy R. Mays ( CN=Cathy R. Mays!OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Terri J. Tingen ( CN=Terri J. Tingen!OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Sara M. Latham .( CN=Sara M. Latham!OU=WHO!O=EOP   @   EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Kevin S. Moran ( CN=Kevin S. Moran!OU=WHO!O=EOP @ EOP [ WHO 1 )
+
+
+READ: UNKNOWN
+
+TO: Scott R. Hynes ( CN=Scott R. Hynes/O=OVP @ OVP [ UNKNOWN]   )
+READ: UNKNOWN
+
+CC: Demond T. Martin ( CN=Demond T. Martin/OU=WHO/O=EOP @ EOP [ WHO]   )
+READ: UNKNOWN
+
+CC: Nancy V. Hernreich ( CN=Nancy V. Hernreich/OU=WHO/O=EOP @ EOP [ WHO]   )
+READ: UNKNOWN
+
+CC: Carole A. Parmelee ( CN=Carole A. Parmelee/OU=WHO/O=EOP @ EOP [ WHO]   )
+READ: UNKNOWN
+
+TEXT:
+Unable to convert ARMS_EXT: [MESSAGE.D7l]MAIL49l083l42.3l6
+The following is a HEX dump of the file:
+
+

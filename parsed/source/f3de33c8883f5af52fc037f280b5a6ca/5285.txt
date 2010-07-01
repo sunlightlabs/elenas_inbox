@@ -1,0 +1,460 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Michael J. Sorrell ( CN=Michael J. Sorrell/OU=PIR/O=EOP [ PIR ] )
+
+CREATION DATE/TIME:14-NOV-1997 16:43:14.00
+
+SUBJECT:
+
+TO: Ananias Blocker III ( CN=Ananias Blocker III/OU=WHO/O=EOP @ EOP [ WHO]                )
+READ: UNKNOWN
+
+TO: Laura K. Capps ( CN=Laura K. Capps/OU=WHO/O=EOP @ EOP [ WHO]            )
+READ: UNKNOWN
+
+TO: Emil E. Parker ( CN=Emil E. Parker/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Laura K. Demeo ( CN=Laura K. Demeo/OU=WHO/O=EOP @ EOP [ WHO]            )
+READ: UNKNOWN
+
+TO: Cheryl D. Mills ( CN=Cheryl D. Mills/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+TO: Robert B. Johnson ( CN=Robert B. Johnson/OU=WHO/O=EOP @ EOP [ WHO]              )
+READ: UNKNOWN
+
+TO: Lynn G. Cutler ( CN=Lynn G. Cutler/OU=WHO/O=EOP @ EOP [ WHO]            )
+READ: UNKNOWN
+
+TO: Sidney Blumenthal ( CN=Sidney Blumenthal/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+TO: Beverly J. Barnes ( CN=Beverly J. Barnes/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+TO: Peter Rundlet ( CN=Peter Rundlet/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+TO: Angelique Pirozzi ( CN=Angelique Pirozzi/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+TO: Sylvia M. Mathews ( CN=Sylvia M. Mathews/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+TO: Thurgood Marshall Jr ( CN=Thurgood Marshall Jr/OU=WHO/O=EOP @ EOP [ WHO]                  )
+READ: UNKNOWN
+
+TO: Susan M. Liss ( CN=Susan M. Liss/O=OVP @ OVP [ UNKNOWN]     )
+READ: UNKNOWN
+
+TO: Ann F. Lewis ( CN=Ann F. Lewis/OU=WHO/O=EOP @ EOP [ WHO]        )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Mickey Ibarra ( CN=Mickey Ibarra/OU=WHO/O=EOP @ EOP [ WHO·]         )
+READ: UNKNOWN
+
+TO: Marjorie Tarrney ( CN=Marjorie Tarmey/OU=WHO/O=EOP @ EOP [ WHO]             )
+
+
+READ: UNKNOWN
+
+TO: Andrew J. Mayock ( CN=Andrew J. Mayock/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Janet Murguia ( CN=Janet Murguia/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Robert N. Weiner ( CN=Robert N. Weiner/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Michael Waldman ( CN=Michael waldman/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Dawn M. Chirwa ( CN=Dawn M. Chirwa/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Bob J. Nash ( CN=Bob J. Nash/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Doris o. Matsui ( CN=Doris O. Matsui/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Mona G. Mohib ( CN=Mona G. Mohib/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Ruby Shamir ( CN=Ruby Shamir/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: PaulE. Begala ( CN=Paul E. Begala/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Gene B. Sperling ( CN=Gene B. Sperling/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Nelson Reyneri ( CN=Nelson Reyneri/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Minyon Moore ( CN=Minyon Moore/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Elisabeth Steele ( CN=Elisabeth Steele/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Trooper Sanders ( CN=Trooper   Sa~ders/O=OvP   @ OVP   [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Suzanne Dale ( CN=Suzanne Dale/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: edley ( edley @ law.harvard.edu @ INET @ LNGTWY [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Maria Echaveste ( CN=Maria Echaveste/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Jon P. Jennings ( CN=Jon P. Jennings/OU=WHO/O=EOP @ EOP [ WHO 1 )
+
+
+READ: UNKNOWN
+
+TEXT:
+Do to my poor email skills, I inadvertenly sent the wrong copy of the
+Weekly Report.  Sorry.==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:    0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D40] MAIL47154671Y. 316 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043CAOA0000010A02010000000205000000375600000002000062124868B540C755E6BD2D
+C1EFE6DE4D6EDB3A4A32ED02E329939761F5A2C2E45B4EF191D22A719AFF9CEBOCC695824F9F93
+OA189701695017FC99249403B12A75893938CC0521403FCEAC557DOF2786CED8F537591F47145E
+3A8D5572DA2DOC722BBC78008A15AFBOB15AA97CAE396467CF7C50842B5209D187C994D71E8477
+6D111EE56A788894D22E7C7E75EFOC439BFD5C9BACCA1659FBBOCO8A59EAOA804001FBCFA4D57F
+BD9CF05C60A2295CD7577A2FED55DCOB348F68448D53C51CCOOAE503EC01640AE569EC1C9BF3D3
+10C6E86B7D23CA498D8FC3C3E4FOFl18C3A4C40A424E18CEC87ACFC3AOBFF3FE813A57C94AD512
+D230ED67B5C1ABEF98069475285AFF03D359A264A52744F16CDE83CC35FCCBOOOF4687240360C5
+79C4B9536AEDECCD726CD2E411DC37D7A54CDE71573B36B1EA21799C55F3BF630ED14D291597F1
+3BC285D3066CEEF33DB4927A7255324CDOBA1C149673331AB5DC48F4D41E76C59F9FD203989EB4
+E8C11DD1478E9AE882894236B7C230A8E1260B6FE5792E810FD5F90239CCBDA4CF4FDC8962F67B
+60B3D5CC3FC51D863E93F84E367FBE6A4B2748070BA30257605E6FBD89AF238429CACCBE82169D
+51EA002C4A5D1E4B7FF8D0792188FE2E3CF3C279EEOF8E5343CC8B9BCDA2DA3859D4E1DBOF72F5
+0204C2D61302001F00000000000000000000000823010000000BOI0000B2030000005520000000
+4EOOOOOOBD040000092501000000060000000B0500000B30070000003D00000011050000087701
+000000400000004E050000083401000000140000008E0500000802010000000FOOOOOOA2050000
+08050100000008000000B105000002080300000044000000B90500000B300600000059000000FD
+05000000650400000001000000560600000B300100000055000000570600000608010000001600
+0000AC0600000B7B020000003DOOOOOOC206000000000000000000000000C20600000B7B020000
+003DOOOOOOFF06000000000000000000000000FF0600000055150000003C0000003C0700000208
+010000004400000078070000020801000000E8000000BC07000000550300000032000000A40800
+0000550100000030000000D608000000000000000000000000D608000000000000000000000000
+D608000000000000000000000000D60800000B7B020000003DOOOO000609000002080100000044
+000000430900000B7B020000003D00000087090000020801000000B8000000C409000000550100
+00004E0000007COA000000985C005C0050004900520031005C005000520049004E005400450052
+003300000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000057494E53504F4F4C00000000002C01F0002COI2C012C012C012C01F0003000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+OB0100002800C8196810480D000011090000005AOOOB010000103600540069006D006500730020
+004E0065007700200052006F006D0061006E00200052006500670075006C006100720000000000
+000000000100020058020100000004002800000015000000000000000000000000000000011292
+4A2400A1000000A1000000D6021500800109000100030000000000FFFF1500D60A000000602401
+005100612401005100622401005100632401005100642401005100652401005100662401005100
+672401005100682401005100692401005100F34C38230000000000000000000000000000000000
+337C007800000200006924000003010004000200000001000AOOOO003AOOOOOODDOA100083010A
+00030035D5291000DDDDOBOB00030000040BOODDD41B1F00800102000800F4011D3D0100F40100
+0058020200580200001FOOD4010000000400280000003100000000000000000000000000000001
+3335D52400A9000000A9000000DDOA1000830104000300924A211000DDD6021500800109000100
+030000000000FFFF1500D6DDOBOC0003010000040COODD000100000004003E0000000000000017
+00000000000000000000000100FFFF2400000400004C0061007200670065002000430069007200
+63006C0065000000F00004FOE030130000000000002E002E000100001300E001000AOOOOOOOCOO
+0000D1000C00000200B0040COOD101000000040028000000150000000000000000000000000000
+000112924A2400A1000000A1000000D6021500800113000100030000000000FFFF1500D6010000
+00040028000000150000000000000000000000000000000112924A2400A1000000A1000000D602
+1500800114000100030000000000FFFF1500D61BOOF41A5C121A09000000000000006000181100
+00102400540069006D006500730020004E0065007700000052006F006D0061006EOOOOOOOOOOOO
+                                                                Hex-Dump Conversion
+
+
+
+
+MEMORANDUM FOR THE PRESIDENT
+
+FROM:         JUDITH A. WINSTON
+
+THRU:          ERSKINE BOWLES
+               SYLVIA MATHEWS
+
+SUBJECT:      PRESIDENT'S INITIATIVE ON RACE WEEKLY REPORT --
+              NOVEMBER 8 - 14
+
+
+
+ADVISORY BOARD ACTIVITIES
+
+        Smithson Bicentennial Medal of Honor. Secretary Ira Heyman presented Dr.
+        Franklin with the James Smithson Bicentennial Medal of Honor on November 12 in
+        recognition of his outstanding contributions as an historian of American life. This
+        presentation was made in conjunction with a Smithsonian program in which Dr.
+        Franklin and his son discussed the recent autobiography of Dr. Franklin's father,
+        Buck Colbert Franklin.
+
+        Consortium on Financing Higher Education. On November 13, Dr. Franklin
+        participated in the annual meeting of the Consortium on Financing Higher
+        Education. He discussed the issues surrounding colleges in the wake of the
+        Hopwood decision and other afftrmative action related matters.
+
+        Fox TV Report. Also on November 13, Dr. Franklin appeared on Fox-TV's
+        "O'Reilly Report". The interview focused on Dr. Franklin's new book and his role
+        as the Chairman of your Advisory Board.
+
+        Hate Crimes Conference. Angela Oh gave the opening address at the Los Angeles
+        satellite site of the conference to approximately 35 people. In her address, she
+        stressed the importance of addressing the serious problem of hate crimes as a
+        necessary step to improve race relations.
+
+        California Women's Law Center. On November 14, Angela Oh was the keynote
+                                                                     Hex-Dump Conversion
+
+    speaker at the California Women's Law Center Annual Luncheon. She urged the
+    women's community to become actively engaged in the Initiative.
+
+    University of California at Irvine. Angela Oh gave the keynote address to
+    approximately 400 people at U.C. Irvine's Symposium on Race on November 15.
+    She spoke about how the Advisory Board will focus on education, and about how
+    the higher education community can contribute to the Initiative.
+
+
+OFFICE OF THE EXECUTIVE DIRECTOR
+
+    Southern Regional Council. On November 8, I spoke to approximately 60 people at
+    the Southern Regional Council's Annual Meeting about the importance of adapting to the
+    changing issues of race as we approach the 2I"st Millennium. In conjunction with my
+    speech, the Atlanta Constitution-Journal featured the Initiative in a full-page story. In
+    addition to these events, I also taped an interview which will air on CNN.
+
+    Hate Crimes Conference. I attended the conference and co-chaired a breakout
+    group on Hate Crimes on Campus with David Longanecker, Assistant Secretary for
+    Post-Secondary Education. My staff is currently involved in ensuring that there is
+    appropriate follow-up to the conference.
+
+    Education Organizations. On November 13, we met with representatives from 10
+    organizations concerned about education issues, including the National Education
+    Association, American Federation of Teachers, and Council ofthe Great City
+    Schools. We exchanged ideas about issues the Initiative should address and how
+    urban educators can help to promote the goals of the Initiative. I urged each group
+    to sponsor a dialogue on race and education at each of their annual meetings and to
+    use their orgaanization's newsletter to engage their membership in discussing our
+    goals for One America and the Race Initiative.
+
+    American University. I addressed an audience of 100 students, faculty,
+    administrators, and employees at a reception at American University
+    commemorating the school's Externship Program on November 12. I urged the
+    education community to examine the significance of race in their studies.
+
+    OUTREACH
+
+    Advisory Board Schedule. We have submitted a tentative schedule of Advisory Board
+    activities for December through June to Dr. Franklin and Sylvia Mathews, for their
+    review. Once they have reviewed this infonnation, we will forward it to the rest of the
+    Advisory Board.
+
+    National Multicultural Institute. On November 10, we met with Liz Sallett, President
+
+                                            2
+                                                                               Records Management System
+                                                                    I lex-Dump Conversion
+of the National Multicultural Institute, and several of the diversity trainers affiliated with
+the Institute. We discussed the most constructive ways to conduct dialogues, town hall
+meetings, and opportunities to build coalitions. They have offered to assist us in the
+training of facilitators, prepare of materials, and plan formats for town hall meetings and
+dialogues.
+
+National League of Cities. On November 12, we met with the director of the National
+League of Cities. The League agreed to publish articles about Initiative activities, assist
+us in working with the mayors to set up events in various communities, and explore how
+to utilize the resources of the State Municipal Leagues.
+
+RESEARCH AND POLICY PLANNING
+
+Policy. We have been working with the Board, White House staff and others to develop
+the message for the November 19 meeting of the Advisory Board and to identify and
+invite presenters for the meeting. The meeting will focus on the value of diversity in
+higher education. The meeting will feature three panels: The first panel will present
+perspectives on the value of diversity in higher education; the second panel will present
+research on what works on campus to promote the benefits of diversity; and the third
+panel will discuss the many methods used to promote inclusion and diversity in higher
+education including affirmative action, outreach, recruitment, pipeline programs, and
+TRIO programs.
+
+Promising Practices. The working group is currently identifying and evaluating
+additional examples of promising practices for dissemination through the Intemet. We
+will post 26 more examples on the website by December 3. As part of the December
+town hall meeting, we plan to highlight 5-10 of these promising practices in a breakout
+room. We met with representatives of the National Conference to discuss program
+identification and evaluation strategies.
+
+Data. We are continuing to meet with CEA to plan the resource book. We are
+preparing data fact sheets on higher education issues for the November 19 Advisory
+Board meeting.
+COMMUNICATIONS
+
+Public Outreach. The focus of the past week has been centered on planning the next
+Advisory Board Meeting on November 19, at the University of Maryland, College Park.
+We are developing a comprehensive media outreach plan.
+
+USA Network Event. On November 7, we met with Carol Stem-LaRosa and Lucille
+Gionet from the A World of Difference Institute (Anti-Defamation League), Iris Burnett
+of USA Network, and Nell Merlino, a consultant for the national office of the YWCA.
+We discussed a possible partnership among the Initiative, the National Voices Coalition,
+
+
+                                          3
+                                                                         Automated Records Management System
+                                                            .            Hex-Dump Conversion
+        YWCA, and the USA Network to sponsor a TV event III April based on
+        anti-discrimination and tolerance.
+
+        Public Service Announcements. At a November 12 meeting, the Ad Council submitted
+        to the White House and Initiative Communications staff a revised creative strategy
+        outlining the vision and message of a PSA focused on youth, as well as a proposed
+        production schedule to meet the December 2 deadline. The White House-Initiative
+        communications group found the creative strategy acceptable and authorized Leadership
+        Conference Education Fund (LCEF) and the Ad Council to proceed_
+
+        Brochure. On November 12, the final draft ofthe PIR brochure was sent to the printer.
+        Copies of the brochure will be distributed at the Advisory Board Meeting.
+
+    WORK TEAMS
+
+        Youth Outreach. On Friday, November 7, members of the Youth Task Force addressed
+        approximately 50 members of the Congressional Black Caucus Staffers and the
+        Congressional Hispanic Caucus Staffers organizations. The purpose of this meeting was
+        to engage and enlist their organizations and their members in the Youth Initiative. We
+        received commitments to forward promising practices and to speak to their members on
+        our behalf.
+
+        Cabinet AffairslFederal Agency. Approximately 50 senior agency staff attended a
+        briefmg/training on One America Conversations, an "At the Tables"-like initiative
+        to engage political appointees and others in hosting roundtable discussions on race
+        around the country. As part of the briefmg, attendees were given how-to kits
+        which provide everything from a sample letter of invitation to a "What I Want the
+        President to Know" form. The attendees at the briefmg, some Cabinet members
+        and a few Advisory Board members will serve as the fIrst roundtable hosts over the
+        Thanksgiving holiday. We expect to have hundreds offederal agency staff hosting
+        roundtables over the ChristmaslHannukah holidays and afterward in the months
+        ahead.
+
+    FEDERAL AGENCY ACTIVITIES
+
+        DEPARTMENT OF TREASURY
+
+        Hate Crimes Conference. On November 10, Under Secretary Kelly and Assistant
+        Secretary Johnson attended the White House Conference on Hate Crimes to speak
+        on Treasury's role in investigating bombings and arsons through ATF, and about
+        FLETC's training programs on hate crimes for state and local law enforcement. In
+        the coming months, Treasury will assess recommendations emerging from the
+        conference intended to improve law enforcement's capacity to deal with hate crimes.
+         Under Secretary Kelly also did a live interview on CNN discussing Treasury's
+
+                                              4
+work on hate crimes.                                          Hex-Dump Conversion
+
+DEPARTMENT OF JUSTICE
+
+Hate Crimes Conference. On November 10, the Attorney General joined President
+Clinton and Vice President Gore for the White House Conference on Hate Crimes.
+The Attorney General highlighted the Clinton Administration's programs that are
+helping to prevent hate crimes.
+
+UNITED STATES DEPARTMENT OF AGRICULTURE
+
+Hate Crimes Conference. Secretary Glickman led a breakout session, with a focus on
+community responses, at the White House Conference on Hate Crimes.
+
+USDA Civil Rights Team. USDA civil rights teams have completed work on 60 of
+the 92 recommendations of the USDA Civil Rights Action Team and are at 80
+percent completion.
+
+DEPARTMENT OF LABOR
+
+Out-of-School Youth Initiative. This week, Secretary Herman announced DOL's
+goal to assist out-of-school youth gain the education, training and access to jobs they
+will need to support themselves and their families as they become contributing
+members of society. The Opportunity Areas for Out-of-School Youth Initiative,
+which targets empowerment zones and enterprise communities, would provide seed
+funds to high poverty urban and rural areas to boost the employment rate of
+out-of-school youth.
+
+BNA Speech. Secretary Herman spoke to the editorial board of the Bureau of
+National Affairs (BNA) regarding the progress made by the President's Initiative on
+Race and DOL's efforts in this area.
+
+DEPARTMENT OF HEALTn AND HUMAN SERVICES
+
+  Hate Crimes Reception. On November 10, Secretary Shalala spoke at the White
+. House Conference on Hate Crimes reception.
+
+DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT
+
+ Hate Crimes Conference. On November 10, Secretary Cuomo attended the White House
+Conference on Hate Crimes. He also held a related press conference on HUD's "Make
+'Em Pay" initiative which sharply increases fines and enforcement for housing-related acts
+of hate violence and intimidation.
+
+
+                                        5
+                                                             Hex-Dump Ccnversicn
+
+Housing Discrimination. On November 13, Secretary Cuomo called into a Fair Housing
+Press Conference in Chicago, IL. The press conference was held by the Leadership
+Council and involves a housing discrimination case involving an Mrican American nun
+who was evicted based on race.
+
+DEPARTMENT OF VETERANS AFFAIRS
+
+HACU Annual Conference. VA's Assistant Secretary for Public and Intergovernmental
+Affairs, Kathy Jurado, participated in the Hispanic Association· of Colleges and
+Universities llth Annual Conference which was recently held in San Antonio, Texas. Ms.
+Jurado made remarks during the Opening Plenary Session on VA's Memorandum of
+Understanding with HACU, and conducted a workshop entitled, "Veterans' Education
+Benefits: Montgomery GI Bill," to encourage Hispanic veterans to utilize those benefits
+within ten years of military separation. Assistant Secretary Jurado also discussed how
+educational institutions can partner with VA to reach and encourage those veterans to use
+their benefits to achieve their educational objectives. She also participated in a Town
+Hail meeting on educational opportunities for the Hispanic cornmunity.
+
+u.   S. Pan Asian American Chamber of Commerce Business Luncheon. VA's Director of
+Affirmative Employment Service recently attended the monthly business luncheon
+sponsored by the U. S. Pan Asian American Chamber of Commerce. A panel of
+distinguished speakers addressed the luncheon topic "Race Relations: Can We Get
+Along?"     The panelists were Roger Clegg, General Counsel, Center for Equal
+Opportunity; Kwasi Holman, Executive Vice President, District of Columbia Chamber of
+Commerce; Stanley Karnow, Author and Journalist; H. Robert Sakinawa, Washington
+Representative, Japanese American Citizens League; and Abigail Thernstrom, Co-Author,
+America in Black and White: One Nation, Indivisible.
+
+Hispanic Interns In Health Care Professions.   VA announced its plans to sponsor 50
+Hispanic students in health care internships in its medical centers, clinics and nursing
+homes nationwide next summer. This initiative is being undertaken in partnership with
+the Hispanic Association of Colleges and Universities (HACU). The HACU internship
+program will provide V A with a more effective recruitment tool in each of the country's
+Hispanic serving institutions. A website has also been made available for students to
+obtain more information about the VA's health care system and HACU's summer
+internships (www.va.govjhacu.htm. ).
+
+
+
+
+                                       6
+
+

@@ -1,0 +1,93 @@
+RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+CREATOR: Christopher C. Jennings ( CN=Christopher C. Jennings/OU=OPD/O=EOP [ OPD ) )
+
+CREATION DATE/TIME:26-MAY-1999 11:13:22.00
+
+SUBJECT:   Finance Committee Hearing on Medicare
+
+TO: Gene B. Sperling ( CN=Gene B. Sperling/OU=OPD!O=EOP@EOP [ OPD ) )
+READ:UNKNOWN
+
+TO: Lawrence J. Stein ( CN=Lawrence J. Stein/OU=WHO/O=EOP@EOP [ WHO ) )
+READ:UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP@EOP [ OPD ) )
+READ: UNKNOWN
+
+CC: Sarah A. Bianchi ( CN=Sarah A. Bianchi/O=OVP@OVP [ UNKNOWN)       )
+READ: UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett!OU=WHO!O=EOP@EOP [ WHO ) )
+READ: UNKNOWN
+
+CC: Melissa G. Green ( CN=Melissa G. Green!OU=OPD!O=EOP@EOP [ OPD ) )
+READ:UNKNOWN
+
+CC: Devorah R. Adler .( CN=Devorah R. Adler /OU=OPD!O=EOP@EOP [ OPD ) )
+READ: UNKNOWN
+
+CC: Jeanne Lambrew ( CN=Jeanne Lambrew!OU=OPD/O=EOP@EOP [ OPD ) )
+READ: UNKNOWN
+
+CC: Mindy E. Myers   ( CN=Mindy E. Myers!OU=WHO/O=EOP@EOP [ WHO ) )
+READ:UNKNOWN
+
+TEXT:
+Attached is the answer to a question that we may recieve following Senator
+Breaux's testimony at the Finance Committee this morning. As you know, he
+is reportedly saying that he will drop the eligibility age increase
+provision. He also is suggesting his openness to a subsidy for all
+Medicare beneficiaries to help pay for a prescription drug benefit.
+Clearly, we are going to have to give a positive reception to this news.
+However, it is important to temper our reaction with our oustanding and
+remaining concerns with the Breaux-Thomas proposal; otherwise, it may be
+taken to be an endorsement of it by our paranoid left flank.
+
+Thanks -- please call with questions.
+
+cj
+
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert "ARMS_EXT: [ATTACH.D16)ARMS25563265V.136 to ASCII,
+ The following is a HEX DUMP:
+
+DOCF1lEOA1B11AE1000000000000000000000000000000003E000300FEFF090006000000000000
+0000000000010000000900000000000000001000000A00000001000000FEFFFFFF000000000800
+
+    Q:   How do you respond to Senator Breaux's testimony today before the Senate Finance
+         Committee (in which he says his next proposal will drop the eligibility age increase
+         and he suggests that he is open to providing a subsidy for all Medicare beneficiaries
+         for a drug benefit)?
+
+    A:   We welcome Senator Breaux's commitment to drop the eligibility age increase provision
+         from his Medicare reform proposal. The President has long stated that it would be bad
+         policy to promote legislation that would inevitably lead to an increase in the numbers of
+         uninsured in this nation. We believe the Senator's remarks about being open to providing
+         financial support for all Medicare beneficiaries to help access needed prescription drugs
+         are also constructive. Modernizing the Medicare program and preparing it for the 21 sl
+         century simply cannot be achieved without addressing the prescription drug coverage
+         issue adequately. We agree with Senator Breaux that providing for a prescription drug
+         benefit should be done in the context of a broader reform package.
+
+         While we are encouraged by Senator Breaux's testimony, we continue to have major
+         differences. For example, we could not support his premium support proposal (and its
+         implicit premium increase on beneficiaries desiring to stay in the traditional program), the
+         proposal for an unlimited home health care copayment, and the proposal's lack of
+         dedicated financing necessary to deal with retirement of the baby boom population.
+
+         We look forward to working with Senator Breaux and all Members of Congress to
+         produce a Medicare modernization package that strengthens and improves the program.
+         The President believes we have an historic opportunity to do so this year and we should
+         take advantage of it.
+
+
+
+
+                             Automated Records Management System
+                             Hex-Dump Conversion
+
+"

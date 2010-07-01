@@ -1,0 +1,214 @@
+RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+CREATOR: Lisa Gordon-Hagerty ( CN=Lisa Gordon-Hagerty/OU=NSC/O=EOP [ NSC 1 )
+
+CREATION DATE/TIME: 3-MAY-1999 14:10:55.00
+
+SUBJECT:    Draft Omnibus Crime Bill- bioterrorism provision
+
+
+TO: Daniel N. Mendelson ( CN=Daniel N. Mendelson/OU=OMB/O=EOP@EOP [ OMB ] )
+READ:UNKNOWN
+
+TO: James Boden ( CN=James Boden/OU=OMB/O=EOP@EOP [ OMB ] )
+READ: UNKNOWN
+
+TO: Jose Cerda III ( CN=Jose Cerda III/OU=OPD/O=EOP@EOP [ OPD ] )
+READ:UNKNOWN
+
+TO: Richard J. Turman ( CN=Richard J. Turman/OU=OMB/O=EOP@EOP [ OMB ] )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP@EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Christopher C. Jennings ( CN=Christopher C. Jennings/OU=OPD/O=EOP@EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Leanne A. Shimabukuro ( CN=Leanne A. Shimabukuro/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Michelle Peterson ( CN=Michelle Peterson/OU=WHO/O=EOP@EOP [ WHO ] )
+READ: UNKNOWN
+
+TEXT:
+At long last, please find attached the latest action memo to be prepared
+for POTUS regarding the bioterrorism provisions in the Omnibus Crime
+Bill. Although everyone has received the background information,
+including the latest bill language as agreed upon by HHS and DOJ and the
+1-2 pagers submitted by each, I have them in my office if you would like
+another copy.
+
+To move this along please:
+make comments or changes using "tracking changes" in WORD so that I know
+which office has provided comments
+please provide a comprehensive submission from your agency.  I have
+already received two comments from one org that were quite frankly at odds
+with one other.
+Since there aren't significant changes from the previous drafts, I would
+like comments by COB Tuesday.
+I sent OSTP, NSC Legal and OVP their copies through classified LAN system.
+
+Let me know if you need anything. Thanks very much.==================== ATTACHMENT
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D65]ARMS28445863X.136 to ASCII,
+ The following is a HEX DUMP:
+
+DOCF11EOA1B11AE1000000000000000000000000000000003E000300FEFF090006000000000000
+0000000000010000003100000000000000001000003300000001000000FEFFFFFF000000003000
+
+
+
+                      Automated Records Management System
+                              Hex-DiJmp Conversion
+
+
+ACTION
+
+MEMORANDUM FOR THE PRESIDENT
+
+THROUGH:        THE EXECUTIVE CLERK
+
+FROM:           SAMUEL BERGER
+                BRUCE REED
+                NEAL LANE
+                RON KLAIN
+
+SUBJECT:        Proposed Biological Terrorism Provisions in the
+                Omnibus Crime Bill
+
+
+Purpose
+
+To determine the Administration position on proposed biological
+terrorism provisions in the Omnibus Crime Bill.
+
+Background
+
+There is consensus within the Administration that serious gaps
+exist in federal bioterrorism laws.  In contrast to chemical,
+nuclear or radiological weapons, there are currently few laws in
+place designed to limit the availability of biological weapons
+to the general public. Current laws are merely suited to
+punishing perpetrators after they unleash biological warfare
+agents, not keeping these substances out of the wrong hands in
+the first place. Therefore, there is interagency agreement that
+the proposed Omnibus Crime Bill would include new provisions
+establishing criminal penalties for:
+
+·   possession of harmful biological agents not justified by a
+    peaceful purpose.  Justification would be determined by type
+    and/or quantity of the agent.
+
+·   Unsafe handling of harmful biological agents.  This provision
+    holds persons accountable who handle such agents with
+    conscious disregard for public health and safety and in a
+    manner that grossly deviates from acceptable-norms.
+
+
+                                                            cc: Vice President
+                                                                Chief of Staff
+                                 2            Hex-Dilmp Con\'ersion
+
+·   unregistered possession and unauthorized transfer of selected
+    biological agents. This provision recognizes that authorities
+    should be aware of who is handling the most deadly biological
+    agents and is a logical extension of current Centers for
+    Disease Control and Prevention (CDC) transfer regulations.
+    Any additional reporting burden will be minimal for scientific
+    facilities that already comply with CDC transfer regulations.
+    You would have 60 days after this legislation comes into
+    effect to designate the agency that would be responsible for
+    the registration process.
+
+·   Knowingly perpetrating a hoax regarding the use of harmful
+    biological agents. Necessary given the recent spate of such
+    hoaxes as the rash of anthrax scares around the United States.
+
+
+There is interagency disagreement, however, on one remaining
+issue. Janet Reno supports including far-reaching bioterrorism
+provisions in the Omnibus Crime Bill; Donna Shalala would scale
+back the proposal due to concerns that some of the provisions
+would overburden the legitimate medical research community.
+
+Justice Option.  Justice's draft Omnibus Crime Bill further
+proposes that criminal penalties be established for:
+
+·   Possession of select biological agents by a restricted
+    individual. This provision recognizes that factors such as a
+    felony record, past mental impairment, or illegal alien status
+    raise significant questions regarding the suitability to
+    possess deadly biological agents.  However, immediate waivers
+    are permitted in certain circumstances.
+
+Justice notes that bioterrorism is a growing concern in Congress
+and that many on both sides of the aisle will be watching to see
+if the Administration will produce a draft bill with a strong
+law enforcement focus before introducing their own proposals.
+Justice believes that its proposed provisions will provide law
+enforcement with critical tools to prevent a bioterrorism
+catastrophe, while only being minimally intrusive on the
+legitimate research community.  The proposed legislation does
+not criminalize the actions of persons within the scientific
+community, except where their conduct so deviates from accepted
+safety standards as to be reckless or where it involves
+complicity in sharing lethal agents with persons known to be
+barred from possessing such agents.  Even with these precautio~s
+in place, Justice has agreed to a HHS proposal to accompany the
+submission of this legislation with a statement to Congress
+
+
+
+                                       3    Automated Records Management System
+                                                   Hex-DiJmp Conversion
+
+     indicating that we will review the bill's provisions with
+     responsible representatives of the scientific community over a
+     60 day period, after which the Administration would advise
+     Congress of any changes found to be appropriate.  The Justice
+     Option is supported by NSC.
+
+     HHS Option.  HHS believes the provisions in the Justice Option
+     would chill vital scientific endeavors and instead recommends
+     that:
+
+     ·   A Presidential deadline be set for consultations with the
+         scientific community to propose measures to address the
+         training of scientists, safe procedures for handling, storage
+         and security of biocontaminants, civil fines and penalties,
+         and to consider what personal characteristics or events in an
+         individual's history could legitimately support exclusion from
+         research on select agents.
+
+     HHS also objects to criminal liability for employers who employ
+     individuals with certain characteristics or histories because
+     the limiting factors 'will cover minor transgressions that are
+     unlikely to be associated with terrorist proclivities.   For
+     instance, addiction to controlled substances, which could
+     include prescription medicines and commitment to a mental
+     institution,which could include treatment for simple
+     depression.  The Justice provision allows for exceptions in
+     limited circumstances, for example in certain cases where the
+     disqualifying event is more than five years old and the employer
+     makes a written determination that the employee is suitable or
+     if the employee is a lawful, non-permanent resident alien, the
+     employee receives a waiver from an agency designated by you.
+     Nonetheless, HHS believes that in practice employers would not
+     be willing to accept the risk of employing individuals even if
+     one of the exceptions applies, and therefore qualified
+     scientists will be effectively excluded from the profession.
+     The HHS Option is supported by OSTP.
+
+     RECOMMENDATION
+
+     That you decide between the two options above.
+
+                      Justice Option
+
+
+                      HHS Option
+
+

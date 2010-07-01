@@ -1,0 +1,758 @@
+  RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+  CREATOR: Neera Tanden ( CN=Neera Tanden/OU=WHO/O=EOP [ WHO 1 )
+
+  CREATION DATE/TIME: 7-JAN-1998 09:10:58.00
+
+  SUBJECT:   NEW & REVISED Q & A AND POLICY ANNOUNCEMENT
+
+  TO:� Amy N. Finkelstein ( CN=Amy N. Finkelstein/OU=CEA/O=EOP @ EOP [ CEA 1 )
+  READ: UNKNOWN
+
+  TO: Kevin S. Moran ( CN=Kevin S. Moran/OU=WHO/O=EOP @ EOP [ WHO 1 )
+  READ: UNKNOWN
+
+  TO: Robin J. Bachman ( CN=Robin J. Bachman/OU=WHO/O=EOP @ EOP [ WHO 1 )
+  READ: UNKNOWN
+
+  TO: Ann F. Lewis ( CN=Ann F. Lewis/OU=WHO/O=EOP @ EOP [ WHO 1 )
+  READ: UNKNOWN
+
+  TO: Michelle Crisci ( CN=Michelle Crisci/OU=WHO/O=EOP @ EOP [ WHO 1 )
+  READ: UNKNOWN
+
+  TO: Emily Bromberg ( CN=Emily Bromberg/OU=WHO/O=EOP @ EOP [ WHO 1 )
+  READ: UNKNOWN
+
+  TO: Maria Echaveste ( CN=Maria Echaveste/OU=WHO/O=EOP @ EOP [ WHO 1 )
+  READ:UNKNOWN
+
+  TO: Nicole R. Rabner ( CN=Nicole R. Rabner/OU=WHO/O=EOP @ EOP [ WHO 1 )
+  READ: UNKNOWN
+
+  TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+  READ:UNKNOWN
+
+  TO: Katharine Button ( CN=Katharine Button/OU=WHO/O=EOP @ EOP [ WHO 1 )
+  READ:UNKNOWN
+
+  TO: Emil E. Parker ( CN=Emil E. Parker/OU=OPD/O=EOP @ EOP [ OPD 1 )
+  READ: UNKNOWN
+
+  TO: Andrea Kane ( CN=Andrea Kane/OU=OPD/O=EOP @ EOP [ OPD 1 )
+  READ: UNKNOWN
+
+  TO: Stacie Spector ( CN=Stacie Spector/OU=WHO/O=EOP @ EOP [ WHO 1 )
+  READ: UNKNOWN
+
+  TO: Paul E. Begala ( CN=Paul E. Begala/OU=WHO/O=EOP @ EOP [ WHO 1 )
+  READ: UNKNOWN
+
+  TO: Rahm I. Emanuel ( CN=Rahm I. Emanuel/OU=WHO/O=EOP @ BOP [ WHO 1 )
+  READ:UNKNOWN
+
+  TO: Janet Murguia ( CN=Janet Murguia/OU=WHO/O=EOP @ EOP [ WHO 1 )
+  READ: UNKNOWN
+
+  TO: Elizabeth R. Newman ( CN=Elizabeth R. Newman/OU=WHO/O=EOP @ EOP [ WHO 1 )
+  READ: UNKNOWN
+
+  TO: Jennifer L. Klein ( CN=Jennifer L. Klein/OU=OPD/O=EOP @ EOP [ OPD 1 )
+
+
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TEXT:
+PLEASE DISREGARD EARLIER PAPER
+
+     ==================== ATTACHMENT    1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D94]MAIL40193360R.026 to ASCII,
+ The following is a HEX DUMP:
+
+FFS7S043D20E0000010A0201000000020S000000FS920000000200002F030FB8498BFEOE29BCDC
+EF3E3032C87907AAB86CAD298S9E09S04A418733E6FSSS032DEC842F34FFED319S62C9A87F7E38
+EB701F3B7ECF163CAOCSB891AS6021F2ED927390C8BB3B24A31B63737BESD1E1S01404DE909F21
+08CAB69S17361FA7BF7A01DB73B04F7F901096FB4E6ECS71B26CDS3S9AB78S7432COC438A8DB82
+lA3069AD93F28C806AS4S1EEB16BF8F87F26C012EF18E3EB8F6116238FEFEF6E769D1S68C08AD8
+6A42E9F40B9637733B4DCF19FC9690064CFD4613BB96A9CE4CS19FD3D1AFF39C64F93DSFD71729
+FAASD8E87FE7B4BCEC1764BD7C971E94AAl13ACDA1D49896ECOCFB7B9C7EE811B6AEB12BF98BBO
+37816A1S6729D9211186E4E198D67E419442C30D88DAE1F2B01F1DOF190CSE3397208789496EB9
+S106F76D64418COB1CECEC1CEA74896DllS69S97DD379DBC63347908DD40EB173SD61B19961F6C
+4BC131348CB8BFD32CSA7331EFBBA88137693604FDAC71D13CE9CA0726F73B28BF6BAFC93CB064
+A7SC3BFDFSBDS799426F77BBE831EB49FFEAFBF029820778186EF9648SDDAD948C3C8SB6374833
+FD67BS608B43AFCCF933B2919FC4SDB32683B230F72AD78B09134S7CSE7848481SS39C7BF4B081
+lBC2A43E3D7A616464639C9FAEBFFFF811EDF3A8DA1FSE3CC03B704SC80BC8D6FC926097COS4D9
+87A8S4FS9S0200Al00000000000000000000000823010000000BOl0000CEOAOOOOOOSS31000000
+4EOOOOOOD90B0000092S0100000006000000270COOOOOB3002000000280000002DOC0000081601
+00000032000000SS0C000008770100000040000000870C000008340100000014000000C70COOOO
+0802010000000FOOOOOODBOC0000080S0100000008000000EAOCOO0000SS190000004EOOOOOOF2
+OCOOOOOOSS0700000042000000400DOOOOOOSS130000003COOOOOO820DOOOOOOOOOOOOOOOOOOOO
+0000820DOOOOOOSS0100000032000000BEODOOOOOOOOOOOOOOOOOOOOOOOOBEODOOOOOOOOOOOOOO
+OOOOOOOOOOBEODOOOOOOOOOOOOOOOOOOOOOOOOBEODOOOOOOOOOOOOOOOOOOOOOOOOBEODOOOOOOOO
+OOOOOOOOOOOOOOOOBEODOOOOOOOOOOOOOOOOOOOOOOOOBEODOOOOOOOOOOOOOOOOOOOOOOOOBEODOO
+OOOOOOOOOOOOOOOOOOOOOOBEODOOOOOOOOOOOOOOOOOOOOOOOOBEOD000000000000000000000000
+BEODOOOOOOOOOOOOOOOOOOOOOOOOBEODOOOOOOOOOOOOOOOOOOOOOOOOBEODOOOOOOOOOOOOOOOOOO
+OOOOOOBEODOOOOOOOOOOOOOOOOOOOOOOOOBEODOOOOOOOOOOOOOOOOOOOOOOOOBEODOOOOOOOOOOOO
+000000000000BEODOOOOOB300D0000004EOOOOOOFOODOOOOOOOOOOOOOOOOOOOOOOOOFOODOOOOOO
+OOOOOOOOOOOOOOOOOOFOODOOOOOOOOOOOOOOOOOOOOOOOOFOODOOOOOOOOOOOOOOOOOOOOOOOOFOOD
+OOOOOOOOOOOOOOOOOOOOOOOOFOODOOOOOOOOOOOOOOOOOOOOOOOOFOODOOOOOOOOOOOOOOOOOOOOOO
+OOFOODOOOOOOOOOOOOOOOOOOOOOOOOFOODOOOOOOOOOOOOOOOOOOOOOOOOFOODOOOOOOOOOOOOOOOO
+00000000FOOD000009420S0000001D0000003EOEOOOOOOOOOOOOOO00000000003EOEOOOOOOOOOO
+000000000000003EOE0000000000000000000000003EOEOOOOOOOO00000000000000003EOEOOOO
+000000000000000000003EOE0000000000000000000000003EOEOO00000000000000000000003E
+OE0000000000000000000000003EOEOOOOOOOOOOOOOOOOOOOOOOOO3EOEOOOOOOOOOOOOOOOOOOOO
+00003EOE0000000000000000000000003EOE000009440200000033OOOOOOSBOEOOOOOOOOOOOOOO
+OOOOOOOOOOSBOEOOOOOOOOOOOOOOOOOOOOOOOOSBOEOOOOOOOOOOOOOOOOOOOOOOOOSBOEOOOOOOOO
+OOOOOOOOOOOOOOOOSBOEOOOOOOOOOOOOOOOOOOOOOOOOSBOEOOOOOOOOOOOOOOOOOOOOOOOOSBOEOO
+OOOOOOOOOOOOOOOOOOOOOOSBOEOOOOOOOOOOOOOOOOOOOOOOOOSBOE000000000000000000000000
+SBOEOOOOOOOOOOOOOOOOOOOOOOOOSBOEOOOOOOOOOOOOOOOOOOOOOOOOSBOEOOOOOOOOOOOOOOOOOO
+OOOOOOSBOEOOOOOOOOOOOOOOOOOOOOOOOOSBOEOOOOOOOOOOOOOOOOOOOOOOOOSBOEOOOOOOOOOOOO
+OOOOOOOOOOOOSBOEOOOOOOOOOOOOOOOOOOOOOOOOSBOEOOOOOOOOOOOOOOOOOOOOOOOOSBOEOOOOOO
+OOOOOOOOOOOOOOOOOOSBOEOOOOOOOOOOOOOOOOOOOOOOOOSBOEOOOOOOOOOOOOOOOOOOOOOOOOSBOE
+OOOOOOOOOOOOOOOOOOOOOOOOSBOEOOOOOOOOOOOOOOOOOOOOOOOOSBOEOOOOOOOOOOOOOOOOOOOOOO
+OOSBOEOOOOOOOOOOOOOOOOOOOOOOOOSBOEOOOOOOOOOOOOOOOOOOOOOOOOSBOEOOOOOOOOOOOOOOOO
+OOOOOOOOSBOEOOOOOOOOOOOOOOOOOOOOOOOOSBOEOOOOOOOOOOOOOOOOOOOOOOOOSBOEOOOOOOOOOO
+OOOOOOOOOOOOOOSBOEOOOOOOOOOOOOOOOOOOOOOOOOSBOEOOOOOOOOOOOOOOOOOOOOOOOOSBOEOOOO
+OOOOOOOOOOOOOOOOOOOOSBOEOOOOOOOOOOOOOOOOOOOOOOOOSBOEOOOOOOOOOOOOOOOOOOOOOOOOSB
+                                        January 7, 1998
+
+                                Internal Questions & Answers
+
+1. What is the President announcing today?
+
+        President Clinton today announced an historic initiative to improve child care for
+America's working families. The President's FY 1999 budget will include approximately
+$20 billion over five years for child care, the largest single investment in child care in the
+nation's history. President Clinton's initiative responds to the struggles our nation's
+working parents face in finding child care that they can afford, trust, and rely on. The
+President's proposal will help working families pay for child care, build the supply of good
+after-school programs, improve the safety and quality of care, and promote early learning.
+�      Doubles the number of children receiving child care subsidies to more than two
+       million by the year 2003 by increasing funding for the Child Care and
+       Development Block Grant by $7.5 billion over 5 years.
+�      Increases tax credits for three million working families to help them pay' for
+       child care by investing $5.2 billion over 5 years in the Child and Dependent Tax
+       Credit. The President's proposal also provides a new tax credit for businesses
+       that offer child care services for their employees.
+�      Provides after-school care for 500,000 children per year by expanding the 21st
+       Century Community Learning Center program by $800 million ov.er 5 years to
+       provide funds to school-community partnerships to establish or expand
+       programs for school-age children.
+�      Improves child care safety and quality and enhances early childhood
+       development by establishing a new Early Learning Fund as well as supporting
+       enforcement of state child care health and safety standards, providing
+       scholarships to up to 50,000 child care providers per year, and investing in
+       research and consumer education.
+
+Child Care Block Grant Increase                             $7.5 billion over five years
+Child and Dependent Tax Credit Reform                       $5.2 billion over five years
+Tax Credit for Businesses                                   $500 million over five years
+After-School Program                                      . $1 billion over five years
+Early Learning Fund                                         $3 billion over five years
+Head Start Increase                                         $3.4 billion over five years
+Standards Enforcement Fund                                  $500 million over five years
+Child Care Provider Scholarship Fund                        $250 million over five years
+Research and Evaluation Fund                                $150 million over five years
+                                           ITOTAL:          $21.3 billion over five years
+
+
+
+                                               I
+                                                              Automated Records Management System
+                                                              Hex-Dump Conversion
+ initiative now? Is this a new problem?
+
+The child care initiative underscores President Clinton's commitment to strengthening
+America's families. As the President has said, child care is "the next great frontier if we're
+going to make sure all Americans can succeed at home and at work." (7/28/97) The initiative
+that the President announced today builds on the Earned Income Tax Credit, the Family
+Medical Leave Act, the Child Tax Credit, the new children's health insurance program, and a
+host of other legislation the President has fought for to help American families.
+
+ The initiative also builds on President Clinton's continuing efforts to improve and increase
+ funding for. child care. Under President Clinton, federal funding for child care has increased
+ by 70%, helping parents pay for the care of about one million children. The 1996 welfare
+ reform law increased child care funding by $4 billion over six years to provide child care
+ assistance to low-income working families moving from welfare to work.
+
+ 3. How are you going to pay for this big package?
+
+  The President's budget carefully pays for each and every element of his child care initiative.
+  The package is funded in a variety of ways -- some on the mandatory and others on the
+  discretionary side of the budget. The offsets for the mandatory items include -- but are not
+  limited to -- expected revenues from a national tobacco settlement, which the President hopes
+. and believes Congress will pass this year.
+
+ 4. Since much of the funding of this proposal is based on the tobacco settlement, aren't
+ you counting your chickens before they've hatched? What will you do if the tobacco
+ settlement does not go through?
+
+ First, the initiative is paid for in a number of ways -- only one part comes from tobacco
+ revenues. Second, and more important, we believe that a national tobacco settlement will
+ pass. The President strongly supports legislation consistent with his principles, and many
+ Republicans and Democrats alike are working vigorously to craft comprehensive legislation.
+ Of course, no offset proposed in a budget is guaranteed; the Congress can reject any proposed
+ way of financing a program. If Congress does not pass comprehensive tobacco legislation,
+ we will work with Congress to find other offsets. This is a high Administration priority, and
+ we will find an effective funding mechanism.
+
+ 5. Aren't you just creating a new federal bureaucracy?
+
+ The President's child care initiative creates no new federal bureaucracy. Rather, it relies on
+ states and communities to decide for themselves how best to address the child care challenges
+ they face. Indeed, the funds for each major initiative flow either to states or communities, or
+ in the case of tax credits, to individuals themselves.
+
+
+
+                                                  2
+crucial development that takes place in the first years of a child's life. Given that the
+best caregiver is a parent, what are you doing to help parents stay at home with their
+children during this important time?
+
+The program announced today is primarily oriented toward families where both caregivers go
+to work, usually for reasons of financial necessity. It is designed to ensure that children in
+these families receive quality care even though their parents are in the workforce.
+
+The President believes strongly, however, that we should support parents who can and
+choose to stay home. Today's announcement also includes two proposals that will help
+these parents stay at home. First, the Administration will support demonstration projects in
+states and communities to test policies to help new parents who choose to stay home to care
+for their newborns or newly adopted children. Second, the President's Early Learning Fund
+supports parents who stay at home by supporting home visits and parent education.
+
+These initiatives build on President Clinton's record of providing real choices and
+opportunities for parents. He has fought for: a $500 per child tax credit for families with
+children; the Earned Income Tax Credit that gives 15 million working families tax relief;
+health insurance for children; increases in the minimum wage; and the Family and Medical
+Leave Act. President Clinton is committed to helping parents make the choices that are
+right for their families, whether that means working or staying home to care for their
+children.                           .
+
+7. What role did the   Firs~   Lady have in developing this initiative?
+
+The First Lady has been a strong voice for children and families for over twenty-five years
+and continues to work on these issues. Mrs. Clinton played an important role in developing
+the White House Conference on Early Learning and Development and the White House
+Conference on Child Care. During the policy development process for the child care
+initiative, the President looked to the First Lady for her advice and expertise on the problems
+with the child care system and on possible solutions.
+
+8. How do you expect to get Republican support for this initiative?
+
+Child care traditionally has been a bipartisan issue. In fact, two ofthe central elements of
+the President's child care initiative were strongly supported by previous Republican
+Presidents and Members of Congress. Both Presidents Reagan arid Bush supported the
+expansion of the Child and Dependent Care Tax Credit, and President Bush supported the
+creation of the Child Care and Development Block Grant.
+
+Many Members of the House and Senate from both sides of the aisle have shown a
+commitment to taking action by introducing legislation that would improve the quality of
+child care, make it more affordable, and promote early learning. We look forward to
+
+
+                                                 3
+
+TAX CREDITS
+
+
+9. Today, the Child and Dependent Care Tax Credit (CDCTC) favors middle-income
+taxpayers and offers less relief to lower-income taxpayers. Wouldn't it be more fair to
+make the CDCTC refundable?
+
+The President's proposed expansion of the CDCTC would wipe out tax liability for most
+families with incomes under 200% of poverty (e.g., $35,000 for a family offour) who have
+the maximum allowable child care expenses. In addition, the President's proposal
+significantly expands the Child Care and Development Block Grant, which is an effective
+mechanism to help low-income working families with child care costs. The two proposals
+together offer significant relief to both low- and middle-income parents.
+
+10. Wouldn't eliminating the marriage penalty help millions of working families with
+children? Why aren't you supporting eliminating the penalty as part of your child
+care initiative?
+
+The Administration believes that proposals currently on the table to eliminate the marriage
+penalty are prohibitively expensive in the context of a balanced budget. The President chose
+instead to provide targeted tax cuts to assist American families struggling to meet child care
+costs. These tax cuts will help more than three million families to pay for high-quality child
+care.
+
+Helping working families, especially those with children, has been the centerpiece of the
+President's agenda on tax cuts. In 1993, the President expanded the Earned Income Tax
+Credit to give the average recipient with two children more than $1,000 in tax relief. In 1997,
+the President signed into law a $500 per child tax credit that will help 27 million families
+meet the costs of raising their children. In addition, his $1,500 HOPE Scholarship Tax Credit
+and Lifelong Learning Tuition Tax Credit will help nearly 13 million students meet the costs
+of college and higher education. The President will continue to focus tax and overall
+economic policy on helping working families.
+
+11. Won't the employer credit for child care expenses that the President is proposing
+create a windfall for companies already operating child care centers or otherwise
+subsidizing employee child care?
+
+Very few for-profit employers are currently making child care services available to their
+employees . .The credit will provide a real incentive to employers to create new employee
+child care programs. Also, for those employers who already have a child care program, the
+credit will help support expansion of services.
+
+
+
+
+                                                 4
+
+12. Why are you expanding the Child Care and Development Block Grant (CCDBG)
+when states aren't using all of their child care subsidy money now?
+
+In fact, we are very encouraged by state reports which show they have obligated over 99 of
+the child care fund available under the new welfare law for FY 1997.       This demonstrates
+the tremendous need states have for child care, and President Clinton has continued to urge
+states to invest their dollars into helping these working families. But let's be clear-this
+current initiative is not aimed at mothers on welfare. It's aimed at working parents who
+desperately need this assistance. For example, working families with annual incomes under
+$14,400 that pay for care for children under five spend 25 of their income on child care --
+and even then it's difficult finding accessible, quality care.
+
+13. According to some news stories, states have big surpluses which they could spend on child
+care. Rep. Clay Shaw recently issued a report saying that states have significant and growing
+surplus federal welfare dollars. The report also said that given the surpluses and the increase in
+child care funding under the new welfare law, there isn't a need now for more child care
+money. Why are you proposing to add to CCDBG?
+
+The Administration is very pleased that a strong economy and state welfare reform efforts
+have helped families move from welfare to work. But let's be clear-this initiative is not
+aimed at mothers on welfare. It's aimed at working parents. For example, working families
+with annual incomes under $14,400 that pay for care for children under five spend 25% of
+their income on child care. Currently, we're serving only a small percentage of eligible
+children from working families: there are approximately 10 million children who are eligible
+for federal child care assistance, but we are able to serve only over a million of these children.
+
+
+For America's working families to succeed in the workplace, they need quality choices in
+affordable and accessible child care. The President's initiative, with its combination of
+increased subsidies for low-income families and tax credits for moderate- and middle-income
+families, will provide working parents the opportunity to remain self-sufficient and succeed
+both at home and at work.
+
+14. When the President signed the welfare bill, he claimed that the big increase in
+CCDBG would make welfare reform work. Now that he is proposing adding to it, is he
+admitting that his previous child care efforts were not sufficient?
+
+No. The President fought to spend $4 billion more on child care in welfare reform
+legislation to help mothers on welfare go to work, and he continues to believe that child care
+is a critical component of welfare reform. However, low-income parents who have never
+been on welfare are also struggling to afford child care, and all working families want their
+
+                                                   5
+address the concerns and needs of all working families in this country. In particular,
+expansion of the block grant will enable many states to provide subsidies for the first time to
+the non-welfare working poor.
+
+15. In order to keep up with the additional need for child care under welfare reform,
+aren't states creating new slots at the expense of quality? What protection do you have
+against states just increasing slots without regard to quality if you simply increase the
+block grant?
+
+The President believes that we must make child care more affordable as well as improve
+quality because he believes that both are important. That is why his child care initiative
+includes investments in both, and that is why the President fought hard during the welfare
+debate to preserve 4% of funding through the child care block grant for state investments in
+quality.
+
+QUALITY
+
+16. What does the Early Learning Fund actually do? How will you measure results?
+
+Recent scientific research has demonstrated that experiences during the earliest years of life --
+before children reach school age -- are critical to their cognitive, emotional, and physical
+development. Nurturing and stimulating children in the first years of life help their brains
+develop and prepare them for the challenges of school and later life. We also know that too
+much child care for infants and toddlers is inadequate: one respected study found that 13% of
+regulated and 50% of unregulated family child care providers offer care that is inadequate for
+children ages zero to three. President Clinton's proposed Early Learning Fund is designed to
+improve early learning and development for our youngest children; to ensure health and
+safety in child care; and to support parents as they raise their children.
+
+The President's Early Learning Fund builds on state initiatives such as North Carolina's
+Smart Start, which helps North Carolina's children enter school healthy and ready to succeed.
+ Smart Start funds a broad variety of local efforts, including improving staff-to-child ratios,
+health linkages that have raised immunization rates, and parent education and mentoring
+programs to give new parents support.
+
+17. How is the Early Learning Fund different from Early Head Start?
+
+Early Head Start is a relatively small program that reaches only certain poor families. The
+new initiative will promote early learning and provide parent support and education to
+parents at a wider range of income levels. The Early Learning Fund also differs from Head
+Start and Early Head Start because it targets support to communities that have developed
+innovative approaches to foster early learning and meet the child care needs of families.
+
+
+
+                                                 6
+What's new in this Head Start initiative?
+
+The President's child care initiative proposes an additional $1 billion targeted to Early Head
+Start to double the number of infants and toddlers served, in addition to his commitment to
+reauthorize all of Head Start to reach one million children by 2002. The total cost is $3.4
+billion.
+
+19. Much of the research the White House has highlighted tells us what we need to do
+to ensure healthy child development. Given that these practices are the same
+everywhere, why have you not proposed national standards?
+
+We do know what works. As we learned at the White House Confe.rence on Child Care, safe
+facilities, ongoing guidance from health professionals, and child care providers who are well
+trained and adequately compensated result in quality care. However, we also learned at the
+conference that many states have good quality standards, but do not have the resources to
+fund enforcement of those standards. The President's Standards Enforcement Fund will
+help states improve licensing, enforce standards, and increase unannounced inspections
+of child care settings. In addition, particularly when it comes to the youngest children,
+different states face different challenges in their child care systems. That is why the
+President's Early Learning Fund gives states a menu of allowable activities to promote early
+learning and development so that states can concentrate on those areas where they are falling
+behind. In this way, the quality of care will improve across the country.
+
+ 20. At the White House Conference on Child Care, you championed the National
+ Crime Prevention and Privacy Compact. What happened to the Compact?
+
+The National Crime Prevention and Privacy Compact has been transmitted to Congress. The
+Compact is an important part of the President's child care initiative, and the President will
+push for its passage when Congress returns.
+
+ 21. Won't the scholarship fund raise the wages of child care workers, and in turn,
+ increase the cost of child care and make it unaffordable for many families?
+
+  This proposal is modeled after North Carolina's T.E.A.C.H. program; North Carolina has not
+. seen higher costs since it put T.E.A.C.H. in place. Because child care workers are likely to
+  stay in their jobs longer if they are trained and better compensated, any additional costs of
+  increased wages will be offset to some extent by savings associated with reduced staff
+  turnover.
+
+ 22. If you are proposing a huge increase in federal research of child care issues,
+ shouldn't you wait to make policy based on what you learn from the research?
+
+
+
+                                                 7
+Child care is a pressing problem in America: 45% percent of all children under the age of one
+are in child care on a regular basis; much of this is inadequate; and families with annual
+incomes under $14,400 that pay for care for children under five spend about 25% of their
+income on child care. We cannot afford to wait to improve the quality of care these children
+receive.
+
+AFTER- SCHOOL PROGRAMS
+
+23. Your after-school proposal requires programs to be run in the schools. What do
+you do for those children in communities where the school will not or cannot provide an
+after-school program?
+
+While a major purpose of the 21st Century Learning Centers Program is to make use of
+underutilized school facilities, the program includes a set aside to fund programs run by
+community groups. In addition, the President's FY 1999 budget includes $95 million for
+after school and other prevention programs administered by the Department of Justice.
+Innovative programs that are run by community groups in museums, recreation centers or
+other places outside schools may receive funding from this after-school initiative.
+
+GENERAL
+
+24. Much attention has been given to the au pair system since nineteen year old Louise
+Woodward was tried for killing a baby in her care. What are you doing to reform the
+au pair system?
+
+The U.S. Information Agency (the agency that runs the au pair program) announced in
+September updated regulations on the screening and placement of au pairs. Under the new
+regulations: au pairs who care for children under two years old must have 200 or more
+documented hours of infant-care experience; au pair training will include 24 hours of
+child-development instruction; au pairs will be limited to working 10 hours a day and 45
+hours a week; their pay will be increased from $115 to $139 a week; and the screening and
+selection process will be improved.
+
+25. What are the child care options for parents who work at the White House?
+
+Employees of the Executive Office of the President (EOP) can enroll their children in the
+nearby U.S. Kids Child Development Center, a center accredited by the independent National
+Association for the Education of Young Children. Additionally, White House parents may
+enroll their children in any of the 27 other Federal child care centers in the greater
+Washington, D.C. area.
+
+26. What is the child care system for federal employees?
+
+
+
+                                               8
+buildings in as many as 36 states, including 108 centers overseen by the General Services
+Administration (GSA). Seventy-three percent of GSA sponsored centers are accredited by
+the independent National Association for Education of Young Children, and GSA is working
+to reach 100 accreditation within two years. Striving to meet the needs of parent workers,
+89 of GSA centers have infant care, 74 have drop-in/emergency care, and 42 provide
+summer programs for school-aged children. In addition, more than 80 of centers are open
+11 or more hours per day. Notably, nearly 70% of the child care center directors have ten or
+more years of experience in early childhood education.
+
+27. Apparently many low-income federal employees cannot afford the federal child
+care system. What are you doing to help them?
+
+The federal government, like the private sector, still faces challenges in providing affordable
+care to lower paid employees. GSA has studied this problem intensively this year and has
+released a report to Congress outlining a plan to increase revenues and enrollment, reduce
+operating costs, and expand the availability of tuition assistance for parents who can't afford
+to pay full fees.
+
+28. You have touted the military's child care system as a model for. the nation. Isn't it
+good because they spend so much?
+
+While the military does invest significant resources into their child care system, they also set
+and enforce high quality standards (including through unannounced inspections), support
+family day care networks, offer a strong resource and referral system, and provide a wide
+variety of care options, all of which increase quality without large investments.
+
+The Department of Defense's Child Care System serves over 200,000 children daily (age
+zero to 12), making it the largest employer-sponsored child care program in the nation.
+Through this system, the military offers full-day, part-day, and hourly child care, part-day
+preschools, before- and after-school programs for school age children, and extended hour
+care. Because of the Department of Defense's cornmitment to excellence'in child care, since
+1992, the number of military child care facilities that are accredited by the independent
+National Association for the Education of Young Children has risen from 55 to 353.
+Currently, over 75% of military child care programs are accredited, as compared to only 7%
+of other child care facilities nationwide.
+
+29. Washington D.C.'s child care system is in crisis. What are you doing to improve
+the child care system in this city?
+
+Administration officials, concerned over the state of child care in the District, have met with
+D.C. officials on several occasions to discuss ways to improve the quality of care the children
+who live in the District receive. A working group including major stakeholders -- the
+Department of Health and Human Services, the Office of Management and Budget, the office
+
+                                                 9
+partnership to improve the quality of child care services in the District. The District's
+Department of Consumer and Regulatory Affairs has issued a draft Strategic Plan to improve
+child care quality.
+
+In addition, the President will include D.C. as one of three to five pilot cities involved in an
+interagency effort to eliminate duplication and better coordinate federal funding streams for
+after-school programs.
+
+
+
+
+                                                  10
+                                      January 7, 1998
+
+        President Clinton today announced an historic initiative to improve child care for
+America's working families. The President's FY 1999 budget will include approximately
+$20 billion over five years for child care, the largest single investment in child care in the
+nation's history. President Clinton's initiative responds to the struggles our nation's
+working parents face in finding child care that they can afford, trust, and rely on. The
+President's proposal will help working families pay for child care, build the supply of good
+after-school programs, improve the safety and quality of care, and promote early learning.
+
+�       Doubles the number of children receiving child care subsidies to more than two
+        million by the year 2003 by increasing funding for the Child Care and
+        Development Block Grant by $7.5 billion over 5 years.
+
+�       Increases tax credits for three million working families to help them pay for
+        child care by investing $5.2 billion over 5 years in the Child and Dependent Tax
+        Credit. The President's proposal also provides a new tax credit for businesses
+        that offer child care services for their employees.
+
+�       Provides after-school care for up to half a million children per year by
+        expanding the 21st Century Community Learning Center program by $800
+        million over 5 years to provide funds to school-community partnerships to
+        establish or expand programs for school-age children.
+
+�       Improves child care safety and quality and enhances early childhood
+        development by establishing a new Early Learning Fund as well as supporting
+        enforcement of state child care health and safety standards, providing
+        scholarships to up to 50,000 child care providers per year, and investing in
+        research and consumer education.
+
+
+    Child Care Block Grant Increase                       $7.5 billion over five years
+    Child and Dependent Tax Credit Reform                 $5.2 billion over five years
+    Tax Credit for Businesses                             $500 million over five years
+    After-School Program                                  $800 million over five years
+    Early Learning Fund                                           $3 billion over five years
+    Head Start Increase                                   $3.4 billion over five years
+    Standards Enforcement Fund                            $500 million over five years
+    Child Care Provider Scholarship Fund                  $250 million over five years
+    Research and Evaluation Fund                          $150 million over five years
+
+                                            iTOTAL:       $21.3 billion over five years
+
+Doubles the Number of Children Receiving Child Care Subsidies to More than Two
+Million. The President proposes to expand the Child Care and Development Block Grant to
+help working families struggling to meet the costs of child care. This block grant is the
+primary federal subsidy program to pay for child care, enabling low-income parents to work.
+Funds are distributed by formula to the states to operate direct child care subsidy programs,
+as well as to improve the quality and availability of care. The President's initiative will
+more than double the number of children served from the one million served in FY 95 (the
+latest year for which data are available). The President's budget will increase funding for the
+block grant by $7.5 billion (with a match) over five years, which will enable states to provide
+subsidies for more than two million children by 2003.
+
+Increases Tax Credits for Child Care for Three Million Working Families. The Child
+and Dependent Tax Credit provides tax relief to taxpayers who pay for the care of a child
+under 13 or a disabled dependent or spouse in order to work. The credit is equal to a
+percentage of the taxpayer's employment-related expenditures for child or dependent care,
+with the amount of the credit depending on the taxpayer's income. The President's proposal
+increases the credit for families earning under $60,000, providing an additional average tax
+cut of $358 for these families and eliminating income tax liability for almost all families with
+incomes below 200% of poverty ($35,000 for a family of four) that take the maximum
+allowable child care expenses under the law. The President's budget will include $5.2
+billion over five years to expand the Child and Dependent Care Tax Credit for three million
+working families.
+
+Provides New Business Tax Credits. The child care initiative includes a tax credit to
+businesses that provide child care services for their employees, by building or expanding
+child care facilities, operating existing facilities, training child care workers, reserving slots
+for employees at child care facilities, or providing child care resource and referral services to
+employees. The credit covers 25% of qualified costs, but may not exceed $150,000 per year.
+ The President's budget will include approximately $500 million over five years for these tax
+credits.
+
+PROMOTES EARLY LEARNING AND HEALTHY CHILD DEVELOPMENT
+
+Promotes Early Learning. Research shows that children's experiences in the earliest
+years are critical to their development and future success. The President's proposed
+Early Learning Fund provides challenge grants to communities (distributed by states)
+to support programs to improve early learning and the quality and safety of child care
+for children ages zero to five. Funds may be used for the following activities: providing
+basic training to child care providers (including first aid and CPR); connecting individual
+child care providers to centers for education and support; assisting child care providers to
+meet accreditation and licensing requirements; linking child care providers with health
+professionals; reducing group sizes and child-to-staff ratios; and providing home visits,
+parent education, and consumer education about child care. The President's Early Learning
+Fund builds on state initiatives such as North Carolina's Smart Start, which helps North
+variety of local efforts, including improving staff-to-child ratios, health linkages that have
+raised immunization rates, and parent education and mentoring programs to give new parents
+support. The President's budget will include $3 billion over five years for this fund.
+
+Increases Investment in Head Start and Doubles the Number of Children Served by
+Early Head Start. Head Start provides early, continuous and comprehensive child
+development and family support services, preparing children for a lifetime of learning and
+development. The President is committed to reauthorize Head Start and reach one million
+children by 2002. The President's budget will invest $3.4 billion over five years to keep
+on track his commitment to serving one million children by 2002, and to double the
+number of infants and toddlers in Early Head Start to 80,000.
+
+IMPROVES THE QUALITY OF CHILD CARE
+
+Steps Up Enforcement of State Health and Safety Standards. Building on the
+military's model child care program, this proposed initiative will fund state efforts to improve
+licensing systems and enforce child care health and safety standards, including by increasing
+unannounced inspections of child care settings. The President's budget will include $500
+million over five years for this program.
+
+Facilitates Background Checks on Child Care Providers. On the day of the White House
+Conference on' Child Care, the President transmitted to Congress the National Crime
+Prevention and Privacy Compact, which will facilitate effective background checks on child
+care providers by eliminating state law barriers to sharing criminal history information for
+non-criminal purposes. Although the vast majority of child care providers are dedicated to
+the teaching and nurturing of children, one tragedy in child care is too many. Background
+checks are an important way to ensure that the people watching our children are fit for this
+responsibility.
+
+Increases Scholarships and Training for Child Care Providers. At the White House
+Conference on Child Care, the President proposed establishing a Child Care Provider
+Scholarship Fund to enable states to provide scholarship funds to students working toward a
+child care credential. Eligible child care workers must commit to remaining in the field for
+at least one year for each year of assistance received and will eam increased compensation or
+bonuses when they complete their course work. The President proposed a federal
+investment of $250 million over five years, which will support 50,000 scholarships per year.
+The President is also proposing to expand the Department of Labor's Child Care
+Apprenticeship Program to fund the training of child care providers.
+
+Invests in Research. Because too little is known about our child care system, the
+President's budget will increase support for data, research, and evaluation. This research
+fund will also support a National Center on Child Care Statistics and a child care hotline that
+parents can call to get information about how to find child care in their communities and how
+to identify appropriate, quality care for their children. In addition, the research fund will
+support demonstration projects to test approaches to help new parents who choose to stay
+include $150 million over five years for this fund.
+
+EXPANDS AND STREAMLINES AFTER-SCHOOL CARE
+
+
+An estimated five million school-age children spend time as "latchkey kids" without adult
+supervision during a typical week. Research indicates that during these unsupervised hours
+children are more likely to engage in at-risk behavior, such as crime, drugs, and alcohol use.
+To meet this pressing demand, the President is proposing a dramatic expansion of
+after-school care.
+
+Provides After-School Care for up to Half a Million Children a Year. The President
+proposes a dramatic expansion of the 21 st Century Community Learning Center Program to
+provide start-up funds (with a local match) to school-community partnerships to establish or
+expand before- and after-school programs for school-age children. The program increases the
+supply of after-school care in a cost-effective manner primarily by funding programs that use
+public schools and their existing resources, such as computers, gymnasiums, and sports
+equipment. The program also includes a set aside to fund programs run by community
+organizations. The President's budget will request $800 million of entirely new money for
+this program, for a total of $1 billion over five years.      .
+
+Improves Coordination of Federal After-School Initiatives to Help Communities Make
+Best Use of Existing Resources. The President will put in place a collaborative effort
+involving numerous federal agencies to eliminate duplication and better coordinate federal
+funding for after-school programs in three to five pilot cities, including the District of
+Columbia.
+                              PRESIDENT CLINTON'S PROPOSAL:
+                      CHILD CARE THAT STRENGTHENS AMERICAN FAMILIES
+
+                                                     January 7, 1998
+
+                         "No government can raise or love a child. Mothers andfathers do. But
+               government can help provide parents the tools they need to meet this most vital
+               responsibility and succeed at work. Today, I am proud to propose a comprehensive $20
+               billion plan to make child care more affordable. accessible and safefor Americanfamilies.
+                II will be the single largest child care investment in the history of our nation. Child care
+               is an issue that touches nearly every family in America. one that should rise above politics
+               and partisan interests. ..
+
+                                                                               President Bill Clinton
+                                                                               January 7, 1998
+
+    President Clinton announces an historic initiative to improve child care for America's working families. The
+    initiative proposes approximately $20 billion over five years for child care, including elements to help
+    working families pay for child care, build a good supply of after-school programs, improve the safety
+    and quality of care, and promote early learning.
+
+    ENSURING AFFORDABLE, ACCESSIBLE, SAFE CHILD CARE. The President's child care initiative responds to the
+    struggles our nation's working parents face in finding child care they can afford, trust and rely on. The new
+    initiative:
+
+    �       Makes child care more affordable for working families. To help working families struggling to meet the
+            costs of child care, the initiative invests $7.5 billion over five year to double the number of children
+            receiving child care subsidies to more than two million by the year 2003. The initiative also increases
+            tax credits for child care for three million families and provides tax credits to businesses that provide
+            child care services to their employees.
+
+    �       Increases access to and promotes early learning and healthy child development.     To improve early
+            learning, the initiative includes $3 billion over five years to establish an Early Learning Fund that helps
+            local communities improve the quality and safety of child care for children ages zero to five. The
+            initiative also increases investment in Head Start and doubles the number of children served by Early
+            Head Start to 80,000.
+
+    �       Improves the safety and quality of child care. To help ensure safe, quality child care, the initiative:_
+            steps up enforcement of state health and safety standards in child care settings, facilitates
+            background checks on child care providers, increases scholarships and training for child care
+            providers, and invests in child care research and evaluation.
+
+    �       Expands access to safe after-school care. To help create safe, positive learning environments
+            for the more than five million school-age children who lack adult supervision during a typical
+            week, the initiative provides after-school care for up to half a million children a year and
+            improves coordination of federal after-school initiatives to help communities.
+
+    BUILDING STRONGER FAMILIES FOR THE 21ST CENTURY. The President's agenda to strengthen
+    America's families includes: federal funding for child care has increased by nearly 70% since 1993; the
+    1996 welfare reform law increased child care funding by $4 billion over six years; the Healthy Child
+    Care America Initiative ensures that.children in child care are in safe and healthy environments; Head
+    Start funding has increased more than 57% since 1993, providing service to more than 830,000 children
+    and their families; and the first ever White House conferences on child care and early development.
+
+

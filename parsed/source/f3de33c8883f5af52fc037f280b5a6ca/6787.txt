@@ -1,0 +1,121 @@
+       RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+       CREATOR: Andrea Kane ( CN=Andrea Kane/OU=OPD/O=EOP    [ OPD ] )
+
+       CREATION DATE/TIME:23-MAR-1998 13:59:23.00                                             \
+                                                                                              \
+       SUBJECT:   Q&A
+
+       TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP    [ OPD ]    )
+       READ: UNKNOWN
+
+       TEXT:
+       ==================== ATTACHMENT   1 ====================
+       ATT CREATION TIME/DATE:   0 00:00:00.00
+
+       TEXT:
+       Unable to convert ARMS_EXT: [ATTACH.DO]MAIL45549518P.026 to ASCII,
+        The following is a HEX DUMP:
+
+       FF575043BA040000010A0201000000020500000007160000000200009484C6D63C60D63A66D05A
+       9AF64B43BCB2A9C625D815E1B7995171FCF27261EAB34A3F8D9C76AF1E007327F2EOB3BE56F567
+       B4651CBE33B26996B64B25C41FBC044913D814E8F34E3BBBB69C26EA644707C3952B5201613450
+       C949EC472EOC5B2A3EOA20D9FB72E1159C68246508E17DD61062B630955B3DD6A6A6BDA48D8D38
+       455873EA7DDE7CFE5BB9338B758023B39A5AA5EA6C7F67B94D5CBEC87B7A09E022B1D31E4161DA
+       CA7020ABF5B7FEC7B13111EF38400577E20EB5C1E2FCCF12DF370F203A9BCA9D500315AD9BF110
+       D395C746663C23033CF66E386FA1FA759179C40809C05506809183CB2EA1ED92CCCD609A44CFF6
+       E7DOC80947A6C9D288F91C6FAF5B22BBE19E8E1EOA85971A7EA282548B8366160C6E0666FOE262
+       C3COFF8323671F7A96C9F5FAA6206E67CAB8A536469F7560B4C10EC739AA60244E8B5129EA8D88
+       8D9716C9ECEA1AA4848A751932DF53CC3E39EAA622D1B2663E5F8D34D6CD0211B19804FF6B2CA5
+       3875687C473F1AD1C41B24E7D5C6720670DC782E511D2A61976AE6EO71BE20B46773BA680A94AF
+       5DD502EEE31E5E7937BE7D2157F2A782BDF54B1C14B15A8F1796D28356802A95D948D8E44AF5D1
+       OD76B8AA10888992FB748ED99C14900D33A15D11E9F09B582D3489DBE985F084092E18F50B46F3
+       C45D58866602000A00000000000000000000000823010000000B0100008C020000005503000000
+       4E0000009703000009250100000006000000E50300000B300200000028000000EB030000087701
+       00000040000000130400000055020000003C00000053040000083401000000140000008F040000
+       0802010000000FOOOOOOA304000008050100000008000000B204000000984C0061007300650072
+       004A006500740020003400200070006C007500730020002800440065006600610075006C007400
+       290000000000000000000000000000000000000000000000000057494E53504F4F4COOOOOOOOOO
+       C800C8002C012C012C012C01C800C8003000000000000000000000000000000000000000000000
+       000000000000000000000000000000000000000000000000000000oooooooooooooooobooooooO
+       000000000000000000000000000000000000000000000000000000000000000000000000000000
+       000000000000000000000000000000000000000000000000000000000000000000000000000000
+       0000000000000000000000000000000000000B0100002800D61EC3OF3908000011090000005AOO
+       OB01008B143600540069006D006500730020004E0065007700200052006F006D0061006E002000
+       52006500670075006C006100720000000000000000000100020058020100000004002800000000
+       000000000000000000000000000000011202002400A1000000A10000000AOOOOOOC80301004500
+       C90302001700CA0301001700CB0302000200CC0301004500CD0301000200CE0302004400CF0301
+       000200D00301004400D103010002001BOOF41A5C121A0900000000000000600018110000102400
+       540069006D006500730020004E0065007700000052006F006D0061006EOOOOOOOOOOOOOOE5A656
+       240000000000000000000000000000000000337C00780000020000D10300000301000400020000
+       00DDOA10008301040003000200211000DDDDOBOB00030000040BOODD9BD1000E000002005802BO
+       040EOOD1D1010E000002005802B0040EOOD1F20CF2D3050C0007010002000COOD357656C666172
+       65805265666F726D805175657374696F6E7380616E6480416E7377657273D0041500000B000900
+       0158020000000001201500D04D617263688032332C8031393938F3OCF3D0041500000B00090001
+       4803F000010001201500DOD305100006010000023B0000001000D3CCCCF20CF25175657374696F
+       6E3AE0300C0000000060090COOE05468658041646D696E697374726174696F6E80686173809C70
+       6F696E74656480746F807468659B806465636C696E6580696E809C77656C666172659B809C6361
+       73656C6F6164738061738061807369676ED0011500000B000900011806C003040001201500D074
+       6861748077656C66617265807265666F726D80697380776F726B696E672C9B8079657480618073
+       746F727980696E80746F646i79F01C04F0738057617368696E67746F6E80506F73748073617973
+                                       March 23, 1998                    Hex-Dump Conversion
+
+
+Question:       The Administration has pointed to the decline in welfare caseloads as a sign
+                that welfare reform is working, yet a story in today's Washington Post says
+                one of the main reasons people are leaving the rolls is that they are being
+                sanctioned. Do you consider this a success? '
+
+Answer:         One of the principles of the welfare reform law enacted in August 1996 is
+                personal responsibility. Establishing fair, firm and credible consequences if
+                people fail to follow the rules is an important part of the new approach. Different
+                people react differently to sanctions. For some people, sanctioning may be a step
+                                                         I
+                along the way to work. Data from several state studies finds that after being
+                sanctioned, about half the people are working and approximately 40 percent have
+                an increase in their income. Several states also found that one-quarter to
+                one-third of those sanctioned returned to the rolls, presumably after complying
+                with the requirements.
+
+                While some states do appear to be increasing their u~e of sanctions, it is too early
+                to confirm this trend on a national basis. HHS is still compiling state data under
+                the new welfare reform reporting system. According to HHS, in 1993 and 1995
+                33% and 32% of cases were closed for failure to comply with procedural
+                requirements and the preliminary figure for October 1996 to June 1997 was 38%.
+
+Question:       The Post article cited a women in Tennessee who was sanctioned even though
+                she had back problems. Isn't it unfair to require someone like that to work?
+
+                Federal law requires states to put 30 percent of recipients to work this year (a
+                figure which rises to 50 percent by the year 2002) and gives states considerable
+                flexibility in how they apply these work rules. According to a recent survey by
+                the American Public Welfare Association, most states waive sanctions when a
+                person has good cause for not complying, with disability, incapacity or illness the
+                most frequently cited reason for good cause (by 31 states). In addition, low
+                income individuals whose disabilities prevent them from working can receive
+            "
+                assistance under the federal SSI program, for which the work rules do not apply.
+
+
+Question:       Today's New York Times cites evidence in New York that only one-third of
+                those leaving the rolls are actually working. Are you disappointed by these
+                results?
+
+Answer:         While we haven't seen this preliminary New York State data, we do know
+                that a number of other states have had much better results, finding between
+                between 50% and 60% of those leaving the rolls were working. In an effort
+                to give states strong incentives to help as many recipients go to work as
+                possible, HHS recently released formal guidance on the High Performance
+                Bonus that will award $200 million a year to the states who have the most success
+                in placing people in jobs and ensuring that welfare recipients succeed in jobs once
+                they get them, by remaining employed and seeing their earnings climb over time.
+
+                                                                                                       /
+                                                                                                       (-
+EMAILS RECEIVED
+ARMS - BOX 026 - FOLDER -001
+
+
+[03/24/1998 - 03/25/1998]
+
+

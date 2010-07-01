@@ -1,0 +1,97 @@
+  RECORD TYPE: PRESIDENTIAL            (NOTES MAIL)
+
+  CREATOR: Allison Balderston ( CN=Allison BalderstonjOU=OPDjO=EOP [ OPD 1 )
+
+  CREATION DATEjTIME:10-NOV-1997 14:32:18.00
+
+  SUBJECT:            Weekly Strategy Meeting
+
+  TO: Sky Gallegos ( CN=Sky GallegosjOU=WHojO=EOP @ EOP [ WHO 1 )
+  READ: UNKNOWN
+
+  TO: Michael Waldman ( CN=Michael WaldmanjOU=WHojO=EOP @ EOP [ WHO 1 )
+  READ: UNKNOWN
+
+  TO: Donald H. Gips ( CN=Donald H. GipsjO=OVP @ OVP [ UNKNOWN 1 )
+  READ: UNKNOWN
+
+  TO: Kathryn B. Stack ( CN=Kathryn B. StackjOU=OMBjO=EOP @ EOP [ OMB 1 )
+  READ:UNKNOWN
+
+  TO: William H. White Jr.           ( CN=William H. White Jr.jOU=WHOjO=EOP @ EOP [ WHO 1 )
+  READ: UNKNOWN
+
+  TO: Ananias Blocker III ( CN=Ananias Blocker IIIjOU=WHOjO=EOP @ EOP [ WHO 1 )
+  READ: UNKNOWN
+
+  TO: Maria Echaveste ( CN=Maria EchavestejOU=WHOjO=EOP @ EOP [ WHO 1 )
+  READ: UNKNOWN
+
+  TO: Gene B. Sperling ( CN=Gene B. SperlingjOU=OPDjO=EOP @ EOP [ OPD 1 )
+  READ: UNKNOWN
+
+  TO: Jonathan H. Schnur ( CN=Jonathan H. SchnurjO=OVP @ OVP [ UNKNOWN 1 )
+  READ: UNKNOWN
+
+  TO: Karen E. Skelton ( CN=Karen E. SkeltonjOU=WHOjO=EOP @ EOP [ WHO 1 )
+  READ: UNKNOWN
+
+  TO: Wayne Upshaw ( CN=Wayne UpshawjOU=OMBjO=EOP @ EOP [ OMB 1 )
+  READ: UNKNOWN
+
+  TO: Robert M. Shireman ( CN=Robert M. ShiremanjOU=OPDjO=EOP @ EOP [ OPD 1 )
+  READ: UNKNOWN
+
+ TO: Tracey E. Thornton ( CN=Tracey E. ThorntonjOU=WHOjO=EOP @ EOP [ WHO 1 )
+ READ: UNKNOwN
+
+ TO: Kris M Balderston ( CN=Kris M BalderstonjOU=WHOjO=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Elena Kagan ( CN=Elena KaganjOU=OPDjO=EOP @ EOP [ OPD 1 )
+ READ: UNKNOWN
+
+ TO: Rahm I. Emanuel ( CN=Rahm I. EmanueljOU=WHOjO=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ CC: Ruby Shamir ( CN=Ruby ShamirjOU=WHOjO=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ CC: Laura K. Capps ( CN=Laura K. CappsjOU=WHOjO=EOP @ EOP [ WHO 1 )
+..
+     READ: UNKNOWN
+
+     cc: Toby Donenfeld ( CN=Toby Donenfeld/O=ovP @ OVP [ UNKNOWN 1 )
+     READ: UNKNOWN
+
+     cc: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     cc: Michelle Crisci ( CN=Michelle Crisci/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     cc: Jill M. pizzuto ( CN=Jill M. Pizzuto/OU=OMB/O=EOP @ EOP [ OMB 1 )
+     READ: UNKNOWN
+
+     cc: Suzanne Dale ( CN=Suzanne Dale/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     cc: Angelique Pirozzi ( CN=Angelique Pirozzi/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     cc: Lisa J. Levin ( CN=Lisa J. Levin/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     cc: Marjorie Tarmey ( CN=Marjorie Tarmey/OU=WHO/O=EOP @ EOP   [ WHO 1 )
+     READ: UNKNOWN
+
+     CC: Kevin S. Moran ( CN=Kevin S. Moran/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     CC: Melissa Green ( CN=Melissa Green/OU=OPD/O=EOP @ EOP [ OPD 1 )
+     READ: UNKNOWN
+
+     TEXT:
+     The Weekly Education Strategy Meeting has been cancelled for today.
+
+

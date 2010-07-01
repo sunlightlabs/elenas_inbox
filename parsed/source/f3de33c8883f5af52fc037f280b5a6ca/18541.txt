@@ -1,0 +1,88 @@
+ RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+ CREATOR: Cathy R. Mays ( CN=Cathy R. Mays/OU=OPD/O=EOP [ OPD ] )
+
+ CREATION DATE/TIME:28-JAN-1998 12:33:00.00
+
+ SUBJECT:   Tobacco Farmers Meeting
+
+ TO: Thomas L. Freedman ( CN=Thomas L. Freedman/OU=OPD/O=EOP @ EOP [ OPD ] )
+ READ: UNKNOWN
+
+ TO: Toby Donenfeld ( CN=Toby Donenfeld/O=OvP @ OVP [ UNKNOWN]       )
+ READ:UNKNOWN
+
+ TO: Joshua Gotbaum ( CN=Joshua Gotbaum/OU=OMB/O=EOP @ EOP [ OMB ] )
+ READ: UNKNOWN
+
+ TO: Bruce R. Lindsey ( CN=Bruce R. Lindsey/OU=WHO/O=EOP @ EOP [ WHO ] )
+ READ: UNKNOWN
+
+ TO: Jerold R. Mande ( CN=Jerold R. Mande/OU=OSTP/O=EOP @ EOP [ OSTP ] )
+ READ: UNKNOWN
+
+ TO: Barbara D. Woolley ( CN=Barbara D. Woolley/OU=WHO/O=EOP @ EOP [ WHO]     )
+ READ: UNKNOWN
+
+ TO: Donald H. Gips ( CN=Donald H. Gips/O=OVP @ OVP [ UNKNOWN]       )
+ READ: UNKNOWN
+
+ TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+ READ:UNKNOWN
+
+ CC: Melissa M. Murray ( CN=Melissa M. Murray/OU=WHO/O=EOP @ EOP [ WHO ] )
+ READ: UNKNOWN
+
+ CC: Jill M. pizzuto ( CN=Jill M. Pizzuto/OU=OMB/O=EOP @ EOP [ OMB ] )
+ READ: UNKNOWN
+
+ CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO]    )
+ READ: UNKNOWN
+
+ TEXT:
+ This confirms that we are having a meeting on tobacco farmers on Friday,
+ January 30, at 11:00 a.m. in Room 211, OEOB.  If you are unable to attend,
+ please let me know.  Thanks.
+
+ ==================== ATTACHMENT   1 ====================
+ ATT CREATION TIME/DATE:   0 00:00:00.00
+
+ TEXT:
+ Unable to convert ARMS_EXT: [ATTACH.D32]MAIL47189472B.026 to ASCII,
+  The following is a HEX DUMP:
+
+ FF5750439A040000010A02010000000205000000B907000000020000A18FC032EFC8A1E653183D
+ 53535074CE4419878539B8FODED63605F8EFE77C4F8486294EB95A3A87BCDEB6455D7D60A9F7AE
+                            Tobacco Farmers Meeting           Hex-Dump Conversion
+                            Friday, January 30,1997
+                                   11:00 a.m.
+                               Room 211, OEOB
+
+
+White House
+
+Bruce Reed
+Bruce Lindsey
+Elena Kagan
+Don Gips
+Josh Gotbaum
+Barbara Woolley
+Toby Donenfeld
+Jerry Mande
+Tom Freedman
+
+USDA
+
+David Carlin
+Dallas Smith
+Charlie Rawls
+
+Treasury
+
+John Kitchen (for Gruber)
+
+
+
+Jim O'Hara
+
+

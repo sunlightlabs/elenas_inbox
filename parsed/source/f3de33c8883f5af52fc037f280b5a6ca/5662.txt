@@ -1,0 +1,128 @@
+  RECORD TYPE: PRESIDENTIAL           (NOTES MAIL)
+
+  CREATOR: Robert M. Shireman ( CN=Robert M. Shireman/OU=OPD/O=EOP [ OPD ]                     )
+
+  CREATION DATE/TIME:15-DEC-1997 14:55:45.00
+
+  SUBJECT:    Here is my attempt
+
+  TO: Russell W. Horwitz ( CN=Russell W. Horwitz/OU=OPD/O=EOP @ EOP [ OPD ] )
+  READ: UNKNOWN
+
+  TO: KAGAN_E ( KAGAN E      @   Al   @   CD   @   LNGTWY [ UNKNOWN]   )   (OPD)
+  READ: UNKNOWN
+
+  TEXT:
+  at editing the summary.
+
+  ==================== ATTACHMENT   1 ====================
+  ATT CREATION TIME/DATE:   0 00:00:00.00
+
+  TEXT:
+  Unable to convert ARMS_EXT: [ATTACH.D94]MAIL40935584T.316 to ASCII,
+   The following is a HEX DUMP:
+
+  FF57504370040000010A020100000002050000001F2700000002000091F326913C879853E3FEB8
+  3974A5A85360A4D098C94C810812B1990CB26C34DDFOF51DE8BCCF535FBCEE54B70E2F588COF7C
+  830A1F401D7CA572117CD70F003B24B97FA3AFFOC5D56F7C815E6890F4789B9A64E623DF8DB2EB
+  112 6C18 7BF925 04 931 7B5 54 6 91AE4BE3 0 156A6F2 5FEF4B182 7 2C4BCA3EOF8 9 0 3 3'91B4 F3 44 9AF5E
+  A9C28A3078969F7DOEC875ECA676DC0250DB9A49F88D7B97C75C064DAEBB19FCDF5~A243C35796
+   552D61E3EBF15B610B695708FBD3B494D06B43631B68A1F66FF7F7D72176C30D854E06D02BAB58
+   D4439C2F44878934597A4640D2DF61E59816A1C34F4350EAOFF54FA76FF78C7FB4A5F96839592F
+   CBB5E4EA6236DFE5F9FADBOOE8710CFED7C98360AE58F46223BF0816F6B2DC012908443479C29F
+   88E607FA836B85D4327BA69CAAFD34A5C888524EDB52E2CA397714E9323BDF37E9978A7EF10FAO
+   DABD49ED933F18942A2B0226B30E9F289ADFBD9A45313532F42B38BCOB7DA736980438869043E5
+   38D7AEEOCC37D97C46EFAAE29E49773COBD596D9D4FB05680F33E62A54FD103E914E4F170DFE3D
+   OEE8C88AF41F2FBAFEBD82CFC1CC42DBF2EBOD2FFC61A9FF83DBFl362B067207FC904EA28D84AO
+   75D24C4DF9336CE1DDB24052F7A8E1A502DB35AAC014COA8B4E5C2DBCBD7112BB062FA57455895
+   44D09EB87502000900000000000000000000000823010000000BOl00007E020000005501000200
+   4EOOOOOOB903000009250100000006000000D70300000B30020000002BOOOOOODD0300000B7701
+   000000400000000504000008340100000014000000450400000802010000000F00000059040000
+   OB05010000000B0000006804000000985C005C004F0041005F0037005C005C005C004F00500044
+   005C003200330039005F0041000000000000000000000000000000000000000000000000000000
+   00000000000000000000000057494E53504F4F4COOOOOOOOOOC800C8002C012C012C012C01C800
+   C80030000000000000000000000000000000000000000000000000000000000000000000000000
+  .000000000000000000000000000000000000000000000000000000000000000000000000000000
+   000000000000000000000000000000000000000000000000000000000000000000000000000000
+   000000000000000000000000000000000000000000000000000000000000000000000000000000
+   000000000B0100002800C8196810480DOOOOll090000005AOOOBOl0000103600540069006D0065
+   00730020004E0065007700200052006F006D0061006E00200052006500670075006C0061007200
+   000000000000000001000200580201000000040028000000000000000000000000000000000000
+   00011202002400Al000000Al0000000AOOOOOOD70501000200D80502001700D90501004500DA05
+   02000200DB0501004500DC0502000200DD0501004500DE0501000200DF0501004400E005010044
+   00529D5B23000000006C006100720000000000000008337C00780000020000E005000003010004
+   0002000000DDOA10008301040003000200211000DDDDOBOB00030000040BOODDF1027905F1Fl03
+   7905F1F1007B05F1F1027A05F145F1037A05F1Fl017B05F1Fl027C05F1F1037C05F1Fl027E05Fl
+   F20CF2Fl037E05F1F1027D05F1D3050C0007010002000COOD3F1037D05F1Fl027C05F144697363
+   726574696F6E6172798042756467657480666F7280746865804465706172746D656E74806F6680
+   456475636174696F6ED0041500000B00090001B0040000000001201500D053756D6D617279Fl03
+   7C05F1F1027905F1CCF1037905F1F1027E05F1F30CF3F1037E05F1Fl007805F1F1027505F19BF1
+   037505F1F1017805F1F1007505F19BF20EF2F1017505F1Fl007805F1D3050C0000010002000COO
+                                                                           Hex-Dump Conversion
+
+                    Discretionary Budget for the Department of Education
+                                          Summary
+
+TOTAL. This Budget is a 4.7 %, or $1.4 billion, increase over FY 1998, a total of$30.9 billion.
+It funds important new initiatives, maintains or increases major base programs, and continues
+progress on your previous commitments.                 .
+
+        While the increase is substantial, it is half the size of dollar increases Education received
+each of the last two years. Still, it is a large increase given the caps, and we are working on
+other investments on the mandatory side (such as school construction and class size).
+Nevertheless, you can expect Secretary Riley to make a case for a much bigger discretionary
+increase.
+
+       Other than the new initiatives (already described), the budget includes:
+
+Base Programs:
+
+Education testing: $16 million. The full amount needed to maintain progress on test
+development.
+
+Pell Grants: $3JOO maximum. Increasing the maximum grant by $100 (3.3%) requires an
+investment over FY 1998 of $289 million (3.9%). We could spend another $150 million to
+increase the grant another $50; as already noted, doing so would take about $150 million that
+could be used instead to increase our investments in the After-School program and Head Start.
+
+America Read, $260 million. In FY 1998, Congress "advance appropriated" $210 million for
+FY 1999 for the Education Department's portion of America Reads, contingent upon enactment
+of the authorization bill, which has passed the House. The increase to $260 million reflects our
+original first-year plan for the Education Department.
+
+Title I, Education for the Disadvantaged, Grants to LEAs: $ 7,725 million. A $350 million,
+4.5% increase over FY 1998 to serve an additional 400,000 children in poor communities. The
+education groups will look at this line in the budget to see if we have made a sufficient
+investment in base programs; Secretary Riley requested $492 million.
+
+Goals 2000: $510 million. A $10 million increase over FY 1998, to maintain momentum in the
+States for school reform.
+
+Comprehensive School Reform: $175 million. A $30 million increase over FY 1998 for
+demonstrations of school reform models. We hope to· gain Congo Obey's support of our.
+Education Opportunity Zones by establishing a close linkage between his program and ours.
+
+Adult Education: $394 million. A $33 million, 9% increase over FY 1998 for basic education
+and English language training for the disadvantaged, immigrants, and welfare recipients. This is
+part of the investment in improving education for Hispanic Americans ..
+                                                                        Hex-Dump Conversion
+
+Special Education: $4.811 million. This is the same as the FY 1998 level, which was increased
+by $775 million over FY 1997. Secretary Riley will be particularly concerned about lack of an
+FY 1999 increase. We are convinced that no increase will satisfY the advocates, and would
+prefer to negotiate this level in the context of competing demands in the appropriation bill, rather
+than use up scarce funds in your Budget now.
+
+College Work-Study, $915 million. A $85 million increase over FY 1998, to accelerate toward
+your goal of 1 million Work-Study positions by FY 2000. With the reduction in Perkins loans
+(below), this increase keeps the campus-based aid programs at level funding from FY 1998.
+
+Reductions in the Base
+
+A number of programs have been reduced to make room for initiatives and major base programs,
+including: Impact Aid (-$92 million), the Education Block Grant (-$350 million), Perkins Loans
+(-$85 million). Each of these, and others, has a vocal constituency. We believe we can make
+the case that our funding of initiatives and base programs are all higher priority than these
+programs.
+
+

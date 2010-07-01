@@ -1,0 +1,187 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP [ OPD 1 )
+
+CREATION DATE/TIME:26-JUN-199B 13:53:33.00
+
+SUBJECT:   Hatch memo
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TEXT:
+Here's a draft, with lots of holes for you to fill.
+
+==================== ATTACHMENT   1====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D511MAIL45624677B.126 to ASCII,
+ The following is a HEX DUMP:
+
+FF5750439A040000010A020100000002050000002A2E000000020000B6CAB301CC4AB9CBE1DOB1
+5160BDA942A479CB9A67F2352AB1BF1AEA709A42EB5F61AFF2FBB94CDF9E3B09B5C6BD2BAFDOC5
+0531D6BAF20F412B302524CBE57559EEOB76CB05DDEB5276017B4974C2355DF737BOOFD2115B73
+5CBC4CB1B76CA76COF10EC1DC2BBE9BF565AC639B6BOF674ADE3B7DCD5AA079B02CABF3AD1742D
+1FA2D205F4CAEF7CA2A1CFF67CD51256BA5253AB3B2355B6BAB9376C32BF39ED721FC61CDCOBF4
+7BF5DA041612BD5BC16B966EE9466976D366E4000494091B4568075E367E96FD70A36E06D56A42
+7EAAE02932E80399E140EFE2C05B7007D9742A5559E97E9520474031A56D736BC16D3BA05FF203
+E683F1DD7946E2B635D72AA7F06B40D851F99DCD092E06462C13B1AA5BABD0385EBEFBABBA4BC9
+569832001C2D5DB5DB3FF2E49122DCOFB6523B1906D64043BC9516BDE0991F103D54AC4721552C
+ADC3252CBADD8CEFBCBEA2A1073601BF6A6E5961AFB7519F974E532CBEC752010ACEA910536134
+EB6212F060F6B1AFEFC71E35C53DA2B99828627A717DOB46B97973CBOD152CB1723FF1601264DO
+379344EADBODBAOBA8844BCOBC733123567ECF20CD4A1D1FFB77AE66636638FD91B5C8836F7B46
+E1BB1AOBDFFF3BBC~BF3039477C9795C73680A2EE6D775EF2CB25C2BDCBA4E936459A2ACBFA4FA
+15EOE9946D02000900000000000000000000000B23010000000B0100007E020000005501000000
+4E0000008903000009250100000006000000D70300000B30020000002BOOOOOODD0300000B1601
+000000320000000504000008770100000040000000370400000834010000001400000077040000
+0802010000000FOOOOOOBB04000000984C006F00630061006C0020004800500020003400500000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000057494E53504F4F4COOOOOOOOOOCBOOC8002C012C012C012C01CBOO
+CB0030000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000005EOOF7122800CB196810480D000011090000005AOOOB010000103600540069006D0065
+00730020004E0065007700200052006F006D0061006E00200052006500670075006C0061007200
+000000000000000001000200580201000000040028000000000000000000000000000000000000
+00011202002400A1000000A100000043003A005C00500052004FOO470053005C00570050005COO
+5300540041004E0044004100520044002E0057005000540000000A0000005905010045005A0502
+0002005B0502007B035C05020002005D05010045005E05030002005F0501007B03600502000200
+6105010045006205010002001BBCB624000000000000000000000000000000000B337C00780001
+0200006205000003DDOA1000B301040003000200211000DDDDOBOB00030000040BOODDF1020100
+F1CCCCCCE0110COOOOOOOOOB070COOEOE0110C0000000060090COOEOE0110COOOOOOOOBBOBOCOO
+EOE0110C00000000100EOCOOEOE0110C000000006B100COOEOE011OCOOOOOOOOC0120COOEOF103
+0100F1F1000200F1F1020100F14A756E65F1030100F1F1010200F1F1020100F1F1030100F1F102
+0200F14A756E65F1030200F1F1020100F180F1030100F1F1020300F132362CB031393938CCF103
+0300F1F1020400F1CCF1030400F1F1020300F1CC4D454D4F52414E44554DB0464F5280544845BO
+434B494546804F46B05354414646F1030300F1F1020500F1CCCC46524F4D3AE0110C0000000060
+090COOEOE0110COOOOOOOOBBOBOCOOE042727563658052656564DO041500000B00090001300CBO
+070B0001201500DOE0110COOOOOOOOOB070COOEOE0110COOOOOOOO60090COOEOE0110COOOOOOOO
+                                                                        Hex-Dump Conversion
+
+
+
+                                              June 26, 1998
+
+
+MEMORANDUM FOR THE CHIEF OF STAFF
+
+FROM:                  Bruce Reed
+                       Elena Kagan
+
+SUBJECT:               Analysis of Hatch-Feinstein Tobacco Bill
+
+
+       The Hatch-Feinstein bill is based on the original agreement between the state attorneys
+general and the tobacco companies, with a few changes (stronger lookback surcharges; tobacco
+farmer provisions that are a hybrid of Ford and Lugar). While smaller than the McCain bill, the
+Hatch bill includes a significant price increase (66 cents a pack from annual payments, another
+25 cents a pack or more from lookbacks). The most important shortcoming of the Hatch bill is
+its FDA provisions, which include several procedural hurdles leftover from the settlement.
+
+        The public health community and many Democrats would also object to the absence of a
+company-specific lookback surcharge, no federal enforcement of secondhand smoke restrictions,
+and all the liability protections from the settlement (a $5.5 billion annual cap and a ban on class
+actions and punitive damages). Nevertheless, Daschle and some other Senate Democrats have
+not ruled out the possibility of negotiating with Hatch, since his bill may be the only
+comprehensive vehicle that can pass this year. As usual, the major hurdle is how to secure a
+bipartisan majority for some form ofliability protection, without which LoU (and Hatch) will
+walk away.
+
+  I. Summary of Hatch-Feinstein
+
+       A. Overall Cost and Price Per Pack
+
+        The charts Hatch distributed earlier this week dramatically exaggerated the cost of the
+McCain bill. OMB and Treasury have done Administration estimates that correct these
+problems by taking into account the volume adjustment in both bills, and measuring both in real
+rather than nominal dollars.
+                               McCain Mgrs Arndt.                    Hatch-Feinstein
+                               (25-year cost in 1999$)               (25-year cost in 1999$)
+Base Payment                          $408 billion                          $291 billion
+Estimated Lookbacks                      59 billion                             80 billion
+Total                                   467 billion                            371 billion
+
+Per-Pack Increase in 10 years         $1._                                   $0.87
+                                                     Hex-Dump Conversion
+
+(wllookback)
+
+Youth Smoking Reduction in 10 years             %                                  42%
+
+       B. Spending
+
+        The attached OMB chart compares the available revenue and spending priorities in the
+McCain and Hatch bills and the settlement. McCain raises $59 billion over 5 years; Hatch raises
+$46 billion; the settlement raises $40 billion. The Hatch bill divides the money in almost
+exactly the same way as the McCain managers amendment (i.e., before the tax cut and drug
+amendments). The major potential difference is that the Hatch bill includes an offset for liability
+payments that could reduce the available revenue by up to one-third if the companies are hit with
+massive verdicts in court.
+
+       C. Lookback Surcharges
+
+        The Hatch bill includes industry-wide lookback surcharges that are dramatically larger
+than those in the settlement. In the settlement, penalties were capped at $2 billion a year.
+Hatch raised that cap to $5 billion in the first 5 years and $10 billion after that. The McCain
+managers amendment capped industry-wide penalties at $4 billion non-deductible, or about $5.5
+billion pre-tax. (The Durbin amendment cut that in half.) We estimated the maximum McCain
+penalties at about 35 cents a pack; maximum Hatch penalties would be about 60 cents a pack.
+
+       However, Hatch's penalty scheme inherits a few problems from the settlement. First,
+companies can apply for an abatement of their share of the penalties, which the public health
+community strongly objected to last summer. Second, Hatch includes a double-counting
+adjustment to keep from penalizing companies more than once for the same teenage smoker.
+This has the effect of reducing actual penalties by about two-thirds. Third, and most important
+to congressional Democrats, Hatch does not include any company-specific lookback penalty.
+(The McCain managers amendment penalized companies $1,000 per youth smoker.)
+
+      Even with these shortcomings, the Hatch lookbacks would raise $80 billion over 25 years,
+compared to $59 billion in the McCain managers amendment. The Durbin lookback
+amendment would raise $94 billion over 25 years, most of it in company-specific penalties.
+
+       D. FDA
+
+       E. Farmers
+
+        The Hatch bill tries to strike a middle ground between Ford's bill and Lugar's 3-year
+buyout. Hatch provides about $17 billion to end the tobacco program over 7 years, not 3, and
+incorporates some ofFord's economic development provisions. Ford has said he might be
+willing to end the program over 10-15 years, if states had the option to run their own support
+programs. The current Hatch provisions are closer to Lugar than Ford, but Hatch has said he is
+willing to make additional changes to pick up support.
+                                                                         Hex-Dump Conversion
+       F. Other provisions (state menu, ETS, etc.)
+
+II. Legislative Options
+
+Dems divided on strategy. A few on the left, like Kennedy, want to take the issue to the fall
+elections. A few on the right, like Breaux, would take the Hatch bill as written. Otners, like
+Kerry, Conrad, and Daschle, would like to keep working to pass a bipartisan bill in the Senate,
+but need direction from us on how to do so. Kerry seems to prefer a streamlined McCain bill,
+still with $1.10 but with fewer titles and less spending. He is willing to talk to Lott and to
+Hatch, but doesn't like the Hatch bill. Conrad is willing to talk to Hatch, but would prefer a
+smaller bill (in the 65-cent-a-pack range) with no liability caps.
+
+McCain, meanwhile, is willing to do whatever Lott asks, but won't negotiate with anybody on a
+new bill until Lott guarantees him 60 votes for cloture. He believes that will only happen if
+Republicans tell Lott they felt a lot of heat over the recess.
+
+Starting point of any strategy is to pressure Republicans as much as possible over the recess.
+Matt's FEe complaint. Scruggs' ad. Energizing groups to apply heat. But groups are
+demoralized and weak.
+
+We have two options: encourage Dems to unite behind some position along the lines of what
+Kerry has suggested, where they try to make R's look bad and show we don't really care about
+the money. This is unlikely to lead anywhere, but could keep the issue alive for the fall.
+However, Republicans have other ways to get clean on tobacco, either by attaching a skinny but
+otherwise unobjectionable youth smoking bill as a rider to an appropriations bill or by passing a
+reconciliation bill that includes a significant tobacco tax increase to pay for tax cuts, which we
+might be forced to veto for other reasons.
+
+Our other option is to find some way to engage Hatch, either directly or through Kerry, Daschle,
+and/or McCain. (Or: Go directly to Lott and Daschle, say this is too important, force them to
+work things out.)
+
+

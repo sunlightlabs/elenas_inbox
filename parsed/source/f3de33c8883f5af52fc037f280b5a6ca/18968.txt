@@ -1,0 +1,53 @@
+        RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+        CREATOR: Tanya E. Martin ( CN=Tanya E. Martin/OU=OPD/O=EOP [ OPD ] )
+
+        CREATION DATE/TIME:12-MAR-1998 12:15:18.00
+
+        SUBJECT:   Single-Sex Q&A
+
+        TO: Robert N. Weiner ( CN=Robert N. Weiner/OU=WHO/O=EOP @ EOP [ WHO]   )
+        READ: UNKNOWN
+
+        TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+        READ: UNKNOWN
+
+        CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO]    )
+        READ: UNKNOWN
+
+        TEXT:
+        Quick q&A on single-sex educaiton study.  I wasn't sure whether we needed
+        to state the adminstration's position on the legality of the schools, I
+        assumed it into the answer.
+
+        McCurry's office said he's briefing at 1pm today.==================== ATTACHMENT     1
+        ATT CREATION TIME/DATE:   0 00:00:00.00
+
+        TEXT:
+        Unable to convert ARMS_EXT: [ATTACH.D34]MAIL456764070.026 to ASCII,
+         The following is a HEX DUMP:
+
+        FF5750435A040000010A02010000000205000000010A000000020000EB7755CBAB3054CE17E05D
+                                                                            Automated Records Management System
+                                                                                    Hex-Dump Conversion
+
+
+                           AAUW STUDY ON SINGLE-SEX EDUCATION
+
+
+
+        Question:   Today's New York Times reports that the AAUW has released a new study on
+                    single-sex education that finds no overall evidence that single-sex education was
+                    better for girls than coeducation. In light of these findings, does the
+                    administration continue to support the establishment of single-sex schools, such
+                    as theYoung Women's Leadership Academy which is currently the subject of a
+                    complaint filed with the U.S. Department of Education?
+
+        Answer:     We agree with the AAUW on the point that single-sex schools are not a silver
+                    bullet -- and that challenging standardse essential elements of good education.
+                    And that's why the President has been fighting to get these crucial reforms into
+                    every school in this Nation. The President also belives that parents ought to have
+                    expanded choices in the public school system, including the option to have their
+                    children attend single-sex schools.
+
+

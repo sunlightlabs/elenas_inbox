@@ -1,0 +1,213 @@
+RECORD TYPE: PRESIDENTIAL     (NOTES MAIL)
+
+CREATOR: Dawn M. Chirwa ( CN=Dawn M. Chirwa/OU=WHO/O=EOP [ WHO 1 )
+
+CREATION DATE/TIME: 9-JUN-1997 18:19:12.00
+
+SUBJECT:   Executive Order
+
+TO: Tracey E. Thornton ( CN=Tracey E. Thornton/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Ellen M. Lovell ( CN=Ellen M. Lovell/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Susan M. Liss ( CN=Susan M. Liss/O=OVP @ OVP [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Doris O. Matsui ( CN=Doris O. Matsui/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Joseph P. Lockhart ( CN=Joseph P. Lockhart/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Michael Waldman ( CN=Michael Waldman/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Robert B. Johnson ( CN=Robert B. Johnson/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Lynn G. Cutler ( CN=Lynn G. Cutler/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Minyon Moore ( CN=Minyon Moore/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Robert N. Weiner ( CN=Robert N. weiner/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Ann F. Lewis ( CN=Ann F. Lewis/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Janet Murguia ( CN=Janet Murguia/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Thurgood Marshall Jr.    ( CN=Thurgood Marshall Jr./O=OVP @ OVP [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Richard Socarides ( CN=Richard Socarides/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Jose Cerda III ( CN=Jose Cerda III/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Beverly J. Barnes ( CN=Beverly J. Barnes/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Carolyn Curiel ( CN=Carolyn Curiel/OU=WHO/O=EOP @ EOP [ WHO 1 )
+
+
+READ: UNKNOWN
+
+TO: James T. Edmonds ( CN=James T. Edmonds/OU=WHO/O=EOP @ EOP [ WHO]     )
+READ: UNKNOWN
+
+TO: Maria Echaveste ( CN=Maria Echaveste/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+TO: Bob J. Nash ( CN=Bob J. Nash/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+TO: Ann F. Walker ( CN=Ann F. Walker/OU=WHO/O=EOP @ EOP [ WHO]   )
+READ: UNKNOWN
+
+TO: Cheryl D. Mills ( CN=Cheryl D. Mills/OU=WHO/O=EOP @ EOP [ WHO]   )
+READ: UNKNOWN
+
+TO: Sylvia M. Mathews ( CN=Sylvia M. Mathews/OU=WHO/O=EOP @ EOP [ WHO]       )
+READ: UNKNOWN
+
+TEXT:
+is attached. OLC has reviewed it and I've incorporated their comments.
+Please provide comments, if any, by tomorrow morning.  I'd like to send it
+to OMB tomorrow so they can prepare to circulate on Thursday. Thanks.
+
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.DO]MAIL48776695M.116 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504370040000010A02010000000205000000F71600000002000047571D1A8CD83DEEC3DBOO
+871B77FF1D9ED848D519FF3FEBB71BC8A7851283F3DD14A5C137AO42E913B2FD31BEF46F81462F
+625EE3FF7AB659BAF1F3F52D25C601EC3ADDBE3CA4D449A86FEB7D8C928B1BD8392B9E97EC19AO
+AEA2F50A2EA326BOD1COD4F24B4B82B044945052259C9BAD30332393CFCC50D24E929548D6646C
+AD8F1FOC901355BB90518715FCOB327FE151C3963F6CCA53F187B738A3D311DF9CE18E2151039A
+B1478DA9707C363EOE76FFA7D7BAOF8643F231902F2096B48BBA919318775A130610C53B8D99B4
+FD8397AB7F1B0742FBC54DC532783BBOE5406A89D63375E5B82A47E2A7C4A58DF9E1EE1E3FD4F3
+E16BF167458EAFED1B1948CE657D1B4ECF4EAD2F001916DCC6C1156902F8EC6A21BBEE61600D09
+D87EBA21483AEF3D6CCD87C2FE46232ADE3B27CE103B61F598D521DACF76FE7DC72958C2D56D64
+OEFFD005F2D05DE5533B4AOBE7A51DE3CC3D7B3E7AF71CB06110363105EDBDF4DC7428FC4208E3
+680A6489AF75C9678EB8C1974467753E1CA1BD6FD9DBBDB1B6E98FB56991461433E43EF66A3002
+OE31D3F447054B754BDCD6347C038ACAOA4157857182422EOAEDD9B8A7D065C513251906025FDC
+464FB22D02EOOC88AFA678F947C6F8D85D15CEC36FA195DBF838D62D55A74278BF95CC36C80412
+864C65D68E02000900000000000000000000000823010000000B0100007E020000005501000000
+4E0000008903000009250100000006000000D70300000B300200000028000000DD030000087701
+000000400000000504000008340100000014000000450400000802010000000F00000059040000
+080501000000080000006804000000985C005C004F0041005F0038005C005C005C005700450053
+0054005F00570049004E0047005C003100330030005F0041000000000000000000000000000000
+00000000000000000000000057494E53504F4F4COOOOOOOOOOC8002C012C012C012C012C01C800
+2C0130000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000B0100002800D61EC30F3908000011090000005AOOOB01008B143600540069006D0065
+00730020004E0065007700200052006F006D0061006E00200052006500670075006C0061007200
+000000000000000001000200580201000000040028000000000000000000000000000000000000
+00011202002400A1000000A10000000AOOOOOOE40101004500E50101000200E60102004500E701
+01000200E80105001700E90102001700EA0101004400EB0101000200EC0101004500ED01010045
+I
+
+
+
+
+                                DRAFT--DRAFT--DRAFT--DRAFT
+
+
+
+    Executive Order No. - - - - - of June _, 1997
+
+    Faced with the advent of a new millenium, I believe that as a nation we must reflect on the
+    course we should chart toward answering the quintessentially American question: how to bring
+    the Many together as One. In doing so, we must embrace and celebrate our diversity while
+    establishing a new consensus of what it means to be and become One America. As important,
+    we must take action to improve the ability of all Americans to realize their full potential so that
+    we can, as one country equal and indivisible, move forward into the 21 st Century.
+
+    Therefore, by the authority vested in me as President by the Constitution and laws of the United
+    States of America, including the Federal Advisory Committee Act, as amended (5 U.S.C. App.),
+    and in order to establish a President's Advisory Board on Race, it is hereby ordered as follows:
+
+            Section 1: Establishment. (a) There is established the President's Advisory Board on
+    Race. The Advisory Board shall comprise 7 members to be appointed by the President.
+    Members shall be chosen from the private sector and shall each have substantial experience and
+    expertise in the areas to be considered by the Advisory Board. Members shall be representative
+    of the diverse perspectives in the areas to be considered by the Advisory Board.
+
+         (b) The President shall designate a Chairperson [and a Vice-Chairperson] from among the
+    members of the Advisory Board.
+
+           Sec. 2. Functions (a) The Advisory Board shall advise the President on matters
+    involving race and racial reconciliation, including ways in which the President can:
+
+            (1) Promote a constructive national dialogue to confront and work through challenging
+    issues that surround race;
+
+           (2) Increase the nation's understanding of our recent history of race relations and the
+    course our nation is charting on the issue of race relations and racial diversity;
+
+           (3) Bridge racial divides by recruiting leaders in communities throughout the nation to
+    develop and implement innovative approaches to calming racial tensions;
+
+            (4) Find, develop and implement solutions in areas in which race has a substantial impact,
+    such as education, economic opportunity, housing, health care, and the administration of justice;
+    and
+
+           (5) shall advise on such other matters which from time to time the President may request.
+
+           (b) In carrying out its functions, the Advisory Board shall coordinate with the President's
+
+
+
+
+    Initiative on Race.
+
+            Sec. 3. Administration. (a) To the extent permitted by law and subject to the
+    availability of appropriations, the Department of Justice shall provide the financial and
+    administrative support for the Advisory Board.
+
+          (b) The heads of executive agencies shall, to the extent permitted by law, provide to the
+    Advisory Board such information as it may require for the purpose of carrying out its functions.
+
+           [c] The Chair [or Vice-Chair] may, from time to time, invite experts to submit
+    information to the Advisory Board and may form subcommittees or working groups within the
+    Committee to review specific matters.
+
+           (d) Members of the Advisory Board shall serve without compensation but shall be
+    allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for
+    persons serving intermittently in the Government service (5 U.S.C. 5701-5707).
+
+            Sec. 4. General. (a) Notwithstanding any other Executive Order, the functions of the
+    President under the Federal Advisory Committee Act, as amended, except that of reporting to the
+    Congress, that are applicable to the Advisory Board shall be performed by the Attorney General,
+    or his or her designee, in accordance with guidelines that have been issued by the Administrator
+    of General Services.
+
+           (b) The Advisory Board shall terminate on [September 30, 1998] unless extended by the
+    President prior to such date.
+
+
+
+
+                                                         WILLIAM J. CLINTON
+
+
+
+    THE WHITE HOUSE
+         [date]
+
+

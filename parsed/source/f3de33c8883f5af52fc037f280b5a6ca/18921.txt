@@ -1,0 +1,62 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Julie A. Fernandes ( CN=Julie A. Fernandes/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME: 9-MAR-1998 18:22:05.00
+
+SUBJECT:   INS -- Presidential Statement?
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+TEXT:
+Elena,
+Tomorrow morning (9:30am) Commissioner Meissner is holding a press
+conference to announce Congress's final approval of the INS's FY98
+budget.  INS wants the President to release a short statement of support
+prior to the press conference. According to INS, the President has issued
+such a statement (related to final budget release) in each of the last two
+years.
+
+Attached is a draft.    I am also faxing you a copy of the statement that
+was released last year.  Thanks.
+
+Julie
+
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D58]MAIL461107766.026 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504370040000010A02010000000205000000E20A000000020000E26ABOB21F17510ACCEA5C
+DF2D7CA70971C1910A25A1231742E5FB22CF3EBC8FDE3F18506C73ODE348ACB9AC49A47416131E
+                                                                                             ex-Dump Conversion
+
+
+        DRAFf -- INS Statement
+
+
+                   STATEMENT BY THE PRESIDENT ON 1998 APPROPRIATIONS
+
+
+                Five years ago, we began an effort to revitalize the INS by providing the resources and
+        commitment to fulfill our responsibilities. Since then, INS funding has increased 1S3 percent.
+        This increase has allowed our borders to be greatly strengthened through the use of added
+        personnel and better technology. In addition, workplace enforcement has gotten tougher, and
+        criminal and other illegal aliens have been deported in record numbers. By year's end, INS will
+        surpa~s my goal of employing 7,000 border patrol agents -- more than double the number
+        employed in FY93. Also, the INS has made needed reforms to our asylum system for refugees
+        fleeing persecution and is working to guarantee integrity and provide improved customer service
+        within the naturalization process for all qualified applicants.
+
+                Today's announcement represents continuing wise management of the additional
+        resources requested by me and provided by the Congress. And it represents my
+        Administration's continuing commitment to an immigration policy that recognizes the value of
+        legal immigration while strengthening our efforts to restrict illegal immigration.
+
+

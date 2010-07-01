@@ -1,0 +1,151 @@
+ RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+ CREATOR: Diana Fortuna ( CN=Diana Fortuna/OU=OPD/O=EOP [ OPD ] )
+
+ CREATION DATE/TIME: 1-AUG-1997 16:17:55.00
+
+ SUBJECT:   8/22 paper on whether there are enough jobs available for welfare recipien
+
+ TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+ READ: UNKNOWN
+
+ TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ] )
+ READ: UNKNOWN
+
+ CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO]
+ READ: UNKNOWN
+
+ CC: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP @ EOP [ OPD ] )
+ READ: UNKNOWN
+
+ TEXT:
+ We have been working with NEC, CEA, OMB, HHS, Treasury, and Labor on a
+ possible paper for the 8/22 welfare anniversary that would outline how
+ many people must leave welfare for work and whether jobs will be available
+ for them. Attached is the outline of such a paper by Emil Parker; Cynthia
+ asked me to forward it to you to see if you think we are heading in the
+ right direction and if you think such a paper would be worth doing.
+
+ We are not entirely confident such a paper can be done well and serve our
+ purposes. Two methodology questions have arisen that can probably be
+ resolved.  First, HHS has been very slow to agree with us on what should
+ be measured, and doesn't want to use the law's requirements as a benchmark
+ for success.  (By the way, they now agree that their goal for NPR purposes
+ should exactly match the President's goal of moving 1 million people to
+ work in the year 2000.)   On the jobs side, while the economist-types thi
+ nk the analysis will probably show there will be enough jobs absent a
+ recession, they are reluctant to project the number of jobs that will be
+ available. They argue instead we can prove our point by pointing to
+ analogous past experiences like the 80's immigration wave, where new
+ workers were absorbed.
+
+ In addition to the thorny question of who should author this, the final
+ concern is perhaps most important:  it seems quite possible that the
+ analysis will show that, because of the huge caseload reduction to date,
+ not that many people will actually have to go to work in a given year for
+ the law to succeed. This was Sawhill's finding.
+
+ ==================== ATTACHMENT   1 ====================
+ ATT CREATION TIME/DATE:   0 00:00:00.00
+
+ TEXT:
+ Unable to convert ARMS_EXT: [ATTACH.D68]MAIL41269521F.216 to ASCII,
+  The following is a HEX DUMP:
+
+ FF575043BF040000010A02010000000205000000FF1C000000020000CFF8F72E4B1D056A70DA71
+ 00ECEABAD856547FC6CBOF327AF354564039C16A7AB2063C4515C15D29F68178C7A3639D1C6129
+ D70AC57F7C849EF888162B6D64D6E38A846BA976712E1ACF584A302C856083098DFF9E118E1339
+ A8BA31486EB06832A9289C4D9BABFOE75808C750773C85516C9738FD90D83142094695FB2DD7C6
+ A91D1755FE3E58987B2B358C38AC427199E4829B6B333067F5A577FB3361976229D2EE4631BOA8
+ 60CD506EF5BD64D5357E9F4FC58B96B58575BC17EACFF348CDF872B403176DDA150FOAD0717B3F
+                                                                           Automated ReCOrds M
+                                         March 8, 2010
+                                                                                  Hex-Dump cg~~~%~nt System
+                                        [~ })I'>,--ce. F~"'(uiiJ
+Number of jobs needed
+
+There are at least two ways to think about this concept:
+
+1)     Number required to participate in work activities under the bill (national estimate)
+
+Possible Assumptions:         a. No case load growth between 1997 and 2000; or a modest
+                              decline or increase in the caseload between 1997 and 2000 (e.g.,
+                              consistent with prior law CBO or HHS projections).
+                              b. Upper bound: all those participating in work activities would
+                              be in subsidized or unsubsidized employment; lower bound:
+                              percentage of recipients working (i.e., with earnings) equal to
+                              double the figure under prior law--e.g., roughly 20 percent of the
+                              caseload, as opposed to 10 percent under AFDC.
+                              c. Single-parent households with a child under one would be
+                              excluded from the denominator; or a percentage of these cases
+                              would be excluded, if a substantial number of States have set the
+                              exemption level at less than a year.
+                              d. Growth in child-only cases as a share of the caseload to be
+                              projected by fitting a curve to the historical data (curve fitting to be
+                              explored by CEA).
+                              e. The percentage of cases with two parents remains constant.
+
+
+The estimated caseload reduction credit would be based on the reduction from 1995 through
+1997 and the caseload growth assumptions for subsequent fiscal years. The percentage of
+recipients who would have been employed under prior law (i.e., with earnings) could be deducted
+from the participation figures to determine the number actually in need of/entering employment
+as a result of welfare reform. This is the approach taken in the Urban Institute paper.
+
+ 2)    Number who will reach the five-year time limit
+       Number who will reach a two-year time limit (national estimates)
+
+       Estimate the number of recipients who will be on assistance for a cumulative total of 60
+       months between the date of enactment and, for example, 2005 (since no one will reach
+       the five-year limit in the year 2000; also see "available jobs" discussion below).
+
+       Estimate the number who will accumulate 24 months between date of enactment and
+       2000.
+
+The actual figure will lie between these two numbers, since sixteen States, including Florida,
+                                                        Automated Records Management System
+                                                                Hex-Dump Conversion
+
+    Illinois, Massachusetts, North and South Carolina, have set full-family time limits of two years
+    (or less, in Tennessee and Connecticut). Four other States have time limits greater than 24
+    months but less than 60. [source: HHS State pages].
+
+
+    Number of suitable jobs available
+
+           The figure should be based on the number of low-skill jobs that BLS estimates will be
+           produced over the relevant period--1997 through 2000 (through 2005 for purposes of the
+           five-year time limit number).
+
+    The paper provided by Ed Montgomery of Labor summarizes the BLS job growth projections for
+    the period from 1994 to 2005. The economy is, for example, expected to create about 20
+    million new jobs requiring only short-term training and experience. At least eight of the 20
+    occupations that are predicted to experience the greatest numerical (as opposed to percentage)
+    increases over the period are jobs that welfare recipients could realistically obtain, including
+    home health aide, cashier, janitor, guard, receptionist and child care worker.
+
+    The paper also includes a brief discussion of labor force growth, suggesting that BLS also
+    publishes projections in this area.
+
+           If possible, estimated growth in low-skill jobs would be compared to the projected
+           increase, absent welfare reform, in labor force members with no more than a high school
+           diploma or OED and little training or experience.
+
+    Possible Assumptions:         a. Job growth spread evenly over the 1994-2005 period--the
+                                  1997-2000 figure would be a pro-rated share of the total.
+                                  b. Steady labor force growth over the period.
+
+
+    Conclusion
+
+    The number of jobs needed (under the two frameworks discussed above) would be compared to
+    the difference between projected growth in low-skill jobs and estimated growth in labor force
+    participants with no postsecondary education and little or no training/experience. Net growth in
+    low-skill positions greater than the number of jobs needed would suggest that the economy can,
+    even in the short term, absorb the labor supply shock resulting from welfare reform.
+
+    NOTE: In any case, part or all ofthe CEA displacement paper that discusses past labor supply
+    shocks (the baby boom, the Mariel boatlift) should be either folded into or released along with
+    this "jobs needed/available" paper.
+
+

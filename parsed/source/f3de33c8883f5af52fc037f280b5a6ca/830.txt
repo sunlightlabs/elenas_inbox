@@ -1,0 +1,179 @@
+ RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+ CREATOR: Ellen S. Seidman ( CN=Ellen S. Seidman/OU=OPD/O=EOP [ OPD ] )
+
+ CREATION DATE/TIME:11-FEB-1997 18:49:02.00
+
+ SUBJECT:   No fault
+
+ TO: Kathleen M. Wallman ( CN=Kathleen M. Wallman/OU=WHO/O"=EOP   @   EOP [ WHO]    )
+ READ: UNKNOWN
+
+ TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+ READ: UNKNOWN
+
+ TEXT:
+ Attached is my revised memo.  ellen==================== ATTACHMENT       1 =============
+ ATT CREATION TIME/DATE:   0 00:00:00.00
+
+ TEXT:
+ Unable to convert ARMS_EXT: [ATTACH.D29]MAIL47677614P.016 to ASCII,
+  The following is a HEX DUMP:
+
+ FF575043620B0000010A02010000000205000000533400000002000047EDC4C9F5D6C42B490691
+ 09824F08D543C29AB720A1926D3D199227D69DA3FOD072274D8F54FF7D2A69E2740262CA453E68
+ 42FF7904EF5F361B76705431C06DB43D4AAID87197000135F69F2D4309B30C931EA849CF6A5361
+ 7F8E52BBF63E9CC8CE519A82E891540F3939C9156899498184B92683A6DBIOBC3F26BEA1EFF745
+ 532B57658117DF14E145E909CD926395774397208021D71E913B41C9410E43788AB47EDC49FE26
+ 312127EAC817E43F04FOOD5822DC526495D5312B6D365D403818D9D52A3845FCBBFCAOEF4A882C
+ 3C04848COAA8F78FDD163AD134CDB91096B618ED8B20604C62929F8A6F518931680BA836E5FD84
+ 00C072B3C13416636637C44740975098B013FCB673A56EA76DOD54BOFAD61EOFOOD4869ADIC418
+ 5B4819E4B5DC5A41D2269090D7D08FDFD9D707EE9153838B36B48AC4E1B7E7CB37A4EDE628A593
+ 908CCAF2608FE17AFB3DAD986402C61BC2005EE6F92CAC9102AD7C7B3415917F4DF1D42D5721FD
+ 88F2A54D877B7654554170532F818C139672AC622A825A12D32DA8A701BFF5326644656701C8AA
+ 4D25BBCC98E848AEADE8FB362FD6E994B8FA437D28523027ECAE2EAO588A96356DEF2804486458
+ 926FD4E8AC87D125820EFB90C697D84DE4EDDE072DB9043D4FC900ED9C6699907E4C70AFF53709
+ 1D1D18482B02002B00000000000000000000000823010000000B0100005A040000005501000000
+ 4E0000006505000009250100000006000000B30500000B300300000028000000B9050000087701
+ 00000040000000E105000008340100000014000000210600000802010000000F00000035060000
+ 0208010000005A010000440600000B30040000006C0000009E0700000B3002000000440000000A
+ 080000060800000100160000004E0800000062010000000COOOOOO640800000208000001005A01
+ 00007008000006080100000021000000CA0900000208000001005A010000EB0900000000000000
+ 0000000000EB09000000000000000000000000EB09000000000000000000000000EB0900000000
+ 0000000000000000EB09000000000000000000000000EB09000000000000000000000000EB0900
+ 0000000000000000000000EB09000000000000000000000000EB09000000000000000000000000
+ EB09000000000000000000000000EB09000000000000000000000000EB09000000000000000000
+ 000000EB09000000000000000000000000EB09000000000000000000000000EB09000000000000
+ 000000000000EB09000000000000000000000000EB09000000000000000000000000EB09000000
+ 000000000000000000EB09000000000000000000000000EB09000000000000000000000000EB09
+ 000000000000000000000000EB09000000000000000000000000EB090000000000000000000000
+ 00EB09000000000000000000000000EB09000000000000000000000000EB090000000000000000
+ 00000000EB0900000942010000001D000000450B00000098430061006E006F006E0020004C0042
+ 005000200038004900490049005200000000000000000000000000000000000000000000000000
+ 000000000000000000000000000000000000000057494E53504F4F4COOOOOOOOOOD4019401C800
+ 90019001C800D40194013000000000000000000000000000000000000000000000000000000000
+ 000000000000000000000000000000000000000000000000000000000000000000000000000000
+ 000000000000000000000000000000000000000000000000000000000000000000000000000000
+ 000000000000000000000000000000000000000000000000000000000000000000000000000000
+ 0000000000000000000000000B0100002800D61EC30F3908000011090000005AOOOB01008B1436
+ 00540069006D006500730020004E0065007700200052006F006DOO61006E002000520065006700
+ 75006C006100720000000000000000000100020058020100000004002800000000000000000000
+
+MEMORANDUM FOR                 ERSKINE BOWLES
+
+FROM:                          GENE SPERLING
+                               BRUCE REED
+
+SUBJECT:                       "Choice" No-Fault Auto Insurance
+
+Both you and the President independently asked us to look into whether the "choice" no-fault
+auto insurance plan devised by Jeffrey O'Connell and Michael Horowitz, supported by Senator
+Dole in last year's election, and now proposed for implementation in New Jersey by Governor
+Whitman might be something we would think a good idea as a matter of policy. Our
+preliminary response is that the Administration should not reject the plan out of hand -- it has
+positive features, including some that go beyond premium reduction, that suggest a closer policy
+look is appropriate. During the 1970s, the Carter Administration supported national no-fault.
+There is still staff at Commerce and DOT who were part of that effort and have some expertise
+in the field. Before deciding to pursue any fonn of no-fault, we should bring these agencies into
+the process.
+
+One preliminary question is what "support" for a "choice" no-fault plan might mean. It could be
+as little as using the bully pulpit to say this is a good idea and states should look into it. Or as
+much as supporting federal legislation to require states to adopt choice plans. A lesser
+alternative would be to provide federal incentives, such as increased highway safety or medicare
+funds, for states that adopt choice plans (presumably ones that meet certain statutory stantards).
+Simply authorizing states to adopt such plans is a legally meaningless act, since they can do so
+already. These degrees of support implicate issues related to federal preemption of state tort law
+as well as questions related purely related to no-fault.
+
+What is no-fault?
+
+No-fault auto insurance is essentially first party coverage: if you're injured in an auto accident,
+your carrier pays for your injuries' and your right to sue the other party (if there is one) is either
+non-existent ("pure" no-fault) or circumscribed. Almost all no-fault policies get their savings
+from the fact that only economic damages are covered -- no pain and suffering. No state has
+pure no fault. Depending on how you count, about 13 states and Puerto Rico have some fonn of
+no-fault. In New York and Michigan, which have tough verbal thresholds to get into court, it is
+
+
+        , Much auto property damage (to the auto) is covered by collision insurance. Some
+states have experimented with broader no-fault for property damage, but it was neither very
+effective nor very efficient. It is generally not an issue in the debate.
+reasonably effective in holding down costs and keeping cases out of court (although New York
+premiums are high for other reasons). In other states, which have weak verbal or dollar
+thresholds, or a right to choose to litigate after an accident, it has been less effective.
+
+"Choice" no-fault is a system under which drivers would be given the option of choosing either a
+pure no-fault policy with fairly high policy limits (e.g., $250,000) but no access to court or a
+more expensive policy which allowed court access but in which the policy-holder's insurance
+company would pay, no matter who was at fault -- as is the case with uninsured motorist
+coverage today. Governor Whitman has proposed a variation of this system. There would be
+four policies: pure no-fault at the $250,000 level (which would have a premium reduction of
+20-25%); pure no-fault with a pain and suffering add-on, but on a first party basis (which would
+result in a premium reduction of about 8%); no-fault but with access to court with a high verbal
+threshhold (reduction unstated but should be some); and the traditional second-party liability
+system with unfettered access to court.
+
+Problems and opportunities
+
+The usual rationale for moving to no-fault is that it drives down insurance premiums, and the
+usual response is that it unfairly keeps injured parties from exercising their constitutional right to
+access to court. A collateral argument is that first party systems "punish" both good drivers and
+bad drivers who get into accidents, whereas the current system places the burden on the bad
+driver. This set of arguments does not tell the whole story.
+
+       Flaws in the Argument in Favor
+
+Theoretically, no-fault should reduce automobile insurance premiums. A 1996 study by the
+Rand Institute for Civil Justice concluded that pure no-fault would reduce personal injury
+premiums by about 60%, and total premiums -- after taking into account the 50% of the typical
+premium that is for property coverage -- by about 30%. There are several reasons this has not
+been borne out in practice in the states that have adopted no-fault, and some additional reasons
+why certain states are likely to benefit less in any event.
+
+       ·       As noted above, no state has pure no-fault. Where there are weak verbal
+               threshholds or dollar threshholds, not only do cases continue to get to court, but
+               there is pressure to inflate medical expenses to go over the limits.
+       ·       While legal costs are a significant part of the premium dollar, other costs are
+               important too in determining how fast premiums go up, such as the rate of
+               increase in medical costs (leaving aside any impact of no-fault on these costs).
+               Moreover, automobile insurance is a competitive business in most states and
+               insurance companies regularly cycle through periods of declining and rising
+               premiums.
+       ·       In states with a very high proportion of single-car accidents -- i.e., most rural
+               states -- no-fault does not change the complexion of the payout system, and
+               therefore should not have much effect on premiums, which are usually fairly low
+               in the first place. You can't sue a tree. Rand claims that the proportion of
+               uninsured motorists doesn't matter much, but admits they don't really know.
+       ·       Even Rand, generally supportive of no-fault, admits that the most seriously
+               injured individuals will probably get less compensation than under the current
+               system. (The least seriously injured will cease being overcompensated.)
+
+       Additional benefits from no-fault
+
+Even if there were no premium reduction, however, no-fault might have other benefits:
+
+       ·       As a medical matter, people who are injured who receive high quality medical and
+               rehabilitative treatment quickly are more likely to recover fully. By keeping
+               cases out of court, no-fault reduces the temptation to keep the plaintiff injured for
+               the jury. Moreover, it provides the money to get the rehabilitation that's needed.
+       ·       This was important in the 1970s, but probably has gotten even more important
+               since because:
+               ·       Fewer people have medical insurance today; and
+               ·       Seatbelt and airbags save lives, but those saved are often severely injured.
+       ·       High verbal threshold no-fault probably reduces fraud in the medical care system,
+               and should reduce volume pressures on the civil justice system.
+
+       Flaws in the Opposition
+
+The part of the argument in opposition that is stated in constitutional terms is basically
+unanswerable, except to note that in general not everyone has access to the civil justice system
+because of the cost and time involved in using the system. (The efforts of Republicans to get rid
+of contingency fees and institute loser pays would, of course, exacerbate this problem, and
+undoubtedly no-fault's opponents will lump any support on our part with these changes we
+oppose.) Portions of their argument relating to the lack of reduction in premiums in no-fault
+states or the fact that many rural states have much lower premiums than no-fault states ignore the
+different economics of the states and/or the problems related to low threshholds, but clearly need
+to be taken into account in determining the practical real-life impact of adopting no-fault.
+
+

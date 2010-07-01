@@ -1,0 +1,84 @@
+ RECORD TYPE: PRESIDENTIAL            (NOTES MAIL)
+
+ CREATOR: Julie A. Fernandes ( CN=Julie A. FernandesjOU=OPDjO=EOP [ OPD 1 )
+
+ CREATION DATEjTIME:26-MAR-1998 14:43:49.00
+
+ SUBJECT:   IMMIGRATION WORKING GRP. MEETING -- CANCELLED
+
+ TO: Lael Brainard ( CN=Lael BrainardjOU=CEAjO=EOP @ EOP [ CEA 1 )
+ READ: UNKNOWN
+
+ TO: Maria J. Hanratty ( CN=Maria J. HanrattyjOU=CEAjO=EOP @ EOP [ CEA 1 )
+ READ: UNKNOWN
+
+ TO: Ricardo M. Gonzales ( CN=Ricardo M. GonzalesjO=OVP @ OVP [ UNKNOWN 1 )
+ READ: UNKNOWN
+
+ TO: Robert N. Weiner ( CN=Robert N. weinerjOU=WHOjO=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Leanne A. Shimabukuro ( CN=Leanne A. ShimabukurojOU=OPDjO=EOP @ EOP [ OPD 1 )
+ READ:UNKNOWN
+
+ TO: LETTS K ( LETTS K   @   A1       @   CD       @   VAXGTWY [ UNKNOWN 1 )      (NSC)
+ READ: UNKNOWN
+
+ TO: WARNATH S   WARNATH_S        @   A1       @       CD   @   LNGTWY [ UNKNOWN 1 )   (CPC)
+ READ: UNKNOWN
+
+ TO: Debra J. Bond ( CN=Debra J. BondjOU=OMBjO=EOP @ EOP [ OMB 1 )
+ READ: UNKNOWN
+
+ TO: Maria Echaveste ( CN=Maria EchavestejOU=WHOjO=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Elena Kagan ( CN=Elena KaganjOU=OPDjO=EOP @ EOP [ OPD 1 )
+ READ: UNKNOWN
+
+ TO: Jim Kohlenberger ( CN=Jim KohlenbergerjO=OVP @ OVP [ UNKNOWN 1 )
+ READ: UNKNOWN
+
+ TO: Janet Murguia ( CN=Janet MurguiajOU=WHOjO=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Doris O. Matsui ( CN=Doris O. MatsuijOU=WHOjO=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Emil E. Parker ( CN=Emil E. parkerjOU=OPDjO=EOP @ EOP [ OPD 1 )
+ READ: UNKNOWN
+
+ TO: Steven M. Mertens ( CN=Steven M. MertensjOU=OMBjO=EOP @ EOP [ OMB 1 )
+ READ: UNKNOWN
+
+ TO: Peter G. Jacoby ( CN=Peter G. JacobyjOU=WHOjO=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Ingrid M. Schroeder ( CN=Ingrid M. SchroederjOU=OMBjO=EOP @ EOP [ OMB 1 )
+ READ: UNKNOWN
+
+ TO: Larry R. Matlack ( CN=Larry R. MatlackjOU=OMBjO=EOP @ EOP [ OMB 1 )
+"
+
+
+         READ: UNKNOWN
+
+         TO: Cecilia E. Rouse ( CN=Cecilia E. Rouse/OU=OPD/O=EOP @ EOP [ OPD 1 )
+         READ: UNKNOWN
+
+         CC: Victoria A. Lynch ( CN=Victoria A. Lynch/OU=WHO/O=EOP @ EOP [ WHO 1 )
+         READ: UNKNOWN
+
+         CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP   [ WHO 1 )
+         READ: UNKNOWN
+
+         CC: Miriam H. Vogel ( CN=Miriam H. Vogel/OU=WHO/O=EOP @ EOP [ WHO 1 )
+         READ: UNKNOWN
+
+         TEXT:
+         The immigration working group meeting set for 3:00pm today is cancelled.
+         will reschedule for next week. Thanks.
+
+         Julie
+
+

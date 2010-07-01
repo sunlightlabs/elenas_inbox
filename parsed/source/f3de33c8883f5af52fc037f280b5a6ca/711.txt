@@ -1,0 +1,105 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Christopher C. Jennings ( CN=Christopher C. Jennings/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME: 1-FEB-1997 17:56:44.00
+
+SUBJECT:
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Jonathan Prince ( CN=Jonathan Prince/OU=WHO/O=EOP @ EOP [ WHO]        )
+READ:UNKNOWN
+
+TO: Gene B. Sperling ( CN=Gene B. Sperling/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN'
+
+TO: Russell W. Horwitz ( CN=Russell W. Horwitz/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ:UNKNOWN
+
+TO: Laura K. Capps ( CN=Laura K. Capps/OU=WHO/O=EOP @ EOP [ WHO]      )
+READ: UNKNOWN
+
+TO: Michael Waldman ( CN=Michael Waldman/OU=WHO/O=EOP @ EOP [ WHO]        )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+Sarah A. Bianchi ( CN=Sarah A. Bianchi/OU=OMB/O=EOP [ OMB ] )
+READ: UNKNOWN
+
+TEXT:
+Glitches in the computer system.  It did not send you final stats
+document.  To be sure you have correct document, the 85% stat re how many
+uninsured are in working families should read 34 million -- not 32 million.
+
+cj==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D52]MAIL452646133.016 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504314130000010A020100000002050000001E1C000000020000202C5272CFAF517E417838
+5CA68E56DAA2752788D4EC8A10D790D81B2FA9BA2AAOODD4EAFFAFB5E1B1DDB019065D262C5706
+000304CB3C928E246FCB0735371BEEF8D7CE37D958F10F57EFEB7722630F1E47ABB3CE76BA9324
+15FFFF14811F9C63546180450FC53B71E796FD70EF13COA43279DA30890F33929028DF715D2544
+3F1927079722896368F3BC23980C155CABC1B36FC95DD516A671FB68DC5501F2848371094FF60A
+F10BDE48CB53335B5C562A49FD3DA307FB6A4C27298672C94DEE87F1131A075DE87FB6F5FF4EB9
+B7744F94016DE834443C91029DF00957087B3BDE55518A4089E3CD5C89B82EAF049CD76C173F20
+489E18BE5104C88812647819AE2BE1C02E44BC99CD442E1CAD82334F9AF6D33DEF02BBD82FD81D
+48500B9D07454566809C367B8577A9F3E22623E1D2795AA38A1413C8ECBA056796ED66EOEA975F
+DA68C6BC4D1D98A4D22B282274C29D3476FCA83E5271AAACDD6BClD37F9AEA52F153BOF5483DE9
+C83EBC666E7A9F6403E010C1BE7EA7287931DFFD9C69CF2924AF2C7E3D037FD5D2C7C66E5B48A6
+8A446885D3D47B962FCA9146A861FOF07EB4581DCE83B51B60C108129E9E648EA16E3310732286
+07E33F5F42FOB94525DE19608A7F9CE12C34522B844C27F16CC0563BDC5FC9779E7440767C3A19
+FODE018D6802002B00000000000000000000000055150000004EOO00005A040000092501000000
+06000000A80400000B300800000042000000AE0400000B300800000043000000F0040000060801
+000000EB000000330500000B300COOOOOOA10000001E060000060801000000D7000000BF060000
+                                                                           Hex·iJump ConV0ision
+
+
+
+
+                                   Fact Sheet on the Uninsured
+
+
+General Statistics
+
+                                                   l
+·      40.3 million Americans are uninsured.
+                                                                                                         2
+·      Fully 85% (34 million) of the uninsured are workers or are in families of workers.
+
+Uninsured Children Statistics
+
+·      Of the 40 million uninsured, 10 million are children. 3
+
+·      Of that, 80% (8 million) of the uninsured children have a parent who is a worker. 4
+
+·      Of the 10 million uninsured children, about 3 million are eligible for Medicaid but are not
+       currentlyenrolled. 5
+
+Statistical Back-Up for Workers In-Between Jobs
+
+·      Almost 3 out of 5 people who lose their health insurance do so because of a change in
+       their employment. 6
+
+·      45% of the children who lose their health insurance do so due to a change of employment
+       of their parents. 7
+
+
+
+
+     I Employment Benefits Research Institute (EBRI). November 1996.
+     2 EBRI 1996.
+     3 EBRI 1996.
+     4 EBRI 1996.
+     5 EBRI 1996.
+     6 Sheils, John and Alecxih, Lisa. Recent Trends in Employment Health Insurance Coverage and Benefits.
+       Washington, D.C. Final Report Prepared for the American Hospital Association. 1996.
+     7 Sheils and Alecxih. 1996.
+
+

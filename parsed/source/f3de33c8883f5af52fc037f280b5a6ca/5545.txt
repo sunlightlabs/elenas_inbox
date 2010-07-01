@@ -1,0 +1,191 @@
+        RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+        CREATOR: Sarah A. Bianchi ( CN=Sarah A. Bianchi/OU=OPD/O=EOP [ OPD ] )
+
+        CREATION DATE/TIME: 9-DEC-1997 16:49:11.00
+
+        SUBJECT:   NIH memo
+
+        TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+        READ: UNKNOWN
+
+        TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ] )
+        READ: UNKNOWN
+
+        TEXT:
+        ==================== ATTACHMENT   1 ====================
+        ATT CREATION TIME/DATE:   0 00:00:00.00
+
+        TEXT:
+        Unable to convert ARMS_EXT: [ATTACH.D74]MAIL48371624J.316 to ASCII,
+         The following is a HEX DUMP:
+
+    FF57504364030000010A020100000002050000001626000000020000B130E6D09650FD6EDF2822
+    ACF515ACDE2FE3778022933F66E49F9542EA2234280F7973D9COC4CEl182F33954AAD27FD9D9B5
+    815F8E6A296FE6EB04DDE013A31D61185DCD382B5F3D50C8D1FF8F16BAC80A2D18CA74BA84BEBD
+    82D3240Bl1490806B47F566894E1019C598DEBAE8DC065D5E7BBCC56C170F9ACBE73BE8859BABB
+    161AF91DDFCC44F7DE406017E286CCB35083D82E33C54206B56D7D8D437372449C1B54CCF21437
+    05AAOFAC67AAD213F5209DD148EOE64211D885487EAE45D19EEFDABC48229FE2BAOF15CB6D1FB2
+    D69A9DAF682102CF26DD3D1730193EE6B08C86793BA300EB0047F62DED9F3661705C58430830B4
+    F0816492EOE16AF930CEC8BE910285510CA2B40014A36F2B9D0698A173DA85CB637B407B1BD6B2
+    935C520ED3EADE3763008A2E332E77A75F6BD771820BA5FAFEA08647C00275D3767B89A7FDAADB
+    035CF924ADDED82F86C03093BE1FE6B0815B3D2F4C74DD5CCDEEBF7AOF2F78BC714617817DB916
+    F32F022251091B6E9FE9E69827897AA515CA066E3D6209F93FCB89DA62BB1Al19276130450B7F1
+    CA842A01BOD70E5D664F85B1A65C179EBFF2F35FC12F2B9D2A6C4A586CBC39B820492FE7ADF5DA
+    41F882CAE8A760ED781A7E51CD6AB420DA91D587F34054716A36A0328E8590F4B68402BA8E9E79
+    7098F56A7302000800000000000000000000000055010000004EOO000070020000092501000000
+    06000000BE02000008020100000010000000C40200000B300200000034000000D4020000080501
+    000000080000000803000008770100000040000000100300000834010000001400000050030000
+    2800C8196810480D000011090000005AOOOB010000103600540069006D006500730020004E0065
+    007700200052006F006D0061006E00200052006500670075006COO610072000000000000000000
+    01000100580208337C00780000020000170200000100010000000400280000000COOOOOOOOOOOO
+    0000000000000000000112A4542400A1000000A1000000D3050COO00010000000COOD301000400
+    020000000AOOOOOOOE02020002000F020100450010020100020011020100450012020100440013
+    020100020014020100440015020100020016020100440017020COO6581D5BA7023000000000000
+    00000000000000000000DDOA1000830104000300A454211000DDD3050C0000010000000COOD3DD
+    OBOB00030000040BOODDF1021702F19BF1031702F1F1001702F19BF1011702F1F1021702F1F103
+    1702F1D3050C0000010002000COOD3446563656D62657280392C8031393937CCD3050C00000100
+    00020COOD3CCCC4D454D4F52414E44554D80464F528054484580505245534944454E54CCCC4652
+   ·4F4D3AE0300C0000000060090COOE042525543458052454544D0041F000015001300016009B004
+    05000102600928236009282302201FOODOE0300C0000000008070C00EOE0301400000000600908
+    072823080728231400E047454E4580535045524C494E47D0041700000DOOOB0002600928236009
+    282302201700DOE0110C0000000008070COOEOE0110C0000000060090COOEOCCCC5355424A4543
+    543AE0300C0000000060090COOEOF20EF2323173748043656E747572798054727573748046756E
+    64F20CF2F30EF3D0041F00001500130001200D700809000102600928236009282302201FOODOF3
+    OCF3CCE0110C0000000008070COOE054686572658069738067726F77696E678062697061727469
+    73616E80737570706F727480666F728061807375627374616E7469616C806E657780696E766573
+    746D656E7480696E8062696F6D65646963616CCF72657365617263682E80805468697380737570
+    706F72748069738064726976656E8062798074686580677265617480706F74656E7469616C7380
+    666F728062696F6C6F676963616C80627265616B7468726F7567687380696ECF62696F6D656469
+    63616C80726573656172636880616E6480627980696E6372656173696E6780636F6E6365726E73
+
+
+
+
+                                             December 9,1997
+
+
+    MEMORANDUM FOR THE PRESIDENT
+                                                                   Automated Records Management System
+    FROM:         BRUCE REED
+                  GENE SPERLING                                    Hex-Dump Conversion
+
+
+
+    SUBJECT:      21 st Century Trust Fund
+
+           There is growing bipartisan support for a substantial new investment in biomedical
+    research. This support is driven by the great potentials for biological breakthroughs in
+    biomedical research and by increasing concerns that the rising costs of caring for the baby
+    boomers will overwhelm the Medicare Trust Fund. New investments in research which could
+    prevent or delay the onset of costly chronic diseases, such as cancer, Alzheimer's, and
+    osteoporosis and improve treatment methods have the potential to deliver enormous social and
+    economic benefits. We are developing proposals to substantially increase the NIH budget
+    through the creation of a new 21 st century biomedical research trust fund. We are considering
+    options ranging from $10 billion to $15 billion. However, to double the NIH budget over the ten
+    years would cost about $15 billion. We are recommending that this substantial investment be
+    funded primarily, if not solely, from new resources from tobacco.
+
+    Background
+
+            Recent progress in biomedical research has ensured that many of the diseases Americans
+    faced a generation ago can now be prevented or treated. Smallpox has been eradicated from the
+    entire world and polio is gone from the Western Hemisphere. Surgical interventions, such as
+    organ transplantation or cardiac pacemakers, can restore normal lives for those who once had few
+    treatment options. Because of a combination of new therapies, AIDS patients can plan for a
+    future they would have otherwise been denied a few years ago. These successes, and many
+    others, would not have occurred without our Nation's strong sustained support of biomedical
+    research.
+
+            We are now posed to make even more advances that, with sufficient investment, could
+    dramatically alter and improve the way we treat diseases. There are several new technologies in
+    medical research that show great promise: important strides in imaging technologies make it
+    possible to visualize living cells and entire organs giving new insights into the structure of
+    disease; computer-based intervention systems give scientists an entire range of new tools to
+    rapidly analyze vast amounts of new data; and we are on the cusp of a host of breakthroughs in
+    genetics which will enable scientists to map the entire human genome and revolutionize how we
+    understand, treat, and prevent some of our most devastating diseases.
+able to pinpoint more effective treatments for prostate, breast, and ovarian cancer and identify
+individuals at increased risk for diseases like, heart disease and stroke, Alzheimer, and severe
+depression. A more precise understanding of an individual's genetic risks will enable
+researchers to develop more targeted and effective medications. Also, new promising laboratory
+and clinical research will improve medical treatments. For example, methods for accurately
+measuring blood glucose levels and improving metabolic control will enable doctors to prevent
+the debilitating and devastating nerve, kidney, and eye complications of diabetes. Finally, there
+is great potential for effective vaccines for global threats, such as AIDS, malaria, and
+tuberculoses, and new knowledge about the biological basis of craving and addiction will result
+in medications targeted specifically to receptors in the brain that playa role in substance abuse.
+
+        The concept of significant increases in NIH has great support in the Congress. In the last
+couple years, NIH has received nearly a $1 billion a year increase. In fact, in recent years,
+Congress has appropriated more funding in NIH than we have proposed. Earlier this year,
+64 Senators signed a letter stating their support for doubling the NIH budget over the next five
+years ($40-$50 billion), and Senator Kennedy explicitly called for this investment in his recently
+introduced tobacco bill. However, CBO is unlikely to raise revenue anywhere near the level that
+Senator Kennedy's legislation assumes. As a result, he and other Members of Congress
+interested in such investments, will likely have to scale back their proposals.
+
+Financing a Historic Increase in the Biomedical Research Budget
+
+        Doubling the NIH budget over the next ten years would cost approximately $15 billion. A
+$10 billion increase over the next five years would also represent a significant investment, even
+assuming the recent large increases in the NIH budget. Your advisors do not believe that either
+of these options could be feasible within the context of the current discretionary caps. In fact,
+any large investment in biomedical research, if funded within these tight budget caps, would
+drown out other priorities. Instead, we believe that this initiative should be paid for in the
+context of any agreement we reach on tobacco. Any revenue raised from such an agreement
+would be dedicated to a 21 st century research trust fund which would supplement the base
+spending in the discretionary budget for NIH. This proposal assumes that the discretionary
+budget would have either no increase or a current service level (inflation adjustment).
+
+        Your advisors believe that even funding biomedical research at $10 billion over the next
+five years would be significant and would be one of the most substantial items in your budget. It
+is not altogether clear that funding more than $10 billion would be a better use of funds than
+other priority investments. Having said this, there is a large and growing constituency for
+doubling the budget and expectations from the research and patient advocacy community are
+high. As a consequence, anything below the $15 billion -- while major by any measure -- may
+not be validated by all as a visionary development on the future. Moreover, the investment may
+well be outdone by Republicans and Democrats on the Hill.
+
+
+                                                                 Automated Records Management System
+                                                                 Hex-Dump Conversion
+    ,
+
+
+
+             Another possibility that has been raised is to place special emphasis on the National
+    Cancer Institute (NCI) Budget. Some have proposed doubling the NCI budget ($1.5 billion and
+    $4 billion over five years). This would make a significant contribution to cancer treatment, which
+    will become the leading killer of Americans in the next century, and there are certainly
+    well-documented links between tobacco and cancer. However, we believe that this would have
+    to be done in the context oflarge increases in the NIH budget. Linking tobacco only to cancer
+    research belies the fact that smoking is associated with a number of other diseases, such as heart
+    disease and diabetes. As a stand alone policy, it would be at risk of being overshadowed by a
+    more broad-based commitment that will likely come from the Hill. However, we could place a
+    special emphasis on cancer and double the NCI budget on top of a $10 billion overall increase in
+    NIH.
+
+    Discussion
+
+             All of your advisors support a large increase in biomedical research. HHS explicitly
+    wants to double the budget whereas most of your other advisors believe that calling for 21st
+    century trust fund and increasing research by at least $10 billion is strongly defensible. A
+    substantial investment in NIH will also no doubt receive strong support from public health
+    groups, such as the National Breast Cancer Coalition,the American Heart Association and the
+    American Diabetes Association. Opponents note that other areas of research at NASA and the
+    National Science Foundation which look at areas such as information communications and the
+    environment should not be overlooked. They also argue that in the context of an extremely
+    limited budget vast increase in biomedical research are excessive. They assume that
+    Republicans will still find ways to outspend us in this area. Understanding their concerns, the
+    DPCINEC believe that if you take the lead in substantially increasing the NIH budget and are the
+    first to propose a credible means to pay for it, that your commitment will be appropriately
+    recognized.
+
+
+
+
+                                                                      Automated Records Management System
+                                                                      Hex-Dump Conversion
+
+

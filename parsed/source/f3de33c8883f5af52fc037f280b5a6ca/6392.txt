@@ -1,0 +1,134 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP [ OPD ) )
+
+CREATION DATE/TIME:19-FEB-1998 20:34:48.00
+
+SUBJECT:   This afternoon's clips: Bliley subpeonas 39,000 more docs
+
+TO: Mary L. Smith ( CN=Mary L. Smith/OU=OPD/O=EOP @ EOP [ OPD )   )
+READ:UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ) )
+READ: UNKNOWN
+
+TO: Thomas L. Freedman ( CN=Thomas L. Freedman/OU=OPD/O=EOP @ EOP [ OPD ) )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ) )
+READ: UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D44)MAIL46749305P.026 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504330030000010A020100000002050000008E1A0000000200002EF9C6293BF50B28CE79DO
+4C1D5EA9419ABF125005C61B2A2934F809C16A4318914F8F2054B8AOA110CBOE1103CB2851257F
+75D9750A97A56DDA35256EAB7BB700428EBFDF4500BB23E5F13430ADOA13353978AB62A2A4041D
+BA7F64BEED6E00198AD91F66652137C728E27D73D5F76972C4C77B2ADDD70DE4D20C3B8F4D478A
+10E0417FCF7DAC09A13FOAB17C28582964459E44D85F4AD606CA6AB8D5DE64FOF69E4BB2FF1FD8
+EEC2EA7C1B8E22DB62CD265A6D9399B139248AD19EF7863D971CFDA0172DOE99541CB8DC88689D
+54C6493F1AC3DB26B21FB4F55E7519C09CDA6215FEAA9F332AFB79FDD869CF10598EAC55AC82B4
+136DE34C2045CA3B647C9E288BEEB6BA4B1351DEC82335CD47984DAD09C41974526F84A05D9B66
+2EA276736D5FE647B3F04C740BC72F5632A7074633700EOEEA05D795AD03D4847E9B69B4675369
+3CAOAD08E7CA8B4B4E6A7E853B2AFE999E6CC84963631BA45D12D5B799D844316B607C283C4C95
+8C7B423DD5F3FBF96043647F5DCED95852472E2262AA79F623959E4OB1AF6D9E4729AD27C7668E
+BFA830BBEBF1DDFD2B5C60164DE865A94D96965832AE2B1C07837112CC5DA60B08C906DA147C44
+703D58E8F5EOF7012A3875B9876DB714AF7836FB329ABC64DBBB41BCD3821D27F68D1602AA5341
+AA91A60E7602000700000000000000000000000802010000001000000062020000005501000000
+4E0000007202000009250100000006000000C00200000B300200000028000000C6020000087701
+0000002EOOOOOOEE020000083401000000140000001C03000008237C0078000102000007000000
+01002800D61EC30F3908000011090000005AOOOB01008B143600540069006D006500730020004E
+0065007700200052006F006D0061006E00200052006500670075006C0061007200000000000000
+000001000200580201000000040028000000000000000000000000000000000000000113020024
+00A1000000A1000000070000000100010017000200010017000300010017000400020017000500
+01001700060001004400070001000B00759A4D2400000000000000000000000000000000DDOA10
+008301040003000200211000DDDDOBOB00030000040BOODDF1000100F15052494E5480444F4380
+5245515545535445443A8046454252554152598031392C80313939388080808080808080808080
+80808080808080808080313034504B32CC3180444F43554D454E54805052494E544544CC338050
+52494E544544805041474553CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCF1010100F1F1000400F1CCCCCCCCCCCCF1010400F1F10002
+00F153454E44B0544F3AB0524943452CB043594E54484941CCB08080BOB080B080804F5044B02D
+B0444F4D4553544943B0504F4C49435980434F554E43494CCCB08080BOB080B08080524F4F4D80
+33303BCCBOBOBOBOBOBOBOBOB04F4C4480455845435554495645BO4F4646494345804255494C44
+494E47CCBOBOBOBOBOBOBOBOB05741534B494E47544F4EB04449535452494354B04F46B0434F4C
+554D424941B032303530322D3033303BCCCCCCCC2A2A2A2A2A2A2A2A2A2A2A2A2A2A2A2A2A2A2A
+2A2A2A2A2A2A2A2A2A2A2A2A2A2A2A3039333B392A2A2A2A2A2A2A2A2A2A2A2A2A2A2A2A2A2A2A
+                                  AP Online
+
+               February 19, 1998; Thursday 18:17 Eastern Time
+
+SECTION: Financial pages
+                                                                 Automated Records Management System
+LENGTH: 490 words                                                Rex-Dump Conversion
+
+HEADLINE: Chairman Demands Tobacco Documents
+
+BYLINE: LAURIE KELLMAN
+AP-Tobacco ,0535
+
+DATELINE: WASHINGTON
+
+BODY:
+    The chairman of the House Commerce Committee subpoenaed 39,000 tobacco
+industry documents he said may contain information about the cigarette-makers'
+marketing and research practices.
+
+   The chairman, Rep. Tom Bliley, R-Va., once among Congress' staunchest
+defenders of the industry, demanded the documents by March 12.
+
+  "Congress and the American people deserve to know what's in the documents so
+we can make informed decision about tobacco policy," Bliley said in a statement
+Thursday.
+
+   Industry spokesman Scott Williams confirmed that the subpoenas had been
+received by Geoffrey Bible of Philip Morris, Steven Goldstone ofRJR Nabisco,
+Nicholas Brookes of Brown & Williamson, Laurence Tisch of the Loews Corp.,
+Samuel Chilcote of the Tobacco Institute and James Glenn of the Council for
+Tobacco Research.
+
+   The subpoenas stem from documents Minnesota courts have ordered released to
+the state and to Blue Cross and Blue Shield, which are suing the tobacco
+industry to recover $1.77 billion spent treating smoking-related illnesses in
+Minnesota. Williams said the industry is appealing the order. He declined to
+comment further.
+
+   "I've said all along that if more documents were identified in the Minnesota
+case as possibly containing evidence of crime or fraud that I would request
+them," Bliley said. "More documents have been identified, and these documents
+must see the light of day."
+"will help call the tobacco industry's bluff."
+
+   "While the tobacco CEOs testify in Congress that it's a new day and the
+industry is coming clean with the truth, they are fighting tooth and nail and
+spending millions of dollars to continue to conceal secret documents in the
+Minnesota case," Humphrey asserted.
+
+    The subpoenas come as Congress decides whether to ratify or rewrite the
+landmark tobacco settlement reached in June between state attorneys general
+and the industry. The deal would end 40 state lawsuits if companies pay $368
+billion over 25 years and agree to curb some business practices, such as
+marketing.
+
+   In exchange the industry would get protection from most lawsuits.
+
+  Congressional response to the latter requirement has been cool, and
+Republican leaders have not made passing a bill a top priority.
+
+   At a meeting of the Consumer Analysts Group of New York on Wednesday,
+Goldstone of RJR Nabisco told journalists that if Congress does not pass the
+settlement by June, "then the chances for (passage) this year begin to
+diminish."
+
+   Goldstone said upcoming elections would distract lawmakers from the complex
+decisions required by the agreement.
+
+
+                                                               Automated Records Management System
+                                                               Hex-Dump Conversion
+
+

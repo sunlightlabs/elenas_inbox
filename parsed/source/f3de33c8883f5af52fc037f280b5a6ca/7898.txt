@@ -1,0 +1,245 @@
+RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+CREATOR: Laura Emmett   ( CN;Laura Emmett/OU;WHO/O;EOP [ WHO ] )
+
+CREATION DATE/TIME:29-MAY-1998 11:50:49.00
+
+SUBJECT:   Complete Weekly 5/29- Paul has edited
+
+TO: Elena Kagan ( CN;Elena Kagan/OU;OPD/O;EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TEXT:
+;;;;;;;;;;;;;;;;;;;; ATTACHMENT   1 ;;;;;;;;;;;;;;;;;;;;
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D14]MAIL44085515L.126 to ASCII,
+ The following is a HEX DUMP:
+
+FF5750433AOF0000010A020100000002050000004150000000020000D340DC3C1AEFAB4EDC99BC
+6CAA1BOF7A08EF427C65212246941C9ED5045072ACBB9AC3214D067BC78008318790C71F74BB65
+326A3C3F17D122FC77EF5687CA893063DD2520339A92D19B1A60AE38F4C93BAB2DEOA12EC442C9
+D630A13D44CC837981504CA6034719DA82AC595281C027F8EB38D5CFA78B8B79DC0734883B5818
+F8F5338002C3BA51030987FF4A072C9A99CD1202CAB1EA95B657BF86D31812E2CF658DE67CE2D7
+8CEFD79E11AE8E7D6FF6BEA365A93847665045C1A88A336C1C235A7BC066D89466A15135A21910
+76DD4993BOBBACAFD9EAA2EA7F79B5F29DB8E518D037F74101F071E5EE9CF7BE9D8A899D6D16D2
+70AD2922FBBCA53D4450EA05353F780B08C80C86A315DF6ADA911D93F87AF82647B6F4FDABE7DE
+CAAD937E24A3098EAF94214558C6BF8D97D36D14A903B648B05379FEC5B879E475C4392B3C29D4
+264E2B42471EBEE529CA7B8E58F4DF8951C2566E93B20CAF10BF9E4B337B6B98951BF99033D08F
+B276F318853A945F6DCC02F1FD9AF6AA452FE67348AE25EA6EFABF6D54C4011C9E729E9B7379A8
+5D528C2E9EEEC2DOD8B8311517B106CB19BBCBAAF21215A6ECD7A2AA15C6AB07A419368077828C
+FB6C75A063EB480FD27AE3C1A36D39051F3A9DD625D9948CFA65F6A51B494714F5A96442618011
+092E7F46530200A400000000000000000000000823010000000B010000F80A0000005509000100
+4E000000030C000009250100000006000000510COOOOOB300300000028000000570C0000080501
+000000080000007FOC00000055040000004E000000870COOOOOOOO0000000000000000870COOOO
+00000000000000000000870C00000055020001003COOOOOOD50COO000877010000004000000011
+OD000008340100000014000000510D00000802010000000FOOOOOO650DOOOOOB30010000006COO
+0000740D00000055010000004EOOOOOOEOODOOOOOOOOOOOOOOOOOOOOOOOOEOODOOOOOOOOOOOOOO
+0000000000EOODOOOOOB3001000000440000002EOE00000608010000002D000000720E00000055
+01000000320000009FOE0000000000000000000000009FOEOOOOOO0000000000000000009FOEOO
+00000000000000000000009FOE0000000000000000000000009FOE000000000000000000000000
+9FOE0000000000000000000000009FOEOOOOOOOOOOOOOOOOOOOOOO009FOEOOOOOOOOOOOOOOOOOO
+0000009FOE0000000000000000000000009FOEOOOOOOOOOOOOOOOO000000009FOEOOOOOOOOOOOO
+0000000000009FOE0000000000000000000000009FOEOOOOOOOOOO000000000000009FOEOOOOOO
+0000000000000000009FOE0000000000000000000000009FOEOOOO000000000000000000009FOE
+0000000000000000000000009FOE0000000000000000000000009FOEOOOOOOOOOOOOOOOOOOOOOO
+009FOE0000000000000000000000009FOEOOOOOOOOOOOOOOOOOOOO00009FOEOOOOOOOOOOOOOOOO
+000000009FOE00000942010000001DOOOOOOD10EOOOOOOOOOOOOOO0000000000D10EOOOOOOOOOO
+00000000000000D10EOOOOOOOOOOOOOOOOOOOOOOOOD10EOOOOOOOO0000000000000000D10EOOOO
+00000000000000000000D10EOOOOOOOOOOOOOOOOOOOOOOOOD10EOO0000000000000000000000D1
+OEOOOOOOOOOOOOOOOOOOOOOOOOD10EOOOOOOOOOOOOOOOOOOOOOOOOD10EOOOOOOOOOOOOOOOOOOOO
+0000D10EOOOOOOOOOOOOOOOOOOOOOOOOD10EOOOOOOOOOOOOOOOOOO000000D10EOOOOOOOOOOOOOO
+0000000000D10EOOOOOOOOOOOOOOOOOOOOOOOOD10EOOOOOOOOOOOO000000000000D10EOOOOOOOO
+0000000000000000D10EOOOOOOOOOOOOOOOOOOOOOOOOD10EOOOOOO000000000000000000D10EOO
+0000000000000000000000D10EOOOOOOOOOOOOOOOOOOOOOOOOD10E000000000000000000000000
+D10EOOOOOOOOOOOOOOOOOOOOOOOOD10EOOOOOOOOOOOOOOOOOOOOOO00D10EOOOOOOOOOOOOOOOOOO
+000000D10EOOOOOOOOOOOOOOOOOOOOOOOOD10EOOOOOOOOOOOOOOOO00000000D10EOOOOOOOOOOOO
+000000000000D10EOOOOOOOOOOOOOOOOOOOOOOOOD10EOOOOOOOOOO00000000000000D10EOOOOOO
+000000000000000000D10EOOOOOOOOOOOOOOOOOOOOOOOOD10EOOOO00000000000000000000D10E
+000000000000000000000000D10EOOOOOOOOOOOOOOOOOOOOOOOOD1OEOOOOOOOOOOOOOOOOOOOOOO
+                                                        Hex-Dump Conversion
+
+                                         May 29,1998
+
+
+MEMORANDUM FOR THE PRESIDENT
+
+FROM:         Bruce Reed
+              Elena Kagan
+
+RE:           DPC Weekly Report
+
+
+         Tobacco -- Senate Update: When the Senate returns from recess, it is scheduled to
+return to the McCain legislation and resume consideration of an amendment by Sen. Durbin to
+increase look back penalties and an amendment by Sen. Gramm to devote most of the bill's
+revenues to a tax cut for married couples with income ofless than $50,000 per year (advertised as
+an elimination of the marriage penalty). The Gramm amendment would provide a significant
+tax cut to low- and middle- income people, but would require a 78 percent cut in spending for
+public health, medical research, farmers, and the states. We are still deciding whether to
+develop and/or support a smaller tax cut proposal. Such a proposal would take the pressure off
+Democrats to vote for the Gramm amendment and if passed, would enhance the attractiveness of
+the bill to Republicans; inevitably, however, the proposal would diminish the funds available for
+spending on health research and public health programs.
+
+        Tobacco --Tobacco Farmers: This week the Senate may begin consideration of those
+provisions of the tobacco bill relating to tobacco farmers. The legislation currently includes a
+provision drafted by Sen. Lugar that would buy-out all farmers from the quota program within 3
+years at a cost of $18 billion, eliminating the government program and creating a free market in
+tobacco in its place. The legislation also includes Sen. Ford's measure, which the
+Administration supports, to preserve the program and give farmers the option of being bought
+out, at a total cost of $28.5 billion spread over 25 years. USDA calculates that the Lugar
+approach would lead to dramatic increases in the amount of tobacco grown in the U.S., and a
+reduction in the cost of tobacco for companies. Last week, the Washington Post ran an article
+that included USDA's calculation that tobacco companies will save $800 million a year or $20
+billion over the next 25 years if Lugar becomes law. In addition, OMB estimates that the Lugar
+provision would necessitate a 69% cut in the research and other public health programs called for
+in the McCain legislation. Armed with these numbers, public health groups like the Campaign
+for Tobacco-Free Kids have lobbied the Senate for the Ford measure. Procedurally, the next
+move is for both Sens. Ford and Lugar to try and strike the other's measure from the bill. Along
+with USDA, we will continue to work with Sens. Ford, Robb, and Hollings to build support for
+their farmers provision and simultaneously seek to fashion a compromise that might gamer
+significant Republican votes.
+                                                     Hex-Dump Conversion
+
+        Welfare Reform -- State Reinvestment ofTANF Savings: During your meeting with
+Welfare-to-Work Partnership Board members last week you stressed the importance of states .
+reinvesting their welfare savings in child care, transportation and training. We will work with
+HHS to analyze state expenditure data for TANF and child care. Unfortunately, this data is not
+as timely as we would like. In the meantime, there is some encouraging information in the NGA
+Fiscal Survey of States released on May 27th. The report indicates that States are shifting the
+spending oftheir welfare funds from cash to work-related supports. Comparing expenditures in
+1996 with planned spending for .1998, the percent of welfare spending on cash assistance
+dropped 27 percent (roughly comparable with caseload declines), while spending on child care
+increased by 55 percent and spending on work activities increased 34 percent. Total welfare
+spending declined by 9 percent, but given caseload reductions, this actually represents increased
+spending per person.
+
+        Education -- Gov. Carper's Testing Program: Prior to your speech to the Delaware
+State Legislature, Gov. Carper related to you that Delaware's testing program tests students
+against both state and national standards, by combining test items aligned with state standards
+with items from NAEP. He reiterated this point in a recent letter following up your trip. We
+have followed up with Gov. Carper's staff to get more information about the state testing
+program. While it is true that Delaware does have a "hybrid" testing program, it is more
+accurate to say that it tests students against national norms, rather than national standards.
+Approximately 25% of the items on the Delaware test are taken from the SAT 9 (the Stanford
+Achievement Test), and this is sufficient to tell how an individual student ranks compared to
+other students nationwide. It does not, however, provide information on student performance
+relative to national standards, such as those in NAEP. You may recall that the National
+Academy of Sciences is studying the feasibility of statistically linking state tests with NAEP, so
+that state tests could in fact test students against national standards. Preliminary indications are
+that the NAS report, due July 1, will indicate that few state testing programs will meet the
+technical requirements for this kind oflinking.
+
+        Education -- GAO report on national testing:· Next week the GAO will issue a report,
+requested by Rep. Goodling, on the relationship between the Education Department and NAGB
+in developing the tests, and the procedures for awarding contracts for test development. The
+report affirms that the Education Department has honored the requirements of the law which
+placed control oftest development with NAGB. In addition, GAO stated it had no concerns
+with regard to contracting procedures. While we do not expect the report will alter Rep.
+Goodling's position, it does negate one set of arguments he had planned to utilize.
+
+        Education -- Adult Education: You recently asked what the Administration had
+accomplished with respect to Adult Education, literacy training and the GED, and whether we
+need to take additional steps. The Senate and House Workforce bills, which are expected to be
+passed by July 1, provide for the reauthorization of Adult Education programs. Your FY 1999
+budget requests a $16 million increase in adult education for state grants, which funds local
+literacy, GED and adult education programs.· It also includes a request for funds to develop
+
+
+                                                 2
+                                              Hex-Dump Conversion
+
+model English as a second language programs for adults, since 40% of adult education
+participants are in such programs. The Education Department has also funded a PBS series,
+"Crossroads Cafe" that is a "Sesame Street" for adults learning English. The program is now
+shown in 35 states (and 50 countries) and will be expanded shortly. DPC will work with NEC
+and the Education Department to explore how we can best highlight the efforts we already have
+underway, and what additional steps would be appropriate.
+
+        Health Care -- Assisted Suicide Update: Next week we plan on releasing the Justice
+Department interpretation that concludes that the Drug Enforcement Agency (DEA) has
+no legal authority to prohibit physicians from prescribing drugs with the intention of
+hastening death. As you will recall, Senator Hatch and Congressman Hyde had requested
+that the DEAlJustice determine if there was any Federal authority to address Oregon's
+assisted suicide law, which permits physicians to provide medications for the purposes of
+aiding in an assisted suicide. Consistent with your instructions, we will release this
+interpretation, but will also make clear that you maintain your longstanding position of
+opposition to assisted suicide and remain open to workable legislative approaches that
+address this issue. We expect that Senator Hatch and Congressman Hyde will respond by
+introducing legislation that provides DEA the explicit authority to press charges against
+physicians who assist in suicide. As you know, we believe that a DEA approach is
+ill-advised. We will carefully roll-out the announcement of your position on this issue with
+both Members and interested organizations, such as the Catholic Health Association and
+the American Medical Association and will keep you advised of legislative developments.
+
+        Health Care -- HCFA Letter to Ravenswood Hospital in Chicago: Last week, 15
+year old Christopher Sercye died of gunshot wounds just 35 feet from Ravenswood
+Hospital in Chicago, where friends had brought the young man for help. Hospital
+workers did not leave their posts and apparently would not even give police officers a
+stretcher to help the young man. In response, the Health Care Financing Administration
+sent out a letter to the President of Ravenswood Hospital on Friday stating that the hospital
+will lose its Medicare funding on June 19, 1998, unless the facility takes steps to ensure that
+the events that led to the tragic death of Christopher Sercye will not be repeated. You
+released a statement to highlight the Administration's strong action. In addition, your
+statement urges all hospitals to· follow the recently released guidance by the American
+Hospital Association that advise hospitals to change any policies that prevent taking
+appropriate actions in a medical emergency.
+
+        Health Care -- Medicare Commission: Next Monday, the Medicare Commission
+will be holding another meeting to respond to its Members concerns that they have not had
+enough time to have intensive discussions about the major issues of benefits, costs,
+eligibility, administration, and fmancing. Senator Breaux, troubled about the perception
+of the Commission's irrelevance, has asked Sens. Lott and Daschle to open up the meeting
+with words of encouragement on the charge and the potential of this Commission. The
+Democrats, including our Commission members, are becoming increasingly nervous that
+
+
+                                               3
+                                                Hex-Oump Conversion
+the Commission's staff and Congressman Thomas are focusing much too heavily on highly
+speculative, numbers-driven policy and much too little time on how best to reform the
+Medicare program to respond to the delivery challenges it faces in the next centUry. We
+expect they will urge the Commission to dedicate as much time to program design as to
+program fmancing. Our members are increasingly seeking answers from us as to how
+comfortable we are in allowing them to eJ.lgage in serious discussions about controversial
+policy reforms on benefits ( including requiring higher cost sharing and more benefits like
+prescription drug coverage), eligibility age changes, income-related means-testing, and the
+possibility of putting new revenues on the table. In general, we believe that it would be
+constructive for the Commission to engage in general discussions on all of these issues with
+the exception of new revenues. We believe our members should only address the revenue
+issue only if it is determined that traditional saving approaches alone will be insufficient to
+satisfactorily address the program's fmancing challenges. We are working closely with
+Gene Sperling and the NEC to assure we have a coordinated message.
+
+        Health Care -- Long Term Care: Aging and disability advocates are increasingly
+pressing us to address the issues surrounding long-term care. The demographic changes
+in the popUlation make clear that, in the absence of major new breakthroughs in cures and
+treatments, there will be an extraordinary increase in demand for services targeted to the
+nation's aging and disability population. Because of cost and other limitations, both the
+public and private sectors have been slow to develop responses to this challenge. Although
+comprehensive solutions are politically and fmancially unrealistic, we believe that we
+should begin a series of targeted policy options to begin to address this problem. These
+could include, requiring FEHBP to offer (but not pay for) private long-term care policies,
+educating Medicare beneficiaries that Medicare does not cover long term care and advising
+them of other options, developing policy options that provide more flexibility to States to
+provide home and community-based personal care options for Medicaid elderly and
+disabled eligibles, and developing possible tax incentive approaches that cou~d potentially
+increase the purchase of private long-term care policies. We believe that you may want to
+take steps in this area relatively soon and capture at least part of an issue that has
+extraordinary political and policy dimensions.
+
+         Community Empowerment -- Low-Income Housing Tax Credit (LIHTC): This week
+staff from the DPC and the NEC meet with representatives of LISC and the Enterprise
+Foundation on ways to secure passage of the LIHTC. Legislation that would implement your
+proposal to expand the credit by $1.6 billion now has 50 cosponsors in the Senate and almost 200
+hundred in the House. We asked both organizations for suggestions on how build more support
+for the legislation. They are planning to get back to us in the next two weeks.
+
+
+
+
+                                               4
+
+

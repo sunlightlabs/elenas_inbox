@@ -1,0 +1,304 @@
+RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+CREATOR: Kate P. Donovan ( CN=Kate P. Donovan/OU=OMB/O=EOP [ OMB I )
+
+CREATION DATE/TIME:27-JUL-1998 12:44:36.00
+
+SUBJECT:   URGENT: TRANSPORTATION HOUSE RULES SAP
+
+TO: G. E. DeSeve ( CN=G. E. DeSeve/OU=OMB/O=EOP@EOP [ OMB I )
+READ: UNKNOWN
+
+TO: Jeffrey M. Smith ( CN=Jeffrey M. Smith/OU=OSTP/O=EOP@EOP [ OSTP I    )
+READ: UNKNOWN
+
+TO: Wesley P. Warren ( CN=Wesley P. Warren/OU=CEQ/O=EOP@EOP [ CEQ J )
+READ:UNKNOWN
+
+TO: Lisa M. Kountoupes   ( CN=Lisa M. Kountoupes/OU=WHO/O=EOP@EOP [ WHO J )
+READ: UNKNOWN
+
+TO: William P. Marshall ( CN=William P. Marshall/OU=WHO/O=EOP@EOP [ WHO J )
+READ:UNKNOWN
+
+TO: Martha Foley ( CN=Martha Foley/OU=WHO/O=EOP@EOP [ WHO I )
+READ:UNKNOWN
+
+TO: Sally Katzen ( CN=Sally Katzen/OU=OPD/O=EOP@EOP [ OPD J )
+READ:UNKNOWN
+
+TO: John Podesta ( CN=John Podesta/OU=WHO/O=EOP@EOP [ WHO I )
+READ: UNKNOWN
+
+TO: RUDMAN M@A1@CD@VAXGTWY    RUDMAN M@A1@CD@VAXGTWY [ UNKNOWN I   ) (NSC)
+READ:UNKNOWN
+
+TO: Todd Stern ( CN=Todd Stern/OU=WHO/O=EOP@EOP [ WHO J )
+READ:UNKNOWN
+
+TO: Kerri A. Jones ( CN=Kerri A. Jones/OU=OSTP/O=EOP@EOP [ OSTP J )
+READ: UNKNOWN
+
+TO: Kathleen A. McGinty ( CN=Kathleen A. McGinty/OU=CEQ/O=EOP@EOP [ CEQ J )
+READ:UNKNOWN
+
+TO: Joshua Gotbaum ( CN=Joshua Gotbaum/OU=OMB/O=EOP@EOP [ OMB I    )
+READ: UNKNOWN
+
+TO: Ron Klain ( CN=Ron Klain/O=OVP@OVP [ UNKNOWN J )
+READ:UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP@EOP [ OPD J )
+READ:UNKNOWN
+
+TO: Gene B. Sperling ( CN=Gene B. Sperling/OU=OPD/O=EOP@EOP [ OPD J )
+READ:UNKNOWN
+
+TO: Rahm I. Emanuel ( CN=Rahm I. Emanuel/OU=WHO/O=EOP@EOP [ WHO J )
+READ:UNKNOWN
+
+CC: Dawn L. Smalls ( CN=Dawn L. Smalls/OU=WHO/O=EOP@EOP [ WHO I    )
+
+
+READ: UNKNOWN
+
+cc: Rosemary Evans ( CN=Rosemary Evans/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ:UNKNOWN
+
+cc: Adrienne C. Erbach ( CN=Adrienne C. Erbach/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ:UNKNOWN
+
+CC: Peter A. weissman ( CN=Peter A. Weissman/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ:UNKNOWN
+
+cc: Judy Jablow ( CN=Judy Jablow/OU=CEQ/O=EOP@EOP [ CEQ 1 )
+READ:UNKNOWN
+
+cc: Charles R. Marr ( CN=Charles R. Marr/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+cc: Lisa Zweig ( CN=Lisa Zweig/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ:UNKNOWN
+
+cc: Charles Konigsberg ( CN=Charles Konigsberg/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+cc: Shannon Mason ( CN=Shannon Mason/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ:UNKNOWN
+
+cc: Michelle Crisci ( CN=Michelle Crisci/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+CC: Jessica L. Gibson ( CN=Jessica L. Gibson/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+cc: FARRAR J@Al@CD@VAXGTWY     FARRAR J@Al@CD@VAXGTWY [ UNKNOWN 1 )   (NSC)
+READ:UNKNOWN
+
+CC: Victoria A. Wachino ( cN=Victoria A. Wachino/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+cc: Robert L. Nabors   ( CN=Robert L. Nabors/OU=OMB/O=EOP@EOP ( OMB 1 )
+READ:UNKNOWN
+
+cc: Paul J. Weinstein Jr.    ( CN=Paul J. weinstein Jr./OU=OPD/O=EOP@EOP [ OPD 1 )
+READ:UNKNOWN
+
+CC: Emil E. Parker ( CN=Emil E. Parker/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ:UNKNOWN
+
+cc: Jill M. Blickstein ( CN=Jill M. Blickstein/OU=OMB/O=EOP@EOP ( OMB 1 )
+READ:UNKNOWN
+
+CC: Elizabeth Gore ( CN=Elizabeth Gore/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ:UNKNOWN
+
+CC: Jonathan H. Adashek ( CN=Jonathan H. Adashek/OU=WHO/O=EOP@EOP ( WHO 1 )
+READ: UNKNOWN
+
+cc: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP@EOP ( WHO 1 )
+READ: UNKNOWN
+
+CC: Melissa G. Green ( CN=Melissa G. Green/OU=OPD/O=EOP@EOP ( OPD 1 )
+
+
+READ:UNKNOWN
+
+CC: Kevin S. Moran ( CN=Kevin S. Moran/OU=WHO/O=EOP@EOP [ WHO I )
+READ: UNKNOWN
+
+TEXT:
+Below is the draft Rules SAP for Transportation Appropriations, FY99.  The
+language is virtually identical to the House Committee letter that was
+sent 7/21/98 (we took out the PLA language because we do not expect an
+amendment to be offered). The Rules Committee is scheduled to meet at 4pm
+today (this could be postponed).  Please provide comments/clearance by 3pm
+today.  Thank you.
+
+DEPARTMENT OF TRANSPORTATION
+         AND RELATED AGENCIES APPROPRIATIONS BILL, FY 1999
+(Sponsors: Livingston (R), Louisiana; Wolf (R), Virginia)
+
+
+        This Statement of Administration Policy provides the
+AdministrationD,s views on the Department of Transportation and Related
+Agencies Appropriations Bill, FY 1999, as reported by the House
+Appropriations Committee.   Your consideration of the Administrationu,s
+views would be appreciated.
+
+         The Administration appreciates efforts by the Committee to
+accommodate certain of the President's priorities within the 302(b)
+allocation such as funding for Amtrak.   However, the allocation is simply
+insufficient to make the necessary investments in programs funded by this
+bill. As a result, a variety of critical programs are under-funded.    The
+only way to achieve the appropriate investment level is to offset
+discretionary spending by using savings in other areas.   The President's
+FY 1999 Budget proposes levels of discretionary spending for FY 1999 that
+conform to the Bipartisan Budget Agreement by making savings in mandatory
+and other programs available to help finance this spending.   In the
+Transportation Equity Act, Congress -- on a broad, bipartisan basis
+took similar action in approving funding for surface transportation
+programs together with mandatory offsets.   The Administration urges the
+Congress to consider such mandatory proposals for other priority
+discretionary programs, including those funded through this bill.
+
+        The Administration is concerned that the Committee bill could
+seriously compromise the Coast GuardD,s and the Federal Aviation
+AdministrationD,s (FAAD,s) operations and modernization projects,
+compromise highway safety, and harm other important programs.   The House
+could partially accommodate the funding increases recommended below by
+adhering more closely to the PresidentD,s request for the Airport Grants
+program, High Speed Rail, Coast Guard Alteration of Bridges, and other
+programs. The Administration is pleased that the Committee has not
+included language limiting the use of project labor agreements.   However,
+the bill does include a number of objectionable language provisions.   The
+AdministrationD,s concerns are discussed below.
+
+Essential Operations
+
+        The Administration strongly urges the House to fully fund the
+request for Coast Guard and FAA operations. We ask that the Committee
+restore the $72 million reduction to Coast Guard Operating Expenses and to
+eliminate the CommitteeD,s direction to reallocate funds among programs.
+The Committee mark would force the Coast Guard to lay up certain cutters
+and aircraft and decommission one of the NationD,s three polar
+
+
+icebreakers, which would, among other effects, compromise the integrity of
+our Exclusive Economic Zone and leave critically depleted fish stocks
+under-protected.
+
+        Likewise, we ask the House to restore the $56 million reduction to
+FAA Operations·. These funds are necessary to ensure that the FAA can hire
+the safety inspectors and security personnel needed to meet the demands
+from increased air travel.
+
+Coast Guard and FAA Modernization
+
+        The Administration urges the House to fully fund the request for
+Coast Guard and FAA modernization to ensure that the infrastructure
+necessary to fulfill their missions in the future is available.  The
+Administration urges the House to restore the $54 million reduction to
+the request for Coast Guard capital replacement funding.   This funding is
+necessary to complete projects that will reduce the Coast GuardD,s future
+operating costs, improve mission performance, and provide adequate
+facilities and housing for Coast Guard personnel.  We are particularly
+concerned about large cuts to the seagoing buoy tender replacement, the
+Deepwater Capability Replacement Analysis, and family housing.  These cuts
+ultimately would adversely impact all Coast Guard activities, including
+drug law enforcement.  In addition, we urge the House to fully fund the
+PresidentD,s request for the Nationwide Differential Global Positioning
+System and for adding a second civil signal to the Global Positioning
+System.
+
+        The Administration urges the House to provide an additional $130
+million for the FAA Facilities and Equipment account.  Funding at any
+lower level could delay National Airspace System Modernization.   In
+particular, full funding is required for the Host Computer replacement and
+other Year 2000 conversion activities. The Administration objects to the
+elimination of funding for the Flight 2000 program. This program is a key
+element of the FAAD,s plans to make a transition to a more efficient, user
+involved, satellite-based air traffic control system to meet the air
+traffic needs of the next century.
+
+Amtrak
+
+         The Administration appreciates the CommitteeD,s support for Amtrak
+funding.   We urge the House to allow Amtrak to invest these capital funds
+flexibly, as provided in the Senate bill and.as presently done by Federal
+Transit Administration grantees.    In addition, the requirement that the
+House and Senate Appropriations Committees approve a Capital plan for
+Amtrak constitutes a legislative veto. The Administration will interpret
+this provision to require notification only, since any other
+interpretation would contradict the Supreme Court ruling in INS vs., Chadha.
+
+National Highway Traffic Safety Administration
+
+         To protect the safety of automobile travelers adequately, the
+Administration asks that the House work with the authorizing committees
+and provide an additional $12 million for high-priority National Highway
+Traffic Safety Administration programs. These vehicle safety and consumer
+information activities are essential to provide consumers with up-to-date
+safety information, to conduct critical research on advanced air bag
+systems and the biomechanics of injury, and to develop improved crash test
+dummies.
+
+Access-to-Jobs
+ ,                                                                           Page 5 of5
+
+
+
+        The Administration requests that the House provide an additional
+$50 million to fully fund the PresidentO,s request of $100 million for the
+Access-to-Jobs program.  This program is a critical component of the
+AdministrationO,s welfare reform effort.  The additional resources are
+essential to helping more individuals in communities around the country
+make a successful transition from welfare to work.
+
+Office of the Secretary
+
+        The Administration urges the House to provide the President",s
+requested $62 million for salaries and expenses of the Office of the
+Secretary and to delete the CommitteeO,s recommended new account structure
+and limitation on political appointees.  These adjustments to the
+Committee bill are necessary to avoid a reduction-in-force and to allow
+the Secretary to manage the Department effectively.
+
+Earmarks
+
+        The Committee has earmarked almost 300 transit projects, as well
+as many airport, Intelligent Transportation System, and rail projects.
+Consistent with the AdministrationO,s objection to earmarks in TEA-21, the
+Administration believes that funds should not be directed to projects that
+cannot meet established selection criteria.
+
+Language Provisions
+
+        The Administration requests that the House delete the provisions
+in both the Coast Guard and FAA operating expenses language that would
+prohibit the Coast Guard and the FAA from evaluating options for
+collecting fees for their services.  User fees may be a critical means in
+the future for ensuring that the Coast Guard and the FAA have adequate
+resources to meet their operating and capital needs without significantly
+reducing other vital transportation programs.
+
+        The Administration strongly objects to the Committee prohibition
+of any future changes to automobile fuel economy (CAFE) standards.  This
+significant policy issue should be addressed analytically through the
+process in place under Federal law and not preemptively settled through
+the appropriations process.
+
+
+        Finally, the Administration is pleased that the Committee recognizes the
+need to review the Coast GuardO,s roles and missions but objects co the
+CommitteeO,s proposed blue-ribbon panel.  This proposal would add
+significant administrative and procedural requirements to the process,
+delay the Deepwater contract by at least a year, and be more costly than
+the AdministrationO,s proposed advisory council.  The advisory council
+would provide an objective, third-party assessment of the Coast GuardiJ, s
+roles and missions in a time frame consistent with the planned Deepwater
+procurement.
+  !.
+
+
+

@@ -1,0 +1,110 @@
+    RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+    CREATOR: Eli G. Attie ( CN=Eli G. Attie/OU=WHO/O=EOP [ WHO]     )
+
+    CREATION DATE/TIME: 3-MAR-1997 15:59:02.00
+
+    SUBJECT:   Draft of cloning remarks
+
+    TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+    READ: UNKNOWN
+
+    TEXT:
+    ==================== ATTACHMENT   1 ====================
+    ATT CREATION TIME/DATE:   0 00:00:00.00
+
+    TEXT:
+    Unable to convert ARMS_EXT: [ATTACH.D38]MAIL416875165.016 to ASCII,
+     The following is a HEX DUMP:
+
+    FF57504370040000010A02010000000205000000C112000000020000BBFE10DC2663D5B98210FE
+    6C6E686735FD8BOD59B3D482F59AEC9D990529CDOAD210A119CD6627B608A3FC5714BEA288485D
+    3AEFBB58D3B2495B97CB59C214D48F0410D91A6DF87CCEE54ECF41ED24E527A4DF52655F5A6D5A
+    07D5BC066FD6573420B03EOFF571413185F10CF23278DFCED2DBC330DD4A26FE944F991CDBC8E4
+    62B81E6F77C42B2B990CD760DAAEB2227960CFA7A553"BBD8CF76964829AA9F3DOA1C95EB9211DD
+    C70249FCE156494FC1AOED6269B8DB8401B73F5E52FE3239FA48818F270BC2B22F7CDCE5CEA33A
+    CDF459EA6819E1FA62C2739FF2C4AFCE157EA85CFAF678894F7AFFE8B477CDAFE75A5108A85COE
+    E1FOACD5905EA5F263C161C56B4295968D956217FDOA507FFBBDB7D10A1531FDF040EA2828A6BB
+    1C1928688BDEC833402B65C154D8565EB8B22BF785611626B7156A49B2E95DB4AA68E60CF2EAB4
+    02C8EB2979E15A30E77339ACF61BB2868FD0124C14D1835612289371C274B20B0061DC1D5CE15D
+    OD8417B7A70C03E30701FEDAD6FDA570026C5772223CEOA222D80294B999ADAA7EA5C5829D2232
+    ACOC8B6382BC2B454D7DDFA1D8BF75285B65F54470C8374A39C3C9C596FB4E914AED502B2D6180
+    27860E5B63DBE61103738F153487CD71AE304462EA18DFD41AC419E7FE82B7CF6B5B2FAC679253
+    AF5F7E6BBD02000900000000000000000000000823010000000B0100007E020000005501000000
+    4E0000008903000009250100000006000000D70300000B300200000028000000DD030000087701
+    000000400000000504000008340100000014000000450400000802010000000F00000059040000
+    080501000000080000006804000000984C004F00430041004COOOO000000000000000000000000
+    000000000000000000000000000000000000000000000000000000000000000000000000000000
+    00000000000000000000000057494E53504F4F4COOOOOOOOOOC800C8002C012C012C012C01C800
+    C80030000000000000000000000000000000000000000000000000000000000000000000000000
+    000000000000000000000000000000000000000000000000000000000000000000000000000000
+    000000000000000000000000000000000000000000000000000000000000000000000000000000
+    000000000000000000000000000000000000000000000000000000000000000000000000000000
+    000000000B0100002800D61EC30F3908000011090000005AOOOB01008B143600540069006D0065
+    00730020004E0065007700200052006F006D0061006E00200052006500670075006C0061007200
+    000000000000000001000200580201000000040028000000000000000000000000000000000000
+    00011202002400A1000000A10000000A0000000902010002000A02010044000B02010044000C02
+    010044000D02010002000E02010044000F020F0065811002020002001102010045001202010002
+    005A5458210000000000000000000000000000000008337C007800000200001202000003010004
+    0002000000DDOA10008301040003000200211000DDDDOBOB00030000040BOODDF1020F02F19BF1
+    030F02F1F1000F02F19BF1010F02F1D1000E00000200C003B0040E00D1D1010E00000200C003BO
+    040EOOD1647261667480322F3280F1000F02F19CF1010F02F132706DF20CF2F1000F02F19BF101
+    OF02F1D0041500000B00090001C0030000000001201500DOD3050C0007010002000COOD3505245
+    534944454E548057494C4C49414D804A2E80434C494E544F4ECC52454D41524B53804F4E804855
+    4D414E80434C4F4E494E47CC547565736461792C804D6172636880332C8031393937F30CF3D004
+    1500000B000900018406C402030001201500DOD30510000601000002880000001000D3CCE0110C
+    0000000008070COOE0496E80726563656E7480646179732C80F100OF02F19CF1010F02F1616C6C
+    F1000F02F19BFI010F02F180416D65726963616E7380F1000F02F19CF1010F02F1776572658073
+    746172746C656480746F806C6561726E806F66809CF1021202F174686580F1031202F173756363
+    65737366756CF1000F02F19BF1010F02F19B80636C6F6E696E67806F6680618073686565708062
+    79CF53636F74746973688072657365617263686572732E80805468657265806973806E6F807175
+                                                                           Hex-Dump Conversion
+draft 2/2 2pm
+                             PRESIDENT WILLIAM J. CLINTON
+                              REMARKS ON HUMAN CLONING,
+                                  Tuesday, March 3, 1997
+
+       In recent days, all Americans were startled to learn of the successful cloning of a sheep by
+Scottish researchers. There is no question that this is a breakthrough of enormous consequence
+for science, medicine, and agriculture -- one that could yield important benefits in the years to
+come.
+
+       It also raises a very troubling prospect -- that it might someday be possible to use these
+techniques to clone human beings from our own genetic material.
+
+        There is much about this discovery and its applications that we still do not know. But
+this much we do know: any discovery that touches upon human creation is not simply a matter of
+scientific inquiry. It is a matter of human morality and human decency as well.
+
+        My own deeply-held view is that the prospect of human cloning is morally repugnant. It
+violates our most cherished concepts of faith and humanity. Each human life is unique --
+blessed by the spirit of a mother and a father, born of a miracle that reaches beyond laboratory
+science. I believe that we must respect this profound gift, and resist the temptation to become
+our own creators.
+
+        That is why, one week ago today, I asked our National Bioethics Advisory Commission,
+headed by Princeton University President Harold Shapiro, to conduct a thorough review of the
+moral and ethical issues raised by this new cloning technology, and to recommend possible
+actions to prevent its abuse. Their report, due back in 90 days, will give us a better
+understanding of the scope and implications of this scientific breakthrough.
+
+        But there are steps we can take right now to prevent the possibility of human cloning.
+After reviewing the current restrictions on the use of federal funds for research involving human
+embryos, we found loopholes that could allow human cloning. Today, I am issuing a directive
+that bans the use of any federal funds for human cloning. Effective immediately, no federal
+agency may support, fund, or undertake such activity.
+
+        Of course, a great deal of research and activity in this area is supported by private funds.
+That is why I am urging the entire scientific community -- and every foundation, university, and
+industry that supports work in this area -- to heed the federal government's example. I am
+asking for a voluntary moratorium on all efforts to pursue or undertake human cloning, until our
+Bioethics Advisory Commission and our entire nation have had a chance to understand and
+debate the profound ethical implications.
+
+       Until we leam more about the potential uses and abuses of cloning, the sensible course is
+to proceed not just with caution, but with conscience as well. By insisting that not a single
+taxpayers' dollar supports human cloning -- and by urging a moratorium on all private efforts to
+pursue human cloning -- we can ensure that as we move forward on this issue, we weigh the
+concerns of faith and family, and not just oflaboratory science alone.
+
+

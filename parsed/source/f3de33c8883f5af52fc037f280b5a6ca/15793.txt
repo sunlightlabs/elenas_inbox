@@ -1,0 +1,185 @@
+  RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+  CREATOR: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP [ WHO]     )
+
+  CREATION DATE/TIME: 6-JUN-1997 18:26:55.00
+
+  SUBJECT:   Weekly as of Friday 6:30
+
+  TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+  READ: UNKNOWN
+
+  TEXT:
+  ==================== ATTACHMENT   1 ====================
+  ATT CREATION TIME/DATE:   0 00:00:00.00
+
+  TEXT:
+  Unable to convert ARMS_EXT: [ATTACH.D27] MAIL40127665M. 116 to ASCII,
+   The following is a HEX DUMP:
+
+  FF575043CCOE0000010A02010000000205000000A734000000020000174176963F5DB40F5191B3
+  18557061D1741CCAF5C9E6F9E94F07042F99A2AC9C7EE29EADA0884C99497E6875789178060D37
+  62E1F0687ED1B5577C72F64ADFA60FAFC10C51237DFCDOA9333EA3972CD1056EEEA36ADC1E6A9B
+  585172EOD5A1EEE52E66DBFA99FBC923266E8DFB197BC66D2CB4B28F04B836D21419BF78641004
+  9971B300274066029A6B7E2564357E8743D5215C82CA6EB84F3D2E6B4E03C7F192FFC3BBDD5E9A
+  F64DA71EF76D2DC02B3AB3F78E731530EC994FA2206F592048725A3A1F6AEEBDDDA747688FE67B
+  61A60F723F5EEOA447F20474C11F0035CECA1C5A9A6A1DB4E9EB4230EF7A6984DCF7F9CDD29352
+  16D5D5F365542E945235C95F08AF401D83D67C59186BAF2E3ECF431E86C7DAACCE8AODA679B49D
+  OFD87F413D2C7A7ACD9E850173C3EOE24BF0242F026DE7FD8E17DDF9141B34C889314BDF55EDF1
+  C473E3B9E196960729877FFB2F46246800E3784B6F44D2D2F243EO9964A5B7E94A6372783B1F4E
+  FC123042D720221173FA62AB364C6D722E9F5EE7A2ABDB49EFD261D62FB47AED787907C4DADDB7
+  A1FCC06F5A9343B2EA03BE1B48909827BFF113B5079779C52985E9A6AA0034E3824DAOBAC928DD
+  314F39A8B58E61E9D6627ED51AD5EFC20CB553B9F309DDE4B393AOF6E0536B0812AOF070FD67A2
+  BAFE1F6EC00200A400000000000000000000000823010000000B010000F80A0000005509000000
+  4E000000030C000009250100000006000000510COOOOOB300300000028000000570C0000080501
+  000000080000007FOC0000000000000000000000007FOCOOOOOOOO00000000000000007FOCOOOO
+  0055050000004E000000870C00000055010000004EOOOOOOD50COO000877010000004000000023
+  OD000008340100000014000000630D00000802010000000FOOOOOO770DOOOOOB30010000006COO
+  0000860D000000000000000000000000860DOOOOOOOOOOOOOOOOOO000000860DOOOOOOOOOOOOOO
+  0000000000860DOOOOOB300100000044000000F20D00000608010000002D000000360EOOOOOOOO
+  0000000000000000360E000000000000000000000000360EOOOOOO000000000000000000360EOO
+  0000000000000000000000360E000000000000000000000000360E000000000000000000000000
+  360E000000000000000000000000360EOOOOOOOOOOOOOOOOOOOOOO00360EOOOOOOOOOOOOOOOOOO
+  000000360E000000000000000000000000360EOOOOOOOOOOOOOOOO00000000360EOOOOOOOOOOOO
+  000000000000360E000000000000000000000000360EOOOOOOOOOO00000000000000360EOOOOOO
+  000000000000000000360E000000000000000000000000360EOOOO00000000000000000000360E
+  000000000000000000000000360E00000000000000000000000036OEOOOOOOOOOOOOOOOOOOOOOO
+  00360E000000000000000000000000360EOOOOOOOOOOOOOOOOOOOO0000360EOOOOOOOOOOOOOOOO
+  00000000360E00000942010000001D000000630EOOOOOOOOOOOOOO0000000000630EOOOOOOOOOO
+  00000000000000630E000000000000000000000000630EOOOOOOOO0000000000000000630EOOOO
+  00000000000000000000630E000000000000000000000000630EOO000000000000000000000063
+  OE000000000000000000000000630EOOOOOOOOOOOOOOOOOOOOOOOO630EOOOOOOOOOOOOOOOOOOOO
+  0000630E000000000000000000000000630EOOOOOOOOOOOOOOOOOO000000630EOOOOOOOOOOOOOO
+  0000000000630E000000000000000000000000630EOOOOOOOOOOOO000000000000630EOOOOOOOO
+  0000000000000000630E000000000000000000000000630EOOOOOO000000000000000000630EOO
+  0000000000000000000000630E000000000000000000000000630E000000000000000000000000
+  630E000000000000000000000000630EOOOOOOOOOOOOOOOOOOOOOO00630EOOOOOOOOOOOOOOOOOO
+  000000630E000000000000000000000000630EOOOOOOOOOOOOOOOO00000000630EOOOOOOOOOOOO
+  000000000000630E000000000000000000000000630EOOOOOOOOOO00000000000000630EOOOOOO
+  000000000000000000630E000000000000000000000000630EOOOO00000000000000000000630E
+  000000000000000000000000630E00000000000000000000000063OEOOOOOOOOOOOOOOOOOOOOOO
+                                                   Hex-Dump Conversion
+
+
+
+
+                                         June 6,1997
+
+
+MEMORANDUM FOR THE PRESIDENT
+
+FROM:         Bruce Reed
+              Elena Kagan
+
+RE:           DPC Weekly Report
+
+       1. Ways and'Means Subcommittee Markup: On Thursday, the Ways and Means
+Subcommittee on Human Resources reported out welfare legislation with many provisions
+inconsistent with the budget agreement and to which we have strongly objected. The
+Subcommittee bill does include a $3 billion welfare-to-work proposal, which we have praised for
+meeting many of our priorities.
+
+        The Subcommittee's immigration proVISIOns are clearly contrary to the negotiated,
+bipartisan budget agreement policy to restore a minimum safety net for disabled legal
+immigrants. The Subcommittee's proposal would restore SSI and Medicaid benefits only to
+immigrants already receiving benefits prior to August 23, 1996; by contrast, the bipartisan
+budget agreement policy would restore SSI and Medicaid benefits to any immigrant in the
+country as of that date who is or becomes disabled. The Ways and Means Subcommittee
+proposal would protect 75,000 fewer immigrants than the budget agreement by the year 2002.
+The disability and aging groups support our position, not Ways and Means'. The Leadership
+Council of Aging Organizations and the Consortium of Citizens with Disabilities sent a letter
+saying that while they would still like to cover even more legal immigrants than the budget
+agreement, they will not support "any reductions in benefits to immigrants with disabilities in
+order to provide them to other groups of immigrants." The states (NGA, APWA, and NCSL)
+sent a generic statement saying they strongly believe that the termination of benefits to legal
+immigrants who were in the U.S. before enactment of the welfare law should be rectified --
+essentially taking no position on the differences between the budget agreement and the Ways and
+Means proposal.
+
+       The Subcommittee narrowed even further the provisions of the budget agreement by
+adding at markup a provision which would deny SSI benefits to any legal immigrant whose
+sponsor has income higher than $40,000. Because in the past sponsors did not sign legally
+binding affidavits of support (last year's immigration law changed that) we have opposed
+proposals like these because they would leave many legal immigrants without assistance if their
+sponsor refused them help.
+                                                         Hex-Dump Conversion
+
+
+        We also strongly opposed the Subcommittee's proposal which would amend the welfare
+law so that welfare recipients engaged in workfare would not be employees for the purposes of
+the Fair Labor Standards Act or any other federal law. Although requiring the minimum wage
+for hours worked, the proposal would permit states to count child care, Medicaid, and housing
+benefits in their calculation of the minimum wage. It would also allow states to count additional
+hours of job search, education, and training toward the welfare law's work requirements. We
+argued that this provision is clearly outside the scope of the budget agreement, and that it creates
+a subminimum wage for workfare participants and weakens the welfare law's work requirements.
+
+
+        We· are pleased with the Subcommittee's $3 billion welfare-to-work proposal. As a
+result of our extensive discussions with the Subcommittee, their new legislation directs a
+substantial portion of the money to the 100 cities with the most poor people. Most of the money
+given to the states will automatically be passed through to areas of high poverty and high
+unemployment and long-term welfare dependency (primarily cities), and spending will be
+controlled by PICs appointed by mayors. Needless to say, the states strongly oppose directing
+funds to local agencies. They strongly believe the funds should be provided directly to the
+states, which should have the flexibility to determine how and where to use them. On our two
+other priorities, performance and displacement, the Ways and Means Subcommittee is still open
+to some form of performance bonus, but adamantly opposes nondisplacement language.
+
+        2. Study Overstates Difficulty of Meeting Welfare Law's Work Requirements: Last
+week's Wall St. Journal reported on a new study's findings that, as early as 1998, most state
+economies will not generate enough low-skilled private sector jobs to absorb welfare recipients
+required to work by the welfare law. According to the study by Regional Financial Associates,
+nationwide only 54% of those who must work can be absorbed in that year. Only 13 states are
+able to provide all the jobs needed, led by Nevada, Utah, and Idaho; while 21 states can't provide
+even half of the jobs needed -- with New York able to provide only 13% of the jobs needed.
+The study argues that public workfare will have to fill this considerable gap.
+
+        However, the study paints a false picture for 1998 by failing to account for several critical
+factors, the most important of which is the dramatic caseload reductions that have already
+occurred and that states are permitted to count toward the work requirements. The caseload
+drop of roughly 18% since 1995 counts toward 1998's 30% work participation rates. In addition,
+the study ignores the fact that approximately one-quarter of the caseload is exempt from the work
+requirements for various reasons.
+
+        Correcting roughly for these factors, in the aggregate the economy can easily meet the
+1998 work requirements. This does mask differences among states -- some states with below
+average growth rates and/or caseload reductions may not be able to generate enough private
+sector jobs even in 1998. The harder prediction is for the year 2000 because of the difficulty of
+predicting the economy's performance by then. The study did not address this question.
+
+
+
+                                                 2
+                                                        Hex·Dump Conversion
+
+Elena: This summary may raise more questions than it answers. Although the study is dumb
+and flawed, we haven't corrected it state by state, but just painted a rough aggregate picture, and
+haven't updated it for 2000. We could do more over the next few weeks, but I wasn't sure if
+you wanted this item in the interim, just to correct any misimpression that he may have.
+
+FYI, Phil Levine of CEA confirms our criticisms.
+
+
+       3. Pediatric Drug Labeling: We are working with the Food and Drug
+Administration on a regulation that would require pharmaceutical companies to do
+pediatric studies on certain new drugs and, in compelling circumstances, drugs that are
+already on the market. The majority of drugs have not been tested for use by children.
+As a result, children are given the wrong doses of drugs or are not given drugs at all
+because physicians are reluctant to risk giving them inappropriate and possibly dangerous
+amounts. For example, fewer than 10% of children with AIDS are receiving protease
+inhibitors, the newest and most promising AIDS drugs, because these drugs have not been
+tested for use by children.
+
+The pediatric labeling regulation will be sent to OMB early next week. OMB will begin
+its review process, but no action will be taken until after the markup of the FDA reform
+bill in the Senate Labor and Human Resources Committee (which is expected to take
+place next week). This regulation has strong support from children's health advocates,
+particularly the pediatric AIDS community.
+
+
+
+
+                                                 3
+
+

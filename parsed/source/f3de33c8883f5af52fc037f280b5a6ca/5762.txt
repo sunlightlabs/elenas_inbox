@@ -1,0 +1,416 @@
+RECORD TYPE: PRESIDENTIAL     (NOTES MAIL)
+
+CREATOR: Michael J. Sorrell ( CN=Michael J. Sorrell/OU=PIR/O=EOP [ PIR 1 )
+
+CREATION DATE/TIME:19-DEC-1997 20:20:25.00
+
+SUBJECT:
+
+TO: Ananias Blocker III ( CN=Ananias Blocker III/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Laura K. Capps ( CN=Laura K .. Capps/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Emil E. Parker ( CN=Emil E. Parker/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Laura K. Demeo ( CN=Laura K. Demeo/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Cheryl D. Mills ( CN=Cheryl D. Mills/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Robert B. Johnson ( CN=Robert B. Johnson/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ : UNKNOWN
+
+TO: Lynn G. Cutler      CN=Lynn G. Cutler/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Sidney Blumenthal     CN=Sidney Blumenthal/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Beverly J. Barnes ( CN=Beverly J. Barnes/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Peter Rundlet ( CN=Peter Rundlet/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Angelique Pirozzi ( CN=Angelique Pirozzi/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Sylvia M. Mathews ( CN=Sylvia M. Mathews/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+ TO: Thurgood Marshall Jr ( CN=Thurgood Marshall Jr/OU=WHO/O=EOP @ EOP [ WHO 1 )
+'READ: UNKNOWN
+
+TO: Susan M. Liss ( CN=Susan M. Liss/O=OVP @ OVP [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Ann F. Lewis ( CN=Ann F. Lewis/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Mickey Ibarra ( CN=Mickey Ibarra/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Marjorie Tarmey ( CN=Marjorie Tarmey/OU=WHO/O=EOP @ EOP [ WHO 1 )
+
+
+READ: UNKNOWN
+
+TO: Andrew J. Mayock ( CN=Andrew J. Mayock/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Janet Murguia ( CN=Janet Murguia/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Robert N. Weiner ( CN=Robert N. Weiner/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Michael Waldman ( CN=Michael waldman/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Dawn M. Chirwa ( CN=Dawn M. Chirwa/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Bob J. Nash ( CN=Bob J. Nash/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Doris o. Matsui ( CN=Doris   o.   Matsui/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Mona G. Mohib ( CN=Mona G. Mohib/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Ruby Shamir ( CN=Ruby Shamir/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Paul E. Begala ( CN=Paul E. Begala/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Gene B. Sperling ( CN=Gene B. Sperling/Ou=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Nelson Reyneri ( CN=Nelson Reyneri/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Minyon Moore ( CN=Minyon Moore/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Elisabeth Steele ( CN=Elisabeth Steele/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Trooper Sanders ( CN=Trooper Sanders/O=Ovp @ OVP [ UNKNOWN 1 ),
+READ: UNKNOWN
+
+TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Suzanne Dale ( CN=Suzanne Dale/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: edley ( edley @ law.harvard.edu @ INET @ LNGTWY [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Maria Echaveste ( CN=Maria Echaveste/OU=WHO/O=EOP    @   EOP . [ WHO 1 )
+READ: UNKNOWN
+
+TO: JonP. Jennings ( CN=Jon P. Jennings/OU=WHO/O=EOP @ EOP [ WHO 1 )
+
+
+READ: UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D10)MAIL40344725R.316 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504313060000010A020100000002050000000D42000000020000AE017E724F5AD586FE95CF
+7DD38ACA9187362CFCCBC954A708ECCOFBDC7AC209BBB3101608AFB5F503DE53BCCD2392143FF4
+48374AC10A8AE5AF748C945A1581B59B3893E72BBE05190FC4ADOA61975E481DF0470FE93E741A
+47467FEB73BD1BB336FOF4DA1387B97A6DB3C7600426CD4FFB74953A36A5FB5B2055BF18F3FA97
+35BDF71253312EOE8CEBBE08A85C408BE9D7148D83B2F5C755E582DA7EA921376E5D63AD16C7AE
+6BD24FDD2465652AC3B70DE95DE67884B8CBF6EEOA9C356646D2A9314189D8BOF0285727C3B9DB
+2CB6328D061EOCOA6F65565DBE8A7574DD61721D4C4C473DBOD7DEB3C76E21F08DD3A3C7C9D281
+FA3A6BE5CDFA38803F44950DE7B8FCODB761A6B32D7DC3824900F9FB821E2369F624B6B71E5E76
+F6715035044823A6E4078E4DK49070473DOFBD8647Q3310EOBF4DB83F483948EBA2E2852F9F93C
+96C673E4C1BDE6541ABDOB5900DDCC2D4B1E707D8A75A88D619A533D7C9C7E42CAE64DD39A1371
+28190FA1EA64DCCB4CB112325E1F99E3811E42CED246F3AA25531F1EBDB46F35BEEE7FD58EFE73
+7BF9ECDE309601AEB312BADD703A4D276A08DA59BAOE4585A3EB8BECDCBA1F057F38FD4471F9C2
+A6A93DCA7EAB5490257122AB2312AE3E2D95AFB6A77CFA4510884B55002CC41E4A522F07E7E21A
+E947F34E5002001000000000000000000000000823010000000B010000E002000000551AOOOOOO
+4EOOOOOOEB03000009250100000006000000390400000B3002000000280000003F040000080501
+000000080000006704000000550F0000003C0000006F04000000550400000032000000AB040000
+00550500000028000000DD04000008770100000040000000050500000834010000001400000045
+0500000802010000000F0000005905000000550200000030000000680500000055010000004EOO
+00009805000000000000000000000000980500000608010000002D000000E605000000985C005C
+0050004900520031005C005000520049004E005400450052003300000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000057494E53504F4F
+4C00000000002C01F0002C012C012C012C012C01F0003qoooooooo000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+0000000000000000000000000000000000000000000000005E004F132800C8196810480D000011
+090000005AOOOB010000103600540069006D006500730020004EOO65007700200052006F006DOO
+61006E00200052006500670075006C006100720000000000000000000100020058020100000004
+002800000000000000000000000000000000000000011202002400A1000000A100000001000400
+020000001BOOF41A5C121A0900000000000000600018110000102400540069006D006500730020
+004E0065007700000052006F006D0061006E000000000000001BOOF41A5C121A09000011090000
+00600018110000101A00540069006D006500730020004E006500770000000000000000002500E4
+1B3214BC0700001641000000600014100000101000480065006COO760000000000000000000AOO
+0000D40201004500D50202000200D60201004500D70202000200D80203000200D90202000200DA
+0201004500DB0201000200DC0201005500DD0203005500F34C3823000000000000000000000000
+0000000008337C00780000020000DD020000033200CF19BE10A608000011090000006000181100
+00101800430047002000540069006D006500730000000000000000002800E21978102DOD000011
+090000005AOOOB010000103600540069006D006500730020004EOO65007700200052006F006DOO
+61006E00200052006500670075006C0061007200000000000000000001000A00000023000000D1
+0323008001000016004F03010000580206FFFFOOOOOOOOOOOOOOOO006400002300D1DDOA100083
+01040003000200211000DDDDOBOB00030000040BOODD9BD41A1FOO87010600080058024CF90000
+5802000058020200580200001FOOD4D115110080010F000400FABCO3001100D1D1033700800100
+0016004CF9010000580206000058020000000000000064FOOOOOOO000000000000000000000000
+00000064C8003700D19CF102DD02F1CCCCCCCCCCF103DD02F1CCF100DD02F19BF101DD02F1CC9B
+80D41A230086010200080058024CF90000580200005802060058024CF91C0000002300D4D41A1F
+0087010600080058024CF90000580200005802020058024CF91FOOD480D0171500000B00090001
+400B9006070001201500DOD3050C0000010001000COOD3D304540000400001DC0514003408008C
+OAOOE40C003COF00941100EC13004416009C1800F41A004C1DOOA41FOOFC2100542400AC260004
+29005C2BOOB42DOOOC3000643200BC3401B004020000009C58025400D3F20CF2D41A2300860102
+00080058024CF90000580200005802060058024CF9C50000002300D44D454D4F52414E44554D80
+
+FROM:      JUDITH A. WINSTON
+
+THROUGH: ERSKINE BOWLES
+         SYLVIA MATHEWS
+
+SUBJECT:   PRESIDENT'S INITIATIVE ON RACE WEEKLY REPORT--
+           DECEMBER 14 -DECEMBER 19
+
+
+
+ADVISORY BOARD ACTIVITIES
+
+     Advisory Board Meeting. The Advisory Board met on December 17 at Annandale
+     High School in Fairfax County, Virginia. The topic of the meeting was race in
+     primary and secondary education. Secretary Riley gave brief welcoming remarks·
+     at the meeting and spoke about the importance of education in creating One
+     America. He also announced an Initiative/Department of Education partnership to
+     conduct several more case studies of promising practices in education, of which the
+     study of Bailey's Elementary School was the first.
+
+     The meeting consisted of two roundtable discussions. The morning roundtable
+     featured students, parents, teachers, and administrators from Fairfax County
+     Public Schools and focused on the lessons which may be learned from Fairfax's
+     growing student diversity. The afternoon roundtable featured education leaders
+     and scholars with diverse perspectives on key education issues, including William J.
+     Bennett, former Secretary of Education and present Co-Director of Empower
+     America, James Comer, Professor of Child Psychiatry at Yale University, Lisa
+     Graham Keegan, Superintendent, Arizona Public Schools, Deborah               Meier,
+     Principal, Mission Hill Charter School, Gary Orfield, Professor of Education,
+     Harvard University and Diana Lam, Superintendent of San Antonio's Public
+     Schools. In between the two roundtable discussions, the Board members, along
+     with Senator Chuck Robb and Congressman Bob Davis, met during lunch with
+     students, parents, and teachers from Annandale High School to further discuss
+
+
+                                            1
+
+                               Automated Records Management System
+                                       Hex-Dump Conversion
+
+    Angela Oh visits Loreto Elementary School. On December 12, Angela Oh met with
+    representatives of the Loreto Elementary School in Los Angeles. Ms. Oh observed the
+    activities of the school designed to promote diversity. One such activity was to sit in on
+    a discussion with second graders about the problem of exclusion.
+
+    Linda Chavez-Thompson visits Bailey's Elementary. On December 15, Linda
+    Chavez Thompson met with 15 parents, teachers and students at Bailey's
+    Elementary School in Falls Church, Virginia. Ms. Chavez Thompson was
+    impressed by the diversity of the school and the self-confidence of the' students.
+    Her visit received both television and print media coverage.
+
+    Angela Oh meets with Art, Research and Curriculum Associates (ARC). On
+    December 16, Angela Oh met with a group of teachers, administrators and staff who
+    work in the east San Francisco bay public schools. She discussed the Initiative and
+    engaged the participants in a conversation about their concems and ideas for the
+    Initiative.
+
+    Reverend Suzan Johnson Cook receives CBS Award. Reverend Johnson Cook
+    received the CBS Award for the work her Multiethnic Center does in promoting race
+    relations in the Bronx, New York.
+
+
+OFFICE OF THE EXECUTIVE DIRECTOR
+
+    OUTREACH
+
+    Business Leaders. The second business leaders forum will be held on January 13 in
+    Phoenix, Arizona. It will be hosted by Secretary of Labor Alexis Herman and Advisory
+    Board members Robert Thomas and Linda Chavez Thompson. It will feature a
+    roundtable discussion moderated by Secretary Herman and business and labor leaders
+    from the Southwest. The third forum is tentatively scheduled for January 30 in Los
+    Angeles.
+
+    Religious Leaders. We are currently in the process of planning four regional religious
+    leaders forums. Michael Wenger, Maureen Shea and Reverend Suzan Johnson Cook
+    participated in a conference call last week with the 16 religious leaders who met
+    following your Prayer Breakfast on November 20. The next forum will be on February
+    10 in Newark, NJ. The Reverend Suzan Johnson Cook wil host the meeting.
+
+    Ethnic Leaders. At our behest, the National Voices Coalition and the Inter-Ethnic
+    Affairs Institute have formed an alliance to conduct a series of joint roundtable
+
+
+                                             2
+
+                               Automated Records Management Systerr
+                                       Hex-Dump Conversior
+
+Public Officials. The White House Office of Intergovernmental Affairs and our staff
+have developed a plan for involving the nation's Governors in the Initiative. We plan to
+encourage them to hold town hall meetings and One America Conversations in their
+respective states. Governors Winter and Kean will spearhead this effort.
+
+Also in cooperation with IGA, we are working with the US Conference of Mayors and the
+National Association of Counties to inaugurate a series of One America Conversations
+between city and county elected officials. The first of these will be held January 15.
+
+Phoenix. Advisory Board Meeting. We are planning the next Advisory Board Meeting,
+which will take place on January 13 and 14 in Phoenix, Arizona. The topic of the
+meeting is Employment and Race. The Advisory Board will spend January 13 visiting
+local sites and ·residents. Among these sites will be a Native American reservation and
+youth job training programs. The Advisory Board Meeting will take place on the
+following day.
+
+Martin Luther King's Birthday. Advisory Board mernbers have agreed to participate
+in service projects in their communities on Martin Luther King's birthday.
+
+Manual on Race Dialogues. We have entered into a partnership with the Community
+Relations Service of the Department of Justice and representatives of the following
+organizations- the National Conference, YWCA, National Multicultural Institute, Hope in
+the Cities, Study Circles, and the National Days of Dialogues to develop a "How-To Kit"
+for conducting dialogues on race. The kit will be available in February.
+
+Meeting with the National Civic League. Representatives from my staff met with
+Chris Gates, President of the National Civic League, to discuss a competition for One
+America Awards. These awards would be based on the model currently being used for
+the All-American Cities Awards ..
+
+RESEARCH AND POLICY PLANNING
+
+Promising Practices. We will highlight an additional ten promising practices on the
+website by the end of the year.
+
+Meeting with Foundation Representatives. We met with representatives of the
+Rockefeller, Ford, and Mort Foundations to discuss their programs and funding
+practices. We also discussed the Initiative's activities in the areas of leadership
+recruitment, promising practices identification and evaluation, and dialogue.
+These representatives agreed to assist us in refming our process for identifying and
+evaluating promising practices.
+
+
+                                          3
+
+
+                         Automated Records Management System
+                                 Hex-Dump Conversion
+
+         COMMUNICATIONS
+
+         Advisory Board Meeting. Thirty-seven members of the press attended the Fairfax
+         County Advisory Board Meeting. Among those present were reporters from the
+         New York Times, the Washington Post, CNN, ABC, CBS and NBC.
+
+         Interviews. Dr. Franklin and I were interviewed by ABC World News Tonight for a
+         future story on the Initiative. Linda Chavez-Thompson and Governor Winter were also
+         interviewed for ABC in a separate story.
+
+         One America Brochures. We now have two versions of our brochure- in Spanish
+         and English. The Spanish brochures were distributed at the Advisory Board
+         Meeting. (See attachment)
+
+         America Talks. The "America Talks" section of the web site is operational. Five
+         messages were selected from the electronic correspondence we received to serve as
+         examples of what Americans think about our efforts. This feature will be updated
+         with five new messages approximately every two weeks.
+
+
+     WORK TEAMS
+
+         YOUTH
+
+         Call to Action Letter. We continue to receive tremendous response to your "call to
+         action" letter to Young America. In addition to sending a thank you letter to each
+         respondent, we are also calling each of-them personally and thanking them for answering
+         your challenge.
+
+
+     FEDERAL AGENCY ACTIVITIES
+
+         Department of Interior
+
+         One America Conversations. DOl plans to continue its dialogue on "One America,
+         One Interior, One Goal" with national and community leaders, academia, and
+         environmental organizations. The tentative schedule is as follows: Chamizal National
+         Memorial, EI Paso, TX        (Feb. 1998); Southwest Indian Polytechnic Institute,
+         Albuquerque, NM (March 1998); Golden Gate National Recreation Area, San Francisco,
+         CA (Apr./May 1998); Tuskegee Institute, Tuskegee, AL (TBA).
+
+         United States Department of Agriculture
+
+
+                                                  4
+
+
+                                  Automated Records Management Syslem
+                                          Hex·Dump Conversion
+meeting with 22 farmers to discuss issues affecting small family farmers, including credit,
+market access and concentration, tobacco, dairy, civil rights, outreach, and complaints.
+The Secretary announced additional efforts to improve USDA's civil rights program and
+to increase assistance for small and socially disadvantaged farmers.
+
+Department of Commerce
+
+Business Development Center Opening. The grand opening of the South Los
+Angeles Minority Business Development Center was held at the Ronald H. Brown
+Information Technology and Business Center. The program focused on how this
+community-based project will foster the competitiveness of Los Angeles-area
+minority-owned companies. Key participants included: Representative Julian
+Dixon, Inglewood Mayor Roosevelt Dom, Urban League President John Mack,
+Acting Minority Business Development Administration (MBDA) Director Courtland
+Cox, MBDA San Francisco Regional Director Melda Cabrera, and Lynne Joy
+Rogers - Director of the L.A. Urban League Ron Brown Information Technology
+and Business Center.
+
+Department of Housing and Urban Deyelopment
+
+"Fair Lending -Best Practices" Agreement. On December 17, Secretary Cuomo and Marc
+.Smith, Mortgage Bankers Association of America President (MBA), signed a "Fair.
+ Lending -Best Practices" agreement to reaffirm their common commitment to ensure that
+ mortgage credit is available to all Americans, unfettered by discriminatory practices.
+ Three years ago, HUD and the MBA launched an unprecedented public/private
+ partnership to increase home ownership opportunities for minority and low-income
+ Americans. This latest agreement serves both to renew and recognize the success of the
+ original agreement. To date, HUD has entered into 113 "Best Practice" agreements with
+ key lenders.
+
+Office of Personnel Management
+
+Town Hall Meeting.        Director Lachance held a town hall meeting as part of the
+President's Initiative on Race at St. Benedict the Moor Catholic Church in Pittsburgh on
+December 14.
+
+
+
+
+                                          5
+
+                           Automated Records Management S stem
+                                   Hex-Dump Conversion Y
+
+

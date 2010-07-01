@@ -1,0 +1,236 @@
+RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+CREATOR: Jeanne Lambrew ( CN=Jeanne Lambrew/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME:12-DEC-1997 10:48:15.00
+
+SUBJECT:   'NIH / Research memo draft
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Thomas A. Kalil ( CN=Thomas A. Kalil/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Russell W. Horwitz ( CN=Russe11 W. Horwitz/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TEXT:
+Attached is the first draft of the research memo.  I also sent it to OMB.
+We are asking for comments by 2pm today.  Elena and Gene may want to wait
+until we have OMB input, but if you are pressed for time, you might as
+well work on it.
+
+Thanks, Jeanne==================== ATTACHMENT    1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unab1e to convert ARMS_EXT: [ATTACH.D28]MAIL48689354D.316 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504364030000010A02010000000205000000E82F0000000200005FOE153E67C77020317F19
+35EOADBF40E47C8CAOA415B174D9023B3C151BOF349967061FD26306FA573EEC1F235A4743D1FF
+80B74F1E5081A6C41815FC50622551128CCFE8DACBA7312423C1E52502E6C50DBFD74934D5EA5E
+B44D85C453DF85E5CFCD21F90427E6B487F257A669F9AFB73867AB3EEBAE3BFC62319EC06D3EE3
+F8FB1621E76E74C4DB4B8D8379F4B77ECA756E1D9298CC92E40793051161419C76BB86A537931D
+ABDCA08FDA12CA979E177D401D74BD55FDB2FB320982C92A96424119F921D78F3DEA816C1DOAD2
+332954C76ECFDCAC6EB5850195ADCOA93781C06C4F7E4FEABF689C787605A24EBODFFB93C3CDCF
+9F1AFOD92B51C3EE6A61A90699B8044639E9521F7FE9471A81F11AOD8834EDCOCD5A3B27C2212B
+A7A4501A370DABB06ECBFEAD55644D1745CCB8541022C789341A4D3AO4446149AD176CFBBD9472
+5C56A7CD7B8189F64B1208F3591FE302F6E8FDC18758A948C2EAC8BE63AEF51D40792CD8A99F16
+C81525203704C70AF8A2FAE0014744CD7D4438F79D70EOE966523F2C23B1382231C5DFD31A018A
+EBE4C852700F58E137B5F566C07A8DF2023F2289E7208F412ADB817363331C001788C3BC3D22D5
+F33B56FF62663D77419DCBCB86D01C9D486AC95F56B302C1243B3E7E289B95A49DFE10B5429A20
+E69867FAA302000800000000000000000000000055010000004EOOO00070020000092501000000
+06000000BE02000008020100000010000000C40200000B300200000034000000D4020000080501
+000000080000000803000008770100000040000000100300000834010000001400000050030000
+2800C8196810480D000011090000005AOOOB010000103600540069006D006500730020004E0065
+007700200052006F006D0061006E00200052006500670075006COO610072000000000000000000
+01000100580208337C00780000020000030C00000100010000000400280000000COOOOOOOOOOOO
+0000000000000000000112A4542400A1000000A1000000D3050COO00010000000COOD301000400
+020000000AOOOOOOFAOB01004500FBOB01000200FCOB01000200FDOB06006581FEOB01004400FF
+OB01004400000C01000200010C01001700020C01001700030C010017006D078423000000000000
+00000000000000000000DDOA1000830104000300A454211000DDD3050C0000010000000COOD3DD
+OBOB00030000040BOODDF102FDOBF19BF103FDOBF1F100FDOBF19BF101FDOBF1F102FDOBF1F103
+FDOBF1D3050C0000010002000COOD3D10337008001000016000FF4010000580206000058020000
+000000000064F000000000000000000000000000000000000064C8003700D1D1020D0000010001
+000AODOOD1CCCCCCCCCC446563656D626572809CF100FFOBF13132F101FFOBF1F102000CF178F1
+03000CF12C9B8031393937CCD3050C0000010000020COOD3CCCC9C4D454D4F52414E44554DF100
+010CF180464F528054484580505245534944454E54F101010CF19BCCCC46524F4D3AE0300COOOO
+000060090COOEOE0301400000000B80B60092823600928231400EO9CF100020CF1425255434580
+                                                                       Hex-Dump Conversion
+
+
+
+
+                                       December x, 1997
+
+
+MEMORANDUM
+
+FROM:
+
+
+SUBJECT:      21 st Century Research Trust Fund
+
+
+         There is growing bipartisan support for a substantial new investment in biomedical
+research through the National Institutes of Health (NIH). This support is driven by the potential
+for breakthroughs in biomedical research and by increasing concerns that the rising costs of
+caring for the baby boomers will overwhelm the Medicare Trust Fund. There is also great
+promise in scientific research conducted at the National Science Foundation (NSF) budget, which
+funds high-quality, peer-reviewed research in a variety of disciplines lih&, biology, computer and
+information science) and helps train the next generation of scientists and engineers.
+         Given this potential and your commitment to research, NEC and DPC, with strong
+backing from HHS, propose that you create a 21st Century Research Trust Fund. This Trust
+Fund would substantially increase both biomedical and scientific research outside of the
+discretionary caps, thus not jeopardizing other important investments. The amount of funding
+for this Trust Fund is a policy, budget and political positioning choice. Because of the amount
+of dollars necessary for such an investment to be historic, and because of the constraints imposed
+by the discretionary budget caps, we believe that the increased funding should come primarily, if
+not solely, from tobacco dollars. While we believe that the tobacco option is advisable, there are
+important implications of including it in the budget. We will discuss these with you in the
+upcoming budget meetings.
+
+Background
+
+        Recent progress in biomedical research has ensured that many of the diseases Americans
+faced a generation ago can now be prevented or treated. Smallpox has been eradicated
+throughout the entire world and polio is gone from the Western Hemisphere. Because ofa
+combination of new therapies, AIDS patients can plan for a future they would have otherwise
+been denied a few years ago. These successes, and many others, would not have occurred
+without our Nation's strong sustained support of biomedical research.
+                                                                          Hex-Dump Conversion
+
+        We are now poised to make even more advances that could dramatically alter and
+improve the way we treat diseases. There are several new technologies in medical research that
+show great promise: important strides in imaging technolo~es make it possible to visualize
+living cells and entire organs giving new insights into the structure of disease; computer-based
+intervention systems give scientists an entire range of new tools to rapidly analyze vast amounts
+of new data; and we are on the cusp of a host of breakthroughs in genetics which will enable
+scientists to map the entire human genome and revolutionize how we understand, treat, and
+prevent some of our most devastating diseases.
+
+        With new knowledge about both genetics and the structure of tumors, scientists will be
+able to pinpoint more effective treatments for prostate, breast, and ovarian cancer and identify
+individuals at increased risk for diseases like, heart disease and stroke, Alzheimer, and severe
+depression. A more precise understanding of an individual's genetic risks will enable
+researchers to develop more targeted and effective medications. Finally, there is great potential
+for effective vaccines for global threats, such as AIDS, malaria, and tuberculoses, and new
+knowledge about the biological basis of craving and addiction will result in medications targeted
+specifically to receptors in the brain that playa role in substance abUse.
+
+       Research at the National Science Foundation also has great potential to improve health
+and human capacity. NSF research in computer science, for example, accelerated NIH's
+sequencing of the human genome and led to the explosion of the Internet and the World Wide
+Web. Other important questions lie ahead, such as how we learn and remember and how to put
+a "supercomputer" on a single chip. New resources could also expand research on
+environmental issues, such as climate change and urban environment, or educational technology.
+
+        Support for a significant investment in research is both widespread and bi-partisan.
+Congress, in recent years, has appropriated more funding to NIH than we have proposed. Earlier
+this year, 64 Senators signed a letter stating their support for doubling the NIH budget over the
+next five years ($30 to 40 billion), and Senator Kennedy has included such a proposal in his
+tobacco settlement legislation. In addition, Senators Graham, Domenici, and Liebennan have
+proposed doubling all civilian-based research, including NSF and NIH.
+
+        However, there are two major barriers to these types of investments: the discretionary
+caps and the lack of funding. The structure of the discretionary budget requires that increased
+funding in research comes at the expense other discretionary programs like education. To date,
+this has not stopped Congress from increasing funding but could create major conflicts in the
+future. Second, we simply do not have the resources available to make this kind of investment
+over five years. The Balanced Budget Act reduced health spending significantly, assuring that
+any major new initiative require a new source of revenue.
+
+
+
+
+                                                2
+                                                                          Hex-Dump Conversion
+ Options to Increase in the Research Budget
+
+         Your advisors strongly believe that you should propose a 21 st Century Research Trust
+ Fund, financed by an investment from tobacco dollars. Such a Trust Fund has great potential to
+ expedite scientific break-throughs that could detect, prevent and treat serious and costly diseases.
+  [Kalil: need a good half-sentence insert on NSF]. This Trust Fund would make an historic,
+ multi-year commitment to biomedical research at NIH and provide for an important increase in
+ basic scientific research at NSF. This Trust Fund would be established outside of the
+ discretionary caps, alleviating the conflict between funding research and other priorities.
+
+          Beyond these recommendations, an important question remains: how much of an
+ investment is necessary to assure it is (and is viewed to be) an historic investment. To put the
+ numbers in context, the Tobacco Settlement would invest $25 billion over 8 years in research, .
+ $17.5 billion over five years. Congress has also in recent years generously funded the NIH. If
+ last year's growth rate of7.1 percent were continued for 5 years, the NIH budget would increase
+ by $15.8 billion. In addition, the catch phrase "doubling the NIH" has become popular in
+ Congress. This means that the entire NIH budget would be twice as large in some future year
+ than it is in some past year. The costs of such policies depend on which years are chosen, but in
+ general are very high.
+
+         We propose two options for the funding level of the 21 st Century Research Trust Fund.
+ The first is HHS's passback "appeal" to increase the NIH budget by 8.4 percent per year. This
+ would cost $19.4 billion over five year, nearly doubling the 1993 NIH budget ($10.3 billion) in
+ five years, and doubling the 1998 NIH budget ($13.6 billion) by 2008. If NSF were to receive
+ an analogous increase (its appeal's growth rate of7.4 percent), its funding would increase by $4
+ billion over 5 years, for a sum total of $23 billion.
+
+          The second option accepts both the NIH and NSF recommended 1999 funding level but
+  reduces the growth rate in subsequent years (to bio-medical research inflation for NIH and
+  general inflation for NSF). This yields a total investment of $15.1 billion over 5 years, $13
+  billion for NIH and the remaining $2 billion for NSF. This approach does not allow you to say
+  that we are doubling the current budget. This funding increase does double the NIH budget
+. since you took office by 2008 and gives NIH and NSF their number one priority: their FY 1999
+  budget requests.
+
+        A third option [OMB: do you have a third option?]
+
+
+
+
+                                                  3
+
+
+                                                                             Automated Records Management System
+                                                                             Hex-Dump Conversion
+      Discussion
+
+             All of your advisors support a significant increase in biomedical and scientific research
+      [check]. HHS strongly advocates for the first option, to double the 1998 NllI budget by 2008.
+      This bold initiative would undoubtedly receive support from public health groups, such as the
+      National Breast Cancer Coalition, the American Heart Association and the American Diabetes
+      Association. 1pe large infusion of funds might also trigger the kinds ofbreak-throughs not
+      possible with a smaller commitment.
+
+              However, most of your other advisors argue that $20 billion in new research spending is
+      too much. The larger investment would require major funding from the tobacco, which could
+      politically impossible. Even if we do choose a politically acceptable amount oftobacco
+      revenue, a large research component could take away funds from other priority investments like
+      child care and education. Finally, there may not be enough, quality researchers and projects to
+      fund with such rapid and large budget infusions.
+
+              On the other hand, there is some level of investment that is too low to accomplish your
+      goals. Recent history suggests that Congress could outstrip our investment and lay claim to the
+      role as leader in biomedical research. There is also a large and growing constituency for
+      doubling the NllI budget and expectations from the research and patient advocacy community
+      are high. As a consequence, an investment of $1 0 to 15 billion for NllI alone - while major by
+      most measures -      may not be considered visionary.
+
+             [OMB: if you add an option, put it here]
+
+              Understanding their concerns, the DPCINEC believe that if you take the lead in
+      substantially increasing the NllI budget and are the first to propose a credible means to pay for it,
+      then your commitment will be appropriately recognized. Thus, we [Treasury?] recommend the
+      second, $15 billion option. This circumvents the concerns about too large an investment while
+      making an important, immediate investment in research. Clearly, the NllI and rese<1Tch
+      community prefer HHS' s option, but NllI in particular seerns to be focusing on their first year
+      number. We therefore believe that if you take this· option, you will get validation, but we will be
+      working between now and then to ensure that this is the case. This option also funds NSF as
+      well as NllI, critical, from the NEC perspective, to laying the foundation for research in the next
+      century.
+
+
+
+
+                                                        4
+
+

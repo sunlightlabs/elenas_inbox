@@ -1,0 +1,63 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Sarah A. Bianchi ( CN=Sarah A. Bianchi/OU=OPD/O=EOP [ OPD ) )
+
+CREATION DATE/TlME:28-MAY-1998 19:41:24.00
+
+SUBJECT:   chicago hospital draft press release
+
+TO: Elena Kagan   CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ) )
+READ: UNKNOWN
+
+TO: Barry J. Toiv ( CN=Barry J. Toiv/OU=WHO/O=EOP @ EOP [ WHO ) )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ) )
+READ: UNKNOWN
+
+TEXT:
+Following up on your conversations with Chris, here is the draft POTUS
+statement that could be released tomorrow in conjunction with HCFA's
+letter to terminate the Chicago hospital's participation in the Medicare
+program. Chris asked if you could review and'edi·t this document and get it
+back to him after senior staff meeting tomorrow.
+
+Thanks,
+
+sb
+
+==================== ATTACHMENT   1 ==~=================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D50)MAIL426044156.126 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504370040000010A02010000000205000000550E000000020000B6EF8DB829D391669B96EF
+3B5B07FE446BFF8EE98493BE9BOB4960A210248BF4070D41CA475D609EA09CE54B9B9C067476FD
+                                                                                     Automated Records Management ""..
+                                                                                             Hex-Dump Converslol
+                                     STATEMENT BY THE PRESIDENT
+
+
+        Today, my Administration infonned the President of Ravenswood Hospital in Chicago, Illinois
+        that the hospital will lose its Medicare funding on June 19, 1998, unless the facility takes steps to
+        ensure that the events that led to the tragic death of Christopher Sercye will not be repeated.
+
+        xx days ago, 15 year old Christopher died of gunshot wounds just 35 feet from Ravenswood,
+        where friends had brought the young man for help. There is simply no excuse for this
+        unthinkable death. No one should be left untreated just footsteps from a hospital entrance. No
+        health care professional should turn the other way,and no supervisor should direct an employee
+        not to intervene in a medical emergency.
+
+        That is why the Health Care Financing Administration delivered a letter today advising
+        Ravenswood hospital that unless they provide credible evidence that its policies have been
+        restructured, it will lose all Medicare funding next month. This Administration stands ready to
+        take the same strong action against any facility that does not assist in a medical emergency.
+
+        I am also extremely pleased that the American Hospital Association has released new guidelines
+        that advise hospitals to change any policies that prevent taking appropriate actions in a medical
+        emergency. We cannot reverse last week's inexplicable tragedy, but we can and must take
+        action so that it does not happen again.
+
+

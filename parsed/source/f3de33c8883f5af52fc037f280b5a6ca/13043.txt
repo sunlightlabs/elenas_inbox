@@ -1,0 +1,362 @@
+         RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+         CREATOR: Sandra Yamin ( CN=Sandra Yamin/OU=OMB/O=EOP [ OMB 1 )
+
+         CREATION DATE/TIME:22-JUN-1999 20:18:16.00
+
+         SUBJECT:   FINAL CLEARANCE -- 9:30AM Wed 6/23 DEADLINE -- DRAFT SAP -- HR 2084 -- DoT
+
+         TO: Karen Tramontano ( CN=Karen Tramontano/OU=WHO/O=EOP@EOP [ WHO 1 )
+         READ:UNKNOWN
+
+         TO: Steve Ricchetti   ( CN=Steve Ricchetti/OU=WHO/O=EOP@EOP [ WHO 1 )
+         READ:UNKNOWN
+
+         TO: George T. Frampton ( CN=George T. Frampton/OU=CEQ/O=EOP@EOP [ CEQ 1 )
+         READ: UNKNOWN
+
+         TO: Maria Echaveste ( CN=Maria Echaveste/OU=WHO/O=EOP@EOP [ WHO 1 )
+         READ:UNKNOWN
+
+         TO: Todd Stern ( CN=Todd Stern/OU=WHO/O=EOP@EOP [ WHO 1 )
+         READ:UNKNOWN
+
+         TO: Wesley P. Warren ( CN=Wesley P. Warren/OU=CEQ/O=EOP@EOP [ CEQ 1 )
+         READ: UNKNOWN
+
+         TO: Ron Klain ( CN=Ron Klain/O=OVP@OVP [ UNKNOWN 1 )
+         READ: UNKNOWN
+
+         TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP@EOP [ OPD 1 )
+         READ:UNKNOWN
+
+         TO: Gene B. Sperling ( CN=Gene B. Sperling/OU=OPD/O=EOP@EOP [ OPD 1 )
+         READ: UNKNOWN
+
+         TO: Sylvia M. Mathews ( CN=Sylvia M. Mathews/OU=OMB/O=EOP@EOP [ OMB 1 )
+         READ:UNKNOWN
+
+         TO: Lynn G. Cutler ( CN=Lynn G. Cutler/OU=WHO/O=EOP@EOP [ WHO 1 )
+         READ: UNKNOWN
+
+         TO: Ann F. Lewis ( CN=Ann F. Lewis/oU=WHO/O=EOP@EOP [ WHO 1 )
+         READ:UNKNOWN
+
+         TO: Miles M. Lackey ( CN=Miles M. Lackey/OU=NSC/O=EOP@EOP [ NSC 1 )
+         READ: UNKNOWN
+
+         TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP@EOP [ OPD 1 )
+         READ: UNKNOWN
+
+         TO: Michelle Peterson ( CN=Michelle Peterson/OU=WHO/O=EOP@EOP [ WHO 1 )
+         READ: UNKNOWN
+
+         TO: Jeffrey M. Smith ( CN=Jeffrey M. Smith/OU=OSTP/O=EOP@EOP [ OSTP 1 )
+         READ:UNKNOWN
+
+         TO: Joshua Gotbaum ( CN=Joshua Gotbaum/OU=OMB/O=EOP@EOP [ OMB 1 )
+         READ: UNKNOWN
+
+         TO: Martha Foley ( CN=Martha Foley/OU=WHO/O=EOP@EOP    [ WHO 1 )
+
+
+READ:UNKNOWN
+
+TO: Sally Katzen ( CN=Sally Katzen/OU=OPO/O=EOP@EOP [ OPO]           )
+READ: UNKNOWN
+
+TO: John Podesta ( CN=John Podesta/OU=WHO/O=EOP@EOP [ WHO ] )
+READ: UNKNOWN
+
+TO: Jacob J. Lew ( CN=Jacob J. Lew/OU=OMB/O=EOP@EOP [ OMB ] )
+READ:UNKNOWN
+
+CC: Wendy E. Gray ( CN=Wendy E. Gray/OU=NSC/O=EOP@EOP [ NSC ] )
+READ:UNKNOWN
+
+CC: Courtney    o.   Gregoire ( CN=Courtney   o.   Gregoire/OU=OPO/O=EOP@EOP [ OPO ] )
+READ: UNKNOWN
+
+CC: James J. Jukes ( CN=James J. Jukes/OU=OMB/O=EOP@EOP [ OMB ] )
+READ:UNKNOWN
+
+CC: Sandra Yamin ( CN=Sandra Yamin/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+CC: William G. Oauster ( CN=william G. Oauster/OU=OPO/O=EOP@EOP [ OPO 1 )
+READ: UNKNOWN
+
+CC: Oawn L. Smalls ( CN=Oawn L. Smalls/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Linda Ricci      ( CN=Linda Ricci/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ:UNKNOWN
+
+CC: Rebecca L. Walldorff      ( CN=Rebecca L. Walldorff/OU=WHO/O=EOP@EOP [ WHO]      )
+READ:UNKNOWN
+
+CC: Robert L. Nabors ( CN=Robert L. Nabors/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+CC: Paul J. weinstein Jr.      ( CN=Paul J. weinstein Jr./OU=OPO/O=EOP@EOP [ OPO 1 )
+READ:UNKNOWN
+
+CC: Lisa Zweig ( CN=Lisa Zweig/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ:UNKNOWN
+
+CC: Shannon Mason ( CN=Shannon Mason/OU=OPO/O=EOP@EOP [ OPO 1 )
+READ: UNKNOWN
+
+CC: Mindy E. Myers ( CN=Mindy E. Myers/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+CC: Scott R. Hynes      ( CN=Scott R. Hynes/O=OVP@OVP [ UNKNOWN 1 )
+READ: UNKNOWN
+
+CC: Michele Ballantyne ( CN=Michele Ballantyne/OU=WHO/O=EOP@EOP [ UNKNOWN]           )
+READ: UNKNOWN
+
+CC: Mara E. Rudman ( CN=Mara E. Rudman/OU=NSC/O=EOP@EOP [ UNKNOWN 1 )
+READ:UNKNOWN
+
+CC: Adrienne C. Erbach ( CN=Adrienne C. Erbach/OU=OMB/O=EOP@EOP [ OMB 1 )
+
+
+READ:UNKNOWN
+
+CC: Carolyn T. Wu ( CN=Carolyn T. Wu/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+CC: Leslie Bernstein ( CN=Leslie Bernstein/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+CC: Lisa M. Kountoupes ( CN=Lisa M. Kountoupes/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+cc: Mark J. Tavlarides ( CN=Mark J. Tavlarides/OU=NSC/O=EOP@EOP [ NSC 1 )
+READ: UNKNOWN
+
+cc: Victoria A. Wachino ( cN=Victoria A. Wachino/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN .
+
+cc: Peter A. Weissman ( CN=Peter A. Weissman/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+CC: Judy Jablow ( CN=Judy Jablow/OU=CEQ/O=EOP@EOP [ CEQ 1 )
+READ: UNKNOWN
+
+CC: Elizabeth Gore ( CN=Elizabeth Gore/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ:UNKNOWN
+
+CC: Melissa G. Green ( CN=Melissa G. Green/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ:UNKNOWN
+
+CC: Charles E. Kieffer ( CN=Charles E. Kieffer/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ:UNKNOWN
+
+TEXT:
+Attached for your sign-off is a draft House Floor SAP for H.R. 2084 --
+Department of Transportation and Related Agencies Appropriations Bill,
+FYOO. HR 2084 is scheduled to go to the House floor for consideration at
+10:00AM Wed., June 23. This draft SAP is virtually identical to the House
+Rules SAP sent last week.  The only change is the addition of the last
+bullet (in Bold) relating to the air traffic control report ianguage which
+the Administration signed last year.
+
+Due to the short timeframe we have to clear this draft, we are doing a
+simultaneous clearance.   please provide your sign-off and/or comments no
+later than 9:30AM Tues.  Thank you!
+
+DRAFT NOT FOR RELEASE
+
+June   ,1999
+
+(House Floor)
+
+
+
+
+H.R. 2084, DEPARTMENT OF TRANSPORTATION
+     AND RELATED AGENCIES APPROPRIATIONS BILL, FY 2000
+(Sponsors:  Young (R), Florida; Wolf (R), Virginia)
+
+
+        This Statement of Administration Policy provides the
+AdministrationD,s views on the Transportation and Related Agencies
+Appropriations Bill, FY 2000, as reported by the House Appropriations
+Committee. Your consideration of the AdministrationD,s views would be
+appreciated.
+
+        The Administration appreciates the CommitteeD,s efforts to
+accommodate many of the AdministrationD,s priorities within its 302(b)
+allocation, particularly the funding provided for Amtrak.  However, the
+Administration is concerned about some of the choices made necessary by
+this allocation.
+
+        The PresidentD,s FY 2000 Budget proposes levels of discretionary
+spending that meet important national needs while conforming to the
+Bipartisan Budget Agreement by making savings proposals in mandatory and
+other programs available to help finance vital spending needs.  Congress
+has approved and the President has signed into law nearly $29 billion of
+such offsets in appropriations legislation since 1995. The Administration
+urges the Congress to consider such proposals as the FY 2000
+appropriations process moves forward.
+
+        The Administration proposes to meet important transportation
+safety, mobility, and environmental requirements by reallocating a portion
+of the increased spending permitted by higher-than-anticipated highway
+excise taxes.  Under this proposal, every State would receive at least as
+much funding as was assumed when the Transportation Equity Act for the
+21st Century was enacted. Last year, Congress chose to reallocate limited
+funding within the highway D&guarantee.D8 The House is encouraged to build
+upon this by enacting the AdministrationD,s proposal as a means to fund
+these important priorities.
+
+        The Administration is concerned that the Committee bill could
+compromise the Federal Aviation AdministrationD,s (FAAD,s) operations and
+modernization programs, reduce highway and motor carrier safety, and
+under-fund other important programs.  The House could partially
+accommodate the funding increases recommended below by adhering more
+closely to the PresidentD,s request for the Airport Improvement Program,
+High Speed Rail, Coast Guard Alteration of Bridges, Coast Guard capital
+improvements, and other programs.
+
+         The Committee is commended for permitting transit discretionary
+grants to be allocated according to the needs-based formula agreed to in
+the Transportation Equity Act for the 21st Century, instead of arbitrarily
+restricting individual StatesD, funding.   The Committee is commended for
+not prematurely encouraging the closure of Coast Guard training facilities
+without regard to the results of the ongoing Coast Guard review as to the
+best use of those facilities.
+
+        The following highlights our specific concerns with the committee
+bill.
+
+Aviation Safety and Modernization
+
+        The Administration strongly urges the House to fully fund the
+AdministrationD,s request for FAA Operations.  The $114 million, or
+two-percent, reduction made by the Committee would force the FAA to close
+low-level towers, defer hiring of safety and security personnel needed to
+meet the demands of increased air travel, and possibly slow air travel.
+The Administration is concerned with the Committee's reduction of $6.6
+million in FAA's request for rental payments to the General Services
+
+
+Administration.  Since rent is a mandatory payment, FAA would have to
+reduce operating spending further to absorb this reduction.
+
+        The House is also urged to restore the $119 million, or
+five-percent, reduction to the FAA Facilities and Equipment account.   The
+CommitteeD,s funding level could undermine our National Airspace System
+modernization program. Safety projects as well as critically-needed
+capacity enhancing projects would be delayed, increasing future air travel
+delays.  For example, the Administration urges the House to provide the
+requested $17 million in critically-needed funding to ensure timely
+implementation of a Global Positioning System (GPS) modernization plan
+that will help enable transition to a more efficient, GPS-based air
+navigation system.
+
+        The Administration supports the CommitteeD,s decision to eliminate
+the General Fund subsidy for FAA Operations but urges the Congress to
+enact a user fee system to finance the agency. Such a system would
+improve the FAAD,s efficiency and effectiveness by creating new incentives
+for it to operate in a business-like
+manner.
+
+Motor Carrier Safety
+
+        The Secretary of Transportation recently announced a comprehensive
+Motor Carrier Safety Action Plan to implement much-needed improvements in
+truck safety. The need for these improvements has been recognized by the
+Appropriations Committee and Congress overall, the Department of
+Transportation Inspector General, and an independent assessment conducted
+by former Congressman Mineta. The House is urged to provide the
+additional $50 million for the National Motor Carrier Safety Grant program
+to undertake the improvements in enforcement, research, and data
+activities designed to increase safety on our NationD,s roads and highways.
+
+
+Highway Safety
+
+        The Administration is concerned that the committee has provided
+$36 million less than the President has requested for the National Highway
+Traffic Safety AdministrationD,s Operations and Research account.  This
+funding reduction would limit important research activities on advanced
+air bags, crash worthiness, and the enhanced testing proposed in the New
+Car Assessment program to make better car safety information available to
+the public.
+
+CAFE Standards
+
+        The Administration strongly opposes, and urges the House to drop,
+the prohibition of work on the corporate average fuel economy (CAFE)
+standards. These standards have resulted in a doubling of the fuel economy
+of the car fleet, saving the nation billions of gallons of oil and the
+consumer billions of dollars.   Because prohibitions such as this have
+been enacted in recent years, the Department of Transportation has been
+unable to fully analyze this important issue. These prohibitions have
+limited the availability of important information that directly influences
+the Nation's environment.
+
+Amtrak
+
+        The Committee is commended for funding Amtrak at $571 million, the
+PresidentD,s requested level and the level called for in Amtrak's
+
+
+"glidepath" to self-sufficiency, and providing Amtrak with the flexibility
+to spend capital funds wisely by adopting for Amtrak the same definition
+of capital as used by transit grantees. The Administration would oppose
+efforts to fund Amtrak below this level because lower levels would
+jeopardize Amtrak's ability to achieve self-sufficiency by 2003 and could
+delay introduction of high-speed rail service in the Northeast Corridor
+and force other service reductions and route closures.
+
+Livability Programs
+
+        The Administration is disappointed that the Committee bill funds
+transit formula grants at $212 million below the PresidentD,s request and
+the Transportation Community and Preservation Pilot program (TCSP) at $25
+million, or 50 percent, below the request.  Further, the earmarking of the
+TCSP program would hinder the goal of improving land use by not permitting
+the development and identification of innovative new approaches.  Finally,
+the Administration is disappointed that the Committee bill does not direct
+additional funding to the Congestion Mitigation and Air Quality
+Improvement program. These livability programs are important components
+of an Administration effort to provide communities with the tools and
+resources they need to combat congestion and sprawl.
+
+Job Access and Reverse Commute
+
+        The Administration is disappointed that the Committee has provided
+only $75 million -- half of the amount authorized and requested -- for the
+Job Access and Reverse Commute program. This program is a critical
+component of the AdministrationD,s welfare-to-work effort and is
+significantly over-subscribed at present.  Demand is expected to increase
+as more communities around the country begin to see how effective the
+program can be in helping individuals make a successful transition from
+welfare to work.
+
+
+Coast Guard
+
+         The Administration is concerned about the Committee's earmarks to
+ continue operations of the Long Island, New York, and Muskegon, Michigan,
+.air facilities and to establish an additional air facility at waukegan,
+ Illinois.   The Coast Guard has concluded, based on careful review, that
+ none of these facilities are necessary to meet its search and rescue
+ coverage standards. By forcing the Coast Guard to spend nearly $9 million
+ on these facilities, the House is effectively reducing funding for higher
+ priority Coast Guard activities, such as improving boat station readiness
+ nationwide.
+
+Report Language Issue
+
+        The Administration is concerned with report language that would
+not fund the controller-in-charge differential, which was part of the
+carefully crafted air traffic controller agreement reached last year.
+
+********
+
+

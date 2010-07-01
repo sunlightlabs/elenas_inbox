@@ -1,0 +1,417 @@
+RECORD TYPE: PRESIDENTIAL     (NOTES MAIL)
+
+CREATOR: Kate P. Donovan ( CN=Kate P. Donovan/OU=OMB/O=EOP [ OMB 1 )
+
+CREATION DATE/TIME:27-JUL-1998 19:37:15.00
+
+SUBJECT:   URGENT: SENATE TREASURY/POSTAL SAP
+
+TO: G. E. DeSeve ( CN=G. E. DeSeve/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Jeffrey M. Smith ( CN=Jeffrey M. Smith/OU=OSTP/O=EOP@EOP [ OSTP 1 )
+READ: UNKNOWN
+
+TO: Wesley P. Warren ( CN=Wesley P. Warren/OU=CEQ/O=EOP@EOP [ CEQ 1 )
+READ:UNKNOWN
+
+TO: Lisa M. Kountoupes      CN=Lisa M. Kountoupes/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: William P. Marshall   ( CN=William P. Marshall/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Martha Foley ( CN=Martha Foley/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Sally Katzen ( CN=Sally Katzen/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: John Podesta ( CN=John Podesta/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: RUDMAN M@A1@CD@VAXGTWY     RUDMAN M@A1@CD@VAXGTWY [ UNKNOWN 1 )    (NSC)
+READ:UNKNOWN
+
+TO: Todd Stern ( CN=Todd Stern/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Kerri A. Jones   ( CN=Kerri A. Jones/OU=OSTP/O=EOP@EOP [ OSTP 1 )
+READ: UNKNOWN
+
+TO: Kathleen A. McGinty ( CN=Kathleen A. McGinty/OU=CEQ/O=EOP@EOP [ CEQ 1 )
+READ: UNKNOWN
+
+TO: Joshua Gotbaum ( CN=Joshua Gotbaum/OU=OMB/O=EOP@EOP    [ OMB 1 )
+READ: UNKNOWN
+
+TO: Ron Klain ( CN=Ron Klain/O=OVP@OVP [ UNKNOWN 1 )
+READ:UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP@EOP    [ OPD 1 )
+READ: UNKNOWN
+
+TO: Gene B. Sperling ( CN=Gene B. Sperling/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Rahm I. Emanuel ( CN=Rahm I. Emanuel/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Dawn L. Smalls ( CN=Dawn L. Smalls/OU=WHO/O=EOP@EOP    [ WHO 1 )
+
+
+READ:UNKNOWN
+
+CC: Rosemary Evans ( CN;Rosemary Evans/OU;OMB/O;EOP@EOP [ OMB I )
+READ:UNKNOWN
+
+CC: Adrienne C. Erbach ( CN;Adrienne C. Erbach/OU;OMB/O;EOP@EOP [ OMB I )
+READ:UNKNOWN
+
+CC: Peter A. Weissman ( CN;Peter A. Weissman/OU;OPO/O;EOP@EOP [ OPO I       )
+READ: UNKNOWN
+
+CC: Judy Jablow ( CN;Judy Jablow/OU;CEQ/O;EOP@EOP [ CEQ I )
+READ: UNKNOWN
+
+CC: Charles R. Marr ( CN;Charles R. Marr/OU=OPO/O=EOP@EOP [ OPO I )
+READ: UNKNOWN
+
+CC: Lisa Zweig ( CN;Lisa Zweig/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+CC: Charles Konigsberg ( CN=Charles Konigsberg/OU=OMB/O;EOP@EOP [ OMB I )
+READ: UNKNOWN
+
+cc: Shannon Mason ( CN;Shannon Mason/OU=OPO/O=EOP@EOP    [ OPO I )
+READ: UNKNOWN
+
+cc: Michelle Crisci ( CN;Michelle Crisci/OU=WHO/O=EOP@EOP [ WHO I )
+READ:UNKNOWN
+
+CC: Jessica L. Gibson ( CN=Jessica L. Gibson/OU;wHO/O;EOP@EOP [ WHO I       )
+READ:UNKNOWN
+
+CC: FARRAR J@Al@CO@VAXGTWY     FARRAR J@Al@CO@VAXGTWY [ UNKNOWN I )   (NSC)
+READ: UNKNOWN
+
+CC: Victoria A. Wachino ( CN;Victoria A. Wachino/OU=OMB/O=EOP@EOP [ OMB I )
+READ: UNKNOWN
+
+CC: Robert L. Nabors ( CN;Robert L. Nabors/OU=OMB/O=EOP@EOP [ OMB I     )
+READ:UNKNOWN
+
+CC: Paul J. Weinstein Jr.    ( CN;Paul J. weinstein Jr./OU;OPO/O=EOP@EOP [ OPO I   )
+READ: UNKNOWN
+
+CC: Emil E. Parker ( CN;Emil E. Parker/OU;OPO/O;EOP@EOP [ OPO I )
+READ: UNKNOWN
+
+CC: Jill M. Blickstein ( CN=Jill M. Blickstein/OU=OMB/O=EOP@EOP [ OMB I )
+READ:UNKNOWN
+
+CC: Elizabeth Gore ( CN=Elizabeth Gore/OU=OMB/O;EOP@EOP [ OMB I )
+READ: UNKNOWN
+
+CC: Jonathan H. Adashek ( CN=Jonathan H. Adashek/OU=WHO/O=EOP@EOP [ WHO I )
+READ: UNKNOWN
+
+CC: Laura Emmett ( CN;Laura Emmett/OU=WHO/O=E9P@EOP [ WHO I )
+READ:UNKNOWN
+
+CC: Melissa G. Green ( CN=Melissa G. Green/OU=OPO/O=EOP@EOP [ OPO I )
+
+
+READ: UNKNOWN
+
+CC: Kevin S. Moran ( CN=Kevin S. Moran/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+TEXT:
+We now expect the Senate to turn to the Treasury/Postal FY99
+Appropriations bill tomorrow around llam.  Please note: Potential
+amendments are listed on the last page and include 1) sunsetting the tax
+code: Sect. of Treas veto recommendation; & 2) transfer of satellites to
+China: Senior advisors veto if amendment is included - need WW decision
+(NSC feels strongly about seniors advisors veto).  Please provide
+comments/clearance by lOam Tuesday.  Thanks.
+
+H.R. 4104 -- TREASURY AND GENERAL GOVERNMENT
+                                 APPROPRIATIONS BILL, FY
+1999
+(Sponsors:  Stevens (R), Alaska; Campbell (R), Colorado)
+
+
+        This Statement of Administration policy provides the
+AdministrationO,s views on S. 2312, the Treasury and General Government
+Appropriations Bill, FY 1999, as reported by the Senate Appropriations
+Committee.   Your con'sideration of the AdministrationD, s views would be
+appreciated.
+
+        The Administration appreciates efforts by the Committee to
+accommodate the PresidentO,s priorities within the 302(b) allocation.  The
+President's FY 1999 Budget proposes levels of discretionary spending for
+FY 1999 that conform to the Bipartisan Budget Agreement by making savings
+in mandatory and other programs available to help finance this spending.
+In the Transportation Equity Act, Congress -- on a broad, bipartisan basis
+   took similar action in approving funding for surface transportation
+programs paid for with mandatory offsets.  We want to work with the
+Congress on mutually agreeable mandatory and other offsets that would be
+used to increase high priority discretionary programs, including those
+funded by this bill.  In addition, we hope that the Senate will reduce
+funding for lower priority and unrequested discretionary programs.
+
+        Below is a discussion of our specific concerns with the
+Committee-reported bill.  We look forward to working with the Senate to
+resolve these concerns as the bill moves forward.
+
+Year 2000 Computer Conversion
+
+        In the FY 1999 Budget, the President requested more than $1
+billion for Year 2000 (Y2K) computer conversion.  In addition, the budget
+anticipated that additional requirements would emerge over the course of
+the year and included an allowance for emergencies and other unanticipated
+needs.  It is essential to make Y2K funding available quickly and flexibly
+as new needs arise.  The Administration appreciates the Committee's action
+to provide $3.25 billion in contingent emergency funding for this purpose.
+ We urge Congress to leave as much as possible of the reserve unallocated
+so that funds are available to address emerging needs.
+
+Obligation Delays
+
+        The Administration strongly objects to language in the Senate Committee
+bill that would impose $592 million in obligation delays on Treasury
+programs. These provisions would prevent expenditure of funds before
+
+
+September 30, 1999, effectively reducing program levels for FY 1999 and
+seriously hindering Treasury program operations. For example:
+
+ For the IRS, the obligation delay of $175 million for Tax Law Enforcement
+would result in a six-percent reduction in personnel and a loss of
+substantial tax collections. The $69 million obligation delay for
+Information Systems would effectively halt IRSO, modernization efforts
+until the following fiscal year, jeopardizing efforts to refocus the IRS
+on providing good customer service for taxpayers.
+
+ For Treasury Enforcement, the obligation delay of $28 million for
+CustomsO, Salaries and Expenses would hinder CustomsO, efforts to combat
+drug smuggling across the southern tier of the United States and to detect
+shifts in trafficking patterns, and would inhibit maintenance of essential
+equipment.  The $23 million obligation delay against CustomsD, Operations
+and Maintenance, Air and Marine Interdiction Programs account would lead
+to a reduction in interdiction flight hours, cripple essential maintenance
+for air and marine fleets, and result in a deterioration of air and marine
+fleet assets.  The $14 million in obligation delays for the Secret Service
+would cause unacceptable risks to Presidential safety.
+
+Internal Revenue Service
+
+        The Administration appreciates congressional support for IRS
+information technology investments.  However, the Administration urges the
+Senate to adopt the $210 million for modernized information systems
+provided in the House bill.
+
+U.S. Customs Service
+
+        The Administration is concerned about the funding level for
+CustomsO, Automated Commercial Environment (ACE). Without major revlsions
+to the existing system, Customs cannot keep up with increasing trade
+volumes nor can it be responsive to the requirements stated in the 1993
+Modernization Act and the needs articulated by industry. The Committee
+has funded only $8 million of the requested $56 million level, and has
+imposed an obligation delay against the $8 million provided, which would
+cause the modernization effort to come to a halt. To accommodate the full
+amount requested, the Administration has proposed funding the majority of
+ACE requirements through a user fee paid by those who stand to benefit
+most from this system, the trade community.
+
+Bureau of Alcohol, Tobacco and Firearms (ATF)
+
+        The Administration appreciates the efforts of the Committee to
+fully fund the President's Youth Crime Gun Interdiction Initiative.  This
+initiative is an important part of the Administration's overall strategy
+to curb youth gun violence.
+
+        The Administration requests reconsideration of funding for the
+Violent Crime Coordinator initiative, as the U.S. Attorneys have requested
+additional ATF support for bringing cases involving violent criminals to
+the Department of Justice for prosecution.
+
+       We are concerned about the CommitteeD,s lack of support for ATF
+headquarters relocation.
+
+U.S. Secret Service
+
+        The Administration is concerned that by redirecting $13 million to
+
+
+Secret service travel costs, the committee has effectively undermined
+other Secret Service funding needs, resulting in a probable deterioration
+of critical equipment and an undermining of the Service staffing needed to
+provide for the protection of the President and foreign dignitaries.
+
+Law Enforcement Vehicles
+
+        The Administration objects to the elimination of funding for
+Treasury law enforcement vehicle replacement.  Replacement funds are
+critical from a public safety perspective, as aging vehicles present an
+inordinate risk to the lives of both Treasury personnel and the public.
+
+Federal Law Enforcement Training Center
+
+        The Administration urges the Senate to adopt the funding level for
+the Federal Law Enforcement Training Center (FLETC) proposed by the
+President.  In particular, the Committee makes no provisions for funding
+of a dormitory for FLETC's Glynco campus. This dormitory is needed to
+help FLETC absorb the increased law enforcement training needs of the
+Immigration and Naturalization Service and the Bureau of Indian Affairs.
+
+Unanticipated Needs
+
+        The Committee bill fails to provide the requested $1 million to
+enable the President to meet unanticipated needs in furtherance of the
+national interest, security, or defense.  The Administration urges the
+Senate to include this amount to ensure that the President has the same
+ability to meet such needs as previous Presidents have had.
+
+Pay Raise for Federal Judges and Senior Executives
+
+        The Administration is disappointed that the bill includes a
+proposal to eliminate the 1999 pay raise for Federal judges and employees
+paid under the Executive Schedule.  Failure to provide pay raises for.
+senior executives is eroding the value of their pay and causing severe pay
+compression in the executive ranks.  Pay adjustments have been made for
+such individuals only once in the last five years.  If continued, this
+failure will affect the Government's ability to attract and retain the
+executive talent that it needs.  We urge the House to restore the pay
+raise for Federal judges and employees paid under the Executive Schedule.
+
+Office of National Drug Control Policy (ONDCP)
+
+        The Administration appreciates the support the Committee has
+provided for drug control efforts in general, and for ONDCP in
+particular.  The Administration encourages the Senate to provide the full
+amount requested for ONDCP's Special Forfeiture Fund, especially the
+national youth anti-drug media campaign.  The Senate could fully fund the
+budget request for the media campaign by reducing amounts earmarked by the
+Committee for unrequested ONDCP programs. The Administration opposes bill
+language that would bar funding for:  new ads, Internet programming, joint
+efforts with the entertainment industry, partnerships with community and
+other organizations, and evaluation of the effectiveness of the media
+campaign. Unless the Senate rectifies these problems, our efforts to meet
+the targets established in ONDCPD,s performance measures would be
+negatively affected.
+
+Federal Buildings Fund
+
+       The Administration is pleased that the Committee has provided $14
+
+
+million for the design of a new Department of Transportation
+Headquarters.  providing for a Government-owned building would save
+taxpayers approximately $190 million, in present value terms, compared to
+the cost of entering into a lease.
+
+        The Committee bill would delay the availability of funding until
+September 30, 1999, for the repair and alterations program ($324 million),
+rental of space program ($52 million),   and building operations program
+($31 million). The Administration is concerned that a delay in
+obligations would essentia.lly eliminate the FY 1999 basic repairs and
+alterations program, which provides for emergency repairs and ensures the
+operational continuity of facilities.
+
+        The Administration is also concerned that the Committee bill
+provides over $500 million for 15 unrequested Federal courthouse
+construction projects.
+
+Morris K. Udall Foundation
+
+        The Administration is concerned about the lack of funding for the
+Morris K. Udall Scholarship and Excellence in National Environmental
+Policy Foundation, particularly the lack of funding for the U.S. Institute
+for Environmental Conflict Resolution, as authorized in PL 105-156.   The
+Administration believes that the Institute would provide valuable
+assessment, mediation, and training services to Federal agencies to
+resolve environmental disputes, thus reducing expenses due to lengthy
+litigation costs.
+
+Federal Election Commission
+
+        The Administration urges the Senate to fully fund the Federal
+Election Commission (FEC) at the level requested by the President and
+provided by the House, $36.5 million.
+
+Paperwork Reduction Act and Congressional Review Act
+
+        The Administration shares the CommitteeD,s interest in improving
+the implementation of the Congressional Review Act and the Paperwork
+Reduction Act. However, we have concerns with several provisions of the
+Committee bill.  We would like to work with the Committee to resolve these
+outstanding issues.
+
+Language Provisions
+
+ The Administration strongly objects to section 117 of the Committee
+bill.  This provision would undermine the authority of the President to
+use assets of countries under economic sanctions pursuant to the Trading
+with the Enemy Act or the International Economic Powers Act as leverage
+when economic sanctions are used to modify the behavior of a foreign
+state, or are used in negotiations with that state in an effort to
+normalize relations.
+
+ The Administration objects to language tying obligation of funds for
+Customs automation modernization improvements to GAO certification to
+Congress that measures have been established "to enforce compliance with
+the architecture." The Administration has no control over the nature or
+timing of any prospective GAO review and certification.
+
+ The Administration is concerned that section 115 of the Treasury General
+Provisions could limit the Secretary's discretion in determining how best
+
+
+to stimulate increased electronic tax filing, which reduces IRS errors,
+permits more timely refunds to taxpayers, and lowers IRS tax processing
+costs.
+
+ The Administration supports the Joint Financial Management Improvement
+Program and urges the Senate to include language in Title VI that was
+included in the House Committee-reported version of the bill that would
+provide up to $3 million from Government-wide credit card rebates in
+support of that program.
+
+ There are several provisions in the bill that purport to require
+congressional approval before Executive Branch execution of aspects of the
+bill. The Administration will interpret such provisions to require
+notification only, since any other interpretation would contradict the
+Supreme Court ruling in INS vs. Chadha.
+
+Potential Amendments
+
+ It is our understanding that an amendment may be offered to the bill that
+would repeal the current tax code effective December 31, 2002 and require
+Congress to pass legislation establishing a new tax system by July 4,
+2002.  It would not be responsible for congress to enact legislation to
+terminate the tax code without having already provided a reform plan to
+replace it. Many families, for example, would refrain from buying homes
+because of the uncertain tax treatment of mortgage interest and property
+taxes (as well as other State and local taxes). Many businesses would
+hire fewer workers and make fewer capital investments because of
+uncertainties in how taxes would affect the return on productive assets.
+Furthermore, the uncertainty of the size of future receipts would raise
+the specter of increased Federal deficits which in turn would raise
+interest rates and weaken or destroy economic growth. The Secretary of
+the Treasury has stated that he would recommend to the President that he
+veto this bill if it contains this amendment.
+
+ The transfer of commercial satellites from the Commerce Commodity list to
+the munitions list will adversely impact the U.S. satellite manufacturing
+industry with no benefit for national security. The current system for
+licensing communications satellites contains a more robust national
+security review process than was previously in place under the State
+Department system. If the amendment proposed would be contained in the
+final bill sent to the President, his senior advisors would recommend that
+he veto the bill. [Need decision on veto level - NSC feels strongly about
+senior advisors veto.]
+
+

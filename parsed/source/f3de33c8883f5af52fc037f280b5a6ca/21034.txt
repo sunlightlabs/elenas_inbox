@@ -1,0 +1,497 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME: 16-AUG-1998 13:45:34.00
+
+SUBJECT:   FYI -- info you may possibly need on welfare caseloads while I'm away
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+CC: Laura Enunett   CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+TEXT:
+Melissa Skolfield will prepare draft caseload paper and run it by you.
+Attached are several background pieces in the very remote chance you need
+them.
+
+ Yearly welfare caseloads since 1936.
+The analysis to date of caseloads by race (Andrea already sent you same
+file,
+                it's just renamed)
+Q&AS from the last time we released caseload data, on May 27th. ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D17]MAIL48520192S.226 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504365120000010A02010000000205000000F93D0000000200002D04A7175A48C47ABDD146
+11628703BBE6984588C74F08B7D4C16B6F03EA6BEE8F09642D1BAB717CAOF91557DDCBD2118107
+         Temporary Assistance for Needy Families (T ANF)              Hex-Dump Conversion
+                           1936-1997
+       Source: HHS Administration for Children and Families
+
+
+year                         recipients                  families
+
+1936                             534,000                   147,000
+1937                             674,000                   194,000
+1938                             895,000                   258,000
+1939                          1,042,000                    305,000
+1940                          1,182,000                    349,000
+1941                          1,319,000                    387,000
+1942                          1,317,000                    387,000
+1943                          1,050,000                    304,000
+1944                             910,000                   260,000
+1945                             907,000                   259,000
+1946                          1,112,000                    312,000
+1947                          1,394,000                    393,000
+1948                          1,595,000                    449,000
+1949                          1,918,000                    541,000
+1950                          2,205,000                    644,000
+1951                          2,134,000                    621,000
+1952                          2,022,000                    583,000
+1953                          1,970,000                    560,000
+1954                          2,076,000                    580,000
+1955                          2,214,000                    612,000
+1956                          2,239,000                    611,000
+1957                          2,395,000                    645,000
+1958                          2,719,000                    724,000
+1959                          2,920,000                    774,000
+1960                          3,005,000                    787,000
+1961                          3,354,000                    869,000
+1962                          3,676,000                    931,000
+1963                          3,876,000                    947,000
+1964                          4,118,000                    992,000
+1965                          4,329,000                  1,039,000
+1966                          4,513,000                  1,088,000
+1967                          5,014,000                  1,217,000
+1968                          5,705,000                  1,410,000
+1969                          6,706,000                  1,698,000
+1970                          8,466,000                  2,208,000
+1971                         10,241,000                  2,762,000
+1972                         10,947,000                  3,049,000
+1973                         10,949,000                  3,148,000
+1974                         10,864,000                  3,230,000
+1975                         11,165,185                  3,498,000
+1976                         11,386,371                  3,579,000
+1977                         11,129,702                  3,588,000
+1978                         10,671,812                  3,522,000
+                                                                                       Hex-Dump Conversion
+                                                       -2-
+
+year                                                 recipients                         families
+
+1979                                                 10,317,902                         3,509,000
+1980                                                 10,597,445                         3,642,380
+1981                                                 11,159,847                         3,870,765
+1982                                                 10,430,960                         3,568,781
+1983                                                 10,659,365                         3,650,746
+1984                                                 10,865,604                         3,724,864
+1985                                                 10,812,625                         3,691,610
+1986                                                 10,996,505                         3,747,531
+1987                                                 11,065,027                         3,784,018
+1988                                                 10,919,696                         3,747,948
+1989                                                 10,933,980                         3,770,960
+1990                                                 11,460,382                         3,974,322
+1991                                                 12,592,269                         4,373,883
+1992                                                 13,625,342                         4,768,495
+1993                                                 14,142,710                         4,981,248
+1994                                                 14,225,591                         5,046,263
+1995                                                 13,652,232                         4,876,240
+1996                                                 12,648,859                         4,553,339
+July 1997*                                           10,258,000                         3,742,000
+
+
+
+Note: Prior to TANF, the cash assistance program to families was called Aid to Dependent Children (1936-1962) and
+Aid to Families with Dependent Children (1962-1996). Under the new welfare law (Personal Responsibility and Work
+Opportunity Reconciliation Act of 1996), the program became TANF. Unless noted, caseload numbers are average
+monthly.
+
+*most recent available
+                                                                         Hex-Dump Conversion
+
+                                   Welfare Reform Q&As
+                                       May 27,1998
+
+
+Q:    What is the President announcing today?
+
+A:    Today, President Clinton will celebrate the success of the Welfare to Work Partnership,
+      which has grown from 105 to 5,000 companies since it was launched at the White House
+      last May and whose member companies hired over 135,000 welfare recipients in 1997.
+      The President will challenge the Welfare to Work Partnership to double its welfare hires
+      to 270,000 in 1998 and urge every business in America to look to welfare recipients to fill
+      labor shortages created by the booming economy. The President will be joined by
+      United Airlines CEO Gerald Greenwald, who will release a report showing hiring welfare
+      recipients can cut company turnover.
+
+      The President will release new data showing that welfare to work efforts like these are
+      paying off -- welfare caseloads have dropped to 8.9 million, a record drop of 3.3 million
+      since he signed welfare reform into law and 5.2 million since he took office. To sustain
+      this success, the President will announce the first Welfare-to-Work competitive grants
+      from the $3 billion fund he fought to include in the 1997 Balanced Budget Act. These
+      $186 million in grants will support 49 innovative efforts across the country to help the
+      most disadvantaged welfare recipients get and keep jobs. In addition, new funds for the
+      President's welfare to work transportation plan, which were included in the ISTEA bill
+      which passed Congress last week, will help even more welfare recipients go to work.
+
+Welfare to Work Partnership
+
+Q:    You say that over 5,000 companies have joined the Welfare to Work Partnership.
+      What does that mean? Have they all actually hired welfare recipients?
+
+A:    All 5,000 companies have either already hired welfare recipients or have pledged to do
+      so without displacing other workers. In 1997, approximately 3,200 Partnership
+      companies hired more than 135,000 welfare recipients.
+
+Q:    I understand the Partnership is releasing some sort of report today at the White
+      House? What does the report say?
+
+A:    The report, The Road to Retention, is a case history of 16 businesses, including five small
+      companies, whose retention rates for welfare recipients are higher than the retention rates
+      for non-welfare hires. At United Airlines, for example, welfare hires have about half the
+      turnover rate of regular hires. This report provides examples of what successful
+      companies do to promote retention, including fonning partnerships with service agencies
+
+
+                                              -1-
+                                                                              Hex-Dump Conversion
+
+      to provide child care, transportation, mentoring, and counseling services, providing
+      on-the-job or pre-employment training, providing health and other benefits, and holding
+      welfare to work employees to the same high standards as other employees.
+
+Q:    Who runs the Welfare to'Work Partnership? Is it part ofthe White House?
+
+A:    No. The Welfare to Work Partnership is an independent, nonpartisan, national
+      effort of the American business community to help move those on public assistance into
+      jobs in the private sector. Gerald Greenwald, the CEO' of United Airlines, is the
+      chairman of the partnership's board of directors, and Eli Segal is the Partnership's
+      President and CEO. The Partnership was formed in response to the President's challenge
+      in his 1997 State of the Union speech to forge "a new national effort to marshal America's
+      businesses, large and small, to create jobs so that people can move from welfare to work."
+
+Welfare Caseloads
+
+Q:    What are the new caseload numbers that the President announced today?
+
+A:    The President released new figures showing welfare caseloads have fallen to 8.9 million, a
+      record drop of 3.3 million since he signed welfare reform into law and 5.2 million since
+      he took office. The welfare rolls have declined by 37 percent since January 1993, when
+      they stood at 14.1 million, and by 27 percent since their August 1996 level of 12.2 million.
+       The percentage of the U.S. population on welfare is at its lowest since 1969 -- 3.3
+      percent.
+
+      As the attached chart shows, the welfare caseloads have fallen by nearly 900,000 since
+      the numbers released in January as part of the President's State of the Union speech.
+      The new figures are from March 1998; the data released in January were from September
+      1997.
+
+
+
+
+                                              -2-
+                                                                                              Hex-Dump Conversion
+
+                                              Welfare Caseloads
+
+                 Baseline        Recipients       Decline         Decline          Decline         Decline
+                 Recipients      (in month        since           since            since           since
+                 (Jan. 93)       noted)           Jan. 93         Jan. 93          Aug. 96         Aug. 96
+                                                  (percent)       (millions)       (percent)       (millions)
+
+May 96*             14.115          12.499            11%             1.616
+
+Aug. 96*            14.115          12.202            14%             1.913
+
+Apr. 97             14.115          10.969            22%             3.146            10%             1.233
+
+May 97              14.115          10.748            24%             3.367            12%             1.454
+
+June 97             14.115          10.494            26%             3.621            14%             1.708
+
+July 97             14.115          10.258            27%             3.857            16%             1.944
+
+Aug. 97             14.115           9.995            29%             4.120            18%             2.207
+
+Sep.97**            14.115           9.804            31%             4.311            20%             2.398
+
+Mar. 98***          14.115           8.910            37%             5.205            27%             3.292
+
+·         Note that when the welfare law was signed in August 1996, only case load data through the month of May
+          1996 was available. Thus, the public statements made at that time were based on that May 1996 data.
+
+...       Data released 1127/98.
+          Data released 5/27/98 .
+
+
+Q:        Do you know what happened to all those people who left the rolls? Aren't some
+          simply being cut off of welfare? Do you consider this a success?
+
+A:        Not enough time has passed for full scale research studies to be completed, but several
+          state studies show that between 50 and 60 percent of those who leave the welfare rolls do
+          so for work. (Others leave because of marriage, their youngest child turning 18, an
+          increase in child support, receipt of SSI, increase in earnings by another family member,
+          or sanctions). Welfare reform is resulting in more recipients going to work: the most
+          recent data from the Census Bureau's Current Population Survey show that work rates
+          among welfare recipients increased by 20 percent from 1996 to 1997. HHS estimates
+          that this means 1.7 million people who were on welfare in 1996 were working in 1997.
+          Many states are using sanctions to enforce work rules, and we think that is entirely
+          appropriate. Data from several state studies find that after being sanctioned, about half
+          the people go to work and approximately 40 percent have an increase in their income.
+          Several states also found that one-quarter to one-third of those sanctioned return to the
+          rolls, presumably after complying with the requirements.
+
+                                                        -3-
+                                                                             Hex-Dump Conversion
+
+
+
+Q:    Do you think there will be enough jobs for all the welfare recipients who need them?
+
+A:    We believe that economy will create enough jobs for welfare recipients without
+      displacing other workers. Remember, we've created over 15 million new jobs since this
+      Administration took office and unemployment -- at 4.3 percent -- is at the lowest level in
+      28 years. At the same time, we recognize that we should give some extra help to
+      communities where it will be harder for welfare recipients to find jobs. That's why the
+      President fought for and won the $3 billion Welfare-to-Work grants which states and
+      cities can use to create job opportunities for welfare recipients, particularly targeted at
+      hard-to-employ individuals in high poverty areas. That's why the President fought for
+      and won the $3 billion Welfare-to-Work grants which states and cities can use to
+      create job opportunities for welfare recipients, particularly targeted at
+      hard-to-employ individuals in high poverty areas. And so that those leaving
+      welfare can get to where the jobs are, the President proposed -- and the Congress
+      has now passed -- funds for welfare to work transportation in the ISTEA
+      transportation bill.
+
+Welfare to Work Grants
+
+Q:    What are the grants that the President announced today?
+
+A:    Today, the President announced the first round of competitive grants from the $3 billion
+      Welfare-to-Work program he fought for in the Balanced Budget Act of 1997. The $186
+      million in grants from the Department of Labor will support 49 innovative welfare to
+      work efforts designed to move long term welfare recipients into lasting, unsubsidized jobs.
+       These awards are the first of five rounds of competitive grants to be awarded in 1998
+      and 1999. Twenty five percent of the Balanced Budget Act's $3 billion welfare to work
+      funds are to be awarded on a competitive basis, with the remaining 75 percent to be
+      allocated by formula to states to be used by local Private Industry Councils to help welfare
+      recipients who have significant barriers to employment obtain and retain jobs. A
+      description of some of the 49 grantees is available for the press.
+
+Q:    How are these grants different from the other welfare reform funds states get?
+
+A:    These funds are targeted specifically at the hard-to-employ welfare recipients who need
+      help the most -- long-term recipients with poor education, low skills, and little job
+      experience, living in high poverty areas.
+
+Welfare to Work Transportation
+
+Q:    I understand welfare to work funds were included in the ISTEA bill which passed
+      the Congress last week. Are these the funds the President requested in his budget?
+
+
+
+                                              -4-
+                                                                                Hex-Dump Conversion
+
+
+A:    The President fought to include welfare to work transportation funds in the ISTEA
+      transportation bill. You may recall that he highlighted the importance of welfare to work
+      transportation a year ago, when the Welfare to Work Partnership was launched at the
+      White House, and again in the State of the Union_ His budget included a $100 million a
+      year proposal for welfare to work transportation. The ISTEA bill which passed the
+      Congress on Friday includes up to $150 million a year for local efforts to help welfare
+      recipients get to where the jobs are.
+
+Federal Welfare Hiring
+
+Q:    How many welfare recipients has the federal government hired?
+
+A:    According to the Office of Personnel Management, the federal government has hired
+      4,811 welfare recipients since March 1997 when the federal hiring initiative was
+      launched. This is 48 percent of our goal of 10,000 hires by the year 2000. As a part of
+      this effort, the White House pledged, and has already hired, six welfare recipients.
+
+Q:    How was the goal of 10,000 hires set?
+
+A:    These numbers represent the Federal government's fair share of the effort to hire welfare
+      recipients. The Federal government is approximately 1.5 percent of the nation's
+      workforce. To meet its portion of the President's challenge to move 2 million people off
+      welfare by the year 2000 -- which amounts to moving about 700,000 adults into the
+      workforce -- the Federal government ought to hire about 10,000 welfare recipients.
+
+Q:    How can you hire welfare recipients when government is downsizing and budgets
+      are tight? Are you creating special preferences for welfare recipients?
+
+A:    It is true that the government is downsizing. Since the President took office, he has
+      actually shrunk the Federal government to its smallest size in three decades. However,
+      downsizing does not mean there are no jobs to fill. As in any organization, there is a
+      natural amount of turnover in jobs at all levels. The Federal agencies have committed to
+      reaching out specifically to the welfare population to fin those. positions.
+
+      Weare not creating any preference such as the one that exists for veterans. Weare
+      encouraging the departments to use existing hiring authorities, including programs that
+      allow departments to cut through red tape and hire entry-level workers quickly and easily.
+       We are also encouraging outreach efforts to our federal contractors, grantees and
+      partners. This is the same commitment that the President has asked of the private sector.
+
+
+
+
+                                              -5-
+                                                                                  Hex·Dump Conversion
+
+
+                                WELFARE CASELOAD ANALYSIS
+
+There are a number of factors that appear to contribute to the different rates at which the
+caseloads are declining for different racial and ethnic groups. The primary factors are listed
+below, along with currently available data. Staff are continuing to do additional analysis to
+determine the magnitude of these factors.
+
+The racial/ethnic composition of welfare caseloads has been changing gradually over the
+last 25 years: whites rose from 38 percent in 1973 to a peak of 42 percent in 1983 and have
+dropped steadily to 35 percent in 1997. The proportion of blacks has generally declined, from 46
+percent in 1973 to 37 percent in 1997. The most significant trend is the increase in the Hispanic
+portion of the caseload, from 13 percent in 1973 to 23 percent in 1997. However, this is not too
+surprising given the rapid increase in the Hispanic population overall.
+
+
+                            TOTAL         WHITE              BLACK         HISPANIC        OTHER
+
+ % Change in Total          6%            2%                 9%            24%             22%
+ Population 7/92-6/98
+
+ % of Total Pop 6/98        100%          72%                12%           11%             4%
+
+
+
+The question is how welfare reform may be affecting these historic trends. National data on the
+racial/ethnic characteristics of welfare recipients are only available through June 1997, so it is
+hard to gauge the impact of the past year when welfare reform efforts accelerated so rapidly.
+States provided more recent data to the Times (generally through June 1998), but HHS has
+concerns that some of these data may have problems, particularly NY and CA. They are
+working with states to verify the data.
+
+It is also worth noting that the caseload data only tells who is currently on the rolls; it does not
+tell the rate at which different groups are entering and exiting. Analysis of entries and exits will
+be conducted in the near future.
+
+The number of white, black and Hispanic families receiving welfare have all dropped since
+1994 (when caseloads peaked nationally, but the rate of decline has been greater for whites
+than blacks, with an even slower decline for Hispanics.
+
+                                97              % Change
+Whites 1.9M             1.4 M           -26%
+Blacks         l.8M             l.5M            -18%
+Hispanics      l.OM               .9M                  -9%
+                                                                            Hex-Dump Conversion
+
+The changes are more dramatic than the actual mix of who is left on the caseloads, at least
+on it national basis.
+
+
+Whites 37%             35%
+Blacks          36%           37%
+Hispanics       20%           23%
+
+There is some encouraging evidence from Census data that the employment rates of former
+welfare recipients are increasing even faster for minorities than for whites, although the
+actual rates and the disparity between groups remains disturbing. Between 1996 and 1997, the
+percentage of all prior year welfare recipients who were employed in the next year increased by
+28%. The increase was highest for blacks (33%), followed by Hispanics (22%) and whites
+(21%).
+
+ Minorities on welfare disproportionately share characteristics that may make it harder to
+.Ieave the rolls. These factors include: lower education levels, lower marriage rates, larger
+ families, isolation from areas with jobs, and employment and housing discrimination. March 95
+Current Population Survey Data shows the following characteristics for public assistance
+ recipients in 1994:
+
+                      TOTAL            WHITE              BLACK              HISPANIC
+ % with < HS          42%              33%                40%                64%
+ diploma
+
+ % never married      43%              31%                61%                40%
+ > 2 children         30%              20%                38%                38%
+ Live in central      51%              31%                71%                63%
+ city
+
+CEA is running comparable data for the March 1996 and 1997 CPS.
+                                                                                Hex-Dump Conversion
+
+
+Historical data confirms that minorities are more likely to remain on the welfare rolls
+longer. At the same time, the proportion of long-tenn recipients on the roBs is increasing
+slightly. This would partially explain why the current rate of caseload decline is slower for
+minorities and why they are making up an increasing share of the welfare caseload.
+
+
+ % of cases in each group      FY 1995                  FY 1996                  FY 1997 (9 mos)
+ on welfare for 61-120
+ months (in current spell)
+
+ White                         12%                      14%                      14%
+
+ Black                         16%                      17%                      20%
+
+ Hispanics                     14%                      18%                      19%
+
+
+The trends in marriage rates and births to unmarried women could contribute to an
+increasing proportion of minority families going on welfare. While the proportion of
+never-married single mothers is increasing for the entire population, the rate of is largest for
+Hispanic women (based on CPS data).
+
+
+                                          1992                    1997                   % Change
+
+ % of all single mothers who were         30%                     35%                   17%
+ never married
+
+ Never-married single mothers by
+ race:
+
+ White                                    17%                     21%                   24%
+
+ Black                                    51%                     55%                   8%
+
+ Hispanic                                 33%                     42%                   27%
+
+In addition, the rate of births to unmarried teenagers remains much higher for blacks and
+Hispanics than for whites. And, while the rate is decreasing significantly for blacks and slightly
+for whites, it continues to increase for Hispanics. For example, between 1991 and 1996, the rate
+of births to unmarried teenagers decreased 18% for blacks and 4% for whites, but increased 3%
+for Hispanics.
+                                                                            Hex-Dump Conversion
+
+
+Minorities are a disproportionately represented in child-only cases. To the extent that child
+only cases are decreasing more slowly than cases headed by adults, this would appear to
+contribute to the increasing proportion of minorities on the caseload.
+
+
+                 FY96               FY96                FY 97 (9 mos)       FY96
+                 %of child only     % of cases          % of child only     % of cases
+                 cases by race      headed by adults    cases by race       headed by adults
+                                    by race                                 by race
+
+ TOTAL #         978,300                                915,500
+
+ WHITE           28%                36%                 27%                 35%
+
+ BLACK           40%                37%                 40%                 37%
+
+ HISPANIC        26%                 21%                27%                 23%
+
+HHS is working on additional analysis of child only cases, by state and by reason, to determine
+whether the magnitude of this factor on the changing racial composition of the caseloads
+nationally and in specific states.
+
+

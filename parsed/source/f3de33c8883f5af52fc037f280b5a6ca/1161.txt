@@ -1,0 +1,704 @@
+ RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+ CREATOR: Stacy L. Dean ( CN=Stacy L. Dean/OU=OMB/O=EOP [ OMB)    )
+
+ CREATION DATE/TIME: 5-MAR-1997 17:19:59.00
+
+ SUBJECT:   privatization paper
+
+ TO: Diana Fortuna ( CN=Diana Fortuna/OU=OPD/O=EOP @ EOP [ OPD ) )
+ READ: UNKNOWN
+
+ TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ) )
+ READ: UNKNOWN
+
+ TEXT:
+ Attached is the lastest draft of the agency privatization paper.  There is
+ another option and one or two more policy issues.  It is a long read, but
+ almost everything is there.  If I were to do it again, I'd differentiate
+ more between Wisconsin and Texas.  Wisconsin has a more performance based
+ approach which expands or contracts their privatization efforts based on
+ how the public counties do compared with the privatized counties.
+
+ This version is being distributed to all the agencies tonight.
+
+
+
+ ====~=============== ATTACHMENT   1 ====================
+ ATT CREATION TIME/DATE:   0 00:00:00.00
+
+ TEXT:
+ Unable to convert ARMS_EXT: [ATTACH.D59)MAIL455426363.016 to ASCII,
+  The followtng is a HEX DUMP:
+
+ FF575043B60E0000010A020100000002050000002EB6000000020000SC104F8970744C791EBOD7
+ 6FOC6A52BA195DOB2742DDB4FEF86D07C939130412F9D196B83A3EF1AF3123321748AOCE6411CC
+ AE2C88D3979603F2831D69B8D391D76659823B8209F44A6308C9C6CABCBEOECFEAF8BE9DA94DE2
+ F19CC84972219C933E936EF50F842D9812281624CC7547DC39683633AE8FADD2F2FCOD224B0395
+ B651A650F9E05F9D85747A0485FD9F2158F29205EAOOC267829F0559010F71COCCE05B4DF5CBE4
+ E47ED87D457E7C3F604DOBD4FB7C95A55B01A882226EF20F84COCD341D31AC83DDB16248C8E2D6
+ 9C55B6DDEE3F36E28188DE665187E58006105C49AFA685ABCA8AA3049B6F96753B7FDE2236DF05
+ 430993F33277FOAF3F69FDOOE3CD2EA3635B7C2EF60B71B11C51DD48BFF65703FA33BE3685AE37
+ 1309AC27DE2AA298353062012D0593F694A3EBC7CEIOD92B94A8675EC2253E8EA38AB2EOA49B6D
+ F5A6F7D4512S51A79ADF94D8D82DCCBCCE8E45455C6D09F80EAE91E81BD5049DEAD95116605C48
+ F55CEIC98BEOF5E6289D9EBECAC89472941B0702254768F59808256222CE882D9FOCE5A8E8D75C
+ 671A9BC5A7E2AOA086AF3CS8300AAA77D0781A9C08C26F69EBFEOBA286F75355BDD6ED01728474
+ CA7D60418204255B23CBA09D28319A009441F848E6F31540C582DEC08DA5D07C4E3D967399D615
+ 5BA8EE94A002002B00000000000000000000000823010000000B0100005A040000005519000100
+ 4E000000650S000009250100000006000000B30500000B300400000028000000B9050000080501
+ 00000008000000E1050000020800000100EOOOOOOOE905000000000000000000000000E9050000
+ 08770100000040000000C906000008340100000014000000090700000802010000000F0000001D
+ 070000060801000000150000002C070000020801000000EOOOOOOO410700000B30030000004400
+ 00002108000000550B0000003A00000065080000020801000000800100009F0800000B30030000
+ 006C0000001FOAOOOOOB3002000000440000008BOA00000055010000003AOOOOOOCFOA00000055
+ 010000003C000000090B000006080100000016000000450BOOOOOO55030000003A0000005BOBOO
+ 000055010000004E000000950B00000055020000003AOOOOOOE30B00000055080000003AOOOOOO
+ 1DOC00000055030001003A000000570C000002080000010080010000910C00000055030000004E
+ 000000110E00000055010000003A0000005FOEOOOOOOOOOOOOOOOO000000005FOEOOOOOOOOOOOO
+ 0000000000005FOE0000000000000000000000005FOEOOOOOOOOOOOOOOOOOOOOOOOOSFOEOOOOOO
+ 0000000000000000005FOE0000000000000000000000005FOEOOOO000000000000000000005FOE
+ 0000000000000000000000005FOE0000000000000000000000005FOEOOOOOOOOOOOOOOOOOOOOOO
+                                                                          Hex-Dump Conversion
+
+           PRIVATIZATION OF              FEDERAL PUBLIC ASSISTANCE PROGRAMS
+
+I.    OVERVIEW & ISSUES
+
+This paper has been prepared jointly by staff from the Departments of Agriculture (Food
+and Consumer Service), Health and Human Services (Health Care Financing
+Administration and Administration for Children and Families), Labor (Employment and
+Training Administration), and the Office of Personnel Management (OPM). The Federal
+agencies have been meeting recently to discuss the general background and issues
+surrounding privatization initiatives that are under review within the Departments and to
+explore options for making final decisions and responding to States. Decisions made
+here will set the precedents for proposals around the country.
+
+Policy Issues: To what extent should the States be permitted to transfer the
+responsibility for eligibility determination for Federal public assistance programs to the
+private sector through competitively bid contracts?
+
+Legal Issues: May the Merit System of Personnel Administration requirements,
+applicable in different ways in each statute, be waived to allow States to enter into
+contract agreements?
+
+II.   BACKGROUND
+
+There is increasing interest among the State welfare agencies in transferring the
+administration of public assistance programs to the private sector through competitively
+bid contracts. This interest stems in part from the efforts of the Federal and State
+governments to test new methods to reduce costs, to improve program services and to
+increase self-sufficiency among program recipients.
+
+Contracting or privatizing certain functions of the public assistance programs is not new,
+e.g. backroom data processing. What is new is the possibility of contracting with
+private entities to perform functions that have historically been the responsibility of the
+public sector, such as conducting the determination of eligibility and certification for
+public assistance programs like the Federal Food Stamp Program and Medicaid.
+While the new welfare law explicitly permits States to privatize TANF administration and
+service provision, no other major Federal public assistance program has such broad
+latitude. Other programs became part of this issue because typically eligibility for
+AFDC (now TANF), Food Stamps and Medicaid and a host of other programs has been
+determined by a common process and worker.
+III. THERE ARE CURRENT PROPOSALS BEFORE THE ADMINISTRA TION
+
+        I Note that eligibility for $6 billion in Pell Grants and $25 billion in student loans is routinely
+determined largely by non-Federal, non-public entities.
+
+
+
+                                                                                        DRAFT                 1
+                                                               Hex-Dump Conversion
+REQUIRING DECISIONS ABOUT THE EXTENT TO WHICH PRIVA T/ZA TION
+SHOULD BE PERMITTED
+
+A.   Texas Integrated Enrollment Services (TIES)
+
+TIES is a statewide privatization initiative of the Texas Health and Human Services
+Commission (HHSC) and the Texas Council on Competitive Government (CCG) in
+support of a State law enacted in 1995. Under TIES, the certification and eligibility
+determinations for most public assistance programs, including the Food Stamp, Special
+Supplemental Nutrition Program for Women, Infants and Children (WIC), TANF and
+Medicaid programs, would be contracted to the private and/or public sectors through
+competitive bids.
+
+USDA has determined the TIES proposal would require a waiver of the merit system.
+requirements under the Food Stamp Act. HCFA is still reviewing the extent to which
+merit system requirements must be waived. The Federal agencies and the State of
+Texas have been negotiating the conditions for releasing a Request for Offers (RFO)
+for TIES since May 1996. With the exception of a final decision about the merit
+system provisions contained in the RFO, and the role of the single State agency, all
+other issues have been resolved with regard to the draft RFO.
+
+Texas was expecting final approval of the RFO in January to be able to release the
+RFO by the end of the month. Two consortia have been developed with the intention
+of bidding on the RFO. One consortium is composed of the Texas Workforce
+Commission, International Business Machines Corporation and Lockheed Martin
+Corporation. The other consortium consists of the Texas Department of Human
+Services, Electronic Data Systems Corporation and the Unisys Corporation. Arthur
+Anderson has also indicated an interest in the proposal but has not aligned itself with a
+State agency.
+
+Wisconsin Works (W-2)
+
+Under the W-2 proposal, the State is contracting on a competitive basis with public or
+private agencies for certification actions such as gathering client eligibility information,
+conducting eligibility interviews and data input. The State, presuming the Department
+of Agriculture's approval of its waiver request of the merit system requirements for the
+Food Stamp Program, released its Request for Proposals (RFP). While the State can
+issue the RFP without USDA's approval, they will need to hear back from USDA in
+order to award the contract. State officials have advised that the contract process has
+been completed for one County (with over 60 percent of the State caseload) without the
+inclusion of the Food Stamp Program. Contracts have been awarded to six private,
+non-profit agencies.
+
+C.   Employment Services -- One-Stop Grant
+
+
+                                                                       DRAFT                2
+                                                                  Hex·Dump Conversion
+
+Legislation enacted in the State of Texas, effective September 1, 1996, provides for the
+delivery of labor exchange services that are authorized under the Wagner-Peyser Act
+and currently delivered by State employment security agencies by local workforce
+development boards and private, non-governmental providers. Thus far, Texas has
+not considered contracting out the delivery of unemployment insurance services. The
+Department of Labor has urged Texas to delay implementation until the Department's
+review is completed.
+
+In addition, the State of Massachusetts, with the Department of Labor's approval of a
+1994? grant to implement a competitive One-Stop Career Center system throughout
+the State, has awarded contracts to private-for-profit entitles to deliver labor exchange
+services in several local areas under that grant. Other States such as Montana, Utah,
+Pennsylvania, and Iowa are on the threshold of requesting similar approval.
+
+IV.   ORGANIZED LABOR RESPONSE
+
+The Departments of Agriculture and Health and Human Services have received
+numerous letters from employee unions about the TIES proposal, including the
+American Federation of Labor and Congress of Industrial Organizations (AFL-CIO), the
+American Federation of State, County, and Municipal Employees (AFSCME) and the
+Service Employees International Union. The unions assert that a waiver of the merit
+system would result in a decline of client services, including access to program benefits
+and client confidentiality. The Department of Agriculture received over 1,000 letters
+from employees in Wisconsin objecting to the W-2 project.
+
+In the case of the Texas workforce development legislation, the Department of Labor
+has received a letter from the AFL-CIO questioning the legality of privatizing
+employment services.
+
+In the Massachusetts One Stamp project, the State AFL-CIO concurred in the proposal
+but current implementation problems are raising new concerns.
+
+
+V.    THE TEXAS SITUA TION
+
+A.    Food Stamp Program--Certification and Other Program Requirements
+
+The Food Stamp Act requires certification, i.e., the application and the components of
+the eligibility determination process, to be completed by merit system employees.
+Certification, however, is not defined in statute. As supported by legislative history to
+the Act, current regulations specify that the required interview be conducted by merit
+system employees. Given the complexity and discretion that may be required in the
+food stamp certification process, the food stamp interview is crucial to accurate
+
+
+                                                                      DRAFT                 3
+                                                                    Hex-Dump Conversion
+determinations of eligibility and benefit level. It is through the food stamp interview that
+the worker solicits most household information, determines the necessity for additional
+verification or resolution of questionable information, and ascertains the need for
+appropriate policy decisions. It is also the applicant household's opportunity to have
+face-to-face contact with a public employee. Volunteers and other non-merit
+employees may assist an applicant household in other actions related to certification
+but may not conduct the food stamp interview or certify a household.
+
+During recent debate on welfare reform legislation, Congressional conferees reinserted
+the merit system provisions in the Food Stamp Act that a previous Senate bill had
+deleted.
+
+B.   Medicaid--Certification and Other Program Requirements
+
+Similar to Food Stamps, the entire application process, from taking an application to
+making the final eligibility determination, is performed almost entirely by employees of
+the State agency responsible for administering the Medicaid program. Under Medicaid
+law, States are required to establish or designate a single State agency to administer
+their Medicaid program and determine Medicaid eligibility. Moreover, the Medicaid
+statute requires that the State agency responsible for Medicaid not delegate authority to
+"exercise administrative discretion in the administration or supervision of the plan" to
+non-government entities. The regulations implementing that part of the statute also
+require that other agencies which perform services for the State agency "must not have
+the authority to ". substitute their judgement for that of the Medicaid agency with
+respect to the application of policies, rules, and regulations issued by the Medicaid
+agency."
+
+Unlike Food Stamps, the Social Security Act also provides for "outstationing", which
+allows the State to use private sector employees to perform some of the eligibility
+process at locations other than State TANF offices for certain groups of applicants.
+Outstationing was incorporated into the law to increase program access when the law
+was amended to substantially broaden the categories of eligible individuals.
+
+States have the option of staffing outstation locations with State employees or
+non-State employees (e.g., contractors or volunteers), or a combination of both.
+Because outstationing can involve the use of non-State employees to perform certain
+eligibility-related functions, Medicaid regulations--but not the law--specify which
+functions can be performed by non-State employees and which must be performed by
+State workers.
+
+Non-State employees staffing outstation locations can perform "initial processing" which
+includes: (1) taking applications; (2) assisting applicants in completing the application;
+(3) providing information and referrals; (4) obtaining required documentation; (5)
+assuring that information contained in the application is complete; and (6) conducting
+
+
+                                                                         DRAFT                4
+                                                           Hex-Dump Conversion
+any necessary interviews.
+
+Non-State employees are specifically precluded from: (1) evaluating the information
+contained in the application and supporting documentation; and (2) making a
+determination of eligibility or ineligibility. Actual evaluations and determinations can be
+made at the outstation location or at a State Medicaid agency office, but they must be
+made by a State employee authorized to make eligibility determinations for the State
+Medicaid agency.                                                           .
+
+C. Temporary Assistance for Needy Families
+
+Section 104 of the Block Grant for Temporary Assistance for Needy Families (TANF)
+specifically allows States to "administer and provide services" under titles I and II of the
+welfare reform legislation through contracts with charitable, religious or private
+organizations. Therefore, there are no prohibitions to privatization initiatives, such as
+TIES, related to merit personnel provisions for TANF. Most States have procedures
+where one generic worker may accept a joint application for food stamp, TANF and
+Medicaid benefits. If a household is determined eligible for TANF, they are
+automatically eligible for Food Stamps and Medicaid. Therefore if a State choose to
+administer the TANF program with a private contractor, large portions of Food Stamp
+and Medicaid eligibility could effectively also be privatized.
+
+D. Waiver Authority to Conduct Demonstration Projects
+
+The Food Stamp and Social Security Acts provide the two Departments with the
+authority to waive most statutory requirements to allow the States to conduct
+demonstration projects. However, because its authority for the Merit System of
+Personnel Management was transferred from USDA to OPM under the
+Intergovernmental Personnel Act of 1970, USDA would need to obtain concurrence
+from OPM prior to approving any demonstration project that would waive the Merit
+System of Personnel Management. However, HHS believes they would not need
+OPM's concurrence for such a waiver.
+
+
+
+
+E.   Intergovernmental Personnel Act
+
+For decades, a Merit System of Personnel Administration was routinely established for
+many Federal-State grant-in-aid programs as now codified within the Intergovernmental
+Personnel Act (IPA) because it was presumed by Congress that services would be
+provided directly by State or local employees who were acting in lieu of Federal
+employees. The IPA is not a genuine statute; its provisions only come into play when
+another law or regulation invokes it.
+
+
+                                                                       DRAFT                5
+                                                        HexoOump ConV\llSiOD
+
+
+While the IPA is silent on whether States or local governments may contract for
+services, the law does provide for maximum flexibility within the requirements for merit
+principles in the administration of grant-in-aid programs by grantees. However, as the
+roles of government and the relationships between the State and the Federal
+government continue to evolve, a determination must be made as to whether new ways
+of doing business can be carried out under existing laws, or whether change in those
+laws is required. While government contracting with the private sector for commercial
+products and services is not new, the Texas proposal raises the possibility of
+contracting with private entities to perform functions that have historically been the
+responsibility of the public sector. The proposal, as currently drafted, would require a
+waiver by OPM of current statutory and regulatory provisions related to the Merit
+System of Personnel Administration provision of the IPA.
+
+Aspects of the current proposals under review by Federal agencies appear to conflict
+with the general requirements of the IPA, but as noted above, the key issue is defining
+precisely what aspects of program processes are in fact covered by the IPA. Although
+OPM has not consulted with their General Counsel for a legal opinion, OPM is confident
+that it does not have authority to waive any provisions of the statute. In fact, OPM
+counsels have consistently held that OPM does not have authority to waive its own
+regulations, unless such waiver is specifically provided for in the applicable statute.
+The Administration could elect to seek legislative change if the determination of what
+processes are covered presents the need.
+
+This leads us back, then, to examining the Texas proposal and shredding out what is
+"inherently governmental" for these programs at issue and must therefore be performed
+by merit system employees, and what is commercial and can therefore be contracted
+out. The OPM General Counsel has relied on OMB Circular A-76 to define what is and
+is not an inherently governmental function for programs whose statute relies upon IPA
+coverage. Included in the definition of governmental functions are "those activities
+which require either the exercise of discretion in applying Governmental authority or the
+use of value judgment in making decisions for the Government. ... Governmental
+functions normally fall into two categories: (1) The Act of governing; .... (2) Monetary
+transactions and entitlements .... " It would appear that some contracting is appropriate
+but wholesale contracting of Food Stamp and Medicaid eligibility may raise questions of
+consistency with the intention of Congress to ensure that administration of these
+programs be conducted by employees covered by a merit system of personnel
+administration.
+
+G. Options for Texas TIES
+
+1. Allow the State to fully privatize its eligibility process, requiring only that the
+State itself certify the determination. Under Medicaid, implementing this option
+would essentially involve an administrative decision, and possibly publishing a Federal
+
+
+                                                                     DRAFT                6
+                                                                Hex-Dump Conversion
+Register Notice announcing the decision. For the Food Stamp program, this option
+would involve approving a waiver of the Merit System of Personnel Administration. It
+would also require use of the Food Stamp Program's statutory demonstration authority,
+with the necessary approval of waivers of the Merit System of Personnel Administration
+by OPM. The Agriculture Department's waiver authority for demonstrations is intended
+to test innovations and is not intended to approve long-term operational alternatives
+such as those proposed by Texas. The majority of the 15,000 employees would be at
+risk of losing at least their State merit systems protections and possibly their jobs.
+
+Approval of this option would result in additional objections from employee unions and
+advocacy groups that believe State employees will treat welfare recipients more fairly
+than contractors. It would be supported by States, the National Governors Association
+and private corporations which have formed alliances with public agencies to respond
+to the RFO.
+
+2. Require the State to perform all eligibility functions. including intake.
+processing. and making and certifying the actual determination. This option
+would effectively deny the State's request to privatize its eligibility process. Even
+though this is the most restrictive option, it may be the most legally supportable option
+for the Medicaid program, based on a restrictive reading of statutory and regulatory
+requirements involving proper and efficient administration of the program. An
+argument can be made that outstationing establishes a precedent for permitting at least
+some privatization. However, a legal counter argument could be made that the
+Medicaid statute restricts non-government eligibility activities to specific eligibility groups
+and situations and, thus, is not applicable to the TIES proposal.
+
+For the Food Stamp Program, this option would mean denial of a waiver of the Merit
+System of Personnel Administration. This option also would require the State to
+continue to be responsible for the Food Stamp interview and determinations of eligibility
+and benefit level. It is also important to note that during the recent debate on welfare
+reform legislation, Congressional Conferees reinstated the merit system provisions in
+the Food Stamp Act that a previous Senate bill had deleted.
+The Federal agencies would receive serious objections from the State and private
+corporations. Also, a denial may be viewed as inconsistent with the Administration's
+support for allowing the private sector to be more involved in the administration of public
+assistance programs.
+
+3. Approve an information system project as a stand alone effort. This option
+would allow the State to replace its outdated information systems with a new integrated
+system. Once completed, the TANF program could be administered through a private
+contractor using the new integrated information system, while eligibility for the Food
+Stamp and Medicaid programs could be handled by State employees. This approach
+would demonstrate the merits of privatization in these types of programs and not
+require a waiver of the other program rules.
+
+
+                                                                         DRAFT                7
+                                                                   Him-Dump Conversion
+
+
+This approach would require the State to fund the system development effort as it is
+being developed. Under the approach outlined in the RFO, the winning vendor would
+pay for the system development costs and then recoup its costs through administrative
+fees charged to the State once the system was operational. This option may satisfy
+the vendor community by reducing the risks associated with the up-front costs of
+developing the large system and still allow a significant privatization effort associated
+with TAr\1F and other State programs. If information sharing rules can be resolved, the
+State may be able to satisfy its cost saving goals.
+
+4. Allow the State to privatize its eligibility process to the same degree that
+privatization is permitted under the Medicaid outstationing process. This option
+would allow the State to privatize the application, interview, and information
+gathering/verification process, but require the State to do and certify the actual eligibility
+determination. For the Food Stamp Program, this option would require a redefinition of
+ "certification". The Food Stamp statute requires certification to be completed by
+merit system employees, while the Medicaid statute allows non-State out stationed
+personnel to perform some elements of the application process. States want to
+reinterpret the laws so that compliance could be achieved through the automated
+processing of data by computers which are programmed under State agency direction
+to make eligibility and benefit decisions.
+
+A middle ground could preserve more government involvement in a complex eligibility
+determination process that requires judgment. The Federal agencies could revise
+regulations (Food Stamp Program) or publish an appropriate Notice in the Federal
+Register (Medicaid) to require government review of applications and interview results
+before eligibility for benefits is determined (a process comparable to the Medicaid
+outstations, or supervisory reviews currently used by many State agencies in the Food
+Stamp Program). However, this option may not allow the States to make privatization
+initiatives financially worthwhile. The agencies do not have an estimate of how many
+State jobs would beat stake under this option.
+
+5. Approve small-scale demonstration projects. The Departments support
+privatization initiatives that may result in improved services and/or administrative costs
+savings. However, both Departments have concerns about statewide initiatives that
+have not been proven to be effective and may seriously affect program access to
+low-income households. For instance, TIES is a Statewide initiative in a State that
+issues annually approximately 10 percent of food stamp benefits issued nationwide.
+The Department of Agriculture further believes it would be imprudent to eliminate the
+interview from merit employees on a statewide basis without further testing.
+
+A demonstration limited to a small number of counties, for say 3 years, may be
+supportable by the advocacy groups. Private corporations may object or lose interest
+in small-scale demonstration projects or they could see it as the way to prove the
+
+
+                                                                        DRAFT                8
+                                                                 Hex-Dump Conversion
+
+benefits to all programs for contracting out on a larger scale. It is unclear how the
+unions and other States would react to such a compromise.        It is estimated that an
+evaluation of a Food Stamp and Medicaid demonstration would cost at least $1 million.
+
+VI RELATIONSHIP TO THE TEXAS EMPLOYMENT SERVICE AND OTHER ES
+PROPOSALS
+
+The issue of whether an entity other than the SESA may deliver basic labor exchange
+and unemployment insurance services has been raised in the context of Employment
+and Training (ETA) sponsored initiatives to build new State workforce development
+systems utilizing One-Stop Career Centers. This system building at the local level
+involves the delivery of labor exchange services under the Wagner-Peyser Act and may
+involve the unemployment insurance program for payment of benefits under the Social
+Security Act (SSA). Basic labor exchange and unemployment insurance services are
+funded through a dedicated employer tax, the Federal Unemployment Tax Act (FUTA).
+
+As noted, this Administration has already permitted Massachusetts to privatize its
+employment services, office by office, through competitive bidding.
+
+Unemployment Insurance - Contracting out of benefit eligibility determination and tax
+functions raise different conceptual issues. Arguably these functions involve much
+more use of value judgments in Government decision making than ES. However, it
+may be permissible to contract out those data gathering functions that can be broken
+out in an effective, cost-efficient manner, without deterioration of services to claimants
+and employers.
+
+The Texas proposal is largely limited to Food Stamps and Medicaid, however, policy
+makers should be aware that a decision for these programs may well set precedent for
+other public assistance programs such as Foster Care and Child Care.
+
+The merit system requirements remain in effect for the Title IV-E of the SSA (Foster
+Care). Historically, ACF has offered the State agencies administering the foster care
+program the option of contracting to private, non-profits for such administrative activities
+such as licensing, recruitment, supervision and training. ACF is currently in the
+process of reviewing the foster care statutory language to determine what effect, if any,
+the merit system standards may have on a State's ability to contract out certain
+administrative activities in the private sector.
+
+VII Related Issues
+
+Job Protection -- Successorship
+
+As stated above, one of the most significant concerns of organized labor is the risk
+State employees face under privatization. Thousands of State eligibility workers could
+
+
+                                                                       DRAFT                 9
+                                                                H~J:)lIJn{l Conversion
+
+
+lose their jobs if private employees are hired to replace them. Typically, the Federal
+Government has taken an interest in economy and efficiency, and recognizes benefits
+from the fact that a carryover workforce will minimize disruption to the delivery of
+services during any period of transition and provide the advantages of an experienced
+and trained workforce.
+
+The Clinton Administration has a clear position with regard to employees working under
+Federal service contracts. In October 1994, the President signed E.O. 12933
+"Non-Displacement of Qualified Workers Under Certain Contracts". The E.O. protects
+workers under Federal contracts from being displaced when a successor contract is
+awarded, by assuring them the right of first refusal to employment under the new
+contract in positions for which they are qualified.
+
+It is unclear whether such protections could be required of a State seeking to privatize
+Food Stamp and Medicaid eligibility workers. However, wherever possible -- especially
+under a waiver -- the programs could establish a requirement similar to the EO. These
+non-displacement protections would require successor contracts to offer those
+employees (other than managerial and supervisorial employees) whose employment
+would be terminated as a result of the new contract, a right of first refusal to
+employment under the contract in positions for which they are qualified. No employment
+openings could be filled under the contract until such right of first refusal has been
+provided. This option has not yet been explored with the program agencies.
+
+
+
+Entitlement Guarantee
+
+One of the Administration's key principles during the Congressional budget battles of
+1995 and 1996 was that Medicaid beneficiaries should retain a legally enforceable right
+to Medicaid. HCFA believes this principle could be compromised by allowing private
+contractors to make eligibility determinations. HCFA staff suggest making decisions
+about the eligibility of needy people for health care is one of the most fundamental
+functions of government. Giving so basic a function to the private sector raises
+questions about what role government legitimately serves in assuring the protection of
+the most vulnerable among us.
+
+Confidentiality
+
+As a result of negotiations between the State of Texas and Department of Agriculture,
+the RFO was revised to include language ensuring that the contractor would adhere to
+the confidentiality provisions under the Food Stamp Act and that applicants and
+recipients would have the right to fully understand how information would be used in
+determining eligibility. The RFO currently includes language specifying that the use or
+disclosure of information about applicants or clients during the screening and referral
+
+
+                                                                  DRAFT                10
+                                                         Kelt-Dump Conversion
+
+and the eligibility determination and enrollment processes shall be restricted to
+purposes directly connected with the administration of assistance programs.
+Information supplied for the purpose of determining eligibility may not be made
+available to other programs in TIES without the consent of the client. Bidders must
+demonstrate how clients will be advised of their right to confidentiality and how their
+concurrence would be obtained.
+
+While these revisions ensure compliance with the Food Stamp and Social Security
+Acts, the Departments continue to have concerns that wide-scale privatization and
+potential loss of merit system protections may undermine the client confidentiality.
+Merit Personnel systems have historically established incentives for maintaining the
+integrity of public assistance programs. It is uncertain how privatization would
+influence the relationship between case workers and clients.
+
+Conflict of Interests in Policy
+
+It should not be assumed that a public employee would be more interested in operating
+public assistance programs better than a private employee on the basis of his or her
+status as a merit employee. However, private employees hired to carry out the TIES
+system may be affected negatively if the contractor does not realize a profit. The profit
+incentive raises numerous questions regarding the effect such wide-scale privatization
+would have on employees who are responsible for the determination of eligibility as well
+as the effect on overall client services. For instance, the TIES RFO proposes to use
+client surveys to measure the contractor's performance. Will the interest in maintaining
+client satisfaction increase a caseworker's incentive to approve benefits, even if
+questionable information about the applicant's eligibility exists? Would profit incentives
+alter the current incentives out stationed non-merit employees have for their role in the
+Medicaid certification process?
+
+Also, a conflict of interest may be created by the increased flexibility provided to the
+States through the Personal Responsibility and Work Opportunity Reconciliation Act
+(PRWORA) of 1996. While the State of Texas retains the authority to establish
+program policy decisions, the State may come under heavy influence by the contractor
+to approve policies that assist the contractor in containing costs, possibly at the
+expense of client services.
+
+State/Contractor Program Responsibilities
+
+Under the proposed TIES RFO, the State maintains responsibility for developing
+program policy, conducting Quality Control (QC) reviews and fair hearings. The TIES
+contractor is responsible for implementing program policy. The TIES system,
+therefore, adds an additional level to the current bureaucratic structure. The FCS and
+the State of Texas have negotiated revisions to the RFO to clarify Federal/State and
+State/Contractor relationships. However, the Departments continue to have serious
+
+
+                                                                     DRAFT                11
+                                                            ftelt.JJli.rllfl Conversion
+ concerns about the increased complexity of the certification process under a Statewide
+ privatization initiative and whether any resulting barriers to participation would be
+ created as a result of these split relationships. These relationships may become even
+ further complicated if the responsibility for the certification process becomes split
+ between State and contract employees.
+
+ Risk of Loss
+
+ The draft TIES RFO specifies the financial incentives for good performance and fiscal
+ penalties for poor performance. One financial penalty to the contractor is the liability of
+ QC sanctions. The Department and State of Texas have negotiated additional
+ language that clarifies that the Federal Government will continue to hold the State liable
+ for the QC sanctions and that the Federal and State governments would be responsible
+ for negotiating the resolution of any Federal QC liability.
+
+ The Departments have concerns that the contractor may have more interest in cost
+ savings and less interest in resulting QC liabilities. Should a contractor experience a
+ financial loss due to a QC liability, the potential for litigation between the State and
+ contractor would appear to be great. The Departments also share concerns about the
+ potential of increased litigation between the State and contractor if the certification
+ process becomes a joint responsibility between State and private contract employees.
+ The Departments have concerns about how these potential conflicts would affect the
+ ongoing operations of the Food Stamp and Medicaid Programs throughout the State.
+
+ Payment Arrangements
+
+  The contract as described in the Request for Offer (RFO) draft provides for a cost
+  incentive formula for payment to the supplier. The proposal being contemplated is a
+  Fixed Price Incentive Fee/Performance Fee contract based on a 60/40 share ratio cost
+  incentive formula for the State and the Supplier. Payment to the selected supplier will
+. be monthly at 80% of the negotiated billing amount. The State will review the supplier's
+  cost and performance for every three-month period throughout the term of the contract.
+  In the event the supplier's incurred costs in any given three-month period are less than
+  the total costs contained within the negotiated billing amounts for the same period, the
+  supplier will earn and be paid an additional fee in an amount equal to 40% of the cost
+  underrun of the three-month period.
+
+ Conversely, if the supplier-incurred costs are over the total costs contained within the
+ negotiated billing amounts for the three-month period, the supplier's fee for that period
+ will be reduced by an amount to equal 60% of the cost overrun for that period. In
+ either case, every three months, the supplier will be paid all costs not paid against the
+ three monthly billings plus fees adjusted up or down to reflect its increase or decrease
+ resulting from the application of the 60/40 share ratio formula, subject to an absolute
+ price ceiling of 110% of the total contract price for the three -month period. In no event
+
+
+                                                                      DRAFT                 12
+                                                                Hek.btIn1p rnn~
+shall the supplier be paid, for any given three-month period, a total amount greater
+than the ceiling price established for that period.
+
+In addition to the above cost incentive, the State will negotiate a portion of the total fees
+available for performance incentives. This will be done on a quarterly basis and the
+award determination is unilateral and not subject to dispute by the Supplier.
+
+Because Medicaid and Food Stamps pay for the actual cost to the State programs of
+acquiring this system, the above payment arrangement would be eligible for Federal
+Financial Participation (FFP).                       .
+
+Potential Financial Conflicts of Interest
+
+Under CFR 45 Part 74 in Subpart E, section 74.81 (Prohibition against profit) no HHS
+funds may be paid as profit to any recipient even if the recipient is a commercial
+organization, and HHS feels that this could be cited as a basis for limiting the payments
+in the above described situation to the costs of the State governmental agency.
+
+The RFO may permit a situation that could give rise to a potential conflict of interest.
+The terms of the RFO are such that it permits a potential supplier to be a State
+governmental agency. In this situation (where the supplier is a State governmental
+agency) the State shall propose an interagency contract with the supplier in accordance
+with the Interagency Cooperation Act, Chapter 771, Texas Government Code. In
+otherwords, the State would not pay the contractor for services to be performed by the
+subcontracting State agency. Rather, the State will pay the supplier/sub-State agency
+directly.
+
+This scenario could result in payments to the supplier/sub-State agency in an amount
+that would be in excess of what had been paid when the State was performing the
+same functions. Consequently, the payments made could be in excess of the cost of
+providing the services. This may create an opportunity for intergovernmental transfers
+(IGTs) which could return a portion of the State's payment to the sub-State agency
+back to the State to be re-used for the State's share of the match for additional
+Medicaid expenditures.
+
+According to CFR 45 Part 74 in Subpart E, section 74.81 (Prohibition against profit) no
+HHS funds may be paid as profit to any recipient even if the recipient is a commercial
+organization. Profit is any amount in excess of allowable direct and indirect costs.
+This could be cited as a basis for limiting the payments in the above described situation
+to the costs of the State governmental agency.
+
+
+
+
+                                                                       DRAFT                    13
+                         H~ Convezsion
+
+
+
+
+Document: TEXCOMB1.WPD
+Disk: m:\ept
+2/26/97
+
+
+
+
+                                  DRAFT                 14
+
+

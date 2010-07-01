@@ -1,0 +1,122 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Sarah A. Bianchi ( CN=Sarah A. Bianchi/OU=OPD/O=EOP [ OPD 1 )
+
+CREATION DATE/TIME:20-JUL-1998 10:46:21.00
+
+SUBJECT:   guidance on today's medical privacy story
+
+TO: Darby E. Stott ( CN=Darby E. Stott/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Elizabeth R. Newman ( CN=Elizabeth R. Newman/OU=WHO/O=EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Nanda Chitre ( CN=Nanda Chitre/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Barry J. Toiv ( CN=Barry J. Toiv/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Jeanne Lambrew ( CN=Jeanne Lambrew/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Barbara D. Woolley ( CN=Barbara D. Woolley/OU=WHO/O=EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Lawrence J. Haas ( CN=Lawrence J. Haas/O=OVP @ OVP [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: David W. Beier ( CN=David W. Beier/O=OVP @ OVP [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Stacie Spector ( CN=Stacie Spector/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Ann F. Lewis ( CN=Ann F. Lewis/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Thomas A. Kalil ( CN=Thomas A. Kalil/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Lori L. Anderson ( CN=Lori L. Anderson/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Julia M. Payne ( CN=Julia M. Payne/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Joseph P. Lockhart ( CN=Joseph P. Lockhart/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Melissa G. Green ( CN=Melissa G. Green/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Jake Siewert ( CN=Jake Siewert/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Toby Donenfeld ( CN=Toby Donenfeld/O=OVP @ OVP [ UNKNOWN 1 )
+
+
+READ: UNKNOWN
+
+TO: Kevin S. Moran ( CN=Kevin S. Moran/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+TO: Eleanor S. Parker ( CN=Eleanor S. Parker/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+TO: Michelle Crisci ( CN=Michelle Crisci/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D17]MAIL45303840D.226 to ASCII,
+ The following is a HEX DUMP:
+
+FF5750437004DDDDOI0A020100000002D5DDDOOOF5DDDDOOOD020DOD88BDE08F013F2739E263BO
+5873E3BC2EC9BDC6DD19337EC44B182C4D39B07811D3DEIAI08623497BE7F16DE2D5B6757676BE
+213148D5D23DE7188F68D628875C70162796F875AB34371C5823FD3634FE57C3A640C6DFIIIBA6
+3A78FC8D73FC5B77899BC5BODIFF674C32CIFF4DFBB8F8DAB465215A00532F23B87A6D9B38EA5A
+     American?
+
+A:   No. To the contrary, we do not want to do anything in this area until we have held public
+     hearings on this issue and until there are federal privacy protections in place.
+
+     As directed by the Congress through the Health Insurance Portability and Accountability
+     Act of 1996 (Kassebaum-Kennedy), we are looking into adopting standards for providing
+     for unique health identifiers to help improve electronic transfer of health and billing
+     infonnation.
+
+     In response to the law, HHS has already made regulatory proposals to create identifier
+     numbers for employers and providers, and is developing proposals for insurers.
+     However, providing a health identifier number for each individual is a far more complex
+     issue and raises serious privacy concerns.
+
+     For that reason, we have delayed any movement so that we can develop consensus as to
+     how to proceed in this area. The only action we have taken to date is to establish a
+     process so that we can fully consult with all parties, particularly consumers. We intend
+     to hold hearings on this issue in short order even before we issue a proposed rule.
+
+     We would advise against implementing individual identifiers before establishing
+     comprehensive privacy protections. Last fall, the Secretary ofHHS made
+     recommendations for Federal privacy protectipns, and we have continually called on
+     Congress to pass legislation in this area. The HHS Advisory Commission has advised
+     against implementing these protections before we have established privacy protections.
+     However, we will consult with all interested parties as to how best to proceed.
+
+
+
+
+                                              Automated Records Management System
+                                              Hex-Dump Ccmvmion
+
+

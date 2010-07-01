@@ -1,0 +1,254 @@
+ RECORD TYPE: PRESIDENTIAL     (NOTES MAIL)
+
+ CREATOR: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP [ OPD ] )
+
+ CREATION DATE/TIME: 4-JAN-1999 09:11:12.00
+
+ SUBJECT:   Welfare to Work Reauthorization
+
+ TO: Elena Kagan      CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+ READ:UNKNOWN
+
+ TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO]       )
+ READ: UNKNOWN
+
+ TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ] )
+ READ:UNKNOWN
+
+ CC: Andrea Kane ( CN=Andrea Kane/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ:UNKNOWN
+
+ TEXT:
+ We need your reaction to these issues. Here's a copy again in case yours
+ got buried.
+ ---------------------- Forwarded by Cynthia A. Rice/OPD/EOP on 01/04/99
+ 09:11 AM ---------------------------
+
+
+
+
+ Cynthia A. Rice
+ 12/17/98 01:27:52 PM
+ Record Type:    Record
+
+ To:      Bruce N. Reed/OPD/EOP, Elena Kagan/OPD/EOP, Laura Emmett/WHO/EOP
+ cc:      Andrea Kane/OPD/EOP
+ Subject:         Welfare to Work Reauthorization
+
+ Here's our write up with some specific questions for you. Happy to meet
+ to discuss (I left a message for Cathy to try to get a time)
+
+
+
+ ==================== ATTACHMENT   1 ====================
+ ATT CREATION TIME/DATE:   0 00:00:00.00
+
+ TEXT:
+ Unable to convert ARMS_EXT: [ATTACH.D35]MAIL40300530Z.036 to ASCII,
+  The following is a HEX DUMP:
+
+ FF5750431C2C0000010A020100000002P5000000EE66000000020000909CA87327A1BA24C1E028
+ CB4775B6A5CC668DE728987D7DC31C44E7BC866D7A357D2532B2BFDC168017BEF05ED4BB952A7B
+ 1EB2913D4C7B45821CE340A301587D9CBF69DA063BOB95964DD5867DEEEBA81DD84029D94F31A8
+ F80146CEACCAA3E19F464C44BEA80B1CA465DBE7FB1FD842DCEC2D7169CD869BEC4029032C8F48
+ 18B355697D1D7AE7C05A890D3FB8D39E09557B43D2D21C8CEE77522F3E48EFC092F825E440374B
+ 41D2D7625D2B9B4A92911CF1CB43A5DCB2043D6847B07BF494A770A869D8B649AFA9AA40AE9740
+ CACOD66B6B6ADE6E4E72338EE52CBA99F53FA5FFB23AD766EBAOBBCC8403C5294D2FOCCD50A2ED
+ 8F2D75721F1660568684D5DD47A24D4FB2F25E10E5D50C216F736FCA89BAD21E62C03CC59C676A
+ 800791084B83B86490D7463FE78C26039719C4A80D1B31965D3D41525A5A04D5F3EDAF36CD70D1
+ 559E31C2857F62DF8BA986EC574EE67837F6970A95487F796E6B49EEFD6C10C587DC1D070C2467
+ E05EFEEC582471F9CC1F28D59D1DA1871E637FA52FD4EF3953F859E83FD45E4F3B062BBD3EA4D2
+                                                                                     Hex-Dump Ccnversion
+                    Welfare to Work Reauthorization -- Proposed Provisions
+             (See italics for issues where your reaction would be particularly helpful)
+
+Responsible Fathers Initiative
+
+·     Funding Flow: Require states to use at least 20% of their fonnula funds for services to help
+      non-custodial parents increase their employment and child support.
+
+      We think it makes sense to include the funding for Fathers as part of the WtW fonnula grant
+      rather than a separate funding stream--do you agree? It ensures a significant amount of
+      resources and attention are focused on this population without creating yet another employment
+      program (after we worked so hard to .consolidate in the Workforce Investment Act). The
+      downside is that it may be slightly harder to talk about.
+
+      This is also a clever resolution ofthe substate funding options we raised previously.
+      Governors could choose whether to meet the 20% floor with a few concentrated projects or to
+      pass this requirement down to every local PIC. A Governor who does not want to have a
+      statewide fathers initiative could spend most or all of the Governor's 15% discretionary funds
+      on fathers and make up the remaining amount by encouraging one or two localities to focus on
+      fathers (not every PIC is ready or willing to have a fathers program). On the other hand, states
+      such as MI, WI, and MO who have made non-custodial parents the primary focus of their WtW
+      fonnula program could still do so.
+
+      Options for what happens if state does not meet the 20% floor for fathers could include: a)
+      allow Governor to redirect funds to basic WtW services for hard-to-serve recipients, b) take
+      back funds and put in same pot as unclaimed fonnula funds (see below), c) give to other states
+      who commit to spend these funds on fathers. Any preference?
+
+·     Eligibility: Generally, low income non-custodial parents (primarily fathers) who enter into a
+      personal responsibility contract. States would have some flexibility to target services among
+      the following groups, listed in priority order. Eligibility would be tied to status of the children
+      rather than the parent.
+
+      Non-custodial parents of:
+      (1) children on public assistance for over 30 months or who are within 12 months of hitting a
+      time limit;
+      (2) child eligible for TANF;
+      (3) child who left TANF within one year;
+      (4) child eligible for food stamps or Medicaid (this would allow services to a broader
+      population oflow-income fathers).
+
+      We think this approach would keep eligibility relatively simple, while targeting services to
+      fathers who are most likely to need help increasing their employment and child support and
+      whose children are most in need of their fathers' support. Ifyou support this basic approach,
+       we will work further with DOL and HHS to refine the details.
+                                                                                 Hex-Dump Conversion
+    Personal Responsibility Contract: Every father would sign a personal responsibility contract
+    requiring them to establish paternity, pay child support, and work or participate in community
+    service or another work activity in order to participate in the program. We need to decide how
+    prescriptive to be in the statute -- we're inclined to make a general statement like the
+    sentence above and let the rest be defined in regs or by the locals. What do you think?
+
+    We would also propose these state options. What do you think?
+
+           If a father is in community service or another work activity and temporarily unable to
+           pay current support, the state could have the option to temporarily suspend or reduce
+           current child support obligation (not past due support).
+
+           If a father has another child out of wedlock, the state would have the option to deny him
+           services. This would be consistent with the state option on family cap, which is a
+           roughly parallel policy for the moms.
+
+           If a father marries the mother of his child, the state could cancel or suspend the child
+           support debts the father owed the State for past TANF payments to the mother.
+
+·   Allowable Activities: Use the same list as the current WtW statute, which allows funds to be
+    used to move individuals into and keep individuals in lasting unsubsidized employment
+    through: community service or work experience; job creation through public or private sector
+    wage subsidies; on the job training; job readiness, placement, and post-placement services
+    through contracts or vouchers; and job retention or support services if not otherwise available.
+
+    Through regulation or guidance, DOL could explain how a broader array of services to help
+    fathers work and meet their child support responsibilities could be provided within the
+    definition of job readiness and support services. Child support agencies and community and
+    faith-based providers could deliver some or all of the services under contract with the state (in
+    the case of 15% discretionary funds) or PICs (in the case of85% formula funds). We think
+    this approach will promote a strong focus on work, and avoid opening the statutory definition
+    of allowable activities. Do you agree with this approach?
+
+·   Performance Measures: Use current WtW measures listed in the statute (employment,
+    retention, earnings gain) and use the existing statutory authority for the Secretary to identify
+    other measures as appropriate to add increased child support via regulations. Is this okay, or
+    would you prefer a statutory change?
+
+·   State Plan: There would be a special part of the State WtW plan focused on fathers developed
+    jointly with the workforce, child support and TANF agencies. It would document how the state
+    planned to meet the 20% floor, and how it would ensure strong, ongoing coordination with the
+    child support system, welfare agency, . and community and faith-based groups working on
+    fathers issues at both the state and service delivery level. DOL proposed that the child support
+    agency sign off on the WtW plan to ensure adequate attention to issues related to non-custodial
+    parents. This seems to make sense.
+
+
+                                                 2
+                                                                                     Hex-Dump Conversion
+
+Other WtW Reauthorization Proposals
+
+·     Duration: DOL has proposed 5 year reauthorization. Are we supporting only a one year
+      extension or multi-year reauthorization?
+
+·     Hard-to-Serve Eligibility Criteria: Retain the general focus on the hardest to serve, with some
+      changes to make the criteria less burdensome. Currently, PICs must spend at least 70% of
+      their funds on individual who (a) have been on public assistance for at least 30 months or are
+      within 12 months of hitting a time limit and (b) have 2 of the 3 following barriers:
+      (1)     lack a HS diploma/QED and have low math or reading skills;
+      (2)     require substance abuse treatment; or
+      (3)     have a poor work history.
+      Non-custodial parents whose children meet (a) and themselves meet (b) arealso eligible.
+
+      PICs can also spend up to 30% of their funds on custodial or non-custodial parents who have
+      characteristics associated with long-term welfare dependency, i.e. school dropout, teen
+      pregnancy, poor work history.
+
+      DOL has proposed simplifying eligibility by requiring individuals to meet one rather than two
+      of the "barriers"under the 70% category; decoupling the education barrier to be either lacking a
+      HS diploma/QED or having low math, reading, or language skills; and adding physical or
+      mental (including learning) disability to the list of "barriers". DOL also proposed getting rid of
+      the 70/30 split and allowing local flexibility to spend an unlimited portion of funds on those
+      with characteristics associated with long term welfare dependence.
+
+      There have been lots of complaints from states and locals about how hard it is to find people
+      who meet the current 70% criteria, with most concern about the "and" in the education barrier.
+      We think that simplifying the 70% eligibility requirements as proposed, but leaving the 70130
+      split intact, will go a long way to addressing these concerns without diluting the focus on the
+      long-termlhard to serve population. The addition of language skills should help highlight the
+      ESL issue. DOL also proposed adding homeless to the list of barriers but we're not
+      convinced this is necessary--most homeless welfare recipients are likely to have one of the
+      other barriers.
+
+·     Unclaimed Formula Funds: Add authority for DOL to make formula funds not accepted by
+      states available to Native American WtW programs and/or for additional ~ompetitive grants,
+      with preference to tribes or competitive grants in the states who chose not to accept formula
+      funds. DOL is still working through the mechanics, but we think the intent makes sense--to
+      make sure services are still available to people in a given area, even if the Governor opts not
+      to accept funds.
+
+·     Tribal Set-Aside: Increase set-aside for tribal grants from 1% of total funds to either 2% or 3%
+      (if funding level drops from $1.5 B to $1.0 B, a 3% set aside would double the funds available
+      to tribes). Tribes would be encouraged to serve non-custodial parents, but would not be
+      required to spend at least 20% of their grant on this population.
+
+
+                                                  3
+                                                                                Hex-Dump Conversion
+
+·      Tribal Authority for Competitive Grants: Provide new authority for tribes to apply directly
+       to DOL for competitive grants. Currently they must do so "in connection with" other entities,
+       i.e. the local PIC.
+
+·      Reporting and Evaluation: DOL wants to move responsibility for all WtW program reporting
+       and evaluation to DOL. Current law earmarks .06% ($18 M over two years) for evaluation and
+       gives HHS responsibility for conducting the WtW evaluation and for collecting program data
+       from formula grantees, while DOL has overall administrative responsibility, collects program
+       data from competitive grantees, and financial data from both formula and competitive grantees.
+
+       This 'bifurcated' system has been challenging for all involved. We're not sure how HHS would
+       feel about losing this responsibility, and there are some on the Hill who deliberately gave HHS
+       this role. We propose to leave the evaluation with HHS. Do you have a preference?
+
+·      Match: Retain current formula grant match requirement of$1 non-federal for $2 federal.
+       Regulations allow up to 50% of non-federal match to be "soft" or in-kind match. DOL has
+       proposed increasing this to 75%.
+
+       DOL is responding to complaints from some states who are having trouble making the match.
+        We're not convinced reducing the "hard" match requirement is warranted, especially if the .
+       total funding level for formula grants is reduced by approximately one-third as the total
+       funding level decreases from $1.5 B to $1.0 B.
+
+·      Technical Assistance and Research: DOL has proposed reserving 2% of total funds for
+       national TA and R&D projects ($20 M). Half of this money ($10 M) would be focused on
+       fathers initiatives, of which about $5 M would be directed to the OCSE to ensure a strong focus
+       on parental responsibility through child support and paternity. DOL currently has no WtW
+       funds for TAIResearch. We're not sure OMB supports this, though some TA does seem
+       warranted, especially on the new fathers component. OCSE is sending over additional
+       justification.
+
+·      Formula/Competitive Split: Retain current split of about 75% for formula grants to states and
+       25% for competitive grants. Retain requirement that 85% offormula funds get passed to local
+       PICs/workforce boards (unless state requests a waiver) and 15% is available as Governor's
+       discretionary funds for special projects to help long term welfare recipients become employed.
+
+NOTE: DOL continues to propose that up to one-third of the form ula fun ds could be used to
+upgrade the skills of low-wage incumbent workers. We're not aware of any support within EOP for
+this proposal, and DOL has wisely made it their third priority (after hard-to-serve welfare recipients
+and fathers).
+
+
+
+
+                                                  4
+
+

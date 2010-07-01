@@ -1,0 +1,168 @@
+RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+CREATOR: Christopher C. Jennings ( CN=Christopher C. Jennings/OU=OPD/O=EOP [ OPD ) )
+
+CREATION DATE/TIME: 6-FEB-1999 03:33:17.00
+
+ SUBJECT:   Grijalva memo
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ) )
+READ: UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO)     )
+READ: UNKNOWN
+
+TEXT:
+This was a hard one to write short and well. There are too many important
+facts that I believe the POTUS would want to have. Elena, you always say
+you would rather have more than less. Hope this gives you a good start.
+I have no doubt you will improve.
+
+ I am out of here.   Page me if you need me.
+
+cj
+
+
+p.s.   Sorry for my ignorance about the law and legal process.
+
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D70)MAIL42470404B.036 to ASCII,
+ The following is a HEX DUMP:
+
+  FF575043DE040000010A0201000000020500000099280000000200007E099E1BB657D6570A5704
+  657E74B3BAE7B4DA802B93632B1EOD30A2941C41D62FOFA32844ADFB3242FB86C55255E9C82557
+  65583632B279D21074F2A839AFEEF6EF09C2F38F406B678C6DA47B84316D1DA10076F100B8E373
+  1A71E6007978A6E5D89BF3CEB989398D584513DEOE01E22A5471E89A35B3C40298782363A858D9
+  1EAOEA17EFD6F8A2F1D684C5C1EC54936A717A5F2D9DB67DFFC4692124F6C03324D7E955A81BD7
+  B516E14F53C7D890AF7799E81F3D775C1DB185DBDDE919347968D14B1E9D37D376674596432389
+  43E807F15EA753E8CA0891AE47AD88FA5B64CE54195AFBOE38FF724FCFDC3150D3EFOA82E4CA16
+  C6637A67E3CBOED164E17C17EC8A1A30E7CD0759DCB12194407495109141B63C391F7D39182897
+  D05D5913770D85D28EF265BBFF59143B6A474D3D7B6FE385AB441C3OE2DD56B220AC70609335BO
+  64F7AEE40CFD01DDC5F703EA578D3BE9ADOFOB3A9B2D020DDD7EODAOC6BBBA63AAC72E96A7029E
+  7A79F5El197C03036DC876CF7A3BB17E5E4A230F6FA888C3090C92B6F2E8BBA8DB604466B9E5B3
+  30345A8E7E85DD7F1AA46BAC1ADOEF53ED60F304719C1D52512FCD2A8995DB3A9C17376CE9E045
+  BE702ACE2D3EC226DCB33779546ADF8BOF46CF653400AB7BE21524C18443041DC2756D3BA04EF5
+. 332D07BFB702000B00000000000000000000000823010000000BOI00009A020000005502000000
+  4EOOOOOOA503000009250100000006000000F30300000B300200000028000000F9030000087701
+  000000400000002104000008340100000014000000610400000802010000000F00000075040000
+  08050100000008000000840400000055010000003C0000008C04000006080100000016000000C8
+  04000000984C006F00630061006C0020004C0061007300650072004A0065007400200035000000
+  000000000000000000000000000000000000000000000000000000000000000000000000000000
+  0057494E53504F4F4COOOOOOOOOOC800C8002C012C012C012C01C800C800300000000000000000
+  000000000000000000000000000000000000000000000000000000000000000000000000000000
+  000000000000000000000000000000000000000000000000000000000000000000000000000000
+  000000000000000000000000000000000000000000000000000000000000000000000000000000
+                                                                    Hex-Dump Conversion
+
+                                     DRAFT: February 6, 1999
+
+
+MEMORANDUM TO THE PRESIDENT
+
+FROM:
+
+SUBJECT:
+
+
+Last night, advisors from the DPC, the Counsel's office, Legislative Affairs, the VP's office, OMB
+and HHS met to discuss a time- and politically-sensitive issue: the intention of the Solicitor
+General (SG) and HHS to petition for a writ of certiorari to the Supreme Court in Grijalva v Shalala
+by Wednesday, February 10th. This petition was drafted to document the Department's and the
+SG's objection to the Court's ruling that concludes Medicare managed care plans are an extension
+of the government (and therefore "state" actors), thus required to provide their enrollees with
+Constitutional due process. HHS also objects to the Court-defined, burdensome and sometimes
+counter-productive patient protections, which it imposed via injunction on the Department (and, by
+extension, all Medicare managed care plans in the nation).
+
+Although we understand the Departments' position and sympathize with the burdens the Court's
+ruling imposes, we raised serious reservations about how their petition would be received on the
+Hill and by many consumer advocates. Beyond handing over a public relations gift to the
+opponents of the Patients' Bill of Rights, we voiced our concerns about the potential impact a ruling
+in the Department's favor may eventually have on current law's much weaker Medicaid entitlement
+protections. The following provides you background information on this issue and a summary of
+the options we are considering.
+
+BACKGROUND
+
+In 1997, the Ninth District Court ruled that when a Medicare HMO denies a claimed benefit
+for a beneficiary, the denial is tantamount to a government action. As such, the beneficiary
+would be entitled to full due process under the Constitution. The District Court also found that
+the Medicare appeals rights in place in 1993 were wholly inadequate and unconstitutional, and
+entered a mandatory injunction that imposed detailed new requirements. HHS appealed this
+decision, and its most recent request for a rehearing at the circuit court was denied in December
+ 1997. Thus, without any other action, this injunction will go into effect on March 4, 1999.
+HHS is planning to ask the Supreme Court to grant that the case be vacated and remanded to the
+court of appeals, on two grounds. First, they argue that a case pending before the Supreme Court --
+American Mutual Insurance Company vs. Sullivan -- will have implications for this case, since it is
+also about the issue of "state action" and the Constitutional right of due process. The Solicitor
+General argues in the Sullivan case that, unless certain criteria are met, private government
+contractors are not considered state actors. Because HHS believes that Medicare HMOs should not
+be considered state actors and because this case has the potential to set a new standard for
+determining when to apply Constitutional due process rights, it will ask the Court to allow Grijalva
+to be reconsidered in light of its ruling in Sullivan. Second, HHS argues that the new Medicare
+rules, passed after the injunction and implemented quite recently, dramatically expand the
+                                                                          Hex-Dump Conversion
+
+procedural protections for Medicare beneficiaries in managed care plans, thus superseding the
+defects in the Medicare program that prompted the initial petition.
+
+DISCUSSION
+
+HHS's primary reason for filing this petition is its concern that the court has imposed a burdensome
+set of appeals process requirements inconsistent with its current policies. Its examples of these
+extra requirements include the obligation for a health plan to continue providing a health care
+service during the appeal, and the extensive notice requirements for changes and/or denials of
+benefits. More generally, it is concerned about the court's intrusion upon the legislative and
+executive branches' authority to determine Medicare's appeal processes. Privately, HHS also fears
+that managed care plans will pull out of Medicare at an even greater rate than last year because of
+increased regulatory burdens and the fear oflawsuits.
+
+While HHS's concerns with the content of the injunction may be justifiable, it places the
+Administration in an extremely awkward position. The Department is, in essence, arguing that the
+extra protections the injunction requires are excessively burdensome to the program and would
+needlessly raise costs without improving quality. This is virtually the same argument private health
+plans are making against the Patients' Bill of Rights on the Capitol Hill. Moreover, while HMOs
+might argue that an unfavorable ruling would increase regulatory burdens and expose them to more
+litigation, the very patient protections they complain about would probably preclude probems
+making it to the courts. It is importantto note that there have been extremely few court cases to
+date -- even with lesser patient protections in place.
+
+There is also a larger question of whether private plans in Medicare -- or other Medicare contractors
+or Medicaid managed care plans, for that matter -- should be considered state actors. Since the
+Medicare statute contains enforceable rights to eligibility, benefits, and now an appeals process, it
+can be argued that the Constitutional due process right serves as a floor or minimum that may no
+longer be needed. However, it is possible that, in the future, the laws will change, leaving the
+beneficiary with fewer rights than the private right of action ensures.
+
+More dangerous is the implication ofthis petition for Medicaid. Unlike Medicare, Medicaid relies
+solely on the private right of action; there is no other mechanism to remedy the denial of services,
+eligibility or any other statutory requirement. It is this right that we fought for in the Medicaid
+block grant debate in 1995, when RepUblicans proposed replacing it with state appeal process.
+Thus, if we argue that Medicare beneficiaries in private managed care plans have no private right of
+action, by extension, nor do the 50 percent of Medicaid beneficiaries in managed care plans. Thus,
+the Grijalva petition could have the unintended effect of undermining the Medicaid entitlement.
+
+OPTIONS
+
+While HHS recognizes the risks associated with their petition, they would like to file it with a
+detailed argument against considering Medicare managed care plans as state actors. At our meeting
+last night, however, HHS implied that the Secretary would open to modifying their petition to
+simply reference the Sullivan case rather than make extensive arguments about its applicability to
+the Grijalva case. This would have the cosmetic effect of taking out controversial arguments that
+will inflame advocates; it could have the real effect of decreasing the likelihood that the Sullivan
+                                                                         Iiei\-D~mp   Conversion
+case would apply in the rehearing. Bruce, xxx, think that this would.
+
+An alternative is to not file the petition at all, and request that the circuit court modifies its
+injunction to include the new Medicare appeals process. This is a risk; if the court does not change
+the injunction, HCFA will have to change its nationwide appeals system in the course ofa month.
+However, in the long-run it may protect a more important issue -- the private right of action in
+Medicare and Medicaid. Elena, Chris, xxx.
+
+

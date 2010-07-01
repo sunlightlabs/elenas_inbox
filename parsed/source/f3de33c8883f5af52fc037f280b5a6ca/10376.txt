@@ -1,0 +1,87 @@
+      RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+      CREATOR: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP [ OPD ] )
+
+      CREATION DATE/TIME:11-DEC-1998 14:36:40.00
+
+      SUBJECT:   Revised tobacco chart per Bruce's voice mail
+
+      TO: Cathy R. Mays ( CN=Cathy R. Mays/OU=OPD/O=EOP @ EOP    OPD ] )
+      READ: UNKNOWN
+
+      TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+      READ: UNKNOWN
+
+      TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO]    )
+      READ: UNKNOWN
+
+      TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ] )
+      READ:UNKNOWN
+
+      TEXT:
+      Is this what you meant by Option 3? ==================== ATTACHMENT    1 ============
+      ATT CREATION TIME/DATE:   0 00:00:00.00
+
+      TEXT:
+      Unable to convert ARMS_EXT: [ATTACH.D81]MAIL48993384Q.326 to ASCII,
+       The following is a HEX DUMP:
+
+      FF5750432A120000010A02010000000205000000203B00000002000052E139F984A6055696A646
+      969E59654358808348F2CE2A29AAB6DFEBF8FD8195C39185CF167E5933262937657AFD4F5E4181
+
+                                                Tobacco Tax Options
+                                                 (revenue in billions)
+
+
+                                        FY         FY           FY         FY           FY          FY          Five
+                                        1999       2000         2001       2002         2003        2004        Year
+                                        10/1/98-   10/1/99-     10/1/00-   10/1/01-     10/1/02-    10/1/03-    10/1/99-
+                                        9/30/99    9/30/00      9/30/01    9/30/02      9/30/03     9/30/04     9/30/04
+
+      50 cent increase,                 0          4.5          6.2        6.2          6.4         6.7         30.0
+      Option A
+      (effective 111100)
+
+      50 cent increase,                 0          6.0          6.2        6.2          6.4         6.7         31.5
+      Option B
+      (effective 10/1/99)
+
+      Accelerate current law            0          1.1          .7         .2           0           0           2.0
+      increase, Option 1
+      (15 cent increase 10/1/99)
+
+      Accelerate current law            .6         .9           .7         .2           0           0           2.4
+      increase, Option 2
+      (10 cent increase 6/1/99 with
+      another 5 cent increase 1/1/00)
+
+      Accelerate current law            1.65*      1.1          .7         .2           0           0           3.65*
+      increase, Option 3
+      (15 cent increase 1/1/99)
+
+      Waive Recoupment                  -0         -1.1         -1.7       -1.9         -2          -2          -8.6**
+      Outlays (BA is $2/yr)
+
+      Waive Recoupment                  -0         0            -1.1       -1.7         -1.9        -2          -6.6**
+      (Delay until FY 200 I)
+                                                        ..
+     * Not an OMB score.    Assumes 3 months at 15 addItIonal cents obtams $550 nulhon (as Imphed by $1.1 bi FY
+     2000 score for option I which adds 3 months 'at 15 additional cents and 9 months at 5 additional cents.
+     ** Subtotals don't add to totals due to rounding,
+
+     Under current law , the tax will increase 10 cents on 1/1/00 and another 5 cents on 111/02
+                                        1/1/99         6/1/99         10/1/99     111100       111/01          1/1/02
+
+      Current law increase              0              0              0           10           10              15
+
+      Accelerate: Option 1              0              0              15          15           15              15
+
+      Accelerate: Option 2              0              10             10          15           15              15
+
+      Accerlate: Option 3               15             15             15          15           15              15
+     12/11/983:0Opm
+
+                                                                                       Automated Records Management System
+                                                                                       Hex-Dump Conversion
+
+

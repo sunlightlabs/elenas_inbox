@@ -1,0 +1,243 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP [ WHO]     )
+
+CREATION DATE/TIME:14-NOV-1997 19:18:11.00
+
+SUBJECT:   Weekly as of 7:1511/14
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D47]MAIL45913771V.316 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043F80F0000010A020100000002050000005A4F0000000200000AC4E20069E5F791085E74
+145F26E87845F7AA9FB3C76B00466387087B2898B386B36B2EOD9D75567EFOD144F4D51C6A0706
+834AE6EC8C697AD9130F08FFD25334C393FAC3F8A182B8F9DF607CC4D892E20F23FDE771FD2612
+72D008ADAE2C69A7A8876CDC56218BCEE1A147D6CAE0410E1D41A20F1B71041D6CBBC0637D5FF7
+BFAAE3705F78CED746E4164D774DOD7FA68AE5CD380F2CC416534EDOD3D3867189ECDE6525BE03
+DDD48E834BC77573A8D92C68B1C5BD1B197C6612EC45EF4600045160831FOF8FB7F99C370568C8
+17DF525964A43DC8090F6EFBA81A01A4BF451E4A9D55COEE9E8218F2AC1952251A18338C3B7C98
+BB669D8414368DD9282DCF50B7A9F9EC0382EE786A89BCCFDBBOEB80C1B04149E6F08BB2B0661C
+04938F81CFAAOC943BA0298A3C5CBF2627294124CE8AEDB30B6E7F2DE88401AE37E3DF61378822
+50B28F8F15BB4CAC51BC478C8B7CE91D392B51C78C04B21F4AE99E7E94EF7ACDCB51AC8AOE25D9
+799F98AAC8DD5DC3F3E643A8F43EEAAEC37FDE9A8E46085E85341B52FBCD36B41C440A8411DC94
+5C82F9C5475A220870308F149122BE340BF4FAE7DC3C09916BEC308A238FAE8335CB8A80DB48AF
+42A77373065FCC76E7C77E138D3F3D258098A294F64C43D1DOAD08AA01083DBA29AOCD87EB47E6
+2CC71B16F70200A400000000000000000000000823010000000B010000F80A0000005518000100
+4E000000030C000009250100000006000000510COOOOOB300300000028000000570C0000080501
+000000080000007FOC00000055060000003C000000870C0000081D0100000000000000C30COOOO
+0055030000004EOOOOOOC30C00000055010000004E000000110DOO00087701000000400000005F
+OD0000083401000000140000009FOD00000802010000000FOOOOOOB30DOOOOOB30010000006COO
+OOOOC20D0000005502000000420000002EOE000000550100000032000000700E00000055090000
+002EOOOOOOA20EOOOOOB300100000044000000DOOE00000608010000002D000000140FOOOOOOOO
+0000000000000000140F000000000000000000000000140FOOOOOO000000000000000000140FOO
+000055010001004E000000410F000000000000000000000000410F000000000000000000000000
+410F000000000000000000000000410FOOOOOOOOOOOOOOOOOOOOOO00410FOOOOOOOOOOOOOOOOOO
+000000410F000000000000000000000000410FOOOOOOOOOOOOOOOO00000000410FOOOOOOOOOOOO
+000000000000410F000000000000000000000000410FOOOOOOOOOO00000000000000410FOOOOOO
+000000000000000000410F000000000000000000000000410FOOOO00000000000000000000410F
+000000000000000000000000410F00000000000000000000000041OFOOOOOOOOOOOOOOOOOOOOOO
+00410F000000000000000000000000410FOOOOOOOOOOOOOOOOOOOO0000410FOOOOOOOOOOOOOOOO
+00000000410F00000942010000001D0000008FOFOOOOOOOOOOOOOO00000000008FOFOOOOOOOOOO
+000000000000008FOF0000000000000000000000008FOFOOOOOOOO00000000000000008FOFOOOO
+000000000000000000008FOF0000000000000000000000008FOFOO00000000000000000000008F
+OF0000000000000000000000008FOFOOOOOOOOOOOOOOOOOOOOOOOO8FOFOOOOOOOOOOOOOOOOOOOO
+00008FOF0000000000000000000000008FOFOOOOOOOOOOOOOOOOOO0000008FOFOOOOOOOOOOOOOO
+00000000008FOF0000000000000000000000008FOFOOOOOOOOOOOO0000000000008FOFOOOOOOOO
+00000000000000008FOF0000000000000000000000008FOFOOOOOO0000000000000000008FOFOO
+00000000000000000000008FOF0000000000000000000000008FOF000000000000000000000000
+8FOF0000000000000000000000008FOFOOOOOOOOOOOOOOOOOOOOOO008FOFOOOOOOOOOOOOOOOOOO
+0000008FOF0000000000000000000000008FOFOOOOOOOOOOOOOOOO000000008FOFOOOOOOOOOOOO
+0000000000008FOF0000000000000000000000008FOFOOOOOOOOOO000000000000008FOFOOOOOO
+0000000000000000008FOF0000000000000000000000008FOFOOOO000000000000000000008FOF
+0000000000000000000000008FOF0000000000000000000000008FOFOOOOOOOOOOOOOOOOOOOOOO
+                                                                  Hex-Dump Conversion
+
+
+
+
+                                     November 14, 1997
+
+
+ MEMORANDUM FOR THE PRESIDENT
+
+ FROM:         Bruce Reed
+               Elena Kagan
+
+ RE:           DPC Weekly Report
+
+
+
+         Education: California Bilingual Education Ballot Initiative -        Opponents of
+  bilingual education in California have submitted petition signatures for a baUot initiative
+  that would end bilingual education programs and require that children be taught in
+  English unless a parent requests bilingual instruction. DPC has been leading a White
+  House and Education Department effort to monitor this situation and determine whether
+  and when it might be appropriate to take a position on this initiative. Over the coming
+  weeks we will continue to review the legal, educational and political issues involved, and
+. present you with a detailed analysis.
+
+        Education: Urban Education -- DPC staff met with senior representatives of several
+ national organizations interested in urban education, including the Council of Great City
+ Schools, the U.S. Conference of Mayors, the National Urban League, the Rainbow
+ Coalition, the AFf and NEA, and MALDEF. They were briefed on education proposals
+ under consideration for FY 1999, including the CoUege-School Partnership initiative to
+ increase coUege enroUment among low income and minority students by providing
+ mentoring and other support service, and a standards-based reform initiative that would
+ chaUenge urban districts to institute policies that end social promotions, require
+ intervention in failing schools, and move incompetent teachers out of the profession. In
+ general these proposals were weU received, though they provoked considerable debate
+ about student accountability. The AFf felt strongly that even the mentoring initiative
+ should include a requirement that students meet some academic performance
+ requirements, while the civil rights groups were opposed to this in any form.
+
+
+
+
+        Crime: Crime Statistics -- Tomorrow, the Justice Department will formally release
+ new crime data from their annual National Crime Victimization Survey (NCVS). The highlights
+                                                                       Hex-Dump Conversion
+ of the new data were made part of this week's radio address. The survey confirms that crime is
+ continuing to fall across the board and to the benefit of most Americans. Crime Victimization
+ rates fell to their lowest points since the inception of the NCVS in 1973. Both the murder and
+ violent crime rates plummeted 10% in 1996, and property crime rates fell 8%. The decreases
+ are even more significant when viewed over time: since 1993, violent and property crime rates
+ dropped 16% and 17% , respectively, and murder rates dropped a stunning 22%. Particularly
+ encouraging is that during the same period, reductions in crime victimization rates were being
+ experienced equally by men, women, and different racial and income groups throughout the
+ country.
+
+           Crime: Juvenile Crime Appropriations: - The final FY 98 Commerce, Justice
+  Appropriations conference report contains significant new funding for our key juvenile crime
+  priorities. The bill authorizes and funds a new $250 million Juvenile Accountability Incentive
+  Block Grant-- 45% ($113 million) of which must be spent on prosecutors, probation officers, and
+  juvenile gun and drug court programs. Our strategy and budget contained $150 million in direct
+  funding for the same purposes. In addition, the FY98 Labor-HHS Appropriations conference
+  report provides substantial new funding ($40 million) for afterschool programs through the 21st
+  Century Schools Program at the Department of Education. We proposed $63 million for
+. afterschool programs in our budget.
+
+         Race: Race Initiative and Service - You should be aware of some interesting
+ connections between the race initiative and service. The Corporation for National Service
+ is about to award $225,000 in mini-grants to 70 communities to organize local days of service in
+ observance of Martin Luther King Day. In 1994, Congress designated Martin Luther King
+ Day as a day of service -- "a day on, not a day off" - in recognition of Dr. King's belief in
+ service. Since then, more and more communities across the country have organized
+ service projects that day. This is the second year that the Corporation has awarded
+ grants. It received 500 applications, many more than last year.
+        In addition, Harris Wofford is enthusiastic about the "Kindness and Justice
+ Curriculum" being organized by a youth service group called "Do Something." The plan
+ is for students across the country to do acts of kindness and justice in the two weeks
+ leading up to Martin Luther King Day, discuss them in class, and post them on the Web.
+ The group is sending materials to schools to encourage schools and teachers to participate,
+ and it will present awards to the best programs. Dexter King, who is part of this effort,
+ and others are asking us to promote the concept.
+
+        Finally, we are also exploring potential actions in the Corporation's service-learning
+ programs, where children serve together and then reflect on that experience in school, as
+ well as highlighting successful AmeriCorps service projects that focus consciously on
+ diversity as part of the service experience, like the CityYear program.
+
+        Adoption: the Adoption and Safe Families Act of 1997 -- On' Thursday, November 13,
+ the Senate and the House of Representatives passed the Adoption and Safe Families Act of 1997,
+
+
+                                               2
+                                                                          Hex-Dump Conversion
+which represents an enonnous victory for your agenda to promote adoption and improve our
+nation's child welfare system_ The legislation includes your priorities for child welfare refonn,
+as outlined in your executive memorandum on adoption to members of your Cabinet (which you
+issued in a radio address on December 14, 1996), and in the Adoption 2002 report that HHS
+presented to you last Valentine's Day, February 14, 1997. We are working on a bill signing
+ceremony with key Members of Congress, advocates and foster and adopted children in the East
+Room next Thursday, November 20.
+
+         Staff from the DPC, the First Lady's Office, and HHS have worked with bi-partisan
+congressional staff on this legislation since you issued the executive memorandum on adoption
+less than a year ago. As you know, Representatives Camp and Kennelly sponsored an adoption
+bill which passed an bill last Spring and which you strongly endorsed. The Senate passed its
+bill, sponsored by Senators Chafee and Rockefeller, on Saturday, November 8, 1997 -- after
+much deliberation and negotiation. As you know, the First Lady was intimately involved,
+helping to shape the substance of the legislation and making important calls to Members of
+Congress (her leadership was noted in the public statements of the Members before the final
+passage of the legislation).
+
+       The legislation:
+       ·      Makes clear that children's health and safety are the paramount concems of the
+              public child welfare system;
+       ·      Clarifies the "reasonable efforts" standard;
+       ·      Speeds up court hearings for children in foster care and requires that States initiate
+              proceedings to tenninate parental rights after a child has been in foster care for 15
+              of the previous 22 months, except in specified circumstances;
+       ·      Provides States with financial incentives to increase the number of children who
+              are adopted (through bonus payments to States that increase adoptions of foster
+              children above prior levels -- $4,000 for each adoption above the base number,
+              plus an additional $2,000 for a total of $6,000 per special needs adoption (the full
+              bonus outlined in the Adoption 2002 report);
+       ·      Directs the Secretary of HHS to rate State perfonnance on a number of factors
+              including the number of adoptions and length of stay in foster care;
+       ·      Reauthorizes the Family Preservation Program (staving off an expected battle next
+              year), while also expanding the goals of the program to include time-limited
+              family reunification and adoption promotion and increasing its funding levels.
+       ·      Ensures health coverage for adopted children with special needs (by requiring
+              states to provide coverage through Medicaid or the new child health program);
+       ·      Expands HHS authority to authorize child welfare waivers to states through child
+              welfare and foster care demonstration projects (the Republicans had wanted to
+              authorize unlimited waivers, and compromised at 10 additional waivers per year);
+       ·      Breaks down barriers to adoptions across State lines by making clear that States
+              may not postpone or deny adoption while looking for an in-state placement when
+              a suitable out-of-state adoption is possible;
+
+                                                3
+                                                                            Hex-Dump Conversion
+
+
+       ·       Requires States to check criminal records of prospective foster or adoption parents
+               (but allows Governors to request to opt out of requirement); and
+       ·       Authorizes HHS to provide $10 million per year of technical assistance to States
+               to promote adoption, half of which must be used to help courts facilitate
+               permanent placements.
+
+        The bill authorizes $76 million over five years of additional funding (principally
+representing an increase in the Family Preservation Program, the requirement of health coverage
+for special needs adoptions, and technical assistance funding). The cost were off-set by a
+temporary adjustment of contingency fund for State welfare programs, which the Congress plans
+to take up next year for reform.
+
+         Tobacco: Legislation in Congress on Tobacco - In response to your announcement of
+a plan for tobacco legislation and the subsequent meeting with bipartisan Congressional leaders,
+a number of bills have been introduced in the last few weeks. Senator Hatch has introduced
+legislation that increases the cost of the proposed settlement from $368 billion to $397.5 billion,
+raises the limits on company payments if underage smoking fails to reach target levels, but
+differs with public health groups on FDA authority by not treating cigarettes as "drug delivery
+devices." The bill bans future class-action suits against the companies and provides punitive
+damage protection for past misconduct. Senator Kennedy's bill raises the cost ofthe settlement
+to more than $600 billion, increases the tobacco tax by $1.50 over three years, and fails to
+provide tobacco producers with protections against lawsuits. Senator McCain has introduced a
+bill that is directly patterned on the settlement language itself. Senator Lautenberg has
+introduced a bill that would cost $494 billion and give cigarette makers no relief from lawsuits.
+
+        In addition to these comprehesive tobacco bills, more specific bills involving the
+settlement have also been introduced. Several House members have legislation to limit fees
+paid to attorneys involved in the settlement. Senators Ford and Lugar have bills that differ from
+each other regarding the maintenance of the price support system for farmers and the buying out
+of farmers' quotas. Also this week, Speaker Gingrich said the House may break the national
+tobacco settlement into separate bills, such as teenage smoking and industry liability, and act on
+each as a consensus emerges. Finally, Congressman Bliley held the first in a series of hearings
+this week during which he publicly pressed the tobacco industry for the release of 864 documents
+that are at issue in a lawsuit filed by the State of Minnesota.
+
+
+
+
+                                                4
+'"
+
+

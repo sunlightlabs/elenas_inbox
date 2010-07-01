@@ -1,0 +1,726 @@
+RECORD TYPE: PRESIDENTIAL      (NOTES MAIL)
+
+CREATOR: J. Eric Gould ( CN=J. Eric Gould/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME:27-JAN-1999 21:54:51.00
+
+SUBJECT:   OMB Tobacco Documents
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+CC: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ:UNKNOWN
+
+TEXT:
+Attached are OMB's roll-out documents.  The first document contains Q&A
+that will be shared with HHS and Treasury so that they can prepare their
+officials for Budget roll-out. We made some minor edits to theQ&A and
+would like to be able to send it on to HHS and Treasury by mid-day
+Thursday.  Send comments back to me and I will make the corrections.
+Because the documents use bold and underline, my changes are in bold and
+italics.
+
+
+
+The other two documents are a three-page internal document that summarizes
+the Budget's tobacco policy and a current version of the tobacco Budget
+chapter.
+
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D59]MAIL496003920.036 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504397120000010A02010000000205000000474C0000000200002D6CCFCBB7B8E5303DOCB2
+67649338CEFDD425DCC4E9F99833716D10032C0503CE7E53AF52872A18F81FC042D01607FC7571
+9501748CEC20095D95E756414E98BF109E9D3193D63646B45D5ABDF33C4B58C7301365115C7D41
+5 7DFF50E56A3 5D5C76AA734CFA634 318.8 7C310CE6 8B4DF8B944F2 4 8B15BAB0456DA9B2 02 3 8F5AD
+E8762189FABED78DF889DA82BB596AA095EOBD0646A440A852E9004B4A1A2858E99FBC6A703187
+EFDC289BC882AC1D26562019072A309A7D37D98F09678265B1A3CA34F6982FEB912DCC8686C4A1
+9E24FF85AF9FOEFF028D16EB056C1AEEE7EE9A8C1A1D85D41DAAE5E05983C20EF3FF30A7D3A229
+12CDB905BBD71C317F64BAA6BA90981FE572714E200255BE40E60E603E70FA143E36F218BEE173
+60D99F4F5FE175A96E4F1DBFB6F0473B7E48B57FE1AD1597CA897BEAE3588BD7DDOD9A96EED699
+459470644A52A3DA4B9084F39E01BF4098A2CBCl17A02F81BBF31ACF9ABFACA0158F2E5B83B6A5
+C760687B88E5F482A289A8990F60CC22144AA67C9FAE078945C33B9B4C43D93A83390F908BDA46
+46F64E6C2B2A810F35B83CD474499FEE446FDDCA2EDDA82EE25DOF3B05BCBDD9BC2380F71A7C1B
+6A78A1A9F871E6AB5126F5FEC747551AEDAF4ADBBD2B3416C48E5A66FAEBABE687E841CCA8FA55
+6C6826EA0402009400000000000000000000000823010000000B010000180A0000005512000000
+4E000000230B000009250100000006000000710BOOOOOB300300000028000000770B0000087701
+000000400000009FOB000008340100000014000000DFOB00000802010000000FOOOOOOF30BOOOO
+0208010000007C010000020COOOOOB30010000006C0000007EODOO000B300200000044000000EA
+OD0000081D01000000000000002EOE0000060801000000380000002EOE00000805010000000800
+0000660E00000055020000003C0000006EOE00000055060000003A000000AAOE00000055040000
+004EOOOOOOE40E00000055010000004E000000320FOOOOOB3001000000B0000000800FOOOOOB30
+01000000AA000000301000000055030003004EOOOOOODA10000000550300000028000000281100
+                                                                                  Hex-Dump Conversion
+
+                         Tobacco Policies in the FY 2000 Budget
+
+Every day, 3,000 children become smokers -- 1,000 have their lives shortened because of it.
+Almost 90 percent of adult smokers began smoking by age 18 and today, 4.5 million children
+aged 12 to 17 -- 37 percent of all high school students -- smoke cigarettes. Tobacco is linked to
+over 400,000 deaths a year from cancer, respiratory illness, heart disease and other problems.
+
+The 1998 State tobacco settlement was an important step in the right direction, but more must be
+done to protect our children and hold the tobacco industry accountable. The Budget therefore
+mentions the following tobacco policies: 1) price increase; 2) FDA authority; 3) public health
+investments; 4) tobacco-related Federal health cost litigation; 5) farmers; and 6) recoupment
+negotiations, as discussed below:
+
+(1)   Raising the Price of Cigarettes to Discourage Youth Tobacco Use
+
+Last year, the President called for an increase of $1.1 0 per pack to help cut youth smoking in
+half. This year, we can build on price increases already agreed to between the tobacco
+companies and the States and those already legislated by the Congress~
+
+The FY 2000 Budget contains three revenue components:
+
+·        A 55 cents per-pack increase to be collected through tobacco excise taxes.
+
+·        Acceleration of the BBA's 15 cents excise tax. The 1997 Balanced Budget Agreement
+         (BBA) raised the excise tax 10 cents per-pack effective January 1,2000 and another 5
+         cents effective January 1,2002, for a cumulative 15 cent increase. The FY 2000 Budget
+         accelerates the effective date ofthis entire tax by one year, effective October 1, 1999.
+
+·        The BATF excise shift. Treasury assumes that revenues will be lower than we estimated
+         in 2000 because smokers will stock up in FY 1999, before the 70 cent total price increase
+         takes effect. The stocking up effect reduces 2000 revenues, but increases 1999 revenues
+         by $304 million. To capture the 1999 revenues for use in 2000, Treasury came up with
+         an excise tax shift. The shift loses money in 1999 and gains in 2000, more or less
+         canceling out the stocking up effect. Note that the shift applies to all excise taxes
+         collected by BATF, not just tobacco.
+
+                Federal Receipts Raised from Tobacco Excise Taxes (in billions)
+
+Year          1999                2000            2001                     2002       2003
+2004     00-04
+55 cents       .165           6.525      6.426           6.426     6.418             6.400
+32.195
+BBA 15 cent     .139                  1.081      0.679           0.163
+1.923
+ShiftBATF       -.381                     .381
+                                                                                     Hex-Dump Conversion
+                     .381
+Net Receipts        -.077                   7.987     7.105           6.589       6.418             6.400
+ 34.499
+
+
+In FY 2000, these revenues are attributable to tobacco-related health care costs in the following
+Federal programs (as displayed in Table S-~.
+
+                 Federal Program                                      Tobacco-Related Costs
+                                                                              (in billions)
+                 Veterans' Affairs                                             4.0
+                 OPMFEHB 1                                                     2.2
+                 Department of Defense                                         1.6
+                 Indian Health Service                                         0.3
+                 TOTAL                                                               $8.0
+
+The programs above are funded in the Budget and funding is not contingent upon tobacco
+receipts.
+
+(2) Re-Affirm Full FDA Authority to Regulate Tobacco Products
+
+The Administration will again support legislation that confirms the FDA's authority to regulate
+tobacco products in order to halt advertising targeted at children and to curb minors' access to
+tobacco products.
+
+(3) Support Public Health Initiatives To Curb Tobacco Use
+
+The Budget includes $122.2 million additional funds for tobacco-related activities in CDC,
+FDA, VA, and ATF:
+
+·       $27 million for expanding CDC's existing State-based tobacco prevention activities. The
+        FY 2000 increases brings CDC's tobacco budget to $101 million, $73 million (+37%)
+        above FY 1999.
+
+·       $34 million for FDA's outreach and enforcement activities. FDA's increase doubles its
+        tobacco budget to $68 million.
+
+·       $56 million for a smoking cessation program in VA for any honorably discharged veteran
+        who began smoking in the military.
+
+·       $5.2 million for enhanced enforcement"at ATF to prevent evasion of tobacco taxes.
+
+
+1/ OPM Federal Employee Health Benefits Program figure includes the total premium costs, and is not broken
+down by enrollee share (28%) and Federal share (72%), which is consistent with the state Medicaid suit method.
+                                                                          Hex-Dump Conversion
+
+
+
+(4) Lawsuits to Recover Tobacco-Related Federal Health Care Costs
+
+The FY 2000 Budget proposes $20 million for the Department of Justice to finance the Federal
+government's litigation costs that will be incurred from preparing a suit to sue tobacco
+companies for tobacco-related Federal health costs. The Justice Department has concluded that
+there are viable legal grounds to recover tobacco-related health care costs and is forming a task
+force to make decisions on the lawsuit. The Justice Department has noted two possible theories
+on which to proceed: The Medical Care Recovery Act and the Medicare Secondary Payer Act.
+
+(5) Protecting Farmers and Farming Communities           [Note: the FY 2000 budget does not
+include additional funds for tobacco farmers].
+
+The Administration remains committed to protecting tobacco farmers and their cornmunities, and
+is monitoring closely on-going efforts by State, farmer, and industry representatives to provide
+funding and purchase commitments to tobacco farmers. The Administration will work with all
+parties, as needed, to ensure the financial well-being of tobacco farmers, their families, and their
+communities.
+
+(6) Claiming the Federal Share of State Tobacco Settlements
+
+Since U.S. taxpayers paid a substantial portion of the Medicaid costs that were the basis for much
+ofthe State settlement with the tobacco companies, Federal law requires that the Federal
+Government recoup its share. However, the Administration will work with the States and the
+Congress to enact tobacco legislation that, among other things, resolves these Federal claims in
+exchange for a commitment by the States to use tobacco money to support shared national and
+State priorities which reduce youth smoking, promote public health and children's programs, and
+assist affected rural communities.
+
+For illustrative purposes, Federal grants to States that could be reduced and could be part of the
+legislation include:
+                                                                               FY 2000
+                                                                              (BA in millions)
+·       Safe and Drug Free Schools - EDUC
+                                                                  "
+                                                                                    439
+·       Substance Abuse Block Grant - SAMHSA                                     1,615
+·       Reducing Class Size - EDUC                                               1,400
+·       Child Care Block Grant - ACF                                             1,183
+·       State Tobacco Control - CDC                                           78
+·       Preventive Health & Health Services Block Grant - CDC                       165
+·       Maternal and Child Health Block Grant - HRSA                                695
+·       Immunization State Grants - CDC                                             139
+·       Breast/Cervical Cancer Screening Grants - CDC                               159
+
+                                                 3
+                                                                   Hex-Dump Conversion
+
+
+·      Residential Drug Treatment State Grants - DOJ                           65
+                                                                          $5,938
+
+
+The amounts below represent the estimated Federal share (roughly 57 percent) oftobacco
+industry payments under the State Attorneys General Settlement Agreement.
+
+
+                      Year-by-Year Forgone Recoupment (in billions)
+
+Year                                2000   2001   2002 2003 2004        2001-04
+Non-Recoupment                       0.0    4.6      4.7    4.8         4.8     18.9
+
+
+
+
+                                             4
+                                                                       Hex-Dump Conversion
+
+
+Stopping Youth Smoking: Every day, 3,000 children become smokers -- 1,000 have theirs
+lives shortened because of it. Almost 90 percent of adult smokers began smoking by age
+18 and today, 4.5 million children aged 12 to 17 -- 37 percent of all high school students --
+smoke cigarettes. Tobacco is linked to over 400,000 deaths a year from cancer, respiratory
+illness, heart disease and other problems. To end this public health crisis, we must have a
+focused public health effort to reduce youth smoking. The 1998 State tobacco settlement
+was an important step in the right direction, but more must be done to protect our children
+and hold the tobacco industry accountable. The Administration believes additional steps
+must be taken at the national level to reduce youth smoking:
+
+·      Raise the price of cigarettes so fewer young people start to smoke: Public health
+       experts agree that the single most effective way to cut youth smoking is to raise the
+       price of cigarettes. Last year, the President called for an increase of $1.10 per pack
+       (in constant dollars) to help cut youth smoking in half within five years. This year,
+       we build on increases already agreed to between the tobacco companies and the
+       States and those already legislated by the Congress. As a result, we can reach the
+       target with a legislated increase of half this amount.
+
+       The funds that result from this policy will offset tobacco-related Federal health care
+       costs. Each year, the Federal Government spends billions of dollars treating
+       tobacco-related diseases for our Armed Forces, veterans, and Federal employees. It
+       is fitting that the tobacco industry reimburse U.S. taxpayers for these costs, just as it
+       has already agreed to do for the states.
+
+·      Reaffirm the Food and Drug Administration (FDA) full authority to keep cigarettes
+       out of the hands of children: The Administration will again support legislation that
+       confirms the FDA's authority to regulate tobacco products in order to halt
+       advertising targeted at children, and to curb minors access to tobacco products.
+       While the State settlement limits tobacco advertising, it still allows certain
+       marketing practices targeted at children, including newspaper and magazine
+       advertising and retail signs near schools. Moreover, only by affirming FDA's
+       authority can Congress ensure that America's children are protected from the next
+       generation of tobacco industry marketing. We should take this matter out of the
+       courts and ensure that the FDA -- the nation's leading health consumer protection
+       agency, providing oversight for food, drugs, and medical devices -- has full authority
+       to protect our children from tobacco.
+
+·      Support critical public health efforts to preveni youth smoking: To help support
+       tobacco prevention programs in States and local communities, the Administration's
+       budget will double the funding for FDA's tobacco budget to $68 million and
+       increase funding for the Centers for Disease Control's tobacco control efforts by
+       one-third, from $74 to $101 million. In addition, the Administration will continue
+       to support measures that hold the tobacco industry accountable for reducing youth
+       smoking.
+                                                                  Hex-Dump Conversion
+
+
+·      Protectfarmers and farming communities: The Administration remains committed
+       to protecting farmers and their communities, and is monitoring closely on-going
+       efforts by State, farmer, and industry representatives to provide funding and
+       purchase commitments to tobacco farmers. The Administration will work with all
+       parties, as needed, to ensure the financial well-being of tobacco farmers, their
+       families, and communities.
+
+        Since U.S. taxpayers paid a substantial portion of the Medicaid costs that were the
+basis for much of the State settlement with the tobacco companies, Federal law requires
+that the Federal Government recoup its share. However, the Administration will work
+with the States and the Congress to enact tobacco legislation that, among other things,
+resolves these Federal claims in exchange for a commitment by the States to use tobacco
+money to support shared national and state priorities which reduce youth smoking,
+promote public health and children's program, and assist affected rural communities.
+
+        In addition to these Medicaid costs, tobacco-related health problems have cost
+Medicare and other Federal programs billions of dollars each year. To recover these
+losses, the U.S. Department of Justice intends to bring suit against the tobacco industry,
+and the Budget contains $20 million to pay for necessary legal costs. The Administration
+will propose that recoveries will be used to enhance the security of Medicare for future
+generations.
+                                                                     Hex-Dump Conversion
+
+
+
+               COSTS OF SMOKING TO MEDICARE AND MEDICAID
+
+Question:         What are the Administration's estimates of the costs of smoking to
+                  the Medicare and Medicaid programs?
+
+Answer:           The Administration has yet to conduct a formal analysis of the
+                  costs of smoking to these programs. However, we will be carefully
+                  analyzing these questions as part of the Justice Department's
+                  upcoming suit against the tobacco industry.
+
+Background:       There is no firm conclusion on the net costs or savings of smoking
+                  to these programs. Depending on the methodology used -- either
+                  prevalence-based or life-cycle methods -- researchers can reach
+                  radically different conclusions on these questions.
+
+                  Studies using prevalence-based studies are more likely to
+                  conclude that smoking costs these programs money. Life-cycle
+                  method studies are more likely to conclude that smoking saves
+                  Medicare money because the average smoker receives Medicare
+                  benefits for fewer years than does the average nonsmoker.
+
+                  Prevalence-based studies estimate the costs of smoking that are
+                  incurred in a given year by calculating the average difference in
+                  medical costs between smokers and non-smokers. In contrast,
+                  life-cycle methods compare the net costs of smoking over the
+                  lifetimes of smokers and non-smokers. The two methods tend to
+                  reach different conclusions about the net costs of smoking because
+                  smokers, on average, have shorter life spans than nonsmokers and
+                  also pay more in tobacco taxes.
+
+                  Plaintiffs in the state suits against tobacco manufacturers
+                                 used the prevalence-based method to estimate
+                  the cost of smoking for Medicaid_ They estimated that the
+                  total cost of smoking for Medicaid was about $13 billion on
+                  1993_ The federal share of the cost would be about $7 billion
+                  per year.
+
+                  According to another study, the federal cost of smoking in
+                  1993 also included about $10 billion per year for Medicare and
+                  $5 billion for other federal health care programs.
+
+Prepared by:      Greg White (x 57791)
+
+
+
+                        C:IDOCUMENTS AND SETTINGSIBMALONEYILOCAL SETTINGSITEMPORARY INTERNET
+                                         FILESICONTENT.lES\KBMLOXGPIP_Z2930066_ OPD_HlML_3[IJ.DOC
+                                                             Hex-Dump Conversion
+
+
+              MEDICAID TOBACCO RECOUPMENT POLICY
+
+Questions:    What is the Administration's Medicaid tobacco recoupment policy in
+              the Budget? Why wait until FY 2001 to begin claiming the Federal
+              share of the state tobacco settlements?
+
+Answer:       Current law requires HCFA to recoup the Federal share (on
+              average 57%) of §!l state third-party liability collections, including
+              the recent state tobacco settlements. Since U.S. taxpayers paid a
+              substantial portion of the Medicaid costs that were the primary
+              basis for the state settlements, the Budget assumes the Federal
+              government will follow the law and claim its share of the proceeds.
+              However, the Administration again proposes to work with the
+              States and the Congress to enact tobacco legislation that, among
+              other things, resolves these Federal claims in exchange for a
+              commitment by the States to use the Federal share to support
+              programs that are currently shared state and national priorities,
+              which reduce youth smoking, promote public health and
+              children's programs and assist affected rural communities.
+
+              The Administration has delayed action on claiming the Federal
+              share of the state tobacco settlements until FY 2001 so that we can
+              work with the States and Congress over the next year on mutually
+              agreeable legislation.
+
+Background:   If HCFA were to enforce current law recoupment requirements
+              (which in the past the Administration has been reluctant to do), it
+              would do so administratively by reducing future Medicaid grant
+              awards to States. Savings achieved through such an administrative
+              action can not be used as legislative spending offsets.
+
+              The budget does not say how recoupment money would be
+                           spent. Since the budget does not begin to
+              recoup until 2001, there is no immediate need to designate this
+              money to a particular purpose.
+
+              The Budget envisions the Administration supporting legislation that
+              would waive HCFA's ability to reooup the Federal share in
+              exohango for States assuming the Federal oosts of a number of
+              disoretionary grant programs beginning in FY 2001. Savings
+              assumed in the Budget under this tobacco recoupment "allowance"
+              sum to $4.6 billion (BA) in FY 2001 and $18.9 billion (BA) over FY
+              2001-2004. Note that CBO will also likely score a PAYGO cost
+              (roughly $3 billion over five years) to the provision in the legislation
+                                                           Hex-Dump Conversion
+
+
+
+               that would waive HCFA's recoupment authority, which would thus
+               reduce available savings. However, OMS would not score a
+               PAYGO cost to this legislation given that it includes no tobacco
+               recoupment collections in the Medicaid current law baseline.               .,
+Prepared by:   Greg White (x 57791)
+                                                          Hex-Dump Conversion
+
+               USES OF ADDITIONAL TOBACCO REVENUES
+
+Question:      The President's FY 2000 budget assumes that $8 billion will be
+               received in additional tobacco revenues. What programs included
+               in the Budget will be funded by these additional revenues?
+
+Answer:        Tobacco-related health problems cost the Federal government
+               billions of dollars each year. In the case of tobacco, the
+               Administration is seeking reimbursement to the taxpayer for costs
+               directly attributable to the tobacco companies.
+
+               Exclusive of Medicare, we have calculated the tobacco-related
+               health care costs in FY 2000 for four major Federal programs listed
+               below:
+                                                  $ in Billions
+                      Veterans Affairs                       4.0
+                      FEHB                                   2.2
+                      Defense                                 1.6
+                      Indian Health Service                       0.3
+                                                         8.0
+
+               These programs are funded in the President's budget and funding
+               is not contingent upon tobacco receipts.
+
+Background:      The House Veterans Affairs Committee has informally indicated
+                 that they may seek legislation to fence off a share of any
+                 tobacco-related litigation proceeds for veterans programs given the
+                 level of tobacco-related costs attributable to veterans. To our
+                 knowledge, the Committee has not yet contemplated language to
+                 earmark tax revenues. The Committee is still upset that $17 billion
+                 in PAYGO savings from clarifying eligibility for service-related
+                 disability compensation for veteran tobacco-related illnesses
+                 contained in last year's Transportation Equity Act (TEA-21) did not
+                 go to veterans programs. The 2000 Budget includes a new $56
+               . million smoking cessation program available to any honorably
+                 discharged veteran to reduce tobacco-related disease within the
+                 veteran population.
+
+
+
+
+Prepared by:   Frank Seidl (5-5146)
+                                                          Hex-Dump Conversion
+
+                    CIGARETTE PRICE INCREASES
+
+Question:     The State Attorneys General Agreement with the tobacco
+              companies is expected to result in an increase of about 40 cents
+              per pack by FY 2000. The President's budget assumes a 55 cent
+              per pack excise tax increase, plus the acceleration of a previously
+              enacted 15 cent per pack increase under the 1997 Balanced
+              Budget Amendment (BBA). Aren't these increases just a bigger
+              version of the tobacco tax increase that was defeated in the Senate
+              last year, which only started at 62 cents per pack and then ramped
+              up to $1 .10 per pack after five years?
+
+Answer:       Every day 3,000 children become smokers -- 1,000 have their lives
+              shortened because of it. Almost 90 percent of adult smokers
+              began smoking by age 18.
+
+              Pubic health experts agree that the single most effective way to cut
+              youth smoking is to raise the price of cigarettes.
+
+              Last year, the President called for an increase of $1.10 per pack (in
+              constant dollars) to help cut youth smoking in half within five years.
+
+
+              This year, we can build on increases already agreed to between
+              the tobacco companies and the States and those already legislated
+              by the Congress. As a result, we can reach our targets to reduce
+              underage smoking with a legislated increase of half the $1.10 per
+              pack amount.
+
+              In addition, the President believes that taxpayers should not
+              pay the costs imposed on the federal government by the
+              tobacco industry -- the tobaco industry should. The 55-cent
+              price increase proposed by the President will pay for this
+              year's tobaco-related costs in the Department of Defense, the
+              Veteran's Administration, the Federal Employees Health
+              Benefits Program, and the Indian Health Service but it will not
+              cover any program costs for these programs or any costs in
+              the Medicare program.
+
+Background:   The acceleration of the 15 cent excise tax would make the entire
+              tax effective October 1, 1999, instead of the current law framework
+              which would raise the excise tax 10 cents effective January 1, 2000
+              and another 5 cents effective January 1, 2002.
+                                      Hex-Dump Conversion
+Prepared by:   Frank Seidl (5-5146)
+                                                            Hex-Dump Conversion
+
+               PROTECTION FOR TOBACCO FARMERS
+
+Question:     The combined effect of the State Attorneys General Settlement
+                            Agreement and the President's proposed per pack
+              price increases will certainly have an effect on tobacco volumes
+              and crop requirements. What assistance does the President's
+              budget include for tobacco farmers?
+
+Answer:       States, farmer, and industry representatives are negotiating the
+                                                       means by which to ensure
+                                                       the financial well-being of
+                                                       tobacco farmers and their
+                                                       communities. The
+                                                       Administration supports
+                                                       these discussions, which
+                                                       have recently produced
+                                                       a $5 billion agreement,
+                                                       and remains committed to
+                                                       protecting tobacco farmers
+                                                       and their communities.
+                                                       The Administration will
+                                                       work with all parties, as
+                                                       needed, to ensure the
+                                                       financial well-being of
+                                                       tobacco farmers, their
+                                                       families, and their
+                                                       communities.
+
+Background:   During the Senate's consideration of the McCain tobacco
+              legislation in the spring of 1998, a number of Congressional
+              proposals were offered to compensate farmers and
+              tobacco-dependent communities for the effects of the expected
+              decrease in consumer demand for tobacco, and tobacco farmer's
+              income, as the result of higher tobacco taxes. Much of the benefit
+              from these farm compensation proposals actually would not have
+              gone to farmers; instead the money would have been received by
+              those who own the production quotas to grow tobacco that USDA
+              made available in the 1930's and that have provided a continued
+              income to the quota owners from quota leasing or rentals.
+
+Additional:   The Administration made supportive statements about some of the
+              Congressional tobacco farmer proposals that surfaced last spring,
+              but that support was conditioned on gaining agreement on
+              comprehensive tobacco legislation. At this point, however, the
+              Administration wishes to avoid any premature commitments on
+                                                        Hex·Dump Conversion
+
+
+               particular forms of tobacco farmer assistance, and therefore has
+               not included proposals in the FV 2000 Budget.
+
+
+
+
+Prepared by:   Frank Seidl (5-5146) and Daniel Heath (5-3645)
+                                                                  fJex-Dwnp Conversion
+
+
+               FDA AUTHORITY TO REGULATE TOBACCO PRODUCTS
+
+Question:          The Administration has indicated it will support providing the FDA
+                   full authority to regulate tobacco products. Will the Administration
+                   support legislation that includes changes proposed in last year's
+                   Senate Commerce Committee bill or are other alternatives
+                   acceptable?
+
+Answer:            The Administration will support legislation that confirms the FDA's
+                   authority to regulate tobacco products in order to halt advertising
+                   targeted at children, and to curb minors' access to tobacco
+                   products. This goal can be achieved by legislation similar to that
+                   contained in last year's Senate Commerce Committee bill or could
+                   be accomplished through other legislation reaffirming FDA's full
+                   authority over tobacco products codifying FDA's 1996
+                          regulations. The State Attorneys General settlement limits
+                   tobacco advertising, but certain marketing practices targeted at
+                   children, including newspaper and magazine advertising and retail
+                   sign near schools, are still permitted.
+
+Background:        During consideration of the McCain tobacco legislation last spring,
+                   the DPC negotiated a compromise version of the FDA tobacco
+                   authority language. The McCain bill language created a separate
+                   chapter in the Food, Drug, and Cosmetic Act giving the FDA explicit
+                   authority over access to and advertising of tobacco products, in
+                   order to ensure that FDA regulation of tobacco did not impinge on
+                   the regulation of other products. The objective this year would be to
+                   either simply codify tho rogulation or gain agreement on language
+                   similar to that included in McCain, or on language that confirms
+                   FDA's full authority without creating a seperate chapter of the
+                   Act.
+
+
+
+
+Prepared by:       Frank Seidl (5-5146)
+                                                              Hex-Dump Conversion
+                   TOBACCO - PUBLIC HEALTH SPENDING
+
+Question:      Is the Administration proposing increases for tobacco-related public
+               health (cessation, advertising, education and enforcement)?
+
+Answer:        Yes, the FY 2000 Budget includes a $122.2 million increase for
+               tobacco-related public health:
+
+               ·      +$34 million for FDA for a total of $68 million
+               ·      +$27 million for CDC for a total of $101 million
+               ·      +$56 million for a VA smoking cessation program
+               ·      +$5.2 million for ATF enforcement
+
+               Total: $122.2 million
+
+Background:    Increases will specifically be used for the following:
+
+               ·      FDA's funding will be used to continue the commissioning of
+                      state/local officials to enforce access restrictions of the FDA
+                      tobacco regulation to conduct unannounced visits to retailers
+                      using adolescents younger than 18 who attempt to purchase
+                      cigarettes or smokeless tobacco. FDA will also expand
+                      outreach efforts.
+
+               ·      CDC will enhance existing State-based tobacco control
+                      activities (e.g., ASSIST).
+
+               ·      VA's Smoking Cessation program can be utilized by any
+                      veteran who began smoking during military service to the
+                      extent that resources are available. Private service
+                      providers will be. used to implement this program on a per
+                      capita basis to ensure wider access throughout the Nation.
+
+               ·      ATF's initiative provides additional staff to enable this
+                      agency to accomodate the increased number of controlled
+                      entities, the increased monitoring, and the investigative
+                      efforts needed to deter, identify and suppress illegal
+                      diversion activities.
+
+
+
+
+Prepared by:   Melany Nakagiri (x 54926)
+                                                               Hex-Dwnp Conversion
+                 CHILD CARE AND TOBACCO FUNDING
+
+Question:      Is the Administration again going to propose to fund child care and
+               other activities unrelated to tobacco by raising taxes on smokers?
+
+Answer:        No. The President remains committed to a comprehensive child
+               care initiative that assists parents in their search for affordable,
+               quality child care and he is proposing to increase child care funding
+               by $3.6 billion over 1999. However, none of this increase is paid
+               for with tobacco funds.
+
+Background:    A central component of both the 1999 and 2000 child care initiative
+               is a $7.5 billion (over five years) increase in funding for the Child
+               Care and Development Fund to assist low-income families with
+               their child care costs. Last year, this piece of the proposal was
+               funded with receipts from proposed tobacco legislation.
+
+
+
+
+Prepared by:   Jennifer Friedman (x 57763)
+                                                                  Hex-Dump Conversion
+            TOBACCO - MEDICAID RECOUPMENT AND STATE GRANTS
+
+Question:         The Budget shows a negative $4.6 billion allowance in FY 2001
+                  growing to negative $4.8 billion in FY 2004. What is this allowance
+                  for? Specifically, what discretionary spending will be reduced?
+
+
+Answer:           The Administration again will work with Congress to design tobacco
+                  legislation that will resolve Federal claims to Medicaid payments in
+                  exchange for the States' commitment to help support shared state
+                  and national priorities.
+
+Background:       Since U.S. taxpayers paid a substantial portion of the Medicaid
+                  costs that were the basis for much of the State settlement with the
+                  tobacco companies, Federal law requires that the Federal
+                  Government recoup its share. However, the Administration will
+                  work with the States and the Congress to enact tobacco legislation
+                  that, among other things, resolves these Federal claims in
+                  exchange for a commitment by the States to use tobacco money to
+                  support shared national and State priorities which reduce youth
+                  smoking, promote public health and children's programs, and assist
+                  affected rural communities.
+
+
+
+
+Prepared by:      Melany Nakagiri (x 54926)
+                                                             Hex-Dump Conversion
+
+                           USDA TOBACCO USER FEE
+
+Question:         Explain the new tobacco "tax", and what does the Budget do for
+            tobacco farmers?
+
+Answer:           The FY 2000 Budget proposes to cover the taxpayers' costs
+                  incurred by USDA for activities related to the growing and
+                  marketing of tobacco by expanding the expiring assessment on
+                  marketings of tobacco. This "user fee" would increase from 1
+                  percent of tobacco marketings (including imports) to two percent.
+                  The portion levied on farmers (0.5 percent) would remain the same
+                  as at present, while the charge to cigarette manufacturers would
+                  increase from 0.5 percent to 1.5 percent. The fee would raise
+                  about $60 million in FY 2000.
+
+                  The Budget does not propose direct assistance for tobacco
+                  growers, pending other proposals such as the recent industry
+                  agreement to provide a $5 billion fund for tobacco growers. The
+                  Administration remains committed to protecting tobacco farmers
+                  and those communities dependant on tobacco.
+
+Background:       USDA incurs about $60 million in costs for programs that assist
+                  tobacco growers, including administering price support loans to
+                  tobacco grower cooperatives, crop insurance, and marketing
+                  oversight. The 1993 OBRA imposed a marketing assessment for
+                  deficit reduction on the tobacco program, which is required to
+                  operate at "no net cost" to the taxpayer anyway (ensured through a
+                  different assessment on cooperatives to cover any losses on their
+                  price-support loans). The deficit reduction fee is set to expire with
+                  the 1998 crop (with the final collection in FY 1999). The Budget
+                  proposal would extend and expand the fee, on a fiscal year basis,
+                  and provide discretionary savings. These savings helped to offset
+                  higher funding for USDA count-based office staff.
+
+
+
+
+Prepared by:      Daniel Heath (x53645)
+EMAILS RECEIVED
+ARMS - BOX 043 - FOLDER -006
+
+
+[01/28/1999]

@@ -1,0 +1,180 @@
+       RECORD TYPE: PRESIDENTIAL     (NOTES MAIL)
+
+       CREATOR: Paul J. Weinstein Jr.    ( CN=Paul J. weinstein Jr./OU=OPD/O=EOP [ OPD 1 )
+
+       CREATION DATE/TIME: 8-AUG-1997 16:35:09.00
+
+       SUBJECT:     Electronic Funds Transfer 1999
+
+       TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP [ OPD 1 )
+       READ: UNKNOWN
+
+       TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP [ OPD 1 )
+       READ: UNKNOWN
+
+       TO: Gene B. Sperling ( CN=Gene B. Sperling/OU=OPD/O=EOP @ EOP [ OPD 1
+       READ: UNKNOWN
+
+       CC: Mary L. Smith ( CN=Mary L. Smith/OU=OPD/O=EOP [ OPD 1 )
+       READ: UNKNOWN
+
+       CC: Thomas L. Freedman ( CN=Thomas L. Freedman/OU=OPD/O=EOP [ OPD 1 )
+       READ: UNKNOWN
+
+       CC: Jose Cerda III ( CN=Jose Cerda III/OU=OPD/O=EOP @ EOP [ OPD 1 )
+       READ: UNKNOWN
+
+       CC: Emil E. Parker ( CN=Emil E. Parker/OU=OPD/O=EOP @ EOP [ OPD 1 )
+       READ: UNKNOWN
+
+       CC: Charles R. Marr ( CN=Charles R. Marr/OU=OPD/O=EOP @ EOP     OPD 1
+       READ: UNKNOWN
+
+       CC: Ellen S. Seidman ( CN=Ellen S. Seidman/OU=OPD/O=EOP @ EOP [ OPD 1 )
+       READ: UNKNOWN
+
+       Michael A. Fitzpatrick ( CN=Michael A. Fitzpatrick/OU=OMB/O=EOP [ OMB 1 )
+       READ: UNKNOWN
+
+       TEXT:
+       Introduction
+
+       The Administration has an opportunity this Fall to provide 10 million
+       "unbanked" Americans with access to regulated, insured financial
+       institutions. This September, Treasury will be putting forth new
+       regulations to implement Electronic Funds Transfer (EFT) 1999. Under this
+       new law, all federal benefits must be delivered electronically to
+       recipients. To access these electronic funds, recipients need a financial
+       service institution.  In order to insure that those individuals who lack
+       bank accounts can access their funds, Treasury is developing a plan to
+       link insured financial institutions with unregulated alternative financial
+       providers such as check cashing operations.  However, many community
+       groups, the AARP, unions, and certain Democratic Senators such as Paul
+       Sarbanes are very concerned about allowing what they call "fringe bankers"
+       from serving as the conduit for Electronic Benefits Transfers (EBT).
+       Chiefly, because such institutions are non-insured and unregulated, charge
+       higher fees than insured institutions, and do not provide full banking
+       services.
+
+
+       Background
+
+
+
+ The Omnibus Consolidated Rescission and Appropriations Act of 1996
+ mandates that, as of 1/1/99, all federal payments must be made by
+ electronic funds transfer. This includes all payments to businesses, as
+ well as all direct federal payments to individuals under benefits programs
+ such as Social Security, Supplemental Security (SSI) , Veterans (VA),
+ Railroad Retirement (RR) , etc. Only federal income tax refunds are
+ statutorily exempt, although the Secretary of the Treasury has the
+ authority to grant waivers for other individuals or types of payments.
+
+ The near elimination of printed government checks is intended both to cut
+ costs to the federal government and to reduce fraud.   Treasury issued
+ roughly 850 million payments in 1996. Of these, about 450 million were
+ electronic and about 400 million were by printed check. About 80 million
+ of those checks were tax refunds, leaving the remaining 320 million checks
+ to be converted to EFT under the new law. Because the cost of each EFT
+ (less than 2 cents) is less than 5% of the cost of printing and mailing a c
+ heck, .converting from checks to EFT is expected t save roughly $100
+ million per year.
+
+ Treasury's program to implement the new law for payments of all types is
+ called EFT-99. A large part of this task will be conversion of all direct
+ federal benefit payments to EFT.  In a few weeks, Treasury is expected to
+ issue regulations for comment for this conversion. Under the law, these
+ regulations must ensure that individuals have access to their funds at
+ "reasonable cost" and with the same consumer protection provided to other
+ hodlers of bank.accounts.
+
+ The Unbanked
+
+ Roughly ten million individuals who received federal benefit payments are
+ "unbanked": they do not have accounts at depository institutions. Of
+ these individuals, 8 million are Social Security beneficiaries, while 2
+ million recieve benefits under other federal programs.  (This is out of a
+ total 44 million individuals who receive Social Security benefits, 6.6
+ million who receive SSI, and 26 million who receive veterans benefits.)
+ Currently, these individuals often cash their monthly checks at grocery
+ stores, check cashers, money transfer agents, etc.:  clearly they cannot
+ receive payments by direct deposit unless they obtain bank accounts.
+ Detailed information about the unbanked and their financial practices is
+ lacking. Treasury states that their reasons for not having accounts are
+ various, but may include the cost of maintaining a bank account, a prior
+ bad experience in dealing with banks, or lack of a convenient banking
+ location.
+
+ In May, Treasury officials stated that they intend to use the new law to
+ bring unbanked benefit recipients into the banking system. To serve
+ unbanked benefits recipients, Treasury has proposed that banks offer a new
+ type of account, called Direct Deposit Two.  It would be limited to debit
+ card access at automated teller machines and point of sale terminals.
+ There would be no minimum balance requirement, monthly statement , or
+ check books, thereby eliminating overdraft promblems and other expenses
+ associated with conventional bank accounts.  In addition,   the banks would
+ not pay any interest on these accounts and would receive the benefit of
+ the monthly "float" of deposits.  This is a bare-bones option which
+ Treasury believes could serve these ten million unbanked .recipients.
+
+ This raises the question: What charges will the benefit recipients be
+ reuqired to pay? Treasury's existing pilot programs for EFT are
+ suggestive.  In the Direct Payment Card program conducted Houston,
+
+
+ approximately 22,000 individuals were issued electronic access cards.
+ Clients are charged $3 monthly and receive one free ATM withdrawal per
+ month. Subsequent ATM withdrawals cost 95 cents each, and point-of-sale
+ (POS) transaction fees are set by the merchant.  Printed statements are
+ optional at $1.00 per month. The average client performs 2.7 ATM
+ transactions and 2.0 POS transactions per month.
+
+ The fee structure is significant concern.  In several ways it could
+ mitigate or counteract any posible advantage of EFT for the benefit
+ recipient.  First, the fact an individual may receive only one free ATM
+ withdrawal per month may encourage him/her to make fewer, larger cash
+ withdrawals at each trip to ATM. This may expose him/her to an enhanced
+ risk of loss, theft, or robbery. Second, the individual is presumably
+ subject to ATM surcharge fees if he/she withdraws cash from an ATM that is
+ not operated by his/her bank.   If the local bank ATMs are in an unsafe
+ location and the recipient choses to visit another bank's ATMs, he/she
+ could be paying a surcharge for every cash withdrawal. This is in
+ addition to any monthly charges and per-withdrawal fees charged by her own
+ bank. Third, the recipient may have to choose between paying ATM
+ surcharges or traveling to a distant or inconvenient location. ATM
+ charges could add up significantly:  the NY Times recently estimated that
+ the average ATM user now pays $155 in ATM fees each year.  Since the
+ average Social Security benefit is approximately $700 per month, ATM fees
+ could draw off a significant portion of an individual's benefits.
+
+ In response to Treasury's proposal, community groups and others have
+ suggested through design changes to EFT 99:
+
+ 1. Only federally regulated and insured, depository institutions should be
+ permitted to be the conduits for federal payments.  this would not mean
+ that recipients could not access their funds through an ATM or POS device
+ at an alternative financial provider such as a money transmitter or a
+ finance company -- just that they would never be required to go to that
+ alternative provider to access their money.
+
+ 2. Recipients who do not voluntarily participate in electronic transfer
+ program must be provided individual accounts at insured, depository
+ institutions, which are affordable, reasonably accessible, include basic
+ consumer protections and provided access to essential banking services.
+ These accounts must provide least-cost access to their federal
+ entitlement; encourage savings; and foster financial relationships between
+ the unbanked federal recipients and the mainstream financial institutions.
+
+ 3. Treasury's use of "authorized agents" as alternative conduits of
+ federal payments should be limited to those individuals and entities who
+ have a fiduciary duty to the recipient.
+
+ Recommendation
+
+ Treasury has asked to brief you on this issue.  I believe EFT 99 has the
+ potential to be the Admininstration's most important economic development
+ issue of the next six months.   I recommend we set up a meeting with
+ Treasury before they issue the regulations in September.
+",
+
+

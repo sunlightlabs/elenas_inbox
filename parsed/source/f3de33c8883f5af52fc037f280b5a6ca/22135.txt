@@ -1,0 +1,40 @@
+      RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+      CREATOR: Mary L. Smith ( CN=Mary L. Smith/OU=OPD/O=EOP [ OPD ] )
+
+      CREATION DATE/TIME: 7-JAN-1999 17:56:49.00
+
+      SUBJECT:   Draft weekly on food safety -food additive petitions
+
+      TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+      READ: UNKNOWN
+
+      CC: Thomas L. Freedman ( CN=Thomas L. Freedman/OU=OPD/O=EOP @ EOP [ OPD ] )
+      READ: UNKNOWN
+
+      CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO ] )
+      READ: UNKNOWN
+
+      TEXT:
+      ==================== ATTACHMENT   1 ====================
+      ATT CREATION TIME/DATE:   0 00:00:00.00
+
+      TEXT:
+      Unable to convert ARMS_EXT: [ATTACH.D93]MAIL46978180R.036 to ASCII,
+       The following is a HEX DUMP:
+
+      FF57504370040000010A020100000002050000008A08000000020000836ABCCD3970208E7DC67C
+      64E20C944C57BEAA99CDDOC711B01D3D029DF913335B6A713386FAFF90A37F97E14AOC50A85E2F
+      EAE6810197023CDB690285123D5DDC4641AF9136B8D7E62B87834A32D6837A6D20CD6B32AIE622
+                              Hex-Dump Conversion
+
+Food Safety - Food Additives. The Food and Drug Administration announced this week that it
+will expedite review of petitions for food additives that could cut the risk offoodbome illness
+caused by dangerous contaminants such as Salmonella and Cyclospora. Currently, the food
+additive petitions are considered in the order in which they are received and can take years to be
+approved. The FDA estimates that of the hundreds offood-additive applications now pending,
+only a few are designed to improve food safety. Foodborne illnesses cause an estimated 9,000
+deaths and 33 million illnesses in the United States each year. The announcement was described
+in a short article in Wednesday's Wall Street Journal.
+
+

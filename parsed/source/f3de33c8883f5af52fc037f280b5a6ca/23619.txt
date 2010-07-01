@@ -1,0 +1,51 @@
+RECORD TYPE: PRESIDENTIAL      (NOTES MAIL)
+
+CREATOR: Fred DuVal ( CN=Fred DuVal/OU=WHO/O=EOP [ WHO ) )
+
+CREATION DATE/TIME:21-APR-1999 12:46:00.00
+
+SUBJECT:   Colorado
+
+TO: Elena Kagan       CN=Elena Kagan/OU=OPD/O=EOP@EOP [ OPD ) )
+READ: UNKNOWN
+
+TO: Stacie Spector       CN=Stacie Spector/OU=WHO/O=EOP@EOP [ WHO ) )
+READ:UNKNOWN
+
+TO: Maria Echaveste ( CN=Maria Echaveste/OU=WHO/O=EOP@EOP [ WHO ) )
+READ: UNKNOWN
+
+TO: Minyon Moore ( CN=Minyon Moore/OU=WHO/O=EOP@EOP [ WHO ) )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP@EOP [ OPD ) )
+READ:UNKNOWN
+
+TO: Mickey Ibarra ( CN=Mickey Ibarra/OU=WHO/O=EOP@EOP [ WHO)      )
+READ: UNKNOWN
+
+TO: John Podesta ( CN=John Podesta/OU=WHO/O=EOP@EOP [ WHO ) )
+READ: UNKNOWN
+
+CC: Craig Hughes ( CN=Craig Hughes/OU=WHO/O=EOP@EOP [ WHO ) )
+READ: UNKNOWN'
+
+CC: William H. White Jr.     ( CN=william H. White Jr./OU=WHO/O=EOP@EOP [ WHO ) )
+READ: UNKNOWN
+
+CC: Linda L. Moore ( CN=Linda L. Moore/OU=WHO/O=EOP@EOP [ WHO ) )
+READ: UNKNOWN
+
+CC: Lynn G. Cutler       CN=Lynn G. Cutler/OU=WHO/O=EOP@EOP [ WHO)    )
+READ: UNKNOWN
+
+TEXT:
+A remarkable quote from todays Denver Post:
+
+"I would feel safer knowing that there was a teacher at my kid's school
+who was a concealed weapons permit holder who could intervene in a
+situation like this"
+
+Doug Dean, Colorado House Majority Leader
+
+

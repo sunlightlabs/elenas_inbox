@@ -1,0 +1,687 @@
+    RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+    CREATOR: Constance J. Bowers ( CN=Constance J. Bowers/OU=OMB/O=EOP [ OMB ] )
+
+    CREATION DATE/TIME: 6-MAY-1999" 08:37:47.00
+
+    SUBJECT:   REVISED ESEA Title X, Pt. H - High School Reform
+
+    TO: Janet R. Forsgren ( CN=Janet R. Forsgren/OU=OMB/O=EOP@EOP [ OMB ] )
+    READ: UNKNOWN
+
+    TO: Daniel J. Chenok ( CN=Daniel J. Chenok/OU=OMB/O=EOP@EOP [ OMB ] )
+    READ:UNKNOWN
+
+    TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP@EOP   [ OPD ] )
+    READ:UNKNOWN
+
+    TO: Jonathan H. Schnur ( CN=Jonathan H. Schnur/OU=OPD/O=EOP@EOP [ OPD ] )
+    READ: UNKNOWN
+
+    TO: Leslie S. Mustain ( CN=Leslie S. Mustain/OU=OMB/O=EOP@EOP [ OMB ] )
+    READ:UNKNOWN
+
+    TO: Daniel I. Werfel   ( CN=Daniel I. Werfel/OU=OMB/O=EOP@EOP [ OMB ] )
+    READ: UNKNOWN
+
+    TO: Bethany Little ( CN=Bethany Little/OU=OPD/O=EOP@EOP [ OPD ] )
+    READ:UNKNOWN
+
+    TO: Tanya E. Martin ( CN=Tanya E. Martin/OU=OPD/O=EOP@EOP [ OPD ] )
+    READ: UNKNOWN
+
+    TO: Wayne Upshaw ( CN=Wayne Upshaw/OU=OMB/O=EOP@EOP [ OMB ] )
+    READ:UNKNOWN
+
+    TO: Wei-Min C. wang ( CN=Wei-Min C. Wang/OU=OMB/O=EOP@EOP [ OMB ] )
+    READ:UNKNOWN
+
+    TEXT:
+    Attached is ED's revised language on the new high school initiative.
+    Please review and provide any comments today.  Thanks.
+
+     - highschool-bill.doc
+     - highsch-changes.doc
+    ==================== ATTACHMENT   1 ====================
+    ATT CREATION TIME/DATE:   0 00:00:00.00
+
+    TEXT:
+    Unable to convert ARMS_EXT: [ATTACH.D37]ARMS21009693C.136 to ASCII,
+     The following is a HEX DUMP:
+
+    DOCF11EOA1B11AE1000000000000000000000000000000003E00030OFEFF090006000000000000
+    0000000000010000004100000000000000001000004300000001000000FEFFFFFF000000004000
+    OOOOFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+    FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+    FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+    FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+    FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+    FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+    FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+                                                                     MAY 5, 1999
+                                                                         7:00 PM
+
+ 1                          SECONDARY SCHOOL REFORM
+
+ 2        SEC. 1009.     Title X of the ESEA is further amended by
+
+ 3   inserting after part G, as redesignated by section 1007 (8) (A), a
+
+ 4   new part H to read as follows:
+
+
+ 5                     "PART H - SECONDARY SCHOOL REFORM
+
+ 6                          "FINDINGS AND PURPOSES
+
+ 7        "SEC. 10851.   (a) FINDINGS.   The Congress finds as follows:
+
+ 8             "(I) All high school students must obtain the academic
+
+ 9   foundations needed for further education and training, and to
+
+10   succeed in an economy that is increasingly characterized by
+
+11   global competition, evolving technologies, and high demands for a
+
+12   skilled, literate, and adaptable workforce.
+
+13             "(2) To be effective, high schools must not only
+
+14   prepare students academically, they must also ensure that
+
+15   students are connecting with adults and are receiving the
+
+16   necessary supports to continue their personal and interpersonal
+
+17   growth during this critical transition stage.
+
+18             "(3) Effective high schools are places where students
+
+19   feel safe, the school is free of drugs, and the classrooms are
+
+20   disciplined environments where all students can learn. High
+
+21   schools are increasingly larger places where students feel
+                                      X-H-1
+
+                                                      Automated Records Management Syste,
+                                                              Hex-Dump Conversion
+
+ 2   suburban areas.    Research shows that when students feel connected
+
+ 3   to school and to their parents, they are less likely than other
+
+ 4   adolescents to suffer from emotional distress, have suicidal
+
+ 5   thoughts and behaviors, use violence, and smoke cigarettes, drink
+
+ 6   alcohol, or smoke marijuana.
+
+ 7              "(4) Research and national data collections indicate
+
+ 8   that many high schools do not succeed in meeting these
+
+ 9   challenges.   For example-
+
+10                     "(A) more than 20 percent of Americans, ages 25
+
+11   through 29, do not have a regular high school diploma;
+
+12                     "(B) on the most recent international assessment
+
+13   of mathematics and science knowledge, the Third International
+
+14   Mathematics and Science Study (TIMSS), American 12th-graders
+
+15   outperformed students from only two of the 21 other participating
+
+16   Nations.   A comparison of these assessment results with 4th-grade
+
+17   and 8th-grade TIMSS scores indicates that American students lose
+
+18   ground during the high school years;
+
+19                     "(C) recent results from National Assessment of
+
+20   Educational Progress reading assessments indicate improvement in
+
+21   the performance of higher-achieving students but no improvement
+
+22   in the scores for the lowest-achieving students.
+
+23                     "(D) the problems facing high schools are
+
+24   particularly prevalent in schools that enroll concentrations of
+                                     X-H-2
+                                                     Automated Records Management Sysl'"
+                                                             Hex·Dump Conversion
+
+ 2                  "(E) relatively few high schools are undertaking
+
+ 3   serious, standards-based educational reforms.    For instance, most
+
+ 4   of the initiatives carried out through the Comprehensive School
+
+ 5   Reform Demonstrations program have been at the elementary level.
+
+ 6             "(5) Because of changes made by the Improving America's
+
+ 7   Schools Act of 1994, high schools now receive significantly more
+
+ 8   Title I funding than was the case before, and the number of high
+
+ 9   schools operating Title I schoolwide programs has increased.
+
+10   However, evaluations indicate that Title I, by itself, has not
+
+11   yet resulted in significant reforms in high schools.         High
+
+12   schools now have the opportunity to use Title I funds to leverage
+
+13   Federal, -State, and local funds to implement education reforms.
+
+14             "(6) High school reforms can be effective.          For
+
+15   example, schools participating in the Southern Regional Education
+
+16   Board "High Schools that Work" program, a whole-school, research-
+
+17   based reform initiative, have shown significant improvement in
+
+18   reading and mathematics scores.    The Johns Hopkins University
+
+19   Talent Development model has demonstrated promising results at
+
+20   its initial implementation site.   The schools implementing
+
+21   locally based reforms and participating in the Department of
+
+22   Education "New American High Schools" initiative have generally
+
+23   achieved improved outcomes in graduation, attendance, and
+
+24   achievement.
+                                   X-H-3
+                                                     Automated Records Management Syster
+                                                             Hex-Dump Conversion
+
+ 2   geared to local conditions and needs, can be effective.               These
+
+ 3   approaches include "schools within schools" and other innovations
+
+ 4   that create smaller learning environments and involve adults more
+
+ 5   fully in the lives of students,        "career academies" and other
+
+ 6   approaches that structure learning around careers, partnerships
+
+ 7   that pair schools with businesses or institutions of higher
+
+ 8   education, and reforms that reorganize the school day.               In
+
+ 9   addition, most successful reforms include a strong focus on the
+
+10   professional development of participating educators and provision
+
+11   of in-depth academic, career, and college counseling.
+
+12         "(b) PURPOSES.    The purposes of this part are to-
+
+13              "(1)   support the planning and implementation of
+
+14   educational reforms in high schools, particularly in urban and
+
+15   rural high schools that educate concentrations of students from
+
+16   low-income families,    in order to-
+
+17                     "(A) meet the needs of students at risk of failing
+
+18   to achieve to challenging standards by strengthening curriculum
+
+19   and instruction, offering extended learning opportunities; and
+
+20   providing professional development opportunities to school staff;
+
+21   and
+
+22                     "(E) improve title I   schoolwide programs In high
+
+23   schools;
+
+24              "(2) support the further development of educational
+                                      X-H-4
+                                                        Automated Records Management Systerr
+                                                                Hex·Dump Conversion
+
+ 2   students meet challenging State standards, increase connections
+
+ 3   between students and adults, and provide safe learning
+
+ 4   environments;
+
+ 5              "(3) create positive incentives for serious change in
+
+ 6   high schools, by offering rewards to participating schools that
+
+ 7   achieve significant improvements in student achievement;
+
+ 8              "(4) increase the national knowledge base on effective
+
+ 9   high school reforms by identifying the most effective approaches
+
+10   and disseminating information on those approaches so that they
+
+11   can be adopted nationally; and
+
+12              "(5) Support the implementation of reforms in at least
+
+13   5,000 American high schools by the year 2007.
+
+
+14                   "GRANTS TO LOCAL EDUCATIONAL AGENCIES
+
+15        "SEC. 10852.   (a) GRANTS AUTHORIZED.   The Secretary may make
+
+16   grants to local educational agencies, on a competitive basis, for
+
+17   activities, consistent with this part, carried out in their high
+
+18   schools.
+
+19        "(b) DURATION.     Each grant under this section shall be for a
+
+20   period of up to three years.
+
+21        "(c) NUMBER.     The Secretary shall not provide assistance
+
+22   under this part to any high school under more than one grant.
+
+
+
+                                     X-H-5
+                                                     Automated Records Management 8'151P'
+                                                             Hex·Dump Conversion
+
+ 2        "SEC. 10853.   (a) APPLICATIONS REQUIRED.        A local educational
+
+ 3   agency that desires to receive a grant under this part shall
+
+ 4   submit an application at such time,         in such manner, and
+
+ 5   containing such information as the Secretary may determine.
+
+ 6        "(b) CONTENTS.       Each such application shall,       for each high
+
+ 7   school for which assistance is sought-
+
+ 8             "(1) identify the school and describe its need for
+
+ 9   assistance under this part;
+
+10             "(2) include-
+
+11                   "(A) a preliminary plan for grades above 8th grade
+
+12   in the school that describes the educational reforms that will
+
+13   take place, as well as the specific activities to be carried out
+
+14   wi th grant funds; and
+
+15                   "(B) an assurance that the local educational
+
+16   agency will have a final plan for those reforms and activities
+
+17   within six months of receiving a grant under this part; and
+
+18             "(3) demonstrate that a substantial percentage of
+
+19   administrators, teachers, and students at the school, as well as
+
+20   members of the community, were (and will be)         involved in
+
+21   developing and carrying out that plan.
+
+
+22                             "SELECTION OF GRANTEES
+
+23        "SEC. 10854.   (a)    IN GENERAL.     The Secretary shall select
+
+                                        X-H-6
+                                                          Automated Records Management Syster
+                                                                  Hex·Dump Conversion
+
+ 2                "(1) the relative need of each high school for which
+
+ 3   assistance is sought, considering such factors as the percentage
+
+ 4   of students who are from low-income families, student achievement
+
+ 5   data, dropout rates, and attendance rates; and
+
+ 6                "(2) the quality of applications, including the
+
+ 7   likelihood that the proposed reforms will succeed.
+
+ 8        n(b) APPLICATIONS FOR MORE THAN ONE HIGH SCHOOL.             In the
+
+ 9   case of a meritorious application that requests assistance for
+
+10   more than one high school, the Secretary may approve the
+
+11   application for any number of those schools.
+
+12        "(c) SPECIAL RULES.     In approving applications under this
+
+13   section, the Secretary shall-
+
+14                "(1) to the extent possible, assist an equal number of
+
+15   high schools that participate in programs under part A of title I
+
+16   of this Act and high schools that do not participate in those
+
+17   programs; and
+
+18                "(2) equitably distribute grants among the geographic
+
+19   regions of the Nation and among urban and rural local educational
+
+20   agencies.
+
+
+21               "OUTCOMES AND COMPONENTS OF EDUCATIONAL REFORMS
+
+22        "SEC. 10855.    (a) OUTCOMES.   Each grantee under this part
+
+23   shall ensure that the reforms it carries out under this part are
+
+                                      X-H-7
+                                                     Automated Records Management SYSH'"
+                                                             Hex·Dump Conversion
+
+ 2                "(1) is a place where students receive individual
+
+ 3   attention and support, through such strategies as creating
+
+ 4   smaller learning environments, such as 'schools within schools'
+
+ 5   and career academies and providing students with counselors and
+
+ 6   mentors;
+
+ 7                "(2) provides all students in the school with
+
+ 8   challenging coursework, aligned with State content and
+
+ 9   performance standards, through such strategies as the use of
+
+10   technology to enhance academic instruction and the establishment
+
+11   or expansion of international baccalaureate programs or advanced
+
+12   placement programs;
+
+13                "(3) is a place where students are motivated to learn,
+
+14   through such strategies as applied learning and linking the arts,
+
+15   music, and cultural opportunities with the school, both during
+
+16   and after the normal school day;
+
+17                "(4) enables students to receive an education that is
+
+18   continuous and integrated, through such strategies as
+
+19   partnerships with middle schools and institutions of higher
+
+20   education;
+
+21                "(5) helps students achieve their educational and
+
+22   career goals, through such strategies as integrated academic and
+
+23   vocational instruction that connects students with career
+
+24   opportunities; and
+                                     X-H-8          Automated Records Management Symer
+                                                            Hex-Dump Conversion
+
+ 2   such strategies as increasing the involvement of parents,
+
+ 3   employers, and others in the community.
+
+ 4        n(b) REQUIRED COMPONENTS.         In order to achieve the outcomes
+
+ 5   described in subsection (a) , each grantee under this part shall
+
+ 6   use funds that are provided on behalf of a high school to
+
+ 7   implement (and, if necessary, to use not more than six months to
+
+ 8   complete the planning and development of) research-based
+
+ 9   educational reform strategies throughout the entire school that-
+
+10                n(l) in the case of a school with     a   schoolwide program
+
+11   under part A of title I, build on and improve the schoolwide
+
+12   reform program;
+
+13                n(2)   address the needs of students who are at risk of
+
+14   failing to be promoted to the next grade or to graduate,
+
+15   including-
+
+16                       n(A)   covering material that students need to
+
+17   master in order to pass State-mandated exit exams; and
+
+18                       n(B)   strengthening curriculum, instruction, and
+
+19   assessments and by offering extended learning opportunities such
+
+20   as after-school, weekend, and summer programs;
+
+21                n(3)   are implemented at the school level, but include
+
+22   strong support and assistance from the local educational agency,
+
+23   as documented in its application;
+
+24                "(4)   make full and effective use of the resources that
+                                         X-H-9
+
+                                                            Automated Records Management Sysrer
+                                                                    Hex·Dump Conversion
+
+ 2             "(5) make use of outside experts in high-school reform, .
+
+ 3   unless the local educational agency demonstrates in its
+
+ 4   application, to the Secretary's satisfaction, that the school's
+
+ 5   reform strategy can be implemented effectively without outside
+
+ 6   assistance;
+
+ 7             "(6) include professional development of school staff,
+
+ 8   including development of the skills needed to use student
+
+ 9   achievement and other outcome data to refine and improve the
+
+10   educational reform strategy; and
+
+11             "(7) provide for collecting data on, and evaluating,
+
+12   the reforms and for reporting to the Secretary on the results of
+
+13   those evaluations.
+
+
+14                              "PRIVATE SCHOOLS
+
+15        "SEC. 10856.    (a) PROFESSIONAL DEVELOPMENT.    Each grantee
+
+16   under section 10854 shall, in accordance with sections [11703]
+
+17   through [11706]   [current 14503-14506] provide for the equitable
+
+18   participation of private school personnel in the professional
+
+19   development activities it carries out with grant funds.
+
+20        "(b) INFORMATION.    If a grantee uses grant funds to develop
+
+21   curricular materials, it shall make information about those
+
+22   materials available to private schools at their request.
+
+
+
+                                     X-H-IO          Automated Records Managemenl,svsf"
+                                                             Hex-Dump ConversJOI'l
+
+ 2         "SEC. 10857.   From the amount available to carry out this
+
+ 3    part for any fiscal year under section 10859, the Secretary shall
+
+ 4    reserve the amount he finds appropriate to carry out one or more
+
+ 5    of the following:
+
+ 6              "(1) INCENTIVE AWARDS.-(A) (i) The Secretary shall
+
+ 7    select a random sample of schools from each of the first two
+
+ 8    years' cohorts of grantees, along with a similarly selected
+
+ 9    control group of comparable schools, to participate in an
+
+10    incentive-based experiment, under which the Secretary makes
+
+11    incentive payments to teachers and administrators in the grantee
+
+12    schools if, after three years of program participation, their
+
+13    students demonstrate significant gains in student educational
+
+14    outcomes compared to the gains made in the schools in the control
+
+15    group.
+
+16                         "(ii) If those significant gains continue,
+
+17    the Secretary may make further incentive payments to those
+
+18    teachers and administrators for up to two additional years.
+
+19                   "(B) The Secretary shall base determinations of
+
+20.   student educational outcomes on multiple measures, including
+
+21    scores on State assessments.
+
+22                   "(C) The maximum amount of an incentive award
+
+23    under this paragraph is $3,000 per teacher and administrator per
+
+24    year, which may be used by those individuals for any purpose.
+                                     X-H~l1
+
+
+                                                     Automaled Records Management Syster
+                                                             Hex-Dump Conversion
+
+ 2   REVIEW.    The Secretary may-
+
+ 3                    "(A) recognize high schools and high school
+
+ 4   reforms that show outstanding results;
+
+ 5                    "(B) disseminate information on those schools and
+
+ 6   reforms;
+
+ 7                    "(C) carry out other activities to encourage the
+
+ 8   spread and adoption of successful high school reform strategies;
+
+ 9                    "(D) facilitate the creation of networks among
+
+10   participating schools and local educational agencies, which may
+
+11   include schools and local educational agencies interested in
+
+12   meeting the purpose of this part; and
+
+13                    "(E) pay the costs of the peer review of
+
+14   applications under this part.
+
+15               "(3) EVALUATION.    The Secretary may reserve funds,
+
+16   consistent with section 11801 [current 14701], to evaluate
+
+17   activities carried out under this part.
+
+
+18                                   "DEFINITION
+
+19        "SEC. 10858.     For the purpose of this part, the term 'high
+
+20   school' means any school that serves students in 12th grade.
+
+
+21                       "AUTHORIZATION OF APPROPRIATIONS
+
+22        "SEC. 10859.     For the purpose of carrying out this part,
+
+23   there are authorized to be appropriated such sums as may be
+                                       X-H-12
+                                                   Automated Records Management Systerr
+                                                           Hex·Dump Conversion
+
+2   fiscal years.   II ·
+
+
+
+
+                                 X-H-13
+                                               Automated Records Management Syster
+                                                      Hex-Dump Conversion
+
+                             ESEA REAUTHORIZATION
+                     TITLE X, PART H - SECONDARY SCHOOLS
+
+                   (revisions in May 5 draft, compared to April 8 draft)
+
+§1 0851(a), findings. Added this subsection.
+
+
+§10852(b), purposes. Revised this subsection.
+
+
+§10853(b), application contents. Revised paragraph (2), relating to applicant's plan, to
+require only a preliminary plan at time of application, with applicant given 6 months after
+award of grant to finish the plan (consistent with §10855(b)).
+
+      Revised paragraph (3) to include students and community members, as well as
+teachers and administrators, in planning and implementing the program.
+
+§10857(1 )(A)(i), incentive awards. Added clarifying reference to a control group of
+schools.
+
+
+
+
+                                                               Automated Records Management <., e,le
+                                                                       f-Iex-Dump Conversior
+
+

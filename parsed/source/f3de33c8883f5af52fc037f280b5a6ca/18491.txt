@@ -1,0 +1,233 @@
+RECORD TYPE: PRESIDENTIAL     (NOTES MAIL)
+
+CREATOR: Thomas L. Freedman ( CN=Thomas L. Freedman/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME:22-JAN-1998 19:34:27.00
+
+SUBJECT:   Cloning
+
+TO: Elena Kagan      CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO]       )
+READ: UNKNOWN
+
+CC: Mary L. Smith ( CN=Mary L. Smith/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TEXT:
+    Attached is OSTP's draft of a memo that could be sent to the President
+on cloning.  In general it is accurate: in meetings with OSTP (Rachel
+Levinson), VP (Gips), counsel (Marshall), Leg affairs, and DOJ we came up
+with four options-- the current approach, two refinements, or a generally
+worded approach recomended by some outside groups.   It recomends in favor
+of one of the refinements and recommends against preemption. However, it
+is sloppy and not informative enough. We are meeting again tommorow m
+orning to improve it. You are more familiar with the President's thinking
+on this issue, but here is what I think the memo should do better:
+
+1. Explain what FDA can do.   FDA has not formally announced it, but Bill
+Schultz thinks they have the authority to ban cloning for the time being
+on the basis of it not being safe. FDA thinks there is still a need for
+legislation that bans cloning on ethics grounds so that when it is a safe
+technology it remains a banned procedure.
+
+2.  Explain clearly the pros and cons of each option's effect on
+research.  The option we chose (C) was supposed to be the most research
+friendly while still banning making human with cloning, that needs to be
+clearer.
+
+3.  I think we should list an option of not sending up a new bill.  We've
+already said our principles and endorsed model legislation, we could offer
+to work with Feinstein or Kennedy to fix the problems we all see in our
+bill. The President could direct FDA to come up with a regulation, and
+leg. affairs could work with the the Senate to preserve embryo research
+but ban the making of humans via cloning (for instance by banning
+implanting in the womb using somatic cell nuclear transfer.)  If you agree
+with this last point, I'm not sure we even need a special memo to the
+President but it could just be included in the Weekly.
+
+
+  ==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D2]MAIL466907129.026 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504354050000010A020100000002050000007F33000000020000D3FB73FE9A8A77D2782B66
+                                                                          Hex-Dump Conversion
+
+ DRAFT MEMORANDUM FOR THE PRESIDENT
+
+FROM:
+
+SUBJECT:                                  Cloning Legislative Options
+
+        Interest in cloning legislation was renewed by reports that a Chicago physicist plans to
+attempt to use this technology to create a child. Your January 10 radio address challenged
+Congress to enact a ban on private sector activities like the one you have imposed on the public
+sector. This issue is likely to appear in both the House and Senate very soon after they return.
+Based on bills introduced in the fall, and the difficulties inherent in trying to craft a bill of
+appropriate scope, there is a strong possibility that Congressional measures may deviate from the
+principles outlined in your draft bill.
+
+         This memorandum summarizes the following options with respect to a legislative strategy
+on cloning: (A.) continue to support the principles and language in your June 9, 1997 draft bill;
+(B.) support the principles but refine the current language; (C.) change the scope of prohibited
+activities to respond to criticism; or (D.) adopt a prohibition with a more general focus.
+
+        The memorandum also presents the pros and cons associated with a clause pre-empting
+state legislation of human cloning.
+
+
+I. Substantive Prohibition
+
+A. Support existing language without changes
+
+        Your bill has been praised by industry and professional societies for its narrow focus on
+the act of creating a human being through somatic cell nuclear transfer (SCNT), the technology
+used to create Dolly the sheep, and the absence of mention of embryo research. These groups
+also applaud your protection of noncontroversial biomedical research and the 5-year sunset
+provision. Current language maintains the status quo with respect to freedom to carry out
+embryo research in the private sector under existing (albeit limited) Federal oversight. The
+Federal ban on creation of human embryos for research purposes is unaffected by any of the
+options in this memorandum.
+
+B. Refine current language
+
+       Continue to hold to the principles expressed in your draft bill but make the following
+changes to clarify the prohibition:
+
+Current language:
+It shall be unlawful for any person or other legal entity, public or private, to perform or use
+somatic cell nuclear transfer with the intent of introducing the product of that transfer into a
+woman's womb or in any other way creating a human being.
+                                                                         Automated Records Management S'IS
+                                                                                 Hex-Dump Conversion
+
+Suggested modification:
+It shall be unlawful for any person or other legal entity, public or private, to introduce the product
+of somatic cell nuclear transfer into a woman's womb in order to create a child.
+
+Rationale
+       There is greater agreement on the definition of a child than there is on a human being,
+      thus avoiding some, but not all of the embryo research and abortion debate.
+       The term "or in any other way" created unnecessary confusion.
+       "Intent" was included as protection for a defendant, but industry and medical
+      practitioners suggested deleting it.
+
+C.    Continue to support the principles in the existing bill but broaden its scope
+
+        We would like you to focus on pros and cons of including the phrase "in order to create a
+child" as it appears in Option B.
+
+         You have been sensitive to the need to be very cautious in setting a boundary around
+permissible biomedical research through this bill; hence its narrow focus. The phrase "in order
+to create a child" maintains that view with its implied intent. However, it suggests two
+potentially troubling scenarios of which you should be aware. First, it may be interpreted to
+encourage abortion because transfer of the product of cloning would be prohibited only if it was
+done so as to create a child, not if it was done with intent to abort. Second, someone caught in
+the act of attempting to create a child using this method could avoid liability simply by aborting
+the cloned embryo or fetus.
+         Therefore, we would suggest that the prohibition be modified to read as follows:
+It shall be unlawful for any person or other legal entity, public or private, to introduce the product
+of somatic cell nuclear transfer into a woman's womb.
+
+        This clear language means that during the time this law is in effect, no one in the public
+or private sectors may perform somatic cell nuclear transfer and implant the resulting product in
+a woman's uterus. Today, this is legal in the private sector, although it may be possible to exert
+some regulatory oversight, as discussed in the background attachment. Some fertility research
+would be precluded under this option, although it is difficult to determine how much because
+efforts are generally made to sustain a pregnancy after implantation; not to perform experiments
+with the intention of aborting.
+
+        The right-to-life community criticized your bill for allowing the creation of embryos for
+research purposes using private funds, as long as those embryos were aborted subsequently.
+This modification still permits the creation of embryos but removes the incentive for abortion.
+While the scientific and medical communities supported your earlier version, it is likely that you
+will retain their support even with this change in view of the larger threats to research emanating
+from Congress. However, it does make the sunset clause all the more crucial. We have been
+told that the fertility research community would not object to this approach.
+
+D. Adopt a more general prohibition
+                                                                                  Hex-Dump Conversion
+
+        Your bill is intended to prevent anyone from creating a child who is a genetically
+identical copy of an existing or previously existing person. Somatic cell nuclear transfer is one
+way of accomplishing this feat and you endorsed the recommendation of your National Bioethics
+Advisory Commission in limiting the scope of your bill to the use of this technology to create a
+child. Another option would be to construct a more general, non-technology specific ban such
+as the following:
+
+It shall be unlawful to create a child who is genetically identical to an existing or previously
+existing child or adult.
+
+        Violation of this ban will depend on one's definition of the point at which life begins.
+Some people believe that an embryo is a child, hence, creating identical embryos would be in
+violation of the law. Under this definition, an existing reproductive technology known as
+blastomere or blastocyst splitting would be prohibited. This method is used to treat women
+with reduced fertility, particularly those who are older and wish to have more than one child but
+are unable or unwilling to undergo the drug treatments necessary to stimulate hyperovulation.
+It may also be used with donor eggs. What is done, in essence, is to fertilize one egg and after
+just a few cell divisions, split the early embryo. This mimics the occurrence in nature of
+identical twins. However, the mother has the option of implanting both embryos, or freezing
+one and implanting it at a later date, thus creating non-contemporaneous twins.
+
+       If one believes that life begins at birth, then it would be permissible to create a cloned
+embryo, implant that embryo in a woman's uterus, and abort it at any point prior to birth. This
+course has the same shortcomings as Option 2 in that it may be interpreted to encourage abortion.
+
+Recommendation:
+
+We propose that you select Option C. so as to: maintain as narrow a prohibition as
+possible, thus protecting a wide range of biomedical research, and preserve the status quo
+with respect to incentives for abortion.
+
+
+Approve: _ __                       Disapprove: _ __                      Discuss: _ __
+
+
+II.   Federal Pre-emption of State Regulation
+
+        The industry is strongly advocating that the Administration use this bill to pre-empt state
+laws restricting cloning research. The industry cites the California Bill as an example of the type
+of provision that would prohibit appropriate biomedical research on cloning and they fear that
+the political climate would likely pressure states to adopt unduly restrictive measures.
+
+      There are also a number of reasons arguing against pre-emption at this time. For
+example, federalism concerns would normally militate against preemption unless it could be
+                                                                                  Hex-Dump Conversion
+
+
+shown that such action is necessary (e.g. when there is a need for national standards).        In this
+case, although the industry might be inconvenienced by the existence of differing laws, there is
+no clear reason why uniform standards are required. Indeed, in the area of biomedical research,
+there is a strong argument in favor of allowing the states to experiment with a wide range of
+options because no single correct approach to this issue is immediately obvious. Moreover, the
+industry's fears that the states would act in concert to preclude important biomedical research,
+beyond the use of cloning to create a child, seem unwarranted. It is not likely that every state
+would choose to ban all research because the states that elect to forego restrictive regulation
+would be likely, on that account, to attract new industry.       Finally, using this particular bill to
+preclude all state regulation of biomedical research is inconsistent with our position that this bill
+is designed to address only the limited issue of cloning and is not an attempt to address broader
+research issues.
+
+Recommendation:
+
+We recommend against adding a pre-emption clause.
+
+
+Approve: _ __                        Disapprove: _ __                        Discuss: _ __
+
+
+
+
+Attachments:
+
+A.   Discussion of Impact of FDA Regulatory Authority on Legislative Strategy
+
+B. H.R. 922 - Bill Introduced By Rep. Vernon Ehlers to prohibit the expenditure of Federal
+funds to conduct or support research on the cloning of humans.
+
+

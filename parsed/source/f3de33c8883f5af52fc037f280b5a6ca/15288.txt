@@ -1,0 +1,3434 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Patricia F. Lewis ( CN=Patricia F. Lewis/OU=WHO/O=EOP [ WHO ] )
+
+CREATION DATE/TIME:21-APR-1997 14:09:40.00
+
+SUBJECT:   Afternoon session transcript
+
+TO: Ann F. Lewis ( CN=Ann F. Lewis/OU=WHO/O=EOP @ EOP [ WHO]     )
+READ: UNKNOWN
+
+TO: Jennifer L. Klein ( CN=Jennifer L. Klein/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Nicole R. Rabner ( CN=Nicole R. Rabner/OU=WHO/O=EOP @ EOP [ WHO]     )
+READ: UNKNOWN
+
+TO: Pauline M. Abernathy ( CN=Pauline M. Abernathy/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Ann F. Walker ( CN=Ann F. Walker/OU=WHO/O=EOP @ EOP [ WHO]       )
+READ: UNKNOWN
+
+TO: Katharine Button ( CN=Katharine Button/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Kris M Balderston ( CN=Kris M Balderston/OU=WHO/O=EOP @ EOP [ WHO]       )
+READ: UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D86] MAIL43201501Y. 116 to ASCII,
+ The following is a HEX DUMP:
+
+FF5750437C290000010A0201000000020500000012BA0100000200005DEB64D326D4E5F46CDC60
+5520E99D6AA81DF5EB25055125AODBA3214DD9D931AFOCFACF10061BE5B2654131BD8FOC875607
+B04652EF89489B21AA386622301BBF9795E89C37089557023FDCD4A3A07E1938890F01C93D99AD
+9D221ABOB7F9177BAC5D7A5E872B98FBA537933COC091A8E0269A4B6432ADF8C3E1D58237976D9
+2F078391AAB7893EFB80D90C8DC4F5FOF8C2DE89C3DA3B9ACF73C7205991510A7CEB3329591844
+B6D4F1FDF6FAC043A4C7CE56D880611A1BAODFA285BA85B50BC83E70CE6EE7871F8E422236B19B
+D9DE5A22659DECD12EEE820AD5C97BBOOEF380B0229E9630370BD1A63E91323CFCOF804EFB77F7
+F41F8AF7E902CC34911FECD919EC7D55FOC92CAE48F1AD1570937730D3E7DFFCD99BD269D492FA
+C8BF23FDF77E6391D903315361894DF1FA80AE26C39BE5017A3C34B4A6F0566A49E06A25F4FCC6
+1A081E380EB8459F5EA4222BDOCB9F48E410D57CB978496096616CD1304267B1156DC7B7D54574
+DC5AA2FD4373715AA2039C048F29CE25396D5680BDD72CB97EF80473FC2D195EDAE5C16A282D87
+80D819A24ED34A1C7402662289721CA5240F3AE8A8E81A067B57F9105E95701BFDEDB9A7F56D52
+C18AC343EB83A929461007B73F8CAAD6E6710C64241256B507D0600450391B965E55C9DA9EFC7C
+DB3D9A931D02003400000000000000000000000B30030000007EOO0000D80400000B3003000000
+78000000560500000B30030000006BOOOOOOCE0500000B30030000006B000000390600000B3003
+0000009AOOOOOOA40600000B30030000007E0000003E0700000B3002000000D1000000BC070000
+OB3002000000E40000008D0800000B3003000000A6000000710900000B3002000000F700000017
+OAOOOOOB30020000000A0100000EOBOOOOOB30020000001E010000180COOOOOB30020000003101
+0000360DOOOOOB300200000043010000670EOOOOOB300200000056010000AAOFOOOOOB30030000
+00CF000000001100000B3003000000A4000000CF1100000B3003000000A4000000731200000B30
+         Hex-Dump Conversion
+
+
+
+
+      THE WHITE HOUSE CONFERENCE ON
+EARLY CHILDHOOD DEVELOPMENT AND LEARNING:
+ WHAT NEW RESEARCH ON THE BRAIN TELLS US
+       ABOUT OUR YOUNGEST CHILDREN
+
+
+
+             Afternoon Session
+
+
+
+
+               The East Room
+
+
+
+        Thursday, April 17, 1997
+             12:00 P.M. EDT
+                      Hex-Dump Conversion
+
+PARTICIPANTS:
+
+THE PRESIDENT
+MRS. CLINTON
+
+DR. DAVID HAMBURG, Carnegie Corporation of New York, New York,
+New York
+
+DR. DONALD COHEN, Yale University, New Haven, Connecticut
+
+DR. CARLA SHATZ, University of California, Berkeley
+
+DR. PATRICIA KUHL, University of Washington, Seattle, Washington
+
+DR. EZRA DAVIDSON, Charles R. Drew University of Medicine and
+Science, Los Angeles, California
+
+DR. T. BERRY BRAZELTON,     Harvard Medical School,         Cambridge,
+Massachusetts
+
+DR. DEBORAH PHILLIPS, Institute of Medicine, Washington, D.C.
+                    Hex-Dump Conversion
+                                                                        3
+
+               AFT ERN 0 0 N               S E S S ION
+
+                                                              (3:16 p.m.)
+
+          MRS. GORE:    Well, hello, everybody.           Good afternoon,
+
+and welcome to the White House Conference on Early Childhood
+
+Development and learning.       We have all gathered today so that
+
+we can share new ways of enhancing our children's lives and to
+
+secure their future and to secure the future of our country.
+
+          This afternoon, we're going to focus on the practical
+
+applications of the latest scientific research on the brain.
+
+As parents and as caregivers, we certainly can get our children
+
+off to a very strong and healthy start by positively impacting
+
+the first three years of their lives.
+
+          As the national spokesperson working with Secretary
+
+Donna Shalala on the Back to Sleep campaign to reduce sudden
+
+infant death syndrome, these first three years are of particular
+
+interest to me.   As you hear many of the experts say today,
+
+remember that, in addition to the miraculous growth and
+
+development that takes place in the first several years of life,
+
+that some of the children in our country are particularly
+
+vulnerable to SIDS - - sudden infant death syndrome - - especially
+                    Hex-Dump Conversion
+                                                                               4
+
+in the first year of life, from four months to 12 months, in
+
+particular.
+
+             Each year, Al and I have been able to host and work
+
+with others in making sure that we could have a conference on
+
+families in Tennessee, and this has been a source of great
+
+learning and networking and joy for us.                     The conferences have
+
+put several issues on the table, and they allow us to discuss
+
+a lot of topics that people are dealing with in their everyday
+
+lives, and we're concerned about the struggles that families
+
+face in America.
+
+             These concerns, the ones that you are so familiar with,
+
+in conjunction with our commitment to family, are why we
+
+participate in the family conferences, and it's the reason that
+
+we are here today, as well.            This Administration is committed
+
+to children and to families -- very, very committed, unshakably
+
+committed.
+
+             We want to ensure that every child has the opportunity
+
+to prosper and every family has the means and the tools and the
+
+knowledge to make that happen.
+
+             I have been very lucky to raise our four children with
+                   Hex-Dump Conversion
+                                                                             5
+
+a very supportive and committed husband and father by my side,
+
+so no matter how full his schedule has been, he has often
+
+rearranged it-     There are pro-family policies here in the White
+
+House.     I can tell you that.       He always makes time for his family
+
+and is always there for us when we really, really need him.
+
+             So it is with great love and admiration that I introduce
+
+to you a great husband and, probably even more importantly, a
+
+wonderful father, Al Gore, our Vice President.
+
+             ('Applause. )
+
+             THE VICE PRESIDENT:        Thank you.       Well, shucks.   Thank
+
+you.     Thank you very much.        I want to thank the First Lady for
+
+all these pro-family policies here in the White House, too; and
+
+Tipper and I want to thank the First Lady for the opportunity
+
+to participate in today's conference.
+
+             I want to briefly acknowledge Governor Lawton Chiles,
+
+who is here, and other elected officials.                Of course, Governor
+
+Bob Miller is going to be introduced by the First Lady, along
+
+with Rob Reiner and the others on the program.
+
+             In the audience in addition to Governor Chiles, is
+
+Secretary Riley, Secretary Shalala, Representatives Tom Allen
+                ~Iex-Dump Conversion
+                                                                        6
+
+and Frank Riggs and Sheila Jackson-Lee, and Dr. Jack Gibbons,
+
+the President's science advisor.           There may also be others.
+
+If I have overlooked other elected officials, it's unintentional.
+
+           This is an exciting conference for all who have been
+
+following it and.participating in it, and it comes at a unique,
+
+spectacular moment in the history of human understanding.              It
+
+is, of course, a new age of discovery that many have labeled
+
+the Age of the Brain.
+
+           Scientists have discovered much about the world that
+
+surrounds us, but the brain inside our skulls remains a source
+
+of mystery and wonder, and is, in a sense, the next frontier
+
+of human understanding.
+
+           This morning, you had presented some fascinating
+
+findings about what lies on this new frontier.
+
+           We learned from Gail Shatz that a baby's brain is
+
+constantly phoning home, completing a wiring process more
+
+complicated than in any telecommunications system.
+
+           Patricia Kuhl explained that a newborn arrives truly
+
+a citizen of the world, prepared to learn any language under
+
+the sun.
+                 Hex-Dump ConvmJon
+                                                                     7
+
+            And Dr. Brazelton informed us that, from birth,
+
+children know who their most important caregivers are --.their
+
+parents.
+
+            Allover the country, often with the help of federal
+
+research funds, scientists and physicians are mapping this new
+
+scientific territory, and each new revelation seems more amazing
+
+than the last.    But, of course, this is not a purely academic
+
+exercise.    Each new discovery also suggests new ways to guide
+
+our lives, both as parents and public officials.           That is why
+
+we are here today.
+
+            Some new knowledge arrives in our brains with an
+
+imperative attached to it.          Once you know it, you have to act.
+
+ When the First Lady wrote in her book, It Takes a village, about
+
+the emerging discoveries in these fields, many people share with
+
+her the sense of urgency that comes with that knowledge, and
+
+she took the leadership, along with the President, in organizing
+
+today's conference.
+
+            In this afternoon's session, we'll learn how
+
+communities across America are putting this new understanding
+
+from neuroscience into action in the service of our children.
+                    Hex-Dump Conversion
+                                                                         8
+
+For example, Arnold Langbo, CEO of the Kellogg Company, will
+
+tell us what business can do to support early childhood
+
+development.
+
+              Incidentally, I'm pleased to say that, later this year,
+
+Kaiser Permanente will host a national summit of business leaders
+
+this fall that will explore many of the themes that we're
+
+discussing in this conference, and develop strategies for making
+
+sure that the infants and toddlers of their employees get off
+
+to a good start.       Kaiser's CEO, David Lawrence, is in the
+
+audience, and I would like to recognize him.
+
+              We also have in the audience Ralph Larsen, CEO of
+
+Johnson   &   Johnson, a company with one of the most family friendly
+
+policies, as you might expect, investing heavily in child care
+
+and supporting Head Start.
+
+              This afternoon, we will also be hearing from Rob Reiner
+
+about how the media and entertainment industry can spread the
+
+word to parents and caregivers.               Also, Newsweek Magazine will
+
+be distributing copies of a special issue devoted to this topic.
+
+              Then, we'll hear about the early Head Start Program
+
+that the Clinton-Gore Administration launched in President
+                Hex-Dump Conversion
+                                                                              9
+
+Clinton's first term, and about the innovative New Haven,
+
+Connecticut Police partnership, whiCh is the foundation for the
+
+Safe Start Initiative that the President announced this morning_
+
+          These efforts and others you will hear about, and
+
+others like them around the country, require a deep commitment,
+
+but they are founded in good, old-fashioned common sense.                The
+
+breathtaking discoveries in neuroscience yield to simple,
+
+practical advice.   Read to your kids.             Talk to your kids.   Sing
+
+to your kids.   Dance with your kids.              I've done that.
+
+          (Laughter. )
+
+          MRS. GORE:      They didn't know it.
+
+          (Laughter. )
+
+          THE VICE PRESIDENT:           That joke's getting old.        I'm
+
+still distressed that people laugh at it, however.
+
+          Tipper and I have been working on some of these issues,
+
+for quite some years, and our annual family conference in
+
+Nashville has touched on some of the themes that have been
+
+addressed here today, and I would like to mention just one.
+
+          A few years ago, our family conference focused on
+
+the issue of fatherhood and the role of fathers in children's
+            IIcx-Dwnp Conversion
+                                                                   10
+
+lives.   Now, some of the new research you've been discussing
+
+is revealing that the attachment a child forms with his or her
+
+father is innate and critical to that child's development.
+
+           Children whose fathers are active caregivers tend to
+
+have higher IQs and are less prone to violence.       And, since
+
+fathers usually have different parenting styles from mothers,
+
+children with active fathers develop a richer set of emotions
+
+and a wider, more textured view of their world.
+
+           Incidentally, at this June's family conference, we
+
+will be focusing on the topic of the family and learning, and
+
+we'll be talking about the ways in which families can relate
+
+to schools and the learning process throughout a child's life.
+
+          We are very grateful to the President and First Lady
+
+for playing key roles in the family conferences of the last few
+
+years and, actually, this whole year, with the President's
+
+initiatives unveiled in the State of the Union Address and this
+
+conference, organized primarily by the First Lady, that is filled
+
+with such exciting discoveries, the focus on families and
+
+learning in June, the focus on child care later in the year,
+
+and the other activities related to learning and development
+                Hex-Dump Conversion
+                                                                     11
+
+and children, when you put it all together, we have an opportunity
+
+to put in place a set of new approaches and policies based on
+
+new understandings that can really make a profound difference
+
+for our country.
+
+          But the beginning is today's conference -- the
+
+beginning of what I hope will be an entirely new approach to
+
+how private citizens and public officials fulfill their
+
+responsibilities to America's children.
+
+          You don't have to be a brain surgeon to understand
+
+the importance of these new discoveries, and you don't have to
+
+be a super-parent to make sure your child benefits.            To take
+
+advantage of the new understandings that are being presented
+
+today about the human brain, you just have to use your head.
+
+You may quote that, if you wish.
+
+           (Laughter. )
+
+          THE VICE PRESIDENT:            I want to, in introducing the
+
+First Lady as the moderator of this session, I want to presume
+
+to say, on behalf of all of us who have the privilege of
+
+participating in this conference, how grateful we are for her
+
+leadership.
+                      Hex-Dump Conversion
+                                                                                12
+
+            We've heard a lot about the "bully pulpit" in the
+
+history of the White House.             I think we're seeing a brilliant
+
+use of the bully cradle here today, and the President and the
+
+First Lady have assembled an outstanding group of experts who
+
+are opening our minds to new understandings.                   I'm looking forward
+
+to this session, and I want to invite behind this brain
+
+conference, our First Lady, to get us started.
+
+             (Applause. )
+
+            MRS. CLINTON:        Thank you very much, Vice President
+
+Gore.     I can see this will lead to an endless series of bad
+
+puns --
+
+             (Laughter. )
+
+            MRS. CLINTON:        -- the most obvious of which is that
+
+doing what has been suggested here is a no-brainer.
+
+             (Laughter. )
+
+            MRS. CLINTON:       I am delighted to be joined by the Vice
+
+President and Tipper Gore.           I don't know of any two people who
+
+have been more committed, not only to their own family and to
+
+the wellbeing of their children, but to the wellbeing of all
+
+of America's children.        I am very grateful for their leadership,
+                Hcx-Dump Conversion
+                                                                        13
+
+friendship, and support.
+
+          We are excited by the people who have joined us on
+
+this panel, because each one is a doer, as we will now hear.
+
+They are people who don't just read an article in Newsweek about
+
+the brain and say,   "Well, that's real interesting."            They're
+
+people who say to themselves, "What can I do about this?              This
+
+is something that has great potential, and I want to be part
+
+of helping as many people as possible learn about this exciting
+
+information."
+
+          Our first speaker, Mr. Arnold Langbo, is the CEO of
+
+the Kellogg Company, based in Battle Creek Michigan.            As I said
+
+this morning, Kellogg has launched a community-wide effort that
+
+Mr. Langbo will tell us about, which is already making a
+
+difference in the lives of the people of Battle Creek and
+
+particularly the employees of the Kellogg Company.
+
+          I would like to ask him now to tell us what Kellogg
+
+is doing and what the effects of that are.              Mr. Langbo.
+
+          MR. LANGBO:      Mrs. Clinton, Mr. Vice President, and
+
+Mrs. Gore, thank you.
+
+          I speak today on behalf of the group of business and
+                Hex-Dump Conversion
+                                                              14
+
+education leaders that I represent from Kellogg's home town in
+
+Battle Creek, Michigan, and I appreciate this opportunity to
+
+report to the White House Conference how we have been working
+
+together to help make sure that every parent and every caregiver
+
+in our community is aware of this important new information on
+
+early childhood development that you are bringing to the
+
+attention of our nation here today.
+
+            My colleagues and I first became aware of this new
+
+scientific learning on early childhood brain development about
+
+two years ago and, at that time, we were engaged, looking very
+
+hard for ways to help improve student performance in our schools
+
+and, for several months, we researched and debated curriculum
+
+changes, school choice, charter schools, character education,
+
+academic standards, student testing, and many, many others
+
+subjects.
+
+            These are all good ideas, and we are working on many
+
+of them in our community, but they simply won't, by themselves,
+
+result in the improved student performance that we seek.
+
+            The more we explored all of these issues, the more
+
+we realized that we needed to reach deeper into the more
+                    Hex-Dwnp Conversion
+                                                                            15
+
+fundamental reasons why some children are succeeding in school
+
+while others, even before they enter school, seem destined for
+
+difficulty.
+
+                In looking deeper, we focused on three conclusions
+
+that led us to develop our program, which we called Learning
+
+Now.
+
+                Now, the first conclusion was based on research
+
+conducted in Michigan, which compared the relative influence
+
+that family, community, and other factors have on student
+
+performance.        Amazingly, it concluded that factors outside of
+
+the school are four times more important in determining a
+
+student I   S   success on standardized tests than are factors within
+
+the school.
+
+                This reaffirmed, for those of us in business, the
+
+importance of becoming partners with educators, parents, and
+
+other institutions in our community dealing with the development
+
+and performance of young people.                  What this means is that
+
+businesspeople cannot just sit on the sidelines and criticize
+
+but, rather, we must be involved.
+
+                Secondly, a survey of local kindergarten teachers
+             Hex-Dump Conversion
+                                                                         16
+
+revealed that about four of every ten children entering our
+
+schools are not adequately prepared.                When we considered this
+
+information in conjunction with child health indicators and rates
+
+of abuse and neglect, and other key indicators, it became
+
+painfully aware that far too many of our children are not getting
+
+the start in life that they need.
+
+          Then, we became aware of the powerful new information
+
+about brain development being reported by the scientific
+
+community, and we began to understand that lost learning
+
+opportunities in the first few years of life simply cannot be
+
+made up later on.
+
+          with these understandings, the business and education
+
+partnership in Battle Creek became committed to helping ensure
+
+that every parent and every caregiver in our community is aware
+
+of and, indeed has access to easy to understand information about
+
+early child development and brain stimulation.
+
+          Now, to accomplish this, we are using print and
+
+broadcast advertising, direct mail, payroll staffers, and,
+
+importantly, community forums.           We are encouraging parents and
+
+caregivers in our community to call the well-publicized now
+                Hex-Dump Conversion
+                                                                               17
+
+Learning Now phone number, to receive information appropriate
+
+to the age of their child.         Once signed up, parents and caregivers
+
+are mailed   additio~al     age-appropriate information at six-month
+
+and one-year intervals, until their child enters kindergarten.
+
+             We have received tremendous cooperation from many
+
+sectors of the community.             Local print and broadcast media are
+
+matching Learning Now advertising expenditures dollar for
+
+dollar.   Every mother who delivers at our community hospital
+
+recei ves Learning Now information before carrying their newborn
+
+home.
+
+             Noted pediatric neurologist,                D~.   Harry Chugani, who
+
+is attending this conference today, was in Battle Creek recently
+
+to conduct seminars for child care providers and other early
+
+childhood professionals.            Later this month, Ronald Kotulak,
+
+author of the book, Inside the Brain, will be in Battle Creek
+
+for two days, conducting seminars again for parents, for
+
+caregivers, educators, and business people, about the brain
+
+development research covered in this morning's session.
+
+             Now, earlier I mentioned to you the use of direct mail
+
+to reach families, and I mentioned to Mr. Reiner this morning
+                 Hex-Dump Conversion
+                                                                         18
+
+that, as a part of the Learning Now program, we are sending
+
+postcards to 6,000 households with young children in our
+
+community, encouraging them to watch your April 28th television
+
+special and to attend one of the community forums that Mr _ Kotulak
+
+will hold in Battle Creek on April 29 and 30.
+
+          How is it all going?           At this early stage, we couldn It
+
+be more pleased with the response that Learning Now is receiving.
+
+ And I believe that, once you understand what is happening with
+
+brain development during the first years of life, you want every
+
+parent to know, so much so that I have become             inc~easingly
+
+
+interested in what more Kellogg Company and other major
+
+corporations might do to spread this important information to
+
+parents and caregivers allover America.
+
+          with this in mind, I am sure that most of you here
+
+today recognize that back panels of cereal packages are one of
+
+the most powerful communication vehicles in America.             lIm sure
+
+that everyone here knows all about that because, as a part of
+
+our own early childhood development, you will all remember that
+
+we sent two boxtops to Battle Creek for our free submarine.
+
+           (Laughter. )
+                    Hex-Dump Conversion
+                                                                        19
+
+             MR. LANGBO:      Because Kellogg products have about 95
+
+percent household penetration among families with children, I
+
+am committing at this important White House conference that
+
+Kellogg Company will begin a program to print at least two special
+
+cereal carton back panels focused on early learning with simple
+
+examples of the kinds of activities that anyone can use to
+
+encourage and enhance a child's development.
+
+             (Applause. )
+
+             MR. LANGBO:     If I can, I would just like to give out
+
+a little more perspective for you.               There are 35 million
+
+households with children in the United States and, with Kellogg's
+
+penetration of about 95 percent, our products are in about 33
+
+million households.         I'm told that this level of household
+
+penetration far exceeds the combined daily circulation of the
+
+25 largest newspapers in the United States, so this is a powerful
+
+mechanism.
+
+             Our intent is to help make tens of millions of American
+
+families aware of this new information from the scientific
+
+community.     Our commitment is to children, to helping them reach
+
+their full potential.        If our children reach their full
+                Hex-Dump Ccnverslon
+                                                                       20
+
+potential, so can our country, and so can our society.
+
+            In a longer-term context, I think it's all about
+
+building broad-based community awareness, community by
+
+community, the networking that was discussed this morning, all
+
+across America, as to just how important a child's first years
+
+are.
+
+            I can't even begin to imagine the longer- term posi ti ve
+
+impact in our society of this.              Any community in America that
+
+truly understands the importance of this issue will make young
+
+children its first priority.
+
+            Business has, I think, an enormous responsibility and
+
+accountability here.       After all, 95 percent of the parents of
+
+these children that we're talking about are in our workplace,
+
+and we communicate effectively with them every day.
+
+            Again, my business and education colleagues and I
+
+greatly appreciate all that you are doing here today to focus
+
+this nation's attention on this critically important issue for
+
+children.    Thank you very much.
+
+            MRS. CLINTON:       Thank you very much.
+
+            (Applause. )
+                 Hcx-Dwr:p Conversion
+                                                                          21
+
+             MRS. CLINTON:         We are just thrilled to hear what
+
+Kellogg is doing, and I look forward to reading ,the back of those
+
+cereal boxes, as I still do in the morning.
+
+             If I could, Mr. Langbo, could I ask, in addition to
+
+the outreach and the community leadership that your company is
+
+providing in partnership with other businesses and educators
+
+in Battle Creek, are there any kind of employment policies that
+
+businesses can adopt to support their employees as parents, so
+
+that this information that you rightly say can be conveyed
+
+effectively in the workplace can perhaps be more readily
+
+available?
+
+             MR. LANGBO:       I think the answer to that is certainly
+
+yes.   We have done a number of things recently in the workplace
+
+environment, certainly in part to provide a more meaningful
+
+maternity benefit for our families that are in this situation,
+
+but also, frankly, in an attempt to relieve some of the workplace
+
+stress situation.         This was touched on briefly, this morning.
+
+             Indeed, I think workplace stress is increasingly
+
+prevalent in our workplace.               We do provide an opportunity,
+
+rather, for Kellogg employees, either the mother or the father,
+                 Hex-Dump Conversion
+                                                                     22
+
+to take up to a three-month leave when the child is born.            We
+
+have recently enhanced our flexible work hours, I think
+
+meaningfully, so as to allow more flexible work scheduling that
+
+would be helpful during maternity periods.
+
+            This, by the way, included an option for employees
+
+to do a certain number of hour of their work week at home, which
+
+again has been very favorably received, and I think, as I said
+
+earlier, it speaks to both of the issues -- stress, as well.
+
+            We have never, as a company, provided Kellogg day care.
+
+ Rather, we have supported the local community entrepreneurs.
+
+ But we thought it was timely, recently, that we fielded a
+
+questionnaire with all of our employees to ask the question of,
+
+"How well are we doing; is it satisfactory; does it need further
+
+assistance; and are there any other improvements that should
+
+be made?"   Those are some of the things that we've added in the
+
+workplace recently.
+
+            MRS. CLINTON:        Great.       Thank you very much.
+
+            Our next presenter is someone I've known for a number
+
+of years, whom I was privileged to go to France with and visit
+
+their childcare programs, and she has been on the front line
+                Hex-Dump Conversion
+                                                                             23
+
+of providing support and services to parents through an
+
+innovative model program known as Avance.                    She started it in
+
+San Antonio.    It has now spread much more widely across Texas.
+
+            Dr. Gloria Rodriguez is one of the most articulate
+
+spokespeople that one could find on behalf of the proposition
+
+that providing support for parents, giving them the tools that
+
+they can use to help themselves become better parents, is not
+
+only possible, but essential to be done.
+
+            Dr. Rodriguez, would you describe for us what Avance
+
+does and how it has worked wi th the parents you I ve been helping?
+
+            DR. RODRIGUEZ:        Certainly.            Avance is a program for
+
+parents who have young children under the age of three.                 We help
+
+them become the best parents they can be.
+
+            I thought I would begin by telling you how I started
+
+Avance 24 years ago.        It started, as a very frustrated
+
+schoolteacher, when I saw six-year-old children in my first grade
+
+class being labeled as mentally retarded, as vegetables, as slow
+
+learners.    They were set aside and ignored.
+
+            I also saw parents loving their children, valuing
+
+education, wanting the best for their children, but they did
+                  Hex-Dwnp Conversion
+                                                                              24
+not know what to do with their children prior to coming to school.
+
+ From a little survey that I took of the parents, their
+
+expectations were very, very low. They thought their children
+
+were only going to go to the seventh grade.
+
+             So, we started Avance, in many, many neighborhoods,
+
+in schools, housing proj ects, in churches.                 We knocked on doors,
+
+and both mothers and fathers said that they wanted to help their
+
+children, and they wanted to learn what is it that they needed
+
+to do to get their children ready for school.
+
+             These were very, very poor families, many single, on
+
+welfare, and they just wanted the best for their children.                    So
+
+they attended a nine-month parenting program, a weekly program,
+
+where they learned of knowledge and child growth and development,
+
+from a very culturally sensitive Avance parenting curriculum.
+
+             They learned about the importance of talking and
+
+reading and allowing the child to explore and to experiment,
+
+to touch and to cuddle and do all those things that will stimulate
+
+the brain and will help children develop to their fullest
+
+potential.
+
+             In fact, our Avance curriculum, for 24 years, has
+                  IIcx-Dwnp Conversion
+                                                                              25
+
+included a section on the brain.              However, at that time, we were
+
+relating rat experiments and what we learned about rats, and
+
+now, with a new technology, we're seeing that the effects are
+
+the same with human beings.
+
+             Parents and children go on field trips to the library,
+
+to the zoo, to the circus, wherever we can get free tickets,
+
+to really stimulate the child's environment.                    Avance also
+
+becomes a broker connecting the family to the many social
+
+services, health services, educational services that are in the
+
+community.
+
+             In San Antonio alone, we bring about 100 services to
+
+the families.     We connect the Avance children from the Zero to
+
+Three program to the Head Start program.                   We make sure they get
+
+immunized.     The parents are then asked and encouraged to further
+
+their education, and we assist them in job training.
+
+             I have to tell you, Avance works.               It certainly does,
+
+because we have seen it work, not only through the lives of people,
+
+but also through empirical research.                   From a grant that we
+
+received from the Carnegie Corporation of New York, we found
+
+that parents were changing knowledge, attitudes, and behavior.
+                  IIcll-Dwnp Conversion
+                                                                           26
+
+            From a 17-year followup study of our participants,
+
+we saw changes thereto.         While 91 percent of the parents dropped
+
+out of school, 60 percent went back to school.              These were women
+
+on welfare.     And half of them were attending college.           But, where
+
+we saw the greatest·gains were in those children under the age
+
+of three.     Ninety-four percent of them had graduated from high
+
+school and about half were attending college.
+
+            I have to tell you, I am so happy and proud to introduce
+
+to you one of our first Avance graduates and her mother, Isela
+
+Flores and Esperanza Segura and her husband.                Would you please
+
+stand up?     I have to acknowledge them.
+
+              (Applause. )
+
+            DR. RODRIGUEZ:         Isela was nine months old when she
+
+started Avance.      Her mother was 24 years old, as old as Isela
+
+is today.     However, at that time, Esperanza was a single mother
+
+on welfare, living in a housing project with four children.
+
+Today, Isela is a college graduate.              She is now a school teacher,
+
+teaching in her former school in the barrios of San Antonio.
+
+And that "s where we are seeing the difference, and that Avance
+
+is working.
+                 Hex-Dump Conversion
+
+                                                                      27
+
+           (Applause. )
+
+          DR. RODRIGUEZ:       Like the Carnegie study, like how it
+
+demonstrated, Esperanza learned knowledge in child growth and
+
+development which she applied to all of her children, and they
+
+all have excelled academically and in sports.            In fact, one of
+
+her sons, also an Avance baby, was one of eight representing
+
+the United States at a track meet in London; and another one
+
+excelled in art and just recently got a state award, but Isela
+
+is one that already completed her college degrees.
+
+          We need to see more success stories like Isela and
+
+Esperanza in poor Hispanic communities and in all communities.
+
+ We need more public-private partnerships to support these kinds
+
+of efforts.
+
+          Avance is funded by foundations.             In fact, we got a
+
+large grant from the Kellogg Foundation and the Carnegie
+
+Foundation.   We get it from corporations, foundations, from the
+
+private sector, but also from the Federal G.overnment and the
+
+state government and city government.
+
+          In fact, 40 percent of our funds come from the Federal
+
+Government, in such programs as Even Start, as Early Head Start.
+                     Hex-Dump Conversion
+                                                                             28
+
+ We have a Family Preservation Grant.                    So, Ms. Shalala, those
+
+programs need to be supported and they need to be expanded.
+
+             Isela credits her mother as the person that set that
+
+foundation, that helped her learn the important values, such
+
+as the work ethic, determination, and the love and value of
+
+education.     We need to replicate programs like Avance allover
+
+the United States to set the foundation for school and for life.
+
+             The word "Avance" is a Spanish word meaning "to advance
+
+and to progress. "    We need to advance and help families progress.
+
+ We need children to progress and we need communities, allover
+
+America, to advance and to progress.
+
+             Thank you very much.
+
+             (Applause. )
+
+             THE VICE PRESIDENT:          Gloria, if I could ask you a brief
+
+question.     I remember meeting with you and hearing about your
+
+program years ago in San Antonio, and I've been very impressed
+
+with it.
+
+             I wonder if you could share some of the things Avance
+
+has done to get fathers involved in caring for and raising their
+
+children.
+              Hex-Dump Conversion
+                                                                        29
+
+          DR. RODRIGUEZ:          Since 1988, we have had a fathers
+
+program and, just like the mothers program, the fathers are
+
+encouraged to participate, to learn about child growth and
+
+development, to get actively involved in the development of their
+
+children, and to establish that warm relationship that we as
+
+mothers have been getting and doing for years.
+
+          It has been working.              We have been hearing comments
+
+from fathers that, for too long, they have been out of the picture
+
+and they have missed so much.             So not only have we related
+
+knowledge in child growth and development, but the research
+
+studies that you mentioned, as well as research studies that
+
+they have had on girls where the fathers become involved in their
+
+development, the children are going to be better in math and
+
+science and do better in life.
+
+          The program doesn't end just with the relationship
+
+between the parent and the child.               We also encourage a better
+
+relationship between husband and wife, and strengthening the
+
+marriage, and we encourage the father to be the breadwinner and
+
+the provider by connecting him to adult education courses, as
+
+well as job training programs.
+                   Hex·Dump Conversion
+                                                                     30
+
+          DR. RODRIGUEZ:           Thank you.
+
+          MRS. CLINTON:           Thank you so much, Gloria.
+
+          We also know how important the parent-teacher
+
+connection is, and how necessary it is for families to support
+
+what goes on in schools.          Our next presenter is Sheila Amaning,
+
+who is the co-president of the Charlotte/ Mecklenburg Early
+
+Childhood PTA in North Carolina.
+
+          She, as an employee of a not-for-profit that provides
+
+information to parents on early learning, is committed to
+
+enhancing childhood development and sees a great opportunity
+
+in doing so by linking this early childhood effort to the
+
+pre-school years, to help prepare a child for what comes when
+
+he or she walks through the door of the school.
+
+          Sheila, could you share with us what you've been doing
+
+and what the results have been?
+
+          MS. AMANING:         Certainly, Mrs. Clinton, Vice President
+
+Gore, Mrs. Gore.      I would like to say I'm just delighted to be
+
+here today.   It is, indeed, an honor to be here and even more
+
+honor to share my experience with Early Childhood PTA with all
+
+of you.
+               Hex·Dump Conversion
+
+                                                                      31
+
+          As Mrs. Clinton said, my name is Sheila Amaning, and
+
+I am from Charlotte, North Carolina, the wife of Samuel Amaning,
+
+who is in the audience, and he's a native of Ghana, West Africa,
+
+and the mother of a very spirited son, Asante; and I am family
+
+involvement coordinator with Childcare Resources, which is
+
+located in Charlotte.
+
+          I feel that involvement in Early Childhood PTA is
+
+extremely valuable, as well as beneficial, to parents, because
+
+it enhances parental knowledge about the needs and development
+
+of pre-schoolers, supports families in their role as parents,
+
+assists families in preparing their children for school
+
+readiness, and encourages future family and public involvement
+
+with the school system.
+
+          When my son was two, I attended an Early Childhood
+
+PTA workshop on school readiness.          After attending the workshop,
+
+I was convinced that I absolutely had to become a part of the
+
+Charlotte/Mecklenburg Schools' Early Childhood PTA and that I
+
+could definitely benefit from being able to meet other parents
+
+who shared similar concerns as my own.
+
+          As a result of attending this workshop, I was able
+                Hex-Dump Conversion.
+                                                                           32
+
+to better prepare my child in making the transition from
+
+pre-school to kindergarten, gained invaluable knowledge, and
+
+developed a burning desire to get other parents involved in Early
+
+Childhood PTA and to make them aware of ways in which they could
+
+benefit from being a part of the organization.
+
+          In an effort to do everything that I could to empower
+
+other parents, I became co-president of the
+
+Charlotte/Mecklenburg Schools' Early Childhood PTA, which is
+
+sponsored by the Charlotte/Mecklenburg school system and
+
+chartered by the North Carolina National PTA.
+
+          The Early Childhood PTA is open to parents,
+
+grandparents, guardians, early childhood caregivers, and others
+
+who are responsible for children from birth to school age.
+
+Quarterly meetings and/or workshops are held throughout the year
+
+at various locations.
+
+          Some of the topics include:               Ask the Principals, which
+
+consists of a roundtable discussion of principals from magnet
+
+schools in Mecklenburg County; Getting Started with Early
+
+Childhood PTA; Holiday Story Hour; Discipline and Sibling
+
+Rivalry; Discipline Without Tears; and The Road to Reading.
+                       Hcx-Dun:p Conversion
+                                                                     33
+
+            Some of the other activities which have been initiated
+
+by Early Childhood PTA include conducting Saturday transitional
+
+workshops, and this allows parents to attend a half a day of
+
+class with their four-year-old to experience being in a
+
+kindergarten environment and to get a feel for activities which
+
+take place in the classroom.
+
+            We also distribute educational gift packages to
+
+parents of newborns in Mecklenburg County hospitals.          The
+
+packages, we have a pink one for the girls and a blue one for
+
+the boys.    The contents of the package include a letter from
+
+the superintendent of the Charlotte/Mecklenburg Schools, a
+
+congratulatory letter from the coordinator of Early Childhood
+
+PTA, a certificate of recognition.
+
+            I would just like to share with you the six educational
+
+booklets which are included in the package, as well.          Very
+
+colorful, and the parents can use these booklets with their
+
+children throughout their school years.
+
+            We have:      Helping Your Child Develop Skills for
+
+Helpful Learning; Helping Your Child Develop Math Skills; Helping
+
+Your Child Develop Skills in Science; Helping Your Child with
+                Hex-Dump Ccnversion
+                                                                            34
+
+Reading and Writing; Helping Your Child Learn Through the Arts;
+
+and Helping Your Child Develop an Interest in Social Studies.
+
+          There is also another booklet which we recently started
+
+including in this package, and it        I   S   called Before the Bell Rings.
+
+ This was actually written by a kindergarten teacher in
+
+Mecklenburg County and the book was recently reproduced through
+
+funds of Smart Start, so this is the finished product.
+
+          What it is, it I    S   fun and practical activities to help
+
+your child be ready for school, so this pretty much emphasizes
+
+activities which parents can do with their child at home, as
+
+well as out in the community.
+
+          As a result of our outreach efforts with these
+
+educational gift packages, we received the Golden Key Award and,
+
+last year alone, 13,000 of the gift packages were distributed
+
+to hospitals in Mecklenburg County, so we were able to reach
+
+13,000 parents of newborns.
+
+          In addition, for our outreach efforts, the
+
+Charlotte/Mecklenburg Schools I Early Childhood PTA has also been
+
+recognized for other activities in which they have participated,
+
+as well as demonstrating a commitment to the objectives of the
+                Hex-Dump Conversion
+                                                                           3S
+
+PTA by encouraging and strengthening parent involvement and
+
+advocacy for children.
+
+            As a result of this, we received an award, and it was
+
+the National PTA Advocates for Children Award.
+
+            I strongly feel that the educational process begins
+
+at birth and that, the more parents are empowered to deal with
+
+the development and education of their children, the great
+
+opportunities will be for their children.                 Being a part of the
+
+Charlotte/Mecklenburg Schools' Early Childhood PTA has been a
+
+truly wonderful experience for me, and I would like to challenge
+
+everyone involved in the life of a child to become a member of
+
+an Early Childhood PTA chapter.
+
+            Thank you.
+
+            (Applause. )
+
+            MRS. GORE:       Sheila, if I could just ask you one
+
+question.
+
+            Because of your involvement wi th the parents and with
+
+the teachers, what have you learned or what has been the most
+
+helpful thing to you, as a parent?
+
+            MS. AMANING:        Well, actually, there are two things.
+                 Hex-Dump Conversion
+                                                                             36
+
+ I guess the first thing is the assurance that there are other
+
+parents out there who are experiencing some of the same concerns
+
+as I experience, and just being able to see that I am not alone
+
+and that it is a constant battle, and you have to advocate for
+
+the children.
+
+          Another thing which I have learned is that there is
+
+always opportunity to take advantage of a teachable moment. It's
+
+not that you have to take the child out to a fun fair.                 You can
+
+begin at home.    You can begin in your kitchen teaching the child
+
+math skills.     You can go right outside your back door and take
+
+advantage of the opportunity to introduce the child to the
+
+environment.
+
+          I would say those are two of the most important thing
+
+that I've gained.
+
+          MRS. GORE:         Thank you.
+
+          MRS. CLINTON:          That's great.          And, Sheila, I know how
+
+proud you are of your husband and your son, so why don't we ask
+
+them to stand?
+
+           (Applause. )
+
+          MRS. CLINTON:          Thank you.        I hope this is one of those
+               IIcx-Dwnp Ccnversion
+                                                                       37
+
+teachable moment.
+
+           (Laughter. )
+
+          MRS. CLINTON:        I am so pleased that we could have with
+
+us this afternoon a Chief of Police who is interested in
+
+prevention and involved in a partnership with the Yale Child
+
+Studies Center and other institutions in New Haven, Connecticut,
+
+that is aimed at putting into practice through law enforcement
+
+the information about development that we have been talking about
+
+today.
+
+          It's especially significant, since this program is
+
+serving as a model for the Department of Justice-funded program
+
+that the President announced this morning.
+
+          So I would like very much to hear from Chief Melvin
+
+Wearing what this effort is that is going on in New Haven and
+
+what have been the results of it in terms of law enforcement
+
+and the people in the community you work with.             Chief Wearing?
+
+          CHIEF WEARING:         Thank you very much, Mrs. Clinton,
+
+Vice President Gore, Mrs. Gore.                Children are our most
+
+important resource.
+
+          New Haven is the third largest city in the State of
+                IIcx-Dwnp Ccnversion
+                                                                                38
+
+Connecticut, has a population of approximately 130,000 people,
+
+51 percent minorities.             In 1990, the Police Department began
+
+the department-wide transition from traditional policing to
+
+community-oriented policing.
+
+            Community policing in New Haven integrates police
+
+officers within their communities.                        They are known as
+
+individuals, rather than by role.                    They know the people they
+
+serve as individuals, because they interact with them on a daily
+
+basis.    Citizens now have a voice in how they are policed and
+
+they now have unprecedented access to the Department.
+
+            We have successfully evolved from a traditional law
+
+enforcement agency responding to crime simply by arresting
+
+people, to an organized organization of skilled professionals
+
+committed to solving neighborhood problems before they escalate
+
+to serious crimes.
+
+            Since police officers are actually the last of a dying
+
+breed of professionals who make house calls 24 hours a day, seven
+
+days a week, we are in a position to direct people to the resources
+
+best   s~ited   for their particular problem.                   The new approach,
+
+however, requires a new type of police officer, with special
+                Hex-Dwnp Conversion
+                                                                   39
+
+training and special partners.
+
+            To this end, we have instituted a number of
+
+groundbreaking initiatives, including the Department's
+
+partnership with the Yale Child Studies Center.        As public
+
+servants, the police must look to experts to help us, to give
+
+us the resources, and guide us, as we do our job.
+
+            The purpose of the Child Development/Community
+
+Policing Program is to help children who have been traumatized
+
+by violence experienced in their everyday lives and to prevent
+
+new generations from becoming involved in this same cycle of
+
+violence.    As a result of our work together, the program now
+
+includes specialized interventions for families involved in
+
+domestic violence and for young perpetrators who are beginning
+
+to move from the role of victim to the role of perpetrator.
+
+            As applied to officers' daily work, the program
+
+involves several components:
+
+            First, the seminar on child and adolescent
+
+development;
+
+            Second, a consultation service where clinicians and
+
+specially trained officers are on call 24 hours a day to make
+                 Hex-Dump Conversion
+                                                                               40
+
+and direct contact with families referred by officers;
+
+     Third, a clinical fellowship at the Yale Child Studies
+
+Center for veteran police officers;                              Fourth, a
+
+community policing fellowship for clinicians, where they learn
+
+basics   ~bout   police procedures.
+
+they also give them a chance to see streets through the eyes
+
+of police officers;                  Finally, a weekly program conference,
+
+which provides a forum for case discussions, collaborative
+
+problem solving, development of monitoring of new approaches
+
+and interventions.                   An example:          Six children, the
+
+youngest a toddler of two years, witness a knife stabbing between
+
+two men.   One was stabbed to death, the other wounded.                  Clinical
+
+and police service went beyond the event.                     The officers became
+
+figure of stability in the lives of these children as they
+
+continued to stop by the house to check on the kids well after
+
+the crime had occurred.                      In New Haven, we have the same
+
+officers working the same beats on a daily basis, and make sure
+
+that they interact with residents on a daily basis.
+
+     Also, police officers sometimes perpetuate violence, when
+
+we execute search and seizure warrants, looking for evidence
+                 Hex-Dwnp Conversion
+                                                                              41
+
+of a crime.     Sometimes it s of an illegal nature, and many times
+                                   I
+
+
+
+
+there are children in these homes when we enter.                 We no longer
+
+leave those children unattended.                We pay attention to them, now.
+
+ We call in the clinicians to assist and make them aware of what
+
+is going on.                Police were called to the scene of a double
+
+shooting.     Two children, ages four-and-a-half to six had
+
+awakened and found their parents unresponsive and bloody.                   They
+
+went back to bed and hoped that their parents would wake up soon.
+
+After a few hours, the six-year-old dialed 911 and reported
+
+that her parents were dead, and she was alone with her baby
+
+brother.      Police arrived at the scene and did find both parents
+
+dead, in an apparent murder-suicide.                         The Child
+
+Development/Community Policing clinicians were immediately
+
+paged.     In addition to their involvement with the surviving
+
+family members, officers and the clinicians provided
+
+information, consultation, and support to the children s school       I
+
+
+
+
+and helped school officials deal with intrusive media.
+
+     previously, if a child was the victim of violence, or
+
+witnessed a serious act of violence, he or she would not have
+
+been considered a victim.              They were basically ignored.       Today,
+                Hex-Dump Conversion
+                                                                           42
+
+through the Child Development/Community Policing Program, these
+
+children can get the help they so desperately need.
+
+     Under funding from the Office of Juvenile Justice,
+
+Delinquency Prevention, Portland, Oregon; Nashville, Tennessee;
+
+Charlotte, North Carolina; and Buffalo, New York are involved
+
+in replicating the Child Development/Community Policing Program.
+
+ Newark, New Jersey and Baltimore, Maryland are among other
+
+cities that are introducing the program.                       In my
+
+career, I never thought that I would see police officers and
+
+mental health professionals working together as a team.                In the
+
+past, police officers would essentially fill out a report, fill
+
+out the complaint form, and move on to the next case.
+
+     In the face of the tragedies that officers encounter on
+
+a regular basis, how could we expect them to effectively attend
+
+to the needs of children and families left behind without new
+
+partners, new training, and new resources?               How could the
+
+clinicians make their skills and expertise available to those
+
+same children and families, if they never ventured beyond the
+
+consulting room?               Through the Child
+
+Development/Community Policing Program partnership, we no longer
+                     Hcx-Dump Conversion
+                                                                                  43
+
+work in isolation from each other.                 We no longer neeq to turn
+
+away from the devastated faces of children who have been
+
+traumatized.       Together, clinicians and officers are now able
+
+to affect the lives of children and families who, in the past,
+
+would have been the least likely to receive mental health services
+
+.and the most likely to experience police as coming too late,
+
+altering too little, and leaving too soon.                            As a result
+
+of this partnership, the police, the mental health professionals
+
+and, most importantly, the children, are not alone in the face
+
+of violent tragedies.          Thank you.                  (Applause. )
+
+     MRS. CLINTON:        Chief, if I could ask you, I know that we re        I
+
+
+
+
+seeing very positive results around the country from community
+
+policing reducing crime, preventing crime.                     Do you think that
+
+this additional effort, through the Child Development/Community
+
+Policing Program, will have an additional effect, or is this
+
+something you re doing to try to just take care of the victims?
+               I
+
+
+
+
+          CHIEF WEARING:           I feel that, if we are going to make
+
+a difference, or break the cycle of violence in this country,
+
+then we have to deal early on with children.                   And again, police
+
+officers make calls 24 hours a day, seven days a week.                    We need
+               Hex-Dump Conversion
+                                                                              44
+
+to reach out to other agencies, other services, to join in, to
+
+save our children.               MRS. CLINTON:           There is a program that
+
+has been operating for a number of years now, that was started
+
+in Chicago, Illinois, called Ounce of Prevention.                         It was
+
+the brainchild of Irving Harris, who is here with us today, who,
+
+along with his son, Bill, who is also here, have been stalwart
+
+advocates for the proposition that eariy intervention and
+
+emphasizing early childhood development truly does amount to
+
+an ounce of prevention, as opposed to a pound of cure, which
+
+is the usual route that we have taken.                         Harriet Meyer is
+
+the executive director of Ounce of Prevention.                    I wanted her
+
+to describe what Ounce of Prevention is and what it has done,
+
+and provide perhaps some suggestions or lessons from their
+
+experience in attempting to create an early intervention system.
+
+ Harriet?       MS. MEYER:          Thank you.           I want to thank you and
+
+the Vice President and Mrs. Gore and the President for hosting
+
+this event, and I want to thank you on behalf of my many, many,
+
+many colleagues who are out there working across the country,
+
+struggling to put the pieces of the puzzle together in many
+
+communities.            The Ounce is a public/private partnership
+               IIcx-Dwnp Conversion
+                                                                   45
+
+between the State of Illinois, the Federal Government, and the
+
+private sector, and it invests in the healthy development of
+
+infants, children, adolescents, and their families in order to
+
+prevent physical, social, and emotional problems later in life.
+
+          We accomplish our work through an innovative cycle
+
+which marries program implementation with research, policy
+
+analysis, and advocacy.       We chose the name, the Ounce of
+
+Prevention Fund, because we believe that it is more caring the
+
+cost-effective to promote child development than to treat
+
+problems later in life, and we target the first three years of
+
+life for all the reasons you heard this morning.            This
+
+period offers a tremendous opportunity to change the trajectory
+
+of a child's life and, while it is not the only moment for
+
+intervention, birth to three truly provides all service providers
+
+a developmental window of opportunity when we can have the
+
+greatest impact.              Perhaps the greatest lesson we have
+
+learned since our inception is the importance of working in
+
+partnership.   The Ounce was originally conceived as a
+
+partnership 15 years ago when Irving Harris and the Pitway
+
+corporation joined forces with Illinois state government,
+                   Hex-Dump Conversion
+                                                                           46
+
+through its Department of Children and Family Services, to
+
+develop a statewide birth-to-three program for teen parents and
+
+their babies.          Then, 11 years ago, the Ounce partnered with
+
+HHS, our state child welfare agency, and local foundations to
+
+develop a comprehensive birth-to-three program in a very low
+
+income community in Chicago.         Collaborating with a hospital,
+
+the chicago Public Housing Authority, and community
+
+organizations like the Chicago Urban League, we now operate one
+
+of the nation's first Early Head Start sites.                       This
+
+program reaches more than 100 families and is comprehensive,
+
+offering home visiting, health care services, full day child
+
+care for children from three months to the age of five, as well
+
+as an array of self-sufficiency activities for parents, and we
+
+do it all in one place at one site.                       It is there that
+
+we apply theories of research and practice to the design and
+
+operation of early childhood programs.             Early Head Start really
+
+has ushered in a new era in this nation, by focusing on the first
+
+three years of life.    The funds are non-categorical and provide
+
+us with the glue that we need at the community level to fill
+
+in the gaps in services to truly meet the needs of families.
+                     : !cx-DulT:p Ccnversion
+
+                                                                                47
+
+        Early Head Start is the place the child gets a real head
+
+start.     It is an opportunity to help a mother have a healthy
+
+pregnancy and strengthen family ties.                          The program is
+
+now flourishing and, as a part of it, we have just established
+
+our most exciting partnership with the Chicago public schools
+
+to build a brand new child care center that will focus on children
+
+from birth to the age of five, and will be located on public
+
+school property directly across the street from our Early Head
+
+Start program.         So what happens for us, when the rubber hits
+
+the road, so to speak, and we apply theory to practice in child
+
+care?            Let me tell you about Trevon.                 At eight months,
+
+his grandmother came down and enrolled him in our infant child
+
+care program.    Trevon's mother, Nikkaa, disaffected and
+
+depressed, was 16 at the time, and a senior at the DuSabele High
+
+School across the street.         She showed very little interest in
+
+him, held him on her hip facing backwards when she carried him.
+
+At the center, she didn't talk to staff or even say goodbye
+
+to her child.          Initially, the caregiver in our child care
+
+center, Carolyn, held him a lot, because he needed it.                   He was
+
+always crying or, even worse, whimpering.                   Over time, he began
+                   ~Icx-Dwr.p Conversion
+                                                                             48
+
+to respond to her care, and she was able to place him between
+
+her knees on the floor and play with him.                  Little by little,
+
+she saw his crying diminish.                  Nikkaa, the mother, seeing
+
+this response, asked the staff for guidance.                  Carolyn, the
+
+caregiver, had begun to build a trusting relationship with
+
+Nikkaa, by telling her about Trevon and his day.                 This started
+
+Nikkaa thinking about her child and watching him more, and Carolyn
+
+and Nikkaa talked through the child's actions, and Nikkaa began
+
+playing with her child, both at the center and at home, with
+
+toys that we sent with her.                  Now, when his mother enters
+
+the center, Trevon greets her excitedly, and there is a
+
+corresponding smile and a hug.                        This story depicts the
+
+dance that takes place between a parent and a child.                  It's a
+
+relationship that stimulates the child's growth.                  It was a
+
+caregiver who initially was able to provide what Trevon needed
+
+but because she helped the mother develop the same kind of
+
+relationship with her child, the mother was able to cut in, and
+
+now she also dances with her son.                    We can all imagine what
+
+would have happened, had staff not engaged his mother and him.
+
+How can we expect this child to learn from toys and books and
+                    IIex-Dwnp Conversion
+                                                                           49
+
+mobiles, if all he can do is lay on his stomach and whimper because
+
+no one is responding to his need to be talked to, touched, held,
+
+and loved?               An   infant's cognitive growth occurs through
+
+emotional and social interactions.                 We learned that this
+
+morning.     Child care and Early Head Start are excellent
+
+opportunities to reach children and families at the earliest
+
+possible moments in order to lay the foundation that is the basis
+
+for their ability to learn in school and to get along with others.
+
+             We must view child care as more than just a place for
+
+children to be when their parents are at work or in school.
+
+Developmentally appropriate, high quality child care is
+
+literally brain food for the next generation, but good child
+
+care must provide caring relationships, knowledgeable
+
+caregivers, family connections, and a safe, health environment.
+
+             The most important assessment tool that we have is
+
+our power of observation.           Our staff need to be continuously
+
+trained and supervised to see with their eyes, but teach with
+
+their heart.     Dr. Sally Province, the great pioneer of infant
+
+development, said, "pon't just do something, stand there."                She
+
+meant that observing how a parent and child interact is critical
+                    Hcx-Dwnp Conversion
+                                                                                  50
+
+to understanding how to reach out and to help them. Sometimes,
+
+we need to leave the parent and the child alone.
+
+     Lastly, relationships matter.                     Positive, nurturing
+
+relationships between staff and child, staff and parent and,
+
+of course, most importantly, and parent and child help the brain
+
+to grow, and it is only through these relationships that children
+
+change and develop and build a sense of cooperation,
+
+self-confidence, and a concept of what is expected and what it
+
+takes to feel right in the world.                              Thank you.
+
+     (Applause. )                   MRS. CLINTON:              Thank you very much,
+
+Harriet.          I wanted to ask you, if you could, to speak a
+
+little bit about another aspect of Ounce of Prevention, and that
+
+is home visits.      What are the advantages of home visiting, and
+
+how does that get carried out through your program?
+
+     MS. MEYER:      Voluntary home visiting offers us, I think,
+
+a unique opportunity to enter the life of a parent just at that
+
+moment when a parent is most open to receiving information,
+
+creating a new relationship, and receiving support.
+
+     The reason we visit them in the home is because that's where
+
+parents are.   Especially after they give birth, they are usually
+                  IIcx-Dwnp Conversion
+                                                                       51
+
+involved, bound to the home, with more of the more intimate
+
+functions of parenting, which are, in fact, very personalized.
+
+ They include feeding and nursing and bathing and changing and
+
+diapering.   Those aren't activities that feel comfortable taking
+
+place in a large classroom, as an example.                  It's a
+
+wonderful way for us to break down the isolation that every parent
+
+feels when you're presented with this bundle of joy on the first
+
+day, but particularly for our most vulnerable parents.        It offers
+
+us a great time to not only build the relationship, but make
+
+the connection for them as a front door to other community
+
+services that are available to them.                   MRS. CLINTON:   I
+
+am very strongly in favor of home visiting, for just all of those
+
+reasons, because I think that it could help build relationships,
+
+do the kind of modeling that Dr. Brazelton and others talked
+
+about this morning, and create a relationship of trust between
+
+a parent and a responsible adult, which may be the only way to
+
+build up the confidence of that parent over time.                I
+
+think that the more we can consider ways of providing that home
+
+visitor function, the more likely we are to actually see the
+
+changes that would benefit parents and children.                 We are
+                   IIcx-Dwnp Conversion
+                                                                          52
+
+all looking forward to the wonderful production that Rob Reiner
+
+and his wife and others have been working on to bring to broad
+
+public attention the information about brain development and
+
+also some of the solutions about what is working around the
+
+country.        Rob has taken this effort on as a crusade, and
+
+those of us who have watched his energy being spent on this are
+
+very grateful that he has, because what he has done is to bring
+
+together not only the resources for a television program, but
+
+for a campaign called I Am Your Child.                     It will call upon
+
+the talents and resources of entertainment leaders,
+
+corporations, early childhood experts, community leaders,
+
+business leaders, and on and on and on.                    Rob, if you will,
+
+give us maybe a preview but, more than that, what comes after,
+
+as well as what you hope to see develop from this?
+
+     MR. REINER:   Thank you.        First of all, I just want to say
+
+I am so thrilled to be here today with the First Lady and Vice
+
+President Gore and Tipper Gore and the President this morning.
+
+ It is so thrilling for me, because we have been working so hard,
+
+everybody in this room, for a long, long, long time, and we have
+
+now finally put the issue of early childhood development in front
+                 IIcx-Dwr.p Conversion
+                                                                           53
+
+center, where it belongs.          It is the single most important issue
+
+facing American today.                    (Applause. )          MR. REINER:
+
+ We have spent the last 50 years since the Second World War
+
+strengthening our country, from trying to build democracy and
+
+fight communism.      We know communism is virtually eliminated now,
+
+and now we have to look inward.              If we are going to strengthen
+
+this country in the future, we must look inward, and the way
+
+to look inward is to strengthen the family, and the way to
+
+strengthen the family is to strengthen the relationships between
+
+parents and children in the first three years of life.
+
+     Wonderfully, we have new brain science.              We have scientific
+
+research which is pointing us in the right direction and telling
+
+us what to do.     I want to say, if we are going to adopt a slogan,
+
+"It's the brain, stupid."                        (Laughter. )        MR.
+
+REINER:   Ultimately, that's what it comes down to. If we want
+
+to have a real significant impact, not only on children's success
+
+in school and, later on in life, healthy relationships, but also
+
+an impact on reduction in crime, teen pregnancy, drug abuse,
+
+child abuse, welfare, homelessness, and a variety of other
+
+societal ills, we are going to have to address the first three
+                 Hcx-Dwr.p Conversion
+                                                                                    54
+
+years of life.      There is no getting around it.                   All roads point
+
+to Rome.    It's very simple.                        We know what the problems
+
+are, and we were talking about it thi s morning in thi s morning's
+
+panel, and we know what the solutions are.                     That's the kind of
+
+frustrating thing for everybody in this room.                    There are people
+
+in this room that have been wrestling with these problems for
+
+15, 20, 25 years, and we have the solutions.                            My job, my
+
+job is to take this information and disseminate it to the public,
+
+because we have to create a public will.                   Once we create a public
+
+will, there is a wave that is inescapable, there is a critical
+
+mass that is unavoidable.             And, when that critical mass happens,
+
+we will get the country to change their way of thinking and look
+
+through the prism of zero to three in terms of problem solving
+
+on every level of society.                           I talk about, you know,
+
+building a coalition and building up a head of steam.                        And I
+
+want to thank Tipper Gore, especially, because -- yes, Tipper,
+
+wake up, you're down there.                           (Laughter. )           MR.
+
+REINER:    I have been thinking about this issue for 20 years,
+
+now.   I don't come as a Johnny-corne-lately here.                      I've been
+
+thinking about it for a long time.                         I came to my own
+                Hex-Dump Conversion
+                                                                             55
+
+realizations through my own analysis, and determined that what
+
+happened to me, in my first two or three years of life, was
+
+critical in terms of how I functioned later on as an adult, good
+
+and bad, and I knew that that realization was not unique to me,
+
+that this was something that everyone experienced_
+
+       But, at that time, I didn't know about the brain science.
+
+ I think the brain science was just breaking, but I was certainly
+
+not aware of it.      Then, as I became more successful and had a
+
+power base and had the ability to reach out to the powers that
+
+be, I started searching, because I knew that this was the answer.
+
+ I knew this was the answer, but how did I get this information
+
+out?        So I started reaching out, and the first person I called
+
+was Tipper Gore.      I had read, like everybody else, that she was
+
+interested in mental health issues.                    I knew she cared deeply
+
+about that.    And I picked up a telephone and I called her, and
+
+she answered the telephone; and I said, "I want to come and talk
+
+to you, because I want to know what I can do.                   What can we do
+
+to put this on the front burner and make everybody aware of how
+
+critical this is?"               I went to washington, with my wife,
+
+Michelle, who is sitting right there, and we met with Tipper
+                 Hex-Dwnp Conversion
+                                                                                 56
+
+at her house, and there were a couple of members of the Department
+
+of Education, I think, there at that time.                           The
+
+Clintons' Goals 2000 had just been released at that time.                        I
+
+looked at the goals.       And, of course, everybody knows the first
+
+goal is, every child must enter school wi th a readiness to learn.
+
+ And I said, "Hmm.       If we can meet that goal, we don't have to
+
+worry about the rest of these goals.                    They will take care of
+
+themselves."    And I believe they will.                        So, again, all
+
+roads lead to Rome.        I mean, if we can get our children ready
+
+to learn as they enter school, they will learn.                     They will be
+
+good students and they will reach their full potential.
+
+       So my job is to get the word out.                I went back to California
+
+and I met Ellen Gilbert and we started reaching out to every
+
+member of the society.        We talked to people from the Governor's
+
+Office in Vermont, from the Vice President's office, Mayor
+
+Riordan came to the house, and we started talking -- "What can
+
+we do?"           I realize that there is no stomach here for a
+
+federally funded program and, also, there is no one size fits
+
+all.   We certainly can observe that from what we hear today.
+
+There are a lot of ways to "skin the cat" and there are lots
+                IIcx-Dwnp Conversion
+                                                                              57
+
+of needs from the various communities.                 So I said, "And, by the
+
+way, we don't want a one size fits all."                  It has to be from a
+
+grassroots level.        It has to be community basis.                 I do
+
+feel there is a federal component to this, because I do feel
+
+there has to be a national imprimatur on all of this, even
+
+regardless of how large or small that component is, and that
+
+can be worked out by the policy makers, but there needs to be
+
+done.              "But," I said, "I don't do that.             I don't create
+
+programs.     I create television programs, not social programs."
+
+ So what I do is, I know how to put on a show, and that's what
+
+I decided to do.      I'm went to ABC and I said, "Give me an hour.
+
+ Give me one hour.       I'm now in a position where I've done enough
+
+in my community where you must give me an hour to talk about
+
+this.     And they were kind enough.                   By the way, before I
+
+get into this, Mr. Langbo, what cereal are we going to be on
+
+here?     Is it going to be Frosted Flakes or Special K?              Because
+
+Special K is going to penetrate a lot more deeply than Frosted
+
+Flakes.            (Laughter. )                   MR. REINER:   I watched that
+
+Special K with that guy, you know, Covert Bailey or something.
+
+ But he's kind of fat.          He doesn't lose weight.          I don't know
+                    Hex-Dwnp Conversion
+                                                                             58
+
+why_        MR. LANGBO:     It can be any cereal that you would like
+
+it to be.        (Laughter. )                 MR. REINER:       Ones that
+
+adults eat, you know.      Don't put it on a sugary cereal.           Anyway,
+
+no, it's terrific.      It's terrific what you're doing.              It's
+
+absolutely terrific what you're doing.                      Anyway, I went to
+
+ABC, and I said, "Give me an hour.             Give me an hour and I will
+
+put on a show, and I will get you some people to be on the show
+
+so that it will not be a dry documentary, it will not be an NBC
+
+White Paper.    It's ABC, first of all, so it couldn't be an NBC
+
+White Paper.            (Laughter. )                  MR. REINER:    And I
+
+said, "I will get some people into the tent for you. "               And they
+
+said, "Well, who will you get?"         I said, "I'll get you Tom Hanks. "
+
+ And I went and I got Tom.         He was the first person I went to.
+
+ I got Tom Hanks.    That opened the door, because now we've got
+
+somebody who says,    "Okay, I'm standing up for this."
+
+       Then, it was easy.      I went to Robin Williams, I went to
+
+Billy Crystal, I went to Rosie O'Donnell, to Roseanne, to Oprah
+
+Winfrey.    I went to General Colin Powell.               And, when I had all
+
+those people lined up, I said,          "Maybe I can get the President
+
+and the First Lady to come on."           And they agreed to do it, and
+                  Hex-Dump Conversion
+                                                                               59
+
+they're terrific in the show_              They're absolutely wonderful.
+
+             So we've got this wonderful forum, where we hope people
+
+will tune in.     Now, we also are disseminating information, as
+
+well.     There's going to be a lot of information about the new
+
+research in brain development.              Barry Brazel ton is on the show,
+
+Dr. Bruce Perry, C. Everett Koop.                         We will also examine
+
+the town of Hampton, Virginia and what they are doing, in terms
+
+of early childhood development.                It was a community at risk.
+
+They were facing economic collapse, and they decided to adopt
+
+an Ounce of Prevention preventative approach, and develop some
+
+early childhood development programs as a way of uplifting the
+
+community.               They have done that, and they have been very,
+
+very successful, so we are highlighting them, as well.
+
+        It was one thing to put together a television show and get
+
+it out to the public and have this discussed.                  But, like so many
+
+things that you put front and center, unless there is some
+
+followup, unless there is a public engagement component to it,
+
+it evaporates into the ether.              We all know what happens when
+
+we all get together.        We're of like mind.             We talk about a lot
+
+of things, and then it disappears.                        So, to that end, we put
+                 Hex-Dump Conversion
+
+                                                                               60
+together quite a coalition.             We started reaching out.         We went
+
+to Johnson & Johnson and we asked them if they would help fund
+
+a video, which they are doing and which will be made available
+
+at the end of May, a parenting video.                          We went to IBM and
+
+asked them if they would help us fund a website, which they agreed
+
+to do -- www.Iamyourchild.org, which is our website.
+
+     We went to AT&T and we said, "Would you agree to give us
+
+a toll-free number where we could disseminate some fulfillment
+
+materials?"     They agree to do that.             It's 1-888-447-3400 which,
+
+if you call, you can get either a parenting brochure called The
+
+First Years Last Forever or a brochure which I think is ultimately
+
+going to be much more important, which is a community mobilization
+
+brochure.     It tells people what they can do in their communities
+
+to mobilize around this issue.                            The Avance program
+
+that was spoken of earlier by Ms. Rodriguez is talked about in
+
+the brochure, parents as teachers, a number of other programs,
+
+really good programs around the country are mentioned, along
+
+with the Healthy Families America and what they are doing to
+
+help communities mobilize.                        So we've done all that and,
+
+on top of it, we've reached out to the National Governors
+                 Hex-Dump Conversion
+                                                                        61
+
+Association.     Governor Miller, who is the chairman and Governor
+
+Voinovich from Ohio, who is the vice chair, have agreed to meet
+
+with us and agreed to put this issue on the front burner as part
+
+of their agenda, as the Governors' agenda.                    I spoke at
+
+the last NGA meeting in the winter here in Washington, and it
+
+was discussed.      They put together a six-Governor task force,
+
+bipartisan -- three Republicans and three Democrats -- and the
+
+issue of early childhood will be passed on to Governor Voinovich
+
+and I'm sure Governor Miller will speak more about that.
+
+       Newsweek Magazine, yes.           Rick Smith, are you here, sir?
+
+Yes.   There is Rick Smith.          We called Newsweek up.     Recently,
+
+you might have seen -- Rick, don't get mad at me -- recently,
+
+you've seen the report on Time Magazine about the brain.               But
+
+Newsweek was on this issue six to eight months before Time
+
+magazine.    They were the first national publication to really
+
+get on the issue of brain development.                 We called them up
+
+and said, "we're going to do this campaign.            Would you like to
+
+be an ally to us?"        And they immediately said yes.        They went
+
+ahead and put together a special edition which is going to hit
+
+the stands April 24th.         It's a sensational issue.      Those of you
+                    Hex-Dump Conversion
+                                                                           62
+
+who have had preview copies of it, it covers just about everything
+
+that we've been discussing today, and it was funded by Johnson
+
+& Johnson, fully funded.          They have been unbelievable for us.
+
+            So we are doing all of these things.           It was mentioned
+
+earlier today about a CEO summit, Kaiser Permanente putting on
+
+a CEO summit.    We are going to be the co-hosts of that summit.
+
+ We are going to help them throw some media spotlight on that
+
+to see what businesses can do around the country.                    Like I
+
+said, I'm not a Johnny-corne-lately, and I'm not a
+
+Johnny-leave-early.       I guess I just made that up.           I'm in for
+
+the long haul, here.        I'm in for the long haul.
+
+     (Applause. )               MR. REINER:         So we are going to
+
+continue.    The Reiner Foundation is going to continue with a
+
+media office in Los Angeles, which we're going to start ramping
+
+up to support all the organizations that have been pulled together
+
+by the Families at Work Institute, the Carnegie Corporation,
+
+the Heinz Foundation, all the people that we've been working
+
+with, to help them get messages out.                      You know, this
+
+brain information has been around for 15 years, but we need to
+
+get it out and we need to continue to get it out and keep the
+                 Hex-Dump Conversion
+                                                                             63
+
+drumbeat going_                   I believe it's going to be the central
+
+ issue in the future elections.             I think it is the single issue
+
+to strengthen our country, and that's all we're doing.                  And I'm
+
+so thrilled to be here, I can't tell you how thrilling this is.
+
+             (Applause. )                 THE VICE PRESIDENT:     Wow.     That
+
+was fabulous.      I just want to say, Rob, that ever since Tipper
+
+specialized in this issue in graduate school, I've heard her
+
+ lectures on zero to three and child development, but I can tell
+
+you that I don't think she has ever had a response to one of
+
+her little talks like this.                      MR. REINER:   It was
+
+. interesting, because I came to your house, and I said,                 "This
+
+is what I think.     You know, I think that what happens to a child
+
+in the first couple of years of life is the critical time period
+
+in determining how that child is going to function later on in
+
+society."          And she says, "Oh, you're talking about zero to
+
+three."     I said, "I am?"        I didn't even know there was a
+
+thing -- I didn't even know there was a thing called zero to
+
+three, but apparently I was on the same wavelength.
+
+     THE VICE PRESIDENT:           Let me ask you a question about the
+
+entertainment media.        You have talked about enlisting all these
+                  Hex·Dump Conversion
+                                                                      64
+
+great folks who can command the attention of the public, and
+
+they're parents, they care, and theY're helping you, and it's
+
+absolutely wonderful.                   What about the media's
+
+responsibility in the entertainment they provide?            How do you
+
+see that?        MR. REINER:        Well, there obviously is a
+
+tremendous responsibility.         I mean, there's a lot that the media
+
+can do and we will do.                  One of the things that I'm going
+
+to work very hard on in the next couple of months is there is
+
+an organization called the Civitas Initiative, which was started
+
+by a fellow named Jeff Jacobs, who is the executive producer
+
+of the Oprah Winfrey Show.       He runs all of her Harpo Productions.
+
+            He is working very closely with Dr. Bruce Perry, who
+
+many people in this room are familiar with down at the Baylor
+
+College of Medicine, and they are working on trying to find a
+
+model, a working kind of biosphere model, to integrate all of
+
+the child protective services into one area so it can be
+
+disseminated to communities on an at-need basis, and also to
+
+have an ongoing research component connected to it so that we
+
+will have enough data to be able to continue doing these programs.
+
+            One of the problems we have and one of the things I
+                      Hcx-Dump Conversion
+                                                                                   65
+
+left out is that we are also funding a Rand Corporation study,
+
+a cost/benefit analysis of the programs that are working and,
+
+as many of the people in this room know, the problem we are having
+
+is that there are not longitudinal studies, there are not
+
+longitudinal cost/benefit studies to prove to people that this
+
+is cost effective.                 We know it is.                We all in this room
+
+know it is.     And Bruce Perry h.as often said, you know, "How many
+
+times do you have to drop an apple from a tree to know that there
+
+is such a thing as gravity."               I mean we know it exists.             But
+
+it is certainly nice to have the good hard data to back it up.
+
+ We've got the science.           The science is in place.                We have got
+
+to get the economics in place.                               Once those two things
+
+are locked in place, it is immutable.                  This thing cannot go away.
+
+ We will pursue it.          But to that end, to go back around, you
+
+know, Oprah Winfrey is on the board of the Civitas Initiative.
+
+And the one thing I am going to try to do, you know, it is enough
+
+for me to be a front for the media in this and I'm, you know,
+
+I'm not unattractive.
+
+              (Laughter. )
+
+          MR. REINER:          But Oprah winfrey really is attractive,
+                 Hcx-Dwnp Conversion
+                                                                             66
+
+you know.    And if I can convince Oprah Winfrey to be a
+
+spokesperson for this issue, I think that is probably the biggest
+
+thing we are going to be able to do.
+
+            THE VICE PRESIDENT:          You're doing pretty well, Rob.
+
+            (Laughter. )
+
+            MR. REINER:     I know.      But, you know, I am not as pretty
+
+as Oprah.
+
+            (Laughter. )
+
+            MR. REINER:      You know?        And I can't sell books the
+
+way she does.
+
+            THE VICE PRESIDENT:          I just wanted to add one other
+
+thing I'll say to the First Lady.              Mr. Langbo, you look like
+
+you wanted to answer Rob's question.
+
+            (Laughter. )
+
+            MR. LANGBO:      Rice Krispies.
+
+            (Laughter. )
+
+            THE VICE PRESIDENT:          Fat free.      Fat free.   Right?
+
+Rice Krispies is fat free.
+
+            MRS. CLINTON:      Oh, my goodness.         You know, one of the
+
+sweetest things I've seen, Rob, in the last couple of weeks,
+                      Hcx-Dump Conversion
+                                                                               67
+
+is your father going around promoting his new movie with Bette
+
+Midler, spending half his time promoting your program.                      So, I
+
+mean it is becoming a generational commitment here.
+
+           I wanted to follow up on one thing that Rob said at
+
+the very end because I think it is something we should pay special
+
+attention to when he was talking about the Civitas Initiative
+
+and the work with Dr. Perry and others.                I think it is important
+
+that we do have some sense of priorities in terms of the challenges
+
+that families face.     And, certainly, children in foster care,
+
+children in abusive situations, children who are most vulnerable
+
+should be our first priority because oftentimes they will not
+
+have the kind of help and their parents won I t know where to turn,
+
+and those are the populations the hardest to reach.
+
+           So, we have got to use every means at our disposal
+
+to try to reach into those communities and to make the case that
+
+all of us on this panel are making about the importance of early
+
+intervention.
+
+          Now, there are some very difficult challenges that
+
+people like Gloria Rodriguez and others deal with on a daily
+
+basis in trying to deliver these messages.                      What works for my
+                       Hex-Dump Conversion
+                                                                        68
+
+family might not work for one of Gloria's clients or one of
+
+Kellogg's employees and we have got to be very sensitive about
+
+how we not only deliver the primary message, but then deliver
+
+all these sub-messages to different populations.               And I hope
+
+that many of you who are here with us today will really give
+
+all of us advice about how best to do that.
+
+            There's another group of people that I am particularly
+
+concerned about.       Dr.     Cohen mentioned them this morning.      You
+
+know, and that is the parents of children who have some kind
+
+of disability, who have some sort of congenital condition, who
+
+have some kind of illness in the early months and years that
+
+leaves them with some kind of difficulty that has to be dealt
+                  .
+with, whether it is autism or cerebral palsy or Down's          Syndrome,
+
+whatever it might be.          Because if we only talk about the brain
+
+as being something that can be stimulated to create all these
+
+learning opportunities, that will make the task of parenting
+
+a child with disabilities even more painful for many of these
+
+families.   And   w~   have got to be sensitive to that and talk about,
+
+you know, maximizing the potential of every child and using this
+
+information as a means for enhancing parenting, not pointing
+                   Hcx-Dwr.p Conversion
+
+                                                                         69
+
+fingers or making people feel more anxious than they already
+
+do in whatever situation they find themselves.               So, there is
+
+a lot to be thought about as we try to consider how do we deliver
+
+these messages.   Who are the advocates, the champions, the
+
+spokesmen and women who are best positioned to speak to different
+
+populations so that the information not only is delivered, but
+
+is heard and acted on.
+
+          There is also another element that I think we have
+
+to give some thought to and that is there are behaviors that
+
+parents adopt for realistic reasons that, again, we were talking
+
+about briefly after the session this morning.               If you live {n
+
+a dangerous neighborhood in any of our inner cities, one of your
+
+primary goals is to keep your child alive.              And one of the ways
+
+you do that is by conveying a lot of warnings which come across
+
+as negative reenforcement to your child.
+
+          If any of you have, as I have, worked in settings where
+
+you are involved with a lot of families who come from difficult
+
+neighborhoods, from the kind of communities that the chief was
+
+talking about where, you know, there is violence that a child
+
+might see on a regular basis, you, I am sure, have seen a lot
+                    Hcx-Dwnp Conversion
+                                                                          70
+
+of the parenting techniques that have been adopted where children
+
+are told not to do something, stay away from there, don't do
+
+that, get back here.     All of that kind of parental language which
+
+is aimed at protecting a child, but which has the effect, we
+
+know, of sending a very different message.
+
+          And, so, we have to be very thoughtful about how do
+
+we talk to parents who are most at risk?             How do we enlist people
+
+such as those that Harriet Meyer works with or Sheila and others,
+
+how do we enlist the experts, the parents and the people who
+
+work with the parents, themselves?
+
+           So, as we think about this and as we review programs
+
+that we hope will work, I hope all of you will lend your expertise.
+
+ Gloria wrote me a note saying that, you know, one of the things
+
+that her program does is to have toy making sessions where in
+
+the course of making the toys, a lot of lessons can be taught
+
+to children.   And there are just lots of ways that we have to
+
+be more creative.
+
+          Well, the people who are really in the public arena
+
+on the front lines of this are governors who have such major
+
+responsibilities for education and child care and, now, a lot
+                       Hex-Dump Conversion
+                                                                          71
+
+more responsibility for welfare and many of the other functions
+
+that historically were the province of the federal government,
+
+have now been handed over in all or part to the states.                 And
+
+that poses both great opportunities for the states, but also
+
+some very significant challenges.
+
+          I would commend to any of you who is interested in
+
+how one governor sees these challenges to read              Governor Chiles'
+
+State of the State Address which he delivered a few weeks ago
+
+in which he talks about his now I think 34-year career in public
+
+service, and how it goes along with what Rob was saying, after
+
+all of the years he spent in the Senate, 18 years, chaired the
+
+Budget Committee, his second term as governor of one of our most
+
+populous states, what he has concluded is that there isn't
+
+anything more important than what happens with children.                 And
+
+that is not what he thought when he started in public life or
+
+when he held many of these important positions, but it is what
+
+he knows now.
+
+          And I hope the message that Governor Chiles gave to
+
+his state legislature will be echoed in many other State Houses
+
+and in our Congress.      And, certainly, the governors are
+                 Hex-Dump Conversion
+                                                                     72
+
+attempting to make this issue a front burner issue.         And I would
+
+like, now, to turn to Governor Bob Miller, the Governor of Nevada,
+
+Chair of the National Governors Association, Co-Chair of the
+
+Association's Children's Task Force, to talk about what the
+
+states are doing and the challenges that the states are attempting
+
+to meet and to give us some insight about where the governors
+
+are going with this issue.
+
+          Governor Miller?
+
+          GOVERNOR MILLER:         Thank you, Ms. Clinton, Mr. Vice
+
+President and Ms. Gore.       And on behalf of my colleagues and
+
+myself, I would like to thank all of you and the President for
+
+leading this country on issues of parenting and families, both
+
+by example and by action.
+
+          I think all of us in life learn from experiences and
+
+perhaps focus our own actions based on those.           I know when our
+
+first two children were born, my wife and I were fortunate to
+
+be living near her parents and both of her sisters and many
+
+lifelong friends who provided the support network.
+
+          Some twelve years later when our third daughter, third
+
+child was born, not only did we establish that we had flunked
+                    Hex-Dump ConVCf§/t}f1
+                                                                                   73
+
+Planned Parenthood, but we also had two teenage siblings that
+
+were providing part of that support network.                       They interacted
+
+extensively with her.      And recalling Dr. Brazleton's example
+
+earlier this morning, they decided that the appropriate response
+
+for their young sister was, in fact,                 (noise).
+
+           (Laughter. )
+
+          GOVERNOR MILLER:          The cue, the cue that they chose,
+
+interestingly, was my political opponent's name.
+
+           (Laughter. )
+
+          GOVERNOR MILLER:          Which interrupted a great many
+
+interviews on Election Night several years ago as two teenagers
+
+nearby were howling in appreciation for their sister.                       But,
+
+unlike my experience, which is in this day and age the exception,
+
+families are much more mobile.          They infrequently live near their
+
+parents and their siblings.           In many instances, both parents
+
+work; in others, there is but one parent.                       The challenges for
+
+raising children are much more intense than they were just a
+
+generation ago, but the desire is just as strong to be a good
+
+parent as it was for our parents or it is for any of us.
+
+          We have heard today extensively the analysis of this
+                   Hcx-Dw.np Ccnversion
+                                                                         74
+
+situation and concern and recognition by the private sector and
+
+the action that they have taken.           And, so, I suspect that that
+
+would turn to me as to what role should government play?
+
+          And government should playa role.                Our role needs
+
+to be defined and refined.      This year as Chairman of the National
+
+Governors Association, I have chosen as my initiative to work
+
+on 0 to 3 working with I Am Your Child, receiving a dull
+
+unimpassioned plea from Mr. Reiner as we have heard earlier today
+
+that made that decision a very easy one to make.              But also to
+
+be able to analyze and evaluate what is going on in states and
+
+local communities in terms of recognition of the importance of
+
+these first three years and to build and learn from each other
+
+in a coordinated effort.
+
+          In my own State of Nevada a couple of years ago, we
+
+created family resource centers in each little pockets of
+
+communities and allowed the neighborhood to decide how they would
+
+use the coordinated federal, state and local resources all in
+
+that facility and establish their own priorities.              In this
+
+session, we are trying to expand into a family-to-family
+
+connection in which with, again, the private sector's
+                        Hex-Dump Ccnversion
+                                                                      75
+
+involvement, we would bring in through churches and civic groups
+
+and businesses trained volunteers into a hospital setting at
+
+the time of birthing and provide some guidance and assistance
+
+and then on a voluntary basis go to houses to follow up thereon
+
+and see what assistance we can provide in being that extended
+
+family network.   Government should not replace parenting or
+
+families but can be an adjunct thereto.
+
+          Programs like this have existed in Vermont and Hawaii,
+
+Minnesota, and Kansas, already.          And in Hawaii, for example,
+
+the incidence of repeat child abuse dropped from 62 percent to
+
+3.3 percent.   We have seen in Missouri and Alaska efforts to
+
+provide public information on this critical topic.            You have
+
+heard at lunch and, again, a moment ago in the introduction of
+
+the extensive work that Governor Chiles has put forward in
+
+Florida, we have seen similar programs in Colorado.          And I think
+
+our challenge as elected officials is to work together at all
+
+levels of government.      The federal government can and should
+
+have a role.   They already provide funding for many of the
+
+programs that we have heard about today, but there isn't a
+
+coordinated effort.
+                      Hex-Dwnp Conversion
+                                                                        76
+
+           Perhaps the federal government can and should look
+
+into pilot projects that we can build upon as we determine how
+
+best to approach this problem.
+
+           State governments should have a role, not just in
+
+working with the federal government, but on their own.              We're
+
+putting several million dollars into the family, the family
+
+concept that I've put forth in the State of Nevada.            And I think
+
+more can and should be invested in future years.            We should also
+
+coordinate with local government.
+
+           I believe that all of us working together and through
+
+the recognition of the importance of these first three years
+
+which is now just coming on to the front as far as public awareness
+
+can establish a next generation which will be much more trouble
+
+free than the generation that we deal with day in and day out.
+
+ And I, again, appreciate on behalf of my colleagues the
+
+opportunity to be here and to learn more and more about just
+
+how important this issue is.        And as many speakers have said,
+
+this is the most important issue facing the future of our country.
+
+Thank you.
+
+           (Applause. )
+                   Hcx-Dwr.p Conversion
+                                                                     77
+
+           THE VICE PRESIDENT:        Well, thank you for asking me_
+
+ It did provoke one thought because what you talked about,
+
+Governor Miller, in the description of what has happened in this
+
+family-to-family program, with the effects on the whole family
+
+of the reinvolvement with the child, 0 to 3, is similar to what
+
+Harriet Meyer told us about in the dance between the mother and
+
+child and how a mother changes her behavior after the engagement
+
+with the child, if the behavior is modeled or if in some other
+
+way she learns the importance of this involvement.
+
+           I just wanted to add one other piece to this puzzle
+
+from the research done on fathers.          There is a national program
+
+called "Father-to-Father" and a lot of the findings demonstrate
+
+that the deep involvement of a father in the life of his infant
+
+child can and often does have a powerful transforming effect
+
+on that man, so that behaviors change, the whole pattern of life
+
+changes.   It can lead to a rededication to the mother of that
+
+child and some of the Father-to-Father programs in inner cities
+
+and distressed areas where there are lawbreakers, gang members,
+
+young men who have not considered marrying the mother of their
+
+child or their children, are themselves really changed
+                   Hcx-Dwr.p Conversion
+                                                                            78
+
+dramatically.   So, it is just another piece of the whole puzzle
+
+that illustrates, I think, the powerful result for our society
+
+that can come when we look through the lens the First Lady has
+
+put before us here, to look at what happens in the developing
+
+brain of a young child when the right approach is taken and it
+
+effects everything:     the child's future, the family's future
+
+and present and, obviously, the whole society.
+
+          MRS. CLINTON:        Well, that was a wonderful way to end
+
+this remarkable day.    I want to thank everyone who participated
+
+in the panels this morning and this afternoon.              I want to thank
+
+all of you who were here as members of the audience, both here
+
+in the East Room and in the Old Executive Office Building and
+
+out around the country.
+
+          When Rob was talking about his commitment to these
+
+issues of 20, 25 years, I couldn't help but look out and see
+
+Bernice and Barry and Ed Zigler and think it's about 50 or 60
+
+years for some of the people in this audience.               (Laughter. )
+
+And we are grateful for that pioneering commitment and work that
+
+you have brought to this issue.            And we are finally catching
+
+up to what you have been advocating for a very long time.
+                   Hex-Dump Conversion
+                                                                            79
+
+          Now it's time for us to leave this table and consider
+
+all of the ways that each of us can carryon the mission of
+
+enhancing the development of our children.                  Many of you are on
+
+the front lines doing that every day.               On this panel, we have
+
+Harriet Meyer, and we have Sheila Amaning, and we have Chief
+
+Wearing, and we have Gloria Rodriguez who are out there day in
+
+and day out working with children and families.                 And those are
+
+the people that the rest of us have to support because, for all
+
+of the concern and caring that we may bring to this issue, it
+
+is these people and the people they work with who will actually
+
+be in those homes putting together those programs, making those
+
+connections.
+
+          And we also, I think, are blessed to have with us today
+
+business leaders like Mr. Langbo who understand that there really
+
+isn't any more important bottom line than what we do as parents
+
+of our own children and what we do as citizens of our society
+
+to enhance the potential of all children as future citizens and
+
+as future employees.    And that kind of enlightened leadership
+
+and enlightened self-interest is critical to how we see the next
+
+steps in this effort to bring attention to this important set
+                   -r
+                   l:.CK-Pump Com'ersion
+
+                                                                         80
+
+of issues, and then to act on what we now know.
+
+            We're also blessed to have public officials here,
+
+starting with the Vice President and Mrs. Gore and Governor Miller
+
+and Governor Chiles, and we have members of Congress and members
+
+of the Cabinet who also appreciate the significance 'of this new
+
+information.    And I hope that we will be able to think of good
+
+arguments and effective ways of communicating why this is
+
+important and why it should go far beyond partisan politics and
+
+become an American issue, not an issue of any political party
+
+or ideology, as to how we try to enhance the raising of our
+
+children.
+
+            And then we have members of the media who we are all
+
+reliant upon to convey this information not just for a week,
+
+not just for one show, but as Rob has eloquently expressed, to
+
+really make it an ongoing commitment.              I said this morning that
+
+there are people in the world who ask, how are the children,
+
+and all of us, I hope, will begin asking that as well, because
+
+we have so many opportunities now. As Governor Chiles said at
+
+lunch, the information and research that science is giving us
+
+provides a hook that we have not had before. And it is up to
+                  Hex-Dump Conversion
+                                                                              81
+
+us to figure out ways of using that in our respective positions.
+
+             I hope that this conference has laid the groundwork
+
+for all of us coming together to be more committed and more
+
+effective in that commitment on behalf of American children.
+
+I thank all of you for being part of what I hope will be looked
+
+back on as a part of a historic moment that involves the research
+
+that has been done, the dissemination and communication of it,
+
+and then the follow-up.            And I thank you all and invite you to
+
+join us and others who will be arriving at a reception in the
+
+tent in the back yard. And, really, I hope you will go away from
+
+this event at the White House as inspired and fired up as Rob
+
+Reiner is.    (Laughter.)
+
+             Thank you all very much.                   (Applause. )
+
+                END                                           4:59 P.M. EDT
+
+

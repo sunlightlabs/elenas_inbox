@@ -1,0 +1,282 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Jose Cerda III ( CN=Jose Cerda III/OU=OPD/O=EOP [ OPD 1 )
+
+CREATION DATE/TIME:11-0CT-1998 22:25:59.00
+
+SUBJECT:   Drug Bills
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Michelle Crisci ( CN=Michelle Crisci/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+CC: Leanne A. Shimabukuro ( CN=Leanne A. Shimabukuro/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ:UNKNOWN
+
+TEXT:
+Bruce, Elena, Rahm:
+
+Per Elena, I have skimmed the 4 drug bills put forth by the R's; here are
+my thoughts ...
+
+1. Mostly no big issues.    In truth, there's not too much worth fighting
+for in these bills. The demand reduction bill, reauthorization proposal
+and miscellaneous resolutions, etc., don't seem to include any big
+surprises, we should be able to generally accept them.   OMB has asked
+ONDCP and some of the agency folks to generally mark-up the bills with our
+preferred language, and Deich's thinking is whatever changes we
+get ... fine. I agree w/that.  I am not too versed on the supply bill,
+which mostly authorizes interdiction and international drug funds, but NSC
+is taking the lead on it.
+
+2.   One McCaffrey issue. McCaffrey's Chief of Staff expressed that the
+General, with some cleaning up, is generally okay with the bills, too.
+However, he strongly objects to the 3-year authorization proposed by the
+R's.   He insists we should have 5 years and wants to be personally
+notified if we don't get this in negotiations .... hmmm.
+
+3. Two observations -- Goals, Legalization. The ONDCP reauthorization
+still includes pretty lofty goals for reducing drug use over the next 5
+years.  The goals are no longer binding, as in previous iterations of the
+bill, but I think they'll prove to be a future headache.  Still, the R's
+are insistent, and ONDCP doesn't think we'll move them any more than we
+have. Also, I don't think we should make a big deal about language
+prohibiting the study of drug legalization.  ONDCP doesn't think it
+precludes our ability to conduct certain research, but HHS is sure to
+disagree.  I say mark-up the language and take what we get.
+
+4. Two possible opportunities. Lastly, I'm attaching language from bills
+that we support that I believe are worth putting into the mix.  The first
+is our proposal to use prison funds for drug testing and intervention and
+to require states to raise penalties for drug trafficking into prisons.
+The second is an R's bill to launch a demo on teen drug testing and
+drivers licenses -- something we support and just can't seem to get going.
+
+==================== ATTACHMENT   1 ====================
+
+
+ATT CREATION TIME/DATE:   o   00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D42]MAIL45419648D.226 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504332040000010A02010000000205000000ED15000000020000FCB0232E6E4CD42052640F
+
+HR 3799 IH
+
+                                 105th CONGRESS
+
+                                    2d Session
+
+                                    H. R. 3799
+
+To establish programs designed to bring about drug free teenage driving.
+
+                      IN THE HOUSE OF REPRESENTATIVES
+
+                                  May 6,1998
+
+Mr. MICA (for himself, Mr. PORTMAN, Mr. HASTERT, Mr. SOUDER, Mr. MCCOLLUM,
+Ms. ROS-LEHTINEN, and Mr. GOSS) introduced the following bill; which was referred to the
+Committee on Transportation and Infrastructure
+
+
+
+                                     A BILL
+
+To establish programs designed to bring about drug free teenage driving.
+
+      Be it enacted by the Senate and House of Representatives of the United States of
+      America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+      This Act may be cited as the 'Drug Free Teenage Drivers Act'.
+
+SEC. 2. DEMONSTRATION PROGRAM.
+
+      The National Highway Traffic Safety Administration shall, within 180 days of the date of
+the
+      enactment of this Act, establish a demonstration program in the States to provide voluntary
+      drug testing for all teenager applicants (or other first time applicants for a driver's license
+      regardless of age) for a driver's license. Information respecting an applicant's choice not to
+      take the drug test or the result of the drug test on the applicant shall be made available to the
+      applicant's automobile insurance company. If an applicant tests positive in the drug test, the
+      State in which the program is established--
+
+           (1) will not issue a license to the applicant; and
+
+                                        Automated Records Management System
+                                        Hex-Dump Conversion
+           positive in a drug test before re!lPplying for a license.
+
+SEC. 3. INCENTIVE GRANT PROGRAM.
+
+     (a) IN GENERAL- The Secretary of Transportation shall establish an incentive grant
+program
+     to States to assist the States in improving their laws relating to controlled substances and
+     driving.
+
+      (b) GRANT REQUIREMENTS- To qualify for a grant under subsection (a) a State shall do
+      the following:
+
+           (1) Enact, actively enforce, and publicize a law which makes it illegal to drive in the
+           State with any measurable amount of an illegal controlled substance in the driver's
+body.
+           An illegal controlled substance is a controlled substance for which an individual does
+not
+           have a legal written prescription. An individual who is convicted of such illegal driving
+           shall--
+
+                (A) have the individual's driving license suspended until the individual completes
+                the State drug treatment program referred to in subparagraph (8) and does not
+                test positive in a drug test; and
+
+                (8) require the individual to participate in a State drug treatment program.
+
+           (2) Enact, actively enforce, and publicize a law which authorizes the suspension (for an
+           appropriate term as determined by the State) of a driver's license if the driver is
+           convicted of any criminal offense relating to drugs.
+
+           (3) Enact a law which provides that beginning driver applicants and other individuals
+           applying for or renewing a driver's license will be provided information about the laws
+           referred to in paragraphs (1) and (2) and will be required to answer drug-related
+           questions on their applications.
+
+      (c) USE- A State may only use a grant under subsection (a) to implement and enforce the
+      programs described in subsection (b).
+
+SEC. 4. TECHNICAL ASSISTANCE.
+
+      The Secretary of Transportation shall provide to the States technical assistance for--
+
+           (1) training law enforcement officers in the Standardized Field Sobriety Testing
+
+                                     Automated Records Management System
+                                     Hex-Dump Conversion
+
+         (2) expanding drug information and training by involving prosecutors in community
+drug
+          prevention programs; and
+         (3) promoting uniform sanctions for drug offenses, referring drug offenders to
+         assessment and treatment programs and involving judges in community drug
+prevention
+          programs.
+
+
+
+
+                                Automated Records Management System
+                                Hex-Dump Conversion
+(Introduced in the House)
+
+HR 3606 IH
+
+                               105th CONGRESS
+
+                                  2d Session
+
+                                  H. R. 3606
+
+To provide for drug testing of and interventions with incarcerated offenders and reduce drug
+trafficking and related crime in correctional facilities.
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                              March 31, 1998
+
+Mr. CONYERS (for himself and Mr. BARRETT of Wisconsin) introduced the following bill;
+which
+was referred to the Committee on the Judiciary
+
+
+
+                                   A BILL
+
+To provide for drug testing of and interventions with incarcerated offenders and reduce drug
+trafficking and related crime in correctional facilities.
+
+     Be it enacted by the Senate and House of Representatives of the United States of
+     America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the 'Drug Testing, Intervention, and Trafficking Reduction Within
+    Prisons Act of 1998'.
+
+SEC .. 2. ADDITIONAL REQUIREMENTS FOR THE USE OF FUNDS
+UNDER THE VIOLENT OFFENDER INCARCERATION AND
+TRUTH-IN-SENTENCING GRANTS PROGRAM.
+
+     Section 201 05(b) of the Violent Crime Control and Law Enforcement Act of 1994 is
+     amended to read as follows:
+
+     '(b) ADDITIONAL REQUIREMENTS-
+
+                                Automated Records Management System
+                                Hex-Dump Conversion
+           20103 or section 20104, a State shall--
+
+                '(A) provide assurances to the Attorney General that the State has implemented
+                or will implement not later than 18 months after the date of the enactment of this
+                subtitle, policies that provide for the recognition of the rights of crime victims;
+and
+
+                '(B) no later than September 1, 1998, have a program of drug testing and
+                intervention for appropriate categories of convicted offenders during periods of
+                incarceration and criminal justice supervision, with sanctions including denial or
+                revocation of release for positive drug tests, consistent with guidelines issued by
+                the Attorney General.
+
+          '(2) USE OF FUNDS- Funds provided under section 20103 or section 20104 of this
+          subtitle may be applied to the cost of offender drug testing and appropriate intervention
+          programs during periods of incarceration and criminal justice supervision, consistent
+          with guidelines issued by the Attorney General. Further, such funds may be used by the
+          States to pay the costs of providing to the Attorney General a baseline study on their
+          prison drug abuse problem. Such studies shall be consistent with guidelines issued by
+          the Attorney General.
+
+          '(3) SYSTEM OF SANCTIONS AND PENALTIES- Beginning in fiscal year 2000,
+          and thereafter, States receiving funds pursuant to section 20103 or section 20104 of
+          this subtitle shall have a system of sanctions and penalties that address drug trafficking
+          within and into correctional facilities under their jurisdiction. Such systems shall be in
+          accordance with guidelines issued by the Attorney General. Beginning in fiscal year
+          2000, and each year thereafter, any State that the Attorney General determines not to
+          be in compliance with the provisions of this paragraph, shall have the funds for which
+          they would have otherwise been eligible to receive under section 20103 or section
+          20104, reduced by 10 percent for each fiscal year for which the Attorney General
+          determines they do not comply. Any funds that are not allocated for failure to comply
+          with this section shall be reallocated to States that comply with this section.'.
+
+SEC. 3. USE OF RESIDENTIAL SUBSTANCE ABUSE TREATMENT
+GRANTS TO PROVIDE FOR SERVICES DURING AND AFTER
+INCARCERATION.
+
+      Section 1901 of part S of the Omnibus Crime Control and Safe Streets Act of 1968 (42
+      U.S.C. 3796ff) is amended by adding at the end the following:
+
+      '(c) ADDITIONAL USE OF FUNDS- States that demonstrate that they have existing
+      in-prison drug treatment programs that are in compliance with Federal requirements, may
+use
+      funds awarded under this part for treatment and sanctions both during incarceration and
+
+                                  Automated Records Management System
+                                  Hex-Dump Conversion
+        release.'.
+
+
+
+
+                     Automated Records Management System
+                     Hex-Dump Conversion
+EMAILS RECEIVED
+ARMS - BOX 084 - FOLDER 002
+[10/12/1998 --10/14/1998]
+
+

@@ -1,0 +1,54 @@
+RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+CREATOR: Irene Bueno ( CN=Irene Bueno/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME:20-MAY-1999 12:24:10.00
+
+SUBJECT:   Immigraiton q and a
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+CC: Laura Emmett   ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+TEXT:
+=============~====== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D49]ARMS235795258.136 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504370040000010A02010000000205000000670D0000000200008D4D62840C25EA6A82EBCB
+7F2ECB739F747ED2A22D1508CE6FA2911330D9CDFEA8DB4BC48FFC9A55DFD16561F93959564790
+            announces a new program for the Nicaraguan Adjustment and Central American
+            Relief Act (NACARA) beneficiaries?
+
+Answer:     When the President was in Central America in March, he directed the Attorney
+            General to seek under current law to provide parity in relief to certain nationals
+            covered under the NACARA. Consistent with that request, the INS establishes
+            a program that allows certain Salvadorans, Guatemalans, and former Soviet Bloc
+            nationals to apply for relief from deportation under a simplified process in a way
+            that recognizes their common hardship, deep roots in our society and
+            contributions to our community.
+
+Question:   During the President's recent trip to Central America, the President committed to
+            submit legislation if parity could not be achieved for NACARA beneficiaries
+            under current law. Does the President plan to submit legislation to address the
+            inequities that remain under NACARA consistent with his commitment in Central
+            America?
+
+Answer:     Yes. While the President commends Attorney General and INS Commissioner
+            Meissner for establishing this new simplified program, the constraints of the
+            current law does not allow for complete parity for all NACARA beneficiaries.
+            Therefore, the President plans to submit legislation to Congress that seeks to
+            establish fair treatment for all NACARA beneficiaries.
+
+
+
+
+                         Automated Records Management System
+                         Hex-Dump Conversion
+
+

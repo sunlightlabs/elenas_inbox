@@ -1,0 +1,129 @@
+RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+CREATOR: Lisa M. Jones ( CN=Lisa M. Jones/OU=OMB/O=EOP [ OMB 1 )
+
+CREATION DATE/TIME:18-MAY-1998 17:47:42.00
+
+SUBJECT:   Heads-up Memo
+
+TO: Mickey Ibarra ( CN=Mickey Ibarra/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Michael Waldman    CN=Michael Waldman/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Elena Kagan   CN=Elena Kagan/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ:UNKNOWN
+
+  TO: Gene B. Sperling ( CN=Gene B. Sperling/OU=OPD/O=EOP@EOP [ OPD 1 )
+. READ: UNKNOWN
+
+TO: Sylvia M. Mathews ( CN=Sylvia M. Mathews/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Ann F. Lewis ( CN=Ann F. Lewis/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Ron Klain ( CN=Ron Klain/O=OVP@OVP [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Rahm I. Emanuel   ( CN=Rahm I. Emanuel/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Janet L. Yellen ( CN=Janet L. Yellen/OU=CEA/O=EOP@EOP [ CEA 1 )
+READ: UNKNOWN
+
+TO: Barry J. Toiv ( CN=Barry J. Toiv/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: John Podesta ( CN=John   Podesta/OU~WHO/O=EOP@EOP   [ WHO 1 )
+READ: UNKNOWN
+
+TO: Sally Katzen ( CN=Sally Katzen/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Thurgood Marshall Jr ( CN=Thurgood Marshall Jr/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Lawrence J. Stein ( CN=Lawrence J. Stein/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Maria Echaveste ( CN=Maria Echaveste/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TEXT:
+Memo signed Monday, May 18th. ==================== ATTACHMENT       1 ==================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D83]MAIL40256773H.l26 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504316050000010A0201000000020500000080150000000200OODC8BEF86668C1686E86182
+OED5309E4FDC30975427BEIC25FF7FID3CB91549912B5D47CCFOD2OC2AF63AB8A8005A44AD2815
+                                                                                 Hex-Dump Conversion
+
+
+
+
+MEMORANDUM FOR ERSKINE BOWLES
+
+THROUGH:                  Franklin D. Raines
+
+FROM:                     Donald R. Arbuckle
+
+SUBJECT:                  FDA Proposed Rule on "Off-Label" Uses
+
+
+      We will be concluding review by COB Tuesday of a proposed FDA rule allowing the
+dissemination of information on unapproved uses (commonly referred to as "off-label" uses) for
+marketed drugs, biologics and medical devices. The proposal implements the off-label
+provision of the Food and'Drug Modernization Act of 1997 (FDAMA) which permits
+manufacturers to disseminate certain written information on the safety, effectiveness, or benefits
+of a product's use that has not yet been approved by FDA. For example, an antibiotic may be
+approved by FDA for
+use in treating sinus infections but also may be widely used by doctors in treating ear infections --
+a use not yet approved for that particular drug. The proposal would require that sixty days
+before disseminating the information, manufacturers must first submit to FDA for approval a
+complete copy of the information and an application seeking approval for the new use.
+
+      The proposed rule also sets limits on the types of information that manufacturers can
+disseminate: it must be in the form of an unabridged medical journal article and must disclose
+that the use has not been cleared by FDA. And, the proposal limits who may receive the
+information
+    doctors and insurance companies, for example, but not individual patients.
+
+       This provision was a key Administration concern during FDA reform that was resolved
+during the legislative process. The rule adheres closely to that compromise. While it may gain
+some attention in the press, we do not expect it to be highly controversial. FDA is anxious to
+publish the proposed rule as soon as possible in order to meet a statutory deadline for publication
+of a final rule by November 21 st of this year.
+
+      Please let me know if you have any questions.
+
+
+                                   Automated Records Management System
+                                   Hex-Dump Conversion
+    cc:   Maria Echaveste
+          Rahm Emanuel
+          Larry Stein
+          Ron Klain
+          Thurgood Marshall, Jr.
+          Ann Lewis
+          Sally Katzen
+          Sylvia Mathews
+          John Podesta
+          Bruce Reed
+          Gene Sperling
+          Elena Kagan
+          Barry Toiv
+          Michael Waldman
+          Janet Yellen
+          Mickey Ibarra
+          Danny Mendelson
+
+

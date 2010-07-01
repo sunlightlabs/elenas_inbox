@@ -1,0 +1,271 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP [ OPD ]    )
+
+CREATION DATE/TIME: 8-SEP-1997 18:27:22.00
+
+SUBJECT:   potus memo
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ]   )
+READ: UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D78]MAIL46258605G.216 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043CC040000010A02010000000205000000F1370000000200003F524B863F957AF52C594B
+6B3CADB784A4753D94BA7EF8998345B8E3EA552715205451925FFOE7E529550E9798C17E707F19
+5C544D6AE8336A5F8D696E8E481B2CADDE1649B41D1DC4EC1AOAF769F6A408256FEA3CE7B07801
+B05BB30E1DOC2928FC9923343CEB1D929F6E37FB67B2674555A2C83911A5457B65E97C6A7BF5F1
+2CD1363B2A406FE13A593BD98BAD58A24718EBCFB4009B2B1CA340ECDCF986B6C842C5D538FBCE
+E52AA5951BF3C200C2538E34515627608001EC79FE91952139C413AA2C220BA15CC93EF83878A9
+900A70377443329C78D917E556354C600158B8526AB97C7C67EDC6BA7D6B605A4646BDFFOC07FF
+D19957F313A66F5A7747486A029C8002029425751313292A59B504F805311EF6AFADBDAE13B7AO
+EB81ECE776BF0444664D79123D9DAF86D692EOOD30AB7C6D9A5B5B2BDE7F31AA70DD5B50709551
+83E75744B103DB5320758E94F1F77AF5C4288D1F1BEOF4E56E6C37D4DC35F960FFEA640FOCEFOB
+74935DD4640F365C49DD96D88025C83C7FB01DA2F060E8A95DDAD8B77CA4E70D8FE54266DA70BE
+415BA59E6377B4065E27B3AAF0081AE16BB4C80521E7D12F5308982009E5D15066CE94136C67C9
+42E25E6BE6EF2AF368BE65B662467C530D3635FCD3DCF49DA1A7F5CC2F64363C733F3FE774CB49
+697106F8AF02000A00000000000000000000000823010000000BOI00008C020000005502000000
+4E0000009703000009250100000006000000E50300000B300200000028000000EB030000087701
+000000400000001304000008340100000014000000530400000802010000000F00000067040000
+0055010000004E0000007604000008050100000008000000C404000000984C006F00630061006C
+002000480050002000340050000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000057494E53504F4F4COOOOOOOOOO
+C800C8002C012C012C012C01C800C8003000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+0000000000000000000000000000000000005EOOF7122800C8196810480D000011090000005AOO
+OB010000103600540069006D006500730020004E0065007700200052006F006D0061006E002000
+52006500670075006C006100720000000000000000000100020058020100000004002800000000
+0000000000000000000000000000000l1202002400A1000000A100OOOOOAOOOOOOECOB01004500
+EDOB01000200EEOB01005000EFOB01004500FOOB01000200FIOB01005000F20B01004500F30B01
+000200F40B02004500F50B150065811A7359220000000000000000000000000000000008337COO
+780000020000F50B0000032800D61EC30F3908000011090000005AOOOB01008B14360054006900
+6D006500730020004E0065007700200052006F006D0061006E00200052006500670075006C0061
+00720000000000000000000100040002000000DDOA10008301040003000200211000DDDDOBOBOO
+030000040BOODDF102F50BF19BF103F50BF1D10337008001000016008CFA010000580206000058
+020000000000000064FOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO0064C8003700D1CCCCCCCCCC
+CCE0110C0000000008070COOEOE0110C0000000060090COOEOEOl1OCOOOOOOOOB80BOCOOEOE011
+OC00000000100EOCOOEOE0110C0000000068100COOEOE0110COOOOOOOOC0120COOE05365707465
+6D62657280352C8031393937CCCCCC4D454D4F52414E44554D80464F5280544845805052455349
+44454E54CCCC46524F4D3AE0110C0000000060090COOEOE0110COOO00000B80BOCOOE042727563
+658052656564D0041500000B00090001000F500AOB0001201500DOCC5355424A4543543AE0110C
+0000000060090COOEOE0110COOOOOOOOB80BOCOOEOF20EF2546F626163636F80557064617465F3
+OEF3D0041500000B00090001E010300COD0001201500DOCCCCE011OC0000000008070COOE05768
+                                                                        Hex-Dump Conversion
+
+
+
+
+                                              September 5, 1997
+
+
+MEMORANDUM FOR THE PRESIDENT
+
+FROM:                  Bruce Reed
+
+SUBJECT:               Tobacco Update
+
+
+       When you return next week, Secretary Shalala and I will give you detailed
+recommendations on how to proceed on tobacco. We are scheduled to meet with you on Friday,
+and you are scheduled to announce your position on Tuesday the 16th. This memo is a brief
+summary of what we are likely to recommend and what strategic and policy decisions you will
+need to make.
+
+I. Overview
+
+        Although the industry was hoping for quick passage, some Republican leaders in both
+houses said this week that the tobacco settlement was too complicated for Congress to enact
+before they adjourn in late October. Lott would still like to get it done this year, but with the
+legislation being referred to six committees in the Senate alone, we need to stake out positions
+that can hold up over time.
+
+        Over the past two months, we have held extensive discussions with the public health
+community, attorneys general, members of Congress, and farmers. The public health
+community will welcome our recommendations on most issues: guaranteeing full authority for
+FDA to regulate nicotine; imposing tougher penalties on the industry if it fails to reduce teen
+smoking; demanding an additional $50 billion to offset the credit in the budget agreement;
+making it somewhat easier to disclose industry documents; looking out for tobacco farmers; and
+so on. The only concerns of tobacco opponents that we cannot easily meet are dramatically
+increasing the overall price tag (Kennedy would like to see it doubled, to $700 billion) and
+demanding to see all the documents before capping liability (Leahy, Waxman, and Skip
+Humphrey are pushing for "no immunity without disclosure").
+
+       The central strategic question is how far we want to push the industry for additional
+concessions, at the risk of losing this opportunity altogether. Bruce Lindsey and I have
+
+
+                                                 1
+                                                                             Hex-Dump Conversion
+
+repeatedly pressed the industry on the most important issues -- FDA, penalties, and documents --
+with only modest progress. We met with them again today, and will continue to press them next
+week, but penalties remain a serious stumbling block.
+
+       Bruce believes we should not go forward unless we have the industry on board, because
+without an agreement on everything the industry will be free to use its considerable influence in
+Congress to undermine provisions it doesn't like -- for example, gutting the FDA provisions if it
+wins in the 4th Circuit. Secretary Shalala and the Vice President strongly believe we should not
+reach agreement with the industry, because any deal with tobacco companies will be suspect, and
+won't have enough congressional buy-in to withstand 6-12 months of debate in Congress.
+
+        This debate may become moot, if we can't get the industry to come around by next week
+on our bottom-line issues. In that case, I believe we should be both tough and reasonable, by
+demanding more than the industry can stomach right now (on FDA and penalties), but not more
+than they can possibly swallow in the end. I share Bruce's concerns about the industry's clout
+and penchant for mischief, but a little tension between us and the industry might actually help us
+during a drawn-out congressional debate. If we make this a fight over tougher penalties to
+reduce teen smoking (rather than how much money we want in return for capping liability), I
+believe we can beat the industry on a few points, even in this Congress -- especially in an election
+year.
+
+
+11_ Major Recommendations
+
+       A. FDA Authority
+
+        The first priority of the Administration in considering any tobacco legislation should be to
+confirm and protect the jurisdiction of the FDA to regulate tobacco products. The FDA must be
+able to regulate tobacco products, including by ordering the reduction or elimination of nicotine
+or other constituents, through its normal procedures in the furtherance of public health interests --
+without any special procedural rules or requirements. We should call on Congress to pass
+legislation specifically empowering the FDA to require the modification of tobacco products
+based on a finding that this change would reduce the risk of the product to the public and is
+technologically feasible.
+
+       The industry still wants to put one hurdle in front of FDA, by saying the FDA may not go
+forward if a party affirmatively demonstrates that the action would create a significant
+contraband market in tobacco products. But we believe the FDA should only have to consider
+contraband as one of many relevant factors, including the number of addicted tobacco users and
+the availability of alternative products. We would eliminate two other weaknesses in the
+settlement -- the 12-year waiting period before FDA could ban nicotine, and the special
+procedural hurdles such as formal rulemakings.
+
+
+
+                                                 2
+                                                                          Hex-Dump Conversion
+       B. Documents
+
+         For decades, the tobacco industry has failed to disclose essential facts in its possession
+about the dangers and addictiveness of tobacco products, and used attorney-client privilege to
+cloak: scientific research and findings and possibly shield evidence of criminal or fraudulent
+behavior. It is therefore necessary to establish an effective and speedy mechanism to pierce
+fraudulent or otherwise improper claims of privilege and to force the disclosure of information
+that will advance public health interests. The documents issue has become a rallying cry for the
+most strident opponents of a settlement, led by Skip Humphrey.
+
+        The settlement calls for a national documents depository and a three-judge panel to
+provide expedited rulings on whether documents should remain privileged. We recommend
+strengthening the document provisions by 1) allowing litigants to challenge privilege claims in
+individual lawsuits, even if the three-judge panel had already ruled, and 2) providing the FDA
+with access to all health-related documents, notwithstanding any claims of privilege. That will
+enable the FDA to put the industry's considerable expertise on nicotine to good use.
+
+        Even these steps will not go far enough to please Leahy, Waxman, and Humphrey, who
+want to break: the companies' attorney-client privilege and insist that the tobacco companies
+disclose all privileged documents before any consideration of a settlement. But the Justice
+Department has expressed serious concerns about any broad abrogation of the privilege, arguing
+that such an approach would undermine the privilege generally and might enable a tobacco
+company official charged with criminal conduct to assert a violation of his Sixth Amendment
+right to effective assistance of counsel.
+
+
+       c.   Penalties
+
+        The settlement sets ambitious targets to reduce youth smoking by 30% in 5 years, 50% in
+7 years, and 60% in 10 years, and would require companies to pay $80 million for each
+percentage point they fall short. Public health groups have praised the idea of targets and
+penalties, but complain that the current scheme does not give companies sufficient incentive to
+stop hooking teenagers. Our main problems with the current penalties are that they are
+tax-deductible, abatable, capped at $2 billion, and too small to serve as a deterrent.
+
+         We can strengthen the penalties in a variety of ways -- all of which the industry has so far
+resisted -- but our current preferred option is a two-tier system, with graduated penalties that get
+stiffer if the industry misses the targets by a substantial margin. The first tier of penalties would
+require companies to pay $80 million per point if the industry missed the targets by less than 5
+points in year 5, less than 10 points in year 7, and less than 15 points in year 10. This penalty
+would be non-deductible, could not be abated, and would reflect a company's share of the youth
+market. If the industry missed by a greater margin, companies would pay the full first-tier
+penalty, and their settlement payment would be increased by a penny a pack for each additional
+
+
+                                                  3
+                                                                               Hex·Dump Conversion
+
+percentage point by which they missed the target. This second-tier penalty would cost             .
+companies about $240 million a point, and has the additional virtue of locking in a pennanent
+price increase that will help further reduce smoking by youth (and adults). Under this approach,
+if youth smoking went down by 30% over 10 years, instead of60%, the industry would pay $1.2
+billion in financial penalties and be forced to raise prices another 15 cents a pack on top of that.
+
+
+       D. Farmers
+
+       We have made clear that tobacco farmers should receive protection in any legislative
+settlement, and that the Administration will work closely with members of Congress from
+tobacco states to forge a consensus. Secretary Glickman has traveled to tobacco markets in
+Virginia and North Carolina to express this commitment directly to farmers.
+
+        Farmers are primarily interested in continuation ofthe governmental tobacco program,
+guaranteed purchase at set levels oftobacco crops by cigarette companies, and some provision
+for buyout and transition to other crops, on a voluntary basis. Because farm groups and tobacco
+state members have not yet coalesced around a consensus proposal, we don't need to commit to a
+specific plan yet. The most discussed proposal is one released this month by Senators Ford and
+McConnell that would require companies to buy a minimum amount of domestic tobacco over 25
+years and would install penalties on companies that do not meet the stated goals for tobacco
+buying. The proposal would also create a "Tobacco Community Revitalization Fund"
+administered by USDA, but not subject to the appropriation process, which could spend up to $1
+billion a year for 25 years from the settlement fund and would cover costs related to the tobacco
+program such as administration and crop insurance, make supplemental payments of up to $500
+million to producers whose income from tobacco drops substantially below the 1996 level, pay
+up to $100 million in benefits for displaced cigarette factory workers, and provide up to $250
+million a year for rural economic development grants.
+
+
+       E. Funding
+
+         Although the settlement is advertised at $368.5 billion, a variety of factors conspire to
+leave us with considerably less than that to spend on any new initiatives. The $368 billion is a
+25-year number, and must be adjusted downward to reflect a projected drop in cigarette
+consumption of about 15%. For scoring purposes, OMB adjusts the amount down still further to
+reflect lost business tax revenue and lost federal excise tax revenue from decreased consumption.
+ Most of the rest of the money in the settlement is already spoken for, to pay for civil suits,
+cessation programs, counteradvertising, and the states' Medicaid claims. The main decision you
+will need to make is how best to spend the $25 billion research trust fund, which most of us
+believe should be a 21 st Century Research Fund dedicated to cancer and other tobacco-related
+research.
+
+
+
+                                                 4
+                                                                             Hex-Dump Conversion
+
+       Some in the Administration (primarily the Treasury Department) and in Congress (led by
+Kennedy) believe the industry should be soaked for $600-700 billion. This is probably a
+dealbreaker for the industry, but it would free up additional funds for new initiatives.
+
+
+       F. Other Issues
+
+        We will need to propose improvements in other, less prominent areas, which we will
+detail for you next week. These include limiting the industry's antitrust exemption to prevent
+unnecessary collusion and removing a little-noticed cap on punitives for future misconduct.
+
+       We will give you a more detailed memo on all these recommendations next week, and
+bring you up to date on our discussions with the industry, the Hill, and the public health
+community.
+
+
+
+
+                                               5
+
+

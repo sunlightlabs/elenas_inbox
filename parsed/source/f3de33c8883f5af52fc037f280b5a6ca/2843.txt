@@ -1,0 +1,124 @@
+  RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+  CREATOR: Leanne A. Shimabukuro ( CN=Leanne A. Shimabukuro/OU=OPD/O=EOP [ OPD 1 )
+
+  CREATION DATE/TIME:10-JUN-1997 18:50:48.00
+
+  SUBJECT:   directive
+
+  TO: Jordan Tamagni     CN=Jordan Tamagni/OU=WHO/O=EOP @ EOP [ UNKNOWN 1 }
+  READ: UNKNOWN
+
+  TO: Christa Robinson ( CN=Christa Robinson/OU=OPD/O=EOP @ EOP [ OPD 1 )
+  READ: UNKNOWN
+
+  TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO 1 )
+  READ: UNKNOWN
+
+  TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP    [ OPD 1 )
+  READ:UNKNOWN
+
+  TO: Michael Deich ( CN=Michael Deich/OU=OMB/O=EOP @ EOP    [ OMB 1 )
+  READ: UNKNOWN
+
+  TO: Phillip Caplan ( CN=Phillip Caplan/OU=WHO/O=EOP @ EOP [ WHO 1 )
+  READ:UNKNOWN
+
+  TO: Michelle Crisci ( CN=Michelle Crisci/OU=WHO/O=EOP @ EOP [ WHO 1 )
+  READ: UNKNOWN
+
+  TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+  READ:UNKNOWN
+
+  CC: Jose Cerda III ( CN=Jose Cerda III/OU=OPD/O=EOP @ EOP [ OPD 1 )
+  READ: UNKNOWN
+
+  CC: Karen A. Popp ( CN=Karen A. Popp/OU=WHO/O=EOP @ EOP [ WHO 1 )
+  READ: UNKNOWN
+
+  TEXT:
+  Phil-- here is the final copy of the directive.  It has been cleared by
+  DPC, OMB, WH Counsel, Treasury/ATF and main Justice. Justice OLC has a
+  problem with bullet (3) on page 2 of the directive dealing with warning
+  that handguns are a leading cause of juvenile violence and fatalities.
+  Treasury was also concerned but signed off on the language as drafted.
+
+  OLC is debating whether they will officially oppose this line; we decided
+  not to wait any longer to give this to you.
+
+
+  ==================== ATTACHMENT   1 ====================
+  ATT CREATION TIME/DATE:   0 00:00:00.00
+
+  TEXT:
+  Unable to convert ARMS_EXT: [ATTACH.D111MAIL419586060.116 to ASCII,
+   The following is a HEX DUMP:
+
+  FF575043D6040000010A020100000002050000009C160000000200001F3EBE53CBBEBEB677600D
+  985E068072B435CC194F4653920B51269E9159AE9FF3644AF4A2D8E39F75D452AF1F8858B2195F
+  lE6DC371028CEB105F4635113904ABCB961ED2A411F49C20F4CA0377DC6ABE433BFF650C896AAO
+  58CB967E5C2C5342693195119BFEFEFF03D05E65FA7631D9A123026A5156AA708F583B375D779F
+
+
+MEMORANDUM FOR THE SECRETARY OF THE TREASURY
+
+SUBJECT:       Enforcing the Youth Handgun Safety Act
+
+A major problem in our nation today is the terrifying ease with which our young people gain
+illegal or unintended access to guns. Firearms are now responsible for 12 percent of fatalities
+among all American children and teenagers. Criminal use of firearms by young people is a
+national tragedy. Between 1984 and 1994, the number of juvenile offenders committing
+homicides by firearms nearly quadrupled. Moreover, firearms are the fourth leading cause of
+accidental deaths among children ages 5-14 and are now the primary method by which young
+people commit suicide. A recent study supported by the Department of Justice found that
+slightly more than half of all privately owned firearms were stored unlocked and approximately
+one-third of all handguns were stored both loaded and unlocked. We must do all we can to
+prevent both illegal and unintended access to guns by juveniles.
+
+To address this issue, my Administration has consistently called for toughening our laws to help
+reduce youth gun violence. Specifically, we have fought for and gained passage of: (1) the
+Brady Act, to allow local law enforcement to conduct background checks before handguns are
+sold; (2) the Assault Weapons Ban, to keep deadly assault weapons off the streets; (3) the
+Gun-Free Schools Act, to establish a policy of "zero tolerance" for guns in our schools; and (4)
+the Youth Handgun Safety Act, to prohibit, in most circumstances, the transfer to or possession
+of a handgun by a juvenile.
+
+More recently, we proposed comprehensive juvenile crime legislation that, among other things,
+would continue to crack down on youth gun violence by increasing penalties for transferring a
+firearm to juveniles, prohibiting violent juveniles from owning firearms as adults, and requiring
+federal firearms licensees (FFLs) to provide a child safety lock with every gun sold. I hope
+Congress will enact these important measures as soon as possible.
+
+Until Congress acts, however, there is more we can do to keep guns out of the hands of our
+nation's youth. Existing law already bans the transfer of handguns to minors and juvenile
+possession of handguns, except in specified circumstances, and grants the Treasury Department
+authority to prescribe rules and regulations to implement this provision. I direct you to take the
+authorized steps necessary to do everything in your power to enforce the provisions of the Youth
+Handgun Safety Act -- and specifically, to promptly publish in the Federal Register proposed
+regulations requiring that FFLs post signs on their premises and issue written notification with
+each handgun sold to non-licensees warning that:
+
+       (1)     federal law prohibits, except in certain limited circumstances, anyone under the
+               age of 18 from knowingly possessing a handgun, or any adult from transferring a
+               handgun to such a minor;
+
+
+                                                             Automated Records Management System
+                                                             Hex-Dump Conversion
+              circumstances, punishable by up to 10 years in prison;
+
+       (3)    handguns are a leading contributor to juvenile violence and fatalities; and
+
+       (4)    safely storing and locking handguns away from children can help ensure
+              compliance with federal law.
+
+I also direct you to provide me with a written status report within 60 days on how you will carry
+out this directive.
+
+Your implementation of this directive will help inform gun purchasers about their responsibility
+under federal law to keep handguns from our children. It will also ensure that gun purchasers
+are warned about the frequency with which handguns kill or injure our kids.
+
+WJC
+
+

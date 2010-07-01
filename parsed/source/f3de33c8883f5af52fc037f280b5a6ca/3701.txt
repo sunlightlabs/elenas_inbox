@@ -1,0 +1,758 @@
+ RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+ CREATOR: Diana Fortuna ( CN=Diana Fortuna/OU=OPD/O=EOP [ OPD 1 )
+
+ CREATION DATE/TIME:29-JUL-1997 11:14:53.00
+
+ SUBJECT:   DRAFT Budget Paper
+
+ TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ: UNKNOWN
+
+ CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TEXT:
+ Attached is the whole huge thing NEC is circulating around.  It includes
+ language on immigrants, $3 billion, etc.  It mostly focuses on tax and
+ health.  I am providing them with comments.  I am about to send them a
+ beefed up version of the $3 billion bullet, with more of our lingo added.
+ Let me know if you want to see that before I send it in.
+
+ The immigrant stuff looks OK so far.  OMB is reviewing it as well.  I have
+ already told them to add a bullet on our win on grandfathering Medicaid
+ for children losing SSI.
+
+ ---------------------- Forwarded by Diana Fortuna/OPD/EOP on 07/29/97
+ 11:12 AM -------~-------------------
+
+
+
+
+ Russell W. Horwitz
+ 07/28/97 11:49:41 PM
+ Record Type:    Record
+
+ To:      See the distribution list at the bottom of this message
+ cc:
+ Subject:         DRAFT Budget Paper
+
+ This will, I hope, be the last e-mail on this draft document. Please
+ review as soon as you can. I think folks will want to get paper out by
+ late morning. The first document is the long document; the second is a
+ 1-page talking points.
+
+ Thanks for your help.
+
+
+
+ Message Sent
+ TO: ____________~--~-----------------------------------------------
+ Charles R. Marr/OPD/EOP
+ Jake Siewert/OPD/EOP
+ Robert M. Shireman/OPD/EOP
+ Emil E. Parker/OPD/EOP
+ Diana Fortuna/OPD/EOP
+ Sarah A. Bianchi/OMB/EOP
+ WEINSTEIN P @ A1 @ CD @ LNGTWY
+ Jill M. Blickstein/OMB/EOP
+ Jeanne Lambrew/OPD/EOP
+
+
+
+ ;;;;;;;;;;;;;;;;;;;; ATTACHMENT   1 ;;;;;;;;;;;;;;;;;;;;
+ ATT CREATION TIME/DATE:   0 00:00:00.00
+
+ TEXT:
+ Unable to convert ARMS_EXT: [ATTACH.D75)MAIL460514903.216 to ASCII,
+  The following is a HEX DUMP:
+
+ FF575043303E0000010A02010000000205000000A02A010000020000C1014836C860DA7A89793E
+ F2895BA116C85C7B9614F4635BDAAF896F92BC6E56D9E314089E6EOEA549A6BBC5423B893E739D
+ 57E56A1AD0707F74F3A1E2AC22873FF5AACE77DFADDEC116C3FEEDD6333745D7B5026FOD706D3B
+ F6663E5822721C155E5FF425E71A004E99E4AF855366673104320AD25C54393EF4E167155CD1A5
+ 51A50ACA26753911E26C14B25741AAF46D4D40DCEF7924835DE262EE89A2014CB1E075DE17D689
+ 284F07B4C50FC03609D3F4BA36B8589829066BB584F623641E098500B8707BB06C6B92D034E614
+ 98BB96D59EB84651323EOFF23FAE1D7C808B21A8B3FB9BF3D4270B7A60E1F1FBF627A4D6E289F4
+ OE467312324AAOC4415611BDCFCDD39FC6F3086C06359C2A4657A55BF3E8409403A167742CF351
+ 47FC2431EE8D06636F34B03B9D397E47DED3CFC40FD58CE7C228F7A38AAA6CAOB5D7E321FEE422
+ E1B3EBDA76E98453BOE34DC1264CC542BE9B6387A58B7760DA5DA4B1A2CC1BA478665CC2B25905
+ 33DC792C25AF9502D05034EB84281CF3646E1363E92F71A3A7FFA5691A5F3C6094EC349E14E4D1
+ C243541AE52ABF96EB19826DD9BF5D86F606AE71663A4D49FBEE28BB2267ACC7F9BCE91DE2E29E
+ 3029E63C4E5FD018B31E286732DC5F9B8BDE1DDDDEE996147E867D1D6AC09AB1711CA4F6ACE2C7
+ 6CB608EF450200AE00000000000000000000000823010000000B010000840B0000005590000000
+ 4E0000008FOC000009250100000006000000DDOCOOOOOB300200000028000000E30C000000553C
+ 000000480000000BOD0000080501000000022A0000530D00000608010000001600000055370000
+ OB30220000004E0000006B37000008770100000040000000B937000008340100000014000000F9
+ 3700000802010000000FOOOOOOOD380000006602000000020000001C3800000968010000004300
+ 00001E380000060801000000160000006138000000610100000014000000773800000066020000
+ 00020000008B380000006101000000140000008D38000000550AOO00004COOOOOOA13800000066
+ 0200000002000000ED38000000610100000014000000EF38000000660200000002000000033900
+ 000061010000001400000005390000005502000000300000001939000009680100000073000000
+ 4939000009680100000038000000BC39000000660200000002000000F439000000610100000014
+ 000000F63900000055040000003COOOOOOOA3A000000660200000002000000463A000000610100
+ 000014000000483A0000006602000000020000005C3A0000006101000000140000005E3A000009
+ 680100000038000000723A000009680100000038000000AA3AOOOOO9680100000038000000E23A
+ 0000096801000000430000001A3B00000055010000004E0000005D3B0000096801000000060000
+ 00AB3B000000660200000002000000B13B000009680100000006000000B33B0000006101000000
+ 14000000B93B00000942100000001DOOOOOOCD3B00000942030000001DOOOOOOEA3B0000060801
+ 00000022000000073C000000660200000002000000293C0000006602000000020000002B3COOOO
+ 006101000000140000002D3C000000660200000002000000413COO000061010000001400000043
+ 3C000000610100000014000000573C0000060801000000660000006B3C00000968010000001900
+ 0000D13C000009680100000006000000EA3C000009680100000038000000F03C00000968010000
+ 0006000000283D0000006602000000020000002E3D00000942010000002A000000303D00000061
+ 01000000140000005A3D0000096801000000190000006E3D000009680100000006000000873DOO
+ 00006602000000020000008D3D0000006602000000020000008F3D000000660200000002000000
+ 913D000000610100000014000000933D000000610100000014000000A73D000000610100000014
+ 000000BB3DOOOOOOOOOOOOOOOOOOOOOOOOBB3DOOOOOOOOOOOOOOOO00000000BB3DOOOOOOOOOOOO
+ 000000000000BB3DOOOOOOOOOOOOOOOOOOOOOOOOBB3DOOOOOOOOOO00000000000000BB3DOOOOOO
+ 000000000000000000BB3DOOOOOOOOOOOOOOOOOOOOOOOOBB3DOOOO00000000000000000000BB3D
+ 000000000000000000000000BB3DOOOOOOOOOOOOOOOOOOOOOOOOBB3DOOOOOOOOOOOOOOOOOOOOOO
+ 00BB3DOOOOOOOOOOOOOOOOOOOOOOOOBB3DOOOOOOOOOOOOOOOOOOOO0000BB3DOOOOOOOOOOOOOOOO
+ 00000000BB3DOOOOOOOOOOOOOOOOOOOOOOOOBB3DOOOOOOOOOOOOOO0000000000BB3DOOOOOOOOOO
+ 00000000000000BB3DOOOOOOOOOOOOOOOOOOOOOOOOBB3DOOOOOOOO0000000000000000BB3DOOOO
+ 00000000000000000000BB3DOOOOOOOOOOOOOOOOOOOOOOOOBB3DOOOOOOOOOOOOOOOOOOOOOOOOBB
+ 3DOOOOOOOOOOOOOOOOOOOOOOOOBB3DOOOOOOOOOOOOOOOOOOOOOOOOBB3DOOOOOOOOOOOOOOOOOOOO
+ 0000BB3DOOOOOOOOOOOOOOOOOOOOOOOOBB3DOOOOOOOOOOOOOOOOOO000000BB3DOOOOOOOOOOOOOO
+ 0000000000BB3DOOOOOOOOOOOOOOOOOOOOOOOOBB3DOOOOOOOOOOOO000000000000BB3DOOOOOOOO
+ 0000000000000000BB3DOOOOOOOOOOOOOOOOOOOOOOOOBB3DOOOOOO000000000000000000BB3DOO
+ 0000000000000000000000BB3DOOOOOOOOOOOOOOOOOOOOOOOOBB3D000000000000000000000000
+ BB3DOOOOOOOOOOOOOOOOOOOOOOOOBB3DOOOOOOOOOOOOOOOOOOOOOO00BB3DOOOOOOOOOOOOOOOOOO
+ 000000BB3DOOOOOOOOOOOOOOOOOOOOOOOOBB3DOOOOOOOOOOOOOOOO00000000BB3DOOOOOOOOOOOO
+      IN A GENERATION AND A MAINSTREAM TAX CUT
+DRAFT                        DRAFT                                 DRAFT
+     $900 Billion in Net 10 Year Deficit Savings.
+
+     First Balanced Budget since 1969.
+
+     Single Largest Investment in Health Care for Children Since 1965.
+
+     A $500 Per Child Tax Credit for Approximately 27 Million Families.
+
+     Largest Investment in Higher Education Since the G.I. Bill in 1945:
+
+     �      $1,500 HOPE Scholarship to Make Two Years of College Universally
+            Available
+     �      20% Tuition Tax Credit for College Juniors, Seniors, Graduate Students
+            and for Working Americans pursuing Lifelong Learning to upgrade their
+            skills
+
+     Critical Long-Term Entitlement Reforms - Extends Solvency of Medicare
+      Trust Fund for at Least a Decade.
+
+     Brownfields and Empowerment Zones Tax Incentives to Revitalize Our
+      Nation's Distressed Areas.                     .
+
+     A $ 3 Billion Welfare-to-Work Jobs Initiative Targeted to High Poverty Areas.
+
+     Treats Legal Immigrants Fairly - Restores Health and Disability Benefits
+
+
+
+                      THE FIRST BALANCED BUDGET IN A GENERATION
+
+FIRST BALANCED BUDGET SINCE 1969
+
+         Net savings of over $900 billion over ten years.
+         1993 Economic Plan has cut the deficit 77% from $290 billion in 1992 to $67 billion or
+         lower in 1996. This agreement rmishes the job - balances the budget in 2002 and puts
+         the budget in surplus in each of the second five years of the budget.
+
+SINGLE LARGEST INVESTMENT IN HEALTH CARE FOR CHILDREN SINCE THE
+PASSAGE OF MEDICAID IN 1965
+
+         An unprecedented $24 billion for children's health care.
+         Guarantee of meaningful health coverage including full range of benefits to as many as 5
+         million uninsured children.
+         Provisions to ensure that states use this investment to provide health care coverage to children
+                                     Automated Records Management Systerr  who do not currently have
+                                             Hex-Dump Conversion           health insurance and that there
+                                      Automated Records Management Syster"   so that families are not
+                                              Hex-Dump Conversion            burdened with excessive costs.
+
+CRITICAL LONG-TERM ENTITLEMENT REFORMS
+
+         $434 billion in ten-year Medicare savings.
+         This extends the life of the Medicare Trust Fund for at least a decade.
+         Prepares Medicare for the 21st century -- more choice is provided, competition is injected,
+         and payment systems are revamped.
+         $4 billion in preventive benefits to fight diseases like breast cancer, diabetes & colon cancer.
+
+MOVES PEOPLE FROM WELFARE TO WORK & TREATS LEGAL IMMIGRANTS FAIRLY
+
+         $3 billion to help states and local communities move people from welfare to work.
+         $12 billion to restore both disability and health benefits for legal immigrants who are
+         currently receiving assistance or become disabled, ensuring that they will not be turned out of
+         their apartments or nursing homes or otherwise left to an uncertain fate.
+
+
+                                          A MAINSTREAM TAX CUT
+
+
+ On December 15, 1994, President Clinton put forth the Middle Class Bill ofRights which included a $500
+ Child Tax Credit, an expanded IRA that allows people to withdraw money tax-free and without penalty "
+for education and a tax deduction for post-high school education expenses. Each of the President's
+proposals are included in this budget:
+
+A CHILD TAX CREDIT FOR APPROXIMATELY 27 MILLION FAMILIES.
+
+         $500 Per-Child Tax Credit for approximately 27 million families with 45 million children
+         under 17. The credit begins to phase-out for couples with incomes above $110,000.
+         Up to 4.8 million working families will now receive the child tax credit who would not have
+         under the Congressional plans. At the President's insistence, more than $iO billion over 5
+         years was added to provide a Child Tax Credit for people making under $30,000 like young
+         teachers, police officers, farmers, and nurses who work hard and play by the rules.
+
+A VICTORY FOR MIDDLE CLASS PARENTS TRYING TO PAY FOR THEIR CHILDREN'S
+COLLEGE AND FOR WORKING PEOPLE TRYING TO UPGRADE THEIR SKILLS.
+
+         $1,500 HOPE Scholarship to make the first two years of college universally available.
+         The final agreement includes the President's initiative to advance the goal of making the l3th
+         and 14th grades as universal as a high school diploma is today. Students would be provided a
+         scholarship of 100% on the first $1,000 of tuition and fees and 50% on the second $1,000.
+         20% Tuition Tax Credit for college juniors, seniors, graduate students and for working
+         Americans pursuing lifelong learning to upgrade their skills. The 20% credit will be
+         applied to the first $5,000 of qualified education expenses through 2002, and to the first
+         $10,000 thereafter. A major deficiency of the congressional tax bills has been that they did
+         little to help students in their third and fourth year s of college and they were missing a
+         commitment to lifelong learning. The President has long understood that the economy is
+         changing and that people must have the opportunity to enhance their skills throughout their
+         lives. This is why the President insisted on the 20% tuition tax credit that is in the final bill.
+
+A key component of the President's tax cutting agenda has been to spur economic activity in distressed
+areas ofour nation's cities. This budget reflects the President's agenda:
+
+         ,A New Tax Cut Plan Helps to Clean Up and Redevelop Brownfields. The 3-year
+          Brownfields tax incentive will reduce the cost of cleaning up thousands of contaminated,
+          abandoned sites in economically distressed areas by permitting clean-up costs to be immediately
+          deducted for tax purposes, rather than requiring this spending to be written off over time. This
+          would, in turn, encourage redevelopment of these areas.
+
+         New Empowerment Zones. The budget includes a second-round ofEZs -- 15 urban and 5
+         rural EZs. The new EZs will benefit from a different blend oftax credits than the first-round
+         communities. For example, the EZs will be eligible for the Brownfields tax incentive, special
+         expensing of business assets, and qualification for private-activity bonds.
+
+HELPING MOVE PEOPLE FROM WELFARE TO WORK
+
+         A Welfare to Work Tax Credit. This provision will give employers an added incentive to
+         hire long-term welfare recipients by providing a credit equal to 35% of the first $10,000 in
+         annual wages in the first year, and 50% of the first $10,000 in the second year of employment,
+         paid to new hires who have received welfare for an extended period. The credit is for two
+         years per worker to encourage not only hiring but retention.
+
+         $3 Billion to Help People in Distressed Areas Move from Welfare to Work. Adds $3
+         billion to help localities move the most disadvantaged welfare recipients into jobs; the funding
+         is targeted to high-poverty areas, including inner cities. These funds can be used for job
+         creation, job placement and job retention efforts, including wage subsidies to private employers,
+         transportation and other critical post-employment supportive services.
+
+
+
+
+                                                                        Automated Records Management Systen-
+                                                                                Hex-Dump Conversion
+  THE LARGEST SINGLE INVESTMENT IN CHILDREN'S HEALTH
+       CARE SINCE THE PASSAGE OF MEDICAID IN 1965
+
+The President fought hard to ensure that the Budget Agreement includes $24 billion to provide
+meaningful health care coverage to as many as jive million ofour nation's ten million uninsured children.
+ This investment includes a meaningful benejits package, ensures that states use this money to cover
+uninsured children and not replace existing public or private spending, and guarantees adequate
+cost-sharing protections for families.
+
+       INVESTS UNPRECEDENTED $24 BILLION FOR UNINSURED CHILDREN. The
+       President insisted on increasing the investment for children's health from $16 billion to $24
+       billion by including revenue from a new tobacco tax. Because of the President's leadership, this
+       budget will contain the largest children's health care budget since the enactment of Medicaid in
+       1965. Including these additional revenues in the children's health initiative will not only further
+       reduce the number of uninsured children, but it will serve as a financial barrier to help prevent our
+       children from starting smoking in the first place.
+
+       ENSURES MEANINGFUL HEALTH CARE COVERAGE, WHILE ALLOWING
+       STATES TO DESIGN THEIR OWN BENEFITS PACKAGE. The President fought hard to
+       ensure that this investment guarantees the full range of benefits -- from checkups to surgery--
+       that children need to grow up strong and healthy. The President also worked to ensure that
+       prescription drugs, vision, hearing, and mental health coverage now offered at the state level are
+       extended to millions of uninsured children.
+
+       GIVES STATES THE FLEXIBILITY TO DESIGN BENEFITS THAT MEET THEIR
+       NEEDS. States will be able to choose from any of four benefits packages: (1) the FEHPB
+       model; (2) the benefits package of the most popular state HMO; (3) the state employee plan; and
+       (4) the actuarial equivalent of any of the three stated benefit plans as long as prescription drugs,
+       vision, hearing, and mental health services now offered in these plans are guaranteed to equal at
+       least 75 percent of the value of these services.
+
+       SUPPLEMENTS NOT SUPPLANTS CURRENT HEALTH CARE COVERAGE. Includes
+       provisions to ensure that states provide health care coverage to children who do not currently have
+       health insurance. It requires that states maintain their current level of spending to access Federal
+       dollars to help make sure that this investment is not used to replace public or private money that
+       already covers children.
+
+       ENSURES ADEQUATE COST-SHARING PROTECTIONS. The President fought to
+       ensure that families are not forced to shoulder excessive costs for their children. The Agreement
+       guarantees that families under 150 percent of poverty will be protected against overly burdensome
+       cost sharing.
+
+
+                                                                                Automated Records Manage~ent Systerr
+                                                                                        Hex.Dump Conversion
+          FOR APPROXIMATELY 27 MILLION FAMILIES
+
+MAIN FEATURES OF THE CHILD TAX CREDIT:
+
+        �      Age. Covers children under 17.                                    Automated Records Management Syster
+                                                                                         Hex-Dump Conversion
+        �      Amount per child.     $400 in 1998. $500 thereafter.
+
+        �      Income limits. Begins to be phased out for couples making over $110,000 and for one
+               parent families making over $75,000.. .
+
+        �      Stacking. Child tax credit will be calculated or "stacked" before the EITC and will
+               therefore be available for the up to 4.8 million working families who have incomes below
+               $30,000 and who were denied the child tax credit under the congressional bills.
+
+        �      For families with more than two kids - Refundability to cover out-of-pocket income
+               and payroll taxes. Because many large families have little income tax liability, but pay
+               significant out of pocket payroll taxes, the child tax credit for these families is partially
+               refundable. These families will receive a child credit for their income taxes plus the
+               extent to which their out-of-pocket (employee share) payroll taxes exceed their EITC.
+
+        �      Savings Incentive Feature. Taxpayers who are entitled to a child credit would be given
+               the opportunity to contribute $500 each year to an education IRA. Earnings would
+               accumulate tax-free in the account and no taxes would be due upon withdrawal for an
+               approved purpose.
+
+A CHILD TAX CREDIT FOR FAMILIES WHO WORK HARD AND PAY TAXES.
+
+Both congressional plans failed a critical test offaimess by denying the child tax credit to up to 4.8
+million hard-working families who pay taxes and eam less than $30,000 a year. These are young
+teachers, police officers, farmers, and nurses who work hard and play by the rules.
+
+President Clinton worked to ensure that under any f"mal agreement, these young parents would
+receive a child tax credit to make it easier for them to raise their children.
+
+        Consider a family offour with two small children: the father is a rookie police officer making
+        $23,000, and the mother has chosen to stay at home. Both congressional bills would have
+        denied this family, and millions ofothers, the child tax credit. The President said all along that
+        this would be wrong and insisted they be included in any final tax cut. Under the final
+        agreement, this family will receive a child tax credit of $675.
+
+
+                             President Clinton's       Agreement        House Bill          Senate Bill
+                                   Proposal
+ Child Tax Credit for
+family of rookie police               $767                 $675             $0                    $0
+officer making $23,000
+                                                                                    Hex-Dump Conversion
+
+        PRESIDENT CLINTON DELIVERS EDUCATION TAX CUTS
+         TO HELP MIDDLE CLASS FAMILIES PAY FOR COLLEGE
+
+THE PRESIDENT'S HOPE SCHOLARSHIP AND TUITION TAX CREDIT
+
+From the beginning, promoting expanded educational opportunity has been the centerpiece of President
+Clinton's budget and his middle class tax cut proposal. Promoting education is the centerpiece of this
+final tax cut bill:
+
+        $1,500 HOPE Scholarship to make the first two years of college universally available. The
+        final agreement includes the President's program to advance the goal of making the 13th and 14th
+        grades as universally available as a high school diploma is today. Students would be provided a
+        scholarship of 100% on the first $1,000 of tuition and fees and 50% on the second $1,000.
+
+       20% Tuition Tax Credit for CoUege .Juniors, Seniors, Graduate Students and for working
+       Americans pursuing lifelong learning to upgrade their skills. The 20% credit will be
+       applied to the first $5,000 of qualified education expenses through 2002, and to the first $10,000
+       thereafter. A major deficiency of the congressional tax bills was that they did little to help
+       students in their third and fourth years of college and they were missing a commitment to lifelong
+       learning. The President has long understood that the economy is changing and that people must
+       have the opportunity to enhance their skills throughout their lives. This is why the President
+       insisted on the 20% tuition tax credit that is in the final bill.
+
+A SUMMARY OF ADDITIONAL EDUCATION TAX CUTS
+
+�      Education and Retirement Savings Accounts. Allows penalty-free IRA withdrawals for
+       undergraduate, post-secondary vocational, and graduate education expenses. Additionally, taxpayers
+       eligible for the child tax credit are given the opportunity to deposit $500 into an education IRA.
+       Earnings would accumulate tax-free and no taxes would be due upon withdrawal for an approved
+       purpose.
+
+�      Employer-Provided Education Benefits. Extends Section 127 of the tax code for three years, which
+       allows people to exclude $5,250 of employer-provided undergraduate education benefits from their
+       taxable income.
+
+�      Student Loan Interest Deduction. Allows a deduction for up to $2,500 per year of interest on
+       education loans for expenses of students enrolled at an institution of higher education. This deduction
+       would be available even if the taxpayer does not itemize deductions.
+
+�      Community Service Loan Forgiveness. In most circumstances, a loan that is forgiven is considered
+       income and is therefore taxable. To encourage programs that offer loan forgiveness to borrowers who
+       take lower-paying, community-service jobs, loan amounts forgiven through programs run by nonprofit
+       tax-exempt charitable or educational institutions, would be excluded from income. Currently, the
+       exclusion generally covers only certain forgiveness arrangements between students and government
+       entities.
+
+�      Repeal Cap on Tax Exempt Bond Issuance by Colleges and Universities. Repeals the $150 million
+       bond cap that affects private higher education institutions and certain other charitable institutions.
+        expenditures.
+
+            PRESIDENT CLINTON DELIVERS A BUDGET THAT
+              STRENGTHENS AND PRESERVES MEDICARE
+
+The Budget Agreement preserves and strengthens the Medicare program, saving $115 billion over five
+years and extending the life of the Medicare Trust Fund for at least ten years. It modernizes Medicare by
+including new market-oriented reforms that have proved successful in the private sector and $4 billion in
+new preventive benefits. As this agreement strengthens and preserves the Medicare program, it also
+creates a Medicare Commission to examine the long-term needs ofthe program so that Medicare will be
+prepared for the retirement of the baby boomers.
+
+           SAVES $115 BILLION OVER FIVE YEARS. Includes $115 billion in savings over
+           five years and $434 billion over ten years.
+
+           EXTENDS THE LIFE OF THE MEDICARE TRUST FUND FOR AT LEAST TEN
+           YEARS. This agreement will keep Medicare solvent until at least 2007.
+
+           IMPLEMENTS UNPRECEDENTED NEW MARKET-ORIENTED REFORMS
+           INCLUDING:
+
+           (1)   Empowering the Secretary of Health and Human Services to implement competitive
+                 market mechanisms;
+           (2)   Opening up new options that have proved effective in the private sector, including
+                 allowing Medicare to work with Preferred Provider Organizations (PPOs) and
+                 Provider Sponsored Organizations (PSOs);
+           (3)   Providing Americans with meaningful choices by reforming annual Medigap
+                 enrollment; and
+           (4)   Building on the success Medicare has had in controlling hospital costs, restructuring
+                 the entire payment system so that rates are set in advance through a prospective
+                 payment system.
+
+           INCLUDES $4 BILLION OVER FIVE YEARS FOR NEW PREVENTIVE
+           BENEFITS INCLUDING expanding coverage for mammograms and colorectal screening
+           and improving self-management of diseases like diabetes.
+
+           ENSURES NEW PREMIUM PROTECTIONS FOR LOW-INCOME MEDICARE
+           BENEFICIARIES. The budget agreement invests $1.5 billion over five years to pay the
+           premiums for beneficiaries up to 135 percent of poverty. Beneficiaries over 135 percent of
+           poverty to as high as 185 percent of poverty will get assistance as well.
+
+           TAKES STEPS TO ENSURE THAT VULNERABLE HOSPITALS ARE
+           PROTECTED. The Agreement reduces the Medicare Disproportionate Share Hospitals
+           cut from $2.4 billion in the Senate-passed agreement to $600 million over five years.
+
+           ESTABLISHES A MEDICARE COMMISSION. The agreement creates a 17-member
+           Medicare Commission which contains eight Democrats and eight Republicans and an
+           additional member that will be selected jointly by the President and the Congressional
+           leadership to chair the Commission. The Commission will release a report in 1999 and
+           require a 11 of 17 majority to ensure that its recommendations are bipartisan.
+      TO CLEANUP AND REVITALIZE URBAN AREAS ...
+
+THE BROWNFIELDS TAX INCENTIVE WILL REDUCE THE COST OF
+CLEANING UP THOUSANDS OF CONTAMINATED, ABANDONED SITES IN
+ECONOMICALLY DISTRESSED AREAS by pennitting clean-up costs to be immediately
+deducted for tax purposes, rather than requiring this spending to be written off over time.
+This would, in turn, encourage redevelopment of these areas. The tax incentive will be
+available for three years.
+THIS PROPOSAL IS A MAJOR PRIORITY FOR MANY OF AMERICA'S MAYORS.
+ Chicago Mayor Richard Daley, writing recently on behalf of the U.S. Conference of Mayors,
+urged Ways and Means Chairman Archer to include the President's Brownfields proposal in
+the tax bill: ''This is a high priority for communities across the nation." [Letter to Chmn. Archer,
+6111197]
+
+CREATES NEW EMPOWERMENT ZONES. Under the President's 1993 Empowerment
+Zones and Enterprise Communities initiative, participating communities develop a strategic
+plan to spur economic development, and they receive Federal tax benefits, social service
+grants and flexibility in use of Federal funds in order to put these plans into effect. The EZs
+and ECs are urban or rural areas with high poverty and unemployment rates.
+�          A Strong Start since 1994. The 105 communities selected as EZIECs in 1994 amassed
+           over $8 billion in public-private commitments. In the six urban Empowerment Zones, the
+           private sector has made or pledged $2 billion in new investtnents.
+�          A Second Round to Build on Our Successes. In response, the President
+           proposed, and the bill includes, a second-round ofEZs-- 15 urban and 5 rural EZs.
+           The new EZs will benefit from a different blend oftax credits than first-round EZs.
+            They will be eligible for the Brownfields tax incentive, special expensing of
+           business assets, and qualification for private-activity bonds .
+
+
+    ...AND TO MOVE PEOPLE FROM WELFARE TO WORK
+
+A WELFARE-TO-WORK TAX CREDIT. This provision will give employers an added
+incentive to hire long-term welfare recipients by providing a credit equal to 35% of the first
+$10,000 in annual wages in the first year, and 50% of the first $10,000 in wages in the second
+year of employment, paid to new hires who have received welfare for an extended period.
+The credit is for two years per worker to encourage not only hiring but retention.
+
+$3 BILLION TO HELP THE MOST DISADVANTAGED MOVE FROM WELFARE
+TO WORK. Adds $3 billion to help localities move the most disadvantaged welfare
+recipients into jobs; the funding is targeted to high-poverty areas, including inner cities.
+These funds can be used for job creation, job placement and job retention efforts, including
+wage subsidies to private employers, transportation and other critical post-employment
+supportive services. The Labor Department will provide oversight but the dollars will be
+placed in the hands of the localities who are on the front lines of the welfare reform effort.
+
+
+                                                             Automated Records Management Svstp--
+                                                                     Hex-Dump Convers:of\
+                        OUR MOST VULNERABLE PEOPLE
+
+Several provisions in last year's welfare reform bill had nothing to do with the goals of welfare reform.
+The President said so at the time and promised to work to correct these provisions. That's why he fought
+to ensure that any agreement protects the most vulnerable in our society. The President fought to better
+protect:
+
+CHILDREN
+
+              KEEPING THE GUARANTEE TO MEDICAID. Preserves the Federal guarantee of
+              Medicaid coverage for the vulnerable populations who depend on it and contains additional
+              investments to extend coverage to uninsured children.
+
+LEGAL IMMIGRANTS
+              CURRENT RECIPIENTS. Restores both SSI and Medicaid benefits for immigrants now
+              receiving assistance, ensuring that they will not be turned out of their apartments or nursing
+              homes or otherwise left to an uncertain fate.
+
+              CURRENT RESIDENT NONRECIPIENTS. Does not change the rules retroactively.
+              Immigrants in the country as of August 22,1996 but not receiving benefits at that point who
+              subsequently become disabled will also be fully eligible for SSI and Medicaid benefits.
+
+             REFUGEES AND ASYLEES. Extends the SSI and Medicaid eligibility period for
+             refugees and asylees from 5 years after entry (the limit in the welfare bill) to 7 years, in
+             order to give these residents more time to naturalize.
+
+             The budget legislation also, pursuant to Administration suggestions, treats Cuban and
+             Haitian entrants and Amerasians immigrants as refugees for purposes of SSI, Medicaid and
+             other means-tested benefits, ensuring that they can receive the assistance needed as a result
+             of the extraordinary hardship many have endured.
+
+POOR ELDERLY AND DISABLED, INCLUDING CITIZENS
+
+             RECIPIENTS OF STATE SSI SUPPLEMENTS. Does not include the House-passed
+             provision that would have repealed the maintenance of effort requirement applying to State
+             supplementation of SSI benefits, permitting States to reduce or eliminate benefits to almost
+             3 million poor blind, elderly and disabled individuals.
+
+PEOPLE WHO WANT TO WORK BUT CAN'T FIND A JOB
+             CHILDLESS ADULTS. Last year's welfare refonn bill restricted food stamps for
+             able-bodied childless adults to only 3 out of every 36 months, unless they are working.
+             This move ignored the fact that finding a job often takes time.. The budget bill provides
+             $1.5 billion to create 235,000 work slots and provide food stamp benefits to those who are
+             willing to work but, through no fault of their own, have not yet found employment.
+
+             ALLOWS STATES TO EXEMPT UP TO 15 PERCENT OF THE FOOD STAMP
+             RECIPIENTS WHO WOULD OTHERWISE BE DENIED BENEFITS AS A
+             RESULT OF THE "3 IN 36" LIMIT.
+                 Building on His Strong Record of Deficit Reduction and Growth
+
+President Clinton has achieved a balanced budget agreement that includes critical investments in education,
+health care, and the environment while strengthening and modernizing Medicare and Medicaid --just as he
+promised last year. This achievement finishes the job of balancing the budget, a key priority for the President
+since he took office.
+
+ONLY FOUR YEARS AGO. In 1993, the President inherited a budget deficit of $290 billion that was
+expected to explode to over one-half trillion dollars in 2002. A decade of large deficits had weakened the
+foundation of our economy and sapped our power and prestige abroad. Unemployment was 7.5% in 1992, and
+job growth was sluggish.
+
+THE PRESIDENT PASSES HIS 1993 ECONOMIC PLAN. President Clinton addressed this problem of
+fiscal instability immediately on a pledge to cut the deficit in half. Working with Democrats in Congress, he
+implemented an economic program designed to reduce the deficit and to invest in critical priorities, such as
+education and training. The 1993 economic plan has exceeded all expectations: the deficit has fallen by 77%,
+droppingfor a likely fifth year in a row to an expected $67 billion in 1997; equipment investment has been the
+strongest since Kennedy was President; the economy has produced over 12.5 million new jobs; and the
+unemployment rate this year is the lowest in 24 years.
+
+THE PRESIDENT ACHIEVES BIPARTISAN AGREEMENT TO FINISH THE JOB. The President began
+his second term determined to fulfill his goal of balancing the budget. As we head into the next century, this
+bipartisan agreement protects our priorities, solidifies the nation's economic foundation, restores faith in our
+ability to govern ourselves, and bolsters America's preeminent position in the world economy. The balanced
+budget agreement includes $900 billion in 10 year net deficit savings and delivers the first balanced budget in a
+generation.
+
+                            ,..   .<
+                       D.
+                                                I   the First          I RlirI .... tJna
+                                           Yc                   1993 Defici                CurrentD
+                                           19                           $3                       $2
+                                           19                          ~3                        ~2
+                                           19                           $3                       ~1
+
+                                           19                           $2                        $1
+                                           19                           $3
+                                           19                          ~3
+
+                                           19                           $4
+                                           20                           $4
+                                           20                           $5
+                                           20                           $5
+
+    BUDGET STAYS IN BALANCE. In addition to delivering a balanced budget in 2002, the budget
+    agreement delivers budget surpluses for each of the second five years ofthe budget window, 2003-2007,
+    putting the nation on a solid fiscal path at a critical time as the baby boom generation edges toward retirement.
+
+
+
+
+                                                                                           Automated Records Managef!lent System
+                                                                                                   Hex-Dump Conversion
+        Hex-Dump Convers!ol'
+                                a Mainstream, Middle Class Tax Cut
+
+How Typical American Families Will Benefit
+
+Example #1
+Consider a family of four who makes $75,000 a year. The father is a civil engineer and makes $50,000 and
+the mother is a secretary and makes $25,000. They have two kids, a son who is 14 and a freshman in high
+school and a daughter enrolled full-time in her first year at a state university. Her tuition is $5,000 a year.
+
+This family benefit from the tax cut in at least two ways. They will receive a child tax credit of $500 for their
+son, plus a HOPE Scholarship of$I,500 for their daughter. In total, they will receive a $2,000 tax cut.
+
+                                                Tax Cut
+
+   Family of four with two children
+   aged 14 and 18 and $75,000 income:
+
+   Child Tax Credit for 14 year old                   $500
+   HOPE Scholarship for 18 year old                   $1.500
+
+               Total tax cut:                     $2,000
+
+
+Example #2
+Consider a family of three making $55,000 a year. The father has a degree in accounting and works for a
+local business in the accounting department. The mother works part-time at the local library. They have
+one daughter aged 7. The father would like to return to school to prepare for his CPA examination. He is
+going to attend the local liberal arts college. He has signed up for two courses with total tuition of$4,000.
+
+This family will receive a $500 tax child tax credit for their daughter and a $800 tuition tax credit to help pay
+for the father's course work.
+                                              Tax Cut
+
+   Family ofthree with one child
+   aged 7 and $55,000 income:
+
+   Child Tax Credit for 7 year old                    $500
+   Tuition tax credit                                    $800
+
+               Total tax cut:                     $1,300
+
+
+                                                                            Automated Records Management S~~t,o'
+                                                                                    Hex텱ump Converslor
+Consider a family of three making $80,000 combined. The mother is a nurse and the father is an architect.
+They have a daughter who is 17 years old and is trying to decide where to go to college. She is leaning
+towards a private liberal arts school and thinks she'll go to law school after that. Her parents are staring at
+tuition payments in excess of $1 0,000 a year for seven school years and wondering how they will pay for it.
+
+
+This tax cut will help. Their daughter will be eligible for a $1,500 HOPE Scholarship in each of her first two
+years in college. During her junior and senior years, she will be eligible for a tuition tax credit of$I,OOO.
+Additionally, she will be eligible for a tuition tax credit of$I,OOO in each of her three years oflaw school
+(because seven school years fall across eight tax years she will be eligible for another $1,000 in the eighth
+year).
+
+
+                                  Tuition Tax Credits
+
+
+               1998               $1,500 Hope Scholarship
+               1999               $1,500 Hope Scholarship
+               2000               $1,000 Tuition Tax Credit
+               2001               $1,000 Tuition Tax Credit
+               2002               $1,000 Tuition Tax Credit
+               2003               $2,000 Tuition Tax Credit
+               2004               $2,000 Tuition Tax Credit
+               2005               $1,000 Tuition Tax Credit
+
+       Cumulative Tax Cut to Help
+        Pay for Daughter's Education              $11,000
+
+Example #4
+A single mother lives with her six year old daughter in California. She's been working as a bank teller for
+several years and her pay is now up to $20,000 a year. Working towards becoming a loan officer, she is
+taking one course a semester towards a bachelor's degree. Her tuition runs about $1,000. This family will
+receive a $500 child tax credit for the daughter and a $200 tuition tax credit.
+
+                                            Tax Cut
+
+   Family of two with one child
+   aged 6 and $20,000 income:
+
+   Child Tax Credit for 6 year old               $500
+
+   Tuition Tax Credit                            $200
+
+               Total tax cut:                 $700
+
+
+
+
+                                                                             Automated Records Management Svster
+                                                                                     Hex-Dump Conversion
+         IN A GENERATION AND A MAINSTREAM TAX CUT
+President Clinton has achieved an historic balanced budget that promotes our values, providing critical
+investments for education, health care, and the environment while strengthening and modernizing Medicare
+and Medicaid. It also provides middle-class families a tax cut to help raise their kids and send them to
+college. We have cut the deficit by 77%,from $290 billion in 1992 to $67 billion or less this year. This
+historic budget finishes the job, while meeting our goals.
+
+ONLY FOUR YEARS AGO. In 1993, the President inherited a budget deficit of $290 billion that was
+expected to explode to over one-half trillion doUars in 2002. A decade oflarge deficits had weakened the
+foundation of our economy and sapped our power and prestige abroad. Unemployment was 7.5% in 1992,
+and job growth was sluggish.
+
+THE PRESIDENT PASSES HIS 1993 ECONOMIC PLAN. President Clinton addressed this problem of
+fiscal instability immediately on a pledge to cut the deficit in half. Working with Democrats in Congress, he
+implemented an economic program designed to reduce the deficit and to invest in critical priorities, such as
+education and training. The 1993 economic plan has exceeded aU expectations: the deficit has fallen by
+77%, droppingfor a likely fifth year in a row to $67 billion or less in 1997; equipment investment has been
+the strongest since Kennedy was President; the economy has produced over 12.5 million new jobs; and the
+unemployment rate this year is the lowest in 24 years.
+
+THE PRESIDENT ACHIEVES FIRST BALANCED BUDGET IN A GENERATION TO FINISH
+THE JOB. The President began his second term determined to fulfill his goal of balancing the budget. As
+we head into the next century, this bipartisan balanced budget protects our priorities, solidifies the nation's
+economic foundation, restores faith in our ability to govern ourselves, and bolsters America's preeminent
+position in the world economy.
+
+�      $900 Billion in Net Ten-Year Savings to keep us on the path of fiscal responsibility and help
+       prepare the nation for the retirement of the baby boom generation.
+
+�      Single Largest Investment in Health Care for Children Since the Passage of Medicaid in 1965.
+                                                                                                        l!:
+       Today, ten million children have no health insurance. The balanced budget takes dramatic
+       and concrete steps to right this wrong. Health care coverage will be extended to up to 5         3
+                                                                                                        '"
+       million children                                                                            ::x: CD
+                                                                                                        a.
+                                                                                                             ~~
+�      Critical Long-Term Entitlement Reforms including $434 billion in ten-year Medicare savings to ~[
+       keep the Medicare Trust Fund Solvent for at least a decade. hnportantly, these savings are achieveih ~
+       in a way that prepares Medicare for the 21 st century -- more choice is provided, competition is  ~ ~
+       injected, and payment systems are revamped and preventive benefits are included.                  ffi <g
+                                                                                                             C5.~
+
+�      Largest Increase in Higher Education Funding Since the G.I. Bill of 1945, including $1,500
+       HOPE Scholarship to make the first two years of college universally available and a 20% Tuition Tax
+                                                                                                           en
+                                                                                                             =>=>
+                                                                                                                  -
+                                                                                                                  *"
+       Credit for college juniors, seniors, graduate students and for working Americans pursuing lifelong  3
+       learning to upgrade their skills.
+
+�      $500 Per Child Tax Credit to make it easier for approximately 27 million families to raise their
+       children.
+
+�      Helping Move People from Welfare to Work. The budget adds $3 billion, the full amount
+       requested by the President for the Welfare-to-Work Jobs Challenge, to the TANF block grant to fund
+       welfare-to-work efforts in high-poverty, high-unemployment areas.
+
+�      Protects our Nation's Most Vulnerable People. The budget includes $12 billion to restore both
+       disability and health benefits for legal immigrants who are or become disabled, ensuring that they will
+       not be turned out oftheir apartments or nursing homes or otherwise left to an uncertain fate.
+        ,-
+                                                                                       Page 1 of2
+".',.
+
+
+

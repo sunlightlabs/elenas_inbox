@@ -1,0 +1,55 @@
+RECORD TYPE: PRESIDENTIAL         (NOTES MAIL)
+
+CREATOR: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP [ OPD 1 )
+
+CREATION DATE/TIME: 8-0CT-1998 18:42:17.00
+
+SUBJECT:   Numbers you asked about
+
+TO: Elena Kagan    CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+CC: Jeanne Lambrew ( CN=Jeanne LaIDbrew/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ:UNKNOWN
+
+CC: Cynthia Dailard ( CN=Cynthia Dailard/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+CC: Christopher C. Jennings ( CN=Christopher C. Jennings/OU=OPD/O=EOP @ EOP [ OPD 1
+READ: UNKNOWN
+
+TEXT:
+Bruce -- the CBO score of the Medicaid works about how I described
+earlier.  It's based on assumptions of how many states will settle suits
+in the next five years, and the likelihood that HCFA will actually collect
+the federal share.  CBO keeps these assumptions quite close to the vest,
+and OMB doesn't know what they are.   But as the table below shows, CBO
+expects the federal government in the next five years to recoup about
+11.4% of the federal share of the 50 state settlement dollars, which means
+the following scenarios would be possible:
+
+1) Assume 25% of states would settle, and HCFA would recoup 45% of federal
+unds:
+
+                  .25 x .45   =   11.3%
+
+2) Assume 15 percent of states would settle and HCFA would recoup 75% of
+federal funds:
+
+                  .15 x .75 = 11.3%
+
+        FY 99   FY 00   FY 01   F'( 02  FY 03    5 YR
+McCain Bill
+State Payments 6.2      4.4     5.0     5.1      5.5     26.2
+McCain Bill,
+Federal Share of State Payments (57%)   3.5      2.5     2.85     2.9      3.1     14.9
+Cost of Recoupment Provision    .14     .28      .36     .45      .45      1.7
+Recoupment Cost as Percentage of Federal Share   4.0%    11. 2%   12.6%    15.5%   14.5
+
+

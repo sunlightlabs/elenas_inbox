@@ -1,0 +1,195 @@
+RECORD TYPE: PRESIDENTIAL     (NOTES MAIL)
+
+CREATOR: Todd Stern ( CN=Todd Stern/OU=WHO/O=EOP    WHO)   )
+
+CREATION DATE/TIME:24-MAY-1999 17:30:21.00
+
+SUBJECT:   Draft potus memo
+
+TO: Maria Echaveste    CN=Maria Echaveste/OU=WHO/O=EOP@EOP [ WHO ) )
+READ: UNKNOWN
+
+TO: Gene B. Sperling ( CN=Gene B. Sperling/OU=OPD/O=EOP@EOP [ OPD ) )
+READ:UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP@EOP [ OPD ) )
+READ: UNKNOWN
+
+TO: James T. Edmonds ( CN=James T. Edmonds/OU=WHO/O=EOP@EOP [ WHO ) )
+READ: UNKNOWN
+
+TO: Jose Cerda III ( CN=Jose Cerda III/OU=OPD/O=EOP@EOP [ OPD ) )
+READ: UNKNOWN
+
+TO: Charles F. Ruff   ( CN=Charles F. Ruff/OU=WHO/O=EOP@EOP [ WHO)    )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP@EOP [ OPD ) )
+READ:UNKNOWN
+
+TO: "Christopher Edley, Jr." <edley@law.harvard.edu> ( "Christopher Edley, Jr." <edl
+READ: UNKNOWN
+
+CC: Sally Katzen ( CN=Sally Katzen/OU=OPD/O=EOP@EOP [ OPD ) )
+READ: UNKNOWN
+
+CC: Melissa G. Green ( CN=Melissa G. Green/OU=OPD/O=EOP@EOP [ OPD ) )
+READ: UNKNOWN
+
+TEXT:
+Attached is a short memo to the President intended to accompany the new
+draft of the book, which Maria plans to send with the President on his
+vacation. The memo is intended to flag major areas of dispute in order to
+inform the President's review of the book.  It is not framed as a decision
+memo, which would, in my view, be inappropriate at this time.
+
+Please let me know if you have comments or edits. I want to finalize this
+first thing tomorrow morning.  tds==================== ATTACHMENT  1 ==============
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D75)ARMS27415055R.136 to ASCII,
+ The following is a HEX DUMP:
+
+DOCF11EOA1B11AE1000000000000000000000000000000003E000300FEFF090006000000000000
+0000000000010000001700000000000000001000001800000001000000FEFFFFFF000000001600
+OOOOFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+
+
+MEMORANDUM FOR THE PRESIDENT
+
+FROM:                  TODD STERN
+
+SUBJECT:               Race Book
+
+
+Attached is a new draft of the race book. Maria and I circulated the previous draft to a relatively
+small number of your advisors, and in this new draft Chris has incorporated some, but by no
+means all, of their substantive comments. There continue to be several areas of disagreement
+between Chris and some of your advisors, with respect both to policy and tone. This memo
+doesn't present these disagreements in option form for your decision, as that doesn't seem
+appropriate at this time. But, it is intended to help inform your review of the new draft so that
+you can provide guidance on how you want these matters handled.
+
+POLICY DISPUTES
+
+Education (chapter IIU)
+
+The Compact. The principal dispute is over the new Compact for Equal Opportunity in
+Education, which Chris has proposed. The Compact is framed as a program designed to close the
+racial gap in achievement, which the chapter describes as our number one goal in education.
+Chris sees your ESEA proposals as helpful, but still overly top-down in their prescription of the
+means for achieving good results, while not tough enough in demanding that good results be
+achieved.
+
+In order to address the racial gap in achievement, the Compact would act as a kind of results-
+based block grant. A separate funding stream would be established and the federal government
+could provide (1) some new funding and (2) broad flexibility in existing federal grant programs
+to school systems that adopt measurable goals, with a strategy and timetable for meeting those
+goals. The awarding of grants and flexibility would depend upon a judgment by experts that the
+school systems' proposed strategy was likely to succeed. School systems that failed to produce
+results - reducing racial disparities in achievement - would face the loss of at least some funding
+and flexibility and would have to work with experts to reform their strategies, including through
+shock therapy and new management if necessary.
+
+Bruce and Elena argue that this Compact could undermine your ESEA proposals by giving
+ammunition to Republicans who favor block grants (without Chris's insistence on results) and
+who will be only too pleased to point to your book as support for their position. Bruce and Elena
+also dispute Chris's characterization of your ESEA proposals as too soft, arguing that these
+proposals are sweeping in their range and fundamental to closing the educational opportunity gap
+by ensuring qualified teachers, smaller class rooms, sound discipline, high expectations and
+
+                              Automated Records Management System
+                              Hex-Dump Conversion
+in the book.
+
+Social promotion. Chris is skeptical about the objective of ending social promotion, concerned
+that the use of standards and tests can only be legitimate if we give students a full and fair
+opportunity to meet the standards and pass the tests. As he said in an earlier memo to you, "I and
+others fear that it is politically easy for some state or local official to say he's for tough standards
+and then show it by flunking poor colored kids." Bruce and Elena's view is that we're for high
+standards now, not at some future time when all aspects of unequal funding have been addressed.
+They argue that the best way to address the concerns of the civil rights community is to couple
+no-social-promotion policies with steps to strengthen learning opportunities for kids, such as
+providing extra help for students who need it and extended learning time.
+
+Economic development (chapter 111.2)
+
+Gene is concerned that this chapter fails to give adequate credit to what you've done over the
+past six years in terms of directing investment to poor communities and is too heavily focussed
+on the example of the federal financing system for housing. He is working on edits, but has not
+completed them yet.
+
+Crime -- Racial Profiling (chapter 111.3)
+
+An interagency group including DPC, White House Counsel, Justice and Treasury (Customs),
+among others, has been working for some time on a draft executive order on racial profilng. You
+will be receiving a memo on this matter in due course. The consensus of this group, in a
+nutshell, is that the Order should begin with a forceful statement about the undesirability of racial
+profiling, and should then direct the relevant agencies (1) to report on their actual policies and
+practices, and (2) to undertake a serious data collection effort in order to inform your ultimate
+decision-making. Chris believes the Order should include a flat ban on profiling with an escape
+valve for extraordinary showings - e.g., by INS in certain situations on the southwest border - as
+presented in the current draft of the book. The consensus of the group (other than Chris) is that
+an Order including an exception will be portrayed as your acceptance of racial profiling (and thus
+be criticized by civil rights groups), while a flat ban isn't feasible at this time without greater
+understanding of the extent to which Customs and INS make use of the practice.
+
+
+Civil Rights -- School funding (chapter 111.4)
+
+The draft chapter on civil rights includes what Chris describes as a fairly muscular endorsement
+of disparate impact analysis in the area of allocating resources among schools. This is consistent
+with a number of references in the education chapter that express disapproval with the use of
+local property taxes to fund schools. ("In recent years, there have been over a dozen law suits
+brought under state constitutional provisions, challenging the school finance systems established
+by state laws. These have met with some success. I hope much more change of this sort is on
+the way.") Chuck Ruff notes that there are differing views on resource allocation among DOJ,
+
+                                  Automlted Records Management System
+                                  Hex-DtM/lp Conversion
+
+
+
+     DoEd and DPC, that the discussion in the book may raise questions about the legality of school
+     funding schemes all over the country, and that more policy discussion is needed before you get
+     out front on this issue.
+
+     TONE AND MESSAGE
+
+     A number of concerns have also beenyoiced regarding tone or message. They include:
+
+     �   It isn't credible at this late date to add "heart" to your traditional triad of opportunity,
+         responsibility and community. It's fine to say that racial reconciliation requires a change in
+         people's hearts, but not to add a fourth leg to your traditional litany, as if you just realized
+         that something has been missing there for the last seven years;
+
+     �   Responsibility, while listed in the litany, is given short shrift in the body of the book. There
+         is an intensive focus on the need to provide greater opportunity to minorities in order to close
+         racial gaps in education, economic development, treatment by the criminal justice system,
+         health care and environmental justice, but there is not enough of your traditional emphasis on
+         the need for all of us, including minorities, to assume responsibility -- work hard, play by the
+         rules, support our children, etc.;
+
+     �   The book doesn't adequately capture your voice, the special character of your discourse on
+         race, as evident in speeches like Memphis, Austin, etc. To some degree, this comment
+         overlaps with the previous one about responsibility, but it is broader than that;
+
+     �   The book is too negative in certain places. For example, the opening poem, an Ojibway
+         prayer, begins, "Grandfather, look at our brokenness." In a couple of chapters (Part II and
+         Part V), there is an extended discussion about why your generation failed to pick up the torch
+         from Dr. King, musing about whether the combination of assassinations, Vietnam and riots
+         knocked the wind out of your idealism, wondering whether your generation stood aside
+         because you thought further progress was inevitable, or would be taken care of by others, or
+         was just too difficult or fatiguing.
+
+     These concerns are by no means shared by all your advisors, but have been expressed by a
+     number of them.
+
+
+
+
+                                        Automated Records Management System
+                                        Hex-Dump Conversion
+
+

@@ -1,0 +1,387 @@
+ RECORD TYPE: PRESIDENTIAL     (NOTES MAIL)
+
+ CREATOR: Elizabeth Drye ( CN=Elizabeth Drye/OU=OPD/O=EOP [ OPD ] )
+
+ CREATION DATE/TIME:10-AUG-1997 17:33:32.00
+
+ SUBJECT:   Tobacco document
+
+ TO: Elena Kagan      CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ]   )
+ READ: UNKNOWN
+
+ TEXT:
+ ==================== ATTACHMENT   1 ====================
+ ATT CREATION TIME/DATE:   0 00:00:00.00
+
+ TEXT:
+ Unable to convert ARMS_EXT: [ATTACH.D81]MAIL47181322B.216 to ASCII,
+  The following is a HEX DUMP:
+
+ FF575043CC040000010A020100000002050000004668000000020000818037B12FB86954A17700
+ 7461735B2F9EB7781D30C4ACFF98A90983F6DA283825E44F10B07D4907D8513E7740F5A8A7B27D
+ E541306DCODAE99946AE95AB0640AB388CF9CFB9F252780EB8C5A59FDD495B6FC8307E420F676A
+ A5E13544EE177B243B946455F3BCF5B07FA8F36EF3F3F59DC9B0258ED8A98753F8308F33490B1E
+ 6DD7CD844E8261519FE903BE1384B8CD3ED5800E6D430D60CEA7DC12019BBAB1444F781FF4BC34
+ 192F9347DE451AOC3CE448F2455792AB9082A1B064661D132F89EDE2364FF3AOD2A902B9492885
+ 493791D76C7F2CE5873D4070CB138383845BEA1546E81F179BDEF3884930110FB313D3568A72E4
+ 029A86COBC4FFC7AD05DE4E35E9B2477047D54C5F6DBCA7EFD2CD4771641120253DODFEFBEB25E
+ 9833C8D7DOBE3C7AOCBA53B4E658C3442BBAEBAD9E31F618E83BAC67799556D5D86EC015F40873
+ E104FC7AE429DE92ED6E48E98EOCBD419410BB3DCDl19AE2454BOAB7E5C85F8EF7390E2F65491C
+ 788D109492FB7CEB2B6B27F5AOD4390BOB53EAEE53F4EC910E6CC35FAF6732A97FD5161AF75C77
+ 926E42B549CEE166B27F918AB19EB35996FB2524321D5E82E078801829D23608180D1CE3A4BD17
+ 97887F667531296A721719D94C4764EF1EA7345E7F1287BDC6E996348501ADC3E9E16673CAD702
+ 907BD070F902000A00000000000000000000000823010000000BOl00008C020000005517000000
+ 4E0000009703000009250100000006000000E50300000B300200000028000000EB03000000551C
+ 0000004E00000013040000087701000000400000006104000008340100000014000000A1040000
+ 0802010000000FOOOOOOB504000008050100000008000000C404000000984C0061007300650072
+ 004A006500740020003400200070006C007500730020002800440065006600610075006C007400
+ 290000000000000000000000000000000000000000000000000057494E53504F4F4COOOOOOOOOO
+ C800C8002C012C012C012C01C800C8003000000000000000000000000000000000000000000000
+ 000000000000000000000000000000000000000000000000000000000000000000000000000000
+ 000000000000000000000000000000000000000000000000000000000000000000000000000000
+ 000000000000000000000000000000000000000000000000000000000000000000000000000000
+ 0000000000000000000000000000000000000B0100002800C8196810480D000011090000005AOO
+ OB010000103600540069006D006500730020004E0065007700200052006F006D0061006E002000
+ 52006500670075006C006100720000000000000000000100020058020100000004002800000000
+ 000000000000000000000000000000011202002400A1000000A10000002800D61EC30F39080000
+ 11090000005AOOOB01008B143600540069006D006500730020004E0065007700200052006F006D
+ 0061006E00200052006500670075006C006100720000000000000000000AOOOOOOCOOF01001300
+ CIOF01000200C20F01000200C30F01000200C40F01000200C50F01004400C60F01000200C70F02
+ 001700C80F02001700C90F01004400365B0823C30F390800000000000000000000000008337COO
+ 780000020000C90F0000030100040002000000DDOA10008301040003000200211000DDDDOBOBOO
+ 030000040BOODDF102B40FF19BF103B40FF1F100B40FF19BF101B4OFF1D1033700800100001600
+ 9CB1010000580206000058020000000000000064FOOOOOOOOOOOOO000000000000000000000000
+ 64C8003700D1E04012000000009DOE9DOE1AOOEC131200E04B65798049737375657380696E8054
+. 6F626163636F80F100B40FF19CF101B40FF1536574746C656D65~E74F100B40FF19BF101B40FF1
+  88D0041500000B00090001B0040000000001201500DOD41A1F0087010500080058029CB10000S8
+  02000058020200S80200001FOOD4F20CF2492EE0110C0000000008070COOE0464441804A757269
+  7364696374696F6ED0041S00000B00090001A005F000010001201500DOF30CF3E0110COOOOOOOO
+  08070COOEOD41A230086010200080058029CB10000S802000058020500S8029CB1C60000002300
+  D4F100B40FF19CF101B40FFID41A1F0087010500080058029CB10000580200005802020058029C
+                                Key Issues in Tobacco Settlement         Hex-Dump Conversion
+I.     FDA Jurisdiction
+
+        The settlement would codifY FDA's authority to regulate tobacco products, and enact into
+law the specific access and advertising restrictions contained in FDA's rule, ending the risk and
+delay of legal challenges to the rule, and the risk that a subsequent FDA Commissioner could
+conclude that FDA does not possess the authority to regulate tobacco under current law.
+However, the settlement would significantly alter FDA's current authority. The settlement takes
+the positive step of establishing a "risk reduction" standard for FDA to use in evaluating tobacco
+products -- a more logical and flexible standard for tobacco products than the Food, Drug and
+Cosmetic Act's required showing of safety and efficacy. But other provisions in the settlement
+place significant new substantive and procedural hurdles in the way of any FDA restrictions on
+cigarette and smokeless tobacco content, labeling, and marketing.
+
+        To modifY tobacco products, including reducing or eliminating nicotine, FDA must make
+new substantive findings and meet new standards of evidence. FDA must show a required
+product modification will: 1) result in a significant reduction in health risk to tobacco users; 2)
+be technologically feasible; and, 3) not create a significant demand for contraband. FDA must
+also consider the number of dependent users, the availability and demonstrated market
+acceptance of alternate products, and the effectiveness of smoking cessation techniques before
+requiring product modifications.
+
+         Under the settlement, administrative courts would give the agency less deference in
+reviewing challenges to FDA's rules. Currently, courts uphold FDA's decisions as long as
+FDA's actions are not "arbitrary and capricious." Under the settlement, administrative courts
+would hold FDA to a "substantial evidence" standard in reviewing its actions to reduce nicotine,
+and to a "preponderance of evidence" standard for actions to eliminate nicotine. Further, the
+settlement specifies that the court's deference to the agency would depend on the "extent to which
+the matter at issue is then within the Agency's field of expertise."
+
+       The settlement places procedural hurdles before the agency as well. The FDA must use
+burdensome, trial-like formal rulemaking procedures in lieu of regular notice and comment
+procedures to mandate product modifications that reduce risk. Finally, the settlement bars FDA
+from eliminating nicotine or taking an equivalent action for 12 years, and from changing the
+access and advertising provisions for 5 years except under extraordinary circumstances.
+
+        To address these concerns, the settlement could be modified to codifY FDA authority,
+consistent with FDA's final rule on tobacco, except changing the standard for tobacco products
+regulation from safe and effective to "reduced risk" and changing the required findings to facts
+the agency must consider. The new procedural hurdles, standards for review, and time
+constraints (particularly the 12 year prohibition on eliminating nicotine or taking equivalent
+action), could be dropped. These changes would affirm FDA's current authority rather than
+circumscribe it.
+
+
+                                                1
+                                                                        Hex-Dump Conversion
+II. Look Back Provisions
+
+        The settlement embraces the Administration's goals of reducing underage use of tobacco
+products and seeks to eliminate industry profits from new youth smokers. The industry would be
+subject to monetary penalties if youth tobacco use fails to drop by 30 percent in 5 years, 50 percent in
+7 years, and 60 percent in ten years. The penalty is set at about the estimated lifetime industry profits
+from addicting a new smoker -- $80 million per percentage point under the target. However, the
+penalty is capped at $2 billion annually (about 8 cents per pack), and is lowered by 75% if companies
+make a "good faith" effort to comply with the agreement.
+
+        As structured, the penalty does not provide a meaningful incentive for the industry to
+work to meet youth targets. Since it is easy to show "good faith," the actual penalties for
+recruiting new youth smokers will be at best 75% below industry profits from the new customers.
+Further, since the smoking reduction targets are based on industry-wide usage, individual firms
+will have financial incentives to keep selling to children because they will reap the full reward
+while bearing only part of any penalty.
+
+       Our goal should be to provide meaningful incentives to the industry to reduce youth
+smoking. Industry representatives have said that they do not believe youth targets will be met
+and have argued that the industry should not be held accountable as long as it complies with the
+settlement's access and advertising restrictions. We believe, however, that providing the
+industry with a strong incentive to reduce youth smoking is the only way to assure meaningful
+progress toward targets. Our bottom line must become the industry's bottom line.
+
+To strengthen the penalties, we could:
+
+       Levy the penalties on a firm-by-firm basis;
+       Make the penalty substantially higher than foregone profits (e.g. 3x profits);
+       Make the penalty higher further from the target (e.g. 2x profits if the 50% reduction
+       target is missed by 10 percentage points; 3x profits it's missed by 20 percentage points);
+       Remove the annual $2 billion cap;
+       Classify the penalty payments as fines, making them non tax deductible;
+       Eliminate the "good faith" offset and volume adjustment; and/or
+       Consider non-economic incentives, such as raising the age oflegal purchase to 19 or 21 if
+       youth targets are not met.
+
+
+
+
+                                                   2
+                                                                        Hex-Dump Conversion
+III.     Size of Settlement Payments
+
+        The industry agreed to an up-front lump sum cash payment of$IO billion, and $358.5
+billion paid over 25 years as indicated below (dollars in billions):
+
+Payment Year(s):      1       2      3       4          5     6-8   9        10-25
+
+Base Amount:          $6      $7     $8      $10        $10   $12.5 $15      $15
+
+Public Health Trust: $2.5     $2.5   $3.5    .$.1
+
+Total:                $8.5    $9.5   $11.5 $14          $15   $15   $15      $15
+
+       The annual payments are not fixed. They are indexed upward for inflation (3% floor),
+increased sales, and profit increases, and adjusted downward if adult sales decrease. All
+payments are tax deductible. The industry must pass the annual payment on to smokers in the
+form of increased prices. The payment therefore functions like an excise tax estimated at about
+60 cents per pack, and is expected to reduce smoking among adults by 15% and among teens by
+about 20%.
+
+         Under the settlement, 33% ofthe base amount would be made available to pay individual
+liability awards. Any excess funds would go to the federal government. The settlement
+proposes a $25 billion 8-year Public Health Trust Fund for tobacco-related medical research
+and proposes designating $2-3 billion annually of the base amount for other public health
+investments (including $1.0-1.5 billion for smoking cessation, $0.5 billion for an anti-smoking
+media campaign, and $0.3 billion to fund FDA's regulatory effort). The remaining funds would
+be used to reimburse states and the federal government for Medicaid costs.
+
+        OMB estimates that the Federal revenue raised by the settlement will be substantially
+lower than $368.5 billion. OMB adjusts the payments downward to account for: 1) an
+expected drop in sales; 2) an "indirect business tax" (a standard accounting adjustment that
+decreases scorable revenues by 25%); and 3) the loss of federal excise tax revenue associated
+with the volume decrease. The 15 cent per pack tax just enacted will reduce the payments
+further by about [$50 billion].
+
+        So, for example, in year 4 the industry has agreed to pay $14 billion (assuming industry
+payments are not reduced by the new 15 cent tax). The volume adjustment reduces the payment
+by $4 billion, and federal revenue offsets reduce the net revenue by an additional 4 billion.
+Inflation increases the payment by $1 billion. That leave $7 billion to pay for compensation and
+public health investments. The settlement proposes $4 billion in spending for the public health
+trust fund, and earmarks $2 billion for individual compensation claims. That leaves $1 billion to
+spend on public health programs and state and federal Medicaid reimbursements -- substantially
+
+
+                                                    3
+less than the what was envisioned in the settlement.                  Hex-Dump Conversion
+
+        There are at least three arguments for seeking an increase in the settlement payments.
+First, an increase will raise the price of cigarettes -- the most reliable way to decrease smoking,
+especially among kids. Leading public health advocates recommend a $1-$2 per pack price
+increase. Second, the proposed net revenues leave states with far less money to settle their suits
+than anticipated and potentially under-funds promised public health investments. Third, CEA
+and Treasury believe the industry will benefit significantly from the deal. They argue that the
+proposed payments simply leave too much surplus profit on the table given that the settlement
+will provide the industry unparalleled liability protection and will facilitate collusion.
+
+        Options for increasing revenue include: undoing the 15 cent excise tax offset; indexing
+the payments by health care costs increases rather than by the Consumer Price Index; eliminating
+the volume adjustment; and/or increasing payments to offset the loss of federal tax revenues.
+Treasury estimates that these changes together would bring industry payments to about $700
+billion over 25 years.
+
+IV.    Document Disclosure
+
+        The settlement creates a public national depository of tobacco health and youth marketing
+documents in Washington, DC. A panel of three Article III judges would review all industry
+trade secret and attorney-client privilege claims. The panel would undertake in camera reviews
+of privilege claims without the traditional prima facie showing of evidence of crime or fraud.
+The panel's decision regarding privilege claims would be binding on federal and state courts.
+The panel does not appear to interfere with FDA's authority to request and inspect documents for
+regulatory purposes.
+
+        The proposal would provide a national resource for researchers, regulators, and litigants.
+But as structured it raises several concerns. First, it could slow litigation -- the 3-judge panel
+would have less of an incentive to review documents rapidly than trial judges hearing specific
+cases. Second, it raises fairness issues -- centralizing review would preclude trial judges from
+weighing privilege claims in the context of specific trials and would bind future litigants not
+party to the settlement.
+
+        Some have argued the settlement should alter sub~tantively the requirements industry
+must meet to sustain a privilege claim for certain types of documents. For example,
+Congressman Waxman has proposed that certain health research-related documents should not
+be subject to any privilege claims. The Justice Department opposes abridging the attorney-client
+privilege, in part because doing so may compromise criminal cases.
+
+        The timing of, as well as the process for, document disclosure is also raising concerns.
+Senator Leahy, Congressman Waxman, Attorney General Humphrey, and key public health
+leaders have stated that the industry's health and youth marketing documents should be made
+
+
+                                                 4
+                                                                           Hex-Dump Conversion
+
+public prior to deciding about a settlement. The industry has apparently systematically misused
+the attorney client privilege to improperly conceal health and youth-related documents.
+Anti-tobacco advocates argue that the appropriateness of any settlement can only be accurately
+evaluated after such documents are in the public domain.
+
+         We should seek to facilitate document disclosure to the greatest extent possible. We
+could maintain and enhance current document disclosure procedures while adopting the best
+aspects of the settlement's proposed national depository. Specifically, we could establish a
+national depository with non-binding judicial review of privilege claims. Further, we could
+facilitate plaintiffs discovery in litigation by eliminating the need for plaintiffs to make a prima
+facie showing of crime or fraud prior to gaining judicial review of privilege claims.
+
+v. Civil Liability
+        The settlement would resolve Attorney General actions and class action suits, prohibit
+future state suits and class actions; prohibit joining, consolidating, and aggregating individual
+suits; prohibit punitive damage awards for past actions. The settlement does not abridge the
+rights of individuals to sue, but it caps industry's total annual liability payments at about $5
+billion (it designates 33% of the industry's "base payments" for a compensation fund and
+augments the fund with 20% inqustry copayments). If individual judgments exceed available
+funds in any year, no individual would receive more than $1 million in that year. If the
+compensation fund exceeds claims, the federal government receives the remainder.
+
+         The cap on liability payments, the prohibition on punitive damage awards, and the
+prohibition on class actions and consolidations are obviously significant concessions that must be
+balanced against the settlement's benefits. It is an especially high price given the troubling
+evidence revealed by FDA's investigation. The provisions potentially limit plaintiffs' abilities to
+recover damages, discourage plaintiffs' lawyers from suing, and lower the industry's incentive to
+avoid future hanns. How much impact these provisions would have in part depends on what
+would happen absent a settlement. To date, the industry has lost only one liability case and
+settled one other, but some believe the recent disclosure of damaging industry documents -- and
+the impending disclosure of many more -- will tip the balance in future litigation toward
+plaintiffs. If that occurs, than the liability provisions will significantly impede recovery.
+
+         We could consider a number of modifications to this provision, including removing the
+cap on punitive damages for future misconduct; dropping the prohibition on class actions; and/or
+dropping the prohibitions on consolidations. It is unclear, given the proposed annual cap on
+liability and the requirement that unspent funds under the cap revert to the government, why the
+industry is seeking to prohibit class action suits and punitive damage awards. But changes to
+these provisions may be deal-breakers for the industry.
+
+
+
+
+                                                  5
+                                                                      Hex-Dump Conversion
+VI. Advertising Provisions / National Protocol
+
+        The settlement codifies the advertising restrictions in FDA's final rule and makes some
+significant additions, including banning all outdoor tobacco advertising and advertising on the
+Internet. More important, the settlement significantly increases the likelihood that the
+advertising restrictions would withstand legal challenge by incorporating the advertising and
+marketing provisions in a voluntary "protocol," implemented through consent orders signed by
+states and participating companies. At least theoretically, participating companies would be
+bound by the agreements regardless of whether non-signatories (e.g. the advertising industry)
+bring First Amendment challenges. However, placing the provisions in a protocol rather than in
+legislation may make the provisions unenforceable by the federal government. Hence, the
+innovative protocol is one of the most important but uncertain benefits of the settlement. We
+are exploring the best way to structure it to walk the delicate line between constitutionality and
+enforceability.
+
+VII. Tobacco Farmers
+
+        The proposed settlement is silent on tobacco farmers and tobacco-dependent rural
+economies. Grower representatives were not invited to the negotiating table. We have worked
+with Secretary Glickman to reach out to farmer representatives and members of Congress from
+tobacco growing states to make it clear the Administration will insist on meeting the needs of
+small farmers and their tobacco-dependent communities.
+
+        We are consulting with farmers and their representatives about possible solutions. In a
+White House meeting, Gov. Jim Hunt set forth three possible objectives: maintain tpe current
+tobacco quota and price support program; require industry to use mostly U.S.-grown tobacco; and
+provide transition assistance as the demand for cigarettes falls. Fifty officials from 7 southern
+states and farm groups recently sent a draft proposal to tobacco-state Congressmen. It spelled
+out a 10-point plan that would cost tobacco companies $15 billion over 25 years. In our meeting
+with democratic members of Congress from tobacco growing states, members agreed to provide
+us with a plan based on this proposal.
+
+VIII. Environmental Tobacco Smoke
+
+        The settlement would put in place the first national restrictions on environmental tobacco
+smoke. The ETS provisions, modeled on legislation sponsored by Representative Waxman,
+would restrict indoor smoking in "public facilities" -- defined as facilities ten or more people
+enter at least one day per week. The restrictions are similar to those you have placed on
+government buildings, permitting smoking indoors only in rooms ventilated directly to the
+outside. The provisions would affect most private and public workplaces and fast-food
+restaurants, but would exempt certain facilities, such as bars, clubs, prisons, and casinos.
+
+       The ETS provisions are a clear advance over the status quo and a major benefit of the
+
+
+                                                6
+                                                                     Hex-Dump Conversion
+
+settlement. ETS restrictions have proven to be an effective means of motivating smokers to
+quit. The provisions could be strengthened, however. The broad exemption for the hospitality
+industry (a departure from your Executive Order and OSHA's proposed rule) leaves those
+workers most exposed to ETS unprotected.
+
+IX. International Issues
+
+As you know, the settlement does not address international sales oftobacco products. Public
+health groups are pushing for the US to take a leadership role in fighting tobacco's rapid global
+growth. Worldwide, there are 3 million tobacco-related deaths annually, and the World Health
+Organization expects that number to rise to 10 million by 2025, with 75 % of annual deaths
+occurring in developing countries.
+
+We have begun an evaluation of the Administration's international tobacco policies in three areas
+-- trade policy, export and business facilitation, and public health.
+
+o      Trade Policy - the US treats as presumptively valid any foreign country's
+       non-discriminatory health-based tobacco control measures. To ensure the health
+       implications of trade actions are well considered, HH8 participates with USTR in trade
+       negotiations. Consistent with free trade principles, USTR's policy is to fight
+       discriminatory barriers on behalf of all industries, including tobacco. Some believe
+       USTR should not provide such assistance to tobacco companies, however, since the entry
+       of US tobacco companies into foreign countries has arguably increased tobacco
+       consumption. Weare continuing to review this issue.
+
+o      Export promotion and commercial facilitation -- State and Commerce are working
+       with HHS to develop new guidelines limiting the involvement of U.S. ambassadors and
+       their Foreign and Commercial Services staffs in tobacco marketing and export promotion
+       activities.
+
+o      International Public Health Initiatives -- There is a general consensus we should
+       strengthen the Administration's leadership role in global and bi-Iateral efforts to reduce
+       smoking. HHS is developing a proposed action plan for consideration in the context of
+       -- or separate from -- the settlement.
+
+Additional Considerations
+other claimants (e.g. asbestos)
+bankruptcy protections
+reduced risk products
+licensing
+non-participating tobacco manufacturers (smokeless, Liggett)
+state preemption
+fire-safe cigarettes
+
+
+                                                7
+EMAILS RECEIVED
+ARMS - BOX 015 - FOLDER -006
+
+
+[08/11/1997]
+
+

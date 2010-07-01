@@ -1,0 +1,44 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Sarah A. Bianchi ( CN=Sarah A. Bianchi/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME: 6-NOV-1998 18:59:18.00
+
+SUBJECT:   privacy insert
+
+TO: Elena Kagan    CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO]     )
+READ: UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D19]MAIL48210011Q.326 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504370040000010A02010000000205000000880A000000020000717840D8870E1B27EAF2EA
+In the rapidly changing health care system that relies increasingly on technology and third party
+payors, Americans are extremely concerned that their medical records will not be kept
+confidential. In fact, a recent study showed that 75 percent of Americans are concerned that
+computerized medical records will have a negative effect on the privacy of their medical records.
+ Highly publicized media accounts have only fueled these fears. For example, until recently at a
+Boston-based HMO, every single clinical employee could tap into patients' medical records, and
+in another well publicized case, a local newspaper published the information about a
+Congressional candidate's attempted suicide. Over a year ago, the Administration released a
+report outlining important new protections to assure medical records are kept confidential.
+These protections include: assuring that personal health information is used only for appropriate
+purposes; requiring those who do keep medical records to guard them safely and not .
+inappropriately give them out; assuring that individuals can review and modify their own medical
+records; and severely punishing those who violate these rules and an individual's privacy.
+
+
+
+
+                                                           Automated Records Management System
+                                                           Hex..Dump Conversion
+
+

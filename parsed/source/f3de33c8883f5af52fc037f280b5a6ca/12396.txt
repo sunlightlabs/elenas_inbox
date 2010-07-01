@@ -1,0 +1,94 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME:2B-APR-1999 10:00:5B.00
+
+SUBJECT:   DRAFT POTUS statement & Q&A
+
+TO: Elena Kagan' ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ:UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ:UNKNOWN
+
+CC: J. Eric Gould ( CN=J. Eric Gould/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ:UNKNOWN
+
+TEXT:
+ I just picked up a voice mail from Matt saying they postponed their press
+conference until tomorrow -- I'm trying to reach him now to find out more===========
+ATT CREATION TIME/DATE:   o 00:00:00.00
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D6]ARMS25140433J.136 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043A4040000010A02010000000205000000200B0000000200000BDA3EB497023B9F5BOC50
+F3E9D176C59FDE2CBA4E6A41A9D5CB2F4ACED91BB26BB914123DAB2AD2819BE3E6E025F5DDD1BO
+317D5546BE439934B303575409549E2C1F247AB747C1BBE19B5560213C55B94E06B049560FCFFB
+310D170C31640AB560AE3EA2B6DB3AA726312332527DB4FA78037F13EA592A7404B732FE9BB6B3
+3FF2779410865BDE7D6636F023DA266BOBCD3EB1C0914Fl171C3BO6FDA37B47D1BD9689031B3B5
+7CF04E4AAB09465AE869AB520736340A20AA3AD244A61B37DFDOBFBB9169BCF7DDEB6FBOODB1B9
+46012BB9626B6E64DC7BBA01793B4B7B262F37393476E9FB69637E85BFBFC2CEOF90377ECCOCAB
+                                                                      H~~~g\lmp Conversion
+
+
+                          Statement by the President on Tobacco
+                                      April 28, 1999
+                                     9:45 am DRAFT
+
+
+This new report from the Campaign for Tobacco Free Kids underscores why I strongly oppose
+any legislation waiving the federal government's claim to tobacco settlement funds without a
+commitment from the states to fund youth tobacco prevention efforts. Without such a
+commitment, states won't have to spend a single penny of the $246 billion to reduce youth
+smoking. We must act now: Every day, 3,000 children become regular smokers and 1000 will
+have their lives cut short as result.
+                                                                             Hex-Dump Conversion
+                                       Tobacco Q&A
+                                  April 28, 1998 -- DRAFT
+
+
+Q:   What do you think about the new report from the Campaign for Tobacco Free Kids
+     showing states are not spending tobacco settlement funds to reduce youth smoking?
+
+A:   This new report underscores why the President strongly opposes any legislation waiving
+     the federal government's claim to tobacco settlement funds without a commitment from
+     the states to fund youth tobacco prevention efforts. Without such a commitment, states
+     won't have to spend a single penny of the $246 billion to reduce youth smoking. Every
+     day, 3,000 children become regular smokers and 1000 will have their lives cut short as
+     result.
+
+     The report done by the Campaign for Tobacco Free Kids, to be released on Thursday, is
+     compelling:
+
+     ·      There are 25 states in which there is no proposal being seriously considered to
+            guarantee the use of a substantial portion of the settlement funds for programs to
+            reduce tobacco use among children.
+
+     ·      In recent months, only 4 states have decided to use settlement funds to reduce
+            youth smoking, and unless Congress and the states act, only 9 states will have
+            comprehensive efforts to reduce youth smoking.
+
+     An average of 57 percent of the state recoveries is reimbursement for costs borne to the
+     federal government, and the President believes that there should be a commitment by the
+     states to use a portion of the monies from the settlement to prevent youth smoking,
+     protect fanners, improve public health, and assist children. The Administration will
+     work with the states and Congress to enact tobacco legislation that resolves the federal
+     claim to tobacco settlement funds in exchange for a commitment by the States to use the
+     federal share to support these shared state and national priorities.
+
+Q:   Would the President veto the Supplemental Appropriations bill if it allows states to
+     keep the entire $246 billion tobacco settlement?
+
+A:   The President's senior advisors have recommended that he veto the Senate Supplemental
+     bill, ifit is sent to him with the current objectionable riders like this tobacco provision.
+ '
+
+
+
+
+

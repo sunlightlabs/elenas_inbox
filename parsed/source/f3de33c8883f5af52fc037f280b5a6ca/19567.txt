@@ -1,0 +1,68 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Sarah A. Bianchi ( CN=Sarah A. Bianchi/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME:23-APR-1998 23:21:00.00
+
+SUBJECT:   fraud q&a
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO]    )
+READ: UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D5]MAIL46390031R.126 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504334060000010A0201000000020500000015130000000200006DEE8767560724D23E083A
+96AA16669A1358A9A00830C945EA0781217923CED49CEB54ECE5C3C22C304B86DA1A2F6C77BF24
+                                                                          Automated Rp.cords Management System
+                                                                                  Hex-Dump Conversion
+
+    Q:   What is your response to the fact that Medicare is losing about $20 billion last year
+         to the fraud, waste and simple errors?
+
+    A:   The Administration is proud of our record in fighting fraud and abuse and is
+         committed to doing more. Any report that suggests any problem in this area does cause
+         concern. It is important to note, however, that this report does not take into account
+         many of the actions that the Department has taken on fraud and abuse.
+
+         The Administration has a strong record of fighting fraud and abuse. In fact, since
+         1993, we have assigned more federal prosecutors and FBI agents to fight health care
+         fraud than ever before. In this time, convictions have gone up a full 240 percent
+         and we have saved some $20 billion in health care claims. The
+         Kassebaum-Kennedy legislation the President signed into law created -- for the first
+         time ever -- a stable funding source to fight fraud and abuse. This law authorized
+         our extremely successful Operation Restore Trust initiative, a nationwide program to
+         fight abuse and fraud that has identified $23 for every one dollar invested in fines,
+         recoveries, settlements, audit disallowances, and civil monetary penalties owed to the
+         Federal Government.
+
+         We welcome the Inspector General's report, but point out that it does not reflect
+         numerous initiatives to fight waste and fraud that are underway or that the
+         President has asked the Congress to pass. There are more than sixteen legislative or
+         administrative actions that HCF A has taken that this report does not reflect. These include
+         implementing the first ever home health moratorium, doubling the number of medical
+         review audits, expanding on-site visits, tightening enrollment standards, and requiring
+         home health agencies to post surety bonds. We have also proposed a number of new
+         legislative initiatives to fight waste and abuse, such as doubling audits to ensure that
+         Medicare only reimburses for appropriate provider costs and eliminating wasteful
+         excessive Medicare reimbursement for drugs.
+
+         Moreover, it is important to note that last year's report did not include a review of
+         Durable Medical Equipment, an area that is fraught with waste and fraud. Despite
+         the fact that this year's audit did include a review of this, the audit shows less fraud and
+         waste than in last year's report.
+
+         Our anti-waste and fraud efforts are already paying new dividends. Earlier this
+         year, the Medicare actuary reported that the home health baseline spending has been
+         reduced from 25 percent to 5.4 percent. These successes are at least partially attributable
+         to our efforts.                                    .
+
+

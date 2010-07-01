@@ -1,0 +1,536 @@
+ RECORD TYPE: PRESIDENTIAL     (NOTES MAIL)
+
+ CREATOR: Sandra Yamin ( CN=Sandra Yamin/OU=OMB/O=EOP    [ OMB 1 )
+
+ CREATION DATE/TIME:22-APR-1999 19:57:03.00
+
+ SUBJECT:   Draft Letter to the Conferees -- 4/26 noon deadline for comments
+
+ TO: Karen Tramontano     CN=Karen Tramontano/OU=WHO/O=EOP@EOP [ WHO 1 )
+ READ:UNKNOWN
+
+ TO: Steve Ricchetti    ( CN=Steve Ricchetti/OU=WHO/O=EOP@EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: George T. Frampton ( CN=George T. Frampton/OU=CEQ/O=EOP@EOP [ CEQ 1 )
+ READ:UNKNOWN
+
+ TO: Maria Echaveste ( CN=Maria Echaveste/OU=WHO/O=EOP@EOP [ WHO 1 )
+ READ:UNKNOWN
+
+ TO: Todd Stern ( CN=Todd Stern/OU=WHO/O=EOP@EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Wesley P. Warren ( CN=Wesley P. Warren/OU=CEQ/O=EOP@EOP [ CEQ 1 )
+ READ:UNKNOWN
+
+ TO: Ron Klain ( CN=Ron Klain/O=OVP@OVP [ UNKNOWN 1 )
+ READ:UNKNOWN
+
+ TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP@EOP [ OPD 1 )
+ READ:UNKNOWN
+
+ TO: Gene B. Sperling ( CN=Gene B. Sperling/OU=OPD/O=EOP@EOP [ OPD 1 )
+ READ:UNKNOWN
+
+ TO: Lynn G. Cutler ( CN=Lynn G. Cutler/OU=WHO/O=EOP@EOP [ WHO 1 )
+ READ:UNKNOWN
+
+ TO: Ann F. Lewis ( CN=Ann F. Lewis/OU=WHO/O=EOP@EOP [ WHO 1 )
+ READ:UNKNOWN
+
+ TO: Miles M. Lackey ( CN=Miles M.Lackey/OU=NSC/O=EOP@EOP [ NSC 1 )
+ READ:UNKNOWN
+
+ TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP@EOP [ OPD 1 )
+ READ:UNKNOWN
+
+ TO: Michelle Peterson ( CN=Michelle Peterson/OU=WHO/O=EOP@EOP [ WHO 1 )
+ READ:UNKNOWN
+
+ TO: Jeffrey M. smith ( CN=Jeffrey M. Smith/OU=OSTP/O=EOP@EOP [ OSTP 1 )
+ READ:UNKNOWN
+
+ TO: Joshua Gotbaum ( CN=Joshua Gotbaum/OU=OMB/O=EOP@EOP [ OMB 1 )
+ READ:UNKNOWN
+
+ TO: Martha Foley ( CN=Martha Foley/OU=WHO/O=EOP@EOP [ WHO 1 )
+ READ:UNKNOWN
+
+TO: Sally Katzen ( CN=Sally Katzen/OU=OPD/O=EOP@EOP [ OPD 1 )
+
+
+READ:UNKNOWN
+
+TO: John Podesta ( CN;John podesta/OU;wHO/O;EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Linda Ricci   ( CN;Linda Ricci/OU;OMB/O;EOP@EOP [ OMB 1 )
+READ:UNKNOWN
+
+CC: Rebecca L. Walldorff ( CN;Rebecca L. Walldorff/OU;WHO/O;EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+CC: Rosemary Evans ( CN;Rosemary Evans/OU;OMB/O;EOP@EOP [ OMB 1 )
+READ:UNKNOWN
+
+CC: Robert L. Nabors   ( CN;Robert L. Nabors/OU;OMB/O;EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+CC: Paul J. Weinstein Jr.   ( CN;Paul J. Weinstein Jr./OU;OPD/O;EOP@EOP [ OPD 1 )
+READ:UNKNOWN
+
+CC: Charles R. Marr ( CN;Charles R. Marr/OU;OPD/O;EOP@EOP [ OPD 1 )
+READ:UNKNOWN
+
+CC: Elizabeth Gore ( CN;Elizabeth Gore/OU;OMB/O;EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+CC: Shannon Mason ( CN;Shannon Mason/OU;OPD/O;EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+CC: Melissa G. Green ( CN;Melissa G. Green/OU;OPD/O;EOP@EOP [ OPD 1 )
+READ:UNKNOWN
+
+CC: Sara M. Latham ( CN;Sara M. Latham/OU;WHO/O;EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Lisa M. Kountoupes ( CN=Lisa M. Kountoupes/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Mark J. Tavlarides   ( CN;Mark J. Tavlarides/OU;NSC/O=EOP@EOP [ NSC 1 )
+READ:UNKNOWN
+
+CC: Ingrid M. Schroeder ( CN=Ingrid M. Schroeder/OU;OMB/O;EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+CC: Victoria A. Wachino ( CN;Victoria A. Wachino/OU;OMB/O;EOP@EOP [ OMB 1 )
+READ:UNKNOWN
+
+CC: Peter A. weissman ( CN;Peter A. Weissman/OU;OPD/O;EOP@EOP [ OPD 1 )
+READ:UNKNOWN
+
+CC: Judy Jablow ( CN;Judy Jablow/OU;CEQ/O;EOP@EOP [ CEQ 1 )
+READ:UNKNOWN
+
+CC: Lisa Zweig ( CN;Lisa Zweig/OU=OMB/O;EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+CC: Charles Konigsberg ( CN;Charles Konigsberg/OU;OMB/O=EOP@EOP [ OMB J )
+READ:UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU;WHO/O=EOP@EOP [ WHO   1 )
+
+
+READ: UNKNOWN
+
+CC: Mindy E. Myers ( CN=Mindy E. Myers/OU=WHO/O=EOP@EOP [ WHO j )
+READ:UNKNOWN
+
+CC: Charles E. Kieffer ( CN=Charles E. Kieffer/OU=OMB/O=EOP@EOP [ OMB J )
+READ: UNKNOWN
+
+TEXT:
+Attached is the draft letter to the conferees on the Central
+America/Jordan/Ag Supplemental. The Conferees may have a preliminary
+meeting on Thurs, Apr 29. Please provide comments by noon on Mon, Apr
+26.
+
+Karen/Martha: The draft is silent on the issue of census out of concern
+that we would be officially asking the conferees to consider an item out
+of the conference scope. Jack would like your views on whether to include
+something on this issue.  For example, we could urge the conferees to
+resolve outstanding issues associated with Sec 626 of the FY99 Commerce,
+Justice, State Appropriations Act.
+
+
+
+
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D8jARMS22429103W.136 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043990EOOOOOIOA020100000002050000002794000000020000746DF02D4F00872E5C52E7
+CC832DA6EFF36F6C5914AEF933E37D385FD07BAC7EE147AE347065267AD99E2531051DOB5C36F8
+D6F5F7239AE50DIFE755CF66F7126DF77041EF331BC267A7005085FFA3COOFIC3CC503BAD6430C
+7D2B9F876EIA494DIE95D8E5F7DCCFB73E915F2162F5EBBF9C5B616590FAEAEODICIAC4FIAB92D
+DIBE9C151B18B7COOD4CD29198F45A4D0395A8A15021B4EA438420D35AAF002A43A84FF74C2373
+DAIFIAC4C4AC7C413E2ABA3A2C6BBF3BE7B3F3E35A6AF90DB7FDB23B7D44B37CEOC26BC6EF4DE9
+                                                                                     Hex-Dump Conversion
+
+
+
+
+The Honorable C. W. Bill Young
+Chainnan
+Committee on Appropriations
+U.S. House of Representatives
+Washington, D.C. 20515
+
+Dear Mr. Chainnan:
+
+       The purpose of this letter is to provide the Administration's views on H.R. 1141, the
+FY 1999 Emergency Supplemental Appropriations Act, as passed by the House and by the
+Senate. As the conferees develop a final version of the bill, your consideration of the
+Administration's views would be appreciated.
+
+        In February, the President requested funds to assist in Central America's recovery from
+recent natural disasters, to provide urgently needed funding related to the situation in Jordan, and
+to provide vital loans and other assistance to our fanners and ranchers. The Administration
+continues to believe that both this supplemental request and the recent request for emergency
+funding for military and humanitarian operations in the Kosovo region should be approved as
+soon as possible, free of extraneous issues.
+
+        Providing essential assistance to victims of natural disasters and helping our fanners at
+home with vital financing clearly fall in the category of needs that are urgent, unanticipated, and
+essential -- that is, emergency requirements. Therefore, they clearly deserve to be funded
+quickly, fully, and without requiring offsets that could force unacceptable reductions in important
+programs. We support the House action of providing defense-related emergency funding in
+response to Hurricane Mitch without offsets and believe that consistent treatment should be
+applied to non-defense agencies perfonning similar emergency activities. We strongly oppose
+the Senate provision that would strike emergency funding authority from the entire bill.
+
+         Regrettably, the Senate has also chosen to include several objectionable legislative riders
+that threaten approval of the bill, as detailed below. We strongly urge the conferees to approve a
+bill that is free of such provisions.
+
+        Were the bill to be presented to the President with the objectionable offsets and riders
+discussed below, the President's senior advisers would recommend that he veto the bill. We
+urge the conferees not to take actions that could result in gridlock and delay, and that would be
+detrimental both to our allies abroad and our citizens at home in their time of need.
+                                                                          Hex-Dump Conversion
+Emergency Relief for Central America
+
+        On February 16th, the President transmitted to the Congress a request for $956 million for
+International Assistance Programs, the Department of Defense, and the Department of Justice to
+provide assistance for emergency disaster and reconstruction assistance expenses arising from the
+consequences of the recent hurricanes in Central America and the Caribbean and the recent
+earthquake in Colombia. The Administration appreciates the full funding provided in the House
+and Senate bill for this request, which will provide relief from the effects of Hurricanes Mitch
+and Georges and restore hope to this devastated region.
+
+        Hurricane Mitch, the worst natural disaster in the history of the Western hemisphere, left
+more than 9,000 dead and drove millions from their homes. Even today, hundred of thousands
+of Central Americans still cannot return to their homes. Schools, hospitals, businesses, farms
+and roads were destroyed, resulting in serious economic dislocation. Hurricane Mitch caused
+more than $8.5 billion in damage, and Hurricane Georges brings the total to more than $10
+billion. The President's Central America package is urgent, unanticipated, and essential and
+should be funded as an emergency request.
+
+        Funds must be provided swiftly to buy seed and plant crops in the Spring planting
+season, thereby providing food and jobs to many communities, and to demonstrate to Central
+Americans that they can find jobs and security in their own recovering economies. Much of
+the rural road system farmers and small merchants depend on for their livelihoods was destroyed.
+  Water and sanitation systems have been disrupted, which can result in disease.      Economic
+destruction and dislocation threaten to undermine the region's achievements of the past decade, as
+these nations have made tremendous strides toward settling conflicts, strengthening democracy,
+promoting human rights, opening economies and alleviating poverty. Emergency assistance for
+reconstruction aid will ensure that their transformation continues and that illegal migration is
+avoided because Central Americans will have cause to view their own futures in the region with
+hope. [Being Updated]
+
+Jordan
+
+        The Administration commends the House and Senate for providing the full $100 million
+for Jordan, fully funding the FY 1999 request. These funds will provide financial support to
+help promote stability in Jordan and the region during the period of transition subsequent to King
+Hussein's death. While the Administration appreciates the full funding of the $100 million FY
+request, we are disappointed that the $200 million requested for advance appropriations for FYs
+2000 and 2001 has not been provided. In the context of promoting peace in the Middle East, the
+Administration will continue to press for these advance appropriations.
+
+Department of Agriculture
+
+        The House bill fully funds the President's request for $152 million for emergency funds
+for the Department of Agriculture and the Senate bill provides an additional $161 above the
+request. The Administration appreciates the House and Senate's support for the requested
+                                                                               Hex-Dump Conversion
+
+emergency farm loans and administrative costs. This loan authority would provide vitally
+needed financing for the Nation's farmers in light of the significant increase in demand for
+USDA loans, due to projected continuing low commodity and livestock prices.
+
+Offsets
+
+       The President has proposed that essential emergency disaster assistance be funded
+consistent with the budget rules that have applied to emergency spending since 1990. The
+proposed offsets in the House and Senate versions of the bill would result in unacceptable
+reductions in funding in areas of crucial importance to Americans.
+
+        An amendment added to the Senate bill would cut over 43 percent of necessary
+emergency funding provided in the FY 1999 Omnibus Consolidated and Emergency
+Supplemental Appropriations Bill. This provision would result in unworkable reductions to
+vital programs, including the following:
+
+          ·    $827 million from anti-terrorism activities including $616 million from activities
+               designed to protect our citizens at our embassies and facilities abroad;
+
+          ·     $561 million from disaster relief, reducing resources that FEMA, SBA, and other
+               agencies need to continue their work in response to domestic disasters in Florida,
+               Alabama, Mississippi, Louisiana, Georgia, North and South Carolina, North and
+               South Dakota, West Virginia, Texas, California, Maryland, Virginia, Tennessee,
+               Pennsylvania, Alaska and most other States;
+
+          ·    $289 million from federal drug control programs to implement the Western
+               Hemisphere Drug Elimination Act. The Senate bill would limit funding for
+               counter drug programs in the key source countries, and would disrupt planned
+               capital investments by the Coast Guard, State Department, and the Customs
+               Service. Further, the purchase of inspection equipment for the Southwest Border
+               would be scaled back. In addition, another $91 million would be cut from the
+               Coast Guard, thereby seriously eroding its drug interdiction and other
+               capabilities.
+
+          ·   $973 million from the non-defense agency Y2K emergency fund. A reduction of
+              this magnitude is extremely unwise. Not only would this reduction eliminate the
+              remaining balance in the emergency fund ($505 million), but it would also force
+              agencies to stop planned and ongoing procurements for Y2K-related activities,
+              and cancel contracts in order to recapture the remaining $468 million (where this
+              can be done without penalty). With under 250 days remaining until December
+              31, 1999, this reduction would substantially undercut the Federal Government's
+              ability to solve the Y2K problem and provide services that the American public
+              depends upon. Resources must remain available for agencies to carry out
+              aggressive strategies to achieve compliance, and, where necessary, to develop and
+              implement contingency plans that will ensure uninterrupted service delivery.
+                                                                                           Hex-Dump Conversion
+
+
+        ·      $141 million cut from the $325 million appropriated to the Department of Energy
+               (DOE) to purchase Russian uranium and $87 million cut from funds disposing of
+               Russian plutonium. On March 24, DOE signed an agreement with the Russian
+               Federation obligating the U.S. to purchase uranium from Russia for the entire
+               $325 million. If these funds are rescinded, Russia would most likely once again
+               suspend deliveries under the HEU agreement, which just resumed last week after
+               a five-month hiatus. There would also be severe damage to the credibility of the
+               United States' commitments to future international agreements. The cut in
+               plutonium funds would undermine ongoing negotiations with Russia on the
+               schedule and timing for plutonium disposition. It would also undercut U.S.
+               efforts to obtain funding commitments from other nations for the full cost of
+               Russian plutonium disposition.
+
+       The Senate bill includes a number of other objectionable rescissions such as:
+
+       ·       $100 million from revised inflation assumptions for domestic, non-defense
+               programs, which could result in cuts in inflation-sensitive programs such as WTC
+               and other essential programs;
+
+       ·       $60 million from the Global Environmental Facility;
+
+       ·       $10 million from the EPA climate change program that develops the technology
+               needed for a fuel efficient, less polluting vehicle; and $1 million from NOAA for
+               coastal States for implementation of clean water action plan programs;
+
+       ·       $65 million from the Immigration and Naturalization Service (INS) that would
+               virtually eliminate the benefits of the $80 million supplemental appropriation
+               provided elsewhere in the bill. This rescission would slow the provision of
+               immigration benefits and compromise enforcement and detention operations. A
+               $25 million reduction in the immigration services account would increase
+               processing times for applicants legally entitled to benefits, other than citizenship,
+               and likely force the shutdown of INS' automated enforcement systems such as
+               IDENT and ENFORCE. A $40 million cut in enforcement account funding is
+               equivalent to a 20 percent reduction in land border inspection, investigation and
+               intelligence programs for the remaining half of this fiscal year. Finally, a $5
+               million rescission in the Office of the Inspe~tor General (OIG) and a
+               prohibition on future reprogrammings for the OIG, will result in the furlough or
+               a reduction-in-force that could affect more than half of the Inspector General's
+               current on-board staff.
+
+        The House bill would rescind $875 million from international affairs accounts, with the
+largest portion being a rescission of$648 million in appropriations of callable capital from U.S.
+payments to the Asian Development Bank (ASDB), the World Bank and the InterAmerican
+                                                                                   Hex-Dump Conversion
+
+Development Banle Such rescissions would be extremely ill-advised. Rescinding the callable
+capital funding would send a dangerous signal to financial markets and could require the ASDB
+and other multilateral development banks (MDBs) to pay a higher premium on their borrowing,
+which could lead to the restriction of capital flows necessary to strengthen the global economy
+and expand U.S. exports. At a time when some of our emerging export markets in Asia and
+other developing economies are beginning to recover, this step would be highly unproductive.
+
+        In addition, this rescission of callable capital would call into question U.S. commitment
+to all multilateral development banks. This could have a detrimental effect on capital flows and
+economic growth globally, including in Asia, Africa, and Latin America. This unintended
+consequence would even more broadly delay economic recovery in markets vital to the United
+States, thereby hurting our own economy.
+
+       The other rescissions in the international affairs area would undermine a host of
+important objectives in many programs. For example, the rescissions would cut support for U.S.
+exports, undermining our efforts to penetrate foreign markets and provide jobs for American
+workers. At a time when the United States needs to promote its exports, this is a particularly
+misguided step. The rescissions would also undercut free market reform and democracy
+promotion in the New Independent States and in Eastern Europe, areas where it is manifestly in
+America's interests to encourage reform. The rescission of development assistance would set
+back efforts in the poorest countries, including possibly in those hit hardest by Hurricane Mitch.
+
+       Other rescissions would undermine our efforts to provide peacekeeping operations in
+troubled areas of the world. The rescission of Global Environment Facility funding would be
+highly detrimental to the cause of improving global environmental protection. Still other cuts
+would reduce our contributions to international organizations, where America's reputation as a
+contributor in good standing is already tarnished.
+
+       In addition, we oppose the $150 million cut in the House bill in important
+nonproliferation programs to reduce stockpiles of excess weapons grade uranium and plutonium
+in Russia. Since the Department of Energy has already signed an agreement with Russia to
+purchase uranium for $325 million, the entire cut would have to come from the $200 million
+appropriated for plutonium. That would drastically undercut negotiations that are underway to
+dispose of 50 tons of weapons grade plutonium in Russia, enough for 15,000 nuclear weapons.
+
+       Taken together, these international affairs rescissions are so great that the supplemental as
+a whole would constitute a net reduction in U.S. foreign affairs spending -- a reduction that
+would seriously undermine America's capacity to pursue its foreign policy objectives and
+promote our economic security.
+
+       Finally, since the House and Senate acted on this legislation, there have been important
+developments in Kosovo that require resources. A number ofthe rescissions in the House and
+Senate versions of the bill are in accounts that can be used to provide critical assistance in
+response to immediate needs in the Balkans.
+                                                                                 Hex-Dump Conversion
+
+
+Objectionable riders
+
+        The House is to be commended for its decision to keep the bill free of objectionable
+riders. Unfortunately, the Senate bill includes a number of strongly objectionable provisions,
+including the following:
+
+       ·      A provision that would completely relinquish the Federal taxpayers' share of
+              the Medicaid-related claims in the comprehensive State tobacco settlement
+              without any commitment whatsoever by the States to use these funds to stop
+              youth smoking. Federal taxpayers paid more than half, an average of 57
+              percent, of Medicaid smoking-related expenditures. The Administration
+              believes that the States should retain these funds but should make a
+              commitment that the Federal share of the settlement's proceeds will be spent
+              on shared national and State priorities: e.g. to reduce youth smoking, protect
+              tobacco farmers, improve public health, and assist children. The
+              Administration is prepared to work with the Congress on this issue in
+              separate legislation.
+
+       ·      Two provisions in the Senate bill that would reopen the compromise reached in
+              the FY 1999 Interior and Related Agencies Appropriations Act in Section 123
+              concerning Glacier Bay National Park (AK) to ban commercial fishing in
+              wilderness waters, phase-out commercial fishing in certain non-wilderness waters
+              within Glacier Bay proper, buyout qualifying Dungeness crabbers who had
+              previously crabbed in park waters, and continue to permit commercial fishing in
+              the waters outside the Bay (where 80 percent of the fish are caught). One
+              provision would increase the previously agreed to buy-out packages for crabbers
+              and delay implementation of restricted fishing operations (except for closures of
+              wilderness waters) by up to a year due to additional rule making requirements.
+              The other provision would delay all of the Section 123 fishing restrictions in both
+              non-wilderness and wilderness areas (except for the closure of the wi Iderness
+              waters of the Dungeness crab fisheries) indefinitely while an unrelated submerged
+              lands title issue is settled between the State of Alaska and the Federal
+              Government. The compromise reached last fall and codified in Section 123
+              should not be re-opened.
+
+       ·      A provision that would postpone until February 2000 the Department of the
+              Interior's issuance of regulations prescribing procedures and standards to permit
+              Class III casino gaming on Indian reservations when a State will not negotiate a
+              gaming compact with a tribe "in good faith." This provision gives the States de
+              facto veto power over the compacting process, without providing the tribes the
+              option of offering alternative procedures for negotiating gaming compacts. This
+              provision is unnecessary since Florida and Alabama filed suit challenging final
+              regulatory procedures, which were published in the Federal Register on April
+                                                                                      Hex-Dump Conversion
+
+                    12th. This issue should be decided through this litigation.
+
+            ·       A provision that would extend (for the second time) the current moratorium on
+                    publishing a final Interior Department rule revising the method by which crude oil
+                    from Federal leases is valued for purposes of calculating Federal royalties. The
+                    existing FY 1999 rider imposed an eight-month moratorium (until June 1, 1999)
+                    and was the outcome of negotiations with the Congress at the end of the last
+                    session. This provision would cost the Treasury about $15 million in FY 1999.
+
+            ·       A provision that would prevent a recent reorganization of the Interior
+                    Department's Office of the Special Trustee for the remainder of FY 1999. The
+                    reorganization addresses deficiencies in day·to·day Indian trust management
+                    operations. However, if this provision were left in place, it would hamper
+                    Interior's efforts to resolve and reform trust fund management and represents
+                    unjustified micro-management of the Department's activities.
+
+            ·       A provision that would extend (for the second time) the current moratorium on a
+                    final rule governing surface management and reclamation of hard rock mine sites
+                    on Federal lands until about December 1999 (from the current June 1999 time
+                    frame). The provision unnecessarily ties finalization of the rule making to
+                    completion of a National Academy of Sciences study on the need for this rule
+                    making.
+
+     Other Issues
+
+            There are a number of other objectionable funding and legislative provisions in the House
+     and Senate versions of the bill. Examples follow:
+
+            ·       The Administration does not support the Emergency Oil and Gas Guaranteed
+                    Loan Programs provision. This loan guarantee program would be ineffective,
+                    costly, and would benefit many firms that don't need Federal assistance. With up
+                    to 2,000 loans per year, this program would also prove cumbersome for the
+                    Department of Commerce to administer and would complicate its ongoing
+                    administration of import laws.
+
+            ·       The Administration also opposes a provision that would provide additional oil and
+                    natural gas royalty relief for marginal and other leases located on Federal
+                    on-shore, public lands, by providing a credit level of up to $123 million to be
+                    applied to the royalties due to the United States. The Administration has been
+                    supportive of oil industry economic needs, already providing relief for marginal
+                    producers on Federal lands by permitting suspended operations for up to two years
+                    on "stripper oil properties" with no penalty, and agreeing to place 28 million
+                    barrels of royalty oil into Strategic Petroleum Reserve - in addition to ongoing
+                    stripper well royalty relief. Oil prices are also starting to recover in the
+                    marketplace. This provision would be cumbersome to administer, may not be
+                                                                            Hex-Dump Conversion
+
+       confined only to small oil and gas producers, and would cost the Treasury about
+       $30 million in royalty receipts in FY 1999, the remainder in FY 2000.
+
+·      On March 10, 1999, the President transmitted a request for $15 million in
+       additional supplemental funding for the Department of the Interior to
+       support the requirements of the Cobell v. Babbitt class-action lawsuit
+       alleging mismanagement of individual Indian money accounts. These
+       additional funds would allow the Department to conduct critical activities,
+       including court-ordered document production and statistical sampling
+       needed this year in defense of the suit. This request is fully offset from other
+       Interior appropriation accounts. The House-passed bill provides this
+       additional funding, however, the House rejected the Administration's proposed
+       offsets. The Administration strongly supports full funding for these efforts with
+       the proposed offsets.
+
+·      The Administration objects to a provision in the Senate bill that would
+       transfer $100 million from the Department of Agriculture's Wildfire
+       Management Operations -- primarily firefighting funding -- to its
+       Knutson-Vandenberg Fund (K-V Fund), which funds reforestation and
+       timber stand management and improvement on national forest lands. A
+       transfer of this magnitude is unnecessary and inappropriate. Transferring
+       the funds from the appropriated fire operations account would likely require
+       that available Forest Service emergency contingency funds be used to fight
+       fires in FY 1999, even if FY 1999 is a normal fire year. Should a significant
+       fire season occur and the contingency funds be exhausted, the Forest Service
+       would have to transfer. funds back from the K-V Fund.
+
+·      The Administration opposes the transfer in the Senate bill of disaster relief funds
+       from the Community Development Block Grant (CDBG) program to the Federal
+       Emergency Management Agency. The Administration would like to work with
+       the conferees to respond to their concerns about the implementation of the CDBG
+       disaster relief program.        .
+
+·      The Administration is disappointed that Congress has not adopted the provision
+       regarding the auction of available spectrum within the 746-806 MHz band. The
+       Administration believes that the FCC is able to conduct the auction in 2000 and
+       collect receipts within 2000. The Administration's proposed language facilitates
+       the efficient and competitive deployment of spectrum.
+
+We look forward to working with the Congress to address our mutual concerns.
+
+                                     Sincerely,
+
+
+                                     Jacob J. Lew
+                                                        Automated Records Management System
+                                                                Hex-Dump Conversion
+
+      Identical Letter Sent to The Honorable C.W. Bill Young,
+     The Honorable David R. Obey, The Honorable Ted Stevens,
+                 and the Honorable Robert C. Byrd
+
+

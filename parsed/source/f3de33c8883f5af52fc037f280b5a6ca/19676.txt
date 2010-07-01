@@ -1,0 +1,51 @@
+ RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+ CREATOR: Mary L. Smith ( CN=Mary L. Smith/OU=OPD/O=EOP [ OPD ] )
+
+ CREATION DATE/TlME:29-APR-1998 19:53:18.00
+
+ SUBJECT:   Q&A on meat recall
+
+ TO: Thomas L. Freedman ( CN=Thomas L. Freedman/OU=OPD/O=EOP @ EOP [ OPD ] )
+ READ: UNKNOWN
+
+ TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+ READ: UNKNOWN
+
+ CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TEXT:
+ Here is a Q&A on the meat recall that was announced yesterday involving
+ ground beef at an Illinois plant.  ==================== ATTACHMENT   1 =============
+ ATT CREATION TIME/DATE:   0 00:00:00.00
+
+ TEXT:
+ Unable to convert ARMS_EXT: [ATTACH.D89]MAIL482257816.126 to ASCII,
+  The following is a HEX DUMP:
+
+ FF57504370040000010A02010000000205000000030D00000002000028C8186E74853E45B85708
+ 79C79573B2FA6EEACB679821E331BBF988A2029A29DDD910082F20CD7996934E7D45C345E323F1
+                                                                                  Hex-Dump Conversion
+
+
+Q:   What is happening involving a meat recall in Illinois? Have there been any reports
+     of illness associated with the beef?
+
+A:   IBP, a company that produces ground beef at a plant in Joslin, Illinois, yesterday
+     voluntarily recalled all the ground beef that was produced by the plant on April 14, 1998.
+     A package of ground beef produced at the plant on that day and shipped to Florida was
+     tested and found positive for E.coli 0157:H7. USDA has notified all state health
+     departments, and there has been no known illness reportcd from the product. The
+     positive test was performed as part of a regular program of testing conducted by the
+     USDA. USDA' officials have visited the IBP facility and continue to work closely with
+     IBP in ensuring that all product is removed from commerce as soon as possible.
+
+Q:   How much beef is being recalled? What should consumers do?
+
+A:   The recall involves over 280,000 pounds of ground beef, and the recall is planned to
+     reach every state where the beef may have been shipped. Consumers should follow safe
+     handling labels and thoroughly cook the meat to an internal temperature of 160 degrees
+     which kills harmful bacteria, including E.coli 0157:H7.
+
+

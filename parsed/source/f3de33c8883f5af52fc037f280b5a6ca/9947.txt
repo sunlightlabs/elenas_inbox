@@ -1,0 +1,240 @@
+RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+CREATOR: Jose Cerda III ( CN=Jose Cerda III/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME: 5-NOV-1998 22:33:51.00
+
+SUBJECT:   Gun Shows Paper
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Leanne A. Shimabukuro ( CN=Leanne A. Shimabukuro/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+CC: Cathy R. Mays   ( CN=Cathy R. Mays/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ:UNKNOWN
+
+CC: Christa Robinson ( CN=Christa Robinson/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ:UNKNOWN
+
+TEXT:
+BR/EK:
+
+Below is the draft paper for tomorrow.  I've sent the EO/memo to Phil for
+final clearance, as well as to the agency hacks for one last review.  I
+understand final press paper is due by 12 noon.   jose iii
+
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D76]MAIL45010790B.326 to ASCII,
+ The following is a HEX DUMP:
+
+FF5750430C050000010A020100000002050000006115000000020000623FB806413601F9EA8711
+1802EEF713A146EA837EA4F5091DOE8B29CFDD9577077265C2E31607FDC2720609B09DD5AC4B05
+DD7B208A067317F76FFA48B1A4B4611F449E01F24450A4411F16DCB09B08B6F11566E8E9F4047E
+                                      November 7,1998
+
+In his radio address to the nation, President Clinton will direct the Secretary of the Treasury and
+Attorney General to recommend, within 60 days, what actions the Administration can take to
+ensure that fireanns sold at gun shows are not exempt from Brady background checks or other
+federal gun laws.
+
+Closing the Gun Show Loophole
+
+�      Gun shows: A haven for criminals and gun traffickers. Every year, about 5 million
+       people attend an estimated 5,000 gun shows that take place in convention centers, school
+       gyms, and on fairgrounds across the country. Under current law, fireanns can be -- and
+       an untold number are -- bought and sold entirely without background checks at these
+       shows. This loophole makes gun shows prime targets for criminals and gun traffickers,
+       and often thwarts needed law enforcement efforts to trace fireanns used in crimes.
+
+�      Following Florida's lead. This week, Florida voters overwhelmingly passed a
+       statewide ballot initiative requiring sellers at gun shows to adhere to the same standards
+       as properly licensed gun dealers. Specifically, the initiative allows counties to require
+       criminal history background checks and minimum waiting periods prior to fireanns sales
+       at gun shows and on other public property. In his radio address, the President will call
+       on the Treasury Secretary and the Attorney General to recommend to him, within 60 days,
+       the appropriate actions to take to close this loophole on the national level.
+
+Strengthening the Brady Law
+
+�      Final Brady provisions taking effect. After nearly 5 years of working with law
+       enforcement agencies, last week the Attorney General certified that the FBI's National
+       Instant Criminal Background Check System (NICS) is set to take effect on November 30,
+       1998, as required by the Brady Law. The NICS will allow law enforcement officials
+       access to a more inclusive set of records than is now available -- including information on
+       criminal aliens, drug users, and persons subject to domestic violence restraining orders.
+       Under the NICS, federally-licensed gun dealers will be required to call a state
+       point-of-contact or FBI representative through an 800 number, and relay a prospective
+       gun purchaser's information. For the vast majority of cases, the sale will be approved
+       within minutes. Where there are discrepancies, the FBI will have up to 3 days to clarify
+       a record, and approve or deny the gun sale.
+
+�      Millions more firearms sales to be covered. As of November 30th, the Brady Law will
+       be strengthened in 2 additional ways: (1) purchases of all fireanns, not just handguns, will
+       be subject to Brady background checks; and (2) pawnshop redemptions, which are 4
+       times as likely to involve a prohibited purchaser, will be subject to background checks for
+       the first time. Overall, it is estimated that the number of background checks conducted
+       nationally will increase from about 4 million to between 10 and 12 million.
+
+                                                              Automated Records Management System
+                                                              Hex.Dump Conversion
+                                 Questions and Answers
+                                   November 7, 1998
+
+
+
+Gun Shows
+
+
+Q:   How many guns are sold at gun shows?
+
+A:   Since gun shows are largely unregulated and most gun show participants are not required
+     to keep records of sales, ATF does not have an estimate of the number of firearms sold.
+     However, the National Association of Arms Shows estimates that there are more than 100 .
+     gun shows every weekend (5,200 shows annually); that more than 5 million people attend
+     these shows; and that they generate billions of dollars in sales.
+
+
+Q.   Who sells guns at gun shows? Why are they essentially unregulated?
+
+A.   Gun shows are events where private citizens as well as federally-licensed gun dealers can
+     buy and sell firearms and related paraphernalia. These shows are usually held on
+     weekends in auditoriums, fairgrounds, school gyms, and other outlets in almost every
+     state in the nation.
+
+     In 1986, a law was passed which enabled federally-licensed gun dealers to sell firearms at
+     gun shows for the first time. Licensed dealers are required to conduct background
+     checks and keep other appropriate records for firearms sold at gun shows. However, the
+     same law permitted "hobbyists" (individuals without federal firearms licenses) to sell
+     their personal collections at gun shows without similar requirements. The result was to
+     expand the opportunities for private citizens to buy and sell firearms at gun shows, and
+     raise the threshold for what constitutes being engaged in the business of selling firearms,
+     which requires a federal firearms license (FFL).
+
+
+Q.   How do you know that guns purchased at gun shows are used in crimes?
+
+A.   While guns sold at gun shows are difficult -- ifnot impossible -- to trace, ATF has
+     conducted numerous investigations where firearms have been obtained by criminals at
+     gun shows. A Justice Department survey of prison inmates indicated that 30 percent of
+     the guns they used in crimes were purchased at gun stores -- but that the remaining 70
+     percent were obtained in secondary gun markets, like gun shows. In addition, there is a
+     wide range of anecdotal evidence indicating that criminals, juveniles, and other prohibited
+     purchasers are obtaining their guns at gun shows and using them to commit crimes.
+
+
+                                                          Automated Records Management System
+                                                          Hex-Dump Conversion
+
+
+
+        Q.   Do you support specific legislation, such as the bill introduced by Representative
+             Blagojevich, which essentially imposes the same requirements on non licensed gun
+             show participants as those on federally-licensed gun dealers?
+
+        A.   Today's directive calls on the Secretary and Attorney General to develop
+             recommendations to ensure that criminals cannot exploit guns shows to arm themselves.
+             They certainly will be looking at legislative proposals as part ofthis review. Until we
+             receive their recommendations in the next 60 days, it would be premature to announce
+             that we will be supporting any specific legislation.
+
+
+        Brady/NICS
+
+
+        Q:   Last week, didn't the Justice Department express some concern over the National
+             Instant Criminal Background Check System (NICS) being able to handle all of the
+             background checks during the holiday season -- traditionally big months for gun
+             sales?
+
+        A:   We do not have any reason to believe that the FBI will be unable to handle the workload
+             during the busy holiday season. While there are significantly more guns sold during the
+             October - December time period, the NICS is being prepared to handle the full load. The
+             FBI has been training hundreds of staff, everything is on schedule, and the Attorney
+             General is confident that the FBI can handle demands placed on the NICS once it comes
+             online.
+
+
+        Q:   How will background checks under the NICS be paid for? Didn't Congress pass a
+             prohibition on passing the cost of the check along to the consumer?
+
+        A:   This summer, the Senate passed a provision that would have prohibited the FBI from
+             charging the same fee for Brady background checks as it does for other checks, such as
+             those for child care and elder care workers. The Administration strongly opposed that
+             provision, particularly since no alternative source of funding was identified at the time.
+             Since then, however, the final appropriations bill included over $40 million to pay for the
+             NICS' first year of operation.
+
+             It is also worth noting that, as originally passed, this Senate provision would have
+             required the immediate destruction of all Brady records -- and effectively delayed
+             implementation of the NICS by as much as 6 months. Due to the President's strong
+             opposition, this language was struck from the final appropriations bill.
+
+
+
+                                                                                        Management System
+                                                                      Automated Records
+                                                                      Hex-Dump Conversion
+
+
+
+
+                                      D R AFT --- D R AFT --- D R AFT
+
+                                              November 6, 1998
+
+
+        MEMORANDUM FOR THE SECRETARY OF THE TREASURY
+                           ATTORNEY GENERAL
+
+        Subject        Preventing firearms sales to prohibited purchasers
+
+        Since 1993, my Administration has worked hand-in-hand with law enforcement agencies and the
+        communities they serve to rid our neighborhoods of gangs, guns and drugs -- and by doing so to
+        reduce crime and the fear of crime throughout the country. Our strategy is working. Through
+        the historic 1994 Crime Act, we have given communities the tools and resources they need to
+        help drive down the crime rate for six years in a row, to its lowest point in a generation.
+        Keeping guns out of the hands of criminals through Brady background checks has also been a
+        key part of this strategy. Over the past 5 years, Brady background checks have helped prevent a
+        quarter of a million handgun sales to felons, fugitives, domestic violence abusers, and other
+        prohibited purchasers -- saving countless lives and preventing needless injuries.
+
+        On November 30, 1998, the permanent provisions of the Brady Law will take effect, and the
+        Department of Justice will implement the National Instant Criminal Background Check System
+        (NICS). The NICS will allow law enforcement officials access to a more inclusive set of records
+        than is now available and will-- for the first time -- extend the Brady Law's background check
+        requirement to long guns and firearms transfers at pawnshops. Under the NICS, the overall number
+        of background checks conducted before the purchase of a firearm will increase from an estimated 4
+        million annually to as many as 12 million.
+
+        We can, however, take additional steps to strengthen the Brady Law and keep our streets safe from
+        gun-carrying criminals. Under current law, firearms can be -- and an untold number are -- bought
+        and sold entirely without background checks, at the estimated 5,000 private gun shows that take place
+        across the country. This loophole makes gun shows prime targets for criminals and gun traffickers,
+        and we have good reason to believe that firearms sold in this way have been used in serious crimes.
+        In addition, the failure to do background checks at gun shows often thwarts needed law enforcement
+        efforts to trace firearms. Just days ago, Florida voters overwhelmingly passed a ballot initiative
+        designed to facilitate background checks at gun shows. It is now time for the federal government to
+        take appropriate action, on a national basis, to close this loophole in the law.
+
+        Therefore, I request that, within 60 days, you recommend to me what actions our Administration can
+        take -- including proposed legislation -- to ensure that firearms sales at gun shows are not exempt
+        from Brady background checks or other provisions of our federal gun laws.
+
+
+
+
+                                                                        Automated Records Management System
+                                                                        Hex-Dump Conversion
+
+

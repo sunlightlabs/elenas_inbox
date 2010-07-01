@@ -1,0 +1,263 @@
+ RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+ CREATOR: Karen Tramontano ( CN=Karen Tramontano/OU=WHO/O=EOP [ WHO 1 )
+
+ CREATION DATE/TIME: 5-MAR-1999 19:46:51.00
+
+ SUBJECT:   Format
+
+ TO: Sylvia M. Mathews ( CN=Sylvia M. Mathews/OU=OMB/O=EOP @ EOP [ OMB 1 )
+ READ: UNKNOWN
+
+ TO: Christopher C. Jennings ( CN=Christopher C. Jennings/OU=OPD/O=EOP @ EOP [ OPD        1
+ READ: UNKNOWN
+
+ TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ:UNKNOWN
+
+ TO: Lael Brainard ( CN=Lael Brainard/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ:UNKNOWN
+
+ TO: Steve Ricchetti   ( CN=Steve Ricchetti/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ:UNKNOWN
+
+ TO: Douglas B. Sosnik ( CN=Douglas B. Sosnik/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: George T. Frampton ( CN=George T. Frampton/OU=CEQ/O=EOP @ EOP [ CEQ 1 )
+ READ:UNKNOWN
+
+ TO: Thomas L. Freedman ( CN=Thomas L. Freedman/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ: UNKNOWN
+
+ TO: Jacob J. Lew ( CN=Jacob J. Lew/OU=OMB/O=EOP @ EOP [ OMB 1 )
+ READ:UNKNOWN
+
+ TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ:UNKNOWN
+
+ TO: Jonathan A. Kaplan ( CN=Jonathan A. Kaplan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ: UNKNOWN
+
+ TO: Gene B. Sperling ( CN=Gene B. Sperling/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ:UNKNOWN
+
+ TO: Maria Echaveste ( CN=Maria Echaveste/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ:UNKNOWN
+
+ TO: Wesley P. Warren ( CN=Wesley P. Warren/OU=CEQ/O=EOP @ EOP [ CEQ 1 )
+ READ:UNKNOWN
+
+ TO: Neal Lane ( CN=Neal Lane/OU=OSTP/O=EOp @ EOP [ OSTP 1 )
+ READ:UNKNOWN
+
+ TEXT:
+ I hope this document proves to be helpful and useful.   Thank you, again
+ for the work-products you provided -- they were helpful to us.   Please
+ call me with any questions, thoughts or advice.==================== ATTACHMENT       1
+ ATT CREATION TIME/DATE:   0 00:00:00.00
+
+ TEXT:
+
+
+ unable to convert ARMS_EXT: [ATTACH.D69]MAIL41372696B.036 to ASCII,
+  The following is a HEX DUMP:
+
+ FF57504370040000010A020100000002050000008726000000020000182ED64DF8F2CF6027BDF6
+ 7D4797B222E6DFB5ADC43F14AE963D6675E003EA10519264B2A335ABOC73EBCAEDCFF4D5DA4C9A
+ E1C816C5AD6FCDD5F2F905F719CDB4CCA62F1C2A3BAB09831BEEF5F4D91B50A12D511213F715D1
+ OC01BCAOD72FEOA555F323999F8BBEFFE84C18543537C6E037116B1E673DCE54DOADCA825A34AO
+ F6B2C3248F9525CF559671C6D6EED5656E810F32BE8B29747A9E1EAAOBD4027B913EACADOE5D89
+ 3CCBF8D7A910E9942D3FB5F778523BEDDE7056B1FCBE6E7FBDA8F33AEB624166E9F5E7A2FCC198
+ B14073562AA9337A55B1989C64AOBB42231B3E0807C6BOCFDAAA98DA7BA1C5CADFD6AC753D929A
+ C4FA86034F3E241644168FFEEBEF824055C73E3D874A526A583855C12B2A39F2DA8B32BD9F8949
+ 8E7D7C4D1E1D4AAA7AF384734249D889F4A35729332412BE6A3D190D35C10D1AA14EF7B91806DA
+ 94BE8F91408227E4528DD22F8BC227B1525799BD420B883CA93E04F2AE84C5FFAB90281A81373E
+ 5AC2A051EC87337A4BOBC4A35F3BC9373B6A46D6A2CB3C377BB89AF9E2DF25527FD6B39E12B29C
+ 1B11F5C58111B4E1B8C71F7515F20E9617F9C7F2DEF68ADFCED4AF41D53CDAB5D4A0264C684053
+ 6FBDB7BD772DA06155E4DOBF83EC8ACC90F2819404F8A3E11DF521E39968EC4388FC664EFDA092
+ 477F565E2202000900000000000000000000000823010000000B0100007E020000005501000000
+ 4E0000008903000009250100000006000000D70300000B300200000028000000DD030000087701
+ 000000400000000504000008340100000014000000450400000802010000000F00000059040000
+ 080501000000080000006804000000984C006F00630061006C0020 004800500020003400000000
+ 000000000000000000000000000000000000000000000000000000000000000000000000000000
+ 00000000000000000000000057494E53504F4F4COOOOOOOOOOC800 C8002C012C012C012C01C800
+ C80030000000000000000000000000000000000000000000000000000000000000000000000000
+ 000000000000000000000000000000000000000000000000000000 000000000000000000000000
+ 000000000000000000000000000000000000000000000000000000 000000000000000000000000
+ 000000000000000000000000000000000000000000000000000000000000000000000000000000
+ 000000000B0100002800D61EC30F3908000011090000005AOOOB01008B143600540069006D0065
+ 00730020004E0065007700200052006F006D0061006E00200052006500670075006C0061007200
+ 000000000000000001000200580201000000040028000000000000000000000000000000000000
+ 00011202002400A1000000A10000000AOOOOOOB30401000200B40401000200B50401004500B604
+ 01000200B70401004500B80403004500B90401005500BA0401004400BB0402005000BC045E0065
+ 81D38A62260000000005210108220102230101240108337C00780000020000BC04000003010004
+ 0002000000DDOA10008301040003000200211000DDDDOBOB00030000040BOODDF102BC04F19BF1
+ 03BC04F1F100BC04F19BF101BC04F1F102BC04F1F103BC04F1CCCCCCF100BC04F19CF101BC04F1
+ 544F3A808080808080808080808080808080808080504F4C49435980434F554E43494C53F100BC
+ 04F19BF101BC04F1F102BC04F1F103BC04F1CCCC46524F4D3AE0110C0000000060090COOE0444F
+ 554780534F534E494BD0041500000B000900016009B004050001201500DOE0110C000000000807
+ OCOOEOE0110C0000000060090COOE04B4152454E805452414D4F4E54414E4FCCE0110COOOOOOOO
+ 08070COOEOE0110C0000000060090COOE0544F4D8046524545444D414ECCCC444154453AE0110C
+ 0000000060090COOE04D6172636880352C8031393939D004150000OB00090001200D7008090001
+ 201500DOCC5355424A4543543AE0110C0000000060090COOE04C6F6E67845465726D8053747261
+ 74656779804D656D6F72616E64756D73D0041500000B0009000100OF500AOB0001201500DOCCEO
+ 110C0000000008070COOE05468616E6B80796F7580666F728074686580696E697469616C807375
+ 72766579806F6680696D706F7274616E748069737375657380696E80796F757280617265618061
+ 6E648074686569728063757272656E74807374617475732E8080CCCCE0110C0000000008070COO
+ E0576580776F756C64806C696B6580796F7580746F806275696C648075706F6E80776861748079
+ 6F75806861766580676976656E80757380616E6480636F6E737472 756374806180737472617465
+ 67696380706C616ECF666F7280746865806E65787480736978806D6F6E74687380666F72806561
+ 6368806F6680746865806D616A6F7280706F6C6963798061726561738077697468696E80796F75
+ 7280436F756E63696C2E80808054686580707572706F7365806F66CF7468658073747261746567
+ 696380706C616E8069732C80666F728065616368806D616A6F7280697373756580617265612C80
+ 746F806465736372696265806F757280676F616C732C806F757280626573748076656869636C65
+ 7380616E64CF696E6974696174697665732C80746865806F7074696D616C8074696D696E678061
+ 6E64806C656769736C61746976652F706F6C69746963616C80636F6E7465787480666F72806164
+ 76616E63696E67806F757280696E6974696174697665732C8077686174CF6F70706F736974696F
+ 6E8077658077696C6C80666163652C80616E6480686F778077658077696C6C806F766572636F6D
+ 658074686174806F70706F736974696F6E2E80805768617480666F6C6C6F77738069733ACCCCEO
+ 110C0000000008070COOE0412EE0300C0000000060090COOE041806C697374806F668074686580
+ 6D616A6F7280706F6C69637980617265617380616E648064657369676E6174656480436F756E63
+ 696C28732980746F8074616B6580746865806C65616480696ED0011500000B000900016018B013
+                                                                    Hex-Dump ConversIon
+
+
+TO:                    POLICY COUNCILS
+
+FROM:          DOUGSOSNIK
+               KAREN TRAMONTANO
+               TOM FREEDMAN
+
+DATE:Match 5, 1999
+
+SUBJECT:       Long-Term Strategy Memorandums
+
+       Thank you for the initial survey of important issues in your area and their current status.
+
+         We would like you to build upon what you have given us and construct a strategic plan
+for the next six months for each of the major policy areas within your Council. The purpose of
+the strategic plan is, for each major issue area, to describe our goals, our best vehicles and
+initiatives, the optimal timing and legislative/political context for advancing our initiatives, what
+opposition we will face, and how we will overcome that opposition. What follows is:
+
+       A.      A list of the major policy areas and designated Council(s) to take the lead in
+               drafting the strategic plan;
+
+       B.      A schedule for your reference of the four major time periods over the next six
+               months;
+
+       C.      Formats for two submissions: (1) issue-oriented strategic plans in the major policy
+               areas of your councils and (2) a list of significant upcoming challenges that will
+               require Administration responses;
+
+       D.     Executive actions or other non-legislative actions the President can take
+       regarding policy initiatives within or outside of the major policy areas.
+
+       Thank you for your hard work on this project, we are confident that it will result in an
+excellent tool for constructing a successful strategy for the next six months.
+                                                                       Hex-Dump Conversion     .
+
+
+A.     Thematic Topics and Lead Policy Councils
+
+       A.      Social SecuritylMedicare -- NECIDPC
+
+       B.      EconomylBudgetiTaxes -- NEC
+
+       C.      Crime -- DPC
+
+       D.      Education -- DPCINEC
+
+       E.      Environment -- CEQ
+
+       F.      Health -- DPC
+
+       G.      Strong America -- NSC
+
+       H.      Other Priorities (initiatives that do not logically fit in the above areas but you feel
+               are important).
+
+B.     Time Periods and Issue Context.
+
+       For your reference, we have broken down the next six months into four major time
+periods, each of which has had its own distinct thematic rhythm in the past.
+
+               I.     March thru April 4 (Easter)
+
+               II. April 4 to May 31 (Memorial Day)
+
+               ill. June 1 to July 4th (recess)
+
+               IV. July 4th thru August (recess)
+
+C.     Suggested Formats for Submission
+
+       (1).         Format for Strategic Plans
+
+       [The goal of the plans is to concisely layout what we want to accomplish, what
+opposition we will face, the context of our challenge, how we will acJ1ieve our goals, and an
+explanation of the best timetable for our actions.]
+                                                                                      Hex-Dump Conversion
+       The plans should be fonnatted in the following manner:
+
+I. General Policy Area (Crime)
+
+       (General goals for the issue area including brief description of what we have
+       accomplished and what we seek to accomplish over the next 6 months).
+
+       A. Specific Agenda Item, such as the Crime Bill. Please limit plans to only major
+       agenda items. Describe proposal very briefly (e.g. legislation to add an additional
+       100,000 police officers and ... ).
+
+       B.   Pos~iblePresidential Actions (announcements, Executive Orders,
+                studies, events.)
+
+       C. Republican agenda and likely response.
+
+       D. Timing and Strategy. Describe when we should act and why. Include important
+       deadlines or events for the initiative. In considering the timing please describe legislative
+       status (hearing or markups in the next six months), consider the general political context,
+       indicate significant related events (e.g., the ending of the school year for an education
+       roll-out, a significant anniversary), and concisely explain how the strategy will enable us
+       to achieve our goal. In laying out your plan, please consider how your plan will build over
+       time or indicate the series of steps that you want to take to reach a successful conclusion.
+
+       (2) Format for Submissions for Challenges that Require Administration Response
+
+        [As we discussed in our meeting this week, we expect a number of significant issues will
+present challenges to the administration between now and August. Some of the ones we
+discussed are: Military Readiness; NATO; The G8 ,including financial architecture; Tongas
+Management Plan; The Census; Israel; ChinaIMFN; Renewal of the Haze Rule and Ireland. We
+ask that you review your list of challenges (which may include some of the ones listed above)
+and within the suggested fonnat set out below, develop a strategy for an appropriate response.]
+In your submission, please:
+
+                I.     Indicate the topic of the challenge and briefly describe it.
+
+                          A.   Timing. Explain when the issue is likely to come to the forefront
+                          and why.
+
+                          B.    Responses. Describe what the Administration response should be
+                          and what preparation is required to be ready for an appropriate response.
+
+                     C. Presidential Action. Indicate whether a Presidential action will be
+                     required, what it is likely to be (statement, etc), and its probable timing.
+D_     List of Executive of Actions
+                                                                               ~N)ump ComrelSlOn
+
+
+
+        Anticipating that the Congress may not be in a position to enact legislation, we also ask
+that you outline possible unilateral Presidential announcements or executive orders, including
+those that may fall outside the scope of major policy areas. Also, include the dates when you
+believe the administrative action can be taken. Our objective is to have a set of administrative
+announcements that are prepared or will be prepared for a date certain. Please list the action, the
+background, the date when it will be ready and when (optimally) used, an assessment of its
+priority, and any reasons it should not be used.
+
+       If you have any questions, contact Karen Tramontano at x61987. Please submit paper to
+her by COB Tuesday.
+<.'
+
+

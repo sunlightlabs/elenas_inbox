@@ -1,0 +1,128 @@
+RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+CREATOR: Mary L. Smith ( CN=Mary L. Smith/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME: 4-AUG-1998 16:55:21.00
+
+SUBJECT:   Draft of directive
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+CC: Julie A. Fernandes   ( CN=Julie A. Fernandes/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ:UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO]    )
+READ:UNKNOWN
+
+TEXT:
+Here is a draft of the directive. All the agencies have signed off and we
+have incorporated OMB's changes, but are waiting for final signoff from
+T.J. Glauthier.  Thanks, Marfy==================== ATTACHMENT   1 ==================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D88]MAIL418770020.226 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504372050000010A02010000000205000000462500000002000082BE31B5ECE9E231E93CFO
+DD52A967542F9B6CCCECOA65908226BB03DA071D1317820FE195B4A8F15D25276E95BCCCF9D3DO
+A37951AF5FCOBCF9F39DF8422E14966295BB91B5D56CB90BC350773DD762E15D5D232B66E225A4
+1ED32B07334CE3C5AF4885B2A9524A5CAE4FE362915D94619FD22C1B7207759D50FF8ABBEFFC90
+563A881C71433BA86A30E005EB3350D2E78D32D1D935057C62BE3385E94977DE710FC5BDA202E1
+8F38FB5579BEACDE59D244F2FE18341505E725024718760514D67C7D382AED783270E936C7ADF2
+BCBF3D1302588E6791431A990C4C28EA9F92EDF0211F485BD9389A892CC7FD452FB385085113C2
+10932E99F98CB63CB0484CACCC81EBA9C2434D35B24956B8379D08CB12726EF8692EB0246C4A21
+FBEODA7DB177D9B41FOBA3D727FF575F1D4A25972D1EA2ECE4B894ACFAB6910976F28A2C610FCO
+C8CC7D77A8E7AOA79DBC99D5E9358E23464ED72584286A802280AO4E7A23BF92DBA6D4FC9D86A4
+B7DD57A728C4E1C701EC464FD7078273A323D6E84E82224A3F9555A46920639B23D8FDA32A1ECB
+39EF2D1A5088A58E7D2130266F51FFF1543C7E547F252A367A0107A3C381B95866C4D5933279EB
+4E9903CB22460842A96159D8BDB71A962FE29DOCD3BAD6EDF439747738718C36B7C59978F12AD3
+E4F8FD704302000C00000000000000000000000823010000000B010000A8020000005508000000
+4EOOOOOOB303000009250100000006000000010400000B30020000002800000007040000087701
+000000400000002F040000083401000000140000006F0400000802010000000F00000083040000
+                                                              Hex-Dump Conversion
+Draft 8-04-98
+MEMORANDUM FOR THE HEADS OF EXECUTIVE DEPARTMENTS AND AGENCIES
+
+SUBJECT:       ECONOMIC DEVELOPMENT IN AMERICAN INDIAN AND ALASKA
+               NATIVE COMMUNITIES
+
+       Across America, communities are recognizing that technology and information
+technologies are key to creating economic opportunities and increasing productivity. My
+Administration has made substantial gains in spurring the development of an advanced
+information infrastructure in order to bring the benefits of the Information Age to all Americans.
+
+         Looking to the future, we know that technology is a key to economic growth. We need
+to stimulate the growth of modem production facilities, small business incubators, capital access
+for start-up companies, and strategic planning to develop a vision for technologically competent
+communities. In particular, as telecommunications and information technologies continue to
+playa key role in providing new job and educational opportunities, we must ensure that all of
+our communities are able to fully participate in this new information economy.
+
+        Because of their often remote locations, American Indian and Alaska Native communities
+stand to benefit the greatest from the Information Age, yet, are in the greatest danger of being left
+behind. We must act to ensure that these communities gain new tools to battle high levels of
+unemployment and low per-capita income. A recent study by the Department of Commerce
+on Internet and computer usage in America shows that, although many more Americans
+now own computers, minorities and low-income households are still far less likely than
+white or more affluent households to have personal computers or access to the Internet.
+And even more alarming, this study reveals that this "digital divide" between households
+of different races and income levels is growing.
+
+        The ability to own a home and have access to capital are also very important for
+economic development. Residents of Indian reservations encounter several unique issues
+when seeking to obtain a mortgage. Trust land status, tribal sovereignty, and requirements to
+gain clear title from the Bureau of Indian Affairs are examples of issues that lenders and
+borrowers must grapple with during the mortgage lending process. Thus, individuals seeking to
+acquire a homesite lease or a residential mortgage are often required to obtain approval from
+several federal, tribal, state, and local agencies as well as private providers.
+
+        The Department of Commerce, particularly through the Economic Development
+Administration (ED A), has a 30 year history of investing over $730 million in economic
+development projects in American Indian and Alaska Native communities, working with its
+existing network of 65 tribal planning organizations. In addition, Commerce's National
+Telecommunications and Information Administration has funded demonstration projects that
+show Native American communities how they can use technologies to improve the quality oflife
+on reservations.
+
+       The Commerce Department's Minority Business Development Agency has funded eight
+                                                                  Hex-Dump Conversion
+
+Native American Business Development Centers (NABDCs) that provide assistance with
+accounting, administration, business planning, construction, and marketing. We must continue
+this focus on infrastructure technology needs and business development in American Indian and
+Alaskan Native communities.
+
+         I accordingly direct the Secretary of Commerce, in collaboration with the Department of
+the Interior and consultation with tribal governments, to report back to me within 9 months on
+the state of infrastructure technology needs in Indian communities, including distance learning
+facilities, telecommunications capabilities, and manufacturing facilities. This report should
+identifY the infrastructure technology needs in Indian country as well set forth proposals that
+would help address these needs.
+
+         In addition, I direct the Secretary of the Interior, the Secretary of Commerce, and the SBA
+Administrator to report back to me within 90 days with the development of a strategic plan that
+will coordinate efficiently economic development initatives for Native American and Alaska
+Native communities within the Department of Commerce, the Department of Interior, and the
+Small Business Administration, including with the private sector. This strategic plan should
+cooperate and consult with all interested parties, including tribal governments and other federal
+agencies and offices -- particularly, the Department of Housing and Urban Development, the
+Department of Transportation, and the U.S. Department of Agriculture -- and build upon current
+efforts in your agencies as well as look toward future efforts such as providing technical
+assistance, enhancing infrastructure, and developing software.
+
+         Finally, I direct the Secretaries of the Treasury and the Housing and Urban Development,
+in partnership with local tribal governments and in cooperation with other federal agencies --
+particularly, the Department of the Interior, the Department of Veterans Affairs, and the
+Department of Agriculture, to initiate a project to help streamline the mortgage lending process
+in Indian country in order to improve access to mortgage loans on Indian reservations. The
+Secretaries should initiate this effort through a year-long pilot program on the Navajo Nation and
+in at least one other location.
+
+        These steps, taken together, will help ensure to the fullest extent possible the continuing
+economic development in Indian country. I appreciate your commitment to improving the
+technology infrastructure needs and the access to capital of Native Americans, and I look forward
+to your continuing leadership in developing this strategic plan for economic development.
+
+

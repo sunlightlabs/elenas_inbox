@@ -1,0 +1,67 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP [ OPD ) )
+
+CREATION DATE/TIME: 5-MAR-1998 20:34:02.00
+
+SUBJECT:   Revised meetings schedule
+
+TO: Mary L. Smith ( CN=Mary L. Smith/OU=OPD/O=EOP @ EOP [ OPD ) )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ) )
+READ: UNKNOWN
+
+TO: Peter G. Jacoby ( CN=Peter G. Jacoby/OU=WHO/O=EOP @ EOP [ WHO ) )
+READ: UNKNOWN
+
+TO: Thomas L. Freedman ( CN=Thomas L. Freedman/OU=OPD/O=EOP @ EOP [ OPD ) )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ) )
+READ: UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D43)MAIL44666736D.026 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043FDOA0000010A02010000000205000000A62E0000000200001EB474B6BE4097133FE1Dl
+340F2F21CF2E7B8947052AEOOB524BA74B3F79F008AC99F72B29056795277570F4E321E807D1DF
+
+                                                                                           3/5
+DAY                   GROUP                           LOCATION     ADMIN ATTENDEES (IF
+                                                                   OUTSIDE MTG)
+
+Friday, 3/6   12:45   Radio Address Briefing
+
+              1:00    President tapes radio address
+
+              3:00    Marketing! Legal Strategy       211
+                      Meeting
+
+              4:00    International Issues            472
+
+
+
+
+Monday, 3/9   12:00   Principals mtg                  EBB office
+
+              1:00    Sen. Nickles                    S-208        Bowles, Reed, Stein
+
+              2:45    Sen. Chafee                     505 Hart     Bowles, Reed, Stein
+
+              3:45    Sen. Domenici                   328 Hart     Bowles, Raines, Stein
+
+                TBA   Rep. Bliley                   Bowles, Reed, Stein
+
+                TBA   Rep. Fazio and task force     Bowles, Reed, Stein
+
+                TBA   Tobacco Growers negotiators   Bowles, Reed, Stein
+
+                TBA   Sen. Hatch                    Bowles, Reed, Stein
+
+

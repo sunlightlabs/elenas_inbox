@@ -1,0 +1,124 @@
+RECORD TYPE: PRESIDENTIAL     (NOTES MAIL)
+
+CREATOR: Leanne A. Shimabukuro ( CN=Leanne A. Shimabukuro/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME:11-JUN-1997 00:05:32.00
+
+SUBJECT:   directive
+
+TO: Michael Deich      CN=Michael Deich/OU=OMB/O=EOP @ EOP [ OMB ].)
+READ: UNKNOWN
+
+TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO]     )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Karen A. Popp ( CN=Karen A. Popp/OU=WHO/O=EOP @ EOP [ WHO]       )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Michelle Crisci ( CN=Michelle Crisci/OU=WHO/O=EOP @ EOP [ WHO]       )
+READ: UNKNOWN
+
+CC: Christa Robinson ( CN=Christa Robinson/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+CC: Jose Cerda III ( CN=Jose Cerda III/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TEXT:
+This is the last directive I gave to Phil Caplan tonight.   It contains
+changes to address Justice OLC's concerns.   I faxed it to Justice and
+Treasury. I have every reason to believe this is the last version.
+
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D53]MAIL44060016P.116 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043D6040000010A020100000002050000007A1700000002000039DBB4A2C5A6F70D8D8639
+C7F9E8552093B2DOEA2318F4FE4663935379A7A02F3E65579132FC6594CCD8D7AF6B2FA29EE46C
+6CD0044D1917A2EE737BD6486314BB607DDC0527E4BA9F5368E462559D6C0287DD01748668BB5D
+C48CBBD60FD2AC40D160EF497750DF7887340D7CB5B200D22AC8DB8A9DB842DFDE1FE699482907
+3B27791E36C8E08D1AA15934D9DEB7C5EB7BE6EB15AF8F8FF9AODDO8E12245AC477F96B570FCA7
+OEOCDCC42C7A81A33FD03DA179CF88036DECFD3158604FAE168E070F6E4FBD69396BFOF65D7DEO
+F7BBBF53EEBA1040C7103EC1F6A259C466637645B17B57906FB9AA5310392AB372FEF1F6D76D4E
+1FE4FB1BBBADCE962C5E97689C52454A38978E7351A1219E46B5AD792AC43B5822B6B9A3ADD90B
+4F62974DA8B391ADE61E3C8CC59D62C25666E95B4E4DA25247FOD6E69D659172D01C5F366D24A7
+EB60BBDDB715BF886B866D022790FA7EA4BOB22A322B27DD79EC9EDA82286D94CC98C072E5866E
+63C386FEDE990314D65D2E61118CE5E0868C7C4AEF7B5C50E2C63B846AA7E7C56FEDF3651234D9
+4BDE436601940BDA040F89384C5EE7902CEF88C6E725493A4358C6COA2A81C4CB49BE493FE295A
+C512D883203546008ED31A40E43118774A3B85A6AFFFD7983736526F03675426DE50A9365AFD39
+9149872B7A02000D00000000000000000000000823010000000B010000B6020000005503000000
+4EOOOOOOC1030000092501000000060000000F0400000B30020000002800000015040000087701
+000000400000003D040000083401000000140000007D0400000802010000000F00000091040000
+                                                      Hex-Dump Conversion
+
+MEMORANDUM FOR THE SECRETARY OF THE TREASURY
+
+SUBJECT:       Enforcing the Youth Handgun Safety Act
+
+A major problem in our nation today is the terrifYing ease with which our young people gain
+illegal or unintended access to guns_ Firearms are now responsible for 12 percent of fatalities
+among all American children and teenagers. Criminal use of firearms by young people is a
+national tragedy. Between 1984 and 1994, the number of juvenile offenders committing
+homicides by firearms nearly quadrupled. Moreover, firearms are the fourth leading cause of
+accidental deaths among children ages 5-14 and are now the primary method by which young
+people commit suicide. A recent study supported by the Department of Justice found that
+slightly more than half of all privately owned firearms were stored unlocked and approximately
+one-third of all handguns were stored both loaded and unlocked. We must do all we can to
+prevent both illegal and unintended access to guns by juveniles.
+
+To address this issue, my Administration has consistently called for toughening our laws to help
+reduce youth gun violence. Specifically, we have fought for and gained passage of: (1) the
+Brady Act, to allow local law enforcement to conduct background checks before handguns are
+sold; (2) the Assault Weapons Ban, to keep deadly assault weapons off the streets; (3) the
+Gun-Free Schools Act, to establish a policy of "zero tolerance" for guns in our schools; and (4)
+the Youth Handgun Safety Act, to prohibit, in most circumstances, the transfer to or possession
+of a handgun by a juvenile.
+
+More recently, we proposed comprehensive juvenile crime legislation that, among other things,
+would continue to crack down on youth gun violence by increasing penalties for transferring a
+firearm to juveniles, prohibiting violent juveniles from owning firearms as adults, and requiring
+federal firearms licensees (FFLs) to provide a child safety lock with every gun sold. I hope
+Congress will enact these important measures as soon as possible.
+
+Until Congress acts, however, there is more we can do to keep guns out of the hands of our
+nation's youth. Existing law already bans the transfer of handguns to minors and juvenile
+possession of handguns, except in specified circumstances, and grants the Treasury Department
+authority to prescribe rules and regulations to implement this provision. I direct you to take the
+authorized steps necessary to enforce the provisions of the Youth Handgun Safety Act -- and
+specifically, consistent with your statutory authority, to promptly publish in the Federal Register
+proposed regulations requiring that signs be posted on the premises ofFFLs and that written
+notification be issued with each handgun sold to non-licensees waming that:
+
+       (1)     federal law prohibits, except in certain limited circumstances, anyone under the
+               age of 18 from knowingly possessing a handgun, or any adult from transferring a
+               handgun to such a minor;
+
+       (2)     violation of the prohibition of transferring a handgun to a minor is, under certain
+                                           Hex-Dump Conversion
+
+               circumstances, punishable for up to 10 years in prison;
+
+       (3)     handguns are a leading contributor to juvenile violence and fatalities; and
+
+       (4)     safely storing and locking handguns away from children can help ensure
+               compliance with federal law.
+
+I also direct you to provide me with a written status report within 60 days on how you will carry
+out this directive.
+
+Your implementation of this directive will help inform gun purchasers about their responsibility
+under federal law to keep handguns from our children. It will also ensure that gun purchasers
+are warned about the frequency with which handguns kill or injure our kids.
+
+WJC
+
+

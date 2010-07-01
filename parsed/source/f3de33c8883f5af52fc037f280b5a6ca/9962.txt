@@ -1,0 +1,48 @@
+     RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+     CREATOR: Neera Tanden ( CN;Neera Tanden/OU;WHO/O;EOP [ WHO]     )
+
+     CREATION DATE/TIME: 6-NOV-1998 16:22:15.00
+
+     SUBJECT:   clinic safety
+
+     TO: Elena Kagan ( CN;Elena Kagan/OU;OPD/O;EOP @ EOP [ OPD ] )
+     READ:UNKNOWN
+
+     CC: Jennifer L. Klein ( CN;Jennifer L. Klein/OU;OPD/O;EOP @ EOP [ OPD ] )
+     READ:UNKNOWN
+
+     TEXT:
+     ;;;;;;;;;;;;;;;;;;;; ATTACHMENT   1 ;;;;;;;;;;;;;;;;;;;;
+     ATT CREATION TIME/DATE:   0 00:00:00.00
+
+     TEXT:
+     Unable to convert ARMS_EXT: [ATTACH.D66]MAIL43347601B.326 to ASCII,
+      The following is a HEX DUMP:
+
+     FF575043B0040000010A02010000000205000000BA090000000200004C6AA599644D4E5732A777
+     B3DA3FE6C1C295F55268B93D11FD2C7422D89353741DAF56EE1895115B6CCBCAF5F5968768D384
+     C09271EC236B59BEEEC2FAEEA282BA166ACA21E852DFDEA365D2761B55A81F2F5D56460DB3863A
+     3AE8Dl1878D146C0622E6FE7A4855D1BDD3DFC221C4FE8EDC7EAC1801C1D9835F1B2D078345286
+     1A7ECEBBE17A9ABD0971FD19BFB2A7F104E30F801E7517CBF5DF7C716C40320B81C561D8065FE6
+     46520C66ED75EF2748100B5073CBC3F4451A07A47797A6DAE04D1091CE503CC171BC4441D66180
+     D8DD9BA104FOEE3DD331E459EA12A7B8D10AC2Dl180B986853E40827E9247D88E050366EAS3429
+     554D790A58EF5602D5F2DEC687F5B3C94B226C476577B896528F735E6D1605EFEDB83B2FDA25FE
+initiative to address violence against providers of reproductive health services. This initiative
+will better coordinate information on clinic violence in order to track down perpetrators, better
+protect clinics and providers, and respond more effectively to the needs of clinics to ensure
+minimal interference with this constitutionally-protected right once violence has taken place.
+First, the Department of Justice is announcing on November 9th the formation of a National Task
+Force that will also establish a central location for information related to clinic violence, and
+provide training to federal, state and local law enforcement personnel. Second, we propose
+additional funds for security measures at clinics identified to be at risk of violence as well as
+stepped up U.S. Marshal support. Third, we propose federal guarantees ofloans by clinics that
+must rebuild after they've been attacked. Cost: Unknown at this time.
+
+
+
+
+                                              Automated Records Management System
+                                              Hex-Dump Conversion
+
+

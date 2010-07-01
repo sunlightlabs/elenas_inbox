@@ -1,0 +1,54 @@
+RECORD TYPE: PRESIDENTIAL     (NOTES MAIL)
+
+CREATOR: Cathy R. Mays   ( CN=Cathy R. Mays/OU=OPD/O=EOP    [ OPD 1 )
+
+CREATION DATE/TIME: 7-MAY-1999 16:17:14.00
+
+SUBJECT:   Monday's DPC Team Leaders Meeting
+
+TO: Nicole R. Rabner ( CN=Nicole R. Rabner/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Jose Cerda III ( CN=Jose Cerda III/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Paul J. Weinstein Jr.   ( CN=Paul J. weinstein Jr./OU=OPD/O=EOP@EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Christopher C. Jennings    ( CN=Christopher C. Jennings/OU=OPD/O=EOP@EOP [ OPD 1 )
+!(EAD : UNKNOWN
+
+TO: Karin Kullman ( CN=Karin Kullman/OU=OPD/O=EOP@EOP      [ OPD 1 )
+READ:UNKNOWN
+
+TO: Thomas L. Freedman ( CN=Thomas L. Freedman/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Irene Bueno     CN=Irene Bueno/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ:UNKNOWN
+
+CC: Essence P. Washington ( CN=Essence P. Washington/OU=OPD/O=EOP@EOP    [ OPD 1 )
+READ: UNKNOWN
+
+CC: Bethany Little ( CN=Bethany Little/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ:UNKNOWN
+
+CC: Teresa M. Jones   ( CN=Teresa M. Jones/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ:UNKNOWN
+
+CC: Eugenia Chough ( CN=Eugenia Chough/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ:UNKNOWN
+
+CC: Laura Emmett· ( CN=Laura Emmett/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+TEXT:
+We will NOT have a DPC Team Leaders Meeting on Monday, May 10.
+
+

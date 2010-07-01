@@ -1,0 +1,445 @@
+ RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+ CREATOR: Marjorie A. Black ( CN=Marjorie A. Black/OU=PIR/O=EOP [ PIR 1 )
+
+ CREATION DATE/TIME:30-JAN-1998 22:26:46.00
+
+ SUBJECT:   Weekly Report To The President
+
+ TO: Edley ( Edley @ law.harvard.edu @ inet   [ UNKNOWN 1 )
+ READ: UNKNOWN
+
+ TO: Ananias Blocker III ( CN=Ananias Blocker III/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Laura K. Capps ( CN=Laura K. Capps/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Emil E. Parker ( CN=Emil E. parker/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ:UNKNOWN
+
+ TO: Laura K. Demeo ( CN=Laura K. Demeo/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Cheryl D. Mills ( CN=Cheryl D. Mills/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Robert B. Johnson ( CN=Robert B. Johnson/OU=WHO!O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Lynn G. Cutler ( CN=Lynn G. Cutler/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Sidney Blumenthal ( CN=Sidney Blumenthal/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Beverly J. Barnes ( CN=Beverly J. Barnes/OU=WHO!O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Peter Rundlet ( CN=Peter Rundlet/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Angelique Pirozzi ( CN=Angelique Pirozzi/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ:UNKNOWN
+
+ TO: Sylvia M. Mathews ( CN=Sylvia M. Mathews!OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Thurgood Marshall Jr ( CN=Thurgood Marshall Jr/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ:UNKNOWN
+
+ TO: Susan M. Liss ( CN=Susan M. Liss/O=OVP @ OVP [ UNKNOWN 1 )
+ READ:UNKNOWN
+
+ TO: Ann F. Lewis ( CN=Ann F. Lewis/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ:UNKNOWN
+
+ TO: Mickey Ibarra ( CN=Mickey Ibarra/OU=WHO/O=EOP @ EOP [ WHO 1 )
+
+
+ READ:UNKNOWN
+
+ TO: Maria Echaveste ( CN=Maria Echaveste/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Jon P. Jennings ( CN=Jon P. Jennings/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Janet Murguia ( CN=Janet Murguia/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Robert N. Weiner ( CN=Robert N. Weiner/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Michael Waldman ( CN=Michael Waldman/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ:UNKNOWN
+
+ TO: Dawn M. Chirwa ( CN=Dawn M. Chirwa/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ:UNKNOWN
+
+ TO: Bob J. Nash ( CN=Bob J. Nash/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Doris o. Matsui ( CN=Doris   o.   Matsui/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ:UNKNOWN
+
+ TO: Mona G. Mohib ( CN=Mona G. Mohib/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Ruby Shamir ( CN=Ruby Shamir/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Paul E. Begala ( CN=Paul E. Begala/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Gene B. Sperling ( CN=Gene B. Sperling/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ:UNKNOWN
+
+ TO: Nelson Reyneri ( CN=Nelson Reyneri/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Minyon Moore ( CN=Minyon Moore/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Elisabeth Steele ( CN=Elisabeth Steele/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Trooper Sanders ( CN=Trooper Sanders/O=OVP @ OVP [ UNKNOWN 1 )
+ READ: UNKNOWN
+
+ TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP     [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Suzanne Dale ( CN=Suzanne Dale/OU=WHO/O=EOP @ EOP     [ WHO 1 )
+ READ:UNKNOWN
+
+ TO: Marjorie Tarmey ( CN=Marjorie Tarmey/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Andrew J. Mayock ( CN=Andrew J. Mayock/OU=WHO/O=EOP @ EOP [ WHO 1 )
+
+
+READ: UNKNOWN
+
+TO: Julie A. Fernandes   ( CN=Julie A. Fernandes/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ==============='=====
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D15]MAIL42004892B.026 to ASCII,
+ The following is a HEX DUMP:
+
+FF5750434F5A0200010A02010000000205000000299D02000002000084EA2AIOEIF144A90EID60
+372A94C58B75A425DD727C138D8E3CllAAAFFllDOD78A424A34243397D26CCD873AF43C169C883
+C4FD8792E3A4005C4E2A2C6A3E2398CII0887BBDE941DEE3345FBA58F25EA9DE4C36F5084A32B6
+353F325F625F2A83DEE5CCEC59FC259378COOE4FBFOA91BA94EEIOA6CFCC221711F604E12CFF04
+712A7643721AOAE62BEAEFIF55B985CIF4CBDOE2C16D3C02CD1458222CA51DA268C7B514A09598
+F7125246922E9136DA829B4E5CBAE1514F41FAE8D6BA578ECB495C654913BA2830FCFA08F40CC4
+3D590D7EOB9B9BEC8DC9C8846B06A9Al14045F5296617405D275D75254A8355B67728734557DC9
+9F54D9E2441CD8DF86ACIEA728527D182466B31A87B9E07819B35AEC87BB53AE42102654F76EA3
+3C611F389F46E4AF58C8BB2A81700EDB89CC3B808E88EBA14CDE04B687E35822AE41DIE3496351
+FB2A870B55726F4AOC12DB60E2B821F32107CF624176EA35C33369EE956A89065790FBAA4E784B
+393EB5343BCC271252FIOIB2B942CE4E53907873DEA41AOF91A80ElB39045F79387D79226C1252
+IB61B7049D0252F6DDA5CA166C47AD9EBICD8470323551E657401C2D7DDA4FD7FAIE482354ED79
+F0139BA8616AB84DD3447BF38B2317994D67AB7A5A752BIDE2C70EOEAC077DFE445748Bl122C42
+7A74CB56950200BCOI000000000000000000000823010000000BOl0000481A0000005505000000
+4E000000531B000009250100000006000000AIIBOOOOOB300900000028000000A71B0000087701
+00000040000000CFIB0000083401000000140000000FIC00000802010000000F000000231COOOO
+00451900000002000000321C000008050100000008000000341COO00005508000000400000003C
+lC0000081601000000360000007ClCOOOOOB30010000004EOOOOOOB21C00000805010000000800
+0000001DOOOOOB3001000000E6000000081DOOOOOB300600000044000000EEID00000811020000
+00C6000000321EOOOOOB300400000044000000F81E00000055060000004E0000003CIF00000055
+040000004A0000008AIF00000055040000004COOOOOOD41FOOOOOO550400000034000000202000
+000B3001000000C2000000542000000B3003000000D7000000162100000B3003000000CIOOOOOO
+ED2100000B3003000000BAOOOOOOAE2200o.00B3003000000B9000000682300000B3003000000A2
+000000212400000B3003000000A2000000C32400000B3003000000A2000000652500000B300300
+0000A2000000072600000B3003000000CDOOOOOOA92600000B3003000000980000007627000009
+42010000002DOOOOOOOE2800000B3003000000A40000003B280000OB300300000079000000DF28
+00000B30030000006B000000582900000B30030000006BOOOOOOC32900000B30030000007EOOOO
+002E2AOOOOOB30030000007EOOOOOOAC2AOOOOOB30010000009BOO00002A2B0000094403000000
+2BOOOOOOC52B000009421DOOOOOOIDOOOOOOF02B00000942010000001DOOOOOOOD2COOOOOB3002
+000000430000002A2C00000941250000004D0000006D2COOOOOB3001000000AEOOOOOOBA2COOOO
+OB300600000043000000682DOOOOOB30010000006COOOOOOAB2DOOO00B30010000008800000017
+2EOOOOOB3001000000440000009F2EOOOOOB300100000088000000E32EOOOOOB30010000008800
+00006B2FOOOOOB300100000088000000F32FOOOOOB3001000000880000007B3000000B30010000
+0088000000033100000B3001000000C20000008B3100000942010000002A0000004D3200000B30
+020000008A000000773200000B3001000000CA000000013300000B3001000000A8000000CB3300
+000B3002000000B5000000733400000B3002000000C80000002835OnOOOB3002000000DBOOOOOO
+F03500000B3002000000EEOOOOOOCB3600000B300200000001010000B93700000B300200000014
+010000BA3800000B300200000027010000CE3900000B3002000000CIOOOOOOF53AOOOOOB300200
+0000D4000000B63BOOOOOB3002000000E70000008A3COOOOOB3002000000FA000000713DOOOOOB
+30020000000DOI00006B3EOOOOOB300200000046000000783FOOOOOB300200000046000000BE3F
+00000B300200000046000000044000000B30010000007A0000004A4000000B3001000000D90000
+00C4400000093102000000050100009D4100000B3001000000E4000000A2420000090B02000000
+ 11000000864300000B30020000003D000000974300000B3002000000~6000000D44300000B3002
+ 000000500000001A440000093102000000930000006A4400000B3001000000B7000000FD440000
+ OB300300000043000000B44500000B30010000007DOOOOOOF74500000B30010000007800000074
+ 4600000B30010000008DOOOOOOEC4600000B30010000004DOOOOOO794700000B30010000008201
+ 0000C64700000B3001000000D0000000484900000B3001000000B5010000184AOOOOOB30010000
+
+FROM:      JUDITH A. WINSTON
+
+THROUGH           ERSKINE BOWLES
+                  SYLVIA MATHEWS
+
+SUBJECT           PRESIDENT'S INITIATIVE ON RACE WEEKLY REPORT
+                  JANUARY 24 - JANUARY 30
+
+
+ADVISORY BOARD ACTIVITIES
+
+     February Advisory Board Meeting. The next Advisory Board Meeting will be
+     held in Northern California on February 10-11. On February 10, Advisory Board
+     members will visit Promising Practices sites in the San Francisco, Oakland, and
+     East Palo Alto communities. DOEd Secretary Richard Riley will participate by
+     visiting a San Francisco Promising Practice site - - Glide Memorial Baptist
+     Church - - that focuses on job training for the needy. The Advisory Board will
+     end the day by hosting a 90 minute community forum in San Jose in which the
+     public will have the opportunity to raise views and concerns on issues
+     surrounding race.
+
+     On February 11, Advisory Board members will convene in San Jose to conduct
+     their sixth monthly meeting. The topic of the meeting is "Race and Poverty." The
+     expert panel discussion will focus on the relationship between racial segregation,
+     poverty, and the persistent lack of opportunities for those who live in poor,
+     concentrated neighborhoods. The first panel will focus on national issues and
+     invited participants include William Julius Wilson from Harvard University and
+     Douglas Massey from the University of Pennsylvania. The second panel will
+     focus on local issues and solutions and will include local, state and area program
+     experts who can address welfare and community development issues.
+
+     NAACP Legal Defense Fund. On January 23, Chairman Franklin addressed
+     the Board of Directors of the New York Chapter.
+
+
+
+
+                                          1
+                                               Automated Records Management System
+                                               Hex-Dump Conversion
+    State of the Union address as the invited guest of the First Lady and was
+    honored to be seated in the First Lady's Box.
+
+    Glasgow Middle Schools. On January 27, Linda Chavez-Thompson spoke
+    with students, parents and school administrators at Glasgow Middle Schools in
+    Alexandria, Virginia. She engaged the group in a conversation on racial
+    diversity and the effect it has had on them. Channel 21 and Channel 8 covered
+    the event. This was her third visit to schools in Northern Virginia - - she has
+    visited an elementary, middle and high school.
+
+    Children's Defense Fund. On January 28, Rev. Suzan Cook met with the
+    Children's Defense Fund to discuss policy issues affecting children and racial
+    inequities.
+
+    U.S. Conference of Mayors. On January 29, Rev. Suzan Johnson Cook spoke
+    before the U.S. Conference of Mayors in Washington, D.C. She challenged
+    them to continue and expand their involvement in the President's Initiative on
+    Race, including hosting One America Conversations in their cities.
+
+     Maplewood/South Orange Racial Balance Task Force. On January 29,
+     Governor Kean spoke about the Initiative to an audience of approximately 200
+     people. The forum was the fourth in a series of forums on race, organized by
+     the Task Force, to foster and further racial harmony.
+
+     Alliance of Asian Pacific Administrators. On January 31, Angela Oh spoke
+     about the Initiative to an audience of principals and other administrators from the
+     Los Angeles Unified School District at their 3rd annual conference.
+
+OFFICE OF THE EXECUTIVE DIRECTOR
+
+     COMMUNICATIONS
+
+           Meetings. Members of the PIR staff met with four members of the
+           International Association of Official Human Rights Agencies Board
+           (IAOHRA), including its President, Bill Hale, of the Texas Human Rights
+           Commission. IAOHRA's membership includes 95 percent of all human
+           and civil rights agencies throughout the country at the city, county and
+           state level. We discussed ways in which PIR could work with IAOHRA,
+           particularly with regard to identifying promising practices and recruitment
+           of leaders.
+
+           National Press. The LA Bureau of CBS Evening News Weekend
+           Edition has expressed an interest in producing a feature story on the
+
+
+                                          2
+    Specialty Press. National Newspaper Publishers Association and Ofield
+    Dukes & Associates plan to run a feature story on me and my work with
+    the PIR. The story will appear in minority owned - - mostly
+    African-American - - weekly papers and magazines during the month of
+    February. Their distribution market covers 200 media markets around
+    the country.
+
+OUTREACH
+
+    Corporate Leaders. The third Corporate Forum occurred on January
+    30, at the Biltmore Hotel in Los Angeles. It was hosted by Secretary of
+    Commerce William Daley. Maria Echaveste and Advisory Board
+    members Angela Oh and Robert Thomas participated as well.
+
+    Meetings. Members of the Initiative staff met with a group of 35
+    students and a Professor of Psychology representing Whitworth College
+    in Spokane Washington. Their meeting with the PIR staff was the last
+    stop of a three week, cross-country study tour focusing on prejudice and
+    racism in American society. They shared ideas on how best to engage
+    youth across America in the work of the Initiative, and they also agreed to
+    participate in our Campus/Community Week of Dialogue in April. We
+    plan to highlight their "Prejudice Across America" study tour as one of our
+    Promising Practices.
+
+RESEARCH AND POLICY PLANNING
+
+    Letter Regarding the December Advisory Board Meeting. We
+    forwarded a letter to you from Dr. John Hope Franklin which provides
+    feedback on behalf of the Advisory Board on lessons learned at their'
+    December Advisory Board meeting, which focused on issues of race in
+    primary and secondary education. The letter expresses the Advisory
+    Board Members' concerns about the continuing racial disparities in
+    education and the Board's support for several upcoming policy
+    announcements, including the college-school partnerships initiative. The
+    letter also offers some additional education policy recommendations. A
+    copy is attached.
+
+    Campus/Community Week of Dialogue. We have expanded our
+    conversations with the higher education community concerning our
+    planned week of racial dialogue and activities on university campuses,
+    which is scheduled for April 6-9. While we expect even greater
+    participation, the Association of American Colleges and Universities
+    (AAC&U) has pledged to promote active, substantial participation from at
+
+
+                                  3
+            students. We are finalizing our list of core activities for the week of
+            dialogue and plan to meet with AAC&U, the
+
+            American Council on Education, the National Urban League, and others
+            next week.
+
+FEDERAL AGENCY ACTIVITIES
+
+     Department of Justice
+
+            Hispanic Illinois Congressional District. On January 26, the Supreme
+            Court summarily affirmed the district court's decision in King v. State
+            Board of Elections, holding that Illinois' majority-Hispanic Congressional
+            District Four did not violate the Constitution. District Four was adopted by
+            the lower court after extensive negotiation by multiple parties in an earlier
+            lawsuit.
+
+            Racially Biased Poll Wo.rkers. On January 12, the court entered a
+            settlement in DOJ's case challenging the racially-based actions of white
+            poll officials in New York City. These officials gave white voters ballots
+            on which the poll workers had written the name of a white write-in
+            candidate, and urged voters to vote for her during a May 7, 1996, election
+            for a community school board in the Bronx. The white candidate was
+            among those who won (there were also minority and other white victors),
+            while several minority candidates were defeated. The settlement
+            provides that the white write-in candidate be required to run again in a
+            fairly conducted election, that the poll workers in question not be allowed
+            to participate in the re-run, and that the board of election closely monitor
+            polling places during the elections to be held this year and in 1999.
+
+     Department ofInterior
+
+            Black History Month. On February 2, Eric Robinson will be the keynote
+            speaker for the grand opening of the Old Courthouse at the Jefferson
+            National Expansion Memorial in St. Louis, Missouri. A wide variety of
+            special events, programs, and concerts will be offered at the Old
+            Courthouse and Gateway Arch throughout the month of February.
+
+            Frederick Douglass Observance. On February 13, NPS officials and
+            D.C. Government officials will observe the 180th anniversary of Frederick
+            Douglass with a musical tribute from various performers and school choirs
+            during a wreath-laying ceremony. The annual observance also honors
+            Black History Month.
+
+
+                                           4
+
+      Black History Month. On February 4, USDA will hold its Black History
+      Month observance program in the Jefferson Auditorium in Washington,
+      DC. The program and the month of February will be dedicated to Dr.
+      George Washington Carver and his contributions to the field of
+      agriculture. The keynote speaker will be Dr. Benjamin F. Payton,
+      President of Tuskegee University.
+
+      Civil Rights Training. USDA began mandatory civil rights training for all
+      employees on January 15, implementing another recommendation from
+      Secretary Glickman's Civil Rights Action Team Report.
+
+      Commission On Small Farms. On January 22, Secretary Glickman
+      held a news conference to accept the Small Farms Commission report, A
+      Time To Act, which contains 146 recommendations to improve USDA's
+      service to small and beginning farmers, including credit, risk management,
+      research, education, rural development, marketing, and outreach. The
+      Secretary spoke about the Administration's commitment to family farmers,
+      noting that the President's 1999 budget "will borrow heavily" from the
+      report for proposals to assist with farm ownership.
+
+      Rural Initiative. On January 30, Secretary Glickman will cover such
+      topics as civil rights, rural economics, and small farms -- highlighting the
+      Administration's commitment to helping small and minority farmers -- at
+      the Conference on Rural Life at the University of Arkansas-Pine Bluff.
+
+Department of Commerce
+
+      Conference on Race. On January 29-30, Secretary Daley traveled to Los
+      Angeles to participate in the Corporate Forum which was organized by the
+      White House and the PIR. While in Los Angeles, the Secretary will also
+      attend a corporate dinner to discuss the Asian financial situation and have
+      lunch with Los Angeles Mayor Riordan.
+
+Department of Labor
+
+      Affirmative Action Symposium. On February 19, Assistant Secretary
+      for Employment Standards Bernard Anderson will participate in an
+      Affirmative Action Symposium with the Equal Employment Advisory
+      Council (EEAC) in Washington, D.C.
+
+Department of Housing and Urban Development
+
+                                     5
+      Arkansas announced plans to strengthen fair housing efforts. In his annual
+      "State of the City" address at City Hall, Mayor Dailey served notice of his intent
+      to have a fair housing ordinance by the end of 1998. In calling for a fair
+      housing ordinance, Dailey said he wanted a measure that would allow the city
+      to hear local fair housing complaints that otherwise would be forwarded to HUD.
+       He stated that such an ordinance would reflect a recommendation from
+      "Future-Little Rock," the city's goals-setting study. Preparing the proposed
+      ordinance would be the responsibility of the city's Racial and Cultural Diversity
+      Commission, now being reorganized by the City Board. Dailey set a December
+      1, 1998, deadline for the board to prepare a draft ordinance.
+
+Veterans Affairs
+
+      Initiative on Race. On January 15, the Deputy Assistant Secretary for Equal
+      Opportunity hosted a dialogue on race at VA Headquarters in Washington, DC.
+      Participants included the Honorable Katherine Hanley, Chairman, Fairfax
+      County Board of Supervisors; Dr. Robert Brown, Senior Associate, USDA
+      Graduate School; Mr. Carlos Ruiz, former VA Director, Office of Small and
+      Disadvantaged Business Utilization; Mr. Phillip Ridley, Legislative Assistant,
+      Disabled American Veterans; and Ms. Elvira Crocker, Senior Professional
+      Associate, National Education Association.
+
+Small Business Administration
+
+      MOU with the Big 3 Automakers. The Administrator and the Vice President
+      will announce a Memorandum of Understanding with the Big 3 Automakers at
+      an event in February during Black History Month.
+
+      Race Advisory Board. SBA is working with Cabinet Affairs to schedule the
+      Administrator to attend the Race Advisory Board meeting in San Francisco on
+      February 10-11.
+
+
+
+
+                                    6
+
+

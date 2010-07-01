@@ -1,0 +1,62 @@
+RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+CREATOR: Jose Cerda III   ( CN=Jose Cerda III/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME:19-NOV-1998 18:38:13.00
+
+SUBJECT:   Draft FBI Statement
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP   [ OPD ] )
+READ: UNKNOWN
+
+TO: Leanne A. Shimabukuro ( CN=Leanne A. Shimabukuro/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP'@ EOP [ WHO ] )
+READ:UNKNOWN
+
+CC: Cathy R. Mays ( CN=Cathy R. Mays/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TEXT:
+Sorry, I didn't circulate this sooner ... we didn't get the FBI #s 'til this
+afternoon.  We should get this approved and out by mid-day tomorrow, so
+DOJ can make it available to their press.
+
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D58]MAIL47135732I.326 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043B0040000010A02010000000205000000F10A000000020000776787A3D75527A4454A75
+87C633FB7E2ECBED9C76C9C03259BE832A283563E84B44D776E217OD6A539EDE06E11FCF5A2070
+
+
+
+                                   Statement by the President
+                       (Embargoed until 9:00 am, Sunday, November 22, 1998)
+
+
+    The 1997 Uniform Crime Report released by the FBI today shows that serious crime has fallen
+    for 6 years in a row. With the murder rate down 26% since I took office, and to its lowest level
+    in 3 decades, Americans are safer today than they have been in years. They should be proud.
+    By working together -- with their local police, prosecutors and other government officials -- they
+    have fought back, reclaimed their neighborhoods, and proven that rising crime and deadly
+    violence do not have to be tolerated by any community. But crime remains a serious problem in
+    many communities, and our work is far from done. We must continue the job of putting
+    100,000 more police on our streets, tougher laws on our books, and stronger prevention in our
+    schools. With these efforts, we can keep driving down the crime rates -- and tipping the scales
+    of justice in favor law-abiding citizens.
+
+
+
+
+                                                           Automated Records Management System
+                                                           Hex-Dump Convlll1ion
+
+

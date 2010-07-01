@@ -1,0 +1,66 @@
+RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+CREATOR: Bethany Little ( CN=Bethany Little/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME:20-APR-1999 14:58:28.00
+
+SUBJECT:   Draft statement
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ:UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+CC: Tanya E. Martin ( CN=Tanya E. Martin/OU=OPD/O=EOP [ OPD ] )
+READ:UNKNOWN
+
+CC: Jonathan H. Schnur ( CN=Jonathan H. Schnur/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ:UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO]    )
+READ: UNKNOWN
+
+TEXT:
+Attached is the draft statement you requested.  I have reviewed it briefly
+with Broderick Johnson, Tanya, Jon and Julie Green. Please let me know if
+there is anything else you need. Thanks!
+
+
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D87]ARMS22848472J.136 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043F6040000010A02010000000205000000FBOC0000000200000DBFC54733B0705121B071
+663BB61E4477E513C59E81D32849407EDODC8A45E37F38223FEF5C98951656C7754716594C5121
+B3298DBC032B86969D4D7665C742DD9E7D384Bl138E2AA9F567B9D87FD9BB92021576585476B03
+7E89614511C7CD444EF7ADAOE3B51227FC5DE90EEF1CEE424226926BF6984531F558F2B58E5358
+C1888CC87466E542565EB9BEB89E0619A5A847E5E32B11DC3A743FE4C484B30D14A630F4BFAB80
+83E63599E9712A1E6D9EBEDFF63E289F54898891D243CD935839FC4ED65A5A41B5427F89C69EF5
+039CAOAC4786C2BOC3B865FDCBF3D8560F05CAD79695553171F5CDC3737007D0984B89E265BBOF
+88C599157C78105ED55F823FEC6524323D4894D958C8BE7FAOB5B7DE6B7E77E5CD450E0178B2AB
+FF396EEE1D96D79B4DOFE12A7ED659C1EOF2FD83936CD109CA7BE3B4C8AEA36541AAD1C3BD168C
+68855D4F605042F09EDA24A6430170CC480B59DB64119A6482A4B339626C29703D2734CB0047D7
+3AD5DA8F77F221B95B2E693956672BB3B78737D46EE8D4BC44D2F7F00BB0840F2BE9D63FA594CC
+739EC8F4C8226F04028D9DC9F98EDA7BOBEOD1CEFAC602A1F09A8DBAC5000EB7DE02865234110C
+                                          DRAFT                                  Hex-Dump Conversion
+                                  Statement by the President
+                                        April 20, 1999
+
+
+
+I am pleased that a little more than a year after I proposed the idea of a national Ed-Flex bill to
+the National Governors' Association, Congress appears ready to send me legislation I can sign.
+This bill will offer states more flexibility in their use of federal funding in exchange for
+demonstrated increases in student achievement. I am particularly pleased that the conference
+report strengthens accountability measures and preserves our effort to reduce class size in the
+early grades. The bipartisan work on this legislation shows we can and must work together to
+improve our nation's schools. Now Congress can move on to the most important aspects of the
+nation's education agenda -- finishing the job of hiring 100,000 well-prepared teachers to reduce
+class size, passing my initiative to help build and modernize 6,000 public schools, and my plan to
+hold states and school districts accountable for results.
+
+

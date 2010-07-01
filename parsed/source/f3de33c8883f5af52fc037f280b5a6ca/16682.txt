@@ -1,0 +1,49 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Cathy R. Mays ( CN=Cathy R. Mays/OU=OPD/O=EOP [ OPD 1 )
+
+CREATION DATE/TIME: 15-AUG-1997 13:17:01.00
+
+SUBJECT:   Education Strategy Meeting CANCELED
+
+TO: Michael Cohen   CN=Michael Cohen/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Emily Bromberg ( CN=Emily Bromberg/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Gene B. Sperling ( CN=Gene B. Sperling/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Elaine C. Kamarck ( CN=Elaine C. Kamarck/O=OVP @ OVP [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Kenneth S. Apfel ( CN=Kenneth S. Apfel/OU=OMB/O=EOP @ EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Rahm I. Emanuel ( CN=Rahm I. Emanuel/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Michelle Crisci ( CN=Michelle Crisci/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Jill M. pizzuto ( CN=Jill M. Pizzuto/OU=OMB/O=EOP @ EOP [ OMB 1 )
+READ: UNKNOWN
+
+CC: Wendy C. New ( CN=Wendy C. New/O=OVP @ OVP [ UNKNOWN 1 )
+READ:UNKNOWN
+
+CC: Kevin S. Moran ( CN=Kevin S. Moran/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+CC: Melissa Green ( CN=Melissa Green/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ:UNKNOWN
+
+TEXT:
+The Education Strategy Meeting scheduled for Monday, August 18, has been
+CANCELED.
+
+

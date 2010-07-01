@@ -1,0 +1,261 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Ruby Shamir ( CN=Ruby Shamir/OU=WHO/O=EOP [ WHO 1 )
+
+CREATION DATE/TIME:22-JUL-1998 18:45:02.00
+
+SUBJECT:   Women's Mtg
+
+TO: Virginia Apuzzo ( CN=Virginia Apuzzo/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Rebecca M. Blank ( CN=Rebecca M. Blank/OU=CEA/O=EOP @ EOP [ CEA 1 )
+READ: UNKNOWN
+
+TO: Stacie Spector ( CN=Stacie Spector/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Roberta W. Greene ( CN=Roberta W. Greene/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Janet Murguia ( CN=Janet Murguia/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Karen E. Skelton ( CN=Karen E. Skelton/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Maria Echaveste ( CN=Maria Echaveste/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Lynn G. Cutler ( CN=Lynn G. Cutler/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Lucia F. Gilliland ( CN=Lucia F. Gilliland/O=OVP @ OVP [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Sylvia M. Mathews ( CN=Sylvia M. Mathews/OU=OMB/O=EOP @ EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Sandra Thurman ( CN=Sandra Thurman/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Judith A. Winston ( CN=Judith A. Winston/OU=PIR/O=EOP @ EOP [ PIR 1 )
+READ: UNKNOWN
+
+TO: Robin Leeds ( CN=Robin Leeds/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Marsha Scott ( CN=Marsha Scott/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ,: UNKNOWN
+
+TO: Tracey E. Thornton ( CN=Tracey E. Thornton/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Minyon Moore ( CN=Minyon Moore/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Susan M. Liss ( CN=Susan M. Liss/O=OVP @ OVP [ UNKNOWN 1 )
+
+
+READ: UNKNOWN
+
+TO: Ellen M. Lovell      CN=Ellen M. Lovell/OU=WHO/O=EOP @ EOP [ WHO 1 }
+READ: UNKNOWN
+
+CC: Leslie Bernstein ( CN=Leslie Bernstein/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Francine P. Obermiller ( CN=Francine P. Obermiller/OU=CEA/O=EOP @ EOP [ CEA 1 )
+READ:UNKNOWN
+
+CC: Mona G. Mohib ( CN=Mona G. Mohib/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Nicole R. Rabner ( CN=Nicole R. Rabner/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+CC: Marjorie Tarmey ( CN=Marjorie Tarmey/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Jocelyn Neis ( CN=Jocelyn Neis/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Mindy E. Myers ( CN=Mindy E. Myers/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+CC: Noa A. Meyer      CN=Noa A. Meyer/OU=WHO/O=EOP @ EOP [ WHO 1 }
+READ: UNKNOWN
+
+CC: Jennifer L. Klein ( CN=Jennifer L. Klein/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Katharine Button ( CN=Katharine Button/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TEXT:
+There will be a Women's Mtg on Thursday at 9:00am in room 100. Thanks.
+
+
+RECORD   ~YPE:   PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: James J. Jukes ( CN=James J. Jukes/OU=OMS/O=EOP [ OMS 1 )
+
+CREATION DATE/TlME:22-JUL-1998 19:41:06.00
+
+SUBJECT:    Re: Guestworkers letter
+
+TO: daniel d. heath ( CN=daniel d. heath/OU=omb/O=eop@eop [ OMS 1 )
+READ: UNKNOWN
+
+TO: larry r. matlack ( CN=larry r. matlack/OU=omb/O=eop@eop [ OMS 1 )
+READ: UNKNOWN
+
+TO: elena kagan ( CN=elena kagan/OU=opd/O=eop@eop [ OPD 1 )
+READ: UNKNOWN
+
+TO: cecilia e. rouse ( CN=cecilia e. rouse/OU=opd/O=eop@eop [ OPD 1 )
+READ: UNKNOWN
+
+TO: martha foley ( CN=martha foley/OU=who/O=eop@eop [ WHO 1 )
+READ: UNKNOWN
+
+TO: debra j. bond ( CN=debra j. bond/OU=omb/O=eop@eop [ OMB 1 )
+READ: UNKNOWN
+
+TO: barbara chow ( CN=barbara chow/OU=omb/O=eop@eop [ OMB 1 )
+READ:UNKNOWN
+
+TO: julie a. fernandes     ( CN=julie a. fernandes/OU=opd/O=eop@eop [ OPD 1 )
+READ: UNKNOWN
+
+TO: peter g. jacoby ( CN=peter g. jacoby/OU=who/O=eop@eop [ WHO 1 )
+READ:UNKNOWN
+
+TO: maria echaveste ( CN=maria echaveste/OU=who/O=eop@eop [ WHO 1 )
+READ: UNKNOWN
+
+TEXT:
+I am advised that this letter will not be sent because its intended effect
+was to persuade Rep. Wyden to withdraw his amendment and he is apparently
+unwilling to do so.
+
+
+
+
+James J. Jukes
+
+07/22/98 05:30:58 PM
+Record Type:    Record
+
+To:      See the distribution list at the bottom of this message
+cc:      Barbara Chow/OMB/EOP@EOP, Larry R. Matlack/OMB/EOP@EOP, Debra J.
+Bond/OMB/EOP@EOP, Daniel D. Heath/OMB/EOP@EOP
+Subject:         Guestworkers letter
+
+At Barbara Chow's request, may I please have any comments on this letter
+concerning guestworkers by 6:30 this evening?  (It has also been faxed to
+USDA and to most of you.)  Thank you.
+
+
+
+
+Message Sent
+To: _____________________________________________________________
+Maria Echaveste/WHO/EOP@EOP
+Martha Foley/WHO/EOP@EOP
+Peter G. Jacoby/WHO/EOP@EOP
+Cecilia E. Rouse/OPD/EOP@EOP
+Julie A. Fernandes/OPD/EOP@EOP
+Elena Kagan/OPD/EOP@EOP
+
+
+
+==================== ATTACHMENT 1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D7]MAIL463585900.226 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504331250000010A020100000002050000002D39000000020000849C028B33893B6045811F
+293F759BBBE5BD78D62532B70A2146217B88202637EFE4E5A53193A286613468ADEA831E74428B
+United States Senate
+Washington D.C. 20515-3703
+
+Dear Senator:
+
+       Thank you for sharing your concerns and your willingness to engage as a constructive
+partner in the ongoing development of our agricultural labor policy and addressing any H2-A
+program reforms.
+
+         The Administration shares your goal of assuring that these policies achieve greater
+stability in the agricultural workforce so that our agricultural producers and farm workers both
+benefit.     Growers must have a more predictable and reliable labor supply, while we provide
+adequate workplace protections for domestic and foreign farm workers who are among the
+poorest and most vulnerable in our society.
+
+        The Administration's guiding principles in reforming the H-2A program are designed
+to create a system:
+
+       ·        where the procedures for using the program are simple and the least
+                burdensome for growers;
+       ·        which assures an adequate labor supply for growers in a predictable and timely
+                manner;
+       ·        that provides a clear and meaningful first preference for U.S. farm workers and
+                a means for mitigating against the development of a structural dependency on
+                foreign workers in an area or crop;
+       ·        which avoids the transfer of costs and risks from businesses to low wage
+                workers;
+       ·        that encourages longer periods of employment for legal U.S. workers;
+       ·        which assures decent wages and working conditions for domestic and foreign
+                farm workers, and that normal market forces work to improve wages, benefits,
+                and working conditions.
+
+I believe that if we are able to work within these principles, we will be able to achieve our
+goals.
+
+        The Departments of Agriculture and Labor have committed to work cooperatively to
+improve and enhance existing programs to meet the labor requirements of our vital agricultural
+industry, consistent with our obligations to American workers and producers, particularly, if
+efforts to halt illegal immigration contribute to agricultural labor shortages. In response to
+concerns regarding localized shortages, these Departments will work cooperatively to
+determine means of streamlining the current H2-A program to make it more responsive to
+agricultural producers and more effective in protecting U.S. workers.
+
+       As a first step, the Administration has initiated a rule making process to streamline the
+
+                                                                   Automated Records Management System
+                                                                   Hex-Dump Conversion
+the changes are in place for next year's growing season. In addition, in response to the
+growing concerns regarding the supply, adequacy and cost of migrant worker housing, we are
+looking Administration-wide at alternatives available to address the issue.
+
+       We recognize the need for reform of the H2-A program. We are eager to engage in
+an inclusive, bi-partisan process involving all the major stakeholders to identify and craft
+appropiate program reforms, possibly involving legislative changes. We are committed to
+exploring innovative policy proposals, including provisions in your legislation which are
+designed to increase program efficiency without sacrificing worker protections. We would like
+to work with you in this spirit to accomplish appropriate reforms this year.
+
+                                                  Sincerely,
+
+
+
+
+Alexis M. Herman                                         Daniel Glickman
+Secretary of Labor
+Secretary of Agriculture
+
+
+
+
+                                                                Automated Records Management System
+                                                                Hex-Dump Conversion
+
+

@@ -1,0 +1,151 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: sanders D. Korenman ( CN=Sanders D. Korenman/OU=CEA/O=EOP [ CEA]   )
+
+CREATION DATE/TIME: 9-JUL-1997 19:00:01.00
+
+SUBJECT:
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP   @   EOP [ OPD ] )
+READ: UNKNOWN
+
+TEXT:
+Elena,
+Attached is a draft of the outline/table of contents for the race
+initiative chapter I mentioned in my last e-mail message to you.
+Sandy
+
+
+
+
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D19]MAIL455396983.116 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504370040000010A02010000000205000000681B0000000200002C89350056134617D8CD9A
+AC2303894B557AD235364FEF4478BFAE14125C172A18BCE5164057B9A8586120ACB6BA33DAD091
+E299FAB500D405157932E07CA6180BEF0960B89E36CB1DA8F88DB3A88DCBFOF2AD1593528DDCAC
+E657AE885D612707552B4E015084E9C6D93CE4F8674BFA213E81A0562CCD448B9D4A2143031E67
+OA635EEA54215DC585A64A7EOC16A6ECE446EOOB83D4C59EF92FAOE6FFFA7917B6F15438C53EAE
+23BD5B42F005AE753A2238059348724D4A9C52F8CFEOABD38DDCl154617A1F02BFD7B7F53D460A
+10D4F7347AOFDF69DCAD2AA5C71737C457D193E2D6B5590CC48142D138AFF5293C46D9F7A331B4
+81380519CA73E2B470360732807F4BB60555D1E90DA2D6ED108F6AFD51A1A92BFOFDBBABB67EEA
+6085F2B0987D86174F3098902125D614C7E1354B966E95E245AF47B406CF5BFF404A8FE566347D
+1EF09C79EA31168FE6BC5BOC68E350FE9FE249711782DB24BDD918OCCA55F847E8C92B73FFAA15
+068AB5B8A597A1905E1626516AOEB5F8D109A14E95555C30F3F76C2OC29012B6039C6CBF5CF4BO
+5E17DEFCE9F34F02910F698069AFE309046DB2B922B5873E1F4253FEC6DB4CE7E4A1276E088E40
+883EFA96F6AA6EF3DDE52F8BF2B9376587543CBD313DDOB6EB299ABC42EE4663E8CFECD339A5D5
+48475EF3E602000900000000000000000000000823010000000B0100007E020000005501000000
+4E0000008903000009250100000006000000D70300000B300200000028000000DD030000087701
+000000400000000504000008340100000014000000450400000802010000000F00000059040000
+OB0501000000080000006804000000985C005C004F0041005F0036005C005C005C004300450041
+005F0032005C003300320038005F00410000000000000000000000000000000000000000000000
+00000000000000000000000057494E53504F4F4COOOOOOOOOOC800C8002C012C012C012C01C800
+CB0030000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000B0100002800C81968104BOD000011090000005AOOOBOI0000103600540069006D0065
+00730020004E0065007700200052006F006D0061006E00200052006500670075006C0061007200
+000000000000000001000200580201000000040028000000000000000000000000000000000000
+00011202002400A1000000A10000000A0000000606010045000706010045000806010002000906
+020002000A06010045000B06010002000C06030045000D06020017000E06010017000F06010002
+005A5458210000000000000000000000000000000008337C007800000200000F06000003010004
+0002000000DDOA10008301040003000200211000DDDDOBOB00030000040BOODDF1000E06F19BCC
+D3050C0007010002000COOD39C4A756C7980399B2C8031393937CCD305100006010000021DOOOO
+001000D3CCCC544F3AE0110COOOOOOOOOB070COOEOE0110COOOOOOO060090COOE04A616E657480
+9C59656C6C656E9BD0041500000B000900017008C003040001201500DOCC46524F4D3AE0110COO
+                                                             Hex-Dump Conversion
+Part I: Demography·
+.1. Racial composition of the US population: 1990s and historical trends
+2. Geographic distribution
+3. Components of change: birth, death and immigration
+4. Projections
+
+Part II: Disparities in the 1990s and trends in disparities
+1. Economic status
+        a. Income and Poverty
+        b. Labor markets
+               employment, unemployment, non-employment
+               hours
+               wages and non-wage compensation
+               occupation/industry
+               non-wage characteristics of jobs (e.g., working conditions, healths risks)
+               disability
+        c. Wealth/credit
+               financial
+               business ownership
+               home ownership
+               retirement wealth
+               credit and credit institutions
+
+2. Educational status
+       a. Enrollment
+               Drop out rates; college enrollment and completion rates
+       b. Quality of schooling
+       c. Achievement
+       d. Training
+
+3. Health status and health care
+       a. Health status
+                Pregnancy and infancy
+                Child hood and young adulthood
+                Adulthood
+                Older ages
+                {Specific diseases or conditions}
+
+        b. Health care
+               Insurance
+               Availability of health services
+               Health behaviors
+4. Political status                                        Hex-Dump Conversion
+        a. Voting
+        b. Holding public office
+        c. Other political participation
+
+5. Criminal justice
+       a. Offenders and victims
+       b. Criminal justice process (sentencing etc.)
+
+
+6. Family organization
+       a. Family structure
+       b. Other family patterns (fostering, adoption, extension etc.)
+       c. Living arrangements and family support of the older population
+
+7. Impact of immigration
+       a. Labor markets
+       b. Education
+       c. Other
+
+Part III: Race relations
+         1. Racial attitudes and behaviors
+                 (ACD is very good on history of black white attitudes/opinions. Needs to be
+         expanded to other groups and updated.)
+         2. Racial segregation
+                 Residences
+                 Schools
+                 Workplaces
+                 Other
+         3. Bias crimes, etc.
+         4. Developments in the 1990s
+                 Rodney King beating trials and riots
+                 OJ Simpson trials
+                 The Bell Curve controversy
+                 Challenge to Affirmative Action in California
+
+
+Part IV: Discrimination
+        1. Measurement/methods: econometric vs. audit studies
+        2. Links between discrimination and outcomes.
+        (Issue: Audit studies prove discrimination exists, but how much of the disparities
+        documented in Part II can be attributed, directly or indirectly, to discrimination?)
+        3. Causes of discriminatory behavior
+        4. Consequences of discrimination for society
+        Has the nature of discrimination changed?
+        Hex-Dump Conversion
+
+

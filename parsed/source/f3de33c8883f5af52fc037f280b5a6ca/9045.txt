@@ -1,0 +1,258 @@
+   RECORD TYPE: PRESIDENTIAL     (NOTES MAIL)
+
+   CREATOR: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP [ OPD 1 )
+
+   CREATION DATE/TIME: 14-AUG-1998 11:05:57.00
+
+   SUBJECT:     Racial Analysis of Caseload
+
+   TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+   READ:UNKNOWN
+
+   TEXT:
+   Some of Andrea's numbers aren't quite right (for example, her % of adults
+   by race is really the % for the overall caseload). But the weekly item
+   could say something like,    "We are working with HHS and CEA to analyze
+   changes in the racial composition of the welfare rolls as case loads
+   decline.   We are still waiting on some of the data we will need to reach
+   any definitive conclusions.    For example, the current caseload data only
+   tells us who is currently on the rolls; it does not tell us the rate at
+   which different groups are entering and exiting. HHS also has concerns
+   about the accuracy of the state-by-state data reported in the New York
+   Times, especially for New York City. Nevertheless, some trends are
+   clear:   First, the Hispanic share of the caseload continues to grow (from
+   20%· in 1994 to 23% in 1997). Much of this rise may stem from the rapid
+   growth of the Hispanic population overall. Since 1992, the Hispanic
+   population has grown by 24%, compared to 9% for African-Americans and 2%
+   for whites. Another likely factor is that while the rate of unwed teen
+   births has declined over the last five years for the population as a whole
+   (down 18% for African-Americans and 4% for whites), it has gone up 3%
+   among Hispanics.   Second, the proportion of long-term recipients on the
+   rolls is increasing slightly, and minorities on welfare disproportionately
+   share characteristics that may make it harder to leave the rolls.
+   Hispanics on welfare are twice as likely as whites to be high school
+   dropouts; African-Americans on welfare are twice as likely as whites to
+   never have been married; and Hispanics and African-Americans on welfare
+   are twice as likely as whites to have more than two children and live in
+   the inner city. Third, as the number of adults on welfare goes down, chi
+   ld-only cases (including citizen-children) make up an increasing share of
+   the caseload. Child-only cases are disproportionately minority, and for
+   the most part are not affected by welfare reform.    In the most recent
+   nationwide data, slightly more adult cases were headed by whites than by
+   African Americans.   Finally, there is some encouraging evidence from
+   Census data that the employment rates of former welfare recipients are
+   increasing even faster for minorities than for whites.    Between 1996 and
+   1997, the percentage of all prior year welfare recipients who were
+   employed a year later increased by 28%.    The increase was highest for
+   African-Americans (33%), followed by Hispanics (22%) and whites (21%). We
+   will continue to keep a close watch on these trends, and give you more
+   detailed explanations when we have better data."
+   ---------------------- Forwarded by Bruce N. Reed/OPD/EOP on 08/14/98
+   10:15 AM ---------------------------
+
+
+
+
+   Andrea Kane
+   08/13/98 07:46:04 PM
+   Record Type:    Record
+
+   To:        See the distribution list at the bottom of this message
+
+
+cc:      Hrolston @ acf.dhhs.gov
+Subject:         Racial Analysis of Case load
+
+
+
+Here is the information we've gathered to date.  I've included data tables
+so it's 4 pages.   Elena, Bob Schoeni at CEA has all the backup data and
+is happy to answer questions next week in my absence.  He is also: doing
+some additional runs of characteristics associated with long-term welfare
+receipt from 96 and 97 CPS data, working on backing out child-only cases,
+and calculating welfare dependency by race as a way to control for
+population changes (i.e. what % of total white, black and hispanic
+population were on welfare in 94 vs 97).
+
+
+
+Message Sent
+TO: __________77~~~-----------------------------------------------
+Bruce N. Reed/OPD/EOP
+Elena Kagan/OPD/EOP
+Laura Emmett/WHO/EOP
+Cynthia A. Rice/OPD/EOP
+Robert F. Schoeni/CEA/EOP
+
+
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D90]MAIL49297482J.226 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504365120000010A02010000000205000000F93D0000000200002D04A7175A48C47ABDD146
+11628703BBE6984588C74F08B7D4C16B6F03EA6BEE8F09642DIBAB717CAOF91557DDCBD2118107
+5203EBDEC946FC162806E2602D492EFA5B6B8141A234955BOC5341882D4E3BOC5C674A5CBC7157
+0950510F5E5DE216B48C23BE74EF57D1754BD09BB96039FAD44B142EAC414CD34A9746E4CC6B25
+
+There are a number of factors that appear to contribute to the different rates at which the
+caseloads are declining for different racial and ethnic groups. The primary factors are listed
+below, along with currently available data. Staff are continuing to do additional analysis to
+determine the magnitude of these factors.
+
+The racial/ethnic composition of welfare caseloads has been changing gradually over the
+last 25 years: whites rose from 38 percent in 1973 to a peak of 42 percent in 1983 and have
+dropped steadily to 35 percent in 1997. The proportion of blacks has generally declined, from 46
+percent in 1973 to 37 percent in 1997. The most significant trend is the increase in the Hispanic
+portion of the caseload, from 13 percent in 1973 to 23 percent in 1997. However, this is not too
+surprising given the rapid increase in the Hispanic population overall.
+
+                             TOTAL        WHITE            BLACK            HISPANIC        OTHER
+ % Change in Total           6%           2%               9%               24%             22%
+ Population 7/92-6/98
+
+ % of Total Pop 6/98         100%         72%              12%               11%            4%
+
+
+The question is how welfare reform may be affecting these historic trends. National data on the
+racial/ethnic characteristics of welfare recipients are only available through June 1997, so it is
+hard to gauge the impact of the past year when welfare reform efforts accelerated so rapidly.
+States provided more recent data to the Times (generally through June 1998), but HHS has
+concerns that some of these data may have problems, particularly NY and CA. They are
+working with states to verify the data.
+
+It is also worth noting that the caseload data only tells who is currently on the rolls; it does not
+tell the rate at which different groups are entering and exiting. Analysis of entries and exits will
+be conducted in the near future.
+
+The number of white, black and Hispanic families receiving welfare have all dropped since
+1994 (when caseloads peaked nationally, but the rate of decline has been greater for whites
+than blacks, with an even slower decline for Hispanics.
+
+               94                               % Change
+Whites 1.9M      104M       -26%
+Blacks      1.8M      1.5 M      -18%
+Hispanics   1.0M        .9M           -9%
+                                                                  Automated Records Management System
+                                                                  Hex.-Dump Conversion
+on a national basis.
+
+
+Whites 37%             35%
+Blacks          36%           37%
+Hispanics       20%           23%
+
+There is some encouraging evidence from Census data that the employment rates of former
+welfare recipients are increasing even faster for minorities than for whites, although the
+actual rates and the disparity between groups remains disturbing. Between 1996 and 1997, the
+percentage of all prior year welfare recipients who were employed in the next year increased by
+28%. The increase was highest for blacks (33%), followed by Hispanics (22%) and whites
+(21 %).
+
+Minorities on welfare disproportionately share characteristics that may make it harder to
+leave the rolls. These factors include: lower education levels, lower marriage rates, larger
+families, isolation from areas with jobs, and employment and housing discrimination. March 95
+Current Population Survey Data shows the following characteristics for public assistance
+recipients in 1994:
+
+
+                      TOTAL            WHITE              BLACK              HISPANIC
+
+ % with <HS           42%              33%                40%                64%
+ diploma
+
+ % never married      43%              31%                61%                40%
+
+ > 2 children         30%              20%                38%                38%
+
+ Live in central      51%              31%                71%                63%
+ city
+
+CEA is running comparable data for the March 1996 and 1997 CPS.
+
+
+
+
+                                                            Automated Records Management System
+                                                             Hex-Dump Conversion
+longer. At the same time, the proportion oflong-term recipients on the rolls is increasing
+slightly. This would partially explain why the current rate of caseload decline is slower for
+minorities and why they are making up an increasing share ofthe welfare caseload.
+
+
+ % of cases in each group      FY 1995                  FY 1996                FY 1997 (9 mos)
+ on welfare for 61-120
+ months (in current spell)
+
+ White                         12%                      14%                    14%
+
+ Black                         16%                      17%                    20%
+
+ Hispanics                     14%                      18%                    19%
+
+
+The trends in marriage rates and births to unmarried women could contribute to an
+increasing proportion of minority families going on welfare. While the proportion of
+never-married single mothers is increasing for the entire population, the rate of is largest for
+Hispanic women (based on CPS data).
+
+                                          1992                    1997                 % Change
+
+ % of all single mothers who were         30%                     35%                 17%
+ never married
+
+ Never-married single mothers by
+ race:
+
+ White                                    17%                     21%                 24%
+
+ Black                                    51%                     55%                 8%
+
+ Hispanic                                 33%                     42%                 27%
+
+In addition, the rate of births to unmarried teenagers remains much higher for blacks and
+Hispanics than for whites. And, while the rate is decreasing significantly for blacks and slightly
+for whites, it continues to increase for Hispanics. For example, between 1991 and 1996, the rate
+of births to unmarried teenagers decreased 18% for blacks and 4% for whites, but increased 3%
+for Hispanics.
+
+
+
+
+                                                                     Automated Records Management System
+                                                                     Hex.Ownp Conversion
+
+
+
+
+    Minorities are a disproportionately represented in child-only cases. To the extent that child
+    only cases are decreasing more slowly than cases headed by adults, this would appear to
+    contribute to the increasing proportion of minorities on the caseload.
+
+
+                     FY96               FY96                FY 97 (9 mos)       FY96
+                     % of child only    % of cases          % of child only     % of cases
+                     cases by race      headed by adults    cases by race       headed by adults
+                                        by race                                 by race
+
+     TOTAL #         978,300                                915,500
+
+     WHITE           28%                36%                 27%                 35%
+
+     BLACK           40%                37%                 40%                 37%
+
+     HISPANIC        26%                21%                 27%                 23%
+
+    HHS is working on additional analysis of child only cases, by state and by reason, to determine
+    whether the magnitude ofthis factor on the changing racial composition of the caseloads
+    nationally and in specific states.
+
+
+
+
+                                                                      Automated Records Management System
+                                                                      Hex-Dump Conversion
+
+

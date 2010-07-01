@@ -1,0 +1,35 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Mary L. Smith ( CN=Mary L. Smith/OU=OPD/O=EOP   [ OPD l       )
+
+CREATION DATE/TIME:21-MAY-1999 14:21:37.00
+
+SUBJECT:   OFCCP Wage Collection
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD l
+READ:UNKNOWN
+
+TO: Thomas L. Freedman ( CN=Thomas L. Freedman/OU=OPD/O=EOP @ EOP [ OPD l    )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD l )
+READ:UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO l      )
+READ:UNKNOWN
+
+TEXT:
+Josh, Chuck,and Sally Katzen agreed that the request is covered by the
+Paperwork Reduction Act, but that the main message to send to Labor is
+that we want to get the scheduling letter out and collect the wage data.
+Chuck and Josh are going to call Labor and tell them it is more prudent to
+have the cover of the Paperwork Reduction Act so that contractors don't
+try to litigate whether it is covered or not.  More importantly, however,
+they are going to tell Labor that they need to work with OMB staff during
+the next week to come up with a less burdensome way to collect this data
+-- preferably a summary form by occupation with average wages.   The way
+to sell this to Labor is to say that we are basically doing a pilot on
+their 60-2 regulation which would collect this data in a summary form as
+well.
+                                             Hex-Dump Conversion
+

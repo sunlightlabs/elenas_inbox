@@ -1,0 +1,40 @@
+RECORD TYPE: PRESIDENTIAL      (NOTES MAIL)
+
+CREATOR: Cathy R. Mays ( CN=Cathy R. Mays/OU=OPD/O=EOP [ OPD 1 )
+
+CREATION DATE/TIME: 12-MAY-1999 09:58:49.00
+
+SUBJECT:   Conf Call
+
+TO: Mike_coheh@ed.gov ( Mike_cohen@ed.gov @ inet [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Elena Kagan    CN=Elena Kagan/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Barbara Chow       CN=Barbara Chow/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+CC: Emma_Harrell@ed.gov ( Emma_Harrell@ed.gov @ inet [ UNKNOWN 1 )
+READ: UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Iratha H. Waters     ( CN=Iratha H. Waters/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TEXT:
+Bruce will be having an education conference call tomorrow, May 13, at
+10:00 a.m.  You may call in at 456-6777; the Conference Code will be
+7213 .
+
+Folks invited to participate on this call are:
+Bruce Reed
+Elena Kagan
+Barbara Chow
+Mike Cohen
+Nancy Zirkin
+Bill Taylor
+
+

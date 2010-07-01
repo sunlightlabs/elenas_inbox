@@ -1,0 +1,219 @@
+RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+CREATOR: Diana Fortuna ( CN=Diana Fortuna/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME:12-NOV-1997 10:56:08.00
+
+SUBJECT:   FYI OMB asked for a revision in our diversion proposal/#1
+
+TO: Elena Kagan     CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+cc: Cynt~ia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TEXT:
+Attached is what we sent to HHS.   It finally dawned on OMB that the
+penalties most strongly linked to child support (misuse of funds and the
+one related to child support) are not that likely to be imposed and
+therefore not that strong a disincentive for states.   So they asked to
+pig.gyback onto our chosen penalties for work for the most part. We told
+them HHS may argue that there is.no link between some of those penalties
+and child support.
+
+Here are the penalty links we made by area:
+
+Work                                        Child Support
+1. Participation Rates                      1. Participation Rates
+                                            2. Failure to require individuals
+to coop.
+                                                w/child support rules
+2.  Time Limits                         3. Time Limits
+3.  Failure to maintain assistce to
+       parents who can't get child care
+       for child under 6
+4. Failure to sanction indivs           4. Failure to sanction
+indivs who refuse to work
+       who refuse to work
+
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D66]MAIL432444512.316 to ASCII,
+ The following is a HEX DUMP:
+
+FF5750434BOA0000010A02010000000205000000405600000002000036AEBF8BA0377F3DCA63E8
+14A20E7BB11CD02D1FA48760571195121733D3584FEA8471E2878E3C70F751C88069C8EEE343BB
+A806A702A7942C95F30B268F18AEE626D115CCC134846601DB302AAO4A7FB2EB7D22BD833FB795
+OE2B437AF828C259C9789DD615555C2B1058D5EBBD51432A30146BA5309EA412E175A8456A7D12
+A4A8A144917C1B5C31AD3D792EDOA5F44B721C3036FB954241B49FD513703878BDBCC50AOCE8B9
+750EAF51B5A3121BEFD279C9A26348983DBAA2CD5D74143CFD9D46B54C2ABB206AA80DFCE93E7D
+C40FFFB411EEC43D8C900E9AFADEE9F05EE227C6430EBDDF9453643FAD55F286DB37C1790F8E5D
+EF42255D8AF7EBD2934F53C9DD79DB86121D7352D3F082D7B1FFB6671673DC9A54F611DEFF9E11
+6AB76159B734219EE0237FBEFD7DC295CCE9007CE332FFA95AB080FOE53C32E7FD9197B435D6AC
+D8BCE4A1E67FB2C7B35B863C18D3CB29E77843B836543AOA5CF37COCE14179328D21BCA7111775
+C3AF520BA2A3C9326A964F3A619E747C81864B08D951EE5A26708ED886EAE20B45BC5F9AAF8D40
+3F58DE7FDBC8EC1AOFCBE03A37235D8D338C4327D05B72CF2DDE70524A64DCE74DB92C27649888
+                                                        Hex-Dump Conversion
+                        DIVERSION TO STATE-ONLY PROGRAMS
+
+
+Note: See attached charts for illustratration of which of the 14 penalties these provisions
+would apply to and which they would not.
+
+REG LANGUAGE:
+
+271.51: Degree of Non-Compliance and 272.5 - Reasonable Cause Exception
+
+Here is the language HHS has already agreed to:
+
+We will not forgive the state penalty under 272. 1(a)(4) [work participation rate penalty] based on
+reasonable cause unless a state demonstrates as part of its reasonable cause application that it has
+not diverted cases to a separate state program for the purpose of avoiding the T ANF work
+participation requirements.
+
+Possible revision:
+
+Work: We will not forgive the state penalty under 272.1 (a)(4), 272.1(a)(9), 272. 1(a)(ll), or
+272.1 (a)(14) based on reasonable cause if we detect a significant pattern of diversion of families
+to a separate state program that achieves the effect of avoiding the work participation rates.
+
+[Note: 4 penalties above are work participation, time limit, failure to maintain assistance to
+parent who can't get child care for child under 6, and failure to sanction individuals who refuse
+to work.]
+
+Child Support: We will not forgive the state penalty under 272. 1(a)(4), 272.1 (a)(6), 272. 1(a)(9),
+or 272.1 (a)(14) based on reasonable cause if we detect a significant pattern of diversion of
+families to a separate state program that achieves the effect of preventing the federal collection of
+child support.
+
+[Note: 4 penalties above are work participation, failure to require individuals to cooperate with
+child support rules, time limit, and failure to sanction individuals who refuse to work.]
+
+272.6m -- "Some or aU" of penalty after corrective compliance plan fails:
+
+Work: We will not reduce the penaltY under 272.1 (a)(4), 272.1 (a)(9), 272.1(a)(1l), or
+272.1 (a)(l 4) if we detect a significant pattern of diversion offamilies to a separate state program
+that achieves the effect of avoiding the work participation rates.
+
+Child Support: We will not reduce the state penalty under 272. 1(a)(4), 272. 1(a)(6), 272. 1(a)(9),
+or 272.1 (a)(14) if we detect a significant pattern of diversion of families to a separate state
+program that achieves the effect of preventing the federal collection of child support.
+[Note: same penalties as under reasonable cause.]                         Hex-Dump Conversion
+PREAMBLE LANGUAGE:
+
+In several places where we discuss penalties, we note that we will not forgive certain penalties
+due to reasonable cause, reduce certain penalties after a corrective compliance fails, or reduce the
+work participation rate penalty based on the degree of non-compliance if we detect a significant
+pattem of diversion of families to a separate state program that achieves the effect of avoiding the
+work participation rates. The same is true for certain other penalties if we detect a significant
+pattem of diversion of families to a separate state program that achieves the effect of preventing
+the federal collection of child support.
+
+We plan to monitor states' actions to determine if they constitute a significant pattern of
+diversion. For example, if we came to the conclusion through an examination of statistical or
+other evidence that a state was assigning people to a separate state program in order to prevent
+federal collection of child support, or in order to evade the work requirements, we would
+conclude that this is a significant pattern of diversion, and would deny that state certain types of
+penalty relief.
+
+A state would be permitted the opportunity to prove that this pattem was actually the result of
+state policies and objectives that were entirely unrelated to the goal of diversion, but we would
+make the final judgment as to what constitutes a significant pattern of diversion.
+                                                                              Hex-Dump Conversion
+
+Work Rates: Proposal Would Deny the Following Relief from Penalties to States that Divert
+Hard-to-Employ Families from TANF to Avoid Work Participation Requirements
+
+
+ Penalty                                               Set Based      Reasonable      Corrective     Can be
+                                                       on Degree      Cause           Compliance     Reduced
+                                                       of             Exception       Plan           After Plan
+                                                       Non-Comp                                      Does Not
+                                                       Iiance                                        Corred
+                                                                                                     Violation
+
+                                                       If shaded, doesn ot now apply to that penalty.
+
+ 1. Misuse of TANF funds
+
+ 2. Failure to Submit Report
+
+ 3. Failure to Meet Participation Rates                  Agreed          Agreed                         Proposed
+ 4. Failure to Participate in Income and Eligibility
+ Verification System
+ 5. Failure to Require Individuals to Cooperate with
+ Child Support Rules
+ 6. Failure to Repay Federal Loan
+
+ 7. Failure to meet TANF MOE Requirement
+
+ 8. Substantial Noncompliance with Child Support       Not addressed in this draft regulation.
+ Requirements
+ 9. Failure to Comply with Time Limit                                   Proposed                        Proposed
+
+ 10. Failure to Maintain 100 MOE if Received
+ Contingency Funds
+ 11. Failure to Maintain Assistance to Parents who                      Proposed                        Proposed
+ Can't Get Child Care for Child under Six and
+ Doesn't Work
+ 12. Failure to Expend Additional State Funds to
+ Replace Grant Reductions
+ 13. Failure to meet TANF MOE if get DOL
+ Welfare to Work Grant
+ 14. Failure to Sanction Individuals who Refuse to                      Proposed                        Proposed
+ Work.
+                                                                                   Hex-Dump Conversion
+
+
+
+Child Support: Proposal Would Deny the Following from Penalties to States that Divert Families
+from TANF to Avoid Federal Collection of Child Support
+
+
+ Penalty                                               Set Based      Reasonable      Corrective    Can be
+                                                       on Degree      Cause           Compliance    Reduced
+                                                       of             Exception       Plan          Mter Plan
+                                                       Non-Comp                                     Does Not
+                                                       liance                                       Correct
+                                                                                                    Violation
+
+                                                       If shaded, doesn ot now apply to that penalty.
+
+ 1. Misuse of TANF funds
+
+ 2. Failure to Submit Report
+
+ 3. Failure to Meet Participation Rates                 Proposed        Proposed                        Proposed
+ 4. Failure to Participate in Income and Eligibility
+ Verification System
+ 5. Failure to Require Individuals to Cooperate with                    Proposed                        Proposed
+ Child Support Rules
+ 6. Failure to Repay Federal Loan
+
+ 7. Failure to meet TANF MOE Requirement
+
+ 8. Substantial Noncompliance with Child Support       Not addressed in this draft regulation.
+ Requirements
+ 9. Failure to Comply with Time Limit                                   Proposed                    Proposed
+
+ 10. Failure to Maintain 100 MOE if Received
+ Contingency Funds
+ n. Failure to Maintain Assistance to Parents who
+ Can't Get Child Care for Child under Six and
+ Doesn't Work
+ 12. Failure to Expend Additional State Funds to
+ Replace Grant Reductions
+ 13. Failure to meet TANF MOE if get DOL
+ Welfare to Work Grant
+                                                        Hex-Dump Conversion
+
+
+14. Failure to Sanction Individuals who Refuse to   Proposed                       Proposed
+Work.
+
+

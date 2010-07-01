@@ -1,0 +1,177 @@
+    RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+    CREATOR: Janet Murguia ( CN=Janet Murguia/OU=WHO/O=EOP    [ WHO 1 )
+
+    CREATION DATE/TIME: 23-JAN-1998 21:41:57.00
+
+    SUBJECT:   MOC briefings on SOTU
+
+    TO: Kay Casstevens ( CN=Kay Casstevens/O=OVP @ OVP [ UNKNOWN 1 )
+    READ: UNKNOWN
+
+    TO: Amy W. Tobe     CN=Amy W. Tobe/OU=WHO/O=EOP @ EOP [ WHO 1 )
+    READ: UNKNOWN
+
+    TO: Erskine B. Bowles ( CN=Erskine B. Bowles/OU=WHO/O=EOP @ EOP [ WHO 1 )
+    READ: UNKNOWN
+
+    TO: Robert M. Shireman ( CN=Robert M. Shireman/OU=OPD/O=EOP @ EOP [ OPD 1 )
+    READ: UNKNOWN
+
+    TO: Mickey Ibarra ( CN=Mickey Ibarra/OU=WHO/O=EOP @ EOP [ WHO 1 )
+    READ:UNKNOWN
+
+    TO: Jacob J. Lew ( CN=Jacob J. Lew/OU=OMB/O=EOP @ EOP    [ OMB 1 )
+    READ: UNKNOWN
+
+    TO: Franklin D. Raines ( CN=Franklin D. Raines/OU=OMB/O=EOP @ EOP [OMB 1 )
+    READ:UNKNOWN
+
+    TO: Rahm I. Emanuel ( CN=Rahm I. Emanuel/OU=WHO/O=EOP @ EOP [ WHO 1 )
+    READ: UNKNOWN
+
+    TO: Ann F. Walker ( CN=Ann F. Walker/OU=WHO/O=EOP @ EOP [ WHO 1 )
+    READ: UNKNOWN
+
+    TO: Ann F. Lewis ( CN=Ann F. Lewis/OU=WHO/O=EOP @ EOP    [ WHO 1 )
+    READ: UNKNOWN
+
+    TO: Douglas B. Sosnik ( CN=Douglas B. Sosnik/OU=WHO/O=EOP @ EOP [ WHO 1 )
+    READ: UNKNOWN
+
+    TO: John Podesta ( CN=John Podesta/OU=WHO/O=EOP @ EOP [ WHO 1 )
+    READ: UNKNOWN
+
+    TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+    READ:UNKNOWN
+
+    TO: Sara M. Latham ( CN=Sara M. Latham/OU=WHO/O=EOP @ EOP [ WHO 1 )
+    READ: UNKNOWN
+
+    TO: Monica M. Dixon ( CN=Monica M. Dixon/O=OvP @ OVP    [ UNKNOWN 1 )
+    READ: UNKNOWN
+
+    TO: Michael D. McCurry ( CN=Michael D. MCCurry/OU=WHO/O=EOP @ EOP [ WHO 1 )
+    READ:UNKNOWN
+
+    TO: Michael Cohen ( CN=Michael Cohen/OU=OPD/O=EOP @ EOP [ OPD 1 )
+    READ:UNKNOWN
+
+    TO: Minyon Moore ( CN=Minyon Moore/OU=WHO/O=EOP @ EOP [ WHO 1 )
+
+
+READ: UNKNOWN
+
+TO: Maria Echaveste ( CN;Maria Echaveste/OU;WHO/O;EOP @ EOP [ WHO]           )
+READ: UNKNOWN
+
+TO: Gene B. Sperling ( CN;Gene B. Sperling/OU;OPD/O;EOP @ EOP [ OPD ]            )
+READ: UNKNOWN
+
+TO: Carole A. Parmelee ( CN;Carole A. Parmelee/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ:UNKNOWN
+
+TO: Paul E. Begala ( CN;Paul E. Begala/OU=WHO/O;EOP @ EOP [ WHO]         )
+READ: UNKNOWN
+
+TO: Stacie Spector ( CN=Stacie Spector/OU=WHO/O;EOP @ EOP [ WHO]         )
+READ: UNKNOWN
+
+TO: Craig T. Smith ( CN=Craig T. Smith/OU;WHO/O=EOP @ EOP [ WHO]         )
+READ: UNKNOWN
+
+TO: Sylvia M. Mathews ( CN;Sylvia M. Mathews/OU=WHO/O=EOP @ EOP [ WHO]               )
+READ: UNKNOWN
+
+TO: Jason S. Goldberg ( CN=Jason S. Goldberg/OU=WHO/O=EOP @ EOP [ WHO]               )
+READ: UNKNOWN
+
+TO·: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O;EOP   @   EOP [ OPD ] )
+READ: UNKNOWN
+
+Janet Murguia ( CN;Janet Murguia/OU;WHO/O=EOP [ WHO ]      )
+READ:UNKNOWN
+
+Ricardo M. Gonzales ( CN;Ricardo M. Gonzales/O=OVP [ UNKNOWN ] )
+READ: UNKNOWN
+
+TEXT:
+This is a draft Congressional Roll-out which will be updated over the
+weekenq. Please let me know if folks have suggestions or concerns
+   ;;;=;===;;==;=;=;=;; ATTACHMENT   1 ;;;=;.;;=;;;====;;;==
+ATT CREATION TIME/DATE:   o 00:00:00.00
+. TEXT:
+  Unable to convert ARMS_EXT: [ATTACH.D15]MAIL46438722I.026 to ASCII,
+   The following is a HEX DUMP:
+
+FF57504370040000010A0201000000020500000027110000000200005C28F93FE3F6CA797FD98B
+3F353AOEC2861D2993D06480AA26D23ADF5285DD92BFF5B4E757F29209220ED4EE2AAE99D4B2CF
+273086D05C6COOBE6719A724750CF45F16F5A9331F168F8EEF34B6199A6B4B38D60D9B71FA753E
+89CE6496E59C062DBD91971752BE2CC6552401832419FD037A527B8A77D7373845690DF8FC0901
+4D21C7461399196C2D30D28CFFBE768AE26E99BBEAF20938F74AF7A2BEDC1E69C63AC3B398AC26
+08126F44EB5532D6BB735CA735B83FF2DA46ACCA87D5959C5A44E465E367C8D2D49E271FE7B9Dl
+65EF4009EDF3DF3591Fl19E61F187533774B662C293BC968B691615449EDDOBCD30F2ABEDC83E4
+Ol098C8DB5B7E5CAE105434584A1952COC7E60CE4B6A7D6DA882737DE6FA288087674FEC54E197
+76BB8930C4B13812D80D6163B62B2803BD8AOAA1FD88C66BB159058COE9F6BC9C678ACC9C15354
+25A8D1D4B5079AD6A4FD98113ED4962D19BAOAEB32EBD2734378DC758B961C78577EC5B0972675
+lFC3255F98FD42A3305414C33C419F59BC1AF4F683401E83878240647BBOB32481B945B28EB899
+3C9A1DF949D2E2FOC5F363D132C36807C009E45C313F50CB646131FD64FB074CA7D8F9EDOC5CEF
+F25896EB727C2A823582242EAF06DDAA7BOD61E5C7BD53E08AD9DB9ED20842EF06EB9E282B8446
+71F566B46802000900000000000000000000000823010000000BOl00007E020000005503000000
+4E0000008903000009250100000006000000D70300000B300200000028000000DD030000087701
+
+
+Monday:
+
+10:00 am        House Policy Staff in Cannon Caucus Room, Rm 345
+                (House Legislative Directors, Administrative Assistants, and select Committee
+                Staff)
+                White House Participants: Reed/Kagan, Sperling/Lew, Begala, Murguia
+
+11:30 am        Senate Policy Staff in 562 Dirkson Senate Office Building
+                (Senate Legislative Directors, Administrative Assistants, and select Committee
+       Staff)
+                White House Participants: Reed/Kagan, SperlinglLew, Begala, Murguia
+
+I :00 pm       Congressional Hispanic Caucus Member Conference Call
+               (Congressional Hispanic Caucus House Members)
+               White House Participants: Murguia, Sperling, Raines, Riley, Reed, Echaveste,
+       Ibarra, Shireman, Cohen
+
+1:00 pm         New Democrats Coalition (Co-Chairs: Roemer, Dooley, and Moran) approx. 20 to
+                30 Members expected. Site: TBD
+                White House Participants: VPOTUS
+
+TBD pm?         Congressional Black Caucus Member Conference Call
+(Could be                (Congressional Black Caucus House Members)
+Tuesday)                 White House Participants: Raines, Sperling, Kagan, Moore, Murguia
+                (alert --Mathews/Bowles)
+
+TBD pm?         Phone call to Blue Dog Coalition Chair, Congressman Gary Condit
+                White House Contact: Bruce Reed or Monica Dixon
+
+TBDpm?          Phone call to Asian Pacific Caucus Chair, Congresswoman Patsy Mink
+                White House Contact: Janet Murguia
+
+TBDpm?          Phone call to Progressive Caucus Chair, Congressman Bernie Sanders
+                White House Contact: Erskine Bowles
+
+Tuesday:
+AMIPM         Assigned Calls for Principals/Cabinet Secretaries of targeted Members and
+       Senators
+
+2:00pm          Joint Democratic Leadership Members in Daschle's Conference Room
+                (House and Senate Democratic Leadership Members)
+                White House Participants: TBD
+
+
+                                                                  Automated Records Management System
+                                                                  Hex-Dump Conversion
+
+
+
+     5:00 pm   House and Senate Democratic Press Secretaries
+               (House and Senate Press Secretaries)
+               White House Participants: Le~is, McCurry, Weiss-Tobey, Begala, Murguia
+
+

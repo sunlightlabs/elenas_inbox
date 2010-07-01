@@ -1,0 +1,47 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Sarah A. Bianchi ( CN=Sarah A. Bianchi/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME: 6-FEB-1998 09:23:34.00
+
+SUBJECT:   weekly
+
+TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION.TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D45]MAIL404643632.026 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504370040000010A020100000002050000006EOB000000020000A46BB9CCB6COD70335B32A
+5EC405BF2F40AE7C989AEA19E483DEC46C723B85117EE5F777BE81544961DB2642D202C89582Fl
+                                                                          Automated Records Management System
+                                                                                  Hex-Dump Conversion
+
+    Dr. Satcher's Confirmation Vote. Next Tuesday, the Senate is scheduled to vote on Dr.
+    Satcher's nomination to become Surgeon General. Our current vote count is 66 votes and we
+    believe that we may get more than 70. Should Dr. Satcher be confirmed, this would fill an
+    approximately three year void in the Surgeon General position. We are currently considering
+    recommending a picture of you and/or the Vice President swearing Dr. Satcher in for this post.
+
+    Congressman John Dingell Update. Following up on your conversation with John Dingell,
+    Larry Stein, Bruce Reed and Chris Jennings met with the Congressman on Thursday to discuss
+    prospects of and strategy for the consumer protections legislative debate and Mr. Dingell's role
+    on the Medicare Commission. It was agreed that the Administration would continue to give
+    technical assistance to the House Democratic Caucus consumer protections bill as well as to
+    make positive statements about it without giving an all out endorsement. The current bill goes
+    farther than is likely to be passed in the Congress and may well be vulnerable to criticisms from
+    the business community about excessive costs and regulations. As of yet, we have avoided
+    having to take a position on most of the controversial positions in Dingell's bill. We informed
+    Dingell about our concerns of an overly costly bill. He said he appreciated the feedback on the
+    strengths and weaknesses of the bill and was pleased we would say positive things about his
+    efforts in this area.
+
+

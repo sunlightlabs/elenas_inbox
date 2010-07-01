@@ -1,0 +1,60 @@
+      RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+      CREATOR: Bethany Little ( CN=BethanyLittle/OU=OPD/O=EOP [ OPD ] )
+
+      CREATION DATE/TIME:20-APR-1999 14:58:28.00
+
+      SUBJECT:   Draft statement
+
+      TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+      READ: UNKNOWN
+
+      TO: Bruce N.Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ] )
+      READ: UNKNOWN
+
+      CC: Tanya E. Martin ( CN=Tanya E. Martin/OU=OPD/O=EOP [ OPD ] )
+      READ: UNKNOWN
+
+      CC: Jonathan H. Schnur ( CN=Jonathan H. Schnur/OU=OPD/O=EOP @ EOP [ OPD ] )
+      READ:UNKNOWN
+
+      CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO ] )
+      READ:UNKNOWN
+
+      TEXT:
+      Attached is the draft statement you requested.  I have reviewed it briefly
+      with Broderick Johnson, Tanya, Jon and Julie Green.  please let me know if
+      there is anything else you need.  Thanks!
+
+
+      ==================== ATTACHMENT   1 ====================
+      ATT CREATION TIME/DATE:   0 00:00:00.00
+
+      TEXT:
+      Unable to convert ARMS_EXT: [ATTACH.D87]ARMS22848472J.136 to ASCII,
+       The following is a HEX DUMP:
+
+      FF575043F6040000010A02010000000205000000FBOC0000000200OOODBFC54733B0705121B071
+      663BB61E4477E513C59E81D32849407EDODC8A45E37F38223FEF5C98951656C7754716594C5121
+      B3298DBC032B86969D4D7665C742DD9E7D384Bl138E2AA9F567B9D87FD9BB92021576585476B03
+      7E89614511C7CD444EF7ADAOE3B51227FC5DE90EEFICEE424226926BF6984531F558F2B58E5358
+                                                                    Automated Record~ 'fI'3nagement System
+                                                                            Hex-Dump Conve~sion
+                                               DRAFT
+                                       Statement by the President
+                                             April 20, 1999
+
+
+
+    I am pleased that a little more than a year after I proposed the idea of a national Ed-Flex bill to
+    the National Governors' Association, Congress appears ready to send me legislation I can sign.
+    This bill will offer states more flexibility in their use of federal funding in exchange for
+    demonstrated increases in student achievement. I am particularly pleased that the conference
+    report strengthens accountability measures and preserves our effort to reduce class size in the
+    early grades. The bipartisan work on this legislation shows we can and must work together to
+    improve our nation's schools. Now Congress can move on to the most important aspects of the
+    nation's education agenda -- finishing the job of hiring 100,000 well-prepared teachers to reduce
+    class size, passing my initiative to help build and modernize 6,000 public schools, and my plan to
+    hold states and school districts accountable for results.
+
+

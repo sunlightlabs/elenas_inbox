@@ -1,0 +1,147 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Julie A. Fernandes ( 'CN=Julie A. Fernandes/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME:14-0CT-1998 13:48:10.00
+
+SUBJECT:   Summary of 9th circuit case
+
+TO: Elena Kagan    CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Maria Echaveste ( CN=Maria Echaveste/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+CC: Marjorie Tarmey ( CN=Marjorie Tarmey/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Leslie Bernstein ( CN=Leslie Bernstein/OU=WHO/O=EOP @ EOP [ WHO]    )
+READ: UNKNOWN
+
+TEXT:
+Attached is a summary of the 9th Circuit case, Magana-Pizano v. INS. As I
+mentioned last week, Rob Weiner is reviewing the case and intends to have
+some further discussions with the DOJ reo whether they intend to pursue an
+appeal.
+
+julie
+
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D81]MAIL405920784.226 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504370040000010A020100000002050000007F210000000200001DDD0101EDCAC2D7010E18
+
+Facts
+
+Magana-Pizano was convicted in February 1995 in California state court of being under the
+influence of cocaine and methamphetamine, a misdemeanor offense. On May 17, 1996, the INS
+issued an Order to Show cause to Magana-Pizano alleging that he was deportable as a result of
+that misdemeanor criminal conviction. At his deportation hearing, Magana-Pizano conceded his
+deportability as a result of his drug conviction, but indicated that he would apply for a
+discretionary waiver of deportation under Section 212( c) of the INA.
+
+Unbeknownst to him, Congress had already passed the Antiterrorism and Effective Death Penalty
+Act of 1996 (AEDPA) which amended Section 212(c) to eliminate discretionary relief for aliens
+convicted of most drug-related crimes, including Magana-Pizano's. As a result of this statutory
+change, the INS filed a motion to pretermit Magana-Pizano's application for relief under INS
+Section 212(c), arguing that Section 440(d) of AEDPA and its amendment of Section 212(c)
+were effective as of the date of passage on April 24, 1996. The Immigration Judge granted the
+INS's motion to pretermit Magana-Pizano's application and ordered Magana-Pizano deported to
+Mexico.
+
+Magana-Pizano appealed this decision to the Board ofImmigration Appeals (BIA) which
+sustained the deportation order. Magana-Pizano then filed a timely petition for review of the
+BIA's decision with the 9th Circuit.
+
+Magana-Pizano also filed a petition for a writ of habeas corpus pursuant to 28 U.S.C. 2241 in the
+U.S. District Court. In his habeas petition, he argued that the BIA's decision and interpretation
+of section 440(d) of the AEDPA violated the Equal Protection Clause of the Constitution. The
+district court dismissed the complaint for lack of jurisdiction, explaining that the statutory basis
+for habeas review for aliens in custody pursuant to an order of deportation was repealed by a
+different section of the AEDPA (section 40 1(e». Magana-Pizano filed an appeal to the 9th
+circuit of that decision.
+
+Issues on Appeal
+
+·       Whether the BIA correctly held that Magana-Pizano was ineligible for discretionary relief
+        under Section 212(c) of the INA. Magana-Pizano challenged the BIA's interpretation of
+        AEDP A section 440( d) and its applicability to this case.
+
+·       Whether INA Section 242(g) violates the Suspension Clause of the constitution by
+        eliminating habeas corpus jurisdiction in cases where no other avenue of judicial review
+        exists.
+
+The 9th Circuit held that it could not reach the merits of the first issue, because of new
+limitations that Congress has placed on the court's ability to hear such claims. The court further
+held that Magana-Pizano could pursue habeas corpus relief under 28 U.S.C. 2241 in the U.S.
+
+Discussion
+
+1.      Appeal of the BIA decision to the U.S. Court of Appeals
+
+Prior to the passage of IIRIRA, the U.S. Court of Appeals was the proper tribunal for parties who
+wished judicial review of a BIA decision. INA Section 106(a) provided that an alien could
+obtain judicial review by the appropriate court of appeals after entry of a final order of
+deportation. That section ofthe INA was repealed by IIRIRA. Because the BIA's decision
+holding Magana-Pizano statutorily ineligible for relief was issued March 17, 1997 (prior to
+IIRIRA's April 1, 1997 effective date) IIRIRA's transitional provisions apply to his case.
+
+The transitional rules clearly establish that "there shall be no appeal pennitted in the case of an
+alien who is inadmissible or deportable by reason of having committed a [covered] criminal
+offense." Under this new scheme established by IIRIRA, the circuit courts retain a limited scope
+of judicial review for aliens who are deportable for these criminal offenses to detennine whether
+the petitioner is (i) an alien; (ii) deportable (iii) by reason of a criminal offense listed in the
+statute.
+
+The court concluded that by creating the transitional rules, Congress evidenced a specific intent
+for BRIRA to apply retroactively to pending cases. It then further held that Magana-Pizano's
+argument -- that the Immigration Judge's and BIA's reading of AEDPA Section 40(d) constitutes
+an impennissible retroactive application ofthe amended statute -- is not within the narrow scope
+of the circuit court's review on direct appeal under IIRIRA'a transitional rules. Thus, the court
+dismissed Magana-Pizano's petition for review for lack of jurisdiction.
+
+2.      Judicial review pursuant to 28 U.S.C. 2241
+
+Prior to the passage of AEDP A and IIRIRA, aliens wishing to challenge the constitutionality of a
+final order of deportation via habeas corpus did so using one of two general methods: (l)
+proceeding pursuant to INA Section 106(a); or (2) proceeding pursuant to the general statutory
+habeas provision of28 U.S.C. Section 2241. The AEDPA repealed INA Section 106(a) and
+eliminated most judicial review for criminal aliens subject to removal. The statute provides a
+streamlined approach for consideration by the courts of appeals of claims arising from removal
+orders and the procedures leading to them. See 8 U.S.C. 1252(b) (giving the courts of appeals
+jurisdiction to hear those claims by way of a petition for review of a final order of removal).
+However, those subject to the transitional rules -- applicable to cases arising before the effective
+date ofIIRIRA -- do not get the benefit of the judicial review provisions of 8 U.S.C. 1252(b).
+
+The question in this case was whether INA Section 242(g) (the statutory provision eliminating all
+federal court jurisdiction) can be constitutionally applied in cases where no other avenue of
+judicial review exists. The court held that it could not -- i.e., that eliminating all judicial review
+of executive detention violates the constitution. The court further held that to the extent that
+habeas remedies in immigration cases are protected by the Suspension Clause, relief is afforded
+
+                                                          Automated Records Management System
+                                                          Hejt.~ Conversion
+
+Conclusion
+
+This case, most significantly, stands for the proposition that INA Section 242(g) does not remove
+jurisdiction under 28 U.S.C. 2241 for cases where no other avenue of judicial review exists for
+constitutional claims.
+
+Rob Weiner is looking into the specifics of this case, including whether the Department of
+Justice intends to pursue an appeal in the Supreme Court.
+
+
+
+
+                                                       AHffimllt@d Ri!COrds Management System.
+                                                       hei~~_on
+
+

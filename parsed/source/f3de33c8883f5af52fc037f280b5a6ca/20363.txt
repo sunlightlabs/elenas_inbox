@@ -1,0 +1,48 @@
+        RECORD TYPE: PRESIDENTIAL. (NOTES MAIL)
+
+        CREATOR: Mary L, Smith ( CN=Mary L, Smith/OU=OPD/O=EOP [ OPD ] )
+
+        CREATION DATE/TIME:18-JUN-1998 19:05:27.00
+
+        SUBJECT:   draft weekly item on food safety
+
+        TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+        READ: UNKNOWN
+
+        CC: Thomas L. Freedman ( CN=Thomas L. Freedman/OU=OPD/O=EOP @ EOP [ OPD ] )
+        READ: UNKNOWN
+
+        CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO ] )
+        READ: UNKNOWN
+
+        TEXT:
+        ==================== ATTACHMENT   1 ====================
+        ATT CREATION TIME/DATE:   0 00:00:00.00
+
+        TEXT:
+        Unable to convert ARMS_EXT: [ATTACH.D4]MAIL49106417E.126 to ASCII,
+         The following is a HEX DUMP:
+
+        FF575043C8040000010A020100000002050000009EOB000000020000640A8C5BAOF19D00722211
+        831DFE5796904220FD401075BD38642D6F53027226CE3F422B72D2OCDDAC90025A360A857152DD
+·
+                                                        Automated Records Management System
+                                                                Hex-Dump Conversion
+
+
+         Of the Administration's $96 million food safety initiative for USDA and FDA, we received only
+         $16.8 million in the House full committee and only $2.6 million in the Senate full committee.
+         The full Senate is considering the Agriculture bill, but is not expected to begin voting until
+         Monday. Senators Leahy, Harkin, and Daschle are willing to work with us to offer amendments,
+         but have indicated that they will only do so if we present an offset. . On Thursday, we offered an
+         offset involving user fees which was rejected by Harkin's staff. OMB is continuing to work on
+         some other offset proposals. DPC is working on a possible event for Wednesday which will
+         highlight the problem offood safety and focus on some nonlegislative solutions already being
+         undertaken. Because summer is the most dangerous time of year for food safety, we believe that
+         the July 4th radio address may be a appropriate time to raise the budget and other food safety
+         issues that are currently pending in Congress. In addition to your FY 1999 budget, there are
+         other legislative proposals involving food safety currently pending. These proposals include
+         mandatory recall for meat and poultry, civil fines for violations, and increased FDA inspection
+         authority for imported foods.
+
+

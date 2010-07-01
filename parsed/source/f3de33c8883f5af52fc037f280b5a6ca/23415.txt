@@ -1,0 +1,329 @@
+ RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Dan MarcuS ( CN=Dan Marcus/OU=WHO/O=EOP [ WHO] )
+
+CREATION DATE/TIME:30-MAR-1999 19:58:25.00
+
+ SUBJECT:   Memo re Helms v.picard
+
+TO: Elena Kagan     CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+ TO: Charles F. Ruff ( CN=Charles F. Ruff/OU=WHO/O=EOP @ EOP [ WHO ] )
+ READ: UNKNOWN
+
+TEXT:
+Attached is a further revision of the memo per our discussions.   I have
+tried to give greater emphasis to the Secretary's concerns. And I have
+presented our compromise approach in the last few paragraphs, and
+previewed it at the end of the opening paragraph.==================== ATTACHMENT    1
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D70]MAIL485086100.136 to ASCII,
+ The following is a HEX DUMP:
+
+ FF57504370040000010A02010000000205000000624800000002000012DA3C5952COOC7E131FE9
+ ED85682CBA3COEOC7E037374E8B90F5D44E78B563BDBA92B64D625A9B9A1295E996C07A9C08C1A
+ B247B4535FF416BCEEECD181CBB93426DEA39FE8767408DC2CFE16EA563BB26341F98BF95B7B48
+ B9C66040A86B11ABBFCOE7826CEEA468A68EC231C4D842CA7569847COB1BAA15F67C684B4CFA87
+ D0331A830C8D25B2710A9491EDD788C2A5A07CF43129D44F6B88F817E8A70F49900F83123A497D
+                                                                      Hex-Dump Conversion
+
+                                                       DRAFT 3/28/99
+
+MEMORANDUM TO THE PRESIDENT
+
+FROM:          Charles F.C. Ruff, Elena Kagan, Daniel Marcus
+
+RE:            Petition for certiorari in Helms v. Picard
+
+        This is to advise you of a diffi'cult decision that the Solicitor General must make
+concerning whether to seek review by the Supreme Court of a Fifth Circuit decision holding that
+a federally funded program under which public school authorities lend computers and other
+instructional materials to sectarian elementary and secondary schools violates the Establishment
+Clause of the First Amendment. The Solicitor General feels strongly that a petition for certiorari
+should not be filed, and Secretary Riley feels strongly that one should be filed. Weare trying to
+develop a middle course that would serve the Secretary's needs by making clear to the Court that
+we believe that it needs to revise its Establishment Clause jurisprudence to permit programs of
+this kind while also reflecting the Solicitor General's view that this particular case may not
+present the best vehicle for doing so.
+
+        In Helms v. Picard, a case arising in Jefferson Parish, Louisiana, the Fifth Circuit held
+that a provision of Chapter 2 of the Elementary and Secondary Education Act (ESEA) that
+authorizes local educational agencies (LEAs) to use federal funds to purchase computers and
+other materials for loan to private schools, including sectarian schools, is, as applied, in violation
+of the Establishment Clause. (That ESEA provision was replaced by a similar provision in Title
+VI of the ImprovingAmerica's Schools Act of 1994.) The U.S. Department of Education, as
+well as the Louisiana and the Jefferson Parish public school authorities, were defendants in the
+case and are subject to an ongoing injunction.
+
+        Ifthe Solicitor General is to file a petition for certioran seeking to overturn the Fifth
+Circuit's decision, he must do so by April 13. He has discussed with us and with the
+Department of Education his view that the United States should not file a petition because he
+believes that the record is insufficient to convince the Court (in essence, Justice O'Connor, who
+is the swing vote) to overturn a series of earlier decisions limiting aid to sectarian schools.
+
+        In Helms, the Fifth Circuit found that two longstanding Supreme Court precedents --
+Meek v. Pittenger, 421 U.S. 349 (1975), and Wolman v. Walter, 433 U.S. 229 (1977) dictatedn
+
+
+
+
+the conclusion that the Title VVChapter 2 program is unconstitutional. In those cases the
+Supreme Court struck down state laws that authorized public authorities to lend instructional
+equipment and materials to private schools, including sectarian schools, reasoning that such
+materials -- unlike secular textbooks, the lending of which to sectarian schools the Court had
+upheld in Board of Education v. Allen, 392 U.S. 236 (1968) -- could be used directly in aid of
+the sectarian enterprise of parochial schools. The Fifth Circuit rejected arguments that the Title
+VVChapter 2 program was distinguishable from those held unconstitutional in Meek and
+Wolman and also rejected arguments that Meek and Wolman had been repudiated or modified by
+the Supreme Court itself in later decisions particularly Agostini v. Felton, 521 U.S. 203 (1997),
+                                            n
+                                                                   Hex-Dwnp Conversion
+
+in which a closely divided Court upheld the constitutionality of using Title I ESEA funds to send
+public school teachers into private sectarian schools to provide remedial education to
+disadvantaged children.
+
+        The Fifth Circuit's decision conflicts with an earlier decision of the Ninth Circuit in
+Walker v. San Francisco Unified School District, 46 F.3d 1449 (1995), upholding a similar Title
+VI/Chapter 2 program. In Walker, the Ninth Circuit found that Meek and Wolman were no
+longer good law in light oflater Supreme Court decisions, particularly Agostini, that the Ninth
+Circuit viewed as establishing the principle that the Establishment Clause simply required
+"neutrality" between secular and religious schools in the provision of government aid.
+
+        The Solicitor General believes that, although it is important to persuade the Supreme
+Court to revise its Establishment Clause jurisprudence to perinit programs of this kind, this is not
+the appropriate case in which to ask the Court to take that step. His reasoning is basically as
+follows: While the Supreme Court (most notably and recently in Agostini) has opened the door to
+some forms of assistance by public authorities to sectarian schools (or their students), its
+decisions have not called into question its longstanding holdings that direct aid to the sectarian
+school enterprise -- even on a "neutral" basis -- is forbidden. Thus, the provision of
+instructional materials that are capable of use by the sectarian school for religious purposes is
+forbidden. The Justice Department was unsuccessful in arguing to the Fifth Circuit that this
+case can be distinguished from Meek and Wolman, and we agree with the Solicitor General that,
+if we do seek Supreme Court review, we will have to ask the Court directly to overrule, at least in
+part, the Meek-Wolman precedents. (The two proffered distinctions are unconvincing: The fact
+that Title VI provides benefits to both public and private schools, while the programs invalidated
+in Meek and Wolman provided aid only to private schools provides no basis for distinction since
+the Meek and Wolman statutes were designed to provide private school students with what
+public school students already had. And the fact that the Tile VI aid "supplements" rather than
+"supplants" private school expenditures, while relevant in some other contexts, probably is
+irrelevant here, where the focus is whether the aid promotes the private school's religious
+mission.)
+
+        The Supreme Court could be asked to overrule these precedents on one ofthree theories.
+First, we could embrace the "neutrality" principle advocated by Justices Rehnquist, Scalia, and
+Thomas, and argue that the Court should allow direct aid to parochial schools so long as it does
+not prefer one religion to another and does not favor the religious over the non-religious.
+Second, we could urge the Court to abandon its treatment of elementary and secondary sectarian
+schools as "pervasively religious" institutions, regarding them instead -- like religiously-affiliated
+universities -- as institutions in which the secular and the sectarian aspects of operations can
+easily be kept separate. The Solicitor General believes that neither of these broad arguments
+would be successful or should be made, and we and the Department of Education agree.
+
+       There is a third, less radical argument that the Solicitor General believes can and should
+be made in an appropriate case. This argument would not challenge the principle that the
+Government cannot directly aid the religious mission of a sectarian school, but would urge the
+Court to abandon its insistence that materials provided to such schools be "incapable of
+                                                           Hex-Dump Conversion
+
+
+diversion" to sectarian purposes, and substitute a test that would look to whether there are
+adequate safeguards against such diversion.
+
+         Justice O'Connor is the key to the success of any such argument. Four Justices --
+Rehnquist, Scalia, Kennedy, and Thomas -- have indicated a willingness to go this far, and
+probably further. But the four "liberal" Justices -- Stevens, Souter, Ginsburg, and Breyer, all of
+whom dissented in Agostini -- would almost certainly reject it. O'Connor wrote Agostini, but
+she has not gone so far as to question the principle that public funds may not be used to support
+the religious enterprise of a sectarian school. The Solicitor General believes, however, that she
+could be persuaded to uphold programs such as Title VI if she were convinced that there were
+adequate safeguards to ensure that the computers or other materials lent to the sectarian schools
+would, in fact, be used for secular, not religious, purposes. These safeguards could take the
+form of certifications by the private schools, monitoring visits by public school teachers or
+officials, prescreening of library books, and sanctions for violations. (The Court would have to
+find that such safeguards did not amount to the "excessive entanglement" of state with church
+that is forbidden by decisions such as Lemon v. Kurtzman, 403 U.S. 602 (1971), or would have
+to revise its "excessive entanglement" doctrine.)
+
+        After the Fifth Circuit decision, the Department of Education, in consultation with the
+Department of Justice, did publish a Guidance on compliance with Title VI, directing LEAs to
+employ several safeguards to ensure that equipment and materials lent to sectarian schools will
+not be diverted to religious purposes. For the first time, this Guidance amplifies the very general
+requirement in the statute and the Department's regulations that the LEA "ensure secular use." It
+provides that the LEA should obtain written assurances from private schools that materials will
+be used only for secular purposes; should review the contents of library books lent to private
+schools and conduct periodic on-site monitoring; and should ensure that violations are promptly
+corrected, including, if necessary, removing the materials from the private school.
+
+         Nonetheless, the Solicitor General believes that Helms v. Picard is not the right case in
+which to make the "adequate safeguards" argument. The case was brought in 1984, challenging
+the former Chapter 2 of ESEA, and neither the ESEA nor Title VI of the 1994 statute nor the
+regulations in place at the time the case was decided contained any restrictions on the use of
+loaned materials'other than the general requirement that the public agency ensure that the loaned
+materials be used only for secular purposes. Nor had either Louisiana or Jefferson Parish
+implemented an effective monitoring program to meet that requirement. Since the Solicitor
+General believes that it will be difficult, even on a good record, to persuade Justice O'Connor to
+embrace an "adequate safeguards" exception to the Meek and Wolman line of cases, he worries
+not only that she will reject that argument, but also that she will react negatively to what she will
+regard as a disingenuous argument by the Solicitor General that there were adequate safeguards
+in this case. He is concerned, as well, that her unhappiness will carry over to other cases in
+which we need her vote. The Guidelines adopted recently by the Department of Education are an
+improvement in this regard, but the Solicitor General thinks they are too late to be of much help
+in this case and, in any event, has advised the Department to adopt an amended Guidance or
+(preferably) regulations embodying more specific safeguards against diversion of computers and
+other materials to use for sectarian purposes.
+                                                                  Hex-Dump Conversion
+                                                                      Of course, if no cert petition
+is filed, the injunction in Helms v. Picard would remain in effect. The Solicitor General notes,
+however, that the Fifth Circuit decision does not strike down the statute on its face, and applies
+only to the particular program at issue in the Helms case.
+The decision is the law only in the Fifth Circuit (Texas, Louisiana and Mississippi), and, even
+there, LEAs are free to devise other programs under Title VI. The Solicitor General hopes that,
+with a new Guidance or regulations, a more attractive program (with safeguards) could be
+adopted by an LEA and become a more promising vehicle for winning over Justice O'Connor
+and, thus, a majority of the Court.
+
+        The Secretary of Education and his General Counsel strongly disagree. They do not
+want to wait for that better case. They are convinced that the private school community will not
+understand why the Administration, having supported the legality of this program during more
+than a decade oflitigation in the lower courts, is abandoning them at the Supreme Court stage
+and allowing the Fifth Circuit decision to stand. Indeed, Secretary Riley feels that he has made a
+personal commitment to the private school groups to defend the current program. They believe
+that we should not give up on the distinctions urged unsuccessfully in the Fifth Circuit but
+successfully in the Ninth Circuit. And they think the Justice Department understates the
+difficulty that LEAs will have in devising viable Title VI programs during the time (perhaps a
+long time) before a better case can be found and work its way up to the Supreme Court. They
+recognize that Helms v. Picard is not the ideal case to present to the Court and that it is by no
+means a sure winner. But they are not as pessimistic as the Solicitor General is, and they think
+the importaI)ce of this kind of program from both a policy and a political standpoint should lead
+us to take the risk involved in petitioning for certiorari.
+
+         The disagreement between the Solicitor General and the Secretary is a strong one, but is
+basically over strategy and tactics, not principle. All agree that it is important to persuade the
+Supreme Court to move away from a strict "incapable of diversion" test to a more flexible,
+realistic test that permits the implementation of programs to provide computers to all children,
+whether they are in public or private schools. We agree with the Solicitor General's conclusion
+that this will not be an easy "sell" to Justice O'Connor, the swing vote on the Court on this issue,
+and that we would be better off presenting that argument in a case in which there was a stronger
+record of safeguards in place to assure that the computers would not be used for religious
+purposes. (We do think, however, that the Solicitor General's fears about the consequences of
+losing this case are somewhat overstated.)
+
+        A possible middle course is suggested by the fact that some of the other
+intervenors/defendants in this case are almost certain to seek Supreme Court review even if we
+do not. The Solicitor General had proposed to us that, in that event, the United States should
+file an opposition to their petition for certiorari, arguing that while the Meek-Wolman precedents
+need to be reconsidered by the Court, this is not the appropriate case in which to do so. But we
+have begun to discuss with the Solicitor General and the Secretary a somewhat different
+possibility -- one that we believe would be more acceptable to the Secretary and the private
+school community while still accepting and presenting the Solicitor General's view on the legal
+"
+                                                                         Hex-Dump Conversion
+
+    issues and the nature of this case. Instead of opposing certiorari, the Solicitor General would
+    take no position on whether the Court should take the case, but would instead file a response to
+    the intervening defendants' petition that emphasizes the importance of programs like Title VI,
+    particularly in providing access to computers for all children; explains the need for the Court to
+    modify its precedents; presents the "adequate safeguards" approach that we think the Court
+    should adopt; points to the recent Department of EdU(:ation Guidance and possible additional
+    guidance from the Department to LEAs; and concludes that the Court has the option of taking
+    this case and deciding this important constitutional question on the record before it or waiting for
+    a case presenting a record containing more specific safeguards in line with the subsequent
+    Guidelines.
+
+           If this approach makes sense to you, we will continue our efforts to convince the
+    Secretary and the Solicitor General to agree to it.
+
+
+
+
+                                                                                                               /
+
+                                                                                                           /
+EMAILS RECEIVED
+ARMS - BOX 092 - FOLDER -008
+
+
+[03/31/1999]
+
+     ...
+..   RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+     CREATOR: Elisa Millsap ( CN=Elisa Millsap/OU=WHO/O=EOP [ WHO 1 )
+
+     CREATION DATE/TIME:31-MAR-1999 08:41:21.00
+
+     SUBJECT:   Boston
+
+     TO: Phillip Caplan ( CN=Phillip Caplan/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     TO: Karen Tramontano ( CN=Karen Tramontano/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     TO: Minyon Moore ( CN=Minyon Moore/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ:UNKNOWN
+
+     TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+     READ: UNKNOWN
+
+     TO: Douglas B. Sosnik ( CN=Douglas B. Sosnik/OU=WHOIO=EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     TO: Charles J. Payson ( CN=Charles J. Payson/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ:UNKNOWN
+
+     TO: Stacie Spector ( CN=Stacie Spector/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     TO: Craig Hughes ( CN=Craig Hughes/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     TO: Charles E. Kieffer ( CN=Charles E. Kieffer/OU=OMB/O=EOP @ EOP [ OMB 1 )
+     READ:UNKNOWN
+
+     TO: Ann F. Lewis ( CN=Ann F. Lewis/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ:UNKNOWN
+
+     TO: Loretta M. Ucelli ( CN=Loretta M. Ucelli/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ:UNKNOWN
+
+     TO: Jeffrey A. Forbes ( CN=Jeffrey A. Forbes/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     CC: Charles M. Brain ( CN=Charles M. Brain/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ:UNKNOWN
+
+     CC: Janet Murguia ( CN=Janet Murguia/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ:UNKNOWN
+
+     CC: Lisa M. Kountoupes ( CN=Lisa M. Kountoupes/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ:UNKNOWN
+
+     CC: Lawrence J. Stein ( CN=Lawrence J. Stein/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     TEXT:
+     Rep. Marty Meehan sponsored a bill, H.R. 193, that designates 29 mi·les of
+     the Assabet,
+     Concord, and Sudbury rivers in Massachusetts as components of the national
+
+
+wild and
+scenic rivers systems. The legislation arose from a grassroots movement
+started over a
+decade ago and hundreds of people have worked extremely hard to make this
+legislation happen.
+
+This is the very first piece of legislation that Meehan has passed, and he
+is hoping for a
+bill-signing ceremony.  If we can coordinate the timing on receiving the
+bill, what about
+signing this in Boston on April 16? Sen. Kennedy took the lead in the
+Senate and Reps. Olver,
+Neal, McGovern, Frank, Tierney, Markey, Moakley, and Delahunt are all
+cosponsors.
+..

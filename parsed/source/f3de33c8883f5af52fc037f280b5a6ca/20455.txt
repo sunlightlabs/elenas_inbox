@@ -1,0 +1,32 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Jonathan H. Schnur ( CN=Jonathan H. Schnur/OU=OPD/O=EOP [ OPD 1 )
+
+CREATION DATE/TIME:23-JUN-1998 16:12:42.00
+
+SUBJECT:   Block grant question
+
+TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+CC: Tanya E. Martin ( CN=Tanya E. Martin/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TEXT:
+The Administration's letter responding to Goodling's block grant proposal
+is going through final clearance this afternoon.  Tanya and I are handling
+it, but Elena, I wanted to see if you object to the letter saying the
+President's senior advisors would recommend a veto of the bill. Current
+language has Secretary Riley recommending the veto, but Education would
+like to make it a sr-advisors level veto instead.  The President has
+previously threatened to veto a similar block grant bill, so this is not
+breaking much new ground. Tanya and I are OK with this change, as is OMB
+and Congressional affairs. Do you object to this change? Do you need to
+know more about it?
+,",
+
+
+

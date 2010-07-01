@@ -1,0 +1,264 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Michele Cavataio ( CN=Michele Cavataio/OU=PIR/O=EOP [ PIR ] )
+
+CREATION DATE/TIME:12-DEC-1997 09:56:07.00
+
+SUBJECT:   memo
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD]   )
+READ: UNKNOWN
+
+TEXT:
+Here is a memo which contains some possible questions for our panelists;
+Thanks for your help.==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:    0 00:00:00.00
+
+TEXT:
+Unab1e to convert ARMS_EXT: [ATTACH.D15]MAIL48276354G.316 to ASCII,
+ The following is a HEX DUMP:
+
+FF5750436BOD0000010A02010000000205000000885D000000020000B664FEBE336CF4A5A3297E
+4F74E01D4917244F034229A7A63D3ED77A955357E77DA294930E674C46433BBF766BCA8B2D61A7
+2BF8D992A426B478667C7570ED349004691A7350470DBD7EECEA305A162A95FB3D973E3FE68B80
+90AFDB06F281856F45674E023C8E7B86DF2DB78F16EABD7606328505D6EE9EAE99D9ECC41BCFFF
+45CE8EB8CODB5C7EAB28EE8ACD9E8CF83DB96E754579F6C97FDC2157C5BEA9DF53C9CD84E072CD
+A6D5E8E6E732206BE565B6AFD3FCE729A45DA7CC97799BED8209515B72337572761E7C42E6AD8D
+BABE02421BC6F2D92B2889F54DD0414F2581D2C4A9D67A04A895AE62BD4E6A64556091AEOC341A
+B18A7776D9CB58CAE994AOD653DF5F718C1341D91C5F855FC93892AA70683689FCEFE94D9A8C91
+16147784EDE03CB17015CDD1612F57017BF138388339FABF92AAE4B3C54BC77954CBOE5CE97909
+850FF651C88699F7224666EDA69CF5928F5C322225E26E43D3F75A9770ABC78BF02AFA6F9E49F2
+ADC82EF58A7B90CFECD1DCODOD63343B12E1662771B3432A5E89CA65OB67501599BA2750A7F9D8
+46E830FC3DA4DFA3C07697F80823EOBA40CBB27870EC4D4EF0378F2BB09A788FOADDC8E7EBF25B
+AOFB5985D23C7D7CDD1790592358FOB9E415B6BF262A1C1EF942098076210152E9106A37336145
+OF8DC781E102008B00000000000000000000000823010000000B0100009A090000005553000000
+4EOOOOOOA50A000009250100000006000000F30AOOOOOB300300000028000000F90A0000081601
+00000032000000210B000008770100000040000000530B000008340100000014000000930BOOOO
+0802010000000FOOOOOOA70B000008050100000008000000B60BOO0000000000000000000000B6
+OB000006080100000022000000BEOBOOOOOB300100000044000000EOOBOOOOOOOOOOOOOOOOOOOO
+OOOOEOOBOOOOOOOOOOOOOOOOOOOOOOOOEOOBOOOOOOOOOOOOOOOOOOOOOOOOEOOBOOOOOOOOOOOOOO
+OOOOOOOOOOEOOBOOOOOOOOOOOOOOOOOOOOOOOOEOOBOOOOOOOOOOOOOOOOOOOOOOOOEOOBOOOOOOOO
+OOOOOOOOOOOOOOOOEOOBOOOOOOOOOOOOOOOOOOOOOOOOEOOBOOOOOOOOOOOOOOOOOOOOOOOOEOOBOO
+OOOOOOOOOOOOOOOOOOOOOOEOOBOOOOOOOOOOOOOOOOOOOOOOOOEOOB000000000000000000000000
+EOOBOOOOOOOOOOOOOOOOOOOOOOOOEOOBOOOOOOOOOOOOOOOOOOOOOOOOEOOBOOOOOOOOOOOOOOOOOO
+OOOOOOEOOBOOOOOOOOOOOOOOOOOOOOOOOOEOOBOOOOOOOOOOOOOOOOOOOOOOOOEOOBOOOOOOOOOOOO
+OOOOOOOOOOOOEOOBOOOOOOOOOOOOOOOOOOOOOOOOEOOBOOOOOOOOOOOOOOOOOOOOOOOOEOOBOOOOOO
+OOOOOOOOOOOOOOOOOOEOOBOOOOOOOOOOOOOOOOOOOOOOOOEOOBOOOOOOOOOOOOOOOOOOOOOOOOEOOB
+OOOOOOOOOOOOOOOOOOOOOOOOEOOBOOOOOOOOOOOOOOOOOOOOOOOOEOOBOOOOOOOOOOOOOOOOOOOOOO
+OOEOOBOOOOOOOOOOOOOOOOOOOOOOOOEOOBOOOOOOOOOOOOOOOOOOOOOOOOEOOBOOOOOOOOOOOOOOOO
+OOOOOOOOEOOBOOOOOOOOOOOOOOOOOOOOOOOOEOOBOOOOOOOOOOOOOOOOOOOOOOOOEOOBOOOOOOOOOO
+OOOOOOOOOOOOOOEOOBOOOOOOOOOOOOOOOOOOOOOOOOEOOBOOOOOOOOOOOOOOOOOOOOOOOOEOOBOOOO
+OOOOOOOOOOOOOOOOOOOOEOOBOOOOOOOOOOOOOOOOOOOOOOOOEOOBOOOOOOOOOOOOOOOOOOOOOOOOEO
+OBOOOOOOOOOOOOOOOOOOOOOOOOEOOBOOOOOOOOobOOooooOOOOOOOOEOOBOOOOOOOOOOOOOOOOOOOO
+OOOOEOOBOOOOOOOOOOOOOOOOOOOOOOOOEOOBOOOOOOOOOOOOOOOOOOOOOOOOEOOBOOOOOOOOOOOOOO
+OOOOOOOOOOEOOBOOOOOOOOOOOOOOOOOOOOOOOOEOOBOOOOOOOOOOOOOOOOOOOOOOOOEOOBOOOOOOOO
+OOOOOOOOOOOOOOOOEOOBOOOOOOOOOOOOOOOOOOOOOOOOEOOBOOOOOOOOOOOOOOOOOOOOOOOOEOOBOO
+OOOOOOOOOOOOOOOOOOOOOOEOOBOOOOOOOOOOOOOOOOOOOOOOOOEOOB000000000000000000000000
+EOOBOOOOOOOOOOOOOOOOOOOOOOOOEOOBOOOOOOOOOOOOOOOOOOOOOOOOEOOBOOOOOOOOOOOOOOOOOO
+OOOOOOEOOBOOOOOOOOOOOOOOOOOOOOOOOOEOOBOOOOOOOOOOOOOOOOOOOOOOOOEOOBOOOOOOOOOOOO
+OOOOOOOOOOOOEOOBOOOOOOOOOOOOOOOOOOOOOOOOEOOBOOOOOOOOOOOOOOOOOOOOOOOOEOOBOOOOOO
+OOOOOOOOOOOOOOOOOOEOOBOOOOOOOOOOOOOOOOOOOOOOOOEOOBOOOOOOOOOOOOOOOOOOOOOOOOEOOB
+                                                                              Hex-Dump Conversion
+                               ROUNDTABLE DISCUSSION #1
+                                Fairfax, A Microcosm of Change:
+        What can we learn from the growing diversify in the Fairfax County Public Schools?
+
+Goal:           Begin to follow up on the President's interest in Fairf~ County... Talk to people in one of
+                the most diverse school districts in the nation to help us learn about the road which led
+                them to where they are today and to help chart the nation's course toward One America.
+
+Format:         Moderated question and answer. Time for Q&A from the audience and Advisory Board.
+
+Moderator:      Local Faiifax TV personality or First Lady
+
+Participants:   Fatema Kohistani, Senior, Annandale High School
+                Parentfrom a Fairfax County public school
+                Chris Yi, Teacher, Holmes Middle School
+                Carol Franz, Principal, Bailey's Elementary School
+                Cindy Hook, Teacher, Annandale High School (Teacher who's been in school system for
+                30 years as both a student and teacher)
+
+Possible Questions:
+1. What did Fairfax County's citizens look like 30 years ago? Paint us a picture of how Fairfax
+   has changed and how Fairfax schools have changed? (Hook)
+
+2. How do you teach in an environment with 36 languages? What special skills does it require
+   and how were you prepared to manage the diverse classrooms like the ones you have at
+   Annandale High School? (Teacher Yi)
+
+3. Moving from the classroom level to the school level, how does a school deal with such a
+   diverse student body? What are some of the strategies you have had to put in place to ensure
+   success for all students? (Principal Franz)
+
+4. Ms. Franz highlighted parental involvement as a key strategy of success in her school, do you
+   think parental involvement is important? How has it improved the educational environment
+   for your children? (Parent)
+
+5. Ms. Franz, your school underwent dramatic demographic changes over the past two decades,
+   but not without a fight from many (mostly white) parents. You have a very deliberate policy
+   of mixing students of different abilities and backgrounds. How have you been able to
+   assuage the fears of parents that their children can learn in an environment where their
+   classmates are still learning English?
+
+6. What are the benefits ofliving, working and going to school in a place as diverse as
+   Fairfax? (to all)
+
+7. What is the social environment for students like at Annandale High School? Do students of
+   different groups interact or do they sit separately in the cafeteria?
+
+8. Ms. Franz, the schools districy spent $3 million in 1991 to improve Bailey's and tum it into a
+
+                                                    1
+                                                                           Hex·Dump Conversion
+
+   magnet school, are there lessons to learn from Bailey's that don't cost $3 million?
+
+9. Is diversity a benefit in and of itself or must a school have programs in place to capitalize on
+   this asset?
+
+
+
+
+                                      LUNCH ROUNDTABLES
+
+
+Goal:            To hear additional voices of students, parents and teachers from Annandale High School
+                 in a more intimate setting.
+
+Format:          Advisory Board members break up into groups of two and meet with Annandale High
+                 School students, parents, and teachers. Discussion is kicked off with viewing ofPSA.
+                 Open press.
+
+Possible Questions:
+
+             1. Do you think what the young people said in this PSA is true?
+
+             2. Has your experience in this school or in your community taught you that you're
+                "really not that different" as the PSA says?
+
+             3. Have you ever experienced racism?
+
+             4. Do students of different groups interact or do they stick to their groups? What do
+                students in this school think about interracial dating?
+
+             5. What would you like the President to know or do to improve race relations in
+                America?
+
+
+
+
+                                                  2
+                                                                                 Hex-Dump Conversion
+
+
+                                 ROUNDTABLE DISCUSSION #2
+             Experiences and Challenges Associated with Race in Public Education
+
+Goal:            To answer the question: is there equal opportunity in American schools?
+
+Format:          Moderated question and answer (no opening remarks from participants.) Time for
+                 question and answer from the audience and from the Advisory Board.
+
+Moderator:       Judy Winston
+
+Participants:    William J. Bennett, Director, Empower America, and Former Secretary, U.S. Department
+                 of Education
+                 James Comer, renowned education reformer and Professor of Child Psychiatry, Yale
+                 University
+                 Jonathan Kozol, Author, Savage Inequalities
+                 Waldemar ("Bill") Rojas, Superintendent, San Francisco Public Schools, and Chair,
+                 Council of Great City Schools
+
+Possible Questions:
+1. Why does race matter in education?
+
+2.   Is there equal opportunity in America's schools? Yes or no? If yes, what's the evidence? !fno,
+     what are the consequences of failure to provide equal opportunity?
+
+3.   Are there different resources available to minority children and white children? Paint us a
+     picture through your experiences.
+       · Are there differences between teachers who teach minority kids and teachers who teach
+          white kids?
+       · Are there differences in the courses they take?
+       · Are there differences in facilities and other resources such as computers?
+
+4.   Do resources matter for learning and for future success? Some school districts that spend the
+     most money per pupil still have the worst test scores so how can you say that resources matter?
+
+5.   Can school funding problems and inequitable resources be solved through vouchers which
+     give students an opportunity to select the school they attend? Can charter schools address
+     these issues?
+
+6.   At the President's town meeting recently, an African American student said that a guidance
+     counselor discouraged him from taking the toughest courses. Do we have different
+     expectations for our children based on race? Is this a more subtle form of racism?
+
+7.   Why do African American and Hispanic children continue to score below average in tests of reading
+     and math?
+
+8.   Why, despite closing the gap between black and white dropout rates,      are Latino and Native
+     American children continuing to drop out at alarming rates?
+
+
+
+                                                  3
+                                                                             Hex-Dump Conversion
+9.    This morning we were celebrating the diversity of Fairfax schools, yet many of our inner city
+      schools are increasingly racially isolated. Is this a problem?
+
+10. What are the benefits of diversity in schools? Should we do something about the increasing
+    self-segregation within our schools?
+
+                                     ROUNDTABLE DISCUSSION #3
+                                     Promising Practices and Strategies
+
+Goal:             To illuminate some promising approaches for addressing the various challenges that have been
+                  raised throughout the day
+
+Format:           Moderated question and answer (no opening remarks from participants.) Time for question
+                  and answer from the audience and from the Advisory Board.
+
+Moderator:        Judy Winston
+
+Participants:     Diana Lam, Superintendent, San Antonio Public Schools
+                  Robert Moses, The Algebra Project
+                  Deborah Meier, Principal, Mission Hill Charter School
+                  Gary Orfield, Professor of Education, Harvard University
+                  Conservative TBA
+
+Possible Questions:
+
+1. We have heard all day about the challenges our schools face ... how do we reduce disparities that
+   continue to exist among races?
+
+2. Dr. Moses, tell us about the Algebra project. What are the keys to its success?
+
+3. Why do expectations matter?
+
+4. Ms. Meier, you founded Central Park East Secondary School, a school with a track record of
+   success serving children of color, what does it take to make a school successful for all children?
+
+5. Across the country we see that children of color are disproportionately tracked into special
+   education and lower level courses. How does this happen? How do we ensure that we are
+   challenging all students?
+
+6. Does the way we teach children of color differ? Should it?
+
+7. In our earlier panel, we heard a Fairfax principal talk about the challenges ofteaching classes with
+   students of many different language backgrounds. Is bilingual education the right way to help
+   these children learn? Why or why not?
+
+8.   Some parents want to send their kids to neighborhood schools. Do we still need desegregation? Why is
+     segregation bad? Does it prevent us from serving the needs of all children?
+
+
+
+                                                   4
+                                                                           Hex-Dump Conversion
+    9. Can charter schools make a difference in serving the needs of all children?
+
+
+
+
+                                                   5
+.'

@@ -1,0 +1,43 @@
+RECORD TYPE: PRESIDENTIAL     (NOTES MAIL)
+
+CREATOR: Cathy R. Mays    ( CN=Cathy R. Mays/OU=OPD/O=EOP [ OPD 1 )
+
+CREATION DATE/TIME: 2-DEC-1998 14:28:31.00
+
+SUBJECT:   CRIME STRATEGY MEETING
+
+TO: Leanne A. Shimabukuro ( CN=Leanne A. Shimabukuro/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Amy Weiss   ( CN=Amy Weiss/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Charles A. Blanchard ( CN=Charles A. Blanchard/OU=ONDCP/O=EOP @ EOP [ ONDCP 1 )
+READ:UNKNOWN
+
+TO: Jose Cerda III ( CN=Jose Cerda III/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Michael Deich ( CN=Michael Deich/OU=OMB/O=EOP @ EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+CC: Jason H. Schechter ( CN=Jason H. Schechter/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+CC: Essence P. Washington ( CN=Essence P. Washington/OU=OPD/O=EOP@ EOP [ OPD 1 )
+READ:UNKNOWN
+
+CC: Patricia E., Romani   ( CN=Patricia E. Romani/OU=OMB/O=EOP @ EOP [ OMB 1 )
+READ: UNKNOWN
+
+TEXT:
+The Crime Strategy meeting scheduled for tomorrow, December 3, at 5:15
+p.m. is CANCELLED.
+
+

@@ -1,0 +1,204 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Mary L. Smith ( CN=Mary L. Smith/OU=OPD/O=EOP [ OPD 1
+
+CREATION DATE/TIME: 4-MAY-1998 14:53:12.00
+
+SUBJECT:   Administration position on Gorton amendment
+
+TO: Thomas L. Freedman ( CN=Thomas L. Freedman/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1
+READ: UNKNOWN
+
+TO: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD 1
+READ:UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TEXT:
+    Interior called me again so that they could follow up with Monyihan's
+office on our position on the Gorton amendment.   The agencies had prepared
+a q&a on the Gorton amendment, which ans~ers most of the questions.
+Attached is a copy.  The Administration has most recently taken a position
+against this type of legislation in DOJ hearing testimony on March 11,
+1998. Please let me know if Interior can get back to Monyihan's office.
+Thanks, Mary
+---------------------- Forwarded by Mary L. Smith/OPD/EOP on 05/04/98
+02:51 PM ---------------------------
+
+
+
+
+Mary L. Smith
+04/29/98 09:08:01 AM
+Record Type:    Record
+
+To:      Bruce N. Reed/OPD/EOP, Elena Kagan/OPD/EOP
+cc:      Cynthia A. Rice/OPD/EOP
+Subject:         Administration position on Gorton amendment
+
+Senator Monyihan's office has called the Department of Interior asking
+what the Administration's position is with respect to the Gorton
+amendment, which requires Indian tribes to collect state taxes on the sale
+of tobacco products to non Indians.    There doesn't seem to be any debate
+over our position-- the Department of Justice recently testified in March
+of this year that we don't favor this type of legislation because it
+interferes with tribal sovereignty.  Let me know if it is alright if
+Interior calls Monyihan's office back.
+
+
+
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+
+
+Unable to convert ARMS_EXT: [ATTACH.D80]MAIL40635632N.126 to ASCII,
+ The following is a HEX DUMP:
+
+FF5750434F040000010A02010000000205000000CD18000000020000942845AB60D40DE10E1828
+153750E82CCD3CDOF02C9E6827BDC0364F504C28825F07B9AAB7FC1710B14A52E0628FD4FF88A2
+138C782402CC9FD4CE3C653B8959735A2F09A1311C64C907B939A260475FD4279CE5189D73753C
+773D115481EB2854BFB5E3108DC79C9C5AB4410B55C6FB9D02170061E2A5A9930EAB8BC5185F82
+5BDCE04AB6DD7A91B595189EE303F174036F60BA3389076DA854D499AAF6E70B89AB177EA97B47
+CEAC5F03D5DDD513548F8466114E1BD71D12A887BF867DA7DD246493E5339FDE5A532447B0906F
+1731701513F3F8EB59046FF43A805B6FC996F8B5C0708F54DOC49F9AD4644EF46F8C8FEA9EEE74
+239A03BF3F242C8D2C462A68D4BEA07AF38F98C6197ECCEB9D4528FACEF18F3D1A82619D232377
+8EE4EA2FE851F23570EA697E5D20B99E8E51A811675CEF5E7B6BOO3362FD1A78BCCF07C907A06D
+3F08106BCE82C8BD8A6275FF44EA040383BOFE89BOBE8AB87AE221C98FB5FD6FECDOA1E7BAF15F
+CD32817E93CCF3E6BFOD541AEA676CBDEEC3420B9AE517B699817653280BDC9118139552B391A6
+6C7BB7BBA02BF697D35710635ED1D075E8EC1F08F2097E793B05ABC4D86E230DBDC98414E9958F
+F4D661AFA8A27067E19313D16841B9B52DFA24F6727962DE3487F6B7109566438BCB3DOAEED9C3
+76538C700302000A00000000000000000000000055010000002EOO00008C020000092501000000
+06000000BA02000008020100000010000000C0020000086E01000000ADOOOOOOD0020000080501
+000000080000007D0300000B300200000028000000850300000055010000004EOOOOOOAD030000
+0877010000004QOOOOOOFB030000083401000000140000003B0400003COOFE1536105807000001
+3900000060002815000010160043006F0075007200690065007200000000000000000001000100
+580208237C00780001020000440000000100AB003COOFE15361058070000013900000060002815
+000010160043006F00750072006900650072000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+0000000000005802F4017800FE1536105807000000041140C900B9603712FB0158024001000400
+020000000100000004002800000000000000000000000000000000000000011302002400A10000
+00A10000002800D61EC30F3908000011090000005AOOOB01008B143600540069006D0065007300
+20004E0065007700200052006F006D0061006E00200052006500670075006C0061007200000000
+00000000000A0000003B00010044003C00010002003D00010044003E00020065813F0001000200
+400001004400410001000200420001004400430001004400440002006700045992230000000048
+OD3419CC00280064000000DDOA10008301060003000200211000DDDDOBOB00030000040BOODDF1
+023EOOF19BF1033EOOF1F1004400F1F1023EOOF19CF1033EOOF1F1014400F1D41A1F0080010700
+0800580276F702005802000058020100580200001FOOD4F1024400F1D1033700800100001600C2
+04010000580206000058020000000000000064C800000000580200000058020000000000000064
+C8003700D1F1034400F1E0401200000000850E850E2000EC131200EOF20CF254484580474F5254
+4F4E80414D454E444D454E54F30CF388D0041500000B00090001BO040060000001201500DOCCF2
+OCF2513AE0300C0000000008070COOE05768617480646F65738074686580476F72746F6E80416D
+656E646D656E74809CF1023FOOF164F1033FOOF1F1004000F144F1014000F16F3FF30CF39BD004
+1F000015001300018806D80102000102080728230807282302201F00DOCCF20CF2413AE0300COO
+00000008070COOEOF30CF354686580476F72746F6E80416D656E646D656E74806D6F6469666965
+738053656374696F6E80363034806F6680746865804D634361696E8062696C6C80746F80726571
+7569726580496E6469616E80747269626573D0011500000B000900016008B003040001201500DO
+616E648074726962616C80636F72706F726174696F6E7380746F80636F6C6C6563748073746174
+65807461786573806F6E8073616C6573806F6680746F626163636F8070726F647563747380746F
+806E6F6E846D656D62657273CF6F6680746865807472696265806F7280636F72706F726174696F
+6E80616E64807468656E8072656D69748074686F736580746178657380746F8074686580666564
+6572616C80676F7665726E6D656E742C807768696368CF7468656E806D7573748072657475726E
+8074686F73658066756E647380746F80746865807374617465732ED0041700000DOOOB00020807
+28230807282302201700DOCCF20CF2513AE0300C0000000008070COOE043616E80746865807374
+61746573807461788073616C6573806F6680746F626163636F8070726F6475637473806F6E8049
+6E6469616E806C616E64733FF30CF3D0041F00001500130001000D500809000102080728230807
+282302201FOODOCCF20CF2413AF30CF3E0300C0000000008070COOE053696E6365807468658066
+6F726D6174696F6E806F668074686580556E696F6E2C8074686580556E69746564805374617465
+80686173807265636F676E697A656480496E6469616E80747269626573806173D0011500000BOO
+090001D80E280AOB0001201500D022646F6D657374696380646570656E64656E74806E6174696F
+6E7322807468617480657865726369736580676F7665726E6D656E74616C80617574686F726974
+79806F766572807468656972806D656D62657273CF616E64807468656972807465727269746F72
+792E808054686580436F6E737469747574696F6E80766573747380746865806665646572616C80
+676F7665726E6D656E74807769746880617574686F72697479806F766572CF72656C6174696F6E
+                                                 Hex-Dump Conversion
+
+                             THE GORTON AMENDMENT
+
+Q:   What does the Gorton Amendment do?
+
+A:   The Gorton Amendment modifies Section 604 of the McCain bill to require Indian tribes
+     and tribal corporations to collect state taxes on sales oftobacco products to non-members
+     of the tribe or corporation and then remit those taxes to the federal government, which
+     then must return those funds to the states.
+
+Q:   Can the states tax sales of tobacco products on Indian lands?
+
+A:   Since the formation of the Union, the United State has recognized Indian tribes as
+     "domestic dependent nations" that exercise governmental authority over their members
+     and their territory. The Constitution vests the federal government with authority over
+     relations with Indian tribes. Because Indian tribes and Indians are governed by tribal and
+     federal law, states have no authority to tax Indian tribes, Indians, or Indian property on
+     Indian lands in the absence of express congressional authorization. States may tax
+     non-Indians who buy pre-packaged goods that have been brought onto Indian lands for
+     resale, but may not tax sales to non-Indians when the value of the goods are generated on
+     the reservation.
+
+Q:   How does the Gorton Amendment interfere with tribal sovereignty?
+
+A:   Where Indians manufacture tobacco products on their own lands, state taxes on
+     reservation-generated tobacco products would normally be pre-empted under the tribal
+     self-determination doctrine; the Gorton Amendment interferes with this fundamental
+     principle. Even with respect to state taxes collected on sales of pre-packaged goods to
+     non-Indians, the Gorton Amendment violates traditional principles of comity and
+     federalism, which demand that state-tribal relations be developed based on dialogue and
+     cooperation between states and tribes. The Gorton Amendment, by imposing a federally
+     mandated tax collection scheme to replace the cooperative agreements currently used by
+     states and Indian tribes, violates these principles. Some of these state-tribal agreements
+     are authorized pursuant to state statute.
+
+Q:   Why is the Gorton Amendment burdensome?
+
+A:   The Gorton amendment establishes a complex scheme to address a problem that states
+     and Indian tribes have already resolved. Dual tribal and state taxation of prepackaged
+     goods sold to non-Indians is possible, but many states have agreed that it is not
+     preferable. To that end, eighteen states have entered into state-tribal tax agreement with
+     numerous Indian tribes. These agreements ensure that a single tax is imposed, provide a
+     stable tax framework, and ease tax administration significantly. There appear to be over
+     200 existing state-tribal tax agreements in these 18 states.
+
+
+                                              1
+                                                 Hex-Dump Conversion
+
+
+     By unilaterally requiring Indian tribes to collect the state taxes and also adding the federal
+     government as an intermediary, the Gorton Amendment enormously increases the burden
+     of collecting taxes, without any benefit to the states or the Indian tribes. Federal
+     accounting, oversight, and administrative costs will increase to implement this new
+     legislative scheme. However, nothing more than anecdotal evidence has been presented
+     to support this overreaching legislative mandate.
+
+Q:   Has the administration taken this position previously?
+
+A:   Yes, most recently before the Senate Committee on Indian Affairs in a hearing on tribal
+     sovereign immunity on March 11, 1998. In the administration's view, agreements are the
+     best mechanisms for mutually satisfactory resolution of tax collection issues between
+     states and tribes. Even if states and tribes are unable to reach agreement, however, states
+     may impose their taxes at the wholesale level to collect taxes on goods that are destined
+     for sale to non-Indians. Moreover, reliance on agreements preserves tribal governmental
+     authority and sovereignty.
+
+Q:   What should the McCain bill do about Indian tribes and state taxes?
+
+A:   As originally drafted, the McCain bill did not disturb the current system, which has
+     worked for both the tribes and the states. It permitted the states and the tribes to work
+     together to collect the state's revenues and to share revenues if they so desire. Moreover,
+     it vindicated the federal government's trust responsibility to Indian tribes and recognized
+     their status as domestic dependent nations.
+
+
+
+
+                                               2
+
+

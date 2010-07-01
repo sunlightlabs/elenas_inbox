@@ -1,0 +1,64 @@
+RECORD TYPE: PRESIDENTIAL       (NOTES MAIL)
+
+CREATOR: Christopher C. Jennings ( CN=Christopher C. Jennings/OU=OPD/O=EOP [ OPO                 1 )
+CREATION DATE/TIME:20-NOV-1998 19:27:32.00
+
+SUBJECT:    i just did it. Oh well, your call.
+
+TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD j )
+READ: UNKNOWN
+
+TEXT:
+Here you go.==================== ATTACHMENT            1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D21jMAIL479351521.326 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043B2040000010A02010000000205000000AAOF00000002000OAOC829F99D13A70F13F85B
+81C3ADB91C11F6337DB5DF5979C5E23204972F90C4A6CAEEFD2FDEE87D01F9D7A8C119E283AE02
+F087DE899A47CFC80BA77FBEA670D7874E1CE883C67A2AE92AC2B46098072655666EDEBD871F83
+9BCBB1343A686A22174B83695B2FB494600238C7D0294DF402E8B5FFAB726EBB7E4FCE16C1266B
+2C46B31870BEE64A5375B85C3C5AA6332AFDE2F50585813C37249AF995816B85BE5317461BDADD
+OB36E4FBC8A908D5FDE18C59B1BF99251183973EFAFAEE860DC37350733ADE6D7B22738E5FFC69
+C50CB9FC465D9AA3DBAOBAEE7313EC33963F24D79357AC9BB3AB8BE1C8F3D7560609D4FE286E2B
+5C8F6FF6F748A7BE8B4FEOF75DOCAB249FAA5738A8FF39FF48CE8530973FB74A5CAEAC52380CD9
+A8CD2698F78AA6AE2A582466C122F398B6AE49953C8BE912CFD1E22A9280D08370DD831DADF8E3
+5CA132D2E22506C22265D2FCBCB760B3D59C6B78956C57A815DB63F062FC251E61B23A6C31B7FC
+074 86EACO 9A 7116AC99F11A14 98FO 818AD6D1B6EO 7AOC5B5A8B3 OEEC9 0 063 9E,C5 8B7 8 7413BBD04
+014C806204AA212DDB5CDFC61AB60E093079F3E103F1F1461F5EAD5F84A5~557609368A8CC05CO
+18F112 8 77 97 0 OA 7 8F6E2 918 0 80F3 90F3F21064A41,18F6A63 4A68 9BAOC3162D9AB184 OAFB86 95AB
+
+
+
+
+    Massachusetts HMO Withdrawl Drug Benefit Update. Because Senator Kennedy,
+    Governor Cellucci, and the Department were unsuccessful at encouraging all participating
+    Medicare HMOs to offer a comprehensive drug benefit by this past Tuesday, the HMOs
+    chose to restructure and reduce their drug benefits to avoid adverse selection from the
+    sickest of beneficiaries. As a result, while they will still offer drug benefits, they will no
+    longer have comprehensive benefits that provide for open-ended coverage. Instead, they
+    will offer extremely limited benefits with maximum pay-out provisions of between $300 to
+    $800. The plans, particularly the one that ended up being the one hold-out to not joining
+    the others who were willing to provide comprehensive coverage IF all plans did, are taking
+    a public relations beating. However, for the short-term, they have obviously concluded
+    the financial risks of providing better drug benefits (particularly in an environment when
+    drug utilization trends are increasing at unprecedented levels) far outweigh any public
+    perception problems. In the meantime, Senator Kennedy's office still holds out hope that
+    they will be able to induce the companies to offer some additional wrap-around options to
+    their enrollees, perhaps grandfathering just those elderly beneficiaries who had become
+    dependent on the better benefits prior to this year's changes. We are providing Senator
+    Kennedy's office with technical assistance and they remain appreciative of our role on this
+    issue.
+
+
+
+
+                                                                Automated Records Management System
+                                                                Hex-Dump Conversion
+
+

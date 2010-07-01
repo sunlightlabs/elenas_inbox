@@ -1,0 +1,62 @@
+      RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+      CREATOR: Shannon Mason ( CN=Shannon Mason/OU=OPD/O=EOP [ OPD ) }
+
+      CREATION DATE/TIME: 6-MAY-1998 11:32:23.00
+
+      SUBJECT:   SIA mtg 5/6
+
+      TO: Thomas A. Kalil ( CN=Thomas A. Kalil/OU=OPD/O=EOP @ EOP [ OPD ) )
+      READ: UNKNOWN
+
+      TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ) }
+      READ: UNKNOWN
+
+      TO: Cecilia E. Rouse ( CN=Cecilia E. Rouse/OU=OPD/O=EOP @ EOP [ OPD ) }
+      READ:UNKNOWN
+
+      TO: Peter G. Jacoby ( CN=Peter G. Jacoby/OU=WHO/O=EOP @ EOP [ WHO ) }
+      READ: UNKNOWN
+
+      CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO.)   }
+      READ:UNKNOWN
+
+      CC: Sally Katzen ( CN=Sally Katzen/OU=OPD/O=EOP @ EOP [ OPD ) }
+      READ: UNKNOWN
+
+      TEXT:
+      Here is a list of people who will be attending the SIA meeting today at
+      3:00 in room 239.
+      FYI- Tom and Elena will not attend.
+      Thanks. =================.=== ATTACHMENT  1 ====================
+      ATT CREATION TIME/DATE:     0 00:00:00.00
+
+      TEXT:
+      Unable to convert ARMS_EXT: [ATTACH.D6)MAIL41045452J.126 to ASCII,
+       The following is a HEX DUMP:
+
+      FF5750435A040000010A020100000002050000009A090000000200009A703A3COA5DFA0784B656
+      89FFD7FF8CEE49FB7DOFEEDB8D1E71F1A1666F54C6A67992631C19BC04384A978372798D49417D
+                                                                         Hex-Dump Conversion
+
+                                       May 6,1998
+
+
+SIA Attendees
+
+Jenifer Eisen-Intel, Manager
+Coeta Chambers-Intel, Human Resources Attorney
+Ben Kittner- Tech Knowledge Communications, President
+Cathleen Barton- Sematech, Program Manager
+Daryl Hatano- SIA, Vice President
+John Boidacke- Texas Instruments, Vice President Government Relations
+Ann Craib-SIA, Director International Trade
+Jon Gibson- LSI Logic, Director Human Resources
+Steve Leven- Texas Instruments, Senior Vice President Human resources
+Liese Wright- Texas Instruments, Director of Government Relations
+Susan Sandberg- Sematech, Director of Human Resources
+Dan Larson- Texas Instruments, Director of Government Relations
+Diane Howey- Dewey Ballentine, Trade Specialist
+John Sinnott- IBM, Vice President -Micro Division
+
+

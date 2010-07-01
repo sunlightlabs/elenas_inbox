@@ -1,0 +1,201 @@
+RECORD TYPE: PRESIDENTIAL     (NOTES MAIL)
+
+CREATOR: Lisa M. Jones ( CN=Lisa M. Jones/OU=OMB/O=EOP [ OMB 1 )
+
+CREATION DATE/TIME: 9-FEB-1999 14:09:48.00
+
+SUBJECT:   Headsup Memo
+
+TO: Barbara Chow ( CN=Barbara Chow/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ:UNKNOWN
+
+TO: Janet L. Yellen ( CN=Janet L. Yellen/OU=CEA/O=EOP@EOP [ CEA 1 )
+READ: UNKNOWN
+
+TO: Barry J. Toiv ( CN=Barry J. Toiv/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Paul E. Begala ( CN=Paul E. Begala/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Minyon Moore ( CN=Minyon Moore/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Ann F. Lewis ( CN=Ann F. Lewis/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Ron Klain ( CN=Ron Klain/O=OVP@OVP [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Douglas B. Sosnik ( CN=Douglas B. Sosnik/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Mickey Ibarra ( CN=Mickey Ibarra/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Michael Waldman ( CN=Michael Waldman/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Gene B. Sperling      CN=Gene B. Sperling/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Mary E. Cahill     CN=Mary E. Cahill/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Sally Katzen ( CN=Sally Katzen/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Thurgood Marshall Jr ( CN=Thurgood Marshall Jr/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Lawrence J. Stein ( CN=Lawrence J. Stein/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Maria Echaveste ( CN=Maria Echaveste/OU=WHO/O=EOP@EOP [ WHO 1 )
+
+
+READ:UNKNOWN
+
+TEXT:
+The memo below was signed on February 9 by Sylvia Mathews and Don
+Arbuckle.
+
+MEMORANDUM FOR JOHN PODESTA
+
+THROUGH:                        Sylvia Mathews
+
+FROM:                   Don Arbuckle
+
+SUBJECT:                        SSA Substantial Gainful Activity Proposed
+Regulation
+
+
+        Later this week (Thursday or Friday), the Vice President is
+planning to announce an increase in the Social Security Administration's
+Substantial Gainful Activity (SGA) guidelines.  SGA guidelines indicate
+the amount a disabled individual can earn and still be eligible for
+Supplemental Security Income (SSI) or Disability Insurance (DI) benefits.
+SSA is planning to publish a proposed rule in time for the event, which
+would raise the SGA level from $500 to $700 per month.
+
+           The increased SGA level will be strongly favored by disability
+groups.     We do not anticipate any opposition.
+
+         There are several good reasons to increase the SGA level at this
+time.  The SGA level has not been updated since 1990.   The proposed
+increase will roughly account for the increase in wage growth since 1990.
+The increase in SGA is a way to encourage work among people with
+disabili ties.
+
+        SSA estimates that this change will affect 42,000 people and will
+cost $1.2 billion over five years (SSI, DI, Medicaid, and Medicare).  SSA
+is planning for the change to take effect June 1, 1999. The increase has
+been included in the President's Budget and will be paid for through
+increasing the number of eligibility redeterminations of recipients and
+through a change in the regulations.
+
+        OMB has been working with the DPC and NEC on this issue.     Please
+let us know if you have any questions or comments.
+
+cc:        Maria Echaveste
+           Doug Sosnik
+           Larry Stein
+           Ron Klain
+           Thurgood Marshall, Jr.
+           Ann Lewis
+           Sally Katzen
+           Minyon Moore
+           Mary Beth Cahill
+           Bruce Reed
+           Gene Sperling
+           Paul Begala
+           Elena Kagan
+           Barry Toiv
+           Michael Waldman
+           Janet Yellen
+           Mickey Ibarra
+
+
+        Barbara Chow
+
+
+==================== ATTACHMENT 1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D15]MAIL46842614S.036 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043E8040000010A020100000002050000001D100000000200009FFDE90BDE1B8D9C30FDC4
+OBBD89D3A3A7D4191C4EAFA51F4B46AD62B60ED09A50F601145F24953AC250E5AC99C27593DBF3
+CCE901D81DF2A36BF45D78FOEC67276E668D3BD7CA8912312E1D531288860341DFE7C9B7740871
+B5095A7D35AD6A724F988C3EE12C1F7598CE12CB1F5C89E92B5DD9552A275COCC5DD378C20C94A
+346D5401399A1D1F013E2727841BDC8C1D761AB10E14E267CA2305C9A45C7D16524FCDFD46F032
+      Hex-Dump Conversion
+                                              February 9, 1999
+
+
+
+
+MEMORANDUM FOR JOHN PODESTA
+
+THROUGH:                    Sylvia Mathews
+
+FROM:                       Don Arbuckle
+
+SUBJECT:                    SSA Substantial Gainful Activity Proposed Regulation
+
+
+        Later this week (Thursday or Friday), the Vice President is planning to announce an
+increase in the Social Security Administration's Substantial Gainful Activity (SGA) guidelines.
+SGA guidelines indicate the amount a disabled individual can earn and still be eligible for
+Supplemental Security Income (SSI) or .Disability Insurance (DI) benefits. SSA is planning to
+publish a proposed rule in time for the event, which would raise the SGA level from $500 to
+$700 per month.
+
+        The increased SGA level will be strongly favored by disability groups.       We do not
+anticipate any opposition.
+
+        There are several good reasons to increase the SOA level at this time. The SGA level
+has not been updated since 1990. The proposed increase will roughly account for the increase in
+wage growth since 1990. The increase in SGA is a way to encourage work among people with
+disabilities.
+         SSA estimates that this change will affect 42,000 people and will cost $1.2 billion over
+five years (SSI, DI, Medicaid, and Medicare). SSA is planning for the change to take effect June
+1, 1999. The increase has been included in the President's Budget and will be paid for through
+increasing the number of eligibility redeterminations of recipients and through a change in the
+regulations.
+
+       OMB has been working with the DPC and NEC on this issue. Please let us know if you
+have any questions or comments.
+
+cc:       Maria Echaveste
+          Doug Sosnik
+          Larry Stein
+          Ron Klain
+          Thurgood Marshall, Jr.
+          Ann Lewis
+                        Automated Records Management System
+                        I Iex-Dump Conversion
+     Sally Katzen
+     Minyon Moore
+
+
+     Mary Beth Cahill
+     Bruce Reed
+     Gene Sperling
+     Paul Begala
+     Elena Kagan
+     Barry Toiv
+     Michael Waldman
+     Janet Yellen
+     Mickey Ibarra
+     Barbara Chow
+
+

@@ -1,0 +1,360 @@
+RECORD TYPE: PRESIDENTIAL            (NOTES MAIL)
+
+CREATOR: Cecilia E. Rouse ( CN=Cecilia E. Rouse/OU=OPD/O=EOP [ OPD ] )
+       ,
+CREATION DATE/TIME:30-MAR-1998 19:53:52.00
+
+SUBJECT:     H-1B Memo
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Sally Katzen ( CN=Sally Katzen/OU=OPD/O=EOP @ EOP [ OPD ]                         )
+READ: UNKNOWN
+
+TO: Melissa G. Green ( CN=Melissa G. Green/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Thomas A. Kalil ( CN=Thomas A. Kalil/OU=OPD/O=EOP @ EOP [ OPD ]                           )
+READ: UNKNOWN
+
+TO: Brian A. Barreto .( CN=Brian A. Barreto/OU=OPD/O=EOP                     @   EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Julie A. Fernandes ( CN=Julie A. Fernandes/OU=OPD/O=EOP @ EOP [ OPD ]                             )
+READ: UNKNOWN
+
+TEXT:
+Here's the H-1B memo for tomorrow's meeting.
+
+-- Ceci==================== ATTACHMENT                  1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D81]MAIL48152788S.026 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043000D0000010A020100000002050000001E5700000002000094782B7C5A9042ABEF41F8
+709B9A40B0284E9B865E90F32B12C95F560565F14C8D3B3AD5D1246607A2COC69C743F19356F53
+807EC111222E39E806D5A76B8187200AD63D869ED8DCDB954F78E3A1B2E631204A481A3D21C947
+074616C44C68201468DBC73BCF4BAE541970EA9C69799A9E5DC5D48A2EEA3FC0521D13ED49408F
+51BDA5DBF507F20BOEC86FD3E5DDE01B2AE5D9951750204BA94E8188350C853F34332AB700F691
+9A8EF4D6E8AAC46B6BDA9005989BC1C45E6A975427FDBF86173C4555C709628BABFDDE77FDF18D
+C960EF88E953C1880BEAFEA71880F84AF379E7CC23478D69422291462B39B6A3AAFC536396F7F9
+6B3688733026CFABE41681182016170629ED00248C7A2309ABDDOOCO04D2E4F35772F332D267EC
+B2AC77AC814BC89DDD728A786D2092FD1FD273E1D613DA75C116CO829FC8BD38F96AA8B156CBD8
+BD52401F3D9C5D4749883E081B1BD4776C95CF919AD7E895933D3405FAC46987D998D11D545397
+80BACC5432F93287C42704C24F7E3C5A019D10241436EE9F1945A353FOCE7BB20127AF38DC22D3
+C616E20BE148EDOD8CDB81882A42A5C4CE1A6C5F25FBDD7B56794EC1F72981F6EA311D74D49D52
+51DF12E7BO 5 7 5EEDB4 9 7 EAE9D2 F9 8 5 6 0 5A911 0 F2ACC8 3 CFOC8 9 7 2 4 8 FIA 7 AFO F7E2 4 2 4.9D9C9EB3 3
+9C84C94D3B0200A100000000000000000000000823010000000B010000CEOA0000005501000000
+4EOOOOOOD90B000009250100000006000000270COOOOOB3002000000280000002DOC0000087701
+00000040000000550C000008340100000014000000950C00000802010000000FOOOOOOA90COOOO
+08050100000008000000B80COOOOOOOOOOOOOOOOOOOOOOOOB80COO0000000000000000000000B8
+OCOOOOOOOOOOOOOOOOOOOOOOOOB80COOOOOOOOOOOOOOOOOOOOOOOOB80COOOOOOOOOOOOOOOOOOOO
+0000B80COOOOOOOOOOOOOOOOOOOOOOOOB80COOOOOOOOOOOOOOOOOO000000B80COOOOOOOOOOOOOO
+0000000000B80COOOOOOOOOOOOOOOOOOOOOOOOB80COOOOOOOOOOOO000000000000B80COOOOOOOO
+0000000000000000B80COOOOOOOOOOOOOOOOOOOOOOOOB80COOOOOO000000000000000000B80COO
+0000000000000000000000B80COOOOOOOOOOOOOOOOOOOOOOOOB80C000000000000000000000000
+B80COOOOOOOOOOOOOOOOOOOOOOOOB80COOOOOOOOOOOOOOOOOOOOOO00B80COOOOOOOOOOOOOOOOOO
+000000B80COOOOOOOOOOOOOOOOOOOOOOOOB80COOOOOOOOOOOOOOOO00000000B80COOOOOOOOOOOO
+
+
+MEMORANDUM FOR DPCINEC PRlNCIP ALS                                           Automated Records Management Syste r
+                                                                                     Hex-Dump Conversion
+FROM:           ELENA KAGAN AND SALL Y KATZEN
+
+SUBJECT:        BACKGROUND ON H-IB VISA ISSUES
+
+          A number of industries -- and especially the information technology (IT) industry -- claim
+  that they are suffering from "skills shortages." Though the IT industry is the most vocal and
+  visible industry to claim a shortage, shortages have also been argued for truckers, welders in
+  shipyards, and other such occupations. A study by Virginia Tech (for the Information
+  Technology Association of America) claims that there are 350,000 job vacanCies in the
+  information technology industry nationwide; the Washington Post reported there are 19,000 such
+ jobs unfilled in Virginia. Several informed observers have questioned the severity of the
+  short-term "crisis," but there is little doubt that the demand for workers with IT skills is
+  increasing. Indeed, some of our federal agencies are reporting difficulties hiring IT workers (for
+. Y2K and other IT projects).
+
+        One way in which companies can alleviate such short-term skills shortages is through the
+H-IB visa program. The H-IB visa category allows foreign "speCialty workers" (those with a
+BA or equivalent) to work temporarily in the U.S. The visas are issued for a 3-year period, and
+almost always renewed for an additional three years. More than forty percent of those who enter
+the U.S. through the H-l B visa program end up in a permanent visa program. There is no way
+to determine how many overstay their visas, and thus remain to work illegally. The H-l B visa
+cap of 65,000 per year was reached for the first time last year. INS estimates that the cap will be
+reached by Mayor June of this year.
+
+        The top ten users ofH-IB visas are jobcontractors who employ foreign workers and who
+provide personnel to the high-tech industry. Nevertheless, INS estimates that only about.
+one-half of the applications submitted are for computer-related jobs; otheroccupations include
+physical and occupational therapists, academic researchers, and other occupations where there is
+not necessarily evidence of a skills shortage. Currently, there is only a nominal processing fee
+for each application and there is no requirement that the employer recruit U.S. workers or agree
+not to lay-off a U.S. worker prior to hiring a foreign worker for the same position.
+
+        In thinking about how to address the question of raising the H-18 cap to meet the
+ demands of the IT industry for more skilled workers, the Administration has developed three
+ guiding prinCiples:
+
+        ·       We must train American workers to meet the demands of our rapidly changing
+                economy;
+        ·       We must reform the H-IB visa program to protect American workers, by targeting
+                it to industries with genuine skill shortages; and
+                                                                 Hex-Dump Conversion
+                                                                                                   2
+
+       ·       We will consider temporarily raising the annual H -18 cap as part of a
+               comprehensive package that includes reform of the H-IB program and a
+               long-term solution to employer needs for skilled workers.
+
+
+Action Forcing Events
+
+         On March 6, Senator Abraham introduced a bill (S. 1723, "The American
+Competitiveness Act," co-sponsored by Hatch, McCain, DeWine, and Specter) that would
+permanently increase the annual H-I B cap. His bill also contains a scholarship program. This
+bill is scheduled for mark-up on Thursday, April 2.
+
+         On Friday, March 27, Senator Kennedy (along with Senator Feinstein) introduced a bill
+that would temporarily increase the H-IB cap to 90,000 (phased back to 65,000 after three years).
+ In addition, the Kennedy proposal includes (I) a loan program designed to address the need to
+increase high-tech skills of American workers and (2) reforms to the H-IB program that would
+target it to industries with genuine skill shortages .. At the tiine of Kennedy's announcement, we
+provided the White House Press Office with the attached Questions & Answers.
+
+Current Legislation
+
+        The three major components of the Abraham and Kennedy bills relate to the size and
+duration of the increase in the H-IB cap; reforms in the H-IB visa program; and education and
+training.
+
+Facts on the Abraham Bill (S. 1723)
+
+Increase in the Cap
+
+·      Permanently increases the annual cap on H-18 visas to about 100,000 in FY 1998 and
+       about 125,000 in FYI999 (taking into account the 10,000 visas under the new H-IC
+       category).
+·      Creates a new temporary visa category (H-I C) with a cap of 10,000 specifically for health
+       care professionals.
+
+Reforms to H- I B Program
+
+·      No reforms tothe H-IB program.
+
+Enforcement
+
+·      Increases the penalty for willful violations ofthe H-IB program, but eliminates penalties
+       for less than willful violations.
+                                                                 Hex-Dump Conversion
+
+                                                                                                 3
+
+·      Allows DOL to conduct random inspections of willful violators (for 5 years), but does not
+       appropriate additional money to do so.
+·      Weakens the current "prevailing wage determination," which requires that H-IB visa
+       holders be paid the higher of the prevailing or actual wage to similarly employed workers.
+        The bill stipulates that factors such as years of experience, academic degree, institution
+       attended, grade point average, publications, and personal traits deemed essential to job
+       performance be considered.
+
+Education/Training
+
+·      Authorizes $50M be added to the State Student Incentive Grant (SSIG) program to create
+       scholarships for low-income students majoring in mathematics, computer science, and
+       engineering.
+·      Authorizes $8M for the Secretary of Labor to create an Internet talent bank.
+
+
+Facts on the Kennedy Bill
+
+Increase in the Cap
+
+·      Increases the cap temporarily (to 90,000 for three years beginning in FY 1998, and back
+       to 65,000 in FY 2001 and thereafter).
+·      Offsets the increase in the H-IB program (over 65,000) with'decreases in the H~2B visa
+       program (for temporary unskilled, non-agricultural workers). The H-2A program has
+       never reached its cap.
+·      Caps the number of health care workers i.n the H-IB visa program at 5,000.
+
+Reforms to H-I B Program
+
+·      Requires that prior to obtaining an H-IB visa, employers must attest to having attempted
+       to recruit U.S. workers.
+·      Requires that prior to obtaining an H-IB visa, employers must attest to not having laid off
+       a U.S. worker within 6 months of having filed for the visa, and to commit to not doing so
+       for another 90 days.
+·      Reduces the maximum length of stay on an H-IB visa from 6 to 3 years.
+
+Enforcement
+
+·      Includes benefits and other non-wage compensation in the determination of the prevailing
+       wage.
+·      Provides additional enforcement power to the Secretary of Labor.
+
+Education/Training
+                                                              . Hex-Dump Conversion
+
+                                                                                                     4
+
+
+·      Establishes a loan program ($1 O,OOO/person) to enable individuals to obtain training
+       necessary for high-tech industries.
+·      Provides seed grants to assist in creating "Regional Skills Alliances" between employers,
+       labor organizations, state and local government, training institutions, etc. These
+       Alliances are designed to help industry organize the labor market to meet their needs by
+       increasing the skills required for employment in specific industries or occupations and/or
+       ·assessing and developing strategies for addressing critical skilt needs at broad geographic
+       levels.
+·      Levies a user fee of not more than $250 per application to administer the H -I B visa
+       program. This fee would also be used to fund the loan program and the Regional Skilts
+       Altiances, and would help fund enforcement activities associated with the program.
+
+        The differences between these two proposals are significant. First, while the Kennedy
+proposal provides a temporary increase of the H-I B cap to 90,000 in the first year (to be phased
+out after three years), Abraham proposes a permanent increase to 125,000 (after two years).
+Second, while the Kennedy proposal includes alt of the reforms to the H-lB program previously
+endorsed by the Administration (no lay-off provision; recruitment requirement; and reduction in
+maximum length of stay from six to three years), the Abraham bill does not contain any reforms
+of the H-lB visa program. In fact, the Abraham bill weakens the existing program by
+eliminating penalties for less than wiltful violations and by essentially repealing the prevailing
+wage determination requirement.
+
+Legislative Setting
+
+       Kennedy'S legislation is intended to offer a credible substitute to the Abraham bill.
+Kennedy will try to attract all Democrats on the Committee, along with Senators Kyl and
+Grassley. However, Feinstein, Kyl, and Grassley are reportedly discussing a possible
+compromise position between Abraham and Kennedy. Apparently, Kyl, Grassley, and Feinstein
+are opposed to a permanent increase in the H-I B visa cap (as reflected in Abraham's bill), but are
+also opposed to the H-IB reforms contained in Kennedy's proposal.
+
+       There are two schools of thought on the position of the IT industry -- (1) that the
+companies realty want an increase in the cap, and thus would be willing to cut a deal with
+Kennedy if the Abraham bilI stalls; or (2) that the companies want the increase, but not at the
+cost ofH-IB reforms and so will not deal with Kennedy, even if that risks a veto.
+
+        The AFL-CIO has indicated that it wilt not oppose a smalt, temporary increase in the cap
+as long as it is accompanied by increased training and education and reform of the H-I B
+program. At the same time, the AFL-CIO has made clear that it will not accept a legislative
+alternative that does not include H-IB reforms.
+
+Issues for Consideration
+                                                                 Hex-Dump Conversion
+
+                                                                                                      5
+
+
+ In addressing the H -1 B visa issue, the Administration must consider three issues: increasing the
+ number ofH-IB visas, training, and reforms to the H-IB visa program.
+
+ Increasing the Number ofH-IB Visas
+
+         The IT industry is pressing hard to increase the number ofH-IB visas. In contrast,
+ organized labor will accept an increase in the number of visas only if it is accompanied by
+ reforms to the H-IB visa program and education and training of American workers; even then,
+ labor is insisting that the increase be both small and temporary. We also need to consider
+ whether the additional visas can or should be targeted to the IT industry. Targeting of this kind
+ might be difficult because many IT positions are actually in non-IT industries, such as banking
+ and finance .
+
+. Training
+
+          Almost everyone agrees that an increase in the number of H-l B visas should be
+ accompanied by a substantial education and training effort. Both the Abraham and Kennedy
+ bills include attempts to encourage more Americans to obtain such training (particularly for jobs
+ in the IT industry). Currently, the Kennedy bill includes a $250 application fee for H-IB visas
+ that would fund a loan program and the creation of Regional Skills Alliances. Questions to
+ consider include: Is it appropriate to impose a fee to be used for training? Is the training
+ component in the Kennedy bill substantial enough to "compensate" (either alone or in
+ conjunction with the H-IB reforms) for the increase in the cap? Most importantly, will the $250
+ application fee generate additional funds for training or will there be an off-set in existing
+ training funds?
+
+         In addition, we might consider whether we should pursue a non-legislative training
+ strategy. The IT industry already does a considerable. amount of education and training (for
+ example, several companies have partnered with community colleges, or adopted an elementary
+ or secondary school to upgrade their science and technology equipment). Can, or should, we
+ make our willingness to sign any bill contingent on IT companies investing more in developing
+ long-term solutions to the growing demand for IT workers? Such efforts might include
+ expanding the current efforts of the IT industry, expanding the involvement of the IT industry in
+ "school-to-work" efforts, and/or encouraging underrepresented groups to pursue careers in
+ information technology. And, how can we leverage the training that organized labor is doing to
+ get results in this area?
+
+        Finally, we need to consider whether it is appropriate to impose more training obligations
+ on firms not in the IT industry. Ifnot, should the IT industry get an advantage in receiving H-IB
+ visas? If we should impose more training on non-IT firms, how do we accomplish it?
+
+ Reforms to the H-IB Visa Program
+                                                        Automated Records Management Systerr
+                                                                Hex-Dump Conversion
+                                                                                                       6
+
+
+           The crux of the negotiations with the IT industry over the Kennedy bill will be the H-lB
+   reforms. The Administration's position has been that these reforms are critical to our three-part
+   strategy. These reforms would protect U.S. workers while reducing the pressure on the H-IB
+   cap by ensuring that the visas be used only when there is a genuine labor shortage. Many view
+   the reforms as essential if the cap on the number of visas is raised.
+
+           The IT industry is very opposed to these reforms. It argues that a no lay-off provision
+   could disrupt normal, non-abusive hiring and firing decisions. And the industry objects to a
+   recruit-and-retain requirement because it will then be subject to the Labor Department's views on
+   what is, or is not, proper recruitment.
+
+          The three reforms currently contained in Kennedy's bill were sought by the
+   Administration in 1993. Should we continue our insistence on these reforms? Are there others
+   that we have not considered?
+                                                           f-lex-Dump Conversion
+                                                                                              7
+
+                     Question & Answer on Immigration: HIB visas
+                                   March 26,1998
+
+Q:   This morning Senators Kennedy and Feinstein held a press conference outlining a
+     proposal to increase the cap on teniporary visas for foreign workers (H-IB visas)_
+     Does the Administration support their proposal?
+
+A:   We are still reviewing the KennedylFeinstein proposal. We have heard a lot recently
+     about the shortage of trained workers in the information technology (IT) industry. We
+     believe that the first response to increasing the availability of IT workers must be
+     increasing the skills of American workers and helping the labor market work better so
+     there is a supply of skilled workers where there is a demand for skilled employees.
+     While it may be necessary in the short-term to increase the number of visas for temporary
+     foreign workers (under the H-IB program), this must be done only in conjunction with
+     additional efforts by the IT industry to increase the skill level of American workers and
+     with needed improvements in the H-IB program. Key components of that strategy are
+     our HOPE scholarships, the Lifetime Learning Tuition Credit, and the expansion of Pell
+     Grants. It is also critical that Congress pass the G.!. Bill for America's Workers this
+     spring.
+
+     Any temporary increase in the H-IB visa program should be limited to the minimum
+     amount necessary. Also, expanding the number of visas, even temporarily, must be
+     accompanied by needed improvements to the H -1 B program. Since 1993, this
+     Administration has sought reforms of the H-IB visa program, including requiring
+     employers to "recruit and retain" u.S. workers before hiring temporary foreign workers,
+     prohibiting lay-offs of U.S. workers to replace them with foreign temporary workers, and
+     reducing the maximum stay for H-IB workers from 6 to 3 years. These reforms, if
+     enacted, would help target H-l B usage to industries and employers that are exhibiting
+     genuine labor shortages.
+
+
+Q:   Does the Administration support Senator Abraham's bill, "The American
+     Competitiveness Act," that also increases the number of H-IB visas?
+
+A:   Regrettably the Abraham bill emphasizes providing opportunities for foreign workers
+     rather than providing for and protecting U.S. workers.· For example, the bill's increase in
+     the number of H-l B visas is permanent. Second, the bill does not require that employers
+     "recruit and retain" U.S. workers before hiring temporary foreign workers and it does not
+     prohibit employers from laying-off U.S. workers in order to replace them with foreign
+     temporary workers.
+EMAILS RECEIVED
+ARMS - BOX 026 - FOLDER -005
+
+
+[03/31/1998]
+
+

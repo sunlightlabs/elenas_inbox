@@ -1,0 +1,140 @@
+         RECORD TYPE: PRESIDENTIAL     (NOTES MAIL)
+
+         CREATOR: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP [ OPD ] )
+
+         CREATION DATE/TIME: 1-APR-1999 08:11:19.00
+
+         SUBJECT:   REVISED President's statement on MMWR
+
+         TO: Ingrid M. Schroeder ( CN=Ingrid M. Schroeder/OU=OMB/O=EOP @ EOP [ OMB ] )
+         READ: UNKNOWN
+
+         TO: Joshua Gotbaum ( CN=Joshua Gotbaum/OU=OMB/O=EOP @ EOP [ OMB ] )
+         READ: UNKNOWN
+
+         TO: Caroline R. Fredrickson ( CN=Caroline R. Fredrickson/OU=WHO/O=EOP @ EOP [ WHO ]
+         READ: UNKNOWN
+
+         TO: William H. White Jr.    ( CN=William H. White Jr./OU=WHO/O=EOP @ EOP [ WHO ] )
+         READ: UNKNOWN
+
+         TO: J. Eric Gould ( CN=J. Eric Gould/OU=OPD/O=EOP @ EOP [ OPD ] )
+         READ:UNKNOWN
+
+         TO: Jeanne Lambrew ( CN=Jeanne Lambrew/OU=OPD/O=EOP @ EOP [OPD ] )
+         READ: UNKNOWN
+
+         TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO ] )
+         READ: UNKNOWN
+
+         TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ] )
+         READ: UNKNOWN
+
+         TO: mpeO ( mpeO @ cdc.gov @ inet [ UNKNOWN]    )
+         READ: UNKNOWN
+
+         TO: bhall ( bhall @ os.dhhs.gov @ inet [ UNKNOWN]     )
+         READ: UNKNOWN
+
+         TO: Lisa Mendelson ( CN=Lisa Mendelson/OU=OMB/O=EOP @ EOP [ OMB ] )
+         READ: UNKNOWN
+
+         TO: Lisa M. Kountoupes ( CN=Lisa M. Kountoupes/OU=WHO/O=EOP @ EOP [ WHO ] )
+         READ: UNKNOWN
+
+         TO: FOLEY_M ( FOLEY_M @ A1 @ CD @ LNGTWY [ UNKNOWN ] )    (WHO)
+         READ: UNKNOWN
+
+         TO: Fred DuVal ( CN=Fred DuVal/OU=WHO/O=EOP @ EOP [ WHO ] )
+         READ: UNKNOWN
+
+         TO: Devorah R. Adler ( CN=Devorah R. Adler/OU=OPD/O=EOP @ EOP [ OPD ] )
+         READ:UNKNOWN
+
+         TO: Christopher C. Jennings ( CN=Christopher C. Jennings/OU=OPD/O=EOP @ EOP [ OPD ]
+         READ: UNKNOWN
+
+         TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD·]       )
+         READ: UNKNOWN
+
+         TO: eamO ( eamO @ cdc.gov @ inet [ UNKNOWN]     )
+
+
+READ:UNKNOWN
+
+TO: johara ( johara @ osophs.dhhs.gov @ inet [ UNKNOWN]    )
+READ: UNKNOWN
+
+TO: zoa2 ( zoa2 @ cdc.gov @ inet [ UNKNOWN]     )
+READ: UNKNOWN
+
+CC: Jason H. Schechter ( CN=Jason H. Schechter/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+TEXT:
+The 4th sentence in the attached statement has been revised slightly to
+say "without such a commitment" rather than "without such legislation".
+Cut and paste version is below.
+
+
+
+ THE WHITE HOUSE
+Office of the Press Secretary
+
+Embargoed until 4:00pm Thursday April 1, 1999
+
+
+STATEMENT BY THE PRESIDENT
+
+        Today, the Centers for Disease Control and Prevention is
+publishing promising new results from the youth anti-smoking program
+launched by the late Florida Governor Lawton Chiles.  The study shows that
+in just one year, smoking has declined by 19 percent among middle school
+students and by 8 percent among high schoolers.  These results show why
+every state should have a comprehensive program to reduce youth smoking
+and why I oppose any legislation waiving the federal governmentD,s claim
+to tobacco settlement funds without making a commitment from the states to
+fund such efforts. without such a commitment, states wonD,t have to spend
+a single penny of the $246 billion settlement to reduce youth smoking. We
+must act now: every day, 3000 children become regular smokers and 1000
+will have their lives cut short as a result.
+
+###
+
+
+=:===:==:=========== ATTACHMENT   1 ============:=======
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D50]MAIL48467530S.136 to ASCII,
+ The following is a HEX DUMP:
+
+FF5750439C040000010A02010000000205000000D30A000000020000475B07C8118470BC7B725A
+0061AE32491A8938459AA26552D2BDD121870AC9E89F5AB407030713BEE20D3E70423DFDD686D2
+8A1AC618F669E423627BEE43A126BD5C12395DEABD3E8A25DD362EAD4293AA7EEAF57A54D16966
+D6A02F82D4EC5E1A40CA470313BF5173F95ACCB50C6FCCF8D62FE9AF87CE68BOB76702153BB5DO
+                                                                     /;ulomalccl Records Management System
+                                                                     Hex-Dump Conversion
+                                            THE WHITE HOUSE
+
+                                         Office of the Press Secretary
+
+         _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _Embargoed until
+         4:00pm Thursday April 1, 1999
+
+
+                                   STATEMENT BY THE PRESIDENT
+
+                 Today, the Centers for Disease Control and Prevention is publishing promising new
+         results from the youth anti-smoking program launched by the late Florida Governor
+         Lawton Chiles; The study shows that in just one year, smoking has declined by 19 percent
+         among middle school students and by 8 percent among high schoolers. These results show
+         why every state should have a comprehensive program to reduce youth smoking and why I
+         oppose any legislation waiving the federal government's claim to tobacco settlement funds
+         without making a commitment from the states to fund such efforts. Without such a
+         commitment, states won't have to spend a single penny of the $246 billion settlement to
+         reduce youth smoking. We must act now: every day, 3000 children become regular
+         smokers and 1000 will have their lives cut short as a result.
+
+                                                     ###
+.

@@ -1,0 +1,29 @@
+RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+CREATOR: Barry J. Toiv ( CN=Barry J. Toiv/OU=WHO/O=EOP [ WHO 1 )
+
+CREATION DATE/TIME:30-APR-1999 11:42:23.00
+
+SUBJECT:   ABC
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Ann F. Lewis ( CN=Ann F. Lewis/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Jennifer M. Palmieri ( CN=Jennifer M. Palmieri/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Loretta M. Ucelli   ( CN=Loretta M. Ucelli/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TEXT:
+ABC is looking for Hollywood types friendly to us, who will work with us,
+whatever, to interview today or on the weekend on this issue.  Anybody
+we'd like to recommend?
+
+

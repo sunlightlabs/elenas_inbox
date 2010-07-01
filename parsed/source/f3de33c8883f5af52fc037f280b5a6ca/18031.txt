@@ -1,0 +1,185 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Diana Fortuna ( CN=Diana Fortuna/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME: 5-DEC-1997 19:29:51.00
+
+SUBJECT:   New version of children's SSI memo for you to review
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+TEXT:
+Here is a revised children's SSI memo incorporating Ken Apfel's comments.
+(Sylvia asked me to run it by him.)
+
+Sylvia asked that it be completed by 2pm on Saturday.  I will come in in
+the late morning, but feel free to page me with questions or whatever.
+Not clear who it will be from -- her assistant Nelson Reyneri suggested
+that it come via Sylvia from some combination of me, you, and him.
+
+The other issue is OMB.  They have OK'd it for accuracy at the staff
+level, but I suspect Jack will feel left out of the loop since he hasn't
+commented on it yet and his name isn't on it.  It is on its way to him, so
+perhaps he will have comments tonight or tomorrow. Also, I hear Barry
+White feels the memo is premature, since the details of SSA's report are
+not yet final and the presentation still needs work.   But Sylvia wanted
+to get it in this weekend because he is more likely to read it at that
+time.
+
+
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D36]MAIL46670783C.316 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504370040000010A0201000000020500000060280000000200001FB6202A14A745D07AA415
+1F9F4E2DDBF796DE16BCD01679066606F633439A4545ACCEE5B33BDOFDFF213C91B20682F2F740
+49874F1E76D01557BFEA267D637855B030F86F8EC9A210CCCl16CAB6D0893DF8B2025281FEOC70
+89224FC40D20EE9B3F024A8450A5110783B975C3833C6865E933B50623F5651FD731F188FADBA1
+41020E278DAD57741ED432075C6FADOABAA06C23FCA3E412113B9869C20592149CF02E1AF35E9E
+7EA1B1C3F716E80126F12C45CA6B6A05E485D4EBC278C24C57E6A5B8E8C5C793B305EEEF26037B
+245E1B884DBCF6BEB522E1AC10D1951E62B08305C2D6F31C30A4E1984526C28B5175AB03A178E3
+44D7419EA4E95E3013F6B70FB3417C81088COF7773758250EF9EB12B53D5A7CDF82D5E63F1DE3A
+F21A2248661A9C21D63DC6BFCAEBA5851E7D9D83A99E41EEDOF8E7ED5DA2F5DAE23D7CCBCOD84A
+9B3C794070A8DF2BBFF8D6B3E043CDF7D5DFD17F8AFOB3BEDB01F45FOA2971ECD3B5AC4569379F
+981401CD6FFBBB99E339319ADE245760AD54143924F71A9B87236B1F8E2E038E9C484BBB9564D1
+8C262FA2BA3E21E1CFE7E729AB996556E9D048B489F144C5D9B1C09A179183D62E9DAOD3E9D9C6
+3135432CF578B4E47D770C6C6DA32F494EA5FB19D2BDCEBBA549931850167DA27C24ACEB36EBDO
+1B3BOEFA8E02000900000000000000000000000823010000000B0100007E020000005501000000
+4E0000008903000009250100000006000000D70300000B300200000028000000DD030000087701
+000000400000000504000008340100000014000000450400000802010000000F00000059040000
+080501000000080000006804000000984C006F00630061006C002000430061006E006F006E0020
+004C00420050002D00340000000000000000000000000000000000000000000000000000000000
+00000000000000000000000057494E53504F4F4COOOOOOOOOOE0019001C80090019001C800E001
+900130000000000000000000000000000000000000000000000000000000000000000000000000
+                                                                       Hex·Dump Conv.:::sion
+MEMORANDUM
+
+FROM:
+
+SUBJECT:       S~A   Report on Implementation of Children's SSI Cutoffs
+
+DATE: December 5, 1997
+
+As you know, the welfare law tightened the definition of childhood disability for SSI, and
+required the Social Security Administration to redetermine the eligibility of approximately
+288,000 children (out of one million children now on the rolls). Advocates charge that SSA has
+done a poor job on these reevaluations, causing eligible children to be dropped from the rolls.
+At his confirmation hearing, Commissioner Ken Apfel promised a "top to bottom" review of
+SSA's process. This memo summarizes that report, which is nearing completion and will be
+released in about a week.
+
+Overall, the report concludes that SSA did a relatively good job of redetermining eligibility for
+these children. However, the report identified three areas of concern (described further in an
+attachment), along with actions to address them.
+
+While SSA has not made all of its final decisions, the agency expects that as a result of this
+report it will review the cases of approximately 50,000 children terminated from the program, out
+of a total of 136,000 terminations to date. All children terminated who were coded as having
+mental retardation will have their cases reviewed. SSA is also planning to review all
+terminations in the ten states with the lowest accuracy rates (D.C., Mississippi, Oregon,
+Pennsylvania, Idaho, Maryland, North Carolina, Washington, Tennessee, and California).
+Finally, SSA will offer all 75,000 families who did not appeal SSA's termination decision a new
+opportunity to do so.
+
+The report will include a lower projection of the number of children who will ultimately lose SSI
+after all appeals are completed -- about 100,000 children, compared to SSA's original projection
+of 135,000. This drop of35,000 is caused by a reestimate of the baseline and SSA's actions to
+date (25,000 cases) and the new actions announced in this report (10,000 cases). At the time the
+welfare law was enacted, the estimate was that 180,000 children would lose SS!.
+
+With the report, SSA also plans to release case studies of a random sample of 150 children who
+have lost benefits. This document is intended to explain to the public what types of children are
+no longer eligible. Most of the children have mental disabilities other than mental retardation,
+including learning disabilities and ADHD. Over a third have improved since they were first
+found eligible. The majority are teenagers; only a handful are age six or younger.
+
+Advocates will probably have a mixed reaction -~ generally pleased about the implementation
+actions, but still arguing that SSA's regulation interpreting the statute is needlessly strict. The
+report does not address the latter issue. The Republican leadership in Congress has been
+see it as bending over backwards to restore benefits.
+
+
+
+
+                                                                   Automated ReCords Management System
+                                                                           Hex-Dump Conversion
+
+I. Mental Retardation
+Advocates' Charge: Too many children with mental retardation were cut from the rolls.
+
+SSA Finding: Of the 136,000 children terminated to date, 42,000 were "coded" as mentally
+retarded (MR). However, most of these children do not actually have MR, because until recently
+SSA's systems did not have all the necessary codes. Instead, most of these children have other
+mental disorders, such as learning disabilities and or "borderline intellectual functioning" (which
+falls short of full-fledged MR). However, some unknown subset of the 42,000 do have MR, but
+either their impairments are not severe enough to qualify them for SSI, or they were denied
+incorrectly.
+
+Even with these terminations, approximately 350,000 children with MR will remain on the rolls,
+out of the total of one million children on SSI.
+
+SSA Action: SSA will review all cases terminated that were coded as MR, to ensure that all
+those decisions were made properly.
+
+II. State Variations in Cutoffs
+Advocates' Charge: Errors in cutoffs appear likely, since termination rates varied widely by
+state, from 32% in Nevada to 82% in Mississippi. Also, SSA may not have acquired all
+documentation, such as school records, needed to judge a child's disability. Finally, some states
+were disqualifying too many families for failure to cooperate without making adequate efforts to
+reach them.
+
+SSA Findings: SSA data show that on average 93% of termination decisions were both
+accurate and complete in terms of including all required documentation. This exceeds SSA's
+required level of state performance for SSI. However, 10 states had accuracy/completion rates
+below 90%. Another 9 states had accuracy/completion rates below the national average.
+(SSA's experience is that about one-third of the errors identified in these measures will
+ultimately prove to be accurate decisions that simply lacked documentation.) SSA found that
+many inaccurate decisions stem from an overly strict interpretation of the new rules for children
+who exhibit maladaptive behavior.                                              '
+
+Claims that SSA did not acquire all needed documentation were determined to be mostly
+unfounded. However, SSA found wide state variations in the percentage of children cut off
+because their families did not cooperate with the redetermination. In the four states with the
+highest rates of cutoffs due to failure to cooperate, 68% of the cases did not include
+documentation that all required efforts to contact the family had been made.
+                                                                             f/ex'Dump C~nn,~~:'!1ent System
+                                                                                            '~.~IO"
+                                               -2-
+
+SSA then perfonned a regression analysis to detennine whether wide state to state variations in
+overall tennination rates should be expected because oflegitimate factors, such as the child's age
+and impainnent and whether the child was initially added to the rolls based on the less strict
+criteria eliminated by the welfare law. SSA found that these factors would lead you to expect
+the cutoff rate to vary from 40% in Idaho to 78% in Mississippi. While this regression analysis
+does not fully explain the actual state-by-state variance, it does convince SSA that most of the
+variance among states is due not to errors, but to characteristics of the children.
+
+SSA Action: In the ten states with the lowest accuracy rates, SSA will review all cases
+tenninated. In states with below average accuracy rates, SSA will review a sample of cases to
+see if additional reviews are needed. SSA will also provide more training on maladaptive
+behavior. In states with above average rates of cutoffs due to failure to cooperate, SSA will
+review all cases tenninated.
+
+III. Appeal Rights
+Advocates' Charge: Too few families are appealing because SSA's notice to families was
+confusing, and workers discouraged appeals. Also, SSA discouraged families from requesting
+that benefits be continued during the appeal, and didn't do enough to publicize free legal
+services.
+
+SSA Finding: SSA found that its workers did not discourage appeals, although this mayhave
+occurred in isolated instances. At the same time, a poll conducted by SSA confinns that many
+families did not understand their appeal rights.
+
+SSA Action: All 75,000 families of children who were tenninated and did not appeal will be
+given a new opportunity to do so. All 30,000 families of children who appealed but did not
+request continuation of benefits during the appeal will also be given a new opportunity to make
+that request. SSA will also publicize the availability of free legal services for families.
+
+

@@ -1,0 +1,58 @@
+RECORD TYPE: PRESIDENTIAL      (ALL-IN-1 MAIL)
+
+CREATOR: Jennifer L. Klein ( KLEIN_J         (OPD)
+
+CREATION DATE/TIME: 9-MAY-1996 14:48:52.27
+
+SUBJECT: FYI
+
+TO: Elena Kagan                                  KAGAN E )   (WHO)
+READ: 9-MAY-1996 15:01:41.44
+
+TEXT:
+
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE: 9-MAY-1996 15:43:00.00
+
+ATT BODY PART TYPE:E
+
+ATT CREATOR: Timothy. Westmoreland
+
+ATT SUBJECT: Re: Good morning -Reply
+
+ATT TO: KLEIN_J                                      KLEIN J@A1@CD
+
+TEXT:
+STOP. My friend tells me that health insurers do
+NOT individually underwrite people on the basis of
+smoking. Life insurers do, but not (he says) hea·lth
+insurers.  (He also points out, ironically, that
+tobacco manufacturers own life insurance
+companies that have made this decision on an
+actuarial basis.) .
+
+But block that analogy.      It sounded good, but is
+apparently not correct.
+
+TMW
+==================     END ATTACHMENT   1   ==================
+==================== ATTACHMENT   2 ====================
+ATT CREATION TIME/DATE: 9-MAY-1996 14:43:00.00
+
+ATT BODYPART TYPE:D
+
+TEXT:
+RFC-822-headers:
+Received: from storm.eop.gov (storm.eop.gov)
+ by PMDF.EOP.GOV (PMDF V5.0-4 #6879) id <01I4I7H36FWGOOOH98@PMDF.EOP.GOV> for
+ KLEIN_J@a1.eop.gov; Thu, 09 May 1996 14:40:49 -0400 (EDT)
+Received: from WPGATE.LAW3.GEORGETOWN.EDU by STORM.EOP.GOV (PMDF V5.0-6 #6879)
+ id <011417H624JS004WG1@STORM.EOP.GOV> for KLEIN_J@a1.eop.gov; Thu,
+ 09 May 1996 14:40:53 -0700 (MST)
+Received: from LAWCAMPUS-Message_Server by WPGATE.LAW3.GEORGETOWN.EDU with
+ Novell_GroupWise; Thu, 09 May 1996 14:39:21 -0500
+X-Mailer: Novell GroupWise 4.1
+Content-disposition: inline
+================== END ATTACHMENT   2 ==================
+
+

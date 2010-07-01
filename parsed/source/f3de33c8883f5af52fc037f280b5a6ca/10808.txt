@@ -1,0 +1,26 @@
+RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+CREATOR: Sean P. Maloney ( CN=Sean P. Maloney/OU=WHO/O=EOP [ WHO 1 )
+
+CREATION DATE/TIME:20-JAN-1999 14:04:44.00
+
+SUBJECT:   education event
+
+TO: Michael Cohen    CN=Michael Cohen/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN                                              /
+
+
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1
+READ: UNKNOWN
+
+CC: Karin Kullman ( CN=Karin Kullman/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP   [ WHO 1 )
+READ:UNKNOWN
+
+TEXT:
+I know there's a scheduling meeting at 5:00 for tomorrow's education event
+      but can we please have the President's briefing by 6:00-6:30 p.m.?
+Thanks.

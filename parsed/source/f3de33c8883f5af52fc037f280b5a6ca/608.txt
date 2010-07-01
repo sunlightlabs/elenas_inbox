@@ -1,0 +1,144 @@
+ RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+ CREATOR: Leanne A. Shimabukuro ( CN=Leanne A. Shimabukuro/OU=OPD/O=EOP [ OPD ] )
+
+ CREATION DATE/TIME:24-JAN-1997 15:22:31.00
+
+ SUBJECT:   Senate Republian omnibus crime bill
+
+
+ TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ] )
+ READ:UNKNOWN
+
+ TO: Peter G. Jacoby ( CN=Peter G. Jacoby/OU=WHO/O=EOP @ EOP [ WHO]    )
+ READ:UNKNOWN
+
+ TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+ READ: UNKNOWN
+
+ TO: Christa Robinson ( CN=Christa Robinson/OU=WHO/O=EOP @ EOP [ WHO]      )
+ READ:UNKNOWN
+
+ TO: Michelle Crisci ( CN=Michelle Crisci/OU=WHO/O=EOP @ EOP [ WHO]    )
+ READ: UNKNOWN
+
+ CC: BURKE_D ( BURKE D @ Al @ CD @ LNGTWY [ EOP ] )   (OPD)
+ READ: UNKNOWN
+
+ TEXT:
+ Attached is a brief description of the Senate Republican omnibus crime
+ bill introduced earlier this week.  The omnibus bill appears to be a
+ collection of separate bills pulled together into one package.  For
+ example, the youth crime title was also introduced as a stand alone bill
+ (S. 10). The gang subtitle is the Hatch-Feinstein gang bill.
+
+ Let me know if you have any questions.  Thanks.==================== ATTACHMENT       1
+ ATT CREATION TIME/DATE:   0 00:00:00.00
+
+ TEXT:
+ Unable to convert ARMS_EXT: [ATTACH.D87]MAIL48996532S.016 to ASCII,
+  The following is a HEX DUMP:
+
+ FF57504332060000010A0201000000020500000073230000000200007860C3BE9E780895286551
+ 3BID9C7F9522A824B7FC003171A2998D642099A2E36BAD400CA53583001DF7A65872FE9EBC9386
+ F6F7418833FBDA5CDE126AB9CIC89F658321DE43B71E2869DICBCOED6C95EIFD8582C885664A65
+ BB854DOC0986DC3FE80C278AEIA917987DABCD5C888~2EFIEEAEDF9457DAE79043802E65DC18FC
+ D13E95C40E4FF73DEBC071B858371C9489E88AAC28783F5A926B49F1781BFDFAD7816E07CA7336
+ OFD95BD659183963C89AIB2A6E2F8E06D79E5B9369A4AB64727109000280038F518CA1439A4BFF
+ 2DCODF480ADD916562A8589CAA59DF59854CBD98F3539AOF099B8DFA347A66CIEBBOECF8C8AB02
+ OFA2252F37367B30FD2160EC39B848784CIF39BA52C39ACA8COFA76C337FE03E9B262026E913D3
+ 4EC4D50EIBB379AA3310DCA542AFAFDOCB5CF6FA6BlAA969BB361CECE055857D76F86188D7DEB5
+ 7F53E322B9F23EOC9D50226E80232D8CC8DC2E8527BE4A14724F8AFD2095E47C2E77CA09CC7E50
+ 7C384BF9B3AD8971FE62F121FC8E30448249E369EDE34FDA775EDE2A730007D35952A686CC5613
+ lA432D3D19094B7DE9CA34B7E031B75DA34FAC5B9D19A06EIBOClA9C2080088651273DB40DF4DB
+ 6ACBC298E8A17EEEBFFDF0320274E037194AE91D658FD071B47F6287C041147C6AC76E8BBACFA5
+ 4789AF960902002000000000000000000000000823010000000BOI0000C0030000005503000000
+ 4EOOOOOOCB04000009250100000006000000190500000B3002000000280000001F050000081601
+ 0000003200000047050000087701000000400000007905000008340100000014000000B9050000
+ 0802010000000FOOOOOOCD05000008050100000008000000DC0500OOOOOOOOOOOOOOOOOOOOOODC
+ 05000000000000000000000000DC05000000000000000000000000DC0500000000000000000000
+ 0000DC05000000000000000000000000DC05000000000000000000000000DC0500000000000000
+                                                                  Hex-Dump Conversion
+
+
+                    S. 3: The Omnibus Crime Control Act of 1997
+
+Transfer of Alien Prisoners: Requires renegotiation of treaties so consent of alien to be
+transferred back to country of origin is not necessary. Requires withholding of foreign aid and
+visas for countries that refuse to accept their nationals or sufficiently incarcerate them.
+
+Exclusionary Rule Reform: Evidence obtained by "objectively reasonable" search or seizure
+shall not be excluded under the fourth amendment in federal court cases.
+
+Violent Crime, Drugs and Terrorism
+·      Criminal Penalties and Procedures: Provides special protection for Olympic Games.
+       Mandatory minimum penalties for crimes committed with explosives. Criminal
+       forfeiture for chemical weapons violations.
+·      International Terrorism: Revision to State Department Rewards Program for informants
+       on international terrorism and drug trafficking cases.
+·      Commission and Studies: Establishment of National Commission on Terrorism.
+
+Community Protections
+·   Law Enforcement Assistance: Exemption for current and former police from state laws
+    prohibiting carrying concealed firearms.
+·   Citizens' Assistance: Authorizes states to enter into compacts to enable individuals to
+    carry concealed weapons. Permits federal grant $ to be used for firearms training and
+    education to the public.
+
+Criminal Procedure Improvements
+·     Equal Protection for Victims: Amends federal rules of criminal procedure and evidence
+      on trial procedures to assist prosecutors and victims.
+·     Firearms: Mandatory minimum sentences for criminals possessing firearms. Mandatory
+      death penalty for repeat violators of international drug trafficking laws.
+·     Federal Death Penalty: Adds aggravating factors in determination of death penalty
+      sentence. Establishes death penalty in District of Columbia.
+
+Increased Penalties for Trafficking and Manufacture of Methamphetamine and Precursors
+
+Violence Against Women and Children: Makes religious organizations eligible for VA WA
+grants. Establishes death penalty for fatal interstate domestic violence cases. Provides for HIV
+testing of defendants in sexual assault cases.
+
+Violent Crime and Terrorism: Expands coverage of antiterrorism statutes and increases
+penalties.
+
+Prison Reform:
+·      Prison Litigation Reform: Makes more difficult to remedy prison conditions.
+                                                                        Hex-Dump Conversion
+
+·       Federal Prisons: Prohibits certain prisoner amenities. Requires prisoners to work.
+
+Violent and Repeat Juvenile Offenders
+·      Juvenile Justice Reform: Treatment of juveniles age 14 and older as adults for violent
+       crimes and drug crimes (prosecutor discretion) in federal court. Expands availability of
+      juvenile records, fingerprints and photographs.
+
+·      Juvenile Gangs: Provides $100 million for hiring of U.S. Attorneys and attorneys in
+       Justice Department to prosecute juvenile gangs. Creates federal penalty with mandatory
+       minimums for solicitation or recruitment of criminal gang activity. Increases sentencing
+       guidelines for participation in crime as gang member.
+
+·      Juvenile Crime Control and Accountability: Revokes OJJDP and creates Office of
+       Juvenile Crime Control and Accountability. Establishes state incentive block grants
+       ($3.25 billion/5 years) to encourage: use of graduated sanctions, hiring of prosecutors
+       and police to control juvenile crime, curfews, and prosecution of juveniles as adults.
+
+Miscellaneous:
+·      Schedule I Drugs: Requires Attorney General to promulgate rules to revoke DEA license
+       of physicians prescribing a Schedule I drugs.
+
+·      Anti-drug Use Public Service Requirement: FCC to encourage priority use of public
+       service resources to promote youth drug abuse prevention and education.
+
+·      Child Porn: Secretary of State required to review all extradition treaties to ensure offenses
+       involving child pornography is are extraditable offenses.
+
+·      2,000 Boys and Girls Clubs Before 2000: Authorizes resources for 1,000 new clubs.
+
+·      Cellular Telephone Interceptions: Adds penalty of imprisonment of up to I year.
+
+
+
+
+                                                2
+.-

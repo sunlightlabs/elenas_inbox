@@ -1,0 +1,240 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP [ WHO]     )
+
+CREATION DATE/TIME: 18-JUL-1997 18:24:02.00
+
+SUBJECT:   Weekly Report as of 6:30 Friday
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D74]MAIL49517689F.116 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043CEOF0000010A02010000000205000000F746000000020000F6BCD8A33298165D476A19
+52B96A7E8E3A57D2E6704A37796DOF288E3BF3CC4880A37B8E6C5FC609F7790E11F20AA8093F9D
+F67C179FA615A80EFB8776EEA12FCE2B778568E777DE5298D5952F65674DE8CFBOEC16F8F34824
+72651F395CF9922D93C97CB09077DB931F9EDOD5CC8869B54314353728814268D6230BC06EE891
+CF24F97B44648CAEB2DE63F3FAA24EDEAF1B414A8B449D2AACFEE627FOD980C2A179963ED378A8
+12223E5143DF75716B369CDC67B3615AE948F4971F35C3765BB5F2B0691FD8B94BA5E9DFFEA778
+9CC80962B7B30EOFAF6BF1E9B8CAE3BB0821680162B80EAE3CDE3978E25C733025329316A8D2DB
+39781FBA333A7885A7B3D9474C013DEF4ED34E85F78DC5BODF93E6CB9DB6533CBB1DOA18120697
+BEA6CD194079B63D88A87F1AF12B5509B754627F144D2B143DC8B6EDBC2C62B6A679EB1F69B064
+E9779AE591E3C36BC33827E6FC5DB5A838AC5C2E29F45656F2DB75A73AC9D88D1208AF1601BFCE
+6857477E57EEA2862C2C677B4EB3A23F1B4D6EFEA6161E47D8A73FOB5464C07BF1BBE94864D72B
+00F5FA1Fl147270C5FC4EFE6A3DDB15FE770EC2BD685A397375DEO75636E74BB05EC827BB9D793
+OAF04F8E29F88FF59AC0861C99ADA62E202849BE3278AD433140650B4D57CDDCEF1A8629C93F85
+F9E089BBFA0200A400000000000000000000000823010000000B010000F80A0000005510000200
+4E000000030C000009250100000006000000510COOOOOB300300000028000000570C0000080501
+000000080000007FOC000008560100000002000000870COOOOOOOO0000000000000000870COOOO
+0055050000004E000000890C00000055010000004EOOOOOOD70COO000877010000004000000025
+OD000008340100000014000000650D00000802010000000FOOOOOO790DOOOOOB30010000006COO
+0000880D000000550000010028000000F40D00000055040001004E0000001COE00000055020002
+003C0000006AOEOOOOOB300100000044000000A60E00000608010000002DOOOOOOEAOE00000055
+010000004E000000170F000000000000000000000000170FOOOOOO000000000000000000170FOO
+0000000000000000000000170F000000000000000000000000170F000000000000000000000000
+170F000000000000000000000000170FOOOOOOOOOOOOOOOOOOOOOO00170FOOOOOOOOOOOOOOOOOO
+000000170F000000000000000000000000170FOOOOOOOOOOOOOOOO00000000170FOOOOOOOOOOOO
+000000000000170F000000000000000000000000170FOOOOOOOOOO00000000000000170FOOOOOO
+000000000000000000170F000000000000000000000000170FOOOO00000000000000000000170F
+000000000000000000000000170F00000000000000000000000017OFOOOOOOOOOOOOOOOOOOOOOO
+00170F000000000000000000000000170FOOOOOOOOOOOOOOOOOOOO0000170FOOOOOOOOOOOOOOOO
+00000000170F00000942010000001D000000650FOOOOOOOOOOOOOO0000000000650FOOOOOOOOOO
+00000000000000650F000000000000000000000000650FOOOOOOOO0000000000000000650FOOOO
+00000000000000000000650F000000000000000000000000650FOO000000000000000000000065
+OF000000000000000000000000650FOOOOOOOOOOOOOOOOOOOOOOOO650FOOOOOOOOOOOOOOOOOOOO
+0000650F000000000000000000000000650FOOOOOOOOOOOOOOOOOO000000650FOOOOOOOOOOOOOO
+0000000000650F000000000000000000000000650FOOOOOOOOOOOO000000000000650FOOOOOOOO
+0000000000000000650F000000000000000000000000650FOOOOOO000000000000000000650FOO
+0000000000000000000000650F000000000000000000000000650F000000000000000000000000
+650F000000000000000000000000650FOOOOOOOOOOOOOOOOOOOOOO00650FOOOOOOOOOOOOOOOOOO
+000000650F000000000000000000000000650FOOOOOOOOOOOOOOOO00000000650FOOOOOOOOOOOO
+000000000000650F000000000000000000000000650FOOOOOOOOOO00000000000000650FOOOOOO
+000000000000000000650F000000000000000000000000650FOOOO00000000000000000000650F
+000000000000000000000000650F00000000000000000000000065OFOOOOOOOOOOOOOOOOOOOOOO
+                                                                       Hex-Dump Conversion
+
+
+
+
+                                          July 18, 1997
+
+
+MEMORANDUM FOR THE PRESIDENT
+
+FROM:          Bruce Reed
+               Elena Kagan
+
+RE:            DPC Weekly Report
+
+
+        1. Welfare -- Counties: "Counties are making welfare reform work," said a report
+released this week by the National Association of Counties, by ''using the flexibility granted in
+the new law to develop innovative programs that are best suited to their local needs." The report
+profiles successful efforts in four counties (Fulton County, GA; Santa Clara County, CA; Dade
+County, FL; and Hennepin County, MN) to provide transportation, child care, and public sector
+jobs; to assist legal immigrants losing federal benefits; and to create collaborative partnerships
+between the public, private, and non-profit sectors. The report notes that NACo opposed the
+welfare law, but commends the Administration and Congress for addressing counties' primary
+concerns, funding for job creation and benefits for legal immigrants. The report also emphasizes
+that "the need for transportation services is tremendous. It was the most common thread that
+linked all counties and outpaced all other concerns as their most urgent need ... The
+reauthorization of the Intermodal Surface Transportation Efficiency Act including new funds to
+help those who are making the transition from welfare to work is therefore paramount."
+
+[EK--the report never says "welfare reform is working"--its tone is "challenge and opportunity".]
+
+        2. Welfare -- Budget Conference Update: The House and Senate conferees have
+exchanged welfare reform offers, which settle some of the minor issues regarding the structure of
+the $3 billion welfare to work program and benefits for legal immigrants. However, all the most
+contentious issues are still on the table: disability and health benefits for disabled legal
+immigrants; minimum wage, worker protections, and hours of work for workfare participants;
+privatization of Food Stamp and Medicaid operations; and whether the $3 billion welfare to work
+program should be operated by HHS or the Department of Labor (the House agrees with us that
+DOL should be the lead agency; the Senate so far disagrees). We have been working at all
+levels to ensure that the Congressional negotiators understand our views on these issues.
+
+       3. Education -- Vocational Education Bill: The Perkins vocational education
+reauthorization bill, H.R. 1853, should reach a House floor vote soon. This week Democrats
+and Republicans reached a compromise on a within-state funding formula and other provisions
+                                                                  Hex-Dump Conversion
+
+that target more funds to low-income and urban areas, thus avoiding a highly partisan vote. The
+bill would achieve several administration goals, including the consolidation of numerous existing
+set-asides into a flexible state grant. However, serious concerns remain, including poor
+accountability for performance, limits on the use of industry-recognized skill standards, and
+still-inadequate· in-state targeting as compared to existing law. The Department of Education
+hopes to address some of these problems in the Senate.
+
+        4. Education -- Civil Rights Investigations of Higher Education in California and
+Texas: In response to a complaint filed by several civil rights organizations, the Office for Civil
+Rights (OCR) at the Department of Education will investigate the current admissions policies at
+the three University of California law schools: Boalt Hall, UCLA, and UC-Davis. The
+investigation will determine whether the policies violate Title VI of the Civil Rights Act of 1964
+by having a discriminatory impact on minority students. Preliminary analysis shows a
+significant disparity in the admission rate for certain minority group students compared to whites.
+ The investigation concerns current admissions policies, rather than the widely-reported decline
+in minority admissions following the discontinuation ofUC's affirmative action program.
+
+        An extensive OCR-initiated investigation ofthe Texas higher education system, begun in
+February, 1997 as part of a series of state higher education desegregation reviews, is continuing.
+The review will determine, consistent with the Supreme Court's Fordice decision, whether
+vestiges of past discrimination remain in the Texas system. A chapter of the National Black Law
+Students Association filed a complaint with OCR last fall, asserting that Texas continues to
+operate a dual system of higher education and challenging the state's implementation of the
+Hopwood decision. In April, OCR informed the association that its Title VI allegations would
+be reviewed as a part of the existing investigation, while OCR plans to refer the group's
+Fourteenth Amendment allegations to the Department of Justice.
+
+         5. Education -- Vocational Education Bill: The Perkins vocational education
+reauthorization bill, H.R. 1853, should reach a House floor vote soon. This week Democrats
+and Republicans reached a compromise on a within-state funding formula and other provisions
+that target more funds to low-income and urban areas, thus avoiding a highly partisan vote. The
+bill would achieve several administration goals, including the consolidation of numerous existing
+set-asides into a flexible state grant. However, serious concerns remain, including poor
+accountability for performance, limits on the use of industry-recognized skill standards, and
+still-inadequate in-state targeting as compared to existing law. The Department of Education
+hopes to address some of these problems in the Senate.
+
+        6 -- National Testing Initiative: There were several related developments affecting the
+national testing initiative this week. The House appropriations subcommittee mark-up includes a
+provision requiring the National Academy of Sciences to complete an evaluation of the
+development and field-testing of the national tests before we can proceed to administer the tests.
+This provision was inserted at the request of Mr. Goodling. The Education Department had
+already been planning to contract such an evaluation with NAS, so there is no fundamental
+
+
+                                                2
+                                                               Hex-Dump Conversion
+
+objection to this provision. We are working with Mr. Obey's staff to ensure that the timelines for
+completing the study are reasonable given the work to be done, and will produce information in
+time for next year's appropriations process. We believe this can be accomplished.
+
+        Second, Diane Ravitch and Checker Finn have launched an attack on our testing effort --
+through an article in the Weekly Standard and in a letter reported in the Washington Times.
+They have criticized the Administration for failing to provide a governing role for NAGB over
+the national tests. This is a step we would like to take, but haven't yet because it would require
+new legislation. At the request of Frank Riggs, who chairs the relevant subcommittee and who
+supports the testing initiative, we have not submitted legislation pending our collective ability to
+move Mr. Goodling to a more favorable stance on the tests. Both Checker and Diane are fully
+aware ofthe need to work with Riggs and Goodling on this issue.
+
+        While we do not believe these attacks have yet caused significant harm, we are concerned
+that they could over time. Therefore, we are exploring the possibility of providing NAGB with
+the needed statutory authority through the conference on the appropriations bill, and have begun
+to discuss this prospect with key Senate staff.
+
+         7. Education -- National Testing Initiative and Civil Rights Groups: Secretary Riley
+met last week with Chris Edley and representatives of a number of civil rights groups, to listen to
+their concerns about the testing initiative. Their concerns included (1) the possible use of the
+tests for tracking students, (2) the prospect that too many students would be excluded from taking
+the tests; (3) the prospect that the tests would be used for high stakes purposes without also
+relying on additional information from other tests and from classroom performance; (4) the need
+to provide parents with information about how they can use test score information to help their
+children and to hold school accountable; and, (5) their view that the Education Department
+should require participating states and school districts to desegregate the test score results by
+school district, school and demographic subgroup.
+
+        While few of these concerns are new or unique to our tests, there are several specific
+responses we can make. The Education Department is developing material that will provide
+information to parents about how to use the test results. With regard to reporting requirements
+for participating states and school districts, while we and the Education Department agree with
+the idea of disaggregating the data, we have been reluctant to add specific reporting requirements
+to states or cities that use the tests. Further, it is increasingly common practice among states and
+school districts to report disaggregated data at the school and district level, and the Title 1
+requirements reinforce this. While we don't think our policy should change, it could be helpful
+if your rhetoric about the tests emphasized that the results should be incorporated into school
+report cards and used for accountability purposes. You could do this almost immediately -- next
+week when a number oflarge cities sign up for the tests, and the following week at NGA
+
+
+
+
+                                                 3
+                                                             Hex-Dump Conversion
+
+       8. AIDS -- Needle Exchange: The House LaborlHHS Subcommittee of Appropriations
+marked up their bill on July 15 without a challenge to the Chairman's mark which preserves the
+waiver authority ofthe Secretary ofHHS. HHS (Kevin Thurm) and the AIDS advocates have
+been assured by the staff directors for Reps. Porter and Obey that no unfriendly amendments are
+expected at full committee. This ill great news so far, however we are anxiously watching,
+waiting, and keeping our fingers crossed.
+
+        We are in daily contact with a number of AIDS organizations on this issue and continue
+to assure them that we are prepared to fight to preserve the Secretary's authority should the need
+arise.
+
+        9. AIDS -- Decreases in the AIDS Death Rate: On Monday, July 14 the CDC released
+new figures showing a 19% decrease in the AIDS death rate in the first 9 months of 1996,
+compared with the same.period in 1995. The CDC attributed these findings to greater access to
+medical care and the development of effective therapies for HIV and associated opportunistic
+infections. The AIDS advocates noted that as AIDS death rates decline, there are increasing
+numbers of individuals living with HIV who require access to these lifesaving interventions.
+
+        Weare continuing to emphasize that, while we are delighted with the news of the drop in
+death rates, we must not forget that rates of infection are on the rise in women, people of color,
+and adolescents. The epidemic is not over.
+
+        10. Crime -- Juvenile Crime Bill Update: On Tuesday and Thursday, the Senate
+Judiciary Committee met to mark-up S. 10, Senator Hatch's juvenile crime bill. While the
+Committee did not get much work done, it did vote down Senator Kohl's amendment on child
+safety locks by a one-vote margin. Senator Hatch offered to work with Democrats over the
+weekend to limit the number of pending amendments (87) and complete action on S. 10 next
+week.
+
+
+
+
+                                                 4
+ARMS Email System
+ -
+                                                                            Page 1 of2
+
+

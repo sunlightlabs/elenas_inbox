@@ -1,0 +1,374 @@
+    RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+    CREATOR: Emil E. Parker ( CN=Emil E. Parker/OU=OPD/O=EOP [ OPD ]    )
+
+    CREATION DATE/TIME:22-AUG-l997 l2:06:l9.00
+
+    SUBJECT:   Civil rights enforcement memo prepared by Richard, Dawn, etc.
+
+    TO: Jose Cerda III ( CN=Jose Cerda III/OU=OPD/O=EOP @ EOP [ OPD ] )
+    READ: UNKNOWN
+
+    TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+    READ: UNKNOWN
+
+    TEXT:
+    please see attached.==================== ATTACHMENT    l   ====================
+    ATT CREATION TIME/DATE:    0 00:00:00.00
+
+    TEXT:
+    Unable to convert ARMS_EXT: [ATTACH.D88]MAIL43524433I.2l6 to ASCII,
+     The following is a HEX DUMP:
+
+     FF575043EFODOOOOOlOA020l0000000205000000476C000000020000AE544FA50B397B7El9E69C
+    '60llCABlCA04AEl94DOODB5239AE5CF448EOE94765D443EFCA5DC6B06AA93C0A2209DD9D30580B
+     22CA076FB6B9ElBOEBDC49A4BEBA5C8A3774CDFCE93BDC52B26D6lFE8D82l9B57ll389DB8F7F26
+     7FA27F5A9lC25l8823C4F7EB8AFA2F9EA8E8E78338llB5lBl4606D752E2DD4CB03E5DF2DD54C6F
+     B24FA4AC3EBlC8E6C65220C9433El66DFlFC966343C5DB52lEBC2ACC8E2830lA2BF760CC2DF76C
+     08CA66DDD2D54D03908CCEC3lDA4FEDD8lBl0552C9A4B56CBBEB858FBlD582CAD7A870A3892l0F
+    394B7A5467BEOCEDCA2753A747CD48856A304FC3C90B2D08F8EE425Dl26D992B496DD~78E669C5
+    4AF65B53FDlE92l6AE6004800l30799688F70CED82l4636D852AE79l2404C48E936l24FAFD8C8l
+    4BOD7FCAF08326F78CAF7F2308994547A765B565lB964A3FA9C44AAE3ED29C4F245CB76CB2l048
+    69E3FA2C2DC7FE9A3B03l52COlC9l3l6l03C826B5EBBFl5B8lE05F7779983AE3CDD97957lED95C
+    28lAD423D920750Dl70D3427l675532503E7522F2DDOl4667CC5EAE7276B8E50D6A249A5035AB4
+    D656Cl2AEODOBE59lAB786EED554969CAD9A96786B45026C4CA3FFElD663274lFA09D2EA4704DA
+    5E9l0606677DFCA6BA5E89CDllBFAB2DlA060F3A2358l68lF2DFDD9289FF252l387lB77EDFEBDF
+    36FDC5DlF20200A6000000000000000000000008230l0000000BOl0000l40B0000005502000000
+    4EOOOOOOlFOC000009250l000000060000006DOCOOOOOB300200000028000000730C000008l60l
+    000000320000009BOC000008770l00000040000000CDOC00000834OlOOOOOOl40000000DODOOOO
+    08020l0000000F0000002l0D000000550l0000004E000000300DOO0008050l000000080000007E
+    OD0000000000000000000000007EOD000000620l0000000COOOOOO860DOOOOOOOOOOOOOOOOOOOO
+    0000860D000000000000000000000000860DOOOOOOOOOOOOOOOOOO000000860DOOOOOOOOOOOOOO
+    0000000000860D000000000000000000000000860DOOOOOOOOOOOO000000000000860DOOOOOOOO
+    0000000000000000860D000000000000000000000000860DOOOOOO000000000000000000860DOO
+    0000000000000000000000860D000000000000000000000000860D000000000000000000000000
+    860D000000000000000000000000860DOOOOOOOOOOOOOOOOOOOOOO00860DOOOOOOOOOOOOOOOOOO
+    000000860D000000000000000000000000860DOOOOOOOOOOOOOOOO00000000860DOOOOOOOOOOOO
+    000000000000860D000000000000000000000000860DOOOOOOOOOO00000000000000860DOOOOOO
+    000000000000000000860D000000000000000000000000860DOOOO00000000000000000000860D
+    000000000000000000000000860D00000000000000000000000086ODOOOOOOOOOOOOOOOOOOOOOO
+    00860D000000000000000000000000860DOOOOOOOOOOOOOOOOOOOO0000860DOOOOOOOOOOOOOOOO
+    00000000860D000009420l000000lD000000920DOOOOOOOOOOOOOO0000000000920DOOOOOOOOOO
+    00000000000000920D000000000000000000000000920DOOOOOOOO0000000000000000920DOOOO
+    00000000000000000000920D000000000000000000000000920DOO000000000000000000000092
+    OD000000000000000000000000920DOOOOOOOOOOOOOOOOOOOOOOOO920DOOOOOOOOOOOOOOOOOOOO
+    0000920D000000000000000000000000920DOOOOOOOOOOOOOOOOOO000000920DOOOOOOOOOOOOOO
+    0000000000920D000000000000000000000000920booooooOOOOOO000000000000920DOOOOOOOO
+    0000000000000000920D000000000000000000000000920DOOOOOO000000000000000000920DOO
+    0000000000000000000000920D000000000000000000000000920D000000000000000000000000
+    920D000000000000000000000000920DOOOOOOOOOOOOOOOOOOOOOO00920DOOOOOOOOOOOOOOOOOO
+    000000920D000000000000000000000000920DOOOOOOOOOOOOOOOO00000000920DOOOOOOOOOOOO
+                                                                    Hex-Dump Conversion
+                                        August 19, 1997
+
+
+
+MEMORANDUM FOR SYLVIA MATHEWS
+
+FROM:         Richard Hayes
+              DawnChirwa
+              Susan Liss
+              Emil Parker
+
+RE:            Civil Rights Enforcement
+
+       As you requested, and as part of the ongoing work of the President's Race Initiative, we
+have begun discussing policy initiatives designed to enhance federal civil rights enforcement.
+As we proceed, we thought it would be useful to provide you with some background on the
+various civil rights enforcement offices which exist, their funding levels, current projects
+underway and previous Administration efforts to improve federal civil rights enforcement.
+
+       In addition, this memorandum seeks your approval to proceed with forming a working
+group composed of the Civil Rights chiefs in the major enforcement agencies to develop a
+comprehensive civil rights enforcement strategy. (Deval Patrick and Chris Edley chaired such a
+group in response to the President's directive to mend affirmative action programs in 1995.)
+We think the responsible federal agencies need to be part of our discussions to ensure their
+support of any changes or enhancements we recommend.
+
+I.     Federal Civil Rights Enforcement Agencies
+
+        Over the past five years, the Clinton Administration has worked diligently to enforce the
+laws which protect the rights ofthose who have been discriminated against based on age,
+disability, gender, race, religion, and sexual orientation by supporting civil rights enforcement
+programs that effectively aid each of those groups. This work is accomplished through the
+oversight responsibilities of the following agencies.
+
+       A. Department of Justice, Civil Rights Division
+
+       The Civil Rights Division at the Department of Justice is charged with enforcing the Civil
+Rights Act of 1957, 1960, 1964, and 1968, the Voting Rights Act of 1965, the Equal Credit
+Opportunity Act, and the Americans with Disabilities Act. These statutes deal with eliminating
+discrimination in education, employment, credit, housing, public accommodations and facilities,
+voting and some federally funded and conducted programs. The Civil Rights Division, along
+with the Associate Attorney General, the Office of Legal Counsel and the Solicitor General has
+primary responsibility among the federal agencies for enforcing federal civil rights laws in the
+                                                                       Hex-Dump Conversion
+                                                -2-
+ courts and for providing legal counsel to agencies with respect to statutory and constitutional
+ civil rights issues.
+
+        B. Department of Labor, Office of Federal Contract Compliance Programs (OFCCP).
+
+          OFCCP is part of the Employment Standards Administration at the U.S. Department of
+  Labor. OFCCP' s jurisdiction covers approximately 26 million or nearly 22% of the total
+  civilian workforce (92,500 non-construction establishments and 100,000 construction
+. establishments). Its primary responsibility is to enforce Executive Order 11246 under which all
+  federal contractors, as a condition of receiving government funds, are required to refrain from
+  discrimination and take good faith efforts -- including affirmative action -- to expand
+  employment opportunities for qualified women, minorities, and persons with disabilities. In
+  addition, OFCCP is charged with enforcing Section 503 of the Rehabilitation Act of 1973, and
+  the affirmative action provisions of Section 4212 of the Vietnam Era Veteran's Readjustment
+  Assistance Act.
+
+         The OFCCP employs various enforcement procedures, such as compliance reviews and
+ complaint investigations of federal contractors' personnel policies and procedures, to enforce
+ these statutes. OFCCP's current high priority initiatives include its public education initiative,
+ introduction of its Fair Enforcement Strategy, and launching its tester's initiative.
+
+        C. Equal Employment Opportunities Commission (EEOC)
+
+        The EEOC is an independent agency whose primary goal is to ensure fair labor practices
+for employees who belong to minority groups that have experienced historical and current
+discrimination on the basis of race, gender, disability, national origin, religion and age. In
+particular, the EEOC is responsible for enforcing Title VII of the Civil Rights Act of 1964, the
+Equal Pay Act, the Age Discrimination in Employment Act, Section 501 ofthe Rehabilitation
+Act, the Americans with Disabilities Act, and, pursuant to Executive Order 12067, providing
+coordination among the federal agencies involved in equal employment opportunity issues.
+
+        D. Department of Housing and Urban Development (HUD)
+
+         HUD's Office for Fair Housing and Equal Opportunity enforces the Fair Housing Act that
+prohibits discrimination in housing on the basis of race, color, national origin, religion, sex,
+familial status, and disability. One of the major enforcement mechanisms employed by HUD in
+this area is the use of "testers" to uncover acts of housing discrimination. HUD attorneys also
+litigate complaints on behalf of persons whose allegations of discrimination have been deemed
+valid by HUD. Current priority civil rights-related projects within HUD include: (1) wide use of
+volunteers in testing; (2) a national advertising campaign; (3) "Make 'em pay" - a civil
+counterpart to the Department of Justice's project directed at perpetrators of hate crimes; and (4)
+the Presidential Housing task force.
+                                                                     Hex-Dump Conversion
+                                                 -3-
+        E. Department of Education, Office of Civil Rights
+
+          The Office of Civil Rights at the Department of Education (OCR) seeks to secure equal
+.access to education regardless of race, color, national origin, sex, disability, or age under Title VI
+ of the Civil Rights Act of 1964, Title IX of the Education Amendments of 1972, Section 504 of
+ the Rehabilitation Act of 1973, the Age Discrimination Act of 1975, and the Americans with
+ Disabilities Act of 1990. OCR's primary tasks include compliance reviews at educational
+ institutions and providing technical assistance to institutions to promote voluntary compliance.
+ Several high priority issues within OCR include: (1) English proficiency issues; (2) over
+ representation of minorities in special education courses; (3) under representation of women and
+ minorities in math; and (4) desegregation.
+
+        F. Department of Health and Human Services, Office of Civil Rights
+
+        The Office of Civil Rights at the Department of Health and Human Services is
+responsible for enforcing several statutes. These include Title VI of the Civil Rights Act of
+1964; Section 504 of the Rehabilitation Act of 1973; the Age Discrimination Act of 1975; Title
+IX of the Education Amendments of 1972; Section 407 of the Drug Abuse Offense and
+Treatment Act of 1972; Titles VII and VIII of the Public Health Service Act; Section 307 of the
+Family Violence Prevention and Service Act; EEO provisions of the Communication Finance
+Act of 1934; the Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment and
+Rehabilitation Act of 1972; and Title II of the Americans with Disabilities Act of 1990. The
+current emphasis within OCR at HHS is placed on: (1) enforcement of the inter-ethnic adoption
+provision of the Small Business Job Protection Act of 1996; (2) medical redlining; and (3)
+providing govermnent-wide guidance on non-discrimination in temporary assistance for needy
+families.
+
+II.     Federal Resources for Civil Rights Enforcement
+
+        The President's FY '98 budget increased the total funding for civil rights enforcement
+programs from $470.8 million to $480.32 million. (See chart below.) You should note that the
+EEOC and OFCCP budgets were increased, while the budgets for other relevant agencies were
+either frozen at FY '97 enacted levels, with no adjustment for inflation, or decreased slightly.
+The President's budget requested $246 million for the EEOC, an increase of $6.3 million over
+the FY '97 enacted level of$239.7 million. The OFCCP budget was increased from $56 million
+to $59 million. Unfortunately, neither the House nor the Senate Commerce, Justice, State
+Appropriations bills fully funds the President's FY 1998 request of $246 million for the
+EEOC -- the House bill freezes funding at the FY 1997 level of$239.7 million, while the Senate
+bill provides $242 million.
+                                                                     Hex-Dump Conversion
+                                              -4-
+Major Civil Rights Enforcement Agencies                  FY 1997 (millions)            FY 1998
+(millions)
+�      EEOC                                                                       239.70
+                            246.00
+�      OFCCP
+              59.06
+                                                                 56.17
+
+�      U.S. Commission on Civil Rights
+                       8.74
+                                                                           8.75
+
+�      Department of Housing and Urban Development
+            30.00
+                                                               30.00
+
+�      Department of Justice, Civil Rights Division
+               62.42
+                                                                  62.55
+
+�      Department of Education
+                         55.00
+                                                                              55.00
+
+�      Department of Health and Human Services
+                19.53
+                                                                   19.71
+
+
+III.   Summary of Administration Efforts to Improve Civil Rights Enforcement
+
+         This Administration has undertaken two major projects to reinvent Civil Rights
+Enforcement. The Vice President's National Performance Review recommended improvements
+in civil rights enforcement at the EEOC and OFCCP. In addition, the President's affirmative
+action review made several recommendations about how to make OFCCP more effective.
+
+       A.   National Performance Review
+
+               1. EEOC
+
+       With the appointment of new Commissioners in 1994, a primary focus ofthe EEOC has
+been on decreasing its historically large backlog. Their adoption of the Priority Charge
+Handling Procedures in July 1995, and the aaoption of the National Enforcement Plan (NEP) in
+February 1996, have resulted in more timely and effective resolution of the agency's pending
+inventory of charges.
+
+        The Priority Charge Handling System establishes an "ABC" priority system, under which
+cases are ranked -- "A," "B" or "C" -- based upon the strength of a particular complaint. This
+enables the EEOC to weed out unmeritorious cases and devote more time and resources to
+meritorious ones. Adoption of this Priority Charge Handling system has reduced the backlog of
+cases at the EEOC by approximately 25,000 cases. None-the-Iess, the agency continues to have
+a large backlog.
+
+       The National Enforcement Plan (NEP) is a three-pronged program .. The aim is to
+dedicate available funds to prevention of discrimination as one of the most efficient and effective
+                                                                      Hex-Dump Conversion
+                                             -5-
+means to aid in the achievement of equal employment opportunity goals. This is accomplished
+through educational outreach, voluntary resolution of disputes, with strong enforcement
+remaining as a measure to be used where the other two fail.
+
+              2. OFCCP
+
+        In order to improve its effectiveness while making contractors' compliance simpler and
+less burdensome, the OFCCP has enacted a Fair Enforcement Strategy. This expedited and
+more flexible tiered review process will enable the agency to concentrate on the most substantive
+violations while spending less time on reviews of firms that are largely in compliance. They
+also hope to modernize their computer systems to streamline the agency's internal procedures
+and reduce unnecessary paperwo~k requirements, permitting the office, for example, to accept
+electronically submitted reports from contractors.
+
+       B. President's Affirmative Action Review
+
+              1. EEOC
+
+        In 1995, the President ordered a comprehensive review of affirmative action programs.
+This review found that the EEOC was severely under funded, and recommended that additional
+resources be provided to help it run effectively. It was also recommended that EEOC should
+work with the Office of Personnel Management to evaluate the performance of its managers and
+with the President's Management Council (PMC) to study and report on the proper use of
+flexible goals and timetables for hiring and promotions. The review also recommended that the
+PMC identify those agencies that are best able to promote diversity and equal opportunity and
+implement similar mechanisms throughout the government.
+
+              2. OFCCP
+
+        The review revealed that although generally effective, OFCCP programs needed
+reforming. Academic research showed that during periods of strong enforcement, OFCCP
+programs resulted in moderate increases in the employment of minorities and that OFCCP's
+efforts did not cause employers to hire less qualified workers. At the same time, the review
+found that there is a great need to reduce affirmative action program paperwork. Contractors
+also expressed discontent with inconsistent enforcement between regions.
+
+        Several recommendations were made to the President on how to change and improve the
+OFCCP. First, the Secretary of Labor should update administrative guidelines on enforcement
+of non-discrimination, illegality of quotas, and good faith efforts. Second, the Secretary of
+Labor should investigate methods that would encourage collaboration with the private sector.
+Lastly, the Department of Labor should implement its plan to reduce paperwork.
+
+IV.    Congressional Civil Rights Enforcement Initiatives
+                                                                    /Ul10tnated Records Management System
+
+        Currentiy,both the House and the Senate have proposed simUilrrmt'li,~~:~8~3 and S.71
+that are aimed at amending the Fair Labor Standards Act of 1938 and the Civil Rights Act of
+1964 to "give more effective remedies to victims of discrimination in the payment of wages on
+the basis of sex, and for any other purpose." The proposed bills attempt to eliminate the
+disparity in wages between males and females. Moreover, the bills require the EEOC to compel
+certain
+employers to maintain payroll records and report the infonnation to the EEOC which will then
+analyze the data in regards to race, sex and national origin of employees.
+        Additionally, these bills require the EEOC to train its employees, employers and others
+on discrimination in wage payment.� The Secretary of Labor will be required to conduct studies
+and provide infonnation to employers, labor organizations and the public on any progress in pay
+equity. Moreover, these bills reward those employers that make substantial efforts to
+eliminating disparities in wages by awarding to them the Robert Reich National Award for Pay
+Equity in the Workplace.
+
+v.     Recommendations on a Proposed Working Group on Civil Rights Enforcement
+
+        It is certain that additional resources need to be appropriated for civil rights enforcement
+at the EEOC and other agencies in future fiscal years to effectively serve the tens of thousands of
+Americans who annually seek their rights. OMB needs to be made aware that the
+Administration will seek additional funds in the FY 1999 budget to enforce anti-discrimination
+laws and that this needs to be built into the upcoming budget process. However, beyond just
+simply proposing additional expenditures, there are a number of other issues we need to examine
+in detennining how federal civil rights enforcement can be enhanced. For example:
+
+       (1)     Should we prioritize enforcement efforts on particular areas, and if so on which
+               areas: Employment? Housing? Education? Hate crimes? Old Age?
+               Disabilities? Housing? etc.
+
+       (2)     Are there additional reinvention activities that we should pursue, even though this
+               may result in resources being diverted from current projects?
+
+       (3)     Can the EEOC and OFCCP be made to work more effectively both individually
+               and collectively?
+
+       (4)     Is there duplication in the current system that we should eliminate?
+
+       (5)     Do we need to strengthen the existing laws on the books?
+
+       (6)     How do we encourage more voluntary efforts by corporate America and others?
+
+       To address these and other issues, we propose fonning a working group to come up with
+                                                                Hex-Dump Conversion
+                                               -7-
+a proposal for a comprehensive strategy on civil rights enforcement. We would chair this group,
+which would consist of the major agency civil rights chiefs as listed below. Judith Winston or
+her representative would be invited to participate; it will be critical that the working group work
+collaborative1y with her and her staff. We might also want to include EPA (responsible for
+Administration's environmental justice effort), and Treasury/Comptroller of the currency
+(responsible for regulating banking practices with respect to loans). Otherwise, the members of
+the group will include:
+
+
+               1. Gilbert Casellas, Chairman, EEOC
+               2. Isabe1e Pinzler, Acting Assistant Attorney General, DOJ
+               3. Bemie Anderson, Assistant Secretary for Employment Standards, DOL
+               4. Shirley Wilcher, Deputy Assistant Secretary, Office of Federal Contract
+               Compliance Programs, DOL
+               5. Dennis Hayashi, Director, Office of Civil Rights, HHS
+               6. Norma Cantu, Assistant Secretary for Civil Rights, EDUC
+               7. George Robertson, Acting Director, Office of Civil Rights Enforcement,
+               Agriculture
+               8. Susan Forward, Acting Assistant Secretary for Fair Housing & Equal
+                      Opportunity, HUD
+               9. April Marchese, Acting Director, Office of Civil Rights, DOT
+               10. Mary Francis Berry, Chairman, Commission on Civil Rights
+
+        As for process, we would convene the working group early in September. The group
+would review our progress to date with respect to civil rights enforcement and come up with a
+comprehensive set of proposals aimed at strengthening Federal efforts to eradicate racial
+discrimination. We would also propose to examine what kinds of cooperative efforts might be
+possible with employers and others in addressing this issue, and the need for additional federal
+legislation and funding and whether the current priorities of the agencies are the ones the
+Administration wants to focus on. We propose that the work of this group will either be
+completed or at an appropriate stage so that any requests for additional funding for civil rights
+enforcement can be incorporated into the FY 1999 budget before the President submits his
+budget to the Congress in January.
+
+       We look forward to hearing your thoughts concerning our recommendation.
+
+

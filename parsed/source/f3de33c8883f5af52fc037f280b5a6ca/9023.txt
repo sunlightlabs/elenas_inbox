@@ -1,0 +1,85 @@
+         RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+         CREATOR: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP [ OPD ] )
+
+         CREATION DATE/TIME:12-AUG-1998 13:22:46.00
+
+         SUBJECT:   One page summary for Shea mtg Thurs @ 11:00 (Bruce's office)
+
+         TO: Karen Tramontano ( CN=Karen Tramontano/OU=WHO/O=EOP @ EOP [ WHO]      )
+         READ: UNKNOWN
+
+         TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+         READ:UNKNOWN
+
+         TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO ] )
+         READ:UNKNOWN
+
+         TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ] )
+         READ:UNKNOWN
+
+         TEXT:
+         Just a reminder of the issues in case you've suppressed them. ==================== A
+         ATT CREATION TIME/DATE:   0 00:00:00.00
+
+         TEXT:
+         Unable to convert ARMS_EXT: [ATTACH.D93]MAIL48400172M.226 to ASCII,
+          The following is a HEX DUMP:
+
+         FF575043DA060000010A02010000000205000000A51500000002000074FD06A3E47096A27E93AA
+         51F6B1898EDB59700F6557D120337DDC5F53605C7D99D462A2B63ED13356740381COB8360910DD
+         E2976ED149CEOF61F2CFF5F85B77COECE547CEFD1EE971AOFC96CAF52COC776E15B4C760419B74
+         05E022D85DA56F2071A87106C80E9007C17CBE7C1F10E23BCEA42CBA3D9DFEB03E28B754272785
+         2C39CE901F9F422894450EEF078EB1BDCFF127E274489B88621BOOB4328306203BEAE7B08712C5
+         9835B9C41A5FA1BB1A033B4COOD79869EE7D454431AFE05EC67DE5F5501BF58508D98D205692D6
+         D2B07E5C124CCFFFD337EC1392DF4971B1D1B30074EB34E4EFAB48EBA08962509AOOAF5D99041F
+         ED1493018ABD2F8803ED358EF8CDOE1C4604COE6FOE6411B1872BFD1BD04D1C47869BOE53CE447
+
+Summary of Draft Notice
+
+The draft notice establishes that payments that meet the following three-part test will not be
+subject to FICA taxes or the EITe:
+
+       ·       The only payments the individual receives for the work activity come directly
+               from the state or local welfare agency, or its contractor;
+       ·       Payment is funded entirely by T ANF and/or food stamps; and
+       ·       Size of the payment is limited by welfare laws; and the number of hours is limited
+               by the size of the payment divided by the minimum wage.
+
+The policy would be effective immediately. After considering public comments, the IRS would
+then issue a formal regulation.
+
+The notice is based on IRS's 1971 "general welfare" doctrine, summarized in the guidance as
+"Payments by a government unit to an individual under a legislatively provided social benefit
+program for the promotion of the general welfare that are not basically for services rendered are
+not includible in the individual's gross income and are not wages for employment tax purposes,
+even if the individual is required to perform certain activities to remain eligible for the
+payments."
+
+The guidance notes that "Due to the flexibility T ANF affords states to determine basic eligibility
+rules and benefit amounts, a T ANF payment may be made both for the promotion of the general
+welfare and as compensation for services. In these cases, it is extremely difficult to characterize
+the basic purpose of the payments. It is also not practically feasible to determine the relative
+proportion of the payment each purpose represents." The guidance then discusses how in many
+cases the TANF payments are received in lieu of payments a family would have received under
+AFDC and are based primarily on family need. It then establishes the three part test listed above
+for those payments that will not be considered wages for tax purposes.
+
+The ruling contains a disclaimer: "This notice does not determine the treatment or effect of
+TANF payments (or regarding whether an employment relationship exists) under any other
+provision of law, including the Fair Labor Standards Act."
+
+Letter from Gerry Shea
+
+The July 30th letter from Gerry Shea said "To the extent language has been added to address
+concerns regarding potential adverse implications of the Treasury ruling, we appreciate those
+efforts. At the same time, we do not believe this cures the problem, because by issuing a
+directive applying the "general welfare doctrine" to T ANF payments where recipients are clearly
+engaged in services, Treasury's approach still sends the message that TANF recipients engaged
+in work activities are not like other workers."
+
+
+                                                                 Automated Records Management System
+                                                                         HeX-Dump Conversion
+
+

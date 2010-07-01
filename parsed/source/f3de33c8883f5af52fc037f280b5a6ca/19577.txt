@@ -1,0 +1,54 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Jose Cerda III ( CN=Jose Cerda III/OU=OPD/O=EOP [ OPD ) )
+
+CREATION DATE/TIME:24-APR-1998 12:59:38.00
+
+SUBJECT:   Statement for Sunday
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ) )
+READ: UNKNOWN
+
+TO: Michelle Crisci ( CN=Michelle Crisci/OU=WHO/O=EOP @ EOP [ WHO ) )
+READ: UNKNOWN
+
+CC: Leanne A. Shimabukuro ( CN=Leanne A. Shimabukuro/OU=OPD/O=EOP @ EOP [ OPD ) )
+READ:UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO)    )
+READ:UNKNOWN
+
+TEXT:
+Michelle/EK:
+
+Here's a draft of the statement Rahm requested this morning on the DOJ
+report being released Sunday evening.  I know he wants to clear it today,
+but we need to make sure EK has a chance to look at it.  Let me know if
+this works or not.
+
+EK: please review when you can.  This statement is to accompany the report
+on jail inmates mentioned in our weekly submission ... jc3
+
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D55)MAIL48051531C.126 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043B0040000010A02010000000205000000A20900000002000063953FA8F19485121COA48
+667EA75F7E2BB6D608D16B67124E4438817F7Fl19C36971C18B6DE1D26EAD5968A5E9414557C4A
+                                                                                    Hex-Dump Conversion
+                                        ---DRAFT---
+
+                          Embargoed until April 26, 1994 at 4:30 pm
+
+                                  Statement by the President
+
+       The report on jail inmates released by the Justice Department today confinns the urgent
+need for government at all levels to pursue a policy of coerced abstinence for drug offenders. It
+shows that more than half the the criminals in j ails are using more drugs, committing more
+crimes, and returning to the streets with dangerous drug habits. The time is now to install a
+tough system of testing, treatment and punishment for drug offenders. Congress can take the
+lead by adopting my Administration's proposals to promote coerced abstinence throughout the
+criminal justice system.

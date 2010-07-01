@@ -1,0 +1,35 @@
+       RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+       CREATOR: Christa Robinson ( CN=Christa Robinson/OU=OPD/O=EOP [ OPD ] )
+
+       CREATION DATE/TlME:22-MAR-1997 14:0S·:10.00
+
+       SUBJECT:   FOP Phone Call Request
+
+       TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP     @   EOP [ OPD ] )
+       READ: UNKNOWN
+
+       CC: Michelle Crisci ( CN=Michelle Crisci/OU=WHO/O=EOP @ EOP [ WHO] )
+       READ: UNKNOWN
+
+       TEXT:
+       This is the final request we turned in for the President to call into .the
+       FOP meeting this weekend. There's a chance the call will be made today.
+       If not, we will have to do another request for him to call Gil Gallegos
+       next week -- and it will have to include briefing material on collective
+       bargaining. Hopefully the call will be made today. Also, you should know
+       that the issue of collective bargaining came up at their meeting and they
+       are really furious that there hasn't been a resolution. We will need to
+       deal with this next week. Thanks.
+
+       ==================== ATTACHMENT   1 ====================
+       ATT CREATION TIME/DATE:   0 00:00:00.00
+
+       TEXT:
+       Unable to convert ARMS_EXT: [ATTACH.DS1] MAIL42490S0SW. 016 to ASCII,
+        The following is a HEX DUMP:
+
+
+
+
+                                             P6/(b)(6)

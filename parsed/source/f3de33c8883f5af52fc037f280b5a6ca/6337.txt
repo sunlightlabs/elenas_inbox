@@ -1,0 +1,83 @@
+     RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+     CREATOR: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP[ OPD 1
+
+     CREATION DATE/TIME: 11-FEB-1998 19:06:19.00
+
+     SUBJECT:   Re: child support/booting cars
+
+     TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+     READ:UNKNOWN
+
+     TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD 1
+     READ: UNKNOWN
+
+     CC: Andrea Kane ( CN=Andrea Kane/OU=OPD/O=EOP @ EOP [ OPD 1 )
+     READ: UNKNOWN
+
+     CC: Diana Fortuna ( CN=Diana Fortuna/OU=OPD/O=EOP @ EOP [ OPD 1
+     READ: UNKNOWN
+
+     TEXT:
+     Judge Ross checked into the car booting idea -- here's what he said.  It
+     looks like we would be able to calIon Congress to pass legislation and
+     cite Virginia as a model, but that we wouldn't be able to do it as an
+     executive action.
+     ---------------------- Forwarded by Cynthia A. Rice/OPD/EOP on 02/11/98
+     07:03 PM ---------------------------
+
+
+
+             dross @ acf.dhhs.gov
+             02/11/98 06:19:00 PM
+     Record Type: Record
+
+     To: Cynthia A. Rice
+     cc:
+     Subject: Re: Re: Federal Licenses
+
+     We have talked about it and decided that, absent legislation - similar to
+     what we have in the law regarding state license revocation, booting cannot
+     be
+     mandated by regulation. As you may know, the State of Virginia has begun
+     a
+     very aggressive program of booting and the State Director there tells me
+     that
+     it has been very successful.  I.have asked the editor of our Child Support
+     Report that goes to employees across the nation, to feature the Virginia
+     project in an article. We also do a best practices manual.   If the
+     results
+     continue to be beneficial, we will include it in a future edition.  It
+     might
+     be worthwhile, however, for the President to mention it in some future
+     child
+     support radio address. Hope this helps.   David Ross.
+
+
+
+     ==================== ATTACHMENT   1 ====================
+     ATT CREATION TIME/DATE:   0 00:00:00.00
+
+
+TEXT:
+RFC-822-headers:
+Received: from conversion.pmdf.eop.gov by PMDF.EOP.GOV (PMDF V5.0-4 #6879)
+ id <01ITGOR5FN40002BD9@PMDF.EOP.GOV> for "Cynthia A. Rice"@oa.eop.gov; Wed,
+ 11 Feb 1998 18:26:39 -0500 (EST)
+Received: from storm.eop.gov (storm.eop.gov)
+ by PMDF.EOP.GOV (PMDF V5.0-4 #6879) id <OlITGOR3NCAOOOIP4E@PMDF.EOP.GOV> for
+ Cynthia_A._Rice@oa.eop.gov; Wed, 11 Feb 1998 18:26:37 -0500 (EST)
+Received: from smtp.acf.dhhs.gov ([158.71.1.11])
+ by STORM.EOP.GOV (PMDF V5.1-7 #6879)
+ with SMTP id <01ITGOQDTFJE0027MS@STORM.EOP.GOV> for
+ Cynthia_A._Rice@oa.eop.gov; Wed, 11 Feb 1998 18:26:03 -0500 (EST)
+Received: by smtp.acf.dhhs.gov with VINES-ISMTP; Wed,
+ 11 Feb 1998 ·18:26:02 -0500 (EST)
+X-Incognito-SN: 458
+From: dross@acf.dhhs.gov, "David G Ross"@STORM.eop.gov
+Errors-to: dross@acf.dhhs.gov
+X-Priority: 3 (Normal)
+X-Incognito-Version: 4.11.23
+================== END ATTACHMENT   1 ==================
+
+

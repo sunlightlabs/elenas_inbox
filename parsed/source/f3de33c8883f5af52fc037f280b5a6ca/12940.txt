@@ -1,0 +1,368 @@
+   RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+   CREATOR: Ingrid M. Schroeder ( CN=Ingrid M. Schroeder/OU=OMB/O=EOP [ OMB    1 )
+   CREATION DATE/TIME: 9-JUN-1999 12:25:47.00
+
+   SUBJECT:   LRM - IMS13 - Statement of Administration policy on Sl138 Y2K Act
+
+
+   TO: llr@do.treas.gov ( llr@do.treas.gov @ inet [ UNKNOWN 1 )
+   READ: UNKNOWN
+
+   TO: seclegis ( seclegis @ sec.gov @ inet [ UNKNOWN 1 )
+   READ:UNKNOWN
+
+   TO: toby.costanzo ( toby.costanzo @ hq.nasa.gov @ inet [ UNKNOWN 1 )
+   READ: UNKNOWN
+
+   TO: ocl ( ocl @ ios.doi.gov @ inet [ UNKNOWN 1 )
+   READ: UNKNOWN
+
+   TO: lrm@os.dhhs.gov    lrm@os.dhhs.gov @ inet [ UNKNOWN 1 )
+   READ:UNKNOWN
+
+   TO:    legis (   legis @ fema.gov @ inet [ UNKNOWN 1 )
+   READ:UNKNOWN
+
+   TO: epalrm ( epalrm @ epamail.epa.gov @ inet [ UNKNOWN 1 )
+   READ: UNKNOWN
+
+   TO: ogc_legislation ( ogc_legislation @ ed.gov @inet [ UNKNOWN 1 )
+   READ:UNKNOWN
+
+   TO: cpsc-cr ( cpsc-cr @ cpsc.gov @ inet [ UNKNOWN 1 )
+   READ:UNKNOWN
+
+   TO: justice.lrm ( justice.lrm @ usdoj.gov    @ inet [ UNKNOWN 1 )   (OA)
+   READ:UNKNOWN
+
+   TO: Victoria A. Wachino ( CN=Victoria A. Wachino/OU=OMB/O=EOP@EOP [ OMB 1 )
+   READ:UNKNOWN
+
+   TO: Donald R. Arbuckle ( CN=Donald R. Arbuckle/OU=OMB/O=EOP@EOP [ OMB 1 )
+   READ:UNKNOWN
+
+   TO: Sandra Yamin ( CN=Sandra Yamin/OU=OMB/O=EOP@EOP [ OMB 1 )
+   READ:UNKNOWN
+
+   TO: Steven D. Aitken ( CN=Steven D. Aitken/OU=OMB/O=EOP@EOP [ OMB 1 )
+   READ:UNKNOWN
+
+   TO: Linda B. Oliver ( CN=Linda B. Oliver/OU=OMB/O=EOP@EOP [ OMB 1 )
+   READ:UNKNOWN
+
+   TO: Timothy R. Fain ( CN=Timothy R. Fain/OU=OMB/O=EOP@EOP [ OMB 1 )
+   READ:UNKNOWN
+
+   TO: David J. Haun ( CN=David J. Haun/OU=OMB/O=EOP@EOP [ OMB 1 )
+   READ: UNKNOWN
+
+
+TO: Sonyia Matthews   ( CN=Sonyia Matthews/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Lisa M. Kountoupes ( CN=Lisa M. Kountoupes/OU=WHO/O=EOP@EOP [ WHO     1 )
+READ: UNKNOWN
+
+TO: Sarah Wilson ( CN=Sarah Wilson/OU=WHO/O=EOP@EOP [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Phyllis Kaiser-Dark ( CN=Phyllis Kaiser-Dark/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: David W. Beier ( CN=David W. Beier/O=OVP@OVP [ UNKNOWN 1 )
+READ:UNKNOWN
+
+TO: John E. Thompson ( CN=John E. Thompson/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ:UNKNOWN
+
+TO: valrm ( valrm @ mail.va.gov @ inet [ UNKNOWN 1 )
+READ:UNKNOWN
+
+TO: dot. legislation ( dot. legislation @ ost.dot.gov @ inet   [ UNKNOWN 1 )
+READ:UNKNOWN
+
+TO: cIa ( cIa @ sba.gov   @   inet [ UNKNOWN 1 )
+READ:UNKNOWN
+
+TO: dol-sol-Ieg ( dol-sol-Ieg @ dol.gov @ inet [ UNKNOWN 1 )
+READ:UNKNOWN
+
+TO: HUD LRM@hud.gov ( HUD LRM@hud.gov @ inet [ UNKNOWN 1 )
+READ:UNKNOWN
+
+TO: ca. legislation ( ca.legislation @ gsa.gov @ inet [ UNKNOWN 1 )
+READ:UNKNOWN
+
+TO: fdiclrm ( fdiclrm @ fdic.gov @ inet [ UNKNOWN 1 )
+READ:UNKNOWN
+
+TO: energy.gc71 ( energy.gc71 @ hq.doe.gov @ inet [ UNKNOWN 1 )
+READ:UNKNOWN
+
+TO: dodlrs ( dodlrs @ osdgc.osd.mil @ inet [ UNKNOWN    1 )
+READ: UNKNOWN
+
+TO: clrm ( clrm @ doc.gov @ inet [ UNKNOWN 1 )
+READ:UNKNOWN
+
+TO: Janet B. Abrams   ( CN=Janet B. Abrams/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Joshua Gotbaum ( CN=Joshua Gotbaum/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ:UNKNOWN
+
+TO: Dee Lee ( CN=Dee Lee/OU=OMS/O=EOP@EOP [ OMB 1 )
+READ:UNKNOWN
+
+TO: Robert G. Damus   ( CN=Robert G. Damus/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ:UNKNOWN
+
+
+TO: Mathew C. Blum ( CN=Mathew C. Blum/OU=OMB/O=EOP@EOP [ OMB l               )
+READ: UNKNOWN
+
+TO: Ellen J. Balis ( CN=Ellen J. Balis/OU=OMB/O=EOP@EOP [ OMB l               )
+READ: UNKNOWN
+
+TO: Jasmeet K. Seehra ( CN=Jasmeet   ~.   Seehra/OU=OMB/O=EOP@EOP [ OMB l             )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP@EOP [ OPD l     )
+READ: UNKNOWN
+
+TO: John A. Koskinen ( CN=John A. Koskinen/OU=WHO/O=EOP@EOP [ WHO l               )
+READ: UNKNOWN
+
+TO: Caroline R. Fredrickson ( CN=Caroline R. Fredrickson/OU=WHO/O=EOP@EOP [ WHO l                     )
+READ: UNKNOWN
+
+TO: Shannon Mason ( CN=Shannon Mason/OU=OPD/O=EOP@EOP [ OPD l             )
+READ:UNKNOWN
+
+TO: Sally Katzen ( CN=Sally Katzen/OU=OPD/O=EOP@EOP [ OPD l           )
+READ:UNKNOWN
+
+TO: Lisa M. Brown ( CN=Lisa M. Brown/O=OVP@OVP [ UNKNOWN l        )
+READ: UNKNOWN
+
+TO: Sarah Rosen Wartell ( CN=Sarah Rosen Wartell/OU=OPD/O=EOP@EOP [ OPD l                 )
+READ: UNKNOWN
+
+CC: James J. Jukes ( CN=James J. Jukes/OU=OMB/O=EOP@EOP [ OMB l               )
+READ:UNKNOWN
+
+CC: Richard E. Green ( CN=Richard E. Green/OU=OMB/O=EOP@EOP [ OMB l               )
+READ: UNKNOWN
+
+TEXT:
+You will not receive a paper copy of this LRM.  Please note the deadline
+of 3pm TODAY.  S. 1138 is being considered on the Senate floor TODAY.
+
+LRM ID: IMS13
+EXECUTIVE OFFICE OF THE PRESIDENT
+OFFICE OF MANAGEMENT AND BUDGET
+Washington, D.C. 20503-0001
+
+Wednesday, June 9, 1999
+
+LEGISLATIVE REFERRAL MEMORANDUM
+
+TO:                     Legislative Liaison Officer - See Distribution
+below
+FROM:           Richard E. Green (for) Assistant Director for
+Legislative Reference
+OMB CONTACT:    Ingrid M. Schroeder
+                                PHONE: (202) 395 -3883 FAX: (202) 395 - 3109
+SUBJECT:        Statement of Administration Policy on Sl138 Y2K Act
+
+DEADLINE:               3pm wednesday, June 9, 1999
+In accordance with OMB Circular A-19, OMB requests the views of your
+agency on the above subject before advising on its relationship to the
+
+
+program of the President.  Please advise us if this item will affect
+direct spending or receipts for purposes cif the "Pay-As-You-Go" provisions
+of Title XIII of the Omnibus Budget Reconciliation Act of 1990.
+
+COMMENTS: S. 1138 is being considered on the Senate floor TODAY. The bill
+text for S. 1138 can be found on the internet in THOMAS. The text of the
+Kerry amendment will be faxed seperately.
+
+If we do not recieve your comments by the above deadline we will assume
+that you have no objection to the proposed SAP.
+
+DISTRIBUTION LIST
+
+AGENCIES:
+6-AGRICULTURECONG AFFAIRS - Vince Ancell (Testimony) - (202) 720-7095
+25-COMMERCE - Michael A. Levitt - (202) 482-3151
+27-Consumer Product Safety Commission - Robert J. Wager - (301) 504-0515
+29-DEFENSE - Samuel T. Brick Jr. - (703) 697-1305
+30-EDUCATION - Jack Kristy - (202) 401-8313
+32-ENERGY - Bob Rabben - (202) 586-6721
+33-Environmental Protection Agency - John Reeder - (202) 260-5414
+37-Federal Deposit Insurance Corporation - Alice C. Goodman - (202)
+898-8730
+39-Federal Emergency Management Agency - Ernest B. Abbott - (202) 646-4105
+51-General Services Administration - William R. Ratchford - (202) 501-0563
+52-HEALTH & HUMAN SERVICES - Sondra S. Wallace - (202) 690-7760
+54-HOUSING & URBAN DEVELOPMENT - Allen I. Polsby - (202) 708-1793
+59-INTERIOR - Jane Lyder - (202) 208-4371
+61-JUSTICE - Jon P. Jennings - (202) 514-2141
+62-LABOR - Robert A. Shapiro - (202) 219-8201
+69-National Aeronautics and Space Administration - Ed Heffernan - (202)
+358-1948
+108-Securities and Exchange Commission - Susan M. Ochs - (202) 942-0016
+107-Small Business Administration - Mary Kristine Swedin - (202) 205-6700
+114-STATE - Paul Rademacher - (202) 647-4463
+117 & 340-TRANSPORTATION - Tom Herlihy - (202) 366-4687
+118-TREASURY - Richard S. Carro - (202) 622-0650
+129-VETERANS AFFAIRS - John H. Thompson - (202) 273-6666
+
+EOP:
+Sarah Rosen
+John E. Thompson
+Lisa M. Brown
+David W. Beier
+Daniel Marcus
+Sally Katzen
+Phyllis Kaiser-Dark
+Shannon Mason
+Sara Wilson
+Caroline R. Fredrickson
+Lisa M. Kountoupes
+John A. Koskinen
+Sonyia Matthews
+Elena Kagan
+David J. Haun
+Jasmeet K. Seehra
+Timothy R. Fain
+Ellen J. Balis
+Linda B. Oliver
+Mathew C. Blum
+
+
+Steven D. Aitken
+Robert G. Damus
+Sandra Yamin
+Dee Lee
+Donald R. Arbuckle
+Joshua Gotbaum
+Victoria A. Wachino
+Janet B. Abrams
+LRM ID: IMS13    SUBJECT:        Statement of Administration Policy on S1138
+Y2K Act
+RESPONSE TO
+LEGISLATIVE REFERRAL
+MEMORANDUM
+
+If your response to this request for views is short (e.g., concur/no
+comment), we prefer that you respond bye-mail or by faxing us this
+response sheet.  If the response is short and you prefer to call, please
+call the branch-wide line shown below (NOT the analyst's line) to leave a
+message with a legislative assistant.
+
+You may also respond by:
+         (1) calling the analyst/attorney's direct line (you will be
+connected to voice mail if the analyst does not answer); or
+         (2) sending us a memo or letter
+Please include the LRM number shown above, and the subject shown below.
+
+
+TO:                Ingrid M. Schroeder Phone:   395-3883   Fax:  395-3109
+                   Office of Management and Budget
+                   Branch-Wide Line (to reach legislative assistant) :
+395-3454
+
+FROM:                                                          (Date)
+
+                                                               (Name)
+
+                                                               (Agency)
+
+                                                               (Telephone)
+
+
+The following is the response of our agency to your request for views on
+the above-captioned subject:
+
+                  Concur
+
+                  No Objection
+
+                  No Comment
+
+                  See proposed edits on pages
+
+                  Other:
+
+                  FAX RETURN of _____ pages, attached to this response sheet
+
+           June 9, 1999
+           (Senate)
+
+           S. 1138 - Y2K Act
+
+
+(McCain (R-AZ) and 13 cosponsors)
+
+The Administration strongly opposes S. 1138, the Y2K Act.  If S. 1138 were
+presented to the President in its current form, the PresidentO,s senior
+advisors would recommend that he veto the bill, for reasons noted in
+earlier letters to Congressional leadership on this subject. The
+Administration, however, strongly supports an amendment that will be
+offered by Senator Kerry, with Senators Robb, Daschle, Reed, Breaux, and
+     , that would address the AdministrationO,s concerns.  If this
+amendment is adopted, it would enable the Administration to support
+enthusiastically passage of the bill.
+
+As the new century approaches, the products and services on which the
+nation depends must be ready to handle the year 2000 date change. The
+Administration recognizes the need to deter frivolous litigation that may
+result from actual or potential Y2K failures and agrees that meaningful
+and targeted Y2K-specific changes to litigation rules are in order.
+
+The AdministrationO,s overriding concern, as stated previously, is that S.
+1138 goes beyond the targeted Y2K changes that are necessary, will not
+enhance readiness, and instead may reduce the incentives organizations
+have to avoid or minimizeY2K-related problems in the products or services
+they market.  S. 1138 would provide protections for defendants by capping
+punitive damages, increasing the burden on plaintiffs to mitigate damages,
+and limiting the defendant sO, liability to their proportional share of
+damages, regardless of whether defendants had been proactive in resolving
+potential Y2K problems. As a result, S.1138 would undermine incentives to
+act now O} when the damage due to Y2K failures can still be averted or, at
+the very least, minimized.
+
+Moreover, S. 1138 would apply to consumer and investor claims.   Recent
+Federal legislation already made targeted modifications of the securities
+laws to prevent frivolous lawsuits; securities claims should be excluded
+from this measure. With respect to consumers, the Administration supports
+the approach adopted by the Kerry amendment under which consumer class
+action suits would be subject to the requirement that the suits allege a
+material defect and plead the defect and damages with specificity.
+Wholesale application of the bill to consumers, however, would raise the
+bar too high for many consumers who have been harmed, leaving them without
+adequate remedies.  In addition, even while S. 1138 prevents consumers
+from pursuing legitimate claims, it would provide virtual immunity for
+consultants, accountants, and service providers (the 0&bystanders08
+described in the bill), extend the benefits of the O&economic 10ss08 rule to
+those who have committed intentional torts, and require· courts to enforce
+contracts that would otherwise be illegal or unconscionable against those
+harmed.
+
+Finally, S. 1138 would effectively move into Federal court class actions
+for Y2K claims, creating a heavy burden for the Federal judiciary, over
+the strong opposition of the Judicial Conference and in stark disregard
+for the traditional division of responsibilities between State and Federal
+courts.
+The Kerry amendment addresses these concerns and makes targeted
+modifications to S. 1138, ensuring that the legislation would encourage O}
+not discourage O} readiness and deter frivolous lawsuits while keeping the
+courthouse door open for consumers and small businesses with legitimate
+claims.
+
+* * * * * * * * * *
+
+

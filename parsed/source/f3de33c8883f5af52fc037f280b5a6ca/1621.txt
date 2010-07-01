@@ -1,0 +1,203 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP [ OPD ]    )
+
+CREATION DATE/TIME: 2-APR-1997 12:40:09.00
+
+SUBJECT:   Here's the revised privatization memo
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO]    )
+READ:UNKNOWN
+
+CC: Diana Fortuna ( CN=Diana Fortuna/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ:UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D23]MAIL44765419T.016 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043A8070000010A020100000002050000006D330000000200004497EF184F49F1CD2AOEA9
+8484433D661784E6C07F9B54785D88B6E12BE796CC035E74B001B1B16C31C6103BDCA472C7F3CC
+4C7DA741B569556D83225A422397E2EOE82435477FFEll13DD23EADA21E6DB3C30F1F21D6F8484
+1D1D028D453E2C738EB7E862E1A7C1BF3AC86926472C02750C035FC932F6FF74F37CA82138E07F
+A8C75C42519759B8B640A92F759BBAD6321546A5AF272F8D3F9D89615B9E7B671E5796914A068D
+38CC243F9006462D55C124D9EF9815D1C8AF52E5181F7D051190DO35CBB8FC198CFA840663B1EA
+22DC95FC81B50ACE71C46910DA4A927D4321DA98452F04E654FF49220443D4AC42997819767B96
+8A98A7C5A22DD2043661BA784799559E41CFE172CA28FDCEDFFE05DAC19B5155A42ECD62E4EA70
+71E61B2EE77A09E2CA438B5AA82162AB26A580C83782CB931E8EODB4C5F64975986799393EB5FE
+8A3C6DOF4ED950F1A78BE64342560FAC047AD3C7AOF9F58036CD9018DOC44209E7F04B4DF7C092
+E8B807F2EB6FA3E842F8201D8C54DD52A06BBA6B3FDE6D6E3CBE9D9DOAA7D87E70A5025A9C51AO
+81DCE41D6B6ED14EECB148CF09721870557B67272656D734E23073A7FCE8D483A5DD03D071AFC9
+B176BE3EAB4E47437EC1F72984B45DEEDFEBB444561C306FAAB8FDAB3CA1B3B5CEC6976BA58D35
+36941E267402002B00000000000000000000000055020000004EOO00005A040000092501000000
+06000000A80400000B300500000055000000AE04000008050100000008000000030500000B3001
+0000004FOOOOOOOB0500000055010000003C0000005A0500000968010000005200000096050000
+08020100000010000000E80500000B300500000034000000F8050000020801000000550000002C
+060000087701000000400000008106000008340100000014000000C10600000B30020000005000
+0000D506000000000000000000000000D50600000B300100000050000000250700000066020000
+000200000075070000006101000000140000007707000000000000000000000000770700000000
+000000000000000077070000000000000000000000007707000000000000000000000000770700
+000000000000000000000077070000000000000000000000007707000000000000000000000000
+770700000000000000000000000077070000000000000000000000007707000000000000000000
+000000770700000000000000000000000077070000000000000000000000007707000000000000
+000000000000770700000000000000000000000077070000000000000000000000007707000000
+000000000000000000770700000000000000000000000077070000000000000000000000007707
+000000000000000000000000770700000000000000000000000077070000000000000000000000
+007707000000000000000000000000770700000000000000000000000077070000000000000000
+00000000770700000942020000001D0000008B0700002800D61EC3OF3908000011090000005AOO
+OB01008B143600540069006D006500730020004E0065007700200052006F006D0061006E002000
+52006500670075006C006100720000000000000000000100010058020100000004003EOOOOOOOO
+0000001700000000000000000000000100842D24002206000053006D0061006C006C0020004300
+6900720063006C0065000000F02206FOE030130000000008072EOO2E000108071300E001000400
+0200000001000000040028000000270000000000000000000000000000000132CFCF2400A70000
+00A7000000DDOA1000830109000300A454211000DDD3050C0000010000000COOD3DDOBOB000300
+                                                                  Hex-Dump Conversion
+
+
+
+
+                                          April 2, 1997
+
+MEMORANDUM FOR THE PRESIDENT
+
+FROM:                 DONNA SHALALA
+                      BRUCE REED
+
+SUBJECT:              WELF ARE--TEXAS INTEGRA TED ENROLLMENT PROJECT
+
+        As you know, Texas has asked for federal permission to issue a "request for offers" for a
+private company to operate an integrated enrollment system for Medicaid, Food Stamps, and
+Temporary Assistance for Needy Families. Labor unions, particularly the public employees
+unions, strongly oppose any private sector role in the eligibility determination process.
+
+         We believe we must give Texas an answer immediately. The state has engaged in good
+faith discussions with various agencies for 9 months, and state officials are now publicly
+criticizing the Administration for the delay.
+
+        We believe we have a proposal which will break the stalemate, one which strikes a
+reasonable balance between allowing the state to explore innovative ways to deliver public
+services and ensuring beneficiaries' rights to assistance. As shown in the chart below, our plan
+would allow Texas to have private contractors obtain information and documentation needed to
+determine eligibility and assist an individual in completing an application for benefits.
+However, the final determination or "certification" of eligibility would be conducted by public
+sector employees.
+
+                                           Texas            Union         Our Proposal
+ Allows Private Contractors to:           Proposal         Proposal
+
+      Assist Individuals in                 Yes              No                 Yes
+      Completing Applications
+
+      Determine or Certify                  Yes               No                No
+ Eligibility
+
+      Consider Appeals                      No               No                 No
+
+      Conduct Quality Control               No               No                 No
+                                                                   Hex-Dump Conve:-sion .
+Our plan would:
+
+       �       Protect beneficiaries by ensuring only merit system employees, who are not
+               subject to monetary or political pressures, determine benefit eligibility, consider
+               appeals, arid conduct quality control operations.
+       �       Allow Texas to achieve' program efficiencies through a bidding process. The
+               Texas legislature, in authorizing the project in 1995, required any savings to be
+               used to fund additional health and human services programs. The state estimates
+               the savings will provide health care coverage for an additional 150,000 needy
+               children.
+       �       Apply to the Food Stamp program a definition of public and private
+               responsibilities used successfully in Medicaid.
+       �       Use waiver authority, which deems the project an experiment, allows for public
+               comment, and enables us to limit the experiment to Texas or a handful of states.
+
+        We would allow the state of Texas to release a request for offers based on these
+principles. Once the state chooses among the bids, the state would be required to submit to us
+the proposed contract for approval.
+
+Background on Texas Proposal
+
+        The new welfare law explicitly allows states to contract with private entities to administer
+Temporary Assistance for Needy Families (TANF). Because of this new authority in TANF,
+some states are seeking new contracting authority for Medicaid and Food Stamps as well, so they
+can operate privately-run, one-stop eligibility centers. In addition to the Texas proposal
+discussed below, Wisconsin has submitted a proposal which would allow 10% of its welfare
+offices to be operated by private entities.
+
+         Federal agencies and the state of Texas have been negotiating since June 1996 over the
+state's proposal to privatize the administration of T ANF, Medicaid, Food Stamps, and certain
+other federally-funded nutrition programs. The state legislature passed the plan with bipartisan
+support, with endorsements from Lt. Gov. Bob Bullock and other leading Democrats. Under
+the Texas plan, private contractors would collect information about applicants (including by
+conducting interviews) and make eligibility determinations. The State would retain control over
+the appeals and quality control processes. An estimated 15,000 state jobs would be eliminated
+or transferred to the private sector. The state would require bidders to comment on whether
+they plan to hire displaced government workers. Such companies as Lockheed, EDS, and
+Arthur Anderson have indicated an interest in bidding.
+
+       Texas has argued that it cannot proceed with plans to contract out TANF (as allowed by
+the welfare law) unless the Administration allows private contracting for Food Stamps and
+Medicaid, because maintaining separate eligibility systems for these programs creates
+administrative difficulties. To take the most obvious problem, a dual system would require
+many individuals to go to one location to apply for TANF and another location to apply for
+Food Stamps and Medicaid. Texas wants a one-stop eligibility center.
+
+
+                                                 2
+                                                                   Hex-Dump Conversion
+
+        Texas state officials are becoming increasingly impatient with HHS and USDA for not
+having ruled on their proposal. In a recent letter to HHS, state officials threatened to proceed
+with the project without Federal approval. State officials also point out that they have pledged
+to reinvest the savings from their plan in additional health and human services programs, and that
+these savings could provide health coverage for 150,000 Texas children. Rep. Charlie
+Stenholm, one of the Administration's strongest welfare reform allies, complained about the delay
+to Frank Raines in a February 24th letter, saying the state of Texas is "willing to make
+accommodations to address administration conc~rns." Secretary Shalala has promised Texas an
+answer by early April. Most recently, we heard from Rep. Stenholm's office and from Gary
+Mauro that Texas would accept modifications of its proposal as long as we allow the State to go
+forward with releasing a "request for offers" ("RFO") to potential bidders.
+
+          Labor leaders would like us to refuse the Texas request entirely. They see even limited
+privatization as a dangerous precedent and have made clear that they view this decision as
+critically important to public employee unions.
+
+Recommendation
+
+        All the relevant agencies and White House offices agree that the Administration should
+draw the line on the basis of our existing Medicaid policy, which allows privatization of some
+but not all administrative functions. Under this approach, the application, interview, and other
+information-gathering can be done by private employees; the eligibility determination itself, as
+well as appeals and quality control, must remain in the hands of public employees. In addition,
+the Administration should ensure that contracts protect against the possibility that private firms
+will use procedures that lead to inappropriate denials -- or, as OMB notes, inappropriate grants --
+of program benefits.
+
+        This general approach has both strong precedent and good sense behind it. The
+Medicaid program already allows private hospital workers to do intake and eligibility work, up to
+the point of actually determining eligibility. Allowing privatization of these functions,
+conditioned on appropriate contract incentives and safeguards, strikes the right balance between
+allowing states to explore innovative ways to deliver public services and ensuring that
+beneficiaries' rights are protected. There is little doubt that this approach will displace some
+state workers and displease public employee unions. But we have crossed this bridge already in
+Medicaid and other contexts; for example, the Department of Labor has granted a waiver to
+Massachusetts to contract out all employment services and is prepared to do the same for other
+states as well.
+
+        In line with this view, we recommend that we inform Texas of the principles we will
+apply in reviewing any privatization scheme and give formal permission to the State to issue its
+RFO. Once the State accepts a bid, we will review whether the contract appropriately accords
+with our principles. This approach gives Texas a lot less than it asked for, but allows the State
+to proceed with some reforms. It preserves a role for public employees, but will still anger the
+unions.
+
+
+                                                 3
+
+

@@ -1,0 +1,80 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Jose Cerda III ( CN=Jose Cerda III/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME:17-MAY-1999 17:03:20.00
+
+SUBJECT:   draft lott/daschle letter
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ:UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ:UNKNOWN
+
+CC: Cathy R. Mays ( CN=Cathy R. Mays/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+CC: Leanne A. Shimabukuro ( CN=Leanne A. Shimabukuro/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ:UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D7]ARMS232987948.136 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504370040000010A020100000002050000003D110000000200001E681CB2BDAC10F6334784
+78C24C72100CF85B2DE06427C35AEBCFFD6AD23E6FADFFC179349EB9A297EC7305B5FED2FBBIEA
+
+
+
+                                                                              Automated Records Management SYstem
+                                                 May 17,1999                          Hex-Dump Conve!'Sion .
+
+           The Honorable Trent Lott
+           Majority Leader
+           United States Senate
+           Washington, DC 20510
+
+           Dear Mr. Leader:
+
+                   I write to urge you to allow the Senate to complete its work on juvenile crime legislation
+           this week, and to once again consider the Lautenberg amendment to require Brady background
+           checks for all guns sold at gun shows. Although I recognize that there are many other important
+           issues pending before the Senate, none is more timely or important than preventing youth
+           violence.
+
+                   In the wake of the Littleton shooting, there is broad national consensus that we must all
+           accept responsibility and take action to help prevent youth violence. We in government have a
+           special responsibility to enact and enforce common sense legislation that will help keep guns out
+           of the hands of criminals and children. So I was pleased last week when the Senate voted to ban
+           the importation of large capacity ammunition magazines, as well as the juvenile possession of all
+           assault rifles and large capacity clips. Passing these proposals was a step in the right direction.
+
+                   I remain deeply disappointed, however, that the Senate has failed to take meaningful
+           action to prevent criminals from getting firearms at gun shows. The Senate-passed amendments
+           on gun shows have not only failed to close the loophole in current law that allows criminals and
+           young people to buy firearms at gun shows without so much as a Brady background check, they
+           also will open up new loopholes in the law that will make it easier for criminals to get guns and
+           more difficult for law enforcement to its job. Frankly, this language is simply unacceptable and
+           should not stand. Instead, the Senate should reconsider Senator Lautenberg's amendment, with
+           all members present, and close the gun show loophole once and for all.
+
+                  Over the past few years, we have made steady progress against crime by working
+           together. Our efforts, and those carried out in communities across the nation, are showing
+           impressive results. This weekend the FBI released preliminary data for 1998 showing that crime
+           is down for the seventh year in a row, the longest period of decline since the 1950's. I hope that
+           the Senate will build on this progress by working together to debate and pass a tough, balanced
+           juvenile crime bill that includes comprehensive measures to combat and prevent crime and gun
+           violence -- and keep crime coming down in the 21 st Century.
+
+
+                                         Sincerely,
+
+

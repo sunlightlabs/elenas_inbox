@@ -1,0 +1,35 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Mary L. Smith ( CN=Mary L. Smith/OU=OPD/O=EOP [ OPD 1 )
+
+CREATION DATE/TIME: 19-NOV-1998 18:18:07.00
+
+SUBJECT:   possible Airline Safety Event
+
+TO: Christa Robinson ( CN=Christa Robinson/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ-: UNKNOWN
+
+TO: Thomas L. Freedman ( CN=Thomas L. -Freedman/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ:UNKNOWN
+
+TEXT:
+The FAA sent this over as possible event: The FAA would issue an NPRM that
+would require   (or promote the voluntary disclosure) that airlines provide
+their flight data recorder (black box) data to the FAA on an ongoing basis
+in order to enhance safety in such areas as training, operating procedures
+and air crew performance, air traffic control, airport maintenance and
+design, and aircraft operations and design. Aviation industry groups have
+stated that they would support the voluntary implementation of this
+disclosure-, subject to FAA assurance that information obtained would not
+be used in punitive enforcement actions.   Currently, the FAA uses the
+black box data primarily only after accidents occur. This initiative
+would permit the data to be used to prevent future accidents. This could
+be ready in mid-December.
+
+

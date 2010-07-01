@@ -1,0 +1,313 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Sarah A. Bianchi ( CN=Sarah A. Bianchi/OU=OPD/O=EOP [ OPD 1 )
+
+CREATION DATE/TIME: 21-JUL-1998 10:07:30.00
+
+SUBJECT:   nursing home paper
+
+TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Neera Tanden ( CN=Neera Tanden/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Karen Tramontano ( CN=Karen Tramontano/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Darby E. Stott ( CN=Darby E. Stott/OU=WHO/O=EOP @ EOP [ WHO 1
+READ:UNKNOWN
+
+TO: Elizabeth R. Newman ( CN=Elizabeth R. Newman/OU=WHO/O=EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Julia M. Payne ( CN=Julia M. Payne/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Joseph P. Lockhart ( CN=Joseph P. Lockhart/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Melissa G. Green ( CN=Melissa G. Green/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Jonathan Orszag ( CN=Jonathan Orszag/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Jake Siewert ( CN=Jake Siewert/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Barbara D. Woolley ( CN=Barbara D. Woolley/OU=WHO/O=EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Joseph C. Fanaroff ( CN=Joseph C. Fanaroff/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Chandler G. Spaulding ( CN=Chandler G. Spaulding/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Jessica L. Gibson ( CN=Jessica L. Gibson/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Janet Murguia ( CN=Janet Murguia/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Lawrence J. Stein ( CN=Lawrence J. Stein/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Ann F. Lewis ( CN=Ann F. Lewis/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+
+
+READ: UNKNOWN
+
+TO: Laura K. Capps ( CN=Laura K. Capps/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Daniel N. Mendelson ( CN=Daniel N. Mendelson/OU=OMB/O=EOP @ EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Maureen T. Shea ( CN=Maureen T. Shea/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Lori L. Anderson ( CN=Lori L. Anderson/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Nanda Chitre ( CN=Nanda Chitre/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Barry J. Toiv ( CN=Barry J. Toiv/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Jeanne Lambrew ( CN=Jeanne Lambrew/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Jonathan A. Kaplan ( CN=Jonathan A. Kaplan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: William H. White Jr.   ( CN=william H. White Jr./OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Lawrence J. Haas ( CN=Lawrence J. Haas/O=OVP @ OVP [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Kevin S. Moran ( CN=Kevin S. Moran/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Stacie Spector ( CN=Stacie Spector/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Mindy E. Myers ( CN=Mindy E. Myers/OU=WHO/O=EOP @ EOP [ WHO. 1 )
+READ: UNKNOWN
+
+TO: Charles M. Brain ( CN=Charles M. Brain/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Eleanor S. Parker ( CN=Eleanor S. Parker/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Michelle Crisci ( CN=Michelle Crisci/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D511MAIL472424807.226 to ASCII,
+ The following is a HEX DUMP:
+
+
+
+FF57504300060000010A02010000000205000000FC2A000000020000lE8642BEDCE3E47E65B2DC
+30134E3205AE3FD96B65F97F3418C2B818833717CE9DE8DDCB3133CD635B710BOD8DD04C8391DE
+DBE43161CEB85CC998EB958E3AD38BD94CB4DAF1865911F021EBA7A81CD2CEOOA9A8F9F2AACA73
+9A69BBll1793FA3D9740F013A120C455755C1D89BFC19DC869496FBC8EF4ADABOOFEC469C9D8E3
+FB9881517FE30ED81E266B644B74F9655BC37D96F97E1822CB3D88OEB2A4FA894B4109A18A8337
+A690DD2C7322D3F1A69288A18BA91685B160DED68F77D184DD04FC2B91EC3BEEC79E38CD9358AE
+E5F915466A29AFBF5F1E5E174B35B9A9D52962DA2A5FAF68EC60336AFA9C42FF3C6908A8168E7F
+F3F7EB97EFl17E78156CCE35E42E84A04A041C96EAA9E3FOBBCE774FE8ECEOBC6E7F464223F723
+                                     July 20, 1998
+
+
+Q:    Aren't you just announcing this new initiative to preempt an upcoming report from
+      the General Accounting Office that will sharply criticize your record on enforcing
+      nursing home quality?
+
+A:'   No. From the moment we received a report late last year about problems in California
+      nursing homes, the President asked the incoming HCF A Administrator, Nancy-Ann
+      DeParle, to review these problems and to make recommendations on how the Federal
+      Government could best respond. Administrator DeParle has since made improving the
+      quality of nursing homes one of her top priorities.
+
+      In the course ofHCFA's review, it learned more about the nature of the problems in
+      nursing home care and developed recommendations to address them. Today, we are
+      announcing these new recommendations.
+
+Q:    If this is a priority for your Administration, how come these problems are still
+      occurring five years after you have taken office?
+
+A:    Taking action to help ensure that nursing homes are delivering high quality care has
+      always been a high priority for this Administration. When the Republicans threatened to
+      eliminate Federal standards for nursing homes in 1995, the President stood strong against
+      these proposals. In 1995, the President also implemented the strongest regulations on
+      nursing home enforcement in history, including stepping up on-site inspections and
+      helping nursing homes find and fix problems. The President is taking tough new actions
+      again today to improve the quality of our nursing homes further and is committed to
+      taking even stronger actions in the future if they are needed.
+
+Q:    Isn't a big part of the problem the fact that nursing homes are not adequately
+      reimbursed? In fact, last year's Balanced Budget Act cut reimbursement rates and
+      eliminated the Boren Amendment, which explicitly required adequate
+      reimbursement.
+
+A:    While reimbursement no doubt plays some role in the quality of care, we believe that
+      nursing homes are being adequately compensated. In fact, the new Medicare payment
+      policies give nursing homes greater flexibility to provide the treatment that residents
+      need. It creates financial incentives for nursing homes to provide high-quality care and
+      become better managers, and holds them more accountable for the care they provide.
+
+      Under the old, cost-based system, there was no incentive for efficiency or careful
+      management. The payment changes in the Balanced Budget Act are similar to those
+      adopted for hospitals in the 1980s, which have resulted in quality care and better
+      management. Having said this, we will be closely monitoring reimbursement levels to
+      ensure they are adequate to deliver high quality services.
+Q:    Aren't you thwarting the traditional legislative process tiy consistently issuing
+
+                                                           Automated Records Management SysttiTJ
+                                                           Hex-Dump Conversion
+
+A:   As you will note, today we are not only taking administrative actions, but also sending up
+     a legislative proposal to provide HCF A with additional needed authority over nursing
+     homes. The best way to make progress in this area, as in so many others, is to do so in
+     partnership with Congress. But where we can take executive action to improve the
+     health and well-being of Americans, this President offers no apologies and will continue
+     to act where appropriate to achieve that end.
+
+
+
+
+                                                          Automated Records Management System
+                                                         Hex.Dump Conversion
+                            NURSING HOMES
+                              July 21, 1998
+
+Today, the President announced tough new legislative and administrative actions to improve the quality
+of nursing homes. These actions include: ensuring swift and strong penalties for nursing homes
+failing to comply with standards, strengthening oversight of state enforcement mechanisms, developing
+a national registry to track and identify individuals with a record of abusing residents, and
+implementing unprecedented efforts to improve nutrition and prevent bed sores.
+
+Background on Nursing Homes. About 1.6 million older Americans and people with disabilities
+receive care in approximately 16,700 nursing homes. Since the Health Care Financing Administration
+(HCF A) put new regulations in place in 1995, the health and safety of nursing homes has improved.
+For example, the inappropriate use of physical restraints has been cut by more than half and the number
+of nursing home residents receiving hearing aids is up 30 percent. But HCFA's ongoing review, as
+well as the report that HHS is transmitting to Congress today, shows that tougher enforcement is
+needed to ensure high quality care in all nursing homes. In response, the President is announcing a
+tough new initiative to crack down on poor quality nursing homes and ensure high quality care.
+
+The President Is Sending Legislation to Congress This Week That Calls for:
+
+·      New Criminal Background Checks. An important way to improve the quality of nursing
+       homes is to prevent personnel who have a history of resident and abuse from entering the
+       system in the first place. The legislation the President is proposing would require nursing
+       homes to conduct criminal background checks on all potential personnel.
+
+·      National Abuse Registry. Once inadequate personnel have been identified, they should be
+       kept out of the system for good. The new legislation would establish a national registry of
+       nursing home employees convicted of abusing residents.
+
+·      Improved Nutrition and Hydration. Currently, too few nursing home staff are available to
+       help feed residents. To improve nutrition in nursing homes, this legislation would allow more
+       categories of nursing home employees to receive training in and then to perform crucial
+       nutrition and hydration functions.
+
+·      Reauthorization of the Nursing Home Ombudsman Program. The President also called on
+       Congress to reauthorize the nursing home ombudsman program run by the Administration on
+       Aging, which provides consumers with critical information on poor-quality nursing homes,
+       including records of abuse and neglect.
+
+
+
+
+                                                              Automated Records Management System
+                                                              Hex-Dump Conversion
+Homes. Today, the President announced a series of new penalties, new inspections, and tougher
+oversight that HCFA will implement immediately, including:
+
+·     Immediate Civil Monetary Penalties on Nursing Homes That Violate Federal Standards.
+      To crack down on inadequate providers, HCF A will direct enforcement authorities to impose
+      civil monetary penalties immediately upon finding that a nursing home has committed a serious
+      or chronic violation. Under current practice, enforcement officials often give nursing homes
+      numerous opportunities to come into compliance, rather than imposing immediate sanctions.
+
+·     Tougher Nursing Home Inspections. Starting today, HCFA will take several steps to
+      strengthen states' inspection of nursing homes, such as:
+
+             Staggering survey times: The report that HCF A is transmitting to Congress finds that
+             nursing home inspections are too predictable, allowing inadequate nursing homes to
+             prepare for inspections. Enforcement officials will now stagger survey times and
+             conduct some surveys on weekends and evenings.
+
+             Targeting chains with bad records: Federal and State officials will target nursing home
+             chains that have a poor record of compliance with quality standards, to ensure these
+             nursing homes receive frequent inspections.
+
+             Prosecuting egregious violations: HCF A also will work with the HHS Office of
+             Inspector General and Department of Justice to refer egregious violations of quality of
+             care standards for criminal or civil investigation and prosecution when appropriate.
+
+·     Stronger Federal Oversight of State Nursing Home Enforcement Mechanisms. HCFA
+      will increase its oversight of state surveyors and take new tough actions against states that are
+      failing to enforce standards adequately. It will:
+
+             Terminate Federal nursing home inspection funding to states with continual poor
+             records. The report being released by HCFA finds that some states have cited few or
+             no nursing homes for substandard care. In states where oversight is clearly inadequate,
+             HCF A will terminate state contracts and contract with other entities to conduct
+             Federally-required inspections.
+
+             Increase oversight of state inspections. HCF A will increase its review of the surveys
+             conducted by the states to ensure thorough oversight, as well as provide additional
+             training and assistance to state enforcement officials.
+
+             Ensure that nursing homes are in compliance with standards before lifting sanctions.
+             HCF A will increase oversight of state enforcement officials to ensure that they will not
+             lift sanctions until after an on-site visit has verified compliance.
+
+
+
+
+·     Preventing Bed Sores, Dehydration, and Malnutrition. HCF A will implement new oversight
+
+                                                                    Automated Records Management SysteJ11
+                                                                    Hex-Dump Conversion
+    State surveyors will be required to monitor these activities and to sanction nursing homes with
+    patterns of violations. HCFA also will work with the Administration on Aging, the American
+    Dieticians Association, clinicians, consumers, and nursing homes to develop best practice
+    guidelines to prevent malnutrition, dehydration, and bedsores.
+
+·   Publishing Survey Results on the Internet. To increase accountability and flag repeat
+    offenders for families and the public, HCF A will, for the first time, post individual nursing
+    home survey results on the Internet.
+
+·   Implementing New Efforts to Measure and Monitor Nursing Home Quality. In June
+    1998, HCF A began collecting information on resident care through a national automated data
+    system, known as the Minimum Data Set. This information will be analyzed to identify
+    potential areas of inadequate care in nursing homes and to assess performance in critical areas,
+    such as nutrition, avoidable bed sores, loss of mobility, and use of restraints. This assessment
+    will help HCF A and state surveyors to conduct thorough evaluations of nursing homes and
+    detect problems early.
+
+
+
+
+                                                                       Automated Records Management Sy~!em
+                                                                       Hex.Dump ~version         .
+
+

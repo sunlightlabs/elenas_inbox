@@ -1,0 +1,477 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP [ OPD ) )
+
+CREATION DATE/TIME:24-0CT-1997 09:16:57.00
+
+SUBJECT:   PIs review: New Waiver Proposal/Update on Reg Negotiation
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ) )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ) )
+READ: UNKNOWN
+
+CC: Cathy R. Mays ( CN=Cathy R. Mays/OU=OPD/O=EOP @ EOP [ OPD ) )
+READ: UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO ) )
+READ: UNKNOWN
+
+CC: Diana Fortuna ( CN=Diana Fortuna/OU=OPD/O=EOP @ EOP [ OPD ) )
+READ: UNKNOWN
+
+TEXT:
+As the attached document shows, we've made good progress on our issues in
+the TANF reg negotiations so far.  There are about 8-10 issues that still
+need to be resolved.
+
+But first, we need as soon as possible to decide our position on waivers.
+Please review the new option described in the attached, which is designed
+to try to narrow the scope of the provision without rendering it
+meaningless� (not an easy task, we've found).
+
+Is it possible for us to meet this afternoon to discuss the waiver issue
+specifically? HHS is awaiting our position on this issue. We'd also be
+happy to discuss any of the other issues.
+
+OMB's plan for the next step in th~ negotiation is for Sally Katzen to
+host an OMB-HHS-DPC meeting to try to settle the unresolved issues.
+
+
+please review the chart in preparation for a meeting to be scheduled and
+chaired by Sally Katzen==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:    0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D55)MAIL457443698.216 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043392D0000010A020100000002050000001684000000020000AB08FE2EFA72AOF658CF3F
+5FE8B3EBD2E86CE208E9C3660B7E78F174551F61FD025B140EF892E49EAE22651F603290EC395B
+D19CC81186BB561FA762242402A1300ED1CBB8743472DF906C8C4C3720ED91AF5BB84862644E58
+23B804043D85538901FCBFBE5AD03BA335EB9310496B2AAD97F3CCE98B7E3B44DC970B58308855
+8C315B8503BDF4C57DB8C933005006532D5BF7DBAD4CFB2CEAF3AFFF7B8C09CCOB512747722C81
+31B1A23DD8C57A2936DEF87DAF9B4B48AFA932F1E3F9FC59261C3E82E3B557D358A55A970E55A3
+1BD9FDAOC8F9FACB4351F20F74C4452D4BC5BBF9BE26C8101BBF4EE9D40A23B7EF6365A01884F3
+6F916A72AFE4DF390C88564B4D51581ACE3DOB504783609A3EC904143B9EE453863975B86E7082
+695A43424FEOC1D8D3A46EFE4AC35A559BFE77A8DFD1075E81EED1D28FE5012AE3028B445EFCF5
+6CE570B5502BB19F6419DC912D480F5E03408502025D3C328DC1546484D6FD5DD19D1AEDCBDDA9
+F06B709323DDA83B4C67EOBF7CF7D3A87B269A1DEEBC657DDOE25BDB7A29F1865B3CEA9875FFFB
+                                         Waiver Policy Proposal
+                                                                        Hex-Dump Conversion
+I. STATUTE
+     "Waivers in Effect on Date of Enactment of Welfare Refonn": " ... if any waiver granted to a
+     state .. .is in effect as of the date of enactment...., the amendments made by [PRWORA] ... shall not
+     apply with respect to the state before the expiration (detennined without regard to any extension)
+     of the waiver to the extent such amendments are inconsistent with the waiver."
+
+       "Waivers Approved Subsequently" section says that such a waiver "shall not affect the
+       applicability of section 407 to the state." (Work requirements)
+
+       Legislative History: statutory language was narrowed from 'ifhave a waiver, new law does not
+       apply' to "inconsistent" standard. Final report language added clause re: "program features of
+       state program not specifically covered by the waiver must conform to this part."
+
+II. BBS PROPOSED REG
+Legal Theory:
+A provision ofTANF is inconsistent with a waiver only if the State must change its waiver policy in order
+to comply. The definition of a waiver can include applicable provisions of prior law if their inclusion
+was necessary to achieve the objective of the approved waiver. For example, a state whose waiver
+program counted community college attendance as work did not need a waiver of AFDC law in order to
+do this. The reg would permit such a practice to continue, because it would require a change in state
+policy to do otherwise, and it's inconsistent with T ANF' s definition of work. Legally, the reg defends the
+decision to consider prior law as part of the waiver on the grounds that doing otherwise would allow very
+few waiver practices to continue (largely just time limits), rendering that section of the law meaningless.
+
+Policy Effect:
+Work Requirements:
+Section 407 doesn't apply to waivers to the extent their features are inconsistent with current law.
+Examples given are looser definitions of work and requiring fewer hours of work per week to be counted
+as working. However, states may not claim inconsistencies that affect the denominator of the
+participation rates -- i.e., limit the universe of people to whom the participation rates are applied. The
+reg defends this decision by noting that HHS never granted a waiver of a participation rate, nor a waiver
+that granted new exemptions from work requirements.
+
+Time Limits:
+States whose waivers have time limits may use their waiver's more liberal exemption and extension
+policies.
+
+�      Extensions -- The draft reg says that both the federal and state clocks must start ticking
+       simultaneously but that, once the federal clock expires, the state may grant extensions in
+       accordance with the approved waiver until the waiver expires. The reg also says that a state need
+       not comply with the law's 20% limit on exemptions ifits waiver's extension policies cause it to
+       exceed 20%.
+
+�      Exemptions -- The draft reg also says that months during which a recipient is exempt from time
+       limits because of waiver policy do not count toward the federal five-year limit.
+
+
+
+                                                    -}-
+III. OUR PROPOSAL                                                  Hex-Dump Conversion
+
+The Challenge: To define "inconsistent" in a way that narrows the effect of the provision without
+rendering the entire provision meaningless.
+
+Work Requirements:
+�     Argue that definitions of work activity were not necessary to achieve objective of approved waiver
+      (objective was to put more people to work)-� thus no grandfathering of more liberal job search and
+      voc ed criteria.
+
+�      Alternative argument with the same result: Only permit specific items waived from compliance
+       with prior law, rather than allowing states to import "provisions of prior law" into the definition of
+       waiver. In this case, the definition of work in any waiver could not be inconsistent with the law,
+       because in no case was the definition of work activities a "program feature ... specifically covered
+       by the waiver". Thus more liberal definitions of job search and vocational education could not
+       be continued under the guise of waivers. [This theory may not, however, allow the policy listed in
+       next bullet below; thus it may result in the provision having no effect on work rates, which HHS
+       argues it must since the statute specifically exempts "waivers granted subsequently" from having
+       any effect on work rates.]
+
+�      Allow, as the draft reg now does, for waivers to be considered inconsistent if they specified the
+       number of hours of work to be determined according to individual circumstances, but make
+       explicit that these inconsistent waivers can only be continued in the same geographic areas as
+       originally approved in the waiver and in effect at date of enactment [i.e., if a state had approval to
+       expand a waiver statewide but had not done so yet, it could not].
+
+Time Limits:
+�     Allow, as the draft reg now does, for exemption and extension policies to be considered
+      inconsistent, but make explicit that these waivers can only be continued in the same geographic
+      areas as originally approved in the waiver and in effect at date of enactment [i.e., if a state had
+      approval to expand a waiver statewide but had not done so yet, it could not].
+
+Changes Applying to Both Work Requirements and Time Limits:
+
+�      A state that continues a waiver inconsistent with PRWORA's time limits or work requirements
+       shall not be eligible for a high performance bonus or a case10ad reduction credit.
+
+�      A state that continues a waiver inconsistent with PRWORA's time limits or work requirements
+       shall not be eligible to receive a reasonable cause penalty exception, to enter into a corrective
+       action plan, or receive reduced penalties.
+
+�      In order to continue a waiver inconsistent with PRWORA's time limits or work requirernents, the
+       state must notify the Secretary in writing in a letter signed by the governor.
+
+�      The regulation shall place the burden of proof that waivers are inconsistent with the law on the
+       state and must collect information necessary for the Secretary to make that determination.
+
+
+
+
+                                                     -2-
+IV. EFFECT ON STATES                                                Hex-Dump Conversion
+Comparison of Proposals: Effect on Connecticut
+
+
+                                    State View of Effect     HHS Proposed Reg       Our Proposal
+                                    of New Law
+
+ Under waiver, state could offer    Continue                 Continue               Continue, but only to
+ exemptions from and                                                                extent that state had
+ extensions to the time limits                                                      implemented this
+ in conformance with its waiver                                                     when law was passed
+
+ Definition of work that            Continue                 Continue               No
+ includes unlimited job search
+
+ Individualized employability       Continue                 Continue               Continue, but only to
+ plans that allow state to tailor                                                   extent that state had
+ hours of work                                                                      implemented this
+                                                                                    when law was passed
+
+ Exempting categories of people     Continue                 No                     No
+  from work requirements and
+ participation rates
+
+ Old control group cases from       Continue                 Continue, as long as   Continue, as long as
+ demonstration can continue all                              state maintains        state maintains
+ AFDC policies                                               research group         research group
+                                                             treatments for the     treatments for the
+                                                             purpose of             purpose of
+                                                             completing an          completing an
+                                                             impact evaluation.     impact evaluation.
+
+States with work policies that could override the law (as identified by states):
+Connecticut                                       Delaware
+H~~i                                           n~cis
+Massachusetts                                          Minnesota
+Missouri                                               Nebraska
+New Hampshire                                          South Carolina
+South Dakota                                           Tennessee
+Texas                                                  Utah
+Virginia                                               Washington
+Also possibly:
+Georgia                                           Iowa
+Kansas                                      Michigan
+Montana                                           North Carolina
+North Dakota                                      Oregon
+Vermont                                           Wisconsin
+
+
+
+
+                                                   -3-
+Connecticut                                         Delaware   Hex-Dump Conversion
+Florida                                     Hawaii
+Illinois                                            Iowa
+Louisiana                                          Nebraska
+North Carolina                                     Ohio
+Oregon                                      South Carolina
+Tennessee                                          Virginia
+Wisconsin
+
+
+
+
+                                                 -4-
+                                                                             Hex-Dump Conversion
+                              Update on TANF Regulation Negotiations
+
+
+Proposed Change                             Change Made           Partial            To Be
+                                                               Change Made          Resolved
+
+DOMESTIC VIOLENCE
+
+1) HHS may grant reasonable cause                                    Xl
+exemptions from penalties to states that
+fail to meet the work participation rates
+due to granting of good cause domestic
+violence waivers.
+
+2) States will be exempted from                   X
+penalties only if they fail the work rate
+by no more than the number of
+individuals granted good cause waivers
+multiplied by the participation rate.
+
+3) HHS may grant reasonable cause                 X
+exemptions from penalties for those
+good cause domestic violence waivers
+only for waivers that were granted
+almro2riately.
+
+4) HHS may grant reasonable cause                  X
+exemptions from penalties only for
+good cause domestic violence waivers
+that are temporary (less than six months
+long).
+
+5) HHS shall not grant reasonable cause                                                 X
+exceptions to penalties to states for
+exempting more than 20 percent of the
+caseload from the five year time limit
+due to granting of good cause domestic
+violence waivers.
+
+CASELOAD REDUCTION CREDIT
+
+1) States that have expanded eligibility           X
+shall not get credit for caseload
+reductions that would have happened in
+
+
+           I The reg is now changed to say the the Secretary "will determine whether a State has
+   reasonable cause based on its demonstration that its failure to meet the work participation rates is
+   attributable to its provision of good cause domestic violence waivers. If a state fails to meet
+   these standards to the satisfaction of the Secretary, the Secretary will not grant the exem2tion."
+   Is this enough?
+
+
+                                                   -5-
+Proposed Change                              Change Made          Partial             To Be
+                                                               Change Made           Resolved
+the absence of the expansion.
+
+2) States shall not have a choice of                                                     X
+applying the two parent caseload
+reduction or the overall caseload
+reduction as a credit to the two parent
+work participation rate.
+
+3) HHS shall not have the option to                                                      X
+allow states to exclude some or all
+families in any separate State program
+from the case10ad reduction calculation
+"based on nature of benefits provided."
+
+4) Fingerprinting, drug testing, and                                  X2
+whole grant sanctions shall not be
+defined as eligibility changes that must
+be factored out of the caseload credit.
+
+5) Individuals receiving one-time,                                    X3
+short-term assistance, or services with
+no monetary value shall not be
+eliminated from the caseload reduction
+credit calculation.
+
+6) States shall report eligibility changes         X
+on a form consistent across states and
+the regulation shall define a more
+specific set of criteria upon which the
+Secretary shall evaluate this
+information.
+
+PENALTIES
+
+
+           2  The reg now refers more generally to excluding "procedural changes that have the
+   effect of delaying or denying eligibility" but HHS policy would be to tell states that caseload
+   changes from fingerprinting, etc., should count in that category. This HHS policy could help
+   prevent states from gutting the work requirements: by not allowing a state to claim a caseload
+   credit for caseload reductions due to fingerprinting (up to 15% in some states) the policy could
+   prevent a state from lowering its work rate from, say, 50% to 35%.
+
+           3 The reg eliminates these cases from both comparison years, thus making more of an
+   "apples to apples" comparison. For purposes of calculating the caseload credit, the T ANF +
+   MOE caseload not receiving short-term or non-monetary assistance in a given year is compared
+   to the FY 1995 AFDC caseload without any short-time Emergency Assistance cases. The policy
+   effect of this definition is that states that shift their services from monthly cash grants to either
+   non-monetary services or one-time diversion grants will receive higher caseload credits.
+
+
+                                                   -6-
+ Proposed Change                            Change Made           Partial            To Be
+                                                               Change Made          Resolved
+
+I) In order for a state to be eligible to         X4                                    XS
+receive a reasonable cause penalty
+exception, to enter into a corrective
+compliance plan, or receive reduced
+penalties ("some or all") or penalties
+based on degree of non-compliance, a
+state must prove that it did not divert
+families to a separate state program for
+purposes of avoiding the work
+participation rates or preventing the
+federal collection of child support.
+
+  2) States may not retrospectively                X
+  reclassify families in TANF as "state
+. only" in order to game the work rates.
+
+3) States shall provide quarterly data            X6
+regarding how many people have been
+sanctioned for not working. The data
+reports shall include the information
+necessary to determine if the state
+imposed a pro-rata reduction required
+by law, and whether the state required
+the individual to perform work within
+two years.
+
+4) HHS shall enter into a corrective               X                                    X7
+
+
+           4     HHS has made the following changes: in order to be eligible for a reasonable cause
+    penalty exception or a reduced penalty based on degree of non-compliance, a state must prove
+    that it did not divert families to a separate state program for the purpose of avoiding work
+    participation rates.
+
+           5  HHS has not agreed to make the following changes: 1) in order to enter into corrective
+   compliance plan or receive a reduction in penalties ("some or all") for not correcting a failure
+   through such a plan, a state must prove that it did not divert families to a separate state program
+   for the purpose of avoiding work participation rates; 2) condition a state's eligibility for any of
+   the penalty exceptions/reductions on the state proving that it did not divert families in order to
+   prevent the federal collection of child support; and 3) to collect data that will help determine if
+   states are diverting individuals to separate state programs (include in the MOE data report
+   information on whether individuals served in the separate state program were on T ANF within
+   the last six months).
+
+           6   Need to confirm through change pages.
+
+           7   HHS does not want to limit the compliance plan to six months. They've made the
+
+                                                   -7-
+Proposed Change                              Change Made          Partial            To Be
+                                                               Change Made          Resolved
+action plan with a state only if such a       (all but six
+plan: a) contains monthly process and        month limit)
+outcome goals that the state must meet
+in order to continue to operate under a
+corrective action plan; b) contains
+significant new actions the state plans to
+take to meet the law's requirements;
+c) contains a letter signed by the
+governor outlining the need for the
+corrective action plan; d) shall be no
+longer than six months.
+
+5) The regulations shall detail a sliding         X8                                    X9
+penalty scale that will be imposed based
+on degree of noncompliance with the
+work participation rates.
+
+6) Eliminate the option for the Secretary                                              XiO
+to reduce the penalty on a state that has
+failed to correct a violation through a
+corrective compliance plan if a state
+a) expended more resources; b) made
+substantial progress; or c) encountered
+cirurnstances that could not have been
+anticipated.
+
+
+   argument that the statute allows states up to two months to complete and file the plan, so in
+   reality the compliance plan is in effect for 10 months. A six month time limit would give states
+   only four months to comply.
+
+            8 HHS has agreed to a sliding scale as follows: only states that met at least 75 percent of
+   the work participation rate (e.g., 75% of30% or 22.5%) would be eligible for a sliding penalty
+   based on degree of non-compliance. All states falling below that standard will receive the full
+   penalty. If a state failed both the overall and the two parent work rates, then its penalty would
+   be reduced in direct proportion to the level of achievement above the 75 percent threshold (e.g.,
+   if a state were halfway between 22.5% and 30%, its penalty would be reduced in half). If a state
+   failed only the two parent rate, its penalty would be first be multiplied by 10 percent and then
+   reduced in direct proportion to the level of achievement above the 75 percent threshold.
+
+          9 We proposed that the threshold be raised from 75 percent to 90 percent -- only states
+   meeting a 90 percent of the work participation rate would be eligible for a sliding penalty based
+   on degree of non-compliance. HHS has objected to this change.
+
+           10HHS has proposed only minor word changes to this section, such as adding "expended
+   significantly more resouces", made "substantial progress", and "encountered overriding
+   cirumstances that were beyond its control and could not have been anticipated."
+
+
+                                                   -8-
+     Proposed Change                            Change Made        Partial           To Be
+                                                                Change Made         Resolved
+
+     7) OMB has sought to allow the                                                     X
+     Secretary to include certain child only
+     cases in the work participation rate
+     (denominator and, if applicable,
+     numerator) if the Secretary determines
+     that the state re-classified families as
+     "child only" for purposes of avoiding
+     the work rates (by statute, the work
+     rates don't apply to child only cases).
+
+     ADMINISTRATIVE COSTS
+
+     1) OMB has sought to have a federal,                             Xli              X12
+     rather than state, definition of
+     adminstrative costs, which the statute
+     limits to 15 percent of the total block
+     grant.
+
+     WAIVERS                                                                         HHS is
+                                                                                   awaiting our
+                                                                                    proposal.
+
+
+
+
+                110MB has succeeded in getting HHS to agree to include several types of spending in a
+        federal definition.
+
+               120MB is still seeking to include spending on case management and eligibility
+        determination in the federal definition of administrative costs.
+
+
+                                                     -9-
+
+

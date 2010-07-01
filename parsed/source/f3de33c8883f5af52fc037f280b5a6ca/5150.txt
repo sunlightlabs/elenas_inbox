@@ -1,0 +1,120 @@
+RECORD TYPE: PRESIDENTIAL            (NOTES MAIL)
+
+CREATOR: Karen A. Popp ( CN=KarenA. popp/OU=WHO/O';'EOP [ WHO ]                        )
+
+CREATION DATE/TIME: 4-NOV-1997 14:03:18.00
+
+SUBJECT:     memo
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ]                        )
+READ: UNKNOWN
+
+TO: Rahm I. Emanuel ( CN=Rahm I. Emanuel/OU=WHO/O=EOP @ EOP [ WHO]                            )
+READ: UNKNOWN
+
+CC: Jose Cerda III ( CN=Jose Cerda III/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+CC: Charles F. Ruff         ( CN=Charles F. Ruff/OU=WHO/O=EOP @ EOP [ WHO]                    )
+READ: UNKNOWN
+
+TEXT:
+Attached is the final draft of memo.  Please call me with any suggested
+changes.  Thanks, Karen 67594   ==================== ATTACHMENT   1 ================
+ATT CREATION TIME/DATE:   0.00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D55]MAIL426735700.316 to ASCII,
+ The following is a HEX DUMP:
+
+FF5 7 5 04·3 7 0 04 0 0 0 0 0 10A02 0 1 0 0 0 0 0 0 02 05000000591500000002000 OE3 ODEA3A 7 7BCO 7 7D8 02E2C
+DD8D619C1DAD5B1A18546B9063D77D442623C9A339937BA15E04C201559DCE23A345D8F4E788D2
+D67388E975439668FEBOF69D33C5FA52CE50609573A9244E3CDFOA915BBB6B7DAFDA13B1686139
+C967AA21A3B310F8703192A3658D57E6A84F42795E74DBFD64058E2DCE5C1ED05ED8BA544866E7
+4E0712743~8E6EF5479CD6F27271EBB7E41AF303CFA078D562C7A9B27ACE98093C1994FDBEABDF
+67AD5287E74DBB7A1AF83C75C020716DD41ED718AE7D1ACOB6FOB097AC10C284C27B2DB1CB2117
+93393895FB6536CA85727B3DCF2181788F3BE9C44EE66789B6AE731EE5492373A18371B9868DDA
+00E2E785754010B41A263B7CD96E8A1C2D7A842C5F12AE7AA06BF7BFF5A50934D5E1C382F3AB4D
+FA9B9810D3863117CB7001AFD1ECOFE6619172A5795B9142A835F164E48FEF9ACEC3B53540C1CF
+35F8B7519BBEC2D2639B8F593E53COBD6219675422BC11B80208789AC521D649379E878337A1E6
+07A806F4C10F014298BAA4AD1C2D052FF42B83BDA2769B841C15C45FF38DC648D51CC544C1AFBC
+E8113664CB0137B7AF142CBCBED42F083F117AA4B7B67AB0003E13EDBEB6DF9028109940DFEDEE
+635CF5CAEF35DB55C6E39F7A25F4489DE2622814301B2753A2434E1F85D3683E531037B71C99A5
+AB2E1E81510200090000000000qoooooo000000823010000000B0100007E020000005501000000
+4E0000008903000009250100000006000000D70300000B300200000028000000DD030000087701
+000000400000000504000008340100000014000000450400000802010000000F00000059040000.
+080501000000080000e06804000000984800500020004C0061007300650072004A006500740020
+003400200050006C00750073000000000000000000000000000000000000000000000000000000
+00000000000000000000000057494E53504F4F4COOOOOOOOOOC800C8002C012C012C012C01C800
+C80030000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000600B0100002800C8196810480D000011090000005AOOOB010000103600540069006D0065
+00730020004E0065007700200052006F006D0061006E00200052006500670075006C0061007200
+000000000000000001000200580201000000040028000000000000000000000000000000000000
+00011202002400A1000000A10000000A0000008C02010002008D02010044008E02010002008F02
+010002009002030002009102010044009202010002009302010044009402380065819502010055
+005C9AE3220000000000000000000000000000000008337C007800000200009502000003010004
+0002000000DDOA10008301040003000200211000DDDDOBOB00030000040BOODDF1029402F1F103
+9402F1F1009402F19BF1019402F1F20CF2F1029502F1CCF1039502F19BE0401200000000021102
+                                                                      Hex-Dump Conversion
+                                        November 4, 1997
+
+
+MEMORANDUM FOR THE PRESIDENT
+
+FROM:          CHARLES F.C. RUFF
+               BRUCE REED
+               RAHM EMANUEL
+
+SUBJECT:       "Sporterized" Assault Weapons Directive
+
+        This memorandum is in response to questions you raised concerning the options
+described in our memorandum of October 30 concerning the importation of "sporterized"
+assault weapons. Under Option 2, Treasury would suspend action on all pending applications
+and future permits but not suspend existing permits pending its full review of the sporting
+purposes criteria. As part of this approach, Treasury wo~ld review the importation and criminal
+use of sporterized weapons and suspend existing permits if the evidence so warranted .. You
+asked how long it would take for Treasury to conduct this interim review and make such a
+decision.
+
+        We have been informed by attorneys at Treasury and ATF that the plan for the review
+process is still being written. The plan is expected to have 3 separate tracks running
+simultaneously, the first two of which could be completed within 5 to 10 weeks. The first track
+would involve gathering and analyzing law enforcement statistics and other information relating
+to the use of the imported weapons in criminal activity. These ''tracing'' figures and other
+anecdotal information could support, depending on their quality, the immediate suspension of
+existing permits.
+
+        The second track would focus on a technical analysis of the weapons, comparing thern to
+other acceptable sporting rifles. This analysis would include reviewing the existing sportip.g
+purposes criteria and its application to the weapons at issue. This process is also estimated to
+take 5 to 10 weeks and could uncover new facts that would warrant immediate suspension of the
+existing permits.
+
+        The final track, which is expected to take 120 days; will focus on the actual purpose and
+use for which these weapons are acquired. This process will include a nationwide survey of the
+buyers and users of these weapons. This track offers the best chance for acquiring information
+supporting modification of the sporting purposes test to prohibit the importation of these
+weapons.
+
+        Treasury and ATF attorneys also noted that if there is a drastic increase in the numbers of
+weapons actually being imported through existing permits during the 120 day period, in
+conjunction with favorable facts gathered from any of the review tracks, our claim
+that sufficient circumstances exist to warrant the suspension of existing permits would be
+                                                                  Hex-Dump Conversion
+
+
+substantially stronger.
+        In sum, it is unlikely that the review process will uncover additional facts supporting the
+suspension of existing permits in less than 5 weeks. Based upon our conversations with the
+attorneys at Treasury and ATF, we believe a more accurate estimate is 10 weeks, but that the
+entire 120 day review may be necessary. And, as the Treasury and ATF attorneys emphasize,
+even the full 120 day review may not uncover sufficient additional information that would justify
+changing the sporting purposes test or suspending any existing permits.
+
+     Finally, our respective recommendations, as set forth in the attached October 30
+memorandum, have not changed as a result of this additional information.
+
+

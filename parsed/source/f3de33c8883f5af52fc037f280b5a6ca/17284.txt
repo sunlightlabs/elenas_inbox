@@ -1,0 +1,146 @@
+      RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+      CREATOR: William R. Kincaid ( CN=william R. Kincaid/OU=OPD/O=EOP [ OPD 1 )
+
+      CREATION DATE/TIME: 8-0CT-1997 11:20:17.00
+
+      SUBJECT:   IDEA case Q&A
+
+      TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+      READ: UNKNOWN
+
+      CC: Michael Cohen ( CN=Michael Cohen/OU=OPD/O=EOP @ EOP [ OPD 1 )
+      READ: UNKNOWN
+
+      CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO 1 )
+      READ: UNKNOWN
+
+       TEXT:
+      Attached, for your review, is a brief draft Q&A on the Supreme Court's
+       request for the Administration's views on a pending case under the IDEA.
+      'Mike, Diana, and Rob Weiner all have reviewed and ok'd, and Rob also got
+       sign-off from DOJ. At this point, it is probably less than likely that we
+      will get a Q on this, but I'd like to get something to the press office
+       just in case.
+
+      The AP story on this is below, as well.
+
+
+
+      Subject:        COURT ASKS ADMINISTRATION OPINION ON NURSES FOR ...
+
+      Date: 10/06/97 Time: 10:55
+      SCourt asks administration opinion on nurses for disabled students
+
+          WASHINGTON (AP)   The Supreme Court today asked the Clinton
+      administration whether it thinks public school districts must pay
+      for nurses to accompany some disabled students throughout the
+      school day.
+          The court wants to hear Justice Department lawyers' view of
+      rulings that require a Cedar Rapids, Iowa, school district to pay
+      for the nursing services needed by a teen-age boy identified in
+      court papers as Garret F.
+          The justices are not expected to say whether they will grant
+      full review to the Iowa case until hearing from the government
+      lawyers, which could take months.
+          At issue is the scope of the federal Individuals with
+      Disabilities Education Act. The law provides that all children with
+      disabilities receive a "free appropriate public education."
+          Under the law, public schools are required to provide various
+      "special education and related services. " But an exception is
+      made for medical services.
+          Garret, injured in a motorcycle accident at age 4, is a
+      quadriplegic and ventilator dependent. His mental abilities were
+      unaffected, and he is now in the ninth grade.
+          During the school day, he requires a personal attendant to see
+      to his health-care needs. Through most of his schooling, a licensed
+      practical nurse has served as that attendant.
+          In 1993, Garret's mother asked the school district to pick up
+      the costs of providing an attendant for Garret.
+          She said such costs are to be free "related services" provided
+
+
+under the federal law. But school officials said one-on-one nursing
+services are medical, not educational, and do not have to be
+provided at taxpayer expense.
+    A federal trial judge and the 8th u.s. Circuit Court of Appeals
+ruled for Garret and against the school district.
+    The appeals court relied heavily on a 1984 Supreme Court ruling
+that said public school officials had to pay for and provide a
+special procedure for a child disabled by spina bifida and unable
+to urinate by herself.
+    Such services, the high court said then, --are no less related
+to the effort to educate than are servic'es that enable the child to
+reach, enter or exit the school."
+    But that 1984 opinion added: --It bears mentioning that not even
+the services of a nurse are required."
+    In the appeal acted on today, lawyers for the Cedar Rapids
+school officials noted that three other federal appeals courts have
+ruled that schools don't have to pay for continuous services
+provided by licensed nurses.
+    The case is Cedar Rapids Community School District vs. Garret
+F., 96-1793.
+APNP-10-06-97 1058EDT
+
+
+
+
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D90]MAIL492924080.216 to ASCII,
+ The following is a HEX DUMP:
+
+FF5750436F040000010A02010000000205000000E70A000000020000B733156067759E1FAFCA20
+lE36B707723D50DB1DDA26E557B1A58D20DA928077DBFC1A5C90EEOC763D91C99B997FEDB38E8F
+C254B833836564319E00294B217F1799E55B4967058EEC1ED5951F57079EE61824EC10BD83D4A1
+E83A14E53290980C838D031BE86961BCDE699DD3BFFAF91077C9712A86DDD75A30605923CD5CC6
+C36303FB4D11B9053B172C279D26BE1D3DC2F843429D15A689FB293939397DC21F33C7E29AF4AB
+D05178EE12730BC04FF1D19D67D46CBEFA6713788F182F7E371E25AC9E2DEAAC307B5483CD712C
+A9AD059E2964DBA4604BBF9556421EC24944F9B4101D71A77C25D19C9A544203AB725AECA2EDD7
+9DD9E4FCE2ECCC8409FD2C6887A78380B348B9F71B65631DE4383F8CC9AFOEOC37BB2E2CBBF49B
+E2708F5CE8B46F8473715058B225FEEE743B86DF437E4BAABEDF9488484F6D6D6A2DC1F1016C83
+4B8BD8FOFC5D2E47D91543198B61BF1B7DA9D3A486A37742B586AFAC6C509048D4B9561C39EF32
+lCA50D23E26E46E94095941321CA51909E8FADDFF38EF5414A4A42D88A65FF743744DE9126C406
+A4E05FDEAB2A7D35FE371BDC05DF51351383F8072CAE948304D060CO9A1E5BC791008398203ADC
+A9D266E5A3169B80031702FECDD00308C9919EDFD30A1953FD432228AF4DA98146F9D3A30D817D
+4B2C78BC4C02000A0000000000000000000000005501000000420000008C020000092501000000
+06000000CE02000008020100000010000000D4020000086E01000000ADOOOOOOE40200000B3002
+00000034000000910300000805010~000008000000C50300000055030000004EOOOOOOCD030000
+087701000000400000001B040000083401000000140000005B0400003COOFE1536105807000001
+39000000600028150000102A0043006F0075007200690065007200200031003200700074000000
+0000000031003000630070006900000001000100580208337C007800000200001A0000000100AB
+003COOFE153610580700000139000000600028150000102A0043006F0075007200690065007200
+200031003200700074000000000000003100300063007000690000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+0000000000000000000000000000000000000000000000000000580258027800FE153610580700
+0000041140C9001F4A51110310580240010000000400280000000C000000000000000000000000
+
+
+
+               Supreme Court Case on Nursing Services for Students with Disabilities
+
+    Q:     Monday, the Supreme Court asked for the Administration's views on a case involving the
+    provision of nursing services to a child with disabilities in a public school. Has the
+    Administration been involved in this case and what advice will the Administration give the
+    Court?
+
+    A:      This case (Cedar Rapids Community School District v. Garrett F.) raises the question
+    whether the Individuals with Disabilities Education Act (IDEA), which guarantees a free
+    appropriate public education to all children with disabilities, requires a school district to provide
+    continuous nursing services to a child with significant disabilities, where those services are
+    needed to enable the child to attend school. The IDEA requires school districts to provide
+    supportive services to assist children with disabilities to benefit from special education. The
+    Administration has not been involved in this case. The Department of Justice will consult with
+    the Department of Education, which administers the IDEA, in preparing a response to the Court's
+    request.
+
+                                                                                               October 8. 1997
+
+
+
+                                                        Automated Records Management System
+                                                        Hex-Dump Conversion
+
+

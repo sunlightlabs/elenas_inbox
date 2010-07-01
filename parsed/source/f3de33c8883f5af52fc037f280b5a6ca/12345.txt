@@ -1,0 +1,49 @@
+RECORD TYPE:   PRESIDENTIAL           (NOTES MAIL)
+
+CREATOR:   Shannon Mason          (CN=Shannon Mason/OU=OPD/O=EOP          [ OPD    1 )
+
+CREATION DATE/TIME:22-APR-1999 10:59:06.00
+
+SUBJECT:   Reminder
+
+TO: Brian V. Kennedy      (       CN=Brian V.    Kennedy/OU=OPD/O=EOP@EOP         [ OPD   1 )
+READ:UNKNOWN
+
+TO: Elena Kagan    ( CN=Elena Kagan/OU=OPD/O=EOP@EOP            [   OPD   1 )
+READ: UNKNOWN
+
+TO: Charles M.    Brain   (       CN=Charles M.   Brain/OU=WHO/O=EOP@EOP          [ WHO   1 )
+READ:UNKNOWN
+
+TO: Karen Tramontano              CN=Karen Tramontano/OU=WHO/O=EOP@EOP            [ WHO   1 )
+READ:UNKNOWN
+
+TO: William G.    Dauster           CN=william G.    Dauster/OU=OPD/O=EOP@EOP            [ OPD   1 )
+READ:UNKNOWN
+
+TO: Broderick Johnson         (    CN=Broderick Johnson/OU=WHO/O=EOP@EOP            [ WHO    1 )
+READ: UNKNOWN
+
+TO: Barbara Chow       ( CN=Barbara Chow/OU=OMB/O=EOP@EOP           [ OMB    1 )
+READ:UNKNOWN
+
+TO: David Beier    ( David Beier @ 456-6231 @ FAX            [ UNKNOWN      1 )
+READ:UNKNOWN
+
+CC: Laura Emmett       ( CN=Laura Emmett/OU=WHO/O=EOP@EOP           [ WHO    1 )
+READ: UNKNOWN
+
+CC: Carolyn T.    WU   ( CN=Carolyn T.          Wu/OU=WHO/O=EOP@EOP   [ WHO       1 )
+READ: UNKNOWN
+
+CC: Dario J. Gomez ( CN=Dario J.            Gomez/OU=WHO/O=EOP@EOP         [ WHO    1 )
+READ:UNKNOWN
+
+CC: Rhonda Melton      ( CN=Rhonda Melton/O=OVP@OVP          [ UNKNOWN      1 )
+READ:UNKNOWN
+
+TEXT:
+Sally Katzen will conduct a conference call today at 11: 30 on Davis
+Bacon.  The numbers to dial are 6-2561 or 6-2565, code 5-485.   Thanks
+
+

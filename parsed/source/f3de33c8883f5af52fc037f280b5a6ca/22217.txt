@@ -1,0 +1,159 @@
+RECORD TYPE: PRESIDENTIAL      (EXTERNAL MAIL)
+
+CREATOR: Jason H. Schechter@EOP@LNGTWY@EOPMRX
+
+CREATION DATE/TIME:12-JAN-1999 17:34:00.00
+
+SUBJECT: Executive Order: Technology
+
+TO: l=US                                     ( 1=US@2=WESTERN UNION@5=ATT.COM@*ELN\62955
+READ:NOT READ
+
+TO: BARBUSCHAK_K                                  BARBUSCHAK_K@A1@CD )       (OA)
+READ:NOT READ
+
+TO: INFOMGT                                  ( INFOMGT@A1@CD )       (SYS)
+READ:NOT READ
+
+TO: JOHNSON_WC                                    JOHNSON_WC@A1@CD )     (OA)
+READ:NOT READ
+
+ TO: SULLIVAN_M                                   SULLIVAN_M@A1@CD)      (WHO)
+ READ:NOT READ
+
+ TO: SUNTUM_M                                     SUNTUM_M@Al@CD )     (WHO)
+ READ:12-JAN-1999 18:50:18.36
+
+ TO: WOZNIAK_N                                    WOZNIAK_N@A1@CD )     (NSC)
+ READ:12-JAN-1999 20:42:48.94
+
+ TO: GRAY_W                                      ( GRAY_W@A1@CD )   (NSC)
+ READ:NOT READ
+
+ TO: NAPLAN_S                                     NAPLAN_S@A1@CD )     (NSC)
+ READ: NOT READ
+
+ TO: WEINER_R                                     WEINER_R@A1@CD)      (DON)
+ READ:NOT READ
+
+ TO: GRIBBEN_J                                    GRIBBEN_J@A1@,CD )    (WHO)
+ READ:NOT READ
+
+ TO: RILEY_R                                      RILEY_R@Al@CD )    (OA)
+ READ:NOT READ
+
+ TO: tnewel1                                     ( tnewell@ostp.eop.gov@INET )
+ READ:NOT READ
+
+ TO: HEMMIG_M                                     HEMMIG_M@A1@CD )     (WHO)
+ READ:NOT READ
+
+ TO: RUNDLET_P                                    RUNDLET_P@A1@CD )     (WHO)
+ READ: NOT READ
+
+     TO: BUDIG_N                                 ( BUDIG_N@A1@CD)    (NSC)
+     READ:NOT READ
+
+     TO: meg lynn                                ( meglynn@usia.gov@INET )
+     READ:NOT READ
+
+     TO: Christine A. Stanek                     ( Christine A. Stanek@EOP@LNGTWY@EOPMRX )
+
+
+READ: NOT READ
+
+TO: Lori E. Abrams             ( Lori E. Abrams@EOP@LNGTWY@EOPMRX )
+READ: NOT READ
+
+TO: Anne M. Edwards            ( Anne M. Edwards@EOP@LNGTWY@EOPMRX )
+READ:NOT READ
+
+TO: David E. Kalbaugh          ( David E. Kalbaugh@EOP@LNGTWY@EOPMRX )
+READ: NOT READ
+
+TO: Julie E. Mason             ( Julie E. Mason@EOP@LNGTWY@EOPMRX )
+READ:NOT READ
+
+TO: Elisa Millsap              ( Elisa Millsap@EOP@LNGTWY@EOPMRX )
+READ:NOT READ
+
+TO: Cheryl D. Mills            ( Cheryl D. Mills@EOP@LNGTWY@EOPMRX )
+READ: NOT READ
+
+TO: G. Timothy Saunders        ( G. Timothy Saunders@EOP@LNGTWY@EOPMRX ) .
+READ: NOT READ
+
+TO: Laura D. Schwartz          ( Laura D. Schwartz@EOP@LNGTWY@EOPMRX )
+READ:NOT READ
+
+TO: Douglas B. Sosnik          ( Douglas B. Sosnik@EOP@LNGTWY@EOPMRX )
+READ:NOT READ
+
+TO: Todd Stern                 ( Todd Stern@EOP@LNGTWY@EOPMRX )
+READ:NOT READ
+
+TO: Barry J. Toiv              ( Barry J. Toiv@EOP@LNGTWY@EOPMRX )
+READ:NOT READ
+
+TO: Michael Waldman            ( Michael Waldman@EOP@LNGTWY@EOPMRX )
+READ:NOT READ
+
+TO: Dorian V. Weaver           ( Dorian V. Weaver@EOP@LNGTWY@EOPMRX )
+READ:NOT READ
+
+TO: Catherine T. Kitchen       ( Catherine T. Kitchen@EOP@LNGTWY@EOPMRX )
+READ:NOT READ
+
+TO: Brenda M. Anders           ( Brenda M. Anders@EOP@LNGTWY@EOPMRX )
+READ:NOT READ
+
+TO: Richard Socarides          ( Richard Socarides@EOP@LNGTWY@EOPMRX )
+READ:NOT READ
+
+TO: Dag Vega                   ( Dag Vega@EOP@LNGTWY@EOPMRX )
+READ: NOT READ
+
+TO: Barbara D. Woolley         ( Barbara D. Woolley@EOP@LNGTWY@EOPMRX )
+READ:NOT READ
+
+TO: Jake Siewert               ( Jake Siewert@EOP@LNGTWY@EOPMRX )
+READ:NOT READ
+
+TO: Cynthia M. Jasso-Rotunno   ( Cynthia M. Jasso-Rotunno@EOP@LNGTWY@EOPMR
+\.
+
+
+
+
+READ:NOT READ
+
+TO: Sara M. Latham          ( Sara M. Latham@EOP@LNGTWY@EOPMRX )
+READ:NOT READ
+
+TO: Andrew J. Mayock        ( Andrew J. Mayock@EOP@LNGTWY@EOPMRX )
+READ:NOT READ
+
+TO: Beverly J. Barnes       ( Beverly J. Barnes@EOP@LNGTWY@EOPMRX )
+READ:NOT READ
+
+TO: Megan C. Moloney        ( Megan C. Moloney@EOP@LNGTWY@EOPMRX )
+READ:NOT READ
+
+TO: Laura S. Marcus         ( Laura S. Marcus@EOP@LNGTWY@EOPMRX )
+READ:NOT READ
+
+TO: Virginia N. Rustique    ( Virginia N. Rustique@EOP@LNGTWY@EOPMRX )
+READ:NOT READ
+
+TO: Thomas D. Janenda       ( Thomas D. Janenda@EOP@LNGTWY@EOPMRX )
+READ:NOT READ
+
+TO: Brian D. Smith          ( Brian D. Smith@EOP@LNGTWY@EOPMRX )
+READ:NOT READ
+
+TO: Leanne A. Shimabukuro   ( Leanne A. Shimabukuro@EOP@LNGTWY@EOPMRX )
+READ:NOT READ
+
+TO: Kim B. Widdess          ( Ki
+
+

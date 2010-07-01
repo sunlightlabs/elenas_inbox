@@ -1,0 +1,352 @@
+            RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+            CREATOR: Sandra Yamin ( CN=Sandra Yamin/OU=OMB/O=EOP     OMB 1 )
+
+            CREATION DATE/TIME: 7-JUN-1999 20:24:35.00
+
+            SUBJECT:   9:00AM TUES DEADLINE -- FINAL CLEARANCE -- Draft Letter for Transportation
+
+            TO: Karen Tramontano ( CN=Karen Tramontano/OU=WHO/O=EOP@EOP [ WHO 1 )
+            READ:UNKNOWN
+
+            TO: Steve Ricchetti ( CN=Steve Ricchetti/OU=WHO/O=EOP@EOP [ WHO 1 )
+            READ:UNKNOWN
+
+            TO: George T. Frampton ( CN=George T. Frampton/OU=CEQ/O=EOP@EOP [ CEQ 1 )
+            READ: UNKNOWN
+
+            TO: Maria Echaveste ( CN=Maria Echaveste/OU=WHO/O=EOP@EOP [ WHO 1 )
+            READ: UNKNOWN
+
+            TO: Todd Stern ( CN=Todd Stern/OU=WHO/O=EOP@EOP [ WHO 1 )
+            READ: UNKNOWN
+
+            TO: Wesley P. Warren ( CN=Wesley P. Warren/OU=CEQ/O=EOP@EOP [ CEQ 1 )
+            READ:UNKNOWN
+
+            TO: Ron Klain ( CN=Ron Klain/O=OVP@OVP [ UNKNOWN 1 )
+            READ:UNKNOWN
+
+            TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP@EOP [ OPD 1 )
+            READ:UNKNOWN
+
+            TO: Gene B. Sperling ( CN=Gene B. Sperling/OU=OPD/O=EOP@EOP [ OPD 1 )
+            READ:UNKNOWN
+
+            TO: Lynn G. Cutler ( CN=Lynn G. Cutler/OU=WHO/O=EOP@EOP [ WHO 1 )
+            READ:UNKNOWN
+
+            TO: Ann F. Lewis   ( CN=Ann F. Lewis/OU=WHO/O=EOP@EOP [ WHO 1 )
+            READ: UNKNOWN
+
+            TO: Miles M. Lackey ( CN=Miles M. Lackey/OU=NSC/O=EOP@EOP [ NSC 1 )
+            READ: UNKNOWN
+
+            TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP@EOP [ OPD   1 )
+            READ: UNKNOWN
+
+            TO: Michelle Peterson ( CN=Michelle Peterson/OU=WHO/O=EOP@EOP [ WHO 1 )
+            READ: UNKNOWN
+
+            TO: Jeffrey M. Smith ( CN=Jeffrey M. Smith/OU=OSTP/O=EOP@EOP [ OSTP 1 )
+            READ:UNKNOWN
+
+            TO: Joshua Gotbaum ( CN=Joshua Gotbaum/OU=OMB/O=EOP@EOP [ OMB 1 )
+            READ:UNKNOWN
+
+            TO: Martha Foley ( CN=Martha Foley/OU=WHO/O=EOP@EOP [ WHO 1 )
+            READ: UNKNOWN
+
+            TO: Sally Katzen ( CN=Sally Katzen/OU=OPD/O=EOP@EOP [ OPD 1 )
+
+
+READ:UNKNOWN
+
+TO: John Podesta ( CN=John Podesta/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Courtney    o.   Gregoire ( CN=Courtney   o.   Gregoire/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+CC: James J. Jukes      ( CN=James J. Jukes/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+CC: Sandra Yamin ( CN=Sandra Yamin/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ:UNKNOWN
+
+CC: William G. Dauster ( CN=William G. Dauster/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ:UNKNOWN
+
+CC: Dawn L. Smalls ( CN=Dawn L. Smalls/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Linda Ricci ( CN=Linda Ricci/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+CC: Rebecca L. Walldorff ( CN=Rebecca L. Walldorff/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Robert L. Nabors      ( CN=Robert L. Nabors/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ:UNKNOWN
+
+CC: Paul J. Weinstein Jr.      ( CN=Paul J. Weinstein Jr./OU=OPD/O=EOP@EOP [ OPD 1 )
+READ:UNKNOWN
+
+CC: Lisa zweig ( CN=Lisa Zweig/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ:UNKNOWN
+
+CC: Charles Konigsberg ( CN=Charles Konigsberg/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ:UNKNOWN
+
+CC: Melissa G. Green ( CN=Melissa G. Green/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ:UNKNOWN
+
+CC: Sara M. Latham ( CN=Sara M. Latham/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+CC: Michele Ballantyne ( CN=Michele Ballantyne/OU=WHO/O=EOP@EOP [ UNKNOWN 1 )
+READ:UNKNOWN
+
+CC: Mara E. Rudman ( CN=Mara E. Rudman/OU=NSC/O=EOP@EOP [ UNKNOWN 1 )
+READ:UNKNOWN
+
+CC: Adrienne C. Erbach ( CN=Adrienne C. Erbach/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+CC: Carolyn T. Wu ( CN=Carolyn T. Wu/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Leslie Bernstein ( CN=Leslie Bernstein/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Lisa M. Kountoupes ( CN=Lisa M. Kountoupes/OU=WHO/O=EOP@EOP [ WHO 1 )
+
+
+READ: UNKNOWN
+
+CC: Mark J. Tavlarides ( CN=Mark J. Tavlarides/OU=NSC/O=EOP@EOP [ NSC ] )
+READ: UNKNOWN
+
+CC: Victoria A. Wachino ( CN=Victoria A. Wachino/OU=OMB/O=EOP@EOP [ OMB ] )
+READ: UNKNOWN
+
+CC: Peter A. Weissman ( CN=Peter A. Weissman/OU=OPD/O=EOP@EOP [ OPD ] )
+READ: UNKNOWN
+
+CC: Judy Jablow      CN=Judy Jablow/OU=CEQ/O=EOP@EOP [ CEQ ] )
+READ:UNKNOWN
+
+CC: Elizabeth Gore    ( CN=Elizabeth Gore/OU=OMB/O=EOP@EOP [ OMB ] )
+READ:UNKNOWN
+
+CC: Shannon Mason ( CN=Shannon Mason/OU=OPD/O=EOP@EOP [ OPD ] )
+READ: UNKNOWN
+
+CC: Mindy E. Myers    ( CN=Mindy E. Myers/OU=WHO/O=EOP@EOP [ WHO]   )
+READ: UNKNOWN
+
+CC: Charles E. Kieffer ( CN=Charles E. Kieffer/OU=OMB/O=EOP@EOP [ OMB ] )
+READ: UNKNOWN
+
+TEXT:
+Attached for your clearance is the final draft letter for the House Full
+Committee Mark-up of the Transportation and Related Agencies Appropriation
+bill, FY2000.  The mark-up is scheduled for Tues, June 8 at 10:00AM.
+please provide your sign-off and comments no later than 9:00AM Tues.
+Thank you.
+
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D96]ARMS28981346Z.136 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043F5050000010A020100000002050000002E2D0000000200007022BE27BBF2971F2090E5
+F62F917C68C6E87388957604EDBC154744AA20CEC66C7E9134838Fl6BE638C2D6D32534BD3ACB7
+C5622CEAF50E5A63D392563D923278E7C8838078832DE0504586DB80D605271B746CBB274BA85D
+D88BODC06E42C091989E7I0CIA3A4B613FEIF5EF759D469BC50D80C4C5DFCDDFCFD9FB628038B8
+49C09A4A984A8B9E19713BBD52951926F02B64EIDA487B81DFEAECE5E389677B988CAD4DB16EBC
+FOB97DF7B6B5E7FEB82556030C04BIEC3EE62EFEBCD9B4E3BD2FA54DACl12B329FD99F35C205C4
+7134C78562B4EDBBB41C864DFIB9072316F88140CFB96047FEEF6F69528962C4147DD025CF5884
+8C44DF152D079CB3D6EDFBD80BB3288B4067A19571256D7E7F3173DAABC14EA4FE7C9A153E3359
+58CF2153AE4C8CI0306DIC3D57CC419C9D30B30COB1353343CD2472OCCC4A21883379FDIB880A5
+                                                                       Hex-Dump Conversion
+
+
+The Honorable C.W. Bill Young
+Chainnan
+Committee on Appropriations
+U.S. House of Representatives
+Washington, D.C. 20515
+
+Dear Mr. Chainnan:
+
+       The purpose of this letter is to provide the Administration's views on the Transportation
+and Related Agencies Appropriations Bill, FY 2000, as reported by the House Subcommittee.
+As the Committee develops its version of the bill, your consideration of the Administration's
+views would be appreciated.
+
+       The Administration appreciates the Subcommittee's efforts to accommodate many of the
+Administration's priorities within its 302(b) allocation. However, the Administration is
+concerned about some of the choices made necessary by this allocation.
+
+        The President's FY 2000 Budget proposed levels of discretionary spending that meet
+important national needs while confonning to the Bipartisan Budget Agreement by making
+savings proposals in mandatory and other programs available to help finance vital spending
+needs. Congress has approved and the President has signed into law nearly $29 billion of such
+offsets in appropriations legislation since 1995. The Administration urges the Congress to
+consider our user fee proposals as the FY 2000 appropriations process moves forward. In
+particular, with respect to this bill, the Administration urges the Congress to consider our
+proposals such as aviation user fees.
+
+        The Administration proposes to meet important safety, mobility, and environmental
+requirements by reallocating a portion of the increased spending pennitted by higher-than-
+anticipated highway excise taxes. Under this proposal, every State would receive at least as
+much funding as was assumed when the Transportation Equity Act for the 21 51 Century was
+enacted. Last year, Congress chose to reallocate some funding within the highway "guarantee."
+The Committee is encouraged to build upon this by enacting the Administration's proposal as a
+means to fund these important priorities.
+
+        The Administration is concerned that the Subcommittee bill could compromise the
+Federal Aviation Administration's (FAA's) operations and modernization programs, reduce
+highway and motor carrier safety, and underfund other important programs. The Committee
+could partially accommodate the funding increases recommended below by adhering more
+closely to the President's request for the Airport Improvement Program, High Speed Rail, Coast
+Guard Alteration of Bridges, the Coast Guard capital acquisition program, and other programs.
+forward to working with you to resolve these issues as the bill moves forward.
+
+Aviation Safety and Modernization
+
+        The Administration strongly urges the Committee to fully fund the Administration's
+request for FAA Operations. The $114 million, or two-percent, reduction made by the
+Subcommittee would force the FAA to close low-level towers, defer hiring of safety and security
+personnel needed to meet the demands of increased air travel, and possibly slow air travel. The
+Committee is also urged to restore the $119 million, or five-percent, reduction to the FAA
+Facilities and Equipment account. The Subcommittee's funding level would undermine our
+National Airspace System modernization program. Safety projects as well as critically-needed
+capacity enhancing projects would be delayed, increasing future air travel delays.
+
+        The Administration supports the Subcommittee's decision to eliminate the General Fund
+subsidy for FAA Operations but urges the Congress to enact a user fee system to finance the
+agency. Such a system would improve the FAA's efficiency and effectiveness by creating new
+incentives for it to operate in a business-like manner.
+
+Motor Carrier Safety
+
+        The Secretary of Transportation recently announced a comprehensive Motor Carrier
+Safety Action Plan to implement much-needed improvements to truck safety. The need for
+these improvements has been recognized by Congress, the Department of Transportation
+Inspector General, and an independent assessment conducted by former Congressman Mineta.
+The Committee is urged to provide the additional $50 million for the National Motor Carrier
+Safety Grant program to undertake these improvements and increase safety on our Nation's roads
+and highways.
+
+Highway Safety
+
+         The Administration is concerned that the Subcommittee has provided $36 million less
+than the President has requested for the National Highway Traffic Safety Administration's
+Operation and Research account. This funding reduction would limit important research
+activities on advanced air bags, crash worthiness, and the enhanced testing proposed in the New
+Car Assessment program to make better car safety information available to the public.
+
+Amtrak
+
+       The Subcommittee is commended for funding Amtrak at $571 million, the President's
+requested level, and providing Amtrak with the flexibility to spend capital funds wisely by
+adopting for Amtrak the same definition of capital as used by transit grantees.
+
+
+                                                               Automated Records Mana;emem 5:IS I.
+                                               2
+                                                               Hex-Dump Conversio!1
+
+        The Administration is disappointed that the Subcommittee bill funds transit formula
+grants at $212 million below the President's request and the Transportation Community and
+Preservation Pilot program (TCSP) at $25 million, or 50 percent, below the request. The
+earmarking of the TCSP program would hinder the goal of improving land use by not permitting
+the development and identification of innovative new approaches. These livability programs are
+important components of an Administration effort to provide communities with the tools and
+resources they need to combat congestion and sprawl.
+
+Job Access and Reverse Commute
+
+        The Committee is urged to provide the additional $75 million requested for this program
+because it is a critical component ofthe Administration's welfare-to-work effort. This program
+is significantly over-subscribed now. Demand is expected to increase as more communities
+around the country begin to see how effective the program can be in helping individuals make a
+successful transition from welfare to work.
+
+Coast Guard
+
+        The Administration is concerned about the Subcommittee's earmarks to continue
+operations of the Long Island, New York, and Muskegon, Michigan, air facilities and to establish
+an additional air facility at Waukegan, Illinois. The Coast Guard has concluded, based on
+careful review, that none ofthese facilities is necessary to meet its search and rescue coverage
+standards. By forcing the Coast Guard to spend nearly $9 million on these facilities, the
+Subcommittee is effectively reducing funding for higher priority Coast Guard activities, such as
+improving boat station readiness nationwide.
+
+CAFE Standards
+
+       The Administration urges the Committee to drop the prohibition oftechnical work on the
+corporate average fuel economy (CAFE) standards. This provision would compromise
+important information that directly influences the Nation's environment and safety.
+
+       We look forward to working with the Committee to address our mutual concerns.
+
+                                            Sincerely,
+
+                                                            Automated Records Manage.,.
+                                                            Hex-Dump Conversion
+
+                                            Jacob J. Lew
+                                            Director
+
+                     Identical Letter Sent to The Honorable C. W. Young,
+                 The Honorable David R. Obey, The Honorable Frank R. Wolf,
+                              and The Honorable Martin O. Sabo
+
+                                               3
+
+
+
+
+    The Honorable David R. Obey
+    Committee on Appropriations
+    U.S. House of Representatives
+    Washington, D.C. 20515
+
+    Dear Representative Obey:
+
+
+    The Honorable Frank R. Wolf
+    Chairman
+    Subcommittee on Transportation
+      and Related Agencies Appropriations
+    Committee on Appropriations
+    U.S. House of Representatives
+    Washington, D.C. 20515
+
+    Dear Mr. Chairman:
+
+
+    The Honorable Martin O. Sabo
+    Subcommittee on Transportation
+      and Related Agencies Appropriations
+    Committee on Appropriations
+    U.S. House of Representatives
+    Washington, D.C. 20515
+
+    Dear Representative Sabo:
+
+
+
+
+                                                Automated Records Management System
+                                                Hex..D\IIIlP Conversion
+
+
+                                            4
+
+

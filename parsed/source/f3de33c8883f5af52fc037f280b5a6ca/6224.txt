@@ -1,0 +1,157 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP [ OPD ]       )
+
+CREATION DATE/TIME: 2-FEB-1998 13:56:26.00
+
+SUBJECT:   Cost allocation Q&As -- done by OMB
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP    [ OPD ] )
+READ: UNKNOWN
+
+CC: Andrea Kane ( CN=Andrea Kane/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+CC: Diana Fortuna ( CN=Diana Fortuna/OU=OPD/O=EOP @ EOP    [ OPD ]   )
+READ: UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D52]MAIL467025232.026 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504338050000010A0201000000020500000073230000000200000E443E50C35836F6D97EE8
+DCA68C8424E6756FOA5EF34577DDAA140C4D910EC76C8D1952EOFB5284B20A598F444D525B80F7
+1D48AA81747C9DCEA15A41361881D47B8DE07FC9B4EE25F6537D909A419A1F6E23D6B156141C4E
+6DD32E5EDB4D52396C490DE5EOF5A1380E1355FF4C89F231238C3CE189AB95879A52D248545F5E
+08430407B9D402C9FB5FAC60444AB4E9FDD04EF2366C70682D9615A943BAA141B37AFED3BA2F7E
+53FOB97B8B146015020CBE3CF5D27A375F367EB9474FE4DD66F005BC1455C192B5099505D3E902
+1BOF4BA036674B5420856716A95299A808848A4FF8353018F50AF543B33E4D4F2E9D9AOC7AFCB7
+8B4EA3AA9C72F890D055E2C27F13158448C9BC6CF92EC46F529451D4DAEFBBAOD3E7CE2DFOC876
+42D161976961EA74EE4D4698716C475C663A70D8951FA012562E1EC8D781DA60F861AE1C505B7A
+DA12E2BF96D546D25692CB540E462B8F035B3B9506FE2650E6EBE2ED1BB7900218D39B9A75D35D
+175727489FE5D7E1876363DEBE46EC28579BD9861797A8F673C1E803C3CFODDE9D18CDA02675C4
+27017102CC924EBFB90DOADEF368BA457F4669BBF323E47E812366EABC5AB5D577A4A83C8CA9D8
+B024CDED7BEC3B55F738EF886F4165819810CEA4BEFF326B21AEDCD378ADAE767E12BE4F2FB052
+FB597701EA02000F00000000000000000000000823010000000B010000D202000000550COOOOOO
+4EOOOOOODD030000092501000000060000002B0400000B30020000002800000031040000080501
+00000008000000590400000055090000003A00000061040000087701000000400000009B040000
+08340100000014000000DB0400000802010000000FOOOOOOEF0400OOOOOOOOOOOOOOOOOOOOOOEF
+04000000000000000000000000EF04000000000000000000000000EF0400000000000000000000
+0000EF0400000055020000003AOOOOOOFE04000000984C006F00630061006C0020004800500020
+004C0061007300650072006A006500740020003500000000000000000000000000000000000000
+00000000000000000000000000000000000057494E53504F4F4COO00000000C800C8002C012C01
+2C012C01C800C80030000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000B0100002800C8196810480D000011090000005AOOOB01000010360054
+0069006D006500730020004E0065007700200052006F006D0061006E0020005200650067007500
+6C0061007200000000000000000001000200580201000000040028000000000000000000000000
+00000000000000011202002400A1000000A100000001000400020000002C00201CF811FOOAOOOO
+16410000005A000708000010220041007200690061006C00200052006500670075006C00610072
+0000000000000000000AOOOOOOC10104001300C20102000200C30103000200C40101004500C501
+01000200C60101000200C70102004800C8010C006581C90101005600CA010100130007AA372400
+
+Question:     Why do you want to cut State administrative costs to run Food Stamps
+              and Medicaid? Doesn't that place more burden on States?
+
+Answer:       The Administration does not propose to cut needed State administrative
+              funding for Food Stamps and Medicaid. The budget only proposes to
+              ensure that States do not get reimbursed twice for certain administrative
+              costs: once from the amounts they receive in their TANF block grant, a
+              second time by claiming reimbursement through matching funds in
+              Medicaid and Food Stamps.
+
+              The Budget adjusts the match rate on administrative costs in Food
+              Stamps and Medicaid from 50 percent to 47 percent to account for the
+              cost shift from TANF. The total savings from the match rate change
+              equals the total cost increases resulting from new State "cost allocation"
+              practices. In the aggregate, this means that States will receive an
+              equivalent amount of funding to what they would have received prior to
+              welfare reform. We are therefore not placing more burden on States.
+
+Additional:   Some States may view the Budget policy as unfair because it applies
+              the same match rate reduction to all States regardless of individual
+              State differences in pre-welfare reform cost allocation policies.
+              However, HHS and USDA do not currently have specific State-by-State
+              cost data on cost allocation policies. Negotiating the administrative
+              costs on a State-by-State basis would result in a long and protracted
+              process that could not support scoring the savings from this policy for
+              the Budget. States may also view the growing dollar cuts in Food
+              Stamps and Medicaid as unfair because they say they can shift only a
+              fixed amount from TANF. Once States shift costs to Food Stamps and
+              Medicaid, however, the costs are projected to increase at the rate of
+              growth in those programs. The match rate change removes the costs as
+              they grow over time.
+
+Background: As an unintended consequence of welfare reform, States have an
+            incentive to shift administrative costs from the capped TANF block grant
+            to the open-ended Food Stamp and Medicaid programs as a way to
+            generate more revenue for States. If States pursued this course,
+            Federal costs would increase by $3 billion or more in FYs 99-03 with no
+            commensurate benefit for poor people. Effective in FY99, States will be
+            required to adopt the cost allocation approach which requires them to
+            shift costs from TANF to Food Stamps and Medicaid. The match rate
+            reduction will become effective in FY99. Up to and including FY98,
+            HHS will not approve State plans to shift costs.
+
+Prepared by: Jeff Farkas (x5-7756) and Anne Tumlinson (x5-7789)
+
+
+                                                              Automated Records Management System
+                                                              Hex-Dump Conversion
+REP. STENHOLM CONCERNS
+
+Question:     Why does your cost allocation proposal save less in Food Stamps than
+              the Senate agriculture research bill? Does that mean your immigrant
+              and crop insurance proposals are not fully offset in the Ag Committee?
+              Why do you want to cut farm programs to pay for increases in Food
+              Stamps?
+
+Answer:       The Budget achieves less savings from Food Stamps ($0.9 billion) than
+              the Senate agriculture research bill ($1.2 billion) because the
+              Administration uses a different methodology to harmonize Food Stamps
+              and Medicaid policy while the ag research bill addresses Food Stamps
+              only.
+
+              In total, the Administration's spending proposals -- which include Food
+              Stamp benefit restorations for legal immigrants, crop insurance delivery
+              expenses funded through mandatory spending, and other farm items --
+              are fully offset in the context of the Budget. Within the Agriculture
+              Committee, the Administration's proposals are not fully offset --
+              spending increases in Food Stamps, crop insurance, and other
+              programs outweigh the savings from cost allocation, commodity exports,
+              and other proposals.
+
+              In addition, total spending changes in Food Stamps (+$1.5 billion)
+              outweigh total spending changes in farm programs (-$0.6 billion).
+              Restoring Food Stamps to legal immigrants who were made ineligible for
+              benefits by the 1996 welfare law remains a top priority for the
+              Administration and fulfills the President's pledge to reverse the most
+              excessive cuts included by Congress in welfare reform.
+
+Additional:    In line with Rep. Stenholm's concerns about cost allocation, the Budget
+               does not change TANF grant levels, TANF State maintenance of effort
+               requirements, or TANF transfer provisions.
+
+Background: The Budget addresses the cost shift from TANF to Food Stamps and
+            Medicaid in a unified manner by changing the match rate on
+            administrative expenses in both Food Stamps and Medicaid from 50%
+            to 47%. Because Medicaid costs are much higher than Food Stamp
+            costs, a larger share of the savings from the match rate adjustment
+            come from Medicaid rather than Food Stamps. In comparison, the
+            Senate agriculture research bill did not seek to address the cost shift to
+            both Food Stamps and Medicaid; it sought to prevent cost increases
+            only in Food Stamps, and sought to prevent all of the cost increases in
+            the program. As a result, its savings in Food Stamps are higher.
+
+Prepared by: Jeff Farkas (x5-7756) and Adrienne Erbach (x5-3496)
+
+

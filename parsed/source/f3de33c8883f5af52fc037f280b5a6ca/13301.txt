@@ -1,0 +1,72 @@
+RECORD TYPE: PRESIDENTIAL      (EXTERNAL MAIL)
+
+CREATOR: JensenTC@aol.com@INET@EOPMRX
+
+CREATION DATE/TIME: 4-FEB-1996 15:38:00.00
+
+SUBJECT: Revised timber memo
+
+TO: Foley_M                                    ( Foley_M@A1@CD ) (WHO)
+READ: 5-FEB-1996 10:07:57.74
+
+TO: OConnor J                                    OConnor_J@A1@CD)     (WHO)
+READ: 5-FEB-1996 08:18:54.45
+
+TO: Kagan_E                                    ( Kagan_E@A1@CD ) (WHO)
+READ: 5-FEB-1996 08:44:09.60
+
+TO: Chow B                                       Chow B@A1@CD ) (WHO)
+READ: 5-FEB-1996 11:31:32.01
+
+TO: Glauthier T                                  Glauthier T@A1@CD      (OMB)
+READ: 4-FEB-1996 22:55:26.70
+
+TO: Higgins_K                                  ( Higgins_K@A1@CD)     (WHO)
+READ: 5-FEB-1996 10:20:14.38
+
+CC: Fidler S                                     Fidler S@A1@CD ) (CEQ)
+READ: 5-FEB-1996 10:42:56.25
+
+CC: Balderston K                                 Balderston_K@Al@CD      (WHO)
+READ: 5-FEB-1996 09:20:36.58
+
+CC: Shuffield A                                  Shuffield A@A1@CD      (OMB)
+READ: 5-FEB-1996 12:54:16.44
+
+CC: Saunders R                                   Saunders R@A1@CD      (OMB)
+READ: 5-FEB-1996 10:27:36.53
+
+TEXT:
+Attached is a WP 5.2 file with the latest reV1S10n of the timber policy memo.
+ Shelley and I thank you for your previous comments and advice. We would be
+grateful if you would look this over once more and, if you have comments,
+send them to either one of us by COB Monday.   Thank you.
+==================== ATTACHMENT 1 ====================
+ATT CREATION TIME/DATE: 4-FEB-1996 15:39:00.00
+
+ATT BODY PART TYPE:p
+
+TEXT:
+Unable to convert OA$SHARA1513:ZWDQMDB8Y.FGN to ASCII,
+ The following is a HEX DUMP:
+
+
+==================     END ATTACHMENT   1   ==================
+==================== ATTACHMENT 2 ====================
+ATT CREATION TIME/DATE: 4-FEB-1996 15:39:00.00
+
+ATT BODY PART TYPE:D
+     .. ARMs Email System                                                        Page 2 of2
+
+
+      TEXT:
+      RFC-822-headers:
+      Received: from storm.eop.gov (storm.eop.gov)
+       by PMDF.EOP.GOV (PMDF VS.0-4 #6879) id <01IOTJSMOJHC0074NM@PMDF.EOP.GOV>; Sun,
+       04 Feb 1996 15:38:23 -0400 (EDT)
+      Received: from emout04.mail.aol.com ("port 3389"@emout04.mail.aol.com)
+       by STORM.EOP.GOV (PMDF VS.0-4 #6879) id <01IOTJPQE1NE00007N@STORM.EOP.GOV>;
+       Sun, 04 Feb 1996 15:36:02 -0700 (MST)
+      Received: by emout04.mail.aol.com (8.6.12/8.6.12) id PAA23s68; Sun,
+       04 Feb 1996 15:38:08 -0500
+      ================== END ATTACHMENT 2 ==================

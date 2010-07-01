@@ -1,0 +1,202 @@
+RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+CREATOR: Thomas L. Freedman ( CN=Thomas L. Freedman/OU=OPD/O=EOP [ OPD ) )
+
+CREATION DATE/TIME: 3-DEC-1997 10:19:42.00
+
+SUBJECT:   Conrad briefing
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ) )
+READ: UNKNOWN
+
+TO: Jerold R. Mande ( CN=Jerold R. Mande/OU=OSTP/O=EOP @ EOP [ OSTP ) )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ) )
+READ: UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO)    )
+READ: UNKNOWN
+
+CC: Mary L. Smith ( CN=Mary L. Smith/OU=OPD/O=EOP @ EOP [ OPD ) )
+READ: UNKNOWN
+
+TEXT:
+                 We put together a quick outline of Gruber's draft 18 page summary    0
+answers.   ==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS EXT: [ATTACH.D29)MAIL452583632.316 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504370040000010A02010000000205000000AA2400000002000OF5724EFE7C465E567B675B
+389A924FCCCF3AEF505D5C043CF2ADF2D88ED77FOCA64B9F4F3487B9ABEDDA3B615938124B887A
+C442167BA067EED754FA2D48261BDF708EB6525B8F210B7D4313969CCC77BC4C7C0610ED8257AB
+EF3DC2F7C890099ACEB2CC6AD233376F7CB243CBll19B534E3C6610B2DAB11BB98C5E138C8C20A
+67F5D007B51DD80ED06BF7BD148FFD038590632F5C5D4AEADFDCDABE4F87AAB9EB4CA366D3084A
+6FC46FBDA5F45F1C1D2E763B26450880207192141833CFDD4E0551DD960795A24E460F089BEA70
+B3CC62E41DOFFDA067861A915C313FFE09DOE1B4ABBA60E633F4CE303D4839FC366El16721602D
+DE4A2D3DAC3E40C1746C1758895AEFBFAA068559EBF19A047EC6D26CB180CAEA5E3B201456FDE3
+B1D3D854062BAFBAECA5A4D8DCC8A8DC7339566528A08928BBB18B3B43D9173FA4D060EE8B3EB7
+4B4E093909E96FBEC4DD2FC0012BD3A2E7CCF08E26C58A731AA4E59B6E70B13BE2623C77CD07BE
+B64157F99E9853AF40FD63AEFFOD43E187887971F7B863F724A52E997369BB1A219B44BE872ADB
+E56425E2Fl182FFB1C8CBE1E95F5406EOD753A30D78B1FB5A19187OA5558C69175634ECF50917A
+D49C7BB5FFOB376C376F85D946F4EOD726E1046790B5C18945684D87862CD583BEC50250D6AB8F
+9F19BC26D602000900000000000000000000000823010000000B0100007E020000005501000000
+4E0000008903000009250100000006000000D70300000B300200000028000000DD030000087701
+000000400000000504000008340100000014000000450400000802010000000F00000059040000
+080501000000080000006804000000984800500020004C0061007300650072004A006500740020
+00340020002D0020004C006F00630061006COOOOOOOOOOOOOOOOOO000000000000000000000000
+00000000000000000000000057494E53504F4F4COOOOOOOOOOC800C8002C012C012C012C01C800
+C80030000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000B0100002800D61EC30F3908000011090000005AOOOB01008B143600540069006D0065
+00730020004E0065007700200052006F006D0061006E00200052006500670075006C0061007200
+000000000000000001000200580201000000040028000000000000000000000000000000000000
+00011202002400A1000000A10000000A0000000702010002000802010002000902010045000A02
+010002000B02010045000C02010002000D02010045000E02010002000F02030044001002010002
+
+I. Should the $1.50 increase be only from the settlement or other factors?
+
+        President said "up to $1.50."
+
+        Should be real settlement costs.
+
+       Industry estimates show non-settlement costs could easily eat up all but .62 of the 1.50
+       increase. Inflation is particularly important.
+
+
+II. What are the effects of different levels of price increase on consumption?       How does it
+effect industry profitability?
+
+       Starting at about $1 where teen smoking has diminished by 30%, rates drop by 5-6%
+       every 25 cents up to $2.00. At $3 there is a 66% decrease.
+
+       Legislatively reduced prices lead (minus decrease ads and legal costs) to 10-17% lower
+       profits.
+
+      FTC analysis shows that industry would increase prices above settlement costs. A 200%
+      pass through of settlement costs to prices leads to a present value of after tax profits
+      increases by about 78%.
+
+       Liability protection would lead to rising stock prices alone.
+
+      Tobacco farmers would suffer lower value quotas as cigarette prices rise.
+
+      Wholesalers/retailers suffer from reduced demand, possible penalties, loss of point of sale
+      advertising.
+
+      Local/state excise taxes will diminish depending on the size of the excise tax.
+
+
+
+III. Does the rate that prices increase make a difference?
+
+      This analysis didn't assume a sudden increase would have a different effect from an
+      incremental one.
+
+      Arguably a sudden increase could have a shock effect, alternatively people may be better
+      at adjusting their behavior over time.
+
+      Also sharp increases may lead to smuggling problems.
+                                                                              Hex-Dump Conve;sion ·
+
+IV. Three possible approaches: (a) companies pay per pack into fund; (b) an excise tax,
+(c) public health user fee per pack, please discuss.
+
+A.    Antitrust exemption so that the tobacco companies can pay per pack increases into
+      settlement fund is not warranted.
+
+      --even without an antitrust exemption, the cigarette manufacturers will raise prices to the
+      amount of the settlement or greater than the settlement.
+
+      --FTC report concluded that there was insufficient justification for an antitrust exemption
+      even unrelated to price such as achieving the goal of reducing youth smoking or as an
+      exchange with the tobacco companies for the possibility that the settlements restrictions
+      may be ruled unconstitutional.
+
+B.    A volume-adjusted penalty, excise tax, or per pack charge are effectively identical from a
+      consumer point of view.
+
+C.    The current net stream of government revenue as envisioned by the settlement is
+      substantially smaller than the face value contained in the settlement, and will decline over
+      time.
+
+      --If objective is to fund public health programs, the payment should rise over time in line
+      with the needs of the programs. By analogy, other entitlement programs have
+      experienced rates of growth far in excess of inflation rates.
+
+
+
+V.    How big a price increase is necessary to achieve the youth smoking targets?
+
+      Price increases due to inflation alone will not help meet youth targets.
+
+      About $1.45 in fifth year to achieve 30% reduction; about $2.40 in seventh year to
+      achieve 50% reduction; and about $3.00 per pack in tenth year to achieve 60% reduction
+      (These estimates do not include any effect from non-price aspects such as access and
+      advertising restrictions).
+
+      Comprehensive and strongly enforced restrictions on youth access to cigarettes could
+      have significant effects on reducing underage use of cigarettes; might need incentives for
+      communities to make compliance efforts; perhaps 20 to 40% reductions if strong
+      enforcement of access restrictions.
+
+      Advertising restrictions are less clear on reducing youth smoking --the conclusions of
+      several studies on advertising restrictions varies.
+                                                                               Hex-DiJmp Conversion ·
+
+VI.    How big a price increase to offset costs of smoking-related illnesses to the Federal
+       government?
+
+       A.     Medicare: costs of smoking-related illnesses are unclear because lower costs of
+              healthier population are offset by increased life expectancies associated with
+              reduced rates of smoking.
+
+       B.     Medicaid, Veterans benefits, and FEHBP: costs unclear for the same reasons as
+              for Medicare.
+
+       C.     TRICARE for active-duty military (fonnerly known as CHAMPUS): more direct
+              cost savings because this program serves a population under the age of 65.
+
+
+
+VII.   What are implications of $1.50 price increase for cigarette consumption, smoking
+       rates, industry profitability, farmers, retailers, and wholesalers for different
+       combinations of penalties and price increases?
+
+       President called for increase of up to $1.50 per pack.
+
+       Penalties will lead the industry to deter youth smoking (ifit is able to do so) through
+       non-price mechanisms if penalties are larger than the profits earned from youth smoking.
+
+       Tension between fighting smoking and having stable funding stream.
+
+       Administrative problems with relying solely on penalties as a means of raising settlement
+       revenues. Issues re: reliability of youth smoking rates contained in surveys.
+
+
+
+VIII. Ways to structure look-back penalties for missing youth smoking targets.
+
+       A mix of industry-wide and company-specific penalties would provide the best
+       incentives; industry-wide penalties would promote efforts by all companies to reduce
+       underage smoking; company-specific penalties would eliminate incentive for company to
+       keep selling to youth and only pay part of penalty.
+
+       Substantial economic justification for de minimus exception assuming there is a
+       "hard-core" group of youths that companies have no control over, regardless of the
+       companies' actions.
+
+       One-time payment in year after target missed based on number of packs sold in previous
+       year provides a known revenue vs. Per-pack taxes in year after target missed provides
+       unknown revenue because level of sales is unknown when tax rate is instituted.
+Difficulty in assessing different taxes on different brands.             eX-Dump Conversion   .
+
+Non-linear penalties provide the greatest incentives --i.e., penalties should increase as
+non-compliance rises.
+
+

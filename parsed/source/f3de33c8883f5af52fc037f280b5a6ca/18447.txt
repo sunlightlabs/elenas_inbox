@@ -1,0 +1,219 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Suzanne Dale ( CN=Suzanne Dale/OU=WHO/O=EOP [ WHO 1 )
+
+CREATION DATE/TIME:17-JAN-1998 18:28:51.00
+
+SUBJECT:   IGA Winter Mtgs./Message Strategy
+
+TO: Michael Waldman ( CN=Michael Waldman/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Jonathan A. Kaplan ( CN=Jonathan A. Kaplan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Amy W. Tobe ( CN=Amy W. Tobe/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Fred DuVal ( CN=Fred DuVal/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Emily Bromberg ( CN=Emily Bromberg/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Jake Siewert ( CN=Jake Siewert/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Stacie Spector ( CN=Stacie Spector/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Lynn G. Cutler ( CN=Lynn G. Cutler/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Ann F. Lewis ( CN=Ann F. Lewis/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Paul A. Tuchmann ( CN=Paul A. Tuchmann/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Darby E. Stott ( CN=Darby E. Stott/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Emory L. Mayfield ( CN=Emory L. Mayfield/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Ruby Shamir ( CN=Ruby Shamir/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Sky Gallegos ( CN=Sky Gallegos/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Mona G. Mohib ( CN=Mona G. Mohib/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+CC: Mickey Ibarra ( CN=Mickey Ibarra/OU=WHO/O=EOP @ EOP [ WHO 1 )
+
+
+READ: UNKNOWN
+
+TEXT:
+please Jo~n Mickey Ibarra and Ann Lewis in a meeting to discuss the
+upcoming IGA meetings and message strategy on Wednesday, 1/21, at 3:00pm
+in Mickey's office.
+
+POTUS is addressing the U.S. Conference of Mayors on 1/30 and the National
+Governors' Association on 2/23.  Including meetings the VP will address or
+drop by, we have six major and several other additional conventions of
+state and local elected officials in Washington in the next few weeks.
+We'd really like to develop a common message for delivery at these
+meetings.
+
+FYI -- Attached is a calendar of upcoming IGA meetings.
+
+please let me know soon if 3:00pm on 1/21 does not work for you.
+
+Thanks.==================== ATTACHMENT    1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D23]MAIL498360813.026 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504392180000010A02010000000205000000834A000000020000C56C392E3C855375524C04
+511B5473DD597DC6E6294F87372573CDA7BE1E2F3AE3B5F53BEC76A384C349C54FD210E812273B
+                                                                       Hex-Dump Conversion
+                    INTERGOVERNMENTAL AFFAIRS
+                   CALENDAR OF UPCOMING EVENTS
+                            (As of 1117/98)
+
+
+
+DATE         ORGANIZATION              MEETING/TOPIC            LOCATION
+
+
+
+1998
+
+Jan. 23      National Association of   Briefing: State          White House
+             Counties                  Presidents and
+                                       Executive Directors,
+                                       State Associations of
+                                       Counties
+
+Jan. 26      IGA Reps. Mtg.                                     White House
+
+Jan. 26-27   Democratic Governors      State of the Union       Washington, DC
+                                       Briefing
+
+Jan. 26-27   National Congress of      Tribal Leaders Mtg.      Washington, DC
+             American Indians                                   -Washington
+                                                                Court
+
+Jan. 28-30   US Conference of Mayors   Winter Meeting           Washington, DC -
+                                                                Capitol Hilton
+
+Feb. 4-7     National Conference of    Leader to Leader         Washington, DC -
+             State Legislatures        Conference               Washington Court
+
+Feb. 9       IGA Reps. Mtg.            Winter Meeting           White House
+
+Feb. 11-15   National Association of   Winter Conference        Washington, DC
+             Secretaries of State
+
+Feb. 12-14   National Sheriffs'        Winter Meeting           Orlando, FL
+             Association
+
+Feb. 23      Democratic Governors'     Winter Business          Washington, DC -
+             Association               Meeting & Dinner         Convention Center
+
+Feb. 21-24   National Governors'       Winter Meeting           Washington, DC -
+             Association                                        J.W. Marriott
+
+Feb. 23      IGA Reps. Mtg.                                     White House
+Feb. 25-28   National Congress of      Winter Meeting           Washington, DC -
+             American Indians                                   Grand Hyatt Hotel
+
+DATE         ORGANIZATION              MEETING/TOPIC            LOCATION
+                                                                     Hex-Dump Conversion
+
+Feb. 27-Mar. 3   National Association of       Legislative                 Washington, DC -
+                 Counties                      Conference                  Wash. Hilton
+March 4-6        National Conference of        State-Federal Meeting       Washington, DC -
+                 Lieutenant Governors                                      Washington Court
+March 7-10       National League of Cities     Congressional City          Washington, DC -
+                                               Conference                  Wash. Hilton
+
+March 9          National League of Cities     Briefing: Directors         White House
+                                               of State Municipal
+                                               Leagues
+March 9          IGA Reps. Mtg.                                            White House
+
+March 11-13      National Association of       Spring Meeting              Washington, DC
+                 Attorneys General
+
+March 23         IGA Reps. Mtg.                                            White House
+
+April 3-5        National Conference of        Assembly on State           Seattle, W A -
+                 State Legislatures            Issues Spring Meeting       Madison Hotel
+
+April 16-18      National Conference of        Assembly on Federal         Washington, DC -
+                 State Legislatures            Issues Spring Meeting       Renaissance Hotel
+
+April 20         IGA Reps. Mtg.                                            White House
+
+April 24-25      National Conference of        Joint Executive             Columbus, OH -
+                 State Legislatures/National   Committee Mtg.              Hyatt Regency
+                 Governors' Association
+
+May4             IGA Reps. Mtg.                                            White House
+May 18           lOA Reps. Mtg.                                            White House
+
+June 1           IGA Reps. Mtg.                                            White House
+
+June 10-14       National Conference           Annual Meeting              Oklahoma City,
+                 Lieutenant Governors                                      OK
+
+June 15          IGA Reps. Mtg.                                            White House
+
+June 18-20       National Association of       Annual Meeting              Houston, TX
+                 Latino Elected Officials
+June 19-23       US Conference of Mayors       66th Annual Meeting         Reno, NY
+
+June 29          IGA Reps. Mtg.                                            White House
+
+DATE             ORGANIZATION                  MEETING/TOPIC               LOCATION
+July 17-21       National Association of       Annual Meeting              Portland, OR
+                 Counties
+                 National Conference of
+·
+                                                                     Automated Records Management SvstP'"
+                                                                             Hex-Dump Conversion
+
+        July 20-23      State Legislatures          Annual Meeting             Las Vegas, NV
+
+        August 1-4      National Governors'         Summer Meeting             Milwaukee, WI
+                        Association
+
+        October 25-28   International City/County   84th Annual                Orlando/Orange
+                        Management Association      Conference                 County, FL
+
+
+
+        1999
+
+        July 24-29      National Conference of      Annual Meeting             Indianapolis, IN
+                        State Legislatures
+
+
+        2000
+
+        July 15-20      National Conference of      Annual Meeting             Chicago,IL
+                        State Legislatures
+
+

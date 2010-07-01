@@ -1,0 +1,136 @@
+RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+CREATOR: John G. Stiver ( CN=John G. Stiver/OU=OA/O=EOP [ OA 1
+
+CREATION DATE/TIME:18-JUN-1997 13:18:18.00
+
+SUBJECT:   Request for Notes Mail Connectivity
+
+TO: Christa Robinson ( CN=Christa Robinson/OU=OPD/O=EOP @ EOP [ OPD 1
+READ: UNKNOWN
+
+TO: Jose Cerda III ( CN=Jose Cerda III/OU=OPD/O=EOP @ EOP [ OPD 1
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD 1
+READ:UNKNOWN
+
+CC: Charles B. Dietzel ( CN=Charles B. Dietzel/OU=OA/O=EOP @ EOP [ OA 1 )
+READ: UNKNOWN
+
+CC: Michael A. Saunders ( CN=Michael A. Saunders/OU=OA/O=EOP @ EOP [ OA 1
+READ: UNKNOWN
+
+TEXT:
+Kent Markus of DOJ has requested Lotus Notes email connectivity with you
+(see message below). Before I set this up, I need your authorization to
+add your name to the Notes WHO address book, which will allow him to
+easily address you.   The WHO address book is available to many agencies
+who participate in the Notes Xchange network which is used for reporting
+information from agencies to the White House.  If you have any questions
+about this, please give me a call at X56584.
+
+---------------------- Forwarded by John G. Stiver/OA/EOP on 06/18/97
+10:22 AM ---------------------------
+
+
+
+
+William Helton @ DOJ
+06/11/97 03:37:16 PM
+Record Type:    Record
+
+To:      John G. Stiver/OA/EOP, Lisa D. Jimney/OA/EOP
+cc:
+Subject:         Special Request
+
+Hello
+
+Kent Markus, who is with the Attorney General's office, has made a request
+through me to have the following persons at the White House given access
+to Lotus Notes for the purposes of exchanging email and documents with him
+here at the Department of Justice.  Mr. Markus is the Counselor to the
+Attorney General for Youth Violence and may be reached at (202) 514-3008.
+He has requested that this be accomplished as soon as possible.
+
+Thank you in advance.    please feel free to call me if you have any
+questions.
+
+
+
+Bill Helton
+(202)   514-1238
+
+
+  RECORO TYPE: PRESIOENTIAL     (NOTES MAIL)
+
+  CREATOR: Leanne A. Shimabukuro ( CN=Leanne A. Shimabukuro/OU=OPO/O=EOP [ OPO 1 )
+
+  CREATION OATE/TIME:18-JUN-1997 17:37:36.00
+
+  SUBJECT:     pending Supreme Court decisions
+
+  TO: Jose Cerda III ( CN=Jose Cerda III/OU=OPO/O=EOP @ EOP [ OPO 1 )
+  READ: UNKNOWN
+
+  TO: Elena Kagan ( CN=Elena Kagan/OU=OPO/O=EOP @ EOP [ OPO 1
+  READ: UNKNOWN
+
+  CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO 1
+  READ: UNKNOWN
+
+  TEXT:
+  please read the notes below.  I've asked Bill Marshall to coordinate with
+  Kent Markus with respect to the Brady decision.  The latest rumor is that
+  decisions will all come down by June 26.  That leaves three decision dates
+  left: tomorrow, June 23 and June 26.
+
+  Elena-- Bill asked that you either stop by the "war room" or be available
+  to clear statements on the days that decisions come down on religious
+  freedom, Brady, and right to die.
+
+  Thanks.
+
+
+  ---------------------- Forwarded by Leanne A. Shimabukuro/OPO/EOP on
+  06/18/97 05:31 PM ---------------------------
+
+
+
+  Michelle Crisci
+
+  06/18/97 01:44:34 PM
+  Record Type:    Record
+
+  To:      Leanne A. Shimabukuro/OPO/EOP
+  cc:
+  Subject:         Time and Room
+
+  Chuck Ruff and Rahm would like to set up a "war room" for the next few
+  days in order to organize the statements. -Bill Marshall set up this time
+  and place- who should be there? I was thinking about you,·Jose, Elena,
+  Barry Toiv and someone in· Waldman's office. Who else? Let me know when you
+  get a chance. Thanks
+  ---------------------- Forwarded by Michelle Crisci/WHO/EOP on 06/18/97
+  01:35 PM ---------------------------
+
+
+
+  William P. Marshall
+  06/18/97 12:06:46 PM
+  Record Type:    Record
+
+  To:        Michelle Crisci/WHO/EOP
+  cc:
+
+
+  Subject:       Time and Room
+
+  Please ask everybody meet in my office (486) at 10:30 tomorrow (June 18),
+  next Monday (June 23), and next Thursday (June 26). Thanks.
+"
+
+

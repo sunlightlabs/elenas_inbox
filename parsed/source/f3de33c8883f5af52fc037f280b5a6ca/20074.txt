@@ -1,0 +1,45 @@
+RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+CREATOR: Andrea Kane ( CN=Andrea Kane/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME:28-MAY-1998 18:03:18,00
+
+SUBJECT:   Weekly
+
+TO: Elena Kagan     CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+CC: Diana Fortuna ( CN=Diana Fortuna/OU=OPD/O=EOP [ OPD ] )
+READ: UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D49]MAIL497714150.126 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043B6050000010A020100000002050000001BOD00000002000021B66801605AB9B231CC25
+B35AE768BFD28A627569D63D8FFD4A350D273B82D669F140278CC92916F35D26937FC4B26A6579
+                                                                            Automated Records Manage~ent Systen
+                                                                                    Hex-Dump ConversIon
+        Weekly Report -- Welfare Reform Team
+        5/28/98
+
+        .         Welfare Reform -- State Reinvestment ofTANF Savings: During your meeting with
+        Welfare-to-Work Partnership Board members last week you stressed the importance of states
+        reinvesting their welfare savings in child care, transportation and training. We will work with
+        HHS to analyze state expenditure data for TANF and child care. This data is not as timely as we
+        would like. In the meantime, there is some encouraging information in the NGA Fiscal Survey
+        of States released on May 27th. The way states are spending their welfare funds is shifting from
+        cash to work-related supports. Comparing expenditures in 1996 with planned spending for
+        1998, the percent of welfare spending on cash assistance dropped 27 percent (roughly
+        comparable with caseload declines), while spending on child care increased by 55 percent and
+        spending on work activities increased 34 percent. Total welfare spending declined by 9 percent,
+        but given caseload reductions, this actually represents increased spending per person.
+
+

@@ -1,0 +1,136 @@
+        RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+        CREATOR: Karin Kullman ( CN=Karin Kullman/OU=OPD/O=EOP [ OPD ] )
+
+        CREATION DATE/TIME: 8-JUN-1999 23:53:28.00
+
+        SUBJECT:   Roundtable Participants List and Seating Chart
+
+        TO: Leanne A. Shimabukuro ( CN=Leanne A. Shimabukuro/OU=OPD/O=EOP@EOP [ OPD ] )
+        READ: UNKNOWN
+
+        TO: Courtney O. Gregoire ( CN=Courtney O. Gregoire/OU=OPD/O=EOP@EOP [ OPD ] )
+        READ: UNKNOWN
+
+        TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP@EOP [ OPD ] )
+        READ: UNKNOWN
+
+        TO: Setti D. Warren ( CN=Setti D. Warren/OU=WHO/O=EOP@EOP [ WHO]      )
+        READ:UNKNOWN
+
+        TO: Jose Cerda III ( CN=Jose Cerda III/OU=OPD/O=EOP@EOP [ OPD ] )
+        READ:UNKNOWN
+
+        TO: Cathy R. Mays ( CN=Cathy R. Mays/OU=OPD/O=EOP@EOP [ OPD ] )
+        READ:UNKNOWN
+
+        TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP@EOP [ OPD ] )
+        READ: UNKNOWN
+
+        TEXT:
+        ==================== ATTACHMENT   1 ====================
+        ATT CREATION TIME/DATE:   0 00:00:00.00
+
+        TEXT:
+        Unable to convert ARMS_EXT: [ATTACH.D64]ARMS253111664.136 to ASCII,
+         The following is a HEX DUMP:
+
+        DOCF11EOA1B11AE1000000000000000000000000000000003E00030OFEFF090006000000000000
+        0000000000010000002400000000000000001000002600000001000000FEFFFFFF000000002300
+        OOOOFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+        FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+        FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+        FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+        FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+           PARTICIPANTS FOR THE ROUNDTABLE DISCUSSION
+
+
+CHAIR
+
+      President William J. Clinton
+
+P ARTICIP ANTS
+
+     Attorney General Janet Reno
+     Deputy Attorney General Eric H. Holder, Jr.
+     Associate Attorney General Raymond C. Fisher
+     Acting Assistant Attorney General Bill Lann Lee, Civil Rights Division
+     Secretary Rodney Slater, Department of Transportation
+     Ronald Daniels, Center for Constitutional Rights
+     Paul Evans, Boston Police Department
+     Thomas Frazier, Baltimore Police Department
+     Gilbert Gallegos, Fraternal Order of Police
+     Richard Green, Crown Heights Youth Center
+     Penny Harrington, National Center for Women in Policing
+     Wade Henderson, Leadership Conference on Civil Rights
+     Antonia Hernandez, Mexican American Legal Defense & Educational Fund
+     John Justice, National District Attorneys Association
+     Representative Sheila Jackson Lee, 18 th District, Texas
+     Ken Lyons, International Brotherhood of Police Officers
+     Kweisi Mfume, NAACP
+     Karen Narasaki, Asian Pacific American Legal Consortium
+     Ron Neubauer, International Association of Chiefs of Police
+     Professor Charles Ogletree, Harvard Law School
+     Hugh Price, National Urban League
+     Robert Scully, National Association of Police Organization
+     Rev. Al Sharpton, National Action Network
+     Chuck Sha-King, Youth Force
+     Dan Smith, National Sheriffs Association
+     Robert Stewart, National Organization of Black Law Enforcement Executives
+     Christopher Stone, Vera Institute of Justice
+     Beverly Watts-Davis, San Antonio Fighting Back
+     Mayor Anthony Williams, District of Columbia
+     Raul Yzaguirre, National Council of La Raza
+
+
+
+                                                       Automated Records Management System
+                                                       Hex-Dump Conversion
+                              ROUNDTABLE DISCUSSION
+                                  SEATING CHART
+
+
+Wade          Ron       Penny        Chuck      Bill Lann      Chris           Charles        John
+Henderson     Daniels   Harrington   Sha-King   Lee            Stone           Ogletree       Justice
+
+
+Al                                                                                            Ken
+Sharpton                                                                                      Lyons
+
+
+Gil                                                                                           Karen
+Gallegos                                                                                      Narasaki
+
+
+Sheila                                                                                        Robert
+Jackson-Lee                                                                                   Stewart
+
+
+Eric                                                                                          Ray
+Holder                                                                                        Fisher
+
+
+Dan                                                                                           Richard
+Smith                                                                                         Green
+
+
+Rodney                                                                                        Ron
+Slater                                                                                        Neubauer
+
+
+Beverly                                                                                       Antonia
+Watts-Davis                                                                                   Hernandez
+
+
+Robert                                                                                        Anthony
+Scully                                                                                        Williams
+
+
+Thomas        Kweisi    Paul             THE                   Hugh            Janet          Raul
+Frazier       Mfume     Evans          PRESIDENT               Price           Reno           Yzaguirre
+
+
+                                                            Automated Records Management System
+                                                            Hex-Dump Cgnversion
+
+

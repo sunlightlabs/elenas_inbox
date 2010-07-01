@@ -1,0 +1,55 @@
+RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+CREATOR: Jose Cerda III ( CN=Jose Cerda III/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME:24-FEB-1999 18:42:43.00
+
+SUBJECT:   Draft Price Letter
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Leanne A. Shimabukuro ( CN=Leanne A. Shimabukuro/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ:UNKNOWN
+
+CC: Laura Emmett   ( CN=L'aura Emmett/OU=WHO/O=EOP   @   EOP [ WHO ] )
+READ: UNKNOWN
+
+TEXT:
+What do you guys think ... EK, thought you did an excellent job in the
+meeting ... j c3
+
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D89]MAIL44332895T.036 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043CC040000010A02010000000205000000960B000000020000584B6BAD2986B1D6F74C8B
+
+
+
+                                       Automated Records Management System
+                                                Hex-Oump Conversion
+            Dear Hugh:
+
+            Thank you for your thoughtful letter on the issue of police abuse and misconduct. I
+            appreciate your recommendations on this difficult issue, and have forwarded your letter to
+            the Attorney General for her consideration [as she continues to work with state and local
+            law enforcement agencies on these matters].
+
+            But I want to be clear: My Administration is committed to vigorously enforcing the law,
+            including against those police officers who would betray the public's trust through
+            lawlessness or brutality. We are equally committed to strengthening the bond between
+            community residents and their local police, and making the criminal justice system more
+            responsive to the public safety needs of all our people.
+
+            Again, thank you for your letter.
+
+            Be
+
+

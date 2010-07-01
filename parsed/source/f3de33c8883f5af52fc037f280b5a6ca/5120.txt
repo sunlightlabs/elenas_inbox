@@ -1,0 +1,127 @@
+ RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+ CREATOR: Sarah A. Bianchi ( CN=Sarah A. Bianchi/OU=OPD/O=EOP [ OPD ] )
+
+ CREATION DATE/TIME:31-0CT-1997 15:49:06.00
+
+ SUBJECT:   weekly
+
+ TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP   [ WHO]   )
+ READ: UNKNOWN
+
+ TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+ READ: UNKNOWN
+
+ TEXT:
+ ==================== ATTACHMENT   1 ====================
+ ATT CREATION TIME/DATE:   0 00:00:00.00
+
+ TEXT:
+ Unable to convert ARMS_EXT: [ATTACH.D8]MAIL42997530U.316 to ASCII,
+  The following is a HEX DUMP:
+
+ FF575043CC040000010A02010000000205000000001F0000000200006308A12A80E22890F2230D
+ BB4182625BBDCF9B1F62125791188E40CD04CF1D104E5A4C864C55EBFBOCF655D7AC4C17D08B1F
+ B490B3899F5916125559CDE7132B8093CFBD79159FBEA71C02B48AEC70792D92A6462612EOC491
+ 4489B08994D3C8E64BB89545CF8A6001DC772687FC72A6CBE5D2765821DA6B6A9DFCC59DOOACD2
+ DF09C33B45DFAC58827C4E4252998COA9E973A434E930EBBFCD366E247A3D3F7237630F7EC437D
+ A93E6COBEA4D89459020363F7E2D4FD653B7F8F243EDBC99E658854DB66BE47D8FBC1964F6BBAA
+ 3B6B7ADAA07C38DE996B499976B2AB7E3462A2DE2F9DBA23A799BE8210130C7459B83671009952
+ DF5AB352E9474A7871FD5083ECD6A57B698D4A6BFF93C2EC66E3819BC6F75329AC96E050F5915D
+ A4B521AE5A8F37944CA868C32DDA3B7768CB56D1E85594FC93012422EBE91D24A9B2DD45A22845
+ 5C2930EB5E48949CD813CB79119D89C8CEE05F202E5A8F181FF4EC7404685E2F3CA4C0071691E6
+ 3E404A8F77F7B3DDAB6B939AODEC52016C6C729BC673D75BA9550B83271FAFD6BA476A54A46E42
+ 01D4964158D73F713ABB99147CBDCFOFADOD176F36A129DCBC09BFF59C1665D0494CE3291COD52
+ 217BOB30731C098F71FB7306A27F38AEBOA2F20D84008901F5BACB5A098C99FOA976C82D6420FE
+ 1595D9D59102000A00000000000000000000000823010000000BOI00008C020000005502000000
+ 4E0000009703000009250100000006000000E50300000B300200000028000000EB030000087701
+ 000000400000001304000008340100000014000000530400000802010000000F00000067040000
+ 08050100000008000000760400000055010000004E0000007E04000000985C005C004F0041005F
+ 0037005C005C005C004F00500044005C003200310036005F004100000000000000000000000000
+ 000000000000000000000000000000000000000000000000000057494E53504F4F4COOOOOOOOOO
+ C800C8002C012C012C012C01C800C8003000000000000000000000000000000000000000000000
+ 000000000000000000000000000000000000000000000000000000000000000000000000000000
+ 000000000000000000000000000000000000000000000000000000000000000000000000000000
+ 000000000000000000000000000000000000000000000000000000000000000000000000000000
+ 0000000000000000000000000000000000000B0100002800CB196810480D000011090000005AOO
+ OB010000103600540069006D006500730020004E0065007700200052006F006D0061006E002000
+ 52006500670075006C006100720000000000000000000100020058020100000004002800000000
+ 000000000000000000000000000000011202002400A1000000A10000000AOOOOOOE50401004500
+ E60401000200E70402004500EB0401000200E90401000200EA0440006581EB0402005500EC040B
+ 001300ED0413006581EE04010002006C8EE92200000000D0017400FOOOF41F0000000008337COO
+ 780000020000EE0400000301000400020000002800D61EC30F3908000011090000005AOOOB0100
+ 8B143600540069006D006500730020004E0065007700200052006F006D0061006E002000520065
+ 00670075006C00610072000000000000000000DDOA10008301040003000200211000DDDDOBOBOO
+ 030000040BOODDF102ED04F19BF103ED04F1F100ED04F1F102EA04F19BF103EA04F1F101ED04F1
+ F102ED04F1F103ED04F1F100EA04F19BF101EA04F1F20CF24E616E6379B4416E6E804D696E80F1
+ 00EA04F19CF101EA04F144655061726C65F01C04F07380436F6E6669726D6174696F6EF30CF32E
+ F100EA04F19BF101EA04F1805468658052657075626C6963616E804C656164657273686970806B
+ 61738073746570706564807570807468656972D0011500000B00090001B0040000000001201500
+ D0706F6C69746963616C8067616D65736D616E73686970806F6E804E616E637984416E6E804D69
+                                                                       Hex-Dump Conversion
+Nancy-Ann Min DeParle's Confirmation. The Republican Leadership has stepped up their
+political gamesmanship on Nancy-Ann Min DeParle's nomination to be the Administrator of
+HCFA. They are holding up a final confinnation vote over the 'Kyl amendment', which would
+amend a compromise in the Balanced Budget Act. The BBA provision allowed physicians to
+charge Medicare beneficiaries whatever fee they wished if beneficiaries voluntarily agreed to
+waive Medicare payments on their behalf. Senator Kyl wishes to repeal the provision which
+forbids physicians from serving any Medicare beneficiaries for two years whose services are paid
+for by the program if they opt for these contracts.
+
+The implications of the underlying compromise BBA provisions and the Kyl amendment to it are
+quite complicated, but some accommodation may eventually be possible. However, the White
+House and HHS feel strongly that we should not signal any willingness to consider modifying
+this provision or even testify before the Congress (the Finance Committee has been instructed by
+Senator Lott to hold a hearing on the subject) before Nancy-Ann is confinned. We believe that
+any responsive move by the Administration would only reward this kind of hostage-taking
+strategy. At least as important, it would make us vulnerable to significant criticisms from the
+Democratic base and all credible aging advocacy organizations, who strongly oppose the Kyl
+amendment. Opponents of the amendment fear that this provision would open the door to a
+two-tier Medicare program which would both reduce access to needed care by allowing
+physicians to pick and choose patients and create major fraud opportunities for physicians who
+contracted out beneficiaries but still bill Medicare for their services.
+
+Vice President's Participation at NIH Ground Breaking. Next Tuesday the Vice President
+will join Dr. Varmus, Donna Shalala, Senator Mark Hatfield (R-OR), and many others in
+dedicating a new building for clinical research on the campus of NIH that will be named for the
+Senator--a longstanding advocate of NIH during his years as Senate Appropriations Chair. We
+are currently working with NIH and HHS to detennine whether there is any modest
+announcement that the Vice President can make. We have, however, decided to delay any
+announcement of the Medicare cancer clinical trials initiative that we have referenced to you
+previously. We are still getting final cost estimates and reviewing possible financing estimates
+for this proposal. Moreover, if you decide to pursue the initiative, we think it might be
+significant enough to announce at a Presidential event on the progress we are making on the war
+against cancer. Parenthetically, since 80 percent of men with prostate cancer are over age of 65,
+the NCI has indicated coverage of these trials will represent a major contribution in our
+increasing commitment to diagnose, treat, and eventually cure this disease.
+
+Kassebaum-Kennedy Implementation. We held an interagency meeting (HHS, Treasury,
+Labor) to follow up on your concem about recent reports that insurance companies are giving
+insurance agents incentives not to enroll high risk individuals. HHS infonned us that while they
+had no sure way of detennining how widespread the problem was, state insurance commissioners
+had infonned them that the pUblicity surrounding the issue had clearly served to significantly
+curtail these activities. Despite encouraging reports, we pushed HHS to detennine if there are
+actions that we can take to ensure nationwide compliance with the law. They reported that we
+may be able to take administrative/regulatory action to address this issue by sending a notice to
+all states that underscores our interpretation of the law and advises the states to enforce it
+                                                                   Hex-Dump Conversion
+accordingly. This notice would strongly emphasize the Federal Government's cornmitment to
+enforce the law ifthe states drop the ball, through the back-up authority the statute provides.
+We told HHS we wanted to send out the notice no later than December (assuming they confirm
+we have the authority to do so).
+
+Medicaid and Tobacco. This past week, the White House reached an agreement with HHS and
+the Justice Department on a letter to be sent to all states on these issue of tobacco settlements and
+the Federal Government's claim to our part of the Medicaid dollars recaptured by the states.
+The letter, which is scheduled to be sent on Monday, has been written in a generic,
+non-threatening tone that, in essence, lays down the legal marker that the Justice Department and
+HHS felt they needed. However, it also explicitly recognizes that upcoming national legislation
+may well address the difficult Medicaid recoupment allocation issue. In preparation for the
+letter's release, we met with Governor Chiles' office to advise them of the legal and political
+bind we felt we were in with regard to this issue. Although his staff indicated that Governor
+Chiles would probably prefer no letter, his Deputy Attorney General informed us that the type of
+letter we are planning to send sounded quite reasonable. They all seemed pleased that it would
+be a generic, low-profile letter. We will carefully and quietly roll out the release ofthis letter
+and make sure that appropriate parties (NGA, APWA and the Hill) are notified.
+
+

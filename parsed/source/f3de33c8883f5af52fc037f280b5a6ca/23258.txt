@@ -1,0 +1,200 @@
+RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+CREATOR: Essence P. Washington ( CN=Essence P. Washington/OU=OPD/O=EOP [ OPD 1 )
+
+CREATION DATE/TIME: 19-MAR-1999 15:58:55.00
+
+SUBJECT:   NT 4.0 Roll-Out
+
+,TO: Irene Bueno ( CN=Irene Bueno/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ:UNKNOWN
+
+TO: Devorah R. Adler ( CN=Devorah R. Adler/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Jonathan H. Schnur ( CN=Jonathan H. Schnur/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Neera Tanden ( CN=Neera Tanden/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Leanne A .. Shimabukuro ( CN=Leanne A. Shimabukuro/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO:,Cathy R. Mays ( CN=Cathy R. Mays/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Jeanne Lambrew ( CN=Jeanne Lambrew/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Thomas L. Freedman ( CN=Thomas L. Freedman/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Jose Cerda III   ( CN=Jose Cerda III/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ; UNKNOWN
+
+TO: J. Eric Gould ( CN=J. Eric Gould/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Teresa M. Jones ( CN=Teresa M. Jones/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: WEINSTEIN_P@Al@CD@VAXGTWY    WEINSTEIN_P@A1@CD@VAXGTWY @ VAXGTWY [ EOP 1 )   (OPD)
+READ:UNKNOWN
+
+TO: Mary L. Smith ( CN=Mary L. Smith/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ;UNKNOWN
+
+TO: Nicole R. Rabner ( CN=Nicole R. Rabner/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ; UNKNOWN
+
+TO; Tanya E. Martin ( CN=Tanya E. Martin/OU=OPD/O=EOP @ EOP [ OPD 1 )
+
+
+READ: UNKNOWN
+
+TO: Andrea Kane ( CN=Andrea Kane/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Christopher C. Jennings ( CN=Christopher C. Jennings/OU=OPD/O=EOP @ EOP [ OPD 1
+READ: UNKNOWN
+
+TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Sarah A. Bianchi ( CN=Sarah A. Bianchi/O=OVP @ OVP [ OVP 1 )
+READ: UNKNOWN
+
+TEXT:
+Paul has asked me today, to find out, what non-standard software, everyone
+has on their computer.  please e-mail me, or have your assistant contact
+me, today before 5:00 pm with that information.  Sorry for the short
+notice!
+
+Thanks
+
+
+
+---------------------- Forwarded by Essence P. Washington/OPD/EOP on
+03/19/99 03:48 PM ---------------------------
+
+
+
+
+Ashley L. Raines
+03/17/99 04:41:10 PM
+Record Type:     Record
+
+To:      See the distribution list at the bottom of this message
+cc:      Douglas R. Matties/OA/EOP
+Subject:         NT 4.0 Roll-Out
+
+First, I apo.logize for the length of this message, but there are some very
+important issues that I need to address.   As I have mentioned over the
+last several months, the entire EOP complex will be getting a new load on
+their computers called NT 4.0.   It will look very different from the
+current load, but similar to Windows 98.   Lotus Notes will remain our
+e-mail system. Netscape will remain our web browser.    The main reason for
+the new load is to become Y2K compliant.   The roll-out of this new load
+for OPD will begin on Monday, March 29th.
+
+There are several new pieces of software that will be provided as the
+"standard load" which are mostly Microsoft Office products including Word,
+Excel, powerpoint, etc.  WordPerfect, Lotus 1-2-3 and All-In-1 will be
+provided until September 1st in order for staff to become accustomed to
+the new software and for the staff to transfer their WordPerfect and Lotus
+documents to Word and Excel, respectively.
+
+We need to identify the staff's calendar needs.   IS&T thinks (although
+they're still checking) Lotus Organizer and Calendar Creator will continue
+to be provided, I just need to know who prefers what.   If IS&T doesn't
+provide these, then we'll have to buy licenses for the calendars people
+use.  The 'current version of On-Time is not Y2K compliant and it is not
+possible to transfer data in On-Time to another calendar product.
+
+
+Therefore, I need a list of staff who absolutely need On-Time so we can
+look at buying licenses for the current, Y2K compliant version for those
+staff.   It would be nice for everyone to us~ the same calendar, but I
+understand the need for staff who use On-Time to keep their data and not
+lose it.
+
+The most immediate action we need to take is to identify any
+'non-standard' software that OPD staff use for official business functions
+that will not be provided with the 'standard load". These include, but
+are not limited to, On-Time, Lexis Nexis, Travel Manager, Time and
+Attendance (PPI), Haver Analytics, and Bloomberg.  IS&T did a software
+inventory which picked up such software as PalmPilot Desktop, Ghostscript,
+postScript Text Viewer, The PointCast Network, RealPlayer, Microsoft
+Bookshelf and many others.
+
+Note:  PalmPilot is currently not supported by IS&T and will not be
+approved as a non-standard software package.  IS&T is focusing most of
+their attention to Y2K efforts and this is not part of those efforts.
+IS&T understands the importance of this software and plans to address it
+in the future.
+
+In order for staff to continue using these special programs, they must 1)
+identify the software package needed 2) state an official business need
+3) if they already have the license for it, provide me the license 4)
+provide the CD or disk for the software, if available and they have the
+license 5) present proof of Y2K compliancy.   please provide this
+information to me by 12 noon Friday or earlier, if you can.
+
+I am sending to each of you information provided by IS&T with specific
+information about what to expect from the roll-out, NT 4.0 and training
+opportunities for staff to get used to the new load before it is
+installed.
+
+Thank you in advance for your help with this project!!    Call me with any
+questions.
+
+COMMON SOFTWARE APPLICATION LIST· FOR THE
+                   NEW WINDOWS NT 4.0 DESKTOP
+                                  will be the Latest Versions
+
+Common Software
+
+Operating System                  Microsoft Windows NT 4.0 Desktop
+Groupware                         Lotus Notes
+E-Mail                    Lotus Notes
+Office Suite              MS Office 97
+  wordprocessing          Word
+  Spreadsheet             Excel
+  Database                Access and Query
+  Business Presentation   Power Point
+  Photo Editor            Photo Editor
+Scheduler                 Your current scheduler if possible (must be Y2K
+compliant)
+Web Browser               Netscape Navigator 4.08
+PDF Reader                Adobe Acrobat Reader 3.01
+Anti-Virus                Norton Anti-Virus
+File Viewer               QuickView Plus
+3270 (Mainframe)                  Dynacomm Communications Suite
+Dial Out                          Dynacomm Communications Suite
+Uuencode and
+
+
+      F.ile Compression      WinZip
+    File Transfer Protocol   IPSwitch WSFTP
+
+
+
+    Message Sent
+    To: ______________________________________________________________
+    Paul J. Weinstein Jr./OPD/EOP
+    Brian A. Barreto/OPD/EOP
+    Jonathan A. Kaplan/OPD/EOP
+    Essence P. Washington/OPD/EOP
+    Todd A. Summers/OPD/EOP
+
+

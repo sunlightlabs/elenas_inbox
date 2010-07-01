@@ -1,0 +1,399 @@
+ RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+ CREATOR: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP [ OPD 1 )
+
+ CREATION DATE/TIME:15-JUN-1998 16:24:09.00
+
+ SUBJECT:   List I plan to send to Commerce based on our amendment conversation Friday
+
+ TO: Joshua Gotbaum ( CN=Joshua Gotbaum/OU=OMB/O=EOP @ EOP [ OMB 1 )
+ READ: UNKNOWN
+
+ TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ: UNKNOWN
+
+ TO: Richard J. Turman ( CN=Richard J. Turman/OU=OMB/O=EOP @ EOP [ OMB 1 )
+ READ: UNKNOWN
+
+ TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ: UNKNOWN
+
+ TEXT:
+ Please let me know by 6:00 if you think any revision is required.
+
+ One issue I should flag for you:   I have listed Snowe #1 as oppose.   Our
+ policy is that we want the lookback su~charges to go into public health
+ the entire account (22% of total).   The bill as currently written -- if it
+ incorporates a technical amendment that is in Commerce's technical
+ amendments package -- does this.   The Snowe amendment is thus a narrowing
+ amendment, which would put 20 percent of the funds into cessation only.
+
+ Currently, the section 451 (b) (1.) of the bill says that two types of funds
+ go into the public health account: 1) 22 percent of the overall trust fund
+ and 2) all the funds credited under section 401(b) (3), which in turn --
+ and here's where we need the technical fix -- cites section 202 of the
+ bill.
+ Section 202 of the bill originally and now with the Durbin amendment, is
+ the "purposes" section of the lookback subtitle.      Commerce Committee's
+ planned technicals would change it to section 204, which would have worked
+ under the pre-Durbin language; now it should be 205, or I think to be
+ safe, subtitle A of Title II, i.e., the entire lookback subtitle.
+
+
+
+ ==================== ATTACHMENT   1 ====================
+ ATT CREATION TIME/DATE:   0 00:00:00.00
+
+ TEXT:
+ Unable to convert ARMS_EXT: [ATTACH.D201 MAIL408666660. 126 to ASCII,
+  The following is a HEX DUMP:
+
+ ·FF5750431F1B0000010A02010000000205000000866A0000000200004E8E63C4BFF3C44CB9D65C
+ 892A03E4FAAD32D76C093CEDFFD4A61811F5B5B095E5AEAF09EC4FBA220631A329845319E78A1B
+  00B289B23C6FF01DBA925DA7E074C8539495AC75F5B983776BECOO87F1EDF4ED844CF6B714718E
+  7EFA29BB50D19CD4810C51F974C10635A78CFD641516207B18D4EA8AEAA93AD7294AOE094COF3E
+ AC120F923F8380537063FFAB86F01A363D7CC3B1239ECA7959901569FFDAE39725FDB95BA8986D
+  68647F109A6EA3D1703BE7778F7F4852B6FOOOE0739B41A69F7EEBA5D6AEAOF9E1B7FE824ACB02
+ D96CEB95C6B752FF0593382E648FD68003AE88439A64362100E173AE232047BE6070E138E24423
+                                                                                       Hex-Dump Conversion
+
+GUIDE TO ACCEPTING AMENDMENTS BY UC                                     (June 15, 1998)*
+
+
+
+  Amendment                                                   Oppose   Neutral   Support
+
+
+  Ashcroft I (2544)                                             X
+  Strike prescribed activities for states
+
+  Ashcroft 2 (2545)                                             X
+  Strike funding trigger for NIH
+
+  Ashcroft 3 (2546)                                             X
+  Strike the funding trigger for CDC
+
+  Ashcroft 4 (2547)                                             X
+  Strike the funding trigger for FDA
+
+  Ashcroft 5 (2548)                                             X
+  Strike international tobacco control awareness
+
+  Ashcroft 6 (2549)                                             X
+  Strike authorization for international programs
+
+ Ashcroft 7 (2550)
+ Strike the tax deductibility oftobaceo company                 X
+  payments
+
+  Ashcroft 8 (2551)                                             X
+  To authorize state spending against illegal drugs
+
+ Ashcroft 9 (2552)                                              X
+  Increase penalties for trafficking methamphetamine
+
+ Ashcroft 10 (2553)                                             X
+ Modify state law provisions regarding sale of tobacco
+ products to minors
+
+  Bingaman I (2525)                                             X
+ To provide funding for a VA Compensation Account
+
+ Bond I (2531)                                                           X
+ Sanctions for underage possession of tobacco
+
+ Bond 2 (2532)
+ Specifies $100 million of retail licensing block grant for     X
+ States and local law enforcement agencies
+
+ Chaf.. I (2439)                                                                   X
+ To prohibit smoking on airline flights
+
+ Conrad I
+ Changes penalty for non-compliance with State retail           X
+ and licensing laws to percentage of unrestricted state
+ funds
+
+ Conrad 2                                                                X
+ Increases funds for counter·advertising programs to
+ 500/0 of education and prevention funds
+
+ Conrad 3
+ Permit States to enact laws more stringent than                                   X
+ FDA-related provisions ofthis Act
+
+ Conrad 4                                                                          X
+ Permit sting operations to ensure compliance with State
+ retail licensing laws
+
+ Conrad 5                                                                          X
+
+
+· This list includes only some of the amendments filed.       -1-
+
+GUIDE TO ACCEPTING AMENDMENTS BY UC                                    (June 15, 1998)".tkx-Dump Conversion
+
+
+                                                             Oppose   Neutral   Support
+  Amendment
+  Permits follow-up inspections of certain tobacco sales
+  & distributions outlets
+
+  Conrad 6
+  Changes penalty for noncompliance with State retail          X
+  and licensing laws to percentage of unrestricted state
+  funds
+
+  Conrad 7                                                     X
+  Modify definition of addiction and dependence claim
+
+  Conrad 8                                                     X
+  Clarifies definition of tobacco claim
+
+  Conrad 9 (2529)                                                       X
+  Authorizes $500 million for counter-advertising
+
+  Conrad 10 (2528)                                             X
+  Changes penalty for noncompliance with State retail
+  and lieensing laws to 40% of certain PHS Act funds
+
+  Conrad II (2527)                                             X
+  Changes penalty for noncompliance with State retail
+  and licensing laws to 50% of State block grant
+
+  Craig I (2508)                                               X
+  Increase funds available to States
+
+  Craig 2 (2509)                                               X
+  Limit trust fund to take account of added federal
+  spending and reimburse states for lost revenue
+
+  Dodd (2540)                                                           X
+  Floor for child care
+
+  Domenici I (2510)                                            X
+  R&D tax credits
+
+  Domenici 2 (2511)                                            X
+  Dedicate revenues to Medicare trust fund after fy2008
+
+  Durbin I (2522)                                                                 X
+ Clarify advertising for mass transit vehicles
+
+  Durbin 2 (2521)                                                       X
+ substitute provisions for reductions in under-age usage
+
+  Durbin 3 (2523)                                                                 X
+ Clarify definition of tobacco products
+
+  Durbin 4 (2524)                                                       X
+ clarify application to legislative branch for certain for
+ certain tobacco act requirements
+
+ Hatch I (2535)                                               X
+ Banning a class of products or elimination of nicotine
+
+ Hatch 2 (2536)                                               X
+ Modify provisions relating to the rule of the FDA
+
+ Hatch 3 (2537)                                               X
+ Strikes pre-market review of tobacco products
+
+ Hatch 4 (2538)                                               X
+ Strike provisions relatin2 to reportin2 of substantially
+
+
+* This list includes only some of the amendments filed.      -2-
+GUIDE TO ACCEPTING AMENDMENTS BY UC                                    (June 15, 1998)* Hex-Dump Conversion
+
+
+                                                             Oppose   Neutral   Support
+  Amendment
+  equivalent products
+
+  Hatch 5 (2539)                                               X
+  Clarify provisions: Requires FDA promulgation of
+  performance standards for tobacco products
+
+  Hutchison I (2558)                                                    X
+  Maintain State funding for those States that have
+  separate settlements wI tobacco manufacturers
+
+  Hutchison 2 (2559)                                           X
+  State opt-in with respect to receipt of funds under this
+  Act
+
+  Hutchison 3 (2560)                                           X
+  Funds received under state settlements are not
+  considered as reimbursements for Medicaid
+  expenditures or overpayments
+
+  Hutchison 4 (2561)                                                    X
+  Requires that the determination of attorneys fees under
+  this act offset any State liability for attorney fees
+
+  Inouye I (2556)                                                       X
+  Any required asbestos payment can be taken from
+  Trust fund
+
+  Jeffords I (2567)                                            X
+  Funding floor for AHCPR
+
+  Jeffords 2 (2542)                                            X
+  Earmark for research activities at NIH
+
+ Jeffords 3 (2543)                                                      X
+ Congressional oversight for public health allocation
+ account activities
+
+ Kennedy I (2506)                                              X
+ Non-tax deductibility of industry payments
+
+ Kennedy 2 (2507)                                              X
+ Non-tax deductibility of industry payments: duplicate
+ of Kennedy 1 above.
+
+ Kerreyl                                                       X
+ Only funds deposited in the tobacco trust fund may be
+ used for activities under the bill
+
+ Kerrey 2                                                      X
+ Requires creation of tobacco scholar program
+
+ Kerrey 3 (2530)                                               X
+ Tobacco farmer transition provisions
+
+ Kerry + Others (2541)                                                  X
+ Floor for CCDBG
+
+ Landrieu I (2517)                                             X
+ Increase industry payments for participating
+ manufacturers
+
+ Landrieu 2 (2518)                                             X
+ Assist individuals suffering from tobacco related
+ illnesses
+
+
+
+
+· This list includes only some of the amendments filed.
+                                                             -3-
+GUIDE TO ACCEPTING AMENDMENTS BY UC                                    (June 15, 1998)*Hex-Dump Conversion
+
+
+                                                             Oppose   Neutral   Support
+  Amendment
+  Landrieu 3 (2519)                                                     X
+  Factors considered in State distribution formula
+
+  Landrieu 4 (2520)                                            X
+  Child.. are for federal employees
+
+  Lautenbergl Smith I (2633)                                                      X
+  Local government authority relating to protection from
+  health hazards-ETS
+
+  Lieberman I (2505)                                                    X
+  Gives compensatory damage awards priority over
+  punitives within cap
+
+  Lugar I (2501)                                               X
+  Treatment of payments to tobacco owners and
+  producers and tobacco dependent states
+
+  Lugar 2 (2502)                                               X
+  Front-loads payments to farmers
+
+  Mack I                                                                          X
+  Clarifies NIH trigger
+
+  Mack 2 (2557)                                                X
+  Treatment of state settlement not considered
+  reimbursements for Medicaid
+
+  McCain I (2554)                                              X
+  Review of Survey Methodology for look back and other
+  concerns
+
+  Murkowski I (2503)                                           X
+  State tobacco excise and sales taxes from Indian tribes
+
+  Murkowski 2 (2504)                                           X
+ Collection of state tobacco excise and sales taxes from
+  Indian Tribes
+
+ Murray I (2526)                                                        X
+  Include child care providers in definition of public
+ facilities-ETS
+
+ Roth I (2512)                                                 X
+ Payments to States and    Me~icaid   coverage of smoking
+ cessation agents
+
+ Roth 2 (2513)                                                 X
+ Strikes Children's health outreach
+
+ Roth 3 (2514)                                                 X
+ Repeal reduction in SSBG block grants for social
+ services
+
+ Roth 4 (2515)                                                 X
+  Privatization of eligibility for children under Medicaid
+
+ Roth 5 (2516)                                                 X
+ Deduction for health insurance costs
+
+ Shelby I (2533)                                                        X
+ Awards by arbitration panels
+
+ Shelby 2 (2534)                                                        X
+ Awards by arbitration panels
+
+
+
+· This list includes only some of the amendments filed.
+                                                             -4-
+
+GUIDE TO ACCEPTING AMENDMENTS BY UC                                 .(June 15, 1998)J;Iex-Dump Conversion
+
+
+                                                          Oppose   Neutral    Support
+  Amendment
+
+ Snowe I                                                    X
+ Directs portion of funds from lookback surcharges to
+ cessation instead of entire public health account
+
+ Snowe 2                                                    X
+ Penalties for minors purchasing and possessing tobacco
+
+ Stevens I (2555)                                           X
+ Provisions relating to funding of Indian programs
+
+ Tomeelli I (2562)                                                   X
+ Investigate high rate of cancer in Dover township, NJ
+
+ Tomeelli 2 (2563)                                          X
+ Health care for America '5 children - presumptive
+ outreach
+
+ Warner I (2564)                                            X
+ Strikes dislocated worker provision in LEAF
+
+ Warner 2 (2565)                                            X
+ Strike Title II - Reductions in underage tobacco use
+
+ Warner 3 (2566)                                            X
+ Strike International provisions: Title Xl
+
+
+
+
+· This list includes only some of the amendments filed.
+                                                           -5-
+
+

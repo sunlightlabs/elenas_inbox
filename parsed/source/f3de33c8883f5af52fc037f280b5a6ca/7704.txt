@@ -1,0 +1,130 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Cynthia Dailard ( CN=Cynthia Dailard/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME: 18-MAY-1998 12:42:24.00
+
+SUBJECT:
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D51]MAIL41785573D.126 to ASCII,
+ The following is a HEX DUMP:
+
+FF5750435A040000010A020100000002050000006D140000000200004659DF17415A6FCA7A2958
+FD57A25BDF9398D4D145695B8EFD8A69DDC366150239575AF06352804BA653EDC322244E2BFEE4
+F42C334006BEOB379309DBAF194D2EOB6D8A6ADFC27F20AD88DD372833457EF90E08510A468AE3
+5B26EB4F35E108AOC95076F2362D36308CE0914A58C63BF620D4776F29E27D37AFODB92E323C5C
+4BD7DE58D5BAA06C334D75102B12EED0384B5D462A92C16E3F93E9BCC23A2E27E53FE08E3EF627
+B7482E3238ADFD65545CFAFEEA69882576B42D34F79D7E3BE41BAD6C05C45960FE991C7Al17C4C
+55A8617295ADA208E7B971B167A7E08DB7FC6EC85272486DF316F3DB9B233E86C052C4D6C71625
+238BEF237935A25D7Cl18D7C25BCA868C016CFB61148D94067177E3AE56C2FA667C8137B469098
+C9EDA8112BE5ABA2FFEOC50B1DOC41D64332383FE3642F3ABC9646BOOEDE45FDE3A2742614CEFD
+2EOA715D11E961FEA2C9AB461CE04D169143B7E482A9E12C7F2A50F8081736A79A41EE477BD139
+2DF730C2FOC1B265D83777E162930DF97EF5FAF4D98BCFF0989727OC301735127F2774186E6353
+A4580166DFE232E87F5E9662DD8E84A467699E12259D2078D84645FB39B895EC3COC9604C93881
+OB7A441A68F9EAB2759C4869224EF3B7BDCDC73DFFBF3BBA07BF2BF7A51EBC211FCD093EB134B1
+7A02BD786302000800000000000000000000000823010000000B01000070020000005501000000
+4E0000007B03000009250100000006000000C90300000B300200000028000000CF030000087701
+00000040000000F703000008340100000014000000370400000802010000000F0000004B040000
+00984C006F00630061006C0020005000720069006E007400650072000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000005749
+4E53504F4F4COOOOOOOOOOC800C8002C012C012C012C01C800C800300000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000B0100002800C8196810
+480D000011090000005AOOOB010000103600540069006D006500730020004E0065007700200052
+006F006D0061006E00200052006500670075006C00610072000000000000000000010002005802
+0100000004002800000000000000000000000000000000000000011202002400A1000000A10000
+000AOOOOOODE0101004400DF0101004500E00101000200E10101004500E20101000200E3010200
+0200E40101004400E50101000200E60101000200E70101000200B76E9024000000006615D400C4
+015400D400F41F08337C00780001020000E701000003DDOA10008301040003000200211000DDDD
+OBOB00030000040BOODDF20CF2D3050C0000010002000COOD354686580436F6D6D657263658043
+6F6D6D6974746565804D616E61676572F01C04F073805061636B61676580D0041500000B000900
+01B0040000000001201500D077696C6C80F102DD01F14472616D61746963616C6C7980F103DD01
+F1F100DE01F15369676E69666963616E746C7980F101DE01F152656475636580596F7574688053
+6D6F6B696E67F30CF3D0041500000B00090001A005F000010001201500DOCCD3050C0000010000
+020COOD3CCE0110C0000000008070COOE054686580436F6D6D6572636580436F6D6D6974746565
+806D616E61676572F01C04F073807061636B61676580636F6E7461696E73807369676E69666963
+616E7480696D70726F76656D656E7473806F766572CF74686580756E6465726C79696E67806269
+6C6C8077686963688077696C6C8068656C7080746F80726564756365807369676E69666963616E
+746C7980796F75746880736D6F6B696E6780616E648070726F74656374807075626C6963CF6865
+616C74682E8080546865736580696D70726F76656D656E747380696E636C7564653ACCCCF20CF2
+546F756768657280F100DF01F16CF101DF01F1F102E001F14CF103E001F16F6F6B6261636B80F1
+                                                          Hex-Dump Conversion
+
+                        The Commerce Committee Manager's Package
+                          will Dramatically Reduce Youth Smoking
+
+
+        The Commerce Committee manager's package contains significant improvements over
+ the underlying bill which will help to reduce significantly youth smoking and protect public
+ health. These improvements include:
+
+ Tougher Lookback Surcharges:
+
+ ·      The company-by-company surcharge of $1,000 per youth smoker will provide a
+        significant incentive for tobacco companies to change their behavior and reduce sales to
+        children. Unlike industry-wide surcharges, companies cannot pass company-specific
+        surcharges onto price, because any price differential between companies will wreak havoc
+        on their share of the adult market. In short, it affects their bottom line.
+
+ ·     . Without a company-specific surcharge, any company can still make a profit by selling to
+         kids. A $1,000 per youth smoker surcharge will force a company to surrender twice the
+         lifetime profits it makes from addicting a teen in the first place.
+
+.·      Any company that misses its targets by more than 20% will lose liability protections
+        altogether. This will cause the companies real heartburn if they market to teens.
+
+ ·      Finally, the manager's package raises the cap on industry-wide lookback surcharges from
+        $3.5 billion per year to $4 billion per year.
+
+ Improved Liability Provisions:
+
+ ·      By raising the annual liability cap from $6.5 to $8 billion, the manager's package better
+        ensures that tobacco companies are held accountable for tobacco-related injuries.
+        Additionally, the package removes liability protections for parent companies and
+        affiliates, and allows plaintiffs claiming injury from disease to use evidence of addiction
+        in their lawsuit.
+
+ Enhanced Environmental Tobacco Smoke Protections:
+
+ ·      States would only be allowed to opt-out of the national environmental tobacco smoke
+        standard if the state is able to demonstrate to OSHA that it has an ETS standard at least as
+        protective of public health as the federal standard.
+
+ Elimates Antitrust Exemption:
+
+ ·      The blanket antitrust exemption contained in the underlying bill is not necessary to
+        achieve the goals of the legislation and may have anti competitive effects .
+
+
+
+
+                    .
+                                                        Hex-Dump Conversion
+Stronger Anti-Smuggling Provisions:
+
+·       Key provisions will minimize smuggling by creating a system similar to the one that has
+        successfully been in place for alcoholic beverage for over sixty years. This system
+        would create a "closed distribution system" for tobacco products so that only licensed
+        entities can sell or buy products, clearly brand packages for export to prevent them from
+        being diverted, and establishes and enforces penalties and other actions for violations.
+        States would also have the resources and flexibility they need to set up their own
+        licensing systems for retailers.
+
+Key Spending Language:
+
+·       The manager's package contains key provisions to fund important public health programs
+        (including smoking cessation, prevention and counteradvertising), health research and
+        assistance for fanners. It also provides funding to states to be used for a variety of
+        programs, including child care and class size reduction.
+
+

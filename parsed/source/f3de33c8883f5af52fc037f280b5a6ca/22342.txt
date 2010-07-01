@@ -1,0 +1,50 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Christopher C. Jennings ( CN=Christopher C. Jennings/OU=OPD/O=EOP [ OPD ) )
+
+CREATION DATE/TIME: 18-JAN-1999 11:07:55.00
+
+SUBJECT:
+
+TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO ) )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ) )
+READ:UNKNOWN
+
+TEXT:
+Here you go for safety net and Post story.
+
+cj==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D90)MAIL48401871Y.036 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504370040000010A020100000002050000001DOB00000002000080FOA1F5CABCA1C13A6F33
+75663E43B7900C30B55629CF4744639D7B05461ABD9AF0326C62D13DCA088AA509E7210B4E80EE
+685D6798DAEC674504783B1CC75AC93F79F27AA27984E9F4CFC53FC3D83216E5A4D414DB86AOB6
+FEEOB1B57861A8840DB5F4AOEF487193E4D96064B95FE6E9682CC39506519105EFC291D1E44ED4
+C8425DF3EFAB339CF3776C51584F92339DBE8F57F4F06B7BE1B795A3FF39BAFF4F84F035C751A7
+D9079D1BB30A8235776819D7A2A22E8991AEEA155E0723A01DD01A9E06AC1F622819A794EA33B2
+                                    Automated Records Management System
+                                    Hex-Dump Conversion
+
+        Q.   How will the public health infrastructure initiative outlined in today's Washington
+             Post provide additional services and access to basic health care for the uninsured?
+
+        A:   By investing $1 billion over 5 years to better coordinate and provide community-based
+             health services, this initiative will help community health centers, rural health clinics,
+             public hospitals, academic health centers and other providers to pool resources and better
+             target and serve vulnerable populations. A number of communities across the nation
+             (e.g., the Sunset Park Community Health Center, which serves over 80,000 residents of
+             S.W. Brooklyn) have utilized these type of systems to more effectively utilize their
+             limited resources to provide a greater range of services to the uninsured.' They are able
+             to offer a much fuller array of primary and preventive care services, including
+             rehabilitation, early intervention programs, health promotion, mental health and substance
+             abuse services. This initiative recognizes the fact that our health care infrastructure is
+             being overburdened by serving increasing numbers of uninsured at a time when indirect
+             subsidies from private and public insurers are decreasing.
+
+

@@ -1,0 +1,283 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Andrea Kane ( CN=Andrea Kane/OU=OPD/O=EOP [ OPD 1 )
+
+CREATION DATE/TIME: 12-APR-1999 12:22:45.00
+
+SUBJECT:   NYC shelter policy
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ:UNKNOWN
+
+CC: Nicole R. Rabner ( CN=Nicole R. Rabner/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+CC: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ:UNKNOWN
+
+TEXT:
+Here's what I was able to find out about Mayor Guiliani's plans to apply
+welfare reform requirements to shelter residents. We'll monitor for
+future developments and keep you updated.
+
+Based on a 1981 court case, shelter has been provided in New York as a
+legal right to anyone who is homeless, with few conditions attached.
+State rules adopted in 1995 allow shelter to be treated as a form of
+public assistance, and shelter residents would therefore be subject to the
+same requirements (including workfare) as other welfare recipients.  Other
+areas in NY state have implemented these rules, but NYC has delayed doing
+so due to pending court cases. Several recent legal decisions have come
+out against homeless advocates, and it appears that that City staff is
+now developing a plan to implement these requirements.  However, the Human
+Resources Administration staff I spoke with maintain that the Mayor has
+not yet made an official announcment, and the AP story on 2/20/99 confirms
+that the City has not yet set a date to start following the state rules.
+
+While it's hard to pin down the details of the rules while they are still
+being developed, the 2/20/99 NYT story indicates the new rules would make
+workfare and other welfare reform requirements a condition of eligibility
+for approximately 4,600 families and 7,000 single adults in the NYC
+shelter system.  It also indicates that shelter operators would be requir
+ed to expel homeless individuals or families who were cut off from public
+assistance (to prevent individuals who had been sanctioned under PA from
+turning to the shelter system as an alterantive). Since about half of the
+single adults and most of the families in shelters are on public
+assistance and therefore already subect to NYC's welfare reform rules,
+these are not necessarily newreq~irements on mos~ of the individuals, but
+would mean that individuals who did not comply with the requirements would
+now risk losing shelter in addition to cash assistance.   The Mayor and
+city officials maintain that extending the requirements to shelter would
+help move people to self-sufficiency, while advocates and critics voice
+concerns that this would take away a crticial safety net and force
+children into the child welfare system.  It is not clear at this point how
+the requirements would apply to individuals who might not otherwise be
+subject to the requirements through the welfare system, i.e. children in
+homeless families, individuals with mental or physical disabilities,
+substance abusers or illegal immigrants.
+
+
+The AP and NYT stories from 2/20/99 are attached
+
+
+The NYT story mentions that there was to be a hearing on 3/11 on applying
+the requirements to homeless adults. I did a Lex/Nex search on NY papers
+beginning on 3/11 and found no coverage of the hearing or related issues.
+
+
+
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D7]MAIL498476510.136 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504342030000010A02010000000205000000183100000002000085DD898F3194CF8D8D47AO
+16D03420FE9D05AA8A975999B23D7D358C84ADBAE459DCF0703C1F65A3BD201D8100661653A292
+6E17D4E2B7612BE47457182C702EBBBC59CFOB70C720AA9008F71089FDB48BB60B7605E1BDB205
+A25557BFF43B8BOC3F806B32COC076F3788459D5023FBD687B79EE8DADCBD54279A07ACD67C6ED
+E2FAC4399F197C4E6A290EEC7CFBECFFBCB17690D5F454D91E5BECAC4CA912F77CF2A77603D1B9
+B2216B2C2F308D761B6E3342A294A6956D102CE7F31654FD7DFE07FAF41EFBDF6930211E6815F8
+                                                                              Hex-Dump Conversion
+                                 AP Online
+
+                February 20, 1999; Saturday 18:13 Eastern Time
+
+SECTION: Domestic, non-Washington, general news item
+
+LENGTH: 237 words
+
+HEADLINE: NYC Makes Homeless Work for Shelter
+
+BYLINE: CHELSEA J. CARTER
+
+DATELINE: NEW YORKBODY:
+    Homeless people who sleep in city shelters will have to work at city jobs or
+be expelled, Mayor Rudolph Giuliani said Saturday.
+
+  Critics of making workfare a condition to sleep in shelters say the move
+would force thousands into the streets.
+
+   Under workfare, those who receive public aid are required to work at city
+jobs, including cleaning parks and performing clerical tasks, in exchange for
+their benefits.
+
+   The workfare condition would require city-funded homeless shelters to expel
+any homeless adult or family cut from public assistance for failing to comply,
+and as a result require officials to report any child to child protective
+services in jeopardy of ending up on the street.
+
+   Giuliani said officials try to reincorporate homeless people into the work
+force. "Maybe that will do more for them ultimately than all the fancy
+government programs that were keeping people dependent for 30, 40 and 50
+years," he said.
+
+    About 4,600 families and 7,100 single adults use the city's homeless shelters
+at any given time.
+
+   Although the mayor has not set a date to implement the plan, critics blasted
+the plan, saying it would destroy families and the little stability that
+homeless people have.
+
+  "It's sick. The thought that because you are cut off public assistance, you
+would then lose your place to sleep too is sick," said Mike Polenberg of the
+Coalition for the Homeless in New York City.
+                                                                                Hex-Dump Conversion
+
+                 10TH STORY of Level 1 printed in FULL format.
+
+                  Copyright 1999 The New York Times Company
+                              The New York Times
+
+               February 20, 1999, Saturday, Late Edition - Final
+
+SECTION: Section A; Page 1; Column 5; Metropolitan Desk
+
+LENGTH: 1264 words
+
+HEADLINE: New York City Plans to Extend Workfare to Homeless Shelters
+
+BYLINE: By NINA BERNSTEIN
+
+BODY:
+   Backed by state regulations, the Giuliani administration is preparing to make
+workfare and other requirements a condition of shelter for the 4,600 families
+and 7,000 single adults in New York City's homeless shelter system, said city
+officials with knowledge ofthe plans.
+
+   The change would make the city's homeless shelters subject to the same system
+of rules, work requirements and sanctions that its welfare offices have used to
+move more than 400,000 people off public assistance.
+
+     Until now, shelter has been considered a form of aid separate from cash
+relief. Under a 1981 court decree, the city has provided shelter as a legal
+right to anyone who is truly homeless, virtually without conditions.
+
+   But state rules adopted in 1995,treat shelter as simply another part of
+public assistance, and to keep a bed, shelter residents must meet the same
+eligibility standards as any welfare recipients. The city has held off putting
+the new rules into effect because of legal challenges.
+
+   Although the city says the rules are intended to push people to
+self-reliance, advocates for the homeless contend that the changes threaten to
+send hundreds of homeless children and adults onto the streets.
+
+   Elsewhere in the country, the effects of welfare cutbacks on shelters are
+indirect because most shelter systems are supported by a patchwork of private
+charities and limited public financing, and residents enjoy no legal right to
+shelter. No other city in the nation has as comprehensive a publicly funded
+shelter system as New York's.
+                                                                               Hex-Dump Conversion
+   Around the state, where the rules are already in place, some shelters have
+been forced to close because the regulations made their budgets plummet with the
+welfare rolls, pushing some people onto the street.
+
+   New York City has not set a firm date to start following the state rules, but
+three of four court decisions on the matter have gone against advocates for the
+homeless, and the city has been quietly making preparations for systemwide
+change.
+
+   The rules require nonprofit agencies operating shelters under contract to the
+city to expel any homeless adult or family cut from public assistance. If
+children are in jeopardy, the agencies are required to make a referral to child
+protective services for possible foster care placement. Although about half the
+single adults and most of the families in the city's homeless shelters are
+already on public assistance, all would be newly vulnerable to expulsion under
+the regulations.
+
+    Last month, the city began requiring all men who apply for emergency shelter
+at the central intake center on East 30th Street in Manhattan to undergo
+"finger-imaging" by the state computer system used in welfare offices for
+identification, said Jack Madden, a spokesman for the State Office of Temporary
+and Disability Assistance.
+
+   A team from the city's welfare agency has been inspecting all shelters under
+contract to the city, including programs for the mentally ill, and asking how
+many residents are capable of work and which programs could be equivalent to a
+35-hour work week, said providers whose shelters were inspected in recent weeks.
+
+   A plan to create ajob center especially for the homeless, where shelter
+residents could be required to report in order to keep their beds, has been
+under discussion for months, said Debra Sproles, a spokeswoman for the city's
+welfare agency, the Human Resources Administration. She said that the location
+under discussion is a vacant welfare center at East 131 st Street and Franklin D.
+Roosevelt Drive, but she declined to provide details.
+
+   Under the city's workfare program, welfare recipients are required to work at
+city jobs, including cleaning parks and performing clerical tasks, in exchange
+for benefits.
+
+   Federal law, fully in effect, requires only half the welfare caseload to be
+employed at anyone time. But Mayor Rudolph W. Giuliani has vowed to have every
+recipient of aid doing 20 hours of work, plus IS hours of work-related
+activities like education or drug treatment, by 2000. Under current welfare
+rules, single adults who miss a single hour of work can see their entire case
+closed. Last year, 69 percent of these home-relief clients in the work program were sanctioned
+                                                                                       Hex-Dump Conversion
+and removed from the rolls, for several months at least, city
+records show.
+
+    This week, the State Court of Appeals dismissed a motion by advocates seeking
+a further appeal of the rules as applied to homeless families. A court hearing
+is to be held on March lion whether applying the regulations to homeless adults
+violates a 1981 court decree in which the city guaranteed a mattress, clean
+sheets and soap to every homeless man, a legal right to shelter later expanded
+to women and families.
+
+    "We believe these regulations will help families move toward independent
+living," Susan Wiviott, a spokeswoman for the city's Department of Homeless
+Services, said yesterday. "We're working out how to implement the regulations
+best."
+
+   Since the 1980's, a variety of mechanisms have made entry into the shelter
+system harder and discharge easier, but requiring those seeking shelter to meet
+the same eligibility rules as welfare recipients would dwarf past changes,
+providers said.
+
+   Asked about the preparations this week, Jason Turner, the city's welfare
+commissioner, would only say, through a spokeswoman, that there had not been a
+shift in homeless policy.
+
+   But at conferences and in meetings with shelter providers, Mr. Turner has
+expressed concern that some who were cut from the welfare rolls have been able
+to go to shelters and food pantries without restriction, sidestepping sanctions
+intended to push them to self-sufficiency.
+
+   "We need to create, if you will, a personal crisis in individuals' lives"
+that cannot be avoided by alternative programs, he said in a speech at a
+Rockefeller Foundation forum attended by many shelter providers last fall.
+
+   Ms. Wiviott said that the city has agreed to give Steven Banks, director of
+the Legal Aid Society's Homeless Rights Project, a five-day warning before
+beginning to apply the state regulations to any homeless families.
+
+   Mr. Banks has vowed to mount a new legal challenge on the basis of a 1985
+court ruling that children cannot be placed in foster care for lack of housing.
+
+   "It's a sea change," Mr. Banks said. "All along shelter was supposed to be
+the safety net for people who had fallen through the cracks of other
+bureaucracies. "
+
+  Exactly how the city would apply public assistance requirements to the entire homeless shelter
+population remains unclear. Children in homeless families, the                    Hex-Dump Conversion
+mentally ill, the physically impaired, substance abusers and illegal immigrants
+are the most at risk from the regulations, said many of the shelter providers at
+the private, nonprofit agencies that operate most of the system's beds under
+contract to the city. Many said they had only recently learned the implications
+of the regulations.
+
+    Frederick Shack, the president of the Tier II Coalition Inc., an organization
+of 42 nonprofit agencies running shelters under contract to the city, said that
+at any given time, at least 10 percent of sheltered families had been mistakenly
+cited for noncompliance with public assistance regulations, and many others
+arrived with cases that had been wrongly closed.
+
+    "To heap loss of emergency shelter on top of the scramble for survival of a
+family facing loss of income and child care and other public assistance-related
+benefits will surely prove dangerous and expensive," he said last month in a
+letter to the State Office of Temporary and Disability Assistance.
+
+

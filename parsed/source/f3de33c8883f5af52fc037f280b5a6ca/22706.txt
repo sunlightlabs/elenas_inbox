@@ -1,0 +1,45 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Sonyia Matthews ( CN=Sonyia Matthews/OU=OPD/O=EOP [ OPD 1 )
+
+CREATION DATE/TIME:11-FEB-1999 11:17:28.00
+
+SUBJECT:   Davis Bacon Meeting Reminder
+
+TO: Charles R. Marr ( CN=Charles R. Marr/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Broderick Johnson ( CN=Broderick Johnson/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Barbara Chow ( CN=Barbara Chow/OU=OMB/O=EOP @ EOP [ OMB 1 )
+READ:UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Charles M. Brain ( CN=Charles M. Brain/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Karen Tramontano ( CN=Karen Tramontano/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Sandra Yamin ( CN=Sandra Yamin/OU=OMB/O=EOP @ EOP [ OMB 1 )
+READ: UNKNOWN
+
+CC: Dario J. Gomez ( CN=Dario J. Gomez/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+CC: Carolyn T. Wu ( CN=Carolyn T. Wu/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TEXT:
+REMINDER
+
+Sally Katzen will host a David Bacon meeting on school construction
+Friday, February 12th at 2:30 in Rm 472. Thank you.
+
+

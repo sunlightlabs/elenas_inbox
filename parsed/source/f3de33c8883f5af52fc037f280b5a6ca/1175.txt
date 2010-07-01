@@ -1,0 +1,198 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Lyn A. Hogan ( CN=Lyn A. Hogan/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME: 6-MAR-1997 10:36:50.00
+
+SUBJECT:   Draft directive memo
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D53]MAIL428283461.016 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043BA040000010A02010000000205000000D92700000002000008B121735453CC1954D87E
+F204E7BD61E883C60E0563DA05653962540F21BA7518B14E7636DDD5F93ACBCAF8423B8A825EB9
+A5D8A2F4D083A2F5C1A712845ABOC67EE487EDA5A182AD91BA923E50D99FEB53F2433E289E2C04
+CD7C12EA7B93F4D430229CAEAEEl149E2727047C7BB34B92AFB95DA6D798D251A1936534A6A9D7
+7744F12883912B308EE7612F9A79FE81D09DB322E3C56DC9E863CO9BC404078F9466FFEF622AE3
+E3F2E557BB653EA334161FC7E407F3A367B9EE5CE94639ECl1654E772E71945EBA88E1CCAFA9B3
+31D62170728370CDC30F72E9E148C2CBDA463161CFB8ABE59AA486832C04CC588190EC205D7788
+6010079201F27C27CABD832BOEACCOF6AA725499BE7011D2E57F3B76EEF2ACF7BA469E2389B4E5
+EBF8ED8C568E46A107E4981F27842CE4FBC5D998D2E65D687BFD62D335DC573A1CCEE19B5BCF9B
+4DD8B27D48E382A37CB4CC6AOEABDCA5C2EF4BA869A2392EA9FD9CB20DEF84613333BOF8DDA05C
+547E5EOA6651FBB5B428F89AB4CCBCF2E7A02AFE1BC80A39DC13DF3OA058EB65523E265376COOB
+F508B2422F277835332AF5C02D55E7D68998CED2A475ED2B2694B49D3E5DB9D02B83D92B54B64F
+OF5692F2362C5300957082F380534227280D7D038C557C75EE86F99936DF16CFDC156B84DFBA83
+DOOEB4557902000A00000000000000000000000823010000000BOl00008C02000000550BOOOOOO
+4E0000009703000009250100000006000000E50300000B300200000028000000EB030000087701
+000000400000001304000008340100000014000000530400000802010000000F00000067040000
+080501000000080000007604000000550A0000003C0000007E0400000098480050005F004C004A
+005F00350000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000057494E53504F4F4COOOOOOOOOO
+C800C8002C012C012C012C01C800C8003000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+0000000000000000000000000000000000000B0100002800D61EC3OF3908000011090000005AOO
+OB01008B143600540069006D006500730020004E0065007700200052006F006D0061006E002000
+52006500670075006C006100720000000000000000000100020058020100000004002800000000
+000000000000000000000000000000011202002400A1000000A10000000AOOOOOOD80103000200
+D90101004400DA0101004400DB0101000200DC0101004500DD010l000200DE0101007B03DF0102
+000200E00101004500E10101000200B39C3B22000000004B000500010200000002000008337COO
+780000020000E10100000301000400020000001BOOF41A5C121A09000000000000006000181100
+00102400540069006D006500730020004E0065007700000052006F006D0061006EOOOOOOOOOOOO
+00DDOA10008301040003000200211000DDDDOBOB00030000040BOODD9BD3050C0007010002000C
+00D34D6172636880362C8031393937CCD305100006010000021COO00001000D3CC4D454D4F5241
+4E44554D80464F528054484580505245534944454E54CCCC46524F4D3AEOllOC0000000060090C
+00EOEOllOCOOOOOOOOB80BOCOOE042525543458052454544D0041500000B000900016008B00304
+0001201500DOEOllOC0000000008070COOEOEOllOC000000006009OCOOEOEOllOCOOOOOOOOB80B
+OCOOE0454C454E41804B4147414ECCCC5355424A4543543AEOllOCO000000060090COOEOEOllOC
+00000000B80BOCOOE057454C4641524584544F84574F524B80494E80544845804645444552414C
+80474F5645524E4D454E54D0041500000B00090001240B7406070001201500DOCC417380796F75
+806B6E6F772C80746865804F6666696365806F6680506572736F6E6E656C804D616E6167656D65
+6E7480284F504D2980726563656E746C798073656E748075738061806D656D6F806F75746C696E
+                                                                                      - anagement System
+                                                                    Hex-Dump Conversion
+
+
+                                         March 6, 1997
+
+MEMORANDUM FOR THE PRESIDENT
+
+FROM:                 BRUCE REED
+                      ELENA KAGAN
+
+SUBJECT:              WELF ARE-TO-WORK IN THE FEDERAL GOVERNMENT
+
+As you know, the Office of Personnel Management (OPM) recently sent us a memo outlining
+numerous proposals for ensuring that federal agencies hire welfare recipients. Based on this
+memo and our conversations with OPM staff, we suggest the following package of measures.
+
+1.     Direct each federal agency to present to you in 30 days a plan for hiring and
+       retaining welfare recipients in Federal government positions.
+
+The agency plan should include the following:
+
+A.     A survey of Agency hiring capacity under all hiring authorities
+
+Each agency would work through the Federal Executive Boards (FEBs) and the Federal
+Executive Associations (FEAs) around the country to survey where the agency can hire welfare
+recipients and in what sort of jobs.
+
+While we would encourage agencies to pursue all hiring options -- excepted hiring
+authorities as well as the normal competitive hiring process -- the excepted hiring process,
+particularly the Worker-Trainee program, are the most viable avenues through which to
+hire welfare recipients.
+
+The five existing excepted service programs are each targeted to a specific group and
+boasting simplified hiring procedures: the Veteran's Readjustment Appointment Program;
+the Severely Handicapped Appointment Program; the Presidential Management Intern
+Program; the Student Career Experience Program; and the Worker-Trainee Program.
+
+The Worker-Trainee program was designed to attract very low-skilled persons into the Federal
+workforce. It is a quick and easy way to hire individuals into trainee-type positions where
+needed training in basic skills and developmental experiences are offered. The program has
+been in place since 1968 but is currently not widely utilized. Provisions of the program include
+the following:
+
+�      May hire individuals at grades GS-l, WG-l, WG-2, or the equivalent
+�      May promote to grades GS-3, WG-4, or the equivalent
+�      Initial appointment is a term like appointment
+�      After three years, may convert to career status
+                                                                                               system
+                                                                                   1 aoement
+                                                                      d Records 1'v an t>
+                                                             Automate            .
+                                                                         ConversIon
+                                                             Helt-DutnP
+                                                               Ilex-Dump Conversion
+
+B.      An outreach plan describing in detail how the agency would reach out to welfare offices,
+employment offices, nonprofit organizations, and others that work with the welfare population on
+a regular basis to notify them of job opportunities within the Federal government.
+
+C.       A plan describing in detail how each agency would prepare and mentor welfare recipients
+who are hired by the Federal government to ensure that once hired, the welfare recipient retains
+her job.
+
+D.      A plan on the manner in which the agency, through the FEBs and FEAs, will report
+regularly to the President on both the )1iring and retention of welfare recipients under the
+Worker-Trainee program.
+
+Approve: __                          Disapprove: __
+
+2.      Direct the General Services Administration (GSA) to issue in 30 days from the
+directive guidelines to Federal agencies on uses of the Federal Fare Subsidy Program,
+including the option to offer fare subsidies on a sliding income basis, as allowed under the
+Federal Employees Clean Air Incentives Act.
+
+The 1993 Federal Employees Clean Air Incentives Act permits the Secretary of each Federal
+agency to establish programs that may involve such options as transit fare subsidies including
+passes, vouchers, and other cash reimbursement. As of 1994, only 10 agencies offered transit
+fare subsidies to 31,000 employees. The low usage exists because of the high cost of offering all
+employees fare subsidies. The subsidies range from $15 to $60 per month and are paid out of
+each agency's appropriations.
+
+You could make clear that agencies have legal authority to offer graduated subsidies based
+on income and direct agencies to do so. If agencies choose to offer fare subsidies on a sliding
+income scale basis, usage rates will likely rise and will directly benefit low-income workers who
+may otherwise have difficulty affording transportation to and from work.
+
+Approve: __                          Disapprove: __
+
+3.     Direct the GSA to work with all Federal government agencies to explore and report
+to you in 30 days their available options to help low-income federal workers find affordable
+child care.
+
+The report should include but not be limited to the following:
+
+A.     The feasibility of establishing more agency-sponsored child care centers.
+
+B.     The extent to which the agency has already contracted with local child care resource
+and referral services to help low-income employees find affordable child care and their
+plans to expand this option.
+                                                                  Hex-Dump Conversion
+C.     Agency interest in offering direct child care subsidies based on a sliding fee scale to
+low-income employees of the Federal government. Currently, the Department of Defense,
+under the Military Child Care Act of 1989, operates subsidized child care centers for its
+employees. At an average cost of $6,800 per employee. DOD absorbs the cost of this
+program. If agencies are interested in creating a child care subsidy program similar to
+DOD's, legislation would be required.
+
+
+Approve: __                          Disapprove: __
+
+
+4.      Direct (WHO???) to inform all employees eligible for the EITC of both their
+eligibility and their ability to receive EITC monies each month in their paychecks.
+
+IRS currently undertakes similar outreach efforts to the private sector, requiring private sector
+employers to notify their EITC-eligible employees. However, similar notification is not
+conducted on a regular government-wide basis. The Federal government needs to do what the
+private sector is already doing.
+
+Approve: __                          Disapprove: __
+
+5.    Call for legislation to allow the Federal government and its agencies to utilize the
+wage subsidy program in the same manner any other private nonprofit or for-profit
+employer would use the program to subsidize the wages of a welfare recipient.
+
+You might consider calling for a legislative change that would provide agencies with a
+monetary incentive to hire welfare recipients. Under current law, federal agencies cannot
+take advantage of subsidies offered to employers who hire welfare recipients, because
+agencies may not receive any unappropriated funds. A simple piece of legislation would
+allow federal agencies to accept and retain these subsidies, thus giving agencies the same
+incentives to hire welfare recipients as other employers. This proposal, however, might
+well provoke opposition, with some arguing that the states should not have to pay the
+federal government to put welfare recipients to work.
+
+              Approve: __                           Disapprove: __
+
+

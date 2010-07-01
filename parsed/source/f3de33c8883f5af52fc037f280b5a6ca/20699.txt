@@ -1,0 +1,262 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Sarah A. Bianchi ( CN=Sarah A. Bianchi/OU=OPD/O=EOP [ OPD 1 )
+
+CREATION DATE/TlME:18-JUL-1998 18:33:29.00
+
+SUBJECT:   more patients' bill of rights q&as
+
+TO: Brenda B. Costello { CN=Brenda B. Costello/OU=WHO/O=EOP @ EOP [ WHO
+READ: UNKNOWN
+
+TO: Neera Tanden ( CN=Neera Tanden/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Karen Tramontano ( CN=Karen Tramontano/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Darby E. Stott ( CN=Darby E. Stott/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Elizabeth R. Newman ( CN=Elizabeth R. Newman/OU=WHO/O=EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Julia M. Payne ( CN=Julia M. Payne/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Joseph P. Lockhart ( CN=Joseph P. Lockhart/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Melissa G. Green ( CN=Melissa G. Green/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Jonathan Orszag ( CN=Jonathan Orszag/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Jake Siewert ( CN=Jake Siewert/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Barbara D. Woolley ( CN=Barbara D. Woolley/OU=WHO/O=EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Lawrence J. Haas ( CN=Lawrence J. Haas/O=OVP @ OVP [ UNKNOWN 1 )
+READ:UNKNOWN
+
+TO: Toby Donenfeld ( CN=Toby Donenfeld/O=Ovp @ OVP [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Joseph C. Fanaroff ( CN=Joseph C. Fanaroff/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Chandler G. Spaulding ( CN=Chandler G. Spaulding/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Jessica L. Gibson ( CN=Jessica L. Gibson/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Janet Murguia ( CN=Janet Murguia/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Lawrence J. Stein ( CN=Lawrence J. Stein/OU=WHO/O=EOP @ EOP [ WHO 1 )
+
+
+READ: UNKNOWN
+
+TO: Ann F. Lewis ( CN=Ann F. Lewis/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Laura K. Capps ( CN=Laura K. Capps/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Daniel N. Mendelson ( CN=Daniel N. Mendelson/OU=OMB/O=EOP @ EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Maureen T. Shea ( CN=Maureen T. Shea/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Lori L. Anderson ( CN=Lori L. Anderson/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Nanda Chitre ( CN=Nanda Chitre/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Barry J. Toiv ( CN=Barry J. Toiv/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Jeanne Lambrew ( CN=Jeanne Lambrew/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Jonathan A. Kaplan ( CN=Jonathan A. Kaplan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: William H. White Jr.   ( CN=William H. White Jr./OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Eli G. Attie ( CN=Eli G. Attie/O=OVP @ OVP [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: David W. Beier ( CN=David W. Beier/O=OVP @ OVP [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Kevin S. Moran ( CN=Kevin S. Moran/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Stacie Spector ( CN=Stacie Spector/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Mindy E. Myers ( CN=Mindy E. Myers/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Charles M. Brain ( CN=Charles M. Brain/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Eleanor S. Parker ( CN=Eleanor S. Parker/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Michelle Crisci ( CN=Michelle Crisci/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD 1 )
+
+
+READ:UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D5]MAIL40400640U;226 to ASCII,
+ The following is a HEX DUMP:
+
+FF5750438A0600000l0A020l0000000205000000452D0000000200000C3605208ECOAE9BFC1C19
+8CB83F63B91ED7A8F5F57C86EA7675BD07E71C1F1BOD16A12573CBF3A16185FC63B2377FB09894
+                                July 18, 1998
+
+Q:   The Republican and Democratic proposals are not that different. Aren't you just
+     playing politics with this issue?
+
+A:   NO" bill is acceptable if it excludes over 100 million Americans, and that is exactly what
+     the proposal Republicans released this week does. We thought one thing that everyone
+     agreed on was that all Americans should have basic patient protections. However, the
+     Senate Republican proposal only applies to Americans in self-insured plans, excluding
+     most Americans in small businesses and millions of other Americans from being assured
+     these important protections. Friday's USA Today editorial said it best: there are "100
+     million reasons the GOP health plans fails."
+
+     Both the House and Senate Republican proposals also have many other weaknesses. For
+     example, they do not assure that patients can see oncologists or heart specialists when
+     they need to; they do not limit or require disclosure of financial incentives for doctors;
+     and they do not compensate patients who are maimed or who die as a result of a
+     wrongful health plan action. Although, by any definition, the Republican plans fall
+     short, the President remains hopeful and committed to passing a strong patients' bill
+     of rights this year.
+
+Q:   By requiring any bill to allow individuals to sue their HMOs, aren't you raising the
+     bar to make it impossible for Republicans to pass legislation this year so you can call
+     them the "do-nothing" Congress?
+
+A:   We are not raising any bar. The Administration has consistently stated that a right
+     without a remedy is not a right at all. The right to sue in state courts is certainly one
+     approach, but we continue to be open to other meaningful approaches that ensure
+     recourse for patients who have been maimed or who have died as a result of health plan
+     actions.
+
+     As was reported just last week, judges across the country believe that their hands are tied
+     by the current law. They have explicitly stated that Congress should remove the
+     statutory barriers of ERISA that prevent consumers from seeking a meaningful remedy
+     when they are injured because of their health plans' actions.
+
+Q:   But the President said on Thursday that you have to have the right to sue?
+
+A:   No. The President said that any patients' bill of rights should give "patients a right to
+     sue or some other enforceable legal right that patients' need." This is consistent with
+     what the Administration has consistently said in testimony and in statements by
+     Administration officials.
+
+                                                     Automated Records Management System
+                                                     Hex.Dump Conversion
+
+A:   The bipartisan Dingell-Ganske bill enforcement mechanism through the state courts is
+     certainly one viable approach. As I have stated before, we are open to considering other
+     meaningful approaches to ensure that these patient protections are real.
+
+
+Q:   What are other approaches that the Administration would except?
+
+A:   There are other meaningful approaches beyond state court enforcement approaches.
+     Some have suggested some type of Federal court approach. However, the devil is always
+     in the details, and I am certainly not going to engage in negotiating the specifics on this
+     show. However, the Administration's position is clear: those Americans who are
+     maimed or who die because of a health plans' actions must get some type of remedy.
+
+     It is important to remember that HMOs are one of the few entities in this country that
+     cannot be held accountable for wrongful actions. Americans harmed by bad apple
+     physicians or sloppy manufacturers can be compensated. For some reason, current law
+     assures that HMOs are not held accountable. We simply believe that is unacceptable.
+
+
+Q:   Isn't this going to lead to a proliferation of lawsuits? Is that really what we need in
+     this country -- more lawsuits?
+
+A:   We believe that having a strong internal and independent external appeals process in
+     place will address almost all patients' grievances and that very few cases will ever make
+     it into the courts. That is why all of the independent analyses of the Dingell-Ganske
+     enforcement approach have been scored as costing between a dime and a dollar per
+     month.
+
+     There is no question that this is small price for such an important protection. Under
+     current law, let's say that a patient is denied a critical mammography test recommended
+     by her doctors and she is later diagnosed with stage two breast cancer. Even if it is
+     determined that the HMO was clearly at fault, the patient can only be compensated for the
+     cost of the test -- not for any subsequent treatment she will need and not for pain and
+     suffering. We believe that patients who are maimed or die because of action of their
+     health plans ought to have some type of real compensation.
+
+
+
+
+                                                     Automated Records Management System
+                                                     Hex-Dump Conversion
+     patients' bill of rights. Is this true?
+
+A.   Such claims are flawed, widely exaggerated scare tactics used by insurers and other
+     special interests to try to stall and kill this important legislation. There are
+     absolutely no independent, credible reports that these basic patient protections are going
+     to significantly increase the number of uninsured. The multi-million dollar,
+     industry-sponsored ad campaigns that are scaring Americans with these unfounded claims
+     are based on flawed assumptions that the patients' bill of rights will significantly increase
+     health care costs.
+
+     However, there a numerous independent analyses that these patient protections
+     would not have a dramatic impact on the cost of health care coverage. A new
+     analysis by the Congressional Budget Office shows that the patients' bill of rights will
+     have only minimal effects on premiums. They estimate that these protections will
+     increase health care costs by $7 per month. In most cases, the cost to the individual
+     would be only about $2 per month.
+
+     There is no reason to believe that this type of increase is going to cause millions of
+     Americans to lose their health care coverage. Moreover, for good health plans that
+     already provide these basic protections, it should cost almost nothing.
+
+     Also, the Kaiser Foundation has estimated that patient protections would increase
+     health insurance premiums less than one percent (less than $3 per family per
+     month), and another Kaiser study released last week even found that allowing patients to
+     sue their health plans would only increase premiums between three and 13 cents a month.
+
+
+     Finally, the over 150 consumer and health care provider organizations around the
+     nation that are supporting passing a strong, enforceable patients' bill of rights are
+     also extremely concerned about the number of uninsured. They certainly would not
+     be such strong advocates oflegislation if they had those concerns.
+
+
+
+
+                                                       Automated Records Management System.
+                                                       Hex-Dump Conversion
+
+

@@ -1,0 +1,46 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Sarah A. Bianchi ( CN=Sarah A. Bianchi/OU=OPD/O=EOP [ OPD 1 )
+
+CREATION DATE/TIME: 9-0CT-1998 17:20:56.00
+
+SUBJECT:   weekly
+
+TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ:UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D93]MAIL46020348L.226 to ASCII,
+ The following is a HEX DUMP:
+
+FF5750438C040000010A020100000002050000008B09000000020000024B971A6365E218AOB536
+0782347A761165220EFE372687F551637B1971D79946EOA176F07BDAEAE21636D3B184BEE3DD70
+FC290D4D149D3E8FB2C0092BA5DDD1903F066C6FB08E07472F435C5D994F1910C43C46B973C789
+5BC9AB9F19A9B38E86BE4C9B3034CE5FF97C06FODOB0298AD0364882A4ACA44CECBD89A4C8A6CE
+615996FF2046805684305779AA2FFCF6DF1E3481F994581F88C02547FC94D08D0322CB1713B995
+C04COAA4285D253A71A4626779C22305732C662C8AE758CDF60EED4B591B1162CDAF54831450EA
+6C5CAAE07240C87FA678EBD6BBF9D44EA4B8F4826CE5EE6D1DD45B761501A6B78C18033B025BAE
+health issues left to be resolved in our appropriations discussions on the Hill. High visibility
+issues related to Medicare include, potential responses to reimbursement issues for home health
+care and skilled nursing facilities, as well as Pennsylvania disproportionate share hospital
+payments. On these issues, we are viewed by supporters as being helpful. Outstanding
+Medicaid and Children's Health Insurance Program (CHIP) issues include a controversial
+Medicaid cost savings proposal and CHIP fixes for Washington, Puerto Rico and Wisconsin.
+Public health issues of interest include organ allocation, needle exchange, assisted suicide, and
+your race and health initiative. We will keep you apprised of final outcomes of these issues
+when they are resolved.
+
+
+
+
+                                                              Automated Records Management System
+                                                              Hex-Dump Conversion
+
+

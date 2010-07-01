@@ -1,0 +1,120 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Michael Cohen ( CN=Michael Cohen/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME: 15-JAN-1999 10:09:16.00
+
+SUBJECT:   Education bonus fund
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ:UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP   [ WHO]   )
+READ:UNKNOWN
+
+TEXT:
+Attached is the draft memo to POTUS describing the bonus fund proposal we
+have developed.  While last night I indicated that the memo should also
+summarize the rest of our approach to accountability, I realized that the
+only way to keep the entire memo to under two pages was to give him so
+little on each component that it was hardly worth it.  Instead, in the
+opening paragraph I simply reminded him of the overall list of
+accountability requirements, without any further detail. Since you and
+Bruce have indicated that you have discussed the other stuff with him at
+length, I think this approach accomplishes what I thought was needed.
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D71]MAIL45934461T.036 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043D9070000010A02010000000205000000FE46000000020000D8631CC4C57420081D29E3
+51ABBADF1E07B77B44A7946CD173FFF510CCE1009BBBAF9B94D32388AFA6C79B6D572C7017CF34
+1CD4A4B9B83AA7EC14ABF9B5643B3023195098F2DD5EOEOE16C785BD91F8B3364D35D14CFE5054
+1630C7E88A7678CD28656CEB78DC650D83AD64B614B48E897265C143A939FBCAD64F7079D3413F
+262A40A1C98F7D8B9F8A9E15D14C52D9444989D861094020AD891354D7FOEF5BFA2C656CCA6C80
+9B715B930D465E77D8C1FBFOC5EB5511CEF2AOE06514E82B49DC58207AD4809B2A77484179C9C8
+B4BB966479E14B602F7CC75D7D1ED136490178EF4E2E49F315Al16OFE056742B40FD266E3C8292
+FE4AEC8D89BCOD3A9BCF68B1CB37B2685C98E6F1432ED1B5F22AE7132AB7DF81206EB5F3D2A338
+22DB433EDD89CFD5BOBC7086F493C5A1BE8F390EB288341B8A84F96A4AB2592B009D5E02F5354C
+E7F179711220E279A36B350EC65CD2D59838A61E69738892A032D5C3B94BEB12C793D852017EAA
+A96499EC2AB9830E5D60865FC22B34B7F4833E385ABEEAF33C5879085A4349A8961145AF8C096C
+D03275D29B41C5A425E9ED243DF1EDC5206D3656C3BOA568665CA3715CD26180C447F149325CBO
+FBOD16809E3ADF7288423C4BDC960027AD86A2B4CC99E82895493EF414B403CED955A1D08AOFA6
+E6902D178A02002800000000000000000000000823010000000B01000030040000005502000100
+4E0000003B05000009250100000006000000890500000B3002000000280000008F050000087701
+00000040000000B705000008340100000014000000F70500000802010000000FOOOOOOOB060000
+081001000000020000001A060000096D01000000170000001C0600000805010000000800000033
+060000081101000100C60000003B0600000055000001003COOOOOO010700000055010000004EOO
+00003D070000000000000000000000003D070000000000000000000000003D0700000000000000
+00000000003D070000000000000000000000003D070000000000000000000000003D0700000000
+00000000000000003D070000000000000000000000003D070000000000000000000000003D0700
+00000000000000000000003D070000000000000000000000003D07000000000000000000000000
+3D070000000000000000000000003D070000000000000000000000003D07000000000000000000
+0000003D070000000000000000000000003D070000000000000000000000003D07000000000000
+0000000000003D070000000000000000000000003D070000000000000000000000003D07000000
+0000000000000000003D070000000000000000000000003D070000000000000000000000003D07
+0000000000000000000000003D070000000000000000000000003D070000000000000000000000
+003D0700000B3001000F004E0000008B07000000984C006F00630061006C002000500072006900
+6E0074006500720000000000000000000000000000000000000000000000000000000000000000
+                                                                                  flex-Dump Conv0,'SJ;
+
+
+
+MEMORANDUM FOR THE PRESIDENT
+
+FROM:                  Bruce Reed
+                       Mike Cohen
+
+SUBJECT:               Rewarding Success in ESEA
+
+       This memo describes the Education Excellence Fund, the perfonnance incentive program
+for ESEA we have developed at your direction.
+
+       The overriding goal of our ESEA proposal is to help all students reach challenging
+academic standards and to close the racial, ethnic and socioeconomic gaps in student
+achievement at the same time. The accountability provisions we have incorporated in our ESEA
+proposal -- requiring states to raise standards, provide public report cards, end social promotion,
+intervene in failing schools and end the use of unqualified teachers -- underscore the
+responsibility of states for the success of the education system by virtue of the policies they adopt
+and practices they pennit. Consistent with this approach, we have designed an Education
+Excellence Fund that rewards states for their success. Because large urban school districts often
+operate with relatively great independence from their state government and have in recent years
+been making significant progress as a result of their own efforts, the Excellence Fund is also
+designed to reward the largest urban school systems that make significant achievement gains.
+
+Rewarding States and Cities that Raise Student Achievement and Close Achievement Gaps.
+ The Education Excellence Fund will provide financial rewards to any state, and any of the 100
+largest urban school districts, that make significant gains, sustained over three years, in
+increasing student achievement overall, and in reducing disparities in student achievement on the
+basis of race, ethnicity and socioeconomic background. In order to detennine which states and
+cities will receive rewards, the Secretary of Education will set improvement targets each state
+and city must meet. These targets will be based on state assessments in reading and math, and
+may include other indicators such as improvements in other academic subjects, drop-out rates,
+student attendance or other areas of perfonnance as agreed to by the Secretary and each state or
+large school district. Each state and each of the eligible school districts will be able to receive an
+award if meets its improvement targets.
+
+$1 Billion Over 5 Years. The fund will provide a billion dollars over 5 years in rewards to
+states, school districts and schools. Rewards will be provided for the first time in FY2003, three
+years after ESEA is expected to pass. This will allow time for each state to adopt new
+assessments and for the Secretary of Education to establish improvement targets for each state
+and large district. Half of the funds will be reserved .for states, and half for the largest urban
+school districts. Funds will be allocated to states and school districts on the basis of the Title 1
+fonnula, so that each receives the same share of these funds that it would receive under Title 1.
+Funds allocated to states and school districts that do not make enough improvement to qualify for
+                                                                                     Hox-Dump Conv~is,:
+the reward will be reallocated to the states and school districts that do.
+
+Rewarding Schools that Make Outstanding Improvements. States and large urban school
+districts will be required to distribute 90% of the funds to the schools in each jurisdiction that
+have made the greatest gains in student achievement overall, especially with disadvantaged
+students. The Excellence Fund will support awards of $40,000 to $50,000 per school for
+between 3,600 and 4,500 schools, between 4-5% of all public schools. Each school that receives
+the awards will be able to use the funds for any activities it determines can help further its efforts
+to improve student achievement. Similarly, each state and school district will able to retain up
+10% of the funds, for any activities it determines will help improve student achievement in its
+jurisdiction.
+
+

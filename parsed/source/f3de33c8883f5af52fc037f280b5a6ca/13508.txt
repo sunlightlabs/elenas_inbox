@@ -1,0 +1,143 @@
+  RECORD TYPE: PRESIDENTIAL     (ALL-IN-1 MAIL)
+
+  CREATOR: Thomas C. Jensen ( JENSEN_T        (CEQ)
+
+  CREATION DATE/TIME: 5-APR-1996 11:13:34.89
+
+  SUBJECT: Timber news
+
+  TO: T J Glauthier                               GLAUTHIER T )    (OMB)
+  READ: 5-APR-1996 11:20:04.32
+
+  TO: Christine L. Nolin                          NOLIN CL      (OMB)
+  READ: 5-APR-1996 12:05:42.87
+
+  TO: Elena Kagan                                 KAGAN E      (WHO)
+  READ: 5-APR-1996 15:01:36.23
+
+  TEXT:
+
+ ==================== ATTACHMENT 1 ====================
+ ATT CREATION TIME/DATE: 5-APR-1996 10:41:00.00
+
+ ATT BODY PART TYPE:B
+
+ ATT CREATOR: Brian J. Johnson
+
+ ATT SUBJECT: fyi ap on ford
+
+  ATT TO: Dinah Bear                                  BEAR D
+
+ ATT TO: Thomas C. Jensen                             JENSEN T
+
+ ATT TO: Shelley N. Fidler                            FIDLER S
+
+ ATT TO: Kathleen A. McGinty                          MCGINTY K
+
+  TEXT:
+
+  ==================    END ATTACHMENT   1   ==================
+ ==================== ATTACHMENT 2 ====================
+ ATT CREATION TIME/DATE: 5-APR-1996 10:54:00.00
+
+ ATT BODYPART TYPE:E
+
+ ATT CREATOR: Jim Petterson
+
+ ATT SUBJECT: First and Last Sales
+
+ ATT TO: JOHNSON BJ                                   JOHNSON BJ@A1@CD
+
+ TEXT:
+ A recent AP story.
+
+                     old follows --------------------
+ Timber Swap, 0450
+ Agreement Near on Swap to Save Old Trees
+
+      ROSEBURG, Ore. (AP)   Agreement is near on a timber swap that
+  would save from logging centuries-old federal timber that has been
+
+
+  the focus of demonstrations by environmentalists, the U.S. Forest
+  Service says.
+      Roseburg Forest Products could sign the agreement with the
+  Forest Service as early as today, Umpqua spokeswoman Cheryl
+  Walters. The company would trade the controversial First timber
+  sale for 4 million board feet of other trees from partially logged
+  stands.
+       "An agreement is so darn close,"   Walters said. "RFP has
+  agreed in concept and we don't see any reason why they would back
+  out. I I
+       Speaking to the Roseburg Area Chamber of Commerce, Umpqua
+  National Forest Supervisor Don Otsby said Thursday the deal could
+  be the first of a series of swaps to stop logging of '
+  environmentally sensitive areas under the so-called salvage rider.
+      Roseburg Forest Products began logging last month on the First
+  timber sale after negotiations for the trade broke down. The sale
+  is one of a number that were offered in the midst of the battle
+  over the northern spotted owl and later withdrawn over
+  environmental concerns.
+      After finding at least one tree that appeared to be 1,000 years
+  old, environmentalists tried to stop the logging. At one point
+  three people were arrested when they chained themselves to junked
+  cars to block a logging road.
+       "We expect the cutting will stop immediately now that
+  substitute volume has been explicitly authorized by the Department
+  of Agriculture, identified by the Forest Service and offered to
+  Scott Timber,"   said Ken Carloni, president of the environmental
+  group Umpqua Watersheds Inc. Scott Timber is the logging subsidiary
+  of Roseburg Forest Products.
+       "Allyn Ford (executive vice president of Roseburg Forest
+  Products) indicated to me that he would stop cutting as soon as the
+  Forest Service offered suitable substitute volume and I am
+  confident he will abide by his word."
+      Roseburg Forest Products didn't immediately return a telephone
+  call for comment.
+      The sale was withdrawn by the Forest Service in 1990 after
+  deciding that logging the old-growth timber would harm spotted
+  owls, a threatened species, as well as cutthroat trout in the
+  Umpqua River system.
+      The sale was released to Roseburg Forest Products recently under
+  the so-called salvage rider. The rider suspends enforcement of
+  environmental laws to speed logging that was held up for years in
+  the spotted owl fight.
+
+   {PROFILE
+   (CAT:Agriculture;)
+   (CAT: Business; )
+   (CAT:Environment;)
+   (SRC:AP; ST:ID;)
+   )
+  AP-NY-04-05-96 0428EST
+
+  : SUBJECT: AGRI ENV ID CONW
+  Copyright (c) 1996 The Associated Press
+  Received by NewsEDGE/LAN: 4/5/96 4:19 AM
+
+
+
+
+  ==================    END ATTACHMENT   2   ==================
+
+
+
+          ==================== ATTACHMENT   3 ====================
+          ATT CREATION TIME/DATE: 5-APR-1996 10:00:00.00
+
+          ATT BODY PART TYPE:D
+
+          TEXT:
+          RFC-822-headers:
+          Received: from storm.eop.gov (storm.eop.gov)
+           by PMDF.EOP.GOV (PMDF V5.0-4 #6879) id <01I36F09QPXS004KT2@PMDF.EOP.GOV> for
+           JOHNSON_BJ@a1.eop.gov; Fri, 05 Apr 1996 09:57:39 -0400 (EDT)
+          Received: from SIES.WSC.AG.GOV by STORM.EOP.GOV (PMDF V5.0-6 #6879)
+           id <01I36FP9A14800007K@STORM.EOP.GOV> for JOHNSON_BJ@a1.eop.gov; Fri,
+           05 Apr 1996 09:58:28 -0700 (MST)
+          Received: from USDAHQ-Message_Server by SIES.WSC.AG.GOV with Novell_GroupWise;
+           Fri, 05 Apr 1996 10:06:22 -0500
+          X-Mailer: Novell GroupWise 4.1
+          ================== END ATTACHMENT   3 ==================
+
+

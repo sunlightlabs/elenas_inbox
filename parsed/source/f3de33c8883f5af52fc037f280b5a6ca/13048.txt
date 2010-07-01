@@ -1,0 +1,161 @@
+        RECORD TYPE: PRESIDENTIAL     (NOTES MAIL)
+
+        CREATOR: Sean P. Maloney ( CN=Sean P. Maloney/OU=WHO/O=EOP [ WHO]              )
+
+        CREATION DATE/TIME:22-JUN-1999 08:56:11.00
+
+        SUBJECT:   Daily Report
+
+        TO: Joel Johnson ( CN=Joel Johnson/OU=WHO/O=EOP@EOP [ UNKNOWN]         )
+        READ: UNKNOWN
+
+        TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP@EOP [ OPD ] )
+        READ:UNKNOWN
+
+        TO: Janet L. Yellen ( CN=Janet L. Yellen/OU=CEA/O=EOP@EOP [ CEA]           )
+        READ: UNKNOWN
+
+        TO: Loretta M. Ucelli ( CN=Loretta M. Ucelli/OU=WHO/O=EOP@EOP [ WHO]                   )
+        READ:UNKNOWN
+
+        TO: Todd Stern ( CN=Todd Stern/OU=WHO/O=EOP@EOP [ WHO]     )
+        READ: UNKNOWN
+
+        TO: Gene B. Sperling ( CN=Gene B. Sperling/OU=OPD/O=EOP@EOP [ OPD ]                )
+        READ:UNKNOWN
+
+        TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP@EOP [ OPD ] )
+        READ: UNKNOWN
+
+        TO: Minyon Moore ( CN=Minyon Moore/OU=WHO/O=EOP@EOP [ WHO]     )
+        READ: UNKNOWN
+
+        TO: Ann F. Lewis ( CN=Ann F. Lewis/OU=WHO/O=EOP@EOP [ WHO]     )
+        READ: UNKNOWN
+
+        TO: Ron Klain ( CN=Ron Klain/O=OVP@OVP [ UNKNOWN ] )
+        READ:UNKNOWN
+
+        TO: Mickey Ibarra ( CN=Mickey Ibarra/OU=WHO/O=EOP@EOP    [ WHO]    )
+        READ:UNKNOWN
+
+        TO: Mary E. Cahill ( CN=Mary E. Cahill/OU=WHO/O=EOP@EOP [ WHO]         )
+        READ: UNKNOWN
+
+        TO: Glyn T. Davies ( CN=Glyn T. Davies/OU=NSC/O=EOP@EOP [ NSC ] )
+        READ: UNKNOWN
+
+        TO: Jacob J. Lew ( CN=Jacob J. Lew/OU=OMB/O=EOP@EOP [ OMB ] )
+        READ:UNKNOWN
+
+        TO: Karen Tramontano ( CN=Karen Tramontano/OU=WHO/O=EOP@EOP [ WHO]                 )
+        READ: UNKNOWN
+
+        TO: Christopher C. Jennings    ( CN=Christopher C. Jennings/OU=OPD/O=EOP@EOP [ OPD ] )
+        READ:UNKNOWN
+
+        TO: Sylvia M.Mathews ( CN=Sylvia M. Mathews/OU=OMB/O=EOP@EOP [ OMB ] )
+        READ: UNKNOWN
+
+        TO: Michael Waldman ( CN=Michael Waldman/OU=WHO/O=EOP@EOP [ WHO]           )
+
+
+READ: UNKNOWN
+
+TO: Stephanie S. Streett ( CN=Stephanie S. Streett/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Lawrence J. Stein ( CN=Lawrence J. Stein/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Charles F. Ruff ('CN=Charles F. Ruff/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Bob J. Nash ( CN=Bob J. Nash/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Thurgood Marshall Jr ( CN=Thurgood Marshall Jr/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Neal Lane ( CN=Neal Lane/OU=OSTP/O=EOP@EOP [ OSTP 1 )
+READ:UNKNOWN
+
+TO: Robert B. Johnson ( CN=Robert B. Johnson/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: George T. Frampton ( CN=George T. Frampton/OU=CEQ/O=EOP@EOP [ CEQ 1 )
+READ: UNKNOWN
+
+TO: Sidney Blumenthal ( CN=Sidney Blumenthal/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: KERRICK D@Al    KERRICK D@Al @ CD @ VAXGTWY [ UNKNOWN 1 ) (NSC)
+READ: UNKNOWN
+
+TO: Maria Echaveste ( CN=Maria Echaveste/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Robert L. Nabors   ( CN=Robert L. Nabors/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ:UNKNOWN
+
+CC: Ann C. Hertelendy ( CN=Ann C. Hertelendy/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+CC: Barbara A. Barclay ( CN=Barbara A. Barclay/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Edward A. Rice ( CN=Edward A. Rice/OU=NSC/O=EOP@EOP [ NSC 1 )
+READ: UNKNOWN
+
+CC: Leslie Bernstein ( CN=Leslie Bernstein/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Carolyn T. Wu ( CN=Carolyn T. Wu/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Lael Brainard ( CN=Lael Brainard/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+CC: Nina L. Hachigian ( CN=Nina L. Hachigian/OU=NSC/O=EOP@EOP [ NSC 1 )
+READ: UNKNOWN
+
+CC: Melissa G. Green ( CN=Melissa G. Green/OU=OPD/O=EOP@EOP [ OPD 1 )
+
+
+ READ:UNKNOWN
+
+ cc: Adrienne C. Erbach ( CN=Adrienne C. Erbach/OU=OMB/O=EOP@EOP [ OMB 1 )
+ READ: UNKNOWN
+
+ CC: Justin L. Coleman ( CN=Justin L. Coleman/OU=WHO/O=EOP@EOP     [ UNKNOWN 1 )
+ READ: UNKNOWN
+
+ CC: Courtney M. Manning ( CN=Courtney M. Manning/OU=WHO/O=EOP@EOP       [ UNKNOWN 1 )
+ READ: UNKNOWN
+
+ CC: Carolyn E. Cleveland ( CN=Carolyn E. Cleveland/OU=WHO/O=EOP@EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ CC: Marjorie Tarmey ( CN=Marjorie Tarmey/OU=WHO/O=EOP@EOP [ WHO     1 )
+ READ: UNKNOWN
+
+ CC: Rebecca L. Walldorff   ( CN=Rebecca L. Walldorff/OU=WHO/O=EOP@EOP [ WHO 1 )
+ READ:UNKNOWN
+
+CC: Mindy E. Myers    ( CN=Mindy E. Myers/OU=WHO/O=EOP@EOP   [ WHO 1 )
+READ:UNKNOWN
+
+  CC: Kris M Balderston ( CN=Kris M Balderston/OU=WHO/O=EOP@EOP [ WHO 1 )
+. READ:UNKNOWN
+
+CC: Cathy R. Mays    ( CN=Cathy R. Mays/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ:UNKNOWN
+
+CC: Sara M. Latham ( CN=Sara M. Latham/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TEXT:
+We'll be doing a daily report again today.    please send report items to
+me, as usual, by 3:00 p.m .. Thanks.
+
+

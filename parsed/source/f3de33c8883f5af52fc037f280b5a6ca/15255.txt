@@ -1,0 +1,133 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Nicole R. Rabner ( CN=Nicole R. Rabner/OU=WHO/O=EOP [ WHO]   )
+
+CREATION DATE/TIME:16-APR-1997 20:06:05.00
+
+SUBJECT:   script
+
+TO: Jennifer L. Klein ( CN=Jennifer L. Klein/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TEXT:
+Draft attached -- pIs ck for substance; I'm sure Christa/Phil may want to
+change to make stylistically consistent with panel 2 script.==================== ATT
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D18]MAIL490427508.116 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043B0040000010A02010000000205000000BE1600000002000037C8EC7C6468A1AA98A18C
+BAEF1164F7D8B9C70894A1292C6437DD1DE8C5A1CAA427FE13258B3EE2B74E7FFF4B11BD018970
+94A8D93F8CE9A31724B44E9C40EBD3533CFOBC754B2EDA29AD27F93138CDECD481D8E438070714
+29CD69BDBE4690A240D92DAE58BFA2DA9EA22CE004919FBC6977AE093E6742DC124B3FF8C98632
+8791FEFEAE7562EE12E03157394714517F0251EAAAA42B19BC03DDB283E06D449BDFA187E005EA
+04A49A826A92F26C8D7B49AE5323043416E6DDA85B280BFE9AC6B683BC9BBB24854418F9BDA38C
+3E84F9366CFAOFE4E1664EE72DA6B233E59EECF4C328BB8BC29EF9CD97A4C22580B14B8BC1AD06
+992F18D251A741C9FC889D746E624BB7BB5F9F530D24ABCC3D1B814C00783A63E6E84BF74E8810
+95F6997ACFADE231B1825DE2159A8EBE6238B20299F97D61841C714E6F757A61C154F8C881E086
+A4D8F3DOAD153B451B6B43D58696CDF1A7D160CEC9427C37DB8287000DB986D80CC037B6E08C35
+47E07189749B52876E4646839F2B37E3D220FBD4328A855CBOD57739026F41BFA5981817348E09
+4495DE14BD3FOC7D15A387B2077B98494715ECBB998F65E165C49C04B553378C744EA8A8024421
+05A6299B20695DA7F56C8AF1027EC7245DE6BCOB22BFD48CD80CE8F6D6B301D1924A91E8DBB8D7
+265EBE788102000A00000000000000000000000823010000000B0100008C020000005501000000
+4E0000009703000009250100000006000000E50300000B300200000028000000EB030000081601
+000000320000001304000008770100000040000000450400000834010000001400000085040000
+0802010000000F0000009904000008050100000008000000A804000000985C005C004F0041005F
+0038005C005C005C0045004100530054005F00570049004E0047005C0046004C005F0031003000
+32005F004100000000000000000000000000000000000000000057494E53504F4F4COOOOOOOOOO
+C800C8002C012C012C012C01C800C8003000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+0000000000000000000000000000000000000B0100002800D61EC3OF3908000011090000005AOO
+OB01008B143600540069006D006500730020004E0065007700200052006F006D0061006E002000
+52006500670075006C006100720000000000000000000100020058020100000004002800000000
+000000000000000000000000000000011202002400A1000000A100000043003A005C0050005200
+4F00470053005C00570050005C005300540041004E0044004100520044002E0057005000540000
+000AOOOOOOA80201004400A90201004400AA0201000200AB0203000200AC0201004500AD020100
+0200AE0202004400AF0201000200B00201004400B102010002000E9A3622000000000000000000
+00006000185C0108337C00780000020000B1020000030100040002000000DDOA10008301040003
+000200211000DDDDOBOB00030000040BOODD9BE0401200000000591159112500EC131200EOF20C
+F2F20EF246495253548050414E454CF30EF3F30CF388D004150000OB00090001B0040000000001
+201500DOCCF20CF254686580507265736964656E74F30CF3806F70656E73806469736375737369
+6F6E80627980696E74726F647563696E678044617669648048616D627572672C8077686F807769
+6C6C80666163696C6974617465D0011500000B000900019006E001020001201500D07072657365
+6E746174696F6E73806F6680656D657267696E67806B6E6F776C65646765806F6E806561726C79
+                                                                               Hex-Dump Conversion
+
+                                          FIRST PANEL
+
+The President opens discussion by introducing David Hamburg, who will facilitate
+presentations of emerging knowledge on early childhood development. [David Hamburg,
+President of the Carnegie Corporation of New York, which produced the Seminal 1994 Study
+"Starting Points." Last year, David Hamburg received the Presidential Medal of Freedom.]
+
+David Hamburg makes very brief remarks and introduces the following three consecutive
+speakers:
+
+       Dr. Donald Cohen, Director of the Yale University Child Study Center
+       Will discuss emerging knowledge in the field of behavioral development.
+
+        Dr. Carla Shatz, Professor of Neurobiology at the University of California, Berkeley
+        Will explain brain development and wiring.
+
+       Dr. Patricia Kuhl, Chair, Department of Speech and Hearing Sciences, Univ. of
+       Washington
+       Will explain emerging knowledge about how infants learn
+
+POTUSIHRC SUGGESTED QUESTION: What kind of stimulation is most beneficial for
+our youngest children and what kind could be harmful? (To Cohen)
+
+POTUSIHRC SUGGESTED QUESTION: Tell us more about the patterns of interaction
+between an infant and the adult caring for him that are crucial for language development.
+(To Kuhl)
+
+The President thanks the first three presenters and introduces the next segment.
+
+POTUS: We have just heard compelling presentations of how infants develops -- indisputable
+evidence of how just how critical important the earliest years oflife are. Now we're going to
+turn our attention to ways we can put this knowledge to good use for the well-being of all our
+children. We're going to hear from three experts who represent fields that provide vital frontline
+services for new parents and their children: obstetrics and prenatal care, pediatrics and child care.
+ First I'd like to tum to:
+
+Ezra Davidson, Professor of the Department of Obstetrics and Gynecology at the Charles R.
+Drew University of Medicine and Science.
+He will discuss the importance of prenatal and perinatal services to reach parents new parents.
+
+POTUS SUGGESTED OUESTION: How can we encourage people who work with expecting
+parents to better use that opportunity to talk about the importance of early learning?
+                                                Hex-Dump Conversion
+POTUS turns to:
+
+Dr. T. Berry Brazelton, Professor Emeritus at Harvard University Medical School
+Dr. Brazelton will discuss the pediatrician's role in early childhood development.
+
+nRC QUESTION: Today, the Organization Zero to Three National Center for Infants,
+Toddlers, and Families is releasing the results of a nation-wide survey ofparents ofyoung
+children, which was conducted to gauge what parents know about their children's
+development and what more they want to know. It is clear from the findings that parents are
+hungry for information on how they can best enhance their children's development Could
+you please give our nation's parents some guidance?
+
+POTUS turns to:
+
+Dr. Deborah Phillips, who works at the Institute of Medicine as the Director of the Board
+on Children, Youth and Families of the National Research Council's Commission on Social
+and Behavioral Development.
+Dr. Phillips will talk about the important implications of this research for child care.
+
+POTUS SUGGESTED QUESTION: What the most important components to quality child
+care?
+
+nRC QUESTION: Some people suggest that what this research really tells us is that women
+shouldn't work outside of the home. Can you comment on that?
+
+The President thanks participants and closes session.
+
+

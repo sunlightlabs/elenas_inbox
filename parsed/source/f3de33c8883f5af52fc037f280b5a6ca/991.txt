@@ -1,0 +1,141 @@
+    RECORD TYPE: PRESIDENTIAL     (NOTES MAIL)
+
+    CREATOR: Diana Fortuna ( CN=Diana Fortuna/OU=OPD/O=EOP [ OPD 1 )
+
+    CREATION DATE/TIME: 24-FEB-1997 18:28:27.00
+
+    SUBJECT:     Some info from HHS on existing workfare programs and minimum wage
+
+    TO: Kenneth S. Apfel ( CN=Kenneth S. Apfel/OU=OMB/O=EOP @ EOP [ OMB 1 )
+    READ: UNKNOWN
+
+    TO: Stacy L. Dean ( CN=Stacy L. Dean/OU=OMB/O=EOP @ EOP [ OMB 1 )
+    READ: UNKNOWN
+
+    TO: Elena Kagan { CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1
+    READ: UNKNOWN
+
+    TEXT:
+    First message is my response to the second message, which is a bit
+    confusing.
+
+    ---------------------- Forwarded by Diana Fortuna/OPD/EOP on 02/24/97
+    06:29 PM ---------------------------
+
+
+
+
+    Diana Fortuna
+    02/24/97 06:29:07 PM
+    Record Type:    Record
+
+    To:      mpugh @ acf.dhhs.gov @ INET @ LNGTWY
+    cc:
+    bcc:     Records Management
+    Subject:         Re: CWEP, AWEP, waivers
+
+    Thanks for your helpful email.
+
+    Our basic question is to what extent have states already been paying
+    minimum wage.   So we wilt be interested to look at the size of AWEP
+    programs that didn't pay minimum wage.   Is there a way to separate non-mw
+    AWEP program from mw AWEP programs?
+
+    On waivers, I understand your point that waivers either simply folded in
+    AWEP/CWEP, or else they included private sector/ wage supplementation
+    which was always paid at minimum wage.
+
+    Our goal would be to say something like "x% of state workfare programs
+    already pay minimum wage", where x% is fairly high. And if x% isn't that
+    high, that would be very useful to know that we are changing the rules on
+    the states.
+
+
+
+
+               mpugh @ acf.dhhs.gov
+
+
+        02/24/97 05:30:00 PM
+Record Type: Record
+
+To: Diana Fortuna
+cc:
+Subject: CWEP, AWEP, waivers
+
+Diana -- I'll give you a calIon this but wanted to send it in writing as
+well ...
+
+In answer to your question about how many states have been running CWEP
+and
+AWEP programs under JOBS, according to the most recent data (JOBS
+1995-1996
+characteristics book) :
+
+* 32 states have CWEP programs, which are exempt from FLSA but not from
+the
+minimum wage (participants cannot work more hours than their check will
+cover
+at $4.75/hr)
+
+* 41 have AWEP programs, which HHS interpreted as sharing CWEP's FLSA
+exemption. The tricky thing is that AWEP allows flexibility in hours (so
+that
+employees work a consistent number from month to month regardless of
+fluctuations in the welfare check) .
+
+* There isn't a helpful way to answer your third question, which I
+understand
+was how many state waivers were silent on the min wage issue or did not
+meet
+mw.  CWEP and AWEP (created under JOBS) provided states with all of the
+flexibility they needed in this area, so when they asked for waivers it
+was for
+provisions other than wages/hours in these "public" work activities.
+Usually
+it was for other things, like extending the amount of time people could be
+on
+work supp, or broadening eligibility standards and income disregards.
+States
+often incorporated their CWEP and AWEP activities under the "statewide
+welfare
+reform" umbrella, but you won't find things in the CWEP/AWEP area that
+they
+couldn't ,have done anyway without a waiver. (Work supp and the subsidized
+private sector stuff was different, but those types of things never had a
+FLSA
+exemption and always had to pay min wage) .
+
+I am sending both of you a chunky fax full of helpful (I promise)
+information
+ (like which states have been doing this and how large a %age of their
+caseload
+was in), States don't have to tell us too much about what they are going
+to do
+under TANF, so our info is spotty in this area.   We have indications that
+many
+will continue with current arrangements, simply expanding them.
+
+
+ Hope this is what you need.   If it isn't, call me   Margaret 401-6944
+
+
+
+
+ ==================== ATTACHMENT   1 ====================
+ ATT CREATION TIME/DATE:   0 00:00:00.00
+
+ TEXT:
+ RFC-822-headers:
+ Received: from storm.eop.gov (storm.eop.gov)
+  by PMDF.EOP.GOV (PMDF VS.0-4 #6879) id <01IFSW88VXE800KHNX@PMDF.EOP.GOV> for
+  fortuna_d@al.eop.gov; Mon, 24 Feb 1997 17:30:47 -OSOO (EST)
+ Received: from smtp.acf.dhhs.gov by STORM.EOP.GOV (PMDF VS.0-7 #6879)
+  id <01IFSWSGN48G00004S@STORM.EOP.GOV> for fortuna_d@a1.eop.gov; Mon,
+  24 Feb 1997 17:30:40 -0700 (MST)
+ Received: by smtp.acf.dhhs.gov; Mon, 24 Feb 1997 17:28:16 -OSOO (EST)
+ Date: Mon, 24 Feb 97 17:28:14 nA
+ X-Priority: 3 (Normal)
+ ================== END ATTACHMENT   1 ==================
+
+

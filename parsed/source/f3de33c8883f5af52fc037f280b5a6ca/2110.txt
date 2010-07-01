@@ -1,0 +1,633 @@
+RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+CREATOR: Russell W. Horwitz ( CN=Russell W. Horwitz/OU=OPD/O=EOP [ OPD 1 )
+
+CREATION DATE/TIME: 4-MAY-1997 17:10:21.00
+
+SUBJECT:   budget background paper
+
+TO: WHITE_W ( WHITE W @ Al @ CD @ LNGTWY [ EOP 1 ) (OMB)
+READ:UNKNOWN
+
+TO: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Barbara D. woolley ( CN=Barbara D. Woolley/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Charles R. Marr ( CN=Charles R. Marr/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Sara M. Latham ( CN=Sara M. Lath<:1m/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: John o. Sutton ( CN=John   o.   Sutton/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Kathleen M. Wallman ( CN=Kathleen M. Wallman/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Ronda H. Jackson ( CN=Ronda H. Jackson/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Paul J. weinstein Jr.   ( CN=Paul J. Weinstein Jr./OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ:UNKNOWN
+
+'TO: Barry J. Toiv ( CN=Barry J. Toiv/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ:UNKNOWN
+
+TO: Jordan Tamagni ( CN=Jordan Tamagni/OU=WHO/O=EOP @ EOP [ UNKNOWN 1 )
+READ:UNKNOWN
+
+TO: Stephen B. Silverman ( CN=Stephen B. Silverman/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Jake Siewert ( CN=Jake Siewert/OU=OPD/O=EOP    @   EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: David Shipley ( CN=David Shipley/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Ellen S. Seidman ( CN=Ellen S. Scidman/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Stacey L. Rubin ( CN=Stacey L, Rubin/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Dorothy Robyn ( CN=Dorothy Robyn/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD 1 )
+
+
+READ:UNKNOWN
+
+TO: Victoria Radd ( CN=Victoria Radd/OU=WHO/O=EOP @ EOP [ WHO I            )
+READ: UNKNOWN
+
+TO: John Podesta ( CN=John Podesta/OU=WHO/O=EOP @ EOP [ WHO I          )
+READ:UNKNOWN
+
+TO: Peter R. Orszag ( CN=Peter R. O,-"zag/OU=OPD/O=EOP    @   EOP [ OPD I          )
+READ:UNKNOWN
+
+TO: Peter O'Keefe ( CN=Peter O'Keefe/OU=WHO/O=EOP @ EOP [ WHO I            )
+READ:UNKNOWN
+
+TO: Alison Muscatine ( CN=Alison Muscatine/OU=WHO/O=EOP @ EOP [ WHO I                  )
+READ:UNKNOWN
+
+TO: Kevin S. Moran ( CN=Kevin S. Moran/OU=WHO/O=EOP @ EOP [ WHO I )
+READ: UNKNOWN
+
+TO: Nancy A. Min ( CN=Nancy A. Min/OU=OMB/O=EOP @ EOP [ OMB I          )
+READ: UNKNOWN
+
+TO: April K. Mellody ( CN=April K. Mellody/OU=WHO/O=EOP @ EOP [ WHO I )
+READ:UNKNOWN
+
+TO: Anne E. McGuire ( CN=Anne E. McGuire/OU=WHO/O=EOP @ EOP [ WHO I                )
+READ:UNKNOWN
+
+TO: Cathy R. Mays ( CN=Cathy R. Mays/OU=OPO/O=EOP @ EOP [ OPD I )
+READ:UNKNOWN
+
+TO: Sylvia M. Mathews ( CN=Sylvia M. Mathews/OU=l'nrO/O=EOP    @   EOP [ WHO I             )
+READ:UNKNOWN
+
+TO: Gordon Li ( CN=Gordon Li/OU=WHO/O=EOP @ EOP [ WHO I )
+READ:UNKNOWN
+
+TO: Jacob J. Lew ( CN=Jacob J. Lew/OU=OMB/O=EOP   @   EOP [ OMB I      )
+READ:UNKNOWN
+
+TO: Patricia F. Lewis ( CN=Patricia F. Lewis/OU=WHO/O=EOP @ EOP [ WHO I )
+READ: UNKNOWN
+
+TO: G N. Lattimore ( CN=G N. Lattimore/OU=WHO/O=EOP @ EOP [ WHO I              )
+READ: UNKNOWN
+
+TO: Robert D. Kyle ( CN=Robert o. Kyle/OU=OPO/O=EOP @ EOP [ OPD I              )
+READ: UNKNOWN
+
+TO: Charles Konigsberg ( CN=Charles Konigsberg/OU=OMB/O=EOP @ EOP [ OMB I )
+READ:UNKNOWN
+
+TO: Angus S. King ( CN=Angus S. King/OU=WHO/O=EOP @ EOP [ WHO I            )
+READ:UNKNOWN
+
+TO: Jonathan A. Kaplan ( CN=Jonathan A. Kaplan/OU=OPD/O=EOP @ EOP [ OPD I                      )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPO I        )
+
+
+READ:UNKNOWN
+
+TO: Christopher C. Jennings ( CN;Christopher C. Jennings/OU;OPD/O;EOP @ EOP [ OPD 1
+READ: UNKNOWN
+
+TO: Kathryn o. Higgins ( CN;Kathryn   o.   Higgins/OlJ;WHO/O;EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Helen P. Howell ( CN;Helen P. Howell/OU;WHO/O;EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Lyn A. Hogan ( CN;Lyn A. Hogan/OU;Ol'D/O;EOl' G EOl' [ OPD 1 )
+READ: UNKNOWN
+
+TO: Nancy V. Hernreich ( CN;Nancy V. Hernreich/OU;WHO/O;EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Daniel D. Heath ( CN;Daniel D. Heath/OU;OMB/O;EOP @ EOP [ OMB 1 )
+READ:UNKNOWN
+
+TO: John P. Hart ( CN;John P. Hart/OU;WHO/O;EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Lawrence J. Haas ( CN;Lawrence J. Haas/OU;OMB/O;EOP @ EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Julia R. Green ( CN;Julia R. Green/OU;wHO/O;EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Jason S. Goldberg ( CN;Jason S. Goldberg/OU;WHO/O;EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Ben A. Freeland ( CN;Ben A. Freeland/OU;WHO/O;EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Karen E. Finney ( CN;Karen E. Finney/OU;WHO/O;EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Nicole Elkon ( CN;Nicole Elkon/OU;WHO/O;EOl' 0J EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Ann T. Eder ( CN;Ann T. Eder/OU;WHO/O;EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Marilyn DiGiacobbe ( CN;Marilyn DiGiacobbe/OlJ;WHO/O;EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Suzanne Dale ( CN;Suzanne Dale/OU;WHO/O;EOl' 0J EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Michelle Crisci ( CN;Michelle Crisci/OlJ;WHO/O;EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Brenda B. Costello ( CN;Brenda B. Cosccllo/OU;WHO/O;EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Steven A. Cohen ( CN;Steven A. Cohen/OU;WHO/O;EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Michael Cohen ( CN;Michael Cohen/OlJ;OP!J/O;EOP @ EOP [ OPD 1 )
+
+
+READ:UNKNOWN                                                                 I
+                                                                             I
+TO: Ann M. Cattalini ( CN=Ann M. Cattalini!OU=vIHO!O=EOP        @   EOP [ WfiO 1 )
+READ:UNKNOWN
+
+TO: Cheryl M. Carter ( CN=Cheryl M. Carter !OU=vlHO!O=EOP       @   EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Laura K. Capps ( CN=Laura K. Capps!OU=WHO!O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Rebecca A. Cameron ( CN=Rebecca 1\. C"m('ron!OU=WHO!O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Sandra L. Bublick Max ( CN=Sandra L. Bublick Max!OU=OPD!O=E9P @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Emily Bromberg ( CN=Emily Bromberg !OU='.:I!O!O=EOP   @   EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Erskine B. Bowles ( CN=Erskine B. Bowles!OU=WHO!O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Sarah A. Bianchi ( CN=Sarah A. Bianchi!OU=OMB!O=EOP @ EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: David S. Beaubaire ( CN=David S. Beaub"ire!OU=WHO!O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Donald A. Baer ( CN=Donald A. Baer!OU=\:HO!O=EOP      @   EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Kenneth S. Apfel ( CN=Kenneth S. 7\pfel!OU=OMB!O=EOP        @   EOP [ OMB 1 )
+READ:UNKNOWN
+
+TO: Brenda M. Anders ( CN=Brenda M. Anders!OU=WHO!O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Lori L. Anderson ( CN=Lori L. 1\nderson!OU=WHO!O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Robert M. Shireman ( CN=Robert M. Shireman!OU=OPD!O=EOP @ EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Robert B. Johnson ( CN=Robert B. Johnscn!OU=WHO!O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Beverly J. Barnes ( CN=Beverly J. Barnc's!OU=WHO!O=EOP          @   EOP [ WHO 1 )
+READ: UNKNO'..'N
+
+TO: Thomas D. Janenda ( CN=Thomas D. Janenda!OU=WHO!O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Daniel C. Tate ( CN=Daniel C. Tate!OU=WHO!O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Craig T. Smith ( CN=Craig T. Smi ch!Ou=v.'HO!O=EOP    @   EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Anna M. Gomez ( CN=Anna M. Gomez!OU=O?:J/O=EOP   @    EOP [ OPD 1 )
+
+
+READ: UNKNOWN
+
+TO: Lisa M. Kountoupes ( CN=Lisa M. KOl.lncOl·· ",,/OU=OMB/O=EOP     @   EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Michael waldman ( CN=Michael   Waldman/O:J~'.mO/O=EOP @      EOP [ WHO 1 )
+READ: UNKNOviN
+
+TO: Daniel K. Tarullo ( CN=Daniel K. Tarl.lllo/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Douglas B. Sosnik ( CN=Douglas n.    So"n~k/OU=WHO/O=EOP @       EOP [ WHO 1 )
+READ: UNKNmiN
+
+TO: Joshua Silverman ( CN=Joshua Silverman/'JU=WHO/O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Alice E. Shuffield ( CN=Alicc E. Shl.lctield/OU=OMB/O=EOP        @   EOP [ OMB 1 )
+READ:UNKNOWN
+
+TO: Laura D. Schwartz ( CN=Laura D. Schwarcz/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOloJN
+
+TO: Lee A. Satterfield ( CN=Lee A. Satterficld/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Steven J. Ronnel ( CN=Steven J. Ronnel/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Christa Robinson ( CN=Christa Robinson/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Franklin D. Raines ( CN=Franklin D. Raincs/OU=OMB/O=EOP @ EOP [ OMB 1 )
+READ:UNKNOWN
+
+TO: Jonathan Prince ( CN=Jonathan Prince/ou """I!O/O=EOP     @   EOP [ WHO 1 )
+READ: UNKNOloJN
+
+TO: Kristen E. Panerali ( CN=Kristen E. Pa"crali/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Kevin M. O'Keefe ( CN=Kevin M. O'Keefc/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Bob J. Nash ( CN=Bob J. Nash/OU=WHO/O=)"'jp   @   EOP [ WHO 1 )
+READ: UNKNmiN
+
+TO: Janet Murguia ( CN=Janet Murguia/OU=WIIO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOI!N
+
+TO: Linda L. Moore ( CN=Linda L. Moore/OU.\:,lO/O=EOP    @   EOP [ WHO 1 )
+READ: UNKNO'.!N
+
+TO: Joseph J. Minarik ( CN=Joseph J. Minarik/OU=OMS/O=EOP @ EOP [ OMB 1 )
+READ: UNKNOI·iN
+
+TO: Kathleen M. McKiernan ( CN=Kathleen M. McKiernan/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNO'I'iN
+
+TO: Michael D. McCurry ( CN=Michael D. McCt:rry/OU=WHO/O=EOP @ EOP [ WHO 1 )
+
+
+READ: UNKNOWN
+
+TO: Doris o. Matsui          ( CN=Doris o.    r~atsui/C"    ',:!lO/O=EOP    @   EOP    [ WHO   1 )
+READ: UNKNOWN
+
+TO: Julie E. Mason          ( CN=Julie E.    Mar;on/OD:·... :')/O=EOP   @   EOP   [ WHO      1 )
+READ: UNKNOV:N
+
+TO: Bruce R. Lindsey          ( CN=Bruce R.    LindsC'j"    ':;~W)!O/O=EOP @ EOP         [ WHO     1 )
+READ: UNKNOI'lN
+
+TO: Peggy A. Lewis          ( CN=Peggy A.    Lewis/OU",:!!O/O=EOP       @   EOP   [ WHO      1 )
+READ: UNKNOI':N
+
+TO: Ann F. Lewis       ( CN=Ann F.       Lewis/OU=WHO/O EOP @ EOP           [ WHO     1 )
+READ:UNKNOWN
+
+TO: Jeanne Lambrew          ( CN=Jeanne Lambrew/Ou:oP:)/O=EOP           @   EOP   [ OPD      1 )
+READ: UNKNOViN
+
+TO: Karin Kullman          ( CN=Karin Kullman/OU=WHO/O=EOP @ EOP                [ WHO    1 )
+READ:UNKNOh'N
+
+TO: Nicholas B.       Kirkhorn    ( CN=Nicholas B.         rirkhorn/OU=WHO/O=EOP @ EOP               [ WHO     1 )
+READ: UNKNOI,'N
+
+TO: Timothy J.       Keating    ( CN=Timothy J.     Keacing/OU=WHO/O=EOP @ EOP                 [ WHO     1 )
+READ: UNKNOI'iN
+
+TO: Thomas A.       Kalil    ( CN=Thomas A.    Kalil/OU=OPD/O=EOP @ EOP                [ OPD   1 )
+READ: UNKNOWN
+
+TO: Brian J. Johnson          ( CN=Brian J.    Johnson/OU=CEQ/O=EOP @ EOP                [ CEQ     1 )
+READ:UNKNOWN
+
+TO: Peter G. Jacoby          ( CN=Peter G.    Jacoby/OU~\'JHO/O=EOP @           EOP    [ WHO   1 )
+READ: UNKNOI:N
+
+TO: Katherine Hubbard          ( CN=Katherine Hubba ,-d/OU=WIlO/O=EOP             @   EOP    [ WHO   1 )
+READ: UNKNO'A'N
+
+TO: Elwood J.       Holstein    ( CN=Elwood J.     Holstcin/OU=OPD/O=EOP @ EOP                 [ OPD     1 )
+READ:UNKNOWN
+
+TO: John L. Hilley          ( CN=John L.    Hilley /OU~I,!!O/O=EOP      @   EOP   [ WHO      1 )
+READ:UNKNOWN
+
+TO: James T. Heimbach          ( CN=James T.    Heimbach/OU=WHOIO=EOP @ EOP                  [ WHO   1 )
+READ:UNKNOWN
+
+TO: Cookab V.       Hashemi    ( CN=Cookab V.     Hasl'l"": /ou=wHOIO=EOP         @   'EOP   [ WHO   1 )
+READ: UNKNO'.:N
+
+TO, Marcia L.       Hale    ( CN=Marcia L.    )!"le/Ou:·., '')/O=EOP    @   EOP   [ WHO      1 )
+READ: UNK.l\JOI:N
+
+TO: Meliss" Green          ( CN=Melissa Green/OU=OP;J/O=EOP        @    EOP     [ OPD   1 )
+READ:UNKNOWN
+
+TO:   D.   Stephen Goodin      ( CN=D.    Stephcn GOOl" ,,/OU=WJlO/O=EOP          @   EOP    [ WHO   1 )
+
+
+READ: UNKNm:N
+
+TO: Mary E. Glynn       ( CN;Mary E.    Glynn/OU;\:Ec' 'o;£OP "       EOP     [ WHO]          )
+READ:UNKNOW:-J
+
+TO: Diana Fortuna       ( CN;Diana Forttma/OU;Or:;/O;EOP          @   EOP     [ OPD       1 )
+READ:UNKNOWN
+
+TO: Rahm I. Emanuel         ( CN;Rahm I.    E:nanuel/~""\'iHO/O;EOP @ EOP             [ WHO ]         )
+READ: UNKNO':!N
+
+TO: James T. Edmonds         ( CN;James T.      Edmond"."l];WHO/O;EOP @ EOP               [ WHO       1 )
+READ: UNKNOvl:'J
+
+TO: Elizabeth Drye         ( CN;Elizabeth Drye/OU;(,c)/O;EOP @ EOP                [ OPD]          )
+READ: UNKNOh'cJ
+
+TO: Michael Deich       ( CN;Michael Deich/OU;O~1P./O;EOP @ EOP               [ OMB ]         )
+READ: UNKNOWN
+
+TO: Betty W. Currie         ( CN;Betty W.    Currie/O:; "tlHO/O;EOP       @   EOP     [ WHO]          )
+READ: UNKNOWN
+
+TO: Dorothy K.      Craft    ( CN;Dorothy K.      Crafl:/ClU;OPD/O;EOP        @   EOP     [ OPD ]         )
+READ: UNKNOWN
+
+TO: Sabrina Corlette         ( CN;Sabrina Corlettc.'OU;WHO/O;EOP @ EOP                    [ WHO]          )
+READ: UNYJ'JOWN
+
+TO: Barbara Chow       ( CN;Barbara Chow/OU;WHO/O,EOP @ EOP               [ WHO]          )
+READ: UNlG!O\JN
+
+TO: Holly D. Carver         ( CN;Holly D.    Carvcr/OU"WHO/O;EOP @ EOP                [ UNKNOWN]              )
+READ: UNKNO:VN
+
+TO: Paul R. Carey       ( CN=Paul R.    Carey/OU=W!I('/O=EOP      @   EOP     [ WHO       1 )
+READ: UNKNO'tiN
+
+TO: Phillip Caplan         ( CN;Phillip Caplan/OlJ-'..·!!O/O;EOP      @   EOP     [ WHO]          )
+READ: UNKNOWN
+
+TO: Dennis K.      Burke    ( CN;Dennis K.      Burke/c :'"OPD/O;EOP      @   EOP     [ OPD ]         )
+READ: UNKNOI','N
+
+TO: Susan 7\. Brophy        ( CN;Susan A.    13rophy/O:' 'tiHO/O=EOP      @   EOP     [ WHO]          )
+READ: UNlG10:VN
+
+TO: Alison E.      Bracewell    ( CN;Alison E.      Brac('well/OU;WHO/O;EOP               @   EOP     [ WHO]          )
+READ: UNKNO::N
+
+TO: J i l l M. Blickstein      ( CN;Jill 1'1.    Blick,,:, Ln/mJ=OMB/O;EOP            @   EOP     [ OMB ]         )
+READ:UNKNOWN
+
+TO: Marsha E.      Berry    ( CN;Marsha E.      Berry/,,:' 'tiHO/O;EOP    @   EOP     [ UNKNOWN]              )
+READ: UNKNO'tlN
+
+TO: Kris M Balderston         ( CN;Kris M Balders:       ll/OU;l'iiIO/O;EOP       @   EOP     [ WHO.]         )
+READ: UNKNO'i!:·J
+
+TO:   Eli G.   Attie   ( CN;Eli G. Attie/OU;WHO/          'EOP @ EOP      [ WHO]          )
+
+
+READ:UNKNO·. :,
+
+TO: John C. Angell         ( CN;John C. Angell/OU. ·.;;J/O;EO:>           @   EOP [ WHO]      )
+READ:UNKNOWN
+
+TO: Barry B. Anderson ( CN;Barry 8. Anders' ,,/oU;Or':B/O;EOP                     @   EOP [ OMB]       )
+READ: UNKNOI'I:;)
+
+TO: Pauline M. Abernathy ( CN;Pauli.ne M.                 A:'-na~hy/OU;OPD/O;EOP @            EOP [ OPD ]         )
+READ: UNKNO\\;,j
+
+TEXT:
+please find attached a 2-page face sheet e:1 che aqreement and a 1-page
+summary on priorities.        ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ATTACHMENT 1 ;;;;;;;;;;;;;;;;;;
+ATT CREATION TIME/DATE:   0 00: 00 : 00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTAC!!.:J29]MATL,190B5352Q.116 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504370040000010A02010000000205000000BF1G00000002000039B5AA7AOD7C62C9E31529
+75360774E42SS10D13C022D1C4F6B27CI3!l97\·1A13617:, !BClI.!·: JSSBA2A19DE2F033696B4SD044A3
+522EB070 607 F84 31C1EBCB44084 OF0487 67 !lDC2C6 8 :"CFA 4 303 94D53B4955A3ES1 74AABC3DC5B4D
+B6D3 B4 05 0 6A 7 BF4EOD814F7BFF56E7FE3 5716 6 0 1 OEG GG%/\2 SC97BEAB04BFCA5FB55C97 0 8AD9S2E
+206131D4DB3 7 SCECCC6AB46656FBE61CO·i :;:.CA8D9L . :;!,:.~ ~ . 9F54EEBADB2C277DDBOFA8S36CBE
+F72 OF1B 3 41.E 1F22 FF4A 7E24 6BAAFED7 B2 '·'}!I 91B E8 8!. ,. CF5 0 OP,E7FE8 8DA62 60ECBBCE92A3D7B4 64
+D3 926A4C2B7 F19FFB1DB5 7 7 B21E154 BBDA8 !·:FFES 0 7(' 11SC:-6C9F418BB 9D4 69AE7B2FB6B 05 7 SD15
+6DA62EF2DD9E6 91SBO 5ABDA 7 A63 SB7 3 715 O!: 733 7 9E:-::~ 815C5C7 6E5A4 0 5995 7 7B B1A43A59AE3 3DO
+4E91B331E53I3FBCE7799DB95417B32S0S:)C .. G·1FE44: .. ,5FFCI.:'B776103EEEB04F640BE2F90B70EC
+EEB 3 OC77 SD!cl\lBOE2C2 6 3F9B 012412FCAC (;:31 A1F6 f: 568 8E8 C"16 6 3 6B4COA9AC6F03B066EE9EOA2 6
+FACS1190DC1.:3 9B5287086COAD1BBC3B5 3 ... 87674717C3128 8DAEB9C002667B49DOB2B52BD17C61
+13EBA19C03 J FlBFS8A24BAOEDC4 SES4 SC811 14 4 7 84 CD6 9F5 5 6CS4 3C1DC8413 6F4 BOB 3B313 BB7 822
+51CC1A03FC3313CB21DD044DD8A723B143B07S80363JJ64291307757C5F9D4730A1E4B337107BB72
+42729S16900200090000000000000000000J00082]J1JOOOCnOB0100007E02000000S501000000
+4E00000089030000092S0100000006000000D7030caC2B30C::JOO0002BOOOOOODD0300000B7701
+0000004000000005040000083401000000140000004';0400000802010000000FOOOOOOS9040000
+OBOS01000000080000006B04000000985C085C004~ _ il005~003800SCOOSC005C004F00500044
+005C003200·.G004C004F005000440051'rJ,: JOCL~                      )C 8 .. 0000000000000000000000000000
+0000000000GJ00000000000057494E53SC·, iF4CCG                       )0 ~~.C800C8002C012C012C012C01CBOO
+C800300000000000000000000000000000                  JOOOl.         r.::.:oOOOOOOOOOOOOOOOOOOOOOOOOOOO
+OOOOOOOOOOCOOOOOOOOOOOOOOOOOOOOOOO' )OOoe,                         J.       [000000000000000000000000000
+OOOOOOOOOO~JOOOOOOOOOOOOOOOOOOOC:C .JOOO:e.                       ·J,.C8000000000000000000000000000
+0000000000000000000000000000000 C u Jl: 0000 l . 0:: 0 CL 0 COO 0 0 0 0 0 0 0000 0 0 0 0 00 0 000 0 0 0 0 0 0
+000000000B0100002BOOD61EC30F3908l8C 1.: 090G~' 05/. ~ '0I30100BB143600540069006D0065
+007300200Ci~0065007700200052006P r~. JJ~:OO .:C02~                           ,2006500670075006C0061007200
+000000000C:J0000010002005B020100"                   Ji002[JcuOO~             )000000000000000000000000000
+0001120200 .. 00A1000000A100000001,cv               OvF10( 02 J04:,c :.'20001004500F30002005BOOF400
+0200 5BO OF5 c 002 005BOOF6 0 0 02 0 0 5BO 0 I·"', '02005! ] ~ ,.'800: .. J 0 5BO OF9 0 0020 05BOOFA0002 0 0 5B
+008FB39B22CJOOOOOOOOOOOOOOOOOOOB2J                  000000        337C~~780000020000FA00000003010004
+0002000000:.:JOA1000B3 010400 03 0 Don, .. LO 0 0,): : .                     ]30000040BOODD9BD3050C000001
+0002000COOS3F20CF246616374B05368C5L,74BOC:                                  ~580427564676574B04167726565
+6D656E74DOQ·1l500000B00090001B00400Q, ooooe:.                                iD6179B0322CB031393937F30CF3
+D004150000 .,:300090001AOOSF000010Cll: 1.500:                                ;3050C0000010000020COOD3F003
+04FOE0110C .· 00000008070COOE0427~·,                ~~74_         .1C~     _u~636S73806279B03230303280B4
+B4B0666F72l07468658066697273748C~i                  ~~G5.          ,       .658031393639D0041500000B0009
+0001700BCO~3040001201500D09CCCF:JO                  0 "-                    OOF1F20EF2F102F300F1F20CF2F1
+03F300F14E '_779BB09C496E697469C.i.'I4              1,~5',      . L.        :lF30CF3F103F300F19BD0041500
+000B000900.1.500AA0050600012015C                    ? ::."        1:.       .:J110COOOOOOOOOB070COOE04167
+7265656D6SG:-:74B070726F76696465':~, 1.. 333·,                6        ( ~~,96F6E806F766572B035B0796561
+72738066(:·",::806E657780696E6974(c:                6'9'/( U~                 ',63 6C7 564696E67 3AD004150000
+                                        May 2,1997
+
+
+       Budget balances by 2002 -- for the first time since 1969
+
+New Initiatives
+
+       Agreement provides $34 billion over 5 years for new initiatives, including:
+
+                      $14 billion for restoring medical and disability benefits to legal
+                      immigrants and other improvements to the welfare bill, including funding
+                      for communities to help wei fare recipients move to work
+
+                      Provides $16 to $17 billion to provide health coverage for up to 5 million
+                      ch.ildren by 2002
+
+Discretionary Spending
+
+      Non-defense discretionary outlays are within 1 percent of the President's FY 1998 Budget
+      request over 5 years -- protecting education, the environment, international and other
+      priorities
+
+       Defense spending meets President's FY 1998 Budget request (on budget authority)
+
+Medicare & Medicaid
+
+       Medicare savings of$115 billion over 5 years, extending the life of the Trust Fund until
+       at least 2007
+
+                    . Modernizes Medicare by providing new health plan choices such as PPOs
+                      and PSOs and new preventive care benefits, including annual
+                      mammograms without co-payments, diabetes self-management, and
+                      colorectal screen ings
+
+                      Reforms outdated payment methodology for home health, skilled nursing
+                      facilities, outpatient departillents, and HMOs
+
+                      Phases in, over time, cost of home health care into Part B premium with
+                      expanded low income protections
+
+       Medicaid: Imposes new cost constraints (e.g., on disproportionate share hospital
+       payments), while maintaining the federal guarantee. The agreement responds to States'
+       concerns by dropping the per capita cap proposal, and allowing States more flexibility to
+       manage their Medicaid programs.
+
+
+                                                                    Automated Records Manage~en\ System
+                                                                            Hex-Dump Conversion
+
+      Largest increase in education spending in 30 years
+
+      $35 billion for education tax cuts, including the Hope Scholarship and the $10,000 tax
+      deduction
+
+      Increases maximum Pell grant award to $],000
+
+      Fully funds the President's America Reads initiative
+
+Environment
+
+      Full funding for the President's priority areas, including Superfund and brownfields
+
+      Full funding for national parks and Federal landillanagement
+
+Tax Cuts
+
+      $85 billion in net tax cuts, including $135 billion in gross tax cuts and $50 billion of
+      revenue raisers and extenders (530 billion of which is the extension of the airline ticket
+      tax)
+
+      A majority of the $135 billion in tax cuts are dedicated to the President's priorities for
+      middle-income tax relief, including education tax cuts and the $500 per child tax credit
+
+COLAs
+
+      No legislated change in COLf\S. Congress will incorporate into its economic
+      assumptions the expected effect of ongoing improvements at the Bureau of Labor
+      Statistics.
+
+Welfare Reform
+
+      A welfare-to-work tax credit to help long-term welfare recipients get jobs
+
+      New flexibility for states and IOGli i ties to provide benefits for poor families
+
+
+
+
+                                                                            Automated Records Management System
+                                                                                    Hex-Dump Conversion
+                 Historic Agreement Promotes the Country's Priorities
+
+President Clinton has achieved a balanced budget agreement that includes critical investments in
+education, health care, and the environment while strengthening and modernizing Medicare and
+Medicaid - just as he promised last year. We have cut the deficit 63% -from $290 billion in 1992 to
+$107 billion last year. This historic achievement will finish the job, giving the American people the first
+balanced budget in a generation, while meeting the President's goals.
+
+GOAL: To ensure that every 8 year-old can read, every 12 year-old can log on
+           to the Internet, and every 18 year-old can go to college.
+   _   Largest Pell Grant increase in two decades -- 4 million students will receive a grant
+       of up to $3,000, an increase of $300 in the maximum grant.
+       $35 billion of tax cuts targeted to higher education to make college more affordable
+       for America's families.
+       An America Reads initiative to mobilize a million tutors to help three million children
+       learn to read by the end of the third grade.
+       Expansion of Head Start -- to achieve goal of one million kids in 2002.
+       Doubles funding to help schools integrate innovative technology into the curriculum.
+
+GOAL: Expand health coverage for as many as 5 million uncovered children.
+   _   Medicaid improvements and added Medicaid investments.
+   _   A new capped mandatory grant program that provides additional dollars to supplement
+       states efforts to cover uninsured children in working families.
+
+GOAL: Secure and strengthen Medicare and Medicaid
+   _   Extends the solvency of Medicare Trust Fund to at least 2007 through
+       long overdue structural reforms.
+   _   Expands coverage of critical preventive treatments of diseases such as diabetes and breast cancer.
+   _   Preserves the federal Medicaid guarantee of coverage to our nation's most vulnerable people.
+GOAL: Strengthen environmental protection and enforcement
+   _   Accelerates Superfund cleanups by almost 500 sites by the year 2000.
+   _   Expands the Brownfield Redevelopment Initiative to help communities cleanup
+       and redevelop contaminated areas.
+   _   Boosts environmental enforcement to protect public health from environmental threats.
+
+GOAL: Move people from welfare to work and treat legal immigrants fairly
+   _   A Welfare-to-Work tax credit to help long-term welfare recipients to get jobs.
+   _   Restores disability and health benefits for legal immigrants.
+   _   Restores Medicaid coverage for poor legal immigrant children.
+   _   Preserves food stamp benefits for people willing to work.
+       Provides States and cities with additional resources to move disadvantaged recipients into jobs.
+
+GOAL: Cut taxes for America's hard working families
+       A Child Tax Credit to make it easier for families to raise their kids.
+   _   $35 billion of tax cuts targeted to higher education to make college more affordable
+   _   A Welfare-to-Work tax credit to help long-term welfare recipients get jobs.
+   _   Establishes additional Empowerment Zones and Enterprise Communities.
+                                                                          AutOmarea Kecoras lVIanagemem \)yslem
+                                                                                  Hex-Dump Conversion

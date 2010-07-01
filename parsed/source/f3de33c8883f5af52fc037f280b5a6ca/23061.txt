@@ -1,0 +1,44 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Mary L. Smith ( CN=Mary L. Smith/OU=OPD/O=EOP [ OPD 1 )
+
+CREATION DATE/TIME: 5-MAR-1999 15:06:05.00
+
+SUBJECT:   Meeting on Food Safety
+
+TO: Elena Kagan   CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Morley A. Winograd ( CN=Morley A. Winograd/O=OVP @ OVP [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Neal Lane ( CN=Neal Lane/OU=OSTP/O=EOP @ EOP [ OSTP 1 )
+READ: UNKNOWN
+
+CC: Thomas L. Freedman ( CN=Thomas L. Freedman/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ:UNKNOWN
+
+CC: Betty J. Fountain ( CN=Betty J. Fountain/OU=OSTP/O=EOP @ EOP [ OSTP 1 )
+READ:UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Clifford J. Gabriel ( CN=Clifford J. Gabriel/OU=OSTP/O=EOP @ EOP [ OSTP 1 )
+READ:UNKNOWN
+
+CC: Jennifer R. Muller ( CN=Jennifer R. Muller/O=OVP @ OVP [ UNKNOWN 1 )
+READ: UNKNOWN
+
+CC: Cathy R. Mays ( CN=Cathy R. Mays/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ:UNKNOWN
+
+TEXT:
+We will have a meeting on the NAS report and a possible reorganization of
+food safety inspections on Tuesday, March 9 at 2:15p.m. in Bruce's
+office.  Thanks, Mary
+
+

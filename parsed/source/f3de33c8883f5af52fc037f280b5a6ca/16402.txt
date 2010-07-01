@@ -1,0 +1,282 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Dawn M. Chirwa ( CN=Dawn M. Chirwa/OU=WHO/O=EOP [ WHO 1 )
+
+CREATION DATE/TIME:23-JUL-1997 15:59:57.00
+
+SUBJECT:   Active Affirmative Action cases
+
+TO: Peter G. Jacoby ( CN=Peter G. Jacoby/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Janet Murguia ( CN=Janet Murguia/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Alphonse J. Maldon ( CN=Alphonse J. Maldon/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Andrew J. Mayock ( CN=Andrew J. Mayock/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Beverly J. Barnes ( CN=Beverly J. Barnes/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Emil E. Parker ( CN=Emil E. Parker/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Jose Cerda III ( CN=Jose Cerda III/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Ann F. Walker ( CN=Ann F. Walker/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Thurgood Marshall Jr ( CN=Thurgood Marshall Jr/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Gene B. Sperling ( CN=Gene B. Sperling/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Maria Echaveste ( CN=Maria Echaveste/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Robert B. Johnson ( CN=Robert B. Johnson/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Ananias Blocker III ( CN=Ananias Blocker III/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Susan M. Liss ( CN=Susan M. Liss/O=OVP @ OVP [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Tracey E. Thornton ( CN=Tracey E. Thornton/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Richard Socarides ( CN=Richard Socarides/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Richard L. Hayes ( CN=Richard L. Hayes/OU=WHO/O=EOP @ EOP [ WHO 1 )
+
+
+READ: UNKNOWN
+
+TO: Doris o. Matsui ( CN=Doris   o.   Matsui/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+TO: Mickey Ibarra ( CN=Mickey Ibarra/OU=WHO/O=EOP @ EOP [ WHO]        )
+READ: UNKNOWN
+
+TO: Ann F. Lewis ( CN=Ann F. Lewis/OU=WHO/O=EOP @ EOP [ WHO]      )
+READ: UNKNOWN
+
+TO: Robert N. Weiner ( CN=Robert N. Weiner/OU=WHO/O=EOP @ EOP [ WHO]
+READ: UNKNOWN
+
+TO: Minyon Moore ( CN=Minyon Moore/OU=WHO/O=EOP @ EOP [ WHO]      )
+READ: UNKNOWN
+
+TO: Cheryl D. Mills ( CN=Cheryl D. Mills/OU=WHO/O=EOP @ EOP [ WHO]        )
+READ: UNKNOWN
+
+TO: Sylvia M. Mathews ( CN=Sylvia M. Mathews/OU=WHO/O=EOP @ EOP [ WHO]        )
+READ: UNKNOWN
+
+TEXT:
+As I promised at our meeting last week, I am attaching a "primer" on the
+four active affirmative action cases.  It is pretty straightforward
+factual information -- brief background and status.  Since we discuss the
+cases often at our meetings, I thought it might be helpful as a reference
+material.
+
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D24]MAIL44638530J.216 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043CA040000010A02010000000205000000102F000000020000097F30FFB74A325BF4E9B2
+059DA69273BF4A6F51FA21B6EEC4666A1C88AB08BBOB7DOFFDBE0482AFD3DFD4F05ABDAEEOFB1D
+E7FD25C3C323362D2D72D27FD111A27363870850C49C515D3193882E8E8C5C7D15EE2CDOB1AOAF
+7156B1012330997838E7E6E174F35C64A25D01D6DDE28683FEE86065AD234CAC08EF55EDF80640
+CC21E0060A9F2A3F795BF64C4777DB78DF81C6111618A5FB98CFF3C452BF69EF720DB5EE6327E9
+7AE17C2B3B5EE5AACBF4190F6D50CC6FDC8C3A880CFAD5ABAF1AB98AA55B5A183D9CD9554A8845
+5EB58CBA92F38745B4ACODFB2A307D962182B6636C81COFB8BD946B26388F1FA035D9F6F1ED97C
+F900B7ACDC40804A1CCAF03D8FOC9E71F75AECC305698B09F73C499DDE47EC20F09890B3AAB9BC
+EA4B768B5F5FB8AF9DD8EOCCFC51A6D11D7FDB2729842E1596C37B150A42B5C1877683E33BB51E
+3FF68671CA5459868F2E9FE442C2FOAOF608FD96C7CBB441C642EDF3FA3228D71969826BAB7BOF
+42F3E5BF27C88627ED99AB3005D4D2341722B81D181ADEEFCCOD06115DOBA62A6AF35C3A7C17BF
+B2D14DC06D24CA4AD4378D5B212EB6FAE5F58BD753860268246BD08D38B8BAA3533736714B0491
+C81E9626B65DA5AD08F01D9606808A01809620AF3E98ACC2D2EA04476B563F978D75A301EB5CDE
+28F67F5EBA02000B00000000000000000000000823010000000BOI00009A020000005501000000
+4EOOOOOOA503000009250100000006000000F30300000B300200000028000000F9030000081601
+000000320000002104000008770100000040000000530400000834010000001400000093040000
+0802010000000FOOOOOOA704000008050100000008000000B60400000062010000000COOOOOOBE
+04000000985C005C004F0041005F0038005C005C005C0057004500530054005F00570049004EOO
+47005C003100330030005F00410000000000000000000000000000000000000000000000000000
+0057494E53504F4F4COOOOOOOOOOC8002C012C012C012C012C01C8002C01300000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+                                                                               COrds
+                                                                           ex- ump Conve1Sion
+                                          July 23, 1997
+
+
+MEMORANDUM FOR DISTRIBUTION
+
+FROM:                  DAWNCHIRWA
+
+SUBJECT:               Active Affirmative Action Cases
+
+
+        As I promised at our meeting last week, following is brief background on and status of
+the four main active court challenges to affirmative action.
+
+I. Adarand Constructors, Inc. v. Pena -- Remand
+
+        After being reviewed and decided upon by the Supreme Court, Adarand was remanded
+back to the district court in Colorado to review the Department of Transportation's affirmative
+action program at issue (the subcontracting compensation (SCC) program) under a "strict
+scrutiny" standard. After reviewing the case under this heightened standard, the district court
+found that the SCC program is unconstitutional and enjoined the Department of Transportation
+from further use ofthe program. Although the SCC program is distinct from Transportation's
+Disadvantaged Business Enterprise (DBE) program -- SCC is a relatively small, direct federal
+procurement program while DBE is a much larger procurement program funded by the federal
+government but administered through the states -- the court provided the plaintiff with
+declaratory relief against the DBE program by ruling that it is also unconstitutional. The court
+did not, however, specifically enjoin Transportation's use ofthe DBE program.
+
+       More specifically, the court found that statutory provisions underlying both the SCC and
+the DBE programs which presume that members of certain racial groups are socially and
+economically disadvantaged did not pass constitutional muster under a strict scrutiny analysis.
+The court determined that although there was a compelling government interest for such
+affirmative action programs, the social and economic presumptions failed the narrow-tailoring
+prong of strict scrutiny.
+
+        Since the district court did not specifically enjoin the use of the DBE program,
+Transportation has made clear that it will continue to implement the program in Colorado unless
+and until the program is enjoined. In response, Adarand filed a preliminary injunction motion
+asking the court to enjoin the DBE program as well as the sq::: program. A hearing on this
+motion will be held July 25th.
+
+        The July 25th preliminary injunction hearing has become further complicated by that fact
+that the Court denied Justice's request to participate as a party. This request was necessary since
+Adarand's preliminary injunction motion was filed only against the State of Colorado -- which
+                                                                        Hex-Dump Conversion
+                                                -2-
+
+actually awards contracts and expends federal funds through the DBE program -- and did not
+include Transportation (which represents the United States' interests) as a party. Justice expects
+to appeal the denial, but it is not likely that this appeal will be decided in time for Justice to
+participate in the hearing on the 25th. Justice is hopeful, however, that it will eventually be
+allowed to intervene in the case and join with the State in appealing the district court's decision.
+
+II.     Dynalantic v. The Department of Defense
+
+        This case is a constitutional challenge brought by Dynalantic, a small business, against
+SBA's 8(a) program. Dynalantic challenged the Department of Defense's placement of a certain
+procurement contract within the 8(a) program, effectively excluding Dynalantic from bidding on
+the contract since Dynalantic is not eligible to participate in 8(a). Among other things,
+Dynalantic claimed that 8(a) is unconstitutional because of the underlying presumption that
+members of certain racial minorities are socially disadvantaged and therefore presumed eligible
+for the program while non-minorities do not have the benefit of this presumption.
+
+       When the case was first brought in the District Court of the District of Columbia, Justice
+defended the case by arguing that Dynalantic lacked standing to bring the case -- in effect saying
+that Dynalantic should not be allowed to sue since, by that time, Defense had withdrawn the
+procurement contract at issue from the 8(a) program and submitted it to an open bidding process.
+ Although the district court agreed with us, the D.C. Circuit Court ruled recently that Dynalantic
+does have standing to bring this case and can challenge the constitutionality of the 8(a) program.
+
+        The case has been sent back to the district court where Justice anticipates defending 8(a)
+against a substantive attack. The case will be heard by Judge Sullivan who ruled in our favor on
+the standing argument. As part of its litigation strategy, Justice may point to our ongoing
+procurement reform as proof that federal procurement programs, including 8(a), can be brought
+into compliance with Adarand.
+
+III.   Piscataway v. Taxman
+
+         This case arose after the Piscataway district's school board decided to eliminate a position
+within the business department of the district's high school. Faced with two teachers -- one
+white and one black -- who were equally qualified and similarly situated with respect to seniority,
+the board decided to retain the black teacher in favor of the white teacher on affirmative action
+grounds. Although this was the first time since its inception that the school board had invoked
+its affirmative action policy as the basis for a hiring decision, the board stated that affirmative
+action was warranted in this case in order to preserve a racially diverse business department
+within the high school.
+
+        Taxman filed suit and won at the district level and the school board appealed to the Third
+Circuit. In 1992, while the case was still at the district court level, the Justice Department joined
+the case on Taxman's behalf. On appeal, however, Justice sided with the school board and
+                                                                         Hex-Dump Conversion
+                                               -3-
+submitted a brief defending a school's ability to use affinnative action -- both in hiring and
+lay-off situations -- for purposes of promoting racial diversity. The Third Circuit treated
+Justice's change in position as a request to be dismissed from the case, dismissed the United
+States and ruled in favor of Taxman' on the merits. In doing so, the Third Circuit held that
+non-remedial affinnative action is impennissible under Title VII.
+
+        The school board then asked the Supreme Court to hear the case and the Court, in tum,
+requested the views of the United States before deciding whether to hear the case. In response,
+Justice argued that the Court should not hear this case because it was not an appropriate vehicle
+for the Supreme Court to decide the important question of whether Title VII pennits
+non-remedial affinnative action in a hiring context. First, the school had not adequately built a
+record that demonstrated a need for racial diversity within this one department in the high school.
+ Second, this case arose in a lay-off situation and the vast majority, indeed virtually all,
+affinnative action programs are used when making hiring and promotion decisions. Justice
+argued that for these reasons the case was not suitable for the Court to decide a broad issue of
+national significance. Most civil rights organizations agreed with our position and none filed a
+brief on behalf of the school board at that stage.
+
+        As you are all aware, the Supreme Court decided recently that, despite our urging the
+Court not to hear the case, it will review the Third Circuit's decision in Piscataway in its next
+tenn. We are working with Justice to detennine what action on our part is appropriate in light of
+this event.
+
+IV.    Proposition 209 Challenge
+
+         A group of civil rights organizations and individuals filed a constitutional challenge to
+Proposition 209 the day after the referendum passed. These plaintiffs were successful at the
+district court level with their argument that Prop. 209, in amending the constitution to prohibit
+the State from using "preferences" based on race or gender, establishes a higher political-process
+hurdle for women and racial minorities to overcome when they seek programs which benefit
+them than non-minorities face when they seek similar programs. The United States joined the
+plaintiffs' challenge as amicus curiae on similar constitutional grounds.
+
+        A three-judge panel of the Ninth Circuit has rejected the plaintiffs' and our constitutional
+arguments and denied our request to enjoin the implementation of Prop. 209. However, the
+plaintiffs and we have requested are-hearing of the case before the entire Ninth Circuit and are
+awaiting a decision on this request.
+                               Automated Records Management System
+To:                                    Hex-Dump Conversion
+
+Sylvia Mathews
+Maria Echaveste
+Elena Kagan
+Judy Winston
+Minyon Moore
+Ben Johnson
+Gene Sperling
+Cheryl Mills
+Rob Weiner
+Thurgood Marshall, Jr.
+Ann Lewis
+Ann Walker
+Mickey Ibarra
+Jose Cerda
+Doris Matsui
+Richard Hayes
+Beverly Barnes
+Richard Socarides
+Andrew Mayock
+Tracey Thornton
+Alphonse Maldon
+Susan Liss
+Janet Murguia
+Andy Blocker
+Peter Jacoby
+
+

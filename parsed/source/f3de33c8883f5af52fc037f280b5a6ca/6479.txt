@@ -1,0 +1,201 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Paul J. weinstein Jr.   ( CN;Paul J. weinstein Jr./OU;OPD/O;EOP [ OPD ] )
+
+CREATION DATE/TIME:27-FEB-1998 11:42:03.00
+
+SUBJECT:   Auto Choice
+
+TO: Elena Kagan ( CN;Elena Kagan/OU;OPD/O;EOP [ OPD]    )
+READ: UNKNOWN
+
+TO: Sally Katzen ( CN;Sally Katzen/OU;OPD/O;EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TllXT:
+This has been revised by Orszag.  Please disregard earlier drafts.
+---------------------- Forwarded by Paul J. Weinstein Jr./OPD/EOP on
+02/27/98 11:41 AM ---------------------------
+
+
+
+
+Jonathan Orszag
+02/27/98 11:08:50 AM .
+Record Type:    Record
+
+TO:      Paul J. weinstein Jr./OPD/EOP
+cc:
+Subject:         Auto Choice
+
+Paul:
+
+I bulked up the analysis section. What do. you think?
+After you look at it, can you send it to Sally K.
+
+
+
+:;;;;;;;;;;;;;;;;;;; ATTACHMENT   1 ;;;;;;;;;;;;;;;;;;;;
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D97]MAIL477824750.026 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043B2080000010A020100000002050000000E35000000020000F06055060581691F26746D
+85268F3281899D695939C2DE648B4E263D050E6A83B180A33C409F2F01E8FDBDA1DB68AAF44318
+89ADB86411F66D2DD688FAE104309B3809F3FAC2D8A5353DCD6C70852AF48D6AFEB7B981C5B42E
+B3EBAD3440205A4832BCE7FD2D1E8FBAEFEF396097EOECACDED2185DCC1FE377FD85B3B183A2EE
+2521DA91A88CDOC3C5D8CF75AF3ACB02B6A7BD132BOF8ABD853711EDOFD9EF284DD46950929DOB
+EB1DD2D2FFOF337FE858096257D3C71C52AAD1F26697C7FFDF208D81C9E9919E9B3975DE15BE1D
+159CE663F805145D5C9A2C1FF2AA646F60E7A02D9ACD966B3E60486EOE236B778AFC47016D3ADC
+C55E236FF32E85F033AB45800300FCF397AFC9F64A26DAE487611BE40814B5AFF4B080EAF5899A
+067D1870E902E697CBE5BAB724F6F187F7F2139737A5DB91267E1C340C7F3E32DF7A1BB9D6E1A3
+58034DAF097103FB72E60C31FOB8118328B40F64DBC7D264123C8E88D97FC35907BC11A02506A5
+7A3BA2AA9AA865B16B5608E9E9C4A1FCC4075E93F4C989CF6A1FDC7DD09F1D2C122A0485B5269B
+D1A232C8A75F91FAOA89103AE86847D4B7EE7252B7C2DDCEC8F883OF60B5C487993B23B1DB8EA5
+68E5659F6E55536862E1F83050A9F49B75B7ECD5EFC040F1D1EDOOC8FED4E3F25769400E836DFD
+D9F80BE5A002002B00000000000000000000000823010000000B0100005A04000000550DOOOOOO
+4E0000006505000009250100000006000000B30500000B300300000028000000B9050000081601
+00000032000000E105000000550C0000003C000000130600000931010000006D0000004F060000
+                                         February 27,1998               Hex-Dump Conversion
+
+
+MEMORANDUM FOR THE PRESIDENT
+
+FROM:                  BRUCE REED
+                       GENE SPERLING
+
+SUBJECT:               Auto Choice
+
+
+Overview:
+
+        The purpose of the memorandum is to provide you with information on auto-insurance
+reform and the "Auto Choice" legislation introduced last April by a bipartisan coalition of
+Members of Congress. Over the last several months, a NEC-DPC inter-agency working group
+has spent considerable time analyzing the Auto Choice proposal and reviewing other
+auto-insurance reform options. It is the strong view of.the working group that the benefits of
+the various Auto Choice proposals considered by the working group do not justify the cost.
+
+        Despite the claims by proponents of Auto Choice that it will reduce insurance
+premiums by approximately $250 per year for the average driver, the working group found little
+support that no-fault insurance would lead to lower rates. For example, the three states that
+currently mandate insurance companies to offer no-fault insurance plans (New Jersey, Kentucky,
+and Pennsylvania), have sOme of the highest rates in the country and have not seen rates fall
+since no-fault was implemented. Our analysis also suggests that with Auto Choice bad drivers
+will benefit more than good drivers. In addition, if Auto Choice does induce reduced
+premiums, more people will drive leading to more accidents, increased environmental
+degradation, and greater strain on our infrastructure.
+
+Background:
+
+        "No-fault" insurance, in its broadest sense, is defined as any auto insurance program that
+ allows policyholders to recover financiallossesjrom their own insurance company, regardless of
+fault. In its strictest form, no-fault applies only to state laws that both provide for the payment
+of no-fault first-party benefits and restrict the right to sue. "Pure" no-fault proposals go one step
+further, abolishing the right to sue in the majority of cases.
+
+       Under current state-level no-fault laws, motorists may sue for severe injuries and for pain
+and suffering only if the case meets certain conditions .· These conditions, known as a
+"threshold," relate to the severity of injury. They may be expressed in verbal terms (a
+descriptive or verbal threshold) or in dollar amounts of medical bills (a monetary threshold).
+                                                                Hex-Dump Conversion
+
+Some laws also include the days of disability incurred as a result of the accident. The academic
+evidence shows that verbal thresholds have a significant effect on lowering insurance premiums.
+However, the evidence suggests that monetary thresholds can actually lead to higher premiums
+because people have an incentive to exaggerate their medical bills so that they can sue for pain
+and suffering.
+
+Proposals:
+
+         The workirig group has considered three options. The first is the Auto Choice
+legislation introduced by Senators McConnell and Moynihan and Representative Armey. Under
+this proposal, drivers in states who accept the new federal legislation have a choice between the
+existing system in their state and a strict no-fault plan (called 'personal protection insurance'
+(PPI). A driver who chooses the PPI option gets first-party coverage for economic damages
+(mostly medical and lost wages), without regard to fault; a PPI driver can sue or be sued for
+economic damages above policy limits. PPI drivers cannot sue or be sued for non-economic
+damages ('pain and suffering'), although exceptions are made for accidents involving drug or·
+alcohol abuse. A driver who opts to stay in the state's current tort system must purchase tort
+maintenance coverage (TMC) to cover accidents with PPI drivers.
+
+        The second proposal was developed by CEA to achieve the same ends as Auto Choice --
+lower premiums -- but to do so while reducing environmental and human costs. The CEA
+proposal would amend the Auto Choice to require insurance companies to offer premiums on a
+per-mile basis. Per-mile premiums would be charged based on an estimate of miles, with a
+rebate or surcharge issued every year after an odometer reading. Odometers could be read at
+existing emissions or safety inspections or by firms under contract with insurance companies.
+Insurance companies would compete in their per-mile premium, subject to current regulations;
+premiums would consequently vary with region, driving record, type of car, and safety features,
+much as premiums vary now.
+
+        The third proposal would attack the major reason for high insurance costs, fraud. Under
+this proposal, we would announce support for legislation that would 1) increase penalties on
+lawyers and doctors who participate in auto insurance fraud claims, including possibly taking
+away licenses to practice law or medicine; 2) encourage insurance companies to install V-Chips
+into odometers so they could check the mileage of drivers at random and reduce premiums for
+those who drive less and increase premiums for those who drive more.
+
+Analysis:
+
+       There are a number of problems with each of these proposals. For example, all three
+proposals do not guarantee that insurance companies will pass on savings to consumers. In
+many states that currently have no-fault insurance systems, there is little evidence that over the
+long-term consumers saved compared to the period when no-fault was not mandated. In
+addition, since state iegislatures can currently choose to adopt Auto Choice or the Perc Mile
+approach, it is not clear why the Federal government should enter into an issue that has been
+                                                                 Hex-Dump Conversion
+
+traditionally the responsibility of state governments. Moreover, since the Per-Mile Premium and
+V -Chip proposals would require monitoring of miles driven by individuals, opponents could
+argue that these proposals are nothing more than "big brother" intervention into people's lives.
+        As noted above, proponents of the Auto Choice legislation claim that premiums for the
+average driver will be reduced· by $250 per year. This reduction reflects the fact that motorists
+will no longer be covered for pain and suffering, which accounts for about one-third of auto
+insurance premium rates. However, a reduction in auto insurance premiums would have the
+unintended consequence of increasing the number of miles driven which would lead to more
+accidents, highway deaths, congestion, and environmental degradation.
+
+        While the Per-Mile Premium option addresses this problem, we feel that we could not
+sustain support for it. While we would argue that the average premium for drivers would fall
+under CEA's proposal, opponents would counter that we are "taxing" each mile that
+middle-income families drive. This is a battle would be difficult, if not impossible, to win.
+
+         The McConnell-Armey Auto Choice legislation has additional adverse consequences.
+For example, safe drivers who maintain their current coverage will see their premiums increase
+because they will need to pay to cover their own economic and non-economic losses when they
+are not at fault. State regulation could in principle prevent the premium rise for safe drivers, but
+it is not clear that current regulations in Choice states do this.
+
+          Furthermore, as with Medical Savings Accounts, while proponents of Auto Choice claim
+ to provide choice, motorists may end up having no choice at all. Premiums for bad drivers
+ who switch to PPI will fall more than premiums for good drivers who switch. The resulting
+,self-selection of bad drivers into PPI will exacerbate the above problem of rising rates for safe
+ drivers who maintain their current coverage, As their premiums rise, more people will switch to
+ PPI, thus further raising premiums for the safest drivers, These increases in TMC premiums
+ could effectively remove any real 'choice' between the two systems. However, in the three states
+ that currently offer Choice, state regulation prevents the competitive rate setting that would
+ produce this self selection and hence 'choice' may be preserved.
+
+        While Auto Choice has wide bipartisan support -- from Senator McConnell to Senator
+                                  ,
+Moynihan and from Grover Nyquist to Mike Dukakis -- the legislation will be strongly opposed
+by the trial lawyers, consumer groups, and possibly State governments. We expect
+environmentalists and auto safety groups to also oppose this legislation.
+
+Recommendation:
+
+      The NEC, DPC, Office of White House Counsel, and the Office of the Vice President
+recommend you oppose Auto Choice legislation.
+
+
+Decision:
+
+    _ _ Agree
+
+        Discuss Further   Automated Records Management System
+                          Hex-Dump Conversion
+
+

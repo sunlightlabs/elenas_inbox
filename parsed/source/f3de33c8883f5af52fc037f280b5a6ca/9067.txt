@@ -1,0 +1,85 @@
+      RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+      CREATOR: Leanne A. Shimabukuro ( CN=Leanne A. ShimabukuTo/OU=OPD/O=EOP [ OPD ] )
+
+      CREATION DATE/TIME:18-AUG-1998 18:56:44.00
+
+      SUBJECT:    crime meeting agenda
+
+      TO: Karen A. Popp ( CN=Karen A. Popp/OU=WHO/O=EOP @ EOP [ WHO]   )
+      READ:UNKNOWN
+
+      TO: Christa Robinson ( CN=Christa Robinson/OU=OPD/O=EOP @ EOP [ OPD ] )
+      READ:UNKNOWN
+
+      TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+      READ:UNKNOWN
+
+      TO: Mary L. Smith ( CN=Mary L. Smith/OU=OPD/O=EOP @ EOP [ OPD ] )
+      READ:UNKNOWN
+
+      TO: Jose Cerda III ( CN=Jose Cerda III/OU=OPD/O=EOP @ EOP [ OPD ] )
+      READ: UNKNOWN
+
+      TO: Michelle Crisci ( CN=Michelle Crisci/OU=WHO/O=EOP @ EOP [ WHO]    )
+      READ:UNKNOWN
+
+     TEXT:
+     ==================== ATTACHMENT   1 ====================
+     ATT CREATION TIME/DATE:   0 00:00:00.00
+
+     TEXT:
+     Unable to convert ARMS_EXT: [ATTACH.D59]MAIL40475203J.226 to ASCII,
+      The following is a HEX DUMP:
+
+     FF575043B0040000010A02010000000205000000150B000000020000B29B8621765D101E86DFE3
+     BFC8747DE8C3AE9F3F681368C38D4D3981E23D247DCA890A3C15B7980943E5ABAODDE084ED2436
+     3AFAD5DE62263510B82ABE16460ACC2E3670A10F186D240C5CC2A37ED5E097EF2D02CD4D29EF2F
+     95B52F2BE4A07CC8D4BD196AC51EB5043499A6A91D936674EB810FC0932236FD91EE3F39AA4F1D
+     B42729FC1D91373FCD798CA51DDC0582ADC917841A14E5BB34DE23AF553CEA1A5794313E468177
+                                        Crime Meeting Agenda
+                                           August 19, 1998
+
+     Upcoming Events
+
+
+           *         8/22 -- Possible Early Warning Guide radio address
+
+           *         8126 -- COPS event (Police Corps, COPS hiring, small cities grants)
+
+           *         10/15 -- WH Conference on School Safety
+
+
+     Other Pending Events
+
+
+           *         8121 -- HHS Household Survey release
+
+           *         Elder abuse/fraud event -- early September
+
+
+     Pending Items
+
+
+           *         GTO money laundering follow up meeting
+
+           *         9/4 COPS School-based partnerships grants
+
+           *         Drug-Free Communities grants, advisory panel appointments
+
+
+     Miscellaneous
+
+
+           *         Other releases, DO} reports
+
+           *         Gun tracing report -- mid-October target
+
+
+
+
+                                                                                          ement System
+                                                                  Automated Records Manag
+                                                                  Hex-Dump Conversion
+
+

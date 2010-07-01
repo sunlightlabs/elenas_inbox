@@ -1,0 +1,83 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME:14-JAN-1998 16:22:49.00
+
+SUBJECT:   Here's a list of welfare announcements for scheduling meetings
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Christa Robinson ( CN=Christa Robinson/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+CC: Andrea Kane ( CN=Andrea Kane/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO]    )
+READ: UNKNOWN
+
+CC: Diana Fortuna ( CN=Diana Fortuna/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TEXT:
+Here are nine things we could announce at State of the Union/Blair/Chamber
+of Commerce.
+The only tentative one is #6 (1-800 number for employers to call re: EITC)
+-- Treasury is planning such a number but its unclear whether it will be
+ready in time.
+
+
+
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D98]MAIL48951631P.026 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043310E0000010A02010000000205000000A41E00000002000088BOBA8E127C57F7662040
+                                                               Automated Records Management Systeri
+                                                                       Hex-Dump Conversion
+
+
+
+                                 Welfare Reform Announcements
+
+
+
+    1.   Anounce that we've met the goal -- two years ahead of schedule -- to move two million
+         more Americans off of welfare by the year 2000 (goal set by President in last year's State
+         of the Union).
+
+    2.   Announce that welfare caseload have fallen below 10 million for the first time since 1970
+         and release state by state numbers.
+
+    3.   Announce President's new plan to provide 50,000 vouchers to families who need new
+         housing in order to move from welfare to work.
+
+    4.   Announce a nationwide competition to reward state efforts to reduce out of wedlock
+         births -- distributing $100 million a year to five states with the largest reduction.
+
+    5.   Announce a nationwide welfare to work competition, distributing $1 billion in high
+         performance bonuses to states that do the best job of placing people into jobs and helping
+         them succeed in the work place.
+
+    6.   Announce a new 1-800 number for employers to get help with the Earned Income Tax
+         Credit, so to help companies retain employees and give them a raise in every pay check.
+
+    7.   Announce the first state and local welfare to work grants, created in the Balanced Budget
+         Act to fund welfare to work efforts in high poverty areas (GA, IL, KS, LA, MI, NE, NV,
+         Sc).
+
+    8.   Announce that 3,000 companies have pledged to hire welfare recipients, and challenge
+         the Welfare to Work Partnership to grow to 10,000 in the next year.
+
+    9.   Call for new penalties for states that have not put in place systems to collect child support
+         from deadbeat parents.
+
+

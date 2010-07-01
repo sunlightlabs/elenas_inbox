@@ -1,0 +1,25 @@
+RECORD TYPE: PRESIDENTIAL   {NOTES MAIL}
+
+CREATOR: Cathy R. Mays { CN=Cathy R. Mays/OU=OPD/O=EOP [ OPD 1 }
+
+CREATION DATE/TIME:19-MAR-1997 09:56:45.00
+
+SUBJECT:   Rescheduling of the Welfare Flex/National Indicators Meeting
+
+TO: Laura Emmett { CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO 1 }
+READ: UNKNOWN
+
+TO: Cynthia A. Rice { CN=Cynthia A. Rice/OU=OPD/O=EOP @ EOP [ OPD 1 }
+READ: UNKNOWN
+
+TO: Elena Kagan { CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 }
+READ: UNKNOWN
+
+TEXT:
+We've rescheduled the meeting with Elaine Kamarck and Bev Goodwin for
+Friday, March 21, at 12:00pm {Bruce's office}. Let me know if this does
+not work for you.
+
+Thanks.
+
+

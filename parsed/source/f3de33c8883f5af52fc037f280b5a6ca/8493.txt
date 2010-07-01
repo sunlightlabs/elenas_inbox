@@ -1,0 +1,200 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Mary L. Smith ( CN=Mary L. Smith/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME: 1-JUL-1998 13:55:06.00
+
+SUBJECT:   2 of the 4 announcements
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+ce: Thomas L. Freedman ( CN=Thomas L. Freedman/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP   [ WHO ] )
+READ: UNKNOWN
+
+TEXT:
+Here are the first two --the one with all the announcements and the one on
+the Food Safety Research Institute.   There is one problem with the
+Institute --even though OSTP, USDA, and OMB are pretty much fine with it,
+Jim O'Hara doesn't want HHS to be a part of it because he (1) thinks we
+already have an interagency working group and this doesn't do anything
+new; and (2) we are doing this so fast that he is concerned about the 90
+day report and thinks this should just coordinate USDA's internal
+research.     ==================== ATTACHMENT   1 ==================== .
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D80]MAIL492617183.126 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504370040000010A020100000002050000002923000000020000452B07B27B7B9C9115B465
+B2972B9FOCB470C5155C9796FA9422470EBC6BE481C9BC98AFFB717221D9A05E83AAECA3967076
+C110D514905AB58F5B33864EDA360AFBB263D4B2D32FDBOA08821A7E9076CFC703FDE09334EFC8
+C6DD8FB4E211D1CD39E833D65D375A734DF8D4B4F80387BF471AA94537F984DFF93037E87AE989
+6D63F82E9BF03779BE12E814C2EA79F48BOC999309F137C876820FC26A17A66E7712D3505D5BOC
+4C053727BF84E41D9766BA536C5A73DCBB2A996DBOB15AFD8BAC23FA8C9C3F6BDD055B508A1B23
+72E8207552764CD9BC25B4266B61CD7ED92F8731E050D788BD29233385472D95AACE287D54E79B
+79BB6CEA853CA75E326810B3DC36E2B165BD429E6E31CFC8EF5CD3D8164793B6D98840E5C896EF
+66B0403E82FC64AEF86FBC4C714118F2B4F5AD9E5CA3CB8327FDODBD2860DC8C156C0286DA1663
+8BC4D34039860E78C37CAF9CA97FE3CF8AOFC22E8260871C9B976AOC96B24D5DC05DDODEA3396B
+1D1A065754EF94C328F08F4A30D325C66B20D892A4EBA726235C7C3F66464057570F5C179F7910
+DDC746DEB8AE07ADF2DBAF026E45C13815201152880195B4C4CA35D2A905B5B9A503A587018506
+A91323BCF2DFEE276AB5DB670545627051E6EDE3087B7032374C68A6BB7650F6840FF011F4BD24
+50CAF8839D02000900000000000000000000000823010000000B0100007E020000005501000000
+4E0000008903000009250100000006000000D70300000B300200000028000000DD030000087701
+000000400000000504000008340100000014000000450400000802010000000F00000059040000
+080501000000080000006804000000984C006F00630061006C0020004800500020004C00610073
+00650072006A006500740020003500000000000000000000000000 000000000000000000000000
+00000000000000000000000057494E53504F4F4COOOOOOOOOOC800C8002C012C012C012C01C800
+C80030000000000000000000000000000000000000000000000000 000000000000000000000000
+000000000000000000000000000000000000000000000000000000 000000000000000000000000
+000000000000000000000000000000000000000000000000000000 000000000000000000000000
+000000000000000000000000000000000000000000000000000000 000000000000000000000000
+000000000B0100002800D61EC30F3908000011090000005AOOOB01008B143600540069006D0065
+00730020004E0065007700200052006F006D0061006E00200052006500670075006C0061007200
+000000000000000001000200580201000000040028000000000000000000000000000000000000
+0001l202002400A1000000A10000000A0000009805010002009905010002009A05010002009B05
+030002009C05010002009D05010044009E05010002009F0501004400A00501000200A1053E0065
+                                                                  Automated Records Management System
+                                                                          Hex·Dump Conversion
+                                     DRAFT
+            THE PRESIDENT ANNOUNCES JOINT INSTITUTE FOR FOOD SAFETY
+                     RESEARCH AND LABELING OF FRESH JUICES
+                                  July 4,1998
+
+     In his weekly radio address, the President will announce the publication of a final rule to increase
+     the safety of fruit and vegetable juices. The new regulation, which will take effect in time for
+     this year's apple cider season, would help control illnesses that may come from fresh,
+     unpasteurized juices by requiring labels to alert those most at risk of food-borne illness such as
+     children and the elderly. The rule will require that all packaged fresh juice be labeled with a
+     warning advising consumers of the potential risks of juice that has not been processed to
+     eliminate harmful bacteria. The Food and Drug Administration (FDA) estimates that there are
+     up to 48,000 cases of juice-related illness each year. In addition, the President will announce a
+     plan to begin developing a Joint Institute for Food Safety Research that will strategically plan
+     food safety research activities consistent with the President's Food Safety Initiative. Finally, the
+     Presidentwill call on Congress to fully fund his Food Safety Initiative, pass vital food safety
+     legislation, and confirm Dr. Jane E. Henney as the new FDA commissioner.
+
+     Providing Warning Labels for Consumers. The President will announce a final rule that will
+     require warning labels on juice products that have not been processed to reduce microbial risk.
+     These labels would state that the product has not been treated to eliminate microbes; that the
+     product may contain pathogens known to cause serious illness; and that the risk is greatest for
+     children, the elderly, and people with weakened immune systems. These labels would be
+     required for all packages of untreated, fresh juices but not for juice sold for on-site consumption
+     such as in restaurants. This rule will be effective for this year's apple cider season.
+
+     Food Safety Research Institute. The President will direct the Secretaries of Health and
+     Human Services (HHS) and the U.S. Department of Agriculture (USDA) to develop within 90
+     days a plan for creating a Joint Institute for Food Safety Research that will: (1) strategically plan
+     food safety research activities consistent with the President's Food Safety Initiative; and (2)
+     efficiently coordinate all Federal food safety research, including with the private sector and
+     academia. The goal of this Joint Institute for Food Safety Research will be to develop the means
+     to identify and characterize foodbome hazards more rapidly and accurately, and to develop
+     effective interventions that can be used as appropriate to prevent food contamination at each step
+     from farm to table.
+
+     Fund Food Safety Initiative and Pass Food Safety Legislation. The President also will call
+     on Congress to fully fund his $101 million food safety initiative which provides for a number of
+     initiatives including funding research on the detection of pathogens, enhancing FDA's inspection
+     capabilities, and expanding consumer education initiatives. The President will call on Congress
+     to pass two vital pieces offood safety legislation that will improve the safety of this Nation's
+     food supply. The first piece oflegislation will ensure that the FDA halts imports of fruits,
+     vegetables, and other food products from any foreign country with food safety systems that do
+     not provide the same level of protection required for U.S. products. This legislation gives FDA
+     authority that is comparable to USDA's existing authority to prevent the importation of unsafe
+     meat and poultry. The second piece oflegislation will give USDA the authority to issue
+                                                                 ~x·Dump Conversion
+mandatory recalls and impose civil penalties for unsafe meat and poultry.
+
+Confirm New FDA Commissioner. The President also called on Congress to confirm Dr. Jane
+E. Henney as the new Commissioner of the FDA. The FDA needs the strong leadership of Dr.
+Henney to help lead the way to improving food safety and to assure the safety and efficacy of
+pharmaceutical and biological therapeutics, medical devices, blood products, generic drugs, food
+additives and cosmetics.
+                                                            Hex-Dump Conversion
+
+            Clinton Administration Accomplishments In Improving Food Safety
+
+The President's announcement builds on a strong record of food safety initiatives, ensuring that
+Americans eat the safest possible food. The Administration has put into place improved safety
+standards for meat, poultry, and seafood products, and has begun the process of developing
+enhanced standards for fruit and vegetable juices. The Administration also has expanded
+research, education, and surveillance activities throughout the food safety system.
+
+*February, 1998. Administration announces its proposed food safety budget, which requests an
+approximate $101 million increase for food safety initiatives.
+
+*May, 1997. Administration announces comprehensive new initiative to improve the safety of
+nation's food supply --"Food Safety from Farm to Table" -- detailing a $43 million food safety
+program, including measures to improve surveillance, outbreak response, education, and
+research.
+
+*January,1997. President announces new Early-Warning System to gather critical scientific
+data to help stop foodbome disease outbreaks quickly and to improve prevention systems further.
+
+*August,1996. President signs Safe Drinking Water Act of 1996. The law requires drinking
+water systems to protect against dangerous contaminants like cryptosporidium, and gives people
+the right to know about contaminants in their tap water.
+
+*August, 1996. President signs Food Quality Protection Act of 1996, which streamlines
+regulation of pesticides by FDA and EPA and puts important new public-health protections in
+place, especially for children.      .
+
+*July,1996. President Clinton announces new regulations that modernize the nation's meat and
+poultry inspection system for the first time in 90 years. New standards help prevent E.coli
+bacteria contamination in meat.
+
+*December,1995. Administration issues new rules to ensure seafood safety, utilizing HACCP
+regulatory programs to require food industries to design and implement preventive measures and
+increase the industries' responsibility for and control of their safety assurance actions.
+
+*1994. CDC embarks on strategic program to detect, prevent, and control emerging infectious
+disease threats, some of which are food borne, making significant progress toward this goal in
+each successive year.
+
+*1993. Vice-President's National Performance Review issues report recommending
+government and industry move toward a system of preventive controls.
+                                                               Hex-Dump Conversion
+
+                                      DRAFT
+                      THE PRESIDENT ANNOUNCES FOOD SAFETY
+                               RESEARCH INSTITUTE
+                                    July 1, 1998
+
+In his weekly radio address, the President will announce a plan to develop a Joint Institute for
+Food Safety Research that will strategically plan food safety research activities consistent with
+the President's Food Safety Initiative.
+
+Joint Institute for Food Safety Research. The President will direct the Secretaries of the U.S.
+Department of Agriculture (USDA) and Health and Human Services (HHS) to develop within 90
+days a plan for creating a Joint Institute for Food Safety Research that will: (1) strategically plan
+food safety research activities consistent with the President's Food Safety Initiative; and (2)
+efficiently coordinate all Federal food safety research, including with the private sector and
+academia. Two of the principal goals of this Joint Institute for Food Safety Research will be to
+develop the means to identify and characterize foodbome hazards more rapidly and accurately,
+and to develop effective interventions that can be used as appropriate to prevent food
+contamination at each step from farm to table.
+
+Food safety research is critically needed to develop the means to identify and characterize
+foodborne hazards more rapidly and accurately, to provide information and tools for
+regulatory programs and enforcement, and to develop effective interventions that can be
+used as appropriate to prevent food contamination at each step from farm to table. New
+pathogens appear or grow more resistant, and we need the best science available to better
+improve food safety.
+
+Currently, there are at least 12 agencies that conduct food safety research. Under the
+President's food safety initiative, the White House Office of Science and Technology Policy
+has established an interagency food safety research council to help coordinate Federal
+research priorities and planning. While this interagency process is improving our
+coordination, a Joint Institute for Food Safety Research will provide an even stronger and
+better focused research strategy for food safety.
+
+In addition to improving coordination among the Federal agencies, the Institute will serve
+as a focal point for coordinating research with states, the private sector, and academia,
+including public-private research partnerships, as appropriate. The specific structure and
+operations of the Institute will be outlined in the agencies' report back to the President, and
+will be based on extensive consultations with all stakeholders.
+   .   "

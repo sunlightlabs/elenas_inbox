@@ -1,0 +1,101 @@
+    RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+    CREATOR: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP [ OPD ] )
+
+    CREATION DATE/TIME: 15-SEP-1997 12:19:31.00
+
+    SUBJECT:   Raising child support at Feinstein pre-brief
+
+    TO: Elena Kagan     CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+    READ: UNKNOWN
+
+    TO: Jose Cerda III ( CN=Jose Cerda III/OU=OPD/O=EOP @ EOP [ OPD ]     )
+    READ: UNKNOWN
+
+    TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ] )
+    READ: UNKNOWN
+
+    CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO]      )
+    READ: UNKNOWN
+
+    CC: Cathy R. Mays ( CN=Cathy R. Mays/OU=OPD/O=EOP @ EOP [ OPD ] )
+    READ: UNKNOWN
+
+    TEXT:
+    Here's a one pager you can use to raise child support at the Feinstein
+    pre-brief. Haskins is concerned the Senator will raise it and wants to
+    make sure -- as we all do -- that the President does not commit to
+    anything.  HHS, OMB, and DPC all agree on this point.
+
+
+    ==================== ATTACHMENT   1 ====================
+    ATT CREATION TIME/DATE:   0 00:00:00.00
+
+    TEXT:
+    Unable to convert ARMS_EXT: [ATTACH.D65]MAIL41045475D.216 to ASCII,
+     The following is a HEX DUMP:
+
+    FF57504370040000010A020100000002050000003B1200000002000011A3B1E86883A5D97A428C
+    F91FFB796DF4CC78438817788F5F4615B2726A03FE9851F30D10EA409E3DA77C3B23C62C8BDFE7
+    21EAAE8137D9152223ED9149988FE436DF01649BF1DDOC82410A45D145A9B96871189DDC61A7DB
+    588CA930316AF59DD38A6F7FAEBC49D304DD1235608349CDF89CF8236135B765F8D27BCB421C6A
+    D958D80C250CCEE84EEE92099C52660F33C98EDD1C8F9143C6BBFBE0538680BAE3290C98AA59F4
+    AE06DA8BA69ECABE833AAE1E551D39E148119FEOE7741D79B46E62D8FC375C7B51794BFFC4966E
+    50FDO~D59C72CBAAA2F7EE53FD4A192D3B335F24735DAED88EDC1CC5320AB78F2BE58EC6941834
+    83DCA17E5A244D71C5ADFBFA552FAEDC610BEF522DBEACFC3BE7A8CA582635C45AE88463E70DE7
+    AE81E9812F05240FF25B7DBB64F104A656764C147CA7FF4EBOOC8B4E6DDCD4D7450CAD70402AB2
+    5657A457388D7551CA606AAE8B1715014D4E43B6A44984547C2EE3DE136749E53BF8BDDBOB7C41
+    394A6226516B10B134870158A2AB6376F9EE9BC51AOE59335C1ED4F489BOF06CB91B6611E1B18A
+    DA9AF5FF2E1AA41F54559CF63A2EB6D03F21E9D714D954369E2FD6B42C041F24DC288BEA67B8C1
+    140B08EE82A50302C3C2B3D5E641EF5C41F1A94E754E2D5A3C7C993C74C55EAC7F68822A8COB53
+    7606351DBE02000900000000000000000000000823010000000B0100007E020000005501000000
+    4E0000008903000009250100000006000000D70300000B300200000028000000DD030000087701
+    000000400000000504000008340100000014000000450400000802010000000F00000059040000
+    080501000000080000006804000000984C006F00630061006C002000430061006E0061006E0020
+    004C004200500020003800520020004D00610072006B0020004900490049000000000000000000
+    00000000000000000000000057494E53504F4F4COOOOOOOOOOD4019401C80090019001C800D401
+    940130000000000000000000000000000000000000000000000000000000000000000000000000
+    000000000000000000000000000000000000000000000000000000000000000000000000000000
+    000000000000000000000000000000000000000000000000000000000000000000000000000000
+    000000000000000000000000000000000000000000000000000000000000000000000000000000
+                                                                  Hex-Dump Conversion
+                               Child Support Computer Systems
+
+
+Nine or more states -- including California -- are expected to fail to meet the 10/1/97 deadline for
+to have in place state-wide child support computer systems. Under current law, HHS must
+disapprove a state's child support plan if it does not meet the computer systems requirement--
+thus withholding all federal child support funds from those states, a process that will take six
+months or more. Senator Feinstein wants to enact a temporary moratorium on penalties to
+states failing to meet this deadline.
+
+HHS, OMB, and DPC oppose such a moratorium. Now -- just as welfare reform's tough new
+child support rules are beginning to take effect -- is the wrong time to signal to states that we
+are willing to let them off the hook. Instead, we proposed to accept the invitation of the Ways
+and Means Committee to work with them to develop a legislative solution to develop a new,
+more effective penalty system -- one that will impose tough, immediate penalties rather than
+withhold all federal funds. We can develop this proposal and enact it before the current
+penalties actually take effect.
+
+
+                                            Background
+Nine or more states are expected to fail to meet the 10/1/97 deadline for child support computer
+systems. The 1988 Family Support Act required states to have "in operation a single, state-wide
+automated data processing, information, and retrieval system" by 10/1/95; this deadline was
+extended by two years in the last Congress.
+
+The states expected to fail are California, Michigan, Illinois, Pennsylvania, Ohio, Maryland,
+D.C., Nevada, and Hawaii. Other possibilities include New York, Florida, Texas, Indiana,
+South Carolina, and New Mexico. We won't actually know on October 1st how many states
+have failed, because under the law states have until December 31 st to submit to HHS a state plan
+amendment indicating that their child support system was completed and operating as of October
+1st. HHS must then conduct certification reviews to assess states compliance. Under current
+law, HHS must disapprove a state's child support plan ifit does not meet the computer systems
+requirement -- thus withholding all federal child support funds from those states, a process that
+will take six months or more. (The federal government pays 66% of administrative child
+support enforcement costs, and 90% for computer systems costs before FY 1997 and 80% up to a
+total of $400 million for costs thereafter.) In addition, HHS must reduce the TANF grant by
+between one and five percent. California says it will lose $300 million in federal child support
+payments and between $37 and $185 million in TANF payments.
+
+

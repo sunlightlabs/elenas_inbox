@@ -1,0 +1,333 @@
+RECORD TYPE: PRESIDENTIAL     (NOTES MAIL)
+
+CREATOR: Constance J. Bowers    ( CN=Constance J. Bowers/OU=OMB/O=EOP             [ OMB 1 )
+
+CREATION DATE/TIME:18-MAY-1999 10:29:03.00
+
+SUBJECT:   New ESEA Social   Promotion Language
+
+TO: Bethany Little    ( CN=Bethany Little/OU=OPD/O=EOP    [ OPD   1 )
+READ:UNKNOWN
+
+TO: Leslie S. Mustain ( CN=Leslie S.      Mustain/OU=OMB/O=EOP@EOP      [ OMB     1 )
+READ: UNKNOWN
+
+TO: Wayne Upshaw    ( CN=Wayne Upshaw/OU=OMB/O=EOP@EOP [ OMB      1 )
+READ: UNKNOWN
+
+TO: Tanya E .·Martin ( CN=Tanya E. Martin/OU=OPD/O=EOP@EOP        [ OPD     1 )
+READ: UNKNOWN
+
+TO: Bruce N. Reed    ( CN=Bruce N.   Reed/OU=OPD/O=EOP@EOP   [ OPD    1 )
+READ: UNKNOWN
+
+TO: Wei-Min C. Wang ( CN=Wei-Min C.      Wang/OU=OMB/O=EOP@EOP    [ OMB     1 )
+READ:UNKNOWN
+
+TO: Barry White    ( CN=Barry White/OU=OMB/O=EOP@EOP   [ OMB    1 )
+READ: UNKNOWN
+
+TO: Elena Kagan    ( CN=Elena Kagan/OU=OPD/O=EOP@EOP   [ OPD    1 )
+READ: UNKNOWN
+
+TO: Barbara Chow    ( CN=Barbara Chow/OU=OMB/O=EOP@EOP    [ OMB   1 )
+READ: UNKNOWN
+
+CC: James J. Jukes    ( CN=James J. Jukes/OU=OMB/O=EOP@EOP      [ OMB   1 )
+READ: UNKNOWN
+
+CC: Janet R. Forsgren (   CN=Janet R.    Forsgren/OU=OMB/O=EOP@EOP      [ OMB     1 )
+READ: UNKNOWN
+
+TEXT:
+Attached is ED's revised draft Title XI language on social promotion,
+including a new subsection 11204(d) SPECIAL RULE, which specifies that a
+State receiving assistance must have a policy not to withhold promotion
+ (at the 3 transition points) from LEP students solely because of a lack of
+English proficiency. The new language is in bold, if you "launch" the
+document (It is the very last paragraph.)   ED reports that this has been
+agreed to by Barbara Chow, Elena Kagan and Bruce Reed.   Please confirm
+that this language is consistent with your understanding of the
+agreement.
+
+with this change, there are no outstanding issues,       and we are prepared to
+clear the bill unless advised otherwise.
+
+Thanks.
+
+
+
+
+==================== ATTACHMENT        1 ====================
+
+
+ATT CREATION TIME/DATE:   o   00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D86]ARMS25524205R.136 to ASCII,
+ The following is a HEX DUMP:
+
+DOCFllEOA1BllAE1000000000000000000000000000000003E00030OFEFF090006000000000000
+0000000000010000002C00000000000000001000002E00000001000000FEFFFFFF000000002BOO
+OOOOFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+                                                               Hex-Dump Conversion
+
+              "STUDENT PROGRESS AND PROMOTION POLICY
+
+     "SEC_ 11204.           ( a)   IN GENERAL.-(l)   A State that
+
+receives assistance under this Act shall, at the time it
+
+submits its accountability plan under section 11208, have
+
+in effect a State policy that is designed to-
+
+                    "(A)       ensure that students progress through
+
+school on a timely basis, having mastered the challenging
+
+material needed for them to reach high standards of
+
+performance; and
+
+                    "(B)       end the practices of social promotion
+
+and retention.
+
+             "(2)    As used in this part, the term-
+
+                    " (A)      'social promotion' means the unsound
+
+.educational practice of promoting students who have not
+
+demonstrated mastery of challenging State academic
+
+standards; and
+
+                    " (B)      'retention' means.the unsound
+
+educational practice of requiring students who have not
+
+demonstrated mastery of challenging State academic
+
+standards to remain in the same grade, without the specific
+
+educational interventions they need to master those
+
+standards.
+
+     "(b)     POLICY.        In order to ensure that students will
+
+progress through school and graduate having mastered the
+                                                               Hex-Dump Conversion
+
+challenging material needed for them to meet high standards
+
+of performance, a State policy under subsection (a) shall-
+
+          11   (1)        require-
+
+                     11   (A)   its local educational agencies to
+
+implement continuing, intensive and comprehensive
+
+educational interventions as may be necessary to ensure
+
+that all students can meet the challenging academic
+
+performance standards required under section 1111 (b) (1) (A)
+
+of this Act; and
+
+                     11   (B)   all students to meet those
+
+challenging standards before being promoted at three key
+
+transition points (one of which shall be graduation from
+
+secondary school), as determined by the State, consistent
+
+with section 1111 (b) (2) (D) of this Act;
+
+          11   (2)        require the State educational agency to
+
+determine, through the collection of appropriate data,
+
+whether local educational agencies and schools are ending
+
+the practices of social promotion and retention;
+
+          "(3)            require its local educational agencies to
+
+provide to all students educational            opportunities in
+
+classrooms with qualified teachers who use proven
+
+instructional practices that are aligned with the State's
+
+challenging standards and who are supported by high-quality
+
+professional development;
+                                                       Hex-Dump Conversion
+          "(4)    require its local educational agencies to
+
+use effective, research-based prevention and early
+
+intervention strategies to identify and support students
+
+who need additional help to meet those promotion standards;
+
+          "(5)    provide, with respect to students who have
+
+not demonstrated mastery of challenging State academic
+
+standards on a timely basis-
+
+                 "(A)   for continuing, intensive, and age-
+
+appropriate interventions, including extended instruction
+
+and learning time, such as after-school and summer programs
+
+that are designed to help students master such material;
+
+                 "(8)   for other specific interventions, with
+
+appropriate instructional strategies, to enable students
+
+with limited English proficiency and students with
+
+disabilities to master such material;
+
+                 "(e)   for the identification of the
+
+knowledge and skills in particular subject areas that
+
+students have not mastered, in order to facilitate
+
+remediation in those areas;
+
+                 "(D)   for the development, by schools, of
+
+plans to provide individualized attention to students who
+
+have not mastered such material;
+
+                 "(E)   for full communication between the
+
+school and parents, including a description and analysis of
+                                                      Automated Records Management System
+                                                              Hex-Dump Conversion
+
+     the students' performance, how it will be improved, and how
+
+     parents will be involved in the process; and
+
+                      "(F)   in cases in which significant numbers
+
+     of students have failed to master such material, for a
+
+     State review of whether corrective action under section
+
+     1116 of this Act with respect to the school or local
+
+     educational agency is needed;
+
+               "(6)    require its local educational agencies to
+
+     disseminate widely their policies under this subsection in
+
+     language and in a format that is concise and that parents
+
+     can understand; and
+
+               "(7)    ensure that any assessments used by a
+
+     State, local educational agency, or school for the purpose
+
+     of implementing a policy under this subsection-
+
+                      "(A)   are aligned with the State's
+
+     challenging content and performance standards and provide
+
+     coherent information about student progress towards
+
+     attainment of those standards;
+
+                      "(B)   include multiple measures, including
+
+     teacher evaluations, no one of which may be assigned
+
+     determinative weight .in making adverse decisions about
+
+     individual students;
+
+                      "(C)   offer multiple opportunities for
+
+     students to demonstrate that they meet the standards;
+                                                        Automated Records Management System
+                                                                Hex-Dump Conversion
+
+                         " (D)   are valid and reliable for the
+
+      purposes for which they are used and must fairly and
+
+      accurately measure what students have been taught;
+
+                         "(E)    provide reasonable adaptations and
+
+      accommodations for students with disabilities and students
+
+      with limited English proficiency; and
+
+                         "(F)    provide that students with limited
+
+      English proficiency are assessed, to the greatest extent
+
+      practicable, in the language and form most likely to yield
+
+      accurate and reliable information about what those students
+
+      know and can do.
+
+           "(c)    PLAN CONTENT.     A State shall include in its
+
+      accountability plan under section 11208 a detailed
+
+      description of-
+
+                  "(1)    its policy under subsection (b);
+
+                  "(2)    the strategies and steps (including
+
+      timelines and performance indicators) that the State will
+
+      take to ensure that its policy is fully implemented no
+
+      later than four years from the date of the approval of its
+
+      accountability plan; and
+
+                  "(3)    the steps that the State will take to
+
+      ensure that the policy is disseminated to all local
+
+      educational agencies and schools in the State and to the
+
+      general public.
+                                                                Hex-Dump Conversion
+
+               " (d)   SPECIAL RULE.   A State policy under subsection
+
+          (a) shall provide that no student with limited English
+
+          proficiency shall be denied promotion under subsection
+
+          (b) (l) (B) solely because of a lack of English proficiency.
+
+

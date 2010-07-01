@@ -1,0 +1,40 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Cynthia A. Rice ( CN=Cynthia A .. Rice/OU=OPD/O=EOP [ OPD]   )
+
+CREATION DATE/TIME:14-JUL-1997 08:58:28.00
+
+SUBJECT:   Welfare Provisions and the Byrd Rule
+
+TO: Charles Konigsberg ( CN=Charles Konigsberg/OU=OMB/O=EOP [ OMB ] )
+READ: UNKNOWN
+
+TO: Lisa M. Kountoupes ( CN=Lisa M. Kountoupes/OU=OMB/O=EOP @ EOP [ OMB ] )
+READ: UNKNOWN
+
+TO: Kenneth S. Apfel ( CN=Kenneth S. ApfeI/0U=OMB/O=EOP @ EOP [ OMB ] )
+READ: UNKNOWN
+
+TO: FOLEY_M ( FOLEY M @ Al @ CD @ LNGTWY [ UNKNOWN]   )   (WHO)
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Barry White ( CN=Barry White/OU=OMB/O=EOP @ EOP [ OMB ] )
+READ: UNKNOWN
+
+TO: Susan A. Brophy ( CN=Susan A. Brophy/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+TO: Janet Murguia ( CN=Janet Murguia/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TEXT:
+Unable to convert ARMS_EXT: [MESSAGE.D6]MAIL429I3349S.II6
+The following is a HEX dump of the file:
+
+

@@ -1,0 +1,40 @@
+RECORD TYPE: PRESIDENTIAL     (ALL-IN-1 MAIL)
+
+CREATOR: James Castello { CASTELLO J        (WHO)
+
+CREATION DATE/TIME:18-JUL-1995 18:45:30.80
+
+SUBJECT: Memo from Carol Rasco Attached
+
+TO: Elena Kagan                                 KAGAN E   (WHO)
+READ:18-JUL-1995 18:48:26.58
+
+TEXT:
+
+==================== ATTACHMENT    1 ====================
+ATT CREATION TIME/DATE: 18-JUL-1995 18:27:00.00
+
+ATT BODYPART TYPE:B
+
+ATT CREATOR: Carol H. Rasco
+
+ATT SUBJECT: Memorandum on Canady bill
+
+ATT TO: Abner J. Mikva
+
+ATT TO: James Castello                              CASTELLO J
+
+ATT CC: Julie E. Demeo
+
+ATT CC: Jeremy D. Benami                            BENAMI J
+
+TEXT:
+Thank you for forwarding the draft memo for the President.  I have
+no recommended changes.  It is the clearest I have ever seen an
+issue this complex explained and would recommend forwarding it to
+the President in its present form.
+
+Thanks again.
+==================    END ATTACHMENT   1   ==================
+
+

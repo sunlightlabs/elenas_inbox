@@ -1,0 +1,41 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Mary L. Smith ( CN=Mary L. Smith/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME:25-SEP-1998 16:17:05.00
+
+SUBJECT:   draft weekly on food safety
+
+TO: Thomas L. Freedman ( CN=Thomas L. Freedman/OU=OPD/O=EOP @ EOP [ OPD ] )
+REAP: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D56]MAIL48442286S.226 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043D6090000010A02010000000205000000ACOE000000020000820C224327E4D49398985C
+                                                                      Hex-Dump Conversion
+FOOD SAFETY STUDY AND NEWS STORY
+
+USDA has prepared data on the effectiveness of your science-based food safety program, Hazard
+Analysis Critical Control Point (HACCP), which shows an almost 50 percent reduction in the
+frequency of salmonella in broiler chickens and an almost 40 percent reduction in the frequency
+of salmonella 'in swine. These data, while preliminary, indicate that HACCP is already having a
+significant impact on the safety of food American families eat. The DPC provided this data to
+the Washington Post which plans to use it in a story this Sunday or Monday. We are using this
+study to demonstrate the effectiveness of the Administration program and to urge Congress to
+provide full funding for your Food Safety Initiative. It appears that the Agricultural
+Appropriations conference will meet formally early next week, and we hope this study influences
+their deliberations.
+
+

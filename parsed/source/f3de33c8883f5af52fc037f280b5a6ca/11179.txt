@@ -1,0 +1,44 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Sonyia Matthews ( CN=Sonyia Matthews/OU=OPD/O=EOP [ OPD 1 )
+
+CREATION DATE/TIME:12-FEB-1999 14:28:55.00
+
+SUBJECT:   Davis Bacon Meeting Reminder
+
+TO: Charles R. Marr ( CN=Charles R. Marr/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Broderick Johnson ( CN=Broderick Johnson/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Barbara Chow ( CN=Barbara Chow/OU=OMB/O=EOP @ EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Charles M. Brain ( CN=Charles M. Brain/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Karen Tramontano ( CN=Karen Tramontano/OU=WHO/O=EOP   ~   EOP [ WHO 1 )
+READ:UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Sandra Yamin ( CN=Sandra Yamin/OU=OMB/O=EOP @ EOP [ OMB 1 )
+READ: UNKNOWN
+
+CC: Dario J. Gomez ( CN=Dario J. Gomez/OU=WHO/O=EOP @ EOP [ WHO     1 )
+READ: UNKNOWN
+
+CC: Carolyn T. Wu ( CN=Carolyn T. Wu/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+TEXT:
+There will not be a Davis Bacon Meeting today, but a draft paper will be
+circulated this afternoon and you should get comments to Chuck Marr by
+9:00 am on Thursday, February 18th. Thank you.
+
+

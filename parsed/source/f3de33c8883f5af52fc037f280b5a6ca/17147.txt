@@ -1,0 +1,257 @@
+RECORD TYPE: PRESIDENTIAL     (NOTES MAIL)
+
+CREATOR: Cynthia A. Rice    ( CN=Cynthia A. Rice/OU=OPD/O=EOP [ OPD 1
+
+CREATION DATE/TIME:30-SEP-1997 09:09:49.00
+
+SUBJECT:   Draft revised Murray amendment--you said you want to give to Jack Lew
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1
+READ: UNKNOWN
+
+TO: Diana Fortuna ( CN=Diana Fortuna/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Cathy R. Mays ( CN=Cathy R. Mays/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TEXT:
+Here's the Murray information you requested:
+1.      A comparison of current law, the Murray amendment, and the draft
+proposal;
+2.      An outline of the Murray amendment and draft proposal;
+3.      A copy of the Murray amendment as passed by the Senate. with
+proposed changes;
+
+Note: In addition to the issues we discussed, the draft proposal also
+precludes any state, even one with an existing waiver, from providing TANF
+assistance for more than five years.
+
+ Question: given this would you prefer to be silent in the Labor-HHS SAP?
+Alternatively, OMB has drafted language saying 'This was considered in the
+budget. We ended up with a GAO study and we'd rather leave it there."
+
+This quote may explain the "Social Security number" comment:
+
+"Mr. President, this body is about to go to a vote that is not one that is
+unknown to this Senate .... that merely allows a woman who is a victim of
+domestic violence a temporary waiver from the work requirements if she
+needs to get medical care or she needs to change her Social Security
+number so that she is not pursued by her abuser, or to put her children in
+a safe place .... " Senator Murray, September 10, 1997
+
+And a closing quote:
+
+"It has been passed by the Senate three times. Not one Senator has spoken
+against it. Not one Senator has voted against it. But every time it goes
+behind closed doors in a conference committee it is pulled out.   That is
+what happens to abused women constantly. In the light of day,everyone is
+there to say, ' I support you,' but when they go behind closed doors they
+are abused .... "   Senator Murray, September 10, 1997
+==================== ATTACHMENT    1 ====================
+ATT CREATION TIME/DATE:    0 00:00:00.00
+
+TEXT:
+                                                 Hex-Dump Conversion
+Domestic Violence Provisions in Current Law, Senate Labor-HHS Bill, and Draft Proposal
+
+
+
+                                       Current Law             Senate Labor-HHS        Draft Proposal
+                                                               (Murray Amdmnt)
+
+States can opt to exempt individuals   Yes                     Yes                     Yes
+with a history of domestic violence
+from work requirements and time
+limits.
+Exemptions from work                   No                      No (only "findings"     Yes
+requirements and time limits must                              say so)
+be temporary.
+The number of welfare recipients a     No -- no matter how     Yes -- a state that     No, not directly -- ~
+state must put to work is lowered by   many family             grants 10,000 family    state can lower its
+the number of people granted a         violence waivers are    violence waivers        30,000 work
+family violence waiver.                granted, 30,000         need only put 20,000    requirement only
+Example: under current law, a state    welfare recipients      welfare recipients to   for those granted
+with 100,000 adult welfare             must go to work.        work.                   temporary waivers
+recipients has to put 30,000 of them                                                   who are provided
+to work.                                                                               services to help
+                                                                                       prepare them for
+                                                                                       work.
+States must provide services to        No                      No                      Yes
+those victims of domestic violence
+who they don't put to work but want
+to count as working.
+The number of people a state can       No -- no matter how     Yes -- a state that     No, not directly -- ~
+exempt from the five year time limit   many family             grants 10,000 family    state can increase it
+is increased by the number of          violence waivers are    violence waivers c~     time limit
+people granted a family violence       granted, only 20,000    exempt 30,000           exemptions above
+waiver.                                can be exempted         welfare recipients      20,000 only for tho
+Example: under current law, a state    from the five year      from the five year      granted temporary
+with 100,000 adult welfare             time limit.             time limit.             waivers who are
+recipients could exempt 20,000                                                         provided services tc
+from the five year time limit.                                                         help prepare them
+                                                                                       for work.
+States with prior waivers can have     Yes                     Yes                     No
+time limits longer than five years.
+                                                              Hex-Dump Conversion
+                                   Outline of Murray Amendment
+
+
+ (a) Findings -- The intent of Congress in enacting welfare reform was to allow states to grant
+ individual, temporary waivers to victims of domestic violence without regard to other limits in
+ the legislation.
+
+  (b )Clarifications --
+ .(l)(C) States shall not be limited in the number of waivers they grant.
+  (l )(D) Individuals receiving waivers shall not be including for the purposes of determining a
+  state's work participation rate, its time limit exemptions, or penalties for failure to meet minimum
+  participation rates, failure to comply with child support requirements, or failure to comply with
+. five year time limit on assistance.
+  (2) Provision shall be made effective as if enacted in the welfare reform law.
+
+ (c) Federal Parent Locator -- adds additional safeguards that information from the Federal Parent
+ Locator used to locate deadbeat parents will not be disclosed if it could put at risk the health,
+ safety, or liberty of a parent or child.
+
+
+                                  Outline of Proposed Amendment
+
+
+ (a) Findings -- The intent of Congress in enacting welfare reform was to allow states to grant
+ individual, temporary waivers to victims of domestic violence within the context of the goals of
+ work and personal responsibility.
+
+ (b) Clarifications --
+ (1)(C) States shall not be limited in the number of waivers they grant.
+ (l)(D) A state will be eligible for a reasonable good cause exception to the penalites for failing to
+ meet the work rates or for exempting more than 20 percent of recipients from the time limit if its
+ failure is attributable to its provision of good cause domestic violence waivers.
+ (l)(D) A good cause domestic violence waiver is one that is temporary, based on an
+ individualized evaluation of need; and includes services designed to ensure safety, promote
+ independence, and prepare for employment.
+ (2) Provision shall be made effective as if enacted in the welfare reform law.
+ (c) Federal Parent Locator -- adds additional safeguards that information from the Federal Parent
+ Locator used to locate deadbeat parents will not be disclosed if it could put at risk the health,
+ safety, or liberty of a parent or child.
+
+ (d) Precludes any state, even one with an existing waiver, from providing T ANF assistance for
+ more than five years.
+                                                                Hex-Dump Conversion
+
+                                    Proposed Amendment
+              (Additions to Murray Amendment are underlined; deletions are striken)
+
+SEC .. PROTECTING VICTIMS OF FAMILY VIOLENCE.
+
+(a) Findings.--Congress finds that--
+
+(1) the intent of Congress in amending part A of title IV of the Social Security Act (42 U.S.C.
+601 et seq.) in section 103 (a) ofthe Personal Responsibility and Work Opportunity
+Reconciliation Act of 1996 (Public Law 104-193; 110 Stat 2112) was to allow States to take into
+account the effects of the epidemic of domestic violence in establishing their welfare programs,
+by giving States the flexibility to grant individual, temporary waivers for good cause to victims
+of domestic violence who meet the criteria set forth in section 402(a)(7)(B) of the Social Security
+Act (42 U.S.C.602(a)(7)(B));
+
+(2) the allowance of waivers under such sections was not intended to be limited by other,
+Seflarate, ami insefleedeet flrovisions offlart A of title IV of the Social Secl:lfity Act (42 U.S.C.
+601 et seq.) undermine the law's goals of work and personal responsibility;
+
+(3) under section 402(a)(7)(A)(iii) of such Act (42 U.S.C. 602(a)(7)(A)(iii)), requirements under
+the temporary assistance for needy families program under part A of title IV of such Act may, for
+good cause, be waived for so long as necessary; and
+
+(4) good cause waivers granted pursuant to section 402(a)(7)(A)(iii) of such Act (42 U.S.C.
+602(a)(7)(A)(iii)) are intended to be temporary and directed only at particular program
+requirements when needed on an individual case-by-case basis, and are intended to facilitate the
+ability of victims of domestic violence to move forward and meet program requirements when
+safe and feasible without interference by domestic violence.
+
+(b) Clarification of Waiver Provisions.--
+
+(1) In general.--Section 402(a)(7) of the Social Security Act (41 U.S.C. 602(a)(7)) is amended by
+adding at the end the following:
+
+'(C) No numericallimits.--In implementing this paragraph, a State shall not be subject to any
+numerical limitation in the granting of good cause waivers under subparagraph (A)(iii).
+
+'(D) Waivered individuals not included for purposes of certain other provisions of this part. -- A
+state will be eligible for a reasonable good cause exception as defined in Section 409(b) if it
+demonstrates that its failure to meet the requirements of Section 407(a) or 408(a)(7) are
+attributable to its provision of good cause domestic violence waivers. --Any individl:lal to vfRom
+a good cal:lse 'Naiver of cOFRflliance with this Act has beee granted in accordance with
+S$flaragrHflh (A)(iii) shall not be incll:lded for fll:lFfloses of detefHl:ining a State's cOFRflliance
+with the flarticiflation rate reql:lirements set forth in section 407, for fll:lfJloses of Hflfllying the
+                                                     Hex-Dump Conversion
+
+lim.itatios deseribed is seetios 408(a)(7)(C)(ii), or for fH:lfpOSeS ofdetefH!:isisg whether to im.pose
+a pesalty 1:IRder paragraph (3), (5), or (9) ofseetios 409(a).'.
+
+(E) Good cause domestic violence waiver defined.      nA good cause domestic violence waiver
+means a waiver granted in accordance with subparagraph (A)(iii) that is (i) temporary; (ii) based
+on an individualized evaluation of need; and (iii) includes services designed to ensure safety,
+promote independence, and prepare for employment.
+
+(2) Effective date.--The amendment made by paragraph (1) takes effect as if it has been included
+in the enactment of section 103 (a) of the Personal Responsibility and Work Opportunity
+Reconciliation Act of 1996 (Public Law 104-193; 110 Stat. 2112).
+
+(c) Federal Parent Locator Service.--
+
+(1) In general.--Section 453 of the Social Security Act (42 U.S.C. 653), as amended by section
+5534 of the Balanced Budget Act of 1997 (Public Law 105-33; 111 Stat. 627), is amended--
+
+(A) in subsection (b)(2)--
+
+(i) in the matter preceding subparagraph (A), by inserting 'or that the health, safety, or liberty or a
+parent or child would be unreasonably put at risk by the disclosure of such infonnation,' before
+'provided that';
+
+(ii) in subparagraph (A), by inserting', that the health, safety, or liberty or a parent or child
+would be unreasonably put at risk by the disclosure of such infonnation,' before 'and that
+infonnation'; and
+
+(iii) in subparagraph (B)(i), by striking 'be hannful to the parent or the child' and inserting 'place
+the health, safety, or liberty of a parent or child unreasonably at risk'; and.
+
+(B) in subsection (c)(2), by inserting', or to serve as the initiating court in an action to seek and
+order,' before 'against a noncustodial'.
+
+(2) State plan.--Section 454(26) of the Social Security Act (42 U.S.C. 654), as amended by
+section 5552 of the Balanced Budget Act of 1997 (Public Law 105-33; 111 Stat. 635), is
+amended--
+
+(A) in subparagraph (C), by striking 'result in physical or emotional harm to the party or the
+child' and inserting 'place the health, safety, or liberty of a parent or child unreasonably at risk';
+
+(B) in subparagraph (D), by striking 'of domestic violence or child abuse against a party or the
+child and that the disclosure of such infonnation could be hannful to the party or the child' and
+inserting 'that the health, safety, or liberty of a parent or child would be unreasonably put at risk
+by the disclosure of such infonnation'; and
+                                                      Hex-Dump Conversion
+
+(C) in subparagraph (E), by striking 'of domestic violence' and all that follows through the
+semicolon and inserting 'that the health, safety, or liberty of a parent or child would be
+unreasonably put at risk by the disclosure of such information pursuant to section 453(b )(2), the
+court shall determine whether disclosure to any other person or persons of information received
+from the Secretary could place the health, safety, or liberty or a parent or child unreasonably at
+risk (if the court determines that disclosure to any other person could be harmful, the court and
+its agents shall not make any such disclosure);'.
+
+(3) Effective date.--The amendments made by this section shall take effect I day after the
+effective date described in section 5557(a) of the Balanced Budget Act of 1997 (Public Law
+105-33).
+
+(d) Waivers. --
+m In general, Section 415(a)(1) is amended:
+CA) in subparagraph CA) by inserting "or Cc)" before", if any waiver"
+CB) following subparagraph (B) inserting "Cc) Notwithstanding any other provision oflaw, a
+state shall be subject to the provision of section 408(a)(7). "
+
+

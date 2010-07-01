@@ -1,0 +1,19 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Jerold R. Mande ( CN=Jerold R. Mande/OU=OSTP/O=EOP [ OSTP 1 )
+
+CREATION DATE/TIME:23-JUL-1998 11:43:22.00
+
+SUBJECT:   Update on cloning assignments
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ:UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TEXT:
+Unable to convert ARMS_EXT: [MESSAGE.D57]MAIL40462001U.226
+The following is a HEX dump of the file:
+
+

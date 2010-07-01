@@ -1,0 +1,255 @@
+ RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+ CREATOR: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP [ WHO 1 )
+
+ CREATION DATE/TIME:15-JAN-1999 17:14:57.00
+
+ SUBJECT:   Complete Weekly Report 1/15
+
+ TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+ READ:UNKNOWN
+
+ TEXT:
+ ==================== ATTACHMENT   1 ====================
+ ATT CREATION TIME/DATE:   0 00:00:00.00
+
+ TEXT:
+ Unable to convert ARMS_EXT: [ATTACH.D8]MAIL43259071K.036 to ASCII,
+  The following is a HEX DUMP:
+
+ FF57504348100000010A020100000002050000007F48000000020000B263009F9B2DOB8503C47C
+ CFE057471D89E06CA702F910C5A63BOBC2D2EF5B47E36F6309940D26D09F02A7FFBE5EF5EBD3B9
+ B757865B2FDC6FC8968BDC9CF7BB582A56459BDE9D8F946F7BEFF73539E9397885FF29B37494B5
+ 6268AA6B54D060AD92919306592B12FB9799C952F070A14FA4C7E9E33FA330CAA95AFABD93CA20
+ A2E8730E06760AA74F8004A273CBC89F6A18226397BA343DC53AA94868B7C7DD80C8108E638C85
+ DB02C149748B9721C689846F235C63C2B6104071BAA57CC09B8D419FADCEE444F60E649E993327
+ 605B12CACBB4F3665CFF7CB1F4A151230E652C6Cl143C8204FD61DDFC108B5E16972CE0449D9FA
+ 376596659593E8EBAAC0631EB8ACOE9A885D949617F8F07E7DD6A9056Cl16F56502A6B30909EOF
+ B286DE9BBF10ECAOC985918CC7AB498E9393FA52B1FAE375778D3BF37C5F3C967B358130036150
+ 3E494D93ABA7CC45B4405D56586A290917BC68F14C191CB9D952BBCOBE7EE39EFB3BF66E12FCA7
+ 5D178BECAFD07C82A51956D6FED35AE432D7607B2F36AF723B037D1BF793A47E9FC1AFBOF4E54A
+ 7029A25A51El17F0055BCF3B2E3671DB85156AE2DE53EF9C6B78FB11A2BC648Cl152FA5DC4915C
+ 56AAB617B9ADE62AOD3FC6F49B01F5EA825A4D3DA660D9ACC5E84AD23B9D2E693379FF89793510
+ DEFFBC653A0200A400000000000000000000000823010000000B010000F80A0000005506000100
+ 4E000000030C000009250100000006000000510COOOOOB300300000028000000570C0000080501
+ 000000080000007FOC0000081D0100000000000000870C00000055000002003C000000870COOOO
+ 00550100020028000000C30C00000055010000004EOOOOOOEBOCOO000877010000004000000039
+ ODOOOOO.8340100000014000000790D00000802010000000FOOOOO08DODOOOOOB30010000006COO
+ 00009COD00000608010000002D000000080E00000055010001004E000000350EOOOOOOOOOOOOOO
+ 0000000000350EOOOOOB300100000044000000830E900000000000000000000000830EOOOOOOOO
+ 0000000000000000830E000000000000000000000000830EOOOOOO000000000000000000830EOO
+ 000055020000004EOOOOOOC70EOOOOOOOOOOOOOOOOOOOOOOOOC70E000000000000000000000000
+ C70EOOOOOOOOOOOOOOOOOOOOOOOOC70EOOOOOOOOOOOOOOOOOOOOOO00C70EOOOOOOOOOOOOOOOOOO
+ 000000C70EOOOOOOOOOOOOOOOOOOOOOOOOC70EOOOOOOOOOOOOOOOO00000000C70EOOOOOOOOOOOO
+ 000000000000C70EOOOOOB30010000004E000000150FOOOOOOOOOO00000000000000150FOOOOOO
+ 000000000000000000150F000000000000000000000000150FOOOO00000000000000000000150F
+ 000000000000000000000000150F00000000000000000000000015OFOOOOOOOOOOOOOOOOOOOOOO
+ 00150F000000000000000000000000150FOOOOOOOOOOOOOOOOOOOO0000150FOOOOOOOOOOOOOOOO
+ 00000000150F00000942020000001D000000630FOOOOOOOOOOOOOO0000000000630FOOOOOOOOOO
+ 00000000000000630F000000000000000000000000630FOOOOOOOO0000000000000000630FOOOO
+ 00000000000000000000630F000000000000000000000000630FOO000000000000000000000063
+ OF000000000000000000000000630FOOOOOOOOOOOOOOOOOOOOOOOO630FOOOOOOOOOOOOOOOOOOOO
+ 0000630F000000000000000000000000630FOOOOOOOOOOOOOOOOOO000000630FOOOOOOOOOOOOOO
+ 0000000000630F000009440200000033000000800F00000942050000002AOOOOOOB30FOOOOOOOO
+ 0000000000000000B30FOOOOOOOOOOOOOOOOOOOOOOOOB30FOOOOOO000000000000000000B30FOO
+ 0000000000000000000000B30FOOOOOOOOOOOOOOOOOOOOOOOOB30F000000000000000000000000
+ B30FOOOOOOOOOOOOOOOOOOOOOOOOB30FOOOOOOOOOOOOOOOOOOOOOO00B30FOOOOOOOOOOOOOOOOOO
+ 000000B30FOOOOOOOOOOOOOOOOOOOOOOOOB30FOOOOOOOOOOOOOOOO00000000B30FOOOOOOOOOOOO
+ 000000000000B30FOOOOOOOOOOOOOOOOOOOOOOOOB30FOOOOOOOOOO00000000000000B30FOOOOOO
+ 000000000000000000B30FOOOOOOOOOOOOOOOOOOOOOOOOB30FOOOO0000000000000,OOOOOOOB30F
+ 000000000000000000000000B30FOOOOOOOOOOOOOOOOOOOOOOOOB3OFOOOOOOOOOOOOOOOOOOOOOO
+                                                                             Hex-Dump Conversion
+
+
+
+
+                                      January 16, 1999
+
+MEMORANDUM FOR THE PRESIDENT
+
+FROM:                   Bruce Reed
+                          Elena Kagan
+
+SUBJECT:                DPC Weekly Report
+
+
+        Health Care -- Event to unveil your budget investments to combat
+bioterrorism and eyber-terrorism: On Friday, you are scheduled to participate in an
+event for you to announce your FY 2000 budget initiatives designed to prevent and combat
+two of the greatest, technologically-based threats to the nation's security -- bioterrorism and.
+cyber-terrorism. Last May, you issued two Presidential decision directives that require the
+federal government to develop and implement new counter-terrorism strategies. Your
+policy and this event, which we have developed in conjunction with the NSC, OMB, HHS
+and the Justice Department, responds to your directives by increasing your budget in these
+areas by $1.2 billion, an impressive 12.5 percent increase over the FY 1999 budget request.
+ Your proposals respond to very real threats, such as the sarin attack in the Tokyo subway
+and the Solar Sunrise attack on the Pentagon computers. Your budget increases will,
+among other things, invest $300 million in the establishment of: (1) a civilian medical
+stockpile to house an adequate supply of necessary medicines, antidotes, and vaccines in
+the case of a biological or chemical attack; (2) a new rapid response public health
+surveillance system that will make it possible for doctors and other health care personnel to
+respond effectively to a bioterrorist attack; (3) new computer intrusion detection networks,
+which will allow computer systems to work together to protect the government network
+from outside intruders; and (4) funds for the establishment of Cyber Corps, which will
+provide tuition assistance to college students studying computer science in return for a
+period of service safeguarding computers at agencies such as Social Security, FEMA, and
+FAA. These initiatives are strongly supported by virtually every credible national security
+expert in the country. In that vein, we are considering inviting former Senator Nunn to the
+event to serve as a possible participant and certain validator.
+
+       Health Care -- Congressman Dingell's meeting request on Medicare and
+Patients' Bill of Rights:. Congressman Dingell has requested a meeting with senior
+White House staff to discuss the Medicare Commission and strategy around the Patients'
+Bill of Rights. He is extremely concerned about Senator Breaux's handling of the
+commission and the Senator's advocacy for a premium support program. He fears that the
+proposal could well significantly harm lower or lower middle-income Medicare
+beneficiaries in terms of higher premiums and cost-sharing. Most of all, he fears that we
+                                                                          Automated Records Manaqe::1:::n\ Sys:e~
+                                                                                  Hex-Dump ConverSion
+
+                                                                                                             2
+
+       may support a Breaux proposal and provide him with all the political cover he needs to
+       pump out a "severely flawed" policy. As such, recognizing that Senator Breaux is
+       requesting and receiving technical assistance from the Administration, he will request (and
+       we are currently planning on agreeing to it) that we keep him integrated in any policy
+       development process; in particular, he will want to be kept closely apprised of any policy in
+       this area that we might eventually support. On the Patients' Bill of Rights, he will likely
+       request that we give him some room and time to develop a strategy in the House to attract
+       more Republican cross-overs. He appears to believe (and we agree) that a notable change
+       on the liability (enforcement/remedies) section of the bill will be needed to accomplish this
+       goal. However, he also appears to believe that it is premature to start negotiating with the
+       Republicans on this -- or virtually any initiative at this time. As a result, he is expected to
+       reintroduce the original GanskelDingell bill early this year, start negotiating in earnest
+       shortly thereafter, and continually ask you and the rest of the White House to do everything
+       possible to keep the pressure on the Congress to pass out a strong bill for your signature.
+       Since this meeting will occur iminediately after the State of the Union Address, he should
+       be pleased with you in this regard.
+
+               Health Care -- Appealing Grijalva vs. Shalala to the Supreme Court. In
+       October 1997, the Ninth District court ruled that when a Medicare HMO denies a claimed
+       benefit for a beneficiary, the denial is tantamount to government action, and so
+       beneficiaries are entitled to full due process under the Constitution. Despite the potential
+       for a public relations problem (i.e., "the same Administration advocating for a Patients' Bill
+       of Rights is now appealing a court decision designed to help patients"), the Department has
+       decided to appeal this decision. HHS is deeply troubled by the court ruling because,
+       among other things, they fear having to carry the liability of wrongful actions taken by an
+       HMO under contract with the program. (It's worth noting that since the district court's
+       decision, HCFA regulations have established strong notice and appeal rights for Medicare
+       beneficiaries enrolled in Medicare+Choice that are in compliance with your Patients' Bill
+       of Rights directive.) Although the HHS decision to appeal may be perceived by the media
+       and the public as backtracking on our commitment to the Patients' Bill of Rights, we have
+       authorized this position as long as it is oriented towards process rather than the substance
+       of the appeals process requirements. In addition, the Department is working to get
+       validation -- or at least non-opposition -- from the aging advocacy community. We have
+       also stressed to HHS that we are viewing this appeal by them to be a purely legal and
+       administrative issue that is being handled exclusively by the Department.
+
+               Crime -- Democratic Crime Bill: Next Tuesday, Senator Leahy will reintroduce
+       a consensus Senate Democratic Leadership crime bill," The Safe Schools, Safe Streets and
+       Secure Borders Act· of 1999." The bill extends and increases funding for many programs
+       authorized in the 1994 Crime Act, including the COPS Program, VA W A, and drug courts.
+       The legislation incorporates a scaled-back version of the Democratic juvenile crime bill
+       including provisions on the federal prosecution of juveniles as adults; grants for states to
+       incarcerate violent youths; prevention programs for at-risk youth; and a number of
+~-   .                                                                      I lex-Dump Ccnv.;;sioi
+
+
+                                                                                                               3
+
+         Administration-supported firearms measures including a prospective ban on gun ownership
+         for violent juveniles ("juvenile Brady"). In addition, the bill contains provisions on money
+         laundering, terrorism, and international crime. The leadership is not planning any press
+         surrounding the introduction of the bill.
+
+                Crime -- National Instant Check System (NICS): On Monday, the FBI released
+         new data showing that in the first 41 days the NICS was operational (11/30/98-1110/99),
+         11,584 gun sales were blocked to prospective gun buyers -- most of whom were convicted
+         felons. Moreover, the FBI informed relevant state and federal law enforcement agencies
+         of the 1,541 prospective gun buyers who had outstanding arrest warrants. Overall, the
+         NICS conducted over 1 million background checks for the 26 states and territories for
+         which it completes all gun sale checks, and the 11 states for which it conducts checks for
+         long gun sales only. The remaining states that complete their own checks performed
+         462,298 background checks. The FBI does not have information on how many of these
+         sales were denied.
+
+
+                 Womens Issues -- Women's Health Clinic Safety: This weekend, we are
+         planning to leak the $4.5 million investment in your budget to improve security for
+         women's health clinics that provide abortions. In recent years, violence against women's
+         health clinics and their doctors and nurses has escalated. Under this proposal, the
+         Department of Justice would make security assessments and enhancements available to
+         clinics deemed to be at high risk of violence. Security enhancements to improve safety
+         and better protect health care providers and their patients may include closed circuit camera
+         systems, improved lighting, motion detectors, alarm systems or bullet-resistant windows.
+
+
+
+                 Welfare Reform -- Wisconsin Welfare Reform Study: The first major study of
+         individuals leaving the welfare rolls in Wisconsin shows impressive employment results
+         while also highlighting the challenges some people face as they leave welfare. The study
+         is particularly important because it provides an early glimpse at how the least job ready
+         individuals left on the rolls are faring -- Wisconsin's case10ad had already declined nearly
+         70 percent at the time the surveyed individuals left the rolls.
+
+                 Most people -- 83 percent -- had worked for some period since they left welfare and
+         62 percent were currently working at the time of the survey. Most were working full time,
+         with an average wage of $7.42 per hour. The 38 percent who were not working at the time
+         of the survey gave a variety of reasons including that they could not find a job that paid
+         enough, they didn't have the needed skills or experience, individual or family health
+         problems, child care problems, or work performance issues. Most of those who were not
+         working received another type of cash benefit (such as SSI or Unemployment Insurance),
+        :~.
+                                                                             Autom~!~d racords M~'~0P~~'1~ ~'J~terr
+                                                                                     ',:X-..;er.lp CCI":"'~."
+
+
+                                                                                                                      4
+
+              and/or non-cash benefits such as housing subsidies, Medicaid, or Food Stamps, and nearly
+              20 percent lived with someone else who was working.
+
+                       An encouraging finding was that 87 percent of all those surveyed had some type of
+              health insurance. A significant number of individuals did indicate they were having
+              difficulty making ends meet, although they also experienced many of the same problems
+              while on welfare. There are some indications that Food Stamps may not be getting to all
+              those who are eligible (as noted below [in other weekly item], USDA is taking steps
+              nationwide to ensure states provide people with Food Stamps to which they are entitled,
+              even if they are no longer on TANF). These findings confirm that people are moving from
+              welfare to work at unprecedented rates, but there is a continued need to monitor closely
+              and to invest in services to help the least job ready families make a successful transition
+              from welfare to work and succeed in the workforce, as we are doing in our
+              Welfare-to-Work, Access to Jobs transportation, housing vouchers, and child care budget
+              initiatives.
+
+                     Welfare Reform -- New York Food Stamp Application Review: In November,
+              we told you that both USDA and HHS are investigating whether New York City is
+              inappropriately requiring families to wait until their second visit to a human services office
+              before letting them apply for Food Stamps and Medicaid. While HHS' review is'
+              on-going, USDA has documented a number of problems resulting in the delay of Food
+              Stamp applications and termination of Food Stamp benefits. The agency has shared its
+              preliminary findings with the state and city and are expecting a response shortly, after
+              which the agency will produce a final report. If the state does not comply, USDA can
+              issue a formal warning and then impose penalties or seek an injunction to force
+              compliance.
+
+                       While the particular situation in New York is being resolved, USDA is sending
+              letters to all state commissioners to ensure that they understand requirements of the Food
+              Stamp law which provide families the opportunity to apply for Food Stamps and receive
+              benefits to which they are entitled, even if they are not eligible for TANF. We are
+              encouraging HHS to take similar action and will keep you apprised of our progress.
+
+                      Livable Communities--Better America Bonds: Since the Vice President's
+              announcement of the Administration's livable communities announcement on January 11,
+              a number of Members of Congress from both sides of the aisle have indicated interest in
+              the Better America Bonds (BABs) proposal and the livable communities agenda. On
+              Friday, Bud Shuster, Chairman of the House Transportation and Infrastructure Committee,
+              announced support for BABs. In addition, a coalition of Republicans and Democrats have
+              formed a Senate working group on smart growth. Finally, Senator Daschle's staff has
+              indicated strong interest in working with the Administration on BABs. DPC will be
+              working closely with Legislative Affairs, NEC, OVP, and Treasury on working to build a
+              bipartisan coalition of support in the next couple of weeks.
+'!
+
+
+

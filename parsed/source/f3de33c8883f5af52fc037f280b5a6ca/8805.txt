@@ -1,0 +1,238 @@
+RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+CREATOR: Thomas L. Freedman ( CN=Thomas L. Freedman/OU=OPD/O=EOP [ OPD 1 )
+
+CREATION DATE/TIME:30-JUL-1998 12:36:26.00
+
+SUBJECT:   country of origin labeling
+
+TO: Elena Kagan     CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD,l
+READ:UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP   [ OPD 1 )
+READ: UNKNOWN
+
+CC: Mary L. Smith ( CN=Mary L. Smith/OU=OPD/O=EOP @ EOP   [ OPD 1 )
+READ: UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+TEXT:
+Attached is a useful memo on the background, official statements, safety,
+trade, costs, and politics of this issue.   You will note that there are
+congressional splits (Stenholm and Archer for instance oppose) and
+consitutent splits (meatpacking and food processing oppose).   As you can
+see from the memo, we've taken the issue up with USDA and USTR, there is
+still a good deal of opposition within USDA and within USTR but we could
+work to ameliorate some of their concerns (specifying that the label note
+country its from, not just say "imported.")
+
+ If you decide you want to try and make this happen, we should hold a
+senior level meeting including at least USTR, USDA, State, OMB, leg.
+affairs, the VP's office, HHS (FDA).
+
+I'm still working to see if the August 12th event is still on.==================== A
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D311MAIL443225611.226 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504386040000010A02010000000205000000D33B000000020000397A0682199353A2D32596
+26AEF87FEE795AF519ACl19D8CBCOEBBA3775D84800F48FF129069FC1EB246D387A89E2166641B
+49B244A24D3F1B3AEBE734DA9F6F6648A61CE08583B2810217C7CODCD544BC31D928A80833C2F7
+A19FD8B607A970F3695ED77DE1DDF615B31CC732A782062BB099529A25D6A90A23EC43F11B08DA
+064D1C594BOB68F5AD12D895574943999CE38E54D55BA8B909BC9A297AEFCA4A4A25F9D521BF5A
+70FD97BA41D04D1AC54A92873646CE3774E3AFC94837287C30CCOAA3B9C5604972E41FA3959EB2
+                                                                               Hex-Dump Conversion
+                            Import and Country of Origin Labeling
+
+Background
+
+         During floor debate, the Senate added two amendments by voice vote/unanimous consent
+on import and country of origin labeling to the FY 1999 Agricultural Appropriations bill.
+Senator Johnson's (D-SD) amendment applies to beef and lamb; it does not apply to pork,
+poultry, or any other meat products. It appears to require "import" labeling rather than
+individual country of origin. Senator Graham's (D-FL) amendment, on the other hand, applies
+to all fresh and frozen fruits and vegetables sold at retail and specifically requires country of
+origin labeling.
+         The House FY 99 Agricultural Appropriations bill does not include either provision.
+However, legislation similar to these amendments has been introduced in the House. A bill
+mandating country of origin labeling for all meat products, HR 1371, was introduced by Rep.
+Chenoweth (R-ID) and currently has 39 cosponsors (24 Reps, 15 Dems, 1 Indep.). Several bills
+have been introduced in the House to require country of origin labeling on produce -- HR 1232
+by Rep. Bono (96 cosponsors, 51 Dems, 44 Reps, and 1 Indep), HR 2332 by Rep. Everett (42
+cosponsors), HR 3676 by Rep. Pallone, 29 cosponsors, and HR 4080 by Rep. Dingell (15
+cosponsors). None of these bills has been the subject of a hearing or mark-up during this
+Congress.
+
+         USDA's Food Safety and Inspection Service (FSIS) currently requires imported product
+that is retail ready to be labeled with the country of origin. Product that will be further
+processed is also labeled, but that identity is lost during processing. For fruits and vegetables,
+current country of origin labeling is implemented by the Customs Service. Customs requires
+side panel labeling on frozen fruits and vegetables, and imported fresh produce must contain such
+information on shipping containers. Consumer ready products must also be labeled.
+
+      The House and Senate are expected to conference on agricultural appropriations in
+September. Various Members of Congress and constituencies have expressed interest in the
+Administration's position on this issue.
+
+Administration's Views
+
+         The Administration has generally objected to efforts by our trading partners to impose
+such requirements on U.S. products. However, USDA has not found any statement of an
+official Administration position on country of origin labeling.
+
+       During congressional trade hearings, Administration officials have expressed concerns
+about the use of such labeling against U.S. products. During deliberations on fast track, the
+Administration agreed, at the request of Senator Daschle, to promote a voluntary labeling
+approach for U.S. meat products. USDA has held a public meeting to promote this initiative,
+but very little interest has been expressed by industry.
+                                                                          Hex-Dump Conversion
+Food Safety
+
+         Country of origin labeling should not be characterized as a food safety issue. Imported
+meat and poultry products must be inspected in the exporting country under a system equivalent
+to the U.S. system, then it is subject to reinspection at the border. Imported meat and poultry
+that is further processed in the U.S. undergoes a complete inspection again under U.S. inspection.
+
+
+        However, while food safety experts generally do not believe that country of origin
+labeling would greatly improve our ability to detect and control outbreaks of foodborne illness,
+according to some it could prove useful in tracing back the origins of some outbreaks related to
+imported fruits and vegetables. FDA officials have disagreed with this assessment arguing that
+consumers rarely keep the fruit/vegetable containers that carried the tainted food.
+
+       A further consideration is the fact that the Administration is currently seeking additional
+funding for food safety. With limited budgets and efforts focused on actions directly related to
+improving food safety, the Administration should carefully consider whether implementing and
+enforcing country of origin legislation would be the most effective use of our food safety
+resources.
+
+       The Johnson amendment would be implemented by the Food Safety and Inspection
+Service (FSIS), which is responsible for meat, poultry and egg safety. In the absence of
+additional funding and personnel, FSIS would have to redirect resources away from food safety
+focused tasks in order to implement and enforce these provisions.
+
+        While the Food and Drug Administration (FDA) has jurisdiction over the labeling of
+fruits and vegetables, the Graham amendment gives the Secretary of Agriculture authority to
+enforce the legislation. USDA has neither the infrastructure nor the resources to implement
+this provision, and would suggest either FDA or Customs as the appropriate enforcement agency.
+
+Trade
+
+        It is possible to require country of origin labeling of imported products under our GATT
+and WTO obligations, provided that all imports are treated similarly, the difficulties are reduced
+to a minimum, and the labeling does not seriously damage the product or unduly increase its
+costs or decrease its value.
+
+         The Administration has generally objected to country of origin labeling when it has been
+considered by our trading partners. If the Administration were to support country of origin
+labeling, it could be seen as protectionist by our trading partners and would obviously limit our
+ability to object to such requirements in the future.
+
+        While many agricultural producers support country of origin labeling, others do not, in
+part because of concern that such labeling would be used unfairly against U.S. exports. The
+U.S. exports nearly 60 percent more agricultural products than it imports.   For example, it is
+                                                                 ,       Hex-Dump Conversion
+
+possible that such labeling will be used to stigmatize imported food products through negative
+advertising campaigns. Similar efforts could be made to stigmatize U.S. exports to other
+countries.
+
+         In general, Senator Graham's amendment appears to 'be consistent with U.S. rights under
+Article 9 of the WTO agreement. However, it is possible that an exporting country could
+challenge these labeling requirements as unduly increasing the costs of their product, for
+example, because the labeling requirements imposed on domestic retailers will (I) either be
+passed on to the exporting countries, making their product less competitive, or (2) make domestic
+retailers less likely to market imported products.
+
+        While the same general challenge could be made against his amendment, Senator
+Johnson's amendment also contains language which appears to violate our international trading
+commitments. Specifically, the language appears to require the word "imported" on the label
+rather than allowing a specific country of origin, which would violate WTO Article XI. This
+concern has been expressed to Senator Johnson's staff but the necessary changes to the language
+have not been made.
+
+        In addition, Senator Johnson's amendment may raise other trade issues such as national
+treatment, particularly since it appears to be targeted at Canada. Under current law, cattle that is
+imported into the U.S. for slaughter is consider U.S. product. The Johnson amendment would
+require such product to be labeled as imported. However, if imported cattle are shipped into a
+U.S. feedlot prior to slaughter, even for one day, then the product would be considered U.S.
+under the Johnson amendment. The Canadian Agriculture Minister has expressed his concerns
+about the amendment to Secretary Glickman.
+
+        DPC has discussed the matter with Sean Darragh ofUSTR who expressed USTR's
+continued opposition to the concept of country of origin labeling. Faced with the prospect that
+the legislation may become law, USTR via Jim Lyons, suggested a change affecting the
+importation of live cattle. Sean Darragh stated that USTR would much prefer language
+specifying that the imported food will not simply say "Imported" but rather say "product of
+country X".
+
+Consumer Right to Know
+
+       While country of origin labeling should not be supported on the basis of food safety,
+supporters argue that consumers have the right to know a food product's country of origin. For
+example, supporters argue that, if consumers can tell where their clothes come from, they should
+be given the same information about their food.
+
+        However, others have expressed skepticism that consumers do in fact believe that country
+of origin is important information. In addition, a consumer right to know argument could have
+implications for other labeling disputes, such as our current disagreement with the European
+Union over the labeling of products of biotechnology.          .
+                                                                      Hex-Dump Conversion
+Enforceability and Costs
+
+         Any real or perceived benefits to consumers from such a labeling requirement would be
+directly related to the ability of agencies to enforce these new requirements. Industry and the
+retail sector are strongly opposed to country of origin legislation because of the costs it would
+impose.
+
+       To effectively implement the Johnson amendment, for example, all imported beef would
+need to be segregated and extensive records would need to be kept throughout the slaughter,
+processing, and distribution chain. Industry talking points against this amendment estimate that
+20 percent of ground beef produced is the U.S. is made from imported lean beef blended with
+U.S. fed beef trimmings. This would be a difficult and expensive effort, with estimates ranging
+up to $60 million annually, depending on the level of enforcement.
+
+        The Graham amendment, on the other hand, applies only to those retailers that purchase
+in excess of$230,000 per year in fresh and frozen produce, or about 5,000 of the approximately
+180,000 retail stores. However, these 5,000 retailers have approximately 30,000 locations
+nationwide, and enforcement at retail establishments would often need to include record checks
+at central purchase and distribution points. Preliminary estimates suggest that enforcement
+could cost between $15-20 million annually, again depending on the level of enforcement.
+
+Congressional Interest
+
+       Many of the supporters of these provisions are from border states or from states that
+compete with imported products. In addition, while there is bipartisan support for these
+requirements, there is also bipartisan opposition. For example, both Rep. Skeen, chair of the
+House Ag Approps subcommittee, and Rep. Stenholm, ranking Democrat on the House
+Agriculture Committee, have expressed concern about these provisions. In addition, Ways and
+Means Chainnan Archer has expressed his opposition to these provisions in a July 24, 1998 letter
+to Appropriations Chainnan Livingston, and Agriculture Chairman Smith has also expressed
+opposition to authorizing these provisions on an appropriations bill.
+
+      USDA understands that the entire food processing and retail industry is attempting to
+meet with the Republican leadership.
+
+Constituent Interest
+
+        The National Fanners Union, American Farm Bureau Federation, and the National
+Cattleman's Beef Association have strong grassroots support for the Johnson amendment. The
+pork and poultry industry do not support country of origin labeling, but they are also not covered
+by the Johnson amendment. The meatpacking and food processing industry vigorously opposes
+both amendments. Consumer groups generally support country of origin labeling. Fruit and
+vegetable producers do not have consistent support for or opposition to country of origin
+labeling.
+                                                                  Hex-Dump Conversion
+
+
+Other Issues
+
+       The Johnson amendment in particular contains a number of potentially problematic
+provisions that may simply be due to inartful drafting. For example, one provision could be
+construed to change the statutory definition of meat.
+
+

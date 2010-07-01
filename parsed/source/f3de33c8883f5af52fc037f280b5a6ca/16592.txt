@@ -1,0 +1,193 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Sarah A. Bianchi ( CN=Sarah A. Bianchi/OU=OMB/O=EOP [ OMB ] )
+
+CREATION DATE/TIME: 7-AUG-1997 14:09:16.00
+
+SUBJECT:   diabetes fact sheets
+
+TO: Christa Robinson ( CN=Christa Robinson/OU=OPD/O=EOP @ EOP [ OPD]     )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO]    )
+READ: UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D35]MAIL40144581J.216 to ASCII,
+ The following is a HEX DUMP:
+
+FF5750439E050000010A02010000000205000000112200000002000014C5ECEC9Cl15049EEDE50
+497B7947EA9C1CB9E5725606B5812854D904EF0691C9A60F5D60C1C88CAC5C35C040E7FF7D2BCF
+046DF745015B51F877A01B8B18139FDA1A8D94865B8701C7A27846OE35087D056D6E2COF350B86
+2269A33572FB6C32EC7B45E7A1CE6B16E32EC13788FA054D4755DD5AFD14640CODDA55A9811331
+A71EBBDD8F747A5D73EA9405BE2662B6C089EC4169B7CB29AE4CA07F73674910E9C8DBDF6BOC5D
+D6B24C82646C8B650DOD9E3EB3A3606BE9D14246FE85A2811EAC46OABDE1F69621AEE7F5B3F4DB
+70F4D395A4106EDE0822DCAF6A7184649AE4E19A9FA4FDE90E7701B5783EA20B64043F94F4CFCO
+D230A4AE92079CDOAA3DC9BC757CABBEC2B3B6F6A847BA9947D298DBO10ED2136476905203C12A
+DF32201BCBF30ED2CCFE394A7C1C8E97C44800AEDBAAA315519E06FE46347B4D90A6D965852483
+76637221E1C147D8638A6D42867869DC67E40FCEC158FAF35F2327DC9AA5ACD27D818B6CAEB2E6
+OBEl12F5E1FB634FB78E4F30CEF9EE4DOC522F827EEF241409D94E6E463A89A87A91B54A66DE99
+9719F382703215E86B32740513142A0317A778BFB8D6E6AA374B380D8A30AB672D9EB1EB97F108
+CE998A79ED5BCE69FADA3FAF660747A19956EA819831C1F064B035C9DDA23A3C24344943D3C7E3
+078CBl171F02000D00000000000000000000000055010000003AOO0000B6020000092501000000
+06000000F002000000550800000042000000F60200000802010000001000000038030000086E01
+00000058010000480300000B300200000034000000A004000008050100000008000000D4040000
+08770100000040000000DC040000083401000000140000001C050000000000000000000000001C
+0500000055040000003C00000030050000005503000000320000006C0500003COOFE1536105807
+0000013900000060002815000010220043006F007500720069006500720020004E006500770000
+00000000005400540000000100010058021COOF41A5C121A090000110900000060001811000010
+2A00540069006D006500730020004E0065007700200052006F006D0061006E0000000000000054
+005400000008337C00780000020000C30500000100AB003COOFE15361058070000013900000060
+002815000010220043006F007500720069006500720020004E0065007700000000000000540054
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000580258027800FE1536105807000000041140C900448F511103105802401C
+00F41A5C121A0900001109000000600018110000102A00540069006D006500730020004E006500
+7700200052006F006D0061006E0000000000000054005400000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000580258025000F41A5C121A09000000
+1020508E001C3651110310580250010000000400280000000COOOO000000000000000000000000
+000112A4542400A1000000A1000000D3050C0000010000000COOD301000400020000000AOOOOOO
+BA0502000200BB0501004500BC0501000200BD0501004400BE0501004400BF0501004500C00501
+000200C10501000200C20501004500C305010045006C96E92200000000B9D82400C4000000C400
+00001BOOF41A5C121A0900000000000000600018110000102400540069006D006500730020004E
+                                                            Hex-Dump Conversion
+      NEW DIABETES INVESTMENTS TO IMPROVE TREATMENT, PREVENTION, AND
+                   RESEARCH FOR AMERICANS WITH DIABETES
+
+Today President Clinton announced that the balanced budget he signed into law on Tuesday
+contains a package of investments that will improve the lives of the 16 million Americans who suffer
+from diabetes. The American Diabetes Association (ADA) claims that "taken together, these new
+investments in diabetes, announced by President Clinton today, are as important for people with
+diabetes as the discovery of insulin in the 1920s."
+
+(1)    An important new preventive Medicare benefit which will help the millions of older
+       Americans who suffer from diabetes better manage their treatment, thereby helping avoid
+       serious and costly complications of diabetes;
+
+(2)    A new $150 million investment in diabetes research to be allocated by HHS Secretary
+       Donna Shalala for finding ways to prevent and cure Type I (often known as juvenile)
+       Diabetes;
+
+(3)    A $150 million investment for prevention, treatment for Native Americans with diabetes; and
+
+(4)     A government sponsored effort with the private sector to develop medical criteria that will
+        guide diabetes patients, health plans, and health providers across America and help
+      . consumers receive appropriate quality care.
+
+A New Medicare Benefit to Help People With Diabetes Better Manage Their Care
+The balanced budget expands Medicare's coverage of benefits for people with diabetes by an
+estimated $2.1 billion over five years. Previously, Medicare covered diabetes outpatient
+self-management training only in hospital-based programs. Under the new balanced budget, more
+Medicare beneficiaries will be able to take advantage of outpatient self-management training by
+expanding coverage furnished by physicians and other certified providers. It would also expand
+Medicare coverage of all blood glucose monitors (including testing strips)    to all beneficiaries with
+diabetes, whereas Medicare currently only covers insulin-dependent patients.
+
+Diabetes self-management education is an essential component of diabetes care. Expanding the
+number of people eligible for these important self-management tools will increase the number of
+Americans who are properly managing their diabetes, thereby helping prevent the debilitating and
+costly complications too often associated with diabetes.
+
+A New $150 Million Investment to Help Research a Cure for Type I (Juvenile) Diabetes.
+This new investment provides $30 million annually for five years for research to help find the cure
+for diabetes. The HHS Secretary will have discretion to target these funds to the HHS
+agencies that can fund the best available scientific opportunities. Children who develop
+diabetes should not have to suffer the devastating consequences of this disease. Studies show that
+even those who receive the best treatment and care may suffer from many severe complications.
+Only when we find a cure will people with Type I diabetes truly live in peace. In FY 1997, HHS
+will spend an estimated $345 million on diabetes research at the National Institutes of Health,
+                                                          Hex-Dump Conversion
+Centers for Disease Control, and Agency for Health Care Policy and Research. The new
+diabetes initiative will enable HHS to increase its annual funding for diabetes research by
+nearly 10 percent.
+$150 Million Investment to Help Prevent and Treat Diabetes Among Native Americans. The new
+funding provided IHS ($30 million annually for five years) will be used to provide services for
+diabetes prevention and treatment in partnership with Tribes, Urban Indian Health Centers, IHS
+Facilities, and other agencies within the Department of Health and Human Services (HHS), such as
+the Centers for Disease Control and Prevention. The new diabetes program, which will have a
+special focus on children and youth, will test community-based outreach programs in an effort to
+increase knowledge about such primary prevention techniques as reducing obesity, promoting health
+and wellness, and reducing the onset of Type II diabetes. In accomplishing these objectives, the
+new program will seek to improve linkages between families, public health service~, schools, and
+nutrition programs.
+
+A New Diabetes QuaJity Improvement Project
+There are numerous studies by organizations such as the ADA and National Committee on Quality
+Assurance (NCQA) that have documented that many physicians are not delivering the care known
+to reduce diabetes complications such as blindness and amputation in order to diminish the personal
+toll of diabetes. Today the President is announcing a major year-long collaborative effort to
+develop a set of performance and outcome measures for people with diabetes. Such measures
+could detail the care that should be delivered (for example, an annual eye exam) or health outcome
+that should be achieved (such as blood glucose levels). These new criteria would help ensure that
+physicians have the necessary information to provide patients with high quality diabetes care, and
+thereby help avoid costlier complications later.
+
+The performance and outcome measures are being developed by a coalition of four organizations:
+HCFA, the largest purchaser of health care for the diabetic population; the ADA, the largest and
+leading voluntary health agency dedicated to improving the lives of people with diabetes; NCQA,
+which develops and maintains a set of standardized performance measures used by more than 90
+percent of health plans; and the Foundation for Accountability (FACCT) are dedicated to ensuring
+that consumers have adequate information to make health care decisions. Together, these
+organizations will work to ensure that millions of consumers, purchasers, and health care providers
+adopt these new criteria.
+                                                     Hex-Dump Conversion
+                DIABETES: WHO IT AFFECTS AND THE COSTLY COMPLICATIONS
+
+Diabetes is the seventh leading cause of death.   Middle-aged Americans with diabetes have death rates
+twice as high as other Americans.
+
+More likely to suffer from heart disease, high blood pressure, and more likely to suffer from strokes.
+People with diabetes are 2 to 4 times more likely to suffer from cardiovascular disease, and middle
+aged Americans are about 2 to 4 times more likely to die of heart disease and 2 to 4 times more at risk
+for a stroke. High blood pressure affects nearly two-thirds of people with diabetes.
+
+The leading cause of end-stage renal disease, non-traumatic amputations, and blindness.
+Thirty-six percent of new end-stage renal disease (ERSD) cases are people with diabetes, causing
+20,000 Americans to develop this disease each year. 54,000 amputations are performed on diabetics
+each year, and up to 24,000 adults are blinded each year from diabetes.
+
+The National Institutes of Health estimates that we spend $92 billion per year on diabetes care.    ($45
+billion is costs directly attributable to diabetes, whereas $47 billion is indirect medical costs, such as
+work loss, disability, and premature death).
+
+DIABETES AND MEDICARE
+
+Of the 8 million diagnosed with diabetes, 3.2 million are adults age 65 and over. Approximately
+40-45 percent of persons age 65 years of age or older have either Type II diabetes or Impaired
+Glucose Tolerance (IGT). Approximately half of all diabetes cases occur in people older than 55
+years of age.
+
+Twenty thousand Americans develop end stage renal disease from diabetes in 1992 and this number
+continues to climb each year. Medicare pays for ERSD for the non-elderly population as well.
+Medicare expenditures per person with diabetes on kidney dialysis averages $38,700 annually.
+
+NATIVE AMERICANS AND DIABETES
+
+Diabetes occurs at rates dramatically higher among AllAN than in the general U.S. population. One
+third to one half of adults in various tribal groups have diabetes (420,000 to 630,000 individuals). The
+death rate from diabetes is 2.7 times higher in the AIlAN population than in the U.S. population.
+
+Native Americans develop type II diabetes at a younger age -- as young as age eight -- and suffer
+higher rates of complications including blindness, vascular insufficiency leading to amputation, and
+ESRD.             .
+
+TYPE I DIABETES
+
+Between 700,000 and 1 million Americans have Type I diabetes and as many as half of these are
+children. Each year about 30,000 new Americans -- many of whqm are children -- are diagnosed
+with Type I diabetes.
+                                                      Hex-Dump Conversion
+
+Almost all Americans with Type I diabetes will likely suffer from at least one of the many complications
+from diabetes, including serious eye disease (e.g. blindness), amputation, heart disease, or kidney
+disease.
+
+

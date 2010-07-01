@@ -1,0 +1,50 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Christopher C. Jennings ( CN=Christopher C. Jennings/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME:13-NOV-1998 19:57:05.00
+
+SUBJECT:   weekly insert for MASS
+
+
+TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TEXT:
+Here you go.==================== ATTACHMENT    1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D22]MAIL436837712.326 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504370040000010A02010000000205000000F10C00000002000014B1F1FCD9C61B28A7729A
+738EB68E0363CD23568C3C30ADADDF8FD8571927927EEOACOAE9692BCE153BF27F558E7E126066
+the four HMOs in Massachusetts that participate in the Medicare program to unveil a one-week
+opportunity to modify their benefit packages as an incentive to stay in the program. In the
+absence of this action, at least one HMO -- which was providing the state's most comprehensive
+drug benefit to thousands of Medicare beneficiaries -- had indicated it would have to withdraw
+from the program. The HHS offer, which was coordinated with Senator Kennedy's office, was
+extremely well received by both the Governors' office, the plans, beneficiaries, and the state
+press. This was the case because it gave the political establishment the opportunity to pressure
+the health plans to not only stay in the program, but to also lobby the HMOs to offer equally
+substantial drug benefits. So far, three of the four plans have agreed to offer comprehensive
+drug benefits, as long as the fourth HMO (Harvard Community Health Plan) does so as well.
+(The plans believe that they will not be subjected to disproportionate adverse selection if all
+HMOs offer the similar drug benefits.) We will know by next Tuesday if the Governor and
+Senator Kennedy was successful in convincing Harvard Community to be responsive. If they
+are not, the other plans will likely submit alternative plans that protect them against adverse
+selection -- no doubt with much lesser drug benefits. If this occurs, Senator Kennedy's office
+believes that we (and they) are well positioned to blame the plans, and not HHS, for this
+situation.
+
+
+
+
+                                                               Automated Records Management System
+                                                               Belt-Dump Conversion
+
+

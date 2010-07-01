@@ -1,0 +1,215 @@
+RECORD TYPE: PRESIDENTIAL      (NOTES MAIL)
+
+CREATOR: Mary L. Smith ( CN=Mary L. Smith/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME:11-MAY-1998 12:32:25.00
+
+SUBJECT:   Q&A on GAO report
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+CC: Thomas L. Freedman ( CN=Thomas L. Freedman/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ:UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+TEXT:
+Here are the Q&A for the GAO report on imported fruits and vegetables. We
+basically rearranged what FDA sent over and recycled questions from
+earlier Q&A.  OMB and USTR have signed off on this.   FDA has taken an
+initial pass through and said it looks fine, but will get back with final
+sign off shortly. Thanks ==================== ATTACHMENT    1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D55]MAIL42723503K.126 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504318050000010A020100000002050000002D3C000000020000F4099197BDBAD8600034FE
+6F40787E64D374AE52FE5F80BF1049A7512A1B90759C07A50C764D41D18FD1CDD10FD55453F31A
+                                                                                     "lex·Dump Conversion
+
+
+                        Q&A for GAO Report on Imported Foods
+                                   May 11, 1998
+
+Q:   What are the GAO's major findings regarding imported foods?
+
+A:   The GAO affirmed the Clinton Administration's conclusions that greater attention should
+     be paid to the safety of imported foods. In particular, the report states that "[i]n order to
+     strengthen FDA's ability to ensure the safety of imported foods, GAO recommends that
+     the Congress require food eligible for import to the United States, not just meat and
+     poultry, be produced under equivalent food safety systems." The Administration
+     submitted legislation to Congress earlier this year which addresses this concern. The
+     major conclusion that FDA needs additional authority is consistent with the
+     Administration's position about how to strengthen protection against unsafe foods
+     imported into the United States.
+
+Q:   Are there some findings and recommendations in the GAO report that FDA
+     disagrees with?
+
+A:   Only relativelyminor points. For example, the report notes that each year FDA plans to
+     conduct a certain number of import inspections yet falls short of those plans. The
+     "workplan" is merely a way oftargeting resources, not a mandatory exercise whose
+     failure to carry out to the letter will result in a threat to the public health. FDA does not
+     expect to carry out 100 percent of the plan, as emergencies arise that pull staff off of
+     routine duties.
+
+Q:   The report also notes that some importers illegally distribute imported foods into
+     U.S. commerce and that FDA does not have adequate deterrent power to prevent
+     those imports. Does the Administration agree with GAO's recommendation that
+     Congress give FDA civil money penalty authority for these violations?
+
+A:   Yes, FDA agrees with the recommendation that civil monetary penalties would be an
+     effective tool.
+
+Q:   What does the Administration's legislation do?
+
+A:   This legislation gives FDA the authority to refuse imports of any food regulated by the
+     FDA, including fruits and vegetables, from any country or facility that does not meet U.S.
+     food safety requirements or otherwise achieve the level of protection required. The
+     legislation also permits FDA to consider refusal of inspection as a factor in halting
+     imports from a facility or country.
+
+Q:   Is Congress moving to enact the legislation that the Administration has submitted to
+
+
+                                               1
+                                                                                 Hex-Dump Conversion
+     give FDA greater authority over food imports?
+
+A:   No hearings have been scheduled, and this issue does not appear to be on the
+     Congressional agenda for this year.
+
+Q:   Why did your Administration propose new legislation?
+
+A:   There have been dramatic changes in the produce department of the grocery store. Thirty
+     years ago, most produce sections only had around a dozen items year round, increasing to
+     as many as 50 in the summer. Today, the chances are that there are 400 or more items in
+     the produce section and they are there all year round. Last year, 38 percent of the fruit
+     and 12 percent of the vegetables Americans ate were imported.
+
+     We have changed as well. Americans are eating more fresh fruits and vegetables than
+     ever before, and our nation's health experts tell us we will live longer, better quality lives
+     as a result. Our environment is also changing. We are finding "new" exotic bugs such
+     as cyclospora and E. coli 0157:H7 on our food that once were not there.
+
+     We must ensure that these changes do not increase the risk to American consumers of
+     foodborne illnesses. Although raw produce -- including that imported from foreign
+     countries -- is now safe, experts have suggested ways to make further improvements, and
+     my actions accord with their recommendations.
+
+Q:   Are you saying that imported produce is unsafe?
+
+A:   There is no data indicating that imported fruits and vegetables are more unsafe than
+     domestic products. But some recent outbreaks of foodborne illness have been traced
+     back to imports, and it is important to ensure that foreign fruits and vegetables meet U.S.
+     food safety requirements or otherwise achieve the level of protection required. The steps
+     we are taking today are adding additional layers of protection. We am making sure that
+     there are no gaps in our food safety system -- that high safety standards apply to imported
+     as well as domestic food, and to fruits and vegetables as well as to meat, poultry, and
+     seafood.
+
+Q:   What steps is the Administration taking to improve food safety?
+
+A:   Last year we launched a new Presidential food safety initiative, and added more than $40
+     million to the FY '98 budget. With that money we started putting in place new
+     science-based preventive systems to improve the safety of seafood, meat and poultry and
+     began work on a new early warning system to help detect and respond to outbreaks of
+     foodborne illness .. This year, our budget seeks an even more substantial increase in
+     resources, $101 million, to improve food safety. The resources will go to a variety of
+     initiatives, including: giving FDA authority to prevent the import of produce from
+
+
+                                               2
+                                                                              Hex-Dump Conversion
+
+
+     countries without safety precautions equivalent to our own; hiring FDA inspectors to
+     improve the safety of our nation's fruits and vegetables, both domestic and imported;
+     developing new ways for federal inspectors to detect food-borne illnesses in meat and
+     poultry and determine the source of contamination; improving educational outreach on
+     proper food handling; and further expanding our early warning system and strengthening
+     state surveillance activities for foodborne illnesses.
+
+
+     Questions on Food Safety Legislation
+
+Q:   What does the legislation do?
+
+A:   This legislation helps ensure that the FDA will refuse imports of any food regulated by
+     the FDA, including fruits and vegetables, from any country or facility that does not meet
+     U.S. food safety requirements or otherwise achieve the level of protection required. The
+     legislation also permits FDA to consider refusal of inspection as a factor in halting
+     imports from a facility or country.
+
+Q:   How is this different from current authority?
+
+A:   This legislation increases the FDA's authority to refuse imports for foods from countries
+     or facilities that do not meet U.S. food safety requirements or otherwise achieve the level
+     of protection required. Currently, the FDA can only refuse imports after inspection or
+     testing at the border when the FDA determines that the food appears to be unsafe or
+     otherwise violates U.S. law. This new legislation will enable the FDA to ensure that
+     food products entering this country were grown and processed in conditions that meet
+     U.S. food safety requirements or otherwise achieve the level of protection required. This
+     authority is necessary because experience has shown that inspection and testing of
+     products at the border may not be sufficient in all cases to ensure the safety of food
+     products. It may be necessary to identify and address the source of potential
+     contamination to ensure that products offered for sale in the United States meet domestic
+     food safety requirements or otherwise achieve the level of protection required. FDA
+     currently has such authority with respect to domestic production.
+
+Q:   Does this legislation give FDA additional authority to inspect in other countries?
+
+A:   No. Foreign inspections will continue to be done by consent. In making the
+     determination that a food offered for import into the U.S. is adulterated, the legislation
+     does permit the Secretary to consider whether FDA has been refused access to conduct
+     inspection of the places where. such food has been prepared, packed or held. The
+     Secretary may deny importation to foods from such location or establishment on the basis
+     of such refusal and other. relevant factors. Because c:ienying reasonable access is one .
+     factor in making that determination, the exporting country and the food establishment
+
+
+                                              3
+                                                                             Hex-Dump Conversion
+     both have a strong incentive to allow such access.
+
+
+Q:   There is concern that this legislation is the first step in providing FDA with the
+     authority to inspect farms in the U.S. Is that next?
+
+A:   Under current law, FDA already has authority to inspect establismnents where food is
+     prepared, packed, or held, which would include places where food is grown, such as
+     domestic farms. While such inspections are infrequent, FDA has taken action against a
+     U.s. farmer when a violation occurs. When FDA is involved in a food safety problem
+     that is found to originate on a farm, the agency's focus generally is on identifying the
+     source of the problem and removing the unsafe food from commerce.
+
+Q.   Doesn't this legislation impose trade barriers to food imports at a time when you are
+     saying you want to lower them? Is this legislation consistent with free trade?
+
+A.   This legislation is consistent with free trade and all our treaty obligations. We have no
+     obligation to open our borders to imports that pose a greater risk than domestic products
+     to American consumers. As long as we are not imposing any greater requirements on
+     foreign countries -- as long as we are only holding them to our standards -- we are acting
+     consistently with our trade policy and international obligations.
+
+Q:   What makes you think this new legislation can be effective? Do you seriously think
+     you are going to be able to put FDA inspectors in every country abroad?
+
+A:   The new legislation would give the FDA the same kind of responsibility that the USDA
+     already has for meat and poultry. The USDA system has worked well to ensure that
+     unsafe meat and poultry, produced in fOreign facilities which do not provide the same
+     level of protection that is required in domestic facilities, will not be imported. The FDA
+     should be able to run a similarly effective system that ensures food safety and prevents
+     imports from any foreign country or facility that does not meet U.S. food safety
+     requirements or otherwise achieve the level of protection required.
+
+
+
+
+                                              4
+
+

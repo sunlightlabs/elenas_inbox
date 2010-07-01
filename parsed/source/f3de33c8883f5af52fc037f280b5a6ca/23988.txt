@@ -1,0 +1,54 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Andrea Kane ( CN=Andrea Kane/OU=OPD/O=EOP [ OPD ) )
+
+CREATION DATE/TIME: 1-JUN-1999 12:17:25.00
+
+SUBJECT:   Q&A on USA Today story on marriage stats
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ) )
+READ: UNKNOWN
+
+TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO ) )
+READ: UNKNOWN
+
+TEXT:
+Press office asked for Q&A on USA Today story on marriage statistics
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D72)ARMS200228850.136 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504300060000010A02010000000205000000970D000000020000361F43AE9CD8CF32A9C7C1
+D153D9FC552E1BE824EDBF90334DC8393B2B08E956F25B31F91F224EA7DE1F70785E240EEAD25A
+                                      June 1, 1999
+
+
+Q:   Why has the federal government stopped collecting data on marriage, as reported in
+     USA Today?
+
+A:   The Census Bureau will continue to collect self-reported infonnation on marital status on
+     the Census long-fonn, though they will no longer collect this infonnation on the short
+     fonn. According to HHS, the National Center for Health Statistics stopped collecting
+     detailed data on marriage and divorce in January 1996 as a result of budget constraints
+     and because oflimitations in the infonnation collected by the States. NCHS had to make
+     across-the-board budget cuts involving difficult trade-offs, including in their vital
+     statistics program. The decision was made to suspend marriage and divorce data
+     collection rather than hinder collection of mortality or birth data. The decision was
+     influenced by the fact that marriage and divorce data recorded at the state level was
+     becoming more incomplete -- for example, by 1997, five states including California did
+     not report any infonnation on divorces, and a sixth state stopped reporting the number of
+     marriage licenses granted. This infonnation comes from marriage and divorce records
+     reported to state registries, thus budget concerns in states have also had an impact on the
+     ability to collect national data. The decision to stop collecting these data was.published in
+     the Federal Register on December 15, 1995.
+
+
+
+
+                                 Automated Records Management System
+                                 Hex-Dump Conver.;ion
+
+

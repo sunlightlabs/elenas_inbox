@@ -1,0 +1,273 @@
+RECORD TYPE: PRESIDENTIAL      (NOTES MAIL)
+
+CREATOR: Elizabeth Drye ( CN=Elizabeth Drye/OU=OPD/O=EOP [ OPD]     )
+
+CREATION DATE/TIME: 8-JUN-1997 11:12:06.00
+
+SUBJECT:   Cloning memo to potus, transmittal, and fact sheet
+
+TO: Elena Kagan       CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Todd Stern ( CN=Todd Stern/OU=WHO/O=EOP @ EOP [ WHO]      )
+READ: UNKNOWN
+
+TO: Rachel E. Levinson ( CN=Rachel E. Levinson/OU=OSTP/O=EOP @ EOP [ OSTP ] )
+READ: UNKNOWN
+
+TEXT:
+Rachael, please print the potus memo on letter head and others on plain
+paper, and make 3 copies of each. Thanks.==================== ATTACHMENT    1 =======
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D52]MAIL45070485M.116 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504370040000010A02010000000205000000C~240000000200005039E29B1C0229F895BCFF
+F43FA58BEBC79EBD3F5907C91510EB026AOECD46DA715885F22A91FFBF3E3EI0993698F4C152F6
+D4E86C742CC01E588D19518A228786F28DAC540323A53222C04206498BOA2FC1528AC88B16B195
+4CC4CFCC8E7F3F6EB4D0783D3EC95B7EOF47E36029B924843A4E99F75BD056B1089BOA294EEFOF
+C7B96A93C6EF971AA097D54F15600D772440FF6857EID3D8EF4B78661F7E5F829DC985C48A9B56
+E1E32E430167EDBB17ECC89C5A9E90471C5E8888ABDB82F49D06D3E19712641BE74A43415D5B68
+1AOF6BFB2CFE1B4BE7D623B682D4C15E22EFB60ED3361BOOD90CF9C2D58106A99FCCBBCAC2AD24
+84C34EBA4B4F3C27FE404BOF3AE8D1B7B5BBE01CFCBDAC3495DA66AA71BE4B81BCE18ECE3F1BIF
+3E29288412D839338775E781D68C611851397E2C009BCE9254741C64F84039B1634128B9B035B1
+9C4E26DEC91DF4EED8BAB8C653BEC4F7AEA6388A3C224AB931299F202F95CDC04537A96273053A
+235A152263412A1DEDF72F4F8BE7BA28AF4EA7AF473590F38C39A99C3D755D8F8A95C61CA1CC6B
+88473A08035807A7D550F1A653C456F3445C09B7E3C153809407805B703F9605E5950444C4FOFF
+8FA77AAD9E5594ADB4D3CEE22843931E4AEF30EAEIA88BE36B68718D4BD9E50A31A5E2749DF390
+044D35320B02000900000000000000000000000823010000000BOI00007E020000005501000000
+4E0000008903000009250100000006000000D70300000B300200000028000000DD030000087701
+000000400000000504000008340100000014000000450400000802010000000F00000059040000
+080501000000080000006804000000984C006F00630061006C002000430061006E006F006E0020
+004C00420050003400000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000057494E53504F4F4COOOOOOOOOOE0019001C80090019001C800E001
+900130000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000BOI00002800D61EC30F3908000011090000005AOOOBOI008B143600540069006D0065
+00730020004E0065007700200052006F006D0061006E00200052006500670075006C0061007200
+000000000000000001000200580201000000040028000000000000000000000000000000000000
+00011202002400AIOOOOOOAIOOOOOOOAOOOOOOEFOD01004500FOOD01000200F10DOI004500F20D
+01000200F30D01004500F40DOI000200F50D22006581F60D01004500F70D01000200F80D040055
+00079598220000000000000000000000000000000008337C00780000020000F80D000003010004
+0002000000DDOA10008301040003000200211000DDDDOBOB00030000040BOODDF102F50DF19B9C
+FI03F50DFIFIOOF50DF19BFIOIF50DFIFI02F80DFICCF103F80DF19B9CF102F80DF1CCF103F80D
+F19B9CFI02F80DFICCF103F80DF19B9CFI02F80DFICCFI03F80DF19BE0401200000000F011F011
+2400EC131200E04A756E6580382C803139393788CCCC4D454D4F52414E44554D80464F52805448
+4580505245534944454E54CCCC46524F4D3AE0110C0000000060090COOEOE0110COOOOOOOOB80B
+
+
+                                                                          Auromate~ Records Managemenf SY"elP
+                                                                                   eX-Dump Conversion   01
+
+
+
+                                                June 8,1997
+
+    MEMORANDUM FOR THE PRESIDENT
+
+    FROM:                          Jack Gibbons
+                                   Assistant to the President for Science and Technology
+
+                                   Elena Kagan
+                                   Deputy Assistant to the President for Domestic Policy
+
+    SUBJECT:                       Cloning Policy Decisions
+
+    This memo summarizes (1) the final version of the National Bioethics Advisory Commission
+    (NBAC) cloning report completed yesterday, and (2) the cloning legislation we have prepared for
+    you to submit to Congress on Monday_ The memo address two issues about the legislation we
+    would like you to focus on: (1) whether to prohibit the production of embryos (as well as human
+    beings) through cloning, and (2) whether to sunset the prohibition on cloning after 5 years.
+
+    NBAC's Findings and Recommendations
+
+    In its final report NBAC states that at this time it is morally unacceptable for anyone to attempt to
+    create a child using the technology that created Dolly the sheep (so-called somatic cell nuclear
+    transfer technology). NBAC also concludes that the cloning of DNA, cells, and tissues, and the
+    cloning of animals, are scientifically important and not ethically problematic. NBAC chose not
+    to address at all the cloning of embryos for research purposes. NBAC calls for:
+
+           Carefully-worded legislation that prohibits somatic cell nuclear transfer to create a child
+           (without impeding important cloning research on DNA, cells, and animals), sunsets in 3-5
+           years, and provides for further review by an advisory body prior to the sunset date;
+           Continuing your moratorium on the use of federal funds for cloning human beings while
+           the proposed legislation is pending;
+           Calling on all scientists and clinicians to adhere to the voluntary moratorium; and
+           Working with other countries to enforce common aspects of cloning restrictions.
+
+    Proposed Legislation
+
+    The legislation you will announce tomorrow, as currently written:
+
+           Prohibits the use of somatic cell nuclear transfer with the intent of introducing the product
+           into a woman's womb or in any other way creating a human being;
+           Gives the Attorney General authority to seek injunctive relief, impose civil fines up to
+                                                                  Hex-Dump Conversion       .
+
+       $250,000 or twice the profit from a violation of the Act (whichever is greater), and seize
+       any and all property used in violating the Act (including entire laboratories);
+       Sunsets the prohibition on cloning 5 years from the date of enactment; and
+       Directs the National Bioethics Advisory Commission to report to you prior to the sunset
+       date on the advisability of continuing the prohibition.
+
+Key Legislative Issues
+
+1. Embryo Research
+
+NBAC's proposed legislation -- and, as currently drafted, your bill -- would not ban the creation
+of cloned embryos for research purposes. NBAC simply did not evaluate the ethics or
+scientific benefits of this activity; it focused exclusively on the use of cloning techniques to
+create an embryo that would then be implanted in a woman's uterus and brought to term. NBAC
+reasoned that other entities (including a 1994 Nlli panel) already have discussed extensively the
+creation of embryos for research purposes, and the use of cloning technology in this context
+raises no distinct ethical issues. By contrast, the use of somatic cell nuclear transfer technology
+to create a child raises a host of new and different ethical issues relating to safety, individuality,
+and family
+
+You took action In 1994 to restrict embryo research by banning the use ofNlli funds to create
+embryos for research purposes (the Nlli panel had recommended permitting the funding of
+research on embryos in very limited circumstances). You also signed a spending bill that
+included a prohibition on the use of HHS funds for embryo research. But your budget
+submissions for FY97 and FY98 stated in a footnote that the Administration did not support
+addressing this issue in legislation. Nor have you ever indicated support for extending the
+current restriction to privately funded embryo research.
+
+The right-to-life community already has criticized NBAC for not recommending a ban on
+creating cloned embryos. But there are good reasons for not going so far. There is no moral
+rationale for treating embryos created through cloning differently from embryos developed
+through other means (e.g. in vitro fertilization) when embryos are used solely for research.
+Prohibiting the creation of embryos for research using private funds could halt important research
+on infertility and possibly other medical conditions and would provoke strong opposition form
+the scientific and fertility communities. In short, it is a controversial step that merits further
+consideration. We therefore recommend that you limit the scope of the legislation you submit to
+Congress on Monday to the issue the Commission addressed. If asked about your position on
+embryo research, you could note that it is an important but separate question and reiterate your
+position that no federal funds should be used to create embryos for research purposes.
+
+2.     Sunset Provision
+
+NBAC recommends strongly that any legislative prohibition on cloning include a sunset clause to
+ensure that Congress review the issue after a specified period of time.
+                                                            Hex-Dump Conversion
+
+Whether a sunset provision makes sense depends in part on why a cloning ban is appropriate.
+For those who believe cloning is unethical primarily because of safety concerns, a sunset is
+necessary because time may mitigate those concerns. But for those who believe that cloning is
+inherently morally wrong, a sunset provision may seern wrong because time cannot lessen the
+problem. If you propose a sunset provision, you will subject yourself to criticism on this score.
+It is important to understand, however, that some who share your view that cloning is inherently
+morally wrong nonetheless favor a sunset provision. They reason that: (1) a sunset provision
+provides a strong incentive for Congress and the Administration to renew the national debate on
+cloning within several years, ensuring continued attention to the ethical questions; (2) there has
+been little time to fully consider the moral issues, and it is possible that convictions may evolve;
+and (3) there is a high probability that Congress will simply get the legislative language wrong
+the first time around, given our limited understanding of the science, the difficulty of defining
+terms, and the vagaries of the legislative process.
+
+As an alternative to proposing a sunset provision, you could propose legislation that provides for
+review by NBAC in 4 Y2 years but does not sunset the ban. This approach would shift the burden
+of proof to those who want to lift the ban, since Congress would have to act affirmatively to
+effect change. Jack Gibbons, Harold Varmus, and the scientific and biotechnology communities
+oppose this modification to your draft legislation. The Vice President prefers this modified
+approach.
+TO THE CONGRESS OF THE UNITED STATES:                                    Hex-Dump Conversion
+
+        I am pleased to transmit today for immediate consideration and prompt enactment the
+"Cloning Prohibition Act of 1997." This legislative proposal would prohibit any attempt to
+create a human being using somatic cell nuclear transfer technology, the method that was used to
+create Dolly the sheep. This proposal will also provide for further review of the ethical and
+scientific issues associated with the use of somatic cell nuclear transfer in human beings.
+
+        Following the February report that a sheep had been successfully cloned using a new
+technique, I requested my National Bioethics Advisory Commission to examine the ethical and
+legal implications of applying the same cloning technology to human beings. The Commission
+concluded that at this time "it is morally unacceptable for anyone in the public or private sector,
+whether in a research or clinical setting, to attempt to create a child using somatic cell nuclear
+transfer cloning" and recommended that Federal legislation be enacted to prohibit such activities.
+ I agree with the Commission's conclusion and am transmitting this legislative proposal to
+implement its recommendation.
+
+         Various forms of cloning technology have been used for decades resulting in important
+biomedical and agricultural advances. Genes, cells, tissues, and even whole plants and animals
+have been cloned to develop new therapies for treating such disorders as cancer, diabetes, and
+cystic fibrosis. Cloning technology also holds promise for producing replacement skin,
+cartilage, or bone tissue for burn or accident victims, and nerve tissue to treat spinal cord injury.
+Therefore, nothing in the "Cloning Prohibition Act of 1997" restricts activities in other areas of
+biomedical and agricultural research that involve: (1) the use of somatic cell nuclear transfer or
+other cloning technologies to clone molecules, DNA, cells, and tissues; or (2) the use of somatic
+cell nuclear transfer techniques to create animals.
+
+        The Commission recommended that such legislation provide for further review of the
+state of somatic cell nuclear transfer technology and the ethical and social issues attendant to its
+potential use to create human beings. My legislative proposal would implement this
+recommendation and assign responsibility for the review, to be completed in the fifth year after
+passage of the legislation, to the National Bioethics Advisory Commission.
+
+       I urge the Congress to give this legislation prompt and favorable consideration.
+
+                                                              WILLIAM J. CLINTON
+
+THE WHITE HOUSE
+     June 9, 1997
+                                                                          Automated Records Management System
+                                          FACT SHEET                              Hex-Dump Conversion
+
+
+The President today transmitted to the Congress the "Cloning Prohibition Act of 1997." This
+legislative proposal would implement the key recommendation of the National Bioethics
+Advisory Commission for legislation to prohibit any attempt to create a human being using
+somatic cell nuclear transfer technology.
+
+The National Bioethics Advisory Commission (NBAC) Report
+
+President Clinton today accepted the NBAC's report on the possible cloning of human
+beings. In February, following reports of the successful cloning of a sheep, the President asked
+the NBAC to review the profound ethical issues raised by the possible cloning of human beings.
+Today, Dr. Harold Shapiro, Chair of the Commission and President pfPrinceton University, formally
+presented the report to the President.
+
+The Commission found unanimously that it is morally unacceptable for anyone to attempt
+to create a child with the technology used to created Dolly the sheep. The NBAC reported
+that attempting to create a child using so-called somatic cell nuclear transfer cloning would pose
+great risks to the child and raise other ethical issues needing further discussion. The NBAC
+called for a moratorium on the use of the technique in humans.
+
+The Commission also found that the new technology may have many agricultural and
+medical benefits, including the development of medicines, therapies for diseases such as cancer,
+cystic fibrosis, and diabetes, and prospects for repair and regeneration of human tissues. The
+NBAC concluded that the cloning of DNA, cells, tissues, and non-human animals -- using
+somatic cell nuclear transfer and other cloning techniques -- is not ethically problematic when
+conducted in compliance with existing regulations and guidelines.
+
+Cloning Prohibition Act of 1997
+
+Acting on the Commission's key recommendation, President Clinton announced legislation
+banning the use ofthe new technology to clone human beings. Consistent with the NBAC's
+recommendation, the President's legislative proposal prohibits [for five years?] the use of
+somatic cell nuclear transfer to create a human being and directs the NBAC to report to the
+President in four and a half years on whether to continue the ban. The proposal is carefully
+worded to ensure that it will not interfere with beneficial biomedical and agricultural activities.
+
+Further Actions By The President
+
+As recommended by the NBAC, President Clinton today also:
+
+·      Reaffirmed that no Federal funds will be used to clone human beings. The President
+       stated that the prohibition he put in place in March will remain in effect while his
+       proposed legislation is pending.
+                                                                 Hex-Dump Conversion
+
+·   Urged privately funded scientists and clinicians to adhere to the voluntary
+    moratorium he called for in March. The President asked these professionals to work
+    through their societies and associations to ensure that all adhere to the current voluntary
+    ban while his proposed legislation is pending_
+
+·   Pledged to work with other countries to enforce the prohibition. Several other
+    countries, including Great Britain, Denmark, Germany, Australia, and Spain, have banned
+    human cloning.
+
+

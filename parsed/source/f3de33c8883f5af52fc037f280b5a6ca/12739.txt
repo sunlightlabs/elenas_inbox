@@ -1,0 +1,154 @@
+RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+CREATOR: Nicole R. Rabner ( CN=Nicole R. Rabner/OU=WHO/O=EOP          [ WHO I )
+
+CREATION DATE/TIME:20-MAY-1999 22:27:43.00
+
+SUBJECT:   URGENT -- DRAFT MEMO TO POTUS
+
+TO: Carl Haacke ( CN=Carl Haacke/OU=OPD/O=EOP@EOP [ OPD I )
+READ: UNKNOWN
+
+TO: Broderick Johnson ( CN=Broderick Johnson/OU=WHO/O=EOP@EOP [ WHO I             )
+READ: UNKNOWN
+
+TO: Gene B. Sperling ( CN=Gene B. Sperling/OU=OPD/O=EOP@EOP [ OPD I          )
+READ: UNKNOWN
+
+TO: Sylvia M. Mathews   ( CN=Sylvia M. Mathews/OU=OMB/O=EOP@EOP [ OMB I           )
+READ: UNKNOWN
+
+TO: Karen Tramontano ( CN=Karen Tramontano/OU=WHO/O=EOP@EOP [ WHO I          )
+READ: UNKNOWN
+
+TO: Melissa G. Green ( CN=Melissa G. Green/OU=OPD/O=EOP@EOP       [ OPD I    )
+READ: UNKNOWN
+
+TO: Brian V. Kennedy ( CN=Brian V. Kennedy/OU=OPD/O=EOP@EOP       [ OPD I    )
+READ:UNKNOWN
+
+TO: Caroline R. Fredrickson ( CN=Caroline R. Fredrickson/OU=WHO/O=EOP@EOP [ WHO I             )
+READ: UNKNOWN
+
+TO: Cordelia W. Reimers ( CN=Cordelia W. Reimers/OU=CEA/O=EOP@EOP [ CEA I )
+READ:UNKNOWN
+
+TO: Barbara Chow ( CN=Barbara Chow/OU=OMB/O=EOP@EOP     [ OMB)    )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP@EOP [ OPD I )
+READ:UNKNOWN
+
+CC: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP@EOP [ OPD I )
+READ:UNKNOWN
+
+TEXT:
+Per this afternoon's meeting, attached below please find a draft decision
+memorandum to the President on UI/Paid Leave.  Please provide written
+comments to me no later than 10 am Friday. Also, please consider this
+draft a "close hold." Thank you very much.
+
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D33)ARMS23297235A.136 to ASCII,
+ The following is a HEX DUMP:
+
+DOCFIIEOAIBIIAEI000000000000000000000000000000003E000300FEFF090006000000000000
+0000000000010000001100000000000000001000001200000001000000FEFFFFFFOOOOOOOOI000
+OOOOFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+                                                                  Automated Records Management system
+                                                                  Hex-Dump Conversion
+       DRAFT          DRAFT          DRAFT          DRAFT          DRAFT          DRAFT
+
+                                         May 21,1999
+
+
+DECISION MEMORANDUM FOR THE PRESIDENT
+
+FROM:                 BRUCE REED
+
+SUBJECT:              POLICY ANNOUNCEMENTS FOR GRAMBLING SPEECH
+
+
+         Your Grambling State University commencement address this Sunday focuses on the
+need to empower parents in this new economy with greater tools to balance their responsibilities
+to their jobs and their families. You will release a new study by the Council of Economic
+Advisors that analyzes the "time crunch" that parents increasingly feel. In addition, you will
+announce a new policy that addresses this challenge for federal workers. You will direct the
+Office of Personnel Management to revise its regulations to allow federal workers to use up to 12
+weeks of accrued sick leave to care for a spouse, child, or parent with a "serious health
+condition," as defined under the Family and Medical Leave Act (FMLA). Currently, federal
+workers are allowed to use only 13 days of sick leave to care for an ill relative. This new policy
+will enable federal workers to use the sick leave they have earned on the job to take care of a
+loved one with a serious health condition.
+
+         The DPC has also led a policy process to examine non-legislative options for action to
+enable States on a voluntary basis to use their Unemployment Insurance systems to provide
+benefits to workers on some form ofFMLA-covered leave. This year, four States with surpluses
+in their UI trust funds - Massachusetts, Vermont, Maryland, and Washington - had bills
+introduced in their State legislatures that would do this. Three of the four States, anticipating
+conformity problems, have asked for comment from the Department of Labor (DOL). While
+many question the prospects of State legislative efforts, DOL has been pressured from Senators
+Kennedy, Dodd, Leahy, and Murray, the AFL-CIO, and women's groups to allow States this
+flexibility; business groups have predictably weighed in strongly against opening up UI for this
+purpose.
+
+        Taking a non-legislative step to advance paid leave for American workers would be a
+bold way to enable workers to spend more time with their families in important times. The 1996
+FMLA Study, A Workable Balance, found that lost wages are a significant barrier to taking leave,
+particularly for lower income workers. Even ifno State elected to use its UI system in this way
+(as many argue is very likely), advancing a proposal that would allow State experimentation
+would send a strong message that making leave affordable for workers is a new priority and that
+States should consider creative ways to provide paid leave benefits.
+
+       However, the challenges and risks to embracing an expansive change to the UI system are
+considerable. First, the expense of such a system, if ever fully implemented in all States, would
+                                                                          Hex-Dump Conversion
+
+      be significant (estimates begin at $2 billion annually). Second, the breadth of purposes covered
+      by the FMLA raises concerns. The majority ofFMLA-covered leave is taken by workers caring
+      for their own serious health conditions, and advancing a policy of providing UI benefits for this
+      category of leave might transform the VI system into it paid sick leave program and lead to
+      significant and regressive substitution effects (employers may abandon their sick leave benefit
+      programs). Third, while today most UI tax collection is "experience rated" (meaning that
+      employers pay into the system based on their workers' use of it), the cost of this new policy
+      should be borne as broadly as possible to guard against unintended labor force repercussions on
+      women of child-bearing age.
+
+               Your advisors have considered various ways of advancing the policy of paid leave while
+      also mitigating the potential for unintended negative consequences. Ideally, we would issue a
+      regulation that confines the allowance of new VI benefits to parents following birth or adoption
+      (and, perhaps, other analogous, limited categories) and ensures that these new benefits are not
+      "experience rated." The DOL Solicitor's office advises that, while issuing regulations will
+      enable us to set important parameters for State programs, we may not have the authority to limit
+      them in these ways (the question is under review). Even if we do not have this authority,
+      however, we believe that we can accomplish much the same goal with a broader regulation
+      encompassing all FMLA applications if (a) you focus on new parents in a directive to DOL
+      initiating the regulatory process, and (b) DOL accompanies the regulation with model State
+      legislation that guides States in program design, confining this program to new parents and
+      ensuring that the new benefit is not "experience rated."
+
+              This construct does not mitigate all danger of unintended consequences. We cannot
+      ensure, for instance, that States would follow the model legislation we would propose and elect
+      only to grant UI benefits to new parents, rather than the full category ofFMLA covered leave.
+      However, we would send clear signals about what the Administration believes is an appropriate
+      new use ofUI benefits and use the model State legislation to guide States in the right direction.
+      Furthermore, you would only be on record as supporting this narrow new use ofUI trust funds,
+
+               This option allows us the benefit of moving forward the important debate of making leave
+      affordable for new parents, while also mitigating many potential downsides. All of the offices
+      involved in this process - the NEC,OMB, DOL, CEA, and the First Lady's Office - agree that
+      this is an exciting and responsible approach to addressing this issue,
+
+
+
+
+           PROCEED
+
+           HOLD OFF AT THIS TIME
+
+           LET'S DISCUSS
+
+

@@ -1,0 +1,43 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Leanne A. Shimabukuro ( CN=Leanne A. Shimabukuro/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME: 5-JAN-1999 09:07:32.00
+
+SUBJECT:   additional Q&A for today's event
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO]    )
+READ: UNKNOWN
+
+CC: Jose Cerda III ( CN=Jose Cerda III/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TEXT:
+The press office specifically asked for this Q/A.   The answer is based on
+guidance from Counsel's office.
+
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D91]MAIL40093540J.036 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043E8040000010A02010000000205000000720A0000000200003CB887C7BE332CD002FODF
+CA7Cl142064CD2A7B2E2E244F9C75707128F2A3AB7A2CC526F30ECFCF3590006CFE71D62FE145F
+                            Hex-Dump Conversion
+
+
+Q.   If federal employees in the Executive Branch are subject to drug testing, why isn't
+     the President also subject to tests?
+
+A.   The reason the President is not subject to drug testing is the same reason that Members of
+     Congress are also not tested: since they serve at the will of the people who elected them--
+     and not any other "employer"-- they could not be removed from their positions for failing
+     a drug test. This policy could be changed for Members of Congress and the President,
+     but it would require Congressional action.
+
+

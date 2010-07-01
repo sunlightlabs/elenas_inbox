@@ -1,0 +1,42 @@
+RECORD TYPE: PRESIDENTIAL     (NOTES MAIL)
+
+CREATOR: Sarah A. Bianchi ( CN=Sarah A. Bianchi/O=OVP [ UNKNOWN]      )
+
+CREATION DATE/TIME:25-MAY-1999 11:47:39.00
+
+SUBJECT:   q&a on mental health
+
+TO: Devorah R. Adler ( CN=Devorah R. Adler/OU=OPD/O=EOP@EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP@EOP [ WHO ] )
+READ: UNKNOWN
+
+TO: Christopher C. Jennings    ( CN=Christopher C. Jennings/OU=OPD/O=EOP@EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP@EOP [ OPD ] )
+READ: UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D69]ARMS20692455X.136 to ASCII,
+ The following is a HEX DUMP:
+
+DOCF11EOA1B11AE1000000000000000000000000000000003E000300FEFF090006000000000000
+0000000000010000000900000000000000001000000A0000000100OOOOFEFFFFFF000000000800
+     parity for mental and physical health benefits?
+
+A:   For the White House Conference on Mental Health we are currently reviewing a number
+     of policies to address shortcomings in all aspects of mental illness.
+
+
+
+
+                        Automated Records Management System
+                        Hex-Dump Conversion
+
+

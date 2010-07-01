@@ -1,0 +1,70 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Andrea Kane ( CN=Andrea Kane/OU=OPD/O=EOP [ OPD ) )
+
+CREATION DATE/TIME: 1-JUN-1999 12:17:25.00
+
+SUBJECT:   Q&A on USA Today story on marriage stats
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ) )
+READ: UNKNOWN
+
+TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO)    )
+READ: UNKNOWN
+
+TEXT:
+Press office asked for Q&A on USA Today story on marriage statistics
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D72)ARMS200228850.136 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504300060000010A02010000000205000000970D000000020000361F43AE9CD8CF32A9C7C1
+D153D9FC552E1BE824EDBF90334DC8393B2B08E956F25B31F91F224EA7DE1F70785E240EEAD25A
+28ADB71C459325396840E9A460706DB4303CB79C04E01360C8B70508A953ECAF48009D8644A52E
+5803BOF9F67D01F2014E2B75D231F4BCBFA88A808A9A52FA4C591D1DC30C3DD2FC29C3978796FF
+F16358C32409CAF2696836141FBD72D1370357E361614A07CC09DC538F641A9FC04BD99A521EF4
+91619A96111599E611ECF7FD3B369206B17BD0457128A52F09COE58A6684FB33F95BB708E8E879
+982782E236971A214ED4AF4AD121774004A854A4DOEE7DOA8021A15F021C14C84FA71417F05B91
+D5C6BC66B3EB01E1Dl16A9DA41EC81EAB5AD2984781F1D87DD485BB730BD4648358079EFB16864
+8E6F7E7D3E3325EA5FCABD179310A5E5D881865205FE9FB4965EE508D9202332172BBD9B6AEA1D
+75142C88F6E27510115AOD31CAA041C074D6AAAF4909B94B9BBF5E7FEOF4BF19197EEFOIB7CFF7
+5D6F957A92ED3CA6F892A6292664654F4CABF8D838EAD01CE3A9C48A5B42EF9380F4AC0133A4F3
+B0930D651683E7914FA440859C31D3A3B604C3DA7E402A21466D41156D4EDA5B5BEA536073A818
+8CF2F08F3E2C1CB52B730BD8EA5B4650315B6C90EC8D021240C2C14E5D6635B32AC4C79BFC4257
+08418F848E02002000000000000000000000000823010000000B010000C0030000005501000000
+4EOOOOOOCB04000009250100000006000000190500000B3002000000280000001F050000087701
+000000400000004705000008340100000014000000870500000802010000000F0000009B050000
+08050100000008000000AA05000000000000000000000000AA050000OOOOOOOOOOOOOOOOOOOOAA
+05000000000000000000000000AA05000000000000000000000000AA0500000000000000000000
+0000AA05000000000000000000000000AA05000000000000000000000000AA0500000000000000
+0000000000AA05000000000000000000000000AA05000000000000000000000000AA0500000000
+                                                               Hex-Dump Conversion
+
+
+                                 Marriage Statistics Q&A
+                                      June 1, 1999
+
+
+Q:   Why has the federal government stopped collecting data on marriage, as reported in
+     USA Today?
+
+A:   The Census Bureau will continue to collect self-reported information on marital status on
+     the Census long-form, though they will no longer collect this information on the short
+     form. According to HHS, the National Center for Health Statistics stopped collecting
+     detailed data on marriage and divorce in January 1996 as a result of budget constraints
+     and because of limitations in the information collected by the States. NCHS had to make
+     across-the-board budget cuts involving difficult trade-offs, including in their vital
+     statistics program. The decision was made to suspend marriage and divorce data
+     collection rather than hinder collection of mortality or birth data. The decision was
+     influenced by the fact that marriage and divorce data recorded at the state level was
+     becoming more incomplete -- for example, by 1997, five states including California did
+     not report any information on divorces, and a sixth state stopped reporting the number of
+     marriage licenses granted. This information comes from marriage and divorce records
+     reported to state registries, thus budget concerns in states have also had an impact on the
+     ability to collect national data. The decision to stop collecting these data was published in
+     the Federal Register on December 15, 1995.
+·
+

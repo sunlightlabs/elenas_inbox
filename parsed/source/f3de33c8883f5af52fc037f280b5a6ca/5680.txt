@@ -1,0 +1,103 @@
+RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+CREATOR: Diana Fortuna ( CN=Diana Fortuna/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME:16-DEC-1997 12:48:41.00
+
+SUBJECT:   FYI, I did the attached chart ...
+
+TO: Laura Oliven Silberfarb ( CN=Laura Oliven Silberfarb/OU=OMB/O=EOP @ EOP [ OMB ]
+READ: UNKNOWN
+
+TO: Nelson Reyneri ( CN=Nelson Reyneri/OU=WHO/O=EOP @ EOP [ WHO]      )
+READ: UNKNOWN
+
+TO: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO ]   )
+READ: UNKNOWN
+
+TEXT:
+describing the 151 children case study that SSA will release the same day
+as their report.  It shows the diagnoses of kids cut off
+overwhelmingly mental disorders other than mental retardation, such as
+ADHD, learning disabilities, conduct disorders, etc.  I think it's
+probably too detailed to attach to the memo to the President, but it's
+interesting.
+
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D49]MAIL42897494D.316 to ASCII,
+ The following is a HEX DUMP:
+
+FFS7S0439CI000000I0A0201000000020S000000B324000000020000EIDFS61SF3C89EB4B8ACAO
+6EIA674049EIC8F19642353B580C3E3CAF65EE54FI0053F261EF4C4211FAOA7896E2066DSBIFF7
+9602C652E7A3808AE0241SBE64AOFS27SBCB4F3A4AA9244A30SA5DSO8SC36EAlSA5FA8E70SEIA4
+S098949678F2C2D616C322DB48D3SCIF42007CID2A36EBCD24BSF9687E232E56D99BDBBS4BBA24
+S8D74A7A6EFB95B6222A7DA830E994BB76D277677BB6F2B77E6C768E854F69DS8COOIFOCA6D31D
+D4B7F48A83BOCB000297F7E426C446CA8SD5BOFI0EA116902941FBF38EA030C32C7416EFC2DE62
+87E304AAE3C3BCSCIFA8CEIFAS4ACIF4SBOID6COBC43EIC7903B27B623COBC2E9FF3027ABE27BF
+34EA20873AD55D7F650C9S-3SCCF47S0604AAC8098E3C127DSOD24CAIDFF4CA6D9SD6C2FCDAF2CA
+2692FIF009C6DC6780FFE9SAE16AADECOA06D7F4721779CFlSA7D8SF9E258DFC610FAE969EF249
+B7887D19F98EA92A6A6AC2B24700DF7A6CEEB2ED2FF606B8FB417B3922B8134298A02FBE04FIF6
+7776C3BB86SBE92D718083AAD8E24A46A29B8A333CBBIIE4A76C8A4C5FDB6D112867A928C73A2F
+3S31916SE186AS033094CCF770A24D83AIAD230A6049CC6EEBACD137DASDOC7789876942C60FAD
+AB7C7BClSADB3FBF86C2FA913C2703DF6959DD5AOIB29A9307E34E316S70AA3C22D678784FIE09
+9A2F6B478802008700000000000000000000000823010000000BOI000062090000005501000000
+4E0000006DOA000009250100000006000000BBOAOOOOOB300200000028000000CI0A0000006602
+00000002000000E90A000000610100000014000000EBOA0000080S0100000008000000FFOAOOOO
+08770100000040000000070B000008340100000014000000470BOO000802010000000FOOOOOOSB
+OB0000096801000000120400006AOBOOOOOOOOOOOOOOOOOOOOOOOO6AOBOOOOOOOOOOOOOOOOOOOO
+00006AOB0000000000000000000000006AOBOOOOOOOOOOOOOOOOOO0000006AOBOOOOOOOOOOOOOO
+00000000006AOB0000000000000000000000006AOBOOOOOOOOOOOO0000000000006AOBOOOOOOOO
+00000000000000006AOB0000000000000000000000006AOBOOOOOO0000000000000000006AOBOO
+00000000000000000000006AOB0000000000000000000000006AOB000000000000000000000000
+
+
+
+                    Children's SSI Terminations - Sample of 151 Cases
+
+
+    Diagnosis at Termination           Number of Children             Percent of Total
+
+    Learning Disabilities              31                             21%
+
+    Attention Deficit Disorder         30                             20%
+
+    Various Mental Disorders           21                             14%
+    (e.g., Conduct Disorder,
+    Adjustment Disorder,
+    Affective Disorder,
+    Developmental Delays,
+    Developmental Disorders,
+    Personality Disorders,
+    Oppositional Defiant Dis.,
+    Relational Disorder)
+
+    Borderline Intellectual            12                             8%
+    Functioning
+
+    Mental Retardation                 10                             7%
+    Physical Disabilities              9                              6%
+    (other than asthma)
+
+    Astluna                            7                              5%
+    Speech Delay                       4                              3%
+    None                               3                              2%
+                            Subtotal   127                            84%
+    Failure to Cooperate               24                             16%
+                            TOTAL      151                            100%
+
+
+
+
+                                Automated Records Management System
+                                       Hex-Dump Conversion
+
+

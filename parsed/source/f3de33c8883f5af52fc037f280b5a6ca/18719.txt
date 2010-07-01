@@ -1,0 +1,52 @@
+    RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+    CREATOR: Jose Cerda III ( CN=Jose Cerda III/OU=OPD/O=EOP [ OPD ) )
+
+    CREATION DATE/TIME:23-FEB-1998 14:39:39.00
+
+    SUBJECT:   Proposed Megan Statment
+
+    TO: Laura Emmett    CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO ) )
+    READ: UNKNOWN
+
+    TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ) )
+    READ: UNKNOWN
+
+    TO: Michelle Crisci ( CN=Michelle Crisci/OU=WHO/O=EOP @ EOP [ WHO)   )
+    READ: UNKNOWN
+
+    CC: Leanne A. Shimabukuro ( CN=Leanne A. Shimabukuro/OU=OPD/O=EOP @ EOP [ OPD ) )
+    READ: UNKNOWN
+
+    TEXT:
+    Michelle/Laura:
+
+    For Rahm and Elena to review. We need to makes sure that at least a
+    non-practicing attorney glances at this --though I think it's pretty safe.
+    j c3
+
+    ==================== ATTACHMENT   1 ====================
+    ATT CREATION TIME/DATE:   0 00:00:00.00
+
+    TEXT:
+    Unable to convert ARMS_EXT: [ATTACH.D9)MAIL45419145H.026 to ASCII,
+     The following is a HEX DUMP:
+
+    FF575043B0040000010A02010000000205000000030A000000020000DB088FC073B4D2F1260850
+    8B2A5538969764164A6847758C9F89388F469EE7462CBE7FA67FDACBDOE8F7B0891E9E5B56B46E
+    81675F9755A738CCOCEE2DC32094FC3F901614EBD1BOOFBB4D99D29F55C8508B458AFD7E4799AB
+                                                                                   Hex.Dump ConversIon
+                       DRAFT STATEMENT OF THE PRESIDENT
+                                 February 23, 1998
+
+
+This morning the Supreme Court declined to review and, thus, left intact the community
+notification provision of New Jersey's "Megan's Law." Megan's Law provides families and
+communities with a crucial tool to protect their children from known sex predators. That is why
+my Administration has defended its constitutionality, enacted a federal Megan's Law, and
+worked with states to establish a national sex offender registry. We will continue to do
+everything we can to make sure that community notification and sex offender registration laws
+are enforced and upheld throughout the country.
+"
+
+

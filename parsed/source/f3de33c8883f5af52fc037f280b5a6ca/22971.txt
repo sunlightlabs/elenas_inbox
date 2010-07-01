@@ -1,0 +1,56 @@
+RECORD TYPE: PRESIDENTIAL      (NOTES MAIL)
+
+CREATOR: Amy Weiss     ( CN=Amy Weiss/OU=WHO/O=EOP [ WHO ] )
+
+CREATION DATE/TIME: 1-MAR-1999 14:53:15.00
+
+SUBJECT:   Title One
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ:UNKNOWN
+
+TO: Lorrie McHugh ( CN=Lorrie McHugh/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+TO: Phillip Caplan ( CN=Phillip Caplan/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ:UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO]    )
+READ: UNKNOWN
+
+TEXT:
+please look at this very edited document. Lorrie worked on it and I think
+it reads much better. Can we get a quick turn around?? Thanks.====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D41]MAIL406335465.036 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504356050000010A02010000000205000000C20D0000000200004F49702712917C33A59BOE
+574349522DC55AE135D70B3768BAEC1505005EDOBD2A1D1F744D43E941EB3DFD405057350833AA
+611ED75EC66E1107DOC2C8FD472CC802927AEE8E09426612C646173D574D4A13E9A294903213D9
+                                     Autmlated Records Management System
+                                             Hex.{)ump Conversion
+
+                                      POTUS Statement on Title I
+                                          March 1, 1999
+
+
+     Today, the Education Department is releasing an assessment of Title I that shows that we have
+     made progress in improving achievement for students in high-poverty schools, but that a
+     substantial gap remains between these students and others. This report makes clear that we have
+     been heading in the right direction, while providing compelling evidence that we must
+     dramatically increase the pace of reform. That is why we must work across party lines to enact
+     my Education Accountability Act, ensuring that states and school districts end social promotion,
+     phase-out the use of unqualified teachers, turn around low-performing schools, provide parents
+     with report cards on schools, and implement effective discipline policies. And that is why we
+     need to make targeted investments tohelp our children reach high standards, starting with a vote
+     this week to reduce class size in the early grades by hiring 100,000 well-prepared teachers.
+     Today's news of improvement is welcome, but we should not be satisfied until all our students
+     can reach the challenging standards we set for them.
+
+

@@ -1,0 +1,41 @@
+RECORD TYPE: PRESIDENTIAL     (NOTES MAIL)
+
+CREATOR: Cynthia Dailard ( CN=Cynthia Dailard/OU=OPD/O=EOP [ OPD ) )
+
+CREATION DATE/TIME:24-APR-1998 16:58:47.00
+
+SUBJECT:   RICO Q&A for First Lady
+
+TO: Laura Emmett      CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO ) )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ) )
+READ: UNKNOWN
+
+TEXT:
+The First Lady's office called and asked me to do a Q&A in    case she is
+asked a question during her Milwaukee trip on Monday about    the recent
+court decision involving a Milwaukee women's health clinic    and RICO.
+Please review.  Thanks.==================== ATTACHMENT   1    ====================
+ATT CREATION TIME/DATE:    0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D82)MAIL460056310.126 to ASCII,
+ The following is a HEX DUMP:
+
+FF5750435A040000010A0201000000020500000054080000000200004523881E3D6A9758442330
+D031CB7344A4FF7579A51CA7C9239C3AB0179EC08F53A61881A2244A5FE722C6FOOEBD1F4D608E
+                                                                           .       Hex-Dump Conversion
+
+
+Q_   What are your thoughts on the recent court decision involving a Mikwalkee
+     women's health clinic and RICO (NOW v_ Scheidler)?
+
+A.   I was pleased with last week's court decision that found protesters who used violence to
+     close down women's health clinics guilty under the federal ani-racketeering statute
+     known as RICO. This sends a strong message to organizers across this nation who are
+     considering using intimidation, violence, or threats of violence to prevent women from
+     seeking reproductive health services. I believe that this court decision offers some badly
+     needed protection for women and their doctors.
+
+

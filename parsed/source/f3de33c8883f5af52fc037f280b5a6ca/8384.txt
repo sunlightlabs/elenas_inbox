@@ -1,0 +1,218 @@
+RECORD TYPE: PRESIDENTIAL   , (NOTES   MAIL)
+
+CREATOR: Jonathan Orszag ( CN=Jonathan Orszag/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME:23-JUN-1998 20:13:58.00
+
+SUBJECT:
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] ).
+READ: UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D20]MAIL43843747G.126 to ASCII,
+ The following is a HEX DUMP:
+
+FF5750434B100000010A02010000000205000000FA44000000020000AFC5E77576703D9F18BF2B
+BD1E925CCE8E2F1DE2C5BB6AD91369DCA4ED2B6F63C737CC8A6FAA79A314BC6F9C284301160851
+79055149CEB2BFD50EEAE1798E8C75BF1FDFCBA341B1CF759B57DOAC2D184DB56BF0364713E8E8
+6CFDD8D97F4BAF3B70A9625213808F80E6E921C7E041E25BCD90ECCEFDC57567B9884A3D7F2DA1
+E548EC81AB8BC9784C124B321C9D1AB368AF79CD453420F10CB2812E360BB4EC2F8CE709F2A96A
+OC9CFD725B83175A3175AAEA1503B6DB26786C22E2BC3E2AD5B8Cl1628EOA372351C322D3387CD
+055C3E784DE9318006D7038C56C70C65274875B2FB93B21B734561C7E2FODD838B35E3873B2ACB
+AA190382BOE39670C111F4A90C76042BFOl174E86033C12E5A5B461DD807A30C5B22B73AB4DD2B
+46AB26DB5B3389DE5D539855F788365FB97AB30E8BF5B3F12C313C94AE98144C8529954ABDD682
+D93FC4EA2FD2672A062721A1CF1264FAC12A938F1D22DCC53COF66OCE26AFCA521C7937F76B1A3
+ABB333082683EB1A6BFB73F580D94E23690927125820F32FDC338D3803B4DAFD17AB3EC1E64704
+6493ACD6FCAE1B3B3C9EE1EAB9AB90644EBE2EOC110CA1E6BF34A523D921A387DECOBB210636A9
+9294B293379C5DB709AD1B741A8AE9900F85984D71142E2402D5583BC8608C3C15B92F395FABBF
+347F5854110200A100000000000000000000000823010000000B010000CEOA0000005511000500
+4EOOOOOOD90B000009250100000006000000270COOOOOB3002000000280000002DOC0000081601
+00000032000000550C000008050100000008000000870C00000055060003004E0000008FOCOOOO
+0055020001003COOOOOODDOC000006080100000022000000190DOO00081D01000000000000003B
+OD00000055010001004E0000003BOD000008770100000040000000890D00000834010000001400
+0000C90D00000802010000000FOOOOOODDOD00000055010000004E000000ECOD00000055010000
+004E0000003AOE000006080100000022000000880E00000055010000004EOOOOOOAAOEOOOOOOOO
+0000000000000000AAOEOOOOOOOOOOOOOOOOOOOOOOOOAAOE00000055030000004EOOOOOOF80EOO
+0000000000000000000000F80E00000055010000004E000000460F000006080100000016000000
+940F000000000000000000000000940FOOOOOOOOOOOOOOOOOOOOOO00940F000006080100000022
+000000AAOF000006080100000022000000CCOFOOOOOOOOOOOOOOOOOOOOOOOOCCOFOOOOOOOOOOOO
+OOOOOOOOOOOOCCOFOOOOOOOOOOOOOOOOOOOOOOOOCCOFOOOOOOOOOOOOOOOOOOOOOOOOCCOFOOOOOO
+OOOOOOOOOOOOOOOOOOCCOFOOOOOOOOOOOOOOOOOOOOOOOOCCOFOOOOOOOOOOOOOOOOOOOOOOOOCCOF
+OOOOOOOOOOOOOOOOOOOOOOOOCCOFOOOOOOOOOOOOOOOOOOOOOOOOCCOFOOOOOOOOOOOOOOOOOOOOOO
+OOCCOFOOOOOOOOOOOOOOOOOOOOOOOOCCOFOOOOOOOOOOOOOOOOOOOOOOOOCCOFOOOOOOOOOOOOOOOO
+00000000CCOF00000942010000001DOOOOOOEEOFOOOOOOOOOOOOOOOOOOOOOOOOEEOFOOOOOOOOOO
+OOOOOOOOOOOOOOEEOFOOOOOOOOOOOOOOOOOOOOOOOOEEOFOOOOOOOOOOOOOOOOOOOOOOOOEEOFOOOO
+OOOOOOOOOOOOOOOOOOOOEEOFOOOOOOOOOOOOOOOOOOOOOOOOEEOF~OOOOOOOOOOOOOOOOOOOOOOOEE
+OFOOOOOOOOOOOOOOOOOOOOOOOOEEOFOOOOOOOOOOOOOOOOOOOOOOOOEEOFOOOOOOOOOOOOOOOOOOOO
+OOOOEEOFOOOOOOOOOOOOOOOOOOOOOOOOEEOFOOOOOOOOOOOOOOOOOOOOOOOOEEOFOOOOOOOOOOOOOO
+OOOOOOOOOOEEOFOOOOOOOOOOOOOOOOOOOOOOOOEEOFOOOOOOOOOOOOOOOOOOOOOOOOEEOFOOOOOOOO
+OOOOOOOOOOOOOOOOEEOFOOOOOOOOOOOOOOOOOOOOOOOOEEOFOOOOOOOOOOOOOOOOOOOOOOOOEEOFOO
+OOOOOOOOOOOOOOOOOOOOOOEEOFOOOOOOOOOOOOOOOOOOOOOOOOEEOF000000000000000000000000
+EEOFOOOOOOOOOOOOOOOOOOOOOOOOEEOFOOOOOOOOOOOOOOOOOOOOOOOOEEOFOOOOOOOOOOOOOOOOOO
+OOOOOOEEOFOOOOOOOOOOOOOOOOOOOOOOOOEEOFOOOOOOOOOOOOOOOOOOOOOOOOEEOFOOOOOOOOOOOO
+OOOOOOOOOOOOEEOFOOOOOOOOOOOOOOOOOOOOOOOOEEOFOOOOOOOOOOOOOOOOOOOOOOOOEEOFOOOOOO
+OOOOOOOOOOOOOOOOOOEEOFOOOOOOOOOOOOOOOOOOOOOOOOEEOFOOOOOOOOOOOOOOOOOOOOOOOOEEOF
+OOOOOOOOOOOOOOOOOOOOOOOOEEOFOOOOOOOOOOOOOOOOOOOOOOOOEEOFOOOOOOOOOOOOOOOOOOOOOO
+Education and Training:
+                                                                        Hex-Dump Conversion
+[?J
+Declare End to Reading Wars -- Announce Summit. The National Academy of Sciences
+Report on "Preventing Reading Difficulties in Young Children" has been well-received across
+the political spectrum, but it is not well-known. One possible event would be for you to respond
+to the report by declaring an end to the reading wars -- the long-running fight between "phonics"
+and "whole language" advocates. At one of the tutor training sessions being held across the
+country over the summer, you could call for a September "Reading Summit" (already being
+planned by Education). You could also put some flesh on the $3 billion Early Learning Fund in
+the budget, perhaps calling it the Marshall Plan for the end of the Reading Wars.
+
+DC Training Alliance. You could announce a Labor Department pilot program that would
+give a $1.2 million planning grant (the "metro-tech grant") to the DC, MD, and VA job-training
+systems to train workers to meet the demand in the high-tech industry in the DC, MD, and VA
+area. The pilot program will fund 100 workers. There is an expectation that this pilot will lead
+to a demonstration project serving 3,000 people at a cost of $17 million. This is. ready to be
+announced anytime in the near future.
+
+School Construction and Smaller Class Size Day. We could begin preparing now for a
+back-to-school week day that would focus on school construction and smaller class sizes. We
+could ask parents, volunteers, Members of Congress, and community leaders to join together to
+help rebuild/renovate/modernize their local public school. You, the Vice President, Mrs.
+Clinton, and Mrs. Gore could all participant in this construction effort. This would be a terrific
+visual and would allow Members of Congress a chance to highlight this important issue for the
+fall.
+
+Report on Success of School-to-Work Program. A major study is expected to be released soon
+on one of your signature programs of his first year in office, School-to-Work. If it is as positive
+as hoped, and if the right-wing's opposition continues to be an issue, this might be an appropriate
+time to take on the right-wing and further energize the business community in support of
+Democrats' efforts. Weare not sure of the timing of this report. Moreover, our budget scales
+back the school-to-work program (from $400 million to $250 million) as it sunsets according to
+law.
+
+
+Individual Development Accounts:
+
+Endorse Coats-Harkin Bill. You could announce your endorsement of the Coats-Harkin IDA
+demonstration bill in Congress. One possible event idea would be to go to a community
+development bank and help a welfare recipient open a bank account -- this would allow us to
+push for CDFI funding at the same time. Another idea would be to do a more simple Rose
+Garden event with the sponsors of the bill and welfare recipients, and push this as part of our
+welfare-to-work efforts.
+
+
+Pensions:
+
+Pensions Proposals. Your advisors have reached consensus on two pension proposals (in
+                                                                      Hex-Dump Conversion
+addition to the proposals announced in January). The joint and two-thirds/three-quarters
+survivor annuity proposal would increase benefits for some surviving spouses of pension plan
+participants, while the other proposal, initially advanced by Rep. Price (D-NC), would allow
+workers to count FMLA time toward pension vesting requirements. This would ensure that .
+those (relatively few) workers close to the 1,OOO-hour minimum requirement for vesting do not
+lose a year of vesting because of time taken off under FMLA. This can be billed as a women's
+pension item.
+
+Rural Agenda:
+
+Rural Economic Development. There are several potential rural economic initiatives that the
+Administration could roll out over the summer or fall. These focus in particular on education,
+agriculture, housing, trade, and health care. We would work together on some of these and other
+potential initiatives.
+
+Rural Press ConferencelRegional Press Opportunities. We may want to consider
+announcing different elements of a rural economic development initiative through a radio press
+conference which you, the Vice President, and Sec. Glickman could jointly hold. We have done
+this successfully in the past, particularly with respect to budget initiatives. In addition, we might
+want to devote a weekly radio address to rural issues as well.· Both of these hits could be part of
+a broader rural economic rollout in which we have Cabinet heads and subcabinet officials
+conduct media in targeted rural markets across the country.
+
+Housing:
+
+,HUD-NAR "One America" Agreement. HUD and the National Association of Realtors
+ (NAR) have reached a final agreement on the "One America Broker" program. Under the
+ program, NAR will sponsor training for real estate professionals on how to better serve minority
+ and immigrant home buyers. The training will address adherence to Fair Housing Act
+ principles, as well as ways to expand the housing choices available to minorities and other
+ underserved groups. Realtors who complete the course and commit to serving these groups
+ would be able to use the "One America" logo in advertising and promotional materials, which
+ could help them to attract additional clients. To be certified, realtors must be free of any Fair
+ Housing Act violations. The agreement could be announcedlhighlighted by you or the Vice
+ President at an event with, e.g., a minority or immigrant new home buyer who previously
+ experience discrimination and (possibly) a realtor with an outstanding record serving
+ underserved groups.
+
+Technology:
+
+[COMBINE WITH OTHER DISABILITY PROPOSAL]
+Initiative on Technology for Americans with Disabilities. New information technologies can
+substantially increase the quality oflife for the 55 million Americans with disabilities. For
+example -- speech recognition, text-to-speech, computers that can be manipulated with eye
+movements as opposed to a mouse -- can all allow Americans with disabilities to lead more
+independent lives and increase their ability to get ajob. The backdrop for this event could be
+demonstrations of the technology. Deliverables could be:
+o Announcement of Technology Task Force of President's Committee on Employment of
+                                                                           Hex-Dump Conversion
+       People with Disabilities.
+o      FY2000 budget initiative (R&D to develop better technologies, programs to educate
+       engineers to design accessible technology).
+o      Government commitment to purchase "accessible" technology [This is part of the "GI"
+       bill. ]
+
+
+
+International Economics:
+
+Trade Adjustment Assistance. We could do an event on helping everyone benefit from a
+global economy. This event could have four different components, focused on both worker and
+community adjustment:
+o You could announce the consolidation and reform of the Trade Adjustment Assistance
+        (TAA) program and the NAFTA-TAA program. This would more than fulfill the
+        President's promise to strengthen the TAAINAFTA-TAA programs during the fast track
+        debate.
+o A possible Executive Order establishing a coordinating committee on community
+        adjustment issues. This could be modeled after the Executive Order on defense
+        adjustment programs.
+o You could call on Congress to pass his EDA budget and NADBank budget, so that we
+        can effectively deal with communities that have severe and sudden economic distress.
+o Memorandum of Understanding between NADBank and EDA so that they work better
+        together. This is important to Rep. Torres and the Hispanic Caucus. NADBankiCAIP
+        and EDA have done a lot of work together, but it could be an important symbolic
+       message to the Hispanic Caucus for the relationship between the two to be formalized.
+
+Sanctions Policy. You could announce the release of a Presidential Decision Directive on
+Sanctions which would establish a joint NECINSC interagency sanctions review group to
+monitor and coordinate broad United States government sanctions policy. The group would
+ensure that prior to sanctions being implemented the Administration would conduct a
+cosUbenefit analysis. The group could also review existing sanctions in place to determine
+whether they are still serving an important purpose in fulfilling our policy objectives. The time
+could be ripe for such an announcement because of the keen awareness on the Hill and elsewhere
+about the proliferation of new sanctions regimes and their cost to the U.S. economy. An
+interagency process has been working on such a directive; work could be finalized in time for an
+annQuncement. Because the Glenn Amendment has crystallized opinion about the problems
+with unilateral sanctions, this can and should be done sooner rather than later (e.g., over the next
+couple of weeks).
+
+Major International Trade Speech. You could articulate U.S. trade objectives for the year
+leading up to the 1999 WTO Ministerial Conference, which we are hosting. You could also
+announce the selection of the city for such an announcement. Over 20 cities have expressed
+interest; the conference will bring international attention and over 10,000 attendees from foreign
+government, business, press and NGOs. The policy initiative would be a refinement of the goals
+outlined at the May 1998 WTO Anniversary in Geneva.
+
+
+                                                               Automated Records Management System
+                                                               Hex-Dump Conversion
+    Financial:
+
+    Consumer Credit and Financial Services Bill of Rights. Consumer debt levels are at record
+    highs. So too are consumer bankruptcies. And as fees for financial services (including A TMs)
+    mount, consumer anger grows. Working with the DPC, we could develop an initiative and
+    legislative proposal aimed at educating consumers about the use of credit and bank services,
+    improving the information consumers receive, and targeting predatory practices.
+
+

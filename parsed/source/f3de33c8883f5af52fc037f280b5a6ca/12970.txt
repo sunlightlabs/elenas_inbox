@@ -1,0 +1,260 @@
+RECORD TYPE: PRESIDENTIAL     (NOTES MAIL)
+
+CREATOR: David R. Goodfriend ( CN=David R. Goodfriend/OU=WHO/O=EOP [ WHO 1 )
+
+CREATION DATE/TIME:10-JUN-1999 17:37:00.00
+
+SUBJECT:   President's Trip to Chicago
+
+TO: Sean P. Maloney     CN=Sean P. Maloney/OU=WHO/O=EOP@EOP [ WHO   1 )
+READ: UNKNOWN
+
+TO: Rebecca L. Walldorff    ( CN=Rebecca L. Walldorff/OU=WHO/O=EOP@EOP [ WHO J )
+READ:UNKNOWN
+
+TO: Loretta M. Ucelli    ( CN=Loretta M. Ucelli/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Karin Kullman ( CN=Karin Kullman/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Bridget T. Leininger ( CN=Bridget T. Leininger/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Paul D. Glastris     CN=Paul D. Glastris/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Lowell A'. Weiss   ( CN=Lowell A. Weiss/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Beth A. Viola ( CN=Beth A. Viola/OU=CEQ/O=EOP@EOP [ CEQ 1 )
+READ:UNKNOWN
+
+TO: Marjorie Tarmey ( CN=Marjorie Tarmey/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Catherine R. Pacific ( CN=Catherine R. Pacific/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Joshua S. Gottheimer ( CN=Joshua S. Gottheimer/OU=WHO/O=EOP@EOP [ WHO J )
+READ:UNKNOWN
+
+TO: Fred DuVal   ( CN=Fred DuVal/OU=WHO/O=EOP@EOP [ WHO 1
+READ:UNKNOWN
+
+TO: Charles M. Brain ( CN=Charles M. Brain/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Malcolm R. Lee ( CN=Malcolm R. Lee/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Lawrence J. Stein ( CN=Lawrence J. Stein/OU=WHO/O=EOP@EOP [ WHO J )
+READ:UNKNOWN
+
+TO: Robert S. Kapla ( CN=Robert S. Kapla/OU=CEQ/O=EOP@EOP [ CEQ J )
+READ:UNKNOWN
+
+TO: Julianne B. Corbett ( CN=Julianne B. Corbett/OU=WHO/O=EOP@EOP [ WHO J )
+READ: UNKNOWN
+
+TO: Paul J. weinstein Jr.   ( CN=Paul J. Weinstein Jr./OU=OPD/O=EOP@EOP [ OPD J )
+
+
+READ: UNKNOWN
+
+TO: Michael Waldman ( CN=Michael Waldman/OU=WHO/O=EOP@EOP [ WHO I   )
+READ: UNKNOWN
+
+TO: Barry J. Toiv ( CN=Barry J. Toiv/OU=WHO/O=EOP@EOP [ WHO ]- )
+READ:UNKNOWN
+
+TO: Stephanie S. Streett ( CN=Stephanie S. Streett/OU=WHO/O=EOP@EOP [ WHO I )
+READ: UNKNOWN
+
+TO: Todd Stern ( CN=Todd Stern/OU=WHO/O=EOP@EOP [ WHO I )
+READ:UNKNOWN
+
+TO: Dan K. Rosenthal ( CN=Dan K. Rosenthal/OU=WHO/O=EOP@EOP [ WHO I     )
+READ: UNKNOWN
+
+TO: Jennifer M. Palmieri ( CN=Jennifer M. Palmieri/OU=WHO/O=EOP@EOP [ WHO I )
+READ:UNKNOWN
+
+TO: Mary Morrison ( CN=Mary Morrison/OU=WHO/O=EOP@EOP [ WHO I )
+READ: UNKNOWN
+
+TO: Linda L. Moore ( CN=Linda L. Moore/OU=WHO/O=EOP@EOP [ WHO I )
+READ:UNKNOWN
+
+TO: Anne E. McGuire ( CN=Anne E. McGuire/OU=WHOjO=EOP@EOP [ WHO I   )
+READ:UNKNOWN
+
+TO: Joseph P. Lockhart ( CN=Joseph P. LockhartjOU=WHOjO=EOP@EOP [ WHO I )
+READ: UNKNOWN
+
+TO: Ann F. Lewis ( CN=Ann F. Lewis/OU=WHOjO=EOP@EOP [ WHO I )
+READ: UNKNOWN
+
+TO: Kirk T. Hanlin ( CN=Kirk T. HanlinjOU=WHOjO=EOP@EOP [ WHO I )
+READ:UNKNOWN
+
+TO: Cynthia M. Jasso-Rotunno ( CN=Cynthia M. Jasso-Rotunno!OU=WHO!O=EOP@EOP [ WHO I
+READ:UNKNOWN
+
+TO: Nancy V. Hernreich ( CN=Nancy V. HernreichjOU=WHOjO=EOP@EOP [ WHO I     )
+READ:UNKNOWN
+
+TO: Paul K. Engskov ( CN=Paul K. EngskovjOU=WHOjO=EOP@EOP [ WHO I )
+READ:UNKNOWN
+
+TO: Maria Echaveste ( CN=Maria Echaveste/OU=WHOjO=EOP@EOP [ WHO I )
+READ:UNKNOWN
+
+TO: Carolyn E. Cleveland ( CN=Carolyn E. ClevelandjOU=WHOjO=EOP@EOP [ WHO I )
+READ: UNKNOWN
+
+TO: Debra D. Bird ( CN=Debra D. BirdjOU=WHO/O=EOP@EOP [ WHO I )
+READ: UNKNOWN
+
+TO: Kris M Balderston ( CN=Kris M BalderstonjOU=WHOjO=EOP@EOP [ WHO I )
+READ: UNKNOWN
+
+TO: Irma L. Martinez ( CN=Irma L. Martinez/OU=WHOjO=EOP@EOP [ WHO I )
+
+
+READ: UNKNOWN
+
+TO: Tanya L. Lombard ( CN=Tanya L. Lombard/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Orson C. Porter ( CN=Orson C. Porter/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Carolyn T. Wu ( CN=Carolyn T. wu/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Jocelyn A. Bucaro ( CN=Jocelyn A. Bucaro/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: David R. Goodfriend ( CN=David R. Goodfriend/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: June Shih ( CN=June Shih/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Wesley P. Warren ( CN=Wesley P. Warren/OU=CEQ/O=EOP@EOP [ CEQ 1 )
+READ: UNKNOWN
+
+TO: Karen Tramontano ( CN=Karen Tramontano/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Steve Ricchetti ( CN=Steve Ricchetti/Ou=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Janet Murguia ( CN=Janet Murguia/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: George T. Frampton ( CN=George T. Frampton/OU=CEQ/O=EOP@EOP [ CEQ 1 )
+READ: UNKNOWN
+
+TO: Dominique L. Cano ( CN=Dominique L. Cano/OU=WHO/O=EOP@EOP [ WHO 1)
+READ: UNKNOWN
+
+TO: Sidney Blumenthal ( CN=Sidney Blumenthal/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Maria E. Soto ( CN=Maria E. Soto/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Craig Hughes ( CN=Craig Hughes/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Cecily C. Williams   ( CN=Cecily C. Williams/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Dorian V. Weaver ( CN=Dorian V. Weaver/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Michael V. Terrell   ( CN=Michael V. Terrell/OU=CEQ/O=EOP@EOP [ CEQ 1 )
+READ: UNKNOWN
+
+TO: Jordan Tamagni ( CN=Jordan Tamagni/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Aviva Steinberg ( CN=Aviva Steinberg/OU=WHO/O=EOP@EOP [ WHO 1 )
+
+
+READ: UNKNOWN
+
+TO: Laura D. Schwartz ( CN=Laura D. Schwartz/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Simeona F. Pasquil    ( CN=Simeona F. Pasquil/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Elizabeth R. Newman ( CN=Elizabeth R. Newman/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Minyon Moore ( CN=Minyon Moore/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Megan C. Moloney ( CN=Megan C. Moloney/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Andrew J. Mayock ( CN=Andrew J. Mayock/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Bruce R. Lindsey ( CN=Bruce R. Lindsey/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Sara M. Latham ( CN=Sara M. Latham/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Phu D. Huynh ( CN=Phu D. Huynh/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Laura A. Graham ( CN=Laura A. Graham/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Anne M. Edwards    ( CN=Anne M. Edwards/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Brenda B. Costello ( CN=Brenda B. Costello/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Jose Cerda III    ( CN=Jose Cerda III/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Barbara A. Barclay ( CN=Barbara A. Barclay/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Brenda M. Anders ( CN=Brenda M. Anders/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+TEXT:
+On Saturday, June 12, the President will travel to Chicago to deliver the
+commencement address at the University of Chicago, as well as to greet
+Illinois Air National Guard personnel.  Deadlines for the Trip Book are as
+follows:
+
+Background Memos (IL):     DUE FRIDAY, JUNE 11, 3:00 P.M.
+
+        - Political Memo
+        - CEQ Hot Issues
+
+
+        - Cabinet Affairs Hot Issues
+        - Accomplishments
+
+Event Memos:                    DUE FRIDAY, JUNE 11, 6:00 P.M.
+
+        - University of Chicago Commencement
+        - Greet Illinois Air National Guard Personnel
+
+If you have any questions, please e-mail or call me (6-2702).    Thanks.
+
+--David Goodfriend
+,.-..--_.

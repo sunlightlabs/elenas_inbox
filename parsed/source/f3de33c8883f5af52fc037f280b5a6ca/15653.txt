@@ -1,0 +1,128 @@
+  RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+  CREATOR: Michael Cohen ( CN=Michael Cohen/OU=OPD/O=EOP [ OPD ] )
+
+  CREATION DATE/TIME:23-MAY-1997 16:44:31.00
+
+  SUBJECT:   Weekly
+
+  TO: Elena Kagan     CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+  READ: UNKNOWN
+
+  CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO]      )
+  READ: UNKNOWN
+
+  TEXT:
+  Here it is.==================== ATTACHMENT     1 ====================
+  ATT CREATION TIME/DATE:   0 00:00:00.00
+
+  TEXT:
+  Unable to convert ARMS_EXT: [ATTACH.D15]MAIL431406243.116 to ASCII,
+   The following is a HEX DUMP:
+
+ FF5750430EOD0000010A020100000002050000000F260000000200003C1BEEA98669044CE8A727
+ 6E634FC48E02F659B653B8E8B0372C090A34647F06A40BD5887645058D672F6F431CE3A69F54ED
+ 28A509E4B2215863D020DB58DD99EOD89F9DOB0062E598887DE868CD52E8F983EA4B1D802A4361
+ 58FAEBAE2A3B014A2BA33E51928F725F8234AA4A901DEFC2325B21BAEFA9E2EC82BB94B6ADOCCF
+ 28680DE16363DC895AE73E5649CFD555ABCA05929C2684D401BEDB2D257D6F650CECC2C9125AFE
+ B090D9C1FFC9B180FFC13BFCB3953184A692FOE105415E79AF5466D8A14F7EAD17EF71F3D6DB9F
+ D2757C5726F8EF2ABB68530D7C7B8DB47D87FBB005BA6575323BB8554B899B8B560984AD2BA801
+ 7B4C4D2A3EFDD7786AA2D50FD84990D79B22C8ABE17033121BD7B4655E50D1B98B50E8BF8860BB
+ 1EEOA975678231AE916AB200A70B21F9686838B24B82CE0744F98E7BC8C3721B96C5BE41F17AAD
+ 96BA9CD227623AE08EEFAC1EF45BFC04ECFA78D978F57FF5AC351741C4FD674D22178DBA43CA32
+ 2C626A7E9E79E890CABE3FF74CBBOBD77BDD110BB76578F2AD3679B52D45B9D65COE9A474EB9DD
+ 08B6D1E45B2F04594D3A749B8A13116C3C0569642D68880F2679F43BF05367ABB2F4F833055B1D
+ E2EBA16B2D0043F99BAF2D3C1E55F3FBD549EDEDBEBA8FF007F148694F8EC6B1A32CBBFOCBEFC5
+ 180E78E1A80200A400000000000000000000000823010000000B010000F80A0000005501000000
+ 4E000000030C000009250100000006000000510C000008770100000040000000570C0000083401
+ 00000014000000970C00000802010000000FOOOOOOABOC000008050100000008000000BAOCOOOO
+ OOOOOOOOOOOOOOOOOOOOBAOCOOOOOOOOOOOOOOOOOOOOOOOOBAOCOOOOOOOOOOOOOOOOOOOOOOOOBA
+ OCOOOOOOOOOOOOOOOOOOOOOOOOBAOCOOOOOOOOOOOOOOOOOOOOOOOOBAOCOOOOOOOOOOOOOOOOOOOO
+ OOOOBAOCOOOOOOOOOOOOOOOOOOOOOOOOBAOCOOOOOOOOOOOOOOOOOOOOOOOOBAOCOOOOOOOOOOOOOO
+ OOOOOOOOOOBAOCOOOOOOOOOOOOOOOOOOOOOOOOBAOCOOOOOOOOOOOOOOOOOOOOOOOOBAOCOOOOOOOO
+ OOOOOOOOOOOOOOOOBAOCOOOOOOOOOOOOOOOOOOOOOOOOBAOCOOOOOOOOOOOOOOOOOOOOOOOOBAOCOO
+ OOOOOOOOOOOOOOOOOOOOOOBAOCOOOOOOOOOOOOOOOOOOOOOOOOBAOC000000000000000000000000
+ BAOCOOOOOOOOOOOOOOOOOOOOOOOOBAOCOOOOOOOOOOOOOOOOOOOOOOOOBAOCOOOOOOOOOOOOOOOOOO
+ OOOOOOBAOCOOOOOOOOOOOOOOOOOOOOOOOOBAOCOOOOOOOOOOOOOOOOOOOOOOOOBAOCOOOOOOOOOOOO
+ OOOOOOOOOOOOBAOCOOOOOOOOOOOOOOOOOOOOOOOOBAOCOOOOOOOOOOOOOOOOOOOOOOOOBAOCOOOOOO
+ OOOOOOOOOOOOOOOOOOBAOCOOOOOOOOOOOOOOOOOOOOOOOOBAOCOOOOOOOOOOOOOOOOOOOOOOOOBAOC
+ OOOOOOOOOOOOOOOOOOOOOOOOBAOCOOOOOOOOOOOOOOOOOOOOOOOOBAOCOOOOOOOOOOOOOOOOOOOOOO
+ OOBAOCOOOOOOOOOOOOOOOOOOOOOOOOBAOCOOOOOOOOOOOOOOOOOOOOOOOOBAOCOOOOOOOOOOOOOOOO
+ OOOOOOOOBAOCOOOOOOOOOOOOOOOOOOOOOOOOBAOCOOOOOOOOOOOOOOOOOOOOOOOOBAOCOOOOOOOOOO
+ OOOOOOOOOOOOOOBAOCOOOOOOOOOOOOOOOOOOOOOOOOBAOCOOOOOOOOOOOOOOOOOOOOOOOOBAOCOOOO
+ OOOOOOOOOOOOOOOOOOOOBAOCOOOOOOOOOOOOOOOOOOOOOOOOBAOCOOOOOOOOOOOOOOOOOOOOOOOOBA
+ OCOOOOOOOOOOOOOOOOOOOOOOOOBAOCOOOOOOOOOOOOOOOOOOOOOOOOBAOCOOOOOOOOOOOOOOOOOOOO
+ OOOOBAOCOOOOOOOOOOOOOOOOOOOOOOOOBAOCOOOOOOOOOOOOOOOOOOOOOOOOBAOCOOOOOOOOOOOOOO
+ OOOOOOOOOOBAOCOOOOOOOOOOOOOOOOOOOOOOOOBAOCOOOOOOOOOOOOOOOOOOOOOOOOBAOCOOOOOOOO
+ OOOOOOOOOOOOOOOOBAOCOOOOOOOOOOOOOOOOOOOOOOOOBAOCOOOOOOOOOOOOOOOOOOOOOOOOBAOCOO
+ OOOOOOOOOOOOOOOOOOOOOOBAOCOOOOOOOOOOOOOOOOOOOOOOOOBAOC000000000000000000000000
+ BAOCOOOOOOOOOOOOOOOOOOOOOOOOBAOCOOOOOOOOOOOOOOOOOOOOOOOOBAOCOOOOOOOOOOOOOOOOOO
+ OOOOOOBAOCOOOOOOOOOOOOOOOOOOOOOOOOBAOCOOOOOOOOOOOOOOOOOOOOOOOOBAOCOOOOOOOOOOOO
+                                                                 i lex-Dump Conversion
+Weekly report:
+
+SCHOOL VOUCHER AMENDMENT PASSES IN THE SENATE:
+During the debate on the budget resolution, the Senate passed an amendment, offered by Sen.
+Lott, which provides education vouchers for children who have been the victim of violent crimes.
+ The bill provides for budget authority for this provision in FY2000, but no outlays in any year.
+The amendment passed by a 51-48 vote; no Democrat voted for the amendment, and four
+Republicans (Chaffee, Jeffords, Collins and Spector) voted against it. Both Sen. Lott and Sen.
+Dominici voted for the amendment.
+
+The amendment was a surprise to almost everyone, and we are still not sure why it was drafted
+with no budget but no outlay authority. The expectation is that it will easily be dropped in
+conference. The main point seems to have been to provide an important symbolic victory. We
+believe this is the first time a voucher provision has ever passed in the Senate.
+
+NEW CHARTER SCHOOLS STUDY
+Next Wednesday the Department of Education is scheduled to release the first year findings of a
+planned 4-year study of charter schools and their impact on student achievement. The study
+includes an annual survey of all charter schools every year for 4 years. The first year results, are
+based on studies of schools in the ten states that had charter schools legislation when the study
+began. Key findings include:
+
+·      Over half of all charter schools are newly created; almost one-third were pre-existing
+       public schools; a little over one-tenth were pre-existing private schools.
+
+·      In most states, charter schools are at least as economically and racially diverse as the
+       overall population in the state's public schools. In several states (e.g., Arizona and
+                          c
+
+
+       Colorado) charter schools are less diverse.
+
+·      The three most significant obstacles cited by charter school leaders are lack of start up
+       funds, lack of planning time, and inadequate facilities. Only 6% said federal regulations
+       were a significant barrier to getting underway.
+
+REAUTHORIZATION OF IDEA
+You requested additional information in response to a May 16 Wall Street Journal article which
+suggested that the overhauled IDEA does not go far enough in enabling school authorities to deal
+with disruptions caused by students with disabilities.
+
+The new bill continues to provide procedural safeguards for students with disabilities, in order to
+protect their right a free and appropriate education. Within that framework, it strengthens the
+ability of teachers and principals to deal with disruptive or dangerous students, including those
+with disabilities. It does this by:
+
+               making it easier for principals to remove children with disabilities who bring a
+               gun, weapon or drugs to school, or who pose a danger to themselves, their
+                                                                   Hex-Dump Conversion
+
+               teachers or their classmates from the classroom, while continuing to provide them
+               with an education in another setting.
+       ·       making it easier to address a child's behavior problems early on -- before they get
+               out of hand -- by requiring that these be considered in the development of an
+               Individual Education Plan, and by making the regular classroom teacher a part of
+               the team that develops the plan.
+
+These changes were worked out in a bipartisan, bicameral group that also included the
+Administration and representatives ofthe education and disabilities communities. While not
+ideal from anyone's point of view, it represents something that all parties could agree to.
+Especially since education has such a strong culture of regulation, especially in special education,
+ the maintenance of procedural requirements for removing students with disabilities from
+school (which have been at the heart ofthe federal guarantee of access to education) the bill
+may be seen by some in the education community has still tying the hands of local
+administrators.
+
+

@@ -1,0 +1,261 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Paul J. weinstein Jr.   ( CN=Paul J. weinstein Jr./OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME:2B-JAN-1997 14:54:41.00
+
+SUBJECT:
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TEXT:
+Draft side by side.  very rough==================== ATTACHMENT     1 =================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D43]MAIL46373572Y.016 to ASCII,
+ The following is a HEX DUMP:
+
+FF5750439B290000010A02010000000205000000019B0000000200006C1351DE402149EBFCF1AB
+2F613C2C972493DE7609F9AE527511D9C5BC50ABF2FAEABA212C97B23B14B90854B6D71C8043C9
+ADF70386C8AB39EE62B09DAD4B3BA77FADFB3837CC54BE9C5C1BDCFBO76987BCF471026A7FC534
+1F1072AAA8FB892BBAF1E5C53EC583BF74D91DB2CE10B93F178B0513465E9AB5E9BBCDB65D137B
+FD84891E29671742D5E722E16BOE51C965E9E3D9D2E2E2BDAE1B13C8AEB4D3F907B9560F828228
+2BDAA09A703B6ADBF132B56D3A1BC8BDBB774FD2EOBF6BAC4C08C69B40BDA5D1DA29D4CCOA995E
+736B49B8881F9EDB57A83477A819B63FF937642EOB70F720078A4620E26BAD9200FFDCB23D6398
+78332BC5F3DFOC6F9A33CC82EAFB46F9BBE16C681368F413F18522C21FE7354685191A9D02675C
+BF6AE39380C3BC8CEOC5440C9A73F51FE4CBA3B33AD95743597A4248D932A655B218B1EB2C8A43
+E57035C3E7BE33C980AF16D16A5C9E1BA4FBBAF24C33282BEB9516BB7BC9F2B24365F40DAADOD5
+39DOE263BEE62COBAAA5AB761C368B81CAl145A9037B93F375D265164B338COD96255A06950076
+3B86CC08C5D1541F631D16C13B2780931BE1EBEAEB598972876AFDFA2A79E7411B9711899E499D
+37CE56C02A2DA2531F7A4A5F3CF3FD718441414BE525A92669912BA722C66C69B5523A7C67F1AE
+35A22B61A602003600000000000000000000000B30030000007EOO0000F40400000B3003000000
+78000000720500000B30030000006BOOOOOOEA0500000B30030000006B000000550600000B3003
+0000009AOOOOOOC00600000B30030000007E0000005A0700000B3002000000D1000000DB070000
+OB3002000000E4000000A90BOOOOOB3003000000A60000008D0900000B3002000000F700000033
+OAOOOOOB30020000000A0100002AOBOOOOOB30020000001E010000340COOOOOB30020000003101
+0000520DOOOOOB300200000043010000830EOOOOOB300200000056010000C60FOOOOOB30030000
+00CF0000001C1100000B3003000000A4000000EB1100000B3003000000A4000000BF1200000B30
+03000000C3000000331300000B3003000000BCOOOOOOF61300000B3003000000BBOOOOOOB21400
+000B3003000000D90000006D1500000B3003000000A3000000461600000B3003000000A3000000
+E9160000005502000000420000008C17000009250100000006000000CE1700000B30010000007A
+000000D41700000B3001000000D90000004E18000009310200000005010000271900000B300100
+0000E40000002C1A0000090B0200000011000000101BOOOOOB30020000003D000000211BOOOOOB
+3002000000460000005E1BOOOOOB300200000050000000A41BOOOO09310200000093000000F41B
+00000B3001000000B7000000871C0000060B01000000A20300003E1DOOOOOB30020000004FOOOO
+00E0200000004502000000020000002F2100000B30010000007DOO0000312100000B3001000000
+78000000AE2100000B30010000008D000000262200000055160000003AOOOOOOB3220000005542
+00000042000000ED220000093101000000B70000002F23000008020100000010000000E6230000
+086E01000000AF040000F62300000B300300000034000000AS2800000942030000001DOOOOOOD9
+280000081D0100000000000000F628000008770100000040000000F62B00000834010000001400
+0000362900000055010000004E0000004A290000010000000400S6000000000000002600000002
+00000000000000030CFFFF380044006F00630075006D0065006EOO74005B003800SD0000004400
+6F0063007S006D006S006E0074002000S300740079006C006S000000E03013000000000B072EOO
+2E000108071300EOE038130000000060092E002E000160091300EOCC00010000000400S6000000
+000000001900000006000000030000000304FFFF380044006F0063007S006D006S006E007400SB
+0034005D00000044006F0063007S006D006S006E0074002000S300740079006C0065000000E011
+130000000008072E002E000108071300EOF20CF2F208F22EF308F38080F30CF3010000000400S6
+00000000000000130000000200000000000000030CFFFF3B0044006F0063007S006D006S006EOO
+7400SB0036005D00000044006F00630075006D0065006E0074002000S300740079006C006S0000
+                                      ComoarisonO/Respecriye Campaign Finance Reform Bills
+                                                                                                   Hex-Dump Conversion
+
+
+                   Meehan-Smith                                    McCain-Feingold                       Daschle
+
+PAC                Candidates will be required to raise less Candidates will be required to raise less             Contributions to
+Contributions      than 2596 of their campaign funds from    than 20 of their campaign funds from                  PACs are limited
+                   PACs or to a level which in the aggregate PACs.                                                 To $1,000.
+                   cannot exceed the maximum amount which
+                   an individual may contribute to a
+                   candidate or his or her political action
+                   committee. Leadership committees are
+                   banned.
+
+Voluntary          Sets a limit of $600,000 in House               Primary Election Spending Limit - 67            General election
+
+Spending races with benefits of TV, radio,                 of the general election expenditure                      $5.5 million or the
+Limits &and postage rate discounts for                     limit or $2.75 million. General Election        greater of 1.2 mil.
+Benefits political advertising. Candidates pur-            limit - million or the greater of $950,00 or             Or $400,00 plus
+                    chasing TV or radio time 30 days prior           $400,000 plus 30 cents multiplied by the       30 cents multiplied
+                    to a primary election or 60 days before a        voting age population not in excess of         by the voting age
+                    general election shall be charged 50             4 million and 25 cents multiplied              population not in
+                    below the lowest charge for the same             by the voting age in excess of 4 million.      excess of 4 million
+                    amount of time for the same period on the Runoff Limit - aggregate amount of                    and 25 cents multi-
+                   same date. Postage rate discount--3               Expenditures for a runoff election by          plied by the voting
+                    mailings to the voting-age population of         an eligible primary election candidate's       age population in
+                    the congressional district; 3rd-c1ass, authorized committees shall not exceed 20 excess of 400,000.
+                    special nonprofit bulk rate.           the general election limit. Benefits include:   Exception for
+         The spending limit will be indexed.                         1) Each candidate receives 30 minutes of free candidates in states
+                   If a candidate wins his/her primary by            TV time between 6:00 to 10:00 pm Monday with only one
+VHF
+                   10 or less, than the $600,000 limit thru Friday. Time must be used in lengths TV station. Arnou-
+                   will be increased by 30 .                         Of 30 seconds to five minutes. Otherwise nts are indexed.
+                                                                     The broadcast and postal benefits are          Benefits include:
+                                                                     The same as Shays-Meehan.             Payments in an
+                                                                                                                    Equal to oppon-
+                                                                                                                    nents spending
+                                                                                                                    Above general
+                                                                                                                    Election limits.
+                                                                                                                    Same broadcast
+                                                                                                                    postal rate disc-
+                                                                                                                    ounts as McCain
+                                                                                                                    and Shays bills.
+
+
+
+
+Personal Funds Candidates who agree to this system                Personal expenditures shall not exceed.          Personal expendi-
+                total election cycle expenditure.                 the lesser of 10 of general election             tures limited to
+                If their opponents do not                                   expenditure limit or $250,000.                   $25,000.
+                then complying candidates would re-
+                                                                               Automated Records Management System
+                ceive more generous contribution                                       Hex-Dump Conversion
+                and spending limits. (See bill for
+                exact figures)
+
+Home State      No less than 60 of total dolJar amount          Requires candidates to raise 60% of          No Requirement.
+Contributions   of all contributions from individuals           contributions who are legal residents
+                to candidates shall come from individu-         of the candidate's State; or at least
+                als legally residing in the candidate's 60 of the number of individuals
+                home state.                                     whose names are reported to the
+                                                                FEC as individuals from whom the
+                                                                Candidate's authorized committees
+                                                                accept contributions are legal residents
+                                                                of the candidate's State.
+
+Individual      Caps individual contributions ex-              No requirement                                Cash contributions
+Contributions   ceeding $250 to an aggregate                                                                 at $100.
+                limit of no more than 25% of the
+                spending limit.
+
+Lobbyist                                                                                                     Prohibits contribut-
+Contributions                                                                                                ions from lobbyists
+                                                                                                             or its PAC to a ca-
+                                                                                                             ndidate for any
+fed-
+                                                                                                             eral office if , duri-
+                                                                                                             ng the preceeding
+                                                                                                             12 months, the
+                                                                                                             lobbyist has made
+                                                                                                             lobbying contact
+                                                                                                             with the
+officehold-
+                                                                                                             er or candidat. In
+                                                                                                             the case of the Pre-
+                                                                                                             ident, any
+authoriz-
+                                                                                                             ed committee of
+                                                                                                             executive branch
+                                                                                                             official.
+
+Franked Mail    Bans franked mass mailings in                  Bans franked mass mailings in the             Bans franked mass
+                the calendar year of an election.              calendar year of an election.                 mailings in the cal-
+                                                                                                             endar year of an
+                                                                                                             election.
+
+Soft Money      Eliminates the use of soft money               New limits and full disclosure of              Limits on Soft
+                in federal elections. Political part-          soft money contributions. Political part-      Money. Cycle
+                ies--no national party commit-                 ties--no national party committee shall        individual limit
+                tee may solicit, receive, or spend any         solicit or receive any contributions, don-     of $60,000.
+                funds which are not subject to limit-          ations, or transfers of funds, or spend any Election year limit
+                ations, prohibitions, or reporting re-         funds not subject to the limitations, pro-     of $25,00 to all
+                quirements under federal law. This                        hibitions, and reporting requirements of     candidates
+and par-
+                 raising unlimited funds for "non-federal"      pursed by a State, distrid, or local party     state committees of
+                 accounts, which have been used to in-          committee which might affect the outcome       $20,000. Limits
+on
+                 fluence federal elections.   State or          of a Federal election shall be made from       National Party.
+No
+                 local party committees which en-               funds subject to the limitations, prohib-      National Party is
+                 gage in any activity in a federal election     itions, and reporting requirements of this     allowed to accept
+                 year which might affed the outcome of a        Act. Any amount spent to raise funds that      soft money contr-
+                 federal election can spend only funds sub-     are used to pay the costs of any activity      ibutions in excess
+                 jed to limitations, prohibitions and repor-    which might affect an election outcome         of the limits of the
+                 ting requirements of the Act for such ad-      shall be made from funds subject to the        act. Exemption
+for
+                 IVllles. Certain listed state campaign ad-     limitations, prohibitions, and reporting       grass roots, get out
+                 ivities are expressly exempted from this       requirements of this Act for any national,     the vote activities
+                 requirement. Funds spent by state or           State, district, or local committee. No        conduded by more
+                 local party committees to raise funds to be    national, State, district, or local comm.      than one state
+party
+                 used for any activity which might affed        shall solicit any funds for or make any        and does not ident-
+
+                   the outcome of a federal election are also     donations to any organization that is ex-    ify   c~ndidates.
+                   subject to the requirements of federal         empt from Federal taxation under 26
+                   election law. No candidate for federal          u.s.e. No candidate for Federal office,
+                   office or federal officeholder can              Federal officeholder, or any agem of
+        solicit or receive any funds in connection        such candidate or officeholder, may solicit
+                   with a federal election unless such funds        receive any funds in connection with
+                   are subject to the limitations, prohibitions     any Federal election unless such funds are
+                   and reporting requirements of the Act.         subject to the limitations, prohibitions,
+                     No candidate for federal office or federal and reporting requirements of this Act.
+                   officeholder can establish or control a        Persons other than political parties--
+                   SOl(c) tax exempt organization if              If any person to which (sec. 325) does
+                   the organization raised money from the         not apply makes disbursements for act-
+                   public. Persons other than polit-              ivities described above in excess of
+                   ical parties--Requires greater closure for     $2,000, such person should file a statement
+                   internal communications by corporations        on or before the date that is 48 hrs. before
+                   and unions that spend in excess of             the disbursements are made or in the case
+                   $2,000 for any activity which might affect that they are required to be made within 14
+                   the outcome of a federal election, includ-     days of the election, on or before such
+                   ing voter registration and get-out-the-vote 14th day.
+                   activity and any generic campaign activity.
+                   A report of such disbu~sements must be filed
+                   with the FEC within 48 hrs. after the
+                   disbursements are made (or within 24 hrs.
+                   for such disbursements made within 20 days
+                   after the election).
+
+Bundling Ends the practice of bundling               Ban on bundling.
+                  (grouped donations from.indiv-
+                  iduals from the same organization)
+
+Independent      Clarifies definitions relating to independ     Clarifies definition relating to               Clarifies def-
+Expenditures     dent expenditures. The person making an        independent expenditures. The                  inition between
+                 expenditure over $1000 shall report to FEe.    person making an expenditure over              independent
+                 within 24 hours if the expenditure occurs      $1000 shall report to FEC, within 24           expenditure and
+
+
+                                                                                Automated Records Management System
+                                                                                        Hex-Dump Conversion
+                  itional reports are required every $1000 in   20 days of the general election. Add-           enditure. Prohibits
+                  expenditures. $10,000 expenditures will       itional reports are required every $1000        parties from mak-
+                  require reports 24 hours after expenditure.   in expenditures ..$10,000 expenditures          either coord. or
+                  When expenditures have been made on           will require reports 24 hours after             indo expenditure
+                  behalf of a candidate totaling $$25,000       expenditure. When expenditure have              on behalf of cando
+                  The FEC will notify the candidate that he/    been made on behalf of a candidate                        Insures
+equal air
+                  she is entitle to an increase in spending     totaling $10,000 the FEC will notify the        time available for
+                  limits.                                       candidate that he/she is entitled to an         candidate subject
+                                                                increase in spending limits.           to independent
+                                                                                                                expenditure.
+
+Political Strengthens the disclaimer require- Increased disclosure and                       Same
+Advertising        ments for political advertising.              accountability for those who engage
+                                                                 in political advertising.
+
+Use of
+Campaign           Codifies recent FEC regulations on Bans personal use of campaign funds.             Same
+Funds for          personal use of campaign funds.
+Personal           Candidates may not use campaign fu
+Purposes for inherendy personal purposes.
+
+
+Non-              Individuals not qualified to vote             Same                        Prohibits foreign
+Citizens          are prohibited from contributing                                          nationals from making
+                  to candidates for federal office.                                         campaign contributions
+                                                                                            to candidates for federal
+                                                                                            office. Contributions from
+                                                                                            dependents shall be counted
+                                                                                            against their parent or guardians
+                                                                                            limit.
+
+
+
+
+                                                                                        Automated Records Management S'lstem
+                                                                                                ~:cx-Dump Conversion J
+
+

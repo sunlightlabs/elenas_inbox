@@ -1,0 +1,176 @@
+     RECORD TYPE: PRESIDENTIAL   {NOTES MAIL}
+
+     CREATOR: Jose Cerda III { CN=Jose Cerda III/OU=OPD/O=EOP [ OPD ]
+/
+     CREATION DATE/TIME:29-0CT-1997 00:20:40.00
+
+     SUBJECT:   Cut at Assaults Memo
+
+     TO: Elena Kagan { CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ]   }
+     READ: UNKNOWN
+
+     CC: Leanne A. Shimabukuro { CN=Leanne A. Shimabukuro/OU=OPD/O=EOP @ EOP [ OPD ] }
+     READ: UNKNOWN
+
+     TEXT:
+     EK:
+
+     This needs more work -- and I can spend some more time on it in the morn
+     if you like.  Otherwise, take a look and see if this is enough for you to
+     get started. jc3
+
+
+     ==================== ATTACHMENT   1 ========~===========
+     ATT CREATION TIME/DATE:   0 00:00:00.00
+
+     TEXT:
+     Unable to convert ARMS_EXT: [ATTACH.D29]MAIL44441010D.316 to ASCII,
+      The following is a HEX DUMP:
+
+     FF575043CA040000010A020100000002050000009D2B00000002000OEF36422BC2825017967EDB
+     20D5A92D746372F8CF2A21AEDC022532BA196995982667C4998FACF8B4620585D3C834D49329A3
+     01CD96CC0997873B02A8937513C5EBEEC71A7CDC650D4407ECB2BD1B222D8608249016A1825E68
+     B486831914C4981E926D368CDOOA4AOFBBA0437031E3F40CC110D6B891D223E4323CEBCF850907
+     43AB657F3AA6FA35BA73B10DEC61F07A2AD64F703454B62527672A94742D659FF3D708376F394C
+     91C59853A511F460F83C3F475ED21A4467B8ED479A110EA29EB1FOC2F3D3D759C551F7AB1BF4F8
+     739DA097112F1A895FD1DFC5B63700914ADB3C14001AD253E8C68167AD2B47CD5951EE7457C3A7
+     F35F3E7BF091406088D50A29CF8050AF282814883778FCBE82D5A5397447999E5729E01EDBF2D4
+     34083099395DE5B48D05E5453E47B4COCOOA0158F3874215B8A1C921814CB085182F778769E419
+     8DOBBOED3D99925E555D08195B5853AA70C34495A67617446A30FACOE21BA1CE243E276B019831
+     03B5214D715D23E91C832B0151E252018D35188D3B4AAE5613159BDCOCA18B5C031D1B7042444D
+     59603EOCEA28B8F83D78C159041B159A4D403DB033A91B553742782DAD49A1E628A65EF3C7E276
+     B372FBA049C1EE89E37E337BF3C76D2A6C63DE936D48235D69AD12EB3D44C3C67547C535BD2B17
+     22970C158002000A00000000000000000000000823010000000B0100008C020000005501000000
+     4E0000009703000009250100000006000000E50300000B300200000028000000EB030000005501
+     0000004C00000013040000087701000000400000005F040000083401000000140000009F040000
+     0802010000000FOOOOOOB304000008050100000008000000C204000000984C006F00630061006C
+     002000480050002000350000000000000000000000000000000000000000000000000000000000
+     000000000000000000000000000000000000000000000000000057494E53504F4F4COOOOOOOOOO
+     C800C8002C012C012C012C01C800C8003000000000000000000000000000000000000000000000
+     000000000000000000000000000000000000000000000000000000000000000000000000000000
+     000000000000000000000000000000000000000000000000000000000000000000000000000000
+     000000000000000000000000000000000000000000000000000000000000000000000000000000
+     0000000000000000000000000000000000000B0100002800C8196810480D000011090000005AOO
+      OB01000~103600540069006D006500730020004E0065007700200052006F006D0061006E002000
+      52006500670075006C006100720000000000000000000100020058020100000004002800000000
+      000000000000000000000000000000011202002400A1000000A100000031007F20691090060000
+      13410000005A000708008B143400430065006E007400750072007900200047006F007400680069
+      006300200052006500670075006C00610072000000000000000000OA000000290B020002002AOB
+      010045002BOB020002002COB010045002DOB020002002EOB010045002FOB02000200300B010045
+      00310B01000200320BE5006581F7A264220000000038003800380038003800380008337C007800
+                                                           Hex-Dump Conversion
+
+                                   ..· DRAFT. ..
+                                       (10_29.97)
+
+MEMORANDUM FOR THE PRESIDENT
+
+FROM BRUCE REED
+          RAHM EMANUEL
+
+RE           Options regarding "Sporterized" Assault Weapons Directive
+
+
+       Attached is draft directive on the importation of a new class of modified,
+or "sporterized", assault weapons. As you know, the 1994 Crime Bill bans 19
+specific assault weapons, their duplicates and certain other semiautomatic
+weapons with various military-style features. The 1968 Gun Control Act prohibits
+the importation of firearms that are not "generally recognized as particularly
+suitable or readily adaptable to sporting purposes." Despite these restrictions,
+some otherwise prohibited weapons have been redesigned in order to
+circumvent the ban and meet the sporting purposes test criteria for importation.
+
+       Generally, the directive to the Treasury Department we are proposing
+mirrors your action in 1993 to ban the importation of assault pistols and the
+action taken by President Bush in 1989 to ban the importation of assault rifles.
+Specifically, the directive would: (1) require Treasury to reexamine, and if
+necessary, modify the criteria used to keep non-sporting weapons out of the
+country; and (2) temporarily suspend the approval of any pending and future
+applications for permits to import sporterized assault weapons. Although only a
+limited number of these firearms has come into the country since passage of the
+assault weapons ban (approximately 14,000 in 1994, 12,000 in 1995,30,000 in
+1996, and nearly 20,000 to date this year -- as opposed to nearly 160,000 in 1993),
+applications are now pending to impo~ as many as 1.1 million of these firearms.
+
+      As you know, we have not yet resolved whether the Administration should
+take the additional step of temporarily suspending permits that already have
+been granted. While ATF originally estimated that 300,000 sporterized assault
+weapons could be legally imported under roughly 50 existing permits, they now
+put the figure at about 600,000. The difference is due largely to an erroneous
+action taken last week by ATF staff to approve 3 permits for an additional
+175,000 sporterized firearms -- despite Treasury's internal instructions to not act on
+pending applications until the scope of this directive was determined.
+                                                      Hex-Dump Conversion
+       We have worked with Treasury, Justice and White House Counsel to
+develop the strongest possible case for suspending existing permits. For
+instance, over the weekend, ATF re-reviewed gun tracing data -- a key factor in
+upholding the Bush Administration's 1989 suspension of all permits (Gun South,
+Inc. v. Brady) -- to determine the number of sporterized assault weapons being
+recovered at crime scenes. And while ATF discovered that there was a 145%
+increase in the number of sporterized weapons traced since 1994, this is due
+mostlyIo the Administration's more than doubling of the number of crime guns
+traced.
+
+        Despite our efforts, Justice litigators continue to have serious doubts that
+we have a sufficient factual basis for temporarily suspending existing permits.
+They point out that, in upholding the Bush Administration's 1989 action, the court
+relied on a combination of specific facts, including: (1) the dramatic
+proliferation of assault rifles in criminal activity; (2) a 57% increase in the number
+of assault rifles recovered at crime scenes; (3) several highly publicized shootings
+involving assault rifles, such as the Stockton, CA murders; and (4) data indicating
+the smuggling of assault weapons for use in foreign crimes. Arguably, these
+circumstances do not exists today. Overall sales and imports of assault-type
+rifles are down significantly from previous levels, and current gun tracing data is
+skewed by the overall increase in the number of weapons traced. Only the
+large number of approved and pending permits are comparable to the
+circumstances in 1989.
+
+       Although Justice litigators believe that this is a high risk case, they have
+clearly stated that they will defend it. However, they -- and we -- remain
+concerned that a loss on the temporary suspension of existing permits could
+undermine our ability to defend any future action taken by Treasury to modify
+the test for non-sporting weapons.      For instance, an unfriendly court could
+decide to rule more broadly on the Administration's authority to interpret the
+sporting purposes test under the 1968 Gun Act.
+
+       You must decide among the following options to finalize the scope of the
+directive:
+
+      Option 1: Suspend action only on pending and future permits (about 1.1
+      million firearms and growing). The 50 existing permits to import 600,000
+      firearms could be exercised during the review period, but -- if the sporting
+      purposes test is ultimately changed -- permits for firearms that no longer
+      meet the sporting purposes test would be revoked. Treasury and Justice
+      lawyers believe this option is entirely defensible. Senator Feinstein and
+      other Members of Congress would complain that this action is not
+      sufficiently bold.
+Option 2: In addition to suspending action on peH8iR~trej1fmiJre
+permits, temporarily suspend all existing permits (roughly 50 permits for
+600,000 firearms) while the sporting purposes criteria is reviewed. After·
+this review, if the sporting purposes test is changed, permits for firearms
+that no longer meet the test would be revoked. Justice litigators believe
+that this option presents a substantial litigation risk and could undermine
+our ability to defend future action by Treasury to modify the sporting
+purposes test. Additionally, key Treasury staff would spend much of the
+review period in court - and not necessarily working on re-examining the
+sporting purposes test.                                                   .
+
+Option 3:     Immediately suspend action on the importation of pending
+and future permits, and require Treasury to closely monitor the levels of
+importation and criminal use of sporterized firearms during the review
+period. Existing permits could be suspended if there is a significant
+change in either of these categories, and if Treasury and Justice establish
+that there is a sufficient factual basis to do so. Although this solution may
+not be acceptable to Senator Feinstein, it is likely to lessen criticism from
+others -- and reduce our litigation risk.
+
+Option 4: In addition to suspending pending and future permits, also
+suspend the 3permits for 175,000 firearms erroneously issued last week.
+These 3 permits were mistakenly granted prior to finalizing our interagency
+process on the directive -- during which time Treasury had informally
+placed a moratorium on issuing permits. Treasury and Justice lawyers
+believe there is at least some basis to defend this action. As with Option
+# 1, Senator Feinstein and other gun control advocates may not find this
+action to be sufficient.
+
+

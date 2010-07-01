@@ -1,0 +1,151 @@
+RECORD TYPE: PRESIDENTIAL     (NOTES MAIL)
+
+CREATOR: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME:27-APR-1998 11:09:33.00
+
+SUBJECT:   Look at this revised two pager
+
+TO: Elena Kagan     CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Laura Emmett    ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO]   )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ]       )
+READ: UNKNOWN
+
+TEXT:
+  I changed the top half of the first page -- do you think that's enough,
+given Rahm's comments?==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:    0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D69] MAIL46862461J. 126 to ASCII,
+ The following is a HEX DUMP:
+
+FFS7S043C0040000010A0201000000020S000000S121000000020000EAA12B93173E21CCFSOB8B
+141BC10634F4F6B166BEE3DS460SF14DEE3E6369ABA446811B4F8A6CD3AA038CABCAABE7SD6DF9
+A926SS60SBBC9S4SABA830BS3944D128632S9ABBF9163B2BFSE2F4B1107D080FEFAE6F82BAESEA
+S8F3S0B9F6F2CSC171CC14B7ED6A83B936FC270B327F9FB87S76FCC2DA323DF7ASACA6E4EAEC38
+AD976E6EE963FS96F1SFDBBA17C806BBD12378CECAOB8A49E8919C2929EFOBC8C1B9SA81DFB7FE
+C32314C4DOSD160E10294494346C8ESF100161FC731EEBF2FA31D21E367247F31B24F2SBFBCC61
+20327FE4SBF01CF6A66DD48CCD34D90EF46C98SACD2AS9FBSF20DE7CECBAASADCSFEC3847E7AD7
+B97ABD81738997SB798S19SF36ESBACD9DFFD3DDC97E014A6B4A60SB94EOS66981C72DB78S703F
+00D1FCCADSCB7090SBAAD14B88E09490B6FD7779C38ED4F87461492FF1D3478D9636S67A879B8E
+D72A8C47818ABDAF1B27D21ED9467CCC7FD770DS737939B3AF32F2C16919A42CS24290F6CSE84B
+AFB811CASEA90464A069C920A62AD4111ECE7BB7B80AD8FDSA67BOS84601C90FEB319E1E3192F2
+C034E81F3CDA288COA443E1A436887907ED6EE6FB7SD6FCD932E1i2C2AEDCS4074A44S96CCS9SS
+08A7C9DCSF4B8DD80880692C876261A40FD7F18A8C738AA9C441AADEB370CDBESS1FF601S644D6
+BDEF149EE402000COOOOOOOOOOOOOOOOOOOOOOOOSS080000004EOO0000A8020000092S01000000
+06000000F60200000B300AOOOOOOSSOOOOOOFC0200000B30010000004DOOOOOOS103000000SS01
+0000003C0000009E03000000SS060000004EOOOOOODA0300000802010000001000000028040000
+OB30020000003400000038040000081D01000000000000006C040000087701000000400000006C
+04000008340100000014000000AC0400002800C8196810480DOOOO1109000000SAOOOB01000010
+3600S40069006D006S00730020004E006S0077002000S2006F006D0061006E002000S2006S0067
+007S006C0061007200000000000000000001000100S8020100000004003E000000000000001700
+000000000000000000000100FFFF240022060000S3006D0061006C006C00200043006900720063
+006C006S000000F02206FOE030130000000008072E002E000108071300E0010000000400360000
+00000000001700000000000000000000000100FFFF24001B060000S4007200690061006E006700
+6C006S000000F01B06FOE030130000000000002E002E000100001300E01BOOF41ASC121A090000
+1109000000600018110000102400S40069006D006S00730020004E006S0077000000S2006F006D
+0061006E000000000000002800D61EC30F390800001109000000SA000B01008B143600S4006900
+6D006S00730020004E006S0077002000S2006F006D0061006E002000S2006S0067007S006C0061
+007200·000000000000000008337C00780001020000680000000100010000000400280000000COO
+00000000000000000000000000000112A4S42400A1000000A1000000D30S0C0000010000000COO
+D30AOOOOOOSF0002001700600001004400610001004400620002000200630001004S0064000200
+02006S0002004400660002001700670002000200680002000B0012209B24000000000000000000
+00000000000112DDOA1000830108000300A4S4211000DDD30S0COO00010000000COOD3DDOBOBOO
+030000040BOODDD2000E00000200C003B0040EOOD2D2010E00000200C003B0040EOOD2D1000EOO
+000200C003B0040EOOD1D1010E00000200C003B0040EOOD1F20CF2D30S0C0000010002000COOD3
+                                                    Hex-Dump Conversion
+
+    PRESIDENT CLINTON SAYS NEW SURGEON GENERAL'S REPORT UNDERSCORES
+       THE NEED FOR COMPREHENSIVE BIPARTISAN TOBACCO LEGISLATION
+                                April 27, 1998
+
+President Clinton said today that a new Surgeon General's report on tobacco underscores the urgent
+need for comprehensive legislation to reduce youth smoking. Over the last six years, youth smoking
+has increased by one third. Smoking has increased among young people of all races and ethnicities,
+growing by a startling 80 percent among African American youth. Today, 40 percent of white high
+school students smoke, as do one-half of young Native Americans, one third of Hispanics, and
+one-fifth of Asian and African Americans. Every day, 3000 children become regular smokers -- and
+1000 of them will die as a result. This report -- the first to be released by newly appointed Surgeon
+General David Satcher -- is the first comprehensive source of data on the use and health effects of
+tobacco among ethnic groups.
+
+The Surgeon General's Report Documents Disturbing Trends in Tobacco Use. African
+Americans, Hispanics, Asian Americans, and American Indians/Alaska Natives make up nearly
+one-fourth of the United States population. The 'report provides a comprehensive analysis on the
+effect of tobacco on these groups, including that:
+
+·      Teen smoking rates are rising in all ethnic groups.
+
+              Teen smoking rates rose dramatically among African-Americans and Hispanics from
+              1991-1997. Smoking rates among African-American high school students were up by a
+              startling 80 percent, and smoking rates among Hispanic high school students increased
+              by 34 percent. Smoking among white high school students increased from 31 to 40
+              percent.
+
+              The most recent data also shows disturbing trends among Asian American and
+              American Indian/Alaska Native youth. From 1990 to 1995, cigarette smoking
+              increased by 17 percent among Asian American 12th graders and by 26 percent among
+              their American Indian and Alaska Native counterparts.
+
+              The report also documents that American Indians have the highest adult smoking rates
+              of any ethnic or minority group in the United States -- nearly 40 percent, compared to 25
+              percent of all adults.
+
+·      Cigarette smoking is a major cause of death and disease among all minority and ethnic
+       groups. The report documents that:
+
+              Lung cancer is the leading cancer death for all four minority groups. The increase in
+              youth smoking threatens to reverse recent progress made against lung cancer among
+              these groups.
+
+              African-American men bear the greatest health burdens from lung cancer, with death
+              rates about 50 percent higher than whites. Lung cancer incidence has increased
+              substantially among Alaska Natives (93 percent increase for men and 241 percent
+              increase for women) since the 1970s.
+                                                       Hex-Dump Conversion
+
+               Smoking increases infant mortality and low birth weight, with the risk oflow birth
+               weight babies almost twice as high for smokers than for non-smokers. Among
+               smokers, the rate of sudden infant death syndrome is particularly high among Hispanics,
+               African Americans, and Asians.
+
+·      The tobacco industry has targeted advertising and promotion campaigns in ethnic and
+       minority communities that pose serious challenges to reducing smoking among this
+       population. The report found that:
+
+               Tobacco products are advertised intensively in racial and communities. For example,
+               in one city, 62 percent of billboards in predominantly African American neighborhoods
+               advertised cigarettes, compared with 36 percent of billboards citywide.
+
+·      More research is needed to understand racial and ethnic smoking patterns and to reduce
+       tobacco use among racial and ethnic minorities.
+
+               The Surgeon General's report highlights successful community-based tobacco
+               prevention and cessation programs, as well as successful federal programs that are
+               tailored to the needs of specific minority and ethnic communities.
+
+                The report, however, demonstrates the need for further research to develop the
+                         prevention and cessation programs that will be most effective in minority
+                         communities.
+The President Renewed His Call for Comprehensive Bipartisan Tobacco Legislation. The
+President emphasized that this report again demonstrates the need to pass bipartisan comprehensive
+tobacco legislation to reduce youth smoking this year. Noting that Senator McCain's bill is a strong
+step in the right direction, the President renewed his call for Congress to send him legislation that:
+
+·      Raises the price of cigarettes by up to $1.50 a pack over the next ten years and imposes tough
+       penalties on companies that continue to sell to kids;
+
+·      Confirms the FDA's authority to regulate tobacco products;
+
+·      Gets tobacco companies out ofthe business of marketing to children;
+
+·      Furthers public health research and goals; and
+
+·      Protects tobacco farmers and their communities.
+
+

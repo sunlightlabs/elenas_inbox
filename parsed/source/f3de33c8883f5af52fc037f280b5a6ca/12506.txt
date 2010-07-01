@@ -1,0 +1,2583 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Constance J. Bowers ( CN=Constance J. Bowers/OU=OMB/O=EOP [ OMB ] )
+
+CREATION DATE/TIME: 5-MAY-1999 17:35:09.00
+
+SUBJECT:   ED's revised Title VII (Bilingual Education)
+
+TO: Bethany Little ( CN=Bethany Little/OU=OPD/O=EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP@EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Jonathan H. Schnur ( CN=Jonathan H. schnur/OU=OPD/O=EOP@EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Leslie S. Mustain ( CN=Leslie S. Mustain/OU=OMB/O=EOP@EOP [ OMB ] )
+READ:UNKNOWN
+
+TO: Tanya E. Martin ( CN=Tanya E. Martin/OU=OPD/O=EOP@EOP [ OPD ] )
+READ:UNKNOWN
+
+TO: Wayne Upshaw ( CN=Wayne Upshaw/OU=OMB/O=EOP@EOP [ OMB ] )
+READ: UNKNOWN
+
+TO: Wei-Min C. wang ( CN=Wei-Min C. Wang/OU=OMB/O=EOP@EOP [ OMB ] )
+READ:UNKNOWN
+
+TEXT:
+Attached is ED's redraft of Title VII, in response to the OMB passback.
+The chang,s are on pages 7, 13, 17, 24, 2~, 33, 44, and 47, in boldface.
+The revised foreign language piece
+> will be in Title X.
+>
+Please provide your comments on this revision as soon as possible.
+Thanks.
+
+>   «b-bilesea.doc»
+
+ - b-bilesea. doc
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D63]ARMS23799493P.136 to ASCII,
+ The following is a HEX DUMP:
+
+DOCFIIEOAIBllAEl000000000000000000000000000000003E00030OFEFF090006000000000000
+000000000004000000CD01000000000000001000002601000001000000FEFFFFFF000000002AOI
+0000CF010000DOOIOOOOCE010000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+                                                         Hex-Dump Conversion
+
+
+ 2                                                                                DRAFT
+ 3                                                                               5/5/99
+
+ 4                      TITLE VII - BILINGUAL EDUCATION ACT
+
+ 5
+
+ 6                           FINDINGS, POLICY, AND PURPOSE
+
+ 7        SEC. 701.           Section 7102 of the Act i s amended--
+
+ 8                (1)        by amending subsection (a)      to read as
+
+ 9   follows:
+
+IO        " (a)        FINDINGS.    The Congress finds that-
+
+11                II   (1)    as Nations of the world become increasingly
+
+12   interdependent and as international communication becomes a
+
+13   daily occurrence in government, business,               commerce, and
+
+14   family life, multilingual skills constitute an important
+
+15   national resource that deserves protection and development;
+
+16                "(2)        the presence of language-minority Americans
+
+17   is related to Federal immigration policies;
+
+18                "(3)        language-minority Americans speak virtually
+
+19   all languages, including many that are indigenous to the
+
+20   United States;
+
+21                "(4)       many language-minority Americans are
+
+22   limited in their English proficiency, and many have limited
+
+23   education and income;
+
+24                "(5)        there are large and growing numbers of
+                                                             Hex-Dump Conversion
+
+     children and youth of limited English proficiency, many of
+
+ 2   whom have a cultural heritage that differs from that of
+
+ 3   their English proficient peers;
+
+ 4               "(6)    limited English proficient students and
+
+ 5   their families are increasingly moving into school
+
+ 6   districts that do not have appropriate services in place to
+
+ 7   serve them;
+
+ 8               "(7)    limited English proficient students arrive
+
+ 9   at their schools at various age levels and often with
+
+10   tittle or no prior formal schooling;
+
+11               "(8)    limited English proficient children and
+
+12   youth face a number of challenges in receiving an education
+
+13   that will enable them to participate fully in American
+
+14   society,   including--
+
+15                      "(A)   segregated education programs;
+
+16                      "(B)   disproportionate and improper
+
+17   placement in special education and other special programs,
+
+18   due to the use of inappropriate evaluation procedures;
+
+19                      "(C)   disproportionate attendance in high-
+
+20   poverty schools, as demonstrated by the fact that,           in 1994,
+
+21   75 percent of limited English proficient students attended
+
+22   schools in which at least half of all students were
+
+23   eligible for free or reduced-price meals;
+
+24                      "(D)   the limited English proficiency of
+
+
+
+                                       2
+                                                                  Hex-Dump Conversion
+     their parents, which hinders parents' ability to
+
+ 2   participate fully in the education of their childreni and
+
+ 3                       "(E)   a shortage of teachers and other staff
+
+ 4   who are professionally trained and qualified to serve such
+
+ 5   children and youthi
+
+ 6               "(9)     school districts and schools find it
+
+ 7   challenging to include limited English proficient students
+
+ 8   in their reform effortsi
+
+ 9               "(10)     a 1999 National Center for Education
+
+10   Statistics survey found that teachers are less likely to
+
+11   participate in professional development designed to address
+
+12   the needs of limited English proficient students than to
+
+13   take part in any other kind of professional development
+
+14   activitYi
+
+15               "(11)     institutions of higher education can
+
+16   assist in preparing teachers, administrators, and other
+
+17   school personnel to understand and build upon the
+
+18   educational strengths and needs of language-minority and
+
+19   culturally diverse student enrollmentsi
+
+20               "(12)     high-quality bilingual education programs
+
+21   enable children and youth to learn English and meet high
+
+22   academic standardsi
+
+23               "(13)     a 1998 National Research Council report,
+
+
+
+
+                                        3
+                                                                 Hex-Dump Conversion
+     Preventing Reading Difficulties in Young Children, found
+
+ 2   that limited English proficient students should be taught
+
+ 3   to read first in their native language and that, if such an
+
+ 4   approach is not possible due to lack of materials and
+
+ 5   resources, limited English proficient students should
+
+ 6   attain some fluency in oral English.before they receive
+
+ 7   formal reading instruction in English;
+
+ 8             " (14)     the use of a child's or youth's native
+
+ 9   language and culture in classroom instruction can--
+
+10                      "(A)   promote self-esteem and contribute to
+
+11   academic achievement and learning English by limited
+
+12   English proficient children and youth;
+
+13                      "(B)   benefit children and youth who are
+
+14   proficient in English and also participate in such
+
+15   programs; and
+
+16                      "(C)   develop our Nation's national language
+
+17   resources, thus promoting our Nation's competitiveness in
+
+18   the global economy;
+
+19             " (15)     research, evaluation, and data-collection
+
+20   capabilities in the field of bilingual education need to be
+
+21   strengthened so that educators and other staff can better
+
+22   identify and promote      programs, program implementation
+
+23   strategies, and instructional practices that result in
+
+24   effective education of limited English proficient children;
+
+
+                                       4
+                                                         Hex.Dump Conversion
+               " (16)   parent and community participation in
+
+ 2   bilingual education programs contributes to program
+
+ 3   effectiveness;
+
+ 4             " (17)   educational technology has the potential
+
+ 5   for improving the education of language-minority and
+
+ 6   limited English proficient students and their families,            and
+
+ 7   the Federal Government should foster development of that
+
+ 8   technology;
+
+ 9             " (18)   the Federal Government, as reflected in
+
+10   title VI of the Civil Rights Act of 1964 and section 204 (f)
+
+11   of the Equal Education Opportunities Act of 1974, has a
+
+12   special and continuing obligation to ensure that States and
+
+13   local school districts take appropriate action to provide
+
+14   equal educational opportunities to children and youth of
+
+15   limited English proficiency;
+
+16             " (19)   the Federal Government also, as
+
+17   exemplified by programs authorized under this title, has a
+
+18   special and cant inuing obligation to assist States and
+
+19   local school districts to develop the capacity to provide
+
+20   programs of inst ruction that offer limited English
+
+21   proficient children and youth an equal educational
+
+22   opportunity; and
+
+23             " (20)   Native Americans and Native American
+
+
+
+
+                                    5
+
+ 2   Native American Languages Act), including native residents
+
+ 3   of the outlying areas, have a unique status under Federal
+
+ 4   law that requires special policies within the broad
+
+ 5   purposes of this Act.";
+
+ 6               (2)      by amending subsection (b) to read as
+
+ 7   follows:
+
+ 8        "(b)    POLICY.     The Congress declares it to be the
+
+ 9   policy of the United States--
+
+10               " (1)     in order to ensure equal educational
+
+11   opportunity for all children and youth and to promote
+
+12   educational excellence, that the Federal Government should
+
+13   assist State and local educational agencies, institutions
+
+14   of higher education, and community-based organizations to
+
+15   build their capacity to establish, implement, and sustain
+
+16   programs of instruction for children and youth of limited
+
+17   English proficiency; and
+
+18               \\ (2)    in order to ensure that school districts
+
+19   are providing effective instruction to limited English
+
+20   proficient students that enable students to achieve to
+
+21   challenging State standards and are providing programs
+
+22   under subtitle 1 of Part A of this title that are
+
+23   consistent with the requirements under section
+
+24   1111 (b) (2) (F) (v) of title I of this Act, that--
+
+                                                     Automated Records Manage~ent System
+                                        6                    Hex.Dump Conversion
+
+ 2   State assessments of academic performance;
+
+ 3                    " (B)   those students should be assessed, to
+
+ 4   the extent practicable, in the language and form most
+
+ 5   likely to yield accurate and reliable information on what
+
+ 6   those students know and can do in subjects other than
+
+ 7   English, including using tests written in Spanish for
+
+ 8   Spanish-speaking students with limited English proficiency,
+
+ 9   if those tests are more likely than tests written in
+
+10   English to yield accurate and reliable information on what
+
+11   those students know and can do in subjects other than
+
+12   English; and
+
+13                    " (C)   those students who have been in United
+
+14   States' schools (not including Puerto Rico)       for three
+
+15   consecutive years or more should be tested in reading and
+
+16   language arts using tests written in English."; and
+
+17             (3 )   in subsection (c)--
+
+18                    (A)     in the matter before paragraph (1), by
+
+19   striking out "to educate limited English proficient
+
+20   children and youth to" and inserting in lieu thereof "to
+
+21   help ensure that limited English proficient students master
+
+22   English and"; and [NOTE TO OMB:       For the reasons Mike Cohen
+
+23   and Delia Pompa expressed yesterday,     we would prefer not to
+
+24   add "on a timely basis".    1
+                                                   Automated Records Management System
+                                                           Hex-Dump Conversion
+                                       7
+
+ 2   follows:
+
+ 3                  "(1)     promoting systemic improvement and reform
+
+ 4   of, and developing accountability systems for,             educational
+
+ 5   programs serving students with limited English
+
+ 6   proficiency. " .
+
+ 7
+
+ 8                 AUTHORIZATION OF APPROPRIATIONS FOR PART A
+
+ 9         SEC. 702.         Section 7103(a) of the Act is amended to
+
+10   read as follows:
+
+11         "(a) IN GENERAL.          For the purpose of carrying out this
+
+12   part, there are authorized to be appropriated such sums as
+
+13   may be necessary for each of fiscal years 2001             through
+
+14   2005. "
+
+15
+
+16                 PROGRAM DEVELOPMENT AND ENHANCEMENT      G~TS
+
+
+17         SEC. 703.         Section 7113 of the Act is amended--
+
+18                  (1)     by amending the section heading     to read as
+
+19   follows:      "PROGRAM DEVELOPMENT AND ENHANCEMENT GRANTS"            i
+
+
+20                  (2)    by amending subsection (a)   to read as
+
+21   follows:
+
+22         " (a)     PURPOSE.     The purpose of this section is to
+
+23   provide grants to eligible entities to carry out innovative
+
+
+
+                                                          Automated Records Management System
+                                                                  Hex·Dump Conversion
+                                           8
+
+ 2   students. " ;
+
+ 3               (3)   in subsection (b)--
+
+ 4                     (A)   in paragraph (1) (B), by striking out
+
+ 5   "two" and inserting in lieu thereof "three"; and
+
+ 6                     (B)   by amending paragraph (2) to read as
+
+ 7   follows:
+
+ 8               "(2) AUTHORIZED ACTIVITIES.--(A) Grants under
+
+ 9   this section shall be used for--
+
+10                           "(i) developing and implementing
+
+II   comprehensive, preschool, elementary, or secondary
+
+12   education programs for children and youth with limited
+
+13   English proficiency, that are aligned with standards-based
+
+14   State and local school reform efforts and coordinated with
+
+15   other relevant programs and services to meet the full range
+
+16   of educational needs of such children and youth;
+
+17                           "(ii)    provi~ing   high-quality
+
+18   professional development to classroom teachers,
+
+19   administrators, and other school or community-based
+
+20   organization personnel to improve the instruction and
+
+21   assessment of limited English proficient students; and
+
+22                           "(iii)    annually assessing the English
+
+23   proficiency of all limited English proficient students
+
+24   served by the program.
+
+
+                                                        Automate~ Reo Management System
+                                                                    cords
+                                        9                       ex- ump Conversion
+
+ 2   for--
+
+ 3                          "(i)     implementing programs to upgrade
+
+ 4   the reading and other academic skills of limited English
+
+ 5   proficient students;
+
+ 6                          "~Iii)    developing accountability
+
+ 7   systems to track the academic progress of limited English
+
+ 8   proficient and formerly limited English proficient
+
+ 9   students;
+
+\0                          "(iii)     implementing family education
+
+11   programs and parent outreach and training activities
+
+12   designed to assist parents to become active participants in
+
+13   the education of their children;
+
+14                          "(iv)     improving the instructional
+
+15   program for limited English proficient students by
+
+16   identifying, acquiring, and applying effective curriculum,
+
+17   instructional materials, assessments, and educational
+
+18   technology aligned with State and local standards;
+
+19                          "(v)     providing tutorials and academic
+
+20   or career counseling for children and youth who are limited
+
+21   English proficient; and
+
+22                          "(vi)     such other activities,
+
+23   consistent with the purposes of this part, as the Secretary
+
+24   may approve."; and
+
+
+                                        \0         Automated Records Management System
+                                                           Hex-Dump Conversion
+
+ 2   follows:
+
+ 3        "(d)    PRIORITY.    The Secretary is authorized to give
+
+ 4   priority to applicants that have a total district
+
+ 5   enrollment that is less than 10,000 students and have
+
+ 6   limited or no experience in serving limited
+
+ 7   English proficient.".
+
+ 8
+
+ 9                       COMPREHENSIVE SCHOOL GRANTS
+
+10        SEC. 704.      Section 7114 of the Act is amended--
+
+11               (1)    by amending subsection (a) to read as
+
+12   follows:
+
+13        "(a)    PURPOSE.    The purpose of this section is to
+
+14   implement school-wide education programs, in coordination
+
+15   with Title I, for children and youth with limited English
+
+16   proficiency--
+
+17               "(1)    to assist such children and youth to learn
+
+18   English and achieve to challenging State content and
+
+19   performance standards; and
+
+20               "(2)    to improve, reform, and upgrade relevant
+
+21   programs and operations, in schools with significant
+
+22   concentrations of such students or that serve significant
+
+23   numbers of such students."    i
+
+
+24               (2)    by amending subsection (b) (2) to read as
+
+                                                       Automated Records Management System
+                                       11                      Hex-Dump Conversion
+
+ 2              "(2) PROGRAM IMPROVEMENT PLAN.--(A)      The Secretary,
+
+ 3   before making a continuation award for the fourth year of a
+
+ 4   program under this section, shall determine if the program
+
+ 5   is making continuous and substantial progress in assisting
+
+ 6   children and youth with limited English proficiency to
+
+ 7   learn English and achieve to challenging State content and
+
+ 8   performance standards.          The Secretary shall base the
+
+ 9   determination on--
+
+10                          "(i) the indicators established under
+
+11   section 7118(d) and the data and information collected
+
+12   under section 7118; and
+
+13                          " (ii)   such other data and information as
+
+14   the Secretary may require.
+
+15                   " (B) (i)   If the Secretary determines that a
+
+16   recipient requesting a fourth-year continuation award under
+
+17   this section is not making continuous and substantial
+
+18   progress under subparagraph (A), the recipient shall
+
+19   promptly develop and submit to the Secretary a program
+
+20   improvement plan for its program.
+
+21                          " (ii)   The Secretary shall approve a
+
+22   program improvement plan under clause (i) only if he or she
+
+23   determines that it holds reasonable promise of enabling
+
+24   students with limited English proficiency participating in
+
+
+                                          12
+                                                          Automated Records Management System
+                                                                  Hex-Dump Conversion
+
+ 2   State content and performance standards.
+
+ 3                           "(iii)     If the Secretary does not
+
+ 4   approve a recipient's program improvement plan under clause
+
+ 5   (i), or i f the Secretary determines that the recipient is
+
+ 6   not making sufficient progress in implementing such plan,
+
+ 7   the Secretary shall take such other action as he or she
+
+ 8   determines to be appropriate, such as the denial of a
+
+ 9   continuation award.";
+
+10               (3)    by amending paragraphs (3) and        (4) to read
+
+11   as follows:
+
+12               "(3)   AUTHORIZED ACTIVITIES.-- (A)·     Grants under
+
+13   this section shall be used to improve the education of
+
+14   limited English proficient students and their families by--
+
+15                           "(i)     coordinating the program with
+
+16   district policies and practices, as well as other relevant
+
+17   programs and services, and. aligning the program with school
+
+18   reform efforts to meet the full range of educational needs
+
+19   of limited English proficient students;
+
+20                           "(ii)    providing training to all, or
+
+21   virtually all, school personnel and participating
+
+22   community-based organization personnel to improve the
+
+23   instruction and assessment of limited English proficient
+
+24   students;
+
+                                                        Automate~ Records Management System
+                                                                 eX-Dump Conversion
+                                         13
+
+ 2   accountability systems to track the academic progress of
+
+ 3   limited English proficient and formerly limited English
+
+ 4   proficient students; and
+
+ 5                          "(iv)    annually assessing the English
+
+ 6   proficiency of all limited English proficient students
+
+ 7   served by the program.
+
+ 8                  "(B)     Grants under this section may also be
+
+ 9   used for--
+
+10                          "(i)     implementing programs to upgrade
+
+11   the reading and other academic skills of limited English
+
+12   proficient students;
+
+13                          "(ii)    developing and using educational
+
+14   technology, including interactive technology, to improve
+
+15   learning, assessments, and accountability;
+
+16                          "(iii)    implementing and adapting
+
+17   research-based models for meeting the needs of limited
+
+18   English proficient students;
+
+19                          "(iv)    developing and implementing
+
+20   programs to meet the needs of limited English proficient
+
+21   students with disabilities;
+
+22                          "(v)     implementing family education
+
+
+
+
+                                                     Automated Records Management System
+                                                            Hex-Dump Conversion
+                                        14
+
+ 2   designed to assist parents to become active participants in
+
+ 3   the education of their children;
+
+ 4                               "(vi)     improving the instructional
+
+ 5   program for limited English proficient students by
+
+ 6   identifying, acquiring, and upgrading curriculum,
+
+ 7   instructional materials, educational software and
+
+ 8   assessment procedures;
+
+ 9                               "(vii)    providing tutorials and
+
+10   academic or career counseling            for children and youth of
+
+1J   limited-English proficiency;
+
+12                               "(viii)    developing and implementing
+
+13   programs to help all students become proficient in more
+
+14   than one   lang~age;       and
+
+15                               " (ix)    carrying out such other
+
+16   activities, consistent with the purposes of this part, as
+
+17   the Secretary may approve.
+
+18               " (4)    SPECIAL RULES_          A grant recipient--
+
+19                       "(A)     before carrying out a program assisted
+
+W    under this section, shall plan,              train personnel, develop
+
+21   curriculum, and acquire or develop materials, but shall not
+
+22   use funds under this section for planning purposes for more
+
+23   than 90 days; and
+
+24                       "(B)     shall not carry out a program under
+
+
+                                                                 Automate~ Reo Management System
+                                                                             cords
+                                             15                          ex- ump Conversion
+
+ 2   receives under this section.".
+
+ 3
+
+ 4                      SYSTEMWIDE IMPROVEMENT ·GRANTS
+
+ 5        SEC. 705.      Section 7115 of the Act is amended--
+
+ 6                (1)   in subsection (a), by striking out
+
+ 7   "bilingual education programs or special alternative
+
+ 8   instruction programs to"     and inserting in lieu thereof
+
+ 9   "instructional programs for children and youth with limited
+
+10   English proficiency";
+
+11                (2)   by amending subsection (b) (2) to read as
+
+12   follows:
+
+13              n(2) PROGRAM IMPROVEMENT PLAN.--(A)      The Secretary,
+
+14   before making a continuation award for the fourth year of a
+
+15   program under this section, shall determine if the program
+
+16   is making continuous and substantial progress in assisting
+
+17   children and youth with limited English proficiency to
+
+18   learn English and achieve to challenging State content and
+
+19   performance standards.      The Secretary shall base the
+
+20   determination on--
+
+21                        n(i) the indicators established under
+
+22   section 7118(d) and the data and information collected
+
+23   under section 7118; and
+
+
+
+                                                  Automated Records Management System
+                                      16                  Hex-Dump Conversion
+
+ 2   the Secretary may require.
+
+ 3                 II   (B) (i)         If the Secretary determines that a
+
+ 4   recipient requesting a fourth-year continuation award under
+
+ 5   this section is not making continuous and substantial
+
+ 6   progress under subparagraph (A), the recipient shall
+
+ 7   promptly develop and submit to the Secretary a program
+
+ 8   improvement plan for its program.
+
+ 9                           lI(ii)        The Secretary shall approve a
+
+10   program improvement plan under clause (i) only if he or she
+
+11   determines that it holds reasonable promise of enabling
+
+12   students with limited English proficiency participating in
+
+13   the program to learn English and achieve to challenging
+
+14   State content and performance standards.
+
+15                                 II   (iii)   If the Secretary does not
+
+16   approve a recipient's program improvement plan under clause
+
+17   (i), or if the Secretary determines that the recipient is
+
+18   not making sufficient progress in implementing such plan,
+
+19   the Secretary shall take such other action as he or she
+
+20   determines to be appropriate, such as the denial of a
+
+21   continuation award. ";
+
+22               (3)      by amending paragraph (4) to read as
+
+23   follows:
+
+24              "(4)      AUTHORIZED ACTIVITIES.--(A)            Grants under
+
+                                                                  Automated Records Management System
+                                                 17                       Hex·Dump Conversion
+
+ 2                          "(i)     aligning   programs for limited
+
+ 3   English proficient students in the district with school,
+
+ 4   district, and State reform efforts and coordinating the
+
+ 5   program with other relevant programs, such as Title I, and
+
+ 6   services to meet the full range of educational needs of
+
+ 7   limited English proficient students throughout the
+
+ 8   district;
+
+ 9                          "(ii)    providing high-quality
+
+10   professional development that is aligned with high
+
+11   standards to classroom teachers, administrators, and other
+
+12   school or community-based organization personnel to improve
+
+13   the instruction and assessment of limited English
+
+14   proficient students;
+
+15                          "(iii)     developing and implementing a
+
+16    plan, coordinated with programs under title II of Higher
+
+17   Education Act of 1965 where applicable, to recruit teachers
+
+18   trained to serve limited English proficient students;
+
+19                          "(iv)     annually assessing the English
+
+20   proficiency of all limited English proficient students
+
+21   served by the program; and
+
+22                          "(v)     developing or improving
+
+
+
+
+                                                          Automated Record M
+                                                                 Hex-Dumps coanage'!1ent System
+                                                                              nverslOn
+                                        18
+
+ 2   accountability system to measure limited English proficient
+
+ 3   students' academic progress in a valid and reliable manner.
+
+ 4                  " (B)    Grants under this section may also be
+
+ 5   used for --
+
+ 6                          " (i)     developing and implementing
+
+ 7   programs to help all students become proficient in more
+
+ 8   than one language;
+
+ 9                          "(ii)     developing content and
+
+10   performance standards for learning English as a second
+
+11   language, as well as for learning other languages;
+
+12                          " (iii)    developing assessments tied to
+
+13   State performance standards;
+
+14                          " (iv)    developing performance standards
+
+15   for students with limited English proficiency that are
+
+16   aligned with challenging State content standards;
+
+17                          " (v)     redesigning programs for limited
+
+18   English proficient students to meet the needs of changing
+
+19   population of such students;
+
+20                          "(vi)     coordinating assessments with
+
+21   State accountability systems;
+
+22                          " (vii)     implementing policies and
+
+23   procedures to ensure that limited English proficient
+
+24   students have access to all district programs, such as
+
+
+                                         19
+                                                         Automated Records Management System
+                                                                Hsx·Dump Conversion
+
+ 2     education programs; and
+
+ 3                             "(viii)     integrating technology into
+
+ 4     all aspects of educating limited English proficient
+
+ 5     students, including data management systems and the
+
+ 6     delivery of instructional services to limited English
+
+ 7     proficient students.".
+
+ 8 .
+
+ 9                APPLICATIONS FOR AWARDS UNDER SUBPART 1
+
+10          SEC. 706.    Section 7116 of the Act is amended--
+
+11                (1)   in subsection (b)--
+
+12                      (A)    in paragraph (1), by striking out "such
+
+13     application" and inserting in lieu thereof         "its written
+
+14     comments on the application"; and
+
+15                      (B)    by amending paragraph (2) (B) to read as
+
+16     follows:
+
+17                      "(B)    For purposes of this subpart, such
+
+18     comments shall address--
+
+19                             "(i)    how the grant activities will
+
+20     further the academic achievement and English proficiency of
+
+21     limited English proficient students served under a grant
+
+22     received under this subpart; and
+
+23                             "(ii)     how the grant application is
+
+
+
+
+                                                            Automated Records Management System
+                                           20                       Hex-Dump Conversion
+
+ 2   State assessments, required under section 1111.";
+
+ 3               (2)    by amending subsection (f) to read as
+
+ 4   follows:
+
+ 5        "(f)   REQUIRED DOCUMENTATION.         Such application shall
+
+ 6   include documentation that--
+
+ 7               "(1)    the applicant has the qualified personnel
+
+ 8   required to develop, administer, and implement the proposed
+
+ 9   program; and
+
+10               "(2)    the leadership of each participating school
+
+11   has been involved in the development and planning of the
+
+12   program in the school.";
+
+13               (3)    in subsection (g) (1)--
+
+14                      (A)    by amending subparagraph (A) to read as
+
+15   follows:
+
+16                      "(A)   A description of the need for the
+
+17   proposed program, including data on          the number of children
+
+18   and youth of limited English proficiency in the schools or
+
+19   school districts to be served and the characteristics of
+
+20   such children and youth, including--
+
+21                             "(i)    the native languages of the
+
+22   students to be served;
+
+23                             "(ii)   student proficiency in English
+
+24   and the native language;
+                                                         Automated Records Management Syst
+                                                                 Hex-Dump Conversion      em
+                                          21
+
+ 2   limited English proficient students to be served by the
+
+ 3   program (and in comparison to their English proficient
+
+ 4   peers) in--
+
+ 5                                 "(I)        reading or language arts (in
+
+ 6   English and in the native language, if applicable); and
+
+ 7                                 "(II)       mathematics;
+
+ 8                         "(iv)     reclassification rates for
+
+ 9   limited English proficient students in the district;
+
+10                         " (v)    the previous schooling
+
+11                   experiences
+
+12   of participating students;
+
+13                         "(vi)     the professional development
+
+14   needs of the instructional personnel who will provide
+
+15   services for limited English proficient students, including
+
+16   the need for certified teachers; and
+
+17                         "(vii)     how the grant would supplement
+
+18   the basic services provided to limited English proficient
+
+19   students. " ;
+
+20                   (B)   in subparagraph (B)--
+
+21                         (i)     by amending clause (ii) to read as
+
+22   follows:
+
+23                         "(ii)     is coordinated with other
+
+
+                                                              Automated Records Management Systerr
+                                                                      Hex-Dump Conversion
+                                          22
+
+ 2   such as the Individuals with Disabilities        Ed~cation       Act and
+
+ 3   the Carl D. Perkins Vocational and Technical Education Act,
+
+ 4   in accordance with section 11505;";
+
+ 5                           (ii)     by redesignating clauses (ii)
+
+ 6   through (v) as clauses (iii) through (vi) respectively; and
+
+ 7                           (iii)     by inserting a new clause (ii)
+
+ 8   to read as follows:
+
+ 9                           " (ii)   will supplement the basic
+
+10   services the applicant provides to limited English
+
+11   proficient students;"; and
+
+12                     (C)    by amending subparagraph (E) to read
+
+13   as follows:
+
+14                    "(E)    An assurance that the applicant will
+
+15   employ teachers in the proposed program who individually,
+
+16   or in combination, are proficient in--
+
+17                           "(i)     English, including written, as
+
+18   well as oral, communication skills; and
+
+19                           " (ii)    the native language of the
+
+20   majority of students they teach, if instruction in the
+
+21   program is also in the native language."; and
+
+22              (4)   in subsection (i) by--
+
+23                    (A)    amending paragraph (1) to read as
+
+24   follows:
+                                                       Automated Records Management SystefP
+                                                               Hex·Dump Conversion
+                                         23
+
+ 2   give priority to applicants that--
+
+ 3                     "(A)    experience a dramatic increase in the
+
+ 4   number of limited English proficient students enrolled;
+
+ 5                     "(B)    demonstrate that they have a proven
+
+ 6   record of success in helping children and youth with
+
+ 7   limited English proficiency learn English and achieve to
+
+ 8   high academic standards; or {NOTE TO OBM: There is already
+
+ 9   authority to ask for this information (and any other
+
+10   information) in the application section.       We believe that
+
+11   since there is a priority for it, those applicants that
+
+12   have successful records will put in for the points, and
+
+13   those who don't (or have no record) won't.]
+
+14                     "(C)    propose programs that provide for the
+
+15   development of bilingual proficiency both in English and
+
+16   another language for all participation students.";
+
+17                     (B)    striking out paragraphs (2) and (3)i
+
+18   and
+
+19                     (C)    by redesignating paragraphs (4) and (5)
+
+20   as paragraphs (2) and (3), repectively.
+
+21
+
+22                      EVALUATIONS UNDER SUBPART 1
+
+23         SEC. 707.   Section 7123 of the Act is amended--
+
+24              (1)    in subsection (a), by striking out "every
+
+
+                                       24         Automated Records Management System
+                                                          Hex·Dump Conversion
+
+ 2               (2)    by amending subsection (c) to read as
+
+ 3   follows:
+
+ 4        "(c)    EVALUATION COMPONENTS.--(l)          In preparing
+
+ 5   evaluation reports, the recipient shall--
+
+ 6                      "(A)    use the data provided in the
+
+ 7   application as baseline data against which to report
+
+ 8   academic achievement and gains in English proficiency for
+
+ 9   students in the program;
+
+10                      "(B)    report on the validity and reliability
+
+11   of all instruments used to measure student progress; and
+
+12                      "(C)    enable results to be disaggregated by
+
+13   relevant factors,     such as student's grade, gender, and
+
+14   language group, and whether the student has a                disability.
+
+15               "(2)    Evaluations shall include--
+
+16                      "(A)   data on the proj ect' s progress in
+
+17   achieving its objectives;
+
+18                      "(B)   data showing the extent           to which all
+
+19   students served by the program are achieving to the State's
+
+20   student performance standards,           including--
+
+21                             "(i)   data comparing limi ted English
+
+22   proficient children and youth with English proficient
+
+23   students with regard to grade retention and academic
+
+24   achievement in reading and language arts, in English and in
+                                                            Automated Records Management Systerr
+                                                                    Hex·Dump Conversion
+                                         25
+
+ 2   proficiency, and in math;
+
+ 3                           "~Iii)   gains in English proficiency,
+
+ 4   including speaking, comprehension, reading, and writing, as
+
+ 5   developmentally appropriate, and such gains in native
+
+ 6   language proficiency if the project develops native
+
+ 7   language proficiency; and
+
+ 8                           "(iii)    reclassification rates
+
+ 9   (including average duration in a program) for limited
+
+10   English proficient students by grade, and data on the
+
+11   academic achievement of redesignated students for two years
+
+12   after redesignation;
+
+13                    "(e)    program implementation indicators that
+
+14   address each of the program's objectives and components,
+
+15   including the extent to which professional development
+
+16   activities have resulted in improved classroom practices
+
+17   and improved student achievement;
+
+18                    "(D)   a description of how the activities
+
+19   funded under the grant are coordinated and integrated with
+
+20   the overall school program and other Federal, State, or
+
+21   local programs serving limited English proficient children
+
+22   and youth; and
+
+23                    (E)    such other information as the Secretary
+
+24   may require."; and
+                                                       Automate~ Records Management Systerr
+                                                                ex·Dump Conversion
+                                        26
+
+ 2   follows:
+
+ 3        "(d)    PERFORMANCE MEASURES.         The Secretary shall
+
+ 4   establish performance indicators to determine if programs
+
+ 5   under sections 7113 and 7114 are making continuous and
+
+ 6   substantial progress, and may establish performance
+
+ 7   indicators to determine if programs under section 7112 are
+
+ 8   making continuous and substantial progress, toward
+
+ 9   assisting children and youth with limited English
+
+10   proficiency to learn English and achieve to challenging
+
+11   State content and performance standards.".
+
+12
+
+13                                   RESEARCH
+
+14       .SEC. 708.      Section 7132 of the Act is amended--
+
+15               (1)     in subsection (a),by--
+
+16                       (A)   inserting the paragraph designation
+
+17   " (1)" before "The Secretary shall";
+
+18                       (B)   striking out "through the Office of
+
+19   Educational Research and Improvement in coordination and
+
+20   collaboration with the Office of Bilingual Education and
+
+21   Minority Language Affairs"; and
+
+22                       (C)   adding a paragraph (2) to read as
+
+23   follows:
+
+24               " (2)   Such research may include--
+
+
+                                                         Automated Records Management Systir
+                                        27                       Hex·Dump ConversloP
+
+ 2   with the Government Performance and Results Act;
+
+ 3                    " (B)    improving data collection procedures
+
+ 4   and the infrastructure for data collection on limited
+
+ 5   English proficient students, for purposes of improving
+
+ 6   instruction and accountability;
+
+ 7                    "(C)     developing research-based models for
+
+ 8   serving limited English proficient students of diverse
+
+ 9   language backgrounds and in diverse educational settings;
+
+10                    "(D)     identifying technology-based
+
+11   approaches that show effectiveness in helping limited
+
+12   English proficient students reach challenging State
+
+13   standards; and
+
+14                    " (E)    other research, demonstration, and
+
+15   data collection activities consistent with the purpose of
+
+16   this title.";
+
+17             (2)    ln subsection (b)--
+
+18                    (A)     in paragraph (1), by inserting Oland "
+
+19             at
+
+20   the end thereof;
+
+21                    (B)     by striking out paragraphs (2)     and (3);
+
+22   and
+
+23                    (C)     by redesignating paragraph (4) as
+
+24   paragraph (2);
+                                                       Automated Re   d
+                                                              Hex.8~~~ ~;~~~~~~nt System
+                                       28
+
+ 2                      (A)   in paragraph (1), by--
+
+ 3                            (i)    striking out ,,( 1) IN GENERAL. - - " ;
+
+ 4   and
+
+ 5                            (ii)    by striking out "under subpart 1
+
+ 6   or 2" and inserting lieu thereof "under subpart 1, section
+
+ 7   7124, or subpart 3"; and
+
+ 8                      (B)   striking out paragraph (2); and
+
+ 9              (4)     by striking out subsection (e).
+
+10
+
+11                        ACADEMIC EXCELLENCE AWARDS
+
+12         SEC. 709.     Section 7133 of the Act is amended to read
+
+13   as follows:
+
+14                       "ACADEMIC EXCELLENCE AWARDS
+
+15    "SEC. 7133. (a)     AUTHORITY.     The Secretary is authorized to
+
+16   make grants to State educational agencies to assist them In
+
+17   recognizing local educational agencies and other public and
+
+18   non-profit entities whose programs have--
+
+19              "(1)    demonstrated significant progress in
+
+20   assisting limited English proficient students to learn
+
+21   English within three years; and
+
+22              "(2)    demonstrated significant progress in
+
+
+
+
+                                                            Automated Records Management System
+                                                                    Hex-Dump Conversion
+                                         29
+
+ 2   within three years, the same challenging State content
+
+ 3   standards expected of all children and youth.
+
+ 4         "(b)        APPLICATIONS.    A State educational agency
+
+ 5   desiring a grant under this section shall include an
+
+ 6   application for such grant in its application required
+
+ 7   under section 7124 (e) . " .
+
+ 8
+
+ 9                               STATE GRANT PROGRAM
+
+10        SEC. 710.          Section 7134(c) of the Act is amended to
+
+11   read as follows:
+
+12         "(c)        USES OF FUNDS.   A State educational agency shall
+
+13   use funds awarded under this section to-
+
+14                "(1)       assist local educational agencies in the
+
+15   State with program design, capacity building, assessment of
+
+16   student performance, program evaluation, and development of
+
+17   data collection and accountability systems for limited
+
+18   English proficient students that are aligned with State
+
+19   reform efforts i and
+
+20                11   (2)   collect data on limited English proficient
+
+21   populations in the State and the educational programs and
+
+22   services available to such populations.".
+
+23
+
+
+
+                                                         Automated Records Management S
+                                                                Hex-Dump Conversion   ystem
+                                           30
+
+ 2                 YOUTH WITH LIMITED ENGLISH PROFICIENCY
+
+ 3        SEC. 711.      Section 7135 of the Act is amended to read
+
+ 4   as follows:
+
+ 5     NATIONAL CLEARINGHOUSE ON THE EDUCATION OF CHILDREN AND
+
+ 6                 YOUTH WITH LIMITED ENGLISH PROFICIENCY
+
+ 7        "SEC. 7135.      The Secretary shall establish and support
+
+ 8   the operation of a National Clearinghouse on the Education
+
+ 9   of Children and Youth with Limited English Proficiency,
+
+10   which shall collect, analyze, synthesize, and disseminate
+
+11   information about programs related to the education of
+
+12   children and youth with limited English proficiency and
+
+13   coordinate its activities with Federal data and information
+
+14   clearinghouses and dissemination networks and systems.".
+
+15
+
+16                   INSTRUCTIONAL. MATERIALS DEVELOPMENT
+
+17        SEC. 712.      Section 7136 of the Act is amended to read
+
+18   as follows:
+
+19                  "INSTRUCTIONAL MATERIALS DEVELOPMENT
+
+20        "SEC. 713 6.    (a)   AUTHORITY.   The Secretary may award
+
+21   grants for the development, publication, and dissemination
+
+22   of high-quality instructional materials--
+
+23                "(1)   in Native American and Native Hawaiian
+
+24   languages;
+                                                  Automated Records Managi~me~! ~vsr8'
+                                                          Hex-Dump Conversion
+                                       31
+
+ 2   and other natives of the outlying areas for whom
+
+ 3   instructional materials are not readily available;
+
+ 4                " (3)   in other low-incidence languages in the
+
+ 5   United States and for which instructional materials are not
+
+ 6   readily available; and
+
+ 7                "(4)    on standards and assessments, and
+
+ 8   instructional programs related to the education of children
+
+ 9   and youth with limited English proficiency, for
+
+10   dissemination to parents of such children and youth.
+
+11        " (b)    PRIORITIES.   The Secretary shall give priority
+
+12   to applications that provide for--
+
+13                "(1)    developing instructional materials in
+
+14   languages indigenous to the United States or the outlying
+
+15   areas; and
+
+16                " (2)   developing and evaluating instructional
+
+17   materials, including technology-based application, that
+
+18   reflect challenging State and local content standards, in
+
+19   collaboration with activities assisted under subpart 1 and
+
+20   section 7124.".
+
+21
+
+22                           PURPOSE OF SUBPART 3
+
+23        SEC. 713.       Section 7141 of the Act is amended to read
+
+24   as follows--
+
+                                                    Automated Records Management ~ySlt:I'
+                                                            f../pv-nlfIl1D Conversion
+                                       32
+
+ 2         "SEC. 7141.          The purpose of this subpart is to assist
+
+ 3   in preparing educators to improve educational services for
+
+ 4   children and youth with limited English proficiency by
+
+ 5   supporting professional development programs for such
+
+ 6   educators. " .
+
+ 7
+
+ 8                       TRAINING FOR ALL TEACHERS PROGRAM
+
+ 9        SEC. 714.        Section 7142 of the Act is amended--
+
+10                (1) by amending subsection (a)       to read as
+
+11   follows--
+
+12         "(a)    PURPOSE.       The purpose of this section is assist
+
+13   eligible applicants under subsection (b) (1) to develop and
+
+14   provide ongoing professional development to teachers and
+
+15   other educational personnel with a baccalaureate degree to
+
+16   improve their provision of services to limited English
+
+17   proficient students or to become certified as a bilingual
+
+18   or English as a second language teacher.";
+
+19                (2)     in subsection (b)--
+
+20                        (A)    by amending paragraph (1) to read as
+
+21   follows:
+
+22                "(1)     AUTHORITY.    The Secretary is authorized to
+
+23   award grants under this section to local educational
+
+24   agencies or to one or more local educational agencies in
+
+                                                          Automated Records Management System
+                                           33                    Hex-Dump Conversion
+
+ 2   institutions of higher education, or nonprofit
+
+ 3   organizations."; and
+
+ 4                       (B)     in paragraph (2), by striking out
+
+ 5   "five" and inserting in lieu thereof "three"; and
+
+ 6               (3)     by amending subsection (c) to read as
+
+ 7   follows:
+
+ 8        "(c)    ACTIVITIES.--(l) Funds under this section shall
+
+ 9   be used to conduct high-quality, long-term professional
+
+10   development activities.
+
+II               " (2)    Funds under this section may be used to--
+
+12                       "(A)    design and, implement induction
+
+13   programs for new teachers, including mentoring and coaching
+
+14   by trained teachers, team teaching with experienced
+
+15   teachers, time for observation of, and consultation with,
+
+16   experienced teachers; and additional time for course
+
+17   preparation;
+
+18                       " (B)   implement school-based collaborative
+
+19   efforts among teachers to improve instruction in reading
+
+20   and other core academic areas for students with limited
+
+21   English proficiency, including programs that facilitate
+
+22   teacher observation and analyses of fellow teachers'
+
+23   classroom practice;
+
+24                       " (C)   support long-term collaboration among
+
+                                                         Automated Records Management System
+                                          34                    Hex-Dump Conversion
+
+ 2   limited English proficient students;
+
+ 3                     "(D)   coordinate project activities with
+
+ 4   other programs such as those under the Head Start Act and
+
+ 5   titles I and II of the Act;
+
+ 6                     "(E)   implement programs that support
+
+ 7   effective teacher use of education technologies to improve
+
+ 8   instruction and assessment;
+
+ 9                     "(F)   establish and maintain local
+
+10   professional networks;
+
+11                     "(G)   develop curricular materials and
+
+12   assessments for teachers that are aligned with State and
+
+13   local standards and the needs of, the limited English
+
+14   proficient students to be served; and
+
+15                     "(H)   develop education technology to
+
+16   enhance professional development; and
+
+17                     "(I)   such other activities as are
+
+18   consistent with the purpose of this section.".
+
+19
+
+20        BILINGUAL EDUCATION TEACHERS AND PERSONNEL GRANTS
+
+21        SEC. 715.     Section 7143 of the Act is amended--
+
+22               (1)   by amending subsection (a) to read as
+
+23   follows--
+
+
+                                                  Automate~ Records Management System
+                                                           ex-Dump Conversion
+                                      35
+
+ 2   support preservice professional development to improve the
+
+ 3   preparation of prospective teachers who are preparing to
+
+ 4   teach children and youth of limited English proficiency.";
+
+ 5                (2)    by amending subsection (c) to read as
+
+ 6   follows--
+
+ 7         "(c)   AUTHORITY.--(l)      The Secretary is authorized to
+
+ 8   make grants to institutions of higher education for
+
+ 9   preservice professional development in order to improve
+
+10   preparation for prospective teachers who are preparing to
+
+11   teach children and youth of limited English proficiency.
+
+12                "(2)    Each grant under this section shall be
+
+13   awarded for a period of not more that five years.
+
+14                "(3)   A recipient of a grant under this section
+
+15   shall coordinate its grant program activities with other
+
+16   programs under this Act and other Acts as appropriate.";
+
+17   and
+
+18                (3)    by adding a new subsection (d) to read as
+
+19   follow:
+
+20         "(d)   ACTIVITIES.--(l)      Funds under this section shall
+
+21   be used to--
+
+22                       "(A)   put in place a course of study that
+
+23   prepares teachers to serve limited English proficient
+
+24   students;
+
+
+                                                     Automated Records Management Systerr
+                                        36                   Hex·Dump Conversion
+
+ 2   meeting the needs of limited English proficient students
+
+ 3   into all programs for prospective teachers;
+
+ 4                      "(e)    assign tenured faculty to train
+
+ 5   teachers to serve limited English proficient students;
+
+ 6                      " (D)   incorporate State content and
+
+ 7   performance standards into the institution's coursework;
+
+ 8   and
+
+ 9                      "(E)    expand clinical experiences for
+
+10   participants.
+
+II               "(2)    Funds under this section may be used to--
+
+12                      " (A)   support partnerships with local
+
+13   educational agencies that include placing participants in
+
+14   intensive internships in local educational agencies that
+
+15   serve large numbers of limited English proficient students;
+
+16                      "(B)    restructure higher education course
+
+17   content, including improving coursework and clinical
+
+18   experiences for all prospective teachers regarding the
+
+19   needs of limited English proficient students and
+
+20   preparation for teacher certification tests;
+
+21                      "(e)    assist other institutions of higher
+
+22   education to improve the quality of professional
+
+23   development programs for limited English proficient
+
+24   students;
+
+
+                                        37
+
+ 2   will be trained to serve limited English proficient
+
+ 3   students;
+
+ 4                      " (E)   improve the skills and knowledge of
+
+ 5   faculty related to the needs of limited English proficient
+
+ 6   students;
+
+ 7                      " (F)   coordinate project activities with
+
+ 8   activities under title II of the Higher Education Act of
+
+ 9   1965; and
+
+10                      "(G)    use technology to enhance professional
+
+II   development.".
+
+12
+
+13                BILINGUAL EDUCATION CAREER LADDER PROGRAM
+
+14        SEC. 716.      Section 7144 of the Act is amended--
+
+15                (1)   by amending subsection (a) to read as
+
+16   follows--
+
+17        " (a)    PURPOSE.     The purpose of this section is to
+
+18   assist eligible consortia to develop and implement high-
+
+19   quality bilingual education career ladder programs.";
+
+20                (2)   by amending subsection (b) (1)   to read as
+
+21   follows--
+
+22        " (a)    IN GENERAL.--{l) (A) The Secretary is authorized
+
+23   to award grants to consortia of one or more institutions of
+
+24   higher education and one or more State educational agencies
+
+
+                                        38
+                                                         Automate~ Records Management Systerr
+                                                                  ex·Dump Conversion
+
+ 2   bilingual education career ladder programs.
+
+ 3                     "(B)    For purposes of this section, a
+
+ 4   "bilingual education career ladder program" means a program
+
+ 5   that--
+
+ 6                            " (i)     is designed to provide high-
+
+ 7   quality, pre-baccalaureate coursework and teacher training
+
+ 8   to educational personnel who do not have a baccalaureate
+
+ 9   degree j and
+
+10                            " (i i)    leads to timely receipt of a
+
+11   baccalaureate degree and certification or licensure of
+
+12   program participants as bilingual education teachers or
+
+13   other educational personnel who serve limited English
+
+14   proficient students.
+
+15                     "(C)    Recipients of grants under this
+
+16   section shall--
+
+17                            " (i)     coordinate with programs under
+
+18   title II of the Higher Education Act of 1965, and other
+
+19   relevant programs, for the recruitment and retention of
+
+20   bilingual students in postsecondary programs to train them
+
+21   to become bilingual educatorsj and
+
+22                            "(ii)     make use of all existing sources
+
+23   of student financial aid before using grant funds to pay
+
+24   tuition and stipends for participating students."j
+
+
+                                           39
+
+ 2                      (A)   in paragraph (1)--
+
+ 3                            (i)    by striking out "consortium"; and
+
+ 4                            (ii)    at the end thereof, by inserting
+
+ 5   "and" after the semicolon;
+
+ 6                      (B)   in paragraph (2), by striking out
+
+ 7   "teachers; and"     and inserting in lieu thereof "teachers.";
+
+ 8   and
+
+ 9                      (C)   by striking out paragraph (3); and
+
+10              (4)     by amending subsection (d) to read as
+
+11         follows:
+
+12              "(d)     SPECIAL CONSIDERATION.     The Secretary shall
+
+13   give special consideration to applications under this
+
+14   section that provide training in English as a second
+
+15   language, including developing proficiency in the
+
+16   in~tructional     use of English and, as appropriate, a second
+
+17   language in classroom contexts.".
+
+18
+
+19         GRADUATE FELLOWSHIPS IN BILINGUAL EDUCATION PROGRAM
+
+20         SEC. 717.     Section 7145(a) of the Act is amended--
+
+21              (1)     in paragraph (1), by striking out "masters,
+
+22   doctoral, and post-doctoral" and inserting in lieu thereof
+
+23   "masters and doctoral";
+
+24              (2)    by striking out paragraph (2); and
+
+                                                       Automated Records Management Systerr
+                                         40                    I-/ex-Dump Conversion
+
+ 2   paragraph (2).
+
+ 3
+
+
+ 4             APPLICATIONS FOR AWARDS UNDER SUBPART 3
+
+ 5        SEC. 718.     Section 7146 of the Act is amended--
+
+ 6             (1)    in subsection (a) (4), by inserting "and
+
+ 7   applicants for grants under section 7145" after "Bureau of
+
+ 8   Indian Affairs"; and
+
+ 9             (2)    in subsection (b)--
+
+10                    (A)   in paragraph (1)--
+
+11                          (i)    by striking out "of such
+
+12   application copy" and inserting in lieu thereof "an
+
+13   application under sections 7132, 7133, or 7134"; and
+
+14                          (ii)   by inserting "the written review
+
+15   of" after "and transmit"; and
+
+16                    (B)   in paragraph (2), by striking out "this
+
+17   subpart" and inserting in lieu thereof "sections 7132,
+
+18   7133, and 7134".
+
+19
+
+20                      EVALUATIONS UNDER SUBPART 3
+
+21        SEC. 719.     Section 7149 of the Act is amended to read
+
+22   is as follows:
+
+23                          "PROGRAM EVALUATIONS
+
+
+
+
+                                                       Automated Records Management S
+                                       41                      Hex-Dump Con version ysrw
+
+ 2   subpart shall provide the Secretary with an evaluation of
+
+ 3   its program every year. Such evaluations shall include
+
+ 4   the--
+
+ 5                "(1)     number of participants served, the number
+
+ 6   of participants who have completed program requirements,
+
+ 7   and the number of participants who have taken positions in
+
+ 8   an instructional settings with limited English proficient
+
+ 9   students;
+
+10                "(2)     effectiveness of the program in imparting
+
+11   the professional skills necessary for participants to
+
+12   achieve the objectives of the program; and
+
+13                "(3)     teaching effectiveness of graduates or
+
+14   other persons who have completed the training program.".
+
+15
+
+16                                  TRANSITION
+
+17           SEC. 720.     Subpart 4 of Part A of Title VII of the Act
+
+18   is amended to read as follows:
+
+19                           "Subpart 4 -- Transition
+
+20
+
+21                                 "TRANSITION
+
+22           "SEC. 7161.    Notwithstanding any other provision of
+
+23   law, a recipient of a grant under subpart 1 of Part A of
+
+24   this title that is in its third or fourth year of that
+
+                                                        Automated Records Management Systerr
+                                        42                      Hex-Dump Conversion
+
+ 2   Educational Excellence for All Children Act of 1999 shall
+
+ 3   be eligible to receive continuation funding under the terms
+
+ 4   and conditions of the original grant.".
+
+ 5
+
+ 6      FINDINGS OF THE EMERGENCY IMMIGRANT EDUCATION PROGRAM
+
+ 7        SEC. 721.     Section 7301(a) of the Act is amended--
+
+ 8              (1)    in paragraph (3), by striking out "and" at
+
+ 9   the end thereof;
+
+10              (2)    by redesignating paragraph (4) as paragraph
+
+II   (5); and
+
+12              (3)    by adding a new paragraph (4) to read as
+
+13   follows:
+
+14              "(4)    an increasing number of immigrant children
+
+15   are entering US schools with interrupted or little previous
+
+16   schooling; and".
+
+17
+
+18                       STATE ADMINISTRATIVE COSTS
+
+19        SEC. 722.     Section 7302 of the Act is amended by
+
+20   inserting a comma and "or 2 percent if the State
+
+21   educational agency distributes funds-received under this
+
+22   part to local educational agencies on a competitive basis,"
+
+23   after "1.5 percent of the amount".
+
+24
+
+                                                      Automated Records Management Syster.-
+                                                              He)(-Dump Conversion
+                                     43
+
+ 2        SEC. 723.     Section 7304(e) (1), in the matter before
+
+ 3   subparagraph (A), is amended by striking out "if the amount
+
+ 4   appropriated to carry out this part exceeds $50,000,000 for
+
+ 5   a fiscal year, a State educational agency may reserve not
+
+ 6   more than 20 percent" and inserting in lieu thereof " a
+
+ 7   State educational agency may reserve any portion".
+
+ 8            AUTHORIZATION OF APPROPRIATIONS FOR PART C
+
+ 9        SEC. 724.     Section 7309 of the Act is amended to read
+
+10   as follows:
+
+11            "AUTHORIZATION OF APPROPRIATIONS FOR PART C
+
+12        "SEC. 7309.     For the purpose of carrying out this
+
+13   part, there are authorized to be appropriated such sums as
+
+14   may be necessary for each of fiscal years 2001 through
+
+152005."
+
+16
+
+17                                 DEFINITION
+
+18        SEC. 725.     Section 7501 of the Act is amended by
+
+19   striking out paragraph (15) and inserting in lieu thereof a
+
+20   new paragraph to read as follows:
+
+21             "(15)    RECLASSIFICATION RATE.   The term
+
+22   reclassification rate means the annual percentage of
+
+23   limited English proficient students who have met the State
+
+
+
+
+                                                   Automated Records Management Systerr
+                                     44                    Hex-Dump Conversion
+
+ 2   proficient. " .
+
+ 3
+
+ 4           REGULATIONS, PARENTAL NOTIFICATION, AND USE OF
+
+ 5                              PARAPROFESIONALS
+
+ 6        SEC. 726.     Section 7502 of the Act is amended by--
+
+ 7               (1)   amending the section heading to read as
+
+ 8   follows:
+
+ 9              "REGULATIONS, PARENTAL NOTIFICATION, AND USE OF
+
+10                             PARAPROFESIONALS" ;
+
+II               (2)   in subsection (b)--
+
+12                      (A)   in paragraph (1)--
+
+13                            (i)    in the matter before subparagraph
+
+14   (A), by striking out "youth participating in" and inserting
+
+15   in lieu thereof "youth who will participate in"; and
+
+16                            (ii)    in paragraph (C)--
+
+17                                   (I)     in the matter before clause
+
+18   (i), by striking out "goals of the bilingual education or
+
+19   special alternative instructional program" and inserting in
+
+20   lieu thereof      "goals of the program related to the
+
+21   education of children and youth with limited English
+
+22   proficiency"; and
+
+23                                   (II)        in clause (1), by striking
+
+
+
+                                                                Automated Records Management Sysre r
+                                            45                          Hex-Dump Conversion
+
+ 2   the instructional alternatives" and inserting in lieu
+
+ 3   thereof "results of the instructional programs related to
+
+ 4   the education of children and youth with limited English
+
+ 5   proficiency"; and
+
+ 6                     (B)    in paragraph (2)--
+
+ 7                            (i)    by amending the paragraph heading
+
+ 8   to read "OPTION TO WITHDRAW."; and
+
+ 9                            (ii)   by amending paragraph (A) to read
+
+10   as follows:
+
+11              "(A)   A recipient of funds under subpart 1 of
+
+12   part A shall also provide a written notice to parents of
+
+13   children who will participate in the programs under that
+
+14   subpart, in a form and language understandable to the
+
+15   parents, that informs them that they may withdraw their
+
+16   child from the program at any time."; and
+
+17              (3)    adding a new subsection (c) to read as
+
+18   follows:
+
+19                     "(c)   USE OF PARAPROFESSIONALS.        The
+
+20   provisions of section 1119(c) of this Act shall apply to
+
+21   all new staff hired to provide academic instruction in
+
+22   programs supported under Part A, Subpart 1, on or after the
+
+23   date of enactment of the Educational Excellence for All
+
+24   Children Act of 1999.".
+
+                                                      Automated Records Management Sysr;y
+                                                              Hex-Dump Conversion
+                                         46
+
+ 3        SEC. 727.   (a)    PART A.   Subparts 1 and 2 of Part A of
+
+ 4   Title VII of the Act are amended by striking out "bilingual
+
+ 5   education or special alternative instruction programs" and
+
+ 6   "bilingual education or special alternative instructional
+
+ 7   programs" each place they appear and inserting in lieu
+
+ 8   thereof" instructional programs".
+
+ 9        (b)   PART E.     Section 7501(6) of the Act is amended by
+
+10   striking out "a bilingual education and special alternative
+
+11   instructional program" and inserting in lieu thereof                "an
+
+12   instructional program".
+
+13
+
+14                                 REPEALS
+
+15        SEC. 728.   (a)   REPEALS IN PART A.     Sections 7112,
+
+16   7117,7119, 7120, 7121, and 7147 of the Act are repealed.
+
+17        (b)   REPEAL OF PART B.      Part B of Title VII of the Act
+
+18   is repealed.
+
+19              REDESIGNATIONS AND CONFORMING AMENDMENTS
+
+20        SEC. 729.   (a)   PART REDESIGNATIONS.     Parts C, D, and E
+
+21   of Title VII of the Act are redesignated as Parts B, C, and
+
+n    D, respectively.
+
+23        (b)   SECTION REDESIGNATIONS.      Sections 7113, 7114,
+
+24   7115, 7116, 7118 , 7122, 7123, 7124, 7131, 7132, 7133, 7134,
+
+
+                                       47             Automated Records Management Systerr
+                                                             Hex-Dump Conversion
+
+ 2   7150,7161,7301,7302,7303,7304,7305,7306,7307,7308,
+
+ 3   7309, 7401, 7402, 7403, 7404, 7405, 7501, and 7502 of the
+
+ 4   Act are redesignated as sections 7112, 7113, 7114, 7115,
+
+ 5   7116, 7117, 7118, 7119, 7121, 7122, 7123, 7124, 7125, 7126,
+
+ 6   7l31, 7132, 7133, 7l34, 7135, 7136, 7137, 7l38, 7139,7141,
+
+ 7   7201, 7202, 7203, 7204, 7205, 7206, 7207, 7208, 7209, 7301,
+
+ 8   7302, 7303, 7304, 7305, 7401, and 7402 of the Act,
+
+ 9   respectively.
+
+10        (c)   CONFORMING AMENDMENTS.--(l)     Section 7111 of the
+
+11   Act is amended by striking out "7114, and 7115" and
+
+12   inserting in lieu thereof "and 7114";
+
+13              (2)   Section 7112 (b) (1) (A) of the Act, as
+
+14   redesignated, is amended by striking out "section 7116" and
+
+15   inserting in lieu thereof "section 7115";
+
+16              (3)   Section 7113 (b) (1) (A) of the Act, as
+
+17   redesignated, is amended by striking out "section 7116" and
+
+18   inserting in lieu thereof "section 7115";
+
+19              (4)   Section 7114 (b) (1) (A) of the Act, as
+
+20   redesignated, is amended by striking out "section 7116" and
+
+21   inserting in lieu thereof "section 7115";
+
+22              (5)   Section 7115(g) of the Act, as
+
+23   redesignated, is amended--
+
+24                    (A)   in paragraph (1) (B) (ii), by striking
+
+                                                     Automated Records Management Systerr
+                                     48                      Hex·Oump Conversion
+
+ 2   115 0 5"; and
+
+ 3                       (B)   in paragraph (2), by striking out
+
+ 4   "section 7114 or 7115"       and inserting in lieu thereof
+
+ 5   "section 7113 or 7114";
+
+ 6                 (6)   Section 7135 (a) (3) of the Act, as
+
+ 7   redesignated, is amended by striking out "section 7149" and
+
+ 8   inserting in lieu thereof "section 7138";
+
+ 9                 (7)   Section 7202 of the Act, as redesignated, is
+
+10   amended by striking out "section 7304" and inserting in
+
+11   lieu thereof "section 7204";
+
+12                 (8)   Section 7204 of the Act, as redesignated, is
+
+13   amended - -
+
+14                       (A)   in subsection (a), by striking out
+
+15   "section 7301 (b)" and inserting in lieu thereof "section
+
+16   7201(b)";
+
+17                       (B)   in subsection (e) (2), by striking out
+
+18   "section 7307" and inserting in lieu thereof "section
+
+19   7207";
+
+20                 (9)   Section 7205(a) of the Act, as
+
+21   redesignated, is amended--
+
+22                       (A)   in paragraph (2), by striking out
+
+23   "sections 7301 and 7307" and inserting in lieu thereof
+
+24   "sections 7201 and 7207";
+
+                                                        Automated Records Management Systerr
+                                                                Hex-Dump Conversion
+                                        49
+
+ 2                              (i)    striking out "section 7304(e)" and
+
+ 3   inserting in lieu thereof "sections 7204 (e)         "i   and
+
+ 4                              (ii)    striking out "section 7304 (b) (1)"
+
+ 5   and inserting in lieu thereof "section 7204 (b) (1)"            i    and
+
+ 6                       (e)    in paragraph (8), by striking out
+
+ 7   "section 7304" and inserting in lieu thereof "section
+
+ 8   7204";
+
+ 9                (10)   Section 7206 of the Act, as redesignated,
+
+10   is amended--
+
+11                       (A)   in subsection (a)--
+
+12                              (i)    by striking out "section 7305"           artd
+
+13   inserting in lieu thereof "section 7205"; and
+
+14                              (ii) by striking out "section 7305" and
+
+15   inserting in lieu thereof "section 7205"; and
+
+16                       (E)   in subsection (b), by striking out
+
+17   "section 7305 (a) (7)" and inserting in lieu thereof "section
+
+18   7205 (a) (7) ";
+
+19                (11)   Section 7208 of the Act,       as redesignated,
+
+20   is amended by striking out "section 14701" and inserting in
+
+21   lieu thereof "section 11111"; and
+
+22                (12)   Section 7305 (d) (2) of the Act, as
+
+23   redesignated, is amended by striking out "section 7134" and
+
+24   inserting in lieu thereof "section 7124".
+
+
+
+                                           50                  Automate~ Reo Management System
+                                                                           cords
+                                                                         ex- ump Conversion
+
+                                                               1
+
+                                                               1
+
+
+1                                                                  1
+
+2                                                                  1
+
+3
+                                                                   1
+    4
+            # # #                                                      1
+    5
+
+                                                                       1
+    6
+
+        7                                                              1
+
+        8                                                                  1
+        9
+                                                                           1
+
+                                                                           1
+
+                                                                               1
+
+
+
+
+                         Automated Records Management Systel
+                                 Hex-Dump Conversion
+                    51
+EMAILS RECEIVED
+ARMS - BOX 050 - FOLDER -008
+
+
+[05/05/1999-05/06/1999]
+
+

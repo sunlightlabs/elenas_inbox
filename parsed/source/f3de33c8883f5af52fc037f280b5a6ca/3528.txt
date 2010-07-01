@@ -1,0 +1,173 @@
+      RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+      CREATOR: Christopher C. Jennings ( CN=Christopher C. Jennings/OU=OPD/O=EOP [ OPD ]     )
+
+      CREATION DATE/TIME:18-JUL-1997 22:15:33.00
+
+      SUBJECT:   my fun weekly report.
+
+      TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ] )
+      READ: UNKNOWN
+
+      TO: Elena Kagan ( CN=E1ena Kagan/OU=OPD/O=EOP @ EOP [ OPD ]   )
+      READ: UNKNOWN
+
+      Sarah A. Bianchi ( CN=Sarah A. Bianchi/OU=OMB/O=EOP [ OMB ]   )
+      READ: UNKNOWN
+
+      Christopher C. Jennings ( CN=Christopher C. Jennings/OU=OPD/O=EOP [ OPD ] )
+      READ: UNKNOWN
+
+      TEXT:
+      There is a lot of info forthcoming.  The big wig meetings on Medicare
+      reforms with the Mainstream Coalition will probably most interest the big
+      guy.  I am sorry so long, but I think the info is important.  I hope I am
+      ok on the needle exchange info; I think I am, but it may be redundant on
+      what Bruce and you have formerly sent.  I just don't know ...
+
+      Call with questions, ok?
+
+      ==================== ATTACHMENT   1 ====================
+      ATT CREATION TIME/DATE:   0 00:00:00.00
+
+      TEXT:
+      Unable to convert ARMS_EXT: [ATTACH.D19]MAIL41830889T.116 to ASCII,
+       The following is a HEX DUMP:
+
+      FF57504370040000010A02010000000205000000C7280000000200000276D985A2F2El17785359
+      92AAEDAEB6E5FB45D889C621CB2C2CEDAC16E59FEFA18030D5EOD14F26A36554940A8D6FFF5BD3
+      980EFDCFE345270C28D8A8BOA49BDF198410ABF7AB1B36EF7CF292771E5CBA21AFB11E590ACDF6
+      BF68465DECA071B512E97890EAFC33118AFC5421B7DOAB51F3C4307B9AA1E3B2FC6755C7B61B07
+      E19D81311AF69C3CDDF9698508227BB256117E03E2AF50136A8DOC65888C660C486FOFD60BCD84
+      3D91BB07CFFD338FD268581BFF5EDE21C1C556E83158C07914D4F3EAD9287CB537F4D2DCC398AO
+      3180ED5EF76B9C3F2DFA4E8658C8AC5001F7Bl1E846CBF9985FAEECCA7842F7EBB5CEB31529654
+      67468098A237C8393A07C8DF87CD6FOE690422C1F4587FF7712EB9368AF22F4A95F8D2C44B44C5
+      0665BA61Cl17015B7729C5CC01DE5F2F6935CB44C74D09D4E4ABE49CD31223644E5364852A50FF
+      FD8C593536AC13D818C676E8E003BOOF3D55B69473789A7F8FBE770BBBB5B5F1F49CCBFFE7C7B5
+      FCA702269F9814A4DC5DBFBF09F983814DCF80C228A4E9138EFF4897A80CB9041812FAF4D94F8B
+      FD37976BOD958702643F63BD897354AC359C4A94C4AE6CB589F48E673FC5E1910B1DF9EB61987C
+      04EE43DEE0062584F9E9D385FCFOOOBA5AB6DE8E4A41E8267AFF0587B35DC3B90CD2766DA7565C
+      C1B92AC58902000900000000000000000000000823010000000B0100007E020000005501000000
+      4E0000008903000009250100000006000000D70300000B300200000028000000DD030000087701
+      000000400000000504000008340100000014000000450400000802010000000F00000059040000
+      080501000000080000006804000000984800500020004C0061007300650072004A006500740020
+      003500000000000000000000000000000000000000000000000000000000000000000000000000
+      00000000000000000000000057494E53504F4F4COOOOOOOOOOC800C8002C012C012C012C01C800
+      C80030000000000000000000000000000000000000000000000000000000000000000000000000
+      000000000000000000000000000000000000000000000000000000000000000000000000000000
+      000000000000000000000000000000000000000000000000000000000000000000000000000000
+      000000000000000000000000000000000000000000000000000000000000000000000000000000
+      000000000B0100002800C8196810480D000011090000005AOOOB010000103600540069006D0065
+                                                                         Hex-Dump Conversion
+
+Medicare Reform. On Wednesday, Erskine, Gene Sperling, Frank Raines, Secretary Rubin,
+John Hilley, and Chris Jennings met with the Senate "Mainstream" Coalition (Breaux, Chafee,
+Kerrey, Frist, Conrad, Gordon, Frist, Mack, et al) to discuss the Medicare "reform" agenda that
+they are advocating. Interestingly, they did not push -- or even mention -- the home care
+copayment issue; rather, they focused their interest on the income related (means-tested)
+premium and the 65-67 age eligibility issue. Erskine emphasized that we strongly support the
+income related premium, as long as our policy concerns were met. The group was pleased to
+hear this message, but was unwilling to move off their approach until they had a more detailed
+briefing and discussion of policy alternatives to the Senate-passed bill. Although we raised
+serious concerns about the age eligibility issue, we indicated a willingness to hear them out on
+policy options to address the uninsured problem.
+
+On Thursday, Chris, HHS, OMB and Treasury made a presentation to the Coalition group on
+their two Medicare issues. We outlined the administrative problems related to the income
+related premium and seerned to convince the Members that the Treasury Department route was
+the way to go. They were particularly won over by the revenue loss ($8.9 billion vs. $3.9
+billion), the administrative costs ($30-50 million vs. $10 million), the 2-3 year accurate income
+reporting lag, and the potential for major privacy violations should Treasury be forced to send
+income records to HHS. Although there remained political concerns about winning over House
+Republicans for a Treasury-administered approach, Senator Chafee said, "it should be Treasury
+or nothing." The discussion concluded with a request to see if Treasury could assess the
+premium on something other than the tax form. (On Friday, we completed our first-cut on
+developing such an option; we are checking to see how much revenue this option loses, but it
+looks promising.)
+
+.Our presentation on the eligibility age issue focused on the Coalition's recent proposal to offer 65
+and 66-year olds access to the Medicare program through a $54 a month premium. This would
+be assessed for the rest of a seniors' life and is consistent with a suggestion made by Bob
+Reischauer. While we raised concerns that such a premium would be unaffordable for many
+elderly (thus not adequately addressing the uninsured problem) and would end up shifting
+billions of dollars of costs to the states (because of mandated low income beneficiary buy-in
+requirements and SSI eligibility), we agreed to work through options. We concluded with an
+honest assessment of how unlikely the House would go for anything on this issue in the budget
+agreement; while the Coalition Members agreed with the assessment, they still pushed us to look
+at options. We agreed to provide technical assistance, but were clear that we were doing it in
+reponse to options that they (particularly Conrad and Kerrey) suggest. This meeting conclude on
+a very positive and appreciative manner; the Members were genuinely pleased that we were not
+throwing up roadblocks just to have roadblocks.
+
+Budget Developments on Medicare and Medicaid. The Budget conferees have not finalized
+their work on Medicare and Medicaid. They hope to finish most of the issues over the weekend
+for final review by the Republican Leadership. At that time, the Leaders will apparently engage
+us for a final review and a round of negotiations over major issues. The primary outstanding tier
+one issues for Medicare appear to be the income related premium, the structure of the Medicare
+Commission, the MSA compromise, and the Republican plan option that allows for balance
+billing (charging beneficiaries over approved Medicare rates.) The major Medicaid issues that
+have not been resolved are the Disproportionate Share (DSH) state-by-state formula, the policy
+surrounding $1.5 billion Medicare low income protection provision, and the D.C. and the Puerto
+     .                                                                      Automated Records Management Systerr
+                                                                                    Hex-Dump Conversion
+
+         Rico Medicaid investments that were included in the budget agreement
+         Budget Developments on Children's Health. Most of the major children's issues have not
+         been resolved. Still outstanding is whether and, if so, how much of any tobacco tax will be
+         dedicated to children's health, whether the benefits package and cost-sharing protections will be
+         meaningful to low-income children, and whether the accountability provisions are to our liking.
+         The Republicans seem to be watering down these provisions because they know they are
+         important to us and our Democratic supporters. (Some suggest they are doing this so they can
+         trade on this issue for their tax priorities.)
+
+
+         Immunization Event. Next Wednesday, you and the First Lady are announcing that we are
+         ahead of schedule in meeting our goals for immunization rates. In 1996, 90 percent of
+         America's toddlers received the most critical doses of the recommended vaccines for children by
+         age two. You are also scheduled to announce a new child care regulation that ensures that all
+         children in federal child care will be immunized. Senator Bumpers will be in attendance, as will
+         be the likely next Surgeon General nominee -- CDC's Dr. David Satcher. While Dr. Satcher's
+         final clearance has not been completed and we do not think it advisable to rush out his
+         announcement, this event provides a good opportunity to showcase Dr. Satcher and his
+         achievements.
+
+         FDA Reform. We are approaching the final days of negotiation with Members of the Senate
+         Labor and Human Resources Committee on a major FDA reform bill. There appears to be just a
+         few issues remaining, including one that would allow manufacturers to provide peer-reviewed
+         articles to physicians that outline as yet non-approved, but apparently effective uses of
+         prescription drugs. This is a very controversial issue and a compromise will be difficult to
+         reach. However, both sides (as well as the drug industry) very much want to you to sign a FDA
+         reform bill into law. Ifwe can agree on this and some other relatively non-high-profile issues,
+         we fully anticipate a quick House approval and final passage of the bill by sometime in
+         mid-September. Ifwe cannot agree on a compromise bill by that time-frame, the provisions in
+         current law that authorize user fees will expire and individuals reviewing new drug products for
+         FDA will begin to be layed off.
+
+         Needle Exchange. Your public health advisors at HHS are now concluding that the science
+         exists to certify that needle exchange programs not only reduce the spread of AIDS, but also does
+         not increase drug use. (Currently law requires the Administration to certify that needle
+         exchange programs do NOT increase drug use BEFORE allowing for CDC funding to be used
+         for this purpose -- at the discretion oflocal communities.) Before we make any final
+         recommendation to you, however, we believe it is important for General McCaffrey to weigh in
+         with his views. Although he is reportedly less skeptical than he has been previously, the
+         General has not indicated that he agrees with the public health advisors. Next week, the General
+         and NIH's
+         Dr. Harold Varmus are scheduled to meet on this matter. In the interim, we continue our efforts
+         (so far successful) to head off attempts by the House Appropriations Committee to strip the
+         Administration of the needle exchange certification authority.
+
+
+         AIDS Drugs Assistance Programs (ADAP). The Labor-HHS committee voted an $132
+         million increase over your budget for ADAP. The AIDS community has been lobbying the
+                                                                      Hex-Dump Conversion
+Administration and the Hill for an increase in ADAP programs. They argue that given the
+recent release of the HHS guidelines on AIDS drug treatments, we should also support an
+increase in these treatments and give more and more Americans access to these much-needed
+treatments. Allocating an increase in ADAP would definitely help our politics with the AIDS
+community, particularly given the fact that they want us to move quicker on needle exchange.
+However, the discretionary funding ceilings are already lower in the budget agreement than in
+your budget and there will be a great deal of competition for resources for important priorities,
+including many of your education priorities. We are working with OMB to develop some
+options for your consideration.
+
+

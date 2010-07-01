@@ -1,0 +1,47 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Andrea Kane ( CN=Andrea Kane/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME:25-FEB-1999 11:08:36.00
+
+SUBJECT:   Q&A on child poverty
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ:UNKNOWN
+
+TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+TEXT:
+Here's a very quick Q&A -- we haven't had a chance to review the study
+that Bruce mentioned.
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D38]MAIL424896063.036 to ASCII,
+ The following is a HEX DUMP:
+
+FF5750437E040000010A020100000002050000000DOA00000002000004A23C6C8333E4B12AAD01
+C8937CF6EC3FE3E541A3B2AAB71B1F67888779DC38DB54EC55183B24B1FD509E6F43FECE729FB4
+8390F898123F2457CDC9898606684750B582553616DBD4FD50767FAD8FCE1EF2986B9C8421546F
+15DEEE7D7EBD916259FBC89A7370758C582AE6DD273C59E1C943ECFA93BODBE562607FD75C51F3
+                                      Hex.[)ump Conversion
+                    Q&A on Child Trends Report on Child Poverty
+                                February 25, 1999
+
+
+Q:   The AP reported on a new report saying millions of children were poor even though
+     their parents were working. What is the Administration doing to address this
+     issue?
+
+A:   We are currently reviewing this study, which shows that in 1996, 20 percent of American
+     children were living in poverty and 35 percent of these had working parents. This
+     Administration does not believe parents who are working should be remain in poverty.
+     That is why we have fought so hard to expand the Earned Income Tax Credit, and why
+     we continue to fight hard to raise the minimum wage, and expand child care and health
+     coverage for working families. It should be noted that this study measured the status of
+     families in 1996, prior to full implementation of welfare reform. We will continue to
+     monitor these trends closely.
+
+

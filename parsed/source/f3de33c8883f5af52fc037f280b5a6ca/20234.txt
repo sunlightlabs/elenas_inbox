@@ -1,0 +1,273 @@
+RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+CREATOR: William P. Marshall ( CN=William P. Marshall/OU=WHO/O=EOP [ WHO 1 )
+
+CREATION DATE/TlME:10-JUN-1998 10:02:32.00
+
+SUBJECT:   Child custody again -- PIs review ASAP
+
+TO: Jill M. Blickstein ( CN=Jill M. Blickstein/OU=OMB/O=EOP @ EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Robin Leeds ( CN=Robin Leeds/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Peter G. Jacoby ( CN=Peter G. Jacoby/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Ann F. Lewis ( CN=Ann F. Lewis/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: John Podesta ( CN=John Podesta/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Katharine Button ( CN=Katharine Button/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Lisa M. Brown ( CN=Lisa M. Brown/O=OVP @ OVP [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Sheri A. Thornton ( CN=Sheri A. Thornton/OU=OSTP/O=EOP @ EOP [ OSTP 1 )
+READ: UNKNOWN
+
+TO: Audrey T. Haynes   ( CN=Audrey T. Haynes/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Maria Echaveste ( CN=Maria Echaveste/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Charles F. Ruff ( CN=Charles F. Ruff/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Sylvia M. Mathews ( CN=Sylvia M. Mathews/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TEXT:
+        Some have raised the concern that the memorandum to the President
+does not discuss the downnside to our proposed action.  I have therefore
+added the following paragraph to the end of the memorandum.  (The full
+memo is attached for your reference.)  Please send me comments by 2:30
+today .
+
+
+
+. . . . . .. This strategy is not without its difficulties.  First,
+anything short of complete opposition to the bill is likely to raise
+objections from our allies.       Second, the billD,s sponsors might accept our
+objections and submit a bill that you would be obligated to sign.       Third,
+
+
+and most troublesome, the sponsors might accept some of our objections and
+refuse others.   This would place you in the position of either signing a
+bill with seriously objectionable provisions or continuing to oppose a
+bill that has had some of its more egregious provisions excised, an action
+that would engender the likely criticism that you are being overly rigid
+and that would weaken the possibility of sustaining a veto. We believe,
+however, that unless you would be willing to take the position that you
+oppose legislation that would make it illegal for adult males to transport
+minors they impregnate across state lines for abortions without parental
+consent, the best available course is that outlined in this memorandum.
+
+
+  ====================    ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:      0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D5)MAIL46740706U.126 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043650EOOOOOIOA02010000000205000000E944000000020000510C59DC70CA6D3A120550
+2836B70FF33FF81376DDCDF2AB4B05886562CA84039A5179F60806F2763F3DA7A2E4076AFC70F5
+                                                                                    Hex.Dump Conversion
+
+
+
+
+                                           June 10, 1998
+
+
+MEMORANDUM FOR THE PRESIDENT
+
+FROM:                  Charles F. C. Ruff, Counsel to the President
+                       William Marshall, Associate Counsel to the President
+
+
+SUBJECT:               The Child Custody Protection Act
+
+
+
+I. THE CHILD CUSTODY PROTECTION ACT
+
+         Congress is currently considering S. 1645, the Child Custody Protection Act -- a bill
+which would impose civil and criminal liability on any person who knowingly transports a minor
+across a state line to obtain an abortion in cases in which the minor has not satisfied her home
+state's laws regarding "parental involvement" (i.e. laws requiring parental consent or parental
+notification).
+
+        The bill constitutes a novel form of federal legislation in that it prohibits persons from
+traveling across state lines to engage in conduct that is legal in the second state. I    It also
+uniquely conditions liability upon the law of the state where the person comes from rather than
+the law of the state in which the conduct occurs.
+
+
+
+
+        I The only possible exception to this is the Mann Act which may arguably be read as
+prohibiting transporting women across state lines for prostitution to a state where prostitution is
+legal.
+                                                                                   Hex-Dump Conversion
+        As described by its sponsors, the bill is designed to protect the rights of parents to
+participate in their minor child's abortion decision against those who would encourage her to
+have a "secret" abortion -- a category which, according to the sponsors, includes out-of-state
+abortion clinics who advertise the availability of abortions without parental involvement2 and
+adult males who impregnate minors and then attempt to erase the consequences of their actions
+by transporting the minors out of state for the abortion procedures.
+
+        Politically, however, the bill is more easily characterized as an attempt to provoke
+controversy on a sensitive and divisive issue than as an effort to address a legitimate area of
+federal interest. Substantively, the bill raises troublesome policy, constitutional, and practical
+law enforcement concerns and is counterproductive to its asserted goals.
+
+II. BACKGROUND -- PARENTAL INVOLVEMENT REQUIREMENTS
+
+        Currently twenty-two states require parental consent for a minor to terminate her
+pregnancy while seventeen states have opted for the lesser requirement of parental notification.
+Six of these states require notice to or consent from both parents, while four states would allow
+the notification or consent requirements to be satisfied by persons other than the minor's parents
+(such as a grandparent or an adult sibling.) Eleven states have no parental involvement
+requirements.
+
+        The constitutionality of parental involvement requirements has generally been upheld by
+the Supreme Court. Although holding that pregnant minors have a constitutional right to choose
+whether to terminate a pregnancy, the Court has determined that a state may require parental
+notice or consent in the interest of ensuring that the minor's decision to terminate her pregnancy
+is "knowing, intelligent, and deliberate." The parental involvement-requirements, however,
+may not impose an "undue burden" upon a minor who is capable of giving an informed consent
+to the abortion procedure. States must also provide a judicial "bypass" mechanism which allows
+the minor to avoid the parental involvement requirements if she establishes either 1) that she is
+sufficiently mature and well-informed to make the abortion decision independently or 2) that an
+abortion without parental involvement would be in her best interests. 3
+
+III. ANALYSIS
+
+       2 The law does not explicitly prohibit advertising. The sponsors might, however,
+envision extending liability to advertisers through some application of accomplice liability.
+See Part III, below.
+
+       3  The Supreme Court has ruled that bypass procedures are constitutionally mandated in
+states that require the consent or notification of both parents; but the Court has not had occasion
+to rule on whether bypass procedures are required in a one parent state.
+
+
+
+
+                                                 2
+                                                                                 Hex-Dump Conversion
+
+         S. 1645 represents a dramatic incursion into the traditional understanding of federalism.
+Federalism presumes that a citizen is free to take advantage offavorable laws in other states and
+that states have the right to regulate matters within their own boundaries (unless the matter is
+directly regulated by the federal government.) S. 1645, however, is unique in that it attempts, by
+force of federal law, to enforce one state's laws in the territory of another. As such, it sets a
+dangerous precedent for federal interference with such matters as gaming, alcohol, tobacco, guns
+and other items whose regulation varies significantly from state to state.
+
+         Despite the seriousness of the federalism concerns, however, S. 1645 is not clearly
+unconstitutional on those grounds. Because the approach taken by the sponsors is so novel,
+there is virtually no Supreme Court precedent, on either side, from which to take direction.
+Accordingly, while constitutional arguments against the legislation can be made based upon
+general federalism principles (or upon right to travel or privilege and immunities grounds), a
+definitive constitutional assessment cannot be offered with any degree of certainty. The
+federalism objection, therefore, is best characterized as a policy, and not as a constitutional,
+concern.
+
+         There is also no constitutional abortion rights argument that would support invalidating
+the bill as whole. DOJ has indicated that the bill would be unconstitutional as applied in certain
+circumstances (for example when the law would require the minor to satisfy the parental
+involvement laws of two separate states) but the constitutional concerns noted by DOJ, although
+serious, can be remedied by re-drafting the legislation.
+
+        The strongest objections to the legislation are based on policy, rather than on
+constitutional, grounds. The bill's first and most glaring weakness is that it subjects family
+members to criminal and civil liability. Under the terms of the legislation, grandmothers, aunts,
+and adult siblings may be prosecuted for coming to the aid of a minor relative in distress. Even
+a mother or father may be criminally sanctioned if she or he resides in a state that requires the
+involvement of both parents. Obviously, subjecting family members to criminal and civil
+sanctions for helping their relatives does not further the interest of healthy family
+communication. Exposing family members to the possibility of criminal or civil sanction is also
+counterproductive in that it would further isolate the minor by discouraging her from seeking
+advice and counsel from those closest to her. Firally, creating a civil action which allows family
+members to sue each other when a minor within that family has an abortion does not serve the
+goal of fostering strong families.
+
+       Second, the bill could inappropriately impose liability on persons who merely provide
+information, advertising, counseling, referrals, or medical services to the minor. Through rules of
+accomplice liability, the bill could subject a telephone receptionist to criminal liability, for
+example, merely for informing an unnamed caller about the availability of abortion services.
+The bill's creation ofa private cause of action is, from this perspective, even more problematic.
+
+
+
+                                                 3
+                                                                                  Hex-Dump Conversion
+
+A civil action would be a ready tool for those who wish to harass, intimidate, or bankrupt service
+providers.
+        Third, the bill imposes criminal liability on persons who may not realize they are
+violating the law (as when the minor falsely informs the transporter that she has parental
+consent.) This is because the bill predicates liability on the intent to help the minor obtain an
+abortion rather than on the intent to help the minor avoid the application of a state's parental
+notification requirements.
+
+         Finally, the bill raises numerous practical law enforcement concerns. These include
+the use of scarce FBI resources to prosecute violations, the need for federal law enforcement
+authorities to interrogate family members and close teenage friends in order to pursue violations,
+and the fact that the defendants in some cases are likely to be minors.
+
+IV. RECOMMENDATION
+
+        There would be little advantage in opposing this bill in its entirety. The sponsors'
+example of the adult male impregnating the female minor and taking her across state lines for an
+abortion without parental involvement is likely to be politically compelling and, as noted above,
+there is no definitive case to be made that imposing federal civil and criminal sanctions for this
+activity is unconstitutional. At the same time, the bill, as written, significantly overreaches and
+affirmatively hamis important policy and constitutional interests.
+
+        At this point, it is unclear whether the sponsors are interested in fixing the legislation to
+meet legitimate objections or whether they are merely interested in provoking confrontation. In
+either case, we believe that our best action is to announce that the Administration would support
+!1arrowly tailored legislation but, for policy and constitutional reasons, is opposed to the bill as
+currently drafted. The first step in this process would be to submit a letter from the EOP
+highlighting two specific issues -- the need to exempt family members and the need to exclude
+from potential liability those persons whose only connection to the abortion is the provisiori of
+information, advertising, or a medical, referral, or counseling service. This letter would also
+indicate that a letter containing constitutional issues would be subsequently forwarded by DOJ
+and that you have instructed the Department to work with the sponsors in crafting final
+legislation that meets Administration concerns.
+
+        This strategy is not without its difficulties. First, anything short of complete opposition
+to the bill is likely to raise objections from our allies. Second, the bill's sponsors might accept
+our objections and submit a bill that you would be obligated to sign. Third, and most
+troublesome, the sponsors might accept some of our objections and refuse others. This would
+place you in the position of either signing a bill with seriously objectionable provisions or
+continuing to oppose a bill that has had some of its more egregious provisions excised, an action
+that would engender the likely criticism that you are being overly rigid and that would weaken
+the possibility of sustaining a veto. We believe, however, that unless you would be willing to
+take the position that you oppose legislation that would make it illegal for adult males to
+
+
+                                                  4
+                                                                                Automated Records Management Syster
+                                                                                        Hex-Dump Conversion
+    transport minors they impregnate across state lines for abortions without parental consent, the
+    best available course is that outlined in this memorandum.
+
+
+
+
+                                                     5
+
+

@@ -1,0 +1,503 @@
+ RECORD TYPE: PRESIDENTIAL       (NOTES MAIL)
+
+  CREATOR: Jacinta Ma ( CN=Jacinta Ma/OU=PIR/O=EOP [ PIR 1 )
+
+  CREATION DATE/TIME:23-JAN-1998 18:39:20.00
+
+  SUBJECT:   PIR Weekly Report
+
+ TO: Ananias Blocker III ( CN=Ananias Blocker III/OU=WHO/O=EOP @ EOP [ WHO 1
+ READ: UNKNOWN
+
+  TO: Laura K. Capps   ( CN=Laura K. Capps/OU=WHO/O=EOP @ EOP [ WHO 1 )
+  READ:UNKNOWN
+
+  TO: Emil E. Parker ( CN=Emil E. Parker/OU=OPD/O=EOP @ EOP [ OPD 1 )
+  READ: UNKNOWN
+
+  TO: Laura K. Demeo ( CN=Laura K. Demeo/OU=WHO/O=EOP @ EOP [ WHO 1 )
+  READ : UNKNOWN
+
+  TO: Cheryl D. Mills ( CN=Cheryl D. Mills/OU=WHO/O=EOP @ EOP [ WHO 1 )
+  READ: UNKNOWN
+
+  TO: Robert B. Johnson ( CN=Robert B. Johnson/OU=WHO/O=EOP @ EOP [ WHO 1 )
+  READ: UNKNOWN
+
+  TO: Lynn G. Cutler ( CN=Lynn G. Cutler/OU=WHO/O=EOP @ EOP [ WHO 1 )
+  READ: UNKNOWN
+
+   TO: Sidney Blumenthal ( CN=Sidney Blumenthal/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ . READ: UNKNOWN
+
+  TO: Beverly J. Barnes ( CN=Beverly J. Barnes/OU=WHO/O=EOP @ EOP [ WHO 1 )
+  READ: UNKNOWN
+
+  TO: Peter Rundlet ( CN=Peter Rundlet/OU=WHO/O=EOP @ EOP [ WHO 1 )
+  READ: UNKNOWN
+
+  TO: Angelique Pirozzi ( CN=Angelique Pirozzi/OU=WHO/O=EOP @ EOP [ WHO 1 )
+  READ:UNKNOWN
+
+  TO: Sylvia M. Mathews ( CN=Sylvia M. Mathews/OU=WHO/O=EOP @ EOP [ WHO 1 )
+  READ: UNKNOWN
+
+  TO: Thurgood Marshall Jr ( CN=Thurgood Marshall Jr/OU=WHO/O=EOP @ EOP [ WHO 1 )
+  READ: UNKNOWN
+
+  TO: Susan M. Liss ( CN=Susan M. Liss/O=OVP @ OVP [ UNKNOWN 1 )
+  READ:UNKNOWN
+
+  TO: Ann F. Lewis ( CN=Ann F. Lewis/OU=WHO/O=EOP @ EOP [ WHO 1 )
+  READ: UNKNOWN
+
+  TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+  READ:UNKNOWN
+
+  TO: Mickey Ibarra ( CN=Mickey Ibarra/OU=WHO/O=EOP @ EOP [ WHO 1 )
+  READ: UNKNOWN
+
+  TO: Marjorie Tarmey ( CN=Marjorie Tarmey/OU=WHO/O=EOP @ EOP [ WHO 1 )
+
+
+ READ: UNKNOWN
+
+ TO: Andrew J. Mayock ( CN=Andrew J. Mayock/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ:UNKNOWN
+
+ TO: Julie A. Fernandes ( CN=Julie A. Fernandes/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ: UNKNOWN
+
+ TO: Richard Socarides ( CN=Richard Socarides/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Grace A. Garcia ( CN=Grace A. Garcia/OU=PIR/O=EOP @ EOP [ PIR 1 )
+ READ: UNKNOWN
+
+ TO: Patrick Aylward ( CN=Patrick Aylward/OU=PIR/O=EOP @ EOP [ PIR 1 )
+ READ: UNKNOWN
+
+ TO: John M. Goering ( CN=John M. Goering/OU=PIR/O=EOP @ EOP [ PIR 1 )
+ READ:UNKNOWN
+
+ TO: David K. Chai ( CN=David K. Chai/OU=PIR/O=EOP @ EOP [ PIR 1 )
+ READ: UNKNOWN
+
+ TO: Michael Wenger ( CN=Michael Wenger/OU=PIR/O=EOP @ EOP [ PIR 1 )
+ READ: UNKNOWN
+
+ TO: Maria E. Soto ( CN=Maria E. Soto/OU=PIR/O=EOP @ EOP [ PIR 1 )
+ READ: UNKNOWN
+
+ TO: Evelina Mosby ( CN=Evelina Mosby/OU=PIR/O=EOP @ EOP [ PIR 1 )
+ READ: UNKNOWN
+
+ TO: Ana Lopez ( CN=Ana Lopez/OU=PIR/O=EOP @ EOP [ PIR 1 )
+ READ:UNKNOWN
+
+ TO: Allison J. King ( CN=Allison J. King/OU=PIR/O=EOP @ EOP [ PIR 1 )
+ READ: UNKNOWN
+
+ TO: Linda C. Gray ( CN=Linda C. Gray/OU=PIR/O=EOP @ EOP [ PIR 1 )
+ READ:UNKNOWN
+
+ TO: Marjorie A. Black ( CN=Marjorie A. Black/OU=PIR/O=EOP @ EOP [ PIR 1 )
+ READ: UNKNOWN
+
+ TO: Michael J. Sorrell ( CN=Michael J. Sorrell/OU=PIR/O=EOP @ EOP [ PIR 1 )
+ READ: UNKNOWN
+
+ TO: Cedra D. Eaton ( CN=Cedra D. Eaton/OU=PIR/O=EOP @ EOP [ PIR 1 )
+ READ: UNKNOWN
+
+ TO: Lydia Sermons ( CN=Lydia Sermons/OU=PIR/O=EOP @ EOP [ PIR 1 )
+ READ:UNKNOWN
+
+ TO: Katherine D. Sheckells ( CN=Katherine D. Sheckells/OU=PIR/O=EOP @ EOP   [ PIR 1 )
+ READ: UNKNOWN
+
+ TO: Janet Murguia ( CN=Janet Murguia/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Robert N. Weiner ( CN=Robert N. Weiner/OU=WHO/O=EOP @ EOP [ WHO 1 )
+
+
+ READ:UNKNOWN
+
+ TO: Michael Waldman ( CN=Michael Waldman/OU=WHO/O=EOP @ EOP [ WHO)                 )
+ READ: UNKNOWN
+
+ TO: Dawn M. Chirwa ( CN=Dawn M.Chirwa/OU=WHO/O=EOP @ EOP [ WHO)                )
+ READ:UNKNOWN
+
+ TO: Bob J. Nash ( CN=Bob J. Nash/OU=WHO/O=EOP @ EOP [ WHO)     )
+ READ: UNKNOWN
+
+ TO: Doris o. Matsui ( CN=Doris O. Matsui/OU=WHO/O=EOP @ EOP [ WHO)                 )
+ READ:UNKNOWN
+
+ TO: Mona G. Mohib ( CN=Mona G. Mohib/OU=WHO/O=EOP @ EOP [WHO)          )
+ READ: UNKNOWN
+
+ TO: Ruby Shamir ( CN=Ruby Shamir/OU=WHO/O=EOP @ EOP [ WHO)     )
+ READ: UNKNOWN
+
+ TO: Paul E. Begala ( CN=Paul E. Begala/OU=WHO/O=EOP @ EOP [ WHO)               )
+ READ: UNKNOWN
+
+ TO: Gene B. Sperling ( CN=Gene B. Sperling/OU=OPD/O=EOP @ EOP [ OPD ) )
+ READ:UNKNOWN
+
+ TO: Nelson Reyneri ( CN=Nelson Reyneri/OU=WHO/O=EOP @ EOP [ WHO ) )
+ READ:UNKNOWN
+
+ TO: Minyon Moore ( CN=Minyon Moore/OU=WHO/O=EOP @ EOP [ WHO)       )
+ READ: UNKNOWN
+
+ TO: Elisabeth Steele ( CN=Elisabeth Steele/OU=WHO/O=EOP @ EOP [ WHO)                   )
+ READ: UNKNOWN
+
+ TO: Trooper Sanders ( CN=Trooper Sanders/O=OVP @ OVP [ UNKNOWN)            )
+ READ: UNKNOWN
+
+ TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO)       )
+ READ: UNKNOWN
+
+ TO: Suzanne Dale ( CN=Suzanne Dale/OU=WHO/O=EOP @ EOP [ WHO ) )
+ READ: UNKNOWN
+
+ TO: edley ( edley @ law.harvard.edu @ INET @ LNGTWY   [ UNKNOWN)       )
+ READ: UNKNOWN
+
+ TO: Maria Echaveste ( CN=Maria Echaveste/OU=WHO/O=EOP @ EOP [ WHO ) )
+ READ:UNKNOWN
+
+ TO: Jon P. Jennings ( CN=Jon P. Jennings/OU=WHO/O=EOP @ EOP [ WHO)                 )
+ READ: UNKNOWN
+
+ TO: Stacie Spector ( CN=Stacie Spector/OU=WHO/O=EOP @ EOP [ WHO ) )
+ READ: UNKNOWN
+
+ TO: Brenda Toineeta ( CN=Brenda Toineeta/OU=PIR/O=EOP @ EOP [ PIR ) )
+ READ: UNKNOWN
+
+ TO: Alexander L. Boyle .( CN=Alexander L. Boyle/OU=PIR/O=EOP   @   EOP [ PIR)              )
+
+
+ READ:UNKNOWN
+
+ TO: David Campt ( CN=David Campt/OU=PIR/O=EOP @ EOP [ PIR]      )
+ READ: UNKNOWN
+
+ TO: Diana Kappner ( CN=Diana Kappner/OU=PIR/O=EOP @ EOP [ PIR ] )
+ READ:UNKNOWN
+
+ TO: Robert Wexler ( CN=Robert Wexler/OU=PIR/O=EOP @ EOP [ PIR ] )
+ READ: UNKNOWN
+
+ TO: Chandler G. Spaulding ( CN=Chandler G. Spaulding/OU=PIR/O=EOP @ EOP [ PIR ]             )
+ READ: UNKNOWN
+
+ TO: Scott R. Palmer ( CN=Scott R. Palmer/OU=PIR/O=EOP @ EOP [ PIR]        )
+ READ: UNKNOWN
+
+ TO: Tamara Monosoff    ( CN=Tamara Monosoff/OU=PIR/O=EOP @ EOP [ PIR]     )
+ READ:UNKNOWN
+
+ TO: Lin Liu ( CN=Lin Liu/OU=PIR/O=EOP @ EOP [ PIR ] )
+ READ: UNKNOWN
+
+ TO: Audrey M. Hutchinson ( CN=Audrey M. Hutchinson/OU=PIR/O=EOP @ EOP [ PIR ]           )
+ READ:UNKNOWN
+
+ TO: Claire Gonzales ( CN=Claire   Gonzales/OU~PIR/O=EOP @   EOP [ PIR ]   )
+ READ: UNKNOWN
+
+ TO: Randy D. Ayers    ( CN=Randy D. Ayers/OU=PIR/O=EOP @ EOP [ PIR]   )
+ READ: UNKNOWN
+
+ TO: Michele Cavataio ( CN=Michele Cavataio/OU=PIR/O=EOP @ EOP [ PIR ]         )
+ READ: UNKNOWN
+
+ TO: Elizabeth A. Castle ( CN=Elizabeth A. Castle/OU=PIR/O=EOP @ EOP [ PIR]          )
+ READ:UNKNOWN
+
+ TO: Jennifer A. Dolan ( CN=Jennifer A. Dolan/OU=PIR/O=EOP @ EOP [ PIR ] )
+ READ: UNKNOWN
+
+ TO: Danielle B. Glosser ( CN=Danielle B. Glosser/OU=PIR/O=EOP @ EOP [ PIR]          )
+ READ: UNKNOWN
+
+  TEXT:
+. Attached is the President's Initiative on Race Weekly Report for January
+  17 - January 23.==================== ATTACHMENT  1 ====================
+  ATT CREATION TIME/DATE:   0 00:00:00.00
+
+ TEXT:
+ Unable to convert ARMS_EXT: [ATTACH.D13]MAIL474286227.026 to ASCII,
+  The following is a HEX DUMP:
+
+ FF575043EF070000010A02010000000205000000975300000002000037A644F7FD0451B059286C
+ EA7EFA9C6004E19565997D9D3BBEF800F10FE248EB08B2D4D43957372E53144AFD3ED9935C13FA
+ 3C74B4852422286C5E5FE88E15124BA49A3DEAD249A7BB7D828E615E2E6BOECA8720D827946AD9
+ 8B1DOCACDBAC13D15FC59A06A666ABE0653B02FDFDC76CAC57CF4076E984E8AB89BB354CAC6FB6
+ F8336C4C10B0023779BC484500A0715B13ED7C69F4E1599B6B802BAE93C577FD13D11B06ACA47A
+ D9885FDBA7F002F24D13653882EE5042580284FBE6E881E7F1A4997C946808E5111ADA641F6480
+ 963BC8A8B5B226F26A334DA3DAAA8AFICEDA9CBBDA1557DFE22CB49E46707F534ECE2BA7FF13DO
+
+FROM:       JUDITH A. WINSTON
+
+THROUGH: ERSKINE BOWLES
+         SYLVIA MATHEWS
+
+SUBJECT:    PRESIDENT'S INITIATIVE ON RACE WEEKLY REPORT --
+            JANUARY 17 - JANUARY 23
+
+
+
+     One America Conversation with Commission on White House Fellowships. On
+     January 21, Sylvia Mathews and I led a One America Conversation with your
+     Commission on White House Fellowships. The group consisted of present and former
+     White House Fellows. During the discussion, two potential promising practices were
+     identified. The participants pledged to continue the dialogue on race in their
+     communities.
+
+ADVISORY BOARD ACTIVITIES
+
+     Northern California Advisory Board Meeting. We will be visiting the San
+     Francisco/Oakland/San Jose metropolitan area on February 10- 11. We plan to visit
+     promising practices sites in the area and hold a community forum in San Jose. The
+     Advisory Board meeting will occur on the second day in San Jose focusing on the topic of
+     race and poverty. We have invited William Julius Wilson from Harvard University,
+     Douglas Massey from the University of Pennsylvania and others to participate in a panel
+     discussion on the relationship between racial segregation, poverty and the persistent lack
+     of opportunities for those who live in poor, concentrated neighborhoods.
+
+     Advisory Board Members Activities for Martin Luther King, Jr. Day. Chairman
+     Dr. John Hope Franklin and I joined the Vice President in Atlanta for the King Center
+     Program. The program was very well received. Linda Chavez-Thompson visited the
+     Good Hope Community Center in Silver Spring, Maryland. Reverend Suzan Johnson
+     Cook gave the keynote address at a multi-racial, multi-ethnic silent prayer march on
+     Sunday, January 18th at the New York Metropolitan Martin Luther King Center for
+
+
+
+                                                 Automated Records Management System
+                                                 Hex-Dump Conversion
+Angela Oh was the keynote speaker at the Davis Human Relations Commission
+Community Forum in Davis, California. There were over 400 people attending this
+event. Robert Thomas attended the Amaturo Theater in Ft. Lauderdale, Florida for a
+celebration honoring the life of Dr. King. Governor William Winter was the keynote
+speaker at the Itawamba County Development Community Summit on January 19th in
+Fulton, Mississippi. All of the Board members found their events inspiring and
+well-attended.
+
+Days of Dialogue. On January 17, Angela Oh participated in the Days of Dialogue
+program in South Central, Los Angeles. The dialogue on race occurred with about 35
+youths ranging in age from 15 to 25.
+
+Outreach in Atlanta. Governor Winter spoke, on January 18, at an Adult Education
+Forum at the Atlanta Episcopal Cathedral and addressed the Atlanta Episcopal Diocese at
+St. Paul's Episcopal Church.
+
+Pasadena Dialogues. On January 18, Angela Ohjoined elected officials including
+Congresswoman Jane Harmon and Congresswoman Juanita Millender-McDonald to
+announce the California House Resolution supporting the Days of Dialogue and work
+toward racial harmony.
+
+Millsaps College. On January 20, Governor Winter moderated a panel with Hodding
+Carter and Peter Applebome on issues facing the South. Governor Winter spoke about
+the Initiative and raised race as an issue still facing the South. There were approximately
+300 people in the audience.
+
+South EI Monte. Angela Oh led a dialogue, on January 23 in South El Monte, one of
+the poorest cities in the San Gabriel Valley. She discussed her role in the Initiative and
+what the Initiative means to cities such as South El Monte.
+
+NAACP Legal Defense Fund. On January 23, Dr. Franklin addressed the Board of
+Directors of the New York Chapter of the NAACP Legal Defense Fund about the
+Initiative and his role.
+
+Glasgow Middle Schools. On January 27, Linda Chavez-Thompson is scheduled to
+speak with students, parents and school administrators at Glasgow Middle Schools in
+Alexandria, Virginia. She will engage the group in a conversation on the effect that
+racial diversity has had on them. This conversation will be featured on C-SP AN.
+
+U.S. Conference of Mayors. Next week, Reverend Suzan Johnson Cook will speak at
+the U.S. Conference of Mayors meeting in Washington, D.C. and challenge them to
+become more directly involved in the Initiative through One America Conversations and
+
+
+                                         2
+
+OFFICE OF THE EXECUTIVE DIRECTOR
+
+    OUTREACH
+
+    Corporate Leaders. The next Corporate Forum will be on Friday, January 30, at the
+    Biltmore Hotel in Los Angeles. Secretary of Commerce William Daley will host the
+    discussion and Advisory Board members Angela Oh and Robert Thomas will attend.
+    This is the third in a series of meetings with corporate leaders.
+
+    Campus/Community Week of Dialogue. The Campus/Community Week of Dialogue,
+    in which we are partnering with the Association of American Colleges & Universities and
+    the National Urban League, is scheduled for the week of April 6. The week will both
+    involve thousands of students and others in dialogue about racial issues and recruit higher
+    education and community leaders to promote study and dialogue on racial issues in the
+    longer term. Minority-serving institutions and community colleges will be asked to be
+    involved, as well. We met with dozens of higher education leaders at the Association of
+    American Colleges & Universities' annual conference to discuss the National Week of
+    Campus/Community Dialogue.
+
+    RESEARCH AND POLICY PLANNING
+
+    Promising Practices. We have now posted a total of 50 examples of promising
+    practices on the Website. These examples represent many sectors (business, education,
+    media, and others) in various communities around the country. We expect to highlight
+    an additional 30 practices by the end of this month.
+
+    Essays. We are working with the Domestic Policy Council and the Department of
+    Education to produce at least two papers regarding the value of diversity in higher
+    education.
+
+    K-12 School Case Studies. In November, the Advisory Board highlighted a case study
+    of a Fairfax, Virginia elementary school's race-related programs and activities. We are
+    working with the Department of Education to develop plans for additional case studies
+    (i.e., more in-depth summaries of promising practices) of programs that are bridging
+    racial disparities in education. This project was announced by Secretary Riley during the
+    December Advisory Board meeting.
+
+    COMMUNICATIONS
+
+    Public Service Announcement (PSA). The Initiative is working with the Leadership
+    Conference Education Fund, the Ad Council and an advertising agency to finalize a
+
+
+                                             3
+    radio campaign. The advertising agency has submitted ideas for print ads of the PSA
+    that would appear in newspapers around the country, particularly focusing on college and
+    university press. In addition, scripts for the radio campaign have been submitted.
+    Distribution of the PSA should occur in early February to public service directors at
+    television and radio stations.
+
+    C-SP AN's" Alexis de Tocqueville" series. The series producer has expressed interest
+    in producing a special program on the work of the Advisory Board to appear in March or
+    April. We are currently reviewing the schedules of some of the Advisory Board
+    members for the months of February and March, for inclusion in this special. (The
+    Program is a nine-month series that C-SPAN started in May 1997 to retrace the
+    steps of de Tocqueville's trip to America and to explore what it means to be an
+    American.)
+
+    Article for the League of Women Voters. An article focused on the goals of the
+    Initiative will appear in the March/April edition of The National Voter, the magazine
+    produced by the League of Women Voters. That issue will focus specifically on
+    diversity and will feature several prominent writers.
+
+FEDERAL AGENCY ACTIVITIES
+
+    One America Conversations. More than 117 One America Conversations have
+    occurred. The reports we have received to date on these Conversations show that we
+    have reached over 800 people in more than 34 cities around the country. We estimate
+    that we have reached close to 2,500 individuals.
+
+    Department of Treasury
+
+    HBCV Funding. Since 1996, Treasury has worked with the Department of Education
+    on a construction financing program for HBCUs. During the week of January 12, the
+    Federal Financing Bank disbursed $99,000 to West Virginia State College to pay for
+    dorm construction and renovation as part of the HBCU program. The Designated
+    Bonding Authority (a private entity that works with the Department of Education to
+    promote the program) will be sending solicitations to all eligible institutions describing
+    the availability of the capital financing and the current low interest rates.
+
+      Black Patriots Coin. On January 19, U.S. Treasurer Withrow traveled to Los Angeles
+      to participate in an unveiling ofthe Black Revolutionary War Patriots Coin Designs at the
+      Museum of Tolerance in Los Angeles, California. Treasurer Withrow also attended the
+    . annual Southern Christian Leadership Council Dinner in recognition of Dr. Martin Luther
+      King, Jr. that same evening.
+
+
+
+                                             4
+
+Martin Luther King, Jr. Day. On January 19, Attorney General Reno participated in a
+town hall meeting and volunteered for Habitat for Humanity in Jackson, Mississippi, as
+part of the President's efforts to get Administration officials into the communities for
+Martin Luther King, Jr. Day.
+
+Enforcement of Civil Rights Funding. On January 19, Bill Lann Lee amplified the
+Vice President's announcement on increasing funding for civil rights enforcement at an
+event sponsored by Focus Hope, a civil and human rights organization in Detroit, Ml.
+The Detroit News, and the Detroit Free Press ran stories.
+
+United States Department of Agriculture
+
+Conversations That Bring Us Together. On January 17, Under Secretary for Food,
+Nutrition, and Consumer Services Shirley Watkins held a "One America: Conversations
+That Bring Us Together" roundtable in Memphis, TN. Community leaders and members
+discussed the issues of opportunity and fairness for all Americans, with particular focus
+on economics and education.
+
+Tribal Council Chairs. On January 20, USDA officials met with the 11 Indian
+Reservation Tribal Council Chairs in Minnesota, the first between tribal leaders and top
+USDA state officials.
+
+Martin Luther King, Jr. On January 28, Secretary Glickman will speak at USDA's
+Martin Luther King, Jr. observance program in Washington, DC.
+
+Civil Rights Discussion. On January 30, the Secretary will participate in a civil rights
+roundtable and speak at the Rural Life Symposium Conference at the University of
+Arkansas in Pine Bluff, AR.
+
+Department of Labor
+
+Advisory Board Meeting. On January 13 and 14, Secretary Herman participated in the
+fifth meeting of the President's Initiative on Race Advisory Board in Phoenix, AZ. In
+addition, she hosted a luncheon with American Indian Organizations on the topic of
+welfare to work; met with the editorial board of the Phoenix Republic newspaper; and,
+met with the local NAACP and other leaders of the African American community.
+
+Wall Street Event. On January 15, Secretary Herman accompanied you to New York to
+support the Operation Push efforts on Wall Street.
+
+Diversity Task Force. Department of Labor's Diversity Task Force is concluding its
+
+
+                                        5
+
+
+    research on how to ensure that the DOL is an equal opportunity workplace. Last week,
+    Task Force members reviewed the findings of the regional visits and results of the
+    brainstorming sessions held in the National Office. The Task Force also conducted a
+    series of oral presentations by those groups (unions, special emphasis groups etc.) that
+    requested a specific meeting with them. The report is due to Secretary Herman on
+    January 31.
+
+    Department of Housing and Urban Development
+
+    Housing Discrimination. On January 15, HUD launchedan investigation of allegations
+    of widespread housing discrimination by a Southern California property management
+    company and owners of nine Orange County apartment complexes with over 1,300 units.
+     The company allegedly discriminated against blacks, Hispanics and families with
+    children who tried to rent apartments at the complex.
+
+    Department of Education
+
+    Race Advisory Board. Secretary Riley is tentatively scheduled to attend the meeting of the
+    Race Initiative Advisory Board in San Francisco on February 10.
+
+    Conversations That Bring Us Together. ChiefofStaffLeslie Thornton is scheduled to host
+    a "Conversations that Bring Us Together" event at the University of Illinois at
+    Urbana-Champaign on January 22.
+
+    Hate Crimes. DOEd staff are working with DOJ to produce a guide titled "Preventing Youth
+    Hate Crime: A Manual for Educators and Communities." The guide will be issued jointly by
+    the Attorney General and Secretary Riley to provide useful information to assist schools and
+    communities in confronting and eliminating harassing, intimidating, violent and other
+    hate-motivated behavior among young people.
+
+
+
+
+                                            6
+..

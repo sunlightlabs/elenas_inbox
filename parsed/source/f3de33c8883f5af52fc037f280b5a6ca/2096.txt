@@ -1,0 +1,125 @@
+     RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+     CREATOR: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP [ OPD ] )
+
+     CREATION DATE/TIME: 2-MAY-1997 12:32:53.00
+
+     SUBJECT:   Here's the revised education memo you asked for
+
+     TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+     READ:UNKNOWN
+
+     CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO]    )
+     READ: UNKNOWN
+
+     TEXT:
+     ==================== ATTACHMENT   1 ====================
+     ATT CREATION TIME/DATE:   0 00:00:00.00
+
+     TEXT:
+     Unable to convert ARMS_EXT: [ATTACH.D91]MAIL46416412W.116 to ASCII,
+      The following is a HEX DUMP:
+
+     FF57504302050000010A020100000002050000001917000000020000C67C935649327EEFA93EC6
+     2AADA7D51375305646FFFCCFF47F2478C05B325BC71C3385DCBAE61AE4CD1E3274FA6B7AE032C3
+     D5CFD856CA2752383C4DOOA432BD42AA6CDE49C3E8EDE4315FB8922BE56657DD6EBC37275BCA82
+     5B10690694DIOB26878E4744440FCC533162ACDDBCADBB174DBD6F9B8D55C43BEBC50E99C95931
+     6900791BC2ACD94FF3706CB92ABA7AAB4041337AF3B1B3D11F3D8021BE93127658337B9AEC771B
+     E59C4896A411AB44072434419269BB2033C82B49AB1D147AFF9B132A329BA305B2193BF550C15F
+     C4C6AF810AE1DC4FA461EC332785689E7D358F7D61BEFBA80577A39B4D63B1B2E21E55B9117794
+     C948E4706217FE19AD654DF4D5CD91B1F05BDC5E7A1459E05B9B015EEOEA8CD9EA00528D6AFD47
+     F9B9D73F66BC53D75BDC6DDE5B02B8619030A1B841BE15FE39766FDF75610FBE26D6B47DD51C1A
+     78C3C55A8ECF567E81B5A8DOB9EFC93C24815BD78E863E9BB8795C17903357F98736BDCFC13D2E
+     8366903CBE79FDFD7B8AA46C6B6C53D1IB87C95E462BAC7723C7590BF8314E08B1205455D29C55
+     B62D2A234ECD217EACBF48E360D19EC21DCB702CDC06AB17F58CFF72DAE93D23DAC32DF3A452E2
+     7864AFEC05B3CAD25C964EC14BA384FOD37AOA32E250CAA8C56388C2DA271F8A92EF53E2045777
+     ECF7A5413502002000000000000000000000000055010000004EOO0000C0030000092501000000
+     060000000E04000008020100000010000000140400000B30020000003400000024040000080501
+     0000000800000058040000087701000000400000006004000008340100000014000000A0040000
+     00000000000000000000A004000000000000000000000000A00400OOOOOOOOOOOOOOOOOOOOOOAO
+     04000000000000000000000000A004000000000000000000000000A00400000000000000000000
+     0000A004000000000000000000000000A004000000000000000000000000A00400000000000000
+     0000000000A004000000000000000000000000A004000000000000000000000000A00400000000
+     0000000000000000A004000000000000000000000000A004000000000000000000000000A00400
+     0000000000000000000000A004000000000000000000000000A004000000000000000000000000
+     A004000000000000000000000000A004000000000000000000000000A004000000000000000000
+     000000A004000000000000000000000000A004000000000000000000000000A004000000000000
+     000000000000A00400000B30040000004EOOOOOOB40400002800D61EC30F390800001109000000
+     5AOOOB01008B143600540069006D006500730020004E0065007700200052006F006D0061006EOO
+     200052006500670075006C0061007200000000000000000001000100580208337C007800000200
+     00940600000100010000000400280000000COOOOOOOOOOOOOOOOOO0000000000000112A4542400
+     A1000000A1000000D3050C0000010000000COOD301000400020000000A0000008B06010045008C
+     06020002008D06010045008E06010002008F060100450090060100510091060200440092060100
+     020093060100020094060100550059A4A122000000004400440064007000340044000100000004
+     003E00000000000000100000000000000000000000031587A624002206000053006D0061006COO
+     6C00200043006900720063006C0065000000F02206FOE0300COOOO000008070COOEODDOA100083
+     0104000300A454211000DDD3050C0000010000000COOD3DDOBOBOO030000040BOODD9BD3050COO
+     07010002000COOD39CF1009106F1CCF1019106F19B9CF1009106F1CCF1019106F19BCCCC9C4D61
+     7980322C9B8031393937CCD30510000601000002280000001000D3CC4D454D4F52414E44554D80
+     464F528054484580505245534944454E54CCCC46524F4D3AE0110CO000000060090COOEOE0110C
+     00000000B80BOCOOE0425255434580524545442C8043594E5448494180524943452C80414E4480
+                                                                            Hex-Dump Conversion
+                                          May 2,1997
+
+MEMORANDUM FOR THE PRESIDENT
+
+FROM:                 BRUCE REED, CYNTHIA RICE, AND DIANA FORTUNA
+
+SUBJECT:              COLLEGE AND WELFARE WORK REQUIREMENTS
+
+
+You asked about reports that welfare recipients enrolled in college are dropping out or being
+asked to drop out in order to go to work and help states meet the welfare law's work
+requirements.
+
+The welfare law does not require states to tell clients to drop out of school -- although some
+jurisdictions, such as New York City, have done so. (New York City has moved aggressively to
+require welfare recipients to participate in community work experience jobs such as cleaning
+parks. This was done not as a result of the Federal welfare law, but at the initiative of Mayor
+Giuliani. As a result, the number of students on welfare enrolled at the City University of New
+York has reportedly fallen from 29,000 to 18,000.)
+
+The following are some of the ways in which states can accommodate welfare clients who wish
+to stay in school:
+
+·      Colleges could make it easier for students on welfare to work 20 or 30 hours a week
+       and still attend school. Many Americans work their way through college: Department
+       of Education statistics show that in 1993, 38% of undergraduates worked at least 35 hours
+       a week, while 16% worked between 21 and 34 hours a week. Colleges could make it
+       easier for welfare recipients to combine work and college by providing work study
+       opportunities that meet the work requirements. Although most colleges limit work study
+       to 10 to 15 hours a week, there is no limit in federal law -- colleges can provide as many
+       hours as needed to meet the student's financial need. A student could also work 15
+       hours a week in an on-campus work study job and 15 hours a week in a private-sector,
+       off-campus job subsidized by her welfare check.
+
+       We recommend sending colleges a letter from Secretaries Riley and Shalala to clarify that
+       colleges can use work study to help students on welfare meet their work requirements and
+       still complete their degree. Jonathan Alter has also suggested a novel way for colleges to
+       help with welfare reform. He recommends that colleges stop putting work study students
+       to work in kitchens and dining halls and send them into communities to be tutors and
+       mentors. That, in turn, would free up a number of entry-level jobs on campus that could
+       be used to hire people off welfare (whose wages in some cases could be subsidized by
+       their welfare checks).
+·      States could encourage recipients to attend vocational post-secondary training,
+                                                                      Hex-Dump Conversion
+
+    which can be counted for up to 12 months in the state's participation rate. Overall, no
+    more than 20 percent of individuals can be counted as working by participating in
+    vocational training or secondary school, and in many states much of that 20% will be
+    made up of teenage parents finishing high school.
+
+·   States could put college students in separate state programs to which the work rates
+    do not apply. Under the law states could use savings from welfare reform (from
+    dropping caseloads or the fact that they need maintain only 75% of historic state spending
+    to get the T ANF block grant) to set up separate state programs in which they could
+    support welfare recipients in college. Currently, work rates do not apply to either
+    1) programs funded by completely separate state dollars or 2) programs funded by
+    "maintenance of effort" dollars which states spend in order to get the T ANF block grant.
+    We have argued that the work rates should apply to the latter, which is integrally related
+    to the federal program, lest states structure their programs to significantly undermine the
+    work rates. This change would require legislation. However, even if work rates applied
+    to the "maintenance of effort" programs, states could use the savings from welfare reform
+    to fund separate state programs for college students.
+
+

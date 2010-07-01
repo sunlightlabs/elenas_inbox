@@ -1,0 +1,179 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Thomas L. Freedman ( CN=Thomas L. Freedman/OU=OPD/O=EOP [ OPD ]   )
+
+CREATION DATE/TIME:11-DEC-1997 16:48:44.00
+
+SUBJECT:   Questions and Answers
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP   [ OPD ]     )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD]    )
+READ: UNKNOWN
+
+CC: MaryL. Smith ( CN=Mary L. Smith/OU=OPD/O=EOP @ EOP    [OPD ]      )
+READ: UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP   [ WHO]    )
+READ: UNKNOWN
+
+TEXT:
+Tobacco and food irradiation Q and A's.==================== ATTACHMENT     1 =========
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D81]MAIL47502644A.316 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043700400000l0A02010000000205000000FCOF000000020000BD27E29B13D8760DE10CC5
+lEF72BFF6B9C766E105F6958D97D16760DA900A15EOA43EE0883629F92lDF9D379B14220l39345
+Al4674A647DA593B2D76AD5BDl209DOBD06BFB82E8AA72A2845308FFE8E9D3673E8Fl46E46D2C8
+A0810F301FF8447lFD66F269347AC26CFOE86FADB676B3C9C9CFF94E07002CF80E2C05B863A64E
+1227472869C57DFCIBB60B8CE5A6579049444EF468572EC834166CE799A3BD5486351918EECIDE
+FC53027D3AD9B9FFB7C5E1910B27BDBE873B19AC2B6D060F1E1370CC8D89AD19E4FE12F776F5FE
+lCE2EF050AOF063DB5988281D4125D11C19329E4E6BDD9384399DF795BOEB802D6578453E74223
+79E50815C3F6441846334265DD907B51D3DFD7C95A73144A39EDAD7DC397F03FC6F8D93CC9C6EO
+2D48104933E3B72AA60A396B369C1DC22B1BE281568D13F63745C900504C8C3216F22F2E9423AF
+082D8695C1791D84FC8747CAEDDB8BBE1FB14FD55FFCED6888A17A58C1CCB2CE5A53844D923E81
+lE3A03F8F6D9F71971E6D442COE22AF822EA1937993E07528424DOD4C52AOB40450D7C198CE302
+3BEAOB4CF8D7CD213D69531EC2BCB040A546B9BABF07B27B7BE85233E383DD7360558714EB28C9
+19969773E7C69998A8944A4ECB03D11D2DCOCE10D69D94A30487C9569B745CC0138B1B08CC80DA
+2322B4132F02000900000000000000000000000823010000000B0100007E020000005501000000
+4E0000008903000009250100000006000000D70300000B300200000028000000DD030000087701
+000000400000000504000008340100000014000000450400000802010000000F00000059040000
+080501000000080000006804000000984800500020004C0061007300650072004A006500740020
+00340020002D0020004C006F00630061006COOOOOOOOOOOOOOOOOO000000000000000000000000
+00000000000000000000000057494E53504F4F4COOOOOOOOOOC800C8002C012C012C012C01C800
+C80030000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000B0100002800D61EC30F3908000011090000005AOOOB01008B143600540069006D0065
+00730020004E0065007700200052006F006D0061006E00200052006500670075006C0061007200
+000000000000000001000200580201000000040028000000000000000000000000000000000000
+00011202002400A1000000A10000000A0000009C0002005B009DOO350065819E00160019009FOO
+02005500A00008005000A10002004500A20002009381A3000100450OA40001000200A500020055
+00099F6D230000000000000000000000000000000008337C00780000020000A500000003010004
+0002000000DDOA10008301040003000200211000DDDDOBOB00030000040BOODDF1029DOOF19BF1
+039DOOF1F1009DOOF19BF1019DOOF1F1029DOOF1F1039DOOF1F1009DOOF19CF1019DOOF1F1029C
+00F1F20CF2F1039COOF1E0110C0000000008070COOEOE0110COOOO000060090COOEOE0110COOOO
+                                      QUESTION AND ANSWER o#ex-Durnp Conversion
+                                          FOOD IRRADIATION
+                                                  12/11/97
+
+
+
+Q. What actions has the Administration done with regard to irradiation of food and why?
+
+A.      Earlier this month the FDA approved irradiation of meat products for controlling
+disease-causing micro-organisms. The approval applies to fresh and frozen red meats such as
+beef. The USDA will soon publish a proposed implementing rule for companies that want to use
+irradiation including requirements for appropriate labeling.
+
+       FDA's approval was based on a scientific review of a substantial number of studies
+conducted worldwide on the effects of irradiation on a wide variety of meat products. FDA
+concluded that irradiation is safe in reducing disease-causing microbes in or on meats, and that it
+does not compromise the nutritional quality of treated products. During the irradiation process,
+food products are treated by subjecting them to radiation from radioactive or machine sources,
+which kills significant numbers of insects, pathogenic bacteria and parasites. FDA's decision
+does not require irradiation but simply permits it. The extent to which meat will be irradiated
+depends on decisions made by the industry and consumers.
+
+       Irradiation has previously been approved for products such as wheat, poultry, pork, fruits
+and vegetables and spices. This approval was in response to a petition filed in August 1994 by a
+company named Isomedix.
+                                                                           Hex-Dump Conversion
+                         Questions and Answers on the Tobacco
+                                   December 11, 1997
+
+
+
+Q:   Do you see any signs that Congress will pass your comprehensive tobacco legislation?
+
+A:   Yes. There are promising signs that Congress will come together in a bipartisan fashion
+     and pass tobacco legislation in the upcoming year. Shortly after I announced my plan for
+     the reduction of youth smoking we had a meeting with the leaders of both the House and
+     the Senate on this issue -- Republicans and Democrats -- and the response was very
+     positive. Protecting our children is a goal we can all agree on. Several Senators have
+     introduced legislation, and there is a consensus that we have a unique opportunity if we
+     act right now to control teen smoking.
+
+     The Vice-President has been working hard building up support for the plan, he has held 3
+     very successful public forums around the country. He is conducting a fourth forum next
+     week, December 16th, in Seattle.
+
+     Of course, this is a complicated issue. It needs to be studied carefully. But we have
+     great hopes that the Administration and Congress can work together to enact bipartisan
+     legislation in the near future.
+
+
+Q:   Can you clarify the Administration's position on the money states have received from
+     tobacco settlements. Are the states required to share that money with the federal .
+     government?
+
+A:   The states, particularly the state attorneys general, deserve enormous credit for their role
+     in the fight against the tobacco companies. Along with some important work by the
+     FDA and this Administration, they have made alot of progress. But current law is very
+     clear on this subject, states are required to report to the Health Care Financing
+     Administration reimbursements for Medicaid that may be part of any state tobacco
+     settlements. I look forward to working with states and Congress to address this and other
+     issues through tobacco ·legislation. That legislation will involve a range of allocation
+     questions we will resolve together. But to change the current requirement Congress must
+     enact comprehensive tobacco legislation.
+
+
+Q:   As the tobacco legislation moves through Congress, what are the elements you will not
+     compromise on?
+
+A:   When I announced my plan in September, I made clear that this was not about money, it
+
+
+                                              1
+                                                                       Hex-Dump Conversion
+
+      was about children, and keeping teenagers from smoking. I will not compromise on that.
+       To get the level of smoking reduced, I proposed a plan with five key elements:
+
+·     A comprehensive plan to reduce teen smoking, including tough penalties if targets are not
+      met, a public education and counter advertising campaign, and expanded efforts to restrict
+      the access of youth to tobacco products;
+
+·     Full authority for the FDA to regulate tobacco products;
+
+·     Changes in the way industry does business, including broad document disclosure;
+
+·     Progress toward other public health goals, including reduction of second-hand smoke,
+      expansion of smoking cessation programs, strengthening of international efforts, and
+      funding for health research and other health objectives; and
+
+·     Protection for tobacco farmers and their communities.
+
+      I think we need these elements to have an effective plan.
+
+
+Q:    What will happen if we fail to seize this opportunity?
+
+A:    If current trends continue and nothing is done to curtail tobacco use in America, we can
+      expect an additional 25 million painful and premature deaths among currently living
+      Americans, including five million of our children. On average, smokers who die from
+      smoking-related diseases will lose an average 12 years oflife, resulting in medical
+      expenditures of $50 billion per year.
+
+
+Q:.   Why has tobacco become such an important issue to this Administration?
+
+A:    We've been working on this for two years now. Each day 3000 young people become
+      regular smokers, replacing many of the adult smokers who have quit or died. As the
+      20th century comes to a close, we need to "right our past wrongs" and bring to a close a
+      century of neglect in dealing with the greatest preventable cause of death in our society.
+      We need to protect our children from being seduced, and then addicted, and finally
+      afflicted. We need to enter the 21st century with policies and programs in place which
+      treat tobacco commensurate with the harm that it causes.
+
+
+
+
+                                              2
+
+

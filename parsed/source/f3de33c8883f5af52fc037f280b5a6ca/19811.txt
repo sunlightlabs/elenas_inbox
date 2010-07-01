@@ -1,0 +1,49 @@
+RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+CREATOR: Diana Fortuna ( CN=Diana Fortuna/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME: 8-MAY-1998 13:10:13.00
+
+SUBJECT:   Weekly item on federal public benefit definition
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ]
+READ:UNKNOWN
+
+CC: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+CC: Laura Emmett     CN=LauraEmmett/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D87]MAIL43218282K.126 to ASCII,
+ The following is a HEX DUMP:
+
+FF5750435A040000010A02010000000205000000CDOB000000020000A8C49B351064FCF3026489
+C8BEC340363BC135CD97299C28DE1E9585DD5F4332C84EDF9.623D78713561F3B4B05A3311913C5
+                                                                                        Automated Records Management Sys ·
+                                                                                                Hex-Dump Conversion
+
+        HHS Defines Programs Off Limits to Illegal Aliens -- In the next few weeks, HHS will publish a
+        list of benefits that illegal immigrants may not receive. The welfare law states that illegal
+        immigrants are not eligible for "federal public benefits," and HHS is now providing its
+        interpretation of that term. HHS will state that illegal immigrants are not eligible for child care,
+        low-income heating assistance, and Community Service block grant benefits, among others.
+        However, HHS believes the law does allow illegal immigrants to remain eligible for services at
+        community health clinics and for benefits under the Maternal and Child Health block grant and
+        the Older Americans Act. Republicans such as Rep. Lamar Smith and Gov. Wilson of
+        California will argue that HHS should have defined the term federal public benefit far more
+        broadly to include these programs, but we are comfortable with HHS's legal rationale. HHS
+        feels strongly that community health clinics, which are often the only providers of prenatal care
+        in poor communities, should remain open to all.
+
+        The welfare law also requires that those programs classified as federal public benefits verify the
+        immigration status of all applicants, including U.S. citizens. The INS will soon issue a
+        regulation to implement this requirement, and we expect to hear complaints about the burden this
+        will impose on those programs.
+
+

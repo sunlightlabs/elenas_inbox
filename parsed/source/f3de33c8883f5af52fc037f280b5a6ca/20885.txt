@@ -1,0 +1,45 @@
+ RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Sarah A. Bianchi. ( CN=Sarah A. Bianchi/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME:30-JUL-1998 15:41:27.00
+
+ SUBJECT:   privacy q&a
+
+TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D59]MAIL42875661T.226 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504370040000010A02010000000205000000380A00000002000097EEA7D3F6602AC4089F34
+180BF49FEAOC96B5AFE138698B84BCEFD22BDFF6270434FA883ABE8D193870B9A90337BE61B342
+A1F608852C1586F3207394E1373258CB4B92F8908BDOBDD37EAA150E6D9EE707A37138E9664169
+                                                                    Hex-Dump Conversion
+
+Q:   Is it true that the White House is supporting the repeal of the provision that gives
+     medical I.Ds. to every American?
+
+A:   The Congress directed HHS to develop unique health identifier numbers under the Health
+     Insurance Portability and Accountability Act of 1996. The Administration has
+     consistently taken the position that we will not implement this legislation until there are
+     strong privacy protections in place.
+
+     In the interim, the only action we have taken has been a can for information to an
+     interested parties, particularly consumer representatives, so that we have an the
+     information necessary to implement the law.
+
+     Once again, however, our number one priority is to put in place strong privacy
+     protections. Our preference is for Congress to pass meaningful, bipartisan legislation
+     this year. Ifnot we fully intend to implement strong privacy protections, as is consistent
+     with the authority given to us by the law.
+
+

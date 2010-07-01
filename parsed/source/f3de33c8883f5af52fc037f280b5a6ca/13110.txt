@@ -1,0 +1,38 @@
+RECORD TYPE: PRESIDENTIAL      (WAVES RECEIPT)
+
+CREATOR: Mail Link Monitor ( MAILMGT ) (SYS)
+
+CREATION DATE/TIME:11-0CT-1995 10:57:56.92
+
+SUBJECT:       CONFIRMATION:    APPT. REQUEST FOR KAGAN, ELENA
+
+TO: Elena Kagan                                   KAGAN E      (WHO)
+READ:11-0CT-1995 10:59:03.09
+
+TEXT:
+FROM:       WAVES OPERATIONS CENTER - ACO:
+Date:        10-11-1995                               P6/(b)(6), (b)(7)(c),   (b)(7)(e), (b)(7)(f)
+Time:        10:50:34
+This message serves as confirmation of an appointment for the
+visitors listed below.
+Appointment With:           KAGAN, ELENA
+Appointment Date:           10/12/95
+Appointment Time:           5:30:00 PM
+Appointment Room:           125
+Appointment Building:       OEOB
+Appointment Requested by:   KAGAN ELENA
+Phone Number of Requestor:  67594
+Comments:
+WAVES APPOINTMENT NUMBER:   U20332
+If you have any questions regarding this appointment,
+please call the WAVES Center at 456-6742 and have the
+appointment number listed above available to the
+Access Control Officer answering your call.
+***************************************************************************
+  TOTAL NUMBER OF NAMES SUBMITTED FOR ENTRY:           1
+  TOTAL NUMBER OF NAMES OF CLEARED FOR ENTRY:          1
+***************************************************************************
+   GARRETT, BETH
+                                                   P6/(b)(6)
+
+

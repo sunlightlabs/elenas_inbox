@@ -1,0 +1,134 @@
+  RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+  CREATOR: Tanya E. Martin ( CN=Tanya E. Martin/OU=OPD/O=EOP [ OPD ]     )
+
+  CREATION DATE/TIME: 14-JAN-1998 14:33:35.00
+
+   SUBJECT:   Class Size Proposals
+
+   TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+   READ: UNKNOWN
+
+   TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ] )
+   READ:UNKNOWN
+
+   CC: William R. Kincaid ( cN=William R. Kincaid/OU=OPD/O=EOP @ EOP [ OPD ]   )
+   READ: UNKNOWN
+
+   CC: Michael Cohen ( CN=Michael Cohen/OU=OPD/O=EOP @ EOP [ OPD ] )
+   READ:UNKNOWN
+
+   TEXT:
+   Attached are the tables Mike discussed with you that layout options for
+   the class size initiative.
+
+   Table 1 -- shows our current proposal to reduce class size to an average
+   of 18 in grades 1 and 2, funding teacher salaries plus an additional 20%
+   for teacher quality improvement.
+
+   Table 2 -- modifies the current proposal by reducing the teacher quality
+   component to 10%.
+
+   Table 3 - shows additional class size targets and costs   ==================== ATTACH
+   ATT CREATION TIME/DATE:   0 00:00:00.00
+
+   TEXT:
+   Unable to convert ARMS_EXT: [ATTACH.D59]MAIL45034531G.026 to ASCII,
+    The following is a HEX DUMP:
+
+   FF57504375180000010A020100000002050000005E3D000000020000EC1149E71B94D3F60ADDOB
+   765D645497429C48B4FAB221BDOD82E88B61E217E5A74490E2BC5166D5D2F19C2746205FAOBC14
+   769A7661D18B59EEE2921BF9EAD376C18C6EC39CEA870C87405B53A18C9CFD7DAE47270175FIID
+   38C599E7B76C74B2C7B04832D2955B035438E96291390103F4B79ACA1934AC4D950632A3D7EAD7
+   1967D91C5CC55B188FC9B8EE5808250AEB5119BF8C140A48FCl196B29417394EA48FCBIF46353C
+   9Dl1D788D5DFC7EDD865038A20AEBAAB4C15C148D8646CI063B724DBA4B1FF5012A87F637813CC
+   28FB4481750C93F26F3A3BEFFD5983BE042A3E59FEA44AC8D6A2736C8534BB9D4C986E7819E8CF
+   1F47D999CEA329E4FF3DF4503D778265D4DC899BDD9BEA580DF5581943F9256218CD6BCA529D90
+   BA7A5D644B85914A9F832647E7FA6553AD3F76406E55873FFAIA043F3D19473DD70E820DC4ABAD
+   571D193BAEBF70BBA61BEB3A76E618ACE640BF74D8A7AB227919178DCF3EF4326956196D6E4C61
+   OCB14A8317F5EE3184309C13A808053DDBDBA213431855F7C984F5DD6302COD5A8291DA97561CA
+   44CF75BC33DEFDF8CFA18B8C9D2E7515738EAFFF5841AE8F2171EAF044E5D5CCB38A79FC3205DO
+   CC8E5DA8271B15E4129FBDIFD9047F90AECIFD70FBF935A31FC781CC3ABABFB25E1006AAD79FAC
+   F09FEOA7880200AF00000000000000000000000823010000000BOI0000920B0000005501000000
+   4E0000009DOC000009250100000006000000EBOCOOOOOB300200000028000000F10C0000081601
+   00000032000000190D0000006602000000020000004BOD0000006101000000140000004DODOOOO
+   00660200000002000000610D000008770100000040000000630DOO0008340100000014000000A3
+   OD00000802010000000FOOOOOOB70D000000610100000014000000C60D00000066020000000200
+   0000DAOD000000610100000014000000DCOD000009680100000000040000FOOD00000968010000
+   00B6020000F01I0000096801000000DF020000A614000000000000000000000000A61400000000
+   0000000000000000A614000000000000000000000000A614000000000000000000000000A61400
+   0000000000000000000000A614000000000000000000000000A614000000000000000000000000
+
+
+                        Table 1
+                    Current Proposal
+
+
+Fiscal Year   Budget            No. of Teachers          Average Class Size
+                                                           Grades 1&2
+    98                                                                 22.3
+
+    99          $1.1 billion                31,741                     20.2
+
+    00          $1.3 billion                37,512                      19.9
+
+    01          $1.5 billion                43,284                      19.6
+
+    02          $1.7 4billion               49,055                      19.3
+
+    03          $1.7 billion                50,065                      19.2
+
+    04          $2.2 billion                63,483                      18.5
+
+    05          $2.7 billion                78,487                      17.8
+
+
+
+                        Table 2
+               Modified Current Proposal
+                10% Quality Component
+                                                     .
+
+Fiscal Year   Budget            No. of Teachers          Average Class Size
+                                                            Grades 1&2
+
+    98                                                                 22.3
+
+    99          $1.1 billion                34,713                     20.1
+
+    00          $1.3 billion                41,025                      19.7
+
+    01          $1.5 billion                47,337                      19.4
+
+    02          $1.7 billion                53,648                      19.1
+
+    03         $1. 74 billion               54,753                      19.0
+
+    04          $2.2 billion                69,427                      18.2
+
+    05          $2.7 billion                85,837                      17.5
+
+
+                                       Automated Records Management System
+                                       Hex-Dump Conversion
+,,'
+
+                                                Table 3
+                                   Optional Assumptions and Targets
+
+
+          New          Total      Final Yr.      Final Yr.       5 Year Mark:      5 Year Mark
+          Target       Teachers   Cost: 20%      Cost: 10%       20%               10%
+                                  Quality        Quality
+
+          Av.18        129,000    $4.5 billion   $4.1 billion    50,000 teachers   55,000 teachers
+          Grades 1-3                                             Class Avg. 21     Class A vg. 21
+
+          Max. 18      93,000     $3.2 billion   $2.95 billion   50,000 teachers   55,000 teachers
+          Grades 1-2                                             Class Avg. 19     Class Avg.
+                                                                                   19.0
+
+          Av.19        100,000    $3.5 billion   $3.2 billion    50,000 teachers   55,000 teachers
+          Grades 1-3                                             Class Avg. 21     Class A vg.21
+
+

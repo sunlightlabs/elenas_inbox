@@ -1,0 +1,91 @@
+RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+CREATOR: Andrea Kane ( CN=Andrea Kane/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME: 6-AUG-1998 22:16:58.00
+
+SUBJECT:   Summary of WTW Bonus Issues
+
+TO: Elena Kagan     CN=Elena Kagan/OU=OPD/O=EOP @ EOP   [ OPD ] )
+READ:UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ:UNKNOWN
+
+CC: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ:UNKNOWN
+
+TEXT:
+The attached matrix may be helpful if you get a call from Jack Lew on WTW
+High Performance Bonus. It lays out DOL/OMB position on WTW, TANF
+approach, and our proposal for WTW.
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D38]MAIL41064722H.226 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504369080000010A0201000000020500000059140000000200OOC780485D6EA878EBA99C49
+OAOA662FCE788DA4A95565AA9C540D9133AB13B70A270CA691BCC1B3DDFAA49B5F060E2CFF7B5E
+34160C56928D7980C3B8678C03CF4F9596BDD44A386B6B2560574FE7B5A2040BAB124F57291D78
+3028AE23D31A9AF3421A27353ACFE663B1F3E361F43C548B1D5ED8BD2E3218166EDE6F59D9C02C
+8085A10658DEF5BC640342262CCD25457D66B5BB096AA80887608F14868884910DF8EOOC46EB6B
+D4417AB1609E9B9137D20669F994D7BCC20EE75F692AB6A47FDEBF558E67EB4F943A97EF811D70
+3A3087FE1E83E0883849FOD8B7CC248EOOCB3E903C95407DF6EC4ECFFDF4A627567DD4FE4D2AC3
+38C7C2B24A9D78EA64CD74F707D8D318E54BBE1BC150C9CAEE236D4570E96131CE2293A3113E77
+7A672B191A7FFD4DEB8A30686AB4D8BB4EOB034F715DF599FD4EDCE787C32760BD903056COB880
+OCFE3C860CC980661AED3097C34A3986F4ED6E65B8BFF15FD426AAE37936C2D3DBAA15C3FEF95B
+
+
+                DOL/OMB Proposal                            T ANF Guidance                  DPC Proposal
+
+Definition of   Unsubsidized (excludes wage subsidies       Unsubsidized and partially      Same as TANF (include subsidies
+Employment      and OJT paid with WTW funds).               subsidized (excludes workfare   paid with either TANF or WTW
+                NOTE: DOL agreed that subsidies paid        and fully subsidized            funds)
+                wi TANF funds would not be excluded.        employment)
+
+Job Entry       1) "Job Entry Rate" (any job)               1) "Job Entry Rate" (any job)   Can live wi two measures, but
+Measures(s)     2) "Substantial Job Entry Rate" = jobs of                                   change 2) to 30 hours and rename it
+                 least 20 hours per week (includes people                                   (so that there's an explainable
+                who are counted in 1) and increase to                                       difference between the two).
+                >20 hours)
+
+Weighting       A: original proposal                        40% Job Entry                   40% Job Entry
+                35% Job Entry                               20% Job Entry--Improvement      20% Subst Job Entry
+                20% Subst Job Entry                         60%                             60%
+                55%
+                30% Retention                               25% Success in Workforce        25% Retention
+                15% Earnings Gain                                     (Retention &          15% Earnings Gain
+                45%                                         Earnings)                       40%
+                                                            15% Success in Wkfrce--Impr.
+   ff
+   0>           B: revised proposal                         40%                             Similar to TANF, and to DOL's
+    3
+    ""          15% Job Entry                                                               original proposal.
+    CD
+:::x:c..        20% Subst Job Entry
+CU:;OJ
+':'cu
+08
+c::~
+                35%
+3c..            50% Retention
+-0'"
+c")s:::
+00>
+::J::J
+                15% Earnings Gain
+<0>
+cuec
+UlCI>           65%
+-·3
+Oct>
+::Ja.
+     en         Bottom line: at least 50% should be for
+    '<
+     en
+     CD         Retention and Earnings.
+     3
+
+

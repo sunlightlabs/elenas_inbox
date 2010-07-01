@@ -1,0 +1,223 @@
+RECORD TYPE: PRESIDENTIAL      (NOTES MAIL)
+
+CREATOR: Paul J. weinstein Jr.     ( CN=Paul J. weinstein Jr./OU=OPO/O=EOP [ OPD 1 )
+
+CREATION DATE/TIME:27-JUL-1998 11:01:29.00
+
+SUBJECT:   Approps. Schedule
+
+TO: Neera Tanden    CN=Neera Tanden/OU=WHO/O=EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Todd A. Summers ( CN=Todd A. Summers/OU=OPD/O=EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Mary L. Smith ( CN=Mary L. Smith/OU=OPD/O=EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Jonathan H. Schnur ( CN=Jonathan H. Schnur/OU=OPD/O=EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPO/O=EOP [ OPO 1 )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Nicole R. Rabner ( CN=Nicole R. Rabner/OU=WHO/O=EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Tanya E. Martin ( CN=Tanya E. Martin/OU=OPD/O=EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Jeanne Lambrew ( CN=Jeanne Lambrew/OU=OPD/O=EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Andrea Kane ( CN=Andrea Kane/OU=OPD/O=EOP [ OPO 1 )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Christopher C. Jennings ( CN=Christopher C. Jennings/OU=OPD/O=EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Jose Cerda III ( CN=Jose Cerda III/OU=OPD/O=EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Thomas L. Freedman ( CN=Thomas L. Freedman/OU=OPD/O=EOP [ OPO 1 )
+READ:UNKNOWN
+
+TO: Diana Fortuna ( CN=Diana Fortuna/Ou=OPD/O=EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Julie A. Fernandes ( CN=Julie A. Fernandes/OU=OPD/O=EOP [ OPO 1 )
+READ:UNKNOWN
+
+TO: Leanne A. Shimabukuro ( Leanne A. Shimabukuro @ EOP @ LNGTWY      [OPD 1 )
+READ: UNKNOWN
+
+TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP [ WHO 1 )
+
+
+READ: UNKNOWN
+
+TO: Cynthia Dailard ( CN=Cynthia Dailard/OU=OPD/O=EOP [ OPD ] )
+READ:UNKNOWN
+
+TO: Michael Cohen ( CN=Michael Cohen/OU=OPD/O=EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Sarah A. Bianchi ( CN=Sarah A. Bianchi/OU=OPD/O=EOP [ OPD ] )
+READ:UNKNOWN
+
+TO: Christa Robinson ( Christa Robinson @ EOP @ LNGTWY               [OPD])
+READ: UNKNOWN
+
+TO: Jennifer L. Klein ( CN=Jennifer L. Klein/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ:UNKNOWN
+
+TO: Cathy R. Mays     ( Cathy R. Mays @ EOP @ LNGTWY          [OPD 1 )
+READ:UNKNOWN
+
+TEXT:
+---------------------- Forwarded by Paul J. weinstein Jr./OPD/EOP on
+07/27/98 11:00 AM ---------------------------
+
+
+
+
+         Kate P. Donovan
+         07/24/98 07:23:12 PM
+
+Record Type: Record
+
+To: See the distribution list at the bottom of this message
+cc:
+Subject: Approps. Schedule
+
+
+
+
+Message Sent
+To:
+Jad-e~L-=R~i~l-e-y'/~W~H=O'/~E=O=P---------------------------------------------
+
+Dario J. Gomez/WHO/EOP
+Lisa M. Kountoupes/WHO/EOP
+Janelle E. Erickson/WHO/EOP
+Dawn L. Smalls/WHO/EOP
+Kevin S. Moran/WHO/EOP
+Laura Emmett/WHO/EOP
+Paul J. Weinstein Jr./OPD/EOP
+Wesley P. Warren/CEQ/EOP
+Melissa G. Green/OPD/EOP
+Jessica L. Gibson/WHO/EOP
+
+
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D29]MAIL41405811Z.226 to ASCII,
+
+
+ The following is a HEX DUMP:
+
+FF575043F7240000010A0201000000020500000010750000000200OOD19730EB621D88492EB195
+AICE669084D8369D69F8DFA29170DOE76D8738FFE9EFC5949892CAl03FE6A47A2F4D9FC5F50138
+B4DEIF55A703FDB787429818FA9E2593BD522F73BD720B7FDBDBD7AAIF6E2FDD3C5492E2E42726
+129F5731927BC77409F7BEAE56EADEIC9B6656CB6C16DBE6109236971C646D22A5D4361B616E9D
+192415EBC401A8A193AF96DF21D4FA9F19A962A9CDA6B6A7CF5AFCCFFFAA9E4587895499EB9288
+5FE7269C3AC7270E77821A3013A4D15EB8E83BDC45279723232721F9EAC93C85BB5AA4F7803D81
+C8AB3CD9ECA20B6008ADE82A634352073275A4FCBA63355708DCE35F3887523B3ABBIC90C3E954
+0762FCA8E5A8101D77DBI0172BF36DDIF40DE5B35DF44CEADFC6855323FEC2F4C6DA50814DD2F5
+E4A317DF4A7024D4A5DFA16159E14D9DF922E97DB13160263D9BEAA26EIIF8CIFC231C33F68F13
+6C04DBCBC2A365BD40E9BDA6262EEII0DFC22269618AEA6FCD71ECB8D69A73AB80CA71E583FDEE
+                                                           Hex-Dump Conversion
+1998                                                                                       1998
+                                  u~y
+     SUNDAY        MONDAY        TUESDAY          WEDNESDAY            THURSDAY          FRIDAY        SATURDAY
+
+26            27            28                29                   30               31
+
+Week of       H. Rules      H. Rules          H. Fir C/J/S HAC DC        Senate
+7/27:         Trans         L/HHS/Ed          (cant)       H. Fir MilCon leaves for
+Agric Conf                  H. Fir            H. Fir LlHHS Conf.         August
+Rep                         VAlHUD            (tent)                     recess (tent)
+EIW Conf                    (cant)                         S. Fir MilCon
+Rep                         H. Fir Trans                   Conf.
+                            lw   t=lr r/l/~   I~    t=lr Q."I nf
+
+
+
+
+1998
+                            A ugus t                                                       1998
+
+     SUNDAY        MONDAY        TUESDAY          WEDNESDAY            THURSDAY          FRIDAY        SATURDAY
+
+                                                                                                   1
+
+
+
+
+2             3             4                 5                    6                7              8
+
+                                                                   H. Floor DC      House leaves
+                                                                                    for August
+                                                                                    Recess
+
+
+
+
+TO BE SCHEDULED:                                                        HAC - House Appropriations Full
+Committee
+5. Sub. LlHHs/ED (Week of 9/14)                                         SAC - Senate Appropriations Full
+Committee
+5_ Floor: Defense & Interior
+Leg Branch Conference
+       .'                                                                     Hex-Dump Conversion
+
+
+1998
+
+     SUNDAY           MONDAY
+                               seJ. TUESDAY
+                                                t em b er
+                                                    WEDNESDAY       THURSDAY
+                                                                                         1998
+
+                                                                                      FRIDAY           SATURDAY
+                               1                2               3                4                 5
+
+                               Senate
+                               returns (tent)
+
+
+
+
+6             7                8                9               10               11                12
+
+                               House
+                               Returns
+
+
+
+
+13            14               15               16              17               18                19
+
+
+                  ,
+
+
+
+
+20            21               22               23              24.              25                26
+
+
+
+
+27            28               29               30
+
+

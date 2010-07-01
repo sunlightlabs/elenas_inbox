@@ -1,0 +1,42 @@
+RECORD TYPE: PRESIDENTIAL       (NOTES MAIL)
+
+CREATOR: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP [ OPD 1 )
+
+CREATION DATE/TIME:27-MAY-1998 10:48:09.00
+
+SUBJECT:   Tobacco math   .
+
+TO: Elena Kagan     CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TEXT:
+If you had to make room for a tax cut, you could do something like this:
+
+                  1st Five Years               2nd Five Years
+
+Farmers           lOB                            8B
+States                    25B*                         25B*
+Research                  lOB                          lOB
+Public Health                 5B**                       5B**
+Tax Cut                   lOB                          25B
+
+Receipts (JCT est.)       60B                          73B***
+
+
+* State share includes minimum of $3B for cessation, $2B for tobacco
+prevention, education, and enforcement.  Remaining $20B is split 50/50
+with menu.
+
+** Public health includes $2.5B for counterads, $1.2B for FDA, $lB for
+intl & surveys, $300m for ATF.
+
+*** This does not include the possible use of lookback money, which JCT
+estimates at $12B in 2nd five years.  That money could be used to
+supplement the public health and state public health pots.
+
+If we needed a bigger tax cut in the first 5 years, I would suggest taking
+it out of research, or a combination of farmers/states/research.  Payment
+caps on farmers ($75,000 per year) might help spretch the farm price tag
+out.  I'd rather not cut the state share if we can avoid it.
+
+

@@ -1,0 +1,464 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Melissa G. Green ( CN=Melissa G. GreenjOU=OPDjO=EOP [ OPD ]                )
+
+CREATION DATEjTIME: 4-JUN-1998 10:54:05.00
+
+SUBJECT:
+
+TO: Linda Ricci ( CN=Linda RiccijOU=OMBjO=EOP @ EOP [ OMB ] )
+READ: UNKNOWN
+
+TO: Karen Tramontano ( CN=Karen TramontanojOU=WHOjO=EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+TO: Sidney Blumenthal ( CN=Sidney BlumenthaljOU=WHOjO=EOP @ EOP [. WHO ]                    )
+READ: UNKNOWN
+
+TO: Brian A. Barreto ( CN=Brian A. BarretojOU=OPDjO=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Stacie Spector ( CN=Stacie SpectorjOU=WHOjO=EOP @ EOP [ WHO]        )
+READ: UNKNOWN
+
+TO: Mark,D. Neschis ( CN=MarkD. NeschisjOU=WHOjO=EOP @ EOP [ WHO]               )
+READ: UNKNOWN
+
+TO: Noa A. Meyer ( CN=Noa A. MeyerjOU=WHOjO=EOP @ EOP [ WHO]    )
+READ: UNKNOWN
+
+TO: Marsha E. Berry ( CN=Marsha E. BerryjOU=WHOjO=EOP @ EOP [ WHO]              )
+READ: UNKNOWN
+
+TO: Andrei H. Cherny ( CN=Andrei H. ChernyjO=OVP @ OVP   [ UNKNOWN]         )
+READ: UNKNOWN
+
+TO: Neera Tanden ( CN=Neera TandenjOU=WHOjO=EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+TO: Michael V. Terrell ( CN=Michael V. TerrelljOU=CEQjO=EOP @ EOP [ CEQ]                        )
+READ: UNKNOWN
+
+TO: Robin J. Bachman ( CN=Robin J. BachmanjOU=WHOjO=EOP @ EOP [ WHO]                    )
+READ: UNKNOWN
+
+TO: Leanne A. Shimabukuro ( CN=Leanne A. ShimabukurojOU=OPDjO=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Elizabeth R. Newman ( CN=Elizabeth R. NewmanjOU=WHOjO=EOP @ EOP [ WHO]                          )
+READ: UNKNOWN
+
+TO: Mickey Ibarra ( CN=Mickey IbarrajOU=WHOjO=EOP @ EOP [ WHO ]     )
+READ: UNKNOWN
+
+TO: Jeffrey A. Forbes ( CN=Jeffrey A. ForbesjOU=WHOjO=EOP @ EOP [ WHO]                      )
+READ: UNKNOWN
+
+TO: Craig T. Smith ( CN=Craig T. SmithjOU=WHOjO=EOP @ EOP [WHO]         )
+READ: UNKNOWN
+
+TO: Christopher J. Lavery ( CN=Christopher J. LaveryjOU=WHOjO=EOP @ EOP [ WHO]                          )
+
+
+READ: UNKNOWN
+
+TO: Lisa J. Levin ( CN;Lisa J. Levin/OU;WHO/O;EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Aviva Steinberg ( .CN;Aviva Steinberg/OU;WHO/O;EOP   @   EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Robert B. Johnson ( CN;Robert B. Johnson/OU;WHO/O;EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Beverly J. Barnes ( CN;Beverly J. Barnes/OU;WHO/O;EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Thomas D. Janenda ( CN;Thomas D. Janenda/OU;WHO/O;EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Michael Waldman ( CN;Michael Waldman/OU;WHO/O;EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Jordan Tamagni ( CN;Jordan Tamagni-jOU;WHO/O;EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Joshua Silverman ( CN;Joshua Silverman/OU;WHO/O;EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Laura D. Schwartz ( CN;Laura D. Schwartz/OU;WHO/O;EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+                                                                                            \1
+TO: Dorothy Robyn ( CN;Dorothy Robyn/OU;OPD/O;EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN;Bruce N. Reed/OU;OPD/O;EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Peter O'Keefe ( CN;Peter O'Keefe/OU;WHO/O;EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Alison Muscatine ( CN;Alison Muscatine/OU;WHO/O;EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Kevin S. Moran ( CN;Kevin S. Moran/OU;WHO/O;EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Joseph J. Minarik ( CN;Joseph J. Minarik/OU;OMB/O;EOP @ EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Michael D. McCurry ( CN;Michael D. McCurry/OU;WHO/O;EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Doris o. Matsui ( CN;Doris   o.   Matsui/OU;WHO/O;EOP @ EOP [WHO 1
+READ: UNKNOWN
+
+TO: Julie E. Mason ( CN;Julie E. Mason/OU;WHO/O;EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Jacob J. Lew ( CN;Jacob J. Lew/OU;OMB/O;EOP @ EOP    [ OMB 1 )
+READ: UNKNOWN
+
+TO: Jeanne Lambrew ( CN;Jeanne Lambrew/OU;OPD/O;EOP @ EOP [ OPD 1 )
+
+
+READ: UNKNOWN
+
+TO: Charles Konigsberg ( CN;Charles Konigsberg/OU;OMB/O;EOP   @   EOP [ OMB 1 .)
+READ: UNKNOWN
+
+TO: Thomas A. Kalil ( CN;Thomas A. Kalil/OU;OPD/O;EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Christopher C. Jennings ( CN;Christopher C. Jennings/OU;OPD/O;EOP @ EOP        [ OPD 1
+READ: UNKNOWN
+
+TO: Nancy V. Hernreich ( CN;Nancy V. Hernreich/OU;WHO/O;EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Diana Fortuna ( CN;Diana Fortuna/OU;OPD/O;EOP @ EOP   [ OPD 1 )
+READ: UNKNOWN
+                                       I
+
+TO: Michael De~ch ( CN;Michael Deich/OU;OMB/O;EOP @ EOP   [ OMB 1 )
+READ: UNKNOWN
+
+TO: Betty W. Currie ( CN;Betty W. Currie/OU;WHO/O;EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Brenda B. Costello ( CN;Brenda B. Costello/OU;WHO/O;EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Michael Cohen ( CN=Michael Cohen/OU=OPD/O=EOP @ EOP   [ OPD 1 )
+READ: UNKNOWN
+
+TO: Laura K. Capps ( CN=Laura K. Capps/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Rebecca A. Cameron ( CN=Rebecca A. Cameron/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Jill M. Blickstein ( CN=Jill M. Blickstein/OU=OMB/O=EOP @ EOP [ OMB 1 )
+READ: UNKNOWN .
+
+TO: David S. Beaubaire ( CN=David S. Beaubaire/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Brenda M. Anders ( CN;Brenda M. Anders/OU;WHO/O;EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Amy W. Tobe ( CN=Amy W. Tobe/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Barbara Chow ( CN=Barbara Chow/OU=OMB/O=EOP @ EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Joshua Gotbaum ( CN=Joshua Gotbaum/OU=OMB/O=EOP @ EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: William A. Halter ( CN=william A. Halter/OU=OMB/O=EOP @ EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Laura Emmett ( CN;Laura Emmett/OU;WHO/O;EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Roberta W. Greene ( CN=Roberta W. Greene/OU=WHO/O=EOP @ EOP [ WHO 1 )
+
+
+READ: UNKNOWN
+
+TO: Paul E. Begala ( CN=Paul E. Begala/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Glen M. Weiner ( CN=Glen M. Weiner/OU=wHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Ruby Shamir' ( CN=Ruby Shamir/OU=WHO/O=EOP   @   EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Darby E. Stott ( CN=Darby E. Stott/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Robert M. Shireman ( CN=Robert M. Shireman/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Emil E. Parker ( CN=Emil E. Parker/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Virginia N. Rustique ( CN=virginia N. Rustique/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: virginia M. Terzano ( CN=Virginia M. Terzano/O=OVP @ OVP [ ·UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Karen E. Skelton ( CN=Karen E. Skelton/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Minyon Moore     CN=Minyon Moore/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Lynn G. Cutler    CN=Lynn G. Cutler/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: William H. White Jr.    ( CN=William H. White Jr./Ou=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Barbara D. Woolley ( CN=Barbara D. Woolley/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Charles R. Marr ( CN=Charles R. Marr/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Sara M. Latham ( CN=Sara M. Latham/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Paul J. weinstein Jr.   ( CN=Paul J. weinstein Jr./OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Barry J. Toiv ( CN=Barry J. Toiv/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Douglas B. Sosnik ( CN=Douglas B. Sosnik/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO:' Jake Siewert ( CN=Jake Siewert/OU=OPD/O=EOP     @   EOP [ OPD 1 )
+
+
+READ: UNKNOWN
+
+TO: Steven J. Ronnel ( CN=Steven J. Ronnel/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Christa Robinson ( CN=Christa Robinson/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: John Podesta ( CN=John Podesta/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Bob J. Nash ( CN=Bob J. Nash/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Janet Murguia ( CN=Janet Murguia/OU=WHO/O=EOP @ EOP   [ WHO 1 )
+READ: UNKNOWN
+
+TO: Linda L. Moore ( CN=Linda L. Moore/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Anne E. McGuire ( CN=Anne E. McGuire/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Cathy R. Mays ( CN=Cathy R. Mays/OU=OPD/O=EOP @ EOP   [OPD 1 )
+READ: UNKNOWN
+
+TO: Sylvia M. Mathews ( CN=Sylvia M. Mathews/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Bruce R. Lindsey ( CN=Bruce R. Lindsey/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Ann F. Lewis ( CN=Ann F. Lewis/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Karin Kullman ( CN=Karin Kullman/OU=WHO/O=EOP @ EOP   [ WHO 1 )
+READ: UNKNOWN
+
+TO: Jonathan A. Kaplan ( CN=Jonathan A. Kaplan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Peter G. Jacoby ( CN=Peter G. Jacoby/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Daniel D. Heath ( CN=Daniel D. Heath/OU=OMB/O=EOP @ EOP [ OMB 1 )
+READ : UNKNOWN
+
+TO: Rahm I. Emanuel ( CN=Rahm I. Emanuel/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Suzanne Dale ( CN=Suzanne Dale/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Michelle Crisci   ( CN=Michelle Crisci/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Steven A. Cohen ( CN=Steven A. Cohen/OU=WHO/O=EOP @ EOP [ WHO 1 )
+
+
+READ: UNKNOWN
+
+TO: Cheryl M. Carter ( CN=Cheryl M. Carter/OU=WHO/O=EOP @ EOP [ WHO]   )
+READ: UNKNOWN
+
+TO: Phillip Caplan ( CN=Phillip Caplan/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+TO: Erskine B. Bowles ( CN=Erskine B. Bowles/OU=WHO/O=EOP @ EOP [ WHO]     )
+READ: UNKNOWN
+
+TO: Kris M Balderston ( CN=Kris M Balderston/OU=WHO/O=EOP @ EOP [ WHO ]    )
+READ: UNKNOWN
+
+TO: Lori L. Anderson ( CN=Lori L. Anderson/OU=WHO/O=EOP @ EOP [ WHO]   )
+READ: UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D42]MAIL469234454.126 to ASCII,
+ The following is a HEX DUMP:
+
+FF5750436EOE0000010A020100000002050000001B31000000020000B7EE1F97C59D78EA3D2A54
+1C1043C5EDD6D9421D2B98El121203829EB76D4533B75C15CA7BE6D932280091802653F070B7E2
+C7ADA777D70393860ABB6226847ADB6E82645F4E1D1D360497AE72846D76FC602BA94A471ACB9E
+A7F1373F54C1D451C5FB2AE61FEB073555CFD5D5225A21286A3AAD48F56B62F15EB40049A9D3A6
+E22635CC31F265B1CB3B274D2F1B7FEAF2EA261EAE59CD1EFABOA6AD5F68D04BA2329EOFC6DD40
+339E85F4F8934B5799565C2A07D01A76221C6B17DEBF8C4CE5F8B2887DEC2F53D65E5470308141
+629DCAEFC6BA6D102B024168268EF8FC6E9E66A8E61A347D550AOA992BCF1284EA7A40F5D13A54
+FECAE85F98100EE937D249541B62C98779C4CBB871B89679CF7715C481C9FF144C8B11DBE8D4ED
+6640A8F162F4A9AA334C77607AA3FD0074A69C9F4F05DD23BOC22AD48DE6046DCB76E853F9DC57
+37DD74CA11FD869CEA98F9F09C64DD855D2DDF1D675DB8F2A8513339ED1913670155BE4EF7DEBE
+369C126B93571C282BA6B5CDF53385FC1824071A367A50EF31EF1387C47923F9A7ED35004980AC
+B5AF1ACCOF51608D139225397AF4A8F67D1BDBBC9B07544FC93CC922E7DE656C9B6E738C69C9D4
+169E60C3F315EOFA92145AOE569DEA35CC8225DC45C554CDOD771F141991A58BE592127FE867CB
+F35B2547C40200A500000000000000000000000823010000000B010000060B0000005511000000
+4E000000110C0000092501000000060000005FOCOOOOOB300200000028000000650C0000087701
+000000400000008DOC000008340100000014000000CDOC00000802010000000FOOOOOOE10COOOO
+08050100000008000000FOOC000000550D0000003COOOOOOF80COO000066020000000200000034
+OD00000055010000004E000000360D000000610100000014000000840D00000968010000004300
+0000980D000000000000000000000000980DOOOOOOOOOOOOOOOOOO000000980DOOOOOOOOOOOOOO
+0000000000980D000000000000000000000000980DOOOOOOOOOOOO000000000000980DOOOOOOOO
+0000000000000000980D000000000000000000000000980DOOOOOO000000000000000000980DOO
+0000000000000000000000980D000000000000000000000000980D000000000000000000000000
+980D000000000000000000000000980DOOOOOOOOOOOOOOOOOOOOOO00980DOOOOOOOOOOOOOOOOOO
+000000980D000000000000000000000000980DOOOOOOOOOOOOOOOO00000000980DOOOOOOOOOOOO
+000000000000980D000000000000000000000000980DOOOOOOOOOO00000000000000980DOOOOOO
+000000000000000000980DOOOOOOoooooooooooooodo00980DOOOO00000000000000000000980D
+000000000000000000000000980D00000000000000000000000098ODOOOOOOOOOOOOOOOOOOOOOO
+00980D000000000000000000000000980DOOOOOOOOOOOOOOOOOOOO0000980DOOOOOOOOOOOOOOOO
+00000000980D00000942020000001DOOOOOODBODOOOOOOOOOOOOOOOOOOOOOOOODBODOOOOOOOOOO
+OOOOOOOOOOOOOODBODOOOOOOOOOOOOOOOOOOOOOOOODBODOOOOOOOOOOOOOOOOOOOOOOOODBODOOOO
+OOOOOOOOOOOOOOOOOOOODBODOOOOOOOOOOOOOOOOOOOOOOOODBODOOOOOOOOOOOOOOOOOOOOOOOODB
+ODOOOOOOOOOOOOOOOOOOOOOOOODBODOOOOOOOOOOOOOOOOOOOOOOOODBODOOOOOOOOOOOOOOOOOOOO
+OOOODBODOOOOOOOOOOOOOOOOOOOOOOOODBODOOOOOOOOOOOOOOOOOOOOOOOODBODOOOOOOOOOOOOOO
+OOOOOOOOOODBODOOOOOOOOOOOOOOOOOOOOOOOODBODOOOOOOOOOOOOOOOOOOOOOOOODBODOOOOOOOO
+OOOOOOOOOOOOOOOODBODOOOOOOOOOOOOOOOOOOOOOOOODBODOOOOOOOOOOOOOOOOOOOOOOOODBODOO
+                                                                Hex·Dump Conversion
+. AT tHE SAVER SUMMIT PRESIDENT CLINTON ANNOUNCES A NEW STEP
+                  TO BOOST PENSION COVERAGE
+                                             June 4,1998
+
+
+        American workers generally need Social Security coverage, an employer-provided pension
+        and personal retirement savings -- which constitute FDR 's famed three-legged stool of
+        retirement security. Today, Social Security is the sole source of income for 18% ofsenior
+        citizens and, for two-thirds of the elderly, it is the primary source of income. These figures
+        show that we must do more to promote employer-provided pension coverage and increase
+        personal retirement savings. This is the purpose of the SA VER Summit.
+         ·      Today, President Clinton is announcing that under current law, employers can
+                structure their 401(k) plans so that workers are in unless they opt out. Under
+                standard practice, workers are out unless they opt to participate in the 401(k)
+                plan.
+
+
+
+PRESIDENT CLINTON'S RECORD OF EXPANDING AND PROTECTING PENSIONS. For
+over five years, President Clinton has worked closely with the House and Senate, Democrats and
+Republicans, to expand pension coverage, make pensions more secure, and simplify pension plan
+administration.
+
+The Retirement Protection Act of 1994, proposed by the Administration and passed by Congress,
+protects the benefits of more than 40 million American workers and retirees. The ~mall Business Job
+Protection Act of 1996 included measures that expanded pension coverage by creating a simplified
+dermed contribution plan for small businesses that is proving to be a big hit, and also promoted
+portability and streamlined pension plan administration.
+
+THE NEED FOR ACTION. Despite these achievements, there is more to be done. And the
+SAVER Summit will help to tum our nation's attention to the critical issue of private retirement
+savings, focusing on the best methods to encourage workers to plan and save for retirement.
+
+Thanks to President Clinton's efforts to eliminate the Federal budget deficit, the net national savings
+rate has doubled -- from 3.1 % of gross domestic product in 1992 to 6.4% in 1997. CBO and OMB
+both project that this year, the Federal budget will be in surplus for the first time in 30 years. While
+net national savings are up,however, the personal savings rate is far too low.
+
+In addition to lacking adequate personal savings, many workers also do not have pension coverage
+through their employers:
+·       Half of all American workers, more than 50 million, are not covered by a pension plan.
+The problem of low pension coverage is especially acute for young and/or low and moderate income
+workers.
+·       Only 21 % of workers earning under $15,000 per year have pension coverage, as opposed
+        to 81 % of workers earning $50,000 or more per year. [private sector workers only]
+·       Just 15 percent of workers under age 25 are covered by a pension plan, compared to 58
+        percent of workers age 35 to 49. [private sector workers only]
+·       Only 24% offull-time workers in firms with fewer than 100 employees have pension
+        coverage, as opposed to 68% of full-time workers in finns with 100 or more employees.
+                                                            Hex-Dump Conversion
+A NEW EFFORT TO INCREASE PENSION COVERAGE. The Clinton Administration is
+taking another step to promote pension coverage, especially for workers of modest means. The
+President is announcing that under current law, employers can structure their 401(k) plans so
+that workers are in unless they opt out. Under standard practice, workers are out unless they
+opt in to the 401(k) plan.
+
+A number of employers have reportedly been deterred from establishing such automatic
+enrollment 401(k) plans due to concern about whether this is allowable under current law; this
+step responds to these concerns.
+
+Automatic election works as follows:
+·    A newly eligible employee is automatically enrolled in the 401(k) plan, with contributions
+     through payroll deduction set at a standard percentage of pay.
+·    The worker must be given notice of the automatic enrollment and have the opportunity to
+     opt out (or change the contribution percentage) before the first deduction is made.
+·    Employers would not be required to structure their 401(k) plans this way; the ruling only
+     clarifies that firms have this option.
+
+      ·      The information available suggests that for firms with automatic enrollment,
+             participation rates in 401(k) plans are about 90 percent, compared to the overall
+             401(k) participation rate of67 percent.
+
+     .·       For some workers, the need to complete a 401(k) electionform - opting in - may be
+              a deterrent to participation. Automatic enrollment gives employers an opportunity to
+              encourage participation by eliminating this extra step.
+
+BUILDS ON PRESIDENT'S PLAN TO EXPAND PENSION COVERAGE. This step builds on
+initiatives that President Clinton proposed in his budget, all of which respond to the problem of
+inadequate pension coverage and savings rates;
+
+·     A tax credit for small businesses that adopt pension plans and a simplified defined benefit
+      plan for small firms. Both of these proposals should boost pension coverage among small
+      businesses, where coverage rates are lowest.
+·     The Administration's pension package would also encourage those employers who do not
+      offer a pension plan to give workers the option of contributing to individual retirement
+      accounts (IRAs) through payroll deduction. This should be particularly helpful for
+      low-income workers, who are disproportionately employed by fiims without pension plans.
+·     Shortening the vesting period for employer 401(k) and other matching contributions from
+      five to three years. This is particularly important for low and moderate income workers and
+      women, whose average job tenure is less than men's.
+
+

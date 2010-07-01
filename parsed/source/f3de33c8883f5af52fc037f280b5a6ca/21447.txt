@@ -1,0 +1,81 @@
+RECORD TYPE: PRESIDENTIAL     (NOTES MAIL)
+
+CREATOR: Cynthia Dailard ( CN=Cynthia Dailard/OU=OPD/O=EOP [ OPD ) )
+
+CREATION DATE/TIME: 6-0CT-1998 16:20:35.00
+
+SUBJECT:   memo for Erskine
+
+TO: Cynthia A. Rice ( CN=Cynthia A .. Rice/OU=OPD/O=EOP @ EOP [ OPD ) )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/9=EOP @ EOP [ OPD ) )
+READ: UNKNOWN
+
+TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO ) )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ) )
+READ: UNKNOWN
+
+TEXT:
+Chris suggested adding the last paragraph, unless we want to reveal less
+to Waxman, in which case the paragraph should be dropped (or revised) .==============
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D70)MAIL42721408X.226 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043820E0000010A02010000000205000000DD1D000000020000EOA4EDF5CFB596B4ACDD70
+DD10278A63736577734A8430EFAA906C9413D6C28EB30B279C13EF572966CC684C97598DB575EC
+                                                                          Hex-Dump Conversion
+
+                                         October 6, 1998
+
+
+MEMORANDUM FOR THE CHIEF OF STAFF
+
+FROM:          Bruce Reed
+               Elena Kagan
+
+SUBJECT:       Meeting with Representative Waxman
+
+Representative Waxman has requested this meeting to discuss Federal recoupment of Medicaid
+revenues. As you recently told Governor Chiles, we would relinquish our claim to state tobacco
+recoveries in exchange for the states agreeing to use half their money on the menu of seven items
+that we negotiated with the NGA as part of the McCain legislation (child care, child welfare, the
+maternal and child health block grant, the substance abuse block grant, the safe and drug free
+schools program, Eisenhower education grants, and the state match for the children's health
+insurance program). We oppose the NGA's current proposal to eliminate our claims outright,
+allowing the states to use their funds in an unrestricted manner. While it seems unlikely that this
+issue will be resolved this year -- and we are not actively seeking a resolution at this time -- we
+do want to ensure that Senator Hutchison does not succeed in adding an appropriations rider
+codifying the NGA proposal.
+
+Waxman objects to any attempt to resolve the issue this year, because he believes that any such.
+resolution would deter passage of comprehensive tobacco reform next term. If something has to
+be done this year, however, Waxman is likely to prefer the position of the public health groups,
+who are calling for 20 percent of the federal portion of the settlement funds to be spent on
+tobacco control. Thus, they want 50 percent of the funds for unrestricted purposes, and 40
+percent for the state menu, and 10 percent for tobacco control. Waxman's staff told us that they
+believe it is important to reserve funds from the state settlements for federal tobacco control
+initiatives, in case the state settlement gives Congress less of an incentive to pass comprehensive
+reform next year. It is worth noting that an equally, if not more compelling, argument can be
+made that funds used for this purpose may provide a greater disincentive for the passage of
+comprehensive reform, because Republicans will claim that we already have passed a bill.
+
+Your goals for this meeting should be to convey:
+    (1) we are not actively pursuing a resolution to this issue;
+    (2) we will not support any resolution unless it includes, at a minimum, a range of
+    Democratic priorities that are agreeable to all of us;
+   (3) while we understand Waxman's argument in support of reserving federal funds for
+    tobacco control, we question whether it could actually diminish the momentum necessary to
+    pass comprehensive reforms; and
+    (4) to the extent that there is any federal recoupment, Congress may not spend the money on
+    Democratic priorities, so we believe it is best to require states to spend all of funds in the
+    manner that we negotiated with the NGA.
+    Hex-Dump Conversion
+2
+
+

@@ -1,0 +1,24 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Laura Emmett ( CN~Laura Emmett/OU=WHO/O=EOP [ WHO]     )
+
+CREATION DATE/TIME: 4-DEC-1998 11:08:14.00
+
+SUBJECT:   DPC Goal & Objective Document
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ:UNKNOWN
+
+TEXT:
+Unable to convert ARMS_EXT: [MESSAGE.D87]MAIL47235493Q.326
+The following is a HEX dump of the file:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D87]MAIL48235493R.326 to ASCII,
+ The following is a HEX DUMP:
+
+================== END ATTACHMENT    1 ==================
+
+

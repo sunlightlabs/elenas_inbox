@@ -1,0 +1,124 @@
+RECORD TYPE: PRESIDENTIAL           (NOTES MAIL)
+
+CREATOR: Elizabeth Drye ( CN=Elizabeth Drye/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME: 8-APR-1997 17:51:11.00
+
+SUBJECT:     FMLA memo from POTUS -- DRAFT FOR YOUR IMMEDIATE REVIEW
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TEXT:
+Do you want to add any 0-3 verbage or leave that for remarks?                      ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D76]MAIL47234679S.016 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504370040000010A020100000002050000001B17000000020000821E3988204D93AE447BAA
+FC292D66ED324DFC8C6D4984DB3994728ECE8A1D2FBB842E74E2CB027AE64783ECCCBFD4F6B03E
+C77A37FCF60195C6F91E817EC2F3F01E4D630B14E75FCB26F95DFEECCC9D7D071943C430B3FC39
+52E40E984E6B9534728788C7868398C8334FF7D6683EF011A01AAB62014ABE718C8C4C7080D6E8
+5684858A065452148C317EA8914E50C42CDCAAC2252388BE5F9E47BD6D124A90661AECC16EODA1
+7D3866243161BC4BE6843E7B6FDOF2F670C4D7EC30EEEEB56445942A2621F1F6C2CFE76AAFA26B
+3DC09ED680811DD9388547149451938ACD361E80B9C3D7F6E53661F21242E2B6C6896E829BFC9B
+40159EBA3B9084FCF5E6501B261004BD3F196BFA1FB8341444A93F74B030ECOAE269EDAC5508C1
+BBE8CBB89599102CFODD4BOEB4C222EF4D9F5C7900D087A023E77BFF203DE72B216BFF66C01FA9
+5878F2B7D7E24019341C78046BEBAOB523BFB43DD948F9B39658BBDA6BB2ECE1309B9306BCEEA3
+B2B8ECD120D55B51128130743B43FA341454195FA96F85E35D229BB16057BOE1E361AF43144BFC
+1E2 4 F9.8AF13 8416EB9 2 97 AF4 C9 2AAAOB2C9A2 OAF16DO 9 5 F3 F4CB 918 4 6 8 9C3 BO 13 6A9E51 OB6 F2 C5
+EACAA93FEEAE905FF7B2DD33E504AD33F32AE8DE8372B2E87AFEAODB525AOC5F13B84BEFAAFB01
+33D0763FC002000900000000000000000000000823010000000B0100007E020000005501000000
+4E0000008903000009250100000006000000D70300000B300200000028000000DD030000087701
+000000400000000504000008340100000014000000450400000802010000000F00000059040000
+080501000000080000006804000000984C006F00630061006C002000430061006E006F006E0020
+004C00420050003400000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000057494E53504F4F4COOOOOOOOOOE0019001C80090019001C800E001
+900130000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000B0100002800D61EC30F3908000011090000005AOOOB01008B143600540069006D0065
+00730020004E0065007700200052006F006D0061006E00200052006500670075006C0061007200
+000000000000000001000200580201000000040028000000000000000000000000000000000000
+00011202002400A1000000A10000000AOOOOOOFC0101004500FD0101004500FE0102000200FF01
+010045000002020002000102010045000202010002000302010002000402010045000502010002
+005A5C58210000000000000000000000000000000008337C007800000200000502000003010004
+0002000000DDOA10008301040003000200211000DDDDOBOB00030000040BOODD9BE04012000000
+000C120C122400EC131200E0417072696C802C803139393788CCEO401200000000EC11ECl12500
+EC131200E0848480445241465480848488CCCCCC4D454D4F52414E44554D80464F528048454144
+53804F4680455845435554495645804445504152544D454E545380414E44804147454E43494553
+CCCC5355424A4543543AE0110C0000000060090COOE0457870616E6465648046616D696C798061
+6E64804D65646963616C804C6561766580506F6C6963696573D0041500000B00090001380A8805
+060001201500DOCCE0110C0000000008070COOE0417380796F75806B6E6F772C809C4980686176
+659B807374726F6E676C7980737570706F72746564806D656574696E67804665646572616C8065
+6D706C6F79656573278066616D696C7980616E64806D65646963616CCF6E65656473807468726F
+75676880656E6163746D656E74806F66807468658046616D696C7980616E64804D65646963616C
+804C65617665806F6680313939338028464D4C412980616E6480746865804665646572616CCF45
+6D706C6F796565738046616D696C7980467269656E646C79804C6561766580416374F100CC01F1
+                                           April,1997                      Hex-Dump Conversion ·
+                                           -- DRAFT--
+
+
+MEMORANDUM FOR HEADS OF EXECUTIVE DEPARTMENTS AND AGENCIES
+
+SUBJECT:       Expanded Family and Medical Leave Policies
+
+        As you know, I have strongly supported meeting Federal employees' family and medical
+needs through enactment of the Family and Medical Leave of 1993 (FMLA) and the Federal
+Employees Family Friendly Leave Act of 1994 (FEFFLA). However, Federal employees often
+have important family and medical needs which do not qualify for unpaid leave under the FMLA
+or sick leave under the FEFFLA. I ask you to take immediate action to further assist Federal
+workers in balancing the demands of work and family.
+
+         Last year I prposed to expand the Family and Medical Leave Act of 1993. My legislation
+would allow Federal and eligible private sector workers 24 hours of unpaid leave each year to
+fulfill certain family obligations. Under the legislation, employees could use unpaid leave,
+scheduled 7 days in advance, to participate in school activities directly related to the educational
+advancement of a child; accompany children to routine medical and dental examinations; and
+tend to older relatives needs.
+
+         I ask that you take immediate action to use your existing authorities to implement the
+FMLA expansion set forth in the proposed legislation. Specifically, I ask that you ensure that
+employees may schedule and be granted up to 24 hours of annual leave, compensatory time off,
+credit hours under flexible work schedules, or leave without pay each year for the following
+activities:
+
+       (1) SCHOOL ACTIVITIES -- to allow employees to participate in school activities
+       directly related to the educational advancement of a child. This would include
+       parent-teacher conferences, interviewing for a new school, or participating in volunteer
+       activities supporting the child's educational advancement. Here, as in my proposed
+       legislation, "school" refers to an elementary school, secondary school, Head Start
+       program, or a child care facility licensed under State law.
+
+       (2) ROUTINE FAMIL Y MEDICAL PURPOSES -- to allow parents to accompany
+       children to routine medical or dental appointments, such as annual checkups or
+       vaccinations. Although these activities are not currently covered by the FMLA, the
+       FEFFLA does permit employees to use up to 13 days of sick leave each year for such
+       purposes. Agencies should assure that employees are able to use up to 24 hours of
+       annual leave, compensatory time off, credit hours, or leave without pay for these purposes
+       in the rare cases when sick leave is'not available to employees.
+
+       (3) ELDERLY RELATIVES' HEALTH NEEDS -- to allow employees to accompany an
+       elderly relative to routine medical appointments or other professional services related to
+                                                                    He)(-Dump Conversion
+
+       the care of the elderly relative, such as making arrangements for housing, meals, phones,
+       banking services, and other similar activities, when these activities are not covered by the
+       FMLA or the FEFFLA.
+
+         This new policy will assure that employees can schedule and receive up to 24 hours
+away from the job each year for these exceptional family and medical circumstances. To the
+extent possible, I urge you to accommodate employee needs as mission requirements permit even
+when it is not possible for employees to anticipate or schedule leave in advance for these
+purposes.
+
+I encourage you to use a partnership approach with your employees and their representatives in
+developing an effective program that balances the employees need to succeed at work and at
+home. I ask agencies, unions, and management associations to continue to work together to
+assess and improve the use of family friendly programs and to make certain that employees are
+aware of the expanded family and medical leave policy.
+
+

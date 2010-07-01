@@ -1,0 +1,111 @@
+  RECORD TYPE: PRESIDENTIAL                (ALL-IN-1 MAIL)
+
+  CREATOR: Ellen S. Seidman ( SEIDMAN_E)                       (OPD)
+
+  CREATION DATE/TIME:29-AUG-1996 12:23:44.18
+
+  SUBJECT: Securities stuff
+
+  TO: Elena Kagan                                                  KAGAN E         (WHO)
+  READ:29-AUG-1996 12:59:17.35
+
+ TEXT:
+ Attached is the piece we did on California.  I've been looking through my files
+ on the Senate and House bills, and I don't have actual copies of the bills as
+ they now stand.  I have a few summaries, but frankly, I'm not certain how
+ up-to-date they are.  In any event, they don't answer the critical question
+ whether -- and to what extent -- preemption of the state registration
+ requirements limits the state causes of action.   I have a call in to the SEC to
+ discuss this (they've been following the bills much more closely than we have),
+ and I've asked Treasury (which has also been working on this provision more than
+ I have) to think about it.  I can offer this, however, that CURRENTLY, most
+ offerings that are listed on the NYSE and other major exchanges DO NOT have to
+ be registered at the state level, and yet suits under state law with respect to
+ those issues are allowed (when you sue under the federal securities laws, you
+ almost always include state law counts too).   This suggests that -- given
+ there's no explicit preemption of state private rights of action in the pending
+ bills -- at the very least the issue would be unclear enough that the techies
+ would want something more.  But we should try to find out the answer, and I'm
+ working on it.
+ Ellen
+ ==================== ATTACHMENT   1 ====================
+ ATT CREATION TIME/DATE:29-AUG-1996 12:23:00.00
+
+  ATT BODY PART TYPE:p
+
+  TEXT:
+  Unable to convert OA$SHARC1701:ZWLPHPKR2.FGN to ASCII,
+   The following is a HEX DUMP:
+
+  FF575043E4090000010A000100000000FBFF050032001101000006001000000042000000FFFF47
+  000000570000000C005AOOOOOOAD00000003000A0000000701000008237C007800000001000001
+  OF0000006370692900436F75726965722031327074202831306370692900436F75726965722031
+  32707420283130637069292028426F6C64290054696D6573204E657720526F6D616E2020285454
+  2900FFFFFFFFFFFFFFFFFFFFFFFFFFFFFF43616E6F6E204C42502D382049494900000000000000
+  00000000000000000000000000000043414C42384949492E57525300DB017800141EOC178COAOO
+  00.00041140C90087CF01000100F0007001F0006801F447206E8A580240D00606000100060006DO
+  FBFF05003200CC020000FFFF31000000430100000F005801000074010000FFFF05000000520000
+  o OFFFFOFO 0 0 0 0 0 9EO 0 0 0 004 3 6F7 5 72 6 96 5 7 2 2 0313 2 7 0742028313 0 63 7 0 6 92 90 04 3 6F7 5 7 26·965 7 2
+  203132707420283130637069292028426F6C6429000000FFFF89003F007800780078002C010100
+  00000073D158027800FE1536105807000000041140C9001F4A51110310580240FEFEFEFEFEFEFE
+  FFFEFFFFFF01FFFFFEFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF3EOOFFFF89003F007800
+  780078002C01010015000016F458027800D01612112008000000041160C900AC04511103105802
+  80FEFEFEFEFEFEFEFFFEFFFFFFFFFFFFFEFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF8A06
+  FFFF910037005000430032002C010100310001174E58025000F41A5C121A090000001020508EOO
+  lC3651110310580250FEFEFEFEFEFEFEFFFEFFFFFF03FFFFFEFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+  FFFFFFFFFFFFC806FFFF910037005500430032002COIOI00470001108158025500F41A34121A09
+  0000001020708E00120551110310580290FEFEFEFEFEFEFEFFFEFFFFFFFFFFFFFEFFFFFFFFFFFF
+  FFFFFFFFFFFFFFFFFFFFFFFFFFFFFBFF0500320000000000020240030000FE0200000700640000
+  003E060000030240030000A2060000080002000000E2090000000122008200FFFFFFFF3501FFFF
+  8501FFFFFBOIFFFFFFFFFFFF4002FFFFFFFFFFFF5E3242526464A79B244242647i324232386464
+                                                                                   Hex-Dump Conversion
+               INFORMA TION CONCERNING CALIFORNIA SECURITIES
+                       LITIGATION INITIATIVE, PROP. 201
+
+Background
+
+In November, an initiative sponsored by securities plaintiffs attorneys with support from labor
+and endorsement of the California Democratic party will be on the California ballot. This
+initiative would make California securities law more favorable to plaintiffs than current federal
+law.
+
+The law that would be enacted by the initiative would require a minimimal California nexus to
+bring an action. While the issue would undoubtedly be litigated should the initiative pass, the
+statute attempts to apply California law to non-California corporations on such issues as director
+indemnification, punitive damages and conditions to bringing a derivative action.
+
+The California Initiative would change California law to make it significantly more
+pro-plaintiff than federal law (current or pre-1995) or current California law.
+
+oThe initiative would authorize punitive damages, which have consistently been rejected in
+   securities actions by both federal and California courts;
+
+oThe initiative would prohibit a company from indemnifying an officer or director for liability
+   under the act, the likely effect of which will be resignations of outside directors from the
+   boards of, in particular, high-tech corporations;
+
+oThe initiative would codify the fraud on the market theory, while eliminating the truth on the
+   market defense under which a defendant could show that accurate information was also in the
+   market;
+
+oThe initiative would explicitly permit aiding and abetting actions by private plaintiffs; and
+
+oThe initiative would permit an individual shareholder to bring a class action on behalf of, e.g., a
+   pension fund, without consulting with the management of the fund.
+
+At the same time, the California Initiative leaves in place state law that is more
+pro-plaintiff than the federal law enacted last year. .
+
+oIn actions brought under the California securities laws, the provisions of the federal statute
+    limiting professional plaintiffs, requiring disclosure of conflicts by attorneys and class action
+    plaintiffs, providing a preference for the "most adequate plaintiff," and restricting discovery
+    prior to a motion to dismiss, do not apply;
+
+oIn actions brought under the California securities law, the safe harbor in the federal statute,
+    which was designed to encourage greater availability of information in the market, do not
+    apply; and
+
+oIn actions brought under the California securities laws, the limitations on joint and several
+    liability contained in the federal statute, do not apply.
+
+

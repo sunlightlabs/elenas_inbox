@@ -1,0 +1,36 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Christopher F. Walker ( CN=Christopher F. Walker/OU=WHO/O=EOP [ WHO]   )
+
+CREATION DATE/TIME: 17-DEC-1997 17:59:35.00
+
+SUBJECT:   please review for the President's signature
+
+TO: Peter G. Jacoby ( CN=Peter G. Jacoby/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+TO: Susan A. Brophy ( CN=Susan A. Brophy/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Craig T. Smith ( CN=Craig T. Smith/OU=WHO/O=EOP @ EOP [ WHO]      )
+READ: UNKNOWN
+
+CC: Raymond E. Donnelly III ( CN=Raymond E. Donnelly III/OU=WHO/O=EOP @ EOP [ WHO]
+READ: UNKNOWN
+
+TEXT:
+Unable to convert ARMS_EXT: [MESSAGE.D51]MAIL488756057.316
+The following is a HEX dump of the file:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D51]MAIL498756058.316 to ASCII,
+ The following is a HEX DUMP:
+
+================== END ATTACHMENT    1 ==================
+
+

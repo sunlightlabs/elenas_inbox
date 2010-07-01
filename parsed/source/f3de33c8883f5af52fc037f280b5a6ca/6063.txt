@@ -1,0 +1,437 @@
+ RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+ CREATOR: Michael J. Sorrell ( CN=Michael J. Sorrell/OU=PIR/O=EOP [ PIR 1 )
+
+ CREATION DATE/TIME:19-JAN-1998 19:59:57.00
+
+ SUBJECT:
+
+ TO: Janet Murguia ( CN=Janet Murguia/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ:UNKNOWN
+
+ TO: Robert N. Weiner ( CN=Robert N. Weiner/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Michael Waldman ( CN=Michael Waldman/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ:UNKNOWN
+
+ TO: Dawn M. Chirwa ( CN=Dawn M. Chirwa/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ:UNKNOWN
+
+ TO: Bob J. Nash ( CN=Bob J. Nash/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Doris o. Matsui ( CN=Doris o. Matsui/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Mona G. Mohib ( CN=Mona G. Mohib/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ:UNKNOWN
+
+ TO: Ruby Shamir ( CN=Ruby Shamir/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Paul E. Begala ( CN=Paul E. Begala/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Gene B. Sperling ( CN=Gene B. Sperling/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ:UNKNOWN
+
+ TO: Nelson Reyneri ( CN=Nelson Reyneri/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Minyon Moore ( CN=Minyon Moore/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Elisabeth Steele ( CN=Elisabeth Steele/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Trooper Sanders ( CN=Trooper Sanders/o=oVP @ OVP [ UNKNOWN 1 )
+ READ:UNKNOWN
+
+ TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ:UNKNOWN
+
+ TO: Suzanne Dale ( CN=Suzanne Dale/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: edley ( edley @ law.harvard.edu @ INET @ LNGTWY [ UNKNOWN 1 )
+ READ: UNKNOWN
+
+ TO: Maria Echaveste ( CN=Maria Echaveste/OU=WHO/O=EOP @ EOP [ WHO 1 )
+
+
+ READ: UNKNOWN
+
+ TO: Jon P. Jennings ( CN=Jon P. Jennings/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Ananias Blocker III   ( CN=Ananias Blocker III/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Laura K. Capps   ( CN=Laura K. Capps/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Emil E. Parker ( CN=Emil E. Parker/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ: UNKNOWN
+
+ TO: Laura K. Demeo ('CN=Laura K. Demeo/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Cheryl D. Mills ( CN=Cheryl D. Mills/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ:UNKNOWN
+
+ TO: Robert B. Johnson ( CN=Robert B. Johnson/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ:UNKNOWN
+
+ TO: Lynn G. Cutler ( CN=Lynn G. Cutler/OU=WHO/O=EOP @ EOP [. WHO 1 )
+ READ: UNKNOWN
+
+ TO: Sidney Blumenthal ( CN=Sidney Blumenthal/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Beverly J. Barnes ( CN=Beverly J. Barnes/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ:UNKNOWN
+
+ TO: Peter Rundlet ( CN=Peter Rundlet/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Angelique Pirozzi ( CN=Angelique Pirozzi/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ:UNKNOWN
+                                            J
+ TO: Sylvia M. Mathews ( CN=Sylvia M. Mathews/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Thurgood Marshall Jr ( CN=Thurgood Marshall Jr/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Susan M. Liss ( CN=Susan M. Liss/O=OVP @ OVP [ UNKNOWN 1 )
+ READ: UNKNOWN
+
+ TO: Ann F. Lewis ( CN=Ann F. Lewis/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+ READ:UNKNOWN
+
+ TO: Mickey Ibarra ( CN=Mickey Ibarra/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ: UNKNOWN
+
+ TO: Marjorie Tarmey ( CN=Marjorie Tarmey/OU=WHO/O=EOP @ EOP [ WHO 1 )
+ READ:UNKNOWN
+
+ TO: Andrew J. Mayock ( CN=Andrew J. Mayock/OU=WHO/O=EOP @ EOP [ WHO 1 )
+,                                                                              Page 3 of 11
+
+
+ READ: UNKNOWN
+
+ TO: Julie A. Fernandes   ( CN=Julie A. Fernandes/OU=OPD/O=EOP @ EOP [ OPD ]   )
+ READ: UNKNOWN
+
+ TEXT:
+ ==================== ATTACHMENT   1 ====================
+ ATT CREATION TIME/DATE:   0 00:00:00.00
+
+ TEXT:
+ Unable to convert ARMS_EXT: [ATTACH.D68]MAIL42132781P.026 to ASCII,
+  The following is a HEX DUMP:
+
+ FF57504331060000010A02010000000205000000444B000000020000CB5065BOC5FEBC7C162428
+ C4CEE5807DB6283BC7754AE9729D5132DEOC5AFBDC8B32A36B5E8E44A1B376DD668CE299DOBF52
+ 249093F62D264C2B54A314FCC58EB123517251427DCF9AB52E6CFEA5567E1B83970B04BA42D4FO
+ 90D3B626982EFC8DC6E4A97F6F2101E0921E5BFEE4FC9EDD9B820F9C4A431F2123D5D5F57D6B65
+ 5C487A2E7F137D298F8BC181A5F14S099D554A07B3F3DF1E15DBE5C3E6803CB7FC7BC8586D5FD6
+ 3506EC61D9BOA48789129F84C36781D9ECD80FE98EOBD730B61FD47EE100A76D5DC5D85316143F
+ 58B4F3B3E1DC993585EDB339C1CC251BD821B9A25143EC28058EEO934ADFFB9A6EBBA0465D9DCE
+ C705A04EBD602771C1C2244A818017E8DE5FAE40A740878FD558BA988653094B08BCE2C7A567AA
+ B413920EE4062630D4A3F3575104FD74835E1CDFBAB8F24CFAAB568525B36D3C2908330F43ADAE
+ B512BF92EOBADOF911A169C1E02B5D8A6D9525C0074D31DD006B64997A5827AF787B13DD518F6C
+ 1E2845ABC54C8107438EE861F3AA2C34FBC7A83B777DD8F5597611EAAOE778FD2570A3FBEBC624
+ 7C1F835582E019A899B9BAF81E56993FDCCEFFB77A85B4C2BB724856BAADB83F6ACD73477C4550
+ EAE0311D2143C3BFA19D2CB7B977906231E69C64AA57001E1D3D2EDC02FF6DCE0765C995C3DBCA
+ FAF90Dl16202001000000000000000000000000823010000000B010000E0020000005521000000
+ 4EOOOOOOEB03000009250100000006000000390400000B3002000000280000003F040000005512
+ 0000003C000000670400000055010000004EOOOOOOA304000008770100000040000000F1040000
+ 08340100000014000000310500000802010000000F000000450500000805010000000800000054
+ 050000005509000000320000005C050000005503000000280000008E0500000000000000000000
+ 00008E0500000055010000004EOOOOOOB60500000608010000002D0000000406000000985C005C
+ 0050004900520031005C005000520049004E005400450052003300000000000000000000000000
+ 000000000000000000000000000000000000000000000000000000000000000057494E53504F4F
+ 4C00000000002C01F0002C012C012C012C012C01F0003000000000000000000000000000000000
+ 000000000000000000000000000000000000000000000000000000000000000000000000000000
+ 000000000000000000000000000000000000000000000000000000000000000000000000000000
+ 000000000000000000000000000000000000000000000000000000000000000000000000000000
+ 000000000000000000000000000000000000000000000000000000002800C8196810480D000011
+ 090000005AOOOB010000103600540069006D006500730020004EOO65007700200052006F006DOO
+ 61006E00200052006500670075006C006100720000000000000000000100020058020100000004
+ 002800000000000000000000000000000000000000011202002400A1000000A10000001BOOF41A
+ 5C121A0900000000000000600018110000102400540069006D006500730020004E006500770000
+ 0052006F006D0061006E000000000000002800401FF80FD007000011090000005AOOOB01008B14
+ 3600540069006D006500730020004E0065007700200052006F006D0061006E0020005200650067
+ 0075006C006100720000000000000000000AOOOOOOE60302001700E70302001700E80302001700
+ E90301005500EA0301005600EB0301005600EC0301004400ED0303005500EE0301005500EF0301
+ 004400F34C38230000000000000000000000000000000008337COO780000020000EF0300000301
+ 000400020000001BOOF41A5C121A0900001109000000600018110000101A00540069006D006500
+ 730020004E006500770000000000000000002500E41B3214BC0700001641000000600014100000
+ 101000480065006C00760000000000000000002800C8196810480D000011090000005AOOOB0100
+ 00103600540069006D006500730020004E0065007700200052006F006D0061006E002000520065
+ 00670075006C0061007200000000000000000001000A00000023000000D1032300800100001600
+ 4F03010000580206FFFF0000000000000000006400002300D1DDOA100083010400030002002110
+ 00DDDDOBOB00030000040BOODD9BF20CF2D41A1F0087010500080058020C850000580200005802
+ 0200580200001FOOD4Dl15110080010F000400FABC07001100D1D10337008001000016000C8501
+ 0000580206000058020000000000000064FOOOOOOOOOOOOOOOOOOO00000000000000000064FOOO
+ 3700D19CF102ED03F1CCF103ED03F1F102ED03F1CCF103ED03F1F102ED03F1CCF103ED03F1F102
+ E903F1CCCCCCCCCCF103E903F14D454D4F52414E44554D9B80464F528054484580505245534944
+ 454E54CCCCF30CF346524F4D3AE0110C0000000060090COOE04A554449544880412E8057494E53
+
+FROM:       JUDITH A. WINSTON
+
+THROUGH: ERSKINE BOWLES
+         SYLVIA MATHEWS
+
+SUBJECT:    PRESIDENT'S INITIATIVE ON RACE WEEKLY REPORT--
+            JANUARY lO-JANUARY 16
+
+
+
+
+ADVISORY BOARD ACTIVITIES
+
+     Phoenix Advisory Board Meeting. The Advisory Board held a two day meeting in
+     Phoenix, Arizona where they visited local Promising Practices, met with tribal and
+     community leaders and listened to national experts address the issue of race in the
+     workplace. The first day consisted of site visits to three Promising Practices (Arizona
+     Opportunities Industrialization Center, Arizona Public Service Academy for the
+     Advancement of Minority and Women-Owned Enterprises and the Maricopa Medical
+     Center) and a meeting with American Indian Tribal Leaders and Tribal Organizations.
+     The second day featured opening remarks from Secretary of Labor Alexis Herman and an
+     overview of labor market issues from Dr. Janet Yellen, Chair of the Council of Economic
+     Advisors. The second day also included a roundtable discussi·on on issues surrounding
+     race in the workplace, a corporate and labor leaders forum, moderated by Secretary
+     Herman, and a community forum to hear about local race-related issues and concerns ..
+     The press coverage of the Advisory Board Meeting was very positive.
+
+     Advisory Board Members Activities for MLK Day. The following is a list of the
+     Advisory Board Members activities for Dr. Martin Luther King, Jr. 's birthday:
+
+     Chairman Dr. John Hope Franklin: Dr. Franklin will join the Vice President and myself
+     in Atlanta for the King Center Program. We will attend the annual commemorative
+     service at Ebenezer Baptist Church, visit the crypt of Dr. King for a wreath-laying
+
+
+                                            1
+
+                                                              Automated Records Management System
+                                                              Hex-Dump Conversion
+    elementary school in Atlanta to thank volunteers working with "Hands On Atlanta
+    AmeriCorps".
+
+    Linda Chavez-Thompson: Ms. Chavez-Thompson will visit the Good Hope Community
+    Center in Silver Spring, Maryland. This project involves churches with congregations of
+    different ethnic and racial compositions working with children from the Montgomery
+    County Police Activities League. The participants will paint theme panels to be
+    displayed in the gym at the center, stain bookshelves and sort books.
+
+    Reverend Suzan Johnson Cook: Reverend Cook will participate in a multi-racial,
+    multi-ethnic silent prayer march on Sunday, January 18th at the New York Metropolitan
+    Martin Luther King Center for Non" Violence in Long Island, New York. Reverend
+    Cook is scheduled to present the keynote address at the event. On Monday, January
+    19th, Reverend Cook will be the keynote speaker at the Riverhead Church's breakfast
+    honoring Dr. King. This will be the 13th annual memorial breakfast. There will be over
+    500 people in attendance.
+
+    Angela Oh: Ms. Oh will be the keynote speaker at the Davis Human Relations
+    Commission Community Forum in Davis, California. There will be over 400 people
+    attending this event.
+
+    Robert Thomas: Mr. Thomas will attend the Amaturo Theater in Ft. Lauderdale, Florida
+    for a celebration honoring the life of Dr. King on Monday, January 19th.
+
+    Governor William Winter: Governor Winter will be the keynote speaker at the Itawamba
+    County Development Community Summit on January 19th in Fulton, Mississippi. The
+    focus of the summit is to develop a plan for improving the condition of Itawamba County.
+
+    February Advisory Board Meeting. The Advisory Board will be visiting the San
+    Francisco/Oakland metropolitan area for two days in February. We will spend the first
+    day visiting Promising Practices. The Advisory Board meeting will take place on the
+    second day.     The topic of the meeting is race and poverty.
+
+
+OFFICE OF THE EXECUTIVE DIRECTOR
+
+    OUTREACH
+
+    New York Summit on Race Relation. On January 7, the leaders of several institutions
+    of higher education in the New York metropolitan area met to begin planning a Race
+    Relations Summit to be held in New York City in the Spring.
+    Phoenix One America Conversation. On January 15, Phoenix city officials and
+
+
+                                           2
+    participants were the Secretary of State, the Mayors of Scottsdale and Tempe, County
+    Supervisors from Maricopa and Navajo Counties, the only African-American City
+    Council member in Phoenix, and an Asian-American State Legislator. The meeting was
+    convened by the Chair of the Human Rights Commission. The overall sentiment was
+    that the this was an extremely useful exercise.
+
+    RESEARCH AND POLICY PLANNING
+
+    Data. We are working with the Council of Economic Advisors to develop a
+    detailed data resource book. The focus will be on data by race in the areas of
+    education, economic, health, crime, and housing. The final product will be available
+    late summer.
+
+    Dialogue. We are developing a proposal to create a National Week of Racial Dialogue
+    and related activities for college and university campuses for this spring ..
+
+
+WORK TEAMS
+
+    YOUTH
+
+    Planning Session. We are preparing a workplan detailing a list of activities for the next
+    seven months. Among the events being discussed are: a young entrepreneurs forum, a
+    Team Harmony Washington Rally, a town hall meeting at Drew University with
+    Governor Kean, and a briefing by you of the commissioners of the major sports leagues.
+    We anticipate having this workplan completed next week.
+
+
+FEDERAL AGENCY ACTIVITIES
+
+    DeDartment of Treasury
+      ·
+
+    Small Business Award: On January 14, Treasury received the Small Business
+    Development Award from the National Association of Black Procurement Professionals
+    for its support of small, minority and women-owned businesses.
+
+    Rainbow/PUSH Coalition: On January 15, Secretary Rubin joined the President, Federal
+    Reserve Chairman Greenspan, SEC Chairman Levitt, and New York Stock Exchange
+    President Grasso in New York to address the Rainbow/PUSH Coalition Wall Street
+    Project's First Annual Conference. Secretary Rubin spoke about the importance of
+    bringing all Americans into the economic mainstream and Treasury's efforts towards that
+
+
+                                           3
+Community Reinvestment Act (CRA).
+
+Department of Justice
+
+Martin Luther King Event: On January 15, Attorney General Reno was the
+keynote speaker for DOJ's Martin Luther King program in the Great Hall.
+
+United States Department of Agriculture
+
+Memorandum of Understanding (MOU): USDA is developing an MOU with the
+Standing Rock Sioux Nation in North and South Dakota on the handling of cultural
+resource responsibilities to develop compliance procedures to allow for the
+installation of ground-disturbing conservation practices within the reservation
+boundaries. The MOU will serve as a framework for the development of
+agreements between USDA and the other tribes, and as the basis for developing
+future agreements with other federal agencies whose programs may affect tribal
+cultural resources.
+
+Department of Commerce
+
+Minority Business: On January 15, Acting Director of the Minority Business
+Development Agency Courtland Cox traveled to New York to participate in the
+RainbowlPUSH Coalition's Wall Street Project. The conference noted the success
+of the Wall Street community in recruiting and promoting minority executives and
+working with minority-owned or managed businesses.
+
+Department of Labor
+
+Martin Luther King Events: On January 15, Secretary Herman attended a
+Presidential event commemorating Martin Luther King, Jr.'s birthday in New
+York, NY. In addition, Secretary Herman may be interviewed by the PBS Nightly
+News for a series on affirmative action and other diversity issues, highlighting the
+release of results of their nationwide poll concerning diversity.
+
+On January 16, Secretary Herman will host an event at the Department of Labor
+welcoming the son of Martin Luther King, Jr. and recognizing his contributions to
+civil rights and race reconciliation in the United States.
+
+Department of Health and Human Services
+
+Martin Luther King Event: On January 12, Secretary Shalala attended and made
+remarks at the HUS Martin Luther King, Jr. Commemoration.
+
+                                          4
+
+Iowa Housing Discrimination Case: On January 14, Secretary Cuomo announced
+that a Davenport, Iowa, landlord who allegedly refused to rent to African
+Americans has agreed to pay $24,000 to settle discrimination charges filed by HUD.
+The landlord will pay each of the three complainants $8,000 to avoid further legal
+proceedings. He also agreed to sell the three duplex apartments he now rents and
+leave the real estate business.
+
+Housing Discrimination Complaints: On January 15, Secretary Cuomo announced
+HUD is launching an investigation into nine housing discrimination complaints
+against 50 apartment owners, and a management company in Orange County, CA.
+Under the Fair Housing Act, the Secretary has the power to initiate investigations,
+giving the Department the authority to bring a class-action suit on behalf of the
+people who may have been discriminated against at the time, but did not realize it.
+In this way, the agency can seek damages on their behalf. The Secretary will join
+the press conference in Orange County, California via satellite.
+
+Department of Transportation
+
+Martin Luther King Events: On January 15, Secretary Slater, in commemoration
+of Dr. Martin Luther King's Birthday, addressed the Social Security Administration
+in Baltimore. The same day, Secretary Slater also addressed the employees of the
+Coast Guard Yard in Baltimore.
+
+On January 17, Secretary Slater traveled to Michigan to participate in a Martin
+Luther King Birthday event sponsored by the Urban League.of Greater Muskegon,
+MI.
+
+Department of Energy
+
+Martin Luther King Events: Secretary Pen a hosted a Departmental
+commemorative program honoring Dr. Martin Luther King, Jr. on January 13.
+The William B. Powell Elementary School Choir performed, and employees were
+challenged by their peers to volunteer their time with a number of community
+service activities.
+
+Secretary Pena also will participate in a community service initiative called
+"Everybody Wins". Through this partnership, DOE employees will volunteer at
+Amidon School, a local elementary school. "Everybody Wins" is a non-profit
+organization promoting literacy through shared reading experiences. The
+Secretary will read selections on Dr. King's life and teachings to children as part of
+a program honoring Dr. King.
+
+
+                                       5
+
+One America Conversations: On January 13, Assistant Secretary for Special
+Education and Rehabilitative Services Judy Heumann hosted a "One America
+Conversation" event in Inglewood, California.
+
+Veterans Affairs
+
+One America Conversation: On January 15, a "One American Conversation" was
+held in the VA Central Office. The discussion included ten highly respected
+participants from diverse racial backgrounds.
+
+Martin Luther King, Jr. Dinner: Acting Secretary West traveled to Chicago,
+Illinois, on January 10 to deliver the Keynote Address at the 26th Annual Dr.
+Martin Luther King, Jr., Dinner held by the Minority Economic Resources
+Corporation (MERC). MERC presented Acting Secretary West with their Dr.
+Martin Luther King Excellence in Leadership award.
+
+Office of Personnel Management
+
+Martin Luther King Event: On January 19, Director Lachance will participate in
+a Martin Luther King celebration in Bridgeport, Connecticut.
+
+General Services Administration
+
+Martin Luther King Event: On January 19, Administrator Barram will participate
+in a race discussion with 150 high school students in Washington.
+
+
+
+
+                                    6
+
+

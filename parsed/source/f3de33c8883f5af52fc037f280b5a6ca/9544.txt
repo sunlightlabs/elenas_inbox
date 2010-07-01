@@ -1,0 +1,154 @@
+ RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+ CREATOR: Cynthia Dailard ( CN=Cynthia Dailard/OU=OPD/O=EOP [ OPD ] )
+
+ CREATION DATE/TIME: 1-0CT-1998 13:16:29.00
+
+ SUBJECT:   RU-486 memo
+
+ TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO]    )
+ READ:UNKNOWN
+
+ TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+ READ: UNKNOWN
+
+ TEXT:
+ Here is the memo on RU-486 that Elena requested this morning.  Please let
+ her know that I will be out of the office tomorrow, but she can page me if
+ she needs me.==================== ATTACHMENT   1 ====================
+ ATT CREATION TIME/DATE:   0 00:00:00.00
+
+ TEXT:
+ Unable to convert ARMS_EXT: [ATTACH.D98]MAIL454500473.226 to ASCII,
+  The following is a HEX DUMP:
+
+ FF575043AC040000010A02010000000205000000492800000002000029C9EBD130C1A6068CI1AO
+ 119EA6BFC5B75D35BE1BCBBF75DE8A1406C51FB74F8627F59F410DA5F54785D95D32025D63DD79
+ OA26A710EF23FF3A7937DDD068FF0051113DA4483635CC1A2F05F19850989E439BD4FAD25CEFB7
+ E681901F37482019684570BDEE2AIF95232944216F7CB252104E342E2C87886DEC26F7DBE94D72
+ 174B227173761214C6BC6BCE07B8E2D241C033FAFC697AA60E2468CC6EDF5693582CC219E2349E
+ 56422CACF64FC03941408727ADD90E12EA8270DAFECBF3293D213FA8435B24DC0420793966B362
+From:          Cynthia Dailard
+Date:          October 1, 1998
+Re:           RU-486
+
+
+Purpose
+        This memo describes where RU-486 is in the FDA approval process, explains the
+legislative status of the Agriculture Appropriations bill and the Coburn amendment preventing
+the approval of RU-486, and describes the implications of this amendment both within and
+beyond the abortion context.
+
+Pharmaceutical Status
+
+        RU-486 (or mifepristone) is an effective non-surgical method of early abortion (often
+referred to as a "medical abortion") that has been in use in other countries since 1981. It is an
+antiprogesterone, one of a family of drugs that block the action of progesterone, a hornl0ne
+needed to maintain pregnancy. The drug is administered within the first seven weeks following
+conception, and is followed three days later by misoprostol, a prostaglandin which causes uterine
+contractions.
+
+        RU-486 was approved for use in France, Great Britain, and Sweden following extensive
+clinical trials that demonstrated its safety and effectiveness. During the Bush Administration,
+the FDA issued an "import alert" which helped ensure that RU-486 would not be available in the
+United States for any purpose. A United States District Court that examined the "import alert"
+concluded, "[T]he decision to ban the drug was based not from any bona fide concern for the
+safety of users of the drug, but on political considerations having no place in FDA decisions on
+health and safety."
+
+        When President Clinton took office in January 1993,he signed an Executive Order
+directing HHS to assess initiatives to promote the testing and licensing ofRU-486. As the result
+of the Administration's efforts following this directive, the French drug company, Roussel Uclaf,
+donated the US patent rights to RU-486 to a non-profit research organization, the Population
+Council. The Council announced that it would conduct clinical trials in 17 sites across the
+country, and would work to locate a manufacturer to produce and distribute the product.
+
+         Population Council has completed its clinical trials, which show that RU-486 is 95%
+effective in terminating pregnancy. Women taking the drugs need to see a doctor three times.
+Its side effects can include painful uterine contractions, nausea, vomiting, diarrhea and
+headaches. A small number of the women in the trials had to be hospitalized or given
+transfusions because of bleeding, and 1.5% of participants in the US trial required a surgical
+abortion.
+
+                                               1
+                                                             Automated Records Management System
+                                                             Hex-Dump Conversion
+the Agency declared that clinical trials revealed the drug to be safe and effective for terminating
+an early pregnancy, when used under close medical supervision in combination with misoprostol.
+ At that time, it issued an "approvable letter" for the use ofmifepristone and misoprostol for
+early abortion, but said that it would withhold final approval until it received more information
+about the drug's manufacture and labeling. The Population Council has indicated that it has
+located a pharmaceutical company willing to manufacturer the drug, which could become
+available on the market sometime next year.
+
+Legislative Status
+
+         Representative Coburn successfully offered an amendment to the House Agriculture
+Appropriations bill that would prohibit the expenditure of FDA funds for the testing,
+development, or approval of any drug for the "chemical" inducement of abortion. "Approval"
+was defined to include the approval of production, manufacturing or distribution. The Senate
+bill did not contain a similar provision.
+
+         The Coburn amendment and disaster relief are currently the only outstanding issues in
+conference. The Senate conferees voted 8-5 against receding to the House language on RU-486
+(all the Democrats voted with us, as did Specter and Gorton. Chairman Stevens initially voted
+with us, which would have made the vote 9-4, but then switched his vote when he realized that it
+was not needed to prevent the language from being accepted by the Senate.)
+
+        If the House and Senate conferees continue to remain in disagreement, they could decide
+to approve the conference report with the RU-486 language "in disagreement", meaning that the
+conference report would return to both chambers, requiring an up or down vote on the Coburn
+amendment. The conference report would first go to the House, which would certainly approve
+the Coburn language once again. Then it would go to the Senate, which would probably (but not
+certainly) vote against the amendment. However, Lott is adamant about preventing the
+conference report from returning to the Senate, because procedural rules would allow the report
+to be opened up for any reason, and we could expect Daschle or Harkin to offer an amendment
+adding $7.5 billion for disaster relief. For this reason, Lott wants the issue to be resolved in
+conference.
+
+Implications of the Coburn Amendment
+
+        This amendment has several far reaching implications both within and beyond the
+abortion context. First, this amendment represents the first time that Congress has attempted to
+override the FDA's authority in approving a drug. Americans rely on the FDA to appropriately
+evaluate drugs for safety and efficacy based on sound scientific principles. In attempting to
+legislate against RU-486's approval, Congress threatens the integrity of the FDA and its routine
+approval process.
+
+       Second, this amendment would deny women a major medical breakthrough which
+
+                                                2
+
+                                                         Automated Records Managemem ;,) , ...
+                                                         Hex-Du;1'.p Conversion
+         provides a safe non-invasive alternative to surgical abortion. Unlike a surgical abortion,
+         RU-486 would be available in the privacy of a doctor's office -- rather than a clinic that may be
+         subject to violence or protests -- and will be far more accessible to women who do not have
+         abortion clinics conveniently located within their county or state.. The amendment would also
+         ban the approval of another promising drug named mexotrexate which is currently being testing
+         in clinical trials for pregnancy termination. This drug has already been approved for
+         chemotherapy and is being widely used for that purpose. Clearly, the Coburn amendment would
+         block the FDA from approving its use for medical abortion, including efforts to provide labeling
+         for this use.
+
+                 Third, the amendment would freeze research on other drugs which could lead to
+         important treatments for a host of diseases benefiting both women and men. For example,
+         researchers believe that RU-486 has potential for use in treating breast cancer, endometriosis,
+         Cushing's Syndrome, AIDS, diabetes, brain tumors and glaucoma. It has the potential to help
+         treat a wide range of conditions related to reproductive health, including uterine fibroids. The
+         amendment could also have dangerous implications for the development of drugs that are used
+         for purposes other than terminating a pregnancy, but which may cause miscarriages. Many
+         drugs, including chemotheraphy and anti-ulcer medications, have the side effect of inducing
+         abortion. While the proponents of the amendment argue that their intent is only to ban those
+         drugs that have the primary purpose of causing abortions, the research community believes that
+         the broad scope of the amendment could stifle research in these other important areas.
+
+
+
+
+                                                                        Automated Records M
+                                                                        Hex-D               anagement System
+                                                                              ump Conversion
+                                                         3
+
+

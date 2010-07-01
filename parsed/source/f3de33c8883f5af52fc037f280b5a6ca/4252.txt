@@ -1,0 +1,288 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Ellen S. Seidman ( CN;Ellen S. Seidman/OU;OPD/O;EOP [ OPD ] )
+
+CREATION DATE/TIME:I0-SEP-1997 09:24:42.00
+
+SUBJECT:   products
+
+TO: Elena Kagan ( CN;Elena Kagan/OU;OPD/O;EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Gene B. Sperling ( CN;Gene B. Sperling/OU=OPD/O=EOP @ EOP [ OPD ]      )
+READ: UNKNOWN
+
+TO: Peter G. Jacoby ( CN=Peter G. Jacoby/OU=WHO/O;EOP @ EOP [ WHO]     )
+READ: UNKNOWN
+
+TO:. John Podesta ( CN=John Podesta/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+TO: Bruce R. Lindsey ( CN=Bruce R. Lindsey/OU=WHO/O=EOP   @   EOP [ WHO]   )
+READ: UNKNOWN
+
+CC: Russell W. Horwitz ( CN=Russell W. Horwitz/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+CC: Melissa Green ( CN;Melissa Green/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+CC: Jonathan A. Kaplan ( CN=Jonathan A. Kaplan/OU;OPD/O;EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+CC: Jennifer D. Dudley ( CN;Jennifer D. Dudley/OU=WHO/O=EOP @ EOP [ WHO]       )
+READ: UNKNOWN
+
+TEXT:
+Here is my chart, redone to show what I believe the results of yesterday's
+meeting were. As you can see, there's really only one outstanding major
+issue (they came very close to saying they'd narrow the small business cap
+significantly if we agreed to no two-way preemption on punitives; I think
+they will if that's the last outstanding issue).  We need to figure out
+what we do next. They strongly believe Lott wants to make certain the
+Senate brings this bill to the floor before the House does, and the House
+wants to do it in mid-October. Any time in the next several weeks, after
+the DC, HHS and Interior appropriations bills are done, is likely.   (If
+there is agreement between us and Rockefeller, Rockefeller will work with
+Gorton to make certain the revised bill is procedurally unamendable.)    So
+they are strongly urging a swift reaction from the President, communicated
+directly to the Senator. Senator Rockefeller joined the meeting briefly
+to remind us that he had acted in good faith, and assumed the President
+would too. ellen=;;;;=;;;;;==;;;=;;; ATTACHMENT    1 =;;=;;=;=;;;;;;=;;==
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D12]MAIL44247325L.216 to ASCII,
+ The following is a HEX DUMP:
+
+FF5750438A150000010A02010000000205000000A54C000000020000A220Bl18BC8F869DA2EOC4
+9COB15C534005C918A7C5B87562882C654E9F3CA5F6ACF889A50DlCE40AOBEEBlAEABC2B0914Fl
+95CE7891B9CE66447B2C4AA6689E4164E2EIIC3FD8415E09701E638852F8E423DD2336AE8D3805
+                                                                                   Hex-Dump Conversion
+
+                                                                       March 29, 20lO (l0:30AM)
+
+    Page        Lines                      Issue                      Rockefeller staff response
+
+2          8            do we want bill to provide ''unifonn          Did not discuss
+                        legal principles"?
+
+2          12           "providing for reasonable limits" on          Did not discuss
+                        punitives as a purpose inappropriate; bill
+                        only has limits on small entities
+
+3          1            "ensuring the fair allocation of liability"   Did not discuss
+                        may be inappropriate as there's no
+                        several liability provision anymore; on
+                        the other hand, there is in effect an
+                        allocation between manufacturers and
+                        sellers
+
+3          12-14        fortunately, the '.'actual malice" standard   Probably will delete
+                        is not used in the bill; the definition
+                        should be deleted
+
+5-6        23-5         the only times "economic" and                 Probably will delete
+7          17-22        "non-economic" damages are used is in
+                        the definition of compensatory damages,
+                        to include both. It's probably better to
+                        delete the separate definitions of
+                        economic and non-economic damages to
+                        avoid later mischief
+
+6          150n         unclear whether the definition of             Did not discuss
+                        manufacturer includes someone who
+                        simply makes a products to someone
+                        else's specs or assembles a product; it
+                        should
+
+8          21-25        do not understand the tissue, blood, etc      Did not discuss
+                        exclusion (FA - agree that this doesn't
+                        make sense)
+
+12         7-12         negligent entrustment issue needs to be       Will fix
+                        extended to exclude from this bill
+                        actions for which there is strict liability
+                        under federal or state law (e.g., certain
+                        gun laws)
+
+15         11,22        question "proximate cause" as standard        Will fix the warranty
+                        for seller liability rather than "cause"
+                                                                            Hex·Dump Conversion
+
+                                                                  March 29,2010 (l0:30AM)
+
+ Page      Lines                       Issue                     Rockefeller staff response.
+16      4-5          (FA - has always been there on seller       provIsIOn
+                     liability [as opposed to punitives])
+18      9            complete defense if alcohol or drug use     Will make certain innocent
+                     by claimant was more than 50%               claimants are protected;
+                     responsible; issue of impact on             will consider sUbstituting
+                     non-drunk: injured plaintiffs               "harm" for "accident";
+                                                                 appreciated ·knowing that
+                                                                 Wash state provision uses
+                                                                 "harm"
+
+20      3-7          question whether "reasonably                Did not discuss
+                     foreseeable" misuse should be the
+                     defendant's responsibility
+
+20      24           is "should have discovered" in 2-year       Did not discuss - we will
+                     statute oflimitations OK? (FA -maybe        not raise
+                     not; have to think about how toxic torts
+                     are dealt with)
+
+22      5-6          is workers comp requirement ("that is       We internally agreed this
+                     covered") sufficient (statute of repose),   was OK
+                     or does there need to be another
+                     requirement relating to payment under
+                     workers comp?
+
+22      9-19         interaction oflimitations and repose        Agree it's a problem; have
+                     doesn't seem to work (see also p.23, 11     asked us to fix it; believe
+                     16-24); given that only durable goods       toxics exception is covered
+                     are now covered, do we need an              in durable good def, but
+                     extension for latent effects, toxic harm?   agree it should exist
+
+24-25   all of sec   this doesn't seem to accomplish the goal    Did not discuss
+        107          of a strong ADR provision for small
+                     claims, and moreover is limited to
+                     situations in which state law provides
+                     for ADR
+
+25      21           as no period for filing is described in    Did not discuss
+                     subsection (a), reference to such a period
+                     in subsection (b) doesn't work; without
+                     some sort of judicial oversight, does this
+                     unfairly press plaintiffs to accept
+                     too-low offers (see, e.g., the situation
+                                                                             Hex-Dump Conversion
+
+                                                                    March 29,2010 (l0:30AM)
+
+ Page       Lines                       Issue                      Rockefeller staff response
+                     with AT&T credit card bankruptcies)
+30-32   all of sec   this section could be a real problem in       Accepted our position that
+        109          the context of the rest of this bill,         this section didn't do what
+                     including attorneys fees section              anyone wanted; will let us
+                                                                   redraft
+
+30      8-9          should "raised a defense" be added to         See above
+                     the list of frivolous actions if "claim" is
+                     included?
+
+32      16-17        does the limitation to attorney's fees        See above
+                     "incurred during the period preceding
+                     the disposition of the motion" box the
+                     amount in enough to not hurt plaintiffs
+                     too badly; should there be some
+                     provision for the court being able to
+                     direct the attorney to pay the fee, rather
+                     than the claimiant
+
+33      3-4          one way preemption only on punitives          This is critical to Senator
+                                                                   Gorton's support; will
+                                                                   not budge
+
+33      8-9          is "conscious, flagrant indifference" the     We decided not to raise this
+                     appropriate standard? (FA - no; we
+                     wanted "conscious indifference (not
+                     including recklessness)"; in particular
+                     we wanted to get rid of "flagrant")
+
+33      9-10         ''the proximate cause" is too high a          They understand the issue
+                     standard for punitive damages                 and are actively
+                     (especially when the conduct giving rise      considering changing it
+                     to the punitives was not aimed at the
+                     plainitiff)
+
+34      3            small business cap is extended to             Essentially said that if this
+                     businesses with "fewer than 25 full-time      is the last issue
+                     employees" (rather than our 10) and           outstanding, it will be fixed
+                     revenues of $10 million (rather than our
+                     $1 million). Also need to extend
+                     deeming to include parents and subs
+                     extend to revenues
+                                                                                    l'le~·Dump Conversion
+
+                                                                     March 29,2010 (l0:30AM)
+
+ Page    Lines                          Issue                       RockefeUer staff response
+34      Won           unsure whether bifurcation provision          Did not discuss
+                      works with respect to admissibility of
+                      evidence, given that many states will not
+                      entertain a claim for punitives until after
+                      liability is established
+
+35-40   section 112   we didn't want workers comp                   R staff insists this is a deal
+                      subrogation, but omitted any discussion       AFL-CIO senior reps neg
+                      of it because we were working from            with R and if it is to be
+                      684, not last year's bill. Will need to       changed, they must agree
+                      figure out exactly why we don't want it,
+                      since logically it should reduce the
+                      number of suits (issue for Podesta)
+
+42      6-14          there seems to be little factual support      Did not discuss any of the
+                      for this finding of suppliers "ceasing" to    biomed provisions;
+                      supply materials                              apparently Vicki Radd has
+                                                                    negotiated some sort of
+                                                                    deal with Lieberman;
+                                                                    Rockefeller staff don't
+                                                                    know what it is, and neither
+                                                                    do I
+
+45      24-25         probably need technical fix to deal with
+                      situation in which a professional health
+                      care service provider is also the person
+                      injured
+
+46      13-14         question "includes" rather than "is"
+
+47      15-17         this seems to include all sorts of
+                      orthodonture. Is that intended? Is
+                      there any problem?
+                                                                      .
+
+52      1-4           do not understand import of this section
+                      relating to defenses available under state
+                      or federal law
+
+56      23-24         how much of a limitation is the "to the
+                      extent required and permitted by any
+                      other applicable law" language?
+
+58      14-15         "proximate cause" standard
+                                                                              Automated Records Management System
+                                                                                      Hex-Dump Conversion
+
+                                                                               March 29,2010 (l0:30AM)
+
+               Page        Lines                     Issue                    RockefeUer staff response
+              59      18,22        "failed to establish" is not a motion to
+                                   dismiss standard, and will be virtually
+                                   impossible to prove without discovery
+
+              64      15-22        going to be very hard to fight dismissal
+              65      1-5          without discovery
+
+              66      18           required sanction ofattomey's fees too
+                                   severe
+
+              67      13           is date of enactment the appropriate       Did not discuss
+                                   effective date?
+
+                                   No Kohl provision re protective orders     They just couldn't see any
+                                                                              way to add this; will
+                                                                              support a separate bill,
+                                                                              which Senator Kohl is
+                                                                              thinking of introducint; we
+                                                                              said we wanted to work
+                                                                              with Kohl; Peter Jacoby
+                                                                              will follow up
+
+                                   No use of judges on punitives              Did not discuss
+
+                                   Doesn't pick up the negligence fix on      See biomed above
+                                   biomed
+ ,
+

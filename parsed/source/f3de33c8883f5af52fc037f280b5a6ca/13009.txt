@@ -1,0 +1,25 @@
+RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+CREATOR: Karin Kullman ( CN;Karin Kullman/OU;OPD/O;EOP [ OPD 1 )
+
+CREATION DATE/TIME: 15-JUN-1999 11:42:33.00
+
+SUBJECT:   Members Attending Gun Event
+
+TO: Leanne A. Shimabukuro ( CN;Leanne A. Shimabukuro/OU;OPD/O;EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN;Elena Kagan/OU;OPD/O;EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Jose Cerda III   ( CN;Jose Cerda III/OU;OPD/O;EOP@EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Bruce N. Reed ( CN;Bruce N. Reed/OU;OPD/O;EOP@EOP [ OPD 1 )
+READ:UNKNOWN
+
+TEXT:
+Unable to convert ARMS_EXT: [MESSAGE.D32]ARMS27356337J.136
+The following is a HEX dump of the file:
+
+

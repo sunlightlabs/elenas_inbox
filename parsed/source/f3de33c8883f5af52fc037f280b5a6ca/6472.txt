@@ -1,0 +1,143 @@
+     RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+     CREATOR: Steven M. Mertens ( CN=Steven M. Mertens/OU=OMB/O=EOP [ OMB ]   )
+
+     CREATION DATE/TIME:26-FEB-1998 12:31:41.00
+
+     SUBJECT:   Draft Booz Executive Summary Outline
+
+     TO: Michael Deich ( CN=Michael Deich/OU=OMB/O=EOP@EOP [ OMB ] )
+     READ: UNKNOWN
+
+     TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP@EOP [ OPD ] )
+     READ: UNKNOWN
+
+     CC: Kenneth L. Schwartz ( CN=Kenneth L. Schwartz/OU=OMB/O=EOP@EOP [ OMB ] )
+     READ: UNKNOWN
+
+     CC: David J. Haun ( CN=David J. Haun/OU=OMB/O=EOP@EOP   [ OMB ]   )
+     READ:UNKNOWN
+
+     CC: Julie A. Fernandes ( CN=Julie A. Fernandes/OU=OPD/O=EOP@EOP [ OPD ] )
+     READ:UNKNOWN
+
+     TEXT:
+     In preparation for the meeting on the Booz Executive Summary report on INS
+     restructuring this afternoon, Julie and I put together the attached
+     outline to help focus INS/Justice/Booz on what we believe should be
+     addressed in their final report.  Any comments are welcome.  Thanks.
+
+      ==================== ATTACHMENT   1 ====================
+     ATT CREATION TIME/DATE:   0 00:00:00.00
+
+     TEXT:
+     Unable to convert ARMS_EXT: [ATTACH.D27]MAIL48046465Z.026 to ASCII,
+      The following is a HEX DUMP:
+
+     FF57504370040000010A02010000000205000000761C0000000200008C1CAC1D50197A91EC1900
+     910A265F21A819D64COC436D344677B47742EB44BB57B24B363880F8D7517A3ED66E577953FC25
+     4CA12698799ACF91684AEBDOB56771FBC9916C91FE9B8C104DEF9E2B2FEAEE38FE23C3FCOD88EC
+     68D6B41C8DA5E4746F6374938EC52E979ECB7633523A84D45CCF164329ABDE94A13D370419AC9D
+     E14F35B1BFB54FEDC6DDAF14C57BE60E9CDB2D1B4976D36E1C508B379BF71EC9A8D9DE49B85455
+     D67FAOE4C3FD42A25D931D3EC640A39B149595E970553EF22D5D49731B25A2E36F6A1EAF7D5D6F
+     CD6CFF7AE719EOA3454B5143827E200B6D13FA07D75867633DC6D08DDF7FD4A505E752859C7CEO
+     695A3D20671168F7E2CFAC7A1EBC275FF9689B7DEC837468B1FAOCAB2A7D158863FBAE472E349A
+     6A8483976A97D5ABC402AF014COF571B33C7111A9967ADFE9E89D55B73771CDDD75BF53950DC7C
+     BE1F8B4EA17EF665DCBB127943BE3F3E3702E760C3BACF5580B044C5EE5C2ED477D190B8908ECF
+     368E2D3960DB738E63A017AA5F17E64508F0763378F2BE81379D17FAD98A719B00641E9B7D551A
+     FD3079B014EFD6BB8E93F23C29065AEOAF73EBCC7A6590932~DC93F7D90141C3C723FB6E657483
+     A953B7FC17BB2A7339DA2E44E7F4075088C94E37BA9F4141DC21ACA65951558AEC808035E66C2B
+     5D0418BCC602000900000000000000000000000823010000000B0100007E020000005501000000
+     4E0000008903000009250100000006000000D70300000B300200000028000000DD030000087701
+     000000400000000504000008340100000014000000450400000802010000000F00000059040000
+     080501000000080000006804000000985C005C004F004D0042002D00500053002D00320035002D
+     00320036005C003900300030003200430000000000000000000000000000000000000000000000
+     00000000000000000000000057494E53504F4F4COOOOOOOOOOC800C8002C012C012C012C01C800
+     C8003000000000000000000000000000000000000000tiooooooOOO000000000000000000000000
+     000000000000000000000000000000000000000000000000000000000000000000000000000000
+     000000000000000000000000000000000000000000000000000000000000000000000000000000
+     000000000000000000000000000000000000000000000000000000000000000000000000000000
+     000000005E0077102800C8196810480D000011090000005AOOOB010000103600540069006D0065
+                                                                      Hex-Dump Conversion
+                              INS Restructuring Report Format
+
+The report should layout the Administration's organizational plan (40K feet view) and explain
+the need for a functional, programmatic split from headquarters to the field. The report should
+elaborate on how this functional approach will address INS' programmatic and management
+issues. It should discuss how this structure will improve performance and ways the agency will
+measure improvement (consistency, lines-of-authority, accountability, customer service and
+competence) and show progress. It should spell out an implementation "action" plan (two years)
+that will allow stakeholder involvement as the restructuring is being developed and measurable
+milestones to track the evolutionary progress of the restructuring.
+
+The report must clearly show that the Administration: (1) knows what INS' operational and
+management problems are; (2) has a clear, well defined organizational structure and rationale that
+will address these problems effectively; (3) is willing to measure the effectiveness of this
+organization as we move forward (understanding that this is a phased approach and modifications
+may occur as it is implemented); and (4) has a clear understanding/path/action plan on how to
+proceed.
+
+                                  Organizational Design
+                           Immigration and Naturalization Service
+
+1.     Outline of Restructuring Principles
+
+       -- One agency -- both functions.
+       -- Structure that improves operations -- not moves boxes.
+       -- Builds on the advances, accomplishments and improvements achieved over the past
+            5 years.
+       -- Maintain integration and synergy between enforcement and benefits.
+
+2.     What is the Administration's plan?
+
+       The Administration's approach is to recognize the need for INS to be organized along
+       programmatic and function lines but to keep the INS intact. Separating enforcement and
+       benefit/services operations -- both in headquarters and in the field -- will result in a more
+       efficient and effective operation and strengthened accountability and lines of authority.
+       Include Booz organizational charts/matrix that support this plan.
+
+       ·      INS remains intact with a Commissioner and Deputy Commissioner responsible
+              for overall agency operations;
+       ·      Two Executive Associate Commissioners. One responsible for enforcement, the
+            · other for serviceslbenefits;
+       ·      Strengthen and clarify INS' operational field structure;
+       ·      Integration of all border enforcement entities;
+       ·      Separation of service-related functions from enforcement and development of an
+              organizational structure for immigration benefits that is a "community based"
+                                                            Hex-Dump Conversion
+
+
+           approach that brings services to the immigrant client population (building off the
+           naturalization redesign effort);
+     ·     Establish a Chief Financial Officer (CFO) to improve INS financial, accounting
+           and budget execution functions; and
+     ·     Clarify headquarter responsibilities and lines of authority.
+
+3.   How will this functional split address long standing management and performance
+     problems within the INS?
+
+     ·     Outline Booz findings and recommendations regarding weaknesses in the current
+           structural make-up and why a functional restructuring can improve INS' ability to
+           accomplish its tasks.
+     ·     Address areas of concern and explain how this organization will improve
+           operations and effectively measure performance and chart improvement.
+           -- Accountability                                  .
+           -- Line-of Authority
+           -- Consistency
+           -- Customer Service
+           -- Professionalism
+
+4.   What is the recommended action or work plan to implement this restructuring,
+     address operational and management weakness, and accomplish this
+     transformation?
+
+     ·     Establish a March 31, 1998, to March 31, 2000, timeline to chart the INS
+                   transformation. Include significant milestones (e.g. complete
+           enforcement/service split, establish "model" local enforcement operation, etc.)
+     ·     Establish a temporary Office of Restructuring under the Commissioner
+     ·     The Department would solicit interest for an implementation contractor to further
+           develop the INS restructuring, ensure coordination with and involvement of
+           stakeholders, and gui~e the implementation process to completion (Coopers and
+           Lybrand model).'
+
+

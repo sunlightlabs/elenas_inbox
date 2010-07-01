@@ -1,0 +1,45 @@
+RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+CREATOR: Cathy R. Mays   ( CN=Cathy R. Mays/OU=OPD/O=EOP [ OPD 1 )
+
+CREATION DATE/TIME:14-MAY-1999 09:34:57.00
+
+SUBJECT:   Crime Strategy Meeting
+
+TO: Jose Cerda III ( CN=Jose Cerda   III/OU~OPD/O=EOP@EOP   [ OPD 1 )
+READ:UNKNOWN
+
+TO: David J. Haun ( CN=David J. Haun/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ:UNKNOWN
+
+TO: Charles A. Blanchard ( CN=Charles A. Blanchard/OU=ONDCP/O=EOP@EOP [ ONDCP 1 )
+READ: UNKNOWN
+
+TO: Leanne A. Shimabukuro ( CN=Leanne A. Shimabukuro/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Barry J. Toiv ( CN=Barry J. Toiv/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Michael Deich ( CN=Michael Deich/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ:UNKNOWN
+
+CC: Jason H. Schechter ( CN=Jason H. Schechter/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+CC: Essence P. Washington ( CN=Essence P. Washington/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ:UNKNOWN
+
+CC: Sherron Duncan ( CN=Sherron Duncan/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+TEXT:
+We will NOT be having a Crime Strategy Meeting on Monday, May 17.
+
+

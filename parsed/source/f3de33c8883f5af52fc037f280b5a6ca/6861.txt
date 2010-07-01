@@ -1,0 +1,97 @@
+     RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+     CREATOR: Phillip Caplan ( CN=Phillip Caplan/OU=WHO/O=EOP [ WHO ] )
+
+     CREATION DATE/TIME:30-MAR-1998 09:26:49.00
+
+     SUBJECT:   .08 letter
+
+    . TO: Anne E, McGuire    CN=Anne .E. McGuire/OU=WHO/O=EOP @ EOP [ WHO]     )
+      READ: UNKNOWN
+
+     TO: Stacie Spector ( CN=Stacie Spector/OU=WHO/O=EOP @ EOP [ WHO]      )
+     READ: UNKNOWN
+
+     TO: Jeffrey A. Forbes ( CN=Jeffrey A. Forbes/OU=WHO/O=EOP @ EOP [ WHO]        )
+     READ: UNKNOWN
+
+     TO: Janet Murguia ( CN=Janet Murguia/OU=WHO/O=EOP @ EOP [ WHO]    )
+     READ: UNKNOWN
+
+     TO: Leanne A. Shimabukuro ( CN=Leanne A. Shimabukuro/OU=OPD/O=EOP @ EOP [ OPD ] )
+     READ: UNKNOWN
+
+     TO: Kris M Balderston ( CN=Kris M Balderston/OU=WHO/O=EOP @ EOP [ WHO]        )
+     READ: UNKNOWN
+
+     TO: Barry J. Toiv ( CN=Barry J. Toiv/OU=WHO/O=EOP @ EOP [ WHO]    )
+     READ: UNKNOWN
+
+     TO: Jessica L. Gibson ( CN=Jessica L. Gibson/OU=WHO/O=EOP @ EOP [ WHO]        )
+     READ: UNKNOWN
+
+     TO: Eleanor S. Parker ( CN=Eleanor S. Parker/OU=WHO/O=EOP @ EOP [ WHO]        )
+     READ: UNKNOWN
+
+     TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ]   )
+     READ:UNKNOWN
+
+     TEXT:
+     As I mentioned to a couple of you this morning, I think it would be weird
+     for Shalala to read a letter from the POTUS to Lowey at an event.  It
+     should be instead a Statement by the President.  I have tweaked this a bit
+     (along with Barry Toiv's good editing).
+
+     please make sure it meets with your (or your bosses') approval.  Most
+     importantly, please check the Congressional references -- sponsors of the
+     bill, which members are mentioned, etc.
+
+     please look at this quickly, as we need to get it to HHS so Shalala can
+     look at it.
+
+     ==================== ATTACHMENT   1 ====================
+     ATT CREATION TIME/DATE:   0 00:00:00.00
+
+     TEXT:
+     Unable to convert ARMS_EXT: [ATTACH.D75]MAIL406053886.026 to ASCII,
+      The fol,lowing is a HEX DUMP:
+
+     FF575043FA040000010A02010000000205000000130E000000020000D9DFFD79A28055B2FIDI02
+     A32F9CF557BD3FCDAOC8FF16BOCC4C22BC9080E39FA605A6115COFC2DF74BECl154D60C26E7DF7
+
+
+                           STATEMENT BY THE PRESIDENT
+
+                                      March 30, 1998
+
+
+
+
+      Although my trip to Africa precludes me from joining Congresswoman Nita Lowey,
+Congressman _._ Kennedy and others gathered in the Roosevelt Room, I want to state
+once more my strong support for legislation to put the brakes on drunk driving.
+
+       Setting a uniform limit for impaired driving at .08 blood alcohol content (BAC) will
+help us crack down on drunk driving nationwide. At a time when crime all across
+America is going down, we still lose an American to drunk driving every 30 minutes --
+every half hour a family is shattered, a child, a parent, a neighbor, is lost forever.
+
+       By establishing a strong but sensible limit on blood alcohol content; we could save as
+many as 600 lives a year. And a uniform drunk driving standard would still allow adults
+to drink responsibly and moderately -- since the .08 BAC standard is not reached un'til a
+170-pound man has had more than four drinks in an hour, and three for a typical woman.
+
+       This should not be a partisan issue. Indeed, the bipartisan work of.
+Congresswoman Lowey and Congressmen Ben Gilman in the House and Senators
+Lautenberg and DeWine in the Senate, proves that when leaders from both parties come
+together, we can set aside political differences to save lives and serve America. It is my
+fervent hope that the majority of the House will join the large bipartisan majority in the
+Senate, and send me legislation that will save lives, make our streets safe, our drivers
+sober, and our laws more sensible
+
+
+
+                                                                 Automated Records Management Systerr
+                                                                         Hex-Dump Conversion
+   "
+

@@ -1,0 +1,715 @@
+     RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+     CREATOR: Andrea Kane ( CN=Andrea Kane/OU=OPD/O=EOP [ OPD ] )
+
+     CREATION DATE/TIME: 29-JAN-1999 10:10:24.00
+
+     SUBJECT:   TANF Rule Materials
+
+     TO: Cathy R. Mays ( CN=Cathy R. Mays/OU=OPD/O=EOP @ EOP [ OPD ] )
+     READ:UNKNOWN
+
+     TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+     READ: UNKNOWN
+
+     TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO ] )
+     READ: UNKNOWN
+
+     TO: Bruce N. Reed ( CN=Bruce N.   R~ed/OU=OPD/O=EOP   @ EOP [ OPD ] )
+     READ:UNKNOWN
+
+     CC: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP @ EOP [ OPD ] )
+     READ: UNKNOWN
+
+     TEXT:
+     For our 4 p.m. meeting on the TANF rule, here are:
+     1) Summary prepared by HHS related to how states are doing on work and
+     other key provisions of the law, with a summary of work efforts in the
+     states Bruce specifically asked about.
+
+
+     2) Document which includes a chart of the 5 key issues we want to discuss,
+     followed by 1-2 page summaries on these issues.
+
+     ==================== ATTACHMENT   1 ====================
+     ATT CREATION TIME/DATE:   0 00:00:00.00
+
+     TEXT:
+     Unable to convert ARMS_EXT: [ATTACH.D4]MAIL45980413P.036 to ASCII,
+      The following is a HEX DUMP:
+
+     FF575043EA040000010A02010000000205000000B33D00000002000037B0065324A9BD959E041A
+     603374984A07D59FB7305351E0986A4E80F7D05ADDFB29EBFl15ED1EA7511949804DFBC83580FA
+     DB33AAFDB527291D20B9288AFEA5CD4195C1DFA4D5A1E85518D095AB05F5BE1ECAl19E228C582F
+     F1D4CEE88C97BC50949E7AC0056C5ADB03F1494F010A2DFDE4FECF7CEODF0612C05F42CA19E750
+                                        Automated Records Management System
+                                        Hex-Dump Conversion
+
+
+
+                             Proposed Change from NPRM
+
+
+
+
+     I.   Waivers
+     A. No longer denies penalty relief and penalty reduction to states that continue
+     waivers inconsistent with T ANF and no longer requires state to abandon waiver
+     program as part of corrective compliance
+
+     B. Expands the defmition of inconsistent waiver that can be continued under TANF
+     to include the entire range of work rules (exemptions, activities, hours, and
+     who counts in the numerator and denominator of the work rate) or time limit
+     provisions that existed in a state under the waiver if they have waived one or
+     more technical provisions related to work or time limits under prior law
+
+     II. Child Only
+     A. Deletes the provisions requiring states to report annually on cases excluded from
+     work rate and time limit calculations
+
+     B Allows the Secretary to add cases back into a calculation if found to have been
+     excluded to avoid penalties
+
+     III. Domestic Violence
+     A. Allow waivers for as long as necessary, while requiring 6-month
+     redeterminations
+
+     B. Allows the clock to stop when a family has a waiver (rather than NPRM
+     provision which allowed exemption form time limit if individual reached 60th
+     month and was unable to work)                                                          -
+     IV. Separate State Programs
+
+     A. Eliminates proposed link between state decision to establish SSP and
+     eligibility for penalty relief, but maintains plan to monitor state actions
+     through data reporting and other procedures.
+
+     B. Maintains participant-level data reporting in order to qualify for high
+     performance bonus and caseload reduction credit, but not for penalty relief,
+     with reduced number of data elements.
+
+     C. Limits case-level data and aggregate data reporting to SSPs that are
+     "welfare-like", i.e. which provide ongoing payments to the family designed to meet
+                                  Hex-Dwnp Conversion
+
+
+
+                         Proposed Change from NPRM
+
+
+
+basic needs of the recipients.
+
+v.   Definition of Assistance
+A. Continues to include in the defmition of assistance spending that provides
+explicit or implicit income support, including child care, transportation, and related
+work supports. Expressed policy support for excluding them, but indicates they
+have no legal basis to do so. Continues to include workfare payments and some
+wage subsidies in assistance, but clarifies that certain payments to employers might
+be excluded (e.g. under performance based contracts).
+
+B. Removes time limits on one-time short-term assistance; clarifies that it can be
+used to prevent a family going on, or returning to, assistance; and makes general
+distinction that assistance is to meet ongoing or recurring needs.
+Waivers                            Hex-Dump Conversion
+
+Background
+States that had waivers before T ANF may continue to operate under their waivers to the extent
+they are inconsistent with T ANF. The statute also encourages continuation of state waivers.
+HHS has no specific authority to regulate waivers; rather, their authority hinges on their authority
+to regulate three penalty provisions: work requirements, individual sanctions for failure to work,
+and exceeding time limit.
+
+Thirty-five states continue to have waivers in effect, of which 5 will expire before the final rule
+take effect in October 1999, and an additional 5 will expire in FY 2000. HHS estimates that if
+every eligible state claimed a waiver inconsistency, this would cover about 32% of the
+nationwide caseload. However, not every state will -- in fact, for the FY 97 work participation
+rates, of the 12 states who claimed a waiver inconsistency, 10 states met the all family rate
+without the waiver (CT, lN, MA, MO, NH, OR, SC, SD, TN, and VA) and only 2 states needed
+the waiver to meet the all family rate (MT, TX). Eight states only met the two-parent rate with
+the waiver (IN, MA, MT, OR, TN, TX, UT, VA). While the participation targets will increase
+over time, states will also benefit more from the caseload reduction credit, so it is not necessarily
+the case that more states will claim inconsistencies over time.
+
+NPRM
+1) Waivers states: lost reasonable cause for work partiCipation or time limit penalties, must
+consider modifying waiver policy as part of corrective action, and lost eligibility for certain
+penalty reductions.
+
+2) Recognized waiver inconsistencies related to specific waiver provisions for work activities
+and hours, but not exemptions (i.e. who is in the denominator), and individuals participating in a
+waiver evaluation.
+
+3) HHS will continue to publish work participation rates and time-limit exception rates achieved
+under both the waivers and regular T ANF rules.
+
+4) Governor must certify waiver inconsistencies & provide additional information about waivers.
+
+5) Time limit waivers were limited to those which resulted in closing a case or terminating
+benefits (did not recognize inconsistencies for time limits which triggered work requirements).
+
+HHS received strong state, congressional, and other organization opposition to waiver provisions
+on the grounds that the NPRM violated the Congressional intent to allow and encourage states to
+continue waivers. Shaw emphasized that most states are not using waivers to evade work
+requirements and recommends that "we let the waivers run their course", noting that if states do
+                                     Hex-Dump Conversion
+
+use their waivers to avoid the work requirements or time limits, they are likely to experience a
+serious jolt when the waiver ends and they may find themselves a magnet for recipients from
+other states with more aggressive reforms.
+
+Proposed Final Rule
+I) No longer denies penalty relief and penalty reduction to states that continue waivers
+inconsistent with T ANF, and no longer states to abandon their waivers as part of corrective
+compliance. NPRM approach was based on waiver states having an unfair advantage over other
+states, but in light of the comments, HHS is concerned they don't have defensible legal basis for
+the approach.
+
+  2) Clarifies and somewhat expands definition of inconsistent waiver that can be continued under
+  TANF. Removes reliance on the purpose of the waiver and instead include the entire range of
+  work rules (exemptions, activities, hours, and who counts in the numerator and denominator of
+  the work rate) or time limit provisions that existed in a state under the waiver if they have waived
+. one or more technical provisions related to work or time limits under prior law. Time limit
+  waivers are limited to those which reduce or terminate assistance -- waivers which require work
+  after a certain period of time do not count. States may also claim waiver inconsistencies related
+  to the sanctions on individuals who fail to work. Final rule also clarifies that states can't expand
+  waivers beyond approved geographic limits or population groups and cannot stop and resume a
+  waiver.
+
+3) Maintains intent to publish work participation rates under waivers and regular rules, but not
+time limits (data is not available to compute these).
+
+4) Governor must, by July 1, 1999, certify continuation of work and time limit waivers, which
+inconsistencies it is claiming, and describe alternative work provisions.
+                                 Hex-Dump Conversion
+
+
+
+                                                                                             1129/99
+Child-Only Cases
+
+Background
+Child-only cases have risen as a percentage of the total welfare caseload from 9.6% in 1988 to
+23% in 1997. Most child-only cases fall into one of four categories:
+�      no parent in household
+�      sanctioned parent
+�      SSI recipient parent
+�      undocumented alien parent.
+
+Though less than half (40%) of all child-only cases have no parent in the household, no-parent
+households have witnessed the largest percentage increase over the last decade of all child-only
+categories. With states strengthening work requirements in their T ANF programs, we may see
+increases in SSI recipient and sanctioned parent "child-only" households as more recent data
+become available. In 1997, of all cases with a parent in the household some 38% and 15%,
+respectively, consisted of SSI recipient and sanctioned parent households. During the period from
+FY 1996 to the last quarter ofFY1997, decline in the number of child-only cases has generally
+kept pace with the overall welfare caseload decline.
+
+There are three key ways in which child-only TANF cases are treated different than other cases
+under current law:
+       they are not subject to work requirements;
+       they are not subject to the Federal 5-year time limit;
+       they are excluded in calculating (e.g., the denominator) a State's annual work
+       participation rate.
+Given these differences, there is added concern that T ANF parents may increasingly relinquish
+guardianship of children to other caretaker relatives.
+
+NPRM
+While the proposed rule allowed states to develop their own definition of "family," it included
+also the proviso that states could not create definitions that excluded adults from cases -- thereby
+creating child-only cases -- solely for the purpose of avoiding enforcement of Federal
+requirements and penalties for failure to meet annual work participation rates. To monitor this
+restriction, HHS proposed that states report annually on the number of cases excluded from
+penalty calculations, and the reasons for each exclusion. In addition, the Secretary would have
+authority to add cases back into the calculation if found to have been excluded for the purpose of
+avoiding penalties.
+                                    Hex-Dump Conversion
+
+Final Rule
+HHS has deleted the provisions requiring states to report annually on cases excluded from work
+rate and time limit calculations, and allowing the Secretary to add cases back into a calculation if
+found to have been excluded to avoid penalties. Instead, HHS proposes to use the regular T ANF
+data collection system to evaluate the nature of child-only cases and to monitor changes.
+Domestic Violence
+
+Background
+Many studies have identified a high prevalence of domestic violence amongst welfare recipients.
+PRWORA contains language allowing states to elect the Family Violence Option (FVO) within
+their T ANF state plans. This option provides for identification and screening of domestic
+violence victims, referral to services, and waivers of program requirements for good cause.
+Though a number of states have elected the FVO, there is little data on how many domestic
+violence victims have received "good cause" waivers. There were lengthy discussions during
+the NPRM process over the FVO issue, and over the MurraylWellstone amendment which, if
+passed, would have affected the treatment of domestic violence victims under T ANF.
+
+NPRM
+Under the NPRM, states electing the FVO could be eligible for "reasonable cause" penalty relief
+for failure to meet the work participation rates or for exceeding the limit on exceptions to the
+five-year limit if caused by program waivers granted under this provision. To be considered for
+a "reasonable cause" exception, a "good cause domestic violence waiver" would need to
+incorporate three components: (1) individualized responses and service strategies, consistent with
+the needs of the individual victims; (2) waivers of program requirements that were temporary in
+nature (not to exceed 6 months); and (3) in lieu of program requirements, alternative services for
+victims, consistent with the individualized safety and service plans.
+
+In addition, to be considered in determining reasonable cause for exceeding the time-limit
+exceptions, such waivers had to be in effect after an individual had received assistance for 60
+months, and the individual needed to be temporarily unable to work.
+
+Comments
+HHS received a number of comments on the FVO provisions in the NPRM. While generally
+satisfied with the framework presented, most commenters raised certain objections:
+�       a service plan is inappropriate and could put victims at added risk (victims receiving
+        waivers should be exempt from work requirements);
+        a 6-month limit on the waiver is inappropriate, especially given that the statute says as
+        long as necessary;
+�       allowing time limit waivers only for victims who have already hit the 5-year limit
+        (hardship exemptions) and who are unable to work is inappropriate (the time limit should
+                                  Hex-Dump Conversion
+
+       stop for victims with good cause waivers).
+Commenters also raised the general concern that the NPRM did not assure, or even address, the
+issue of confidentiality for victims.
+
+Final Rule
+The final rule makes two key changes to the NPRM provisions:
+�      it allows waivers for as long as necessary, while requiring 6-month redeterminations;
+�      it removes the link between time-limit waivers and ability to work, and allows the clock
+       to stop when a family has a waiver.
+Separate State Programs           Hex-Dump Conversion
+
+Background
+Law allows states to meet MOE requirement by spending their own funds on: cash assistance
+(including child support collections), child care, certain educational activities, associated
+administrative costs, and anything else reasonably calculated to accomplish purposes of the law.
+
+State funds spent in a SSP (rather than under T ANF program) are not subject to key T ANF
+requirements including: work participation, child support, time limit, and reporting.
+
+There is little evidence to date that states are using SSPs to avoid work and no evidence they are
+using SSPs to avoid child support (see attached information).
+
+NPRM
+Proposed 4 steps to prevent states from using SSPs to avoid work requirements or divert child
+support collections:
+
+1. If HHS detected significant pattern of diversion to SSP that had the effect of avoiding either
+the work rates or diverting child support, deny reasonable cause for certain penalties as follows:
+
+                                  I(Avoid Work               I(Divert Child Support
+Then Lose Penalty RelieUor: Work Participation Rate    Work Participation Rate
+                                  Time Limit                 Time Limit
+                                  Individual Work Sanction   Individual Work Sanction
+                                  Child Care                 Child Support Cooperation
+
+2. If HHS detected significant pattern of diversion to SSP that had the effect of avoiding either
+the work rates or diverting child support, deny penalty reduction for making substantial progress
+unless state ends the diversion.
+
+3. Deny work participation rate penalty reduction unless state proves it has not diverted cases to
+SSP for purpose of avoiding work requirements.
+
+4. Require data reporting on all families in SSP in order to get: high performance bonus, caseload
+reduction credit, or work participation rate penalty reduction.
+
+Widespread comments (including Shaw) universally opposed the NPRM. They objected to tone
+of mistrust, limits on state flexibility, chilling effect on state innovations to serve vulnerable
+groups and working families, punishment disproportional to offense, and argued that NPRM was
+contrary to statute and congressional intent. While Shaw is sympathetic to the NPRM's threat to
+deny penalty relief when there is a significant pattern of diverting families to SSPs in order to
+evade TANF goals, he questions how the Department can prove intent. In the absence of such
+                                   Hex-Dump Conversion
+
+proof, he recommends erring on the side of state flexibility and closely monitoring state actions.
+He supports the need for some amount of case level data in order to monitor what states are
+doing and suggests collecting full case level data on some types of SSPs (such as a separate two
+parent program), with less detailed data on other types of programs (such as subsidies for private
+employment or an EIe-like program). (This is what HHS has tried to do in final rule in their
+distinction between "TANF-like" programs.)
+
+Proposed Final Rule
+Eliminates proposed link between state decision to establish SSP and eligibility for penalty relief
+(see NPRM steps #1, 2 and 3 below), but maintains plan to monitor state actions through data
+reporting and other procedures.
+
+Maintains participant-level data reporting in order to qualify for high performance bonus and
+caseload reduction credit, but not for penalty relief, with reduced number of date elements.
+Limits case-level data and aggregate data reporting to SSPs that are "welfare-like", i.e. which
+provide ongoing payments to the family designed to meet basic needs of the recipients.
+Maintains quarterly financial reporting on state spending for SSPs (amount and category) and
+annual reporting on description of SSPs (purpose, work activities, expenditures, number served,
+eligibility criteria).
+
+The Emergency T ANF data reports, in effect until the final rule is effective, do not provide
+participant-level information on SSPs, so we do not currently have information on the number of
+characteristics offamilies served in SSPs. However, TANF financial reports provide
+information on how much states are spending, and on what types of programs, as shown on the
+chart below.
+                                  Hex-Dump Conversion
+
+
+
+
+                                                                                                1129/99
+
+
+Information on State Spending for Separate State Programs
+
+In FY 1997, 15 states reported MOE spending for SSPs. Four states spent more than 20% of
+their MOE funds in SSPs (Hawaii, Illinois, Colorado, and Iowa), 4 states spent between 10 and
+20%, and the remaining 7 states spent less than 6%. (Final FY 98 financial reports are still being
+compiled.)
+
+In FY 1998, 14 states reported MOE spending for SSPs. While final data is still being
+compiled, the most recent FY 1998 financial report (3rd quarter) show only $189 million, or 3
+percent of total state MOE spending, is for SSPs. The majority of SSP spending is for cash and
+work based assistance for families that states have chosen to remove from T ANF (two-parent
+families) or who are not eligible for federal T ANF funding (certain immigrants). Those states
+who have removed two-parent families from T ANF generally have similar work requirements
+under their SSP.
+
+FY 98 SSP Ex:>enditures Through 3rd Quarter FY 1998
+                #of        Total      %of       Comments
+                states     Expen-     SSP
+                           ditures    Expen-
+                                      ditures
+
+ Cash &         6          $112 M     59%       Mostly 2-parent families (FL, MD, HI),
+ Work Based                                     non-qualified immigrants (HI, W A, WI),
+ Assistance                                     pregnant women (lL, W A), state GNEA (ME).
+                                                Georgia also reports $71M SSP on 4th Q report
+                                                (HHS seeking info). VA reported in error on
+                                                3rd Q--does not have SSP.
+
+ Work           3          $7M        4%        IL (reported in error on this line -- will be
+ Activities                                     corrected), lA, WI (non-custodial parent
+                                                program)
+
+ Child Care     4          $16 M      9%        AZ, CO, lA, WY
+
+ Admini-stra    3          $3 M       2%        Costs associated with operating SSPs (IL, W A,
+ tion                                           WI)
+                                  Hex-Dump Conversion
+
+ Systems         3         $0.6M       < 1%       Costs associated with SSPs (IL, WA, WI)
+ Transitional   0          N.A.
+ Services
+
+ Other           7         $50M        26%        CO, FL, IN (Healthy Families), ME (higher ed),
+                                                  RI (citizenship), TN (non-qualified aliens), W A
+                                                  (?),
+
+ TOTAL           14        $189 M       100%      3% oftotal State MOE spending
+
+Definition of Assistance
+
+Background
+The definition of assistance is one of the key policy issues in the T ANF rule. It has major
+implications for what kinds of services states will provide to needy families, the nature and level
+of spending of federal T ANF funds and state MOE funds, and whether these expenditures will
+be subject to T ANF requirements including time limits, work participation, child support
+assignment and data reporting. The term "assistance" is used throughout the statute but is not
+defined.
+
+In January 1997,'HHS released guidance explaining that assistance encompassed most forms of
+support, but excluded (1) services that had no direct monetary value and did not involve explicit
+or implicit income support and (2) one-time short-tenn assistance. In 1998, the Child Support
+Incentives Act amended TANF to reflect enactment of the Access to Jobs transportation program
+in TEA-21 including a "rule of interpretation" stating that the provision of Access to Jobs
+transportation benefits (where T ANF funds are used as a match) to an individual who is not
+otherwise receiving T ANF assistance would not be considered assistance.
+
+NPRM
+Tried to clarify the 1197 guidance by explicitly including child care and transportation in
+definition of assistance (see chart). In doing so, it was widely perceived to narrow the definition.
+NPRM also defined short-term, time-limited assistance (see chart).
+
+A wide range of commenters asked us to narrow the definition of assistance, i.e. expand the types
+of benefits and services that would not count as assistance. Comments focused on three main
+issues: 1) the narrow definition of one-time, short-tenn assistance thwarts state diversion
+programs and does not reflect the dynamic nature of the caseload; 2) child care, transportation,
+and work supports should not be assistance (not subject to time limits or child support
+assignment); and 3) wage subsidies and workfare should not be assistance -- wage subsidies do
+not have direct monetary value and workfare is compensation for work (not subject to time limits
+or child support assignment).
+                                                              Hex-Dwnp Conversion
+
+                NGA and APHSA proposed a narrower definition that CLASP believes is legally permissible
+                (see chart).
+
+                Proposed Final Rule
+                Continues to include child care, transportation, and related work supports in definition of
+                assistance. Expressed policy support for excluding them, but indicates they have no legal basis
+                to do so. Continues to include workfare payments and some wage subsidies in assistance, but
+                clarifies that certain payments to employers might be excluded (e.g. under performance based
+                contracts). Removes time limits on one-time short-term assistance; clarifies that it can be used
+                to prevent a family going on, or returning to, assistance; and makes general distinction that
+                assistance is to meet ongoing or recurring needs.
+                                                                                                                                  1/29/99
+
+      Definition of Assistance
+an 97 Guidance                    NPRM                               Proposed Final                     NGAIAPHSA Proposal
+very form of support              Every form of support              Every form of support              Every form of support
+rovided to families under         provided to families under         provided to families under         provided to families under
+ANF except for the                T ANF (including child care,       T ANF (including child care,       T ANF except:
+)llowing:                         work subsidies, and                work subsidies, and
+                                  allowances to meet living          allowances to meet living
+                                  expenses) except:                  expenses) except:
+
+) services that have no direct    I) services that have no direct    I) services that have no direct    I) state earned income tax
+lonetary value to an              monetary value to an               monetary value to an               credits, child care,
+Idividual family and that do      individual family and that do      individual family and that do      transportation subsidies or
+ot involve implicit or explicit   not involve implicit or explicit   not involve implicit or explicit   benefits for working families
+Icome support (such as            income support (such as            income support (such as            that are not directed at their
+)unseling, case management,       counseling, case management,       counseling, case management,       basic needs.
+eer support and employment        peer support and employment        peer support and employment
+:rvices that do not involve       services that do not involve       services that do not involve
+lbsidies or other forms of        subsidies or other forms of        subsidies or other forms of
+Icome support; and                income support l; and              income support; and
+
+) one-time, short-term            2) one-time, short-term            2) short-term benefits
+isistance (e.g. automobile        assistance (i.e., assistance       designed to deal with a
+:pair to retain employment        paid within a 30 day period,       specific crisis situation or
+nd avoid welfare receipt and      no more than once in any           episode of need and prevent a
+Jpliance repair to maintain       12-month period, to meet           family from going on, or
+ving arrangements).               needs that do not extend           returning to, assistance rather
+
+
+
+                        1 Preamble clarifies that: asistance includes child care, work subsidies, and allowances that cover living
+               expenses for individuals in education or training such as a) payments/vouchers for direct child care services, and
+               value of direct child care services provided under contract/similar arrangement. b) payments employers to help
+               cover the cost of employment or OJT. Assistance excludes child care services such as information & referral or
+               counseling, short-tennlad hoc child care.
+                                       Hex-Dump Conversion
+
+an 97 Guidance   NPRM                             Proposed Final                 NGAIAPHSA Proposal
+                 beyond a 90-day period, such     than to meet ongoing or
+                 as automobile repair to retain   recurring needs -- such as
+                 employment and avoid             payments for automobile or
+                 welfare receipt and appliance    appliance repair.
+                 repair to maintain living
+                 arrangements. )
+                                                  3) Transportation benefits
+                                                  provided under an Access to
+                                                  Jobs or Reverse Commute
+                                                  project, pursuant to section
+                                                  404 (k) of the Act, to an
+                                                  individual who is not
+                                                  otherwise receiving
+                                                  assistance.
+
+                                                                                                 1129/99
+                               Hex-Dump Conversion
+
+                                  STATE TANF SUCCESS
+
+OVERVIEW: A wide variety of evidence demonstrates that the nation's welfare system has
+dramatically changed. The message has changed. States have adopted work-first as their
+primary approach for moving families from welfare to work. Welfare-to-work programs have
+expanded. Employment, participation levels, and sanctions are up. Many States have
+implemented more rigorous time limits. States are making extensive use of diversion programs,
+expanding supports for working families, and focusing more attention on the needs of the
+hard-to-serve. Decision-making and program responsibilities continue to devolve.
+
+The authors of the Implementation of the Personal Responsibility Act of 1996 [Dick Nathan and
+Tom Gais] summarize this dramatic change, as follows:
+
+       The central theme of this Overview Report is that a lot is happening now and that there
+       are surprises in the implementation of the Personal Responsibility Act. As researchers
+       and participant-observers in this field for a long time, we have never seen, or expected to
+       see, a period of so much and such pervasive institutional change in social programs ....
+       These changes have occurred in large part because strong signals have been sent by
+       governors and state legislators that a work-based approach to welfare reform is no longer
+       just one Federal priority among many but is now a central objective within each state ...
+
+While there are differences among States, counties, and communities about the extent of change,
+all States have implemented work-oriented changes.
+
+EVIDENCE OF CHANGE
+
+1) States were successful in meeting the overall TANF participation rates for 1997 (and the vast
+majority meets the rates without any waiver adjustments). The national average participation
+rate for 1997 was 27.3 percent and percent of welfare recipients engaged in work has tripled
+since 1992.
+
+In addition, several States that were not subject to participation requirements in FY 1997 have
+reported significant participation rates to us. For example, Illinois is showing that 40% of
+recipients are employed, and employment rates in Cook County are now 34%. In Minnesota,
+44% of the caseload are involved in paid employment and another 22% injob search ..
+
+2) Caseloads (number of recipients) are down 44 percent since January 1993 and based on the
+latest data, every state is now showing a caseload decline. Caseloads in Florida went down
+65%; in Texas, 56%; in Georgia, 48%; in Ohio, 42%; in Wyoming, 84%; and in Wisconsin,
+77%. States with relatively low declines -- below 20% -- include: Alaska (20%), Rhode Island
+(11 %), Hawaii (16%), and New Mexico (18%).
+
+3) For adult recipients, during the last quarter ofFY 1997, employment levels increased by about
+35 percent. Compared to October 1996 to June 1997, when 14 percent of adult recipients were
+employed for the 39 reporting states, in the July-September period,18 percent were employed.
+                                   Hex-Dump Conversion
+
+The average monthly earnings of those employed increased from about $506 to $593, an increase
+of about 17 percent.
+
+4) Work participation was mandatory for three of every five adult recipients during the last
+quarter of FY 1997. States reported that a total of 16 percent of participants were exempt under
+federal statutory provisions: 7% were exempt from work participation because they were single
+custodial parents with a child under 12 months of age, 3% were exempt because of a sanction or
+participation in a Tribal Work Program, and 6% were teen parents who were required to
+participate in education. In addition, states exempted about 20 percent because of good cause due
+to disability or in poor health.
+
+5) Employment rates of individuals who were on welfare in the prior year increased 30% from
+1996 to 1997.
+
+6) New evaluations show significant successes in moving recipients to work:
+�     LA's evaluation showed a 33% increase in employment levels and a 46% increase in
+      earnings (among participants, compared to a control group) after 6 months in the
+      program. This program served a population that was largely minority.
+�     Portland's program achieved a 17% decline in welfare and 35% gain in earnings, with
+      positive outcomes for both job-ready and harder-to-serve participants. It also showed
+      gains in job quality (Le., a 13-percentage point increase in full-time jobs and
+       lO-percentage point increase in health benefits).
+�     Minnesota's MFIP program showed a 40% increase in employment and a 17% decrease
+      in poverty among single parents who were long-term recipients living in an urban
+      environment.
+�     Florida's Family Transition Program increased employment by 7.5% and increased
+      average earnings 15.7%, over its first two years.
+
+6) State claims of waiver inconsistency did not substantially affect the States' penalty liability for
+failure to meet work participation rates. A significant majority of States made the overall rates
+without any waiver adjustments, and only a few were helped on the two-parent rates. For 5 of
+the 10 States claiming waiver inconsistencies (MA, MO, NH, SC, and VA), the claimed
+adjustments had no affect on their penalty liability; and for 3 States (OR, TN, UT), the claims
+affected only the State's two-parent liability. For Texas, waiver inconsistencies affected only
+the penalty for overall rate. VT claims exemption from the participation rates, but meets the
+overall rate. A number of States with waivers claimed no adjustments based on waiver
+inconsistencies (CA, CT, lA, MI, NE, and WA), and a couple identified adjustments that worked
+to their detriment.
+
+8) There is little evidence that States are setting up separate State programs for the purpose of
+avoiding work requirements or diverting the Federal child support collections.
+
+�      Only two States that were subject to participation rates for the last quarter of FY97
+       avoided them by setting up separate State programs-Florida and Maryland. Both have
+       strong work policies for two-parent families. Also, Florida met the old JOBS UP rates
+                                   Hex-Dwnp Conversion
+
+       (which indicates an excellent history of moving 2-parent families into work).
+       Maryland's UP rate for JOBS was 38.5% (against the 50% standard in effect under
+       JOBS). Georgia avoided the two-parent requirements by funding its two-parent cases
+       entirely with State monies. South Dakota did not have any 2-parent cases (outside Tribal
+       Work programs) during the quarter.
+
+�      OCSE is reporting no evidence that States have developed or are planning State-only
+       child support programs that would divert the Federal share of collections. It reached this
+       conclusion based on: (a) this year's audits of programs by the OCSE auditors; (b) the
+       Lewin Group study, which surveyed IV-D directors and State budget staff; and (c)
+       internal analysis of collections information.
+
+9) In the fourth quarter of FY 1997, about 23 percent of TANF families had no adult recipients.
+The number and percentage of child-only cases have been steadily rising since 1988, but the rate
+of increase slowed slightly between FY 1996 and October-June 1997. Thus, our data suggest
+that the growth in child-only cases may be slowing. Also, they provide no evidence of a shift in
+State policies or practice with respect to child-only cases.
+
+10) States have not shifted significant shares of their TANF caseloads into separate State
+programs (SSP's). According to the third-quarter FY98 fiscal reports, SSP's represent less than
+3 percent of State MOE expenditures and are reported by only 14 States. They represent more
+than 20% of the expenditures only in Colorado, Hawaii, Maine, and West Virginia.
+
+11) We expect that nearly all States will participate in the High Perfoimance Bonus and thus will
+compete for awards based on job placements and recipients' success in work.
+
+12) In FY 97, States made significant investments in child care services, serving an average of
+1.25 million children a month (up 25 percent over 1996). All States made their MOE and
+matching requirements for child care, and States spent 99% of the Federal funds. The total
+Federal and State dollars spent increased 35% between 1996 and 1997, rising to $4.2 billion in
+1997.
+
+13) Most States are moving forward on implementing 'the Family Violence Option or developing
+other specialized strategies to serve victims of domestic violence. Early indications are that
+States are taking a cautious approach in screening and granting waivers. We have limited data
+that suggest that the number of victims identified and the number of waivers granted is very
+modest to date.
+
+14) There have been substantial decreases in sexual activity among high school students (11 %
+between 1991 and 1997) and in teen births (12 percent between 1991 and 1996).
+                               Hex-Dump Conversion
+
+
+HIGHLIGHTS OF WORK EFFORTS IN KEY STATES
+
+
+California: On January 1, embarked on CaIWORKS, which creates a strong framework for
+implementation of work requirements throughout the State (including job acceptance
+requirements, up-front job search, and county performance expectations). The State has also
+instituted generous earnings disregards and achieved significant caseload reductions. The LA
+evaluation showed large eamings and employment gains for a highly urban, largely minority
+population (i.e., 33% and 46%, respectively). State shows high participation in unsubsidized
+employment.
+
+District of Columbia: Recently took major step forward in moving its welfare-to-work agenda;
+effective December 1, entered performance-based contracts with third-party providers to provide
+welfare-to-work services for recipients.
+
+Florida: WAGES program has shown very strong results along a variety of indicators, including
+caseload reductions, employment entries, and reductions in time on assistance. Claims best
+results of the big-eight States. Also, FTP evaluation shows significant gains in employment and
+earnings.
+
+Hawaii: Working in most difficult economic environment, has federalized assistance for
+two-parent families, instituted stronger work requirements (32 hours for all families), and
+adopted a full-family sanction (to be effective 7/99).
+
+Illinois: Has instituted strong requirements, especially for those with children over 13, and
+strong financial incentives for those finding employment. Impressive record of job retention,
+case closures due to employment (for both State and Cook County), and employment rates (for
+both State and Cook County).
+
+Minnesota: High employment levels (30%); strong support for working families; 40% gains in
+employment and earnings and 17% reduction in poverty in demonstration for single-parent, urban
+participants
+
+New Mexico: Had achieved significant caseload reduction (27%), but progress has been slowed
+by internal political and legal disputes.
+
+New York: Has achieved a significant caseload reduction (25%) and provides strong support for
+working families through disregard policies.
+
+Ohio: Has achieved a significant caseload reduction (26%), implemented strong sanction
+policies and strong work supports (including significant, time-limited earnings disregards), and
+an employer tax credit to expand job opportunities. Participation and work levels are high
+statewide and in Cuyahoga.
+                                   Hex-Dwnp Conversion
+
+Pennsylvania: Has achieved significant caseload reduction (37% decrease in recipients since
+8/96) and implemented a very tough approach to 24-month work requirement. State rules are
+raising concerns that State policies are too tough, especially in Philadelphia.
+
+Rhode Island: Has only recently come under data collection and work penalty provisions. Work
+focus evident in requirement for participation within 45 days, progressive sanction policy, and
+enhanced disregards.
+
+Texas: Began to focus more intensively on work about one year ago, too late to be evident in
+participation rates. State data show significant sanction activity. Evaluation shows high level
+of employment among individuals diverted from the rolls or leaving welfare for work and off of
+TANF for 6 months (as well as some evidence of good job quality).
+
+Vermont: Has achieved significant caseload reduction (32%). Supports work through earnings
+disregards and job acceptance requirements.
+
+Washington: Has achieved significant caseload reduction (27%). Supports work through
+enhanced disregards and progressive sanctions. 37 percent of the TANF caseload in King
+County employed.
+
+West Virginia: Has experienced very significant caseload reduction (58% between 8/96 and
+6/98). WV Works expanded from 9 counties to statewide in January 1998. Governor is leading
+effort to create jobs (9,696 as of November 1998) .
+
+
+
+
+                                       .'
+
+

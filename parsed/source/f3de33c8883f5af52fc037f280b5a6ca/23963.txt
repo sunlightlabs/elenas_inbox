@@ -1,0 +1,316 @@
+RECORD TYPE: PRES.IDENTIAL   (NOTES MAIL)
+
+CREATOR: Sandra Yamin ( CN=Sandra Yamin/OU=OMB/O=EOP [ OMB ] )
+
+CREATION DATE/TIME:26-MAY-1999 20:30:19.00
+
+SUBJECT:   FINAL CLEARANCE -- FYOO Energy Water Approps Bill Letter -- 8:30AM Deadlin
+
+TO: Neal Lane   CN=Neal Lane/OU=OSTP/O=EOP@EOP [ OSTP ] )
+READ: UNKNOWN
+
+TO: Karen Tramontano ( CN=Karen Tramontano/OU=WHO/O=EOP@EOP [ WHO ] )
+READ: UNKNOWN
+
+TO: Steve Ricchetti ( CN=Steve Ricchetti/OU=WHO/O=EOP@EOP [ WHO ] )
+READ:UNKNOWN
+
+TO: George T. Frampton ( CN=George T. Frampton/OU=CEQ/O=EOP@EOP [ CEQ]    )
+READ:UNKNOWN
+
+TO: Maria Echaveste ( CN=Maria Echaveste/OU=WHO/O=EOP@EOP [ WHO ] )
+READ: UNKNOWN
+
+TO: Todd Stern ( CN=Todd Stern/OU=WHO/O=EOP@EOP [ WHO ] )
+READ: UNKNOWN
+
+TO: Wesley P. Warren ( CN=Wesley P. Warren/OU=CEQ/O=EOP@EOP [ CEQ]    )
+READ: UNKNOWN
+
+TO: Ron Klain ( CN=Ron Klain/O=OVP@OVP [ UNKNOWN]   )
+READ:UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP@EOP [ OPD ] )
+READ:UNKNOWN
+
+TO: Gene B. Sperling ( CN=Gene B. Sperling/OU=OPD/O=EOP@EOP [ OPD ] )
+READ:UNKNOWN
+
+TO: Lynn G. Cutler ( CN=Lynn G. Cutler/OU=WHO/O=EOP@EOP [ WHO]    )
+READ: UNKNOWN
+
+TO: Ann F. Lewis ( CN=Ann F. Lewis/OU=WHO/O=EOP@EOP [ WHO ] )
+READ: UNKNOWN
+
+TO: Miles M. Lackey ( CN=Miles M. Lackey/OU=NSC/O=EOP@EOP [ NSC ] )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP@EOP [ OPD ] )
+READ:UNKNOWN
+
+TO: Michelle Peterson ( CN=Michelle Peterson/OU=WHO/O=EOP@EOP [ WHO ] )
+READ:UNKNOWN
+
+TO: Jeffrey M. Smith ( CN=Jeffrey M. Smith/OU=OSTP/O=EOP@EOP [ OSTP ] )
+READ:UNKNOWN
+
+TO: Joshua Gotbaum ( CN=Joshua Gotbaum/OU=OMB/O=EOP@EOP [ OMB·]   )
+READ:UNKNOWN
+
+TO: Martha Foley ( CN=Martha Foley/OU=WHO/O=EOP@EOP [ WHO ] )
+
+
+READ:UNKNOWN
+
+TO: Sally Katzen ( CN=Sally Katzen/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: John Podesta ( CN=John Podesta/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+cc: Adrienne C. Erbach ( CN=Adrienne C. Erbach/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+CC: Carolyn T. Wu ( CN=Carolyn T. Wu/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Leslie Bernstein ( CN=Leslie Bernstein/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+CC: Lisa M. Kountoupes ( CN=Lisa M. Kountoupes/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+CC: Mark J. Tavlarides ( CN=Mark J. Tavlarides/OU=NSC/O=EOP@EOP [ NSC 1 )
+READ: UNKNOWN
+
+CC: Victoria A. Wachino ( CN=Victoria A. Wachino/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ:UNKNOWN
+
+CC: Peter A. weissman ( CN=Peter A. Weissman/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+'CC: Judy Jablow ( CN=Judy Jablow/OU=CEQ/O=EOP@EOP [ CEQ 1 )
+ READ: UNKNOWN
+
+CC: Elizabeth Gore ( CN=Elizabeth Gore/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+CC: Shannon Mason ( CN=Shannon Mason/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+cc: Melissa G. Green ( CN=Melissa G. Green/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+CC: Sara M. Latham ( CN=Sara M. Latharn/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: James J. Jukes ( CN=Jarnes J. Jukes/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+CC: Sandra Yamin ( CN=Sandra Yamin/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+CC: William G. Dauster ( CN=William G. Dauster/OU=OPD/O=EOP@EOP [ OPD 1 )
+READ:UNKNOWN
+
+CC: Dawn L. Smalls ( CN=Dawn L. Smalls/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ:UNKNOWN
+
+CC: Linda Ricci ( CN=Linda Ricci/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ:UNKNOWN
+
+CC: Rebecca L. Walldorff   ( CN=Rebecca L. Walldorff/OU=WHO/O=EOP@EOP [ WHO 1 )
+
+
+READ: UNKNOWN
+
+CC: Robert L. Nabors ( CN=Robert L.' Nabors/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+CC: Paul J. weinstein Jr.   ( CN=Paul J. weinstein Jr./OU=OPD/O=EOP@EOP [ OPD 1 )
+READ: UNKNOWN
+
+CC: Lisa Zweig ( CN=Lisa Zweig/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ: UNKNOWN
+
+CC: Charles Konigsberg ( CN=Charles Konigsberg/OU=OMB/O=EOP@EOP [ OMB 1 )
+READ:UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Mindy E. Myers ( CN=Mindy E. Myers/OU=WHO/O=EOP@EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Charles E. Kieffer ( CN=Charles E. Kieffer/OU=OMB/O=EOP@EOP [ OMB' 1 )
+READ: UNKNOWN
+
+TEXT:
+Attached for your sign-off is the final draft letter to the Senate
+Appropriations Committee on the FY2000 Energy and Water Approps Bill.
+Senate Full Committee action is scheduled for 9:30AM Thurs., May 27.
+please provide your sign-off no later than 8:30AM Thurs morning.   Given
+the short timeframe, we will be unable to take many editorial comments.
+Thank you.
+
+please note that we are doing a simultaneous clearance.   Jack Lew and
+Sylvia Mathews have not had the opportunity to review this letter.
+
+
+DRAFT NOT FOR RELEASE
+
+The Honorable Ted Stevens
+Chairman
+Committee on Appropriations
+united States Senate
+Washington, D.C.  20510
+
+Dear Mr. Chairman:
+
+        The purpose of this letter is to provide the Administration's
+views on the Energy and Water Development Appropriations Bill, FY 2000, as
+reported by the Senate Subcommittee. As the Full Committee develops its
+version of the bill, your consideration of the Administration's views
+would be appreciated.
+
+        The allocation of discretionary resources available to the
+Committee under the Congressional Budget Resolution is simply inadequate
+to make the necessary investments that our citizens need and expect.  The
+PresidentD,s FY 2000 Budget proposes levels of discretionary spending that
+meet such needs while conforming to the Bipartisan Budget Agreement by
+making savings proposals in mandatory and other programs available to help
+finance this spending.  Congress has approved and the President has signed
+into law nearly $29 billion of such offsets in appropriations legislation
+since 1995. The Administration urges the Congress to consider such
+
+
+proposals.
+
+        The Administration appreciates efforts by the Subcommittee to
+accommodate certain of the President's priorities within the 302(b)
+allocation. However, the Subcommittee bill is nearly $300 million below
+the program level requested by the President and includes significant
+reductions in a number of high priority programs detailed below. We look
+forward to working with the Committee to make certain that vital funding
+is provided for these programs.
+
+Department of Energy
+
+         The Administration is concerned with the large shift in the
+Subcommittee bill from key domestic priorities of the Department of Energy
+ (DOE) to fund Atomic Energy Defense Activities.  The bill provides $319
+million less than the President's request for DOE's domestic programs ($85
+million less than FY 1999) and adds $261 million to the President's
+request for defense activities ($567 million more ~han FY 1999, excluding
+a one-time emergency supplemental appropriation). The bill would
+drastically reduce vital programs in energy research and other activities
+to fund unrequested enhancements to nuclear weapons and other defense
+activities.   Specific cuts include:
+
+
+
+00      abSolar and Renewable Energy. The Administration strongly
+opposes the $97 million reduction from the President's request level for
+research and development (R&D) in solar and renewable resources
+technologies. Our global future depends in many ways on the early
+introduction of renewable energy technologies to reduce the potential
+impacts of pollution and climate change and make available affordable
+energy sources. Yet, the Subcommittee mark would cripple the
+Administration's efforts to expand and capitalize on R&D success in the
+solar and renewable energy programs.
+
+00      abEnvironmental Management. The Administration opposes the $40
+million reduction to the Uranium Enrichment Decontamination and
+Decommissioning Fund and the $16 million reduction in the Non-Defense
+Environmental Management account.  At the Subcommittee-recommended funding
+levels, the Oak Ridge Reservation would be unable to meet legal
+requirements in environmental laws and enforceable agreements, and
+completion of cleanup activities at sites such as Weldon Spring, Missouri,
+would be significantly delayed.
+
+00      abYucca Mountain. The Administration opposes the reduction of
+$39 million from the request for the civilian radioactive waste program.
+This reduction would significantly reduce the quality of scientific,
+engineering, and design work that will be available to guide DOE's FY 2001
+site suitability determination for Yucca Mountain and would jeopardize
+DOE's ability to meet its FY 2002 license application milestone.
+
+00      abScience.  The Administration opposes the $27 million reduction
+to the request for construction of the Spallation Neutron Source (SNS).
+We continue to believe that the FY 2000 request represents the optimum
+funding level. As the funding level decreases, the risk of project cost
+increases and delays rise.  Construction of the SNS must be completed in a
+timely manner to enable our best scientists to explore critical problems
+in fundamental science and applications for our materials and
+biotechnology industries.
+
+
+Further, the Administration opposes the lack of funding in the bill for
+the Information Technology Initiative for the 21st Century and for the
+Next Generation Internet Initiative.  Both of these initiatives would
+propel revolutionary breakthroughs in information technology and
+scientific computing in the United States.
+
+The Administration is also disappointed that the Subcommittee has not
+accepted the Administration's proposal to revise the financing of the
+Power Marketing Administration's Purchase Power and Wheeling programs.
+The Administration would like to continue to work with the Committee to
+restructure the funding mechanism for these programs.
+
+        C       Departmental Administration.  The Administration opposes
+the reductions in Departmental Administration programs proposed in the
+Subcommittee bill.  The proposed reductions would impair implementation of
+Secretarial management initiatives now underway to restructure field
+management, reorganize security functions, enforce reductions in
+contractor travel and other overhead costs, and improve construction
+management.
+
+Army Corps of Engineers
+
+        The Administration is concerned that the $183 million reduction to
+the President's request for the Army Corps of Engineers would result in
+significant delays for certain critical construction projects.  Of
+particular concern are reductions to the Columbia River Fish Mitigation
+project, from $100 million to $70 million; the Everglades (FL) project,
+from $110 million to $93 million; and, the Kill Van Kull and Newark Bay
+Channel (NY, NJ) project, from $60 million to $40 million.
+
+Bureau of Reclamation
+
+        The Subcommittee proposal to reduce the Bureau of Reclamation
+budget by $100 million, or 12 percent, would significantly affect the
+BureauO,s ability to continue to operate its water supply projects
+throughout the West in compliance with relevant Federal regulations.  The
+Administration urges the Committee to restore these funds.
+
+        We also urge the Committee to fully fund the $95 million request
+for the CALF ED Bay-Delta program. The Subcommittee's $50 million
+reduction and accompanying funding restrictions would delay Federal and
+State efforts to restore this important ecosystem.
+
+        In addition we urge the Committee to enact the Administration's
+proposal to convert the Central Valley Project Restoration Fund from a
+current discretionary to a permanent account.  This will allow the Bureau
+of Reclamation to operate the program efficiently and ensure that all the
+authorized collections from project beneficiaries are used to mitigate
+project impacts, as intended by the Central Valley Project Improvement
+Act.
+
+        We look forward to working with the Committee to address our
+mutual concerns.
+
+                                                Sincerely,
+
+
+
+
+                                                Jacob J. Lew
+
+
+                                                Director
+
+Identical Letter Sent to The Honorable Ted Stevens,
+The Honorable Robert C. Byrd, The Honorable Pete V. Domenici,
+and The Honorable Harry M. Reid
+
+

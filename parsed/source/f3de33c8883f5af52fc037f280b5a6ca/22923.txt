@@ -1,0 +1,229 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Jose Cerda III ( CN=Jose Cerda III/OU=OPD/O=EOP [ OPD 1 )
+
+CREATION DATE/TIME:25-FEB-1999 21:12:51.00
+
+SUBJECT:   Note for morning meeting
+
+TO: Mary L. Smith ( CN=Mary L. Smith/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Leanne A. Shimabukuro ( CN=Leanne A. Shimabukuro/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Thomas L. Freedman ( CN=Thomas L. Freedman/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TEXT:
+BR/EK:
+
+Don't know if these items merit a mention or heads up for tomorrow's
+meeting, but I thought I'd mention them anyw~y.
+
+(1) Crime Budget Hearing.  Ann Harkins called tonight to say that Senator
+Hatch is pushing very hard for a DOJ budget oversight hearing the week of
+3/22. This means that Bruce's suggestion for a month-long build-up of
+crime events/leaks must be a priority for March. We should think about
+raising this at Senior Staff as soon as possible.
+
+ (2) Cyber-stalking. In addition to the previously discussed announcements
+for tomorrow's VAWA event, the VP will be directing DOJ to study
+cyber-stalking and report back with some recommendations.   Folks asked me
+late tonight for my "sign off" on this proposal.   I expressed that I was
+fine withem doing it and didn't want to hold up their event, but that I
+would not personally recommend getting out in front of this issue -- and
+committing to a policy fix in the near-term -- without a clear sense of
+what the recommendations would be.   So, although I chose not to veto this
+proposal, I wouldn't give it my seal of policy approval either. Mary and
+I had both recommended to the VP's folks that they focus tomorrow's event
+on VAWA II, not cyber-stalking, and helped them clear the Administration's
+position in support of Biden's bill.   I only raise this because I know
+you've had some exchanges w/Pat on DPC clearance, and because her staff
+asked that I send you two an e-mail saying I was okay with the proposal.
+Well, take this is as my last-minute, qualified okay to their proposed
+study.
+EMAILS RECEIVED
+ARMS - BOX 090 - FOLDER -006
+
+
+[02/26/1999]
+
+
+      RECORD TYPE; PRESIDENTIAL   (NOTES MAIL)
+
+      CREATOR: Mary L. Smith ( CN=Mary L. Smith/OU=OPD/O=EOP [ OPD ] )
+
+      CREATION DATE/TIME:26-FEB-1999 09:31:09.00
+
+      SUBJECT:   Corrected statistic on numbers of injuries per year prevented by child saf
+
+      TO: Elena Kagan ( CN=E1ena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+      READ:UNKNOWN
+
+      CC: Thomas L. Freedman ( CN=Thomas L. Freedman/OU=OPD/O=EOP @ EOP [ OPD ] )
+      READ: UNKNOWN
+
+      CC: June Shih ( CN=June Shih/OU=WHO/O=EOP @ EOP [ WHO]   )
+      READ:UNKNOWN
+
+      CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO]    )
+      READ: UNKNOWN
+
+      TEXT:
+      Transportation called this morning to correct the number of injuries
+      prevented each year by this new child safety seat rule from 20,000 to
+      3,000. The following are the changes to the announcement and the Q&A:
+
+      In his radio address today, President Clinton will announce a major step
+      to protect our children -- a new rule requiring a single standardized
+      system for installing child safety seats in cars and light ,trucks. Under
+      the rule, all new child seats will have three standard attachments -- one
+      on top and two at the base -- and all new cars and light trucks will have
+      standard anchors in the back seat designed to link to these child seat
+      attachments. The rule is expected to prevent as many as 50 deaths and
+      3,000 injuries of children each year.
+
+      Q:      How many lives will this rule save?   How many injuries will this
+      rule prevent?
+
+      A:      Annually, motor vehicle crashes result in 600 child fatalities
+      and 70,000 injuries for children less than five years old.  Even though
+      child safety seats are very effective in reducing death and injury, their
+      effectiveness is substantially reduced due to incorrect use and occasional
+      incompatibility with the vehicle seat and belt systems. This rule is
+      expected to prevent as many as 50 child deaths and 3,000 injuries each
+      year.  ==================== ATTACHMENT   I ====================
+      ATT CREATION TIME/DATE:   0 00:00:00.00
+
+      TEXT:
+      Unable to convert ARMS_EXT: [ATTACH.D33]MAIL48100816E.036 to ASCII,
+       The following is a HEX DUMP:
+
+      FF5750430A040000010A02010000000205000000A4160000000200007EOOEA6C095D78A573DA8D
+      IA1262A5F51142134EB3C3B394530716CD273B72B567922485EOE7EDE33F03C025D9F57DOEC022
+      24B89667D763F9830A80062B4EC46DEOB23558E63D224D0881860F92ED59072C1CCA60BFBC0099
+      D86235688BC31E16554B1850CFE5136327CB2482F600B951127E0645281B696CD467E4B4F8B9E7
+                                           Hex-Dump Conversion
+
+                     PRESIDENT CLINTON ANNOUNCES NEW RULE
+                   TO IMPROVE SAFETY OF CHILDREN IN VEHICLES
+                                  February 27, 1998
+
+In his radio address today, President Clinton will announce a major step to protect our children --
+a new rule requiring a single standardized system for installing child safety seats in cars and light
+trucks. Under the rule, all new child seats will have three standard attachments -- one on top and
+two at the base -- and all new cars and light trucks will have standard anchors in the back seat
+designed to link to these child seat attachments. The rule is expected to prevent as many as 50
+deaths and 3,000 injuries of children each year.
+
+Current System Puts Children at Risk
+Child safety seats are the most effective safety device to protect very young children traveling in
+automobiles. When properly installed, they reduce the risk of death or serious injury to infants
+by 70 percent, and they cut the fatality and injury rate for children aged 1 to 4 in half. But
+according to the National Highway Traffic Safety Administration (NHTSA), child safety seats
+are not properly installed over 70 percent of the time, SUbjecting children to needless risk of
+death or injury. With over 100 models of child seats and 900 models of passenger cars now on
+the road, some car seats simply do not fit safely in some vehicles. And even when child safety
+seats can fit properly in a vehicle, installation methods are often time-consuming and difficult,
+and the wide variety of these methods confuses many parents.
+
+New Standardized System Will Save Lives
+The new rule will require all new child safety seats to have three standard attachments, one on
+top and two at the base. The rule also will require all new vehicles to have two sets of standard
+anchors installed in the back seat that will link to the child seat attachments. The anchors in the
+vehicle will be clearly visible and easily accessible, and parents will be able to attach child seats
+safely to the anchors in a matter of moments. The rule will be phased in over a period of three
+years; in the interim, new child seats will remain installable with seat belts, to ensure
+compatibility with older vehicles. According to NHTSA estimates, this new standardized
+system for installing child safety seats, when fully phased in, will save as many as 50 children
+from death and 20,000 children from injury every year.
+
+New Rule Builds on Prior Efforts to Promote Safety on the Road
+This new rule is the latest in a series of actions by President Clinton to promote safety on the
+road. In May 1995, the Administration launched a comprehensive plan to preserve the benefits
+of air bags while eliminating their risks. In June 1995, the President called on Congress to pass
+legislation requiring all states to pass zero-tolerance laws for youth who drink and drive; a few
+months later, Congress passed that legislation, the President signed it, and today all states have
+zero tolerance laws. And in November 1998, the Administration announced a Blue Ribbon
+Passenger Safety Panel that will recommend strategies to increase the use of booster seats for
+children 4 to 8 years and the use of seat belts for children 8 to 16 years.
+                                          Hex-Oump Conversion
+                                    Child Restraint Q&As
+                                           2/24/99
+
+Q:   What did the President announce today?
+
+A:   The President announced a final rule to require a new universal method of installing child
+     safety seats in cars and light trucks. Currently, parents use the vehicle seat belts to install
+     child seats, with different models of seats requiring different methods for installation.
+     The variety of methods confuse many parents, and using seat belts to attach seats is often
+     difficult and time-consuming. In the future, each new child seat will have three standard
+     attachments (one at the top and two at the base). New cars and light trucks will be
+     equipped with standard anchors in the back seat designed to link to these child seat
+     attachments. The seats can be attached to the anchors in moments, ensuring that children
+     are fully protected when they ride in vehicles.
+
+Q:   How many lives will this rule save? How many injuries will this rule prevent?
+
+A:   Annually, motor vehicle crashes result in 600 child fatalities and 70,000 injuries for
+     children less than five years old. Even though child safety seats are very effective in
+     reducing death and injury, their effectiveness is substantially reduced due to incorrect use
+     and occasional incompatibility with the vehicle seat and belt systems. This rule is
+     expected to prevent as many as 50 child deaths and 3,000 injuries each year.
+
+Q:   When will this rule take effect for cars and light trucks? For child seats?
+
+A:   For vehicles, eighty percent of new cars will be equipped with the top tether attachment
+     points starting September 1, 1999, and all new vehicles (cars and light trucks) will be
+     equipped with the top tether attachment points by September 1,2000. The lower
+     anchorages are phased in over 3 years, covering 20% of vehicles beginning September 1,
+     2000,50% of vehicles by September 1,2001, and all vehicles after September 1, 2002.
+
+     For the child seats all new child seats will be equipped with an upper tether by September
+     1, 1999, and all new child seats will be equipped with the two lower attachments by
+     September 1,2002. New child seats will also remain install able with regular vehicle seat
+     belts to ensure compatibility with older vehicles and aircraft.
+
+
+Q.   How effective are child safety seats?
+
+A.   According to the National Highway Traffic Safety Administration (NHTSA), when
+     properly used, child safety seats reduce the risk of fatality for infants by 70% and for
+     toddlers by over half.
+
+
+
+                                                1
+     vehicle prices increase?             AI*Inated Records Management Systef11
+                                                    Hex.()urnp Conversion
+A:   According to NHTSA, the additional amount that consumers will have to spend on a new
+     child seat will be as low as $15. Typically, child safety seats range in price from $50 to
+     $100. The additional cost for a vehicle as a result of this rule is estimated at between $3
+     and $7.
+
+
+Q:   How does this differ from what the Administration proposed earlier?
+
+A:   The Notice of Proposed Rulemaking (NPRM), announced by the President on February
+     15, 1997, proposed that every vehicle and child safety seat be equipped with either
+     dedicated "mini-seat belts" for installing child safety seats, or two fixed rigid one-inch
+     bars in the vehicle's back seat to which a child seat would attach. The final rule requires
+     the latter approach. People commenting on the NPRM overwhelmingly favored having
+     the government deciding on a single, universal attachment system.
+
+
+
+
+                                              2
+
+

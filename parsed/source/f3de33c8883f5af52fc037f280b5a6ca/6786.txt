@@ -1,0 +1,137 @@
+ RECORD TYPE: PRESIDENTIAL        (NOTES MAIL)
+
+ CREATOR: Andrea Kane ( CN=Andrea Kane/OU=OPD/O=EOP [ OPD ]          )
+
+ CREATION DATE/TIME:23-MAR-1998 13:51:19.00
+
+ SUBJECT:     WR Q&As
+
+ TO: Elena Kagan         CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ]       )
+ READ:UNKNOWN
+
+ TEXT:
+ See if this sounds OK--still waiting to hear back from Kharfen, but I
+ think he could live with this treatment of the data.==================== ATTACHMENT
+ ATT CREATION TIME/DATE:   0 00:00:00.00
+
+ TEXT:
+ Unable to convert ARMS EXT: [ATTACH.D30]MAIL43019518T.026 to ASCII,
+  The following is a HEX DUMP:
+
+ FF575043BA040000010A02010000000205000000ED1D000000020000DA748477E52DF1599FDB8D
+ 96AD5CCOE326DA847717B193C716146FI107AC24C959FCC16D864E9B1EF359F5D217433FF22F4A
+ 8DCEB88D7BAF1B2F9BD22CCC4878674A278D7D81586FB87F94C90D59EA694A6E8EAFA72B1E49AE
+ E99C7C160EFOAA9F77E29337CB54B2D8F1FOA65CB2EC3C3E9E858CF190FB4354F68F70A24EE745
+ 7282527242D42B4B4EAD64157AFE2B46F3B6D1B4FCA272A3584E5DCB42EFDA2C73DDED67B909A3
+ 89116B29BBFCC08559E4499E2C6619A1CE233E5732BB5E5F7EB9C4695E17446A29AB1B44C76CEA
+ 63208D781FAA9BA71132E85C9467A24008801E308E2A134F74844E3968BB3AEE675DDBDOOC05A7
+ 64481DB5BA71376149BC71F9E6048E6AFB809907FE556140A7BA57FB51A69CDOD563B1E8BC3D4F
+ CA862AC9AB7BAEF8BAD09CBA39B24E3F5DCC96B70E3A62E406C434759222ECE03ABC398034DE5D
+ D2D50F280D424CFFD7CA8B03496C304B68F52414486881B50B1591254AD7BD288AB060496BEEAA
+ 7E5A84AA2CF378C1670848DFF5FDB5D870504A5841F1DFD891C327E87EEAA2CC5817815AED8A7E
+ 380F8A38BA3C65AB018A5FC3A2E789664729EDFE8581B1C62D11A8FCOE066F4636F5DE3DC1E489
+ CFA07DDDCCC99DB6E288B2B91B12F7FE05CAEEBFC26394D6D3DF57FF6421CF905F5D8B65005594
+ 7F9B3B787902000A00000000000000000000000823010000000B0100008C020000005503000000
+ 4EOQ00009703000009250100000006000000E50300000B300200000028000000EB030000087701
+ 00000040000000130400000055020000003C00000053040000083401000000140000008F040000
+ 0802010000000FOOOOOOA304000008050100000008000000B204000000984C0061007300650072
+ 004A006500740020003400200070006C007500730020002800440065006600610075006C007400
+ 290000000000000000000000000000000000000000000000000057494E53504F4F4COOOOOOOOOO
+ C800C8002C012C012C012COIC800C8003000000000000000000000000000000000000000000000
+ 000000000000000000000000000000000000000000000000000000000000000000000000000000
+ 000000000000000000000000000000000000000000000000000000000000000000000000000000
+ 000000000000000000000000000000000000000000000000000000000000000000000000000000
+ 0000000000000000000000000000000000000B0100002800D61EC3OF3908000011090000005AOO
+ OB01008B143600540069006D006500730020004E0065007700200052006F006D0061006E002000
+ 52006500670075006C006100720000000000000000000100020058020100000004002800000000
+ 000000000000000000000000000000011202002400A1000000A10000000AOOOOOOOC0305000BOO
+ OD03020055000E03010045000F0302000200100301004500110302000200120301004500130302
+ 0002001403010045001503010002001BOOF41A5C121A0900000000000000600018110000102400
+ 540069006D006500730020004E0065007700000052006F006D0061006EOOOOOOOOOOOOOOE5A656
+ 240000000000000000000000000000000008337C00780000020000150300000301000400020000
+ 00DDOA10008301040003000200211000DDDDOBOB00030000040BOODDF1024802F19BF1034802F1
+ D1000E000002004803B0040EOOD1D1010E000002004803B0040EOOD1F20CF2D3050C0007010002
+ 000COOD357656C66617265805265666F726D805175657374696F6E7380616E6480416E73776572
+ 73D0041500000B0009000148030000000001201500D04D617263688032332C8031393938F30CF3
+ F1004802F19BF1014802F1F1024802FIF1034802F1D0041500000B000900013804F00001000120
+ 1500DOD30510000601000002450000001000D3F1004802F19CF1014802F1CCF1004802F19BF101
+ 4802F1F1024802F1F1034802F1CCF20CF25175657374696F6E3AE0300C0000000060090COOE054
+ 68658041646D696E697374726174696F6E80686173809CF102AC02F1706F696E74656480746F80
+ F103AC02F1F100AD02F1746F757465649B80F101AD02F17468659B806465636C696E6580696E80
+                                   March 23, 1998                               Hex-Dump Conversion
+
+
+Question:   The Administration has pointed to the decline in welfare caseloads as a sign
+            that welfare reform is working, yet a story in today's Washington Post says
+            one of the main reasons people are leaving the rolls is that they are being
+            sanctioned. Do you consider this a success?
+
+Answer:     The rise in sanctions is a significant trend and one that deserves close attention.
+            While national infolmation is still very preliminary, we are aware of evidence in
+            specific states about the increased use of sanctions. One of the principles of the
+            welfare reform law enacted in August 1996 is personal responsibility.
+            Establishing fair, firm and credible consequences if people fail to follow the rules
+            is an important part of the new approach. Certainly we would prefer that people
+            leave the rolls to go to work, but in some cases, sanctioning may be a step along
+            the way.
+
+            It is also important to look at what happens to people who are sanctioned.
+            Sanctioning is a complex issue with significant variation among state policies.
+            Some states cut off the entire welfare grant whereas others only reduce the adult
+            portion of the grant. Some states reduce or eliminate the entire grant immediately
+            whereas others have a series of progressively tougher steps geared to encourage
+            people to come into compliance. Different individuals react differently to
+            sanctions. Data from several state studies finds that after being sanctioned, about
+            half the people are working and approximately 40 percent have an increase in
+            their income. Several states also found that one-quarter to one-third of those
+            sanctioned returned to the rolls, presumably after complying with the
+            requirements.
+
+            Information compiled by HHS for the period October 1996 through June 1997
+            shows that, nationwide, 38% of cases were reported by states as closed for failure
+            to comply with procedural requirements. The percentage varies widely among
+            states. This is based on old AFDC reporting systems--it does not yet reflect state
+            reporting under the new T ANF data collection system, which is still being
+            compiled by HHS. It is worth noting that while we do hear anecdotally and on a
+            state specific basis that the rate of sanctioning has increased, this particular
+            statistic does not depart much from the past. According to HHS, the comparable
+            figures in 1993 and 1995 were 32% and 33% respectively.
+
+
+Question:   The Post article cited a women in Tennessee who was sanctioned even though
+            she had back problems. What is federal policy for people with such health
+            problems?
+
+            It is difficult to respond to the circumstances of a particular individual without
+            knowing all the facts. Federal law requires states to sanction individuals who fail
+            to comply with certain welfare reform requirements, but also gives states
+                considerable flexibility in how they administer such sanctions. According to a
+                recent survey by the American Public Welfare Association, most states waive
+                sanctions when a person has good cause for not complying, with disability,
+                incapacity or illness the most frequently cited reason for good cause (by 31 states).
+                 In addition, the federal SSI program is designed to assist low income individuals
+                with disabilities that prevent them from working.
+
+
+    Question:   Today's New York Times cites evidence in New York that only one-third of
+                those leaving the rolls are actually working. Are you disappointed by these
+                results?
+
+    Answer:     This initial information from New York appears to differ somewhat from
+                several other states who have done follow up studies. A number of other'
+                states have found that between 50% and 60% of those leaving the rolls were
+                working. We believe it is very important to increase the number of people
+                leaving welfare for work. That is why HHS recently released formal guidance
+                on the High Performance Bonus that will award $200 million a year to the states
+                who have the most success in placing people in jobs and ensuring that welfare
+                recipients succeed injobs once they get them, by remaining employed and seeing
+                their earnings climb over time.
+
+                [NOTE: New York state staff say they have not completed a surveyor a
+                study and that the data referenced in the NY Times article is preliminary and
+                incomplete.]
+
+
+                                                                          Automated Records Manage~ent Sys\~m
+                                                                                  Hex-Dump Conversion
+.,

@@ -1,0 +1,87 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Leanne A. Shimabukuro ( CN=Leanne A. Shimabukuro/OU=OPD/O=EOP [ OPD 1 )
+
+CREATION DATE/TIME: 3-MAR-1998 19:22:14.00
+
+SUBJECT:   crime meeting agenda
+
+TO: Thomas L. Freedman ( CN=Thomas L. Freedman/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Christa Robinson ( CN=Christa Robinson/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Mary L. Smith ( CN=Mary L. Smith/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Laura Emmett ( CN=Laura Ernmett/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Michelle Crisci ( CN=Michelle Crisci/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Jose Cerda III ( CN=Jose Cerda III/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ:UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D201MAIL417828167.026 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043B0040000010A02010000000205000000EE10000000020000FA3057472AF84EB1703469
+                                                                                Hex-Dump Conversion
+
+                                     Crime Meeting Agenda
+                                         March 4, 1998
+
+    Pending Events
+
+          *      Crime Speech to National Association of Attorneys General
+                       - Overview of crime policy
+                       - NIJ gang report not appropriate; only rescarch preview
+
+          *      3/14 Tentative Assault Weapons Radio Address
+                        - Release date for report
+                        - Meeting tomorrow on legal questions
+
+    Legislative Update
+
+          *      Juvenile Crime
+                        - Current status
+
+          *      Drugs
+                         - Crack cocaine: draft Lott/Hatch!Abraham letter
+                         - Drug Strategy hearing in Senate Judiciary
+
+          *      Prison Drug Testing/Treatment Legislation
+                        - March 23 to 25 conference; possible announcements
+
+          *      Justice Authorization Bill
+                         - Relevant crime issues
+
+    Other Potential Events
+
+          *      School violence indicators released end of March
+
+    Miscellaneous/ Pending Items
+
+          *      Cocaine/Heroin report (3/5)
+
+          *      Juvenile Confinement and Violence (3/6)
+
+          *      Any other pending events/releases--DOJ Reports
+
+          *      DOL/OSHA Report on Workplace Violence
+
+          *      Drug testing/drivers licenses pilots
+
+          *      COPS Meeting scheduled for tomorrow
+
+

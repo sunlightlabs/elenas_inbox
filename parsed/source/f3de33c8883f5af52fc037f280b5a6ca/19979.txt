@@ -1,0 +1,88 @@
+ RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+ CREATOR: Leanne A. Shimabukuro ( CN=Leanne A. Shimabukuro/OU=OPD/O=EOP [ OPD ) )
+
+ CREATION DATE/TIME:19-MAY-1998 18:44:02.00
+
+ SUBJECT:   tomorrow's crime meeting agenda
+
+ TO: Christa Robinson ( CN=Christa Robinson/OU=OPD/O=EOP @ EOP [ OPD ) )
+ READ:UNKNOWN
+
+ TO: Mary L. Smith ( CN=Mary L. Smith/OU=OPD/O=EOP @ EOP [ OPD ) )
+ READ: UNKNOWN
+
+ TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ) )
+ READ: UNKNOWN
+
+ TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ) )
+ READ:UNKNOWN
+
+ TO: Thomas L. Freedman ( CN=Thomas L. Freedman/OU=OPD/O=EOP @ EOP [ OPD ) )
+ READ: UNKNOWN
+
+ TO: Karen A. Popp ( CN=Karen A. Popp/OU=WHO/O=EOP @ EOP [ WHO ) )
+ READ:UNKNOWN
+
+ TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO ) )
+ READ: UNKNOWN
+
+ TO: Michelle Crisci ( CN=Michelle Crisci/OU=WHO/O=EOP @ EOP [ WHO ) )
+ READ:UNKNOWN
+
+ CC: Jose Cerda III ( CN=Jose Cerda III/OU=OPD/O=EOP @ EOP [ OPD ) )
+ READ: UNKNOWN
+
+ TEXT:
+ ==================== ATTACHMENT   1 ====================
+ ATT CREATION TIME/DATE:   0 00:00:00.00
+
+ TEXT:
+ Unable to convert ARMS_EXT: [ATTACH.D26)MAIL49466783F.126 to ASCII,
+  The following is a HEX DUMP:
+
+ FF575043B0040000010A020100000002050000007COD0000000200005365DOD662C893E0407793
+ 16849ADE5136BDD29D02FDDC921BCEF716DE1684C108FE42DBF631EF2F83F84686D15F1A4D6764
+                                                                          Automated Records Management Systen
+                                                                                  Hex-Dump Conversion
+                                    Crime Meeting Agenda
+                                        May 20, 1998
+
+    Specific Follow Up
+
+          *      COPS Event -- May 29th
+
+          *      Meth announcement
+                 - DUF data
+                 - COPS grants
+
+          *      Curios report
+
+          *      Police group outreach .
+
+          *      Durbin CAP (Child Access) bill
+
+
+    Legislative Update
+
+          *      Republican drug strategy update
+                 - Drug-Free Borders
+
+          *      Assaults
+
+
+    Other Potential Events
+
+          *      Signing ceremony for police bills
+
+          *       Drug courts speech June 4th -- possible release of CASA Report, drug court
+                . grants
+
+
+    Miscellaneous/ Pending Items
+
+          *      Gang ordinance brief
+
+          *      Any other pending events/releases -- DO] Reports
+
+

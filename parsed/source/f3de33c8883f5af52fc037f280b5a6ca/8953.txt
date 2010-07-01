@@ -1,0 +1,60 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Mary L. Smith ( CN=Mary L. Smith/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME: 6-AUG-1998 18:21:24.00
+
+SUBJECT:   Draft weekly on sexual orientation exec order
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ:UNKNOWN
+
+TO: Thomas L. Freedman ( CN=Thomas L. Freedman/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ:UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ:UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO]    )
+READ:UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D44]MAIL44144622M.226 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043C8040000010A020100000002050000006E090000000200008C6F2E1E3B339B85D063DB
+D355FDFOA750E03B8D91B3C7760458EBAEB24105B19CFC64D35D701D1A64FEC1EA237D78C50412
+7A2CE9A2294233079F284A7710A8962EC3BA8223DIF212C9490D9E9B27A7027B98B6968B472FFF
+D65D55BD4F12EB714A56AB5DOF1679604963A3333936A142FD32B36A27AEFFCD631C6BF5885CE5
+B957851037E80B2E2EC36CBDC865A730CF400E38C1AEF9D50DE31C9049255839008268E4A9CD18
+861899872A865CE7665396D6EB460DB7706DBCB704D825854CEDCCD84FF674C4554ABOEDF1B7EF
+09C38BAA4E00204A9DD2CF1F01946C3D346AB557598160B2BF3829AOF98512463727F9391C99B4
+896A1B0972F43B01DEC7386BD34457981DE8972A4174B27AODCE9CBA7C9EDB5081ECB487B71978
+2E49A7686BOB7E4BDC2F803FBA14ACE5964583279378A1F4B61BFOOC5671065304B3352DC1D816
+D432DF33F819E4BE91D2D330E20F9830B8EF7B58DF55E88174FCCBFEEBD5EDB4720F13F03F4C95
+
+
+
+     SEXUAL ORIENTATION EXECUTIVE ORDER UPHELD
+
+     The House blocked a measure, sponsored by Rep. Hefley, that would have prohibited funding to
+     implement your May 28 executive order which prohibits discrimination based on sexual
+     orientation in the federal civilian workforce. By a vote of 252 to 176, the House rejected
+     arguments that this executive order would lead to affinnative action for gays and lesbians.
+     Sixty-three Republicans joined 188 Democrats and the one independent in voting against the
+     measure. The DPC, along with Counsel's Office and OPL, worked closely to ensure that House
+     members had information to rebut arguments about special preferences. A recent Wall Street
+     JoumallNBC News Poll showed that 72 percent supported the order against anti gay bias in
+     federal agencies, while only 20 percent opposed it.
+
+
+
+
+                                                                      Automated Records Management System
+                                                                              Hex-Dump Conversion
+
+

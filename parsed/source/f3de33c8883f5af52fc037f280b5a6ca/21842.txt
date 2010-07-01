@@ -1,0 +1,61 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Jennifer L. Klein ( CN=Jennifer L. Klein/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME: 2-DEC-1998 16:27:59.00
+
+SUBJECT:
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ:UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+TEXT:
+Oops.   Forgot to attach the statement in my last email.
+
+
+ ==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D81]MAIL468524735.326 to ASCII,
+ The following is a HEX DUMP:
+
+FF5750435A040000010A02010000000205000000ACOB000000020000DFOBF02E1C7D3D2621AC4A
+FE9AF936FBBB491C55B179B4815B9EDAF9AOAD2EE02512DFCC047AOAOEF6B5D16474968F483E51
+                        Commission Report on Phthalates in Toys
+                                     December 2, 1998
+
+
+       I congratulate Chairman Ann Brown and the Consumer Product Safety Commission on
+the release of a comprehensive and thoughtful report examining the potential exposure and health
+risks to children from teethers, pacifiers, rattles and toys containing chemicals called phthalates
+that are used to soften plastic. The report makes clear that the best scientific evidence shows
+that children are not at risk of harmful exposure to these chemicals. It also provides
+information to consumers about the safety of products that may contain phthalates, and outlines
+the Commission's plans for further study. I also commend the many manufacturers and retailers
+who are taking the additional, precautionary step of discontinuing the sale of products designed
+for children to put in their mouths that contain the phthalate DINP. This should allay any
+remaining fears that families have about these products.
+
+       The CPSC report and supporting measures by manufacturers and retailers will go a long
+way toward calming concerns about the safety of products used everyday by our nation's
+youngest children. This report also commits the Consumer Product Safety Commission to
+pursue additional rigorous work in this area. The Administration will support both the
+Commission's continued efforts to investigate any risks to children from phthalates, as well as
+government and private efforts both here and abroa~ to take appropriate precautionary measures.
+
+                                              ###
+
+
+
+
+                                           Automated Records Management System
+                                           Hex-Dump Conversion
+
+

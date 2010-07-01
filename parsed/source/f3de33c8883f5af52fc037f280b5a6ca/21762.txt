@@ -1,0 +1,73 @@
+RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+CREATOR: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP [ WHO ] )
+
+CREATION DATE/TIME:20-NOV-1998 15:42:27.00
+
+SUBJECT:   bullet
+
+TO: Elena Kagan     CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D78]MAIL493117421.326 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504344050000010A020100000002050000000B24000000020000989C046F8F558CFF3BOB10
+FE9D55EBDDDF9FA64257C25907A8EB38C060A4357B9EDF0228E4883E2EDA70D23C5295A6F134B5
+46 states agreed to the proposed tobacco settlement by today's noon deadline. Several
+states apparently waivered until the end, under pressure from some health advocates.
+Drs. Koop and Kessler have come out strongly against the settlement, saying the public
+health would be better served if the states took their cases to trial. Other groups are being
+more pragmatic -- the American Cancer Society, for example, is now focusing its attention
+on working with each state to make the best use of these funds (the deal sets aside $1.45
+billion for counteradvertising and public education and $250 million for a research
+foundation, but states will chose how to spend most of the remaining funds).
+
+       Crime -- Final 1997 FBI Crime Statistics: On Sunday, the FBI will release the final
+1997 Uniform Crime Report (UCR), which will show crime down for the sixth year in a row.
+Overall crime fell 2 percent from the 1996 level, and is 7 percent lower than in 1993 -- with all
+regions of the country reporting declines in crime rates from 1996 levels.
+
+   (1) Violent Crime: Violent crime fell 3 percent, with all categories of violent crime
+   declining in volume and rate between 1996 and 1997. Murder: The murder rate in 1997 hit
+   the lowest point in 30 years. Between 1996 and 1997, the number of murders fell by an
+   additional 7 percent -- 26 percent fewer murders than in 1993. About 77 percent of murder
+   victims, and 90 percent of murder offenders were male. Whites were 48 percent of murder
+   victims and 45 percent of murder offenders. Blacks were 49 percent of murder victims and
+   53 percent of murder offenders. Nearly half (48 percent) of murder victims knew their
+   assailants; among female murder victims, 29 percent were killed by husbands or boyfriends.
+   Rape: There were over 96,000 forcible rapes reported in 1997, with a decline in rate of one
+   percent from 1996. Robbery: declined 7 percent as compared to 1996 levels. Street or
+   highway robberies accounted for half of the nearly 500,000 robberies nationwide. Forty
+   percent of all robberies were committed using firearms. Aggravated assaults: declined by 1
+   percent from the 1996 total.
+
+   (2) Property Crime. Property crime fell 2 percent between 1996 and 1997, with all
+   categories of property crime decreasing in both volume and rate. Burglaries and
+   larceny-theft declined by 2 percent each, motor vehicle theft declined by 3 percent, and arson
+   offenses declined 7 percent.
+
+   (3) Hate Crime. In 1997, a total of9,861 hate crimes were reported -- 5,898 were
+   motivated by racial bias; 1,483 by religious bias; 1,375 by sexual-orientation bias; 1,083 by
+   ethnic bias; 12 by disability bias; and 10 were multiple bias offenses. Crimes against
+   persons were 70 percent of the total number of hate crimes reported. Among crimes against
+   persons, 55 percent were intimidation, simple and aggravated assault were 26 percent and 18
+   percent, respectively, and murder and rape were less than 1 percent each.
+
+   (4) Juveniles. Juvenile arrests for violent crime declined for the third year in a row,
+   dropping an 4 percent in 1997. In addition, arrests for juvenile murders dropped 16 percent
+   between 1996 and 1997.
+
+
+
+                                                              rds Management System
+                                               Automae d Reco
+                                                     t
+                                               Hex-Dump Conversion
+
+

@@ -1,0 +1,70 @@
+ RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Cynthia Dailard ( CN=Cynthia Dailard/OU=OPD/O=EOP [ OPD ] )
+
+ CREATION DATE/TIME:30-MAR-1998 13:46:31.00
+
+ SUBJECT:   tobacco chart
+
+TO: Elena Kagan    CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO]     )
+READ: UNKNOWN
+
+CC: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TEXT:
+here is the chart you requested from us for Rahm.==================== ATTACHMENT    1
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D48]MAIL49822588J.026 to ASCII,
+ The following is a HEX DUMP:
+
+ FF5750433D090000010A02010000000205000000FF110000000200008B3DCC0376278E227B17A4
+                                                                                 Automated Records Management Systerr
+                                                                                         Hex-Dump Conversion
+
+                                            Comparison of Tobacco Proposals
+                                                    March 30, 1998
+
+                                      Attorneys General               McCain    President
+
+        Substantial Price             No                              Yes       Yes
+        Increase
+
+            Strong Industry and       No                              No        Yes
+            Company Penalties
+
+            Full FDA Authority        No                              Yes       Yes
+
+        Strong Advertising            Yes                             Yes       Yes
+        and Access
+        Provisions
+
+        Protections of                No                              Yes       Yes
+        Tobacco Farmers
+
+        Comprehensive                 Yes                             No*       Yes
+        Plan to Use Tobacco
+        Revenue to Protect
+        Public Health and
+        Assist Children
+
+        Strong                        Yes                             No        Yes
+        Environmental
+        Tobacco Smoke
+        Provision
+
+            Liability Protections     Yes                             Unknown   Only ifbill meets
+            for Industry                                                        President's public
+                                                                                health principles.
+
+        ·        Does not attempt to address most spending issues .
+
+

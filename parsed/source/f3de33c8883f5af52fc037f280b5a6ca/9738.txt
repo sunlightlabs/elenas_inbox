@@ -1,0 +1,227 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Barbara Chow ( CN=Barbara Chow/OU=OMB/O=EOP [ OMB ) )
+
+CREATION DATE/TIME: 13-0CT-1998 14:39:02.00
+
+SUBJECT:   Class size counter offer
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP@EOP [ OPD ) )
+READ:UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP@EOP [ OPD ) )
+READ:UNKNOWN
+
+CC: Sandra Yamin ( CN=Sandra Yamin/OU=OMB/O=EOP@EOP [ OMB ) )
+READ:UNKNOWN
+
+CC: Barry White ( CN=Barry White/OU=OMB/O=EOP@EOP [ OMB ) )
+READ:UNKNOWN
+
+CC: Wayne Upshaw ( CN=Wayne Upshaw/OU=OMB/O=EOP@EOP [ OMB ) )
+READ:UNKNOWN
+
+TEXT:
+Documents sent to Lew/Reed: REVISED counteroffer in the form of marked up
+Republican offer; a cover note with negotiating positions; language for
+fallbacks.
+
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D29)MAIL435603682.226 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504370040000010A02010000000205000000D410000000020000C1014836C3B2728B556C39
+63AOA7F7FED155B788AAODCBD62DOFFOA39D51AFCB7FDA701490355D0188ED110F722DD6BFAAB4
+5E99FD8F03E6BF9A13E8947D80E9BCD4CDFEFE8046A4BA7409B3BE38CFOFD544D156E47E61005A
+A75041B3AF21819E1452DCB28B91D4353A7859F2D55A61E66F8081C80515C5F852D501C8005E4D
+                                            Hex-Dump Conversion             October 13, 1998
+NOTE TO JACK LEW AND BRUCE REED
+FROM:     Barbara Chow and Mike Cohen
+SUBJECT:  Class Size Proposal
+
+Our proposal makes modifications to the Republican proposal that we recieved last night. We just
+learned that Obey's staff does not believe that we should be working in the framework of the
+Republican proposal, and believes instead that we should modify our own proposal to address some of
+their concerns. We will now start working on modifying our bill to address Republican concerns.
+
+Must-have items:
+
+       o a formula that is targeted, preferably using Title I (as was in the original Republican offer) but
+       see fall-back position below. The formula will be very sensitive; we should vet our Fallback
+       before offering it.
+
+       o the report card and accountability provisions
+
+       o the changes to the Purpose
+
+       o maintenance of effort
+
+Non-Starter Items that must be deleted because they drain resources from class size funding:
+
+       o local control provision, but see fall-back position below.
+
+       o in the 4th bullet under Uses of Funds, delete "costs associated with teaching children
+       identified with special needs"
+
+       o any use of funds for instructional materials
+
+Can Trade Away:
+
+       o in Special Priorities -- delete language we added on "teacher oflimited-English proficient
+       students, teachers in subjectare with a shortage of qualified teachers, and teachers in large class
+       sizes."
+
+Fall-Back Positions:
+
+      Funding formula -- If the Republicans reject using the Title I formula for State and within State
+      distribution, propose using the Title VI formula for distribution to States, and Title I for
+      sub-state distribution. This will focus funds within States on higher poverty areas. (Attached)
+
+      Local Control-- If you cannot delete "Local Control", then get it modified to base the
+      determination on achievement of an average class size of 18. (Attached)
+
+      Maintenance of Effort -- If our language is not acceptable, we will do a new MOE.
+                                                      Hex-Dump Conversion
+
+PROPOSED MODIFICATIONS TO THE GORTON/GOODLING DRAFT PROPOSAL
+FOR LOCAL TEACHER QUALITY GRANTS -- 10/13 REVISED
+
+NEW LANGUAGE IN ITALICS; DELETIONS WITHIN BOLD BRACKETS
+
+                   Local Teacher Quality and Class Size Reduction Grants
+
+Purpose
+
+Amends Title VI of the Elementary and Secondary Education Act to create a new Part D. The
+purpose of this new part is to provide funds to local educational agencies to allow such agencies
+to hire high quality teachers, including special education teachers, [and] reduce class size in the
+early grades to a national goal of 18, and raise student achievement.
+
+Use of Funds Part D
+
+       Local educational agencies shall use funds made available under this section to improve
+teacher quality, reduce the number of children in regular classes, and raise student achievement
+through [for) one or more of the following activities:
+
+·      Hiring new high quality teachers who have successfully completed an academic major in
+       the subject area in which they plan to teach and possess strong teaching skills;
+
+·      Hiring new high quality certified teachers, including through State and local alternative
+       teacher certification procedures, in order to reduce class size in the early grades;
+
+·      Reducing class size by increasing the ratio of regular classroom teachers to students;
+
+·      Providing professional development to teachers to teach special needs children [and to
+       reduce the costs associated with teaching children identified as special education
+       students);
+
+·       [COMBINE THE TWO PROFESSIONAL DEVELOPMENT PROVISIONS AS
+       FOLLOWS] Providing professional development to teachers consistent with Title II of
+       the Higher Education Act Amendments of 1998; or, Providing for [teacher) Testing new
+       teachers using State competency exams based on the subject areas taught by the teacher,
+       or content deemed appropriate by the State for elementary school teachers; except that
+        the total spent on these forms ofprofessional development may not exceed 10% of the
+       funds provided under Part D.
+
+[.     Providing for the acquisition and use ofinstmctional and educational materials to assist
+       classroom teachers to improve students achievement;)
+
+Funding Limitation
+                                                          Hex.Dump Conversion
+
+·      None of these funds shall be used to increase the salaries or provide additional benefits to
+       currently employed teachers.
+
+·      No local education agency may use more than 3 percent of its allocation for local
+       administrative costs.
+
+Special Priorities
+
+·      In hiring new quality teachers under this section, local educational agencies may give
+       priority to hiring new special education teachers, teachers ofLimited-English proficient
+       students, teachers in subject areas with a shortage of qualified teachers, and teachers in
+       schools with large class sizes.
+
+Funding Formula
+
+·      Over and above the money currently allocated to Title VI activities, an additional $1.1
+       billion will be dispersed pursuant to this part to States in accord with the Title Iformula ..
+
+·      For purposes of this part, the State educational agency shall distribute 100 percent of
+       these funds directly to local educational agencies based upon the formula in the title Iof
+       the Elementary and Secondary Education Act adjusted for the hold-harmless provision.
+       [under this section (this is the current Title VI formula which is distributed based on
+       student enrollment in public and private nonprofit schools within the local education
+       agency based on the following criteria:
+
+               Children living in areas with high concentrations of low income families;
+               Children from low income families; and
+               Children living in sparsely populated areas.)]
+
+Application Process
+
+        There will be no new application required. Instead, Local Education Agencies will submit
+to the State, in its application for funds under Title VI, a description of how they will meet the
+requirements of this part. The State shall be responsible for ensuring compliance by the local
+education agencies.
+
+Annual Public Report Card
+
+·      At the end of each school year in which a school receives funds under this program, the
+       local educational agency shall issue a report card on that school to parents and the
+       general public. The report card shall provide clear, and easily understandable
+       information on (1) class size reduction goals in grades 1-3 and other grade levels
+       determined by the LEA, (2) actual class sizes that year (3) teacher certification, licensure
+       and related academic qualifications for teachers, (4) student achievement levels in
+       reading in grades I -3, and in other grade levels and subject areas determined by the
+                                                         Hex.Ownp Conversion
+       local education agency.
+
+·      Based on the public report card the state may require a local educational agency to take
+       appropriate corrective actions as a condition for continued receipt offunds.
+
+[Local Control
+
+        If the local education agency decides by an affirmative approval of the local school board,
+that they do not need funds under this part for the purposes of hiring quality teachers and
+reducing class size, then the local educational agency can spend these funds on activities under
+section 6301.]
+
+Maintenance of Effort
+
+       A local educational agency may receive grant funds under Part D only it has on file with
+the SEA an assurance that the LEA will spend at least as much, from non-Federal resources, as
+the LEA spent in the previous year for the combination of
+
+       a) teachers in regular classrooms in grades 1 through 3 in schools receiving assistance
+       under Part D;
+
+       b) teachers in each other grade and subject area for which funds under Part Dare
+       expended; and
+
+       c) the other quality improvement activities eligible for support under Part D.
+
+       The Secretary may waive or modify this requirement if he determines that doing so would
+be equitable due to exceptional or uncontrollable circumstances.
+Alternative Text:     Funding Formula
+                                                        Hex-Dump Conversion
+
+The additional $1.1 billion will be disbursed to the States in accord with the Title VI formula.
+The State Educational Agency shall distribute 100% of these funds directly to local educational
+agencies, based upon the formula in Title I of the ESEA, adjusted for the hold-harmless
+provision.
+Alternative Text:      Local Control                  Hex-Dump Conversion
+
+
+If the local educational agency detennines by an affinnative approval ofthe local school board
+that it has achieved an average class size of 18 in grades 1-3 in regular classrooms and therefore
+does not need funds under this part for the purposes of reducing class size, then the local
+educational agency can spend these funds on activities under section 6301.
+EMAILS RECEIVED
+ARMS - BOX 039 - FOLDER -006
+
+
+[10/14/1998]

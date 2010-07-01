@@ -1,0 +1,41 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Jose-Cerda III ( CN=Jose Cerda III/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME:25-JUN-1998 10:10:08.00
+
+SUBJECT:
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Michelle Crisci ( CN=Michelle Crisci/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+CC: Leanne A. Shimabukuro ( CN=Leanne A. Shimabukuro/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ:UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ:UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D22]MAIL40079467X.126 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504370040000010A020100000002050000004B070000000200004E3F596863544A8001A425
+E21FC350DCEDBF860EAB583D7402B361203C9898A42C36E6AEF850B5DBOE2EB7B019A8013A4B35
+                                                                               Hex-Dump ConverslOr,
+
+                                  Statement by the President
+
+Last week's PRIDE survey showed that we are changing the attitudes and behaviors of some of
+our children, and that is step in the right direction. But today's Pulse Check shows that we must
+continue to reinforce the message to all of our young people that drugs are dangerous, drug are
+wrong, and drugs can kill you. It shows that we must keep up tough drug enforcement and get
+hard drug users off the street and into treatment
+
+

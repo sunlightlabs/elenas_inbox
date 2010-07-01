@@ -1,0 +1,103 @@
+      RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+      CREATOR: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP [ OPD ) )
+
+      CREATION DATE/TIME: 9-JUN-1999 09:47:00.00
+
+      SUBJECT:   Here's the techical assistance I sent Harkin staff
+
+      TO: Courtney O. Gregoire ( CN=Courtney O. Gregoire/OU=OPD/O=EOP@EOP [ OPD ) )
+      READ: UNKNOWN
+
+      TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP@EOP [ OPD ) )
+      READ: UNKNOWN
+
+      TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP@EOP [ WHO ) )
+      READ: UNKNOWN
+
+      TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP@EOP [ OPD ) )
+      READ: UNKNOWN
+
+      TEXT:
+      Treasury wasn't able to run the 55 cent option in time, so I sent it to
+      Peter Reineke yesterday without it. Am sharing final version with OMB,
+      Leg Affairs, and Treasury.
+
+
+
+      I did just get the 55 cents numbers ... essentially its $2,150 per child,
+      with a net revenue effect of $6.3 billion (Peter was looking for $4 to $5
+      billion range) .
+
+      I made very clear this is technical assistance, etc.
+      ==================== ATTACHMENT   1 ====================
+      ATT CREATION TIME/DATE:   0 00:00:00.00
+
+      TEXT:
+      Unable to convert ARMS_EXT: [ATTACH.D57)ARMS22389266Q.136 to ASCII,
+       The following is a HEX DUMP:
+
+      DOCF11EOAIBIIAEI000000000000000000000000000000003E000300FEFF090006000000000000
+      0000000000010000002300000000000000001000002500000001000000FEFFFFFF000000002200
+      OOOOFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+      FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+      FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+      FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+      FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+      FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+      FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+      FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+      FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+      FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF.
+      FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+      FFFFFFFFFFECA5C1007100090400000012BF0000000000001000000000000400000AOAOOOOOEOO
+      626A626A742B742B000000000000000000000000000000000000090416002D1200001641010016
+      4101000A0600000000000000000000000000000000000000000000OOOOOOOOOOOOOOOOFFFFOFOO
+      OOOOOOOOOOOOOOOOFFFFOFOOOOOOOOOOOOOOOOOOFFFFOFOOOOOOOO000000000000000000000000
+      005DOOOOOOOOOOA201000000000000A2010000A201000000000000A201000000000000A2010000
+      00000000A201000000000000A2010000140000000000000000000000B601000000000000B60100
+      0000000000B601000000000000B601000000000000B60100000COO0000C20100000COOOOOOB601
+      000000000000540AOOOOB6000000DA01000000000000DAOIOOOOOO000000DA01000000000000DA
+
+
+
+
+                                           Tobacco Technical Assistance
+                                                  June 8,1999
+
+
+          Below are several approaches that would reduce youth smoking and raise revenue for health-
+          related programs in FY 2000. All estimates are preliminary.
+
+
+          Payments Per Child Smoker
+
+          Tobacco companies would pay per-child payments based on the number of children smoking
+          nationwide. Alternatives include:
+
+          ·   A one-time payment of $1 ,200 per child raises about $4.4 billion in FY 2000, less about $600
+              million in lost excise tax revenues, for a net revenue effect of$3.8 billion. This payment
+              amounts to 22 cents per pack; because such payments would .be nondeductible for the
+              companies, retail prices would go up by 33 cents per pack.
+
+          ·   A one-time payment of $900 per child raises about $3.4 billion in FY 2000, less about $500
+              million in lost excise tax revenues, for a net effect of $2.9 billion. This translates into 17
+              cents per pack in payment, and a 26-cent increase in retail prices.
+
+
+          Acceleration of Excise Tax Increase
+
+          The 1997 Balanced Budget Act raised the tobacco excise tax 10 cents per pack effective January
+          1,2000 and another 5 cents effective January 1,2002. Accelerating the scheduled 15 cent
+          tobacco tax increase, so that it takes effect in FY 2000, would add about $1.1 billion in FY 2000.
+          (The revenue would be slightly less if coupled with the industry payment because the payment
+          would increase cigarette prices, reducing cigarette consumption as well as the revenue raised by
+          the accelerated excise tax.) This proposal was included in the Administration's FY 2000 budget.
+
+
+
+
+                                                                                  Automated Records Management System
+                                                                                  Hex-Dump Conversion
+
+

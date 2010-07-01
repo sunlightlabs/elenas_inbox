@@ -1,0 +1,150 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Mary L. Smith ( CN=Mary L. Smith/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME: 9-MAR-1999 17:58:49.00
+
+SUBJECT:   Memo on Pros and Cons of Comparable Worth
+
+TO: Elena Kagan    CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ:UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+CC: Thomas L. Freedman ( CN=Thomas L. Freedman/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ:UNKNOWN
+
+TEXT:
+You asked for a brief handout on the pros and cons of comparable worth.
+Attached is a memo on this subject.   OPM will send a memo tomorrow that
+outlines whether the federal government should implement comparable worth
+and if so, how we could do it.  In addition, we will be sending you later
+tonight a memo that discusses options on data collection.     ==================== A
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D51]MAIL40126637Z.036 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504354150000010A02010000000205000000203D0000000200009B95B3A7CBA518E06BD4C7
+CBA56B70C28E31C6FECE90928154355830BBB2D23A500CD2F567DOE5B6DECDDA4D487274B9BF60
+947B52CB9048B5AOFD933FE411E9B406B1BB29CCF88E060D80E86385610879FC21BBB08B7F2956
+                                           Hex-Dump Convemion
+················
+
+                                 COMPARABLE WORTH
+
+Senator Tom Harkin and Rep. Eleanor Holmes Norton introduced bills to implement
+comparable worth in the last Congress (and these bills are expected to be reintroduced this
+year).
+
+·       The Congressional comparable worth proposals would prohibit employers from paying
+        lower wages for jobs dominated by employees of a particular sex, race, or national origin
+        than for jobs dominated by employees of the opposite sex or different race or national
+        origin for work on "equivalent" jobs. Equivalent jobs would be defined ~s jobs that may
+        be dissimilar, but whose requirements are equivalent when viewed as a composite of
+        skills, effort, responsibility, and working conditions. The EEOC would establish criteria
+        for determining whether jobs are dominated by employees of a particular sex, race or
+        national origin. The bills also provide that no wage rates may be reduced in order to
+        comply with comparable worth requirements.
+
+ARGUMENTS FOR COMPARABLE WORTH LAW
+
+·       There is a significant wage gap. According to the Council of Economic Advisors, in
+        1997, the gap between men's and women's wages was approximately 75 percent. The
+        most recent detailed longitudinal study found that in the late 1980s about one-third of the
+        gender pay gap was explained by differences in the skills and experience that women
+        bring to the labor market and about 28 percent was due to differences in industry,
+        occupation, and union status among men and women. Accounting for these difference
+        raised the female/male pay ratio in the late 1980s from about 72 percent to about 88
+        percent, leaving around 12 percent as an "unexplained" difference. While some of this
+        gap is due to unequal wages paid for the same job, some of the difference is due to
+        women in occupations predominated by women not being paid the same by men in
+        equivalent jobs.
+
+·       Comparable worth could increase wages. The AFL-CIO recently issued a study that
+        shows that America's working families lose approximately $200 billion of income
+        annually to the wage gap -- an average loss of more than $4,000 every year for each
+        family, even after accounting for difference in education, age, location, and the number of
+        hours worked. The study also showed that ifmarried women were paid the same as
+        comparable men, their family incomes would rise by nearly 6 percent, and their families'
+        poverty rates would fall from 2.1 percent to 0.8 percent.
+
+·       Eight states have implemented comparable worth laws for state employees. Eight
+        states -- Connecticut, Iowa, Minnesota, Montana, New York, Oregon, Washington, and
+        Wisconsin -- have enacted comparable worth laws covering state government employees.
+         With the exception of Montana whose pay equity study found that there was "no
+        significant gender bias," the seven states that have implemented comparable worth
+        expended only between 1 percent and 4 percent of their payroll budgets.
+
+·       Comparable worth adjustments for state and local governments have resulted in
+        payments.   Public employees in twenty states received collective bargaining related
+                                         Hex.()ump Conversion
+    equity adjustments during the 1980s. State employees in Michigan received $21 million
+    in comparable worth adjustments; in Pennsylvania, $16 million; and in Washington, $442
+    million. In the 1990's, state workers in Connecticut reached a $22 million pay equity
+    settlement that will give nearly half of that state's workforce and average of $1,000 per
+    year. In 1994, social workers in Los Angeles County won a 20 percent pay equity wage
+    increase. Previously, there had been a 34 percent wage differential between the
+    female-dominated social worker class and the male-dominated probation officer class,
+    despite similarity of skills, responsibilities, and working conditions.
+
+
+ARGUMENTS AGAINST COMPARABLE WORTH
+
+·   Comparable worth policies could cause significant job losses. Comparable worth job
+    assessments are based on skills, effort, responsibility and working conditions required by
+    the job without taking into account any of the traditional supply and demand factors. If
+    the wages of child-care workers (which is dominated by women) were to be raised to be
+    equivalent to a comparable job (e.g., mechanics, which is dominated by men), this would
+    mean that wages would be increased above the market-clearing level and unemployment
+    would result.
+
+·   Comparable worth evaluations could cause substantial administrative costs -- and
+    possibly extensive litigation. The HarkinINorton bills call for the EEOC to establish
+    criteria for determining whether particular jobs meet the gender, race or ethnicity
+    thresholds, but do not call for governmental classification of jobs. Assessments would
+    be done by individual employers and comparisons would be made between jobs at a
+    particular establishment. while this decentralized approach avoids direct government
+    job ratings, it could lead to significant variation among establishments and to costly
+    litigation challenging the criteria and scoring of jobs at particular establishments. While
+    it could provide a job bonanza for human resource consultants, the resulting
+    administrative costs could be a severe burden to many firms.
+
+·   The accuracy of comparable worth job classifications is questionable. A 1989
+    experimental study of comparable worth prepared for the Federal Reserve Bank of
+    Kansas City had three commercial job evaluation firms rate the same 27 jobs in an actual
+    company. The report concludes that scores provided by different job evaluators do not
+    provide mutually consistent adjustments to existing pay scales.
+
+·   Comparable worth is more invasive of private business decision-making than other
+    Federal mandates. For example, compared with the minimum wage which is uniform
+    in its application and is relatively easy to administer, comparable worth would require
+    more extensive record-keeping, incur greater administrative expenses, and affect wage
+    levels and resource allocations without regard to productivity and other market
+    conditions. As the American economy becomes more and more flexible, the rigid job
+    classification framework of the HarkinINorton bills would move us backwards -- against
+    the tide toward more flexible job definitions, individual merit-based pay, and work teams.
+
+
+
+                                             2
+                                       Hex.()ump Conversion .
+·   Mandatory comparable worth experience in the United States -- which has been
+    limited to public sector employment in a few states -- fails to establish a good model
+    for a man~atory private sector program. Governments generally use a traditional
+    job-description based, administratively run system for determining wages. This makes it
+    more feasible to implement a comparable worth system in government; however, both the
+    private sector and reform-oriented government personnel systems are moving toward
+    compensation-based regimes linked to individual worker performance. At least one
+    study of public-sector comparable worth programs (Minnesota and San Jose, CA) found
+    that women's wages increased slightly, but there was also a slight loss of employment in
+    the form of reduced future jobs.
+
+
+
+
+                                            3
+
+

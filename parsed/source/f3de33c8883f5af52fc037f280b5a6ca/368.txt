@@ -1,0 +1,677 @@
+ RECORD TYPE: PRESIDENTIAL   (ALL-IN-1 MAIL)
+
+ CREATOR: Dorothy K. Craft ( CRAFT_D )   (OPD)
+
+ CREATION DATE/TIME: 4-0CT-1996 14:24:09.91
+
+ SUBJECT: WELFARE IMPLEMENTATION SUBGROUP
+
+ TO: FAX (96905672,JOHN MONAHAN)            ( TLXA1MAIL_\F:96905672\C:JOHN MONAHAN\\ )
+ READ:NOT READ
+
+ TO: FAX (96193437,DENNIS HAYASHI)               TLXA1MAIL_\F:96193437\C:DENNIS HAYASHI\\
+ READ:NOT READ
+
+ TO: FAX (93050134,ROBERT BACH)                  TLXA1MAIL_\F:93050134\C:ROBERT BACH\\ )
+ READ: NOT READ
+
+ TO: FAX (914109659063,CAROLYN COLVIN)      ( TLXA1MAIL_\F:914109659063\C:CAROLYN COLVI
+ READ: NOT READ
+
+ TO: FAX (94827105,BRIAN COYNE)                  TLXA1MAIL_\F:94827105\C:BRIAN COYNE\\ )
+ READ: NOT READ
+
+ TO: Elena Kagan                                 KAGAN E )    (WHO)
+ READ: 4-0CT-1996 16:33:05.56
+
+ TO: Deborah L. Fine                             FINE D )    (OPD)
+ REAP: 4-0CT-1996 14:24:27.61
+
+ TO: Peggy A. Lewis                              LEWIS P)     (WHO)
+ READ: 7-0CT-1996 12:31:14.26
+
+ TO: Anne E. McGuire                             MCGUIRE A)     (WHO)
+ READ: 7-0CT-1996 09:58:41.48
+
+ TO: Richard E. Green                            GREEN R)     (OMB)
+ READ: 4-0CT-1996 17:08:08.64
+
+ TO: FAX (95140539,RANDY MOSS)                   TLXA1MAIL_\F:95140539\C:RANDY MOSS\\ )
+ READ: NOT READ
+
+ TO: FAX (95149112,KEVIN JONES)                  TLXA1MAIL_\F:95149112\C:KEVIN JONES\\ )
+ READ: NOT READ
+
+ TO: Jeremy D. Benami                            BENAMI J )    (WHO)
+ READ: 4-0CT-1996 14:44:15.57
+
+ TO: Diana M. Fortuna                            FORTUNA D ) (OPD)
+ READ: 4-0CT-1996 14:30:06.11
+
+ TO: Dorothy K. Craft                            CRAFT D )    (OPD)
+ READ: 4-0CT-1996 14:33:30.21
+
+ TO: FAX (96222633,LOUISE SHEINER)               TLXA1MAIL_\F:96222633\C:LOUISE SHEINER\\
+ READ:NOT READ
+
+ TO: Emily Bromberg                              BROMBERG E )    (WHO)
+ READ: 7-0CT-1996 10:57:11.00
+
+ TO: Barry White                                 WHITE B )    (OMB)
+
+
+ READ: 4-0CT-1996 15:29:09.05
+
+ TO: Remote Addressee                    ( MOSSR@JUSTICE.USDOJ.GOV@INET )
+ READ: NOT READ
+
+ TO: Remote Addressee                    ( RLBGOV@AOL.COM@INET )
+ READ: NOT READ
+
+ TO: FAX (914109658582,DIANE BLACKMAN)    TLXA1MAIL_\F:914109658582\C:DIANE BLACKMA
+ READ: NOT READ
+
+ TO: Remote Addressee                    ( BRIAN.COYNE@SSA.GOV@INET )
+ READ:NOT READ
+
+ TO: Remote Addressee                    ( MMOCKO@ACF.DHHS.GOV@INET )
+ READ:NOT READ
+
+ TO: Remote Addressee                     ASEGAL@OSASPE.DHHS.GOV@INET
+ READ: NOT READ
+
+ TO: Remote Addressee                     JMONOHAN@OS.DHHS.GOV@INET
+ READ:NOT READ
+
+ TO: FAX (96906562,ANN SEGAL)             TLXA1MAIL_\F:96906562\C:ANN SEGAL\\ )
+ READ: NOT READ
+
+ TO: FAX (96907380,MARY BOURDETTE)        TLXA1MAIL_\F:96907380\C:MARY BOURDETTE\\
+ READ: NOT READ
+
+ TO: FAX (97033052576,STEVEN CARLSON)     TLXA1MAIL_\F:97033052576\C:STEVEN CARLSON
+ READ: NOT READ
+
+ TO: FAX (97033052454,STACY DEAN)         TLXA1MAIL_\F:97033052454\C:STACY DEAN\\ )
+ READ: NOT READ
+
+ TO: Keith J. Fontenot                    FONTENOT K ) Autoforward to: Remote Addre
+ READ: NOT READ
+
+ TO: Jeffrey A. Farkas                    FARKAS J ) Autoforward to: Remote Address
+ READ:NOT READ
+
+ TO: Matthew D. McKearn                   MCKEARN M ) Autoforward to: Remote Addres
+ READ:NOT READ
+
+ TO: Cynthia M. Smith                     SMITH CM ) Autoforward to: Remote Address
+ READ:NOT READ
+
+ TO: FAX (94827153,JUDY CHESSER)          TLXA1MAIL_\F:94827153\C:JUDY CHESSER\\
+ READ: NOT READ
+
+ TO: FAX (97033052454,YVETTE JACKSON)     TLXA1MAIL_\F:97033052454\C:YVETTE JACKSON
+ READ: NOT READ
+
+ TO: FAX (96222633,GLEN ROSSELLI)         TLXA1MAIL_\F:96222633\C:GLEN ROSSELLI\\ )
+ READ: NOT READ
+
+ TO: Remote Addressee                    ( JUDY.CHESSER@SSA.GOV@INET )
+ READ: NOT READ
+
+ TO: Remote Addressee                    ( JMOORE@HCFA.GOV@INET@INET )
+
+
+ READ: NOT READ
+
+ TO: FAX (914107860025,JUDY MOORE)     TLXA1MAIL_\F:914107860025\C:JUDY MOORE\\
+ READ: NOT READ
+
+ TO: FAX (96907380,HELEN MATHIS)       TLXA1MAIL_\F:96907380\C:HELEN MATHIS\\ )
+ READ: NOT READ
+
+ TO: Remote Addressee                  YVETTE JACKSON@FCS.USDA.GOV@INET
+ READ: NOT READ
+
+ TO: Remote Addressee                 ( BONNY.O'NEIL@FCS.USDA.GOV@INET )
+ READ: NOT READ
+
+ TO: FAX (92609183,JON WEINTRAUB)      TLXA1MAIL_\F:92609183\C:JON WEINTRAUB\\ )
+ READ: NOT READ
+
+ TO: Remote Addressee                  JON WEINTRAUB@ED.GOV@INET
+ READ: NOT READ
+
+ TO: Remote Addressee                  JESSICA LEVIN@ED.GOV@INET
+ READ: NOT READ
+
+ TO: FAX (94014353,JESSICA LEVIN)      TLXA1MAIL_\F:94014353\C:JESSICA LEVIN\\ )
+ READ: NOT READ
+
+ TO: Remote Addressee                 ( STACEY.DEAN@FCS.USDA.GOV@INET )
+ READ: NOT READ
+
+ TO: Jack A. Smalligan                 SMALLIGAN J ) Autoforward to: Remote Addr
+ READ: NOT READ
+
+ TO: Daniel J. Chenok                 (. CHENOK_D    (OMB)
+ READ: 4-0CT-1996 14:24:03.69
+
+ TO: Wendy A. Taylor                   TAYLOR W ) Autoforward to: Remote Address
+ READ: NOT READ
+
+ TO: Laura A. Oliven                   OLIVEN L ) Autoforward to: Remote Address
+ READ: NOT READ
+
+ TO: Debra J. Bond                     BOND D ) Autoforward to: Remote Addressee
+ READ: NOT READ
+
+ TO: FAX (96907383,JEFF MERKOWITZ)     TLXA1MAIL_\F:96907383\C:JEFF MERKOWITZ\\
+ READ: NOT READ
+
+ TO: Remote Addressee                 ( jmerkowi@osaspe.dhhs.gov@INET )
+ READ: NOT READ
+
+ TO: Betsy Myers                       MYERS B      (WHO)
+ READ: 4-0CT-1996 14:50:55.63
+
+ TO: FAX (97033052486,ARTHUR FOLEY)    TLXA1MAIL_\F:97033052486\C:ARTHUR FOLEY\\
+ READ: NOT READ
+
+ TO: Stephen C. Warnath                WARNATH S      (OPD)
+ READ: 4-0CT-1996 14:30:16.18
+
+ TO: Mark E. Miller                    MILLER ME ) Autoforward to: Remote Addres
+
+
+ READ: NOT READ
+
+ TO: Steven M. Mertens                          MERTENS S ) Autoforward to: Remote Addres
+ READ: NOT READ
+
+ TO: FAX (95149077,GERRI RATLIFF)           (, TLXA1MAIL_\F:95149077\C:GERRI RATLIFF\\ )
+ READ:NOT READ
+
+ TO: FAX (95146897,DAVID OGDEN)                 TLXA1MAIL_\F:95146897\C:DAVID OGDEN\\ )
+ READ:NOT READ
+
+ TO: FAX (92053848,ANN ROSEWATER)               TLXA1MAIL_\F:92053848\C:ANN ROSEWATER\\ )
+ READ: NOT READ
+
+ TO: Jill pizzuto                               PIZZUTO J   (OPD)
+ READ: 4-0CT-1996 14:29:49.96
+
+ TO: FAX (92196896,MARK W. MORIN)               TLXA1MAIL_\F:92196896\C:MARK W. MORIN\\ )
+ READ: NOT READ
+
+ TO: FAX (96905600,JOAN LOMBARDI)               TLXA1MAIL_\F:96905600\C:JOAN LOMBARDI\\
+ READ: NOT READ
+
+ TO: FAX (97208077,CHERYL TATES-MACIAS)         TLXA1MAIL_\F:97208077\C:CHERYL TATES-MACI
+ READ: NOT READ
+
+ TO: FAX (67311,CARRIE WOFFORD)                 TLXA1MAIL_\F:67311\C:CARRIE WOFFORD\\ )
+ READ: NOT READ
+
+ TEXT:
+
+ PRINTER FONT 12 POINT ROMAN
+ MEMO TO WELFARE IMPLEMENTATION SUBGROUP
+ FROM:   Jeremy Ben
+ o
+ -Ami
+                  Diana Fortuna
+                  Domestic Policy Council
+ SUBJECT:         WEEKLY Welfare Subgroup Meetings
+
+ The Welfare Implementation Subgroup Meetings will be held Weekly.
+ These Weekly meetings will be held every Tuesday at 3:00 p.m.
+ in Room 211 of the Old Executive Office Building. We will meet next
+ week on Tuesday, October 8 at 3:00 p.m. in OEOB 211.  You will be
+ notified weekly of the meeting status.
+ Also, please find below an updated list of subgroup members and their
+ contact numbers.  Please call Dorothy Craft at (202) 456
+ o
+ -5571, if you
+ will be attending a meeting for the first time and need clearance into
+ the building,  Thank you.
+
+ NAME, PH & FAX                     EMAIL
+ Jeremy Ben
+ o
+ -Ami, DPC                BENAMI_J@A1.eop.gov
+ ph: 456
+ o
+ -5584
+ fax: 456
+
+
+ o
+ -7028 or
+ o
+ -7431
+ Diana Fortuna, DPC        FORTUNA_D@A1.eop.gov
+ ph: 456
+ o
+ -5570
+ fax: 456
+ o
+ -7028
+ Steve Warnath, DPC        WARNATH_S@A1.eop.gov
+ ph:   456
+ o
+ -5576
+ fax:  456
+ o
+ -7028
+ Dorothy K. Craft, DPC     CRAFT_D@A1.eop.gov
+ ph: 456
+ o
+ -5571
+ fax: 456
+ o
+ -7028
+ Louise Sheiner, Treas.
+ ph: 622
+ o
+ -0563
+ fax: 622
+ o
+ -2633
+ Glen Rosselli, Treas.
+ ph:   622
+ o
+ -0090
+ fax: 622
+ o
+ -2633
+ o
+
+ Mike Compson, Treas.
+ ph:  622
+ o
+ -2351
+ fax: 622
+ o
+ -1294
+ Randy Moss, Justice       mossr@justice.usdoj.gov
+ ph: 514
+ o
+ -3745
+ fax: 514
+ o
+ -0539
+ Kevin R. Jones, Justice
+ ph: 514
+ o
+ -4604
+ fax: 514
+
+
+ o
+ -9112
+ Robert Bach, INS              rlbgov@aol.com
+ ph: 514
+ o
+ -3242 or 616
+ o
+ -7767
+ fax: 305
+ o
+ -0l34
+ Carolyn Colvin, SSA   carolynw.colvin@ssa.gov
+ ph:   410
+ o
+ -965
+ o
+ -4512
+ fax:  410
+ o
+ -965
+ o
+ -9063
+ Barry Eigen, SSA             barry.eigen@ssa.gov
+ ph: 410
+ o
+ -965
+ o
+ -2528
+ fax: 410
+ o
+ -966
+ o
+ -3372
+ Diane Blackman, SSA
+ ph: 410
+ o
+ -965
+ o
+ -3571
+ fax: 410
+ o
+ -965
+ o
+ -8582
+ Brian Coyne, SSA             brian.coyne@ssa.gov
+ ph: 482
+ o
+ -7128
+ fax: 482
+ o
+ -7105
+ Judy Chesser, SSA            judy.chesser@ssa.gov
+ ph: 482
+ o
+ -7148
+ fax: 482
+ o
+ -7153
+ Joan Lombardi, HHS
+ ph:   401
+
+
+ o
+ -6947
+ fax: 690
+ o
+ -5600
+ Ann Rosewater, HHS
+ ph:   401
+ o
+ -5180
+ fax: 205
+ o
+ -3848
+ o
+ Jeff Merkowitz, HHS
+ ph:  690
+ o
+ -7858                    jmerkow@osaspe.dhhs.gov
+ fax:  690
+ o
+ -7383
+ Ann Segal, HHS                  asegal@osaspe.dhhs.gov
+ ph: 690
+ o
+ -8410
+ fax: 690
+ o
+ -6562
+ John Monahan, HHS                jmonahan@os.dhhs.gov
+ ph:   690
+ 0
+ -6060
+ fax:  690
+ D
+ -5672
+ Judy Moore, HHS (HCFA)          jmoore@hcfa.gov@inet
+ ph: 410
+ D
+ -786
+ D
+ -3230
+ fax: 410
+ D
+ -786
+ D
+ -0025
+ Dennis Hayashi, HHS             dhayashi@os.dhhs.gov
+ ph:    619
+ D
+ - 0403
+ fax:    619
+ D
+ -3437
+ Mary Bourdette, HHS
+ ph: 690
+ D
+ -6311
+ fax: 690
+ o
+ -8425
+
+
+ Helen Mathis, HHS
+ ph: 690
+ o
+ -7627
+ fax: 690
+ o
+ -7380
+ Cheryl Tates
+ o
+ -Macias, USDA
+ ph:  202
+ o
+  -720
+ o
+ -7095
+ fax: 202
+ o
+  -720
+ o
+ -8077
+ Yvette Jackson, FNS   Yvette_Jackson@FCS.USDA.GOV
+ ph:   703
+ o
+ -305
+ o
+ -2026
+ fax: 703
+ o
+ -305
+ o
+ -2454
+ Steven Carlson, FNS
+ ph: 703
+ o
+  -305
+ o
+ -2133
+ fax: 703
+ o
+ -305
+ o
+ -2576
+ Stacey Dean, FNS             Stacey.Dean@FCS.USDA.GOV
+ ph: 703
+ o
+ -305
+ o
+ -2022
+ fax: 703
+ o
+ -305
+ o
+ -2454
+ Bonnie O'Neil, FNS           Bonny_O'Neil@FCS.USDA.GOV
+ ph: 703
+ o
+ -305
+ o
+ -2022
+ fax: 703
+
+
+ o
+ -305
+ o
+ -2454
+ Arthur Foley, FNS
+ ph:   703
+ o
+ -305
+ o
+ -2490
+ fax: 703
+ o
+ -305
+ o
+ -2486
+ Jon Weintraub, DOE          jon_weintraub@ed.gov
+
+ ph:    205
+ o
+ -5602
+ fax: 260
+ o
+ -9183
+ Jessica Levin, DOE                  jessica_levin@ed.gov
+ ph:   401
+ o
+  -3389
+ ·fax: 401
+ o
+ -4353
+ Gerri Ratliff, DOJ
+ ph:   514
+ o
+ -3392
+ fax: 514
+ o
+ -9077
+ David Ogden, DOJ
+ ph: 514
+ o
+ -6909
+ fax: 514
+ o
+ -6897
+ Mark W. Morin, DOL
+ ph: 219
+ o
+ -8065
+ fax: 219
+ o
+ -6896
+ Peggy Lewis, FLOTUS         LEWIS_P@A1.eop.gov
+ ph:   456
+ o
+ -6266
+ fax: 456
+ o
+ -6244
+ Emily Bromberg,             BROMBERG_E@A1.eop.gov
+ Intergovernmental Affairs
+
+
+ ph:   456
+ 0
+ -2896
+ fax:   456
+ 0
+ -6220
+ Debbie Fine, Polito Affrs.           FINE_D@A1.eop.gov
+ ph: 456
+ o
+  -5572
+  fax: 456
+ o
+  -7929 or 6
+ o
+ -7163
+ Elena Kagan, Gen. Counsel     KAGAN_E@A1.eop.gov
+ ph: 456
+ o
+  -7900
+  fax: 456
+ o
+ -1647
+ Anne McGuire, Cbnt. Affrs.   MCGUIRE_A@A1.eop.gov
+ ph: 456
+ o
+  -2572
+  fax: 456
+ o
+ -6704
+ Barry White, OMB                    WHITE_B@A1.eop.gov
+ ph: 395
+  o
+  -4532
+  fax: 395
+  o
+  -7752
+  Richard Green, OMB          GREEN_R@A1.eop.gov
+  ph: 395
+  o
+  -7398
+  fax: 395
+  o
+  -0851
+  Keith Fontenot, OMB         FONTENOT_K@A1.eop.gov
+  ph: 395
+  o
+  -4686
+  fax: 395
+  o
+  -0851
+  Jeff Farkas, OMB                    FARKAS_J@A1.eop.gov
+  ph: 395
+  o
+  -4686
+
+  fax: 395
+  o
+  -0851
+  Matthew McKearn, OMB        MCKEARN_M@A1.eop.gov
+  ph: 395
+
+
+    o
+    -4686
+    fax: 395
+    o
+    -0851
+
+    Cindy Smith, OMB                         SMITH_CM@A1.eop.gov
+    ph: 395
+    o
+    -4686
+    fax: 395
+    o
+    -0851
+    Wendy Taylor, OMB                TAYLOR_W@A1.eop.gov
+    ph: 395
+    o
+    -7316
+    fax: 395
+    o
+    -6974
+    Dan Chenok, OMB                  CHENOCK_D@A1.eop.gov
+    ph: 395
+    o
+    -7316
+    fax: 395
+    o
+    -6974
+    Laura Oliven, OMB                OLIVEN_L@A1.eop.gov
+    ph: 395
+    o
+    -7316
+    fax: 395
+    o
+    -6974
+    Debra Bond, OMB                  BOND_D@A1.eop.gov
+    ph: 395
+    o
+    -7316
+    fax: 395
+    o
+    -6974
+    Steven M. Mertens                        MERTENS_S@A1.eop.gov
+    ph: 395
+    o
+    -4935
+    fax: 395
+    o
+    -0850
+    Carrie Wofford for Betsy Myers   MYERS_B@A1.eop.gov
+    Women's Office
+    ph:   456
+    o
+    -7300
+    fax:  456
+    o
+    -7311
+
+

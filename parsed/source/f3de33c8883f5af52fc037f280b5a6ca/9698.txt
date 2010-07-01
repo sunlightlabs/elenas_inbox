@@ -1,0 +1,115 @@
+RECORD TYPE: PRESIDENTIAL     (NOTES MAIL)
+
+CREATOR: Michael Cohen ( CN=Michael Cohen/OU=OPD/O=EOP [ OPD ] )
+
+CREATION DATE/TIME:12-0CT-1998 12:42:26.00
+
+SUBJECT:   revised fallback
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D94]MAIL44758748F.226 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043F6050000010A02010000000205000000AD2500000002000013AAA7DA732D543DC9FCFO
+54D2725584FAE9C4FBD6DE082EFDE44422E9B1536398312EBC08947AOA9E46BB4394379B3FOA16
+573F6491B5EE3D723327AC41BD2A62F7EB17908F5E2C06E4FD9E3EEDA9B0296EC24EE75ACD724F
+AF88785E691D9AD3751CD9871E97D2962EF60A839CF1075C8688D8CC951799E2330CD82F88E6F6
+
+Sec. _         Notwithstanding any other provision of Federal law, funds provided to the
+         Department of Education or to an applicable program may not be used to field test,
+         implement or administer any federally sponsored national test in reading, mathematics, or
+         any other subject, or to engage in any other testing activity that would enable
+         comparisons of test results among school districts: Provided, That the National
+         Assessment Governing Board shall retain exclusive authority over the development of
+         voluntary national tests as described in Section 307 of the Department of Education
+         Appropriations Act, 1998.
+
+
+
+AND
+
+5. NAS Study on Embedding NAEP Items in State and Local Tests
+The National Academy of Sciences shall conduct a study ofthe technical feasibility of including
+      items from the National Assessment of Educational Progress or other tests in state and
+      district assessments to provide a measure of individual student performance against
+      National Assessment of Educational Progress standards in 4th grade reading and 8th
+      grade mathematics and the quality ofthe information about a student's performance that
+      would be provided to parents and teachers. The National Academy of Sciences shall
+      report the results of the study to Congress by June 1, 1999.
+
+
+
+
+                                                          Automated Records Management System
+                                                          Hex.-Dump Conversion
+
+No State or Local Implementation Without Quality Assurance
+ No State or local educational agency receiving financial assistance from the Secretary of
+Education may participate in any national test in 4th grade reading or 8th grade mathematics that
+is supported by the Secretary and that measures individual student performance against
+standards of the National Assessment of Educational Progress unless the State or local
+educational agency, as the case may be, certifies to the Secretary that it has developed, and has
+begun to carry out, a plan to--
+        (1) ensure that teachers have the knowledge and skills they need
+to teach students to meet those standards;
+        (2) provide all students with access to a challenging curriculum
+that can prepare them to meet those standards; and
+        (3) provide additional assistance to students and schools that do
+not make progress toward meeting those standards.
+
+
+
+
+                                                    AutlltnAted Records Management system
+                                                    Rn~1lffiP Conversion
+
+ No Implementation Without Authorization & NAGB Develops Plan for Test
+Implementation and Use
+Sec. _     Notwithstanding any other provisions of Federal law, funds provided to the
+Department of Education or to an applicable program may not be used to implement or
+administer any federally sponsored national test in reading, mathematics or any other
+subject that is not specifically and explicitly provided for in authorizing legislation enacted
+into law. The National Assessment Governing Board shall develop a plan for the
+continued development and implementation of national tests that measure individual
+student performance against National Assessment of Educational Progress standards in 4th
+grade reading and 8th grade mathematics. The plan shall include policies for the
+administration and use of national tests. In developing this plan, NAGB shall consider
+the feasibility of including items from the National Assessment of Educational Progress or
+other tests in state and district assessments to provide a measure of individual student
+performance against National Assessment of Educational Progress standards in 4th grade
+reading and 8th grade mathematics. NAGB shall present a written plan to the Committee
+on Education and Workforce of the House of Representatives, the Committee on Labor
+and Human Resources of the Senate, and the President for their consideration by _ _
+(prior to reauthorization of the National Assessment of Education Progress).
+
+
+
+
+                                                          Automated Records Management System
+                                                          Hex-Dump Conversion
+
+
+
+
+    Could be used to sweeten any fallback option
+    Propose reducing the appropriations for test development from $16 to $8-10 million.
+    These funds have been requested in the Education Department's Fund for the Improvement of
+    Education (FIE) account. (Keep 10 million if we do both NAS studies)
+
+
+
+
+                                                           Automated Records Management System
+                                                           Hex-Dump Conversion
+
+

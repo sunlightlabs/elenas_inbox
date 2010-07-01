@@ -1,0 +1,105 @@
+ RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+ CREATOR: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP [ OPD ] )
+
+ CREATION DATE/TIME: 12-JUN-1997 13:15:30.00
+
+ SUBJECT:    One pager on food stamp privatization
+
+ TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+ READ: UNKNOWN
+
+ TO: Diana Fortuna ( CN=Diana Fortuna/OU=OPD/O=EOP @ EOP   [ OPD ] )
+ READ: UNKNOWN
+
+ TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP   [ OPD ] )
+ READ: UNKNOWN
+
+ TEXT:
+ Based on Elena's comments, I have given this revised one pager to Martha
+ Foley and Lisa Kountoupes (OMB leg affairs) to help them argue against the
+ food stamp privatization amendments at today's 2:30 markup.
+
+ In addition, the SAP to the House Agriculture committee has a paragraph
+ which reads:
+
+ The Administration understands that amendments may be offered which would
+ allow food stamp operations to be privatized. While certain program
+ functions, such as computer systems, can currently be contracted out to
+ private entities, the certification of eligibility for benefits and
+ related operations (such as obtaining and verifying information about
+ income and other eligibility factors) should remain public functions.   The
+ Administration believes that changes to current law would not be in the
+ best interest of program beneficiaries and would strongly opppose such
+ amendments.   ==================== ATTACHMENT  1 ====================
+ ATT CREATION TIME/DATE:    0 00:00:00.00
+
+ TEXT:
+ Unable to convert ARMS_EXT: [ATTACH.D6B]MAIL4514B4265.116 to ASCII,
+  The following is a HEX DUMP:
+
+ FF575043BC070000010A02010000000205000000B0160000000200OOAAC34BFBF4B341CBA06BC1
+ 2B7A7A79FABFE5DF5FCC3FA4F5C57CEC0793CC1E766C5FED69DF1A710021F6CB02BOC259962F3D
+ AB77014629B319520DB6BF76CBOBFEB356F9B4AE9D330A9664024C342B6DD6ABBA451C120DEOOA
+ 559971BCE7944A73BB2A037E9E52EB33A9FCA6FDB9BOBEFB614F699F3333B96D314051C6EBBEB5
+ 49D314E6DA4B6E527B5241FBCFB7BD96D35A653F13C5B1D3AAD91CABB5091193EEB657A646312B
+ BDD20F49AC4F614D3911E7CB06A025A5D44A7CD3DCE6E07BC942BEFCBBD5B6B27643B1576F06AB
+ E5472CBD5151AABF52B96AFF6DEAE0403A11B569750435B23EC4C3209591ADA06392032C5D06BC
+ 225A6B5091CA1BBF4FA066E5F32ECBAE2EOEC3CA2E7C69BBF614FB3BOBA949F11C239C510DC363
+ DE44F5BC4260DOODFOFB3D310A345FA93549FBOCD1EE44F545942CA5B92EE9DB21BAAEDFBCCB27
+ OD9C1BBDAE57340ABEFFDC740C63AB6013BC1C507CBED7B5A020BDA9633DEB55A921F5FABCB5D3
+ D69A59C4759AFFOD5FAF905991A37A7E39654A95A39B5D1C31A77955C3C1E4327E5C56D9FAF752
+ 044D2B4AF515BFB1FD201DE515809EDBAF3627CCF9C3D4F5BD702041972476A59E590A5B7F1D1A
+ D230BB100711B7073FCOC3DED2D561B62B524369B2AD1AF99BB02446AF06EAC760EOB37DBA5BOB
+ B23E9605A202002BOOOOOOOOOOOOOOOOOOOOOOOB23010000000B0100005A040000005504000000
+ 4E0000006505000009250100000006000000B30500000B30030000002BOOOOOOB90500000B7701
+ 00000040000000E10500000B340100000014000000210600000B02010000000F00000035060000
+ 0055030000004E000000440600000066020000000200000092060000020B010000003100000094
+ 0600000B300200000044000000C506000000610100000014000000090700000B05010000000BOO
+ 00001D070000096B010000002C0000002507000000000000000000000000250700000000000000
+ 000000000025070000000000000000000000002507000000000000000000000000250700000000
+                                              6/12/97
+
+
+Talking Points
+
+·         The Administration believes that allowing a state to privatize food stamp operations
+          would not be in the best interests of program beneficiaries and will oppose amendments
+          allowing states to do so.
+
+·         Current food stamp law makes clear that eligibility determination must be performed by
+          impartial, merit-based public employees.
+
+·         The Administration rejected Texas' request for food stamp and Medicaid waivers on the
+          ground that discretionary judgments about eligibility for federal benefits should be made
+          by public employees, and that privatizing such functions may not be in the best interest of
+          program beneficiaries.
+
+·         The Administration will oppose amendments for the same reason. A draft amendment
+          the Administration has seen allows private entities to perform functions integrally related
+          to the food stamp eligibility determination process, such as obtaining and verifying
+          information about income and other eligibility factors.
+
+·         Without this amendment, states can still privatize all aspects of the Temporary Assistance
+          for Needy Families program. They can also hire private firms to design and operate
+          information systems, develop and recommend revised eligibility processes, and provide
+          management training and assistance.
+
+
+
+
+                                              Texas         Amendment        Administration
+    Allows Private Contractors to:           Proposal                          Position
+
+
+         Obtain and Verify                     Yes               Yes               No
+    Information           used to
+    Determine Eligibility
+
+        Determine Eligibility                  Yes               No                No
+
+
+                                                                          Automated Records Management System
+                                                                          Hex-Dump Conversion
+
+

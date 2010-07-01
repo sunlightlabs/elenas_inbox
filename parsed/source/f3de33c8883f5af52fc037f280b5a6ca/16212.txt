@@ -1,0 +1,276 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP [ WHO]     )
+
+CREATION DATE/TIME: 11-JUL-1997 18:29:52.00
+
+SUBJECT:   Weekly Report as of 5:00 Friday
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D78]MAIL44917619Q.116 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043E80F0000010A020100000002050000008C4E000000020000COE7C2394956DED8992D48
+3719CC062CBDDB332BAA1BC102CFDBDE4928DA976F5B98B1FAA299356C32D06CE08772FD7BECB2
+950992CDOAD6E57025D695E3D0897E700249BOD6E5B6740F14A54803611368C99A10BBD3F736DA
+EAA2264B8CB18348EAADA4EAA1FD97CF9EECCBBCE567DB40A49CD4197E654115D3D76731AC715F
+F44D71D141CEC5A6923A6AF87COF00945961C7A7AODC3D3D86E894622CFD5718F66E553AOBA4A8
+F4F157081F53B8A8E9A6628234A6CBA76D3290B35DDF21A808DOB7E436191741F791A35F6F2DF6
+69A7B3BD97A07EBC7F3A4F8F7AF4E3831247B68AE585776DCAEEAACC66DFOF7A71DBBOOBC82EAF
+FEOF023E68D4DOC6780FB5A15140DF17A76490D97C36BA256BCF8FOC536A6B10CD73B2922DF368
+6B88CF055054A1A4FFB9DF53D7145B197CAD5073CE5D286930C621E448FF1D433C35C78FE1F5E4
+19305DCD2F5DE4E62C5C2EFEEECCF8ECE252C99A3F48027FF37BE6C4A95D4F4B84129FA1374EB8
+B924FBD7233059E965889001BBB2C5207A5CDD549BCC36BAD94601165A1F959121F42CAA414AB2
+80EE4D1D50C82E3766C50A3D1DEBC8D3A24E86C714457C733EF883166392D7B20D8E85C5D58400
+FAD150D3C8012D19EFB7836EE7F587484E65FD9B1AE3098F192CB13B3070993D691BBA02788EDF
+3877DC468D0200A400000000000000000000000823010000000B010000F80A0000005513000000
+4E000000030C000009250100000006000000510COOOOOB300300000028000000570C0000080501
+000000080000007FOC000008560100000002000000870COOOOOOOO0000000000000000870COOOO
+0055060000004E000000890C00000055010000004EOOOOOOD70COO000877010000004000000025
+OD000008340100000014000000650D00000802010000000FOOOOOO790DOOOOOB30010000006COO
+0000880D00000055010000004EOOOOOOF40D000000550100000042000000420E00000055040000
+003C000000840EOOOOOB300100000044000000COOE00000608010000002D000000040FOOOOOOOO
+0000000000000000040F00000055010000004E000000310FOOOOOO000000000000000000310FOO
+0000000000000000000000310F000000000000000000000000310F000000000000000000000000
+310F000000000000000000000000310FOOOOOOOOOOOOOOOOOOOOOO00310FOOOOOOOOOOOOOOOOOO
+000000310F000000000000000000000000310FOOOOOOOOOOOOOOOO00000000310FOOOOOOOOOOOO
+000000000000310F000000000000000000000000310FOOOOOOOOOO00000000000000310FOOOOOO
+000000000000000000310F000000000000000000000000310FOOOO00000000000000000000310F
+000000000000000000000000310F00000000000000000000000031OFOOOOOOOOOOOOOOOOOOOOOO
+00310F000000000000000000000000310FOOOOOOOOOOOOOOOOOOOO0000310FOOOOOOOOOOOOOOOO
+00000000310F00000942010000001D0000007FOFOOOOOOOOOOOOOO00000000007FOFOOOOOOOOOO
+00000000D000007FOF0000000000000000000000007FOFOOOOOOOO00000000000000007FOFOOOO
+000000000000000000007FOF0000000000000000000000007FOFOO00000000000000000000007F
+OF0000000000000000000000007FOFOOOOOOOOOOOOOOOOOOOOOOOO7FOFOOOOOOOOOOOOOOOOOOOO
+00007FOF0000000000000000000000007FOFOOOOOOOOOOOOOOOOOO0000007FOFOOOOOOOOOOOOOO
+00000000007FOF0000000000000000000000007FOFOOOOOOOOOOOO0000000000007FOFOOOOOOOO
+00000000000000007FOF0000000000000000000000007FOFOOOOOO0000000000000000007FOFOO
+00000000000000000000007FOF0000000000000000000000007FOF000000000000000000000000
+7FOF0000000000000000000000007FOFOOOOOOOOOOOOOOOOOOOOOO007FOFOOOOOOOOOOOOOOOOOO
+0000007FOF0000000000000000000000007FOFOOOOOOOOOOOOOOOO000000007FOFOOOOOOOOOOOO
+0000000000007FOF0000000000000000000000007FOFOOOOOOOOOO000000000000007FOFOOOOOO
+0000000000000000007FOF0000000000000000000000007FOFOOOO000000000000000000007FOF
+0000000000000000000000007FOF0000000000000000000000007FOFOOOOOOOOOOOOOOOOOOOOOO
+                                          Hex-Dump Conversion ·
+
+
+
+
+                                         July 12, 1997
+
+
+MEMORANDUM FOR THE PRESIDENT
+
+FROM:         Bruce Reed
+              Elena Kagan
+
+RE:           DPC Weekly Report
+
+
+        1. Welfare -- Children's SSI Cut-offs Begin:  This month, SSA will begin to cut off
+SSI benefits for children who do not meet the new defmition of childhood disability under
+welfare reform. Time Magazine ran a story on the issue this week, and ABC World News
+Tonight is expected to cover this in the coming weeks. The law called for SSA to complete
+eligibility reviews of 260,000 children by August 22, with 135,000 expected to ultimately
+lose benefits. However, Congress is likely to give SSA another 6 months to complete the
+process, which is behind schedule. Under the budget agreement, these children would
+have their Medicaid benefits grandfathered. The Senate, however, failed to include this
+provision, while the House has made it a state option. We are endeavoring to get the full
+budget agreement in this area.
+
+        2. Welfare -- Teen Parents and Welfare: Last Thursday, before you taped the radio
+address, you told us about a friend who had hired a welfare recipient who turned out not to be
+ready for the workplace. The same day, several newspapers had articles about the New Chance
+project for teen mothers, all with conclusions like the Wall Street Journal's "Welfare Services
+Seem Little Help to Teen Mothers." We thought we'd take a closer look at what we know about
+whether programs like these help teen parents become self sufficient.
+
+       We looked at three well-known, rigorously evaluated programs for teen parents, including
+the New Chance study. Our most interesting finding is that the two studies in which the
+program group had significantly better outcomes than the control group are ones which included
+sanctions and penalties, in some cases along with support services. New Chance, on the other
+hand, was a voluntary program, which offered employment and support services but did not
+sanction individuals for not meeting program expectations. The teen mothers in New Chance
+were not more likely to hold jobs or leave welfare than the teens in the control group, partly
+because both groups improved over time.
+
+       However, the two programs with sanctions, Ohio's LEAP program and the Teenage
+Parent Demonstration project, both had significantly better results than the voluntary New
+                                            Hex-DiJmp Conversion
+
+
+Chance program. The LEAP program, for example, required teen mothers to stay in school and
+offered financial rewards in addition to sanctions (although no specific services). After three
+years, teens in LEAP had an employment rate of 33 percent compared with the control group's
+28 percent, and 17 vs. 12 percent had left welfare. (We expect to have updated results from
+LEAP within the month.) The Teenage Parent Demonstration program, which required teen
+parents to stay in school and to use services or face sanctions, also showed success. The
+program increased school enrollment levels by from 29 to 42 percent and the teens' employment
+rate from 43 to 48 percent.
+
+       These results show that it is very difficult to tum around the lives of teen parents on
+welfare. They also indicate that requiring teen parents to stay in school and providing sanctions
+and services to help them do so, as the new welfare law requires, works better than simply
+providing services.
+
+        3. Welfare -- White House Hiring of Welfare Recipients: Weare pleased to tell you
+not-yet-announced news that the Executive Office of the President has achieved its goal, set in
+April, of hiring six welfare recipients. One of them is working for the Domestic Policy Council.
+ We are saving this announcement for an appropriate time, and trying to ensure that such an
+announcement won't jeopardize the privacy of these workers.
+
+        4. Welfare -- Speech to the National Governors' Association: After reading Secretary
+Shalala's memo on how states are using extra funds from the welfare block grant available from
+falling welfare caseloads, you asked if you should do a letter to the governors on the topic. We
+suggest you send such a letter as part of the speech to the National Governors' Association
+you're scheduled to give on July 28th. We recommend that in that speech you expand upon the
+challenge you issued in last week's radio address, for "every state to take the money they save
+from lowering their caseloads and use it -- for child care, for transportation, to subsidize the
+training and wage help that people need to move from welfare to work."
+
+        5. Welfare --California and New York State Welfare Plans: California and New
+York have about one-third of the nation's welfare recipients between them, but state
+politics have long stymied welfare reform plans in each state. This week, there was
+legislative activity in both states.
+
+        In California, Democrats in the legislature finally passed a fairly tough plan.
+Governor Wilson, however, immediately vetoed the first of the four bills sent to him,
+criticizing it with very strong rhetoric, and legislative leaders then withdrew the remaining
+bills. The Democratic legislature voted to limit each period of welfare receipt to 24
+months, but Wilson prefers 12 months for all new recipients. Democrats oppose Wilson's
+plan to cut benefits by 15 percent after a family has been on the rolls for six months. The
+Democrats' bill would permit mothers with infants to stay at home, while Wilson wants
+women to start job search when their children are 12 weeks old. Democrats voted for a
+partial state takeover of the state general assistance program, but Wilson has proposed to
+
+
+                                                2
+                                            Hex-Dump ConYl1:sion .
+
+eliminate the state requirement that counties provide general assistance. Democrats were
+unable to muster enough votes to pass plans to make up for federal cuts in food stamps and
+SSI. Democrats are now negotiating with the Governor and Republican legislators, but it
+is not clear when or whether an agreement will emerge.
+        In New York, state legislative leaders appear to be close to an agreement with
+Governor Pataki, after years of impasse. The Governor recently signaled that he will drop
+or soften features of his original plan, such as decreasing welfare benefits over time and
+converting the state's general assistance program from cash to vouchers. A significant
+increase in child care spending appears likely. The resolution of the issue is bound up
+with the overall state budget and other end-of-session issues.
+
+        6. Service -- Upcoming High School Service Events: Next Friday, as part of an
+event with Girls Nation, you are scheduled to announce that 1,600 high school students
+across the country have been named the first "National Service Scholars" and awarded
+$1,000 scholarships, in the first year of a program you announced last year at Penn State.
+These high school juniors and seniors were selected by their principals based on
+outstanding service records. The federal government, through the Corporation for
+National Service, puts up $500 per scholarship, with civic organizations and other groups
+invited to match that amount. Groups that have stepped forward to match these first
+1,600 scholarships include the Kiwanis, Rotary, VFW, Junior Leagues, Chambers of
+Commerce, PT As, the Miss America organization, and the American Legion. Sallie Mae
+agreed to provide the match for all high schools in D.C., while the Minnesota state
+legislature voted to provide funds for every high school in the state next year. The goal is
+to institute this scholarship in as many of the 20,000 high schools in the country as possible.
+ We are drafting a letter for you to send to all high school principals advising them ofthis
+opportunity.
+
+       In addition, that same day the Rev. Tony Campolo and an organization called
+"Youth for Christ" are holding a rally on the Mall with 25-30,000 young people, each of
+whom has pledged to serve 3 hours a week for the next 6 months in their communities.
+They are largely high school students and from Christian denominations ranging from
+Roman Catholic to Pentacostal. A similar event is Los Angeles in June drew 11,000 young
+people. Campolo invited General Colin Powell to attend, but he is apparently out of the
+country.
+
+Elena: I included the next item because I've heard about 2 media stories on it in the past few
+days. He's pretty familiar with the issue.
+
+       7. Crime -- Brady Follow-up: On Wednesday, July 16th, the Attorney General and
+Secretary of the Treasury will host a meeting for law enforcement representatives from the
+national organizations and the 23 Brady states. We hope to accomplish the following: (1) to
+brieflaw enforcement on the Supreme Court's decision and issue guidance on how they can
+continue to conduct background checks; (2) to get county and/or state law enforcement agencies
+
+
+                                               3
+                                                Hex-Dump COil version .
+
+to agree to do background checks for the handful of local jurisdictions that have stopped doing
+them; and (3) to discuss and seek support for legislation that makes clear that states, unless
+expressly prohibited by state law, have the authority to conduct background checks. This
+legislation is necessary because the NRA is challenging the authority of 19 of the 23 Brady states
+to continue to conduct Brady checks. As you know, the attorneys general in Arkansas and Ohio
+are claiming that they do not have the authority under state law to do Brady checks.
+
+            8_ Crime -- Recommendations on Crack Cocaine Sentencing: We have met with
+the Justice Department and ONDCP to discuss how to unveil their recommendations on crack
+cocaine sentencing. At the recommendation of Senators Biden and Kennedy, our initial goal has
+been to keep the Senate Judiciary Committee from taking up ill-advised amendments to simply
+drop the threshold for powder cocaine during the mark-up of the juvenile crime bill. To this
+end, Justice has spoken with Senator Abraham, and it looks as ifhe will not offer his
+amendment. Afterwards, Justice and ONDCP will take the lead in reaching out to members of
+the Judiciary Committees, the Black Caucus and law enforcement representatives. If they can
+build enough support for their recommendations, we will try and offer attach to the juvenile
+crime bill when it is considered on the floor of the Senate this fall.
+
+
+          9_ Crime -- Youth Handgun Tracing/Interdiction: At the Saturday, July 19th radio
+address you will release a I-year report by the Treasury Department on the 17-city Youth
+Handgun Tracing initiative. Participating cities will, for the first time, have an unprecedented
+amount of information about where the guns used to commit crimes in their communities come
+from. The report's general findings include:
+
+·       4 out of J0 crime guns recovered by police are from youth (17 and under) or juveniles (18
+        to 24);
+
+·      more than half of all crime guns are semiautomatic pistols, and more than 70 percent are
+       handguns, generally;
+
+·       at least a quarter of the crime guns that police recover from juvenile and youth come from
+        legitimate retail sales and are rapidly diverted to the black market; and
+
+·      while thousands of guns are available, crime guns are constrained to a relatively small
+       number of makes and models in each city.
+
+        Additionally, you will announce a $12-15 million expansion of the initiative that
+includes: more funds for A TF agents to investigate gun crimes in these cities; 5 to 10 new cities
+to participate in the tracing of crime guns; and additional resources to train participating state and
+local enforcement agencies.
+
+
+
+
+                                                  4
+                                             Hex-Dump COililersioil .
+
+        10. Education -- NAACP Speech: Your speech to the NAACP will provide an
+opportunity to discuss education issues in the context of your race initiative. This will enable
+you to discuss the importance of national standards and tests as a tool for improving learning for
+all students, to highlight the steps the Administration has already taken to provide the tools to
+help students -- especially those in urban and rural areas with large concentrations of high
+poverty and minority students -- reach challenging standards, and to frame the issues that will
+be addressed and steps that will be in the future to continue to provide all students with the
+preparation they need.
+
+The speech will also provide the opportunity to announce a new, concrete step to improve urban
+education. DPC is working with the Education Department to complete the development of a
+new initiative for recruiting, preparing and retaining teachers in urban and poor rural
+communities. Part of the Education Department's proposal for the reauthorization of the Higher
+Education Act, this program will provide funds to strengthen teacher training programs which
+place large proportions of their graduates in urban or poor rural communities, and will also
+enable institutions of higher education to provide scholarships to talented and diverse students
+who will commit to teach in urban and poor rural areas for three years after graduation.
+
+
+
+
+                                                 5
+
+

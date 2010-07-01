@@ -1,0 +1,75 @@
+    RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+    CREATOR: Thomas L. Freedman ( CN=Thomas L. Freedman/OU=OPD/O=EOP [ OPD ] )
+
+    CREATION DATE/TlME:20-JAN-1998 12:31:55.00
+
+    SUBJECT:   Food Safety Q and A
+
+    TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+    READ: UNKNOWN
+
+    CC: Mary L. Smith ( CN=Mary L. Smith/OU=OPD/O=EOP @ EOP [ OPD ] )
+    READ: UNKNOWN
+
+    CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO]    )
+    READ: UNKNOWN
+
+    TEXT:
+      I ran these by USDA and HHS/FDA again.  All the changes were basically
+    fine, they wanted a clarification that "last year's $40 million" is for
+    activities that are not done but are still on-going as they are part of
+    the FY '98 budget.    FDA pointed out that they were developing HACCP in
+    '96, we should just say they it wasn't implemented yet.  So I did that too.=========
+    ATT CREATION TIME/DATE:   0 00:00:00.00
+
+    TEXT:
+    Unable to convert ARMS_EXT: [ATTACH.D55]MAIL47087491S.026 to ASCII,
+     The following is a HEX DUMP:
+
+    FF57504344070000010A020100000002050000008815000000020000ADD7547E3AFEF019810A1E
+    D81DC400FBB536501197F545BD8EEBB152522B32DD54309F3B57DF4A67DE6A3F13F4897172236F
+                                                                                  Hex-Dump ConversIon
+
+                          Questions and Answers on Food Safety
+                                    January 19, 1998
+
+
+
+Q:   What steps is the Administration taking to improve food safety?
+
+A:   Last year we launched a new Presidential food safety initiative, and added more than $40
+     million to the FY '98 budget. With that money we started putting in place new
+     science-based preventive systems to improve the safety of seafood, meat and poultry and
+     began work on a new early warning system to help detect and respond to outbreaks of
+     foodborne illness. This year, our budget will seek an even more substantial increase in
+     resources to improve food safety. The resources will go to a variety of initiatives,
+     including: giving FDA authority to prevent the import of produce from countries without
+     safety precautions equivalent to our own; hiring FDA inspectors to improve the safety of
+     our nation's fruits and vegetables, both domestic and imported; developing new ways for
+     federal inspectors to detect food-borne illnesses in meat and poultry and determine the
+     source of contamination; improving educational outreach on proper food handling; and
+     further expanding our early warning system and strengthening state surveillance activities
+     for foodborne illnesses.
+
+
+
+Q.   A recent story revealed that USDA did not close down a plant despite 1,700
+     violations. What are you doing to make sure our meat and poultry are safe to eat?
+
+A.   We have to keep improving our food safety systems. And I am committing more
+     resources than ever to the problem, and modernizing food safety for meat and fruits and
+     vegetables and the water we drink. There are several important facts to remember in
+     regard to this specific story. First, although the inspectors did not close the plant -- and
+     in my view that was a wrong decision -- they did take actions to correct the plant's bad
+     practices and to prevent all unsafe food they found from reaching the public. Second,
+     those events occurred in 1996 -- before my Administration began implementing the
+     Hazard Analysis and Critical Control Point (HACCP) system for meat. Under this
+     system, inspectors will document food safety violations; they will shut down the plant
+     where there are repeat failures; and they will insist that the plant take a wide range of
+     measures to prevent any future contamination before the plant can reopen. Finally, the
+     Administration has asked Congress for additional enforcement authority to fine
+     companies for violations of food safety standards. Currently, USDA can't fine
+     companies that violate food safety standards.
+
+

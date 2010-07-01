@@ -1,0 +1,78 @@
+RECORD TYPE: PRESIDENTIAL     (NOTES MAIL)
+
+CREATOR: Kate P. Donovan ( CN=Kate P. Donovan/OU=OMB/O=EOP [ OMB I         )
+
+CREATION DATE/TIME:24-SEP-1998 14:45:35.00
+
+SUBJECT:   REVISED TAXPAYER SAP
+
+TO: Maria Echaveste ( CN=Maria Echaveste/OU=WHO/O=EOP@EOP [ WHO I )
+READ: UNKNOWN
+
+TO: Michelle Crisci    ( CN=Michelle 9risci/OU=WHO/O=EOP@EOP [ WHO J )
+READ:UNKNOWN
+
+TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP@EOP [ WHO I    )
+READ: UNKNOWN
+
+TO: Janet Murguia ( CN=Janet Murguia/OU=WHO/O=EOP@EOP    [ WHO I   )
+READ:UNKNOWN
+
+TO: Jessica L. Gibson ( CN=Jessica L. Gibson/OU=WHO/O=EOP@EOP [ WHO J )
+READ:UNKNOWN
+
+TO: Robert G. Damus    ( CN=Robert G. Damus/OU=OMB/O=EOP@EOP [ OMB I   )
+READ: UNKNOWN
+
+TO: Charles M. Brain ( CN=Charles M. Brain/OU=WHO/O=EOP@EOP [ WHO I            )
+READ: UNKNOWN
+
+TO: Lisa Zweig ( CN=Lisa Zweig/OU=OMB/O=EOP@EOP [ OMB I )
+READ: UNKNOWN
+
+TO: Charles Konigsberg ( CN=Charles Konigsberg/OU=OMB/O=EOP@EOP [ OMB J )
+READ:UNKNOWN
+
+TO: Theodore Wartell ( CN=Theodore Wartell/OU=OMB/O=EOP@EOP [ OMB J )
+READ: UNKNOWN
+
+TO: Leslie Bernstein ( CN=Leslie Bernstein/OU=WHO/O=EOP@EOP [ WHO I            )
+READ:UNKNOWN
+
+TO: Kevin S. Moran ( CN=Kevin S. Moran/OU=WHO/O=EOP@EOP [ WHO I )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP@EOP [ OPD J )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP@EOP [ OPD I )
+READ:UNKNOWN
+
+TO: Mindy E. Myers    ( CN=Mindy E. Myers/OU=WHO/O=EOP@EOP [ WHO J )
+READ: UNKNOWN
+
+TO: Michelle Peterson ( CN=Michelle Peterson/OU=WHO/O=EOP@EOP [ WHO J )
+READ: UNKNOWN
+
+TO: Dario J. Gomez ( CN=Dario J. Gomez/OU=WHO/O=EOP@EOP [ WHO J )
+READ: UNKNOWN
+
+TO: Charles R. Marr ( CN=Charles R. Marr/OU=OPD/O=EOP@EOP [ OPD J )
+
+
+READ:UNKNOWN
+
+TO: Elizabeth Gore   ( CN=Elizabeth Gore/OU=OMB/O=EOP@EOP [ OMB ] )
+READ:UNKNOWN
+
+TO: Joseph J. Minarik ( CN=Joseph J. Minarik/OU=OMB/O=EOP@EOP [ OMB ]   )
+READ: UNKNOWN
+
+TO: Michael Deich ( CN=Michael Deich/OU=OMB/O=EOP@EOP   [ OMB ]   )
+READ:UNKNOWN
+
+TEXT:
+Unable to convert ARMS EXT: [MESSAGE.D69]MAIL40069766H.226
+The following is a HEX-dump of the file:
+
+

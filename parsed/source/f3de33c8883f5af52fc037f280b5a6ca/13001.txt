@@ -1,0 +1,174 @@
+ RECORD TYPE: PRESIDENTIAL     (NOTES MAIL)
+
+ CREATOR: Jose Cerda III ( CN=Jose Cerda III/OU=OPD/O=EOP [ OPD ] )
+
+ CREATION DATE/TIME: 15-JUN-1999 00:33:52.00
+
+ SUBJECT:   Draft Q/A
+
+ TO: Karin Kullman      CN=Karin Kullman/OU=OPD/O=EOP@EOP [ OPD ] )
+ READ: UNKNOWN
+
+ TO: Cathy R. Mays    ( CN=Cathy R. Mays/OU=OPD/O=EOP@EOP [ OPD ] )
+ READ:UNKNOWN
+
+ TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP@EOP [ OPD ] )
+ READ: UNKNOWN
+
+ TO: Leanne A. Shimabukuro ( CN=Leanne A. Shimabukuro/OU=OPD/O=EOP@EOP [ OPD ] )
+ READ:UNKNOWN
+
+ TO: Courtney O. Gregoire ( CN=Courtney O. Gregoire/OU=OPD/O=EOP@EOP [ OPD ] )
+ READ: UNKNOWN
+
+ TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP@EOP [ OPD ] )
+ READ:UNKNOWN
+
+ TEXT:
+ ==================== ATTACHMENT   1 ====================
+ ATT CREATION TIME/DATE:   0 00:00:00.00
+
+ TEXT:
+ Unable to convert ARMS_EXT: [ATTACH.D79]ARMS23363037M.136 to ASCII,
+  The following is a HEX DUMP:
+
+ DOCF11EOA1B11AE1000000000000000000000000000000003E00030OFEFF090006000000000000
+ 0000000000010000001600000000000000001000001700000001000000FEFFFFFF000000001500
+ OOOOFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+ FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+ FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+ FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+ FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+                                    Questions and Answers        Automated Records Management System
+                                        June 14, 1999            Hex-Dump Conversion
+
+
+Brady Report
+
+Q: If the Brady Law has helped to detect and block over 400,000 illegal gun sales, how
+many of these persons who tried to buy guns illegally have you prosecuted? The gun lobby
+and its supporters say that if you really wanted to strengthen the Brady Law, you would
+focus on putting all of these criminals behind bars. What is your response?
+
+A: We do focus on putting gun criminals behind bars. Since the NICS was implemented 6
+months ago, the FBI has been actively referring cases to ATF and state and local law
+enforcement for further investigation and potential prosecution. Ultimately, we won't take every
+case, but we have asked Congress for more funds to hire ATFagents and federal prosecutors to
+do the best follow-up possible. I would also note that, prior to the NICS' implementation, Brady
+denials were the responsibility of designated state and local law enforcement officials. With the
+NICS now up and running, we expect to take more Brady-related cases.
+
+Unfortunately, some of you in the press have been taking the gun lobby at its word, and you
+simply have not gotten the full story on this issue. Let's review the facts:
+
+1. The Brady Law has stopped over 400,000 illegal gun sales. By surveying local law
+   enforcement officials and tracking the number of gun applications rejected by the FBI, we
+   know this to be true. Prior to Brady background checks, guns were bought and sold on the
+   honor system.
+
+2. Two-thirds of the illegal gun sales we stop involve persons who have been previously
+   convicted or are currently indicted for a felony crime. The remaining third involve domestic
+   violence misdemeanors and restraining orders, drug addicts, mental deficients, and other
+   prohibitions in state and federal law. Although some of these persons may not be serious
+   criminals - or may have committed their crimes many years ago and are no longer a threat to
+   public safety - it is very reasonable to assume that, by stopping them from buying a gun, we
+   have prevented gun crimes and violence.
+
+3. Gun crimes are down by virtually every measure. FBI crime statistics confirm that, since
+   1993, gun-related crime is down by more than 25 percent. The overall number of violent
+   crimes is down, and so too is the percentage of violent crimes committed with guns.
+
+4. The number of gun criminals doing time in state and federal prisons is up by 25 percent since
+   1992 (from 20,681 to 25,186), and the number of serious gun criminals (those serving
+   sentences of 5 or more years) in federal prison is up by nearly 30 percent. This is because we
+   work more closely with state and local law enforcement - who investigate and prosecute
+   most gun crimes - to vigorously enforce gun laws.
+                                                                Hex-Dump Conversion
+
+5. This Administration has increased funding for state and local law enforcement by more than
+   500 percent, helped local law enforcement trace a record number of crime guns, proposed
+   increased funds for new ATF agents and federal prosecutors, and more. We need these
+   resources to investigate and prosecute more gun cases. Unfortunately, the gun lobby and
+   critics of our enforcement record have not backed up their tough talk with resources.
+
+
+Q: Have all 400,000 of these attempted gun purchases been referred to law enforcement
+for further investigation?
+
+A:      The FBI refers all persons who are denied guns to the ATF. The ATF then screens these
+potential cases, and sends a portion of those cases to appropriate ATF field offices for further
+investigation. At the field level, ATF works with their local U.S. Attorney's office to determine
+which potential cases warrant the additional investment of federal resources and prosecution.
+Federal prosecutors and ATF attempt to target the most serious and dangerous offenders for
+prosecution.
+
+
+
+Q:    The report states that 312,000 sales were stopped through background checks
+through 11/29/98. How did you arrive at the 400,000 total?
+
+A:      While the report only contains information during the interim Brady period, today, the
+Justice Department released additional, up-to-date information on background checks since the
+NICS took effect in late November. The FBI keeps current information on the number of
+background checks conducted by the NICS and by state points of contact. Thus, the 400,000
+total includes an additional 90,000 gun sales that have been blocked in the first 6 months of the
+NICS.
+
+         During this six month period, over 4.1 million background checks were conducted -
+about half by the FBI (2 million), and the other half by the states (2.1 million). The FBI confirms
+that it has denied over 42,000 applications for gun sales of the total number of checks it
+conducted, and estimates that state points-of-contact have denied another 48,000 applications for
+gun sales.
+
+
+Q:     The 400,000 gun sales stopped is based on an estimate that States have denied about
+48,000 applications for gun sales since the National Instant Check System took effect.
+What did you base the 48,000 figure on?
+
+A: The Bureau of Justice Statistics (BJS) based the 48,000 figure on two key pieces of
+information. First, the FBI can confirm that states conducted about 2.1 million background
+checks in the first six months of NICS. BJS then applied the average denial rate during the entire
+
+
+
+
+    interim Brady period (2.4 percent) to the total number of state checks conducted (2.1 million)-
+    which comes to an estimated total of 48,000 gun sales denied.
+
+
+    Q: The report contains some state breakout data on the number of gun sales denied. Why
+    is there so much variance between states in their denial rates?
+
+    A: There are a number of factors that can impact state denial rates. For instance, states may have
+    in place additional laws to disqualify individuals from buying guns that exceed federal law. For
+    instance, some states may prohibit gun sales to individuals based on arrests alone, without
+    requiring a conviction. In addition, law enforcement access to, and computerization of records
+    on critical information which impacts gun eligibility (e.g., mental illness, domestic violence
+    misdemeanors) can have a significant impact on denial rates.
+
+
+    Misc. Gun
+
+    Q:     Yesterday, the Vice President said that youths between the ages of 18 to 20 years-old
+    could go into gun stores, pawn shops and gun shows and legally buy a handgun. Isn't this
+    wrong?
+
+    A:     As the Vice President's office clarified yesterday, currently, 18 to 20 year olds can legally
+    buy handguns from gun shows, friends, neighbors, private collectors and other unlicensed sellers.
+    However, they may not legally purchase handguns from federally-licensed gun shops and
+    pawnshops. This is already prohibited under current law.
+
+            More importantly, however, current law allows 18 to 20 year-olds to possess handguns
+    regardless of where they obtained them. The Vice President strongly believes that we should
+    close this loophole by making it illegal for 18 to 20 year-olds to generally possess handguns. The
+    Justice-Treasury report the Vice President released yesterday on the disproportionate amount of
+    gun crime committed by 18 to 20 year -aIds confirms the importance of passing into law the
+    Administration's proposal to ban transfer to and possession of handguns by this age group.
+
+
+
+
+                                                                    Automated Records Management System
+                                                                    Hex-Dump Conversion
+
+

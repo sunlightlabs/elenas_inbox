@@ -1,0 +1,74 @@
+RECORD TYPE: PRESIDENTIAL      (NOTES MAIL)
+
+CREATOR: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP [ OPD ) )
+
+CREATION DATE/TIME:19-NOV-1998 09:54:06.00
+
+SUBJECT:   Supreme Court Q&A
+
+TO: Elena Kagan    CN=Elena Kagari/OU=OPD/O=EOP @ EOP [ OPD ) )
+READ: UNKNOWN
+
+CC: Laura Emmett    CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO ) )
+READ: UNKNOWN
+
+TEXT:
+ Melissa Skolfield insisted on having this, and Rob said it was OK to send
+if we had to and he thought it was a good summary of the brief.
+
+        Now Melissa's called me and says you and she specifically spoke
+about not including the 'race to the bottom' stuff and she wants to know
+if you've changed your mind? ==================== ATTACHMENT    1 ==================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D63)MAIL42544132K.326 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504306050000010A0201000000020500000041130000000200008F9D8D3B40FE76F3A569F9
+6A523F5FD3DB492274C9A716C6F5343DD954B09Fl0EC78FDD2C70CFC7FCA23F712478EBA13E33B
+                                       November 17, 1998
+
+
+Q:   What is the Administration's position regarding California's policy of paying new residents less
+     in welfare benefits than current residents?
+
+A:   The Administration's position is that the federal welfare reform statute (PRWORA) is
+     constitutional, and that its residency provision, like other sections of the statute, simply
+     gives states additional flexibility to establish welfare policies that best meet their needs.
+     The brief argues that the purpose of the provision is to ensure that the new federal law
+     would not create new incentives for interstate migration and would not encourage states
+     to lower benefits, launching a "race to the bottom." The brief then argues that the
+     federal district court erred in not examining whether California's statute was narrowly
+     tailored to serve these purposes that underlie the federal law, and that it is doubtful
+     whether the California statute can meet that standard. The brief urged the Supreme
+     Court to remand the case to the federal distrid CO~Irt to explore that issue.
+
+Q:   Why did the United States file a brief in the matter given that the U.S. is not a party to the
+     suit and the 1996 federal welfare reform statute is not under review?
+
+A:   The United States filed a friend of the court brief because a clear question was presented
+     about what, if any, effect the federal welfare reform act had on states' adoption of different
+     benefit levels for new state residents. The U.S. also filed a brief because the case
+     implicates important constitutional precedent concerning the right to travel.
+
+Q:   Does the evidence show that people move from state to state seeking higher welfare benefits?
+
+A:   There is mixed evidence on this point -- while there are no definitive studies, some
+     studies indicate that higher benefits may encourage moving. Certainly, Congress could
+     reasonably have determined that a provision of this kind would prevent welfare recipients
+     from moving in search of higher benefits and states from engaging in a "race to the
+     bottom." So far, the evidence indicates that no such race to the bottom has occurred
+     and that in fact states are spending more per person than they were under AFDC.
+
+Q:   How many states currently provide a different benefit to new residents?
+
+A:   Thirteen states provide differential benefits to new residents (California, Florida, Georgia,
+     Illinois, Maryland, Minnesota, New Jersey, New York, North Dakota, Pennsylvania,
+     Rhode Island, Washington, and Wisconsin).
+
+                                                                              rds Management System
+                                                               AutomatedReco
+                                                               Hex-Dump Conversion
+
+

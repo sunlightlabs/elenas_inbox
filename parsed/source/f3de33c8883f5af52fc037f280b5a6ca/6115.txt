@@ -1,0 +1,324 @@
+     RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+     CREATOR: Stacie Spector ( CN=Stacie Spector/OU=WHO/O=EOP [ WHO 1 )
+
+     CREATION DATE/TIME:22-JAN-1998 14:04:01.00
+
+     SUBJECT:   SOTU Amplification Material
+
+     TO: Patricia M. Ewing ( CN=Patricia M. Ewing/O=OVP @ OVP [ UNKNOWN 1 )
+     READ: UNKNOWN
+
+     TO: Virginia M. Terzano ( CN=Virginia M. Terzano/O=OVP @ OVP [ UNKNOWN 1 )
+     READ:UNKNOWN
+
+     TO: Elliot J. Diringer ( CN=Elliot J. Diringer/OU=CEQ/O=EOP @ EOP [ CEQ 1 )
+     READ: UNKNOWN
+
+     TO: Audrey M. Hutchinson ( CN=Audrey M. Hutchinson/OU=PIR/O=EOP @ EOP [ PIR 1 )
+     READ:UNKNOWN
+
+     TO: Judith A. Winston ( CN=Judith A. Winston/OU=PIR/O=EOP @ EOP [ PIR 1 )
+     READ:UNKNOWN
+
+     TO: LEAVY_D ( LEAVY D @ A1 @ CD @ LNGTWY [ UNKNOWN 1 ) (NSC)
+     READ:UNKNOWN
+
+     TO: Carolyn E. Cleveland ( CN=Carolyn E. Cleveland/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     TO: Todd Stern ( CN=Todd Stern/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ:UNKNOWN
+
+     TO: Lori L. Anderson ( CN=Lori L. Anderson/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     TO: Amy W. Tobe ( CN=Amy W. Tobe/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ:UNKNOWN
+
+     TO: Karen E. Skelton ( CN=Karen E. Skelton/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     TO: Christopher J. Lavery ( CN=Christopher J. Lavery/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     TO: Doris o. Matsui ( CN=Doris o. Matsui/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ:UNKNOWN
+
+     TO: Audrey T. Haynes ( CN=Audrey T. Haynes/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ:UNKNOWN
+
+     TO: Marjorie Tarmey ( CN=Marjorie Tarmey/OU=WHO/O=EOP @ EOP [ WHO 1 )
+     READ: UNKNOWN
+
+     TO: Jonathan Orszag ( CN=Jonathan Orszag/OU=OPD/O=EOP @ EOP [ OPD 1 )
+     READ:UNKNOWN
+
+     TO: Jake Siewert ( CN=Jake Siewert/OU=OPD/O=EOP @ EOP [ OPD 1 )
+     READ: UNKNOWN
+
+     TO: Ellen M. Lovell ( CN=Ellen M. Lovell/OU=WHO/O=EOP @ EOP [ WHO 1 )
+
+
+READ: UNKNOWN
+
+TO: Stacey L. Rubin ( CN=Stacey L. Rubin/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Janet Murguia ( CN=Janet Murguia/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: John L. Hilley ( CN=John L. Hilley/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Lynn G. Cutler ( CN=Lynn G. Cutler/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Suzanne Dale ( CN=Suzanne Dale/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Emily Bromberg ( CN=Emily Bromberg/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Christa Robinson ( CN=Christa Robinson/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Katherine Hubbard ( CN=Katherine Hubbard/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Stephen B. Silverman ( CN=Stephen B. Silverman/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ :.UNKNOWN
+
+TO: Jennifer N. Devlin ( CN=Jennifer N. Devlin/O=OVP @ OVP [ UNKNOWN 1 )
+READ:UNKNOWN
+
+TO: Katharine Button ( CN=Katharine Button/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Marsha E. Berry ( CN=Marsha E. Berry/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Thomas D. Janenda ( CN=Thomas D. Janenda/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Paul A. Tuchmann ( CN=Paul A. Tuchmann/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Ann F. Walker ( CN=Ann F. Walker/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Ruby Shamir ( CN=Ruby Shamir/OU=WHO/O=EOP @ EOP [ WHO
+READ: UNKNOWN
+
+TO: Eleanor S. Parker ( CN=Eleanor S. Parker/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Dawn L. Smalls ( CN=Dawn L. Smalls/OU=WHO/O=EOP @ EOP [ WHO 1 )
+
+
+ READ:UNKNOWN
+
+ TO: Jason S. Goldberg ( CN=Jason S. Goldberg/OU=WHO/O=EOP @ EOP [ WHO]           )
+ READ: UNKNOWN
+
+ TO: Michelle Crisci ( CN=Michelle Crisci/OU=WHO/O=EOP @ EOP [ WHO ] )
+ READ:UNKNOWN
+
+ TO: Douglas B. Sosnik ( CN=Douglas B. Sosnik/OU=WHO/O=EOP @ EOP [ WHO]           )
+ READ: UNKNOWN
+
+ TO: John Podesta ( CN=John Podesta/OU=WHO/O=EOP @ EOP [ WHO]     )
+ READ: UNKNOWN
+
+ TO: Ron Klain ( CN=Ron Klain/o=ovp @ OVP [ UNKNOWN ].)
+ READ:UNKNOWN
+
+ TO: Eli G. Attie ( CN=Eli G. Attie/O=OVP @ OVP [ UNKNOWN]    )
+ READ: UNKNOWN
+
+ TO: Jeffrey M. Smith ( CN=Jeffrey M. Smith/OU=OSTP/O=EOP @ EOP [ OSTP ] )
+ READ:UNKNOWN
+
+ TO: Tamara Monosoff   ( CN=Tamara Monosoff/OU=PIR/O=EOP @ EOP [ PIR ]    )
+ READ:UNKNOWN
+
+ TO: Wendy E. Gray ( CN=Wendy E. Gray/OU=NSC/O=EOP @ EOP [ NSC ] )
+ READ: UNKNOWN
+
+ TO: Antony J. Blinken ( CN=Antony J. Blinken/OU=NSC/O=EOP @ EOP [ NSC ] )
+ READ: UNKNOWN
+
+ TO: Phillip Caplan ( CN=Phillip Caplan/OU=WHO/O=EOP @ EOP [ WHO]     )
+ READ:UNKNOWN
+
+ TO: Darby E. Stott ( CN=Darby E. Stott/OU=WHO/O=EOP @ EOP [ WHO]     )
+ READ:UNKNOWN
+
+ TO: Victoria Radd ( CN=Victoria Radd/OU=WHO/O=EOP @ EOP [ WHO ] )
+ READ:UNKNOWN
+
+ TO: Michael D. McCurry ( CN=Michael D. MCCurry/OU=WHO/O=EOP @ EOP [ WHO]             )
+ READ: UNKNOWN
+
+ TO: Minyon Moore ( CN=Minyon Moore/OU=WHO/O=EOP @ EOP [ WHO]     )
+ READ: UNKNOWN
+
+ TO: Craig T. Smith ( CN=Craig T. Smith/OU=WHO/O=EOP @ EOP [ WHO]     )
+ READ: UNKNOWN
+
+ TO: Robert B. Johnson ( CN=Robert B. Johnson/OU=WHO/O=EOP @ EOP      WHO]        )
+ READ: UNKNOWN
+
+ TO: Cheryl M. Carter ( CN=Cheryl M. Carter/OU=WHO/O=EOP @ EOP [ WHO]         )
+ READ: UNKNOWN
+
+ TO: Maria Echaveste ( CN=Maria Echaveste/OU=WHO/O=EOP @ EOP [ WHO]       )
+ READ:UNKNOWN
+
+ TO: Russell W. Horwitz   ( CN=Russell W. Horwitz/OU=OPD/O=EOP @ EOP [ OPD ]          )
+
+
+READ:UNKNOWN
+
+TO: Gene B. Sperling ( CN=Gene B. Sperling/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Virginia N. Rustique   ( CN=Virginia N. Rustique/OU=wHO/O=EOP @ EOP [ WHO 1 ) .
+READ:UNKNOWN
+
+TO: Elisa Millsap ( CN=Elisa Millsap/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Jeffrey A. Forbes ( CN=Jeffrey A. Forbes/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Mona G. Mohib ( CN=Mona G. Mohib/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Fred DuVal ( CN=Fred DuVal/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Sky Gallegos ( CN=Sky Gallegos/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Mickey Ibarra ( CN=Mickey Ibarra/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Cathy R. Mays ( CN=Cathy R. Mays/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Elena Kagan     CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 }
+READ: UNKNOWN
+
+TO: David S. Beaubaire     CN=David S. Beaubaire/OU=WHO/O=EOP @ EOP [ WHO 1 }
+READ: UNKNOWN
+
+TO: Elisabeth Steele ( CN=Elisabeth Steele/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Thurgood Marshall Jr ( CN=Thurgood Marshall Jr/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Susan M. Liss ( CN=Susan M. Liss/O=OVP @ OVP [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Roberta W. Greene ( CN=Roberta W. Greene/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Robin J. Bachm"an ( CN=Robin J. Bachman/OU=WHO/O=EOP   @   EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Jordan Tamagni ( CN=Jordan Tamagni/Ou=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Michael Waldman ( CN=Michael Waldman/OU=WHO/O=EOP.@ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Sidney Blumenthal ( CN=Sidney Blumenthal/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Ann F. Lewis ( CN=Ann F. Lewis/OU=WHO/O=EOP @ EOP [ WHO 1 )
+
+
+READ: UNKNOWN
+
+TO: Terri J. Tingen ( CN=Terri J. Tingen/OU=WHO/O=EOP @ EOP [ WHO 1
+READ: UNKNOWN
+
+TO: June G. Turner ( CN=June G. Turner/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ:UNKNOWN
+
+TO: Beverly J. Barnes ( CN=Beverly J. Barnes/OU=WHO/O=EOP @ EOP [ WHO 1
+READ: UNKNOWN
+
+TO: Paul E. Begala ( CN=Paul E. Begala/OU=WHO/O=EOP @ EOP [ WHO 1
+READ: UNKNOWN
+
+TO: Sylvia M. Mathews ( CN=Sylvia M. Mathews/OU=WHO/O=EOP @ EOP [ WHO 1
+READ: UNKNOWN
+
+TO: Erskine B. Bowles ( CN=Erskine B. Bowles/OU=WHO/O=EOP @ EOP [ WHO 1
+READ: UNKNOWN
+
+TEXT:
+FYI -Information on State of the Union Amplification activities:
+ 1 - Paper: Communications will be responsible for pulling together the
+"paper" for people who will need to be talking on the State of the Union
+speech (Senior staff, elected officials, Cabinet members, constituent
+leaders, Friends of the Administration, etc). What this means is that a
+packet with the following items will be sent to your office by Tuesday
+early afternoon (unless we are told it can go earlier) :
+                Talking points (overall)
+                State by State accomplishments (to offices who work
+w/states)
+                Constituent Accomplishments
+                5 Year Accomplishment cards (yellow-you should have them
+now)
+                3-5 Issue papers on specific issues that may be in the SOTU
+
+The packets will be sent to 1-2 people in your office who will then be
+responsible for making the appropriate amount of copies for what your
+individual staff needs will be.  Please make sure to communicate and
+coordinate within your own department to make sure that each of your
+colleagues will receive the materials they need.
+
+We completely understand the need to receive this material early and will
+do everything we can to get this stuff to you in a reasonable amount of
+time while not jeopardizing information getting out before the President's
+speech.
+
+Immediately following the State of the Union speech the actual text of
+what the President delivers will be posted on the WH web site for
+immediate access of the text.
+
+2 - Message Call: We will also be setting up a 3-5 minute conference call
+immediately following the speech where Ann Lewis will run through message
+points for people who will be speaking pUblically and need some message
+guidance and focus.  This will be a 1 way call, which means that Ann will
+talk, but the callers will not be able to ask questions.  The capacity for
+this call is 100 people.  So, please be cautious about who you recommend
+be on the call so all departments with surrogates will have access to this
+information.  Kevin Moran is the contact for getting on this call.
+·
+
+    3 - Briefings: We will also be helping schedule the Senior Staff for
+    participation in briefings and conference calls to get everyone on message
+    for the SOTU.   Ann walker will be helping with that piece and we will
+    call you within the next few hours to work on slating each of the needed
+    briefers.
+
+    Please share this memo with other staff that may need to know how things
+    will work.  If you have a specific need or problem that has not been
+    addressed please feel free to call and we will try to help you, or direct
+    you to someone who can.  Thanks for your patience and cooperation.
+f/
+
+
+
+

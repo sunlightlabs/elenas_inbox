@@ -1,0 +1,159 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Andrea Kane (,CN=Andrea Kane/OU=OPD/O=EOP [ OPD 1 )
+
+CREATION DATE/TIME: 31-MAR-1998 21:10:15.00
+
+SUBJECT:   Welfare-to-Work Data Collection
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ:UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD 1
+READ:UNKNOWN
+
+CC: Diana Fortuna ( CN=Diana Fortuna/OU=OPD/O=EOP [ OPD 1
+READ: UNKNOWN
+
+CC: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP @ EOP [ OPD 1
+READ:UNKNOWN
+
+TEXT:
+Apologies in advance --- what you're about to read is somewhat long and
+complicated, but we really want your feedback!
+Over the last several weeks, HHS and DOL, prompted largely by OMB and us,
+have begun to work more closely together on developing a coordinated
+approach to WtW evaluation and data collection.  This has resulted in a
+much improved evaluation strategy, for which HHS is ready to issue an
+RFP.  However, the agencies are at an impasse on one, particular issue
+related to data collection (see below).  HHS needs to issue the evaluation
+RFP by tomorrow in order to get the money out the door by the end of the
+fiscal year.  OMB has used their control over the evaluation funds to
+force his coordination and is not inclined to let the RFP go until
+agreement is reached on data collection. We want to get your reaction to
+the data collection issue in hopes that we can weigh in to push this issue
+forward.  Barbara Chow has a call set up with Olivia (and we think Ray
+Uhalde) tomorrow at 11.
+
+Background
+The BBA gives DOL responsibility for administering the WTW program, but
+gives HHS responsibility for evaluation and data collection on
+participants.  The $3 billion provided through WTW are split 75/25 between
+formula and competitive grants.
+Formula grants are disbursed to states,' which in turn allocate 85 percent
+of funds by formula to PICs who administer the programs locally in
+consultation with the Governor.
+competitive grants are awarded directly to PICs, political subdivisions of
+states, and other private entities who must apply in conjunction with PICs
+and in consultation with the Governor.
+
+The current dispute concerns which department has the authority and
+responsibility for data collection on competitive grantees. The statute
+clearly gives DOL authority to collect financi'al data from both formula
+and competitive grantees.
+
+What data is to be collected?
+There is general agreement that neither the WtW data collection
+requirements, nor their interaction with the TANF data collection, were
+carefully thought through in drafting the WtW part of BBA.   The WtW law
+listed four types of individual participant level information to be
+collected for WtW participants (basically about WtW activities, costs,
+
+
+what kind of 'employment they got, and wage levels).  However, this got
+embedded in the overall TANF data collection section (the infamous section
+411(a) that lists 17 types of information required from states on TANF
+participants, which has now mushroomed into the 160+ that we've heard so
+much about) .                 '
+
+There is also 'a general sense that we do not really need to know all the
+TANF information about the WtW grantees. particularly the competitive
+grantees. However, OMB and DOL are assuming we can't do anything about
+this without a legislative fix.   HHS believes we might be able to, if we
+accept their interpretation of the legal argument below. We think it is
+definitely work considering a way to pare back the data collection for
+competitive grantees if there is a way to do that within current law and
+without causing an explosion on the Hill (OMB has pushed to resolve this
+internally before going to the Hill). While a legislative clean up on the
+data issues may be useful, it could also put us in an awkward position in
+terms of reopening the TANF data collection issues.
+
+What is the argument?
+Section 411(a) opens by saying:
+"Each eligible State shall collect on a monthly basis, and report to the
+Secretary on a quarterly basis, the following disaggregated case record
+information on the families receiving assistance under the State program
+funded under this part:" then goes on to list 17 types of information.
+WtW added as #18, "With respect to families participating in a program
+operated with funds provided under section 403 (a) (5) [WtW) " and goes on to
+list 4 types of information,
+
+HHS argues that competitive grants are not part of the "state programs
+funded under this part" and therefore, HHS cannot require the states to
+gather data from the competitive grantees. This interpretatfon also leads
+them to believe that 411(a) does not even apply to the competitive
+grantees. DOL argues that the state program implies the entire WtW
+program--both formula and competitive. We have asked Rob Weiner to look
+at these two conflicting interpretations. OMB feels strongly that we
+should treat competitive and formula grantees the same.
+
+Options
+1) The main option under consideration, and preferred by OMB,   is to have
+formula and competitive grantees in each state submit WtW participant data
+(4 items) to a state ageny designated by the governor, who would then
+merge this data with TANF data to extract the other 17 items (160
+elements) on these participants   (it's worth noting that this merge will
+not be simple or clean for a variety of reasons). This state agency
+(either'workforce or welfare) would then submit rolled up data to HHS.
+This relieves the WtW grantees from having to collect all the,additional
+TANF data and relieves HHS from having to roll up data from hundreds of
+competitive grantees. However, it shifts the burden to the states who are
+already unhappy about TANF data collection and are not thrilled about the
+WtW structure either. 'HHS does not believe they have the legal authority
+to require states to play this data collection role   (see above) ,  HHS
+also has a more political concern about how states will react to being
+required to collect data from competitive grantees.
+
+While we're waiting to see how Rob Weiner rules on the legal issue, we
+also think the political concern is worth considering seriously.  Is the
+cost/pain of imposing these data requirements on states and competitive
+grantees worth it--do we really need to know all the TANF information
+about the competitive grantees?                ...
+
+
+2) A possible alternative would be to collect only a subset of the 17 TANF
+data items, along with the 4 WtW items, from competitive grantees.
+Potentially this could be done by accepting HHS' interpretation that
+411(a) does not apply to the competitive grantees, but DOL still has
+authority to ask them for any reasonable -information as a condition of
+getting a grant.   HHS would say they still don't have authority to compel
+states to collect and merge the WtW data from competitive grantees.
+However, we could give states the option to do this.   If they refused,
+then the competitive grantees would submit directly to either HHS or DOL
+HHS will also say they don't have the resources to collect information
+directly from the competitive grantees.
+
+One possible sweetner is to offer technical assistance to the competitive
+grantees to help them gather and submit the data--either to states or the
+feds.  Perhaps DOL or HHS could hire a contractor to do this, using-WtW
+evaluation funds or some of the competitive grant money.
+
+It would be helpful to have your general reaction to the following:
+1. How important is it to treat competitive and formula grantees alike?
+2. How important is it to collect all TANF data elements on WtW grantees?
+(barring a legislative fix, there is less flexibility to pare these back
+for formula grantees than for competitive grantees)
+3. What do you think about a future legislative fix that tries to
+rationalize the data collection for WtW grantees (both competitive and
+formula)?
+4. How much do we want to ask the states to do in terms of merging and
+submitting data for competitive grantees? (OMB, HHS, and DOL agree that
+under Option 1 above we would/could ask them to do this for formula
+grantees)
+5. Would it be OK to check with Hill on intent and whether they have any
+strong feelings about various approaches?
+6.  Finally, would you support asking OMB to let HHS to release the
+evaluation RFP tomorrow even while some of the data collection issues are
+being resolved?
+
+

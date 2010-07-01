@@ -1,0 +1,85 @@
+ RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+ CREATOR: Michael Cohen ( CN=Michael Cohen/OU=OPD/O=EOP [ OPD ] )
+
+ CREATION DATE/TIME:11-JUN-1998 19:12:07.00
+
+ SUBJECT:   NATIONAL TEST--IMPORTANT
+
+ TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+ READ: UNKNOWN
+
+ TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ] )
+ READ: UNKNOWN
+
+ David_Frank ( David Frank @ ed.gov @ inet    [ UNKNOWN]   )
+ READ: UNKNOWN
+
+ TEXT:
+ Today the National Academy of Sciences is releasing an interim report on a
+ study called for in the Goodling compromise last year.   Its good news for
+ us.   It concludes that Goodling's idea, of using statistical techniques to
+ compare student achievement even though the students have taken different
+ state or commercial tests, is not technically feasible.   There's no way to
+ measure student performance against national standards other than our test.
+
+ Attached is a Q&A for this for tomorrow for your review.
+
+ Should we also do a statement for the press office to release--something
+ about how we agreed with Goodling last year to have this study done and be
+ guided by the results--now we h~ve the results and the independent
+ bipartisan NAGB needs to get on with test development, without delay and
+ without Congress playing politics with this important issue.
+
+ Let me know how you want to proceed.
+
+ ==================== ATTACHMENT   1 ====================
+ ATT CREATION TIME/DATE:   0 00:00:00.00
+
+ TEXT:
+ Unable to convert ARMS_EXT: [ATTACH.D4] MAIL44215526R. 126 to ASCII,
+  The following is a HEX DUMP:
+
+ FF5750433A040000010A020100000002050000000EOC000000020000048149182920450747EE7E
+ 25A951DD9BA84F21469F80AD41001B0056BB082B4D21777BOCA6ECA5DBD4B70388EE1FCD1C3E3B
+ E29B9F13198509COF584E806608365843065A135D993AE1FA40424708BDBB4C31E49BF820D2F3F
+ AF326D55557F3677EFB19631A2661E7FOAD300C0941C439C8E7FE193CD8BE227862053D327223B
+ 805DB6D751F98F685E2009C478CBDB4AOCCOEB7A6134832FC288AF3BB8421896E2460FFD9F7305
+ 01D768EF8C7DB32146E35E6EAF5E7DB6397E9C8D0176F38AFF50FA3EDEE3C63C1E8519D69FAF94
+ 290129167DB9AF8AF9DBA251A8B240141D3AOCFFB5507F8FBOA8A68A48FAD089F7E8938BA6F1A4
+ OA9CAC87283EB254DFDB7B2C1EEF9250E6D9AADAC82D6A6501F8E169D448458BA6CD5468AB68EE
+ F19CCFE09A07840AC96B2D3B6407DE9FOD8FC19E79509E37604A326CB1B72FEC36F60CF7A3C48C
+ E458DEC5A1C3A08D2EF25F2CD70AD1BEF3COD9953E5D9794917447506DE85DFDFBFOFA103E3F6B
+ 8096E3896E052204F263E5BA741F586B09DBA7D5F5FCE5A6ADD98CBD887074ADDA2DAA069FBC59
+ 8DCAF1D34216D6AFE07CB8F43CC1656CCA51ABAOA22544A4B8B31AOD970CC32D7A812E56C1141F
+ 88D445279D74C609709EE5DC8273FOA278E275A4152E7A300903290369FA6428E333C153FE7FA9
+ 98D70C1A4002000800000000000000000000000823010000000B01000070020000005501000000
+ 4E0000007B03000009250100000006000000C903000008770100000040000000CF030000083401
+ 000000140000000F0400000802010000000F000000230400000805010000000800000032040000
+ 00984C006F00630061006C0020005000720069006E007400650072000000000000000000000000
+ 000000000000000000000000000000000000000000000000000000000000000000000000005749
+                                                                   Hex-Dump Conversion
+Q.   The National Academy of Sciences released a study today on national testing,
+     concluding that Mr. Goodling's proposal to compare student achievement by using
+     existing state and commercial tests is unworkable. What is the President's reaction
+     to this study?
+
+     Background: In last year's compromise on national testing, we agreed to a Goodling
+     proposal for the National Academy of Sciences to determine if the achievement of
+     students from different states and cities, as measured by different state or commercial
+     tests, could be compared by statistically related the different tests to each other.
+     Presumably, if this could be done, there would be no need to develop a new national test,
+     as the President had proposed. The NAS is releasing an interim report of this study
+     today, which concludes that Mr. Goodling's approach is not feasible.
+
+A.   The study's conclusions clearly show that work on developing voluntary national tests
+     must continue. Last fall the President and Mr. Goodling agreed to have this study
+     conducted, and agreed that the results should inform Congressional action on national
+     testing. Now we have the results, and they show conclusively that if we want to know
+     how well students are performing compared tp rigorous and widely accepted national
+     standards, then we simply cannot rely on existing tests. Work on the voluntary national
+     tests in 4th grade reading and 8th grade math is proceeding under the authority of the
+     independent, bipartisan National Assessment Governing Board. It is clear that this work
+     must continue, without delay and without interference.
+
+

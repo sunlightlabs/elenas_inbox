@@ -1,0 +1,135 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP [ OPD ) )
+
+CREATION DATE/TIME: 2-APR-1997 12:56:01.00
+
+SUBJECT:   Comments on CEA whitepaper actually sent -- with some suggested revisions
+
+TO: Diana Fortuna ( CN=Diana Fortuna/OU=OPD/O=EOP @ EOP [ OPD )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ) )
+READ: UNKNOWN
+
+TO: Lyn A. Hogan ( CN=Lyn A. Hogan/OU=OPD/O=EOP @ EOP [ OPD ) )
+READ:UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ) )
+READ: UNKNOWN
+
+TEXT:
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D88)MAIL439564199.016 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504364030000010A02010000000205000000EC1400000002000016A48A9C7564D3C1E47F18
+E635C1D5A6C9BBC3C9FE87601CB22A326845DF6CFC22DC67A4836306C588E8B4315FDEC2AC42E3
+OC82D4D2561D55C7B50314B9F06A9AFBAE590D9A67DF505CD5DAE709209EFA93986075A22F0476
+8E461C3BE93904D86F8A5A03DD09624EB3B0412DAC1063896A177D2DCC85271434B2203AC3B9DE
+8661AFAE29024153859998FF7F3F029466A136DD18ABD84407A5DODB21C551F7244B9F39B5042D
+D110063CF9D6DOD6E5A8D5FD2E40FDFOEF18835A47250F6EF8CA585C9F372399AD5677247389F7
+B17D33103174BA635012F084AB0781D28296F4A11CDC5709F3AC3A5F1031B1B141E5597C40E639
+5C239057F536665CCOAF71BE08BDAFB86C58E37048933099048F2388D44C4D8A4C5814E002D350
+C7C069A95772FFFD74980C58695016F1DAAEE1A2108D086EA1F3EOFD25F61AA8ABE8AC1C5F249B
+C6C887EF077A98295CA50D91D170A566B10B66D49F380342FC3790C4B34AAFBA4109DODAEE751A
+E5CF1F3053A813FB6E3B895B47C1455D6C89F3A72AE4FD899B05FBAF56FE7934CAEEAAOE201DD2
+27E19BF845D6E73EFA4689E8D09CA60E021053C69B7DA3218BB8369D43AA68903F3F106D80E82E
+07BB9AE8F657847714706ED338607A984D17A7C5260F57730C39974B62A4CC107BC7BA5C2015A7
+EC7EE8D6AD02000800000000000000000000000055010000004EOOO00070020000092501000000
+06000000BE02000008020100000010000000C40200000B300200000034000000D4020000080501
+000000080000000803000008770100000040000000100300000834010000001400000050030000
+2800D61EC30F3908000011090000005AOOOB01008B143600540069006D006500730020004E0065
+007700200052006F006D0061006E00200052006500670075006COO610072000000000000000000
+01000100580208337C00510000020000620000000100010000000400280000000COOOOOOOOOOOO
+0000000000000000000112A4542400A1000000A1000000D3050COO00010000000COOD301000400
+020000000A000000590001000B005A00010002005B00010045005C00030002005D0002007B035E
+00020002005F00030013006000010017006100010002006200010044008AAB8122000000000000
+00000000000000000000DDOA1000830104000300A454211000DDD3050C0000010000000COOD3DD
+OBOB00030000040BOODD9BD3050C0000010002000COOD3CCCC417072696C80322C8031393937CC
+D3050C0000010000020COOD3CCCCCC4D454D4F52414E44554D80464F523A808080E0110COOOOOO
+00100EOCOOE05048494C804C4556494E452C804D494348454C45804A4F4C494ED0041500000BOO
+090001380A8805060001201500DOCC46524F4D3AE0110COOOOOOOO60090COOEOE0110COOOOOOOO
+B80BOCOOEOE0110C00000000100EOCOOE043594E544849418052494345802836843238343629DO
+041500000B00090001100C6007080001201500DOCC5355424A4543543AE0110C0000000060090C
+00EOE0110COOOOOOOOB80BOCOOEOE0110C00000000100EOCOOE057484954455041504552804F4E
+8057454C4641524580434153454C4F414453D0041500000B00090001E80D38090A0001201500DO
+CC43433AE0110C0000000008070COOEOE0110C0000000060090COOEOE0110COOOOOOOOB80BOCOO
+                                                                             Hex-Dump Conversion
+                                           April 2, 1997
+
+
+
+MEMORANDUM FOR:               PHIL LEVINE, MICHELE JOLIN
+
+FROM:                         CYNTHIA RICE (6-2846)
+
+SUBJECT:                      WHITEP APER ON WELFARE CASELOADS
+
+CC:                           BRUCE REED, ELENA KAGAN, LYN HOGAN
+
+         We appreciate the opportunity to comment on the draft whitepaper on welfare caseloads.
+Below are comments, both general and specific. Please let me know if more detailed comments,
+in the text itself, would be helpful.
+
+Release of Report
+
+        Since caseload numbers for January 1997 will soon be available, we would like you to
+hold the release of the whitepaper so the two can be released together. The January 1997
+numbers, which will show the caseload change during the Administration's first four years, will
+probably generate a fair amount of interest, and it seems to us to make sense to release the
+explanation of why caseloads have declined along with the latest data.
+
+Model
+
+        We believe that the model, as constructed, may exaggerate the effect of the economy
+relative to policy initiatives. Specifically, the model leaves out certain policy initiatives which
+may correlate with a good economy or which could help explain some of the "unexplained" 26%.
+  For example, there have been large increases in Earned Income Tax Credit, child support
+collections, and overall (federal plus state) child care spending since 1993, all of which helped
+encourage people to leave the welfare rolls.
+
+       In general, the paper doesn't explain well why there is a 26% "unexplained" portion.
+Could the fact that you counted only state-wide waivers have increased the "noise" in the model?
+ We think the paper should discuss some obvious suspects, like public attention to welfare
+reform because of national and state debates, EITC, child care, etc.
+
+
+
+
+                                                              Automated Records Management System
+Description                                                           Hex-Dump Conversion
+
+        The discussion of "advanced responses" of the waivers (p. 5 and 10) misses an important
+point -- in order to apply for and obtain a waiver, states had to have a plan endorsed by their
+legislatures. Thus, a state like New Jersey had already passed a state law calling for the changes
+before it obtained the necessary waivers. The debate and passage of the new laws usually would
+get a lot of publicity, and there was little public recognition that the laws would not be
+implemented until the federal government gave permission. Thus the "advance response" isn't
+as much of a mystery as you imply. Similarly, the attention to welfare reform given during and
+immediately after the welfare bill signing seems to in and of itself contributed to a decrease in
+caseloads.
+
+        Also, speculating about the effects of the new law ("Implications for Welfare Reform"
+section) is outside the scope of the analysis and does not fit comfortably in an Administration
+document. It should be dropped.
+
+Data Used in Report
+
+         Because of the parameters of the analysis, the whitepaper uses some data that is different
+than those commonly cited by the Administration. For example, the paper examines only 35
+statewide waivers, while the Administration has repeatedly cited the fact that it has given waivers
+to 43 states. Also, the whitepaper uses decline in the percentage of the population on welfare
+through September 1996, while we are about to release data re: the percentage decline in the
+case load through January 1997. I think the paper should refer to the more commonly used
+statistics at least once to help claritY potential confusion.
+
+        Also, rounding is applied inconsistently, making 42% into "almost half" but 32% into
+"almost a third." 42% seems a lot closer to two-fifth than to one-half. Also, page 5 says "45
+percent" of caseload decline can be attributed to economic growth, and "roughly 30 percent" to
+federal welfare waivers.
+
+

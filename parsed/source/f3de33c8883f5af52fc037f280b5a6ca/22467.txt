@@ -1,0 +1,49 @@
+RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+CREATOR: Heather M. Riley ( CN=Heather M. Riley/OU=WHO/O=EOP [ WHO]    )
+
+CREATION DATE/TIME:25-JAN-1999 16:06:43.00
+
+SUBJECT:   PLEASE CAOME TO JOE'S FOR 4PM MEETING
+
+TO: Stacie Spector ( CN=Stacie Spector/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ:UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ]')
+READ: UNKNOWN
+
+TO: Roger V. Salazar ( CN=Roger V. Salazar/OU=WHO/O=EOP @ EOP [ WHO]       )
+READ: UNKNOWN
+
+TO: JULIE B (Pager) #GOLDBERG ( JULIE B (Pager) #GOLDBERG [ UNKNOWN]       )
+READ: UNKNOWN
+
+TO: DOUG (Pager) #SOSNIK ( DOUG (Pager) #SOSNIK [ UNKNOWN ] )
+READ: UNKNOWN
+
+'TO: Ruby Shamir ( CN=Ruby Shamir/OU=WHO/O=EOP @ EOP [ WHO]   )
+ READ: UNKNOWN
+
+TO: Jake Siewert ( CN=Jake Siewert/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Paul E. Begala ( CN=Paul E. Begala/OU=WHO/O=EOP @ EOP [ WHO]   )
+READ: UNKNOWN
+
+TO: Sarah E. Gegenheimer ( CN=Sarah E. Gegenheimer/OU=WHO/O=EOP @ EOP [ WHO ] )
+READ: UNKNOWN
+
+TEXT:
+Dominique L. Cano/WHO/EOP
+Carolyn T. Wu/WHO/EOP
+Amy Weiss/WHO/EOP
+Barry J. Toiv/WHO/EOP
+Julie B. Goldberg/WHO/EOP
+Roger V. Salazar/WHO/EOP
+Tracy Pakulniewicz/WHO/EOP
+Laura Emmett/WHO/EOP
+Jake Siewert/OPD/EOP
+Stacie Spector/WHO/EOP
+Ruby Shamir/WHO/EOP
+
+

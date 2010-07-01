@@ -1,0 +1,112 @@
+RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+CREATOR: Toby Donenfeld ( CN=Toby Donenfeld/O=OVP [ UNKNOWN]    )
+
+CREATION DATE/TIME:23-MAR-1998 02:57:51.00
+
+SUBJECT:   Draft VP letter to Harkin attached ...
+
+TO: Kay Casstevens ( CN=Kay Casstevens/O=OVP @ OVP [ UNKNOWN]       )
+READ: UNKNOWN
+
+TO: Ron Klain ( CN=Ron Klain/O=OVP @ OVP [ UNKNOWN]    )
+READ: UNKNOWN
+
+TO: Jerold R. Mande ( CN=Jerold R. Mande/OU=OSTP/O=EOP @ EOP [ OSTP ] )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD ] )
+READ: UNKNOWN
+
+TO: Patricia M. Ewing ( CN=Patricia M. Ewing/O=OVP @ OVP [ UNKNOWN]             )
+READ: UNKNOWN
+
+TO: Monica M. Dixon ( CN=Monica M. Dixon/O=OVP @ OVP [ UNKNOWN]             )
+READ: UNKNOWN
+
+TO: Thomas L. Freedman ( CN=Thomas L. Freedman/OU=OPD/O=EOP @ EOP [ OPD ]           )
+READ:UNKNOWN
+
+TO: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP @ EOP     OPD ] )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD ]         )
+READ:UNKNOWN
+
+TEXT:
+Please send me edits you have as soon as possible.    Thanks very much.
+
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D25]MAIL48515218G.026 to ASCII,
+ The following is a HEX DUMP:
+
+FF575043F2040000010A02010000000205000000C2100000000200001FD125DB6A6F98C71A3DCF
+A2C9E76C73E4B15C7COFD4013AADC81D812EEF59EE3C09656B9E2730AA01BC1FE141DDOF9E918F
+61B3683936641C70477C3F7D49D8DAEBB686BCCBB4B093E6B42FC3437DBB54D5889C6ED8BC7F03
+71631CB80ADA020E44681ED5EOBOBF35EE63D79C6A098172470229F32D37B9C56D2CABE3CAl14A
+lBD3269254E06A17EE5AE8F4B5278D0438EA9D03CC6773B7AE66DE57B8324342A3F4BDAF5460D2
+3A94EDE425465B96C309B3EOOAF4EA162641657D137FD2E99BFDEA1744E86676568AA8B12FF953
+F34974A072C760FC7A871F69855C57B541633999C442027B18DE284El17BFA9D89A333961859F5
+AF35FFC07989D6E713D1A02DD8288708295B26988E9326FBDD88C2428753040F3i6B2426C555E4
+52B03BA5535CD754CADC676657BFB971240E214853821248A1E7208OFFE5821D26F5B2D8F88ACE
+C660EE1DC6FD526E66A907E6E2BB28AED1B206A3DDAC9FD4BEB88BO4A766E3F556A08D64BB854A
+273A627FODA72FB5B171ADA57DE7E76923898A785476D8B5E4C7EOA5D984A0079718DC1363Bl0D
+FEB8CF1516F4338B5663C967451FAAA483351EBE2981F310EB3A2335C84FF654F59BDE45E53880
+7A2E2C6CAFD2C9699CB5B78038D2F6F604E71COC5157B90246BCAl805BCA360E4DD954CB822F87
+2A077E4DE902000B00000000000000000000000823010000000BOl00009A020000005504000000
+4EOOOOOOA503000009250100000006000000F30300000B300200000028000000F9030000080501
+                                                                    Automated Records Management Sysfe
+                                                                            Hex-Dump Conversion        m
+
+
+
+
+                                     March 12, 1998
+
+  Senator Tom Harkin
+. Senator John Chafee
+  Senator Bob Graham
+  U.S. Senate
+  Washington, D.C. 20501
+
+
+ Dear Senators Harkin, Chafee and Graham:
+
+         Congratulations on your introduction of the first bipartisan comprehensive bill to
+ drastically reduce youth smoking which encompasses the President's five principles. I regret
+ that I cannot be there with you today as we take another crucial step forward in the fight to
+ protect young people from the addiction and disease of tobacco and the next big step toward
+ writing tough anti-tobacco measures into law.
+
+        We all know that ultimately any successful bill must have broad bipartisan support. I
+ have been pleased to see that support for tough anti-tobacco measures crosses all lines of party
+ and politics. Now, we must seize this historic opportunity, and build on this growing coalition.
+
+         The President and I look forward to working with you and other in the Congress to enact
+ tough anti-tobacco legislation this year. We would like to work with you to ensure that any
+ legislation sent to the President encompasses the five principles he has outlined: (1) a price
+ increase of up to $1.50 per pack and tough penalties if youth smoking reduction targets are
+ not met; (2) reaffirmation of the FDA's authority to regulate tobacco products; (3) changes
+ to the way the industry does business so it will no longer market its products to children;
+ (4) progress toward other public health goals; and (5) protection of tobacco farmers and
+ their communities. Further, we look forward to working with you to ensure that the
+ revenues raised through any tobacco legislation will be invested in programs to benefit our
+ children which the President has outlined.
+
+          The President and I want this Congress to be remembered as the Congress that finally
+ protects our children from nicotine addiction and disease - and gives American the healthy kids
+ and families we deserve.
+
+
+                                     Sincerely,
+
+
+
+    Al Gore
+              Automated Records Management System
+                      Hex-Dump Conversion
+
+

@@ -1,0 +1,191 @@
+RECORD TYPE: PRESIDENTIAL    (NOTES MAIL)
+
+CREATOR: Paul J. Weinstein Jr.        ( CN=Paul J. weinstein Jr.jOU=OPDjO=EOP [ OPD 1 )
+
+CREATION DATEjTIME:1B-DEC-199B 13:32:43.00
+
+SUBJECT:   Revised Green Bonds Proposal
+
+TO: Elizabeth J.Potter ( CN=Elizabeth J. PotterjO=OVP @ OVP [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena KaganjOU=OPDjO=EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Ronald Minsk ( CN=Ronald MinskjOU=OPDjO=EOP @ EOP           [ OPD 1 ).
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. ReedjOU=OPDjO=EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Wesley P. Warren ( CN=Wesley P. Warren/OU=CEQ/O=EOP @ EOP [ CEQ 1 )
+READ: UNKNOWN
+
+TO: David W. Beier ( CN=David W. Beier/O=OVP @ OVP [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Jonathan Orszag ( CN=Jonathan Orszag/OU=OPDjO=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Pieter J. Boelhouwer ( CN=pieter J. Boelhouwer/O=OVP @ OVP [ UNKNOWN 1 )
+READ: UNKNOWN
+
+TO: Bradley M. Campbell   ( CN=Bradley M. Campbell/OU=CEQ/O=EOP @ EOP [ CEQ 1 )
+READ: UNKNOWN
+
+CC: Neera Tanden ( CN=Neera Tanden/OU=WHO/O=EOP [ WHO 1 )
+READ: UNKNOWN
+
+CC: Wilson. reid ( Wilson. reid   @   epamail.epa.gov   @   inet [ UNKNOWN 1 )
+READ:UNKNOWN
+
+CC: Bruce.davie ( Bruce.davie @ treas.sprint.com @ inet [UNKNOWN 1 )
+READ: UNKNOWN
+
+CC: Elwood Holstein ( CN=Elwood Holstein/OU=OMB/O=EOP @ EOP [ OMB            1 )
+READ: UNKNOWN
+
+CC: Leonard.Burman ( Leonard.Burman @ treas.sprint.com @ inet [ UNKNOWN 1 )
+READ: UNKNOWN
+
+CC: David A. Bernell ( CN=David A. Bernell/OU=OMB/O=EOP @ EOP [ OMB 1 )
+READ:UNKNOWN
+
+CC: mark.mazur ( mark.mazur @ hq.doe.gov @ inet [ UNKNOWN 1 )
+READ:UNKNOWN
+
+TEXT:
+This is the most recent long version of the green bonds proposal.             Please
+disregard earlier versions.
+
+
+==================== ATTACHMENT 1 ====================
+ATT CREATION TIME/DATE:   o 00:00:00.00
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D94]MAIL46825465D.326 to ASCII,
+ The following is a HEX DUMP:
+
+FF57504344080000010A02010000000205000000EE2F0000000200OOl08E78FAOFE7A66C5A72D7
+2B18B018866D927C54937D1A9F5FDF25A1B3E6E84E977C161B05FA5551D57487930A1FA03E62B9
+08AOE8456113E75C85EE06A4D62CB75FDFEA6431B54117C7A9AE525053FCA259EA67287D60A270
+D8E8A829039EC82B0183F767B35A378429D680D92C8947D3CC80E5FOE85D8F5B124AD20DC47652
+7B38A99AOFD8110C3263895E3A2E82CA52DOF9710097BB8E786EA2CECB10424FF1F95C868B464F
+                                                                        draft 12/18/98
+
+        This proposal recommends the creation of a new financing mechanism -- Livable
+and Clean Communities Bonds (LCCBs) -- to raise funds to finance environment-related
+public projects. Modeled on the school construction proposal, this bond initiative would
+provide new resources to local and state governments seeking to preserve open space,
+cleanup and redevelop brownfield sites, and restore community parks and important
+historic civic spaces. Like qualified zone academy bonds, this program would allow state
+and local governments to issue zero interest bonds to lenders who could claim a tax credit
+for the life of the bond in lieu ofinterest. The issue makes no principal or interest payments
+on the bond until maturity (13 years). The overall program would be capped at xx million
+annually over five years. [Note: requiring the issuer to pay some amount of interest would
+increase the amount of bonds that could be issued for the stated revenue cost; the maturity
+could be extended to 15 or 20 years to stretch out the time the issuer has to raise funds to
+payoff the bonds).
+
+        Sprawl and efforts to manage it -- loosely termed smart-growth -- are quickly
+emerging as a national issue. Over 75 percent of the 224 "livable communities" ballot
+measures voted on in the 1998 elections were passed. Many of these initi!ltives, such as the
+"Clean Michigan Bond Proposal", included funding for bonds to promote more livable
+communities and protect open space. This continued the trend of support for such bonds that
+has increased dramatically through the 1990s.
+
+       The availability of LCCBs would encourage actions that recognize the relationship
+between land conservation and clean water, and development. (As an aside, note that 70 of
+the Nation's 75 largest cities were founded on a significant body of water.) LCCBs would
+be available to finance projects that create environmental amenities in urban, suburban,
+and rural areas that would encourage long-term economic investment (providing the
+long-term benefit of job creation), enhance the quality of the local environment, and
+provide an attractive and functional setting for urban revitalization.
+
+       The allocation of the limited amount of LCBS issuance authority would be made
+through an open competition, with State and local governments submitting plans for use of
+the bond proceeds to an inter-agency evaluation panel, chaired by EPA in consultation
+with the Departments of the Interior, Housing and Urban Development, Agriculture, and
+Treasury. The pool of available bond issuance authority would be divided in half, with
+one part reserved for a competition among the Nation's 100 largest cities and the other part
+reserved for a competition among the fifty States (the States, of course, could then use the
+bond proceeds to support projects sponsored by local governments). This division would
+ensure that large cities, particularly those with many environmentally impaired
+neighborhoods, will receive appropriate attention and treatment in the allocation process.
+The annual competition among cities would ensure that the bonds went to support plans
+that best met the goals of promoting livable and clean communities while promoting job
+creation and business development. Additional preference would be given to those cities
+
+
+                                                       Automated Records Management System
+                                                       Hex-Dump Conversion
+communities. EPA would monitor compliance with the plans.
+       The portion of bond authority competitively awarded to the States would be
+administered by State environmental agencies and distributed among local communities
+according to the submitted plans that indicated how the bond issuance would support
+environmental improvement projects. Like the competition among cities, the plans selected
+would be those best meeting the goals of promoting livable and clean communities while
+promoting job creation and business development. Additional preference would be given
+to those states whose applications focused on sustainability and metropolitan planning and
+coordination. Again, EPA would monitor compliance with the plans.
+
+        The green bonds proposal would encompass both public, governmental activities and
+private activities that promise substantial public benefits. The virtue of a mechanism that
+encompasses activities from both the private and public sectors is largely one of efficiency and
+efficacy. For example, the cost to a developer of adding an environmental amenity with
+significant public benefits (e.g., extra pollution control features) may be far less than if a
+government entity had to implement the same measure independently at a subsequent time.
+Similarly, the total environmental benefits from a concerted strategy featuring actions by private
+companies and local governments could easily be far greater than the benefits if each took
+independent action.
+
+        To allow greater flexibility to localities in electing betWeen private or public approaches
+to the same "green infrastructure", public entities would be permitted to use the new bonding
+authority to capitalize revolving funds that in tum could be used by private entities meeting the
+qualified use definitions. This would help ease the understandably daunting enforcement burden
+identified by the Internal Revenue Service. In addition, projects would be certified as being in
+compliance with the plan and other legal requirements by the State environmental agency.
+
+        A requirement for green bond issuance would be that 95 percenl of the proceeds from sale
+of the bonds must be used for the purposes outlined in this proposal and in accordance with the
+plans submitted by the qualified applicants within 3 years of issuance of the bonds.
+Administrative expenses would not be considered in meeting this 95 percent test.
+
+       Under the proposal, a menu of projects would be eligible for assistance. Projects
+available for assistance would include:
+
+- Open Space (Including Farmlands and Wetlands) -- Governmental acquisition or conservation
+of open space, including parks, important historic civic spaces, and wetlands. Governmental
+acquisition or the facilitation by private, non-profit enterprises of qualified easements to preserve
+these open spaces would be included as an eligible activity. Over the life ofthe bonds, the
+property must remain an open space -- no change in use would be permitted;
+
+-Water Pollution -- Eligible activities would include the following: (1) Government-initiated
+passive infrastructure to control polluted runoff, such as settling ponds, and greenways
+(specifically, this. would not include capital-intensive treatment plants funded under other
+
+                                                              Automated Records Management System
+                                                              Hex-Dump Conversion
+     mechanisms); (2) Enhancements to private development projects that add significant pollution
+     runoff control features (again, this would not include capital-intensive treatment plants funded
+     under other mechanisms); (3) Public resources used to finance water pollution reductions from
+     sources not captured by regulation (e.g. small businesses and farmers);
+
+     · Brownfield Redevelopment. This includes governmental assessment, cleanup, and
+     redevelopment of brownfield sites for community supported parks, playgrounds, open spaces, or
+     for the redevelopment for industrial or commercial enterprises that would reduce sprawl in
+     outlying communities.
+
+     Cost: the revenue cost would be limited to $700 million over 5 years by setting the anriual
+     cap appropriately. This program would permit the issuance of $XXX million of green bonds
+     each year for five years. The present value of the thirteen years worth of tax credits generated
+     issued in each of the five years would be $XXX million, based on a discount rate of AFR + 2 .
+     percent.
+
+
+
+
+                                                              Automated Records M
+                                                              H                 1 anagement System
+                                                               ex-Dump Conversion
+
+

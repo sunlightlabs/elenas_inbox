@@ -1,0 +1,313 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Mary L. Smith ( CN=Mary L. Smith/OU=OPD/O=EOP [ OPD 1 )
+
+CREATION DATE/TIME:19-APR-1998 19:35:21.00
+
+SUBJECT:   Q&A for story on food safety for juice
+
+TO: Thomas L. Freedman ( CN=Thomas L. Freedman/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+TO: Wendy A. Taylor ( CN=wendy A. Taylor/OU=OMB/O=EOP @ EOP [ OMB 1 )
+READ: UNKNOWN
+
+TO: Joseph P. Lockhart ( CN=Joseph P. Lockhart/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD 1 )
+READ: UNKNOWN
+
+CC: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO 1 )
+READ: UNKNOWN
+
+TEXT:
+Here are some Q&A for a story regarding food safety for fruit and
+vegetable juices we expect will run in the Washington Post on Monday.   =============
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D111MAIL41311780M.126 to ASCII,
+ The following is a HEX DUMP:
+
+ FF575043B2120000010A020100000002050000009D5800000002000006CCBD1FED84398A2084FD
+ 90A9400089239A0312489B77FE834A8FB05D5121B918E5EA30BED7B8CB96751D8C6040B2B9B3AA
+.629836FD3C019520165661409C5A7A335E6476D5FD234A3B55A88DA64359F7BA0032F8A1E2D3DD
+ 898D5E4A6FEFFE58103DB4C1830A83ACFF76A56DDDCEC94B06892C1872E9FOA33433B104172BA4
+ D8E1BF4DD4301452C135784D15174692D4E66CF4B0499D65129F0738245A85986AB062478070E4
+ 16DC088FA9488E63E26D2E033365AF44A7C81DEB60D414ABE67A5A21A65D363E7C4AC1BOF34361
+ E96B38B2F08C50855A40DFE6784D0545C89AF2E9B47F4C255128D3594CA4224D2BE06E7717D458
+ 248D437D83D8ECA782D0802C55D1CD839ED4EE2FF068422BB473F6COBE9D770C179D9E43378D25
+ DA98E133C26769C9A474EC1B97C48160C2506495C4A5AFC4BAF55548AE6FD36243AC5156055FBD
+ F58910A63860A013269B8D6CFOD24F5A9A66140B00523B9C5B4C88E060E92A65BF1A8C9285660C
+ 5B1BDCEFA2C26A964D93768FBB7D33BA7B1E4BEB01E6DBD1FOF32AE6AOA39842D524BAC0809708
+ F3F45981399CD72B4D762E203FD6A6051D121F97C63147817AFBF4EAD47974BOOAOCF050F96205
+ 72FA14BFDC7133B8B315DCD772FOC9253FFEDE009C4BB4A32610A948D315C754B0201606FB5ED6
+ F9096D652602002B00000000000000000000000823010000000B0100005A040000005502000000
+ 4E0000006505000009250100000006000000B30500000B300200000028000000B9050000080501
+ 00000008000000E105000008770100000040000000E90500000834010000001400000029060000
+ 0802010000000F0000003D0600000055010000004E0000004C0600000B30020000004A0000009A
+ 06000000090100000006000000E40600000B300200000054000000EA0600000B30020000005EOO
+ 00003E0700000B3002000000680000009C0700000B300200000072000000040800000B30020000
+ 007C000000760800000B300200000086000000F20800000B300200000090000000780900000931
+ 0100000075000000080A0000006600000100020000007DOAOOOOOB30010000006E0000007FOAOO
+ 000B300100000028000000EDOA000000610000010014000000150B000000000000000000000000
+ 150B000000000000000000000000150BOOOOOOOOOOOOOOOOOOOOOO00150BOOOOOOOOOOOOOOOOOO
+ 000000150B000000000000000000000000150BOOOOOOOOOOOOOOOO00000000150BOOOOOOOOOOOO
+ 000000000000150B000000000000000000000000150BOOOOOOOOOO00000000000000150BOOOOOO
+                                                                 Hex-Dump Conversion
+
+      QUESTIONS AND ANSWERS ON PROPOSED JUICE REGULATIONS
+                          April 20, 1997
+
+
+Q:   What is the Administration announcing with regard to food safety?
+
+A:   The Clinton Administration will announce two proposed regulations by the Food and
+     Drug Administration (FDA) to improve the safety of fruit and vegetable juices. The first
+     would require that all fruit and vegetable juice processors implement a Hazard Analysis
+     and Critical Control Point (HACCP) system for their products to protect the public from
+     health hazards. Retailers of packaged juice, including processors who sell less than
+     40,000 gallons of fresh juice per year, would be exempt from HACCP but would instead
+     be required to place warning labels on their products. The second proposed rule would
+     require packaged untreated juice to be labeled with a warning statement advising
+     consumers of the potential risks of juice that has not been processed to eliminate
+     dangerous bacteria. Retail sellers of juice for consumption on-site -- such as restaurants,
+     juice bars, and children's lemonade stands -- will be exempt from this labeling
+     requirement. However, retailer processors who package untreated juice for consumption
+     off-site -- such as grocery stores that squeeze and bottle juice for home use -- will be
+     required to label.
+
+Q:   What effect will these regulations have?
+
+A:   Processors of fresh, unpasteurized juices would be required to take extra steps to reduce
+     the numbers of microorganisms that may be in their products to an arnount roughly
+     equivalent to that achieved by pasteurization. The proposed HACCP regulation does not
+     prescribe what these steps must be, allowing the processor the flexibility to choose a
+     technique that fits into his process and is effective. Prior to having a HACCP program in
+     place, processors who do not pasteurize or use a comparable process would be required to
+     include a warning statement on their label. Retailers of packaged fresh juice, including
+     those who sell less than 40,000 gallons of fresh juice per year, would be exempt from
+     HACCP but would instead be required to place warning labels on their products. Retail
+     processors selling juice that is consumed on-site would be exempt from this labeling
+     requirement. Examples of these types of processors include restaurants, juice bars, and
+     children's lemonade stands.
+
+     Consumers would expect to see labels on juice products that give them important
+     infonnation about the product. If the juice has not undergone pasteurization or a
+     comparable treatment, a consumer would see a warning statement such as: "WARNING:
+     This product has not been pasteurized and, therefore, may contain harmful bacteria that
+     can cause serious illness in children, the elderly, and persons with weakened immune
+     systems."
+
+
+
+                                              1
+                                                            Hex-Dump Conve:sion .
+
+Q:   When will these regulations become effective? How will these regulations affect
+     this juice season?
+
+A:   It is proposed that the HACCP regulation become effective one year after publication of
+     the final rule with a two or three year phase-in period for small and very small businesses.
+      FDA is asking for comment on the appropriate length of the phase-in period. Under the
+     proposal, these processors would be required to label until they implement HACCP.
+     Implementing a HACCP program requires planning, training of personnel, and possibly
+     the purchase of new equipment by producers. For these reasons, it is not feasible to
+     make the rules effective for the next cider season.
+
+     FDA plans to have the labeling regulation in place by September of this year, in time for
+     the 1998 cider season. Because ofthe short effective date, FDA has proposed allowing
+     flexibility in how the warning statement appears. While FDA intends to require that the
+     warning statement appear on the label of the product itself, we are proposing a phase-in
+     period until January 1, 2000 (January 1, 2001 for small businesses) during which the
+     statement can appear on placards, signs, or other point-of-purchase materials so long as
+     such labeling is prominent enough to effectively inform consumers.
+
+Q:   How much juice is expected to be pasteurized as a result of the proposed rules?
+
+A:   Currently, about 98 percent of all juice sold in the United States is pasteurized.
+     However, it is expected that up to 40 million additional gallons of juice will be
+     pasteurized as the result ofthese proposed rules.
+
+Q:   What is HACCP?
+
+A:   HACCP stands for Hazard Analysis and Critical Control Point system. It is a
+     systematic approach to the identification, assessment, and prevention of all types of risk --
+     biological, chemical, and physical -- that may occur in a food production process or
+     practice. When implementing a HACCP system, a food producer develops a plan that
+     anticipates and identifies the points in the production process where a failure to control
+     the process would likely result in contamination of the food. HACCP is regarded as the
+     state-of-the-art means to ensure the safety and integrity of the food supply.
+
+Q:   Has HACCP been successfully implemented for other foods?
+
+A:   Yes, HACCP is currently being implemented in the seafood, meat and poultry production
+     industries. Also FDA's low-acid canned food regulations, which have been in place
+     since the 1970s, are HACCP-based regulations.
+
+Q:   Are juices safe?
+
+
+
+                                               2
+                                                          Hex-Dump Conversion ·
+
+A:   Juice products, in general, are safe and nutritious foods. Currently, about 98 percent of
+     juice sold in the United States is pasteurized. However, the growing record of consumer
+     illness in recent years demonstrates that a problem exists that must be dealt with,
+     particularly in unpasteurized products. FDA's proposals are developed to reduce the
+     potential for foodbome illness and assure that consumers can continue to rely on safe
+     juice products. Unfortunately, we do not know the actual number of juice-related
+     illnesses because these types of illness are underreported.. Individuals may not
+     experience all of the symptoms or have severe enough symptoms to seek medical
+     attention. Additionally, medical personnel may simply treat the symptoms without
+     determining the underlying cause. FDA expects that these proposals, when
+     implemented, will reduce the number of illnesses significantly.
+
+Q:   What are the problems with juices that are being addressed in the proposed
+     regulations?
+
+A:   The proposed regulations will cover a wide range of hazards that may result in foodbome
+     illness, including microbial, chemical, and physical contamination. During the past
+     several years, outbreaks of foodbome illness have been associated with the consumption
+     of juice and beverages containing juice that have not been pasteurized or otherwise
+     treated to destroy pathogens. In the Fall of 1996, an outbreak of E. coli 0157:H7 from
+     fresh apple juice resulted in 66 illnesses and the death of one child in the western United
+     States and Canada. Other pathogens have also been associated with outbreaks. These
+     include Salmonella and Cryptosporidium in apple cider, Bacillus in orange juice,
+     Salmonella in unpasteurized orange juice and in orange drink, and Vibrio cholerae in
+     coconut milk.
+
+     Illnesses have also been caused by other substances present in juices. Examples include
+     tin leached from the can lining, use of poisonous parts of plants to make the juice, the
+     undeclared presence of food ingredients such as sulfites and FD&C Yellow No.5,
+     residues from improper sanitation procedures, and the presence of glass, or other
+     hazardous materials. Other types of chemical and physical hazards have the potential to
+     cause illness, such as patulin, a toxin that can occur in juice when excessive levels of
+     moldy apples are used in processing, and toxic elements (e.g., lead). The HACCP
+     proposal will cover these types of hazards, as well as microbial contamination.
+
+Q:   Have the problems with juice increased in recent years?
+
+A:   Yes, the incidence of illness associated with consumption of fresh juice products has
+     increased ip. recent years. Some of the microorganisms involved are newly emerging
+     strains such as E. coli 015 7:H7 which has adapted to acidic conditions in foods such as
+     juices and Cryptosporidium .
+
+Q:   How risky is juice compared to other foods?
+
+
+                                              3
+                                                                 HtJK·Dump Convci:sion
+A:   All foods have the potential to be contaminated with a microbial, chemical, or physical
+     hazard that can cause illness or injury, so, it is impossible to make this comparison.
+     Food producers and manufacturers are aware of this and take steps to minimize the
+     opportunity for contamination to occur. Juices, piuticularly those not treated to destroy
+     pathogens, provide a potentially favorable environment for supporting the growth of
+     pathogens. However, juices treated to destroy pathogens are generally safe and
+     nutritious.
+
+Q:   Should children drink unpasteurized juice?
+
+A:   FDA advises consumers that, due to the increased risk of illness from pathogens,
+     unpasteurized juice not be given to children, the elderly, or anyone who has a
+     significantly weakened immune system.
+
+Q:   How much juice is consumed in the United States?
+
+A:   Americans consume approximately 2.3 billion gallons of juice every year. Juice
+     consumption at both ends of the age spectrum is high. Children under 6 years of age
+     drink 16% of the juice consumed and this amount accounts for 50% of their fruit intake.
+     Adults over 59 consume 20% of the juice. Orange juice is by far the most-consumed
+     juice at 1.4 billion gallons annually. Other popular juices with American consumers are
+     apple juice (166 million gallons), grapefruit juice (166 million), pineapple juice (91
+     million), tomato and other vegetable juices (78 million), and grape juice (75 million).
+
+Q:   How many juice processors are there?
+
+A:   There are approximately 3,000 juice processors in the U.S.
+
+Q:   Are aU juices covered by the regulations?
+
+A:   The labeling proposal affects only those packaged juices that have not been pasteurized or
+     otherwise treated to eliminate pathogens. In other words, only packaged, untreated
+     juices will have to bear a warning statement. Juices processed, sold, and consumed in
+     restaurants and similar retail establishments do not require this labeling. All retailers,
+     however, including restaurants as well as producers who sell less than 40,000 gallons of
+     fresh juice per year, would be exempt from HACCP.
+
+Q:   Would the proposed rules apply to imported juice products?
+
+A:   The rules would apply to all juice products sold in interstate commerce, including all
+     imported juice products.
+
+Q:   How do the juice regulations fit into the President's Food Safety Initiative?
+
+
+                                              4
+                                                          AutomatdB RM(JrdG Management SY5tcm
+                                                                  Hex,tJurnp CotlVGtsion
+
+     A:   When President Clinton announced the Food Safety Initiative, HACCP rules for seafood
+          and for meat and poultry were highlighted as an important part of improving the food
+          safety system in this country. Expanding HACCP to other appropriate foods, particularly
+          juice, was one of the key goals. In fact, the President noted when introducing the Food
+          Safety Initiative in his radio address on January 25, 1997, that no parent should have to be
+          concerned about the juice they pour for their child at breakfast.
+
+     Q:   What steps is the Administration taking to improve food safety?
+
+     A:   Last year we launched a new Presidential food safety initiative, and added more than $40
+          million to the FY '98 budget. With that money we started putting in place new
+          science-based preventive systems to improve the safety of seafood, meat and poultry and
+          began work on a new early waming system to help detect and respond to outbreaks of
+          foodbome illness. This year, our budget seeks an even more substantial increase in
+          resources, $101 million, to improve food safety. The President's initiative includes:
+          giving FDA authority to prevent the import of produce from countries without safety
+          precautions equivalent to our own; hiring FDA inspectors to improve the safety of our
+          nation's fruits and vegetables, both domestic and imported; developing new ways for
+          federal inspectors to detect food-borne illnesses in meat and poultry and determine the
+          source of contamination; improving educational outreach on proper food handling; and
+          further expanding our early waming system and strengthening state surveillance activities
+          for foodbome illnesses.
+
+     Q:   How will FDA enforce these rules?
+
+     A:   As proposed, FDA will have 'authority to conduct official reviews of all of the records
+          associated with maintaining a HACCP system to ensure that producers are in compliance
+          with the proposed requirements. If a producer is out of compliance or does not have a
+          HACCP program, any product offered for sale by that establishment would be considered
+          adulterated and subject to seizure. If a firm fails to meet the labeling requirement, FDA
+          can take any of several kinds of enforcement actions, including seizing the food.
+
+     Q:   What are the costs ofthe rules?
+
+     A:   The benefits and costs of the rules will be specified in a joint regulatory impact analysis
+          to be published in the Federal Register. However, the benefits overall greatly exceed the
+          costs of the rules.
+
+     Q:   Wiu there be an additional cost to consumers?
+
+     A:   Whether an individual producer chooses to pass on any additional costs is up to that
+          producer. However, an additional cost for juice is a small price to pay for the large
+
+
+                                                   5
+                               Automated Records w.an~get:1ent Sy~tcm
+                                       Hex-Dump Coni/,,: slOn
+
+
+
+
+                           6
+EMAILS RECEIVED
+ARMS - BOX 027 - FOLDER -006
+
+
+[04/20/1998]
+
+

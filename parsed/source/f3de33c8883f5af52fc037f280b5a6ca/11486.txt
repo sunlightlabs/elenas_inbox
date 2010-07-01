@@ -1,0 +1,148 @@
+RECORD TYPE: PRESIDENTIAL   (NOTES MAIL)
+
+CREATOR: Cynthia A. Rice ( CN=Cynthia A. Rice/OU=OPD/O=EOP [ OPD I )
+
+CREATION DATE/TIME: 2-MAR-1999 18:39:45.00
+
+SUBJECT:   Federal tobacco claims
+
+TO: J. Eric Gould ( CN=J. Eric Gould/OU=OPD/O=EOP @ EOP [ OPD I )
+READ: UNKNOWN
+
+TO: Elena Kagan ( CN=Elena Kagan/OU=OPD/O=EOP @ EOP [ OPD I   )
+READ:UNKNOWN
+
+TO: Laura Emmett ( CN=Laura Emmett/OU=WHO/O=EOP @ EOP [ WHO I )
+READ:UNKNOWN
+
+TO: Bruce N. Reed ( CN=Bruce N. Reed/OU=OPD/O=EOP @ EOP [ OPD I )
+READ:UNKNOWN
+
+  CC: Jeanne Lambrew ( CN=Jeanne Lambrew/OU=OPD/O=EOP @ EOP [ OPD I )
+. READ: UNKNOWN
+
+CC: Devorah R. Adler ( CN=Devorah R. Adler/OU=OPD/O=EOP @ EOP [ OPD I )
+READ:UNKNOWN
+
+CC: Christopher C. Jennings ( CN=Christopher C. Jennings/OU=OPO/O=EOP @ EOP [ OPO I
+READ:UNKNOWN
+
+TEXT:
+Here's how we've responded to date to the "how can these be Medicaid
+claims" question
+
+A few additional facts that might be helpful:
+
+The nation's leading expert on tobacco-related costs, Leonard S. Miller of
+the University of California, estimated that tobacco cost Medicaid $13
+billion in 1993 -- far less than the $8 billion a year the states settled
+for.   (The article was published in the March/April 1998 Public Health
+Reports and was cited by CBO in its tobacco analysis last year.   Miller is
+the same expert the states relied upon to provide state estimates that
+formed the basis of their settlement formula) .
+
+The states gave up both state and federal Medicaid claims in exchange for
+the tobacco settlement funds -- the November settlement document releases
+the tobacco companies from all claims that the states "directly,
+indirectly, derivatively, or in any other capacity ever had, now have, or
+hereafter can, shall or may have" against the tobacco companies -- which
+includes Medicaid claims. Thus all states gave up their Medicaid claims
+in exchange for the settlement funds they received.
+
+The Medicaid statute (Title XIX of the Social Security Act)   says:
+
+The state plan must provide that "the State or local agency administering
+such plan will take all reasonable measures to ascertain the legal
+liability of third parties .... that in any case where such a legal
+liability is found to exist after medical assistance has been made
+available on behalf of the individual and where the amount of
+reimbursement the state can reasonably expect to recover exceeds the costs
+of such recovery, the state or local agency will seek reimbursement for
+
+
+such assistance to the extent of such legal lia~ility." (section
+1925 (a) (25) of the Social Security Act)
+"Expenditures for which payments were made to the state under subsection
+(a) shall be treated as an overpayment to the extent that the state or
+local agency administering such plan has been reimbursed for such
+expenditures by a third party pursuant to the provisions of its plan in
+compliance with section 1902 (a) (25) ."  (section 1903 (d) (2) (B) of the
+Social Security Act)
+
+
+
+
+==================== ATTACHMENT   1 ====================
+ATT CREATION TIME/DATE:   0 00:00:00.00
+
+TEXT:
+Unable to convert ARMS_EXT: [ATTACH.D34)MAIL47172856H.036 to ASCII,
+ The following is a HEX DUMP:
+
+FF5750437E040000010A02010000000205000000190C0000000200009F86BD05B393DCCIB48687
+E73B7CF3C8CCB6BDA5229FDDA73D4D187A66C922DEF842AFFDIDF448B628F411C43AB6A41D4703
+12D4382EBEB6F138086419D219945499FAF7C88711CB9C737625E58D9E255FA25D5FB2FD021858
+7E6B56C9D78262B6C2ED39C08B81501359019FC4BA4CF214AAF5681B79D7B6681B6C494F3E235E
+17B117ACE121FC71C89FC5ECB3471DD6EA79FDEDC32ED06382A3B715F8C55849134A4858979A7C
+C4051265FF0233A4C790FCFD961AED2C301D27C3D6C60C874B40F916900BD5205B99727610DB5F
+FIIE2DB5839E16300F150929C765D2100DE4421F85F6EE7504757F13CE472DFF45EIA46E5FOCA4
+45B9C5ABF27081A1EA74BAA24688CIA4FB6281450A11B12393E782B33BBF5CBC5BAD2B4702998B
+037BF37006DF25946CCCEA288068513C89A7DE94B012B91A2BA1CAAODBBF1A4E5B883989C195DE
+512D971BC9EE9CCFD74541E3F2513404C2D4A79829742EE6BBE4BB2E6689C214DECBD6762EFC69
+5DF35583FOB033BC1C2F135A6DIBDA6C79B09865D274F99273791C09483D4DD24FB04E89A97571
+7DFFCE6D40401ABDB6D862B715D954B680EIA7F4445E35E9DD1B35F131679D46753B5825FC9423
+OFAB52FDDF39COBC3247754A3C2B7BDD8297866458EF33AB699FDEF8665731FB3BA0700849C37E
+330670F91202000AOOOOOOOOOOOOOOOOOOOOOOOB23010000000B0100008C020000005501000000
+4E0000009703000009250100000006000000E50300000B300200000028000000EB030000081DOI
+000000000000001304000008770100000040000000130400000B34010000001400000053040000
+0802010000000F0000006704000008050100000008000000760400000098430079006E0074006B
+00690061002700730020004C006F00630061006C0020005000720069006E007400650072000000
+000000000000000000000000000000000000000000000000000057494E53504F4F4COOOOOOOOOO
+C800C8002C012C012C012C01C800C8003000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+0000000000000000000000000000000000000B0100002BOOC8196810480D000011090000005AOO
+OB010000103600540069006D006500730020004E0065007700200052006F006D0061006E002000
+52006500670075006C006100720000000000000000000100020058020100000004002800000000
+000000000000000000000000000000011202002400A1000000AI0000000A00000013010100D380
+140102000200150101000B00160101004400170101000200180102000200190102007B031A0101
+0002001B01010044001COI02005B00069852260000000000000000000000000000000008337COO
+7800000200001C010000030100040002000000DDOA10008301040003000200211000DDDDOBOBOO
+030000040BOODDF1001601F1CCCCCCF1011601F1D3050C0007010002000COOD3F20CF2546F6261
+63636F80616E64804D6564696361696480696E8043616C69666F726E6961D0041500000B000900
+01B0040000000001201500D046656272756172798032322C8031393939FI021401F180504F5455
+53FI031401F1F1001501F1F1021401F184807465616D806C65616465722C806869806C6576656C
+FI0314 0 1F1F1 0 115 0 1F1F10 0 13 01F18 0 84 84 8 044 52414 654F.10 1130 1F1F3 OCF3D0041500 OOOBOO
+090001A005F000010001201500DOD30510000601000002280000001000D3CCCCF20CF2513A80EO
+300C0000000008070COOE0486F7780646F80796F7580616E7377657280476F7665726E6F728047
+726179804461766973277380636F6D6D656E7473B074686174B043616C69666F726E6961B06973
+806E6F74B067657474696E67DOOl1500000B00090001700BC003040001201500D07265696D6275
+                                                                            Hex.[)ump Conversion
+
+                           Tobacco and Medicaid in California
+                               February 22,1999 POTUS
+
+
+Q:   How do you answer Governor Gray Davis's comments that California is not getting
+     reimbursed at all for Medicaid eosts because they took Medicaid out of their suit?
+
+A:   Both the Justice Department and HHS have analyzed the issue of tobacco recoupment
+     carefully and concluded that the settlement is for Medicaid claims.
+
+     First, states have an obligation under Medicaid law to pursue funds owed to the Medicaid
+     program. Thus, states that sued for tobacco-related health costs should have included
+     tobacco-related Medicaid claims in their suits -- as all or almost all did. Moreover, states
+     cannot sue only for state Medicaid costs; they are obliged by Medicaid law to sue for the
+     federal costs at the same time. Since the federal government pays on average 57 percent
+     of Medicaid claims, the states are obliged to share those recoveries with the federal
+     govemment.
+
+     Second, the states gaye up both state and federal Medicaid claims in exchange for the
+     tobacco settlement funds. For example, the November 1998 settlement document
+     releases the tobacco companies from all claims that the states "directly, indirectly,
+     derivatively, or in any other capacity ever had, now have, or hereafter can, shall or may
+     have" against the tobacco companies -- which includes Medicaid claims. Thus all states
+     gave up their Medicaid claims in exchange for the settlement funds they received.
+
+
